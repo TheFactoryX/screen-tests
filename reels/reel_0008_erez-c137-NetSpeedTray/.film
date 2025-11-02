@@ -1,0 +1,24 @@
+{
+  "reel_number": 8,
+  "recorded": "2025-11-02 11:25:14 UTC",
+  "repository": {
+    "full_name": "erez-c137/NetSpeedTray",
+    "url": "https://github.com/erez-c137/NetSpeedTray",
+    "clone_url": "https://github.com/erez-c137/NetSpeedTray.git",
+    "stars": 131,
+    "language": "Python",
+    "size_kb": 1624
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.370231
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 131 stars."
+  }
+}
