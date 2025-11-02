@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #43 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Python · ⭐ 212k | 2025-11-02 |
+| #44 | [electron/electron](https://github.com/electron/electron) | C++ · ⭐ 118k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -110,3 +110,4 @@ Or let GitHub Action run it automatically.
 | 41 | 2025-11-02 22:15:35 | [flutter/flutter](https://github.com/flutter/flutter) | ✅ shallow (173685⭐ Dart) | [reels/reel_0041_flutter-flutter](reels/reel_0041_flutter-flutter) |
 | 42 | 2025-11-02 22:38:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (118680⭐ Python) | [reels/reel_0042_langchain-ai-langchain](reels/reel_0042_langchain-ai-langchain) |
 | 43 | 2025-11-02 22:50:17 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ✅ full (212341⭐ Python) | [reels/reel_0043_TheAlgorithms-Python](reels/reel_0043_TheAlgorithms-Python) |
+| 44 | 2025-11-02 23:15:37 | [electron/electron](https://github.com/electron/electron) | ✅ shallow (118938⭐ C++) | [reels/reel_0044_electron-electron](reels/reel_0044_electron-electron) |

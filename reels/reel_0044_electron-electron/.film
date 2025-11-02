@@ -1,0 +1,24 @@
+{
+  "reel_number": 44,
+  "recorded": "2025-11-02 23:15:37 UTC",
+  "repository": {
+    "full_name": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "clone_url": "https://github.com/electron/electron.git",
+    "stars": 118938,
+    "language": "C++",
+    "size_kb": 182870
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 178,
+    "duration_seconds": 1.249263
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 118938 stars."
+  }
+}
