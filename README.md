@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #24 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Batchfile · ⭐ 154k | 2025-11-02 |
+| #25 | [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces) | JavaScript · ⭐ 288 | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -91,3 +91,4 @@ Or let GitHub Action run it automatically.
 | 22 | 2025-11-02 16:42:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114019⭐ JavaScript) | [reels/reel_0022_open-webui-open-webui](reels/reel_0022_open-webui-open-webui) |
 | 23 | 2025-11-02 16:52:51 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | ✅ readme_only (192297⭐ C++) | [reels/reel_0023_tensorflow-tensorflow](reels/reel_0023_tensorflow-tensorflow) |
 | 24 | 2025-11-02 17:14:07 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ✅ full (154600⭐ Batchfile) | [reels/reel_0024_massgravel-Microsoft-Activation-Scripts](reels/reel_0024_massgravel-Microsoft-Activation-Scripts) |
+| 25 | 2025-11-02 17:30:13 | [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces) | ✅ full (288⭐ JavaScript) | [reels/reel_0025_G-dH-vertical-workspaces](reels/reel_0025_G-dH-vertical-workspaces) |

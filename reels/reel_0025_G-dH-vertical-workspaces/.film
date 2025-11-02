@@ -1,0 +1,24 @@
+{
+  "reel_number": 25,
+  "recorded": "2025-11-02 17:30:13 UTC",
+  "repository": {
+    "full_name": "G-dH/vertical-workspaces",
+    "url": "https://github.com/G-dH/vertical-workspaces",
+    "clone_url": "https://github.com/G-dH/vertical-workspaces.git",
+    "stars": 288,
+    "language": "JavaScript",
+    "size_kb": 14280
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 0.778699
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 288 stars."
+  }
+}
