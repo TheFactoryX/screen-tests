@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #31 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | JavaScript · ⭐ 109k | 2025-11-02 |
+| #32 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 98k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -98,3 +98,4 @@ Or let GitHub Action run it automatically.
 | 29 | 2025-11-02 19:03:34 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | ✅ full (183703⭐ None) | [reels/reel_0029_getify-You-Dont-Know-JS](reels/reel_0029_getify-You-Dont-Know-JS) |
 | 30 | 2025-11-02 19:12:41 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | ✅ readme_only (101273⭐ Jupyter Notebook) | [reels/reel_0030_microsoft-generative-ai-for-beginners](reels/reel_0030_microsoft-generative-ai-for-beginners) |
 | 31 | 2025-11-02 19:24:02 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | ✅ readme_only (109209⭐ JavaScript) | [reels/reel_0031_mrdoob-three.js](reels/reel_0031_mrdoob-three.js) |
+| 32 | 2025-11-02 19:36:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98217⭐ TypeScript) | [reels/reel_0032_iptv-org-iptv](reels/reel_0032_iptv-org-iptv) |
