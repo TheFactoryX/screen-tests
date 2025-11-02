@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4 | [ossu/computer-science](https://github.com/ossu/computer-science) | HTML · ⭐ 196k | 2025-11-02 |
+| #5 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Java · ⭐ 118k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -71,3 +71,4 @@ Or let GitHub Action run it automatically.
 | 2 | 2025-11-02 09:38:56 | [hypy13/django-daisy](https://github.com/hypy13/django-daisy) | ✅ full (302⭐ CSS) | [reels/reel_0002_hypy13-django-daisy](reels/reel_0002_hypy13-django-daisy) |
 | 3 | 2025-11-02 09:49:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (255950⭐ None) | [reels/reel_0003_awesome-selfhosted-awesome-selfhosted](reels/reel_0003_awesome-selfhosted-awesome-selfhosted) |
 | 4 | 2025-11-02 10:16:43 | [ossu/computer-science](https://github.com/ossu/computer-science) | ✅ full (196833⭐ HTML) | [reels/reel_0004_ossu-computer-science](reels/reel_0004_ossu-computer-science) |
+| 5 | 2025-11-02 10:38:58 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | ✅ shallow (118163⭐ Java) | [reels/reel_0005_krahets-hello-algo](reels/reel_0005_krahets-hello-algo) |
