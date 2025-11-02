@@ -1,0 +1,24 @@
+{
+  "reel_number": 24,
+  "recorded": "2025-11-02 17:14:07 UTC",
+  "repository": {
+    "full_name": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "clone_url": "https://github.com/massgravel/Microsoft-Activation-Scripts.git",
+    "stars": 154600,
+    "language": "Batchfile",
+    "size_kb": 11842
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 0.866973
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Batchfile",
+    "director_note": "A Batchfile repository. 154600 stars."
+  }
+}
