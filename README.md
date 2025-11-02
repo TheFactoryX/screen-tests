@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #21 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-02 |
+| #22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -88,3 +88,4 @@ Or let GitHub Action run it automatically.
 | 19 | 2025-11-02 15:36:51 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ✅ readme_only (431117⭐ TypeScript) | [reels/reel_0019_freeCodeCamp-freeCodeCamp](reels/reel_0019_freeCodeCamp-freeCodeCamp) |
 | 20 | 2025-11-02 15:50:14 | [PhilDL/react-router-gospel-stack](https://github.com/PhilDL/react-router-gospel-stack) | ✅ full (228⭐ TypeScript) | [reels/reel_0020_PhilDL-react-router-gospel-stack](reels/reel_0020_PhilDL-react-router-gospel-stack) |
 | 21 | 2025-11-02 16:18:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107573⭐ Rust) | [reels/reel_0021_rust-lang-rust](reels/reel_0021_rust-lang-rust) |
+| 22 | 2025-11-02 16:42:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114019⭐ JavaScript) | [reels/reel_0022_open-webui-open-webui](reels/reel_0022_open-webui-open-webui) |
