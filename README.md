@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #13 | [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) | Python · ⭐ 253 | 2025-11-02 |
+| #14 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | Go · ⭐ 118k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -80,3 +80,4 @@ Or let GitHub Action run it automatically.
 | 11 | 2025-11-02 12:32:23 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ✅ full (132832⭐ Python) | [reels/reel_0011_521xueweihan-HelloGitHub](reels/reel_0011_521xueweihan-HelloGitHub) |
 | 12 | 2025-11-02 13:04:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (255971⭐ None) | [reels/reel_0012_awesome-selfhosted-awesome-selfhosted](reels/reel_0012_awesome-selfhosted-awesome-selfhosted) |
 | 13 | 2025-11-02 13:31:34 | [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) | ✅ readme_only (253⭐ Python) | [reels/reel_0013_MrMohebi-xray-proxy-grabber-telegram](reels/reel_0013_MrMohebi-xray-proxy-grabber-telegram) |
+| 14 | 2025-11-02 13:49:33 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | ✅ readme_only (118336⭐ Go) | [reels/reel_0014_kubernetes-kubernetes](reels/reel_0014_kubernetes-kubernetes) |

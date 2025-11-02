@@ -1,0 +1,24 @@
+{
+  "reel_number": 14,
+  "recorded": "2025-11-02 13:49:33 UTC",
+  "repository": {
+    "full_name": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "clone_url": "https://github.com/kubernetes/kubernetes.git",
+    "stars": 118336,
+    "language": "Go",
+    "size_kb": 1421805
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 1388,
+    "duration_seconds": 0.000134
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 118336 stars."
+  }
+}
