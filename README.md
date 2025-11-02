@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #37 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | None · ⭐ 274k | 2025-11-02 |
+| #38 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | None · ⭐ 332k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -104,3 +104,4 @@ Or let GitHub Action run it automatically.
 | 35 | 2025-11-02 20:37:43 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ✅ full (101774⭐ Rust) | [reels/reel_0035_rustdesk-rustdesk](reels/reel_0035_rustdesk-rustdesk) |
 | 36 | 2025-11-02 20:50:06 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | ✅ full (93271⭐ Java) | [reels/reel_0036_iluwatar-java-design-patterns](reels/reel_0036_iluwatar-java-design-patterns) |
 | 37 | 2025-11-02 21:14:13 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | ✅ shallow (274733⭐ None) | [reels/reel_0037_996icu-996.ICU](reels/reel_0037_996icu-996.ICU) |
+| 38 | 2025-11-02 21:27:47 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ✅ full (332125⭐ None) | [reels/reel_0038_jwasham-coding-interview-university](reels/reel_0038_jwasham-coding-interview-university) |
