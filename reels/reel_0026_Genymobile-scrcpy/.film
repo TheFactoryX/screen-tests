@@ -1,0 +1,24 @@
+{
+  "reel_number": 26,
+  "recorded": "2025-11-02 17:50:06 UTC",
+  "repository": {
+    "full_name": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "clone_url": "https://github.com/Genymobile/scrcpy.git",
+    "stars": 130504,
+    "language": "C",
+    "size_kb": 7646
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.301345
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 130504 stars."
+  }
+}

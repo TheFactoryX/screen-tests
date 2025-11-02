@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #25 | [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces) | JavaScript · ⭐ 288 | 2025-11-02 |
+| #26 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | C · ⭐ 130k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -92,3 +92,4 @@ Or let GitHub Action run it automatically.
 | 23 | 2025-11-02 16:52:51 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | ✅ readme_only (192297⭐ C++) | [reels/reel_0023_tensorflow-tensorflow](reels/reel_0023_tensorflow-tensorflow) |
 | 24 | 2025-11-02 17:14:07 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ✅ full (154600⭐ Batchfile) | [reels/reel_0024_massgravel-Microsoft-Activation-Scripts](reels/reel_0024_massgravel-Microsoft-Activation-Scripts) |
 | 25 | 2025-11-02 17:30:13 | [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces) | ✅ full (288⭐ JavaScript) | [reels/reel_0025_G-dH-vertical-workspaces](reels/reel_0025_G-dH-vertical-workspaces) |
+| 26 | 2025-11-02 17:50:06 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | ✅ full (130504⭐ C) | [reels/reel_0026_Genymobile-scrcpy](reels/reel_0026_Genymobile-scrcpy) |
