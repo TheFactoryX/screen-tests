@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8 | [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) | Python · ⭐ 131 | 2025-11-02 |
+| #9 | [godotengine/godot](https://github.com/godotengine/godot) | C++ · ⭐ 102k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -75,3 +75,4 @@ Or let GitHub Action run it automatically.
 | 6 | 2025-11-02 10:50:09 | [homebridge-plugins/homebridge-tado](https://github.com/homebridge-plugins/homebridge-tado) | ✅ full (131⭐ JavaScript) | [reels/reel_0006_homebridge-plugins-homebridge-tado](reels/reel_0006_homebridge-plugins-homebridge-tado) |
 | 7 | 2025-11-02 11:12:57 | [langgenius/dify](https://github.com/langgenius/dify) | ✅ shallow (117845⭐ TypeScript) | [reels/reel_0007_langgenius-dify](reels/reel_0007_langgenius-dify) |
 | 8 | 2025-11-02 11:25:14 | [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) | ✅ full (131⭐ Python) | [reels/reel_0008_erez-c137-NetSpeedTray](reels/reel_0008_erez-c137-NetSpeedTray) |
+| 9 | 2025-11-02 11:37:02 | [godotengine/godot](https://github.com/godotengine/godot) | ✅ readme_only (102782⭐ C++) | [reels/reel_0009_godotengine-godot](reels/reel_0009_godotengine-godot) |

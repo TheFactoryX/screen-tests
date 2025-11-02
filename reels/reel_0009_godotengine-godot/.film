@@ -1,0 +1,24 @@
+{
+  "reel_number": 9,
+  "recorded": "2025-11-02 11:37:02 UTC",
+  "repository": {
+    "full_name": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "clone_url": "https://github.com/godotengine/godot.git",
+    "stars": 102782,
+    "language": "C++",
+    "size_kb": 1667325
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 1628,
+    "duration_seconds": 0.000141
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 102782 stars."
+  }
+}
