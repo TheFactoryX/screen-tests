@@ -1,0 +1,24 @@
+{
+  "reel_number": 4,
+  "recorded": "2025-11-02 10:16:43 UTC",
+  "repository": {
+    "full_name": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "clone_url": "https://github.com/ossu/computer-science.git",
+    "stars": 196833,
+    "language": "HTML",
+    "size_kb": 1767
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.700101
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 196833 stars."
+  }
+}
