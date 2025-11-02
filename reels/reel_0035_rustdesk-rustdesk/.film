@@ -1,0 +1,24 @@
+{
+  "reel_number": 35,
+  "recorded": "2025-11-02 20:37:43 UTC",
+  "repository": {
+    "full_name": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "clone_url": "https://github.com/rustdesk/rustdesk.git",
+    "stars": 101774,
+    "language": "Rust",
+    "size_kb": 64520
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 3.557313
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 101774 stars."
+  }
+}
