@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #39 | [huggingface/transformers](https://github.com/huggingface/transformers) | Python · ⭐ 151k | 2025-11-02 |
+| #40 | [nodejs/node](https://github.com/nodejs/node) | JavaScript · ⭐ 114k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -106,3 +106,4 @@ Or let GitHub Action run it automatically.
 | 37 | 2025-11-02 21:14:13 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | ✅ shallow (274733⭐ None) | [reels/reel_0037_996icu-996.ICU](reels/reel_0037_996icu-996.ICU) |
 | 38 | 2025-11-02 21:27:47 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ✅ full (332125⭐ None) | [reels/reel_0038_jwasham-coding-interview-university](reels/reel_0038_jwasham-coding-interview-university) |
 | 39 | 2025-11-02 21:38:57 | [huggingface/transformers](https://github.com/huggingface/transformers) | ✅ shallow (151966⭐ Python) | [reels/reel_0039_huggingface-transformers](reels/reel_0039_huggingface-transformers) |
+| 40 | 2025-11-02 21:49:49 | [nodejs/node](https://github.com/nodejs/node) | ✅ readme_only (114116⭐ JavaScript) | [reels/reel_0040_nodejs-node](reels/reel_0040_nodejs-node) |

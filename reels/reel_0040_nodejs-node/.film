@@ -1,0 +1,24 @@
+{
+  "reel_number": 40,
+  "recorded": "2025-11-02 21:49:49 UTC",
+  "repository": {
+    "full_name": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "clone_url": "https://github.com/nodejs/node.git",
+    "stars": 114116,
+    "language": "JavaScript",
+    "size_kb": 1367510
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 1335,
+    "duration_seconds": 0.000108
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 114116 stars."
+  }
+}
