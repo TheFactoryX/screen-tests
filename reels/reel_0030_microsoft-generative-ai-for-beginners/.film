@@ -1,0 +1,24 @@
+{
+  "reel_number": 30,
+  "recorded": "2025-11-02 19:12:41 UTC",
+  "repository": {
+    "full_name": "microsoft/generative-ai-for-beginners",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "clone_url": "https://github.com/microsoft/generative-ai-for-beginners.git",
+    "stars": 101273,
+    "language": "Jupyter Notebook",
+    "size_kb": 5883341
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 5745,
+    "duration_seconds": 0.000117
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 101273 stars."
+  }
+}
