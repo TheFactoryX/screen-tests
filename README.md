@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #0 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | MDX · ⭐ 173k | 2025-11-02 |
+| #1 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -67,3 +67,4 @@ Or let GitHub Action run it automatically.
 | Reel # | Timestamp | Repository | Status | Location |
 |--------|-----------|------------|--------|----------|
 | 0 | 2025-11-02 09:09:40 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | ✅ shallow (173626⭐ MDX) | [reels/reel_0000_twbs-bootstrap](reels/reel_0000_twbs-bootstrap) |
+| 1 | 2025-11-02 09:27:39 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91433⭐ None) | [reels/reel_0001_deepseek-ai-DeepSeek-R1](reels/reel_0001_deepseek-ai-DeepSeek-R1) |
