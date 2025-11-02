@@ -1,0 +1,24 @@
+{
+  "reel_number": 20,
+  "recorded": "2025-11-02 15:50:14 UTC",
+  "repository": {
+    "full_name": "PhilDL/react-router-gospel-stack",
+    "url": "https://github.com/PhilDL/react-router-gospel-stack",
+    "clone_url": "https://github.com/PhilDL/react-router-gospel-stack.git",
+    "stars": 228,
+    "language": "TypeScript",
+    "size_kb": 7827
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.723404
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 228 stars."
+  }
+}
