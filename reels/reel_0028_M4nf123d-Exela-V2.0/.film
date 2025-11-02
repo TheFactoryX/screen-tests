@@ -1,0 +1,24 @@
+{
+  "reel_number": 28,
+  "recorded": "2025-11-02 18:43:03 UTC",
+  "repository": {
+    "full_name": "M4nf123d/Exela-V2.0",
+    "url": "https://github.com/M4nf123d/Exela-V2.0",
+    "clone_url": "https://github.com/M4nf123d/Exela-V2.0.git",
+    "stars": 35,
+    "language": "Python",
+    "size_kb": 135
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.55594
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 35 stars."
+  }
+}

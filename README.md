@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #27 | [memononen/Skribidi](https://github.com/memononen/Skribidi) | C · ⭐ 312 | 2025-11-02 |
+| #28 | [M4nf123d/Exela-V2.0](https://github.com/M4nf123d/Exela-V2.0) | Python · ⭐ 35 | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -94,3 +94,4 @@ Or let GitHub Action run it automatically.
 | 25 | 2025-11-02 17:30:13 | [G-dH/vertical-workspaces](https://github.com/G-dH/vertical-workspaces) | ✅ full (288⭐ JavaScript) | [reels/reel_0025_G-dH-vertical-workspaces](reels/reel_0025_G-dH-vertical-workspaces) |
 | 26 | 2025-11-02 17:50:06 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | ✅ full (130504⭐ C) | [reels/reel_0026_Genymobile-scrcpy](reels/reel_0026_Genymobile-scrcpy) |
 | 27 | 2025-11-02 18:21:47 | [memononen/Skribidi](https://github.com/memononen/Skribidi) | ✅ full (312⭐ C) | [reels/reel_0027_memononen-Skribidi](reels/reel_0027_memononen-Skribidi) |
+| 28 | 2025-11-02 18:43:03 | [M4nf123d/Exela-V2.0](https://github.com/M4nf123d/Exela-V2.0) | ✅ full (35⭐ Python) | [reels/reel_0028_M4nf123d-Exela-V2.0](reels/reel_0028_M4nf123d-Exela-V2.0) |
