@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9 | [godotengine/godot](https://github.com/godotengine/godot) | C++ · ⭐ 102k | 2025-11-02 |
+| #10 | [fatedier/frp](https://github.com/fatedier/frp) | Go · ⭐ 100k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -76,3 +76,4 @@ Or let GitHub Action run it automatically.
 | 7 | 2025-11-02 11:12:57 | [langgenius/dify](https://github.com/langgenius/dify) | ✅ shallow (117845⭐ TypeScript) | [reels/reel_0007_langgenius-dify](reels/reel_0007_langgenius-dify) |
 | 8 | 2025-11-02 11:25:14 | [erez-c137/NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) | ✅ full (131⭐ Python) | [reels/reel_0008_erez-c137-NetSpeedTray](reels/reel_0008_erez-c137-NetSpeedTray) |
 | 9 | 2025-11-02 11:37:02 | [godotengine/godot](https://github.com/godotengine/godot) | ✅ readme_only (102782⭐ C++) | [reels/reel_0009_godotengine-godot](reels/reel_0009_godotengine-godot) |
+| 10 | 2025-11-02 11:50:13 | [fatedier/frp](https://github.com/fatedier/frp) | ✅ full (100208⭐ Go) | [reels/reel_0010_fatedier-frp](reels/reel_0010_fatedier-frp) |

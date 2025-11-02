@@ -1,0 +1,24 @@
+{
+  "reel_number": 10,
+  "recorded": "2025-11-02 11:50:13 UTC",
+  "repository": {
+    "full_name": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "clone_url": "https://github.com/fatedier/frp.git",
+    "stars": 100208,
+    "language": "Go",
+    "size_kb": 30521
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 29,
+    "duration_seconds": 1.671463
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 100208 stars."
+  }
+}
