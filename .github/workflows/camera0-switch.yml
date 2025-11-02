@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
+          git config --local user.email "camera0@thefactoryx.art"
           git config --local user.name "Camera #0"
           git add .
           git diff --quiet && git diff --staged --quiet || (git commit -m "🎬 Recording complete" && git push)
