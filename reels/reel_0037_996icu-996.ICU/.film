@@ -1,0 +1,24 @@
+{
+  "reel_number": 37,
+  "recorded": "2025-11-02 21:14:13 UTC",
+  "repository": {
+    "full_name": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "clone_url": "https://github.com/996icu/996.ICU.git",
+    "stars": 274733,
+    "language": null,
+    "size_kb": 189351
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 184,
+    "duration_seconds": 3.611869
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 274733 stars."
+  }
+}
