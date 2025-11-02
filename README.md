@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Java · ⭐ 118k | 2025-11-02 |
+| #6 | [homebridge-plugins/homebridge-tado](https://github.com/homebridge-plugins/homebridge-tado) | JavaScript · ⭐ 131 | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -72,3 +72,4 @@ Or let GitHub Action run it automatically.
 | 3 | 2025-11-02 09:49:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (255950⭐ None) | [reels/reel_0003_awesome-selfhosted-awesome-selfhosted](reels/reel_0003_awesome-selfhosted-awesome-selfhosted) |
 | 4 | 2025-11-02 10:16:43 | [ossu/computer-science](https://github.com/ossu/computer-science) | ✅ full (196833⭐ HTML) | [reels/reel_0004_ossu-computer-science](reels/reel_0004_ossu-computer-science) |
 | 5 | 2025-11-02 10:38:58 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | ✅ shallow (118163⭐ Java) | [reels/reel_0005_krahets-hello-algo](reels/reel_0005_krahets-hello-algo) |
+| 6 | 2025-11-02 10:50:09 | [homebridge-plugins/homebridge-tado](https://github.com/homebridge-plugins/homebridge-tado) | ✅ full (131⭐ JavaScript) | [reels/reel_0006_homebridge-plugins-homebridge-tado](reels/reel_0006_homebridge-plugins-homebridge-tado) |
