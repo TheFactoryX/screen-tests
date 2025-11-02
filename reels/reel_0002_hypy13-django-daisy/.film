@@ -1,0 +1,24 @@
+{
+  "reel_number": 2,
+  "recorded": "2025-11-02 09:38:56 UTC",
+  "repository": {
+    "full_name": "hypy13/django-daisy",
+    "url": "https://github.com/hypy13/django-daisy",
+    "clone_url": "https://github.com/hypy13/django-daisy.git",
+    "stars": 302,
+    "language": "CSS",
+    "size_kb": 28709
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 1.124771
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 302 stars."
+  }
+}

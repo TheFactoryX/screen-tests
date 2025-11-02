@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-02 |
+| #2 | [hypy13/django-daisy](https://github.com/hypy13/django-daisy) | CSS · ⭐ 302 | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -68,3 +68,4 @@ Or let GitHub Action run it automatically.
 |--------|-----------|------------|--------|----------|
 | 0 | 2025-11-02 09:09:40 | [twbs/bootstrap](https://github.com/twbs/bootstrap) | ✅ shallow (173626⭐ MDX) | [reels/reel_0000_twbs-bootstrap](reels/reel_0000_twbs-bootstrap) |
 | 1 | 2025-11-02 09:27:39 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91433⭐ None) | [reels/reel_0001_deepseek-ai-DeepSeek-R1](reels/reel_0001_deepseek-ai-DeepSeek-R1) |
+| 2 | 2025-11-02 09:38:56 | [hypy13/django-daisy](https://github.com/hypy13/django-daisy) | ✅ full (302⭐ CSS) | [reels/reel_0002_hypy13-django-daisy](reels/reel_0002_hypy13-django-daisy) |
