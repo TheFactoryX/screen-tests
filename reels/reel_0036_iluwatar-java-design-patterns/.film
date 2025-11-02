@@ -1,0 +1,24 @@
+{
+  "reel_number": 36,
+  "recorded": "2025-11-02 20:50:06 UTC",
+  "repository": {
+    "full_name": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "clone_url": "https://github.com/iluwatar/java-design-patterns.git",
+    "stars": 93271,
+    "language": "Java",
+    "size_kb": 46754
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 45,
+    "duration_seconds": 2.269568
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 93271 stars."
+  }
+}
