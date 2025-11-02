@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #45 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-02 |
+| #46 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Java · ⭐ 546 | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -112,3 +112,4 @@ Or let GitHub Action run it automatically.
 | 43 | 2025-11-02 22:50:17 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ✅ full (212341⭐ Python) | [reels/reel_0043_TheAlgorithms-Python](reels/reel_0043_TheAlgorithms-Python) |
 | 44 | 2025-11-02 23:15:37 | [electron/electron](https://github.com/electron/electron) | ✅ shallow (118938⭐ C++) | [reels/reel_0044_electron-electron](reels/reel_0044_electron-electron) |
 | 45 | 2025-11-02 23:36:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107577⭐ Rust) | [reels/reel_0045_rust-lang-rust](reels/reel_0045_rust-lang-rust) |
+| 46 | 2025-11-02 23:50:23 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | ✅ full (546⭐ Java) | [reels/reel_0046_ViaVersion-ViaFabricPlus](reels/reel_0046_ViaVersion-ViaFabricPlus) |
