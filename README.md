@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #41 | [flutter/flutter](https://github.com/flutter/flutter) | Dart · ⭐ 173k | 2025-11-02 |
+| #42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 118k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -108,3 +108,4 @@ Or let GitHub Action run it automatically.
 | 39 | 2025-11-02 21:38:57 | [huggingface/transformers](https://github.com/huggingface/transformers) | ✅ shallow (151966⭐ Python) | [reels/reel_0039_huggingface-transformers](reels/reel_0039_huggingface-transformers) |
 | 40 | 2025-11-02 21:49:49 | [nodejs/node](https://github.com/nodejs/node) | ✅ readme_only (114116⭐ JavaScript) | [reels/reel_0040_nodejs-node](reels/reel_0040_nodejs-node) |
 | 41 | 2025-11-02 22:15:35 | [flutter/flutter](https://github.com/flutter/flutter) | ✅ shallow (173685⭐ Dart) | [reels/reel_0041_flutter-flutter](reels/reel_0041_flutter-flutter) |
+| 42 | 2025-11-02 22:38:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (118680⭐ Python) | [reels/reel_0042_langchain-ai-langchain](reels/reel_0042_langchain-ai-langchain) |
