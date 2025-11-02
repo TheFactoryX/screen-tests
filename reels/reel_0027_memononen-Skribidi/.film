@@ -1,0 +1,24 @@
+{
+  "reel_number": 27,
+  "recorded": "2025-11-02 18:21:47 UTC",
+  "repository": {
+    "full_name": "memononen/Skribidi",
+    "url": "https://github.com/memononen/Skribidi",
+    "clone_url": "https://github.com/memononen/Skribidi.git",
+    "stars": 312,
+    "language": "C",
+    "size_kb": 14694
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 1.174448
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 312 stars."
+  }
+}
