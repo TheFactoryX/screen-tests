@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #12 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 255k | 2025-11-02 |
+| #13 | [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) | Python · ⭐ 253 | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -79,3 +79,4 @@ Or let GitHub Action run it automatically.
 | 10 | 2025-11-02 11:50:13 | [fatedier/frp](https://github.com/fatedier/frp) | ✅ full (100208⭐ Go) | [reels/reel_0010_fatedier-frp](reels/reel_0010_fatedier-frp) |
 | 11 | 2025-11-02 12:32:23 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ✅ full (132832⭐ Python) | [reels/reel_0011_521xueweihan-HelloGitHub](reels/reel_0011_521xueweihan-HelloGitHub) |
 | 12 | 2025-11-02 13:04:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (255971⭐ None) | [reels/reel_0012_awesome-selfhosted-awesome-selfhosted](reels/reel_0012_awesome-selfhosted-awesome-selfhosted) |
+| 13 | 2025-11-02 13:31:34 | [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) | ✅ readme_only (253⭐ Python) | [reels/reel_0013_MrMohebi-xray-proxy-grabber-telegram](reels/reel_0013_MrMohebi-xray-proxy-grabber-telegram) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 13,
+  "recorded": "2025-11-02 13:31:34 UTC",
+  "repository": {
+    "full_name": "MrMohebi/xray-proxy-grabber-telegram",
+    "url": "https://github.com/MrMohebi/xray-proxy-grabber-telegram",
+    "clone_url": "https://github.com/MrMohebi/xray-proxy-grabber-telegram.git",
+    "stars": 253,
+    "language": "Python",
+    "size_kb": 583308
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 569,
+    "duration_seconds": 0.000108
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 253 stars."
+  }
+}
