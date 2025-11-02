@@ -1,0 +1,24 @@
+{
+  "reel_number": 39,
+  "recorded": "2025-11-02 21:38:57 UTC",
+  "repository": {
+    "full_name": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "clone_url": "https://github.com/huggingface/transformers.git",
+    "stars": 151966,
+    "language": "Python",
+    "size_kb": 391355
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 382,
+    "duration_seconds": 4.865101
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 151966 stars."
+  }
+}
