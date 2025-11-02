@@ -10,7 +10,7 @@ import random
 import re
 import subprocess
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 import requests
 
@@ -30,12 +30,15 @@ def get_trending_repos() -> list:
     if GITHUB_TOKEN:
         headers["Authorization"] = f"token {GITHUB_TOKEN}"
 
+    # Calculate date for 7 days ago
+    week_ago = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+
     # Search for repos created/updated in last 7 days with most stars
     params = {
-        "q": "stars:>50 pushed:>2025-10-26",
+        "q": f"stars:>50 pushed:>{week_ago}",
         "sort": "stars",
         "order": "desc",
-        "per_page": 30
+        "per_page": 50  # Increased for more variety
     }
 
     try:
@@ -43,7 +46,7 @@ def get_trending_repos() -> list:
                               headers=headers, params=params, timeout=30)
         response.raise_for_status()
         items = response.json().get("items", [])
-        return [parse_repo(item) for item in items[:25]]
+        return [parse_repo(item) for item in items]
     except Exception as e:
         print(f"⚠️  Trending search failed: {e}")
         return []
@@ -79,11 +82,14 @@ def get_indie_repos() -> list:
     if GITHUB_TOKEN:
         headers["Authorization"] = f"token {GITHUB_TOKEN}"
 
+    # Calculate date for 30 days ago
+    month_ago = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+
     params = {
-        "q": "stars:100..1000 pushed:>2025-10-01",
+        "q": f"stars:100..1000 pushed:>{month_ago}",
         "sort": "updated",
         "order": "desc",
-        "per_page": 50
+        "per_page": 100  # Increased for more variety
     }
 
     try:
@@ -99,7 +105,11 @@ def get_indie_repos() -> list:
 
 def get_experimental_repos() -> list:
     """Find weird/experimental repositories."""
-    keywords = ["awesome", "wtf", "experimental", "art", "useless", "weird", "fun"]
+    keywords = [
+        "awesome", "wtf", "experimental", "art", "useless", "weird", "fun",
+        "cool", "creative", "hack", "toy", "playground", "demo", "prototype",
+        "quirky", "random", "silly", "game", "challenge"
+    ]
     keyword = random.choice(keywords)
 
     headers = {"Accept": "application/vnd.github.v3+json"}
@@ -110,7 +120,7 @@ def get_experimental_repos() -> list:
         "q": f"{keyword} in:name,description stars:>10",
         "sort": "updated",
         "order": "desc",
-        "per_page": 30
+        "per_page": 100  # Increased for more variety
     }
 
     try:
@@ -136,8 +146,31 @@ def parse_repo(item: dict) -> dict:
     }
 
 
+def get_recorded_repos() -> set:
+    """Get list of already recorded repositories."""
+    reels_dir = Path("reels")
+    recorded = set()
+
+    if not reels_dir.exists():
+        return recorded
+
+    # Parse reel directory names to extract repo names
+    for reel_dir in reels_dir.glob("reel_*"):
+        # Format: reel_0000_owner-repo
+        parts = reel_dir.name.split('_', 2)
+        if len(parts) >= 3:
+            repo_name = parts[2].replace('-', '/', 1)  # Convert owner-repo to owner/repo
+            recorded.add(repo_name)
+
+    return recorded
+
+
 def select_repository() -> tuple[dict, str]:
     """Select today's repository for recording."""
+    # Get already recorded repos
+    recorded_repos = get_recorded_repos()
+    print(f"📚 Already recorded: {len(recorded_repos)} repos")
+
     strategy = random.choices(
         ['trending', 'classic', 'indie', 'experimental'],
         weights=[40, 30, 20, 10]
@@ -163,8 +196,20 @@ def select_repository() -> tuple[dict, str]:
     if not pool:
         raise RuntimeError("No repositories found in any category")
 
-    # Select random from pool
-    selected = random.choice(pool)
+    # Filter out already recorded repos
+    available_pool = [repo for repo in pool if repo['full_name'] not in recorded_repos]
+
+    if not available_pool:
+        print("⚠️  All repos in pool already recorded, allowing duplicates")
+        available_pool = pool
+    else:
+        print(f"🎯 Available: {len(available_pool)}/{len(pool)} repos")
+
+    # Shuffle for better randomness
+    random.shuffle(available_pool)
+
+    # Select random from available pool
+    selected = random.choice(available_pool)
     return selected, strategy
 
 
@@ -256,10 +301,16 @@ def log_production(timestamp: str, reel_number: int, repo_name: str, reel_locati
         # Update "Now Showing" section
         now_showing_marker = "## 🎥 Now Showing"
         if now_showing_marker in content:
-            # Find the table and replace its content
-            pattern = r'(## 🎥 Now Showing\s*\n\s*\| Reel \| Subject \| Genre \| Recorded \|\s*\n\s*\|[^\n]+\|\s*\n)\|[^\n]+\|'
-            new_row = f"| #{reel_number} | [{repo_name}]({repo_url}) | {language} · ⭐ {stars_display} | {timestamp.split()[0]} |"
-            content = re.sub(pattern, r'\1' + new_row, content)
+            # Replace entire Now Showing section with new content
+            new_showing = f"""## 🎥 Now Showing
+
+| Reel | Subject | Genre | Recorded |
+|------|---------|-------|----------|
+| #{reel_number} | [{repo_name}]({repo_url}) | {language} · ⭐ {stars_display} | {timestamp.split()[0]} |"""
+
+            # Match from "## 🎥 Now Showing" to the next "---"
+            pattern = r'## 🎥 Now Showing.*?(?=\n---)'
+            content = re.sub(pattern, new_showing, content, flags=re.DOTALL)
 
         # Update "Film Archive" section
         log_marker = "## 📽️ Film Archive"

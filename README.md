@@ -19,7 +19,6 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #0 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python · ⭐ 325k | 2025-11-02 |
 
 ---
 
@@ -67,4 +66,3 @@ Or let GitHub Action run it automatically.
 
 | Reel # | Timestamp | Repository | Status | Location |
 |--------|-----------|------------|--------|----------|
-| 0 | 2025-11-02 16:14:50 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ✅ full (325162⭐ Python) | [reels/reel_0000_donnemartin-system-design-primer](reels/reel_0000_donnemartin-system-design-primer) |
