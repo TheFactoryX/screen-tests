@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #17 | [marinasundstrom/YourBrand](https://github.com/marinasundstrom/YourBrand) | C# · ⭐ 110 | 2025-11-02 |
+| #18 | [pyvista/pyvistaqt](https://github.com/pyvista/pyvistaqt) | Python · ⭐ 130 | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -84,3 +84,4 @@ Or let GitHub Action run it automatically.
 | 15 | 2025-11-02 14:14:45 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ✅ full (411308⭐ None) | [reels/reel_0015_sindresorhus-awesome](reels/reel_0015_sindresorhus-awesome) |
 | 16 | 2025-11-02 14:31:39 | [microsoft/terminal](https://github.com/microsoft/terminal) | ✅ shallow (100765⭐ C++) | [reels/reel_0016_microsoft-terminal](reels/reel_0016_microsoft-terminal) |
 | 17 | 2025-11-02 14:49:56 | [marinasundstrom/YourBrand](https://github.com/marinasundstrom/YourBrand) | ✅ full (110⭐ C#) | [reels/reel_0017_marinasundstrom-YourBrand](reels/reel_0017_marinasundstrom-YourBrand) |
+| 18 | 2025-11-02 15:15:28 | [pyvista/pyvistaqt](https://github.com/pyvista/pyvistaqt) | ✅ full (130⭐ Python) | [reels/reel_0018_pyvista-pyvistaqt](reels/reel_0018_pyvista-pyvistaqt) |
