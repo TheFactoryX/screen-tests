@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #14 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | Go · ⭐ 118k | 2025-11-02 |
+| #15 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | None · ⭐ 411k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -81,3 +81,4 @@ Or let GitHub Action run it automatically.
 | 12 | 2025-11-02 13:04:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (255971⭐ None) | [reels/reel_0012_awesome-selfhosted-awesome-selfhosted](reels/reel_0012_awesome-selfhosted-awesome-selfhosted) |
 | 13 | 2025-11-02 13:31:34 | [MrMohebi/xray-proxy-grabber-telegram](https://github.com/MrMohebi/xray-proxy-grabber-telegram) | ✅ readme_only (253⭐ Python) | [reels/reel_0013_MrMohebi-xray-proxy-grabber-telegram](reels/reel_0013_MrMohebi-xray-proxy-grabber-telegram) |
 | 14 | 2025-11-02 13:49:33 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | ✅ readme_only (118336⭐ Go) | [reels/reel_0014_kubernetes-kubernetes](reels/reel_0014_kubernetes-kubernetes) |
+| 15 | 2025-11-02 14:14:45 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ✅ full (411308⭐ None) | [reels/reel_0015_sindresorhus-awesome](reels/reel_0015_sindresorhus-awesome) |
