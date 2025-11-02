@@ -1,0 +1,24 @@
+{
+  "reel_number": 23,
+  "recorded": "2025-11-02 16:52:51 UTC",
+  "repository": {
+    "full_name": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "clone_url": "https://github.com/tensorflow/tensorflow.git",
+    "stars": 192297,
+    "language": "C++",
+    "size_kb": 1216516
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 1188,
+    "duration_seconds": 0.000136
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 192297 stars."
+  }
+}

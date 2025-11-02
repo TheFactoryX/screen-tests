@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-02 |
+| #23 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ · ⭐ 192k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -89,3 +89,4 @@ Or let GitHub Action run it automatically.
 | 20 | 2025-11-02 15:50:14 | [PhilDL/react-router-gospel-stack](https://github.com/PhilDL/react-router-gospel-stack) | ✅ full (228⭐ TypeScript) | [reels/reel_0020_PhilDL-react-router-gospel-stack](reels/reel_0020_PhilDL-react-router-gospel-stack) |
 | 21 | 2025-11-02 16:18:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107573⭐ Rust) | [reels/reel_0021_rust-lang-rust](reels/reel_0021_rust-lang-rust) |
 | 22 | 2025-11-02 16:42:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114019⭐ JavaScript) | [reels/reel_0022_open-webui-open-webui](reels/reel_0022_open-webui-open-webui) |
+| 23 | 2025-11-02 16:52:51 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | ✅ readme_only (192297⭐ C++) | [reels/reel_0023_tensorflow-tensorflow](reels/reel_0023_tensorflow-tensorflow) |
