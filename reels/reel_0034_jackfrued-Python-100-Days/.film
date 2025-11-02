@@ -1,0 +1,24 @@
+{
+  "reel_number": 34,
+  "recorded": "2025-11-02 20:17:37 UTC",
+  "repository": {
+    "full_name": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "clone_url": "https://github.com/jackfrued/Python-100-Days.git",
+    "stars": 173961,
+    "language": "Jupyter Notebook",
+    "size_kb": 396875
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 387,
+    "duration_seconds": 3.823326
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 173961 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 136k | 2025-11-02 |
+| #34 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Jupyter Notebook · ⭐ 173k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -100,3 +100,4 @@ Or let GitHub Action run it automatically.
 | 31 | 2025-11-02 19:24:02 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | ✅ readme_only (109209⭐ JavaScript) | [reels/reel_0031_mrdoob-three.js](reels/reel_0031_mrdoob-three.js) |
 | 32 | 2025-11-02 19:36:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98217⭐ TypeScript) | [reels/reel_0032_iptv-org-iptv](reels/reel_0032_iptv-org-iptv) |
 | 33 | 2025-11-02 19:49:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (136934⭐ Python) | [reels/reel_0033_langflow-ai-langflow](reels/reel_0033_langflow-ai-langflow) |
+| 34 | 2025-11-02 20:17:37 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | ✅ shallow (173961⭐ Jupyter Notebook) | [reels/reel_0034_jackfrued-Python-100-Days](reels/reel_0034_jackfrued-Python-100-Days) |
