@@ -1,0 +1,24 @@
+{
+  "reel_number": 0,
+  "recorded": "2025-11-02 09:09:40 UTC",
+  "repository": {
+    "full_name": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "clone_url": "https://github.com/twbs/bootstrap.git",
+    "stars": 173626,
+    "language": "MDX",
+    "size_kb": 265864
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 259,
+    "duration_seconds": 1.130353
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 173626 stars."
+  }
+}
