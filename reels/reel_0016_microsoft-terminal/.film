@@ -1,0 +1,24 @@
+{
+  "reel_number": 16,
+  "recorded": "2025-11-02 14:31:39 UTC",
+  "repository": {
+    "full_name": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "clone_url": "https://github.com/microsoft/terminal.git",
+    "stars": 100765,
+    "language": "C++",
+    "size_kb": 157719
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 154,
+    "duration_seconds": 1.909276
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 100765 stars."
+  }
+}
