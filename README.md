@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #30 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook · ⭐ 101k | 2025-11-02 |
+| #31 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | JavaScript · ⭐ 109k | 2025-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -97,3 +97,4 @@ Or let GitHub Action run it automatically.
 | 28 | 2025-11-02 18:43:03 | [M4nf123d/Exela-V2.0](https://github.com/M4nf123d/Exela-V2.0) | ✅ full (35⭐ Python) | [reels/reel_0028_M4nf123d-Exela-V2.0](reels/reel_0028_M4nf123d-Exela-V2.0) |
 | 29 | 2025-11-02 19:03:34 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | ✅ full (183703⭐ None) | [reels/reel_0029_getify-You-Dont-Know-JS](reels/reel_0029_getify-You-Dont-Know-JS) |
 | 30 | 2025-11-02 19:12:41 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | ✅ readme_only (101273⭐ Jupyter Notebook) | [reels/reel_0030_microsoft-generative-ai-for-beginners](reels/reel_0030_microsoft-generative-ai-for-beginners) |
+| 31 | 2025-11-02 19:24:02 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | ✅ readme_only (109209⭐ JavaScript) | [reels/reel_0031_mrdoob-three.js](reels/reel_0031_mrdoob-three.js) |
