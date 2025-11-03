@@ -1,0 +1,24 @@
+{
+  "reel_number": 61,
+  "recorded": "2025-11-03 08:49:59 UTC",
+  "repository": {
+    "full_name": "thewca/worldcubeassociation.org",
+    "url": "https://github.com/thewca/worldcubeassociation.org",
+    "clone_url": "https://github.com/thewca/worldcubeassociation.org.git",
+    "stars": 374,
+    "language": "Ruby",
+    "size_kb": 438918
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 428,
+    "duration_seconds": 2.061818
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 374 stars."
+  }
+}

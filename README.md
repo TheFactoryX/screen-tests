@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #60 | [gentoo-mirror/gentoo](https://github.com/gentoo-mirror/gentoo) | Shell · ⭐ 184 | 2025-11-03 |
+| #61 | [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) | Ruby · ⭐ 374 | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -127,3 +127,4 @@ Or let GitHub Action run it automatically.
 | 58 | 2025-11-03 07:39:06 | [Combodo/iTop](https://github.com/Combodo/iTop) | ✅ shallow (999⭐ PHP) | [reels/reel_0058_Combodo-iTop](reels/reel_0058_Combodo-iTop) |
 | 59 | 2025-11-03 07:49:46 | [vercel/next.js](https://github.com/vercel/next.js) | ✅ readme_only (135426⭐ JavaScript) | [reels/reel_0059_vercel-next.js](reels/reel_0059_vercel-next.js) |
 | 60 | 2025-11-03 08:26:06 | [gentoo-mirror/gentoo](https://github.com/gentoo-mirror/gentoo) | ✅ readme_only (184⭐ Shell) | [reels/reel_0060_gentoo-mirror-gentoo](reels/reel_0060_gentoo-mirror-gentoo) |
+| 61 | 2025-11-03 08:49:59 | [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) | ✅ shallow (374⭐ Ruby) | [reels/reel_0061_thewca-worldcubeassociation.org](reels/reel_0061_thewca-worldcubeassociation.org) |
