@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #72 | [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) | Shell · ⭐ 349 | 2025-11-03 |
+| #73 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 133k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -139,3 +139,4 @@ Or let GitHub Action run it automatically.
 | 70 | 2025-11-03 12:38:30 | [gophercloud/gophercloud](https://github.com/gophercloud/gophercloud) | ✅ full (967⭐ Go) | [reels/reel_0070_gophercloud-gophercloud](reels/reel_0070_gophercloud-gophercloud) |
 | 71 | 2025-11-03 13:19:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114087⭐ JavaScript) | [reels/reel_0071_open-webui-open-webui](reels/reel_0071_open-webui-open-webui) |
 | 72 | 2025-11-03 13:47:26 | [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) | ✅ shallow (349⭐ Shell) | [reels/reel_0072_borestad-blocklist-abuseipdb](reels/reel_0072_borestad-blocklist-abuseipdb) |
+| 73 | 2025-11-03 14:18:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (133681⭐ Python) | [reels/reel_0073_yt-dlp-yt-dlp](reels/reel_0073_yt-dlp-yt-dlp) |
