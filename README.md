@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #89 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 118k | 2025-11-03 |
+| #90 | [ollama/ollama](https://github.com/ollama/ollama) | Go · ⭐ 155k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -156,3 +156,4 @@ Or let GitHub Action run it automatically.
 | 87 | 2025-11-03 19:27:42 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | ✅ shallow (342674⭐ TypeScript) | [reels/reel_0087_kamranahmedse-developer-roadmap](reels/reel_0087_kamranahmedse-developer-roadmap) |
 | 88 | 2025-11-03 19:39:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114115⭐ JavaScript) | [reels/reel_0088_open-webui-open-webui](reels/reel_0088_open-webui-open-webui) |
 | 89 | 2025-11-03 19:50:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (118770⭐ Python) | [reels/reel_0089_langchain-ai-langchain](reels/reel_0089_langchain-ai-langchain) |
+| 90 | 2025-11-03 20:20:37 | [ollama/ollama](https://github.com/ollama/ollama) | ✅ full (155299⭐ Go) | [reels/reel_0090_ollama-ollama](reels/reel_0090_ollama-ollama) |

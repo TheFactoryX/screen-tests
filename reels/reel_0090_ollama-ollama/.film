@@ -1,0 +1,24 @@
+{
+  "reel_number": 90,
+  "recorded": "2025-11-03 20:20:37 UTC",
+  "repository": {
+    "full_name": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "clone_url": "https://github.com/ollama/ollama.git",
+    "stars": 155299,
+    "language": "Go",
+    "size_kb": 65960
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 64,
+    "duration_seconds": 2.718906
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 155299 stars."
+  }
+}
