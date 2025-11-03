@@ -1,0 +1,24 @@
+{
+  "reel_number": 47,
+  "recorded": "2025-11-03 01:24:59 UTC",
+  "repository": {
+    "full_name": "mae-creative-pc/cpac_course_2025-26",
+    "url": "https://github.com/mae-creative-pc/cpac_course_2025-26",
+    "clone_url": "https://github.com/mae-creative-pc/cpac_course_2025-26.git",
+    "stars": 12,
+    "language": "Jupyter Notebook",
+    "size_kb": 197015
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 192,
+    "duration_seconds": 5.234723
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 12 stars."
+  }
+}

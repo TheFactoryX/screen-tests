@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #46 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | Java · ⭐ 546 | 2025-11-02 |
+| #47 | [mae-creative-pc/cpac_course_2025-26](https://github.com/mae-creative-pc/cpac_course_2025-26) | Jupyter Notebook · ⭐ 12 | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -113,3 +113,4 @@ Or let GitHub Action run it automatically.
 | 44 | 2025-11-02 23:15:37 | [electron/electron](https://github.com/electron/electron) | ✅ shallow (118938⭐ C++) | [reels/reel_0044_electron-electron](reels/reel_0044_electron-electron) |
 | 45 | 2025-11-02 23:36:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107577⭐ Rust) | [reels/reel_0045_rust-lang-rust](reels/reel_0045_rust-lang-rust) |
 | 46 | 2025-11-02 23:50:23 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | ✅ full (546⭐ Java) | [reels/reel_0046_ViaVersion-ViaFabricPlus](reels/reel_0046_ViaVersion-ViaFabricPlus) |
+| 47 | 2025-11-03 01:24:59 | [mae-creative-pc/cpac_course_2025-26](https://github.com/mae-creative-pc/cpac_course_2025-26) | ✅ shallow (12⭐ Jupyter Notebook) | [reels/reel_0047_mae-creative-pc-cpac_course_2025-26](reels/reel_0047_mae-creative-pc-cpac_course_2025-26) |
