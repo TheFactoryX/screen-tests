@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #98 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-03 |
+| #99 | [walidbosso/walidbosso](https://github.com/walidbosso/walidbosso) | None · ⭐ 36 | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -165,3 +165,4 @@ Or let GitHub Action run it automatically.
 | 96 | 2025-11-03 22:17:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137048⭐ Python) | [reels/reel_0096_langflow-ai-langflow](reels/reel_0096_langflow-ai-langflow) |
 | 97 | 2025-11-03 22:40:56 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | ✅ readme_only (92789⭐ TypeScript) | [reels/reel_0097_puppeteer-puppeteer](reels/reel_0097_puppeteer-puppeteer) |
 | 98 | 2025-11-03 22:50:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256215⭐ None) | [reels/reel_0098_awesome-selfhosted-awesome-selfhosted](reels/reel_0098_awesome-selfhosted-awesome-selfhosted) |
+| 99 | 2025-11-03 23:16:16 | [walidbosso/walidbosso](https://github.com/walidbosso/walidbosso) | ✅ full (36⭐ None) | [reels/reel_0099_walidbosso-walidbosso](reels/reel_0099_walidbosso-walidbosso) |
