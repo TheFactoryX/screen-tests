@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #95 | [torvalds/linux](https://github.com/torvalds/linux) | C · ⭐ 206k | 2025-11-03 |
+| #96 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -162,3 +162,4 @@ Or let GitHub Action run it automatically.
 | 93 | 2025-11-03 21:16:36 | [TuringLang/Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) | ✅ full (257⭐ Julia) | [reels/reel_0093_TuringLang-Bijectors.jl](reels/reel_0093_TuringLang-Bijectors.jl) |
 | 94 | 2025-11-03 21:37:49 | [axios/axios](https://github.com/axios/axios) | ✅ full (108072⭐ JavaScript) | [reels/reel_0094_axios-axios](reels/reel_0094_axios-axios) |
 | 95 | 2025-11-03 21:50:10 | [torvalds/linux](https://github.com/torvalds/linux) | ✅ readme_only (206238⭐ C) | [reels/reel_0095_torvalds-linux](reels/reel_0095_torvalds-linux) |
+| 96 | 2025-11-03 22:17:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137048⭐ Python) | [reels/reel_0096_langflow-ai-langflow](reels/reel_0096_langflow-ai-langflow) |
