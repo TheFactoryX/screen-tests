@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #67 | [Alpha-VLLM/Lumina-Image-2.0](https://github.com/Alpha-VLLM/Lumina-Image-2.0) | Python · ⭐ 814 | 2025-11-03 |
+| #68 | [greenbone/gvmd](https://github.com/greenbone/gvmd) | C · ⭐ 336 | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -134,3 +134,4 @@ Or let GitHub Action run it automatically.
 | 65 | 2025-11-03 10:20:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256131⭐ None) | [reels/reel_0065_awesome-selfhosted-awesome-selfhosted](reels/reel_0065_awesome-selfhosted-awesome-selfhosted) |
 | 66 | 2025-11-03 10:46:01 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ✅ full (114482⭐ HTML) | [reels/reel_0066_ripienaar-free-for-dev](reels/reel_0066_ripienaar-free-for-dev) |
 | 67 | 2025-11-03 11:15:33 | [Alpha-VLLM/Lumina-Image-2.0](https://github.com/Alpha-VLLM/Lumina-Image-2.0) | ✅ full (814⭐ Python) | [reels/reel_0067_Alpha-VLLM-Lumina-Image-2.0](reels/reel_0067_Alpha-VLLM-Lumina-Image-2.0) |
+| 68 | 2025-11-03 11:37:02 | [greenbone/gvmd](https://github.com/greenbone/gvmd) | ✅ shallow (336⭐ C) | [reels/reel_0068_greenbone-gvmd](reels/reel_0068_greenbone-gvmd) |

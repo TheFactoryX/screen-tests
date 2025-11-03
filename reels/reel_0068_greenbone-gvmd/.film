@@ -1,0 +1,24 @@
+{
+  "reel_number": 68,
+  "recorded": "2025-11-03 11:37:02 UTC",
+  "repository": {
+    "full_name": "greenbone/gvmd",
+    "url": "https://github.com/greenbone/gvmd",
+    "clone_url": "https://github.com/greenbone/gvmd.git",
+    "stars": 336,
+    "language": "C",
+    "size_kb": 121868
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 119,
+    "duration_seconds": 0.555299
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 336 stars."
+  }
+}
