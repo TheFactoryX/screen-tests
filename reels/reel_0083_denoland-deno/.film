@@ -1,0 +1,24 @@
+{
+  "reel_number": 83,
+  "recorded": "2025-11-03 17:50:41 UTC",
+  "repository": {
+    "full_name": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "clone_url": "https://github.com/denoland/deno.git",
+    "stars": 105010,
+    "language": "Rust",
+    "size_kb": 184156
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 179,
+    "duration_seconds": 2.863911
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 105010 stars."
+  }
+}
