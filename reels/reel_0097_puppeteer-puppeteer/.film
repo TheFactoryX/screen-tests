@@ -1,0 +1,24 @@
+{
+  "reel_number": 97,
+  "recorded": "2025-11-03 22:40:56 UTC",
+  "repository": {
+    "full_name": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "clone_url": "https://github.com/puppeteer/puppeteer.git",
+    "stars": 92789,
+    "language": "TypeScript",
+    "size_kb": 1227378
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "readme_only",
+    "size_mb": 1198,
+    "duration_seconds": 0.000112
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 92789 stars."
+  }
+}
