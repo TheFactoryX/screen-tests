@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #71 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-03 |
+| #72 | [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) | Shell · ⭐ 349 | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -138,3 +138,4 @@ Or let GitHub Action run it automatically.
 | 69 | 2025-11-03 11:49:52 | [skddyj/iptv](https://github.com/skddyj/iptv) | ✅ full (362⭐ None) | [reels/reel_0069_skddyj-iptv](reels/reel_0069_skddyj-iptv) |
 | 70 | 2025-11-03 12:38:30 | [gophercloud/gophercloud](https://github.com/gophercloud/gophercloud) | ✅ full (967⭐ Go) | [reels/reel_0070_gophercloud-gophercloud](reels/reel_0070_gophercloud-gophercloud) |
 | 71 | 2025-11-03 13:19:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114087⭐ JavaScript) | [reels/reel_0071_open-webui-open-webui](reels/reel_0071_open-webui-open-webui) |
+| 72 | 2025-11-03 13:47:26 | [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) | ✅ shallow (349⭐ Shell) | [reels/reel_0072_borestad-blocklist-abuseipdb](reels/reel_0072_borestad-blocklist-abuseipdb) |
