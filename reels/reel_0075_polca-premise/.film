@@ -1,0 +1,24 @@
+{
+  "reel_number": 75,
+  "recorded": "2025-11-03 14:54:13 UTC",
+  "repository": {
+    "full_name": "polca/premise",
+    "url": "https://github.com/polca/premise",
+    "clone_url": "https://github.com/polca/premise.git",
+    "stars": 152,
+    "language": "Jupyter Notebook",
+    "size_kb": 1333062
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1301,
+    "duration_seconds": 0.00015
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 152 stars."
+  }
+}
