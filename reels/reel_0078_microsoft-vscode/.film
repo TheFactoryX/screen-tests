@@ -1,0 +1,24 @@
+{
+  "reel_number": 78,
+  "recorded": "2025-11-03 15:52:49 UTC",
+  "repository": {
+    "full_name": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "clone_url": "https://github.com/microsoft/vscode.git",
+    "stars": 178163,
+    "language": "TypeScript",
+    "size_kb": 1077666
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 1052,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 178163 stars."
+  }
+}
