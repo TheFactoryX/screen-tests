@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #100 | [facebook/react](https://github.com/facebook/react) | JavaScript · ⭐ 240k | 2025-11-03 |
+| #101 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 98k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -167,3 +167,4 @@ Or let GitHub Action run it automatically.
 | 98 | 2025-11-03 22:50:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256215⭐ None) | [reels/reel_0098_awesome-selfhosted-awesome-selfhosted](reels/reel_0098_awesome-selfhosted-awesome-selfhosted) |
 | 99 | 2025-11-03 23:16:16 | [walidbosso/walidbosso](https://github.com/walidbosso/walidbosso) | ✅ full (36⭐ None) | [reels/reel_0099_walidbosso-walidbosso](reels/reel_0099_walidbosso-walidbosso) |
 | 100 | 2025-11-03 23:37:35 | [facebook/react](https://github.com/facebook/react) | ✅ readme_only (240282⭐ JavaScript) | [reels/reel_0100_facebook-react](reels/reel_0100_facebook-react) |
+| 101 | 2025-11-03 23:49:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98938⭐ TypeScript) | [reels/reel_0101_shadcn-ui-ui](reels/reel_0101_shadcn-ui-ui) |
