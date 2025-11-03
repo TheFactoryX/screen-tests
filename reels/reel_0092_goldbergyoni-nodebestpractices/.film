@@ -1,0 +1,24 @@
+{
+  "reel_number": 92,
+  "recorded": "2025-11-03 20:52:08 UTC",
+  "repository": {
+    "full_name": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "clone_url": "https://github.com/goldbergyoni/nodebestpractices.git",
+    "stars": 104479,
+    "language": "Dockerfile",
+    "size_kb": 69535
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 67,
+    "duration_seconds": 2.577872
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dockerfile",
+    "director_note": "A Dockerfile repository. 104479 stars."
+  }
+}
