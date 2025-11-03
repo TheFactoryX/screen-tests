@@ -1,0 +1,24 @@
+{
+  "reel_number": 69,
+  "recorded": "2025-11-03 11:49:52 UTC",
+  "repository": {
+    "full_name": "skddyj/iptv",
+    "url": "https://github.com/skddyj/iptv",
+    "clone_url": "https://github.com/skddyj/iptv.git",
+    "stars": 362,
+    "language": null,
+    "size_kb": 11
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.557063
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 362 stars."
+  }
+}
