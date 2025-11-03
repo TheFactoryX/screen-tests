@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #52 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 98k | 2025-11-03 |
+| #53 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript · ⭐ 106k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -119,3 +119,4 @@ Or let GitHub Action run it automatically.
 | 50 | 2025-11-03 04:31:25 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138655⭐ Python) | [reels/reel_0050_ytdl-org-youtube-dl](reels/reel_0050_ytdl-org-youtube-dl) |
 | 51 | 2025-11-03 04:54:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107583⭐ Rust) | [reels/reel_0051_rust-lang-rust](reels/reel_0051_rust-lang-rust) |
 | 52 | 2025-11-03 05:18:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98879⭐ TypeScript) | [reels/reel_0052_shadcn-ui-ui](reels/reel_0052_shadcn-ui-ui) |
+| 53 | 2025-11-03 05:41:59 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | ✅ readme_only (106607⭐ TypeScript) | [reels/reel_0053_microsoft-TypeScript](reels/reel_0053_microsoft-TypeScript) |
