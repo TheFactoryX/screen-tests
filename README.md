@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #50 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-03 |
+| #51 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -117,3 +117,4 @@ Or let GitHub Action run it automatically.
 | 48 | 2025-11-03 03:01:36 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | ✅ full (109549⭐ TypeScript) | [reels/reel_0048_excalidraw-excalidraw](reels/reel_0048_excalidraw-excalidraw) |
 | 49 | 2025-11-03 03:57:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (153561⭐ TypeScript) | [reels/reel_0049_n8n-io-n8n](reels/reel_0049_n8n-io-n8n) |
 | 50 | 2025-11-03 04:31:25 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138655⭐ Python) | [reels/reel_0050_ytdl-org-youtube-dl](reels/reel_0050_ytdl-org-youtube-dl) |
+| 51 | 2025-11-03 04:54:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107583⭐ Rust) | [reels/reel_0051_rust-lang-rust](reels/reel_0051_rust-lang-rust) |
