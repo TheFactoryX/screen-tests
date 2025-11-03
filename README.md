@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #94 | [axios/axios](https://github.com/axios/axios) | JavaScript · ⭐ 108k | 2025-11-03 |
+| #95 | [torvalds/linux](https://github.com/torvalds/linux) | C · ⭐ 206k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -161,3 +161,4 @@ Or let GitHub Action run it automatically.
 | 92 | 2025-11-03 20:52:08 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ full (104479⭐ Dockerfile) | [reels/reel_0092_goldbergyoni-nodebestpractices](reels/reel_0092_goldbergyoni-nodebestpractices) |
 | 93 | 2025-11-03 21:16:36 | [TuringLang/Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) | ✅ full (257⭐ Julia) | [reels/reel_0093_TuringLang-Bijectors.jl](reels/reel_0093_TuringLang-Bijectors.jl) |
 | 94 | 2025-11-03 21:37:49 | [axios/axios](https://github.com/axios/axios) | ✅ full (108072⭐ JavaScript) | [reels/reel_0094_axios-axios](reels/reel_0094_axios-axios) |
+| 95 | 2025-11-03 21:50:10 | [torvalds/linux](https://github.com/torvalds/linux) | ✅ readme_only (206238⭐ C) | [reels/reel_0095_torvalds-linux](reels/reel_0095_torvalds-linux) |

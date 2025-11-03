@@ -1,0 +1,24 @@
+{
+  "reel_number": 95,
+  "recorded": "2025-11-03 21:50:10 UTC",
+  "repository": {
+    "full_name": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "clone_url": "https://github.com/torvalds/linux.git",
+    "stars": 206238,
+    "language": "C",
+    "size_kb": 5710937
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 5577,
+    "duration_seconds": 0.000132
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 206238 stars."
+  }
+}
