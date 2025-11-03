@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #61 | [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) | Ruby · ⭐ 374 | 2025-11-03 |
+| #62 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -128,3 +128,4 @@ Or let GitHub Action run it automatically.
 | 59 | 2025-11-03 07:49:46 | [vercel/next.js](https://github.com/vercel/next.js) | ✅ readme_only (135426⭐ JavaScript) | [reels/reel_0059_vercel-next.js](reels/reel_0059_vercel-next.js) |
 | 60 | 2025-11-03 08:26:06 | [gentoo-mirror/gentoo](https://github.com/gentoo-mirror/gentoo) | ✅ readme_only (184⭐ Shell) | [reels/reel_0060_gentoo-mirror-gentoo](reels/reel_0060_gentoo-mirror-gentoo) |
 | 61 | 2025-11-03 08:49:59 | [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) | ✅ shallow (374⭐ Ruby) | [reels/reel_0061_thewca-worldcubeassociation.org](reels/reel_0061_thewca-worldcubeassociation.org) |
+| 62 | 2025-11-03 09:21:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114072⭐ JavaScript) | [reels/reel_0062_open-webui-open-webui](reels/reel_0062_open-webui-open-webui) |
