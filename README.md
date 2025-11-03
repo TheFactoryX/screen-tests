@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #53 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript · ⭐ 106k | 2025-11-03 |
+| #54 | [facebook/create-react-app](https://github.com/facebook/create-react-app) | JavaScript · ⭐ 103k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -120,3 +120,4 @@ Or let GitHub Action run it automatically.
 | 51 | 2025-11-03 04:54:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107583⭐ Rust) | [reels/reel_0051_rust-lang-rust](reels/reel_0051_rust-lang-rust) |
 | 52 | 2025-11-03 05:18:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98879⭐ TypeScript) | [reels/reel_0052_shadcn-ui-ui](reels/reel_0052_shadcn-ui-ui) |
 | 53 | 2025-11-03 05:41:59 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | ✅ readme_only (106607⭐ TypeScript) | [reels/reel_0053_microsoft-TypeScript](reels/reel_0053_microsoft-TypeScript) |
+| 54 | 2025-11-03 05:51:49 | [facebook/create-react-app](https://github.com/facebook/create-react-app) | ✅ full (103823⭐ JavaScript) | [reels/reel_0054_facebook-create-react-app](reels/reel_0054_facebook-create-react-app) |
