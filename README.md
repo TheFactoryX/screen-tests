@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #80 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 153k | 2025-11-03 |
+| #81 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 100k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -147,3 +147,4 @@ Or let GitHub Action run it automatically.
 | 78 | 2025-11-03 15:52:49 | [microsoft/vscode](https://github.com/microsoft/vscode) | ✅ readme_only (178163⭐ TypeScript) | [reels/reel_0078_microsoft-vscode](reels/reel_0078_microsoft-vscode) |
 | 79 | 2025-11-03 16:21:14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98919⭐ TypeScript) | [reels/reel_0079_shadcn-ui-ui](reels/reel_0079_shadcn-ui-ui) |
 | 80 | 2025-11-03 16:47:11 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (153718⭐ TypeScript) | [reels/reel_0080_n8n-io-n8n](reels/reel_0080_n8n-io-n8n) |
+| 81 | 2025-11-03 17:16:25 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100090⭐ None) | [reels/reel_0081_Hack-with-Github-Awesome-Hacking](reels/reel_0081_Hack-with-Github-Awesome-Hacking) |
