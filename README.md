@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #65 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-03 |
+| #66 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML · ⭐ 114k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -132,3 +132,4 @@ Or let GitHub Action run it automatically.
 | 63 | 2025-11-03 09:44:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179452⭐ Python) | [reels/reel_0063_Significant-Gravitas-AutoGPT](reels/reel_0063_Significant-Gravitas-AutoGPT) |
 | 64 | 2025-11-03 09:54:51 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98898⭐ TypeScript) | [reels/reel_0064_shadcn-ui-ui](reels/reel_0064_shadcn-ui-ui) |
 | 65 | 2025-11-03 10:20:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256131⭐ None) | [reels/reel_0065_awesome-selfhosted-awesome-selfhosted](reels/reel_0065_awesome-selfhosted-awesome-selfhosted) |
+| 66 | 2025-11-03 10:46:01 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | ✅ full (114482⭐ HTML) | [reels/reel_0066_ripienaar-free-for-dev](reels/reel_0066_ripienaar-free-for-dev) |

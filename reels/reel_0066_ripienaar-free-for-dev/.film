@@ -1,0 +1,24 @@
+{
+  "reel_number": 66,
+  "recorded": "2025-11-03 10:46:01 UTC",
+  "repository": {
+    "full_name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "clone_url": "https://github.com/ripienaar/free-for-dev.git",
+    "stars": 114482,
+    "language": "HTML",
+    "size_kb": 9292
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 1.421427
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 114482 stars."
+  }
+}
