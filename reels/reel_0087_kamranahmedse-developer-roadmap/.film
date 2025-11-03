@@ -1,0 +1,24 @@
+{
+  "reel_number": 87,
+  "recorded": "2025-11-03 19:27:42 UTC",
+  "repository": {
+    "full_name": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "clone_url": "https://github.com/kamranahmedse/developer-roadmap.git",
+    "stars": 342674,
+    "language": "TypeScript",
+    "size_kb": 355433
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 347,
+    "duration_seconds": 3.843148
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 342674 stars."
+  }
+}
