@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #92 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | Dockerfile · ⭐ 104k | 2025-11-03 |
+| #93 | [TuringLang/Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) | Julia · ⭐ 257 | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -159,3 +159,4 @@ Or let GitHub Action run it automatically.
 | 90 | 2025-11-03 20:20:37 | [ollama/ollama](https://github.com/ollama/ollama) | ✅ full (155299⭐ Go) | [reels/reel_0090_ollama-ollama](reels/reel_0090_ollama-ollama) |
 | 91 | 2025-11-03 20:42:00 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | ✅ full (182453⭐ Shell) | [reels/reel_0091_ohmyzsh-ohmyzsh](reels/reel_0091_ohmyzsh-ohmyzsh) |
 | 92 | 2025-11-03 20:52:08 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ full (104479⭐ Dockerfile) | [reels/reel_0092_goldbergyoni-nodebestpractices](reels/reel_0092_goldbergyoni-nodebestpractices) |
+| 93 | 2025-11-03 21:16:36 | [TuringLang/Bijectors.jl](https://github.com/TuringLang/Bijectors.jl) | ✅ full (257⭐ Julia) | [reels/reel_0093_TuringLang-Bijectors.jl](reels/reel_0093_TuringLang-Bijectors.jl) |
