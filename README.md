@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #76 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-03 |
+| #77 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 432k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -143,3 +143,4 @@ Or let GitHub Action run it automatically.
 | 74 | 2025-11-03 14:43:52 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | ✅ full (114355⭐ HTML) | [reels/reel_0074_DigitalPlatDev-FreeDomain](reels/reel_0074_DigitalPlatDev-FreeDomain) |
 | 75 | 2025-11-03 14:54:13 | [polca/premise](https://github.com/polca/premise) | ✅ readme_only (152⭐ Jupyter Notebook) | [reels/reel_0075_polca-premise](reels/reel_0075_polca-premise) |
 | 76 | 2025-11-03 15:19:11 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98510⭐ Rust) | [reels/reel_0076_tauri-apps-tauri](reels/reel_0076_tauri-apps-tauri) |
+| 77 | 2025-11-03 15:42:48 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (432986⭐ Markdown) | [reels/reel_0077_codecrafters-io-build-your-own-x](reels/reel_0077_codecrafters-io-build-your-own-x) |
