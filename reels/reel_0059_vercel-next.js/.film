@@ -1,0 +1,24 @@
+{
+  "reel_number": 59,
+  "recorded": "2025-11-03 07:49:46 UTC",
+  "repository": {
+    "full_name": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "clone_url": "https://github.com/vercel/next.js.git",
+    "stars": 135426,
+    "language": "JavaScript",
+    "size_kb": 2391952
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 2335,
+    "duration_seconds": 0.000113
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 135426 stars."
+  }
+}
