@@ -1,0 +1,24 @@
+{
+  "reel_number": 70,
+  "recorded": "2025-11-03 12:38:30 UTC",
+  "repository": {
+    "full_name": "gophercloud/gophercloud",
+    "url": "https://github.com/gophercloud/gophercloud",
+    "clone_url": "https://github.com/gophercloud/gophercloud.git",
+    "stars": 967,
+    "language": "Go",
+    "size_kb": 13019
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.814747
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 967 stars."
+  }
+}
