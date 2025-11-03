@@ -1,0 +1,24 @@
+{
+  "reel_number": 60,
+  "recorded": "2025-11-03 08:26:06 UTC",
+  "repository": {
+    "full_name": "gentoo-mirror/gentoo",
+    "url": "https://github.com/gentoo-mirror/gentoo",
+    "clone_url": "https://github.com/gentoo-mirror/gentoo.git",
+    "stars": 184,
+    "language": "Shell",
+    "size_kb": 9156040
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 8941,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 184 stars."
+  }
+}
