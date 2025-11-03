@@ -1,0 +1,24 @@
+{
+  "reel_number": 48,
+  "recorded": "2025-11-03 03:01:36 UTC",
+  "repository": {
+    "full_name": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "clone_url": "https://github.com/excalidraw/excalidraw.git",
+    "stars": 109549,
+    "language": "TypeScript",
+    "size_kb": 97126
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 94,
+    "duration_seconds": 5.111964
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 109549 stars."
+  }
+}

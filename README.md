@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #47 | [mae-creative-pc/cpac_course_2025-26](https://github.com/mae-creative-pc/cpac_course_2025-26) | Jupyter Notebook · ⭐ 12 | 2025-11-03 |
+| #48 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | TypeScript · ⭐ 109k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -114,3 +114,4 @@ Or let GitHub Action run it automatically.
 | 45 | 2025-11-02 23:36:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107577⭐ Rust) | [reels/reel_0045_rust-lang-rust](reels/reel_0045_rust-lang-rust) |
 | 46 | 2025-11-02 23:50:23 | [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) | ✅ full (546⭐ Java) | [reels/reel_0046_ViaVersion-ViaFabricPlus](reels/reel_0046_ViaVersion-ViaFabricPlus) |
 | 47 | 2025-11-03 01:24:59 | [mae-creative-pc/cpac_course_2025-26](https://github.com/mae-creative-pc/cpac_course_2025-26) | ✅ shallow (12⭐ Jupyter Notebook) | [reels/reel_0047_mae-creative-pc-cpac_course_2025-26](reels/reel_0047_mae-creative-pc-cpac_course_2025-26) |
+| 48 | 2025-11-03 03:01:36 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | ✅ full (109549⭐ TypeScript) | [reels/reel_0048_excalidraw-excalidraw](reels/reel_0048_excalidraw-excalidraw) |
