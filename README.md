@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #84 | [gestaogovbr/Ro-dou](https://github.com/gestaogovbr/Ro-dou) | Python · ⭐ 164 | 2025-11-03 |
+| #85 | [mui/material-ui](https://github.com/mui/material-ui) | TypeScript · ⭐ 96k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -151,3 +151,4 @@ Or let GitHub Action run it automatically.
 | 82 | 2025-11-03 17:40:25 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256176⭐ None) | [reels/reel_0082_awesome-selfhosted-awesome-selfhosted](reels/reel_0082_awesome-selfhosted-awesome-selfhosted) |
 | 83 | 2025-11-03 17:50:41 | [denoland/deno](https://github.com/denoland/deno) | ✅ shallow (105010⭐ Rust) | [reels/reel_0083_denoland-deno](reels/reel_0083_denoland-deno) |
 | 84 | 2025-11-03 18:25:35 | [gestaogovbr/Ro-dou](https://github.com/gestaogovbr/Ro-dou) | ✅ full (164⭐ Python) | [reels/reel_0084_gestaogovbr-Ro-dou](reels/reel_0084_gestaogovbr-Ro-dou) |
+| 85 | 2025-11-03 18:46:28 | [mui/material-ui](https://github.com/mui/material-ui) | ✅ readme_only (96923⭐ TypeScript) | [reels/reel_0085_mui-material-ui](reels/reel_0085_mui-material-ui) |
