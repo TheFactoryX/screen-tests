@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #87 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | TypeScript · ⭐ 342k | 2025-11-03 |
+| #88 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -154,3 +154,4 @@ Or let GitHub Action run it automatically.
 | 85 | 2025-11-03 18:46:28 | [mui/material-ui](https://github.com/mui/material-ui) | ✅ readme_only (96923⭐ TypeScript) | [reels/reel_0085_mui-material-ui](reels/reel_0085_mui-material-ui) |
 | 86 | 2025-11-03 19:14:28 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179461⭐ Python) | [reels/reel_0086_Significant-Gravitas-AutoGPT](reels/reel_0086_Significant-Gravitas-AutoGPT) |
 | 87 | 2025-11-03 19:27:42 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | ✅ shallow (342674⭐ TypeScript) | [reels/reel_0087_kamranahmedse-developer-roadmap](reels/reel_0087_kamranahmedse-developer-roadmap) |
+| 88 | 2025-11-03 19:39:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114115⭐ JavaScript) | [reels/reel_0088_open-webui-open-webui](reels/reel_0088_open-webui-open-webui) |
