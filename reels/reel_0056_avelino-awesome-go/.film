@@ -1,0 +1,24 @@
+{
+  "reel_number": 56,
+  "recorded": "2025-11-03 06:53:30 UTC",
+  "repository": {
+    "full_name": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "clone_url": "https://github.com/avelino/awesome-go.git",
+    "stars": 156433,
+    "language": "Go",
+    "size_kb": 10852
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 2.103153
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 156433 stars."
+  }
+}
