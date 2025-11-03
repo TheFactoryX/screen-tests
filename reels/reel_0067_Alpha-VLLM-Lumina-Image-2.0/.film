@@ -1,0 +1,24 @@
+{
+  "reel_number": 67,
+  "recorded": "2025-11-03 11:15:33 UTC",
+  "repository": {
+    "full_name": "Alpha-VLLM/Lumina-Image-2.0",
+    "url": "https://github.com/Alpha-VLLM/Lumina-Image-2.0",
+    "clone_url": "https://github.com/Alpha-VLLM/Lumina-Image-2.0.git",
+    "stars": 814,
+    "language": "Python",
+    "size_kb": 71324
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 69,
+    "duration_seconds": 1.384864
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 814 stars."
+  }
+}
