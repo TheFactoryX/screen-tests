@@ -1,0 +1,24 @@
+{
+  "reel_number": 55,
+  "recorded": "2025-11-03 06:29:01 UTC",
+  "repository": {
+    "full_name": "Epodonios/bulk-xray-v2ray-vless-vmess-...-configs",
+    "url": "https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs",
+    "clone_url": "https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs.git",
+    "stars": 291,
+    "language": "Python",
+    "size_kb": 22705
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 22,
+    "duration_seconds": 3.74926
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 291 stars."
+  }
+}
