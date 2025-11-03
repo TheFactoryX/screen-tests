@@ -1,0 +1,24 @@
+{
+  "reel_number": 91,
+  "recorded": "2025-11-03 20:42:00 UTC",
+  "repository": {
+    "full_name": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "clone_url": "https://github.com/ohmyzsh/ohmyzsh.git",
+    "stars": 182453,
+    "language": "Shell",
+    "size_kb": 13261
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 0.801012
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 182453 stars."
+  }
+}
