@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #63 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-03 |
+| #64 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 98k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -130,3 +130,4 @@ Or let GitHub Action run it automatically.
 | 61 | 2025-11-03 08:49:59 | [thewca/worldcubeassociation.org](https://github.com/thewca/worldcubeassociation.org) | ✅ shallow (374⭐ Ruby) | [reels/reel_0061_thewca-worldcubeassociation.org](reels/reel_0061_thewca-worldcubeassociation.org) |
 | 62 | 2025-11-03 09:21:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114072⭐ JavaScript) | [reels/reel_0062_open-webui-open-webui](reels/reel_0062_open-webui-open-webui) |
 | 63 | 2025-11-03 09:44:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179452⭐ Python) | [reels/reel_0063_Significant-Gravitas-AutoGPT](reels/reel_0063_Significant-Gravitas-AutoGPT) |
+| 64 | 2025-11-03 09:54:51 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98898⭐ TypeScript) | [reels/reel_0064_shadcn-ui-ui](reels/reel_0064_shadcn-ui-ui) |
