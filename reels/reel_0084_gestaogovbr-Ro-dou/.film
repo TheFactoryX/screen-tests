@@ -1,0 +1,24 @@
+{
+  "reel_number": 84,
+  "recorded": "2025-11-03 18:25:35 UTC",
+  "repository": {
+    "full_name": "gestaogovbr/Ro-dou",
+    "url": "https://github.com/gestaogovbr/Ro-dou",
+    "clone_url": "https://github.com/gestaogovbr/Ro-dou.git",
+    "stars": 164,
+    "language": "Python",
+    "size_kb": 4366
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.33616
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 164 stars."
+  }
+}
