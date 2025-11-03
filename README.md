@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #78 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript · ⭐ 178k | 2025-11-03 |
+| #79 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 98k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -145,3 +145,4 @@ Or let GitHub Action run it automatically.
 | 76 | 2025-11-03 15:19:11 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98510⭐ Rust) | [reels/reel_0076_tauri-apps-tauri](reels/reel_0076_tauri-apps-tauri) |
 | 77 | 2025-11-03 15:42:48 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (432986⭐ Markdown) | [reels/reel_0077_codecrafters-io-build-your-own-x](reels/reel_0077_codecrafters-io-build-your-own-x) |
 | 78 | 2025-11-03 15:52:49 | [microsoft/vscode](https://github.com/microsoft/vscode) | ✅ readme_only (178163⭐ TypeScript) | [reels/reel_0078_microsoft-vscode](reels/reel_0078_microsoft-vscode) |
+| 79 | 2025-11-03 16:21:14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98919⭐ TypeScript) | [reels/reel_0079_shadcn-ui-ui](reels/reel_0079_shadcn-ui-ui) |
