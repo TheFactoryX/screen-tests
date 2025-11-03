@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #56 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | Go · ⭐ 156k | 2025-11-03 |
+| #57 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python · ⭐ 375k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -123,3 +123,4 @@ Or let GitHub Action run it automatically.
 | 54 | 2025-11-03 05:51:49 | [facebook/create-react-app](https://github.com/facebook/create-react-app) | ✅ full (103823⭐ JavaScript) | [reels/reel_0054_facebook-create-react-app](reels/reel_0054_facebook-create-react-app) |
 | 55 | 2025-11-03 06:29:01 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs) | ✅ full (291⭐ Python) | [reels/reel_0055_Epodonios-bulk-xray-v2ray-vless-vmess-...-configs](reels/reel_0055_Epodonios-bulk-xray-v2ray-vless-vmess-...-configs) |
 | 56 | 2025-11-03 06:53:30 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | ✅ full (156433⭐ Go) | [reels/reel_0056_avelino-awesome-go](reels/reel_0056_avelino-awesome-go) |
+| 57 | 2025-11-03 07:18:25 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ✅ full (375948⭐ Python) | [reels/reel_0057_EbookFoundation-free-programming-books](reels/reel_0057_EbookFoundation-free-programming-books) |
