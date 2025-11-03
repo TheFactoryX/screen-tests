@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #97 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | TypeScript · ⭐ 92k | 2025-11-03 |
+| #98 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -164,3 +164,4 @@ Or let GitHub Action run it automatically.
 | 95 | 2025-11-03 21:50:10 | [torvalds/linux](https://github.com/torvalds/linux) | ✅ readme_only (206238⭐ C) | [reels/reel_0095_torvalds-linux](reels/reel_0095_torvalds-linux) |
 | 96 | 2025-11-03 22:17:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137048⭐ Python) | [reels/reel_0096_langflow-ai-langflow](reels/reel_0096_langflow-ai-langflow) |
 | 97 | 2025-11-03 22:40:56 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | ✅ readme_only (92789⭐ TypeScript) | [reels/reel_0097_puppeteer-puppeteer](reels/reel_0097_puppeteer-puppeteer) |
+| 98 | 2025-11-03 22:50:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256215⭐ None) | [reels/reel_0098_awesome-selfhosted-awesome-selfhosted](reels/reel_0098_awesome-selfhosted-awesome-selfhosted) |
