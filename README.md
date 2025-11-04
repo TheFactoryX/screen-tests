@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #138 | [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) | PHP · ⭐ 399 | 2025-11-04 |
+| #139 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -205,3 +205,4 @@ Or let GitHub Action run it automatically.
 | 136 | 2025-11-04 16:48:00 | [terracotta-education/terracotta](https://github.com/terracotta-education/terracotta) | ✅ full (17⭐ Java) | [reels/reel_0136_terracotta-education-terracotta](reels/reel_0136_terracotta-education-terracotta) |
 | 137 | 2025-11-04 17:13:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (153980⭐ TypeScript) | [reels/reel_0137_n8n-io-n8n](reels/reel_0137_n8n-io-n8n) |
 | 138 | 2025-11-04 17:32:25 | [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) | ✅ shallow (399⭐ PHP) | [reels/reel_0138_tt-rss-tt-rss](reels/reel_0138_tt-rss-tt-rss) |
+| 139 | 2025-11-04 17:50:12 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96527⭐ TypeScript) | [reels/reel_0139_ant-design-ant-design](reels/reel_0139_ant-design-ant-design) |
