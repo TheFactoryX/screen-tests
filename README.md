@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #136 | [terracotta-education/terracotta](https://github.com/terracotta-education/terracotta) | Java · ⭐ 17 | 2025-11-04 |
+| #137 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 153k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -203,3 +203,4 @@ Or let GitHub Action run it automatically.
 | 134 | 2025-11-04 15:54:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (248839⭐ None) | [reels/reel_0134_practical-tutorials-project-based-learning](reels/reel_0134_practical-tutorials-project-based-learning) |
 | 135 | 2025-11-04 16:22:04 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256331⭐ None) | [reels/reel_0135_awesome-selfhosted-awesome-selfhosted](reels/reel_0135_awesome-selfhosted-awesome-selfhosted) |
 | 136 | 2025-11-04 16:48:00 | [terracotta-education/terracotta](https://github.com/terracotta-education/terracotta) | ✅ full (17⭐ Java) | [reels/reel_0136_terracotta-education-terracotta](reels/reel_0136_terracotta-education-terracotta) |
+| 137 | 2025-11-04 17:13:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (153980⭐ TypeScript) | [reels/reel_0137_n8n-io-n8n](reels/reel_0137_n8n-io-n8n) |
