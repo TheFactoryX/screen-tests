@@ -1,0 +1,24 @@
+{
+  "reel_number": 150,
+  "recorded": "2025-11-04 21:37:58 UTC",
+  "repository": {
+    "full_name": "sopt-makers/sopt-playground-frontend",
+    "url": "https://github.com/sopt-makers/sopt-playground-frontend",
+    "clone_url": "https://github.com/sopt-makers/sopt-playground-frontend.git",
+    "stars": 85,
+    "language": "TypeScript",
+    "size_kb": 742473
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 725,
+    "duration_seconds": 0.000135
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 85 stars."
+  }
+}

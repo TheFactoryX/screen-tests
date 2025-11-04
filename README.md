@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #149 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-04 |
+| #150 | [sopt-makers/sopt-playground-frontend](https://github.com/sopt-makers/sopt-playground-frontend) | TypeScript · ⭐ 85 | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -216,3 +216,4 @@ Or let GitHub Action run it automatically.
 | 147 | 2025-11-04 20:42:16 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ✅ shallow (129736⭐ Markdown) | [reels/reel_0147_labuladong-fucking-algorithm](reels/reel_0147_labuladong-fucking-algorithm) |
 | 148 | 2025-11-04 20:52:52 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107630⭐ Rust) | [reels/reel_0148_rust-lang-rust](reels/reel_0148_rust-lang-rust) |
 | 149 | 2025-11-04 21:16:49 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91441⭐ None) | [reels/reel_0149_deepseek-ai-DeepSeek-R1](reels/reel_0149_deepseek-ai-DeepSeek-R1) |
+| 150 | 2025-11-04 21:37:58 | [sopt-makers/sopt-playground-frontend](https://github.com/sopt-makers/sopt-playground-frontend) | ✅ readme_only (85⭐ TypeScript) | [reels/reel_0150_sopt-makers-sopt-playground-frontend](reels/reel_0150_sopt-makers-sopt-playground-frontend) |
