@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #121 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-04 |
+| #122 | [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge) | Rust · ⭐ 510 | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -188,3 +188,4 @@ Or let GitHub Action run it automatically.
 | 119 | 2025-11-04 09:43:19 | [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti) | ✅ shallow (370⭐ TypeScript) | [reels/reel_0119_hyperledger-cacti-cacti](reels/reel_0119_hyperledger-cacti-cacti) |
 | 120 | 2025-11-04 09:53:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (133765⭐ Python) | [reels/reel_0120_yt-dlp-yt-dlp](reels/reel_0120_yt-dlp-yt-dlp) |
 | 121 | 2025-11-04 10:21:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114191⭐ JavaScript) | [reels/reel_0121_open-webui-open-webui](reels/reel_0121_open-webui-open-webui) |
+| 122 | 2025-11-04 10:46:57 | [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge) | ✅ full (510⭐ Rust) | [reels/reel_0122_rust-lang-rust-forge](reels/reel_0122_rust-lang-rust-forge) |
