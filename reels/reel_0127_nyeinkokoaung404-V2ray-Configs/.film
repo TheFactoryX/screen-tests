@@ -1,0 +1,24 @@
+{
+  "reel_number": 127,
+  "recorded": "2025-11-04 13:22:49 UTC",
+  "repository": {
+    "full_name": "nyeinkokoaung404/V2ray-Configs",
+    "url": "https://github.com/nyeinkokoaung404/V2ray-Configs",
+    "clone_url": "https://github.com/nyeinkokoaung404/V2ray-Configs.git",
+    "stars": 116,
+    "language": "HTML",
+    "size_kb": 5147164
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 5026,
+    "duration_seconds": 0.000182
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 116 stars."
+  }
+}
