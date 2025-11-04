@@ -1,0 +1,24 @@
+{
+  "reel_number": 107,
+  "recorded": "2025-11-04 04:52:11 UTC",
+  "repository": {
+    "full_name": "AvenCores/goida-vpn-configs",
+    "url": "https://github.com/AvenCores/goida-vpn-configs",
+    "clone_url": "https://github.com/AvenCores/goida-vpn-configs.git",
+    "stars": 501,
+    "language": "Python",
+    "size_kb": 3446995
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 3366,
+    "duration_seconds": 0.000146
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 501 stars."
+  }
+}
