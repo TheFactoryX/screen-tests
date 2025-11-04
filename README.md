@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #123 | [neovim/neovim](https://github.com/neovim/neovim) | Vim Script · ⭐ 93k | 2025-11-04 |
+| #124 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -190,3 +190,4 @@ Or let GitHub Action run it automatically.
 | 121 | 2025-11-04 10:21:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114191⭐ JavaScript) | [reels/reel_0121_open-webui-open-webui](reels/reel_0121_open-webui-open-webui) |
 | 122 | 2025-11-04 10:46:57 | [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge) | ✅ full (510⭐ Rust) | [reels/reel_0122_rust-lang-rust-forge](reels/reel_0122_rust-lang-rust-forge) |
 | 123 | 2025-11-04 11:16:26 | [neovim/neovim](https://github.com/neovim/neovim) | ✅ shallow (93949⭐ Vim Script) | [reels/reel_0123_neovim-neovim](reels/reel_0123_neovim-neovim) |
+| 124 | 2025-11-04 11:38:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256282⭐ None) | [reels/reel_0124_awesome-selfhosted-awesome-selfhosted](reels/reel_0124_awesome-selfhosted-awesome-selfhosted) |
