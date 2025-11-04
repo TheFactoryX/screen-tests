@@ -1,0 +1,24 @@
+{
+  "reel_number": 145,
+  "recorded": "2025-11-04 19:50:23 UTC",
+  "repository": {
+    "full_name": "edde746/plezy",
+    "url": "https://github.com/edde746/plezy",
+    "clone_url": "https://github.com/edde746/plezy.git",
+    "stars": 331,
+    "language": "Dart",
+    "size_kb": 55429
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 54,
+    "duration_seconds": 1.228417
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 331 stars."
+  }
+}
