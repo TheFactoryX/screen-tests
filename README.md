@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #114 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java · ⭐ 152k | 2025-11-04 |
+| #115 | [golang/go](https://github.com/golang/go) | Go · ⭐ 130k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -181,3 +181,4 @@ Or let GitHub Action run it automatically.
 | 112 | 2025-11-04 06:52:27 | [ipstreet312/freeiptv](https://github.com/ipstreet312/freeiptv) | ✅ shallow (302⭐ Python) | [reels/reel_0112_ipstreet312-freeiptv](reels/reel_0112_ipstreet312-freeiptv) |
 | 113 | 2025-11-04 07:17:53 | [shaoyouvip/free](https://github.com/shaoyouvip/free) | ✅ full (319⭐ None) | [reels/reel_0113_shaoyouvip-free](reels/reel_0113_shaoyouvip-free) |
 | 114 | 2025-11-04 07:39:28 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | ✅ shallow (152390⭐ Java) | [reels/reel_0114_Snailclimb-JavaGuide](reels/reel_0114_Snailclimb-JavaGuide) |
+| 115 | 2025-11-04 07:50:04 | [golang/go](https://github.com/golang/go) | ✅ shallow (130659⭐ Go) | [reels/reel_0115_golang-go](reels/reel_0115_golang-go) |

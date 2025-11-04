@@ -1,0 +1,24 @@
+{
+  "reel_number": 115,
+  "recorded": "2025-11-04 07:50:04 UTC",
+  "repository": {
+    "full_name": "golang/go",
+    "url": "https://github.com/golang/go",
+    "clone_url": "https://github.com/golang/go.git",
+    "stars": 130659,
+    "language": "Go",
+    "size_kb": 416593
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 406,
+    "duration_seconds": 4.172858
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 130659 stars."
+  }
+}
