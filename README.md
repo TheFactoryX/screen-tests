@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #103 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-04 |
+| #104 | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Python · ⭐ 92k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -170,3 +170,4 @@ Or let GitHub Action run it automatically.
 | 101 | 2025-11-03 23:49:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98938⭐ TypeScript) | [reels/reel_0101_shadcn-ui-ui](reels/reel_0101_shadcn-ui-ui) |
 | 102 | 2025-11-04 01:21:42 | [facebook/react-native](https://github.com/facebook/react-native) | ✅ readme_only (124399⭐ C++) | [reels/reel_0102_facebook-react-native](reels/reel_0102_facebook-react-native) |
 | 103 | 2025-11-04 02:54:27 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96524⭐ TypeScript) | [reels/reel_0103_ant-design-ant-design](reels/reel_0103_ant-design-ant-design) |
+| 104 | 2025-11-04 03:41:00 | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | ✅ full (92677⭐ Python) | [reels/reel_0104_comfyanonymous-ComfyUI](reels/reel_0104_comfyanonymous-ComfyUI) |
