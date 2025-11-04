@@ -1,0 +1,24 @@
+{
+  "reel_number": 119,
+  "recorded": "2025-11-04 09:43:19 UTC",
+  "repository": {
+    "full_name": "hyperledger-cacti/cacti",
+    "url": "https://github.com/hyperledger-cacti/cacti",
+    "clone_url": "https://github.com/hyperledger-cacti/cacti.git",
+    "stars": 370,
+    "language": "TypeScript",
+    "size_kb": 218160
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 213,
+    "duration_seconds": 2.669021
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 370 stars."
+  }
+}
