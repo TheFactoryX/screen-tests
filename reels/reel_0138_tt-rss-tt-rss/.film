@@ -1,0 +1,24 @@
+{
+  "reel_number": 138,
+  "recorded": "2025-11-04 17:32:25 UTC",
+  "repository": {
+    "full_name": "tt-rss/tt-rss",
+    "url": "https://github.com/tt-rss/tt-rss",
+    "clone_url": "https://github.com/tt-rss/tt-rss.git",
+    "stars": 399,
+    "language": "PHP",
+    "size_kb": 125938
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 122,
+    "duration_seconds": 0.789843
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 399 stars."
+  }
+}
