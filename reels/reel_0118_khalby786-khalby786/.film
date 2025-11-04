@@ -1,0 +1,24 @@
+{
+  "reel_number": 118,
+  "recorded": "2025-11-04 09:20:30 UTC",
+  "repository": {
+    "full_name": "khalby786/khalby786",
+    "url": "https://github.com/khalby786/khalby786",
+    "clone_url": "https://github.com/khalby786/khalby786.git",
+    "stars": 175,
+    "language": null,
+    "size_kb": 23595
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 0.857565
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 175 stars."
+  }
+}
