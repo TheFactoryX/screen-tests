@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #102 | [facebook/react-native](https://github.com/facebook/react-native) | C++ · ⭐ 124k | 2025-11-04 |
+| #103 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -169,3 +169,4 @@ Or let GitHub Action run it automatically.
 | 100 | 2025-11-03 23:37:35 | [facebook/react](https://github.com/facebook/react) | ✅ readme_only (240282⭐ JavaScript) | [reels/reel_0100_facebook-react](reels/reel_0100_facebook-react) |
 | 101 | 2025-11-03 23:49:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98938⭐ TypeScript) | [reels/reel_0101_shadcn-ui-ui](reels/reel_0101_shadcn-ui-ui) |
 | 102 | 2025-11-04 01:21:42 | [facebook/react-native](https://github.com/facebook/react-native) | ✅ readme_only (124399⭐ C++) | [reels/reel_0102_facebook-react-native](reels/reel_0102_facebook-react-native) |
+| 103 | 2025-11-04 02:54:27 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96524⭐ TypeScript) | [reels/reel_0103_ant-design-ant-design](reels/reel_0103_ant-design-ant-design) |
