@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #104 | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Python · ⭐ 92k | 2025-11-04 |
+| #105 | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | Java · ⭐ 103k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -171,3 +171,4 @@ Or let GitHub Action run it automatically.
 | 102 | 2025-11-04 01:21:42 | [facebook/react-native](https://github.com/facebook/react-native) | ✅ readme_only (124399⭐ C++) | [reels/reel_0102_facebook-react-native](reels/reel_0102_facebook-react-native) |
 | 103 | 2025-11-04 02:54:27 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96524⭐ TypeScript) | [reels/reel_0103_ant-design-ant-design](reels/reel_0103_ant-design-ant-design) |
 | 104 | 2025-11-04 03:41:00 | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | ✅ full (92677⭐ Python) | [reels/reel_0104_comfyanonymous-ComfyUI](reels/reel_0104_comfyanonymous-ComfyUI) |
+| 105 | 2025-11-04 03:58:29 | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | ✅ shallow (103453⭐ Java) | [reels/reel_0105_GrowingGit-GitHub-Chinese-Top-Charts](reels/reel_0105_GrowingGit-GitHub-Chinese-Top-Charts) |

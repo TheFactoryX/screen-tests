@@ -1,0 +1,24 @@
+{
+  "reel_number": 105,
+  "recorded": "2025-11-04 03:58:29 UTC",
+  "repository": {
+    "full_name": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "clone_url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git",
+    "stars": 103453,
+    "language": "Java",
+    "size_kb": 123199
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 120,
+    "duration_seconds": 0.37546
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 103453 stars."
+  }
+}
