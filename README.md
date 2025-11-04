@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #143 | [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) | TypeScript · ⭐ 6k | 2025-11-04 |
+| #144 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python · ⭐ 267k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -210,3 +210,4 @@ Or let GitHub Action run it automatically.
 | 141 | 2025-11-04 18:50:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99010⭐ TypeScript) | [reels/reel_0141_shadcn-ui-ui](reels/reel_0141_shadcn-ui-ui) |
 | 142 | 2025-11-04 19:14:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137133⭐ Python) | [reels/reel_0142_langflow-ai-langflow](reels/reel_0142_langflow-ai-langflow) |
 | 143 | 2025-11-04 19:28:18 | [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) | ✅ full (6683⭐ TypeScript) | [reels/reel_0143_Snouzy-workout-cool](reels/reel_0143_Snouzy-workout-cool) |
+| 144 | 2025-11-04 19:40:02 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | ✅ full (267753⭐ Python) | [reels/reel_0144_vinta-awesome-python](reels/reel_0144_vinta-awesome-python) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 144,
+  "recorded": "2025-11-04 19:40:02 UTC",
+  "repository": {
+    "full_name": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "clone_url": "https://github.com/vinta/awesome-python.git",
+    "stars": 267753,
+    "language": "Python",
+    "size_kb": 6842
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.682751
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 267753 stars."
+  }
+}
