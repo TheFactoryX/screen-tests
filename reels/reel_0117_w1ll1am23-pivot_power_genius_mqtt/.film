@@ -1,0 +1,24 @@
+{
+  "reel_number": 117,
+  "recorded": "2025-11-04 08:49:23 UTC",
+  "repository": {
+    "full_name": "w1ll1am23/pivot_power_genius_mqtt",
+    "url": "https://github.com/w1ll1am23/pivot_power_genius_mqtt",
+    "clone_url": "https://github.com/w1ll1am23/pivot_power_genius_mqtt.git",
+    "stars": 13,
+    "language": "C++",
+    "size_kb": 72060
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 70,
+    "duration_seconds": 1.301253
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 13 stars."
+  }
+}

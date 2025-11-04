@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #116 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python · ⭐ 325k | 2025-11-04 |
+| #117 | [w1ll1am23/pivot_power_genius_mqtt](https://github.com/w1ll1am23/pivot_power_genius_mqtt) | C++ · ⭐ 13 | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -183,3 +183,4 @@ Or let GitHub Action run it automatically.
 | 114 | 2025-11-04 07:39:28 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | ✅ shallow (152390⭐ Java) | [reels/reel_0114_Snailclimb-JavaGuide](reels/reel_0114_Snailclimb-JavaGuide) |
 | 115 | 2025-11-04 07:50:04 | [golang/go](https://github.com/golang/go) | ✅ shallow (130659⭐ Go) | [reels/reel_0115_golang-go](reels/reel_0115_golang-go) |
 | 116 | 2025-11-04 08:25:14 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ✅ full (325424⭐ Python) | [reels/reel_0116_donnemartin-system-design-primer](reels/reel_0116_donnemartin-system-design-primer) |
+| 117 | 2025-11-04 08:49:23 | [w1ll1am23/pivot_power_genius_mqtt](https://github.com/w1ll1am23/pivot_power_genius_mqtt) | ✅ full (13⭐ C++) | [reels/reel_0117_w1ll1am23-pivot_power_genius_mqtt](reels/reel_0117_w1ll1am23-pivot_power_genius_mqtt) |
