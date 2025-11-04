@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #107 | [AvenCores/goida-vpn-configs](https://github.com/AvenCores/goida-vpn-configs) | Python · ⭐ 501 | 2025-11-04 |
+| #108 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# · ⭐ 125k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -174,3 +174,4 @@ Or let GitHub Action run it automatically.
 | 105 | 2025-11-04 03:58:29 | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | ✅ shallow (103453⭐ Java) | [reels/reel_0105_GrowingGit-GitHub-Chinese-Top-Charts](reels/reel_0105_GrowingGit-GitHub-Chinese-Top-Charts) |
 | 106 | 2025-11-04 04:30:13 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96523⭐ TypeScript) | [reels/reel_0106_ant-design-ant-design](reels/reel_0106_ant-design-ant-design) |
 | 107 | 2025-11-04 04:52:11 | [AvenCores/goida-vpn-configs](https://github.com/AvenCores/goida-vpn-configs) | ✅ readme_only (501⭐ Python) | [reels/reel_0107_AvenCores-goida-vpn-configs](reels/reel_0107_AvenCores-goida-vpn-configs) |
+| 108 | 2025-11-04 05:18:03 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | ✅ shallow (125423⭐ C#) | [reels/reel_0108_microsoft-PowerToys](reels/reel_0108_microsoft-PowerToys) |
