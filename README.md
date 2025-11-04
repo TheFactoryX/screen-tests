@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #131 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 133k | 2025-11-04 |
+| #132 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 118k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -198,3 +198,4 @@ Or let GitHub Action run it automatically.
 | 129 | 2025-11-04 14:19:04 | [Universal-Team/db](https://github.com/Universal-Team/db) | ✅ shallow (164⭐ Python) | [reels/reel_0129_Universal-Team-db](reels/reel_0129_Universal-Team-db) |
 | 130 | 2025-11-04 14:44:52 | [indielayer/ui](https://github.com/indielayer/ui) | ✅ full (219⭐ Vue) | [reels/reel_0130_indielayer-ui](reels/reel_0130_indielayer-ui) |
 | 131 | 2025-11-04 14:56:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (133786⭐ Python) | [reels/reel_0131_yt-dlp-yt-dlp](reels/reel_0131_yt-dlp-yt-dlp) |
+| 132 | 2025-11-04 15:24:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (118847⭐ Python) | [reels/reel_0132_langchain-ai-langchain](reels/reel_0132_langchain-ai-langchain) |
