@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #101 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 98k | 2025-11-03 |
+| #102 | [facebook/react-native](https://github.com/facebook/react-native) | C++ · ⭐ 124k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -168,3 +168,4 @@ Or let GitHub Action run it automatically.
 | 99 | 2025-11-03 23:16:16 | [walidbosso/walidbosso](https://github.com/walidbosso/walidbosso) | ✅ full (36⭐ None) | [reels/reel_0099_walidbosso-walidbosso](reels/reel_0099_walidbosso-walidbosso) |
 | 100 | 2025-11-03 23:37:35 | [facebook/react](https://github.com/facebook/react) | ✅ readme_only (240282⭐ JavaScript) | [reels/reel_0100_facebook-react](reels/reel_0100_facebook-react) |
 | 101 | 2025-11-03 23:49:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (98938⭐ TypeScript) | [reels/reel_0101_shadcn-ui-ui](reels/reel_0101_shadcn-ui-ui) |
+| 102 | 2025-11-04 01:21:42 | [facebook/react-native](https://github.com/facebook/react-native) | ✅ readme_only (124399⭐ C++) | [reels/reel_0102_facebook-react-native](reels/reel_0102_facebook-react-native) |
