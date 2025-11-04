@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #145 | [edde746/plezy](https://github.com/edde746/plezy) | Dart · ⭐ 331 | 2025-11-04 |
+| #146 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 133k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -212,3 +212,4 @@ Or let GitHub Action run it automatically.
 | 143 | 2025-11-04 19:28:18 | [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) | ✅ full (6683⭐ TypeScript) | [reels/reel_0143_Snouzy-workout-cool](reels/reel_0143_Snouzy-workout-cool) |
 | 144 | 2025-11-04 19:40:02 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | ✅ full (267753⭐ Python) | [reels/reel_0144_vinta-awesome-python](reels/reel_0144_vinta-awesome-python) |
 | 145 | 2025-11-04 19:50:23 | [edde746/plezy](https://github.com/edde746/plezy) | ✅ full (331⭐ Dart) | [reels/reel_0145_edde746-plezy](reels/reel_0145_edde746-plezy) |
+| 146 | 2025-11-04 20:20:41 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (133807⭐ Python) | [reels/reel_0146_yt-dlp-yt-dlp](reels/reel_0146_yt-dlp-yt-dlp) |
