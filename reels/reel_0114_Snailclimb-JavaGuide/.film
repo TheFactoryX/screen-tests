@@ -1,0 +1,24 @@
+{
+  "reel_number": 114,
+  "recorded": "2025-11-04 07:39:28 UTC",
+  "repository": {
+    "full_name": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "clone_url": "https://github.com/Snailclimb/JavaGuide.git",
+    "stars": 152390,
+    "language": "Java",
+    "size_kb": 177311
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 173,
+    "duration_seconds": 0.62608
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 152390 stars."
+  }
+}
