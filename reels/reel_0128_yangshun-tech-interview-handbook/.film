@@ -1,0 +1,24 @@
+{
+  "reel_number": 128,
+  "recorded": "2025-11-04 13:50:00 UTC",
+  "repository": {
+    "full_name": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "clone_url": "https://github.com/yangshun/tech-interview-handbook.git",
+    "stars": 131571,
+    "language": "TypeScript",
+    "size_kb": 32822
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 1.004333
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 131571 stars."
+  }
+}

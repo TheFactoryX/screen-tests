@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #127 | [nyeinkokoaung404/V2ray-Configs](https://github.com/nyeinkokoaung404/V2ray-Configs) | HTML · ⭐ 116 | 2025-11-04 |
+| #128 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | TypeScript · ⭐ 131k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -194,3 +194,4 @@ Or let GitHub Action run it automatically.
 | 125 | 2025-11-04 11:50:13 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107619⭐ Rust) | [reels/reel_0125_rust-lang-rust](reels/reel_0125_rust-lang-rust) |
 | 126 | 2025-11-04 12:39:59 | [codecrafters-io/build-your-own-kafka](https://github.com/codecrafters-io/build-your-own-kafka) | ✅ full (32⭐ Shell) | [reels/reel_0126_codecrafters-io-build-your-own-kafka](reels/reel_0126_codecrafters-io-build-your-own-kafka) |
 | 127 | 2025-11-04 13:22:49 | [nyeinkokoaung404/V2ray-Configs](https://github.com/nyeinkokoaung404/V2ray-Configs) | ✅ readme_only (116⭐ HTML) | [reels/reel_0127_nyeinkokoaung404-V2ray-Configs](reels/reel_0127_nyeinkokoaung404-V2ray-Configs) |
+| 128 | 2025-11-04 13:50:00 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | ✅ full (131571⭐ TypeScript) | [reels/reel_0128_yangshun-tech-interview-handbook](reels/reel_0128_yangshun-tech-interview-handbook) |
