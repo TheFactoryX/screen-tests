@@ -1,0 +1,24 @@
+{
+  "reel_number": 112,
+  "recorded": "2025-11-04 06:52:27 UTC",
+  "repository": {
+    "full_name": "ipstreet312/freeiptv",
+    "url": "https://github.com/ipstreet312/freeiptv",
+    "clone_url": "https://github.com/ipstreet312/freeiptv.git",
+    "stars": 302,
+    "language": "Python",
+    "size_kb": 133118
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 129,
+    "duration_seconds": 0.45489
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 302 stars."
+  }
+}
