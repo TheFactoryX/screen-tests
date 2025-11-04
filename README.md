@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #141 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-04 |
+| #142 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -208,3 +208,4 @@ Or let GitHub Action run it automatically.
 | 139 | 2025-11-04 17:50:12 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96527⭐ TypeScript) | [reels/reel_0139_ant-design-ant-design](reels/reel_0139_ant-design-ant-design) |
 | 140 | 2025-11-04 18:26:20 | [stacksgov/sips](https://github.com/stacksgov/sips) | ✅ full (146⭐ Shell) | [reels/reel_0140_stacksgov-sips](reels/reel_0140_stacksgov-sips) |
 | 141 | 2025-11-04 18:50:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99010⭐ TypeScript) | [reels/reel_0141_shadcn-ui-ui](reels/reel_0141_shadcn-ui-ui) |
+| 142 | 2025-11-04 19:14:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137133⭐ Python) | [reels/reel_0142_langflow-ai-langflow](reels/reel_0142_langflow-ai-langflow) |
