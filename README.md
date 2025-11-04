@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #108 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# · ⭐ 125k | 2025-11-04 |
+| #109 | [meerk40t/meerk40t](https://github.com/meerk40t/meerk40t) | Python · ⭐ 337 | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -175,3 +175,4 @@ Or let GitHub Action run it automatically.
 | 106 | 2025-11-04 04:30:13 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96523⭐ TypeScript) | [reels/reel_0106_ant-design-ant-design](reels/reel_0106_ant-design-ant-design) |
 | 107 | 2025-11-04 04:52:11 | [AvenCores/goida-vpn-configs](https://github.com/AvenCores/goida-vpn-configs) | ✅ readme_only (501⭐ Python) | [reels/reel_0107_AvenCores-goida-vpn-configs](reels/reel_0107_AvenCores-goida-vpn-configs) |
 | 108 | 2025-11-04 05:18:03 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | ✅ shallow (125423⭐ C#) | [reels/reel_0108_microsoft-PowerToys](reels/reel_0108_microsoft-PowerToys) |
+| 109 | 2025-11-04 05:41:37 | [meerk40t/meerk40t](https://github.com/meerk40t/meerk40t) | ✅ shallow (337⭐ Python) | [reels/reel_0109_meerk40t-meerk40t](reels/reel_0109_meerk40t-meerk40t) |
