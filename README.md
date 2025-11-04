@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #155 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 154k | 2025-11-04 |
+| #156 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -222,3 +222,4 @@ Or let GitHub Action run it automatically.
 | 153 | 2025-11-04 22:41:15 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | ✅ full (91520⭐ Python) | [reels/reel_0153_fastapi-fastapi](reels/reel_0153_fastapi-fastapi) |
 | 154 | 2025-11-04 22:51:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98543⭐ Rust) | [reels/reel_0154_tauri-apps-tauri](reels/reel_0154_tauri-apps-tauri) |
 | 155 | 2025-11-04 23:16:34 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154029⭐ TypeScript) | [reels/reel_0155_n8n-io-n8n](reels/reel_0155_n8n-io-n8n) |
+| 156 | 2025-11-04 23:37:58 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99026⭐ TypeScript) | [reels/reel_0156_shadcn-ui-ui](reels/reel_0156_shadcn-ui-ui) |
