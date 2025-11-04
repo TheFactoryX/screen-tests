@@ -1,0 +1,24 @@
+{
+  "reel_number": 113,
+  "recorded": "2025-11-04 07:17:53 UTC",
+  "repository": {
+    "full_name": "shaoyouvip/free",
+    "url": "https://github.com/shaoyouvip/free",
+    "clone_url": "https://github.com/shaoyouvip/free.git",
+    "stars": 319,
+    "language": null,
+    "size_kb": 9348
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.913019
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 319 stars."
+  }
+}
