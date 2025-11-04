@@ -1,0 +1,24 @@
+{
+  "reel_number": 123,
+  "recorded": "2025-11-04 11:16:26 UTC",
+  "repository": {
+    "full_name": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "clone_url": "https://github.com/neovim/neovim.git",
+    "stars": 93949,
+    "language": "Vim Script",
+    "size_kb": 350073
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 341,
+    "duration_seconds": 3.261984
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vim Script",
+    "director_note": "A Vim Script repository. 93949 stars."
+  }
+}

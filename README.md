@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #122 | [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge) | Rust · ⭐ 510 | 2025-11-04 |
+| #123 | [neovim/neovim](https://github.com/neovim/neovim) | Vim Script · ⭐ 93k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -189,3 +189,4 @@ Or let GitHub Action run it automatically.
 | 120 | 2025-11-04 09:53:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (133765⭐ Python) | [reels/reel_0120_yt-dlp-yt-dlp](reels/reel_0120_yt-dlp-yt-dlp) |
 | 121 | 2025-11-04 10:21:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114191⭐ JavaScript) | [reels/reel_0121_open-webui-open-webui](reels/reel_0121_open-webui-open-webui) |
 | 122 | 2025-11-04 10:46:57 | [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge) | ✅ full (510⭐ Rust) | [reels/reel_0122_rust-lang-rust-forge](reels/reel_0122_rust-lang-rust-forge) |
+| 123 | 2025-11-04 11:16:26 | [neovim/neovim](https://github.com/neovim/neovim) | ✅ shallow (93949⭐ Vim Script) | [reels/reel_0123_neovim-neovim](reels/reel_0123_neovim-neovim) |
