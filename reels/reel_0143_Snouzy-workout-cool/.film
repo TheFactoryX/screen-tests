@@ -1,0 +1,24 @@
+{
+  "reel_number": 143,
+  "recorded": "2025-11-04 19:28:18 UTC",
+  "repository": {
+    "full_name": "Snouzy/workout-cool",
+    "url": "https://github.com/Snouzy/workout-cool",
+    "clone_url": "https://github.com/Snouzy/workout-cool.git",
+    "stars": 6683,
+    "language": "TypeScript",
+    "size_kb": 9087
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.34297
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 6683 stars."
+  }
+}
