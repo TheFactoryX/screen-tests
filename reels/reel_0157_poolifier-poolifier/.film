@@ -1,0 +1,24 @@
+{
+  "reel_number": 157,
+  "recorded": "2025-11-04 23:50:15 UTC",
+  "repository": {
+    "full_name": "poolifier/poolifier",
+    "url": "https://github.com/poolifier/poolifier",
+    "clone_url": "https://github.com/poolifier/poolifier.git",
+    "stars": 434,
+    "language": "JavaScript",
+    "size_kb": 33363
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 2.992485
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 434 stars."
+  }
+}
