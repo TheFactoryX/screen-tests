@@ -1,0 +1,24 @@
+{
+  "reel_number": 111,
+  "recorded": "2025-11-04 06:28:14 UTC",
+  "repository": {
+    "full_name": "hmislk/hmis",
+    "url": "https://github.com/hmislk/hmis",
+    "clone_url": "https://github.com/hmislk/hmis.git",
+    "stars": 186,
+    "language": "HTML",
+    "size_kb": 194178
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 189,
+    "duration_seconds": 6.457712
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 186 stars."
+  }
+}

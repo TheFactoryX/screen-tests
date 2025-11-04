@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #110 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 375k | 2025-11-04 |
+| #111 | [hmislk/hmis](https://github.com/hmislk/hmis) | HTML · ⭐ 186 | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -177,3 +177,4 @@ Or let GitHub Action run it automatically.
 | 108 | 2025-11-04 05:18:03 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | ✅ shallow (125423⭐ C#) | [reels/reel_0108_microsoft-PowerToys](reels/reel_0108_microsoft-PowerToys) |
 | 109 | 2025-11-04 05:41:37 | [meerk40t/meerk40t](https://github.com/meerk40t/meerk40t) | ✅ shallow (337⭐ Python) | [reels/reel_0109_meerk40t-meerk40t](reels/reel_0109_meerk40t-meerk40t) |
 | 110 | 2025-11-04 05:50:56 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (375612⭐ Python) | [reels/reel_0110_public-apis-public-apis](reels/reel_0110_public-apis-public-apis) |
+| 111 | 2025-11-04 06:28:14 | [hmislk/hmis](https://github.com/hmislk/hmis) | ✅ shallow (186⭐ HTML) | [reels/reel_0111_hmislk-hmis](reels/reel_0111_hmislk-hmis) |
