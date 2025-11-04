@@ -1,0 +1,24 @@
+{
+  "reel_number": 130,
+  "recorded": "2025-11-04 14:44:52 UTC",
+  "repository": {
+    "full_name": "indielayer/ui",
+    "url": "https://github.com/indielayer/ui",
+    "clone_url": "https://github.com/indielayer/ui.git",
+    "stars": 219,
+    "language": "Vue",
+    "size_kb": 6089
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.672931
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 219 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #129 | [Universal-Team/db](https://github.com/Universal-Team/db) | Python · ⭐ 164 | 2025-11-04 |
+| #130 | [indielayer/ui](https://github.com/indielayer/ui) | Vue · ⭐ 219 | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -196,3 +196,4 @@ Or let GitHub Action run it automatically.
 | 127 | 2025-11-04 13:22:49 | [nyeinkokoaung404/V2ray-Configs](https://github.com/nyeinkokoaung404/V2ray-Configs) | ✅ readme_only (116⭐ HTML) | [reels/reel_0127_nyeinkokoaung404-V2ray-Configs](reels/reel_0127_nyeinkokoaung404-V2ray-Configs) |
 | 128 | 2025-11-04 13:50:00 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | ✅ full (131571⭐ TypeScript) | [reels/reel_0128_yangshun-tech-interview-handbook](reels/reel_0128_yangshun-tech-interview-handbook) |
 | 129 | 2025-11-04 14:19:04 | [Universal-Team/db](https://github.com/Universal-Team/db) | ✅ shallow (164⭐ Python) | [reels/reel_0129_Universal-Team-db](reels/reel_0129_Universal-Team-db) |
+| 130 | 2025-11-04 14:44:52 | [indielayer/ui](https://github.com/indielayer/ui) | ✅ full (219⭐ Vue) | [reels/reel_0130_indielayer-ui](reels/reel_0130_indielayer-ui) |
