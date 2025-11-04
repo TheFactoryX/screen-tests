@@ -1,0 +1,24 @@
+{
+  "reel_number": 147,
+  "recorded": "2025-11-04 20:42:16 UTC",
+  "repository": {
+    "full_name": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "clone_url": "https://github.com/labuladong/fucking-algorithm.git",
+    "stars": 129736,
+    "language": "Markdown",
+    "size_kb": 125383
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 122,
+    "duration_seconds": 1.669251
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Markdown",
+    "director_note": "A Markdown repository. 129736 stars."
+  }
+}
