@@ -1,0 +1,24 @@
+{
+  "reel_number": 153,
+  "recorded": "2025-11-04 22:41:15 UTC",
+  "repository": {
+    "full_name": "fastapi/fastapi",
+    "url": "https://github.com/fastapi/fastapi",
+    "clone_url": "https://github.com/fastapi/fastapi.git",
+    "stars": 91520,
+    "language": "Python",
+    "size_kb": 28581
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 3.247437
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 91520 stars."
+  }
+}

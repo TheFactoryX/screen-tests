@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #152 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-04 |
+| #153 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python · ⭐ 91k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -219,3 +219,4 @@ Or let GitHub Action run it automatically.
 | 150 | 2025-11-04 21:37:58 | [sopt-makers/sopt-playground-frontend](https://github.com/sopt-makers/sopt-playground-frontend) | ✅ readme_only (85⭐ TypeScript) | [reels/reel_0150_sopt-makers-sopt-playground-frontend](reels/reel_0150_sopt-makers-sopt-playground-frontend) |
 | 151 | 2025-11-04 21:49:54 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100136⭐ Python) | [reels/reel_0151_deepseek-ai-DeepSeek-V3](reels/reel_0151_deepseek-ai-DeepSeek-V3) |
 | 152 | 2025-11-04 22:16:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98543⭐ Rust) | [reels/reel_0152_tauri-apps-tauri](reels/reel_0152_tauri-apps-tauri) |
+| 153 | 2025-11-04 22:41:15 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | ✅ full (91520⭐ Python) | [reels/reel_0153_fastapi-fastapi](reels/reel_0153_fastapi-fastapi) |
