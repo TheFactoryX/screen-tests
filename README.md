@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #119 | [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti) | TypeScript · ⭐ 370 | 2025-11-04 |
+| #120 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 133k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -186,3 +186,4 @@ Or let GitHub Action run it automatically.
 | 117 | 2025-11-04 08:49:23 | [w1ll1am23/pivot_power_genius_mqtt](https://github.com/w1ll1am23/pivot_power_genius_mqtt) | ✅ full (13⭐ C++) | [reels/reel_0117_w1ll1am23-pivot_power_genius_mqtt](reels/reel_0117_w1ll1am23-pivot_power_genius_mqtt) |
 | 118 | 2025-11-04 09:20:30 | [khalby786/khalby786](https://github.com/khalby786/khalby786) | ✅ full (175⭐ None) | [reels/reel_0118_khalby786-khalby786](reels/reel_0118_khalby786-khalby786) |
 | 119 | 2025-11-04 09:43:19 | [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti) | ✅ shallow (370⭐ TypeScript) | [reels/reel_0119_hyperledger-cacti-cacti](reels/reel_0119_hyperledger-cacti-cacti) |
+| 120 | 2025-11-04 09:53:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (133765⭐ Python) | [reels/reel_0120_yt-dlp-yt-dlp](reels/reel_0120_yt-dlp-yt-dlp) |
