@@ -1,0 +1,24 @@
+{
+  "reel_number": 140,
+  "recorded": "2025-11-04 18:26:20 UTC",
+  "repository": {
+    "full_name": "stacksgov/sips",
+    "url": "https://github.com/stacksgov/sips",
+    "clone_url": "https://github.com/stacksgov/sips.git",
+    "stars": 146,
+    "language": "Shell",
+    "size_kb": 9154
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.504973
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 146 stars."
+  }
+}
