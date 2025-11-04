@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #140 | [stacksgov/sips](https://github.com/stacksgov/sips) | Shell · ⭐ 146 | 2025-11-04 |
+| #141 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -207,3 +207,4 @@ Or let GitHub Action run it automatically.
 | 138 | 2025-11-04 17:32:25 | [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) | ✅ shallow (399⭐ PHP) | [reels/reel_0138_tt-rss-tt-rss](reels/reel_0138_tt-rss-tt-rss) |
 | 139 | 2025-11-04 17:50:12 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96527⭐ TypeScript) | [reels/reel_0139_ant-design-ant-design](reels/reel_0139_ant-design-ant-design) |
 | 140 | 2025-11-04 18:26:20 | [stacksgov/sips](https://github.com/stacksgov/sips) | ✅ full (146⭐ Shell) | [reels/reel_0140_stacksgov-sips](reels/reel_0140_stacksgov-sips) |
+| 141 | 2025-11-04 18:50:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99010⭐ TypeScript) | [reels/reel_0141_shadcn-ui-ui](reels/reel_0141_shadcn-ui-ui) |
