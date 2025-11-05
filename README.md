@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #183 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-05 |
+| #184 | [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) | JavaScript · ⭐ 321 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -250,3 +250,4 @@ Or let GitHub Action run it automatically.
 | 181 | 2025-11-05 11:38:24 | [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) | ✅ full (804⭐ Jinja) | [reels/reel_0181_openstack-kolla-ansible](reels/reel_0181_openstack-kolla-ansible) |
 | 182 | 2025-11-05 11:50:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (118933⭐ Python) | [reels/reel_0182_langchain-ai-langchain](reels/reel_0182_langchain-ai-langchain) |
 | 183 | 2025-11-05 12:37:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99078⭐ TypeScript) | [reels/reel_0183_shadcn-ui-ui](reels/reel_0183_shadcn-ui-ui) |
+| 184 | 2025-11-05 13:21:00 | [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) | ✅ readme_only (321⭐ JavaScript) | [reels/reel_0184_AdguardTeam-HostlistsRegistry](reels/reel_0184_AdguardTeam-HostlistsRegistry) |
