@@ -1,0 +1,24 @@
+{
+  "reel_number": 177,
+  "recorded": "2025-11-05 10:20:35 UTC",
+  "repository": {
+    "full_name": "emanuelef/awesome-rust-repo-stats",
+    "url": "https://github.com/emanuelef/awesome-rust-repo-stats",
+    "clone_url": "https://github.com/emanuelef/awesome-rust-repo-stats.git",
+    "stars": 15,
+    "language": "TypeScript",
+    "size_kb": 160358
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 156,
+    "duration_seconds": 0.320606
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 15 stars."
+  }
+}
