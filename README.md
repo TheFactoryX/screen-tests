@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #199 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 98k | 2025-11-05 |
+| #200 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -266,3 +266,4 @@ Or let GitHub Action run it automatically.
 | 197 | 2025-11-05 18:26:20 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ✅ full (157865⭐ Python) | [reels/reel_0197_AUTOMATIC1111-stable-diffusion-webui](reels/reel_0197_AUTOMATIC1111-stable-diffusion-webui) |
 | 198 | 2025-11-05 18:50:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98583⭐ Rust) | [reels/reel_0198_tauri-apps-tauri](reels/reel_0198_tauri-apps-tauri) |
 | 199 | 2025-11-05 19:14:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98308⭐ TypeScript) | [reels/reel_0199_iptv-org-iptv](reels/reel_0199_iptv-org-iptv) |
+| 200 | 2025-11-05 19:29:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107654⭐ Rust) | [reels/reel_0200_rust-lang-rust](reels/reel_0200_rust-lang-rust) |
