@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #202 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 248k | 2025-11-05 |
+| #203 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -269,3 +269,4 @@ Or let GitHub Action run it automatically.
 | 200 | 2025-11-05 19:29:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107654⭐ Rust) | [reels/reel_0200_rust-lang-rust](reels/reel_0200_rust-lang-rust) |
 | 201 | 2025-11-05 19:41:00 | [maeligg/console.love](https://github.com/maeligg/console.love) | ✅ full (51⭐ CSS) | [reels/reel_0201_maeligg-console.love](reels/reel_0201_maeligg-console.love) |
 | 202 | 2025-11-05 19:51:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (248970⭐ None) | [reels/reel_0202_practical-tutorials-project-based-learning](reels/reel_0202_practical-tutorials-project-based-learning) |
+| 203 | 2025-11-05 20:20:44 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100154⭐ Python) | [reels/reel_0203_deepseek-ai-DeepSeek-V3](reels/reel_0203_deepseek-ai-DeepSeek-V3) |
