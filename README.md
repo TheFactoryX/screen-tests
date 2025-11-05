@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #181 | [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) | Jinja · ⭐ 804 | 2025-11-05 |
+| #182 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 118k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -248,3 +248,4 @@ Or let GitHub Action run it automatically.
 | 179 | 2025-11-05 10:55:21 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | ✅ full (193874⭐ JavaScript) | [reels/reel_0179_trekhleb-javascript-algorithms](reels/reel_0179_trekhleb-javascript-algorithms) |
 | 180 | 2025-11-05 11:16:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256459⭐ None) | [reels/reel_0180_awesome-selfhosted-awesome-selfhosted](reels/reel_0180_awesome-selfhosted-awesome-selfhosted) |
 | 181 | 2025-11-05 11:38:24 | [openstack/kolla-ansible](https://github.com/openstack/kolla-ansible) | ✅ full (804⭐ Jinja) | [reels/reel_0181_openstack-kolla-ansible](reels/reel_0181_openstack-kolla-ansible) |
+| 182 | 2025-11-05 11:50:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (118933⭐ Python) | [reels/reel_0182_langchain-ai-langchain](reels/reel_0182_langchain-ai-langchain) |
