@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #167 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-05 |
+| #168 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 239 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -234,3 +234,4 @@ Or let GitHub Action run it automatically.
 | 165 | 2025-11-05 05:41:49 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98556⭐ Rust) | [reels/reel_0165_tauri-apps-tauri](reels/reel_0165_tauri-apps-tauri) |
 | 166 | 2025-11-05 05:51:51 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (248901⭐ None) | [reels/reel_0166_practical-tutorials-project-based-learning](reels/reel_0166_practical-tutorials-project-based-learning) |
 | 167 | 2025-11-05 06:27:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107635⭐ Rust) | [reels/reel_0167_rust-lang-rust](reels/reel_0167_rust-lang-rust) |
+| 168 | 2025-11-05 06:51:47 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (239⭐ None) | [reels/reel_0168_hello-world-1989-cn-news](reels/reel_0168_hello-world-1989-cn-news) |
