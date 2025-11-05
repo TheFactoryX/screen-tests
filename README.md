@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #157 | [poolifier/poolifier](https://github.com/poolifier/poolifier) | JavaScript · ⭐ 434 | 2025-11-04 |
+| #158 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 248k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -224,3 +224,4 @@ Or let GitHub Action run it automatically.
 | 155 | 2025-11-04 23:16:34 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154029⭐ TypeScript) | [reels/reel_0155_n8n-io-n8n](reels/reel_0155_n8n-io-n8n) |
 | 156 | 2025-11-04 23:37:58 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99026⭐ TypeScript) | [reels/reel_0156_shadcn-ui-ui](reels/reel_0156_shadcn-ui-ui) |
 | 157 | 2025-11-04 23:50:15 | [poolifier/poolifier](https://github.com/poolifier/poolifier) | ✅ full (434⭐ JavaScript) | [reels/reel_0157_poolifier-poolifier](reels/reel_0157_poolifier-poolifier) |
+| 158 | 2025-11-05 01:23:01 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (248878⭐ None) | [reels/reel_0158_practical-tutorials-project-based-learning](reels/reel_0158_practical-tutorials-project-based-learning) |
