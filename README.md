@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #160 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-05 |
+| #161 | [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) | Rust · ⭐ 862 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -227,3 +227,4 @@ Or let GitHub Action run it automatically.
 | 158 | 2025-11-05 01:23:01 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (248878⭐ None) | [reels/reel_0158_practical-tutorials-project-based-learning](reels/reel_0158_practical-tutorials-project-based-learning) |
 | 159 | 2025-11-05 02:55:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107633⭐ Rust) | [reels/reel_0159_rust-lang-rust](reels/reel_0159_rust-lang-rust) |
 | 160 | 2025-11-05 03:43:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98553⭐ Rust) | [reels/reel_0160_tauri-apps-tauri](reels/reel_0160_tauri-apps-tauri) |
+| 161 | 2025-11-05 04:00:45 | [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) | ✅ full (862⭐ Rust) | [reels/reel_0161_meta-pytorch-monarch](reels/reel_0161_meta-pytorch-monarch) |

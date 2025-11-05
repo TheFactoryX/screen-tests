@@ -1,0 +1,24 @@
+{
+  "reel_number": 161,
+  "recorded": "2025-11-05 04:00:45 UTC",
+  "repository": {
+    "full_name": "meta-pytorch/monarch",
+    "url": "https://github.com/meta-pytorch/monarch",
+    "clone_url": "https://github.com/meta-pytorch/monarch.git",
+    "stars": 862,
+    "language": "Rust",
+    "size_kb": 13543
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 1.432364
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 862 stars."
+  }
+}
