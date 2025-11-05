@@ -1,0 +1,24 @@
+{
+  "reel_number": 185,
+  "recorded": "2025-11-05 13:48:53 UTC",
+  "repository": {
+    "full_name": "vladimir-kharin/1c_mcp",
+    "url": "https://github.com/vladimir-kharin/1c_mcp",
+    "clone_url": "https://github.com/vladimir-kharin/1c_mcp.git",
+    "stars": 176,
+    "language": "1C Enterprise",
+    "size_kb": 291
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.437052
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "1C Enterprise",
+    "director_note": "A 1C Enterprise repository. 176 stars."
+  }
+}
