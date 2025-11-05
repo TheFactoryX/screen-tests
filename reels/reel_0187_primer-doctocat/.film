@@ -1,0 +1,24 @@
+{
+  "reel_number": 187,
+  "recorded": "2025-11-05 14:44:51 UTC",
+  "repository": {
+    "full_name": "primer/doctocat",
+    "url": "https://github.com/primer/doctocat",
+    "clone_url": "https://github.com/primer/doctocat.git",
+    "stars": 309,
+    "language": "JavaScript",
+    "size_kb": 7721
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.023189
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 309 stars."
+  }
+}

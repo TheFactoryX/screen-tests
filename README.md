@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #186 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 99k | 2025-11-05 |
+| #187 | [primer/doctocat](https://github.com/primer/doctocat) | JavaScript · ⭐ 309 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -253,3 +253,4 @@ Or let GitHub Action run it automatically.
 | 184 | 2025-11-05 13:21:00 | [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) | ✅ readme_only (321⭐ JavaScript) | [reels/reel_0184_AdguardTeam-HostlistsRegistry](reels/reel_0184_AdguardTeam-HostlistsRegistry) |
 | 185 | 2025-11-05 13:48:53 | [vladimir-kharin/1c_mcp](https://github.com/vladimir-kharin/1c_mcp) | ✅ full (176⭐ 1C Enterprise) | [reels/reel_0185_vladimir-kharin-1c_mcp](reels/reel_0185_vladimir-kharin-1c_mcp) |
 | 186 | 2025-11-05 14:18:32 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (99957⭐ Shell) | [reels/reel_0186_papers-we-love-papers-we-love](reels/reel_0186_papers-we-love-papers-we-love) |
+| 187 | 2025-11-05 14:44:51 | [primer/doctocat](https://github.com/primer/doctocat) | ✅ full (309⭐ JavaScript) | [reels/reel_0187_primer-doctocat](reels/reel_0187_primer-doctocat) |
