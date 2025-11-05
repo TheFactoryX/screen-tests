@@ -1,0 +1,24 @@
+{
+  "reel_number": 175,
+  "recorded": "2025-11-05 09:43:25 UTC",
+  "repository": {
+    "full_name": "simondlevy/Hackflight",
+    "url": "https://github.com/simondlevy/Hackflight",
+    "clone_url": "https://github.com/simondlevy/Hackflight.git",
+    "stars": 310,
+    "language": "C++",
+    "size_kb": 852190
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 832,
+    "duration_seconds": 0.000135
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 310 stars."
+  }
+}
