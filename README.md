@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #201 | [maeligg/console.love](https://github.com/maeligg/console.love) | CSS · ⭐ 51 | 2025-11-05 |
+| #202 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 248k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -268,3 +268,4 @@ Or let GitHub Action run it automatically.
 | 199 | 2025-11-05 19:14:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98308⭐ TypeScript) | [reels/reel_0199_iptv-org-iptv](reels/reel_0199_iptv-org-iptv) |
 | 200 | 2025-11-05 19:29:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107654⭐ Rust) | [reels/reel_0200_rust-lang-rust](reels/reel_0200_rust-lang-rust) |
 | 201 | 2025-11-05 19:41:00 | [maeligg/console.love](https://github.com/maeligg/console.love) | ✅ full (51⭐ CSS) | [reels/reel_0201_maeligg-console.love](reels/reel_0201_maeligg-console.love) |
+| 202 | 2025-11-05 19:51:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (248970⭐ None) | [reels/reel_0202_practical-tutorials-project-based-learning](reels/reel_0202_practical-tutorials-project-based-learning) |
