@@ -1,0 +1,24 @@
+{
+  "reel_number": 201,
+  "recorded": "2025-11-05 19:41:00 UTC",
+  "repository": {
+    "full_name": "maeligg/console.love",
+    "url": "https://github.com/maeligg/console.love",
+    "clone_url": "https://github.com/maeligg/console.love.git",
+    "stars": 51,
+    "language": "CSS",
+    "size_kb": 1096
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.164728
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 51 stars."
+  }
+}

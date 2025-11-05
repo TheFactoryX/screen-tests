@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #200 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-05 |
+| #201 | [maeligg/console.love](https://github.com/maeligg/console.love) | CSS · ⭐ 51 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -267,3 +267,4 @@ Or let GitHub Action run it automatically.
 | 198 | 2025-11-05 18:50:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98583⭐ Rust) | [reels/reel_0198_tauri-apps-tauri](reels/reel_0198_tauri-apps-tauri) |
 | 199 | 2025-11-05 19:14:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98308⭐ TypeScript) | [reels/reel_0199_iptv-org-iptv](reels/reel_0199_iptv-org-iptv) |
 | 200 | 2025-11-05 19:29:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107654⭐ Rust) | [reels/reel_0200_rust-lang-rust](reels/reel_0200_rust-lang-rust) |
+| 201 | 2025-11-05 19:41:00 | [maeligg/console.love](https://github.com/maeligg/console.love) | ✅ full (51⭐ CSS) | [reels/reel_0201_maeligg-console.love](reels/reel_0201_maeligg-console.love) |
