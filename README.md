@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #211 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-05 |
+| #212 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -278,3 +278,4 @@ Or let GitHub Action run it automatically.
 | 209 | 2025-11-05 22:17:11 | [gatling/gatling-js-demo](https://github.com/gatling/gatling-js-demo) | ✅ full (11⭐ JavaScript) | [reels/reel_0209_gatling-gatling-js-demo](reels/reel_0209_gatling-gatling-js-demo) |
 | 210 | 2025-11-05 22:41:15 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179502⭐ Python) | [reels/reel_0210_Significant-Gravitas-AutoGPT](reels/reel_0210_Significant-Gravitas-AutoGPT) |
 | 211 | 2025-11-05 22:51:17 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107656⭐ Rust) | [reels/reel_0211_rust-lang-rust](reels/reel_0211_rust-lang-rust) |
+| 212 | 2025-11-05 23:16:42 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107656⭐ Rust) | [reels/reel_0212_rust-lang-rust](reels/reel_0212_rust-lang-rust) |
