@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #179 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | JavaScript · ⭐ 193k | 2025-11-05 |
+| #180 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -246,3 +246,4 @@ Or let GitHub Action run it automatically.
 | 177 | 2025-11-05 10:20:35 | [emanuelef/awesome-rust-repo-stats](https://github.com/emanuelef/awesome-rust-repo-stats) | ✅ shallow (15⭐ TypeScript) | [reels/reel_0177_emanuelef-awesome-rust-repo-stats](reels/reel_0177_emanuelef-awesome-rust-repo-stats) |
 | 178 | 2025-11-05 10:45:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (375900⭐ Python) | [reels/reel_0178_public-apis-public-apis](reels/reel_0178_public-apis-public-apis) |
 | 179 | 2025-11-05 10:55:21 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | ✅ full (193874⭐ JavaScript) | [reels/reel_0179_trekhleb-javascript-algorithms](reels/reel_0179_trekhleb-javascript-algorithms) |
+| 180 | 2025-11-05 11:16:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256459⭐ None) | [reels/reel_0180_awesome-selfhosted-awesome-selfhosted](reels/reel_0180_awesome-selfhosted-awesome-selfhosted) |
