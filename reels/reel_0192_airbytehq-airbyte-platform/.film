@@ -1,0 +1,24 @@
+{
+  "reel_number": 192,
+  "recorded": "2025-11-05 16:24:26 UTC",
+  "repository": {
+    "full_name": "airbytehq/airbyte-platform",
+    "url": "https://github.com/airbytehq/airbyte-platform",
+    "clone_url": "https://github.com/airbytehq/airbyte-platform.git",
+    "stars": 282,
+    "language": "Kotlin",
+    "size_kb": 177343
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 173,
+    "duration_seconds": 2.09032
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 282 stars."
+  }
+}

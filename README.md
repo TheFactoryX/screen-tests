@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #191 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-05 |
+| #192 | [airbytehq/airbyte-platform](https://github.com/airbytehq/airbyte-platform) | Kotlin · ⭐ 282 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -258,3 +258,4 @@ Or let GitHub Action run it automatically.
 | 189 | 2025-11-05 15:30:27 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107653⭐ Rust) | [reels/reel_0189_rust-lang-rust](reels/reel_0189_rust-lang-rust) |
 | 190 | 2025-11-05 15:41:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179497⭐ Python) | [reels/reel_0190_Significant-Gravitas-AutoGPT](reels/reel_0190_Significant-Gravitas-AutoGPT) |
 | 191 | 2025-11-05 15:52:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179497⭐ Python) | [reels/reel_0191_Significant-Gravitas-AutoGPT](reels/reel_0191_Significant-Gravitas-AutoGPT) |
+| 192 | 2025-11-05 16:24:26 | [airbytehq/airbyte-platform](https://github.com/airbytehq/airbyte-platform) | ✅ shallow (282⭐ Kotlin) | [reels/reel_0192_airbytehq-airbyte-platform](reels/reel_0192_airbytehq-airbyte-platform) |
