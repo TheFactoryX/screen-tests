@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #169 | [IxionLang/ixion-jvm](https://github.com/IxionLang/ixion-jvm) | Java · ⭐ 202 | 2025-11-05 |
+| #170 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -236,3 +236,4 @@ Or let GitHub Action run it automatically.
 | 167 | 2025-11-05 06:27:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107635⭐ Rust) | [reels/reel_0167_rust-lang-rust](reels/reel_0167_rust-lang-rust) |
 | 168 | 2025-11-05 06:51:47 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (239⭐ None) | [reels/reel_0168_hello-world-1989-cn-news](reels/reel_0168_hello-world-1989-cn-news) |
 | 169 | 2025-11-05 07:17:33 | [IxionLang/ixion-jvm](https://github.com/IxionLang/ixion-jvm) | ✅ full (202⭐ Java) | [reels/reel_0169_IxionLang-ixion-jvm](reels/reel_0169_IxionLang-ixion-jvm) |
+| 170 | 2025-11-05 07:39:22 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99058⭐ TypeScript) | [reels/reel_0170_shadcn-ui-ui](reels/reel_0170_shadcn-ui-ui) |
