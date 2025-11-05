@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #165 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-05 |
+| #166 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 248k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -232,3 +232,4 @@ Or let GitHub Action run it automatically.
 | 163 | 2025-11-05 04:52:17 | [shugo/textbringer](https://github.com/shugo/textbringer) | ✅ full (377⭐ Ruby) | [reels/reel_0163_shugo-textbringer](reels/reel_0163_shugo-textbringer) |
 | 164 | 2025-11-05 05:18:12 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ✅ full (115607⭐ None) | [reels/reel_0164_justjavac-free-programming-books-zh_CN](reels/reel_0164_justjavac-free-programming-books-zh_CN) |
 | 165 | 2025-11-05 05:41:49 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98556⭐ Rust) | [reels/reel_0165_tauri-apps-tauri](reels/reel_0165_tauri-apps-tauri) |
+| 166 | 2025-11-05 05:51:51 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (248901⭐ None) | [reels/reel_0166_practical-tutorials-project-based-learning](reels/reel_0166_practical-tutorials-project-based-learning) |
