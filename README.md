@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #205 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-05 |
+| #206 | [adobe/alloy](https://github.com/adobe/alloy) | JavaScript · ⭐ 100 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -272,3 +272,4 @@ Or let GitHub Action run it automatically.
 | 203 | 2025-11-05 20:20:44 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100154⭐ Python) | [reels/reel_0203_deepseek-ai-DeepSeek-V3](reels/reel_0203_deepseek-ai-DeepSeek-V3) |
 | 204 | 2025-11-05 20:42:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114336⭐ JavaScript) | [reels/reel_0204_open-webui-open-webui](reels/reel_0204_open-webui-open-webui) |
 | 205 | 2025-11-05 20:53:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256537⭐ None) | [reels/reel_0205_awesome-selfhosted-awesome-selfhosted](reels/reel_0205_awesome-selfhosted-awesome-selfhosted) |
+| 206 | 2025-11-05 21:17:12 | [adobe/alloy](https://github.com/adobe/alloy) | ✅ full (100⭐ JavaScript) | [reels/reel_0206_adobe-alloy](reels/reel_0206_adobe-alloy) |
