@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #207 | [openhab/openhab-ios](https://github.com/openhab/openhab-ios) | Swift · ⭐ 204 | 2025-11-05 |
+| #208 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -274,3 +274,4 @@ Or let GitHub Action run it automatically.
 | 205 | 2025-11-05 20:53:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256537⭐ None) | [reels/reel_0205_awesome-selfhosted-awesome-selfhosted](reels/reel_0205_awesome-selfhosted-awesome-selfhosted) |
 | 206 | 2025-11-05 21:17:12 | [adobe/alloy](https://github.com/adobe/alloy) | ✅ full (100⭐ JavaScript) | [reels/reel_0206_adobe-alloy](reels/reel_0206_adobe-alloy) |
 | 207 | 2025-11-05 21:36:40 | [openhab/openhab-ios](https://github.com/openhab/openhab-ios) | ✅ full (204⭐ Swift) | [reels/reel_0207_openhab-openhab-ios](reels/reel_0207_openhab-openhab-ios) |
+| 208 | 2025-11-05 21:50:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179501⭐ Python) | [reels/reel_0208_Significant-Gravitas-AutoGPT](reels/reel_0208_Significant-Gravitas-AutoGPT) |
