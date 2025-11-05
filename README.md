@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #204 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-05 |
+| #205 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -271,3 +271,4 @@ Or let GitHub Action run it automatically.
 | 202 | 2025-11-05 19:51:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (248970⭐ None) | [reels/reel_0202_practical-tutorials-project-based-learning](reels/reel_0202_practical-tutorials-project-based-learning) |
 | 203 | 2025-11-05 20:20:44 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100154⭐ Python) | [reels/reel_0203_deepseek-ai-DeepSeek-V3](reels/reel_0203_deepseek-ai-DeepSeek-V3) |
 | 204 | 2025-11-05 20:42:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114336⭐ JavaScript) | [reels/reel_0204_open-webui-open-webui](reels/reel_0204_open-webui-open-webui) |
+| 205 | 2025-11-05 20:53:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256537⭐ None) | [reels/reel_0205_awesome-selfhosted-awesome-selfhosted](reels/reel_0205_awesome-selfhosted-awesome-selfhosted) |
