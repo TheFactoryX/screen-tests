@@ -1,0 +1,24 @@
+{
+  "reel_number": 209,
+  "recorded": "2025-11-05 22:17:11 UTC",
+  "repository": {
+    "full_name": "gatling/gatling-js-demo",
+    "url": "https://github.com/gatling/gatling-js-demo",
+    "clone_url": "https://github.com/gatling/gatling-js-demo.git",
+    "stars": 11,
+    "language": "JavaScript",
+    "size_kb": 415
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.710177
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 11 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #208 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-05 |
+| #209 | [gatling/gatling-js-demo](https://github.com/gatling/gatling-js-demo) | JavaScript · ⭐ 11 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -275,3 +275,4 @@ Or let GitHub Action run it automatically.
 | 206 | 2025-11-05 21:17:12 | [adobe/alloy](https://github.com/adobe/alloy) | ✅ full (100⭐ JavaScript) | [reels/reel_0206_adobe-alloy](reels/reel_0206_adobe-alloy) |
 | 207 | 2025-11-05 21:36:40 | [openhab/openhab-ios](https://github.com/openhab/openhab-ios) | ✅ full (204⭐ Swift) | [reels/reel_0207_openhab-openhab-ios](reels/reel_0207_openhab-openhab-ios) |
 | 208 | 2025-11-05 21:50:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179501⭐ Python) | [reels/reel_0208_Significant-Gravitas-AutoGPT](reels/reel_0208_Significant-Gravitas-AutoGPT) |
+| 209 | 2025-11-05 22:17:11 | [gatling/gatling-js-demo](https://github.com/gatling/gatling-js-demo) | ✅ full (11⭐ JavaScript) | [reels/reel_0209_gatling-gatling-js-demo](reels/reel_0209_gatling-gatling-js-demo) |
