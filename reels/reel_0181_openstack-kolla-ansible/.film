@@ -1,0 +1,24 @@
+{
+  "reel_number": 181,
+  "recorded": "2025-11-05 11:38:24 UTC",
+  "repository": {
+    "full_name": "openstack/kolla-ansible",
+    "url": "https://github.com/openstack/kolla-ansible",
+    "clone_url": "https://github.com/openstack/kolla-ansible.git",
+    "stars": 804,
+    "language": "Jinja",
+    "size_kb": 33855
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 3.145437
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jinja",
+    "director_note": "A Jinja repository. 804 stars."
+  }
+}
