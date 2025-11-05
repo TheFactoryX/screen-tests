@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #172 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-05 |
+| #173 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -239,3 +239,4 @@ Or let GitHub Action run it automatically.
 | 170 | 2025-11-05 07:39:22 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99058⭐ TypeScript) | [reels/reel_0170_shadcn-ui-ui](reels/reel_0170_shadcn-ui-ui) |
 | 171 | 2025-11-05 07:50:21 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98288⭐ TypeScript) | [reels/reel_0171_iptv-org-iptv](reels/reel_0171_iptv-org-iptv) |
 | 172 | 2025-11-05 08:25:15 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99059⭐ TypeScript) | [reels/reel_0172_shadcn-ui-ui](reels/reel_0172_shadcn-ui-ui) |
+| 173 | 2025-11-05 08:49:33 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98562⭐ Rust) | [reels/reel_0173_tauri-apps-tauri](reels/reel_0173_tauri-apps-tauri) |
