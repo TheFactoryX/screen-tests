@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #192 | [airbytehq/airbyte-platform](https://github.com/airbytehq/airbyte-platform) | Kotlin · ⭐ 282 | 2025-11-05 |
+| #193 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -259,3 +259,4 @@ Or let GitHub Action run it automatically.
 | 190 | 2025-11-05 15:41:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179497⭐ Python) | [reels/reel_0190_Significant-Gravitas-AutoGPT](reels/reel_0190_Significant-Gravitas-AutoGPT) |
 | 191 | 2025-11-05 15:52:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179497⭐ Python) | [reels/reel_0191_Significant-Gravitas-AutoGPT](reels/reel_0191_Significant-Gravitas-AutoGPT) |
 | 192 | 2025-11-05 16:24:26 | [airbytehq/airbyte-platform](https://github.com/airbytehq/airbyte-platform) | ✅ shallow (282⭐ Kotlin) | [reels/reel_0192_airbytehq-airbyte-platform](reels/reel_0192_airbytehq-airbyte-platform) |
+| 193 | 2025-11-05 16:50:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98583⭐ Rust) | [reels/reel_0193_tauri-apps-tauri](reels/reel_0193_tauri-apps-tauri) |
