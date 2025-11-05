@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #177 | [emanuelef/awesome-rust-repo-stats](https://github.com/emanuelef/awesome-rust-repo-stats) | TypeScript · ⭐ 15 | 2025-11-05 |
+| #178 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 375k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -244,3 +244,4 @@ Or let GitHub Action run it automatically.
 | 175 | 2025-11-05 09:43:25 | [simondlevy/Hackflight](https://github.com/simondlevy/Hackflight) | ✅ readme_only (310⭐ C++) | [reels/reel_0175_simondlevy-Hackflight](reels/reel_0175_simondlevy-Hackflight) |
 | 176 | 2025-11-05 09:53:49 | [supabase/supabase](https://github.com/supabase/supabase) | ✅ readme_only (91911⭐ TypeScript) | [reels/reel_0176_supabase-supabase](reels/reel_0176_supabase-supabase) |
 | 177 | 2025-11-05 10:20:35 | [emanuelef/awesome-rust-repo-stats](https://github.com/emanuelef/awesome-rust-repo-stats) | ✅ shallow (15⭐ TypeScript) | [reels/reel_0177_emanuelef-awesome-rust-repo-stats](reels/reel_0177_emanuelef-awesome-rust-repo-stats) |
+| 178 | 2025-11-05 10:45:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (375900⭐ Python) | [reels/reel_0178_public-apis-public-apis](reels/reel_0178_public-apis-public-apis) |
