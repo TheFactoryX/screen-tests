@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #189 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-05 |
+| #190 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -256,3 +256,4 @@ Or let GitHub Action run it automatically.
 | 187 | 2025-11-05 14:44:51 | [primer/doctocat](https://github.com/primer/doctocat) | ✅ full (309⭐ JavaScript) | [reels/reel_0187_primer-doctocat](reels/reel_0187_primer-doctocat) |
 | 188 | 2025-11-05 14:55:57 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256487⭐ None) | [reels/reel_0188_awesome-selfhosted-awesome-selfhosted](reels/reel_0188_awesome-selfhosted-awesome-selfhosted) |
 | 189 | 2025-11-05 15:30:27 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107653⭐ Rust) | [reels/reel_0189_rust-lang-rust](reels/reel_0189_rust-lang-rust) |
+| 190 | 2025-11-05 15:41:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179497⭐ Python) | [reels/reel_0190_Significant-Gravitas-AutoGPT](reels/reel_0190_Significant-Gravitas-AutoGPT) |
