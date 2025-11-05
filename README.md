@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #163 | [shugo/textbringer](https://github.com/shugo/textbringer) | Ruby · ⭐ 377 | 2025-11-05 |
+| #164 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | None · ⭐ 115k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -230,3 +230,4 @@ Or let GitHub Action run it automatically.
 | 161 | 2025-11-05 04:00:45 | [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) | ✅ full (862⭐ Rust) | [reels/reel_0161_meta-pytorch-monarch](reels/reel_0161_meta-pytorch-monarch) |
 | 162 | 2025-11-05 04:35:35 | [finishy1995/novel2world](https://github.com/finishy1995/novel2world) | ✅ full (13⭐ JavaScript) | [reels/reel_0162_finishy1995-novel2world](reels/reel_0162_finishy1995-novel2world) |
 | 163 | 2025-11-05 04:52:17 | [shugo/textbringer](https://github.com/shugo/textbringer) | ✅ full (377⭐ Ruby) | [reels/reel_0163_shugo-textbringer](reels/reel_0163_shugo-textbringer) |
+| 164 | 2025-11-05 05:18:12 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ✅ full (115607⭐ None) | [reels/reel_0164_justjavac-free-programming-books-zh_CN](reels/reel_0164_justjavac-free-programming-books-zh_CN) |

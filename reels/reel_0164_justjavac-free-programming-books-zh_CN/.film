@@ -1,0 +1,24 @@
+{
+  "reel_number": 164,
+  "recorded": "2025-11-05 05:18:12 UTC",
+  "repository": {
+    "full_name": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "clone_url": "https://github.com/justjavac/free-programming-books-zh_CN.git",
+    "stars": 115607,
+    "language": null,
+    "size_kb": 1059
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.217877
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 115607 stars."
+  }
+}
