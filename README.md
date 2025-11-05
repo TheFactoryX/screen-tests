@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #196 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-05 |
+| #197 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Python · ⭐ 157k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -263,3 +263,4 @@ Or let GitHub Action run it automatically.
 | 194 | 2025-11-05 17:17:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (118954⭐ Python) | [reels/reel_0194_langchain-ai-langchain](reels/reel_0194_langchain-ai-langchain) |
 | 195 | 2025-11-05 17:39:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256503⭐ None) | [reels/reel_0195_awesome-selfhosted-awesome-selfhosted](reels/reel_0195_awesome-selfhosted-awesome-selfhosted) |
 | 196 | 2025-11-05 17:50:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114320⭐ JavaScript) | [reels/reel_0196_open-webui-open-webui](reels/reel_0196_open-webui-open-webui) |
+| 197 | 2025-11-05 18:26:20 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ✅ full (157865⭐ Python) | [reels/reel_0197_AUTOMATIC1111-stable-diffusion-webui](reels/reel_0197_AUTOMATIC1111-stable-diffusion-webui) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 197,
+  "recorded": "2025-11-05 18:26:20 UTC",
+  "repository": {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "clone_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui.git",
+    "stars": 157865,
+    "language": "Python",
+    "size_kb": 36441
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 8.227359
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 157865 stars."
+  }
+}
