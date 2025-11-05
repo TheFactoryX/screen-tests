@@ -1,0 +1,24 @@
+{
+  "reel_number": 207,
+  "recorded": "2025-11-05 21:36:40 UTC",
+  "repository": {
+    "full_name": "openhab/openhab-ios",
+    "url": "https://github.com/openhab/openhab-ios",
+    "clone_url": "https://github.com/openhab/openhab-ios.git",
+    "stars": 204,
+    "language": "Swift",
+    "size_kb": 18448
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.041608
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 204 stars."
+  }
+}
