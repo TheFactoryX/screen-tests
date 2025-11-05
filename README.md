@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #212 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-05 |
+| #213 | [Xeeynamo/sotn-decomp](https://github.com/Xeeynamo/sotn-decomp) | C · ⭐ 773 | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -279,3 +279,4 @@ Or let GitHub Action run it automatically.
 | 210 | 2025-11-05 22:41:15 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179502⭐ Python) | [reels/reel_0210_Significant-Gravitas-AutoGPT](reels/reel_0210_Significant-Gravitas-AutoGPT) |
 | 211 | 2025-11-05 22:51:17 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107656⭐ Rust) | [reels/reel_0211_rust-lang-rust](reels/reel_0211_rust-lang-rust) |
 | 212 | 2025-11-05 23:16:42 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107656⭐ Rust) | [reels/reel_0212_rust-lang-rust](reels/reel_0212_rust-lang-rust) |
+| 213 | 2025-11-05 23:38:50 | [Xeeynamo/sotn-decomp](https://github.com/Xeeynamo/sotn-decomp) | ✅ full (773⭐ C) | [reels/reel_0213_Xeeynamo-sotn-decomp](reels/reel_0213_Xeeynamo-sotn-decomp) |
