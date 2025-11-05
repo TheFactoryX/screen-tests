@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #194 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 118k | 2025-11-05 |
+| #195 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -261,3 +261,4 @@ Or let GitHub Action run it automatically.
 | 192 | 2025-11-05 16:24:26 | [airbytehq/airbyte-platform](https://github.com/airbytehq/airbyte-platform) | ✅ shallow (282⭐ Kotlin) | [reels/reel_0192_airbytehq-airbyte-platform](reels/reel_0192_airbytehq-airbyte-platform) |
 | 193 | 2025-11-05 16:50:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98583⭐ Rust) | [reels/reel_0193_tauri-apps-tauri](reels/reel_0193_tauri-apps-tauri) |
 | 194 | 2025-11-05 17:17:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (118954⭐ Python) | [reels/reel_0194_langchain-ai-langchain](reels/reel_0194_langchain-ai-langchain) |
+| 195 | 2025-11-05 17:39:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256503⭐ None) | [reels/reel_0195_awesome-selfhosted-awesome-selfhosted](reels/reel_0195_awesome-selfhosted-awesome-selfhosted) |
