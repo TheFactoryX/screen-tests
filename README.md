@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #265 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-06 |
+| #266 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -332,3 +332,4 @@ Or let GitHub Action run it automatically.
 | 263 | 2025-11-06 21:49:42 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ readme_only (393⭐ None) | [reels/reel_0263_zloi-user-hideip.me](reels/reel_0263_zloi-user-hideip.me) |
 | 264 | 2025-11-06 22:17:07 | [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | ✅ full (94029⭐ None) | [reels/reel_0264_mtdvio-every-programmer-should-know](reels/reel_0264_mtdvio-every-programmer-should-know) |
 | 265 | 2025-11-06 22:41:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99182⭐ TypeScript) | [reels/reel_0265_shadcn-ui-ui](reels/reel_0265_shadcn-ui-ui) |
+| 266 | 2025-11-06 22:51:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107685⭐ Rust) | [reels/reel_0266_rust-lang-rust](reels/reel_0266_rust-lang-rust) |
