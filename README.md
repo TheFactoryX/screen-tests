@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #237 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 98k | 2025-11-06 |
+| #238 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | C++ · ⭐ 33k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -304,3 +304,4 @@ Or let GitHub Action run it automatically.
 | 235 | 2025-11-06 11:16:20 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ✅ shallow (182756⭐ None) | [reels/reel_0235_CyC2018-CS-Notes](reels/reel_0235_CyC2018-CS-Notes) |
 | 236 | 2025-11-06 11:38:14 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107673⭐ Rust) | [reels/reel_0236_rust-lang-rust](reels/reel_0236_rust-lang-rust) |
 | 237 | 2025-11-06 11:50:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98325⭐ TypeScript) | [reels/reel_0237_iptv-org-iptv](reels/reel_0237_iptv-org-iptv) |
+| 238 | 2025-11-06 12:37:38 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | ✅ full (33431⭐ C++) | [reels/reel_0238_carbon-language-carbon-lang](reels/reel_0238_carbon-language-carbon-lang) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 238,
+  "recorded": "2025-11-06 12:37:38 UTC",
+  "repository": {
+    "full_name": "carbon-language/carbon-lang",
+    "url": "https://github.com/carbon-language/carbon-lang",
+    "clone_url": "https://github.com/carbon-language/carbon-lang.git",
+    "stars": 33431,
+    "language": "C++",
+    "size_kb": 78858
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 77,
+    "duration_seconds": 6.46554
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 33431 stars."
+  }
+}
