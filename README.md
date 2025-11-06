@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #236 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-06 |
+| #237 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 98k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -303,3 +303,4 @@ Or let GitHub Action run it automatically.
 | 234 | 2025-11-06 10:45:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (133981⭐ Python) | [reels/reel_0234_yt-dlp-yt-dlp](reels/reel_0234_yt-dlp-yt-dlp) |
 | 235 | 2025-11-06 11:16:20 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ✅ shallow (182756⭐ None) | [reels/reel_0235_CyC2018-CS-Notes](reels/reel_0235_CyC2018-CS-Notes) |
 | 236 | 2025-11-06 11:38:14 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107673⭐ Rust) | [reels/reel_0236_rust-lang-rust](reels/reel_0236_rust-lang-rust) |
+| 237 | 2025-11-06 11:50:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98325⭐ TypeScript) | [reels/reel_0237_iptv-org-iptv](reels/reel_0237_iptv-org-iptv) |
