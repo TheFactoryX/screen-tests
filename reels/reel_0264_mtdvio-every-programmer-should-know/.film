@@ -1,0 +1,24 @@
+{
+  "reel_number": 264,
+  "recorded": "2025-11-06 22:17:07 UTC",
+  "repository": {
+    "full_name": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "clone_url": "https://github.com/mtdvio/every-programmer-should-know.git",
+    "stars": 94029,
+    "language": null,
+    "size_kb": 230
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.170623
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 94029 stars."
+  }
+}
