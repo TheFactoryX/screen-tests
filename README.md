@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #261 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-06 |
+| #262 | [epicweb-dev/react-fundamentals](https://github.com/epicweb-dev/react-fundamentals) | TypeScript · ⭐ 5k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -328,3 +328,4 @@ Or let GitHub Action run it automatically.
 | 259 | 2025-11-06 20:41:53 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137340⭐ Python) | [reels/reel_0259_langflow-ai-langflow](reels/reel_0259_langflow-ai-langflow) |
 | 260 | 2025-11-06 20:52:53 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | ✅ full (94661⭐ None) | [reels/reel_0260_x1xhlol-system-prompts-and-models-of-ai-tools](reels/reel_0260_x1xhlol-system-prompts-and-models-of-ai-tools) |
 | 261 | 2025-11-06 21:16:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256709⭐ None) | [reels/reel_0261_awesome-selfhosted-awesome-selfhosted](reels/reel_0261_awesome-selfhosted-awesome-selfhosted) |
+| 262 | 2025-11-06 21:38:10 | [epicweb-dev/react-fundamentals](https://github.com/epicweb-dev/react-fundamentals) | ✅ full (5346⭐ TypeScript) | [reels/reel_0262_epicweb-dev-react-fundamentals](reels/reel_0262_epicweb-dev-react-fundamentals) |
