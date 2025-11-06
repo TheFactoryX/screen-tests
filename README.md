@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #229 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-06 |
+| #230 | [rxrbln/t2sde](https://github.com/rxrbln/t2sde) | C · ⭐ 457 | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -296,3 +296,4 @@ Or let GitHub Action run it automatically.
 | 227 | 2025-11-06 07:49:59 | [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) | ✅ shallow (497⭐ Swift) | [reels/reel_0227_alvr-org-alvr-visionos](reels/reel_0227_alvr-org-alvr-visionos) |
 | 228 | 2025-11-06 08:24:56 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99137⭐ TypeScript) | [reels/reel_0228_shadcn-ui-ui](reels/reel_0228_shadcn-ui-ui) |
 | 229 | 2025-11-06 08:48:43 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119010⭐ Python) | [reels/reel_0229_langchain-ai-langchain](reels/reel_0229_langchain-ai-langchain) |
+| 230 | 2025-11-06 09:20:13 | [rxrbln/t2sde](https://github.com/rxrbln/t2sde) | ✅ shallow (457⭐ C) | [reels/reel_0230_rxrbln-t2sde](reels/reel_0230_rxrbln-t2sde) |
