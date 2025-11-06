@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #238 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | C++ · ⭐ 33k | 2025-11-06 |
+| #239 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -305,3 +305,4 @@ Or let GitHub Action run it automatically.
 | 236 | 2025-11-06 11:38:14 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107673⭐ Rust) | [reels/reel_0236_rust-lang-rust](reels/reel_0236_rust-lang-rust) |
 | 237 | 2025-11-06 11:50:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98325⭐ TypeScript) | [reels/reel_0237_iptv-org-iptv](reels/reel_0237_iptv-org-iptv) |
 | 238 | 2025-11-06 12:37:38 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | ✅ full (33431⭐ C++) | [reels/reel_0238_carbon-language-carbon-lang](reels/reel_0238_carbon-language-carbon-lang) |
+| 239 | 2025-11-06 13:20:42 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96552⭐ TypeScript) | [reels/reel_0239_ant-design-ant-design](reels/reel_0239_ant-design-ant-design) |
