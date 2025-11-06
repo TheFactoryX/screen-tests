@@ -1,0 +1,24 @@
+{
+  "reel_number": 260,
+  "recorded": "2025-11-06 20:52:53 UTC",
+  "repository": {
+    "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "clone_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools.git",
+    "stars": 94661,
+    "language": null,
+    "size_kb": 1114
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.194339
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 94661 stars."
+  }
+}
