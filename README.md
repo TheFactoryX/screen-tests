@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #247 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-06 |
+| #248 | [rvben/rumdl](https://github.com/rvben/rumdl) | Rust · ⭐ 318 | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -314,3 +314,4 @@ Or let GitHub Action run it automatically.
 | 245 | 2025-11-06 15:44:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119035⭐ Python) | [reels/reel_0245_langchain-ai-langchain](reels/reel_0245_langchain-ai-langchain) |
 | 246 | 2025-11-06 15:55:13 | [rook/kubectl-rook-ceph](https://github.com/rook/kubectl-rook-ceph) | ✅ full (101⭐ Go) | [reels/reel_0246_rook-kubectl-rook-ceph](reels/reel_0246_rook-kubectl-rook-ceph) |
 | 247 | 2025-11-06 16:24:37 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99161⭐ TypeScript) | [reels/reel_0247_shadcn-ui-ui](reels/reel_0247_shadcn-ui-ui) |
+| 248 | 2025-11-06 16:51:24 | [rvben/rumdl](https://github.com/rvben/rumdl) | ✅ full (318⭐ Rust) | [reels/reel_0248_rvben-rumdl](reels/reel_0248_rvben-rumdl) |
