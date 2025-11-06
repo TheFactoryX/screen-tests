@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #221 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-06 |
+| #222 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -288,3 +288,4 @@ Or let GitHub Action run it automatically.
 | 219 | 2025-11-06 04:47:05 | [openjdk/leyden](https://github.com/openjdk/leyden) | ✅ readme_only (173⭐ Java) | [reels/reel_0219_openjdk-leyden](reels/reel_0219_openjdk-leyden) |
 | 220 | 2025-11-06 05:18:46 | [ChuckJonas/wtfapex](https://github.com/ChuckJonas/wtfapex) | ✅ full (126⭐ None) | [reels/reel_0220_ChuckJonas-wtfapex](reels/reel_0220_ChuckJonas-wtfapex) |
 | 221 | 2025-11-06 05:41:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137277⭐ Python) | [reels/reel_0221_langflow-ai-langflow](reels/reel_0221_langflow-ai-langflow) |
+| 222 | 2025-11-06 05:51:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137277⭐ Python) | [reels/reel_0222_langflow-ai-langflow](reels/reel_0222_langflow-ai-langflow) |
