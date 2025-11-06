@@ -1,0 +1,24 @@
+{
+  "reel_number": 244,
+  "recorded": "2025-11-06 15:20:04 UTC",
+  "repository": {
+    "full_name": "yhoriuchi/projoint",
+    "url": "https://github.com/yhoriuchi/projoint",
+    "clone_url": "https://github.com/yhoriuchi/projoint.git",
+    "stars": 19,
+    "language": "R",
+    "size_kb": 36157
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 1.563727
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "R",
+    "director_note": "A R repository. 19 stars."
+  }
+}
