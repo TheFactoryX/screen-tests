@@ -1,0 +1,24 @@
+{
+  "reel_number": 233,
+  "recorded": "2025-11-06 10:20:53 UTC",
+  "repository": {
+    "full_name": "UninvitedActivity/UninvitedActivity",
+    "url": "https://github.com/UninvitedActivity/UninvitedActivity",
+    "clone_url": "https://github.com/UninvitedActivity/UninvitedActivity.git",
+    "stars": 136,
+    "language": "SRecode Template",
+    "size_kb": 3200225
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 3125,
+    "duration_seconds": 0.000132
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "SRecode Template",
+    "director_note": "A SRecode Template repository. 136 stars."
+  }
+}
