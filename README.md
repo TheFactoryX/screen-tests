@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #242 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-06 |
+| #243 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -309,3 +309,4 @@ Or let GitHub Action run it automatically.
 | 240 | 2025-11-06 13:48:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376116⭐ Python) | [reels/reel_0240_public-apis-public-apis](reels/reel_0240_public-apis-public-apis) |
 | 241 | 2025-11-06 14:18:21 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98326⭐ TypeScript) | [reels/reel_0241_iptv-org-iptv](reels/reel_0241_iptv-org-iptv) |
 | 242 | 2025-11-06 14:44:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249041⭐ None) | [reels/reel_0242_practical-tutorials-project-based-learning](reels/reel_0242_practical-tutorials-project-based-learning) |
+| 243 | 2025-11-06 14:54:18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134006⭐ Python) | [reels/reel_0243_yt-dlp-yt-dlp](reels/reel_0243_yt-dlp-yt-dlp) |
