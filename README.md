@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #226 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-06 |
+| #227 | [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) | Swift · ⭐ 497 | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -293,3 +293,4 @@ Or let GitHub Action run it automatically.
 | 224 | 2025-11-06 06:52:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98317⭐ TypeScript) | [reels/reel_0224_iptv-org-iptv](reels/reel_0224_iptv-org-iptv) |
 | 225 | 2025-11-06 07:17:38 | [mheidari98/.proxy](https://github.com/mheidari98/.proxy) | ✅ shallow (166⭐ Python) | [reels/reel_0225_mheidari98-.proxy](reels/reel_0225_mheidari98-.proxy) |
 | 226 | 2025-11-06 07:38:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179509⭐ Python) | [reels/reel_0226_Significant-Gravitas-AutoGPT](reels/reel_0226_Significant-Gravitas-AutoGPT) |
+| 227 | 2025-11-06 07:49:59 | [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) | ✅ shallow (497⭐ Swift) | [reels/reel_0227_alvr-org-alvr-visionos](reels/reel_0227_alvr-org-alvr-visionos) |

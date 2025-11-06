@@ -1,0 +1,24 @@
+{
+  "reel_number": 227,
+  "recorded": "2025-11-06 07:49:59 UTC",
+  "repository": {
+    "full_name": "alvr-org/alvr-visionos",
+    "url": "https://github.com/alvr-org/alvr-visionos",
+    "clone_url": "https://github.com/alvr-org/alvr-visionos.git",
+    "stars": 497,
+    "language": "Swift",
+    "size_kb": 111988
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 109,
+    "duration_seconds": 0.412389
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 497 stars."
+  }
+}
