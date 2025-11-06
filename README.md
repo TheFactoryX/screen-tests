@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #256 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 376k | 2025-11-06 |
+| #257 | [charlotte-os/Catten](https://github.com/charlotte-os/Catten) | Rust · ⭐ 229 | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -323,3 +323,4 @@ Or let GitHub Action run it automatically.
 | 254 | 2025-11-06 19:14:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137334⭐ Python) | [reels/reel_0254_langflow-ai-langflow](reels/reel_0254_langflow-ai-langflow) |
 | 255 | 2025-11-06 19:28:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98335⭐ TypeScript) | [reels/reel_0255_iptv-org-iptv](reels/reel_0255_iptv-org-iptv) |
 | 256 | 2025-11-06 19:40:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376182⭐ Python) | [reels/reel_0256_public-apis-public-apis](reels/reel_0256_public-apis-public-apis) |
+| 257 | 2025-11-06 19:50:20 | [charlotte-os/Catten](https://github.com/charlotte-os/Catten) | ✅ full (229⭐ Rust) | [reels/reel_0257_charlotte-os-Catten](reels/reel_0257_charlotte-os-Catten) |
