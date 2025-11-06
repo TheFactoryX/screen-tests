@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #241 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 98k | 2025-11-06 |
+| #242 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -308,3 +308,4 @@ Or let GitHub Action run it automatically.
 | 239 | 2025-11-06 13:20:42 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96552⭐ TypeScript) | [reels/reel_0239_ant-design-ant-design](reels/reel_0239_ant-design-ant-design) |
 | 240 | 2025-11-06 13:48:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376116⭐ Python) | [reels/reel_0240_public-apis-public-apis](reels/reel_0240_public-apis-public-apis) |
 | 241 | 2025-11-06 14:18:21 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98326⭐ TypeScript) | [reels/reel_0241_iptv-org-iptv](reels/reel_0241_iptv-org-iptv) |
+| 242 | 2025-11-06 14:44:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249041⭐ None) | [reels/reel_0242_practical-tutorials-project-based-learning](reels/reel_0242_practical-tutorials-project-based-learning) |
