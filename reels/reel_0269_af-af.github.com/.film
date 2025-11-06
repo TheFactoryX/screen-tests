@@ -1,0 +1,24 @@
+{
+  "reel_number": 269,
+  "recorded": "2025-11-06 23:49:32 UTC",
+  "repository": {
+    "full_name": "af/af.github.com",
+    "url": "https://github.com/af/af.github.com",
+    "clone_url": "https://github.com/af/af.github.com.git",
+    "stars": 11,
+    "language": "TypeScript",
+    "size_kb": 2790
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.302
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 11 stars."
+  }
+}
