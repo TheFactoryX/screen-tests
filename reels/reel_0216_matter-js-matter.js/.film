@@ -1,0 +1,24 @@
+{
+  "reel_number": 216,
+  "recorded": "2025-11-06 02:57:15 UTC",
+  "repository": {
+    "full_name": "matter-js/matter.js",
+    "url": "https://github.com/matter-js/matter.js",
+    "clone_url": "https://github.com/matter-js/matter.js.git",
+    "stars": 577,
+    "language": "TypeScript",
+    "size_kb": 44944
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 43,
+    "duration_seconds": 4.678724
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 577 stars."
+  }
+}
