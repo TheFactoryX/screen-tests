@@ -1,0 +1,24 @@
+{
+  "reel_number": 250,
+  "recorded": "2025-11-06 17:41:33 UTC",
+  "repository": {
+    "full_name": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "clone_url": "https://github.com/github/gitignore.git",
+    "stars": 170517,
+    "language": null,
+    "size_kb": 2998
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.42924
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 170517 stars."
+  }
+}
