@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #245 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-06 |
+| #246 | [rook/kubectl-rook-ceph](https://github.com/rook/kubectl-rook-ceph) | Go · ⭐ 101 | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -312,3 +312,4 @@ Or let GitHub Action run it automatically.
 | 243 | 2025-11-06 14:54:18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134006⭐ Python) | [reels/reel_0243_yt-dlp-yt-dlp](reels/reel_0243_yt-dlp-yt-dlp) |
 | 244 | 2025-11-06 15:20:04 | [yhoriuchi/projoint](https://github.com/yhoriuchi/projoint) | ✅ full (19⭐ R) | [reels/reel_0244_yhoriuchi-projoint](reels/reel_0244_yhoriuchi-projoint) |
 | 245 | 2025-11-06 15:44:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119035⭐ Python) | [reels/reel_0245_langchain-ai-langchain](reels/reel_0245_langchain-ai-langchain) |
+| 246 | 2025-11-06 15:55:13 | [rook/kubectl-rook-ceph](https://github.com/rook/kubectl-rook-ceph) | ✅ full (101⭐ Go) | [reels/reel_0246_rook-kubectl-rook-ceph](reels/reel_0246_rook-kubectl-rook-ceph) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 246,
+  "recorded": "2025-11-06 15:55:13 UTC",
+  "repository": {
+    "full_name": "rook/kubectl-rook-ceph",
+    "url": "https://github.com/rook/kubectl-rook-ceph",
+    "clone_url": "https://github.com/rook/kubectl-rook-ceph.git",
+    "stars": 101,
+    "language": "Go",
+    "size_kb": 940
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.83058
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 101 stars."
+  }
+}
