@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #267 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-06 |
+| #268 | [yoyofr/modizer](https://github.com/yoyofr/modizer) | C · ⭐ 145 | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -334,3 +334,4 @@ Or let GitHub Action run it automatically.
 | 265 | 2025-11-06 22:41:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99182⭐ TypeScript) | [reels/reel_0265_shadcn-ui-ui](reels/reel_0265_shadcn-ui-ui) |
 | 266 | 2025-11-06 22:51:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107685⭐ Rust) | [reels/reel_0266_rust-lang-rust](reels/reel_0266_rust-lang-rust) |
 | 267 | 2025-11-06 23:16:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107685⭐ Rust) | [reels/reel_0267_rust-lang-rust](reels/reel_0267_rust-lang-rust) |
+| 268 | 2025-11-06 23:37:21 | [yoyofr/modizer](https://github.com/yoyofr/modizer) | ✅ readme_only (145⭐ C) | [reels/reel_0268_yoyofr-modizer](reels/reel_0268_yoyofr-modizer) |
