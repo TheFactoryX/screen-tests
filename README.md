@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #222 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-06 |
+| #223 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -289,3 +289,4 @@ Or let GitHub Action run it automatically.
 | 220 | 2025-11-06 05:18:46 | [ChuckJonas/wtfapex](https://github.com/ChuckJonas/wtfapex) | ✅ full (126⭐ None) | [reels/reel_0220_ChuckJonas-wtfapex](reels/reel_0220_ChuckJonas-wtfapex) |
 | 221 | 2025-11-06 05:41:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137277⭐ Python) | [reels/reel_0221_langflow-ai-langflow](reels/reel_0221_langflow-ai-langflow) |
 | 222 | 2025-11-06 05:51:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137277⭐ Python) | [reels/reel_0222_langflow-ai-langflow](reels/reel_0222_langflow-ai-langflow) |
+| 223 | 2025-11-06 06:28:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114367⭐ JavaScript) | [reels/reel_0223_open-webui-open-webui](reels/reel_0223_open-webui-open-webui) |
