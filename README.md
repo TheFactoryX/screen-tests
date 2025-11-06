@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #219 | [openjdk/leyden](https://github.com/openjdk/leyden) | Java · ⭐ 173 | 2025-11-06 |
+| #220 | [ChuckJonas/wtfapex](https://github.com/ChuckJonas/wtfapex) | None · ⭐ 126 | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -286,3 +286,4 @@ Or let GitHub Action run it automatically.
 | 217 | 2025-11-06 03:49:15 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96548⭐ TypeScript) | [reels/reel_0217_ant-design-ant-design](reels/reel_0217_ant-design-ant-design) |
 | 218 | 2025-11-06 04:24:44 | [TeamREPENTOGON/REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | ✅ full (248⭐ C++) | [reels/reel_0218_TeamREPENTOGON-REPENTOGON](reels/reel_0218_TeamREPENTOGON-REPENTOGON) |
 | 219 | 2025-11-06 04:47:05 | [openjdk/leyden](https://github.com/openjdk/leyden) | ✅ readme_only (173⭐ Java) | [reels/reel_0219_openjdk-leyden](reels/reel_0219_openjdk-leyden) |
+| 220 | 2025-11-06 05:18:46 | [ChuckJonas/wtfapex](https://github.com/ChuckJonas/wtfapex) | ✅ full (126⭐ None) | [reels/reel_0220_ChuckJonas-wtfapex](reels/reel_0220_ChuckJonas-wtfapex) |
