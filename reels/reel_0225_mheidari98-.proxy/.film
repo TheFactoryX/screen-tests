@@ -1,0 +1,24 @@
+{
+  "reel_number": 225,
+  "recorded": "2025-11-06 07:17:38 UTC",
+  "repository": {
+    "full_name": "mheidari98/.proxy",
+    "url": "https://github.com/mheidari98/.proxy",
+    "clone_url": "https://github.com/mheidari98/.proxy.git",
+    "stars": 166,
+    "language": "Python",
+    "size_kb": 154699
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 151,
+    "duration_seconds": 0.591555
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 166 stars."
+  }
+}
