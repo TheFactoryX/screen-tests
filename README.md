@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #233 | [UninvitedActivity/UninvitedActivity](https://github.com/UninvitedActivity/UninvitedActivity) | SRecode Template · ⭐ 136 | 2025-11-06 |
+| #234 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 133k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -300,3 +300,4 @@ Or let GitHub Action run it automatically.
 | 231 | 2025-11-06 09:42:34 | [tektoncd/dashboard](https://github.com/tektoncd/dashboard) | ✅ full (935⭐ JavaScript) | [reels/reel_0231_tektoncd-dashboard](reels/reel_0231_tektoncd-dashboard) |
 | 232 | 2025-11-06 09:52:37 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91440⭐ None) | [reels/reel_0232_deepseek-ai-DeepSeek-R1](reels/reel_0232_deepseek-ai-DeepSeek-R1) |
 | 233 | 2025-11-06 10:20:53 | [UninvitedActivity/UninvitedActivity](https://github.com/UninvitedActivity/UninvitedActivity) | ✅ readme_only (136⭐ SRecode Template) | [reels/reel_0233_UninvitedActivity-UninvitedActivity](reels/reel_0233_UninvitedActivity-UninvitedActivity) |
+| 234 | 2025-11-06 10:45:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (133981⭐ Python) | [reels/reel_0234_yt-dlp-yt-dlp](reels/reel_0234_yt-dlp-yt-dlp) |
