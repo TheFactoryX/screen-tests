@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #240 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 376k | 2025-11-06 |
+| #241 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 98k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -307,3 +307,4 @@ Or let GitHub Action run it automatically.
 | 238 | 2025-11-06 12:37:38 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | ✅ full (33431⭐ C++) | [reels/reel_0238_carbon-language-carbon-lang](reels/reel_0238_carbon-language-carbon-lang) |
 | 239 | 2025-11-06 13:20:42 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96552⭐ TypeScript) | [reels/reel_0239_ant-design-ant-design](reels/reel_0239_ant-design-ant-design) |
 | 240 | 2025-11-06 13:48:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376116⭐ Python) | [reels/reel_0240_public-apis-public-apis](reels/reel_0240_public-apis-public-apis) |
+| 241 | 2025-11-06 14:18:21 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98326⭐ TypeScript) | [reels/reel_0241_iptv-org-iptv](reels/reel_0241_iptv-org-iptv) |
