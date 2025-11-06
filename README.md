@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #217 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-06 |
+| #218 | [TeamREPENTOGON/REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | C++ · ⭐ 248 | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -284,3 +284,4 @@ Or let GitHub Action run it automatically.
 | 215 | 2025-11-06 01:22:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137250⭐ Python) | [reels/reel_0215_langflow-ai-langflow](reels/reel_0215_langflow-ai-langflow) |
 | 216 | 2025-11-06 02:57:15 | [matter-js/matter.js](https://github.com/matter-js/matter.js) | ✅ full (577⭐ TypeScript) | [reels/reel_0216_matter-js-matter.js](reels/reel_0216_matter-js-matter.js) |
 | 217 | 2025-11-06 03:49:15 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96548⭐ TypeScript) | [reels/reel_0217_ant-design-ant-design](reels/reel_0217_ant-design-ant-design) |
+| 218 | 2025-11-06 04:24:44 | [TeamREPENTOGON/REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) | ✅ full (248⭐ C++) | [reels/reel_0218_TeamREPENTOGON-REPENTOGON](reels/reel_0218_TeamREPENTOGON-REPENTOGON) |

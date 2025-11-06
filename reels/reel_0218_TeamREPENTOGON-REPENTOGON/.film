@@ -1,0 +1,24 @@
+{
+  "reel_number": 218,
+  "recorded": "2025-11-06 04:24:44 UTC",
+  "repository": {
+    "full_name": "TeamREPENTOGON/REPENTOGON",
+    "url": "https://github.com/TeamREPENTOGON/REPENTOGON",
+    "clone_url": "https://github.com/TeamREPENTOGON/REPENTOGON.git",
+    "stars": 248,
+    "language": "C++",
+    "size_kb": 76733
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 74,
+    "duration_seconds": 6.845271
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 248 stars."
+  }
+}
