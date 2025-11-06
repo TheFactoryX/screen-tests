@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #258 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 154k | 2025-11-06 |
+| #259 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -325,3 +325,4 @@ Or let GitHub Action run it automatically.
 | 256 | 2025-11-06 19:40:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376182⭐ Python) | [reels/reel_0256_public-apis-public-apis](reels/reel_0256_public-apis-public-apis) |
 | 257 | 2025-11-06 19:50:20 | [charlotte-os/Catten](https://github.com/charlotte-os/Catten) | ✅ full (229⭐ Rust) | [reels/reel_0257_charlotte-os-Catten](reels/reel_0257_charlotte-os-Catten) |
 | 258 | 2025-11-06 20:20:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154462⭐ TypeScript) | [reels/reel_0258_n8n-io-n8n](reels/reel_0258_n8n-io-n8n) |
+| 259 | 2025-11-06 20:41:53 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137340⭐ Python) | [reels/reel_0259_langflow-ai-langflow](reels/reel_0259_langflow-ai-langflow) |
