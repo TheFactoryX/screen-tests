@@ -1,0 +1,24 @@
+{
+  "reel_number": 263,
+  "recorded": "2025-11-06 21:49:42 UTC",
+  "repository": {
+    "full_name": "zloi-user/hideip.me",
+    "url": "https://github.com/zloi-user/hideip.me",
+    "clone_url": "https://github.com/zloi-user/hideip.me.git",
+    "stars": 393,
+    "language": null,
+    "size_kb": 1483829
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1449,
+    "duration_seconds": 0.00011
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 393 stars."
+  }
+}
