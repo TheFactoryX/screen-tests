@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #227 | [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) | Swift · ⭐ 497 | 2025-11-06 |
+| #228 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-06 |
 ---
 
 ## 🎭 Selection Process
@@ -294,3 +294,4 @@ Or let GitHub Action run it automatically.
 | 225 | 2025-11-06 07:17:38 | [mheidari98/.proxy](https://github.com/mheidari98/.proxy) | ✅ shallow (166⭐ Python) | [reels/reel_0225_mheidari98-.proxy](reels/reel_0225_mheidari98-.proxy) |
 | 226 | 2025-11-06 07:38:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179509⭐ Python) | [reels/reel_0226_Significant-Gravitas-AutoGPT](reels/reel_0226_Significant-Gravitas-AutoGPT) |
 | 227 | 2025-11-06 07:49:59 | [alvr-org/alvr-visionos](https://github.com/alvr-org/alvr-visionos) | ✅ shallow (497⭐ Swift) | [reels/reel_0227_alvr-org-alvr-visionos](reels/reel_0227_alvr-org-alvr-visionos) |
+| 228 | 2025-11-06 08:24:56 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99137⭐ TypeScript) | [reels/reel_0228_shadcn-ui-ui](reels/reel_0228_shadcn-ui-ui) |
