@@ -1,0 +1,24 @@
+{
+  "reel_number": 273,
+  "recorded": "2025-11-07 03:59:39 UTC",
+  "repository": {
+    "full_name": "yakhyo/gaze-estimation",
+    "url": "https://github.com/yakhyo/gaze-estimation",
+    "clone_url": "https://github.com/yakhyo/gaze-estimation.git",
+    "stars": 126,
+    "language": "Python",
+    "size_kb": 85631
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 83,
+    "duration_seconds": 1.37413
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 126 stars."
+  }
+}
