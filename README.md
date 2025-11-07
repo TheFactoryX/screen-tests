@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #303 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-07 |
+| #304 | [Moebytes/Moepictures](https://github.com/Moebytes/Moepictures) | TypeScript · ⭐ 26 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -370,3 +370,4 @@ Or let GitHub Action run it automatically.
 | 301 | 2025-11-07 14:52:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114514⭐ JavaScript) | [reels/reel_0301_open-webui-open-webui](reels/reel_0301_open-webui-open-webui) |
 | 302 | 2025-11-07 15:18:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154640⭐ TypeScript) | [reels/reel_0302_n8n-io-n8n](reels/reel_0302_n8n-io-n8n) |
 | 303 | 2025-11-07 15:41:17 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249154⭐ None) | [reels/reel_0303_practical-tutorials-project-based-learning](reels/reel_0303_practical-tutorials-project-based-learning) |
+| 304 | 2025-11-07 15:51:24 | [Moebytes/Moepictures](https://github.com/Moebytes/Moepictures) | ✅ shallow (26⭐ TypeScript) | [reels/reel_0304_Moebytes-Moepictures](reels/reel_0304_Moebytes-Moepictures) |
