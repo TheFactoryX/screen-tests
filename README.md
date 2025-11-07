@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #317 | [airbnb/javascript](https://github.com/airbnb/javascript) | JavaScript · ⭐ 147k | 2025-11-07 |
+| #318 | [Richienb/char-regex](https://github.com/Richienb/char-regex) | JavaScript · ⭐ 28 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -384,3 +384,4 @@ Or let GitHub Action run it automatically.
 | 315 | 2025-11-07 19:50:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119134⭐ Python) | [reels/reel_0315_langchain-ai-langchain](reels/reel_0315_langchain-ai-langchain) |
 | 316 | 2025-11-07 20:18:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256849⭐ None) | [reels/reel_0316_awesome-selfhosted-awesome-selfhosted](reels/reel_0316_awesome-selfhosted-awesome-selfhosted) |
 | 317 | 2025-11-07 20:38:44 | [airbnb/javascript](https://github.com/airbnb/javascript) | ✅ full (147750⭐ JavaScript) | [reels/reel_0317_airbnb-javascript](reels/reel_0317_airbnb-javascript) |
+| 318 | 2025-11-07 20:50:22 | [Richienb/char-regex](https://github.com/Richienb/char-regex) | ✅ full (28⭐ JavaScript) | [reels/reel_0318_Richienb-char-regex](reels/reel_0318_Richienb-char-regex) |

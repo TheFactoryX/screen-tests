@@ -1,0 +1,24 @@
+{
+  "reel_number": 318,
+  "recorded": "2025-11-07 20:50:22 UTC",
+  "repository": {
+    "full_name": "Richienb/char-regex",
+    "url": "https://github.com/Richienb/char-regex",
+    "clone_url": "https://github.com/Richienb/char-regex.git",
+    "stars": 28,
+    "language": "JavaScript",
+    "size_kb": 217
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.524512
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 28 stars."
+  }
+}
