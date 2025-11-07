@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #325 | [hastinbe/theme-kawasaki](https://github.com/hastinbe/theme-kawasaki) | Shell · ⭐ 32 | 2025-11-07 |
+| #326 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | TypeScript · ⭐ 225 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -392,3 +392,4 @@ Or let GitHub Action run it automatically.
 | 323 | 2025-11-07 22:16:21 | [hackclub/podium](https://github.com/hackclub/podium) | ✅ full (14⭐ Python) | [reels/reel_0323_hackclub-podium](reels/reel_0323_hackclub-podium) |
 | 324 | 2025-11-07 22:40:17 | [zoidsh/meru](https://github.com/zoidsh/meru) | ✅ full (923⭐ TypeScript) | [reels/reel_0324_zoidsh-meru](reels/reel_0324_zoidsh-meru) |
 | 325 | 2025-11-07 22:49:56 | [hastinbe/theme-kawasaki](https://github.com/hastinbe/theme-kawasaki) | ✅ full (32⭐ Shell) | [reels/reel_0325_hastinbe-theme-kawasaki](reels/reel_0325_hastinbe-theme-kawasaki) |
+| 326 | 2025-11-07 23:15:57 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | ✅ full (225⭐ TypeScript) | [reels/reel_0326_Effect-TS-effect-smol](reels/reel_0326_Effect-TS-effect-smol) |
