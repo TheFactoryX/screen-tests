@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #290 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-07 |
+| #291 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -357,3 +357,4 @@ Or let GitHub Action run it automatically.
 | 288 | 2025-11-07 09:50:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256772⭐ None) | [reels/reel_0288_awesome-selfhosted-awesome-selfhosted](reels/reel_0288_awesome-selfhosted-awesome-selfhosted) |
 | 289 | 2025-11-07 10:20:12 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | ✅ readme_only (94777⭐ Python) | [reels/reel_0289_pytorch-pytorch](reels/reel_0289_pytorch-pytorch) |
 | 290 | 2025-11-07 10:43:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119110⭐ Python) | [reels/reel_0290_langchain-ai-langchain](reels/reel_0290_langchain-ai-langchain) |
+| 291 | 2025-11-07 10:53:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114503⭐ JavaScript) | [reels/reel_0291_open-webui-open-webui](reels/reel_0291_open-webui-open-webui) |
