@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #274 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-07 |
+| #275 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | Dockerfile · ⭐ 95k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -341,3 +341,4 @@ Or let GitHub Action run it automatically.
 | 272 | 2025-11-07 03:42:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98637⭐ Rust) | [reels/reel_0272_tauri-apps-tauri](reels/reel_0272_tauri-apps-tauri) |
 | 273 | 2025-11-07 03:59:39 | [yakhyo/gaze-estimation](https://github.com/yakhyo/gaze-estimation) | ✅ full (126⭐ Python) | [reels/reel_0273_yakhyo-gaze-estimation](reels/reel_0273_yakhyo-gaze-estimation) |
 | 274 | 2025-11-07 04:31:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119066⭐ Python) | [reels/reel_0274_langchain-ai-langchain](reels/reel_0274_langchain-ai-langchain) |
+| 275 | 2025-11-07 04:51:41 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | ✅ shallow (95612⭐ Dockerfile) | [reels/reel_0275_Anduin2017-HowToCook](reels/reel_0275_Anduin2017-HowToCook) |
