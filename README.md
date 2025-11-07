@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #291 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-07 |
+| #292 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -358,3 +358,4 @@ Or let GitHub Action run it automatically.
 | 289 | 2025-11-07 10:20:12 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | ✅ readme_only (94777⭐ Python) | [reels/reel_0289_pytorch-pytorch](reels/reel_0289_pytorch-pytorch) |
 | 290 | 2025-11-07 10:43:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119110⭐ Python) | [reels/reel_0290_langchain-ai-langchain](reels/reel_0290_langchain-ai-langchain) |
 | 291 | 2025-11-07 10:53:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114503⭐ JavaScript) | [reels/reel_0291_open-webui-open-webui](reels/reel_0291_open-webui-open-webui) |
+| 292 | 2025-11-07 11:15:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134105⭐ Python) | [reels/reel_0292_yt-dlp-yt-dlp](reels/reel_0292_yt-dlp-yt-dlp) |
