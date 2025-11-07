@@ -1,0 +1,24 @@
+{
+  "reel_number": 325,
+  "recorded": "2025-11-07 22:49:56 UTC",
+  "repository": {
+    "full_name": "hastinbe/theme-kawasaki",
+    "url": "https://github.com/hastinbe/theme-kawasaki",
+    "clone_url": "https://github.com/hastinbe/theme-kawasaki.git",
+    "stars": 32,
+    "language": "Shell",
+    "size_kb": 24
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.23011
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 32 stars."
+  }
+}

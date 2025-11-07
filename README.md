@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #324 | [zoidsh/meru](https://github.com/zoidsh/meru) | TypeScript · ⭐ 923 | 2025-11-07 |
+| #325 | [hastinbe/theme-kawasaki](https://github.com/hastinbe/theme-kawasaki) | Shell · ⭐ 32 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -391,3 +391,4 @@ Or let GitHub Action run it automatically.
 | 322 | 2025-11-07 21:50:16 | [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) | ✅ full (1639⭐ Python) | [reels/reel_0322_mozilla-fx-private-relay](reels/reel_0322_mozilla-fx-private-relay) |
 | 323 | 2025-11-07 22:16:21 | [hackclub/podium](https://github.com/hackclub/podium) | ✅ full (14⭐ Python) | [reels/reel_0323_hackclub-podium](reels/reel_0323_hackclub-podium) |
 | 324 | 2025-11-07 22:40:17 | [zoidsh/meru](https://github.com/zoidsh/meru) | ✅ full (923⭐ TypeScript) | [reels/reel_0324_zoidsh-meru](reels/reel_0324_zoidsh-meru) |
+| 325 | 2025-11-07 22:49:56 | [hastinbe/theme-kawasaki](https://github.com/hastinbe/theme-kawasaki) | ✅ full (32⭐ Shell) | [reels/reel_0325_hastinbe-theme-kawasaki](reels/reel_0325_hastinbe-theme-kawasaki) |
