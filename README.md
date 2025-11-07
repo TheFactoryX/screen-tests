@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #312 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-07 |
+| #313 | [SoliSpirit/v2ray-configs](https://github.com/SoliSpirit/v2ray-configs) | None · ⭐ 279 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -379,3 +379,4 @@ Or let GitHub Action run it automatically.
 | 310 | 2025-11-07 18:25:20 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98656⭐ Rust) | [reels/reel_0310_tauri-apps-tauri](reels/reel_0310_tauri-apps-tauri) |
 | 311 | 2025-11-07 18:46:22 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134147⭐ Python) | [reels/reel_0311_yt-dlp-yt-dlp](reels/reel_0311_yt-dlp-yt-dlp) |
 | 312 | 2025-11-07 19:15:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249168⭐ None) | [reels/reel_0312_practical-tutorials-project-based-learning](reels/reel_0312_practical-tutorials-project-based-learning) |
+| 313 | 2025-11-07 19:28:21 | [SoliSpirit/v2ray-configs](https://github.com/SoliSpirit/v2ray-configs) | ✅ readme_only (279⭐ None) | [reels/reel_0313_SoliSpirit-v2ray-configs](reels/reel_0313_SoliSpirit-v2ray-configs) |

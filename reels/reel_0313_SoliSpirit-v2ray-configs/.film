@@ -1,0 +1,24 @@
+{
+  "reel_number": 313,
+  "recorded": "2025-11-07 19:28:21 UTC",
+  "repository": {
+    "full_name": "SoliSpirit/v2ray-configs",
+    "url": "https://github.com/SoliSpirit/v2ray-configs",
+    "clone_url": "https://github.com/SoliSpirit/v2ray-configs.git",
+    "stars": 279,
+    "language": null,
+    "size_kb": 18329060
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 17899,
+    "duration_seconds": 0.000153
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 279 stars."
+  }
+}
