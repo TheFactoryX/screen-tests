@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #278 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-07 |
+| #279 | [mierak/rmpc](https://github.com/mierak/rmpc) | Rust · ⭐ 1k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -345,3 +345,4 @@ Or let GitHub Action run it automatically.
 | 276 | 2025-11-07 05:17:48 | [MaximilianAdF/NoPixel-MiniGames-4.0](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0) | ✅ full (128⭐ TypeScript) | [reels/reel_0276_MaximilianAdF-NoPixel-MiniGames-4.0](reels/reel_0276_MaximilianAdF-NoPixel-MiniGames-4.0) |
 | 277 | 2025-11-07 05:41:28 | [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) | ✅ full (114⭐ MLIR) | [reels/reel_0277_NVIDIA-TensorRT-Incubator](reels/reel_0277_NVIDIA-TensorRT-Incubator) |
 | 278 | 2025-11-07 05:51:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119069⭐ Python) | [reels/reel_0278_langchain-ai-langchain](reels/reel_0278_langchain-ai-langchain) |
+| 279 | 2025-11-07 06:27:40 | [mierak/rmpc](https://github.com/mierak/rmpc) | ✅ full (1598⭐ Rust) | [reels/reel_0279_mierak-rmpc](reels/reel_0279_mierak-rmpc) |
