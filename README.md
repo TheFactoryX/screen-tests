@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #326 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | TypeScript · ⭐ 225 | 2025-11-07 |
+| #327 | [google/adk-docs](https://github.com/google/adk-docs) | HTML · ⭐ 623 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -393,3 +393,4 @@ Or let GitHub Action run it automatically.
 | 324 | 2025-11-07 22:40:17 | [zoidsh/meru](https://github.com/zoidsh/meru) | ✅ full (923⭐ TypeScript) | [reels/reel_0324_zoidsh-meru](reels/reel_0324_zoidsh-meru) |
 | 325 | 2025-11-07 22:49:56 | [hastinbe/theme-kawasaki](https://github.com/hastinbe/theme-kawasaki) | ✅ full (32⭐ Shell) | [reels/reel_0325_hastinbe-theme-kawasaki](reels/reel_0325_hastinbe-theme-kawasaki) |
 | 326 | 2025-11-07 23:15:57 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | ✅ full (225⭐ TypeScript) | [reels/reel_0326_Effect-TS-effect-smol](reels/reel_0326_Effect-TS-effect-smol) |
+| 327 | 2025-11-07 23:36:34 | [google/adk-docs](https://github.com/google/adk-docs) | ✅ full (623⭐ HTML) | [reels/reel_0327_google-adk-docs](reels/reel_0327_google-adk-docs) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 327,
+  "recorded": "2025-11-07 23:36:34 UTC",
+  "repository": {
+    "full_name": "google/adk-docs",
+    "url": "https://github.com/google/adk-docs",
+    "clone_url": "https://github.com/google/adk-docs.git",
+    "stars": 623,
+    "language": "HTML",
+    "size_kb": 47064
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 45,
+    "duration_seconds": 1.791677
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 623 stars."
+  }
+}
