@@ -1,0 +1,24 @@
+{
+  "reel_number": 298,
+  "recorded": "2025-11-07 13:54:13 UTC",
+  "repository": {
+    "full_name": "qt/qtopcua",
+    "url": "https://github.com/qt/qtopcua",
+    "clone_url": "https://github.com/qt/qtopcua.git",
+    "stars": 107,
+    "language": "C++",
+    "size_kb": 13379
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 1.04454
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 107 stars."
+  }
+}
