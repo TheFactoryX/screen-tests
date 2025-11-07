@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #293 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-07 |
+| #294 | [qimao7213/TGH-Planner](https://github.com/qimao7213/TGH-Planner) | C++ · ⭐ 119 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -360,3 +360,4 @@ Or let GitHub Action run it automatically.
 | 291 | 2025-11-07 10:53:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114503⭐ JavaScript) | [reels/reel_0291_open-webui-open-webui](reels/reel_0291_open-webui-open-webui) |
 | 292 | 2025-11-07 11:15:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134105⭐ Python) | [reels/reel_0292_yt-dlp-yt-dlp](reels/reel_0292_yt-dlp-yt-dlp) |
 | 293 | 2025-11-07 11:37:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256782⭐ None) | [reels/reel_0293_awesome-selfhosted-awesome-selfhosted](reels/reel_0293_awesome-selfhosted-awesome-selfhosted) |
+| 294 | 2025-11-07 11:50:28 | [qimao7213/TGH-Planner](https://github.com/qimao7213/TGH-Planner) | ✅ shallow (119⭐ C++) | [reels/reel_0294_qimao7213-TGH-Planner](reels/reel_0294_qimao7213-TGH-Planner) |
