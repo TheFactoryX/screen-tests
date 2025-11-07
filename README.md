@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #277 | [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) | MLIR · ⭐ 114 | 2025-11-07 |
+| #278 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -344,3 +344,4 @@ Or let GitHub Action run it automatically.
 | 275 | 2025-11-07 04:51:41 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | ✅ shallow (95612⭐ Dockerfile) | [reels/reel_0275_Anduin2017-HowToCook](reels/reel_0275_Anduin2017-HowToCook) |
 | 276 | 2025-11-07 05:17:48 | [MaximilianAdF/NoPixel-MiniGames-4.0](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0) | ✅ full (128⭐ TypeScript) | [reels/reel_0276_MaximilianAdF-NoPixel-MiniGames-4.0](reels/reel_0276_MaximilianAdF-NoPixel-MiniGames-4.0) |
 | 277 | 2025-11-07 05:41:28 | [NVIDIA/TensorRT-Incubator](https://github.com/NVIDIA/TensorRT-Incubator) | ✅ full (114⭐ MLIR) | [reels/reel_0277_NVIDIA-TensorRT-Incubator](reels/reel_0277_NVIDIA-TensorRT-Incubator) |
+| 278 | 2025-11-07 05:51:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119069⭐ Python) | [reels/reel_0278_langchain-ai-langchain](reels/reel_0278_langchain-ai-langchain) |
