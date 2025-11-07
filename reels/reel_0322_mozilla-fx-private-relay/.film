@@ -1,0 +1,24 @@
+{
+  "reel_number": 322,
+  "recorded": "2025-11-07 21:50:16 UTC",
+  "repository": {
+    "full_name": "mozilla/fx-private-relay",
+    "url": "https://github.com/mozilla/fx-private-relay",
+    "clone_url": "https://github.com/mozilla/fx-private-relay.git",
+    "stars": 1639,
+    "language": "Python",
+    "size_kb": 60816
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 59,
+    "duration_seconds": 8.685785
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 1639 stars."
+  }
+}

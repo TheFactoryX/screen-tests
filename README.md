@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #321 | [shuaidaoya/FreeNodes](https://github.com/shuaidaoya/FreeNodes) | Shell · ⭐ 323 | 2025-11-07 |
+| #322 | [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) | Python · ⭐ 1k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -388,3 +388,4 @@ Or let GitHub Action run it automatically.
 | 319 | 2025-11-07 21:13:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179549⭐ Python) | [reels/reel_0319_Significant-Gravitas-AutoGPT](reels/reel_0319_Significant-Gravitas-AutoGPT) |
 | 320 | 2025-11-07 21:27:43 | [inaturalist/iNaturalistAPI](https://github.com/inaturalist/iNaturalistAPI) | ✅ full (123⭐ JavaScript) | [reels/reel_0320_inaturalist-iNaturalistAPI](reels/reel_0320_inaturalist-iNaturalistAPI) |
 | 321 | 2025-11-07 21:39:38 | [shuaidaoya/FreeNodes](https://github.com/shuaidaoya/FreeNodes) | ✅ full (323⭐ Shell) | [reels/reel_0321_shuaidaoya-FreeNodes](reels/reel_0321_shuaidaoya-FreeNodes) |
+| 322 | 2025-11-07 21:50:16 | [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) | ✅ full (1639⭐ Python) | [reels/reel_0322_mozilla-fx-private-relay](reels/reel_0322_mozilla-fx-private-relay) |
