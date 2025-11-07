@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #323 | [hackclub/podium](https://github.com/hackclub/podium) | Python · ⭐ 14 | 2025-11-07 |
+| #324 | [zoidsh/meru](https://github.com/zoidsh/meru) | TypeScript · ⭐ 923 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -390,3 +390,4 @@ Or let GitHub Action run it automatically.
 | 321 | 2025-11-07 21:39:38 | [shuaidaoya/FreeNodes](https://github.com/shuaidaoya/FreeNodes) | ✅ full (323⭐ Shell) | [reels/reel_0321_shuaidaoya-FreeNodes](reels/reel_0321_shuaidaoya-FreeNodes) |
 | 322 | 2025-11-07 21:50:16 | [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) | ✅ full (1639⭐ Python) | [reels/reel_0322_mozilla-fx-private-relay](reels/reel_0322_mozilla-fx-private-relay) |
 | 323 | 2025-11-07 22:16:21 | [hackclub/podium](https://github.com/hackclub/podium) | ✅ full (14⭐ Python) | [reels/reel_0323_hackclub-podium](reels/reel_0323_hackclub-podium) |
+| 324 | 2025-11-07 22:40:17 | [zoidsh/meru](https://github.com/zoidsh/meru) | ✅ full (923⭐ TypeScript) | [reels/reel_0324_zoidsh-meru](reels/reel_0324_zoidsh-meru) |
