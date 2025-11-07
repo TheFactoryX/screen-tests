@@ -1,0 +1,24 @@
+{
+  "reel_number": 285,
+  "recorded": "2025-11-07 08:48:25 UTC",
+  "repository": {
+    "full_name": "CoolBitX-Technology/coolwallet-sdk",
+    "url": "https://github.com/CoolBitX-Technology/coolwallet-sdk",
+    "clone_url": "https://github.com/CoolBitX-Technology/coolwallet-sdk.git",
+    "stars": 38,
+    "language": "TypeScript",
+    "size_kb": 82731
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 80,
+    "duration_seconds": 5.264269
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 38 stars."
+  }
+}
