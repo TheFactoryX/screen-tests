@@ -1,0 +1,24 @@
+{
+  "reel_number": 296,
+  "recorded": "2025-11-07 13:17:43 UTC",
+  "repository": {
+    "full_name": "yoctoproject/poky",
+    "url": "https://github.com/yoctoproject/poky",
+    "clone_url": "https://github.com/yoctoproject/poky.git",
+    "stars": 406,
+    "language": "Python",
+    "size_kb": 246670
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 240,
+    "duration_seconds": 2.043515
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 406 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #295 | [vuejs/vue](https://github.com/vuejs/vue) | TypeScript · ⭐ 209k | 2025-11-07 |
+| #296 | [yoctoproject/poky](https://github.com/yoctoproject/poky) | Python · ⭐ 406 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -362,3 +362,4 @@ Or let GitHub Action run it automatically.
 | 293 | 2025-11-07 11:37:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256782⭐ None) | [reels/reel_0293_awesome-selfhosted-awesome-selfhosted](reels/reel_0293_awesome-selfhosted-awesome-selfhosted) |
 | 294 | 2025-11-07 11:50:28 | [qimao7213/TGH-Planner](https://github.com/qimao7213/TGH-Planner) | ✅ shallow (119⭐ C++) | [reels/reel_0294_qimao7213-TGH-Planner](reels/reel_0294_qimao7213-TGH-Planner) |
 | 295 | 2025-11-07 12:36:35 | [vuejs/vue](https://github.com/vuejs/vue) | ✅ full (209671⭐ TypeScript) | [reels/reel_0295_vuejs-vue](reels/reel_0295_vuejs-vue) |
+| 296 | 2025-11-07 13:17:43 | [yoctoproject/poky](https://github.com/yoctoproject/poky) | ✅ shallow (406⭐ Python) | [reels/reel_0296_yoctoproject-poky](reels/reel_0296_yoctoproject-poky) |
