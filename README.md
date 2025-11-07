@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #306 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-07 |
+| #307 | [rive-app/rive-unity](https://github.com/rive-app/rive-unity) | C# · ⭐ 168 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -373,3 +373,4 @@ Or let GitHub Action run it automatically.
 | 304 | 2025-11-07 15:51:24 | [Moebytes/Moepictures](https://github.com/Moebytes/Moepictures) | ✅ shallow (26⭐ TypeScript) | [reels/reel_0304_Moebytes-Moepictures](reels/reel_0304_Moebytes-Moepictures) |
 | 305 | 2025-11-07 16:18:47 | [helixml/kodit](https://github.com/helixml/kodit) | ✅ full (107⭐ Python) | [reels/reel_0305_helixml-kodit](reels/reel_0305_helixml-kodit) |
 | 306 | 2025-11-07 16:45:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119128⭐ Python) | [reels/reel_0306_langchain-ai-langchain](reels/reel_0306_langchain-ai-langchain) |
+| 307 | 2025-11-07 17:15:57 | [rive-app/rive-unity](https://github.com/rive-app/rive-unity) | ✅ readme_only (168⭐ C#) | [reels/reel_0307_rive-app-rive-unity](reels/reel_0307_rive-app-rive-unity) |
