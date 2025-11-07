@@ -1,0 +1,24 @@
+{
+  "reel_number": 274,
+  "recorded": "2025-11-07 04:31:35 UTC",
+  "repository": {
+    "full_name": "langchain-ai/langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "clone_url": "https://github.com/langchain-ai/langchain.git",
+    "stars": 119066,
+    "language": "Python",
+    "size_kb": 493798
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 482,
+    "duration_seconds": 1.451054
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 119066 stars."
+  }
+}
