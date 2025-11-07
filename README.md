@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #269 | [af/af.github.com](https://github.com/af/af.github.com) | TypeScript · ⭐ 11 | 2025-11-06 |
+| #270 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -336,3 +336,4 @@ Or let GitHub Action run it automatically.
 | 267 | 2025-11-06 23:16:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107685⭐ Rust) | [reels/reel_0267_rust-lang-rust](reels/reel_0267_rust-lang-rust) |
 | 268 | 2025-11-06 23:37:21 | [yoyofr/modizer](https://github.com/yoyofr/modizer) | ✅ readme_only (145⭐ C) | [reels/reel_0268_yoyofr-modizer](reels/reel_0268_yoyofr-modizer) |
 | 269 | 2025-11-06 23:49:32 | [af/af.github.com](https://github.com/af/af.github.com) | ✅ full (11⭐ TypeScript) | [reels/reel_0269_af-af.github.com](reels/reel_0269_af-af.github.com) |
+| 270 | 2025-11-07 01:22:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256733⭐ None) | [reels/reel_0270_awesome-selfhosted-awesome-selfhosted](reels/reel_0270_awesome-selfhosted-awesome-selfhosted) |
