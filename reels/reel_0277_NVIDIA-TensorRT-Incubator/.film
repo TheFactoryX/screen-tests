@@ -1,0 +1,24 @@
+{
+  "reel_number": 277,
+  "recorded": "2025-11-07 05:41:28 UTC",
+  "repository": {
+    "full_name": "NVIDIA/TensorRT-Incubator",
+    "url": "https://github.com/NVIDIA/TensorRT-Incubator",
+    "clone_url": "https://github.com/NVIDIA/TensorRT-Incubator.git",
+    "stars": 114,
+    "language": "MLIR",
+    "size_kb": 58572
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 57,
+    "duration_seconds": 2.00379
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "MLIR",
+    "director_note": "A MLIR repository. 114 stars."
+  }
+}
