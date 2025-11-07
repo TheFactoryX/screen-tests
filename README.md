@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #285 | [CoolBitX-Technology/coolwallet-sdk](https://github.com/CoolBitX-Technology/coolwallet-sdk) | TypeScript · ⭐ 38 | 2025-11-07 |
+| #286 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -352,3 +352,4 @@ Or let GitHub Action run it automatically.
 | 283 | 2025-11-07 07:49:45 | [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) | ✅ full (478⭐ Python) | [reels/reel_0283_GoogleCloudPlatform-professional-services-data-validator](reels/reel_0283_GoogleCloudPlatform-professional-services-data-validator) |
 | 284 | 2025-11-07 08:24:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154558⭐ TypeScript) | [reels/reel_0284_n8n-io-n8n](reels/reel_0284_n8n-io-n8n) |
 | 285 | 2025-11-07 08:48:25 | [CoolBitX-Technology/coolwallet-sdk](https://github.com/CoolBitX-Technology/coolwallet-sdk) | ✅ full (38⭐ TypeScript) | [reels/reel_0285_CoolBitX-Technology-coolwallet-sdk](reels/reel_0285_CoolBitX-Technology-coolwallet-sdk) |
+| 286 | 2025-11-07 09:18:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138689⭐ Python) | [reels/reel_0286_ytdl-org-youtube-dl](reels/reel_0286_ytdl-org-youtube-dl) |
