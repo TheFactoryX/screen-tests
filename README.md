@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #288 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-07 |
+| #289 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python · ⭐ 94k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -355,3 +355,4 @@ Or let GitHub Action run it automatically.
 | 286 | 2025-11-07 09:18:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138689⭐ Python) | [reels/reel_0286_ytdl-org-youtube-dl](reels/reel_0286_ytdl-org-youtube-dl) |
 | 287 | 2025-11-07 09:40:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154575⭐ TypeScript) | [reels/reel_0287_n8n-io-n8n](reels/reel_0287_n8n-io-n8n) |
 | 288 | 2025-11-07 09:50:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256772⭐ None) | [reels/reel_0288_awesome-selfhosted-awesome-selfhosted](reels/reel_0288_awesome-selfhosted-awesome-selfhosted) |
+| 289 | 2025-11-07 10:20:12 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | ✅ readme_only (94777⭐ Python) | [reels/reel_0289_pytorch-pytorch](reels/reel_0289_pytorch-pytorch) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 289,
+  "recorded": "2025-11-07 10:20:12 UTC",
+  "repository": {
+    "full_name": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "clone_url": "https://github.com/pytorch/pytorch.git",
+    "stars": 94777,
+    "language": "Python",
+    "size_kb": 1158614
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "readme_only",
+    "size_mb": 1131,
+    "duration_seconds": 0.000148
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 94777 stars."
+  }
+}
