@@ -1,0 +1,24 @@
+{
+  "reel_number": 320,
+  "recorded": "2025-11-07 21:27:43 UTC",
+  "repository": {
+    "full_name": "inaturalist/iNaturalistAPI",
+    "url": "https://github.com/inaturalist/iNaturalistAPI",
+    "clone_url": "https://github.com/inaturalist/iNaturalistAPI.git",
+    "stars": 123,
+    "language": "JavaScript",
+    "size_kb": 7889
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.115494
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 123 stars."
+  }
+}
