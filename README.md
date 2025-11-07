@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #301 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-07 |
+| #302 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 154k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -368,3 +368,4 @@ Or let GitHub Action run it automatically.
 | 299 | 2025-11-07 14:18:00 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137424⭐ Python) | [reels/reel_0299_langflow-ai-langflow](reels/reel_0299_langflow-ai-langflow) |
 | 300 | 2025-11-07 14:42:09 | [akiomik/mado](https://github.com/akiomik/mado) | ✅ full (158⭐ Rust) | [reels/reel_0300_akiomik-mado](reels/reel_0300_akiomik-mado) |
 | 301 | 2025-11-07 14:52:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114514⭐ JavaScript) | [reels/reel_0301_open-webui-open-webui](reels/reel_0301_open-webui-open-webui) |
+| 302 | 2025-11-07 15:18:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154640⭐ TypeScript) | [reels/reel_0302_n8n-io-n8n](reels/reel_0302_n8n-io-n8n) |
