@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #304 | [Moebytes/Moepictures](https://github.com/Moebytes/Moepictures) | TypeScript · ⭐ 26 | 2025-11-07 |
+| #305 | [helixml/kodit](https://github.com/helixml/kodit) | Python · ⭐ 107 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -371,3 +371,4 @@ Or let GitHub Action run it automatically.
 | 302 | 2025-11-07 15:18:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154640⭐ TypeScript) | [reels/reel_0302_n8n-io-n8n](reels/reel_0302_n8n-io-n8n) |
 | 303 | 2025-11-07 15:41:17 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249154⭐ None) | [reels/reel_0303_practical-tutorials-project-based-learning](reels/reel_0303_practical-tutorials-project-based-learning) |
 | 304 | 2025-11-07 15:51:24 | [Moebytes/Moepictures](https://github.com/Moebytes/Moepictures) | ✅ shallow (26⭐ TypeScript) | [reels/reel_0304_Moebytes-Moepictures](reels/reel_0304_Moebytes-Moepictures) |
+| 305 | 2025-11-07 16:18:47 | [helixml/kodit](https://github.com/helixml/kodit) | ✅ full (107⭐ Python) | [reels/reel_0305_helixml-kodit](reels/reel_0305_helixml-kodit) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 305,
+  "recorded": "2025-11-07 16:18:47 UTC",
+  "repository": {
+    "full_name": "helixml/kodit",
+    "url": "https://github.com/helixml/kodit",
+    "clone_url": "https://github.com/helixml/kodit.git",
+    "stars": 107,
+    "language": "Python",
+    "size_kb": 2081
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.938548
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 107 stars."
+  }
+}
