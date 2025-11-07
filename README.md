@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #310 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-07 |
+| #311 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -377,3 +377,4 @@ Or let GitHub Action run it automatically.
 | 308 | 2025-11-07 17:40:06 | [jobovy/galpy](https://github.com/jobovy/galpy) | ✅ full (251⭐ Python) | [reels/reel_0308_jobovy-galpy](reels/reel_0308_jobovy-galpy) |
 | 309 | 2025-11-07 17:50:16 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376604⭐ Python) | [reels/reel_0309_public-apis-public-apis](reels/reel_0309_public-apis-public-apis) |
 | 310 | 2025-11-07 18:25:20 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98656⭐ Rust) | [reels/reel_0310_tauri-apps-tauri](reels/reel_0310_tauri-apps-tauri) |
+| 311 | 2025-11-07 18:46:22 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134147⭐ Python) | [reels/reel_0311_yt-dlp-yt-dlp](reels/reel_0311_yt-dlp-yt-dlp) |
