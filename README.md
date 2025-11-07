@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #298 | [qt/qtopcua](https://github.com/qt/qtopcua) | C++ · ⭐ 107 | 2025-11-07 |
+| #299 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -365,3 +365,4 @@ Or let GitHub Action run it automatically.
 | 296 | 2025-11-07 13:17:43 | [yoctoproject/poky](https://github.com/yoctoproject/poky) | ✅ shallow (406⭐ Python) | [reels/reel_0296_yoctoproject-poky](reels/reel_0296_yoctoproject-poky) |
 | 297 | 2025-11-07 13:44:11 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91450⭐ None) | [reels/reel_0297_deepseek-ai-DeepSeek-R1](reels/reel_0297_deepseek-ai-DeepSeek-R1) |
 | 298 | 2025-11-07 13:54:13 | [qt/qtopcua](https://github.com/qt/qtopcua) | ✅ full (107⭐ C++) | [reels/reel_0298_qt-qtopcua](reels/reel_0298_qt-qtopcua) |
+| 299 | 2025-11-07 14:18:00 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137424⭐ Python) | [reels/reel_0299_langflow-ai-langflow](reels/reel_0299_langflow-ai-langflow) |
