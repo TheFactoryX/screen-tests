@@ -1,0 +1,24 @@
+{
+  "reel_number": 281,
+  "recorded": "2025-11-07 07:17:21 UTC",
+  "repository": {
+    "full_name": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "clone_url": "https://github.com/ryanmcdermott/clean-code-javascript.git",
+    "stars": 93979,
+    "language": "JavaScript",
+    "size_kb": 520
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.280989
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 93979 stars."
+  }
+}
