@@ -1,0 +1,24 @@
+{
+  "reel_number": 276,
+  "recorded": "2025-11-07 05:17:48 UTC",
+  "repository": {
+    "full_name": "MaximilianAdF/NoPixel-MiniGames-4.0",
+    "url": "https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0",
+    "clone_url": "https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0.git",
+    "stars": 128,
+    "language": "TypeScript",
+    "size_kb": 8770
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.695804
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 128 stars."
+  }
+}
