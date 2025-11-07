@@ -1,0 +1,24 @@
+{
+  "reel_number": 283,
+  "recorded": "2025-11-07 07:49:45 UTC",
+  "repository": {
+    "full_name": "GoogleCloudPlatform/professional-services-data-validator",
+    "url": "https://github.com/GoogleCloudPlatform/professional-services-data-validator",
+    "clone_url": "https://github.com/GoogleCloudPlatform/professional-services-data-validator.git",
+    "stars": 478,
+    "language": "Python",
+    "size_kb": 3503
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.617271
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 478 stars."
+  }
+}

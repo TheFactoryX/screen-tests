@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #282 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-07 |
+| #283 | [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) | Python · ⭐ 478 | 2025-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -349,3 +349,4 @@ Or let GitHub Action run it automatically.
 | 280 | 2025-11-07 06:51:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154543⭐ TypeScript) | [reels/reel_0280_n8n-io-n8n](reels/reel_0280_n8n-io-n8n) |
 | 281 | 2025-11-07 07:17:21 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | ✅ full (93979⭐ JavaScript) | [reels/reel_0281_ryanmcdermott-clean-code-javascript](reels/reel_0281_ryanmcdermott-clean-code-javascript) |
 | 282 | 2025-11-07 07:38:59 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179538⭐ Python) | [reels/reel_0282_Significant-Gravitas-AutoGPT](reels/reel_0282_Significant-Gravitas-AutoGPT) |
+| 283 | 2025-11-07 07:49:45 | [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) | ✅ full (478⭐ Python) | [reels/reel_0283_GoogleCloudPlatform-professional-services-data-validator](reels/reel_0283_GoogleCloudPlatform-professional-services-data-validator) |
