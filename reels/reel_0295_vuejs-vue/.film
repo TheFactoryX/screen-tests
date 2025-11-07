@@ -1,0 +1,24 @@
+{
+  "reel_number": 295,
+  "recorded": "2025-11-07 12:36:35 UTC",
+  "repository": {
+    "full_name": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "clone_url": "https://github.com/vuejs/vue.git",
+    "stars": 209671,
+    "language": "TypeScript",
+    "size_kb": 32152
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 31,
+    "duration_seconds": 2.40789
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 209671 stars."
+  }
+}
