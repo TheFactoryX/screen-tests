@@ -1,0 +1,24 @@
+{
+  "reel_number": 321,
+  "recorded": "2025-11-07 21:39:38 UTC",
+  "repository": {
+    "full_name": "shuaidaoya/FreeNodes",
+    "url": "https://github.com/shuaidaoya/FreeNodes",
+    "clone_url": "https://github.com/shuaidaoya/FreeNodes.git",
+    "stars": 323,
+    "language": "Shell",
+    "size_kb": 8068
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.991706
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 323 stars."
+  }
+}
