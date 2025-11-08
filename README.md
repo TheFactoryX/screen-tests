@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #371 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-08 |
+| #372 | [aburch/simutrans](https://github.com/aburch/simutrans) | C++ · ⭐ 446 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -438,3 +438,4 @@ Or let GitHub Action run it automatically.
 | 369 | 2025-11-08 16:53:29 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99275⭐ TypeScript) | [reels/reel_0369_shadcn-ui-ui](reels/reel_0369_shadcn-ui-ui) |
 | 370 | 2025-11-08 17:13:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256991⭐ None) | [reels/reel_0370_awesome-selfhosted-awesome-selfhosted](reels/reel_0370_awesome-selfhosted-awesome-selfhosted) |
 | 371 | 2025-11-08 17:29:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137528⭐ Python) | [reels/reel_0371_langflow-ai-langflow](reels/reel_0371_langflow-ai-langflow) |
+| 372 | 2025-11-08 17:41:12 | [aburch/simutrans](https://github.com/aburch/simutrans) | ✅ full (446⭐ C++) | [reels/reel_0372_aburch-simutrans](reels/reel_0372_aburch-simutrans) |

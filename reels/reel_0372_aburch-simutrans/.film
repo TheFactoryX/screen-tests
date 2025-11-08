@@ -1,0 +1,24 @@
+{
+  "reel_number": 372,
+  "recorded": "2025-11-08 17:41:12 UTC",
+  "repository": {
+    "full_name": "aburch/simutrans",
+    "url": "https://github.com/aburch/simutrans",
+    "clone_url": "https://github.com/aburch/simutrans.git",
+    "stars": 446,
+    "language": "C++",
+    "size_kb": 44653
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 43,
+    "duration_seconds": 4.585883
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 446 stars."
+  }
+}
