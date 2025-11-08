@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #330 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | Lua · ⭐ 403 | 2025-11-08 |
+| #331 | [papercopilot/paperlists](https://github.com/papercopilot/paperlists) | Python · ⭐ 616 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -397,3 +397,4 @@ Or let GitHub Action run it automatically.
 | 328 | 2025-11-07 23:49:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137462⭐ Python) | [reels/reel_0328_langflow-ai-langflow](reels/reel_0328_langflow-ai-langflow) |
 | 329 | 2025-11-08 01:17:59 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249199⭐ None) | [reels/reel_0329_practical-tutorials-project-based-learning](reels/reel_0329_practical-tutorials-project-based-learning) |
 | 330 | 2025-11-08 02:45:57 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | ✅ readme_only (403⭐ Lua) | [reels/reel_0330_LandSandBoat-server](reels/reel_0330_LandSandBoat-server) |
+| 331 | 2025-11-08 03:37:21 | [papercopilot/paperlists](https://github.com/papercopilot/paperlists) | ✅ shallow (616⭐ Python) | [reels/reel_0331_papercopilot-paperlists](reels/reel_0331_papercopilot-paperlists) |

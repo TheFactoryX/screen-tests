@@ -1,0 +1,24 @@
+{
+  "reel_number": 331,
+  "recorded": "2025-11-08 03:37:21 UTC",
+  "repository": {
+    "full_name": "papercopilot/paperlists",
+    "url": "https://github.com/papercopilot/paperlists",
+    "clone_url": "https://github.com/papercopilot/paperlists.git",
+    "stars": 616,
+    "language": "Python",
+    "size_kb": 443370
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 432,
+    "duration_seconds": 182.407533
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 616 stars."
+  }
+}
