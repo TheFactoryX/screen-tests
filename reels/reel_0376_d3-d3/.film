@@ -1,0 +1,24 @@
+{
+  "reel_number": 376,
+  "recorded": "2025-11-08 19:13:13 UTC",
+  "repository": {
+    "full_name": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "clone_url": "https://github.com/d3/d3.git",
+    "stars": 111751,
+    "language": "Shell",
+    "size_kb": 59341
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 57,
+    "duration_seconds": 2.999251
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 111751 stars."
+  }
+}
