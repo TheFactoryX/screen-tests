@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #391 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-08 |
+| #392 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 237 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -458,3 +458,4 @@ Or let GitHub Action run it automatically.
 | 389 | 2025-11-08 22:49:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98702⭐ TypeScript) | [reels/reel_0389_iptv-org-iptv](reels/reel_0389_iptv-org-iptv) |
 | 390 | 2025-11-08 23:15:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114632⭐ JavaScript) | [reels/reel_0390_open-webui-open-webui](reels/reel_0390_open-webui-open-webui) |
 | 391 | 2025-11-08 23:36:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98679⭐ Rust) | [reels/reel_0391_tauri-apps-tauri](reels/reel_0391_tauri-apps-tauri) |
+| 392 | 2025-11-08 23:49:40 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (237⭐ None) | [reels/reel_0392_hello-world-1989-cn-news](reels/reel_0392_hello-world-1989-cn-news) |
