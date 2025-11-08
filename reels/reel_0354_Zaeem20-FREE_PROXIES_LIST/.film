@@ -1,0 +1,24 @@
+{
+  "reel_number": 354,
+  "recorded": "2025-11-08 11:26:00 UTC",
+  "repository": {
+    "full_name": "Zaeem20/FREE_PROXIES_LIST",
+    "url": "https://github.com/Zaeem20/FREE_PROXIES_LIST",
+    "clone_url": "https://github.com/Zaeem20/FREE_PROXIES_LIST.git",
+    "stars": 357,
+    "language": null,
+    "size_kb": 1705219
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1665,
+    "duration_seconds": 0.000118
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 357 stars."
+  }
+}
