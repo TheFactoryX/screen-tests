@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #332 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-08 |
+| #333 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -399,3 +399,4 @@ Or let GitHub Action run it automatically.
 | 330 | 2025-11-08 02:45:57 | [LandSandBoat/server](https://github.com/LandSandBoat/server) | ✅ readme_only (403⭐ Lua) | [reels/reel_0330_LandSandBoat-server](reels/reel_0330_LandSandBoat-server) |
 | 331 | 2025-11-08 03:37:21 | [papercopilot/paperlists](https://github.com/papercopilot/paperlists) | ✅ shallow (616⭐ Python) | [reels/reel_0331_papercopilot-paperlists](reels/reel_0331_papercopilot-paperlists) |
 | 332 | 2025-11-08 03:53:49 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119143⭐ Python) | [reels/reel_0332_langchain-ai-langchain](reels/reel_0332_langchain-ai-langchain) |
+| 333 | 2025-11-08 04:20:04 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119143⭐ Python) | [reels/reel_0333_langchain-ai-langchain](reels/reel_0333_langchain-ai-langchain) |
