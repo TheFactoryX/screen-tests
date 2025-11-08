@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #360 | [PYrOogrEvENUs/BSC-MEME-RUSH-BOT](https://github.com/PYrOogrEvENUs/BSC-MEME-RUSH-BOT) | Python · ⭐ 291 | 2025-11-08 |
+| #361 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -427,3 +427,4 @@ Or let GitHub Action run it automatically.
 | 358 | 2025-11-08 13:05:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119167⭐ Python) | [reels/reel_0358_langchain-ai-langchain](reels/reel_0358_langchain-ai-langchain) |
 | 359 | 2025-11-08 13:32:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376809⭐ Python) | [reels/reel_0359_public-apis-public-apis](reels/reel_0359_public-apis-public-apis) |
 | 360 | 2025-11-08 13:50:14 | [PYrOogrEvENUs/BSC-MEME-RUSH-BOT](https://github.com/PYrOogrEvENUs/BSC-MEME-RUSH-BOT) | ✅ full (291⭐ Python) | [reels/reel_0360_PYrOogrEvENUs-BSC-MEME-RUSH-BOT](reels/reel_0360_PYrOogrEvENUs-BSC-MEME-RUSH-BOT) |
+| 361 | 2025-11-08 14:14:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256966⭐ None) | [reels/reel_0361_awesome-selfhosted-awesome-selfhosted](reels/reel_0361_awesome-selfhosted-awesome-selfhosted) |
