@@ -1,0 +1,24 @@
+{
+  "reel_number": 367,
+  "recorded": "2025-11-08 16:19:36 UTC",
+  "repository": {
+    "full_name": "REIJI007/AdBlock_Rule_For_Clash",
+    "url": "https://github.com/REIJI007/AdBlock_Rule_For_Clash",
+    "clone_url": "https://github.com/REIJI007/AdBlock_Rule_For_Clash.git",
+    "stars": 261,
+    "language": "PowerShell",
+    "size_kb": 138280
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 135,
+    "duration_seconds": 1.126314
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 261 stars."
+  }
+}
