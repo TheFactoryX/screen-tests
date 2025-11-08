@@ -1,0 +1,24 @@
+{
+  "reel_number": 346,
+  "recorded": "2025-11-08 08:53:37 UTC",
+  "repository": {
+    "full_name": "koenderks/aRtsy",
+    "url": "https://github.com/koenderks/aRtsy",
+    "clone_url": "https://github.com/koenderks/aRtsy.git",
+    "stars": 187,
+    "language": "R",
+    "size_kb": 2607201
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 2546,
+    "duration_seconds": 0.000135
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "R",
+    "director_note": "A R repository. 187 stars."
+  }
+}

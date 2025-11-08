@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #345 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-08 |
+| #346 | [koenderks/aRtsy](https://github.com/koenderks/aRtsy) | R · ⭐ 187 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -412,3 +412,4 @@ Or let GitHub Action run it automatically.
 | 343 | 2025-11-08 07:49:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119149⭐ Python) | [reels/reel_0343_langchain-ai-langchain](reels/reel_0343_langchain-ai-langchain) |
 | 344 | 2025-11-08 08:20:58 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ✅ full (192880⭐ None) | [reels/reel_0344_trimstray-the-book-of-secret-knowledge](reels/reel_0344_trimstray-the-book-of-secret-knowledge) |
 | 345 | 2025-11-08 08:43:35 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99250⭐ TypeScript) | [reels/reel_0345_shadcn-ui-ui](reels/reel_0345_shadcn-ui-ui) |
+| 346 | 2025-11-08 08:53:37 | [koenderks/aRtsy](https://github.com/koenderks/aRtsy) | ✅ readme_only (187⭐ R) | [reels/reel_0346_koenderks-aRtsy](reels/reel_0346_koenderks-aRtsy) |
