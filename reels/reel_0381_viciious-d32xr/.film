@@ -1,0 +1,24 @@
+{
+  "reel_number": 381,
+  "recorded": "2025-11-08 20:37:18 UTC",
+  "repository": {
+    "full_name": "viciious/d32xr",
+    "url": "https://github.com/viciious/d32xr",
+    "clone_url": "https://github.com/viciious/d32xr.git",
+    "stars": 194,
+    "language": "C",
+    "size_kb": 3906
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.158856
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 194 stars."
+  }
+}
