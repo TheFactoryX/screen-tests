@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #352 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 435k | 2025-11-08 |
+| #353 | [LenAnderson/SillyTavern-LALib](https://github.com/LenAnderson/SillyTavern-LALib) | JavaScript · ⭐ 77 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -419,3 +419,4 @@ Or let GitHub Action run it automatically.
 | 350 | 2025-11-08 10:17:03 | [Rivens7/Livelist](https://github.com/Rivens7/Livelist) | ✅ full (936⭐ None) | [reels/reel_0350_Rivens7-Livelist](reels/reel_0350_Rivens7-Livelist) |
 | 351 | 2025-11-08 10:39:47 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99255⭐ TypeScript) | [reels/reel_0351_shadcn-ui-ui](reels/reel_0351_shadcn-ui-ui) |
 | 352 | 2025-11-08 10:49:49 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (435851⭐ Markdown) | [reels/reel_0352_codecrafters-io-build-your-own-x](reels/reel_0352_codecrafters-io-build-your-own-x) |
+| 353 | 2025-11-08 11:13:19 | [LenAnderson/SillyTavern-LALib](https://github.com/LenAnderson/SillyTavern-LALib) | ✅ full (77⭐ JavaScript) | [reels/reel_0353_LenAnderson-SillyTavern-LALib](reels/reel_0353_LenAnderson-SillyTavern-LALib) |
