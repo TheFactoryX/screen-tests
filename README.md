@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #386 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-08 |
+| #387 | [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) | C · ⭐ 257 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -453,3 +453,4 @@ Or let GitHub Action run it automatically.
 | 384 | 2025-11-08 21:27:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107726⭐ Rust) | [reels/reel_0384_rust-lang-rust](reels/reel_0384_rust-lang-rust) |
 | 385 | 2025-11-08 21:38:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107726⭐ Rust) | [reels/reel_0385_rust-lang-rust](reels/reel_0385_rust-lang-rust) |
 | 386 | 2025-11-08 21:50:07 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91454⭐ None) | [reels/reel_0386_deepseek-ai-DeepSeek-R1](reels/reel_0386_deepseek-ai-DeepSeek-R1) |
+| 387 | 2025-11-08 22:15:05 | [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) | ✅ full (257⭐ C) | [reels/reel_0387_plos-clan-CoolPotOS](reels/reel_0387_plos-clan-CoolPotOS) |

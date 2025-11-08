@@ -1,0 +1,24 @@
+{
+  "reel_number": 387,
+  "recorded": "2025-11-08 22:15:05 UTC",
+  "repository": {
+    "full_name": "plos-clan/CoolPotOS",
+    "url": "https://github.com/plos-clan/CoolPotOS",
+    "clone_url": "https://github.com/plos-clan/CoolPotOS.git",
+    "stars": 257,
+    "language": "C",
+    "size_kb": 34412
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 1.805365
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 257 stars."
+  }
+}
