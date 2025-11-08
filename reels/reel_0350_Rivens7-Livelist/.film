@@ -1,0 +1,24 @@
+{
+  "reel_number": 350,
+  "recorded": "2025-11-08 10:17:03 UTC",
+  "repository": {
+    "full_name": "Rivens7/Livelist",
+    "url": "https://github.com/Rivens7/Livelist",
+    "clone_url": "https://github.com/Rivens7/Livelist.git",
+    "stars": 936,
+    "language": null,
+    "size_kb": 249
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.5523
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 936 stars."
+  }
+}
