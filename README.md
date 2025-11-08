@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #338 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-08 |
+| #339 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -405,3 +405,4 @@ Or let GitHub Action run it automatically.
 | 336 | 2025-11-08 05:16:32 | [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) | ✅ full (505⭐ Lua) | [reels/reel_0336_nvimdev-guard.nvim](reels/reel_0336_nvimdev-guard.nvim) |
 | 337 | 2025-11-08 05:39:47 | [vanodevium/node-framework-stars](https://github.com/vanodevium/node-framework-stars) | ✅ full (214⭐ JavaScript) | [reels/reel_0337_vanodevium-node-framework-stars](reels/reel_0337_vanodevium-node-framework-stars) |
 | 338 | 2025-11-08 05:50:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98660⭐ Rust) | [reels/reel_0338_tauri-apps-tauri](reels/reel_0338_tauri-apps-tauri) |
+| 339 | 2025-11-08 06:24:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119146⭐ Python) | [reels/reel_0339_langchain-ai-langchain](reels/reel_0339_langchain-ai-langchain) |
