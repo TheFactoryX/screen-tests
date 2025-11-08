@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #377 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-08 |
+| #378 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -444,3 +444,4 @@ Or let GitHub Action run it automatically.
 | 375 | 2025-11-08 18:45:13 | [replugged-org/replugged](https://github.com/replugged-org/replugged) | ✅ full (708⭐ TypeScript) | [reels/reel_0375_replugged-org-replugged](reels/reel_0375_replugged-org-replugged) |
 | 376 | 2025-11-08 19:13:13 | [d3/d3](https://github.com/d3/d3) | ✅ full (111751⭐ Shell) | [reels/reel_0376_d3-d3](reels/reel_0376_d3-d3) |
 | 377 | 2025-11-08 19:25:33 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99279⭐ TypeScript) | [reels/reel_0377_shadcn-ui-ui](reels/reel_0377_shadcn-ui-ui) |
+| 378 | 2025-11-08 19:37:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99280⭐ TypeScript) | [reels/reel_0378_shadcn-ui-ui](reels/reel_0378_shadcn-ui-ui) |
