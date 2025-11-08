@@ -1,0 +1,24 @@
+{
+  "reel_number": 336,
+  "recorded": "2025-11-08 05:16:32 UTC",
+  "repository": {
+    "full_name": "nvimdev/guard.nvim",
+    "url": "https://github.com/nvimdev/guard.nvim",
+    "clone_url": "https://github.com/nvimdev/guard.nvim.git",
+    "stars": 505,
+    "language": "Lua",
+    "size_kb": 343
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.197606
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 505 stars."
+  }
+}
