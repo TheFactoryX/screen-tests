@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #343 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-08 |
+| #344 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | None · ⭐ 192k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -410,3 +410,4 @@ Or let GitHub Action run it automatically.
 | 341 | 2025-11-08 07:15:49 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119148⭐ Python) | [reels/reel_0341_langchain-ai-langchain](reels/reel_0341_langchain-ai-langchain) |
 | 342 | 2025-11-08 07:36:09 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376739⭐ Python) | [reels/reel_0342_public-apis-public-apis](reels/reel_0342_public-apis-public-apis) |
 | 343 | 2025-11-08 07:49:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119149⭐ Python) | [reels/reel_0343_langchain-ai-langchain](reels/reel_0343_langchain-ai-langchain) |
+| 344 | 2025-11-08 08:20:58 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ✅ full (192880⭐ None) | [reels/reel_0344_trimstray-the-book-of-secret-knowledge](reels/reel_0344_trimstray-the-book-of-secret-knowledge) |

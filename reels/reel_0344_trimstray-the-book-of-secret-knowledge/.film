@@ -1,0 +1,24 @@
+{
+  "reel_number": 344,
+  "recorded": "2025-11-08 08:20:58 UTC",
+  "repository": {
+    "full_name": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "clone_url": "https://github.com/trimstray/the-book-of-secret-knowledge.git",
+    "stars": 192880,
+    "language": null,
+    "size_kb": 1748
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 1.014785
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 192880 stars."
+  }
+}
