@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #359 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 376k | 2025-11-08 |
+| #360 | [PYrOogrEvENUs/BSC-MEME-RUSH-BOT](https://github.com/PYrOogrEvENUs/BSC-MEME-RUSH-BOT) | Python · ⭐ 291 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -426,3 +426,4 @@ Or let GitHub Action run it automatically.
 | 357 | 2025-11-08 12:32:59 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98667⭐ Rust) | [reels/reel_0357_tauri-apps-tauri](reels/reel_0357_tauri-apps-tauri) |
 | 358 | 2025-11-08 13:05:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119167⭐ Python) | [reels/reel_0358_langchain-ai-langchain](reels/reel_0358_langchain-ai-langchain) |
 | 359 | 2025-11-08 13:32:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376809⭐ Python) | [reels/reel_0359_public-apis-public-apis](reels/reel_0359_public-apis-public-apis) |
+| 360 | 2025-11-08 13:50:14 | [PYrOogrEvENUs/BSC-MEME-RUSH-BOT](https://github.com/PYrOogrEvENUs/BSC-MEME-RUSH-BOT) | ✅ full (291⭐ Python) | [reels/reel_0360_PYrOogrEvENUs-BSC-MEME-RUSH-BOT](reels/reel_0360_PYrOogrEvENUs-BSC-MEME-RUSH-BOT) |
