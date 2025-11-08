@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #369 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-08 |
+| #370 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -436,3 +436,4 @@ Or let GitHub Action run it automatically.
 | 367 | 2025-11-08 16:19:36 | [REIJI007/AdBlock_Rule_For_Clash](https://github.com/REIJI007/AdBlock_Rule_For_Clash) | ✅ shallow (261⭐ PowerShell) | [reels/reel_0367_REIJI007-AdBlock_Rule_For_Clash](reels/reel_0367_REIJI007-AdBlock_Rule_For_Clash) |
 | 368 | 2025-11-08 16:43:16 | [jordansissel/experiments](https://github.com/jordansissel/experiments) | ✅ full (126⭐ JavaScript) | [reels/reel_0368_jordansissel-experiments](reels/reel_0368_jordansissel-experiments) |
 | 369 | 2025-11-08 16:53:29 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99275⭐ TypeScript) | [reels/reel_0369_shadcn-ui-ui](reels/reel_0369_shadcn-ui-ui) |
+| 370 | 2025-11-08 17:13:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256991⭐ None) | [reels/reel_0370_awesome-selfhosted-awesome-selfhosted](reels/reel_0370_awesome-selfhosted-awesome-selfhosted) |
