@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #370 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 256k | 2025-11-08 |
+| #371 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -437,3 +437,4 @@ Or let GitHub Action run it automatically.
 | 368 | 2025-11-08 16:43:16 | [jordansissel/experiments](https://github.com/jordansissel/experiments) | ✅ full (126⭐ JavaScript) | [reels/reel_0368_jordansissel-experiments](reels/reel_0368_jordansissel-experiments) |
 | 369 | 2025-11-08 16:53:29 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99275⭐ TypeScript) | [reels/reel_0369_shadcn-ui-ui](reels/reel_0369_shadcn-ui-ui) |
 | 370 | 2025-11-08 17:13:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256991⭐ None) | [reels/reel_0370_awesome-selfhosted-awesome-selfhosted](reels/reel_0370_awesome-selfhosted-awesome-selfhosted) |
+| 371 | 2025-11-08 17:29:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137528⭐ Python) | [reels/reel_0371_langflow-ai-langflow](reels/reel_0371_langflow-ai-langflow) |
