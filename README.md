@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #344 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | None · ⭐ 192k | 2025-11-08 |
+| #345 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -411,3 +411,4 @@ Or let GitHub Action run it automatically.
 | 342 | 2025-11-08 07:36:09 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376739⭐ Python) | [reels/reel_0342_public-apis-public-apis](reels/reel_0342_public-apis-public-apis) |
 | 343 | 2025-11-08 07:49:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119149⭐ Python) | [reels/reel_0343_langchain-ai-langchain](reels/reel_0343_langchain-ai-langchain) |
 | 344 | 2025-11-08 08:20:58 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | ✅ full (192880⭐ None) | [reels/reel_0344_trimstray-the-book-of-secret-knowledge](reels/reel_0344_trimstray-the-book-of-secret-knowledge) |
+| 345 | 2025-11-08 08:43:35 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99250⭐ TypeScript) | [reels/reel_0345_shadcn-ui-ui](reels/reel_0345_shadcn-ui-ui) |
