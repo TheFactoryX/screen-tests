@@ -1,0 +1,24 @@
+{
+  "reel_number": 330,
+  "recorded": "2025-11-08 02:45:57 UTC",
+  "repository": {
+    "full_name": "LandSandBoat/server",
+    "url": "https://github.com/LandSandBoat/server",
+    "clone_url": "https://github.com/LandSandBoat/server.git",
+    "stars": 403,
+    "language": "Lua",
+    "size_kb": 644017
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 628,
+    "duration_seconds": 0.000144
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 403 stars."
+  }
+}
