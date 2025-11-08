@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #355 | [deezertidal/freevpn](https://github.com/deezertidal/freevpn) | None · ⭐ 719 | 2025-11-08 |
+| #356 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 154k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -422,3 +422,4 @@ Or let GitHub Action run it automatically.
 | 353 | 2025-11-08 11:13:19 | [LenAnderson/SillyTavern-LALib](https://github.com/LenAnderson/SillyTavern-LALib) | ✅ full (77⭐ JavaScript) | [reels/reel_0353_LenAnderson-SillyTavern-LALib](reels/reel_0353_LenAnderson-SillyTavern-LALib) |
 | 354 | 2025-11-08 11:26:00 | [Zaeem20/FREE_PROXIES_LIST](https://github.com/Zaeem20/FREE_PROXIES_LIST) | ✅ readme_only (357⭐ None) | [reels/reel_0354_Zaeem20-FREE_PROXIES_LIST](reels/reel_0354_Zaeem20-FREE_PROXIES_LIST) |
 | 355 | 2025-11-08 11:37:15 | [deezertidal/freevpn](https://github.com/deezertidal/freevpn) | ✅ readme_only (719⭐ None) | [reels/reel_0355_deezertidal-freevpn](reels/reel_0355_deezertidal-freevpn) |
+| 356 | 2025-11-08 11:50:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154799⭐ TypeScript) | [reels/reel_0356_n8n-io-n8n](reels/reel_0356_n8n-io-n8n) |
