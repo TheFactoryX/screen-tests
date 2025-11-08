@@ -1,0 +1,24 @@
+{
+  "reel_number": 379,
+  "recorded": "2025-11-08 19:50:10 UTC",
+  "repository": {
+    "full_name": "Chalarangelo/30-seconds-of-code",
+    "url": "https://github.com/Chalarangelo/30-seconds-of-code",
+    "clone_url": "https://github.com/Chalarangelo/30-seconds-of-code.git",
+    "stars": 125720,
+    "language": "JavaScript",
+    "size_kb": 742571
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "readme_only",
+    "size_mb": 725,
+    "duration_seconds": 0.000157
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 125720 stars."
+  }
+}
