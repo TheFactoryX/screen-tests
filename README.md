@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #374 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-08 |
+| #375 | [replugged-org/replugged](https://github.com/replugged-org/replugged) | TypeScript · ⭐ 708 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -441,3 +441,4 @@ Or let GitHub Action run it automatically.
 | 372 | 2025-11-08 17:41:12 | [aburch/simutrans](https://github.com/aburch/simutrans) | ✅ full (446⭐ C++) | [reels/reel_0372_aburch-simutrans](reels/reel_0372_aburch-simutrans) |
 | 373 | 2025-11-08 17:50:58 | [ublue-os/aurora](https://github.com/ublue-os/aurora) | ✅ shallow (431⭐ Shell) | [reels/reel_0373_ublue-os-aurora](reels/reel_0373_ublue-os-aurora) |
 | 374 | 2025-11-08 18:23:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137529⭐ Python) | [reels/reel_0374_langflow-ai-langflow](reels/reel_0374_langflow-ai-langflow) |
+| 375 | 2025-11-08 18:45:13 | [replugged-org/replugged](https://github.com/replugged-org/replugged) | ✅ full (708⭐ TypeScript) | [reels/reel_0375_replugged-org-replugged](reels/reel_0375_replugged-org-replugged) |
