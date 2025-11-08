@@ -1,0 +1,24 @@
+{
+  "reel_number": 362,
+  "recorded": "2025-11-08 14:31:22 UTC",
+  "repository": {
+    "full_name": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "clone_url": "https://github.com/angular/angular.git",
+    "stars": 99233,
+    "language": "TypeScript",
+    "size_kb": 580838
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "readme_only",
+    "size_mb": 567,
+    "duration_seconds": 0.000148
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 99233 stars."
+  }
+}
