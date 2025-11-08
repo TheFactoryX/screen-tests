@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #389 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 98k | 2025-11-08 |
+| #390 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -456,3 +456,4 @@ Or let GitHub Action run it automatically.
 | 387 | 2025-11-08 22:15:05 | [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) | ✅ full (257⭐ C) | [reels/reel_0387_plos-clan-CoolPotOS](reels/reel_0387_plos-clan-CoolPotOS) |
 | 388 | 2025-11-08 22:31:47 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | ✅ full (94611⭐ Python) | [reels/reel_0388_nvbn-thefuck](reels/reel_0388_nvbn-thefuck) |
 | 389 | 2025-11-08 22:49:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (98702⭐ TypeScript) | [reels/reel_0389_iptv-org-iptv](reels/reel_0389_iptv-org-iptv) |
+| 390 | 2025-11-08 23:15:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114632⭐ JavaScript) | [reels/reel_0390_open-webui-open-webui](reels/reel_0390_open-webui-open-webui) |
