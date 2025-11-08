@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #364 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-08 |
+| #365 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -431,3 +431,4 @@ Or let GitHub Action run it automatically.
 | 362 | 2025-11-08 14:31:22 | [angular/angular](https://github.com/angular/angular) | ✅ readme_only (99233⭐ TypeScript) | [reels/reel_0362_angular-angular](reels/reel_0362_angular-angular) |
 | 363 | 2025-11-08 14:50:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154825⭐ TypeScript) | [reels/reel_0363_n8n-io-n8n](reels/reel_0363_n8n-io-n8n) |
 | 364 | 2025-11-08 15:15:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119173⭐ Python) | [reels/reel_0364_langchain-ai-langchain](reels/reel_0364_langchain-ai-langchain) |
+| 365 | 2025-11-08 15:37:17 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91454⭐ None) | [reels/reel_0365_deepseek-ai-DeepSeek-R1](reels/reel_0365_deepseek-ai-DeepSeek-R1) |
