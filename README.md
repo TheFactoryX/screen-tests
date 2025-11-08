@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #381 | [viciious/d32xr](https://github.com/viciious/d32xr) | C · ⭐ 194 | 2025-11-08 |
+| #382 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -448,3 +448,4 @@ Or let GitHub Action run it automatically.
 | 379 | 2025-11-08 19:50:10 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | ✅ readme_only (125720⭐ JavaScript) | [reels/reel_0379_Chalarangelo-30-seconds-of-code](reels/reel_0379_Chalarangelo-30-seconds-of-code) |
 | 380 | 2025-11-08 20:17:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137534⭐ Python) | [reels/reel_0380_langflow-ai-langflow](reels/reel_0380_langflow-ai-langflow) |
 | 381 | 2025-11-08 20:37:18 | [viciious/d32xr](https://github.com/viciious/d32xr) | ✅ full (194⭐ C) | [reels/reel_0381_viciious-d32xr](reels/reel_0381_viciious-d32xr) |
+| 382 | 2025-11-08 20:49:41 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134253⭐ Python) | [reels/reel_0382_yt-dlp-yt-dlp](reels/reel_0382_yt-dlp-yt-dlp) |
