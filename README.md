@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #334 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-08 |
+| #335 | [jk-labs-inc/jokerace](https://github.com/jk-labs-inc/jokerace) | Solidity · ⭐ 102 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -401,3 +401,4 @@ Or let GitHub Action run it automatically.
 | 332 | 2025-11-08 03:53:49 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119143⭐ Python) | [reels/reel_0332_langchain-ai-langchain](reels/reel_0332_langchain-ai-langchain) |
 | 333 | 2025-11-08 04:20:04 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119143⭐ Python) | [reels/reel_0333_langchain-ai-langchain](reels/reel_0333_langchain-ai-langchain) |
 | 334 | 2025-11-08 04:42:03 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114569⭐ JavaScript) | [reels/reel_0334_open-webui-open-webui](reels/reel_0334_open-webui-open-webui) |
+| 335 | 2025-11-08 04:52:18 | [jk-labs-inc/jokerace](https://github.com/jk-labs-inc/jokerace) | ✅ full (102⭐ Solidity) | [reels/reel_0335_jk-labs-inc-jokerace](reels/reel_0335_jk-labs-inc-jokerace) |
