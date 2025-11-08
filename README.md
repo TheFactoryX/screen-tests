@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #358 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-08 |
+| #359 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 376k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -425,3 +425,4 @@ Or let GitHub Action run it automatically.
 | 356 | 2025-11-08 11:50:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154799⭐ TypeScript) | [reels/reel_0356_n8n-io-n8n](reels/reel_0356_n8n-io-n8n) |
 | 357 | 2025-11-08 12:32:59 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98667⭐ Rust) | [reels/reel_0357_tauri-apps-tauri](reels/reel_0357_tauri-apps-tauri) |
 | 358 | 2025-11-08 13:05:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119167⭐ Python) | [reels/reel_0358_langchain-ai-langchain](reels/reel_0358_langchain-ai-langchain) |
+| 359 | 2025-11-08 13:32:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376809⭐ Python) | [reels/reel_0359_public-apis-public-apis](reels/reel_0359_public-apis-public-apis) |
