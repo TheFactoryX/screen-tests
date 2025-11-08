@@ -1,0 +1,24 @@
+{
+  "reel_number": 388,
+  "recorded": "2025-11-08 22:31:47 UTC",
+  "repository": {
+    "full_name": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "clone_url": "https://github.com/nvbn/thefuck.git",
+    "stars": 94611,
+    "language": "Python",
+    "size_kb": 4043
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.88364
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 94611 stars."
+  }
+}
