@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #336 | [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) | Lua · ⭐ 505 | 2025-11-08 |
+| #337 | [vanodevium/node-framework-stars](https://github.com/vanodevium/node-framework-stars) | JavaScript · ⭐ 214 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -403,3 +403,4 @@ Or let GitHub Action run it automatically.
 | 334 | 2025-11-08 04:42:03 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114569⭐ JavaScript) | [reels/reel_0334_open-webui-open-webui](reels/reel_0334_open-webui-open-webui) |
 | 335 | 2025-11-08 04:52:18 | [jk-labs-inc/jokerace](https://github.com/jk-labs-inc/jokerace) | ✅ full (102⭐ Solidity) | [reels/reel_0335_jk-labs-inc-jokerace](reels/reel_0335_jk-labs-inc-jokerace) |
 | 336 | 2025-11-08 05:16:32 | [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) | ✅ full (505⭐ Lua) | [reels/reel_0336_nvimdev-guard.nvim](reels/reel_0336_nvimdev-guard.nvim) |
+| 337 | 2025-11-08 05:39:47 | [vanodevium/node-framework-stars](https://github.com/vanodevium/node-framework-stars) | ✅ full (214⭐ JavaScript) | [reels/reel_0337_vanodevium-node-framework-stars](reels/reel_0337_vanodevium-node-framework-stars) |

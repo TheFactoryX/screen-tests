@@ -1,0 +1,24 @@
+{
+  "reel_number": 337,
+  "recorded": "2025-11-08 05:39:47 UTC",
+  "repository": {
+    "full_name": "vanodevium/node-framework-stars",
+    "url": "https://github.com/vanodevium/node-framework-stars",
+    "clone_url": "https://github.com/vanodevium/node-framework-stars.git",
+    "stars": 214,
+    "language": "JavaScript",
+    "size_kb": 1
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.399744
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 214 stars."
+  }
+}
