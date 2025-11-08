@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #328 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-07 |
+| #329 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -395,3 +395,4 @@ Or let GitHub Action run it automatically.
 | 326 | 2025-11-07 23:15:57 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | ✅ full (225⭐ TypeScript) | [reels/reel_0326_Effect-TS-effect-smol](reels/reel_0326_Effect-TS-effect-smol) |
 | 327 | 2025-11-07 23:36:34 | [google/adk-docs](https://github.com/google/adk-docs) | ✅ full (623⭐ HTML) | [reels/reel_0327_google-adk-docs](reels/reel_0327_google-adk-docs) |
 | 328 | 2025-11-07 23:49:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137462⭐ Python) | [reels/reel_0328_langflow-ai-langflow](reels/reel_0328_langflow-ai-langflow) |
+| 329 | 2025-11-08 01:17:59 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249199⭐ None) | [reels/reel_0329_practical-tutorials-project-based-learning](reels/reel_0329_practical-tutorials-project-based-learning) |
