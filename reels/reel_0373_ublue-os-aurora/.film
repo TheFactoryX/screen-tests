@@ -1,0 +1,24 @@
+{
+  "reel_number": 373,
+  "recorded": "2025-11-08 17:50:58 UTC",
+  "repository": {
+    "full_name": "ublue-os/aurora",
+    "url": "https://github.com/ublue-os/aurora",
+    "clone_url": "https://github.com/ublue-os/aurora.git",
+    "stars": 431,
+    "language": "Shell",
+    "size_kb": 392936
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 383,
+    "duration_seconds": 0.681954
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 431 stars."
+  }
+}
