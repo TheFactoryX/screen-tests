@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #348 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-08 |
+| #349 | [Ferdara/randomCatFacts](https://github.com/Ferdara/randomCatFacts) | None · ⭐ 24 | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -415,3 +415,4 @@ Or let GitHub Action run it automatically.
 | 346 | 2025-11-08 08:53:37 | [koenderks/aRtsy](https://github.com/koenderks/aRtsy) | ✅ readme_only (187⭐ R) | [reels/reel_0346_koenderks-aRtsy](reels/reel_0346_koenderks-aRtsy) |
 | 347 | 2025-11-08 09:16:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (256932⭐ None) | [reels/reel_0347_awesome-selfhosted-awesome-selfhosted](reels/reel_0347_awesome-selfhosted-awesome-selfhosted) |
 | 348 | 2025-11-08 09:37:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179554⭐ Python) | [reels/reel_0348_Significant-Gravitas-AutoGPT](reels/reel_0348_Significant-Gravitas-AutoGPT) |
+| 349 | 2025-11-08 09:49:49 | [Ferdara/randomCatFacts](https://github.com/Ferdara/randomCatFacts) | ✅ full (24⭐ None) | [reels/reel_0349_Ferdara-randomCatFacts](reels/reel_0349_Ferdara-randomCatFacts) |
