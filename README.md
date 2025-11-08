@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #342 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 376k | 2025-11-08 |
+| #343 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -409,3 +409,4 @@ Or let GitHub Action run it automatically.
 | 340 | 2025-11-08 06:46:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119145⭐ Python) | [reels/reel_0340_langchain-ai-langchain](reels/reel_0340_langchain-ai-langchain) |
 | 341 | 2025-11-08 07:15:49 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119148⭐ Python) | [reels/reel_0341_langchain-ai-langchain](reels/reel_0341_langchain-ai-langchain) |
 | 342 | 2025-11-08 07:36:09 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (376739⭐ Python) | [reels/reel_0342_public-apis-public-apis](reels/reel_0342_public-apis-public-apis) |
+| 343 | 2025-11-08 07:49:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119149⭐ Python) | [reels/reel_0343_langchain-ai-langchain](reels/reel_0343_langchain-ai-langchain) |
