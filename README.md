@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #447 | [themiralay/Proxy-List-World](https://github.com/themiralay/Proxy-List-World) | None · ⭐ 135 | 2025-11-09 |
+| #448 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -514,3 +514,4 @@ Or let GitHub Action run it automatically.
 | 445 | 2025-11-09 20:38:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155028⭐ TypeScript) | [reels/reel_0445_n8n-io-n8n](reels/reel_0445_n8n-io-n8n) |
 | 446 | 2025-11-09 20:49:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257200⭐ None) | [reels/reel_0446_awesome-selfhosted-awesome-selfhosted](reels/reel_0446_awesome-selfhosted-awesome-selfhosted) |
 | 447 | 2025-11-09 21:14:24 | [themiralay/Proxy-List-World](https://github.com/themiralay/Proxy-List-World) | ✅ readme_only (135⭐ None) | [reels/reel_0447_themiralay-Proxy-List-World](reels/reel_0447_themiralay-Proxy-List-World) |
+| 448 | 2025-11-09 21:28:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257210⭐ None) | [reels/reel_0448_awesome-selfhosted-awesome-selfhosted](reels/reel_0448_awesome-selfhosted-awesome-selfhosted) |
