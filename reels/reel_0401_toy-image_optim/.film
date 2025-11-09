@@ -1,0 +1,24 @@
+{
+  "reel_number": 401,
+  "recorded": "2025-11-09 05:49:59 UTC",
+  "repository": {
+    "full_name": "toy/image_optim",
+    "url": "https://github.com/toy/image_optim",
+    "clone_url": "https://github.com/toy/image_optim.git",
+    "stars": 1530,
+    "language": "Ruby",
+    "size_kb": 4164
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.286313
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 1530 stars."
+  }
+}
