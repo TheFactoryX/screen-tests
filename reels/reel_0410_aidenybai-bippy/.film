@@ -1,0 +1,24 @@
+{
+  "reel_number": 410,
+  "recorded": "2025-11-09 09:16:18 UTC",
+  "repository": {
+    "full_name": "aidenybai/bippy",
+    "url": "https://github.com/aidenybai/bippy",
+    "clone_url": "https://github.com/aidenybai/bippy.git",
+    "stars": 1009,
+    "language": "TypeScript",
+    "size_kb": 129840
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 126,
+    "duration_seconds": 0.15108
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 1009 stars."
+  }
+}

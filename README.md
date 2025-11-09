@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #409 | [drlippman/IMathAS](https://github.com/drlippman/IMathAS) | PHP · ⭐ 125 | 2025-11-09 |
+| #410 | [aidenybai/bippy](https://github.com/aidenybai/bippy) | TypeScript · ⭐ 1k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -476,3 +476,4 @@ Or let GitHub Action run it automatically.
 | 407 | 2025-11-09 08:20:10 | [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) | ✅ full (2707⭐ JavaScript) | [reels/reel_0407_scratchfoundation-scratch-blocks](reels/reel_0407_scratchfoundation-scratch-blocks) |
 | 408 | 2025-11-09 08:41:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137580⭐ Python) | [reels/reel_0408_langflow-ai-langflow](reels/reel_0408_langflow-ai-langflow) |
 | 409 | 2025-11-09 08:51:24 | [drlippman/IMathAS](https://github.com/drlippman/IMathAS) | ✅ full (125⭐ PHP) | [reels/reel_0409_drlippman-IMathAS](reels/reel_0409_drlippman-IMathAS) |
+| 410 | 2025-11-09 09:16:18 | [aidenybai/bippy](https://github.com/aidenybai/bippy) | ✅ shallow (1009⭐ TypeScript) | [reels/reel_0410_aidenybai-bippy](reels/reel_0410_aidenybai-bippy) |
