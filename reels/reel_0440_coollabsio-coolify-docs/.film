@@ -1,0 +1,24 @@
+{
+  "reel_number": 440,
+  "recorded": "2025-11-09 19:12:42 UTC",
+  "repository": {
+    "full_name": "coollabsio/coolify-docs",
+    "url": "https://github.com/coollabsio/coolify-docs",
+    "clone_url": "https://github.com/coollabsio/coolify-docs.git",
+    "stars": 288,
+    "language": "Dockerfile",
+    "size_kb": 105144
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 102,
+    "duration_seconds": 1.654384
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dockerfile",
+    "director_note": "A Dockerfile repository. 288 stars."
+  }
+}

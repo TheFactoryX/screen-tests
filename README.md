@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #439 | [cheezcharmer/chinese-dictatorship](https://github.com/cheezcharmer/chinese-dictatorship) | HTML · ⭐ 189 | 2025-11-09 |
+| #440 | [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) | Dockerfile · ⭐ 288 | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -506,3 +506,4 @@ Or let GitHub Action run it automatically.
 | 437 | 2025-11-09 18:22:38 | [CompPhysics/MachineLearning](https://github.com/CompPhysics/MachineLearning) | ✅ readme_only (208⭐ None) | [reels/reel_0437_CompPhysics-MachineLearning](reels/reel_0437_CompPhysics-MachineLearning) |
 | 438 | 2025-11-09 18:43:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155009⭐ TypeScript) | [reels/reel_0438_n8n-io-n8n](reels/reel_0438_n8n-io-n8n) |
 | 439 | 2025-11-09 18:53:14 | [cheezcharmer/chinese-dictatorship](https://github.com/cheezcharmer/chinese-dictatorship) | ✅ full (189⭐ HTML) | [reels/reel_0439_cheezcharmer-chinese-dictatorship](reels/reel_0439_cheezcharmer-chinese-dictatorship) |
+| 440 | 2025-11-09 19:12:42 | [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) | ✅ shallow (288⭐ Dockerfile) | [reels/reel_0440_coollabsio-coolify-docs](reels/reel_0440_coollabsio-coolify-docs) |
