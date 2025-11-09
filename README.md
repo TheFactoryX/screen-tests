@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #436 | [dimkr/tootik](https://github.com/dimkr/tootik) | Go · ⭐ 184 | 2025-11-09 |
+| #437 | [CompPhysics/MachineLearning](https://github.com/CompPhysics/MachineLearning) | None · ⭐ 208 | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -503,3 +503,4 @@ Or let GitHub Action run it automatically.
 | 434 | 2025-11-09 17:29:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119227⭐ Python) | [reels/reel_0434_langchain-ai-langchain](reels/reel_0434_langchain-ai-langchain) |
 | 435 | 2025-11-09 17:40:58 | [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed) | ✅ full (139⭐ Rust) | [reels/reel_0435_facebookexperimental-rust-shed](reels/reel_0435_facebookexperimental-rust-shed) |
 | 436 | 2025-11-09 17:51:00 | [dimkr/tootik](https://github.com/dimkr/tootik) | ✅ full (184⭐ Go) | [reels/reel_0436_dimkr-tootik](reels/reel_0436_dimkr-tootik) |
+| 437 | 2025-11-09 18:22:38 | [CompPhysics/MachineLearning](https://github.com/CompPhysics/MachineLearning) | ✅ readme_only (208⭐ None) | [reels/reel_0437_CompPhysics-MachineLearning](reels/reel_0437_CompPhysics-MachineLearning) |

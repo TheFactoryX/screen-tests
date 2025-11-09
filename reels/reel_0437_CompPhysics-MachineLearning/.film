@@ -1,0 +1,24 @@
+{
+  "reel_number": 437,
+  "recorded": "2025-11-09 18:22:38 UTC",
+  "repository": {
+    "full_name": "CompPhysics/MachineLearning",
+    "url": "https://github.com/CompPhysics/MachineLearning",
+    "clone_url": "https://github.com/CompPhysics/MachineLearning.git",
+    "stars": 208,
+    "language": null,
+    "size_kb": 1698532
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1658,
+    "duration_seconds": 0.000158
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 208 stars."
+  }
+}
