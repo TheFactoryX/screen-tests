@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #413 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 377k | 2025-11-09 |
+| #414 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -480,3 +480,4 @@ Or let GitHub Action run it automatically.
 | 411 | 2025-11-09 09:36:51 | [ALIILAPRO/MTProtoProxy](https://github.com/ALIILAPRO/MTProtoProxy) | ✅ full (124⭐ HTML) | [reels/reel_0411_ALIILAPRO-MTProtoProxy](reels/reel_0411_ALIILAPRO-MTProtoProxy) |
 | 412 | 2025-11-09 09:50:18 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154937⭐ TypeScript) | [reels/reel_0412_n8n-io-n8n](reels/reel_0412_n8n-io-n8n) |
 | 413 | 2025-11-09 10:16:52 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377241⭐ Python) | [reels/reel_0413_public-apis-public-apis](reels/reel_0413_public-apis-public-apis) |
+| 414 | 2025-11-09 10:39:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134299⭐ Python) | [reels/reel_0414_yt-dlp-yt-dlp](reels/reel_0414_yt-dlp-yt-dlp) |
