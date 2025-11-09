@@ -1,0 +1,24 @@
+{
+  "reel_number": 427,
+  "recorded": "2025-11-09 15:15:43 UTC",
+  "repository": {
+    "full_name": "ebrasha/free-v2ray-public-list",
+    "url": "https://github.com/ebrasha/free-v2ray-public-list",
+    "clone_url": "https://github.com/ebrasha/free-v2ray-public-list.git",
+    "stars": 261,
+    "language": null,
+    "size_kb": 1465
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.621819
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 261 stars."
+  }
+}

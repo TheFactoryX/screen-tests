@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #426 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-09 |
+| #427 | [ebrasha/free-v2ray-public-list](https://github.com/ebrasha/free-v2ray-public-list) | None · ⭐ 261 | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -493,3 +493,4 @@ Or let GitHub Action run it automatically.
 | 424 | 2025-11-09 14:14:12 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ✅ full (92800⭐ JavaScript) | [reels/reel_0424_jaywcjlove-awesome-mac](reels/reel_0424_jaywcjlove-awesome-mac) |
 | 425 | 2025-11-09 14:30:27 | [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | ✅ full (249⭐ Java) | [reels/reel_0425_jabrena-cursor-rules-java](reels/reel_0425_jabrena-cursor-rules-java) |
 | 426 | 2025-11-09 14:50:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257152⭐ None) | [reels/reel_0426_awesome-selfhosted-awesome-selfhosted](reels/reel_0426_awesome-selfhosted-awesome-selfhosted) |
+| 427 | 2025-11-09 15:15:43 | [ebrasha/free-v2ray-public-list](https://github.com/ebrasha/free-v2ray-public-list) | ✅ full (261⭐ None) | [reels/reel_0427_ebrasha-free-v2ray-public-list](reels/reel_0427_ebrasha-free-v2ray-public-list) |
