@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #430 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-09 |
+| #431 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -497,3 +497,4 @@ Or let GitHub Action run it automatically.
 | 428 | 2025-11-09 15:36:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154985⭐ TypeScript) | [reels/reel_0428_n8n-io-n8n](reels/reel_0428_n8n-io-n8n) |
 | 429 | 2025-11-09 15:50:17 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107732⭐ Rust) | [reels/reel_0429_rust-lang-rust](reels/reel_0429_rust-lang-rust) |
 | 430 | 2025-11-09 16:19:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134334⭐ Python) | [reels/reel_0430_yt-dlp-yt-dlp](reels/reel_0430_yt-dlp-yt-dlp) |
+| 431 | 2025-11-09 16:42:11 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96571⭐ TypeScript) | [reels/reel_0431_ant-design-ant-design](reels/reel_0431_ant-design-ant-design) |
