@@ -1,0 +1,24 @@
+{
+  "reel_number": 400,
+  "recorded": "2025-11-09 05:39:37 UTC",
+  "repository": {
+    "full_name": "markhedleyjones/dmenu-extended",
+    "url": "https://github.com/markhedleyjones/dmenu-extended",
+    "clone_url": "https://github.com/markhedleyjones/dmenu-extended.git",
+    "stars": 393,
+    "language": "Python",
+    "size_kb": 1037
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.741249
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 393 stars."
+  }
+}
