@@ -1,0 +1,24 @@
+{
+  "reel_number": 395,
+  "recorded": "2025-11-09 03:44:45 UTC",
+  "repository": {
+    "full_name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "clone_url": "https://github.com/public-apis/public-apis.git",
+    "stars": 377113,
+    "language": "Python",
+    "size_kb": 4955
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 1.19227
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 377113 stars."
+  }
+}
