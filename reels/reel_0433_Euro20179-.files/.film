@@ -1,0 +1,24 @@
+{
+  "reel_number": 433,
+  "recorded": "2025-11-09 17:13:37 UTC",
+  "repository": {
+    "full_name": "Euro20179/.files",
+    "url": "https://github.com/Euro20179/.files",
+    "clone_url": "https://github.com/Euro20179/.files.git",
+    "stars": 13,
+    "language": "Shell",
+    "size_kb": 4295
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.287154
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 13 stars."
+  }
+}
