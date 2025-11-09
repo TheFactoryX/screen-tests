@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #398 | [kloudlite/kloudlite](https://github.com/kloudlite/kloudlite) | Go · ⭐ 160 | 2025-11-09 |
+| #399 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -465,3 +465,4 @@ Or let GitHub Action run it automatically.
 | 396 | 2025-11-09 04:00:36 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96568⭐ TypeScript) | [reels/reel_0396_ant-design-ant-design](reels/reel_0396_ant-design-ant-design) |
 | 397 | 2025-11-09 04:34:35 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100204⭐ Python) | [reels/reel_0397_deepseek-ai-DeepSeek-V3](reels/reel_0397_deepseek-ai-DeepSeek-V3) |
 | 398 | 2025-11-09 04:50:40 | [kloudlite/kloudlite](https://github.com/kloudlite/kloudlite) | ✅ full (160⭐ Go) | [reels/reel_0398_kloudlite-kloudlite](reels/reel_0398_kloudlite-kloudlite) |
+| 399 | 2025-11-09 05:16:33 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107725⭐ Rust) | [reels/reel_0399_rust-lang-rust](reels/reel_0399_rust-lang-rust) |
