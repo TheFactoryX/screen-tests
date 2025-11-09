@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #422 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-09 |
+| #423 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 377k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -489,3 +489,4 @@ Or let GitHub Action run it automatically.
 | 420 | 2025-11-09 12:32:54 | [blitz/sysupdate-playground](https://github.com/blitz/sysupdate-playground) | ✅ full (51⭐ Nix) | [reels/reel_0420_blitz-sysupdate-playground](reels/reel_0420_blitz-sysupdate-playground) |
 | 421 | 2025-11-09 13:05:09 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100078⭐ Shell) | [reels/reel_0421_papers-we-love-papers-we-love](reels/reel_0421_papers-we-love-papers-we-love) |
 | 422 | 2025-11-09 13:32:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179561⭐ Python) | [reels/reel_0422_Significant-Gravitas-AutoGPT](reels/reel_0422_Significant-Gravitas-AutoGPT) |
+| 423 | 2025-11-09 13:49:54 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377315⭐ Python) | [reels/reel_0423_public-apis-public-apis](reels/reel_0423_public-apis-public-apis) |
