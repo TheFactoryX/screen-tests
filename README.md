@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #451 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-09 |
+| #452 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -518,3 +518,4 @@ Or let GitHub Action run it automatically.
 | 449 | 2025-11-09 21:39:34 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100210⭐ Python) | [reels/reel_0449_deepseek-ai-DeepSeek-V3](reels/reel_0449_deepseek-ai-DeepSeek-V3) |
 | 450 | 2025-11-09 21:49:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134362⭐ Python) | [reels/reel_0450_yt-dlp-yt-dlp](reels/reel_0450_yt-dlp-yt-dlp) |
 | 451 | 2025-11-09 22:15:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119240⭐ Python) | [reels/reel_0451_langchain-ai-langchain](reels/reel_0451_langchain-ai-langchain) |
+| 452 | 2025-11-09 22:38:41 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98707⭐ Rust) | [reels/reel_0452_tauri-apps-tauri](reels/reel_0452_tauri-apps-tauri) |
