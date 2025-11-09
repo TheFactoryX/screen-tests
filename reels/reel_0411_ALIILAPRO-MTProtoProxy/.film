@@ -1,0 +1,24 @@
+{
+  "reel_number": 411,
+  "recorded": "2025-11-09 09:36:51 UTC",
+  "repository": {
+    "full_name": "ALIILAPRO/MTProtoProxy",
+    "url": "https://github.com/ALIILAPRO/MTProtoProxy",
+    "clone_url": "https://github.com/ALIILAPRO/MTProtoProxy.git",
+    "stars": 124,
+    "language": "HTML",
+    "size_kb": 5388
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.412215
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 124 stars."
+  }
+}
