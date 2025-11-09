@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #417 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 377k | 2025-11-09 |
+| #418 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 154k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -484,3 +484,4 @@ Or let GitHub Action run it automatically.
 | 415 | 2025-11-09 10:49:51 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249334⭐ None) | [reels/reel_0415_practical-tutorials-project-based-learning](reels/reel_0415_practical-tutorials-project-based-learning) |
 | 416 | 2025-11-09 11:13:01 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377266⭐ Python) | [reels/reel_0416_public-apis-public-apis](reels/reel_0416_public-apis-public-apis) |
 | 417 | 2025-11-09 11:26:09 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377270⭐ Python) | [reels/reel_0417_public-apis-public-apis](reels/reel_0417_public-apis-public-apis) |
+| 418 | 2025-11-09 11:37:32 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154948⭐ TypeScript) | [reels/reel_0418_n8n-io-n8n](reels/reel_0418_n8n-io-n8n) |
