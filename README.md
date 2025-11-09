@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #405 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 154k | 2025-11-09 |
+| #406 | [vakhov/fresh-proxy-list](https://github.com/vakhov/fresh-proxy-list) | PHP · ⭐ 297 | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -472,3 +472,4 @@ Or let GitHub Action run it automatically.
 | 403 | 2025-11-09 06:47:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119201⭐ Python) | [reels/reel_0403_langchain-ai-langchain](reels/reel_0403_langchain-ai-langchain) |
 | 404 | 2025-11-09 07:16:02 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | ✅ full (136252⭐ JavaScript) | [reels/reel_0404_f-awesome-chatgpt-prompts](reels/reel_0404_f-awesome-chatgpt-prompts) |
 | 405 | 2025-11-09 07:35:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154926⭐ TypeScript) | [reels/reel_0405_n8n-io-n8n](reels/reel_0405_n8n-io-n8n) |
+| 406 | 2025-11-09 07:50:10 | [vakhov/fresh-proxy-list](https://github.com/vakhov/fresh-proxy-list) | ✅ readme_only (297⭐ PHP) | [reels/reel_0406_vakhov-fresh-proxy-list](reels/reel_0406_vakhov-fresh-proxy-list) |

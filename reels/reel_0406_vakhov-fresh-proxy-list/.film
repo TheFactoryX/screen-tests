@@ -1,0 +1,24 @@
+{
+  "reel_number": 406,
+  "recorded": "2025-11-09 07:50:10 UTC",
+  "repository": {
+    "full_name": "vakhov/fresh-proxy-list",
+    "url": "https://github.com/vakhov/fresh-proxy-list",
+    "clone_url": "https://github.com/vakhov/fresh-proxy-list.git",
+    "stars": 297,
+    "language": "PHP",
+    "size_kb": 48721535
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 47579,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 297 stars."
+  }
+}
