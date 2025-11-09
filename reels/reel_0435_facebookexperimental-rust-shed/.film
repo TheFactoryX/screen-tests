@@ -1,0 +1,24 @@
+{
+  "reel_number": 435,
+  "recorded": "2025-11-09 17:40:58 UTC",
+  "repository": {
+    "full_name": "facebookexperimental/rust-shed",
+    "url": "https://github.com/facebookexperimental/rust-shed",
+    "clone_url": "https://github.com/facebookexperimental/rust-shed.git",
+    "stars": 139,
+    "language": "Rust",
+    "size_kb": 9875
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.632651
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 139 stars."
+  }
+}
