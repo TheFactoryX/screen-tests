@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #433 | [Euro20179/.files](https://github.com/Euro20179/.files) | Shell · ⭐ 13 | 2025-11-09 |
+| #434 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -500,3 +500,4 @@ Or let GitHub Action run it automatically.
 | 431 | 2025-11-09 16:42:11 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96571⭐ TypeScript) | [reels/reel_0431_ant-design-ant-design](reels/reel_0431_ant-design-ant-design) |
 | 432 | 2025-11-09 16:52:48 | [stride3d/stride](https://github.com/stride3d/stride) | ✅ full (7269⭐ C#) | [reels/reel_0432_stride3d-stride](reels/reel_0432_stride3d-stride) |
 | 433 | 2025-11-09 17:13:37 | [Euro20179/.files](https://github.com/Euro20179/.files) | ✅ full (13⭐ Shell) | [reels/reel_0433_Euro20179-.files](reels/reel_0433_Euro20179-.files) |
+| 434 | 2025-11-09 17:29:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119227⭐ Python) | [reels/reel_0434_langchain-ai-langchain](reels/reel_0434_langchain-ai-langchain) |
