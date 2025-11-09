@@ -1,0 +1,24 @@
+{
+  "reel_number": 436,
+  "recorded": "2025-11-09 17:51:00 UTC",
+  "repository": {
+    "full_name": "dimkr/tootik",
+    "url": "https://github.com/dimkr/tootik",
+    "clone_url": "https://github.com/dimkr/tootik.git",
+    "stars": 184,
+    "language": "Go",
+    "size_kb": 1893
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.550872
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 184 stars."
+  }
+}
