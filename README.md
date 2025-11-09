@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #425 | [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | Java · ⭐ 249 | 2025-11-09 |
+| #426 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -492,3 +492,4 @@ Or let GitHub Action run it automatically.
 | 423 | 2025-11-09 13:49:54 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377315⭐ Python) | [reels/reel_0423_public-apis-public-apis](reels/reel_0423_public-apis-public-apis) |
 | 424 | 2025-11-09 14:14:12 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ✅ full (92800⭐ JavaScript) | [reels/reel_0424_jaywcjlove-awesome-mac](reels/reel_0424_jaywcjlove-awesome-mac) |
 | 425 | 2025-11-09 14:30:27 | [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | ✅ full (249⭐ Java) | [reels/reel_0425_jabrena-cursor-rules-java](reels/reel_0425_jabrena-cursor-rules-java) |
+| 426 | 2025-11-09 14:50:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257152⭐ None) | [reels/reel_0426_awesome-selfhosted-awesome-selfhosted](reels/reel_0426_awesome-selfhosted-awesome-selfhosted) |
