@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #448 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-09 |
+| #449 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -515,3 +515,4 @@ Or let GitHub Action run it automatically.
 | 446 | 2025-11-09 20:49:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257200⭐ None) | [reels/reel_0446_awesome-selfhosted-awesome-selfhosted](reels/reel_0446_awesome-selfhosted-awesome-selfhosted) |
 | 447 | 2025-11-09 21:14:24 | [themiralay/Proxy-List-World](https://github.com/themiralay/Proxy-List-World) | ✅ readme_only (135⭐ None) | [reels/reel_0447_themiralay-Proxy-List-World](reels/reel_0447_themiralay-Proxy-List-World) |
 | 448 | 2025-11-09 21:28:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257210⭐ None) | [reels/reel_0448_awesome-selfhosted-awesome-selfhosted](reels/reel_0448_awesome-selfhosted-awesome-selfhosted) |
+| 449 | 2025-11-09 21:39:34 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100210⭐ Python) | [reels/reel_0449_deepseek-ai-DeepSeek-V3](reels/reel_0449_deepseek-ai-DeepSeek-V3) |
