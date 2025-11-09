@@ -1,0 +1,24 @@
+{
+  "reel_number": 407,
+  "recorded": "2025-11-09 08:20:10 UTC",
+  "repository": {
+    "full_name": "scratchfoundation/scratch-blocks",
+    "url": "https://github.com/scratchfoundation/scratch-blocks",
+    "clone_url": "https://github.com/scratchfoundation/scratch-blocks.git",
+    "stars": 2707,
+    "language": "JavaScript",
+    "size_kb": 100835
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 98,
+    "duration_seconds": 5.769021
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 2707 stars."
+  }
+}
