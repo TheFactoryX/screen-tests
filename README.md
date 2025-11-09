@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #440 | [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) | Dockerfile · ⭐ 288 | 2025-11-09 |
+| #441 | [VibesDIY/vibes.diy](https://github.com/VibesDIY/vibes.diy) | TypeScript · ⭐ 109 | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -507,3 +507,4 @@ Or let GitHub Action run it automatically.
 | 438 | 2025-11-09 18:43:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155009⭐ TypeScript) | [reels/reel_0438_n8n-io-n8n](reels/reel_0438_n8n-io-n8n) |
 | 439 | 2025-11-09 18:53:14 | [cheezcharmer/chinese-dictatorship](https://github.com/cheezcharmer/chinese-dictatorship) | ✅ full (189⭐ HTML) | [reels/reel_0439_cheezcharmer-chinese-dictatorship](reels/reel_0439_cheezcharmer-chinese-dictatorship) |
 | 440 | 2025-11-09 19:12:42 | [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) | ✅ shallow (288⭐ Dockerfile) | [reels/reel_0440_coollabsio-coolify-docs](reels/reel_0440_coollabsio-coolify-docs) |
+| 441 | 2025-11-09 19:24:31 | [VibesDIY/vibes.diy](https://github.com/VibesDIY/vibes.diy) | ✅ full (109⭐ TypeScript) | [reels/reel_0441_VibesDIY-vibes.diy](reels/reel_0441_VibesDIY-vibes.diy) |

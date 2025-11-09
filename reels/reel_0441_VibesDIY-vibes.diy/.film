@@ -1,0 +1,24 @@
+{
+  "reel_number": 441,
+  "recorded": "2025-11-09 19:24:31 UTC",
+  "repository": {
+    "full_name": "VibesDIY/vibes.diy",
+    "url": "https://github.com/VibesDIY/vibes.diy",
+    "clone_url": "https://github.com/VibesDIY/vibes.diy.git",
+    "stars": 109,
+    "language": "TypeScript",
+    "size_kb": 25715
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 1.510091
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 109 stars."
+  }
+}
