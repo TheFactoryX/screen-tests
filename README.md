@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #403 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-09 |
+| #404 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | JavaScript · ⭐ 136k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -470,3 +470,4 @@ Or let GitHub Action run it automatically.
 | 401 | 2025-11-09 05:49:59 | [toy/image_optim](https://github.com/toy/image_optim) | ✅ full (1530⭐ Ruby) | [reels/reel_0401_toy-image_optim](reels/reel_0401_toy-image_optim) |
 | 402 | 2025-11-09 06:25:08 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114645⭐ JavaScript) | [reels/reel_0402_open-webui-open-webui](reels/reel_0402_open-webui-open-webui) |
 | 403 | 2025-11-09 06:47:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119201⭐ Python) | [reels/reel_0403_langchain-ai-langchain](reels/reel_0403_langchain-ai-langchain) |
+| 404 | 2025-11-09 07:16:02 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | ✅ full (136252⭐ JavaScript) | [reels/reel_0404_f-awesome-chatgpt-prompts](reels/reel_0404_f-awesome-chatgpt-prompts) |
