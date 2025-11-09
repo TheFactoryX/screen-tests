@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #421 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-09 |
+| #422 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -488,3 +488,4 @@ Or let GitHub Action run it automatically.
 | 419 | 2025-11-09 11:49:50 | [MintCoolMC/MCBE_RainbowPieUI2](https://github.com/MintCoolMC/MCBE_RainbowPieUI2) | ✅ full (105⭐ Python) | [reels/reel_0419_MintCoolMC-MCBE_RainbowPieUI2](reels/reel_0419_MintCoolMC-MCBE_RainbowPieUI2) |
 | 420 | 2025-11-09 12:32:54 | [blitz/sysupdate-playground](https://github.com/blitz/sysupdate-playground) | ✅ full (51⭐ Nix) | [reels/reel_0420_blitz-sysupdate-playground](reels/reel_0420_blitz-sysupdate-playground) |
 | 421 | 2025-11-09 13:05:09 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100078⭐ Shell) | [reels/reel_0421_papers-we-love-papers-we-love](reels/reel_0421_papers-we-love-papers-we-love) |
+| 422 | 2025-11-09 13:32:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179561⭐ Python) | [reels/reel_0422_Significant-Gravitas-AutoGPT](reels/reel_0422_Significant-Gravitas-AutoGPT) |
