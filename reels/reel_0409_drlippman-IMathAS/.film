@@ -1,0 +1,24 @@
+{
+  "reel_number": 409,
+  "recorded": "2025-11-09 08:51:24 UTC",
+  "repository": {
+    "full_name": "drlippman/IMathAS",
+    "url": "https://github.com/drlippman/IMathAS",
+    "clone_url": "https://github.com/drlippman/IMathAS.git",
+    "stars": 125,
+    "language": "PHP",
+    "size_kb": 80828
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 78,
+    "duration_seconds": 6.229434
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 125 stars."
+  }
+}
