@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #395 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 377k | 2025-11-09 |
+| #396 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -462,3 +462,4 @@ Or let GitHub Action run it automatically.
 | 393 | 2025-11-09 01:25:41 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134267⭐ Python) | [reels/reel_0393_yt-dlp-yt-dlp](reels/reel_0393_yt-dlp-yt-dlp) |
 | 394 | 2025-11-09 02:57:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257044⭐ None) | [reels/reel_0394_awesome-selfhosted-awesome-selfhosted](reels/reel_0394_awesome-selfhosted-awesome-selfhosted) |
 | 395 | 2025-11-09 03:44:45 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377113⭐ Python) | [reels/reel_0395_public-apis-public-apis](reels/reel_0395_public-apis-public-apis) |
+| 396 | 2025-11-09 04:00:36 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96568⭐ TypeScript) | [reels/reel_0396_ant-design-ant-design](reels/reel_0396_ant-design-ant-design) |
