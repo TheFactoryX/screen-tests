@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #453 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-09 |
+| #454 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -520,3 +520,4 @@ Or let GitHub Action run it automatically.
 | 451 | 2025-11-09 22:15:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119240⭐ Python) | [reels/reel_0451_langchain-ai-langchain](reels/reel_0451_langchain-ai-langchain) |
 | 452 | 2025-11-09 22:38:41 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98707⭐ Rust) | [reels/reel_0452_tauri-apps-tauri](reels/reel_0452_tauri-apps-tauri) |
 | 453 | 2025-11-09 22:50:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137637⭐ Python) | [reels/reel_0453_langflow-ai-langflow](reels/reel_0453_langflow-ai-langflow) |
+| 454 | 2025-11-09 23:15:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114704⭐ JavaScript) | [reels/reel_0454_open-webui-open-webui](reels/reel_0454_open-webui-open-webui) |
