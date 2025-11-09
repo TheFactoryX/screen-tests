@@ -1,0 +1,24 @@
+{
+  "reel_number": 439,
+  "recorded": "2025-11-09 18:53:14 UTC",
+  "repository": {
+    "full_name": "cheezcharmer/chinese-dictatorship",
+    "url": "https://github.com/cheezcharmer/chinese-dictatorship",
+    "clone_url": "https://github.com/cheezcharmer/chinese-dictatorship.git",
+    "stars": 189,
+    "language": "HTML",
+    "size_kb": 1567
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.352581
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 189 stars."
+  }
+}
