@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #401 | [toy/image_optim](https://github.com/toy/image_optim) | Ruby · ⭐ 1k | 2025-11-09 |
+| #402 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -468,3 +468,4 @@ Or let GitHub Action run it automatically.
 | 399 | 2025-11-09 05:16:33 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107725⭐ Rust) | [reels/reel_0399_rust-lang-rust](reels/reel_0399_rust-lang-rust) |
 | 400 | 2025-11-09 05:39:37 | [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended) | ✅ full (393⭐ Python) | [reels/reel_0400_markhedleyjones-dmenu-extended](reels/reel_0400_markhedleyjones-dmenu-extended) |
 | 401 | 2025-11-09 05:49:59 | [toy/image_optim](https://github.com/toy/image_optim) | ✅ full (1530⭐ Ruby) | [reels/reel_0401_toy-image_optim](reels/reel_0401_toy-image_optim) |
+| 402 | 2025-11-09 06:25:08 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114645⭐ JavaScript) | [reels/reel_0402_open-webui-open-webui](reels/reel_0402_open-webui-open-webui) |
