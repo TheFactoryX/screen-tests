@@ -1,0 +1,24 @@
+{
+  "reel_number": 419,
+  "recorded": "2025-11-09 11:49:50 UTC",
+  "repository": {
+    "full_name": "MintCoolMC/MCBE_RainbowPieUI2",
+    "url": "https://github.com/MintCoolMC/MCBE_RainbowPieUI2",
+    "clone_url": "https://github.com/MintCoolMC/MCBE_RainbowPieUI2.git",
+    "stars": 105,
+    "language": "Python",
+    "size_kb": 36397
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 1.882211
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 105 stars."
+  }
+}
