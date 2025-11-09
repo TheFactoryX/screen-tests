@@ -1,0 +1,24 @@
+{
+  "reel_number": 420,
+  "recorded": "2025-11-09 12:32:54 UTC",
+  "repository": {
+    "full_name": "blitz/sysupdate-playground",
+    "url": "https://github.com/blitz/sysupdate-playground",
+    "clone_url": "https://github.com/blitz/sysupdate-playground.git",
+    "stars": 51,
+    "language": "Nix",
+    "size_kb": 41
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.137529
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 51 stars."
+  }
+}
