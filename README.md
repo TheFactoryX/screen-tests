@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #407 | [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) | JavaScript · ⭐ 2k | 2025-11-09 |
+| #408 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -474,3 +474,4 @@ Or let GitHub Action run it automatically.
 | 405 | 2025-11-09 07:35:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154926⭐ TypeScript) | [reels/reel_0405_n8n-io-n8n](reels/reel_0405_n8n-io-n8n) |
 | 406 | 2025-11-09 07:50:10 | [vakhov/fresh-proxy-list](https://github.com/vakhov/fresh-proxy-list) | ✅ readme_only (297⭐ PHP) | [reels/reel_0406_vakhov-fresh-proxy-list](reels/reel_0406_vakhov-fresh-proxy-list) |
 | 407 | 2025-11-09 08:20:10 | [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) | ✅ full (2707⭐ JavaScript) | [reels/reel_0407_scratchfoundation-scratch-blocks](reels/reel_0407_scratchfoundation-scratch-blocks) |
+| 408 | 2025-11-09 08:41:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137580⭐ Python) | [reels/reel_0408_langflow-ai-langflow](reels/reel_0408_langflow-ai-langflow) |
