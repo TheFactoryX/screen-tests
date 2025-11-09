@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #441 | [VibesDIY/vibes.diy](https://github.com/VibesDIY/vibes.diy) | TypeScript · ⭐ 109 | 2025-11-09 |
+| #442 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 377k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -508,3 +508,4 @@ Or let GitHub Action run it automatically.
 | 439 | 2025-11-09 18:53:14 | [cheezcharmer/chinese-dictatorship](https://github.com/cheezcharmer/chinese-dictatorship) | ✅ full (189⭐ HTML) | [reels/reel_0439_cheezcharmer-chinese-dictatorship](reels/reel_0439_cheezcharmer-chinese-dictatorship) |
 | 440 | 2025-11-09 19:12:42 | [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) | ✅ shallow (288⭐ Dockerfile) | [reels/reel_0440_coollabsio-coolify-docs](reels/reel_0440_coollabsio-coolify-docs) |
 | 441 | 2025-11-09 19:24:31 | [VibesDIY/vibes.diy](https://github.com/VibesDIY/vibes.diy) | ✅ full (109⭐ TypeScript) | [reels/reel_0441_VibesDIY-vibes.diy](reels/reel_0441_VibesDIY-vibes.diy) |
+| 442 | 2025-11-09 19:36:52 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377360⭐ Python) | [reels/reel_0442_public-apis-public-apis](reels/reel_0442_public-apis-public-apis) |
