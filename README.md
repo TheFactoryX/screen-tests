@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #428 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 154k | 2025-11-09 |
+| #429 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -495,3 +495,4 @@ Or let GitHub Action run it automatically.
 | 426 | 2025-11-09 14:50:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257152⭐ None) | [reels/reel_0426_awesome-selfhosted-awesome-selfhosted](reels/reel_0426_awesome-selfhosted-awesome-selfhosted) |
 | 427 | 2025-11-09 15:15:43 | [ebrasha/free-v2ray-public-list](https://github.com/ebrasha/free-v2ray-public-list) | ✅ full (261⭐ None) | [reels/reel_0427_ebrasha-free-v2ray-public-list](reels/reel_0427_ebrasha-free-v2ray-public-list) |
 | 428 | 2025-11-09 15:36:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (154985⭐ TypeScript) | [reels/reel_0428_n8n-io-n8n](reels/reel_0428_n8n-io-n8n) |
+| 429 | 2025-11-09 15:50:17 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107732⭐ Rust) | [reels/reel_0429_rust-lang-rust](reels/reel_0429_rust-lang-rust) |
