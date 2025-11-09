@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #431 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-09 |
+| #432 | [stride3d/stride](https://github.com/stride3d/stride) | C# · ⭐ 7k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -498,3 +498,4 @@ Or let GitHub Action run it automatically.
 | 429 | 2025-11-09 15:50:17 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107732⭐ Rust) | [reels/reel_0429_rust-lang-rust](reels/reel_0429_rust-lang-rust) |
 | 430 | 2025-11-09 16:19:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134334⭐ Python) | [reels/reel_0430_yt-dlp-yt-dlp](reels/reel_0430_yt-dlp-yt-dlp) |
 | 431 | 2025-11-09 16:42:11 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96571⭐ TypeScript) | [reels/reel_0431_ant-design-ant-design](reels/reel_0431_ant-design-ant-design) |
+| 432 | 2025-11-09 16:52:48 | [stride3d/stride](https://github.com/stride3d/stride) | ✅ full (7269⭐ C#) | [reels/reel_0432_stride3d-stride](reels/reel_0432_stride3d-stride) |
