@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #392 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 237 | 2025-11-08 |
+| #393 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -459,3 +459,4 @@ Or let GitHub Action run it automatically.
 | 390 | 2025-11-08 23:15:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114632⭐ JavaScript) | [reels/reel_0390_open-webui-open-webui](reels/reel_0390_open-webui-open-webui) |
 | 391 | 2025-11-08 23:36:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98679⭐ Rust) | [reels/reel_0391_tauri-apps-tauri](reels/reel_0391_tauri-apps-tauri) |
 | 392 | 2025-11-08 23:49:40 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (237⭐ None) | [reels/reel_0392_hello-world-1989-cn-news](reels/reel_0392_hello-world-1989-cn-news) |
+| 393 | 2025-11-09 01:25:41 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134267⭐ Python) | [reels/reel_0393_yt-dlp-yt-dlp](reels/reel_0393_yt-dlp-yt-dlp) |
