@@ -1,0 +1,24 @@
+{
+  "reel_number": 425,
+  "recorded": "2025-11-09 14:30:27 UTC",
+  "repository": {
+    "full_name": "jabrena/cursor-rules-java",
+    "url": "https://github.com/jabrena/cursor-rules-java",
+    "clone_url": "https://github.com/jabrena/cursor-rules-java.git",
+    "stars": 249,
+    "language": "Java",
+    "size_kb": 83658
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 81,
+    "duration_seconds": 3.013078
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 249 stars."
+  }
+}
