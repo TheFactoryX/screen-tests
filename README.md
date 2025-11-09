@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #423 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 377k | 2025-11-09 |
+| #424 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | JavaScript · ⭐ 92k | 2025-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -490,3 +490,4 @@ Or let GitHub Action run it automatically.
 | 421 | 2025-11-09 13:05:09 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100078⭐ Shell) | [reels/reel_0421_papers-we-love-papers-we-love](reels/reel_0421_papers-we-love-papers-we-love) |
 | 422 | 2025-11-09 13:32:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179561⭐ Python) | [reels/reel_0422_Significant-Gravitas-AutoGPT](reels/reel_0422_Significant-Gravitas-AutoGPT) |
 | 423 | 2025-11-09 13:49:54 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377315⭐ Python) | [reels/reel_0423_public-apis-public-apis](reels/reel_0423_public-apis-public-apis) |
+| 424 | 2025-11-09 14:14:12 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ✅ full (92800⭐ JavaScript) | [reels/reel_0424_jaywcjlove-awesome-mac](reels/reel_0424_jaywcjlove-awesome-mac) |
