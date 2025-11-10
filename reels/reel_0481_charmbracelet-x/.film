@@ -1,0 +1,24 @@
+{
+  "reel_number": 481,
+  "recorded": "2025-11-10 13:20:42 UTC",
+  "repository": {
+    "full_name": "charmbracelet/x",
+    "url": "https://github.com/charmbracelet/x",
+    "clone_url": "https://github.com/charmbracelet/x.git",
+    "stars": 246,
+    "language": "Go",
+    "size_kb": 3130
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.904925
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 246 stars."
+  }
+}
