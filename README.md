@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #456 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 237 | 2025-11-09 |
+| #457 | [processing/processing4](https://github.com/processing/processing4) | Java · ⭐ 261 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -523,3 +523,4 @@ Or let GitHub Action run it automatically.
 | 454 | 2025-11-09 23:15:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114704⭐ JavaScript) | [reels/reel_0454_open-webui-open-webui](reels/reel_0454_open-webui-open-webui) |
 | 455 | 2025-11-09 23:37:02 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155050⭐ TypeScript) | [reels/reel_0455_n8n-io-n8n](reels/reel_0455_n8n-io-n8n) |
 | 456 | 2025-11-09 23:50:22 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (237⭐ None) | [reels/reel_0456_hello-world-1989-cn-news](reels/reel_0456_hello-world-1989-cn-news) |
+| 457 | 2025-11-10 01:25:37 | [processing/processing4](https://github.com/processing/processing4) | ✅ shallow (261⭐ Java) | [reels/reel_0457_processing-processing4](reels/reel_0457_processing-processing4) |
