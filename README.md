@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #481 | [charmbracelet/x](https://github.com/charmbracelet/x) | Go · ⭐ 246 | 2025-11-10 |
+| #482 | [clem9669/wordlists](https://github.com/clem9669/wordlists) | None · ⭐ 302 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -548,3 +548,4 @@ Or let GitHub Action run it automatically.
 | 479 | 2025-11-10 11:50:31 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99403⭐ TypeScript) | [reels/reel_0479_shadcn-ui-ui](reels/reel_0479_shadcn-ui-ui) |
 | 480 | 2025-11-10 12:38:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155174⭐ TypeScript) | [reels/reel_0480_n8n-io-n8n](reels/reel_0480_n8n-io-n8n) |
 | 481 | 2025-11-10 13:20:42 | [charmbracelet/x](https://github.com/charmbracelet/x) | ✅ full (246⭐ Go) | [reels/reel_0481_charmbracelet-x](reels/reel_0481_charmbracelet-x) |
+| 482 | 2025-11-10 13:47:48 | [clem9669/wordlists](https://github.com/clem9669/wordlists) | ✅ readme_only (302⭐ None) | [reels/reel_0482_clem9669-wordlists](reels/reel_0482_clem9669-wordlists) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 482,
+  "recorded": "2025-11-10 13:47:48 UTC",
+  "repository": {
+    "full_name": "clem9669/wordlists",
+    "url": "https://github.com/clem9669/wordlists",
+    "clone_url": "https://github.com/clem9669/wordlists.git",
+    "stars": 302,
+    "language": null,
+    "size_kb": 5794974
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 5659,
+    "duration_seconds": 0.000134
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 302 stars."
+  }
+}
