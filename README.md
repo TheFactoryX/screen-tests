@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #501 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-10 |
+| #502 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -568,3 +568,4 @@ Or let GitHub Action run it automatically.
 | 499 | 2025-11-10 19:50:25 | [miladtahanian/V2RayCFGDumper](https://github.com/miladtahanian/V2RayCFGDumper) | ✅ shallow (127⭐ Python) | [reels/reel_0499_miladtahanian-V2RayCFGDumper](reels/reel_0499_miladtahanian-V2RayCFGDumper) |
 | 500 | 2025-11-10 20:21:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155256⭐ TypeScript) | [reels/reel_0500_n8n-io-n8n](reels/reel_0500_n8n-io-n8n) |
 | 501 | 2025-11-10 20:43:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98742⭐ Rust) | [reels/reel_0501_tauri-apps-tauri](reels/reel_0501_tauri-apps-tauri) |
+| 502 | 2025-11-10 20:54:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99441⭐ TypeScript) | [reels/reel_0502_shadcn-ui-ui](reels/reel_0502_shadcn-ui-ui) |
