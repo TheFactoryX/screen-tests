@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #464 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-10 |
+| #465 | [gzbin365/map](https://github.com/gzbin365/map) | None · ⭐ 62 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -531,3 +531,4 @@ Or let GitHub Action run it automatically.
 | 462 | 2025-11-10 05:18:59 | [Universal-Team/db](https://github.com/Universal-Team/db) | ✅ shallow (164⭐ Python) | [reels/reel_0462_Universal-Team-db](reels/reel_0462_Universal-Team-db) |
 | 463 | 2025-11-10 05:42:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114727⭐ JavaScript) | [reels/reel_0463_open-webui-open-webui](reels/reel_0463_open-webui-open-webui) |
 | 464 | 2025-11-10 05:51:51 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107739⭐ Rust) | [reels/reel_0464_rust-lang-rust](reels/reel_0464_rust-lang-rust) |
+| 465 | 2025-11-10 06:29:47 | [gzbin365/map](https://github.com/gzbin365/map) | ✅ shallow (62⭐ None) | [reels/reel_0465_gzbin365-map](reels/reel_0465_gzbin365-map) |

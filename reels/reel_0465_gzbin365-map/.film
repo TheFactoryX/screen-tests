@@ -1,0 +1,24 @@
+{
+  "reel_number": 465,
+  "recorded": "2025-11-10 06:29:47 UTC",
+  "repository": {
+    "full_name": "gzbin365/map",
+    "url": "https://github.com/gzbin365/map",
+    "clone_url": "https://github.com/gzbin365/map.git",
+    "stars": 62,
+    "language": null,
+    "size_kb": 184637
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 180,
+    "duration_seconds": 4.245975
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 62 stars."
+  }
+}
