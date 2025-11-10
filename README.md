@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #475 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-10 |
+| #476 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -542,3 +542,4 @@ Or let GitHub Action run it automatically.
 | 473 | 2025-11-10 09:44:07 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100102⭐ Shell) | [reels/reel_0473_papers-we-love-papers-we-love](reels/reel_0473_papers-we-love-papers-we-love) |
 | 474 | 2025-11-10 09:54:39 | [Mr-Z-2697/z-vsPyScripts](https://github.com/Mr-Z-2697/z-vsPyScripts) | ✅ full (12⭐ Python) | [reels/reel_0474_Mr-Z-2697-z-vsPyScripts](reels/reel_0474_Mr-Z-2697-z-vsPyScripts) |
 | 475 | 2025-11-10 10:20:52 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119305⭐ Python) | [reels/reel_0475_langchain-ai-langchain](reels/reel_0475_langchain-ai-langchain) |
+| 476 | 2025-11-10 10:45:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99395⭐ TypeScript) | [reels/reel_0476_shadcn-ui-ui](reels/reel_0476_shadcn-ui-ui) |
