@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #479 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-10 |
+| #480 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 155k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -546,3 +546,4 @@ Or let GitHub Action run it automatically.
 | 477 | 2025-11-10 11:15:56 | [ProbiusOfficial/Hello-CTFtime](https://github.com/ProbiusOfficial/Hello-CTFtime) | ✅ full (152⭐ Python) | [reels/reel_0477_ProbiusOfficial-Hello-CTFtime](reels/reel_0477_ProbiusOfficial-Hello-CTFtime) |
 | 478 | 2025-11-10 11:37:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179587⭐ Python) | [reels/reel_0478_Significant-Gravitas-AutoGPT](reels/reel_0478_Significant-Gravitas-AutoGPT) |
 | 479 | 2025-11-10 11:50:31 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99403⭐ TypeScript) | [reels/reel_0479_shadcn-ui-ui](reels/reel_0479_shadcn-ui-ui) |
+| 480 | 2025-11-10 12:38:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155174⭐ TypeScript) | [reels/reel_0480_n8n-io-n8n](reels/reel_0480_n8n-io-n8n) |
