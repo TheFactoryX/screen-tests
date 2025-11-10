@@ -1,0 +1,24 @@
+{
+  "reel_number": 504,
+  "recorded": "2025-11-10 21:39:03 UTC",
+  "repository": {
+    "full_name": "adlai/scalpl",
+    "url": "https://github.com/adlai/scalpl",
+    "clone_url": "https://github.com/adlai/scalpl.git",
+    "stars": 62,
+    "language": "Common Lisp",
+    "size_kb": 1935
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.827186
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Common Lisp",
+    "director_note": "A Common Lisp repository. 62 stars."
+  }
+}

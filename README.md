@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #503 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-10 |
+| #504 | [adlai/scalpl](https://github.com/adlai/scalpl) | Common Lisp · ⭐ 62 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -570,3 +570,4 @@ Or let GitHub Action run it automatically.
 | 501 | 2025-11-10 20:43:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98742⭐ Rust) | [reels/reel_0501_tauri-apps-tauri](reels/reel_0501_tauri-apps-tauri) |
 | 502 | 2025-11-10 20:54:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99441⭐ TypeScript) | [reels/reel_0502_shadcn-ui-ui](reels/reel_0502_shadcn-ui-ui) |
 | 503 | 2025-11-10 21:16:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114815⭐ JavaScript) | [reels/reel_0503_open-webui-open-webui](reels/reel_0503_open-webui-open-webui) |
+| 504 | 2025-11-10 21:39:03 | [adlai/scalpl](https://github.com/adlai/scalpl) | ✅ full (62⭐ Common Lisp) | [reels/reel_0504_adlai-scalpl](reels/reel_0504_adlai-scalpl) |
