@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #467 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-10 |
+| #468 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -534,3 +534,4 @@ Or let GitHub Action run it automatically.
 | 465 | 2025-11-10 06:29:47 | [gzbin365/map](https://github.com/gzbin365/map) | ✅ shallow (62⭐ None) | [reels/reel_0465_gzbin365-map](reels/reel_0465_gzbin365-map) |
 | 466 | 2025-11-10 06:53:53 | [crow1874/CF-DNS-Clone](https://github.com/crow1874/CF-DNS-Clone) | ✅ full (206⭐ JavaScript) | [reels/reel_0466_crow1874-CF-DNS-Clone](reels/reel_0466_crow1874-CF-DNS-Clone) |
 | 467 | 2025-11-10 07:18:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99379⭐ TypeScript) | [reels/reel_0467_shadcn-ui-ui](reels/reel_0467_shadcn-ui-ui) |
+| 468 | 2025-11-10 07:38:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107742⭐ Rust) | [reels/reel_0468_rust-lang-rust](reels/reel_0468_rust-lang-rust) |
