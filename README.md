@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #468 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-10 |
+| #469 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -535,3 +535,4 @@ Or let GitHub Action run it automatically.
 | 466 | 2025-11-10 06:53:53 | [crow1874/CF-DNS-Clone](https://github.com/crow1874/CF-DNS-Clone) | ✅ full (206⭐ JavaScript) | [reels/reel_0466_crow1874-CF-DNS-Clone](reels/reel_0466_crow1874-CF-DNS-Clone) |
 | 467 | 2025-11-10 07:18:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99379⭐ TypeScript) | [reels/reel_0467_shadcn-ui-ui](reels/reel_0467_shadcn-ui-ui) |
 | 468 | 2025-11-10 07:38:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107742⭐ Rust) | [reels/reel_0468_rust-lang-rust](reels/reel_0468_rust-lang-rust) |
+| 469 | 2025-11-10 07:49:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119292⭐ Python) | [reels/reel_0469_langchain-ai-langchain](reels/reel_0469_langchain-ai-langchain) |
