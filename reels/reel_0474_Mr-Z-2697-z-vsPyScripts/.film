@@ -1,0 +1,24 @@
+{
+  "reel_number": 474,
+  "recorded": "2025-11-10 09:54:39 UTC",
+  "repository": {
+    "full_name": "Mr-Z-2697/z-vsPyScripts",
+    "url": "https://github.com/Mr-Z-2697/z-vsPyScripts",
+    "clone_url": "https://github.com/Mr-Z-2697/z-vsPyScripts.git",
+    "stars": 12,
+    "language": "Python",
+    "size_kb": 618
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.65304
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 12 stars."
+  }
+}
