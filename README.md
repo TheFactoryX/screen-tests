@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #458 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-10 |
+| #459 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -525,3 +525,4 @@ Or let GitHub Action run it automatically.
 | 456 | 2025-11-09 23:50:22 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (237⭐ None) | [reels/reel_0456_hello-world-1989-cn-news](reels/reel_0456_hello-world-1989-cn-news) |
 | 457 | 2025-11-10 01:25:37 | [processing/processing4](https://github.com/processing/processing4) | ✅ shallow (261⭐ Java) | [reels/reel_0457_processing-processing4](reels/reel_0457_processing-processing4) |
 | 458 | 2025-11-10 03:05:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257245⭐ None) | [reels/reel_0458_awesome-selfhosted-awesome-selfhosted](reels/reel_0458_awesome-selfhosted-awesome-selfhosted) |
+| 459 | 2025-11-10 03:56:53 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96573⭐ TypeScript) | [reels/reel_0459_ant-design-ant-design](reels/reel_0459_ant-design-ant-design) |
