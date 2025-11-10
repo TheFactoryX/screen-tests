@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #506 | [mongodb/docs](https://github.com/mongodb/docs) | Kotlin · ⭐ 758 | 2025-11-10 |
+| #507 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 377k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -573,3 +573,4 @@ Or let GitHub Action run it automatically.
 | 504 | 2025-11-10 21:39:03 | [adlai/scalpl](https://github.com/adlai/scalpl) | ✅ full (62⭐ Common Lisp) | [reels/reel_0504_adlai-scalpl](reels/reel_0504_adlai-scalpl) |
 | 505 | 2025-11-10 21:50:28 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99444⭐ TypeScript) | [reels/reel_0505_shadcn-ui-ui](reels/reel_0505_shadcn-ui-ui) |
 | 506 | 2025-11-10 22:17:41 | [mongodb/docs](https://github.com/mongodb/docs) | ✅ readme_only (758⭐ Kotlin) | [reels/reel_0506_mongodb-docs](reels/reel_0506_mongodb-docs) |
+| 507 | 2025-11-10 22:41:33 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377619⭐ Python) | [reels/reel_0507_public-apis-public-apis](reels/reel_0507_public-apis-public-apis) |
