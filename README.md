@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #471 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-10 |
+| #472 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -538,3 +538,4 @@ Or let GitHub Action run it automatically.
 | 469 | 2025-11-10 07:49:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119292⭐ Python) | [reels/reel_0469_langchain-ai-langchain](reels/reel_0469_langchain-ai-langchain) |
 | 470 | 2025-11-10 08:26:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179578⭐ Python) | [reels/reel_0470_Significant-Gravitas-AutoGPT](reels/reel_0470_Significant-Gravitas-AutoGPT) |
 | 471 | 2025-11-10 08:49:56 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100101⭐ Shell) | [reels/reel_0471_papers-we-love-papers-we-love](reels/reel_0471_papers-we-love-papers-we-love) |
+| 472 | 2025-11-10 09:21:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257293⭐ None) | [reels/reel_0472_awesome-selfhosted-awesome-selfhosted](reels/reel_0472_awesome-selfhosted-awesome-selfhosted) |
