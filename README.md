@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #492 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-10 |
+| #493 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -559,3 +559,4 @@ Or let GitHub Action run it automatically.
 | 490 | 2025-11-10 16:49:31 | [SkBlaz/py3plex](https://github.com/SkBlaz/py3plex) | ✅ shallow (173⭐ Python) | [reels/reel_0490_SkBlaz-py3plex](reels/reel_0490_SkBlaz-py3plex) |
 | 491 | 2025-11-10 17:16:52 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (436750⭐ Markdown) | [reels/reel_0491_codecrafters-io-build-your-own-x](reels/reel_0491_codecrafters-io-build-your-own-x) |
 | 492 | 2025-11-10 17:38:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107757⭐ Rust) | [reels/reel_0492_rust-lang-rust](reels/reel_0492_rust-lang-rust) |
+| 493 | 2025-11-10 17:50:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137729⭐ Python) | [reels/reel_0493_langflow-ai-langflow](reels/reel_0493_langflow-ai-langflow) |
