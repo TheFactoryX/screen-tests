@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #508 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-10 |
+| #509 | [aterai/java-swing-tips](https://github.com/aterai/java-swing-tips) | None · ⭐ 606 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -575,3 +575,4 @@ Or let GitHub Action run it automatically.
 | 506 | 2025-11-10 22:17:41 | [mongodb/docs](https://github.com/mongodb/docs) | ✅ readme_only (758⭐ Kotlin) | [reels/reel_0506_mongodb-docs](reels/reel_0506_mongodb-docs) |
 | 507 | 2025-11-10 22:41:33 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (377619⭐ Python) | [reels/reel_0507_public-apis-public-apis](reels/reel_0507_public-apis-public-apis) |
 | 508 | 2025-11-10 22:51:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179602⭐ Python) | [reels/reel_0508_Significant-Gravitas-AutoGPT](reels/reel_0508_Significant-Gravitas-AutoGPT) |
+| 509 | 2025-11-10 23:17:09 | [aterai/java-swing-tips](https://github.com/aterai/java-swing-tips) | ✅ full (606⭐ None) | [reels/reel_0509_aterai-java-swing-tips](reels/reel_0509_aterai-java-swing-tips) |

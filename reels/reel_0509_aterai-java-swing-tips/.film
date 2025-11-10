@@ -1,0 +1,24 @@
+{
+  "reel_number": 509,
+  "recorded": "2025-11-10 23:17:09 UTC",
+  "repository": {
+    "full_name": "aterai/java-swing-tips",
+    "url": "https://github.com/aterai/java-swing-tips",
+    "clone_url": "https://github.com/aterai/java-swing-tips.git",
+    "stars": 606,
+    "language": null,
+    "size_kb": 67366
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 65,
+    "duration_seconds": 4.015764
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 606 stars."
+  }
+}
