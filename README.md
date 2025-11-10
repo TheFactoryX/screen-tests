@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #483 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 99k | 2025-11-10 |
+| #484 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -550,3 +550,4 @@ Or let GitHub Action run it automatically.
 | 481 | 2025-11-10 13:20:42 | [charmbracelet/x](https://github.com/charmbracelet/x) | ✅ full (246⭐ Go) | [reels/reel_0481_charmbracelet-x](reels/reel_0481_charmbracelet-x) |
 | 482 | 2025-11-10 13:47:48 | [clem9669/wordlists](https://github.com/clem9669/wordlists) | ✅ readme_only (302⭐ None) | [reels/reel_0482_clem9669-wordlists](reels/reel_0482_clem9669-wordlists) |
 | 483 | 2025-11-10 14:18:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99031⭐ TypeScript) | [reels/reel_0483_iptv-org-iptv](reels/reel_0483_iptv-org-iptv) |
+| 484 | 2025-11-10 14:44:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98735⭐ Rust) | [reels/reel_0484_tauri-apps-tauri](reels/reel_0484_tauri-apps-tauri) |
