@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #502 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-10 |
+| #503 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 114k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -569,3 +569,4 @@ Or let GitHub Action run it automatically.
 | 500 | 2025-11-10 20:21:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155256⭐ TypeScript) | [reels/reel_0500_n8n-io-n8n](reels/reel_0500_n8n-io-n8n) |
 | 501 | 2025-11-10 20:43:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98742⭐ Rust) | [reels/reel_0501_tauri-apps-tauri](reels/reel_0501_tauri-apps-tauri) |
 | 502 | 2025-11-10 20:54:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99441⭐ TypeScript) | [reels/reel_0502_shadcn-ui-ui](reels/reel_0502_shadcn-ui-ui) |
+| 503 | 2025-11-10 21:16:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114815⭐ JavaScript) | [reels/reel_0503_open-webui-open-webui](reels/reel_0503_open-webui-open-webui) |
