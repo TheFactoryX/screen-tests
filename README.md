@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #485 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-10 |
+| #486 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -552,3 +552,4 @@ Or let GitHub Action run it automatically.
 | 483 | 2025-11-10 14:18:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99031⭐ TypeScript) | [reels/reel_0483_iptv-org-iptv](reels/reel_0483_iptv-org-iptv) |
 | 484 | 2025-11-10 14:44:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98735⭐ Rust) | [reels/reel_0484_tauri-apps-tauri](reels/reel_0484_tauri-apps-tauri) |
 | 485 | 2025-11-10 14:54:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137714⭐ Python) | [reels/reel_0485_langflow-ai-langflow](reels/reel_0485_langflow-ai-langflow) |
+| 486 | 2025-11-10 15:20:23 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138719⭐ Python) | [reels/reel_0486_ytdl-org-youtube-dl](reels/reel_0486_ytdl-org-youtube-dl) |
