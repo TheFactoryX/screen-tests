@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #498 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-10 |
+| #499 | [miladtahanian/V2RayCFGDumper](https://github.com/miladtahanian/V2RayCFGDumper) | Python · ⭐ 127 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -565,3 +565,4 @@ Or let GitHub Action run it automatically.
 | 496 | 2025-11-10 19:14:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137736⭐ Python) | [reels/reel_0496_langflow-ai-langflow](reels/reel_0496_langflow-ai-langflow) |
 | 497 | 2025-11-10 19:28:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134479⭐ Python) | [reels/reel_0497_yt-dlp-yt-dlp](reels/reel_0497_yt-dlp-yt-dlp) |
 | 498 | 2025-11-10 19:40:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137736⭐ Python) | [reels/reel_0498_langflow-ai-langflow](reels/reel_0498_langflow-ai-langflow) |
+| 499 | 2025-11-10 19:50:25 | [miladtahanian/V2RayCFGDumper](https://github.com/miladtahanian/V2RayCFGDumper) | ✅ shallow (127⭐ Python) | [reels/reel_0499_miladtahanian-V2RayCFGDumper](reels/reel_0499_miladtahanian-V2RayCFGDumper) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 499,
+  "recorded": "2025-11-10 19:50:25 UTC",
+  "repository": {
+    "full_name": "miladtahanian/V2RayCFGDumper",
+    "url": "https://github.com/miladtahanian/V2RayCFGDumper",
+    "clone_url": "https://github.com/miladtahanian/V2RayCFGDumper.git",
+    "stars": 127,
+    "language": "Python",
+    "size_kb": 117519
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 114,
+    "duration_seconds": 0.210267
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 127 stars."
+  }
+}
