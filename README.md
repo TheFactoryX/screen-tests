@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #496 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-10 |
+| #497 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -563,3 +563,4 @@ Or let GitHub Action run it automatically.
 | 494 | 2025-11-10 18:26:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155243⭐ TypeScript) | [reels/reel_0494_n8n-io-n8n](reels/reel_0494_n8n-io-n8n) |
 | 495 | 2025-11-10 18:49:07 | [Azure/AgentBaker](https://github.com/Azure/AgentBaker) | ✅ shallow (131⭐ Go) | [reels/reel_0495_Azure-AgentBaker](reels/reel_0495_Azure-AgentBaker) |
 | 496 | 2025-11-10 19:14:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137736⭐ Python) | [reels/reel_0496_langflow-ai-langflow](reels/reel_0496_langflow-ai-langflow) |
+| 497 | 2025-11-10 19:28:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134479⭐ Python) | [reels/reel_0497_yt-dlp-yt-dlp](reels/reel_0497_yt-dlp-yt-dlp) |
