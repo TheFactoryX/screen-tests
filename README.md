@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #474 | [Mr-Z-2697/z-vsPyScripts](https://github.com/Mr-Z-2697/z-vsPyScripts) | Python · ⭐ 12 | 2025-11-10 |
+| #475 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -541,3 +541,4 @@ Or let GitHub Action run it automatically.
 | 472 | 2025-11-10 09:21:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257293⭐ None) | [reels/reel_0472_awesome-selfhosted-awesome-selfhosted](reels/reel_0472_awesome-selfhosted-awesome-selfhosted) |
 | 473 | 2025-11-10 09:44:07 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100102⭐ Shell) | [reels/reel_0473_papers-we-love-papers-we-love](reels/reel_0473_papers-we-love-papers-we-love) |
 | 474 | 2025-11-10 09:54:39 | [Mr-Z-2697/z-vsPyScripts](https://github.com/Mr-Z-2697/z-vsPyScripts) | ✅ full (12⭐ Python) | [reels/reel_0474_Mr-Z-2697-z-vsPyScripts](reels/reel_0474_Mr-Z-2697-z-vsPyScripts) |
+| 475 | 2025-11-10 10:20:52 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119305⭐ Python) | [reels/reel_0475_langchain-ai-langchain](reels/reel_0475_langchain-ai-langchain) |
