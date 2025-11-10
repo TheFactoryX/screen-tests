@@ -1,0 +1,24 @@
+{
+  "reel_number": 477,
+  "recorded": "2025-11-10 11:15:56 UTC",
+  "repository": {
+    "full_name": "ProbiusOfficial/Hello-CTFtime",
+    "url": "https://github.com/ProbiusOfficial/Hello-CTFtime",
+    "clone_url": "https://github.com/ProbiusOfficial/Hello-CTFtime.git",
+    "stars": 152,
+    "language": "Python",
+    "size_kb": 39810
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 38,
+    "duration_seconds": 3.978204
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 152 stars."
+  }
+}

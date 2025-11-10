@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #476 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-10 |
+| #477 | [ProbiusOfficial/Hello-CTFtime](https://github.com/ProbiusOfficial/Hello-CTFtime) | Python · ⭐ 152 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -543,3 +543,4 @@ Or let GitHub Action run it automatically.
 | 474 | 2025-11-10 09:54:39 | [Mr-Z-2697/z-vsPyScripts](https://github.com/Mr-Z-2697/z-vsPyScripts) | ✅ full (12⭐ Python) | [reels/reel_0474_Mr-Z-2697-z-vsPyScripts](reels/reel_0474_Mr-Z-2697-z-vsPyScripts) |
 | 475 | 2025-11-10 10:20:52 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119305⭐ Python) | [reels/reel_0475_langchain-ai-langchain](reels/reel_0475_langchain-ai-langchain) |
 | 476 | 2025-11-10 10:45:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99395⭐ TypeScript) | [reels/reel_0476_shadcn-ui-ui](reels/reel_0476_shadcn-ui-ui) |
+| 477 | 2025-11-10 11:15:56 | [ProbiusOfficial/Hello-CTFtime](https://github.com/ProbiusOfficial/Hello-CTFtime) | ✅ full (152⭐ Python) | [reels/reel_0477_ProbiusOfficial-Hello-CTFtime](reels/reel_0477_ProbiusOfficial-Hello-CTFtime) |
