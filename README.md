@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #477 | [ProbiusOfficial/Hello-CTFtime](https://github.com/ProbiusOfficial/Hello-CTFtime) | Python · ⭐ 152 | 2025-11-10 |
+| #478 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -544,3 +544,4 @@ Or let GitHub Action run it automatically.
 | 475 | 2025-11-10 10:20:52 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119305⭐ Python) | [reels/reel_0475_langchain-ai-langchain](reels/reel_0475_langchain-ai-langchain) |
 | 476 | 2025-11-10 10:45:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99395⭐ TypeScript) | [reels/reel_0476_shadcn-ui-ui](reels/reel_0476_shadcn-ui-ui) |
 | 477 | 2025-11-10 11:15:56 | [ProbiusOfficial/Hello-CTFtime](https://github.com/ProbiusOfficial/Hello-CTFtime) | ✅ full (152⭐ Python) | [reels/reel_0477_ProbiusOfficial-Hello-CTFtime](reels/reel_0477_ProbiusOfficial-Hello-CTFtime) |
+| 478 | 2025-11-10 11:37:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179587⭐ Python) | [reels/reel_0478_Significant-Gravitas-AutoGPT](reels/reel_0478_Significant-Gravitas-AutoGPT) |
