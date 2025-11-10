@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #461 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-10 |
+| #462 | [Universal-Team/db](https://github.com/Universal-Team/db) | Python · ⭐ 164 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -528,3 +528,4 @@ Or let GitHub Action run it automatically.
 | 459 | 2025-11-10 03:56:53 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96573⭐ TypeScript) | [reels/reel_0459_ant-design-ant-design](reels/reel_0459_ant-design-ant-design) |
 | 460 | 2025-11-10 04:28:50 | [no-defun-allowed/wasm2ps](https://github.com/no-defun-allowed/wasm2ps) | ✅ full (68⭐ Common Lisp) | [reels/reel_0460_no-defun-allowed-wasm2ps](reels/reel_0460_no-defun-allowed-wasm2ps) |
 | 461 | 2025-11-10 04:48:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257259⭐ None) | [reels/reel_0461_awesome-selfhosted-awesome-selfhosted](reels/reel_0461_awesome-selfhosted-awesome-selfhosted) |
+| 462 | 2025-11-10 05:18:59 | [Universal-Team/db](https://github.com/Universal-Team/db) | ✅ shallow (164⭐ Python) | [reels/reel_0462_Universal-Team-db](reels/reel_0462_Universal-Team-db) |
