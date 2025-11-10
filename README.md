@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #500 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 155k | 2025-11-10 |
+| #501 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -567,3 +567,4 @@ Or let GitHub Action run it automatically.
 | 498 | 2025-11-10 19:40:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137736⭐ Python) | [reels/reel_0498_langflow-ai-langflow](reels/reel_0498_langflow-ai-langflow) |
 | 499 | 2025-11-10 19:50:25 | [miladtahanian/V2RayCFGDumper](https://github.com/miladtahanian/V2RayCFGDumper) | ✅ shallow (127⭐ Python) | [reels/reel_0499_miladtahanian-V2RayCFGDumper](reels/reel_0499_miladtahanian-V2RayCFGDumper) |
 | 500 | 2025-11-10 20:21:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155256⭐ TypeScript) | [reels/reel_0500_n8n-io-n8n](reels/reel_0500_n8n-io-n8n) |
+| 501 | 2025-11-10 20:43:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98742⭐ Rust) | [reels/reel_0501_tauri-apps-tauri](reels/reel_0501_tauri-apps-tauri) |
