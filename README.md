@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #459 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-10 |
+| #460 | [no-defun-allowed/wasm2ps](https://github.com/no-defun-allowed/wasm2ps) | Common Lisp · ⭐ 68 | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -526,3 +526,4 @@ Or let GitHub Action run it automatically.
 | 457 | 2025-11-10 01:25:37 | [processing/processing4](https://github.com/processing/processing4) | ✅ shallow (261⭐ Java) | [reels/reel_0457_processing-processing4](reels/reel_0457_processing-processing4) |
 | 458 | 2025-11-10 03:05:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257245⭐ None) | [reels/reel_0458_awesome-selfhosted-awesome-selfhosted](reels/reel_0458_awesome-selfhosted-awesome-selfhosted) |
 | 459 | 2025-11-10 03:56:53 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96573⭐ TypeScript) | [reels/reel_0459_ant-design-ant-design](reels/reel_0459_ant-design-ant-design) |
+| 460 | 2025-11-10 04:28:50 | [no-defun-allowed/wasm2ps](https://github.com/no-defun-allowed/wasm2ps) | ✅ full (68⭐ Common Lisp) | [reels/reel_0460_no-defun-allowed-wasm2ps](reels/reel_0460_no-defun-allowed-wasm2ps) |
