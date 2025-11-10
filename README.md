@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #469 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-10 |
+| #470 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -536,3 +536,4 @@ Or let GitHub Action run it automatically.
 | 467 | 2025-11-10 07:18:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99379⭐ TypeScript) | [reels/reel_0467_shadcn-ui-ui](reels/reel_0467_shadcn-ui-ui) |
 | 468 | 2025-11-10 07:38:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107742⭐ Rust) | [reels/reel_0468_rust-lang-rust](reels/reel_0468_rust-lang-rust) |
 | 469 | 2025-11-10 07:49:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119292⭐ Python) | [reels/reel_0469_langchain-ai-langchain](reels/reel_0469_langchain-ai-langchain) |
+| 470 | 2025-11-10 08:26:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179578⭐ Python) | [reels/reel_0470_Significant-Gravitas-AutoGPT](reels/reel_0470_Significant-Gravitas-AutoGPT) |
