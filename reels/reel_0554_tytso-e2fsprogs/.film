@@ -1,0 +1,24 @@
+{
+  "reel_number": 554,
+  "recorded": "2025-11-11 19:40:38 UTC",
+  "repository": {
+    "full_name": "tytso/e2fsprogs",
+    "url": "https://github.com/tytso/e2fsprogs",
+    "clone_url": "https://github.com/tytso/e2fsprogs.git",
+    "stars": 431,
+    "language": "C",
+    "size_kb": 62848
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 61,
+    "duration_seconds": 6.206091
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 431 stars."
+  }
+}
