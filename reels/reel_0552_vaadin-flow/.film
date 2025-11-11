@@ -1,0 +1,24 @@
+{
+  "reel_number": 552,
+  "recorded": "2025-11-11 19:14:06 UTC",
+  "repository": {
+    "full_name": "vaadin/flow",
+    "url": "https://github.com/vaadin/flow",
+    "clone_url": "https://github.com/vaadin/flow.git",
+    "stars": 711,
+    "language": "Java",
+    "size_kb": 219134
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 213,
+    "duration_seconds": 1.683207
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 711 stars."
+  }
+}

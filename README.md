@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #551 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 99k | 2025-11-11 |
+| #552 | [vaadin/flow](https://github.com/vaadin/flow) | Java · ⭐ 711 | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -618,3 +618,4 @@ Or let GitHub Action run it automatically.
 | 549 | 2025-11-11 17:50:53 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179611⭐ Python) | [reels/reel_0549_Significant-Gravitas-AutoGPT](reels/reel_0549_Significant-Gravitas-AutoGPT) |
 | 550 | 2025-11-11 18:25:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (114916⭐ JavaScript) | [reels/reel_0550_open-webui-open-webui](reels/reel_0550_open-webui-open-webui) |
 | 551 | 2025-11-11 18:49:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99532⭐ TypeScript) | [reels/reel_0551_iptv-org-iptv](reels/reel_0551_iptv-org-iptv) |
+| 552 | 2025-11-11 19:14:06 | [vaadin/flow](https://github.com/vaadin/flow) | ✅ shallow (711⭐ Java) | [reels/reel_0552_vaadin-flow](reels/reel_0552_vaadin-flow) |
