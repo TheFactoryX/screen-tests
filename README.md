@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #558 | [mongodb-university/curriculum](https://github.com/mongodb-university/curriculum) | Python · ⭐ 35 | 2025-11-11 |
+| #559 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 100k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -625,3 +625,4 @@ Or let GitHub Action run it automatically.
 | 556 | 2025-11-11 20:19:42 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (437155⭐ Markdown) | [reels/reel_0556_codecrafters-io-build-your-own-x](reels/reel_0556_codecrafters-io-build-your-own-x) |
 | 557 | 2025-11-11 20:41:23 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138734⭐ Python) | [reels/reel_0557_ytdl-org-youtube-dl](reels/reel_0557_ytdl-org-youtube-dl) |
 | 558 | 2025-11-11 20:51:24 | [mongodb-university/curriculum](https://github.com/mongodb-university/curriculum) | ✅ full (35⭐ Python) | [reels/reel_0558_mongodb-university-curriculum](reels/reel_0558_mongodb-university-curriculum) |
+| 559 | 2025-11-11 21:16:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100518⭐ None) | [reels/reel_0559_Hack-with-Github-Awesome-Hacking](reels/reel_0559_Hack-with-Github-Awesome-Hacking) |
