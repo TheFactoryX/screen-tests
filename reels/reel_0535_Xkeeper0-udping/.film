@@ -1,0 +1,24 @@
+{
+  "reel_number": 535,
+  "recorded": "2025-11-11 11:50:08 UTC",
+  "repository": {
+    "full_name": "Xkeeper0/udping",
+    "url": "https://github.com/Xkeeper0/udping",
+    "clone_url": "https://github.com/Xkeeper0/udping.git",
+    "stars": 25,
+    "language": "Lua",
+    "size_kb": 3238
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.72483
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 25 stars."
+  }
+}

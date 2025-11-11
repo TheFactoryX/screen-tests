@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #534 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 99k | 2025-11-11 |
+| #535 | [Xkeeper0/udping](https://github.com/Xkeeper0/udping) | Lua · ⭐ 25 | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -601,3 +601,4 @@ Or let GitHub Action run it automatically.
 | 532 | 2025-11-11 10:45:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257487⭐ None) | [reels/reel_0532_awesome-selfhosted-awesome-selfhosted](reels/reel_0532_awesome-selfhosted-awesome-selfhosted) |
 | 533 | 2025-11-11 11:16:13 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (436997⭐ Markdown) | [reels/reel_0533_codecrafters-io-build-your-own-x](reels/reel_0533_codecrafters-io-build-your-own-x) |
 | 534 | 2025-11-11 11:38:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99415⭐ TypeScript) | [reels/reel_0534_iptv-org-iptv](reels/reel_0534_iptv-org-iptv) |
+| 535 | 2025-11-11 11:50:08 | [Xkeeper0/udping](https://github.com/Xkeeper0/udping) | ✅ full (25⭐ Lua) | [reels/reel_0535_Xkeeper0-udping](reels/reel_0535_Xkeeper0-udping) |
