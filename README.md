@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #546 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-11 |
+| #547 | [flightctl/flightctl](https://github.com/flightctl/flightctl) | Go · ⭐ 109 | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -613,3 +613,4 @@ Or let GitHub Action run it automatically.
 | 544 | 2025-11-11 15:52:58 | [ALIILAPRO/v2rayNG-Config](https://github.com/ALIILAPRO/v2rayNG-Config) | ✅ full (260⭐ HTML) | [reels/reel_0544_ALIILAPRO-v2rayNG-Config](reels/reel_0544_ALIILAPRO-v2rayNG-Config) |
 | 545 | 2025-11-11 16:23:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107770⭐ Rust) | [reels/reel_0545_rust-lang-rust](reels/reel_0545_rust-lang-rust) |
 | 546 | 2025-11-11 16:48:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179611⭐ Python) | [reels/reel_0546_Significant-Gravitas-AutoGPT](reels/reel_0546_Significant-Gravitas-AutoGPT) |
+| 547 | 2025-11-11 17:16:22 | [flightctl/flightctl](https://github.com/flightctl/flightctl) | ✅ full (109⭐ Go) | [reels/reel_0547_flightctl-flightctl](reels/reel_0547_flightctl-flightctl) |

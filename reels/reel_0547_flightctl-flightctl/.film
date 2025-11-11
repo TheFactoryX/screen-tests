@@ -1,0 +1,24 @@
+{
+  "reel_number": 547,
+  "recorded": "2025-11-11 17:16:22 UTC",
+  "repository": {
+    "full_name": "flightctl/flightctl",
+    "url": "https://github.com/flightctl/flightctl",
+    "clone_url": "https://github.com/flightctl/flightctl.git",
+    "stars": 109,
+    "language": "Go",
+    "size_kb": 22981
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 22,
+    "duration_seconds": 1.517248
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 109 stars."
+  }
+}
