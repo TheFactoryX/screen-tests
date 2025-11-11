@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #539 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-11 |
+| #540 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -606,3 +606,4 @@ Or let GitHub Action run it automatically.
 | 537 | 2025-11-11 13:20:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179607⭐ Python) | [reels/reel_0537_Significant-Gravitas-AutoGPT](reels/reel_0537_Significant-Gravitas-AutoGPT) |
 | 538 | 2025-11-11 13:46:45 | [livekit/agents-playground](https://github.com/livekit/agents-playground) | ✅ full (318⭐ TypeScript) | [reels/reel_0538_livekit-agents-playground](reels/reel_0538_livekit-agents-playground) |
 | 539 | 2025-11-11 14:18:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96592⭐ TypeScript) | [reels/reel_0539_ant-design-ant-design](reels/reel_0539_ant-design-ant-design) |
+| 540 | 2025-11-11 14:43:56 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99496⭐ TypeScript) | [reels/reel_0540_shadcn-ui-ui](reels/reel_0540_shadcn-ui-ui) |
