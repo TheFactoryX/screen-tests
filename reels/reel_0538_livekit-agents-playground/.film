@@ -1,0 +1,24 @@
+{
+  "reel_number": 538,
+  "recorded": "2025-11-11 13:46:45 UTC",
+  "repository": {
+    "full_name": "livekit/agents-playground",
+    "url": "https://github.com/livekit/agents-playground",
+    "clone_url": "https://github.com/livekit/agents-playground.git",
+    "stars": 318,
+    "language": "TypeScript",
+    "size_kb": 1203
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.733875
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 318 stars."
+  }
+}
