@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #526 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-11 |
+| #527 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | JavaScript · ⭐ 94k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -593,3 +593,4 @@ Or let GitHub Action run it automatically.
 | 524 | 2025-11-11 07:39:44 | [Deltares/Wflow.jl](https://github.com/Deltares/Wflow.jl) | ✅ full (142⭐ Julia) | [reels/reel_0524_Deltares-Wflow.jl](reels/reel_0524_Deltares-Wflow.jl) |
 | 525 | 2025-11-11 07:49:47 | [EnzymeAD/Enzyme-JAX](https://github.com/EnzymeAD/Enzyme-JAX) | ✅ full (101⭐ MLIR) | [reels/reel_0525_EnzymeAD-Enzyme-JAX](reels/reel_0525_EnzymeAD-Enzyme-JAX) |
 | 526 | 2025-11-11 08:24:31 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98758⭐ Rust) | [reels/reel_0526_tauri-apps-tauri](reels/reel_0526_tauri-apps-tauri) |
+| 527 | 2025-11-11 08:48:02 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ✅ readme_only (94163⭐ JavaScript) | [reels/reel_0527_microsoft-Web-Dev-For-Beginners](reels/reel_0527_microsoft-Web-Dev-For-Beginners) |
