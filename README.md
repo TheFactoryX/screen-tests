@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #527 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | JavaScript · ⭐ 94k | 2025-11-11 |
+| #528 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -594,3 +594,4 @@ Or let GitHub Action run it automatically.
 | 525 | 2025-11-11 07:49:47 | [EnzymeAD/Enzyme-JAX](https://github.com/EnzymeAD/Enzyme-JAX) | ✅ full (101⭐ MLIR) | [reels/reel_0525_EnzymeAD-Enzyme-JAX](reels/reel_0525_EnzymeAD-Enzyme-JAX) |
 | 526 | 2025-11-11 08:24:31 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98758⭐ Rust) | [reels/reel_0526_tauri-apps-tauri](reels/reel_0526_tauri-apps-tauri) |
 | 527 | 2025-11-11 08:48:02 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ✅ readme_only (94163⭐ JavaScript) | [reels/reel_0527_microsoft-Web-Dev-For-Beginners](reels/reel_0527_microsoft-Web-Dev-For-Beginners) |
+| 528 | 2025-11-11 09:20:31 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249522⭐ None) | [reels/reel_0528_practical-tutorials-project-based-learning](reels/reel_0528_practical-tutorials-project-based-learning) |
