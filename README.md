@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #523 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-11 |
+| #524 | [Deltares/Wflow.jl](https://github.com/Deltares/Wflow.jl) | Julia · ⭐ 142 | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -590,3 +590,4 @@ Or let GitHub Action run it automatically.
 | 521 | 2025-11-11 06:28:15 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99296⭐ TypeScript) | [reels/reel_0521_iptv-org-iptv](reels/reel_0521_iptv-org-iptv) |
 | 522 | 2025-11-11 06:53:25 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134513⭐ Python) | [reels/reel_0522_yt-dlp-yt-dlp](reels/reel_0522_yt-dlp-yt-dlp) |
 | 523 | 2025-11-11 07:18:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137786⭐ Python) | [reels/reel_0523_langflow-ai-langflow](reels/reel_0523_langflow-ai-langflow) |
+| 524 | 2025-11-11 07:39:44 | [Deltares/Wflow.jl](https://github.com/Deltares/Wflow.jl) | ✅ full (142⭐ Julia) | [reels/reel_0524_Deltares-Wflow.jl](reels/reel_0524_Deltares-Wflow.jl) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 524,
+  "recorded": "2025-11-11 07:39:44 UTC",
+  "repository": {
+    "full_name": "Deltares/Wflow.jl",
+    "url": "https://github.com/Deltares/Wflow.jl",
+    "clone_url": "https://github.com/Deltares/Wflow.jl.git",
+    "stars": 142,
+    "language": "Julia",
+    "size_kb": 39894
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 38,
+    "duration_seconds": 3.522418
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Julia",
+    "director_note": "A Julia repository. 142 stars."
+  }
+}
