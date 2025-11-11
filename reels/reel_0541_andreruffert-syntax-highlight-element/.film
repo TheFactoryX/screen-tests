@@ -1,0 +1,24 @@
+{
+  "reel_number": 541,
+  "recorded": "2025-11-11 14:54:19 UTC",
+  "repository": {
+    "full_name": "andreruffert/syntax-highlight-element",
+    "url": "https://github.com/andreruffert/syntax-highlight-element",
+    "clone_url": "https://github.com/andreruffert/syntax-highlight-element.git",
+    "stars": 581,
+    "language": "JavaScript",
+    "size_kb": 1672
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.178434
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 581 stars."
+  }
+}
