@@ -1,0 +1,24 @@
+{
+  "reel_number": 518,
+  "recorded": "2025-11-11 05:19:20 UTC",
+  "repository": {
+    "full_name": "iiecho1/hot_searches_for_apps",
+    "url": "https://github.com/iiecho1/hot_searches_for_apps",
+    "clone_url": "https://github.com/iiecho1/hot_searches_for_apps.git",
+    "stars": 321,
+    "language": "Python",
+    "size_kb": 274885
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 268,
+    "duration_seconds": 14.062925
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 321 stars."
+  }
+}

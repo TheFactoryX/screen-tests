@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #517 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-11 |
+| #518 | [iiecho1/hot_searches_for_apps](https://github.com/iiecho1/hot_searches_for_apps) | Python · ⭐ 321 | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -584,3 +584,4 @@ Or let GitHub Action run it automatically.
 | 515 | 2025-11-11 04:22:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119347⭐ Python) | [reels/reel_0515_langchain-ai-langchain](reels/reel_0515_langchain-ai-langchain) |
 | 516 | 2025-11-11 04:45:00 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | ✅ full (1798⭐ Python) | [reels/reel_0516_OpenBMB-UltraRAG](reels/reel_0516_OpenBMB-UltraRAG) |
 | 517 | 2025-11-11 04:55:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257451⭐ None) | [reels/reel_0517_awesome-selfhosted-awesome-selfhosted](reels/reel_0517_awesome-selfhosted-awesome-selfhosted) |
+| 518 | 2025-11-11 05:19:20 | [iiecho1/hot_searches_for_apps](https://github.com/iiecho1/hot_searches_for_apps) | ✅ shallow (321⭐ Python) | [reels/reel_0518_iiecho1-hot_searches_for_apps](reels/reel_0518_iiecho1-hot_searches_for_apps) |
