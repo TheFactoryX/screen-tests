@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #522 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-11 |
+| #523 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -589,3 +589,4 @@ Or let GitHub Action run it automatically.
 | 520 | 2025-11-11 05:52:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257457⭐ None) | [reels/reel_0520_awesome-selfhosted-awesome-selfhosted](reels/reel_0520_awesome-selfhosted-awesome-selfhosted) |
 | 521 | 2025-11-11 06:28:15 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99296⭐ TypeScript) | [reels/reel_0521_iptv-org-iptv](reels/reel_0521_iptv-org-iptv) |
 | 522 | 2025-11-11 06:53:25 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134513⭐ Python) | [reels/reel_0522_yt-dlp-yt-dlp](reels/reel_0522_yt-dlp-yt-dlp) |
+| 523 | 2025-11-11 07:18:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137786⭐ Python) | [reels/reel_0523_langflow-ai-langflow](reels/reel_0523_langflow-ai-langflow) |
