@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #543 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-11 |
+| #544 | [ALIILAPRO/v2rayNG-Config](https://github.com/ALIILAPRO/v2rayNG-Config) | HTML · ⭐ 260 | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -610,3 +610,4 @@ Or let GitHub Action run it automatically.
 | 541 | 2025-11-11 14:54:19 | [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element) | ✅ full (581⭐ JavaScript) | [reels/reel_0541_andreruffert-syntax-highlight-element](reels/reel_0541_andreruffert-syntax-highlight-element) |
 | 542 | 2025-11-11 15:19:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119403⭐ Python) | [reels/reel_0542_langchain-ai-langchain](reels/reel_0542_langchain-ai-langchain) |
 | 543 | 2025-11-11 15:42:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119403⭐ Python) | [reels/reel_0543_langchain-ai-langchain](reels/reel_0543_langchain-ai-langchain) |
+| 544 | 2025-11-11 15:52:58 | [ALIILAPRO/v2rayNG-Config](https://github.com/ALIILAPRO/v2rayNG-Config) | ✅ full (260⭐ HTML) | [reels/reel_0544_ALIILAPRO-v2rayNG-Config](reels/reel_0544_ALIILAPRO-v2rayNG-Config) |

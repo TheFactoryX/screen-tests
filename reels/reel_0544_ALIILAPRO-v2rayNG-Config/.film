@@ -1,0 +1,24 @@
+{
+  "reel_number": 544,
+  "recorded": "2025-11-11 15:52:58 UTC",
+  "repository": {
+    "full_name": "ALIILAPRO/v2rayNG-Config",
+    "url": "https://github.com/ALIILAPRO/v2rayNG-Config",
+    "clone_url": "https://github.com/ALIILAPRO/v2rayNG-Config.git",
+    "stars": 260,
+    "language": "HTML",
+    "size_kb": 53442
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 52,
+    "duration_seconds": 3.397567
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 260 stars."
+  }
+}
