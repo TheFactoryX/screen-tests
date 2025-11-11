@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #559 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 100k | 2025-11-11 |
+| #560 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 99k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -626,3 +626,4 @@ Or let GitHub Action run it automatically.
 | 557 | 2025-11-11 20:41:23 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138734⭐ Python) | [reels/reel_0557_ytdl-org-youtube-dl](reels/reel_0557_ytdl-org-youtube-dl) |
 | 558 | 2025-11-11 20:51:24 | [mongodb-university/curriculum](https://github.com/mongodb-university/curriculum) | ✅ full (35⭐ Python) | [reels/reel_0558_mongodb-university-curriculum](reels/reel_0558_mongodb-university-curriculum) |
 | 559 | 2025-11-11 21:16:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100518⭐ None) | [reels/reel_0559_Hack-with-Github-Awesome-Hacking](reels/reel_0559_Hack-with-Github-Awesome-Hacking) |
+| 560 | 2025-11-11 21:38:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99545⭐ TypeScript) | [reels/reel_0560_iptv-org-iptv](reels/reel_0560_iptv-org-iptv) |
