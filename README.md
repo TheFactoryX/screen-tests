@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #566 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-11 |
+| #567 | [tendenci/tendenci](https://github.com/tendenci/tendenci) | Python · ⭐ 535 | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -633,3 +633,4 @@ Or let GitHub Action run it automatically.
 | 564 | 2025-11-11 22:50:15 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99548⭐ TypeScript) | [reels/reel_0564_iptv-org-iptv](reels/reel_0564_iptv-org-iptv) |
 | 565 | 2025-11-11 23:16:27 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100523⭐ None) | [reels/reel_0565_Hack-with-Github-Awesome-Hacking](reels/reel_0565_Hack-with-Github-Awesome-Hacking) |
 | 566 | 2025-11-11 23:37:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107780⭐ Rust) | [reels/reel_0566_rust-lang-rust](reels/reel_0566_rust-lang-rust) |
+| 567 | 2025-11-11 23:50:04 | [tendenci/tendenci](https://github.com/tendenci/tendenci) | ✅ shallow (535⭐ Python) | [reels/reel_0567_tendenci-tendenci](reels/reel_0567_tendenci-tendenci) |
