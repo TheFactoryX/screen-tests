@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #513 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-11 |
+| #514 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -580,3 +580,4 @@ Or let GitHub Action run it automatically.
 | 511 | 2025-11-10 23:49:52 | [blopker/codebook](https://github.com/blopker/codebook) | ✅ full (425⭐ Rust) | [reels/reel_0511_blopker-codebook](reels/reel_0511_blopker-codebook) |
 | 512 | 2025-11-11 01:23:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137752⭐ Python) | [reels/reel_0512_langflow-ai-langflow](reels/reel_0512_langflow-ai-langflow) |
 | 513 | 2025-11-11 02:57:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179599⭐ Python) | [reels/reel_0513_Significant-Gravitas-AutoGPT](reels/reel_0513_Significant-Gravitas-AutoGPT) |
+| 514 | 2025-11-11 03:47:01 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179598⭐ Python) | [reels/reel_0514_Significant-Gravitas-AutoGPT](reels/reel_0514_Significant-Gravitas-AutoGPT) |
