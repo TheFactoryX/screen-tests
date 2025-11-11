@@ -1,0 +1,24 @@
+{
+  "reel_number": 519,
+  "recorded": "2025-11-11 05:42:05 UTC",
+  "repository": {
+    "full_name": "OpenIndiana/oi-userland",
+    "url": "https://github.com/OpenIndiana/oi-userland",
+    "clone_url": "https://github.com/OpenIndiana/oi-userland.git",
+    "stars": 247,
+    "language": "Makefile",
+    "size_kb": 260316
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 254,
+    "duration_seconds": 7.737896
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Makefile",
+    "director_note": "A Makefile repository. 247 stars."
+  }
+}
