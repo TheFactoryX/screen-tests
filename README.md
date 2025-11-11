@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #555 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-11 |
+| #556 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 437k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -622,3 +622,4 @@ Or let GitHub Action run it automatically.
 | 553 | 2025-11-11 19:28:44 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99518⭐ TypeScript) | [reels/reel_0553_shadcn-ui-ui](reels/reel_0553_shadcn-ui-ui) |
 | 554 | 2025-11-11 19:40:38 | [tytso/e2fsprogs](https://github.com/tytso/e2fsprogs) | ✅ full (431⭐ C) | [reels/reel_0554_tytso-e2fsprogs](reels/reel_0554_tytso-e2fsprogs) |
 | 555 | 2025-11-11 19:50:31 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249563⭐ None) | [reels/reel_0555_practical-tutorials-project-based-learning](reels/reel_0555_practical-tutorials-project-based-learning) |
+| 556 | 2025-11-11 20:19:42 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (437155⭐ Markdown) | [reels/reel_0556_codecrafters-io-build-your-own-x](reels/reel_0556_codecrafters-io-build-your-own-x) |
