@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #547 | [flightctl/flightctl](https://github.com/flightctl/flightctl) | Go · ⭐ 109 | 2025-11-11 |
+| #548 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -614,3 +614,4 @@ Or let GitHub Action run it automatically.
 | 545 | 2025-11-11 16:23:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107770⭐ Rust) | [reels/reel_0545_rust-lang-rust](reels/reel_0545_rust-lang-rust) |
 | 546 | 2025-11-11 16:48:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179611⭐ Python) | [reels/reel_0546_Significant-Gravitas-AutoGPT](reels/reel_0546_Significant-Gravitas-AutoGPT) |
 | 547 | 2025-11-11 17:16:22 | [flightctl/flightctl](https://github.com/flightctl/flightctl) | ✅ full (109⭐ Go) | [reels/reel_0547_flightctl-flightctl](reels/reel_0547_flightctl-flightctl) |
+| 548 | 2025-11-11 17:41:00 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137826⭐ Python) | [reels/reel_0548_langflow-ai-langflow](reels/reel_0548_langflow-ai-langflow) |
