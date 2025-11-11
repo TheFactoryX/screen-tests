@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #536 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-11 |
+| #537 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -603,3 +603,4 @@ Or let GitHub Action run it automatically.
 | 534 | 2025-11-11 11:38:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99415⭐ TypeScript) | [reels/reel_0534_iptv-org-iptv](reels/reel_0534_iptv-org-iptv) |
 | 535 | 2025-11-11 11:50:08 | [Xkeeper0/udping](https://github.com/Xkeeper0/udping) | ✅ full (25⭐ Lua) | [reels/reel_0535_Xkeeper0-udping](reels/reel_0535_Xkeeper0-udping) |
 | 536 | 2025-11-11 12:37:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107768⭐ Rust) | [reels/reel_0536_rust-lang-rust](reels/reel_0536_rust-lang-rust) |
+| 537 | 2025-11-11 13:20:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179607⭐ Python) | [reels/reel_0537_Significant-Gravitas-AutoGPT](reels/reel_0537_Significant-Gravitas-AutoGPT) |
