@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #544 | [ALIILAPRO/v2rayNG-Config](https://github.com/ALIILAPRO/v2rayNG-Config) | HTML · ⭐ 260 | 2025-11-11 |
+| #545 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -611,3 +611,4 @@ Or let GitHub Action run it automatically.
 | 542 | 2025-11-11 15:19:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119403⭐ Python) | [reels/reel_0542_langchain-ai-langchain](reels/reel_0542_langchain-ai-langchain) |
 | 543 | 2025-11-11 15:42:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119403⭐ Python) | [reels/reel_0543_langchain-ai-langchain](reels/reel_0543_langchain-ai-langchain) |
 | 544 | 2025-11-11 15:52:58 | [ALIILAPRO/v2rayNG-Config](https://github.com/ALIILAPRO/v2rayNG-Config) | ✅ full (260⭐ HTML) | [reels/reel_0544_ALIILAPRO-v2rayNG-Config](reels/reel_0544_ALIILAPRO-v2rayNG-Config) |
+| 545 | 2025-11-11 16:23:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107770⭐ Rust) | [reels/reel_0545_rust-lang-rust](reels/reel_0545_rust-lang-rust) |
