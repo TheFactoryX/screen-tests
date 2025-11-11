@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #529 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-11 |
+| #530 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -596,3 +596,4 @@ Or let GitHub Action run it automatically.
 | 527 | 2025-11-11 08:48:02 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | ✅ readme_only (94163⭐ JavaScript) | [reels/reel_0527_microsoft-Web-Dev-For-Beginners](reels/reel_0527_microsoft-Web-Dev-For-Beginners) |
 | 528 | 2025-11-11 09:20:31 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249522⭐ None) | [reels/reel_0528_practical-tutorials-project-based-learning](reels/reel_0528_practical-tutorials-project-based-learning) |
 | 529 | 2025-11-11 09:42:07 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119380⭐ Python) | [reels/reel_0529_langchain-ai-langchain](reels/reel_0529_langchain-ai-langchain) |
+| 530 | 2025-11-11 09:52:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257484⭐ None) | [reels/reel_0530_awesome-selfhosted-awesome-selfhosted](reels/reel_0530_awesome-selfhosted-awesome-selfhosted) |
