@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #519 | [OpenIndiana/oi-userland](https://github.com/OpenIndiana/oi-userland) | Makefile · ⭐ 247 | 2025-11-11 |
+| #520 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -586,3 +586,4 @@ Or let GitHub Action run it automatically.
 | 517 | 2025-11-11 04:55:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257451⭐ None) | [reels/reel_0517_awesome-selfhosted-awesome-selfhosted](reels/reel_0517_awesome-selfhosted-awesome-selfhosted) |
 | 518 | 2025-11-11 05:19:20 | [iiecho1/hot_searches_for_apps](https://github.com/iiecho1/hot_searches_for_apps) | ✅ shallow (321⭐ Python) | [reels/reel_0518_iiecho1-hot_searches_for_apps](reels/reel_0518_iiecho1-hot_searches_for_apps) |
 | 519 | 2025-11-11 05:42:05 | [OpenIndiana/oi-userland](https://github.com/OpenIndiana/oi-userland) | ✅ shallow (247⭐ Makefile) | [reels/reel_0519_OpenIndiana-oi-userland](reels/reel_0519_OpenIndiana-oi-userland) |
+| 520 | 2025-11-11 05:52:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257457⭐ None) | [reels/reel_0520_awesome-selfhosted-awesome-selfhosted](reels/reel_0520_awesome-selfhosted-awesome-selfhosted) |
