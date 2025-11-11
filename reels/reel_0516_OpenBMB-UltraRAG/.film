@@ -1,0 +1,24 @@
+{
+  "reel_number": 516,
+  "recorded": "2025-11-11 04:45:00 UTC",
+  "repository": {
+    "full_name": "OpenBMB/UltraRAG",
+    "url": "https://github.com/OpenBMB/UltraRAG",
+    "clone_url": "https://github.com/OpenBMB/UltraRAG.git",
+    "stars": 1798,
+    "language": "Python",
+    "size_kb": 45198
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 44,
+    "duration_seconds": 1.067026
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 1798 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #515 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-11 |
+| #516 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | Python · ⭐ 1k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -582,3 +582,4 @@ Or let GitHub Action run it automatically.
 | 513 | 2025-11-11 02:57:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179599⭐ Python) | [reels/reel_0513_Significant-Gravitas-AutoGPT](reels/reel_0513_Significant-Gravitas-AutoGPT) |
 | 514 | 2025-11-11 03:47:01 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179598⭐ Python) | [reels/reel_0514_Significant-Gravitas-AutoGPT](reels/reel_0514_Significant-Gravitas-AutoGPT) |
 | 515 | 2025-11-11 04:22:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119347⭐ Python) | [reels/reel_0515_langchain-ai-langchain](reels/reel_0515_langchain-ai-langchain) |
+| 516 | 2025-11-11 04:45:00 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | ✅ full (1798⭐ Python) | [reels/reel_0516_OpenBMB-UltraRAG](reels/reel_0516_OpenBMB-UltraRAG) |
