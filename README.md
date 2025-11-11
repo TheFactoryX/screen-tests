@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #525 | [EnzymeAD/Enzyme-JAX](https://github.com/EnzymeAD/Enzyme-JAX) | MLIR · ⭐ 101 | 2025-11-11 |
+| #526 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -592,3 +592,4 @@ Or let GitHub Action run it automatically.
 | 523 | 2025-11-11 07:18:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137786⭐ Python) | [reels/reel_0523_langflow-ai-langflow](reels/reel_0523_langflow-ai-langflow) |
 | 524 | 2025-11-11 07:39:44 | [Deltares/Wflow.jl](https://github.com/Deltares/Wflow.jl) | ✅ full (142⭐ Julia) | [reels/reel_0524_Deltares-Wflow.jl](reels/reel_0524_Deltares-Wflow.jl) |
 | 525 | 2025-11-11 07:49:47 | [EnzymeAD/Enzyme-JAX](https://github.com/EnzymeAD/Enzyme-JAX) | ✅ full (101⭐ MLIR) | [reels/reel_0525_EnzymeAD-Enzyme-JAX](reels/reel_0525_EnzymeAD-Enzyme-JAX) |
+| 526 | 2025-11-11 08:24:31 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98758⭐ Rust) | [reels/reel_0526_tauri-apps-tauri](reels/reel_0526_tauri-apps-tauri) |
