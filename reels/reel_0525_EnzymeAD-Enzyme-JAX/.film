@@ -1,0 +1,24 @@
+{
+  "reel_number": 525,
+  "recorded": "2025-11-11 07:49:47 UTC",
+  "repository": {
+    "full_name": "EnzymeAD/Enzyme-JAX",
+    "url": "https://github.com/EnzymeAD/Enzyme-JAX",
+    "clone_url": "https://github.com/EnzymeAD/Enzyme-JAX.git",
+    "stars": 101,
+    "language": "MLIR",
+    "size_kb": 9956
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 1.892618
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MLIR",
+    "director_note": "A MLIR repository. 101 stars."
+  }
+}
