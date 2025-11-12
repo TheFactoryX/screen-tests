@@ -1,0 +1,24 @@
+{
+  "reel_number": 610,
+  "recorded": "2025-11-12 19:41:40 UTC",
+  "repository": {
+    "full_name": "imRohan/Pantry",
+    "url": "https://github.com/imRohan/Pantry",
+    "clone_url": "https://github.com/imRohan/Pantry.git",
+    "stars": 149,
+    "language": "TypeScript",
+    "size_kb": 11314
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 2.2661
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 149 stars."
+  }
+}

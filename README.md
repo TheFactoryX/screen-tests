@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #609 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 437k | 2025-11-12 |
+| #610 | [imRohan/Pantry](https://github.com/imRohan/Pantry) | TypeScript · ⭐ 149 | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -676,3 +676,4 @@ Or let GitHub Action run it automatically.
 | 607 | 2025-11-12 18:48:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119499⭐ Python) | [reels/reel_0607_langchain-ai-langchain](reels/reel_0607_langchain-ai-langchain) |
 | 608 | 2025-11-12 19:15:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119501⭐ Python) | [reels/reel_0608_langchain-ai-langchain](reels/reel_0608_langchain-ai-langchain) |
 | 609 | 2025-11-12 19:29:36 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (437464⭐ Markdown) | [reels/reel_0609_codecrafters-io-build-your-own-x](reels/reel_0609_codecrafters-io-build-your-own-x) |
+| 610 | 2025-11-12 19:41:40 | [imRohan/Pantry](https://github.com/imRohan/Pantry) | ✅ full (149⭐ TypeScript) | [reels/reel_0610_imRohan-Pantry](reels/reel_0610_imRohan-Pantry) |
