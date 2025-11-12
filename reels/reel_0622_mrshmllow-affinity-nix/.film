@@ -1,0 +1,24 @@
+{
+  "reel_number": 622,
+  "recorded": "2025-11-12 23:38:48 UTC",
+  "repository": {
+    "full_name": "mrshmllow/affinity-nix",
+    "url": "https://github.com/mrshmllow/affinity-nix",
+    "clone_url": "https://github.com/mrshmllow/affinity-nix.git",
+    "stars": 202,
+    "language": "Nix",
+    "size_kb": 365
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.47792
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 202 stars."
+  }
+}
