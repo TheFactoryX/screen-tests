@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #603 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-12 |
+| #604 | [landley/toybox](https://github.com/landley/toybox) | C · ⭐ 2k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -670,3 +670,4 @@ Or let GitHub Action run it automatically.
 | 601 | 2025-11-12 16:30:30 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99658⭐ TypeScript) | [reels/reel_0601_iptv-org-iptv](reels/reel_0601_iptv-org-iptv) |
 | 602 | 2025-11-12 16:57:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257735⭐ None) | [reels/reel_0602_awesome-selfhosted-awesome-selfhosted](reels/reel_0602_awesome-selfhosted-awesome-selfhosted) |
 | 603 | 2025-11-12 17:22:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98809⭐ Rust) | [reels/reel_0603_tauri-apps-tauri](reels/reel_0603_tauri-apps-tauri) |
+| 604 | 2025-11-12 17:43:51 | [landley/toybox](https://github.com/landley/toybox) | ✅ full (2950⭐ C) | [reels/reel_0604_landley-toybox](reels/reel_0604_landley-toybox) |
