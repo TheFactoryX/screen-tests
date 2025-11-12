@@ -1,0 +1,24 @@
+{
+  "reel_number": 621,
+  "recorded": "2025-11-12 23:17:23 UTC",
+  "repository": {
+    "full_name": "Harbour-Enterprises/SuperDoc",
+    "url": "https://github.com/Harbour-Enterprises/SuperDoc",
+    "clone_url": "https://github.com/Harbour-Enterprises/SuperDoc.git",
+    "stars": 103,
+    "language": "JavaScript",
+    "size_kb": 178256
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 174,
+    "duration_seconds": 3.632502
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 103 stars."
+  }
+}
