@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #618 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-12 |
+| #619 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -685,3 +685,4 @@ Or let GitHub Action run it automatically.
 | 616 | 2025-11-12 21:38:40 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249670⭐ None) | [reels/reel_0616_practical-tutorials-project-based-learning](reels/reel_0616_practical-tutorials-project-based-learning) |
 | 617 | 2025-11-12 21:49:59 | [vkarpov15/thecodebarbarian.com](https://github.com/vkarpov15/thecodebarbarian.com) | ✅ full (125⭐ HTML) | [reels/reel_0617_vkarpov15-thecodebarbarian.com](reels/reel_0617_vkarpov15-thecodebarbarian.com) |
 | 618 | 2025-11-12 22:17:31 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119507⭐ Python) | [reels/reel_0618_langchain-ai-langchain](reels/reel_0618_langchain-ai-langchain) |
+| 619 | 2025-11-12 22:38:46 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249677⭐ None) | [reels/reel_0619_practical-tutorials-project-based-learning](reels/reel_0619_practical-tutorials-project-based-learning) |
