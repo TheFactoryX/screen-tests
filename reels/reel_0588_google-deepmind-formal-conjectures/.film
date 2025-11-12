@@ -1,0 +1,24 @@
+{
+  "reel_number": 588,
+  "recorded": "2025-11-12 10:46:45 UTC",
+  "repository": {
+    "full_name": "google-deepmind/formal-conjectures",
+    "url": "https://github.com/google-deepmind/formal-conjectures",
+    "clone_url": "https://github.com/google-deepmind/formal-conjectures.git",
+    "stars": 659,
+    "language": "Lean",
+    "size_kb": 1642
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.800429
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lean",
+    "director_note": "A Lean repository. 659 stars."
+  }
+}

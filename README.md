@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #587 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-12 |
+| #588 | [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures) | Lean · ⭐ 659 | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -654,3 +654,4 @@ Or let GitHub Action run it automatically.
 | 585 | 2025-11-12 09:42:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155623⭐ TypeScript) | [reels/reel_0585_n8n-io-n8n](reels/reel_0585_n8n-io-n8n) |
 | 586 | 2025-11-12 09:52:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257653⭐ None) | [reels/reel_0586_awesome-selfhosted-awesome-selfhosted](reels/reel_0586_awesome-selfhosted-awesome-selfhosted) |
 | 587 | 2025-11-12 10:20:52 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107793⭐ Rust) | [reels/reel_0587_rust-lang-rust](reels/reel_0587_rust-lang-rust) |
+| 588 | 2025-11-12 10:46:45 | [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures) | ✅ full (659⭐ Lean) | [reels/reel_0588_google-deepmind-formal-conjectures](reels/reel_0588_google-deepmind-formal-conjectures) |
