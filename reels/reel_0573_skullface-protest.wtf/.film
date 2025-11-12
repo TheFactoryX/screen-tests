@@ -1,0 +1,24 @@
+{
+  "reel_number": 573,
+  "recorded": "2025-11-12 04:53:28 UTC",
+  "repository": {
+    "full_name": "skullface/protest.wtf",
+    "url": "https://github.com/skullface/protest.wtf",
+    "clone_url": "https://github.com/skullface/protest.wtf.git",
+    "stars": 61,
+    "language": "HTML",
+    "size_kb": 1863
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.670914
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 61 stars."
+  }
+}

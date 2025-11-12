@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #572 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-12 |
+| #573 | [skullface/protest.wtf](https://github.com/skullface/protest.wtf) | HTML · ⭐ 61 | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -639,3 +639,4 @@ Or let GitHub Action run it automatically.
 | 570 | 2025-11-12 03:44:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134621⭐ Python) | [reels/reel_0570_yt-dlp-yt-dlp](reels/reel_0570_yt-dlp-yt-dlp) |
 | 571 | 2025-11-12 04:01:16 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96595⭐ TypeScript) | [reels/reel_0571_ant-design-ant-design](reels/reel_0571_ant-design-ant-design) |
 | 572 | 2025-11-12 04:36:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119445⭐ Python) | [reels/reel_0572_langchain-ai-langchain](reels/reel_0572_langchain-ai-langchain) |
+| 573 | 2025-11-12 04:53:28 | [skullface/protest.wtf](https://github.com/skullface/protest.wtf) | ✅ full (61⭐ HTML) | [reels/reel_0573_skullface-protest.wtf](reels/reel_0573_skullface-protest.wtf) |
