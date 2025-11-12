@@ -1,0 +1,24 @@
+{
+  "reel_number": 584,
+  "recorded": "2025-11-12 09:20:16 UTC",
+  "repository": {
+    "full_name": "CUBRID/cubrid",
+    "url": "https://github.com/CUBRID/cubrid",
+    "clone_url": "https://github.com/CUBRID/cubrid.git",
+    "stars": 285,
+    "language": "C",
+    "size_kb": 275135
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 268,
+    "duration_seconds": 3.861664
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 285 stars."
+  }
+}
