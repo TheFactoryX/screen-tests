@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #580 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | None · ⭐ 158k | 2025-11-12 |
+| #581 | [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) | None · ⭐ 2k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -647,3 +647,4 @@ Or let GitHub Action run it automatically.
 | 578 | 2025-11-12 06:53:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99551⭐ TypeScript) | [reels/reel_0578_shadcn-ui-ui](reels/reel_0578_shadcn-ui-ui) |
 | 579 | 2025-11-12 07:17:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99593⭐ TypeScript) | [reels/reel_0579_iptv-org-iptv](reels/reel_0579_iptv-org-iptv) |
 | 580 | 2025-11-12 07:39:47 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ✅ full (158745⭐ None) | [reels/reel_0580_jlevy-the-art-of-command-line](reels/reel_0580_jlevy-the-art-of-command-line) |
+| 581 | 2025-11-12 07:49:56 | [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) | ✅ full (2403⭐ None) | [reels/reel_0581_Yutong-Zhou-cv-Awesome-Text-to-Image](reels/reel_0581_Yutong-Zhou-cv-Awesome-Text-to-Image) |

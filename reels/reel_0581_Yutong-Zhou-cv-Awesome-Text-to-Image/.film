@@ -1,0 +1,24 @@
+{
+  "reel_number": 581,
+  "recorded": "2025-11-12 07:49:56 UTC",
+  "repository": {
+    "full_name": "Yutong-Zhou-cv/Awesome-Text-to-Image",
+    "url": "https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image",
+    "clone_url": "https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image.git",
+    "stars": 2403,
+    "language": null,
+    "size_kb": 72802
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 71,
+    "duration_seconds": 1.68015
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 2403 stars."
+  }
+}
