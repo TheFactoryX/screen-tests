@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #622 | [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) | Nix · ⭐ 202 | 2025-11-12 |
+| #623 | [pharmaverse/admiral](https://github.com/pharmaverse/admiral) | R · ⭐ 259 | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -689,3 +689,4 @@ Or let GitHub Action run it automatically.
 | 620 | 2025-11-12 22:49:54 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100189⭐ Shell) | [reels/reel_0620_papers-we-love-papers-we-love](reels/reel_0620_papers-we-love-papers-we-love) |
 | 621 | 2025-11-12 23:17:23 | [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) | ✅ shallow (103⭐ JavaScript) | [reels/reel_0621_Harbour-Enterprises-SuperDoc](reels/reel_0621_Harbour-Enterprises-SuperDoc) |
 | 622 | 2025-11-12 23:38:48 | [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) | ✅ full (202⭐ Nix) | [reels/reel_0622_mrshmllow-affinity-nix](reels/reel_0622_mrshmllow-affinity-nix) |
+| 623 | 2025-11-12 23:49:39 | [pharmaverse/admiral](https://github.com/pharmaverse/admiral) | ✅ shallow (259⭐ R) | [reels/reel_0623_pharmaverse-admiral](reels/reel_0623_pharmaverse-admiral) |
