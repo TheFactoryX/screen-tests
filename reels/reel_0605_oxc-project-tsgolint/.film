@@ -1,0 +1,24 @@
+{
+  "reel_number": 605,
+  "recorded": "2025-11-12 17:53:22 UTC",
+  "repository": {
+    "full_name": "oxc-project/tsgolint",
+    "url": "https://github.com/oxc-project/tsgolint",
+    "clone_url": "https://github.com/oxc-project/tsgolint.git",
+    "stars": 772,
+    "language": "Go",
+    "size_kb": 6314
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.427349
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 772 stars."
+  }
+}
