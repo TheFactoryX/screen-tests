@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #600 | [brick-a-brack/eagle-animation](https://github.com/brick-a-brack/eagle-animation) | JavaScript · ⭐ 49 | 2025-11-12 |
+| #601 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 99k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -667,3 +667,4 @@ Or let GitHub Action run it automatically.
 | 598 | 2025-11-12 15:23:21 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137930⭐ Python) | [reels/reel_0598_langflow-ai-langflow](reels/reel_0598_langflow-ai-langflow) |
 | 599 | 2025-11-12 15:44:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107802⭐ Rust) | [reels/reel_0599_rust-lang-rust](reels/reel_0599_rust-lang-rust) |
 | 600 | 2025-11-12 15:56:58 | [brick-a-brack/eagle-animation](https://github.com/brick-a-brack/eagle-animation) | ✅ full (49⭐ JavaScript) | [reels/reel_0600_brick-a-brack-eagle-animation](reels/reel_0600_brick-a-brack-eagle-animation) |
+| 601 | 2025-11-12 16:30:30 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99658⭐ TypeScript) | [reels/reel_0601_iptv-org-iptv](reels/reel_0601_iptv-org-iptv) |
