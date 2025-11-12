@@ -1,0 +1,24 @@
+{
+  "reel_number": 580,
+  "recorded": "2025-11-12 07:39:47 UTC",
+  "repository": {
+    "full_name": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "clone_url": "https://github.com/jlevy/the-art-of-command-line.git",
+    "stars": 158745,
+    "language": null,
+    "size_kb": 2772
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.337301
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 158745 stars."
+  }
+}
