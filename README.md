@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #606 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-12 |
+| #607 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -673,3 +673,4 @@ Or let GitHub Action run it automatically.
 | 604 | 2025-11-12 17:43:51 | [landley/toybox](https://github.com/landley/toybox) | ✅ full (2950⭐ C) | [reels/reel_0604_landley-toybox](reels/reel_0604_landley-toybox) |
 | 605 | 2025-11-12 17:53:22 | [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) | ✅ full (772⭐ Go) | [reels/reel_0605_oxc-project-tsgolint](reels/reel_0605_oxc-project-tsgolint) |
 | 606 | 2025-11-12 18:26:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107800⭐ Rust) | [reels/reel_0606_rust-lang-rust](reels/reel_0606_rust-lang-rust) |
+| 607 | 2025-11-12 18:48:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119499⭐ Python) | [reels/reel_0607_langchain-ai-langchain](reels/reel_0607_langchain-ai-langchain) |
