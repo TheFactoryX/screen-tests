@@ -1,0 +1,24 @@
+{
+  "reel_number": 617,
+  "recorded": "2025-11-12 21:49:59 UTC",
+  "repository": {
+    "full_name": "vkarpov15/thecodebarbarian.com",
+    "url": "https://github.com/vkarpov15/thecodebarbarian.com",
+    "clone_url": "https://github.com/vkarpov15/thecodebarbarian.com.git",
+    "stars": 125,
+    "language": "HTML",
+    "size_kb": 42670
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 41,
+    "duration_seconds": 2.064957
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 125 stars."
+  }
+}

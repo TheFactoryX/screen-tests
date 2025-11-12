@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #616 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-12 |
+| #617 | [vkarpov15/thecodebarbarian.com](https://github.com/vkarpov15/thecodebarbarian.com) | HTML · ⭐ 125 | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -683,3 +683,4 @@ Or let GitHub Action run it automatically.
 | 614 | 2025-11-12 20:52:03 | [arm/arm-toolchain](https://github.com/arm/arm-toolchain) | ✅ readme_only (147⭐ LLVM) | [reels/reel_0614_arm-arm-toolchain](reels/reel_0614_arm-arm-toolchain) |
 | 615 | 2025-11-12 21:17:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99693⭐ TypeScript) | [reels/reel_0615_iptv-org-iptv](reels/reel_0615_iptv-org-iptv) |
 | 616 | 2025-11-12 21:38:40 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249670⭐ None) | [reels/reel_0616_practical-tutorials-project-based-learning](reels/reel_0616_practical-tutorials-project-based-learning) |
+| 617 | 2025-11-12 21:49:59 | [vkarpov15/thecodebarbarian.com](https://github.com/vkarpov15/thecodebarbarian.com) | ✅ full (125⭐ HTML) | [reels/reel_0617_vkarpov15-thecodebarbarian.com](reels/reel_0617_vkarpov15-thecodebarbarian.com) |
