@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #605 | [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) | Go · ⭐ 772 | 2025-11-12 |
+| #606 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -672,3 +672,4 @@ Or let GitHub Action run it automatically.
 | 603 | 2025-11-12 17:22:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98809⭐ Rust) | [reels/reel_0603_tauri-apps-tauri](reels/reel_0603_tauri-apps-tauri) |
 | 604 | 2025-11-12 17:43:51 | [landley/toybox](https://github.com/landley/toybox) | ✅ full (2950⭐ C) | [reels/reel_0604_landley-toybox](reels/reel_0604_landley-toybox) |
 | 605 | 2025-11-12 17:53:22 | [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) | ✅ full (772⭐ Go) | [reels/reel_0605_oxc-project-tsgolint](reels/reel_0605_oxc-project-tsgolint) |
+| 606 | 2025-11-12 18:26:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107800⭐ Rust) | [reels/reel_0606_rust-lang-rust](reels/reel_0606_rust-lang-rust) |
