@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #599 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-12 |
+| #600 | [brick-a-brack/eagle-animation](https://github.com/brick-a-brack/eagle-animation) | JavaScript · ⭐ 49 | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -666,3 +666,4 @@ Or let GitHub Action run it automatically.
 | 597 | 2025-11-12 14:56:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115023⭐ JavaScript) | [reels/reel_0597_open-webui-open-webui](reels/reel_0597_open-webui-open-webui) |
 | 598 | 2025-11-12 15:23:21 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137930⭐ Python) | [reels/reel_0598_langflow-ai-langflow](reels/reel_0598_langflow-ai-langflow) |
 | 599 | 2025-11-12 15:44:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107802⭐ Rust) | [reels/reel_0599_rust-lang-rust](reels/reel_0599_rust-lang-rust) |
+| 600 | 2025-11-12 15:56:58 | [brick-a-brack/eagle-animation](https://github.com/brick-a-brack/eagle-animation) | ✅ full (49⭐ JavaScript) | [reels/reel_0600_brick-a-brack-eagle-animation](reels/reel_0600_brick-a-brack-eagle-animation) |
