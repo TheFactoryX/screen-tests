@@ -1,0 +1,24 @@
+{
+  "reel_number": 592,
+  "recorded": "2025-11-12 12:38:40 UTC",
+  "repository": {
+    "full_name": "ballerina-platform/ballerina-performance-cloud",
+    "url": "https://github.com/ballerina-platform/ballerina-performance-cloud",
+    "clone_url": "https://github.com/ballerina-platform/ballerina-performance-cloud.git",
+    "stars": 107,
+    "language": "Shell",
+    "size_kb": 61334
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 59,
+    "duration_seconds": 12.510646
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 107 stars."
+  }
+}

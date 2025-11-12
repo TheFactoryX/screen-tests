@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #591 | [JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-](https://github.com/JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-) | Jupyter Notebook · ⭐ 173 | 2025-11-12 |
+| #592 | [ballerina-platform/ballerina-performance-cloud](https://github.com/ballerina-platform/ballerina-performance-cloud) | Shell · ⭐ 107 | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -658,3 +658,4 @@ Or let GitHub Action run it automatically.
 | 589 | 2025-11-12 11:15:57 | [tigert1998/mytorch](https://github.com/tigert1998/mytorch) | ✅ full (36⭐ Python) | [reels/reel_0589_tigert1998-mytorch](reels/reel_0589_tigert1998-mytorch) |
 | 590 | 2025-11-12 11:38:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257670⭐ None) | [reels/reel_0590_awesome-selfhosted-awesome-selfhosted](reels/reel_0590_awesome-selfhosted-awesome-selfhosted) |
 | 591 | 2025-11-12 11:50:17 | [JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-](https://github.com/JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-) | ✅ full (173⭐ Jupyter Notebook) | [reels/reel_0591_JayabharathP-The-Python-Mega-Course-Build-10-Real-World-Applications-](reels/reel_0591_JayabharathP-The-Python-Mega-Course-Build-10-Real-World-Applications-) |
+| 592 | 2025-11-12 12:38:40 | [ballerina-platform/ballerina-performance-cloud](https://github.com/ballerina-platform/ballerina-performance-cloud) | ✅ full (107⭐ Shell) | [reels/reel_0592_ballerina-platform-ballerina-performance-cloud](reels/reel_0592_ballerina-platform-ballerina-performance-cloud) |
