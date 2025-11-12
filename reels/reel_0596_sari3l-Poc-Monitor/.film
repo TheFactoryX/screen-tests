@@ -1,0 +1,24 @@
+{
+  "reel_number": 596,
+  "recorded": "2025-11-12 14:45:19 UTC",
+  "repository": {
+    "full_name": "sari3l/Poc-Monitor",
+    "url": "https://github.com/sari3l/Poc-Monitor",
+    "clone_url": "https://github.com/sari3l/Poc-Monitor.git",
+    "stars": 377,
+    "language": "Go",
+    "size_kb": 359436
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 351,
+    "duration_seconds": 10.038423
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 377 stars."
+  }
+}
