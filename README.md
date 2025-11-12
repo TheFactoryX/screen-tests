@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #568 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 137k | 2025-11-12 |
+| #569 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -635,3 +635,4 @@ Or let GitHub Action run it automatically.
 | 566 | 2025-11-11 23:37:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107780⭐ Rust) | [reels/reel_0566_rust-lang-rust](reels/reel_0566_rust-lang-rust) |
 | 567 | 2025-11-11 23:50:04 | [tendenci/tendenci](https://github.com/tendenci/tendenci) | ✅ shallow (535⭐ Python) | [reels/reel_0567_tendenci-tendenci](reels/reel_0567_tendenci-tendenci) |
 | 568 | 2025-11-12 01:22:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (137851⭐ Python) | [reels/reel_0568_langflow-ai-langflow](reels/reel_0568_langflow-ai-langflow) |
+| 569 | 2025-11-12 02:56:04 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96594⭐ TypeScript) | [reels/reel_0569_ant-design-ant-design](reels/reel_0569_ant-design-ant-design) |
