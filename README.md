@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #593 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 99k | 2025-11-12 |
+| #594 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -660,3 +660,4 @@ Or let GitHub Action run it automatically.
 | 591 | 2025-11-12 11:50:17 | [JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-](https://github.com/JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-) | ✅ full (173⭐ Jupyter Notebook) | [reels/reel_0591_JayabharathP-The-Python-Mega-Course-Build-10-Real-World-Applications-](reels/reel_0591_JayabharathP-The-Python-Mega-Course-Build-10-Real-World-Applications-) |
 | 592 | 2025-11-12 12:38:40 | [ballerina-platform/ballerina-performance-cloud](https://github.com/ballerina-platform/ballerina-performance-cloud) | ✅ full (107⭐ Shell) | [reels/reel_0592_ballerina-platform-ballerina-performance-cloud](reels/reel_0592_ballerina-platform-ballerina-performance-cloud) |
 | 593 | 2025-11-12 13:22:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99622⭐ TypeScript) | [reels/reel_0593_iptv-org-iptv](reels/reel_0593_iptv-org-iptv) |
+| 594 | 2025-11-12 13:49:26 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96599⭐ TypeScript) | [reels/reel_0594_ant-design-ant-design](reels/reel_0594_ant-design-ant-design) |
