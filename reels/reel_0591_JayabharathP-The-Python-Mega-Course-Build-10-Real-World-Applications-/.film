@@ -1,0 +1,24 @@
+{
+  "reel_number": 591,
+  "recorded": "2025-11-12 11:50:17 UTC",
+  "repository": {
+    "full_name": "JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-",
+    "url": "https://github.com/JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-",
+    "clone_url": "https://github.com/JayabharathP/The-Python-Mega-Course-Build-10-Real-World-Applications-.git",
+    "stars": 173,
+    "language": "Jupyter Notebook",
+    "size_kb": 3450
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.607293
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 173 stars."
+  }
+}
