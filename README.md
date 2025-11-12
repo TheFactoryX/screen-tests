@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #596 | [sari3l/Poc-Monitor](https://github.com/sari3l/Poc-Monitor) | Go · ⭐ 377 | 2025-11-12 |
+| #597 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -663,3 +663,4 @@ Or let GitHub Action run it automatically.
 | 594 | 2025-11-12 13:49:26 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96599⭐ TypeScript) | [reels/reel_0594_ant-design-ant-design](reels/reel_0594_ant-design-ant-design) |
 | 595 | 2025-11-12 14:19:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107799⭐ Rust) | [reels/reel_0595_rust-lang-rust](reels/reel_0595_rust-lang-rust) |
 | 596 | 2025-11-12 14:45:19 | [sari3l/Poc-Monitor](https://github.com/sari3l/Poc-Monitor) | ✅ shallow (377⭐ Go) | [reels/reel_0596_sari3l-Poc-Monitor](reels/reel_0596_sari3l-Poc-Monitor) |
+| 597 | 2025-11-12 14:56:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115023⭐ JavaScript) | [reels/reel_0597_open-webui-open-webui](reels/reel_0597_open-webui-open-webui) |
