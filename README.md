@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #602 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-12 |
+| #603 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -669,3 +669,4 @@ Or let GitHub Action run it automatically.
 | 600 | 2025-11-12 15:56:58 | [brick-a-brack/eagle-animation](https://github.com/brick-a-brack/eagle-animation) | ✅ full (49⭐ JavaScript) | [reels/reel_0600_brick-a-brack-eagle-animation](reels/reel_0600_brick-a-brack-eagle-animation) |
 | 601 | 2025-11-12 16:30:30 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99658⭐ TypeScript) | [reels/reel_0601_iptv-org-iptv](reels/reel_0601_iptv-org-iptv) |
 | 602 | 2025-11-12 16:57:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257735⭐ None) | [reels/reel_0602_awesome-selfhosted-awesome-selfhosted](reels/reel_0602_awesome-selfhosted-awesome-selfhosted) |
+| 603 | 2025-11-12 17:22:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98809⭐ Rust) | [reels/reel_0603_tauri-apps-tauri](reels/reel_0603_tauri-apps-tauri) |
