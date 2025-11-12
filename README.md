@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #589 | [tigert1998/mytorch](https://github.com/tigert1998/mytorch) | Python · ⭐ 36 | 2025-11-12 |
+| #590 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -656,3 +656,4 @@ Or let GitHub Action run it automatically.
 | 587 | 2025-11-12 10:20:52 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107793⭐ Rust) | [reels/reel_0587_rust-lang-rust](reels/reel_0587_rust-lang-rust) |
 | 588 | 2025-11-12 10:46:45 | [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures) | ✅ full (659⭐ Lean) | [reels/reel_0588_google-deepmind-formal-conjectures](reels/reel_0588_google-deepmind-formal-conjectures) |
 | 589 | 2025-11-12 11:15:57 | [tigert1998/mytorch](https://github.com/tigert1998/mytorch) | ✅ full (36⭐ Python) | [reels/reel_0589_tigert1998-mytorch](reels/reel_0589_tigert1998-mytorch) |
+| 590 | 2025-11-12 11:38:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257670⭐ None) | [reels/reel_0590_awesome-selfhosted-awesome-selfhosted](reels/reel_0590_awesome-selfhosted-awesome-selfhosted) |
