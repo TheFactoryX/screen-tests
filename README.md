@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #577 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-12 |
+| #578 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -644,3 +644,4 @@ Or let GitHub Action run it automatically.
 | 575 | 2025-11-12 05:41:52 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100242⭐ Python) | [reels/reel_0575_deepseek-ai-DeepSeek-V3](reels/reel_0575_deepseek-ai-DeepSeek-V3) |
 | 576 | 2025-11-12 05:51:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134631⭐ Python) | [reels/reel_0576_yt-dlp-yt-dlp](reels/reel_0576_yt-dlp-yt-dlp) |
 | 577 | 2025-11-12 06:28:10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134632⭐ Python) | [reels/reel_0577_yt-dlp-yt-dlp](reels/reel_0577_yt-dlp-yt-dlp) |
+| 578 | 2025-11-12 06:53:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99551⭐ TypeScript) | [reels/reel_0578_shadcn-ui-ui](reels/reel_0578_shadcn-ui-ui) |
