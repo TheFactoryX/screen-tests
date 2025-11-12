@@ -1,0 +1,24 @@
+{
+  "reel_number": 614,
+  "recorded": "2025-11-12 20:52:03 UTC",
+  "repository": {
+    "full_name": "arm/arm-toolchain",
+    "url": "https://github.com/arm/arm-toolchain",
+    "clone_url": "https://github.com/arm/arm-toolchain.git",
+    "stars": 147,
+    "language": "LLVM",
+    "size_kb": 2151674
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2101,
+    "duration_seconds": 0.000135
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "LLVM",
+    "director_note": "A LLVM repository. 147 stars."
+  }
+}
