@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #582 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-12 |
+| #583 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 99k | 2025-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -649,3 +649,4 @@ Or let GitHub Action run it automatically.
 | 580 | 2025-11-12 07:39:47 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ✅ full (158745⭐ None) | [reels/reel_0580_jlevy-the-art-of-command-line](reels/reel_0580_jlevy-the-art-of-command-line) |
 | 581 | 2025-11-12 07:49:56 | [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) | ✅ full (2403⭐ None) | [reels/reel_0581_Yutong-Zhou-cv-Awesome-Text-to-Image](reels/reel_0581_Yutong-Zhou-cv-Awesome-Text-to-Image) |
 | 582 | 2025-11-12 08:25:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134639⭐ Python) | [reels/reel_0582_yt-dlp-yt-dlp](reels/reel_0582_yt-dlp-yt-dlp) |
+| 583 | 2025-11-12 08:49:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99599⭐ TypeScript) | [reels/reel_0583_iptv-org-iptv](reels/reel_0583_iptv-org-iptv) |
