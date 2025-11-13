@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #643 | [SillyTavern/SillyTavern-Content](https://github.com/SillyTavern/SillyTavern-Content) | Python · ⭐ 25 | 2025-11-13 |
+| #644 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -710,3 +710,4 @@ Or let GitHub Action run it automatically.
 | 641 | 2025-11-13 10:20:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99652⭐ TypeScript) | [reels/reel_0641_shadcn-ui-ui](reels/reel_0641_shadcn-ui-ui) |
 | 642 | 2025-11-13 10:46:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100199⭐ Shell) | [reels/reel_0642_papers-we-love-papers-we-love](reels/reel_0642_papers-we-love-papers-we-love) |
 | 643 | 2025-11-13 11:16:38 | [SillyTavern/SillyTavern-Content](https://github.com/SillyTavern/SillyTavern-Content) | ✅ shallow (25⭐ Python) | [reels/reel_0643_SillyTavern-SillyTavern-Content](reels/reel_0643_SillyTavern-SillyTavern-Content) |
+| 644 | 2025-11-13 11:38:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134885⭐ Python) | [reels/reel_0644_yt-dlp-yt-dlp](reels/reel_0644_yt-dlp-yt-dlp) |
