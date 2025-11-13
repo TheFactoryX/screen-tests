@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #627 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-13 |
+| #628 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -694,3 +694,4 @@ Or let GitHub Action run it automatically.
 | 625 | 2025-11-13 02:57:54 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378127⭐ Python) | [reels/reel_0625_public-apis-public-apis](reels/reel_0625_public-apis-public-apis) |
 | 626 | 2025-11-13 03:49:30 | [hove-io/navitia](https://github.com/hove-io/navitia) | ✅ full (443⭐ Python) | [reels/reel_0626_hove-io-navitia](reels/reel_0626_hove-io-navitia) |
 | 627 | 2025-11-13 04:23:52 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98821⭐ Rust) | [reels/reel_0627_tauri-apps-tauri](reels/reel_0627_tauri-apps-tauri) |
+| 628 | 2025-11-13 04:45:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115073⭐ JavaScript) | [reels/reel_0628_open-webui-open-webui](reels/reel_0628_open-webui-open-webui) |
