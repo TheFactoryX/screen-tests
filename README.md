@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #651 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-13 |
+| #652 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -718,3 +718,4 @@ Or let GitHub Action run it automatically.
 | 649 | 2025-11-13 14:18:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179671⭐ Python) | [reels/reel_0649_Significant-Gravitas-AutoGPT](reels/reel_0649_Significant-Gravitas-AutoGPT) |
 | 650 | 2025-11-13 14:40:29 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99955⭐ TypeScript) | [reels/reel_0650_iptv-org-iptv](reels/reel_0650_iptv-org-iptv) |
 | 651 | 2025-11-13 14:50:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138063⭐ Python) | [reels/reel_0651_langflow-ai-langflow](reels/reel_0651_langflow-ai-langflow) |
+| 652 | 2025-11-13 15:20:30 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99668⭐ TypeScript) | [reels/reel_0652_shadcn-ui-ui](reels/reel_0652_shadcn-ui-ui) |
