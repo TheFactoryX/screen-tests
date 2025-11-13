@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #664 | [heroaku/TVboxo](https://github.com/heroaku/TVboxo) | JavaScript · ⭐ 643 | 2025-11-13 |
+| #665 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -731,3 +731,4 @@ Or let GitHub Action run it automatically.
 | 662 | 2025-11-13 19:14:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100215⭐ Shell) | [reels/reel_0662_papers-we-love-papers-we-love](reels/reel_0662_papers-we-love-papers-we-love) |
 | 663 | 2025-11-13 19:27:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119590⭐ Python) | [reels/reel_0663_langchain-ai-langchain](reels/reel_0663_langchain-ai-langchain) |
 | 664 | 2025-11-13 19:38:44 | [heroaku/TVboxo](https://github.com/heroaku/TVboxo) | ✅ shallow (643⭐ JavaScript) | [reels/reel_0664_heroaku-TVboxo](reels/reel_0664_heroaku-TVboxo) |
+| 665 | 2025-11-13 19:50:23 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91478⭐ None) | [reels/reel_0665_deepseek-ai-DeepSeek-R1](reels/reel_0665_deepseek-ai-DeepSeek-R1) |

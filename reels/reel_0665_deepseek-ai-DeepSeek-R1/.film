@@ -1,0 +1,24 @@
+{
+  "reel_number": 665,
+  "recorded": "2025-11-13 19:50:23 UTC",
+  "repository": {
+    "full_name": "deepseek-ai/DeepSeek-R1",
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-R1.git",
+    "stars": 91478,
+    "language": null,
+    "size_kb": 1571
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.662435
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 91478 stars."
+  }
+}
