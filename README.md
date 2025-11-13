@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #640 | [percona/everest](https://github.com/percona/everest) | TypeScript · ⭐ 338 | 2025-11-13 |
+| #641 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -707,3 +707,4 @@ Or let GitHub Action run it automatically.
 | 638 | 2025-11-13 09:20:38 | [mkiser/WTFJHT](https://github.com/mkiser/WTFJHT) | ✅ readme_only (630⭐ HTML) | [reels/reel_0638_mkiser-WTFJHT](reels/reel_0638_mkiser-WTFJHT) |
 | 639 | 2025-11-13 09:42:35 | [Azure/azure-functions-durable-extension](https://github.com/Azure/azure-functions-durable-extension) | ✅ full (751⭐ C#) | [reels/reel_0639_Azure-azure-functions-durable-extension](reels/reel_0639_Azure-azure-functions-durable-extension) |
 | 640 | 2025-11-13 09:52:54 | [percona/everest](https://github.com/percona/everest) | ✅ full (338⭐ TypeScript) | [reels/reel_0640_percona-everest](reels/reel_0640_percona-everest) |
+| 641 | 2025-11-13 10:20:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99652⭐ TypeScript) | [reels/reel_0641_shadcn-ui-ui](reels/reel_0641_shadcn-ui-ui) |
