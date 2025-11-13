@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #630 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-13 |
+| #631 | [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) | SCSS · ⭐ 778 | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -697,3 +697,4 @@ Or let GitHub Action run it automatically.
 | 628 | 2025-11-13 04:45:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115073⭐ JavaScript) | [reels/reel_0628_open-webui-open-webui](reels/reel_0628_open-webui-open-webui) |
 | 629 | 2025-11-13 05:18:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98822⭐ Rust) | [reels/reel_0629_tauri-apps-tauri](reels/reel_0629_tauri-apps-tauri) |
 | 630 | 2025-11-13 05:52:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179655⭐ Python) | [reels/reel_0630_Significant-Gravitas-AutoGPT](reels/reel_0630_Significant-Gravitas-AutoGPT) |
+| 631 | 2025-11-13 06:28:17 | [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) | ✅ full (778⭐ SCSS) | [reels/reel_0631_aaaaalexis-obsidian-baseline](reels/reel_0631_aaaaalexis-obsidian-baseline) |

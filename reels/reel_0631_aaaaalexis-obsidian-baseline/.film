@@ -1,0 +1,24 @@
+{
+  "reel_number": 631,
+  "recorded": "2025-11-13 06:28:17 UTC",
+  "repository": {
+    "full_name": "aaaaalexis/obsidian-baseline",
+    "url": "https://github.com/aaaaalexis/obsidian-baseline",
+    "clone_url": "https://github.com/aaaaalexis/obsidian-baseline.git",
+    "stars": 778,
+    "language": "SCSS",
+    "size_kb": 76533
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 74,
+    "duration_seconds": 2.243991
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "SCSS",
+    "director_note": "A SCSS repository. 778 stars."
+  }
+}
