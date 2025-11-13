@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #674 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-13 |
+| #675 | [terraform-google-modules/terraform-google-log-export](https://github.com/terraform-google-modules/terraform-google-log-export) | HCL · ⭐ 101 | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -741,3 +741,4 @@ Or let GitHub Action run it automatically.
 | 672 | 2025-11-13 22:17:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378292⭐ Python) | [reels/reel_0672_public-apis-public-apis](reels/reel_0672_public-apis-public-apis) |
 | 673 | 2025-11-13 22:41:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134938⭐ Python) | [reels/reel_0673_yt-dlp-yt-dlp](reels/reel_0673_yt-dlp-yt-dlp) |
 | 674 | 2025-11-13 22:50:42 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107837⭐ Rust) | [reels/reel_0674_rust-lang-rust](reels/reel_0674_rust-lang-rust) |
+| 675 | 2025-11-13 23:17:23 | [terraform-google-modules/terraform-google-log-export](https://github.com/terraform-google-modules/terraform-google-log-export) | ✅ full (101⭐ HCL) | [reels/reel_0675_terraform-google-modules-terraform-google-log-export](reels/reel_0675_terraform-google-modules-terraform-google-log-export) |

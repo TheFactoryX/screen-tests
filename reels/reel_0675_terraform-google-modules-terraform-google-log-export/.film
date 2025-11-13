@@ -1,0 +1,24 @@
+{
+  "reel_number": 675,
+  "recorded": "2025-11-13 23:17:23 UTC",
+  "repository": {
+    "full_name": "terraform-google-modules/terraform-google-log-export",
+    "url": "https://github.com/terraform-google-modules/terraform-google-log-export",
+    "clone_url": "https://github.com/terraform-google-modules/terraform-google-log-export.git",
+    "stars": 101,
+    "language": "HCL",
+    "size_kb": 777
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.246387
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HCL",
+    "director_note": "A HCL repository. 101 stars."
+  }
+}
