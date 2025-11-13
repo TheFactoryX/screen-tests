@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #653 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-13 |
+| #654 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -720,3 +720,4 @@ Or let GitHub Action run it automatically.
 | 651 | 2025-11-13 14:50:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138063⭐ Python) | [reels/reel_0651_langflow-ai-langflow](reels/reel_0651_langflow-ai-langflow) |
 | 652 | 2025-11-13 15:20:30 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99668⭐ TypeScript) | [reels/reel_0652_shadcn-ui-ui](reels/reel_0652_shadcn-ui-ui) |
 | 653 | 2025-11-13 15:41:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134912⭐ Python) | [reels/reel_0653_yt-dlp-yt-dlp](reels/reel_0653_yt-dlp-yt-dlp) |
+| 654 | 2025-11-13 15:52:02 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96585⭐ TypeScript) | [reels/reel_0654_ant-design-ant-design](reels/reel_0654_ant-design-ant-design) |
