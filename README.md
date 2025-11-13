@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #672 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 378k | 2025-11-13 |
+| #673 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 134k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -739,3 +739,4 @@ Or let GitHub Action run it automatically.
 | 670 | 2025-11-13 21:36:10 | [jxn-30/better-moodle](https://github.com/jxn-30/better-moodle) | ✅ full (29⭐ TypeScript) | [reels/reel_0670_jxn-30-better-moodle](reels/reel_0670_jxn-30-better-moodle) |
 | 671 | 2025-11-13 21:50:13 | [ValleyBell/libvgm](https://github.com/ValleyBell/libvgm) | ✅ full (167⭐ C) | [reels/reel_0671_ValleyBell-libvgm](reels/reel_0671_ValleyBell-libvgm) |
 | 672 | 2025-11-13 22:17:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378292⭐ Python) | [reels/reel_0672_public-apis-public-apis](reels/reel_0672_public-apis-public-apis) |
+| 673 | 2025-11-13 22:41:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134938⭐ Python) | [reels/reel_0673_yt-dlp-yt-dlp](reels/reel_0673_yt-dlp-yt-dlp) |
