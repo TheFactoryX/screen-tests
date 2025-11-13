@@ -1,0 +1,24 @@
+{
+  "reel_number": 626,
+  "recorded": "2025-11-13 03:49:30 UTC",
+  "repository": {
+    "full_name": "hove-io/navitia",
+    "url": "https://github.com/hove-io/navitia",
+    "clone_url": "https://github.com/hove-io/navitia.git",
+    "stars": 443,
+    "language": "Python",
+    "size_kb": 62350
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 60,
+    "duration_seconds": 4.172616
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 443 stars."
+  }
+}
