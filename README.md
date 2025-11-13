@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #675 | [terraform-google-modules/terraform-google-log-export](https://github.com/terraform-google-modules/terraform-google-log-export) | HCL · ⭐ 101 | 2025-11-13 |
+| #676 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -742,3 +742,4 @@ Or let GitHub Action run it automatically.
 | 673 | 2025-11-13 22:41:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134938⭐ Python) | [reels/reel_0673_yt-dlp-yt-dlp](reels/reel_0673_yt-dlp-yt-dlp) |
 | 674 | 2025-11-13 22:50:42 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107837⭐ Rust) | [reels/reel_0674_rust-lang-rust](reels/reel_0674_rust-lang-rust) |
 | 675 | 2025-11-13 23:17:23 | [terraform-google-modules/terraform-google-log-export](https://github.com/terraform-google-modules/terraform-google-log-export) | ✅ full (101⭐ HCL) | [reels/reel_0675_terraform-google-modules-terraform-google-log-export](reels/reel_0675_terraform-google-modules-terraform-google-log-export) |
+| 676 | 2025-11-13 23:38:14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99689⭐ TypeScript) | [reels/reel_0676_shadcn-ui-ui](reels/reel_0676_shadcn-ui-ui) |
