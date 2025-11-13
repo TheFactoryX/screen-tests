@@ -1,0 +1,24 @@
+{
+  "reel_number": 638,
+  "recorded": "2025-11-13 09:20:38 UTC",
+  "repository": {
+    "full_name": "mkiser/WTFJHT",
+    "url": "https://github.com/mkiser/WTFJHT",
+    "clone_url": "https://github.com/mkiser/WTFJHT.git",
+    "stars": 630,
+    "language": "HTML",
+    "size_kb": 784607
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 766,
+    "duration_seconds": 0.000149
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 630 stars."
+  }
+}
