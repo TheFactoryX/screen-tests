@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #666 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 100k | 2025-11-13 |
+| #667 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -733,3 +733,4 @@ Or let GitHub Action run it automatically.
 | 664 | 2025-11-13 19:38:44 | [heroaku/TVboxo](https://github.com/heroaku/TVboxo) | ✅ shallow (643⭐ JavaScript) | [reels/reel_0664_heroaku-TVboxo](reels/reel_0664_heroaku-TVboxo) |
 | 665 | 2025-11-13 19:50:23 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91478⭐ None) | [reels/reel_0665_deepseek-ai-DeepSeek-R1](reels/reel_0665_deepseek-ai-DeepSeek-R1) |
 | 666 | 2025-11-13 20:20:53 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100626⭐ None) | [reels/reel_0666_Hack-with-Github-Awesome-Hacking](reels/reel_0666_Hack-with-Github-Awesome-Hacking) |
+| 667 | 2025-11-13 20:42:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249763⭐ None) | [reels/reel_0667_practical-tutorials-project-based-learning](reels/reel_0667_practical-tutorials-project-based-learning) |
