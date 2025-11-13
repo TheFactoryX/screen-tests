@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #669 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 100k | 2025-11-13 |
+| #670 | [jxn-30/better-moodle](https://github.com/jxn-30/better-moodle) | TypeScript · ⭐ 29 | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -736,3 +736,4 @@ Or let GitHub Action run it automatically.
 | 667 | 2025-11-13 20:42:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249763⭐ None) | [reels/reel_0667_practical-tutorials-project-based-learning](reels/reel_0667_practical-tutorials-project-based-learning) |
 | 668 | 2025-11-13 20:53:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138101⭐ Python) | [reels/reel_0668_langflow-ai-langflow](reels/reel_0668_langflow-ai-langflow) |
 | 669 | 2025-11-13 21:17:09 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100627⭐ None) | [reels/reel_0669_Hack-with-Github-Awesome-Hacking](reels/reel_0669_Hack-with-Github-Awesome-Hacking) |
+| 670 | 2025-11-13 21:36:10 | [jxn-30/better-moodle](https://github.com/jxn-30/better-moodle) | ✅ full (29⭐ TypeScript) | [reels/reel_0670_jxn-30-better-moodle](reels/reel_0670_jxn-30-better-moodle) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 670,
+  "recorded": "2025-11-13 21:36:10 UTC",
+  "repository": {
+    "full_name": "jxn-30/better-moodle",
+    "url": "https://github.com/jxn-30/better-moodle",
+    "clone_url": "https://github.com/jxn-30/better-moodle.git",
+    "stars": 29,
+    "language": "TypeScript",
+    "size_kb": 17640
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.436504
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 29 stars."
+  }
+}
