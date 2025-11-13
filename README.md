@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #650 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 99k | 2025-11-13 |
+| #651 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -717,3 +717,4 @@ Or let GitHub Action run it automatically.
 | 648 | 2025-11-13 13:49:43 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98837⭐ Rust) | [reels/reel_0648_tauri-apps-tauri](reels/reel_0648_tauri-apps-tauri) |
 | 649 | 2025-11-13 14:18:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179671⭐ Python) | [reels/reel_0649_Significant-Gravitas-AutoGPT](reels/reel_0649_Significant-Gravitas-AutoGPT) |
 | 650 | 2025-11-13 14:40:29 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (99955⭐ TypeScript) | [reels/reel_0650_iptv-org-iptv](reels/reel_0650_iptv-org-iptv) |
+| 651 | 2025-11-13 14:50:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138063⭐ Python) | [reels/reel_0651_langflow-ai-langflow](reels/reel_0651_langflow-ai-langflow) |
