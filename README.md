@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #662 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-13 |
+| #663 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -729,3 +729,4 @@ Or let GitHub Action run it automatically.
 | 660 | 2025-11-13 18:26:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257960⭐ None) | [reels/reel_0660_awesome-selfhosted-awesome-selfhosted](reels/reel_0660_awesome-selfhosted-awesome-selfhosted) |
 | 661 | 2025-11-13 18:50:17 | [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) | ✅ full (797⭐ None) | [reels/reel_0661_qdm12-gluetun-wiki](reels/reel_0661_qdm12-gluetun-wiki) |
 | 662 | 2025-11-13 19:14:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100215⭐ Shell) | [reels/reel_0662_papers-we-love-papers-we-love](reels/reel_0662_papers-we-love-papers-we-love) |
+| 663 | 2025-11-13 19:27:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119590⭐ Python) | [reels/reel_0663_langchain-ai-langchain](reels/reel_0663_langchain-ai-langchain) |
