@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #655 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-13 |
+| #656 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -722,3 +722,4 @@ Or let GitHub Action run it automatically.
 | 653 | 2025-11-13 15:41:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134912⭐ Python) | [reels/reel_0653_yt-dlp-yt-dlp](reels/reel_0653_yt-dlp-yt-dlp) |
 | 654 | 2025-11-13 15:52:02 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96585⭐ TypeScript) | [reels/reel_0654_ant-design-ant-design](reels/reel_0654_ant-design-ant-design) |
 | 655 | 2025-11-13 16:22:12 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91478⭐ None) | [reels/reel_0655_deepseek-ai-DeepSeek-R1](reels/reel_0655_deepseek-ai-DeepSeek-R1) |
+| 656 | 2025-11-13 16:48:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138077⭐ Python) | [reels/reel_0656_langflow-ai-langflow](reels/reel_0656_langflow-ai-langflow) |
