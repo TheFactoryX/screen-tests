@@ -1,0 +1,24 @@
+{
+  "reel_number": 633,
+  "recorded": "2025-11-13 07:18:10 UTC",
+  "repository": {
+    "full_name": "dimastbk/python-calamine",
+    "url": "https://github.com/dimastbk/python-calamine",
+    "clone_url": "https://github.com/dimastbk/python-calamine.git",
+    "stars": 404,
+    "language": "Python",
+    "size_kb": 445
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.34121
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 404 stars."
+  }
+}
