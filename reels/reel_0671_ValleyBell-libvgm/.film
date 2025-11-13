@@ -1,0 +1,24 @@
+{
+  "reel_number": 671,
+  "recorded": "2025-11-13 21:50:13 UTC",
+  "repository": {
+    "full_name": "ValleyBell/libvgm",
+    "url": "https://github.com/ValleyBell/libvgm",
+    "clone_url": "https://github.com/ValleyBell/libvgm.git",
+    "stars": 167,
+    "language": "C",
+    "size_kb": 2990
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.456984
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 167 stars."
+  }
+}
