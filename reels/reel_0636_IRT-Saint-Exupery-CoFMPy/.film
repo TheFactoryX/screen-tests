@@ -1,0 +1,24 @@
+{
+  "reel_number": 636,
+  "recorded": "2025-11-13 08:24:35 UTC",
+  "repository": {
+    "full_name": "IRT-Saint-Exupery/CoFMPy",
+    "url": "https://github.com/IRT-Saint-Exupery/CoFMPy",
+    "clone_url": "https://github.com/IRT-Saint-Exupery/CoFMPy.git",
+    "stars": 11,
+    "language": "Jupyter Notebook",
+    "size_kb": 6035
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.951355
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 11 stars."
+  }
+}
