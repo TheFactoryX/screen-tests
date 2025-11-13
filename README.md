@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #638 | [mkiser/WTFJHT](https://github.com/mkiser/WTFJHT) | HTML · ⭐ 630 | 2025-11-13 |
+| #639 | [Azure/azure-functions-durable-extension](https://github.com/Azure/azure-functions-durable-extension) | C# · ⭐ 751 | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -705,3 +705,4 @@ Or let GitHub Action run it automatically.
 | 636 | 2025-11-13 08:24:35 | [IRT-Saint-Exupery/CoFMPy](https://github.com/IRT-Saint-Exupery/CoFMPy) | ✅ full (11⭐ Jupyter Notebook) | [reels/reel_0636_IRT-Saint-Exupery-CoFMPy](reels/reel_0636_IRT-Saint-Exupery-CoFMPy) |
 | 637 | 2025-11-13 08:48:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138030⭐ Python) | [reels/reel_0637_langflow-ai-langflow](reels/reel_0637_langflow-ai-langflow) |
 | 638 | 2025-11-13 09:20:38 | [mkiser/WTFJHT](https://github.com/mkiser/WTFJHT) | ✅ readme_only (630⭐ HTML) | [reels/reel_0638_mkiser-WTFJHT](reels/reel_0638_mkiser-WTFJHT) |
+| 639 | 2025-11-13 09:42:35 | [Azure/azure-functions-durable-extension](https://github.com/Azure/azure-functions-durable-extension) | ✅ full (751⭐ C#) | [reels/reel_0639_Azure-azure-functions-durable-extension](reels/reel_0639_Azure-azure-functions-durable-extension) |
