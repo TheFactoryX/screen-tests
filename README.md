@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #623 | [pharmaverse/admiral](https://github.com/pharmaverse/admiral) | R · ⭐ 259 | 2025-11-12 |
+| #624 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -690,3 +690,4 @@ Or let GitHub Action run it automatically.
 | 621 | 2025-11-12 23:17:23 | [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) | ✅ shallow (103⭐ JavaScript) | [reels/reel_0621_Harbour-Enterprises-SuperDoc](reels/reel_0621_Harbour-Enterprises-SuperDoc) |
 | 622 | 2025-11-12 23:38:48 | [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) | ✅ full (202⭐ Nix) | [reels/reel_0622_mrshmllow-affinity-nix](reels/reel_0622_mrshmllow-affinity-nix) |
 | 623 | 2025-11-12 23:49:39 | [pharmaverse/admiral](https://github.com/pharmaverse/admiral) | ✅ shallow (259⭐ R) | [reels/reel_0623_pharmaverse-admiral](reels/reel_0623_pharmaverse-admiral) |
+| 624 | 2025-11-13 01:23:23 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107809⭐ Rust) | [reels/reel_0624_rust-lang-rust](reels/reel_0624_rust-lang-rust) |
