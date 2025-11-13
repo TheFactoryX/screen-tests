@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #626 | [hove-io/navitia](https://github.com/hove-io/navitia) | Python · ⭐ 443 | 2025-11-13 |
+| #627 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -693,3 +693,4 @@ Or let GitHub Action run it automatically.
 | 624 | 2025-11-13 01:23:23 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107809⭐ Rust) | [reels/reel_0624_rust-lang-rust](reels/reel_0624_rust-lang-rust) |
 | 625 | 2025-11-13 02:57:54 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378127⭐ Python) | [reels/reel_0625_public-apis-public-apis](reels/reel_0625_public-apis-public-apis) |
 | 626 | 2025-11-13 03:49:30 | [hove-io/navitia](https://github.com/hove-io/navitia) | ✅ full (443⭐ Python) | [reels/reel_0626_hove-io-navitia](reels/reel_0626_hove-io-navitia) |
+| 627 | 2025-11-13 04:23:52 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98821⭐ Rust) | [reels/reel_0627_tauri-apps-tauri](reels/reel_0627_tauri-apps-tauri) |
