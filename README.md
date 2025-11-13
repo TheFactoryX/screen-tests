@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #659 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 243 | 2025-11-13 |
+| #660 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 257k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -726,3 +726,4 @@ Or let GitHub Action run it automatically.
 | 657 | 2025-11-13 17:17:54 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115135⭐ JavaScript) | [reels/reel_0657_open-webui-open-webui](reels/reel_0657_open-webui-open-webui) |
 | 658 | 2025-11-13 17:42:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119587⭐ Python) | [reels/reel_0658_langchain-ai-langchain](reels/reel_0658_langchain-ai-langchain) |
 | 659 | 2025-11-13 17:52:52 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (243⭐ None) | [reels/reel_0659_hello-world-1989-cn-news](reels/reel_0659_hello-world-1989-cn-news) |
+| 660 | 2025-11-13 18:26:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (257960⭐ None) | [reels/reel_0660_awesome-selfhosted-awesome-selfhosted](reels/reel_0660_awesome-selfhosted-awesome-selfhosted) |
