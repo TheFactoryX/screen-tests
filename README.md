@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #636 | [IRT-Saint-Exupery/CoFMPy](https://github.com/IRT-Saint-Exupery/CoFMPy) | Jupyter Notebook · ⭐ 11 | 2025-11-13 |
+| #637 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -703,3 +703,4 @@ Or let GitHub Action run it automatically.
 | 634 | 2025-11-13 07:39:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (155886⭐ TypeScript) | [reels/reel_0634_n8n-io-n8n](reels/reel_0634_n8n-io-n8n) |
 | 635 | 2025-11-13 07:49:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (134840⭐ Python) | [reels/reel_0635_yt-dlp-yt-dlp](reels/reel_0635_yt-dlp-yt-dlp) |
 | 636 | 2025-11-13 08:24:35 | [IRT-Saint-Exupery/CoFMPy](https://github.com/IRT-Saint-Exupery/CoFMPy) | ✅ full (11⭐ Jupyter Notebook) | [reels/reel_0636_IRT-Saint-Exupery-CoFMPy](reels/reel_0636_IRT-Saint-Exupery-CoFMPy) |
+| 637 | 2025-11-13 08:48:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138030⭐ Python) | [reels/reel_0637_langflow-ai-langflow](reels/reel_0637_langflow-ai-langflow) |
