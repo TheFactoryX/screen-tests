@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #657 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-13 |
+| #658 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -724,3 +724,4 @@ Or let GitHub Action run it automatically.
 | 655 | 2025-11-13 16:22:12 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91478⭐ None) | [reels/reel_0655_deepseek-ai-DeepSeek-R1](reels/reel_0655_deepseek-ai-DeepSeek-R1) |
 | 656 | 2025-11-13 16:48:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138077⭐ Python) | [reels/reel_0656_langflow-ai-langflow](reels/reel_0656_langflow-ai-langflow) |
 | 657 | 2025-11-13 17:17:54 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115135⭐ JavaScript) | [reels/reel_0657_open-webui-open-webui](reels/reel_0657_open-webui-open-webui) |
+| 658 | 2025-11-13 17:42:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119587⭐ Python) | [reels/reel_0658_langchain-ai-langchain](reels/reel_0658_langchain-ai-langchain) |
