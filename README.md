@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #624 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-13 |
+| #625 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 378k | 2025-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -691,3 +691,4 @@ Or let GitHub Action run it automatically.
 | 622 | 2025-11-12 23:38:48 | [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) | ✅ full (202⭐ Nix) | [reels/reel_0622_mrshmllow-affinity-nix](reels/reel_0622_mrshmllow-affinity-nix) |
 | 623 | 2025-11-12 23:49:39 | [pharmaverse/admiral](https://github.com/pharmaverse/admiral) | ✅ shallow (259⭐ R) | [reels/reel_0623_pharmaverse-admiral](reels/reel_0623_pharmaverse-admiral) |
 | 624 | 2025-11-13 01:23:23 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107809⭐ Rust) | [reels/reel_0624_rust-lang-rust](reels/reel_0624_rust-lang-rust) |
+| 625 | 2025-11-13 02:57:54 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378127⭐ Python) | [reels/reel_0625_public-apis-public-apis](reels/reel_0625_public-apis-public-apis) |
