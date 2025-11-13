@@ -1,0 +1,24 @@
+{
+  "reel_number": 640,
+  "recorded": "2025-11-13 09:52:54 UTC",
+  "repository": {
+    "full_name": "percona/everest",
+    "url": "https://github.com/percona/everest",
+    "clone_url": "https://github.com/percona/everest.git",
+    "stars": 338,
+    "language": "TypeScript",
+    "size_kb": 13226
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.556603
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 338 stars."
+  }
+}
