@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #699 | [gem/oq-engine](https://github.com/gem/oq-engine) | Python · ⭐ 417 | 2025-11-14 |
+| #700 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -766,3 +766,4 @@ Or let GitHub Action run it automatically.
 | 697 | 2025-11-14 10:20:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258066⭐ None) | [reels/reel_0697_awesome-selfhosted-awesome-selfhosted](reels/reel_0697_awesome-selfhosted-awesome-selfhosted) |
 | 698 | 2025-11-14 10:44:35 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156175⭐ TypeScript) | [reels/reel_0698_n8n-io-n8n](reels/reel_0698_n8n-io-n8n) |
 | 699 | 2025-11-14 10:54:36 | [gem/oq-engine](https://github.com/gem/oq-engine) | ✅ readme_only (417⭐ Python) | [reels/reel_0699_gem-oq-engine](reels/reel_0699_gem-oq-engine) |
+| 700 | 2025-11-14 11:15:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119648⭐ Python) | [reels/reel_0700_langchain-ai-langchain](reels/reel_0700_langchain-ai-langchain) |
