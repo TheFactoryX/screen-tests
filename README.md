@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #733 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-14 |
+| #734 | [microsoft/ApplicationInsights-node.js](https://github.com/microsoft/ApplicationInsights-node.js) | TypeScript · ⭐ 330 | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -800,3 +800,4 @@ Or let GitHub Action run it automatically.
 | 731 | 2025-11-14 22:50:58 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (438156⭐ Markdown) | [reels/reel_0731_codecrafters-io-build-your-own-x](reels/reel_0731_codecrafters-io-build-your-own-x) |
 | 732 | 2025-11-14 23:16:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138222⭐ Python) | [reels/reel_0732_langflow-ai-langflow](reels/reel_0732_langflow-ai-langflow) |
 | 733 | 2025-11-14 23:37:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156296⭐ TypeScript) | [reels/reel_0733_n8n-io-n8n](reels/reel_0733_n8n-io-n8n) |
+| 734 | 2025-11-14 23:50:10 | [microsoft/ApplicationInsights-node.js](https://github.com/microsoft/ApplicationInsights-node.js) | ✅ full (330⭐ TypeScript) | [reels/reel_0734_microsoft-ApplicationInsights-node.js](reels/reel_0734_microsoft-ApplicationInsights-node.js) |

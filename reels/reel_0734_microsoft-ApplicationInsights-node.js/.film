@@ -1,0 +1,24 @@
+{
+  "reel_number": 734,
+  "recorded": "2025-11-14 23:50:10 UTC",
+  "repository": {
+    "full_name": "microsoft/ApplicationInsights-node.js",
+    "url": "https://github.com/microsoft/ApplicationInsights-node.js",
+    "clone_url": "https://github.com/microsoft/ApplicationInsights-node.js.git",
+    "stars": 330,
+    "language": "TypeScript",
+    "size_kb": 3820
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.335391
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 330 stars."
+  }
+}
