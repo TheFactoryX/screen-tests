@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #727 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-14 |
+| #728 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -794,3 +794,4 @@ Or let GitHub Action run it automatically.
 | 725 | 2025-11-14 20:51:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100291⭐ TypeScript) | [reels/reel_0725_iptv-org-iptv](reels/reel_0725_iptv-org-iptv) |
 | 726 | 2025-11-14 21:16:29 | [Azure/azure-dev](https://github.com/Azure/azure-dev) | ✅ shallow (484⭐ Go) | [reels/reel_0726_Azure-azure-dev](reels/reel_0726_Azure-azure-dev) |
 | 727 | 2025-11-14 21:38:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119672⭐ Python) | [reels/reel_0727_langchain-ai-langchain](reels/reel_0727_langchain-ai-langchain) |
+| 728 | 2025-11-14 21:50:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258163⭐ None) | [reels/reel_0728_awesome-selfhosted-awesome-selfhosted](reels/reel_0728_awesome-selfhosted-awesome-selfhosted) |
