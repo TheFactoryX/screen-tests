@@ -1,0 +1,24 @@
+{
+  "reel_number": 720,
+  "recorded": "2025-11-14 19:28:51 UTC",
+  "repository": {
+    "full_name": "Lefraudeur/MujinaBaseV2",
+    "url": "https://github.com/Lefraudeur/MujinaBaseV2",
+    "clone_url": "https://github.com/Lefraudeur/MujinaBaseV2.git",
+    "stars": 12,
+    "language": "C++",
+    "size_kb": 451500
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 440,
+    "duration_seconds": 20.615982
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 12 stars."
+  }
+}
