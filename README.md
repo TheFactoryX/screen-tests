@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #722 | [YALDAKHOSHPEY/YALDAKHOSHPEY](https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY) | None · ⭐ 40 | 2025-11-14 |
+| #723 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -789,3 +789,4 @@ Or let GitHub Action run it automatically.
 | 720 | 2025-11-14 19:28:51 | [Lefraudeur/MujinaBaseV2](https://github.com/Lefraudeur/MujinaBaseV2) | ✅ shallow (12⭐ C++) | [reels/reel_0720_Lefraudeur-MujinaBaseV2](reels/reel_0720_Lefraudeur-MujinaBaseV2) |
 | 721 | 2025-11-14 19:40:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135047⭐ Python) | [reels/reel_0721_yt-dlp-yt-dlp](reels/reel_0721_yt-dlp-yt-dlp) |
 | 722 | 2025-11-14 19:50:12 | [YALDAKHOSHPEY/YALDAKHOSHPEY](https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY) | ✅ full (40⭐ None) | [reels/reel_0722_YALDAKHOSHPEY-YALDAKHOSHPEY](reels/reel_0722_YALDAKHOSHPEY-YALDAKHOSHPEY) |
+| 723 | 2025-11-14 20:20:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156264⭐ TypeScript) | [reels/reel_0723_n8n-io-n8n](reels/reel_0723_n8n-io-n8n) |
