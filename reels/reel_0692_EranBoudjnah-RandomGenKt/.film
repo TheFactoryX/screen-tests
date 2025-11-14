@@ -1,0 +1,24 @@
+{
+  "reel_number": 692,
+  "recorded": "2025-11-14 08:24:31 UTC",
+  "repository": {
+    "full_name": "EranBoudjnah/RandomGenKt",
+    "url": "https://github.com/EranBoudjnah/RandomGenKt",
+    "clone_url": "https://github.com/EranBoudjnah/RandomGenKt.git",
+    "stars": 38,
+    "language": "Kotlin",
+    "size_kb": 6261
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.648066
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 38 stars."
+  }
+}
