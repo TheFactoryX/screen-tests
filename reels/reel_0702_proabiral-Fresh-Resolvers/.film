@@ -1,0 +1,24 @@
+{
+  "reel_number": 702,
+  "recorded": "2025-11-14 11:49:42 UTC",
+  "repository": {
+    "full_name": "proabiral/Fresh-Resolvers",
+    "url": "https://github.com/proabiral/Fresh-Resolvers",
+    "clone_url": "https://github.com/proabiral/Fresh-Resolvers.git",
+    "stars": 105,
+    "language": null,
+    "size_kb": 43495
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 2.426707
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 105 stars."
+  }
+}
