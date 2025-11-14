@@ -1,0 +1,24 @@
+{
+  "reel_number": 693,
+  "recorded": "2025-11-14 08:47:31 UTC",
+  "repository": {
+    "full_name": "X4BNet/lists_vpn",
+    "url": "https://github.com/X4BNet/lists_vpn",
+    "clone_url": "https://github.com/X4BNet/lists_vpn.git",
+    "stars": 712,
+    "language": "Shell",
+    "size_kb": 7964
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.681637
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 712 stars."
+  }
+}
