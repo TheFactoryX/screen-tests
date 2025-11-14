@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #683 | [mierau/hotline](https://github.com/mierau/hotline) | Swift · ⭐ 695 | 2025-11-14 |
+| #684 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -750,3 +750,4 @@ Or let GitHub Action run it automatically.
 | 681 | 2025-11-14 04:21:43 | [514-labs/moosestack](https://github.com/514-labs/moosestack) | ✅ shallow (478⭐ Rust) | [reels/reel_0681_514-labs-moosestack](reels/reel_0681_514-labs-moosestack) |
 | 682 | 2025-11-14 04:43:57 | [ground-creative/tuyapiphp](https://github.com/ground-creative/tuyapiphp) | ✅ full (38⭐ PHP) | [reels/reel_0682_ground-creative-tuyapiphp](reels/reel_0682_ground-creative-tuyapiphp) |
 | 683 | 2025-11-14 04:54:21 | [mierau/hotline](https://github.com/mierau/hotline) | ✅ full (695⭐ Swift) | [reels/reel_0683_mierau-hotline](reels/reel_0683_mierau-hotline) |
+| 684 | 2025-11-14 05:17:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258027⭐ None) | [reels/reel_0684_awesome-selfhosted-awesome-selfhosted](reels/reel_0684_awesome-selfhosted-awesome-selfhosted) |
