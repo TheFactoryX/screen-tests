@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #731 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 438k | 2025-11-14 |
+| #732 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -798,3 +798,4 @@ Or let GitHub Action run it automatically.
 | 729 | 2025-11-14 22:17:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135059⭐ Python) | [reels/reel_0729_yt-dlp-yt-dlp](reels/reel_0729_yt-dlp-yt-dlp) |
 | 730 | 2025-11-14 22:40:57 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378468⭐ Python) | [reels/reel_0730_public-apis-public-apis](reels/reel_0730_public-apis-public-apis) |
 | 731 | 2025-11-14 22:50:58 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (438156⭐ Markdown) | [reels/reel_0731_codecrafters-io-build-your-own-x](reels/reel_0731_codecrafters-io-build-your-own-x) |
+| 732 | 2025-11-14 23:16:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138222⭐ Python) | [reels/reel_0732_langflow-ai-langflow](reels/reel_0732_langflow-ai-langflow) |
