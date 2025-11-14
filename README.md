@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #688 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-14 |
+| #689 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -755,3 +755,4 @@ Or let GitHub Action run it automatically.
 | 686 | 2025-11-14 05:51:48 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99706⭐ TypeScript) | [reels/reel_0686_shadcn-ui-ui](reels/reel_0686_shadcn-ui-ui) |
 | 687 | 2025-11-14 06:28:02 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96592⭐ TypeScript) | [reels/reel_0687_ant-design-ant-design](reels/reel_0687_ant-design-ant-design) |
 | 688 | 2025-11-14 06:53:01 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179680⭐ Python) | [reels/reel_0688_Significant-Gravitas-AutoGPT](reels/reel_0688_Significant-Gravitas-AutoGPT) |
+| 689 | 2025-11-14 07:18:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258038⭐ None) | [reels/reel_0689_awesome-selfhosted-awesome-selfhosted](reels/reel_0689_awesome-selfhosted-awesome-selfhosted) |
