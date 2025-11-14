@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #696 | [selfhst/icons](https://github.com/selfhst/icons) | Go · ⭐ 607 | 2025-11-14 |
+| #697 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -763,3 +763,4 @@ Or let GitHub Action run it automatically.
 | 694 | 2025-11-14 09:19:45 | [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) | ✅ full (555⭐ Go) | [reels/reel_0694_databricks-terraform-provider-databricks](reels/reel_0694_databricks-terraform-provider-databricks) |
 | 695 | 2025-11-14 09:42:22 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (437945⭐ Markdown) | [reels/reel_0695_codecrafters-io-build-your-own-x](reels/reel_0695_codecrafters-io-build-your-own-x) |
 | 696 | 2025-11-14 09:51:46 | [selfhst/icons](https://github.com/selfhst/icons) | ✅ shallow (607⭐ Go) | [reels/reel_0696_selfhst-icons](reels/reel_0696_selfhst-icons) |
+| 697 | 2025-11-14 10:20:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258066⭐ None) | [reels/reel_0697_awesome-selfhosted-awesome-selfhosted](reels/reel_0697_awesome-selfhosted-awesome-selfhosted) |
