@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #705 | [r00tee/Proxy-List](https://github.com/r00tee/Proxy-List) | None · ⭐ 162 | 2025-11-14 |
+| #706 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -772,3 +772,4 @@ Or let GitHub Action run it automatically.
 | 703 | 2025-11-14 12:37:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179691⭐ Python) | [reels/reel_0703_Significant-Gravitas-AutoGPT](reels/reel_0703_Significant-Gravitas-AutoGPT) |
 | 704 | 2025-11-14 13:18:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258093⭐ None) | [reels/reel_0704_awesome-selfhosted-awesome-selfhosted](reels/reel_0704_awesome-selfhosted-awesome-selfhosted) |
 | 705 | 2025-11-14 13:45:25 | [r00tee/Proxy-List](https://github.com/r00tee/Proxy-List) | ✅ readme_only (162⭐ None) | [reels/reel_0705_r00tee-Proxy-List](reels/reel_0705_r00tee-Proxy-List) |
+| 706 | 2025-11-14 14:18:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179691⭐ Python) | [reels/reel_0706_Significant-Gravitas-AutoGPT](reels/reel_0706_Significant-Gravitas-AutoGPT) |
