@@ -1,0 +1,24 @@
+{
+  "reel_number": 705,
+  "recorded": "2025-11-14 13:45:25 UTC",
+  "repository": {
+    "full_name": "r00tee/Proxy-List",
+    "url": "https://github.com/r00tee/Proxy-List",
+    "clone_url": "https://github.com/r00tee/Proxy-List.git",
+    "stars": 162,
+    "language": null,
+    "size_kb": 8449629
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 8251,
+    "duration_seconds": 0.000135
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 162 stars."
+  }
+}
