@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #729 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-14 |
+| #730 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 378k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -796,3 +796,4 @@ Or let GitHub Action run it automatically.
 | 727 | 2025-11-14 21:38:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119672⭐ Python) | [reels/reel_0727_langchain-ai-langchain](reels/reel_0727_langchain-ai-langchain) |
 | 728 | 2025-11-14 21:50:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258163⭐ None) | [reels/reel_0728_awesome-selfhosted-awesome-selfhosted](reels/reel_0728_awesome-selfhosted-awesome-selfhosted) |
 | 729 | 2025-11-14 22:17:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135059⭐ Python) | [reels/reel_0729_yt-dlp-yt-dlp](reels/reel_0729_yt-dlp-yt-dlp) |
+| 730 | 2025-11-14 22:40:57 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378468⭐ Python) | [reels/reel_0730_public-apis-public-apis](reels/reel_0730_public-apis-public-apis) |
