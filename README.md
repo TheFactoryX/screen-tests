@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #677 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 100k | 2025-11-13 |
+| #678 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -744,3 +744,4 @@ Or let GitHub Action run it automatically.
 | 675 | 2025-11-13 23:17:23 | [terraform-google-modules/terraform-google-log-export](https://github.com/terraform-google-modules/terraform-google-log-export) | ✅ full (101⭐ HCL) | [reels/reel_0675_terraform-google-modules-terraform-google-log-export](reels/reel_0675_terraform-google-modules-terraform-google-log-export) |
 | 676 | 2025-11-13 23:38:14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99689⭐ TypeScript) | [reels/reel_0676_shadcn-ui-ui](reels/reel_0676_shadcn-ui-ui) |
 | 677 | 2025-11-13 23:50:17 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100630⭐ None) | [reels/reel_0677_Hack-with-Github-Awesome-Hacking](reels/reel_0677_Hack-with-Github-Awesome-Hacking) |
+| 678 | 2025-11-14 01:23:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258003⭐ None) | [reels/reel_0678_awesome-selfhosted-awesome-selfhosted](reels/reel_0678_awesome-selfhosted-awesome-selfhosted) |
