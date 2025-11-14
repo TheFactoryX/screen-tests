@@ -1,0 +1,24 @@
+{
+  "reel_number": 699,
+  "recorded": "2025-11-14 10:54:36 UTC",
+  "repository": {
+    "full_name": "gem/oq-engine",
+    "url": "https://github.com/gem/oq-engine",
+    "clone_url": "https://github.com/gem/oq-engine.git",
+    "stars": 417,
+    "language": "Python",
+    "size_kb": 1136920
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1110,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 417 stars."
+  }
+}
