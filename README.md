@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #681 | [514-labs/moosestack](https://github.com/514-labs/moosestack) | Rust · ⭐ 478 | 2025-11-14 |
+| #682 | [ground-creative/tuyapiphp](https://github.com/ground-creative/tuyapiphp) | PHP · ⭐ 38 | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -748,3 +748,4 @@ Or let GitHub Action run it automatically.
 | 679 | 2025-11-14 02:56:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179676⭐ Python) | [reels/reel_0679_Significant-Gravitas-AutoGPT](reels/reel_0679_Significant-Gravitas-AutoGPT) |
 | 680 | 2025-11-14 03:45:50 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99699⭐ TypeScript) | [reels/reel_0680_shadcn-ui-ui](reels/reel_0680_shadcn-ui-ui) |
 | 681 | 2025-11-14 04:21:43 | [514-labs/moosestack](https://github.com/514-labs/moosestack) | ✅ shallow (478⭐ Rust) | [reels/reel_0681_514-labs-moosestack](reels/reel_0681_514-labs-moosestack) |
+| 682 | 2025-11-14 04:43:57 | [ground-creative/tuyapiphp](https://github.com/ground-creative/tuyapiphp) | ✅ full (38⭐ PHP) | [reels/reel_0682_ground-creative-tuyapiphp](reels/reel_0682_ground-creative-tuyapiphp) |
