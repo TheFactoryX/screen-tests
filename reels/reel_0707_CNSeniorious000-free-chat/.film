@@ -1,0 +1,24 @@
+{
+  "reel_number": 707,
+  "recorded": "2025-11-14 14:41:02 UTC",
+  "repository": {
+    "full_name": "CNSeniorious000/free-chat",
+    "url": "https://github.com/CNSeniorious000/free-chat",
+    "clone_url": "https://github.com/CNSeniorious000/free-chat.git",
+    "stars": 190,
+    "language": "TypeScript",
+    "size_kb": 6248
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.066353
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 190 stars."
+  }
+}
