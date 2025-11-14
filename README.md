@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #703 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-14 |
+| #704 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -770,3 +770,4 @@ Or let GitHub Action run it automatically.
 | 701 | 2025-11-14 11:37:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156183⭐ TypeScript) | [reels/reel_0701_n8n-io-n8n](reels/reel_0701_n8n-io-n8n) |
 | 702 | 2025-11-14 11:49:42 | [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) | ✅ full (105⭐ None) | [reels/reel_0702_proabiral-Fresh-Resolvers](reels/reel_0702_proabiral-Fresh-Resolvers) |
 | 703 | 2025-11-14 12:37:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179691⭐ Python) | [reels/reel_0703_Significant-Gravitas-AutoGPT](reels/reel_0703_Significant-Gravitas-AutoGPT) |
+| 704 | 2025-11-14 13:18:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258093⭐ None) | [reels/reel_0704_awesome-selfhosted-awesome-selfhosted](reels/reel_0704_awesome-selfhosted-awesome-selfhosted) |
