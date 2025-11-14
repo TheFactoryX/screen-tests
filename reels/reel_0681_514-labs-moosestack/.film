@@ -1,0 +1,24 @@
+{
+  "reel_number": 681,
+  "recorded": "2025-11-14 04:21:43 UTC",
+  "repository": {
+    "full_name": "514-labs/moosestack",
+    "url": "https://github.com/514-labs/moosestack",
+    "clone_url": "https://github.com/514-labs/moosestack.git",
+    "stars": 478,
+    "language": "Rust",
+    "size_kb": 103142
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 100,
+    "duration_seconds": 1.301798
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 478 stars."
+  }
+}

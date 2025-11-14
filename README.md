@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #680 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-14 |
+| #681 | [514-labs/moosestack](https://github.com/514-labs/moosestack) | Rust · ⭐ 478 | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -747,3 +747,4 @@ Or let GitHub Action run it automatically.
 | 678 | 2025-11-14 01:23:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258003⭐ None) | [reels/reel_0678_awesome-selfhosted-awesome-selfhosted](reels/reel_0678_awesome-selfhosted-awesome-selfhosted) |
 | 679 | 2025-11-14 02:56:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179676⭐ Python) | [reels/reel_0679_Significant-Gravitas-AutoGPT](reels/reel_0679_Significant-Gravitas-AutoGPT) |
 | 680 | 2025-11-14 03:45:50 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99699⭐ TypeScript) | [reels/reel_0680_shadcn-ui-ui](reels/reel_0680_shadcn-ui-ui) |
+| 681 | 2025-11-14 04:21:43 | [514-labs/moosestack](https://github.com/514-labs/moosestack) | ✅ shallow (478⭐ Rust) | [reels/reel_0681_514-labs-moosestack](reels/reel_0681_514-labs-moosestack) |
