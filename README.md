@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #695 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 437k | 2025-11-14 |
+| #696 | [selfhst/icons](https://github.com/selfhst/icons) | Go · ⭐ 607 | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -762,3 +762,4 @@ Or let GitHub Action run it automatically.
 | 693 | 2025-11-14 08:47:31 | [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) | ✅ full (712⭐ Shell) | [reels/reel_0693_X4BNet-lists_vpn](reels/reel_0693_X4BNet-lists_vpn) |
 | 694 | 2025-11-14 09:19:45 | [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) | ✅ full (555⭐ Go) | [reels/reel_0694_databricks-terraform-provider-databricks](reels/reel_0694_databricks-terraform-provider-databricks) |
 | 695 | 2025-11-14 09:42:22 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (437945⭐ Markdown) | [reels/reel_0695_codecrafters-io-build-your-own-x](reels/reel_0695_codecrafters-io-build-your-own-x) |
+| 696 | 2025-11-14 09:51:46 | [selfhst/icons](https://github.com/selfhst/icons) | ✅ shallow (607⭐ Go) | [reels/reel_0696_selfhst-icons](reels/reel_0696_selfhst-icons) |
