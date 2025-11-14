@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #700 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-14 |
+| #701 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -767,3 +767,4 @@ Or let GitHub Action run it automatically.
 | 698 | 2025-11-14 10:44:35 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156175⭐ TypeScript) | [reels/reel_0698_n8n-io-n8n](reels/reel_0698_n8n-io-n8n) |
 | 699 | 2025-11-14 10:54:36 | [gem/oq-engine](https://github.com/gem/oq-engine) | ✅ readme_only (417⭐ Python) | [reels/reel_0699_gem-oq-engine](reels/reel_0699_gem-oq-engine) |
 | 700 | 2025-11-14 11:15:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119648⭐ Python) | [reels/reel_0700_langchain-ai-langchain](reels/reel_0700_langchain-ai-langchain) |
+| 701 | 2025-11-14 11:37:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156183⭐ TypeScript) | [reels/reel_0701_n8n-io-n8n](reels/reel_0701_n8n-io-n8n) |
