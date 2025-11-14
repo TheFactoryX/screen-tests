@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #693 | [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) | Shell · ⭐ 712 | 2025-11-14 |
+| #694 | [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) | Go · ⭐ 555 | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -760,3 +760,4 @@ Or let GitHub Action run it automatically.
 | 691 | 2025-11-14 07:50:20 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179684⭐ Python) | [reels/reel_0691_Significant-Gravitas-AutoGPT](reels/reel_0691_Significant-Gravitas-AutoGPT) |
 | 692 | 2025-11-14 08:24:31 | [EranBoudjnah/RandomGenKt](https://github.com/EranBoudjnah/RandomGenKt) | ✅ full (38⭐ Kotlin) | [reels/reel_0692_EranBoudjnah-RandomGenKt](reels/reel_0692_EranBoudjnah-RandomGenKt) |
 | 693 | 2025-11-14 08:47:31 | [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) | ✅ full (712⭐ Shell) | [reels/reel_0693_X4BNet-lists_vpn](reels/reel_0693_X4BNet-lists_vpn) |
+| 694 | 2025-11-14 09:19:45 | [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) | ✅ full (555⭐ Go) | [reels/reel_0694_databricks-terraform-provider-databricks](reels/reel_0694_databricks-terraform-provider-databricks) |
