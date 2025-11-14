@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #712 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-14 |
+| #713 | [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse) | JavaScript · ⭐ 238 | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -779,3 +779,4 @@ Or let GitHub Action run it automatically.
 | 710 | 2025-11-14 15:39:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107850⭐ Rust) | [reels/reel_0710_rust-lang-rust](reels/reel_0710_rust-lang-rust) |
 | 711 | 2025-11-14 15:50:20 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99750⭐ TypeScript) | [reels/reel_0711_shadcn-ui-ui](reels/reel_0711_shadcn-ui-ui) |
 | 712 | 2025-11-14 16:23:44 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99751⭐ TypeScript) | [reels/reel_0712_shadcn-ui-ui](reels/reel_0712_shadcn-ui-ui) |
+| 713 | 2025-11-14 16:48:43 | [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse) | ✅ full (238⭐ JavaScript) | [reels/reel_0713_fastify-secure-json-parse](reels/reel_0713_fastify-secure-json-parse) |
