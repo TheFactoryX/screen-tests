@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #724 | [Unity-Technologies/com.unity.netcode.gameobjects](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects) | C# · ⭐ 2k | 2025-11-14 |
+| #725 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -791,3 +791,4 @@ Or let GitHub Action run it automatically.
 | 722 | 2025-11-14 19:50:12 | [YALDAKHOSHPEY/YALDAKHOSHPEY](https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY) | ✅ full (40⭐ None) | [reels/reel_0722_YALDAKHOSHPEY-YALDAKHOSHPEY](reels/reel_0722_YALDAKHOSHPEY-YALDAKHOSHPEY) |
 | 723 | 2025-11-14 20:20:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156264⭐ TypeScript) | [reels/reel_0723_n8n-io-n8n](reels/reel_0723_n8n-io-n8n) |
 | 724 | 2025-11-14 20:41:26 | [Unity-Technologies/com.unity.netcode.gameobjects](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects) | ✅ shallow (2271⭐ C#) | [reels/reel_0724_Unity-Technologies-com.unity.netcode.gameobjects](reels/reel_0724_Unity-Technologies-com.unity.netcode.gameobjects) |
+| 725 | 2025-11-14 20:51:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100291⭐ TypeScript) | [reels/reel_0725_iptv-org-iptv](reels/reel_0725_iptv-org-iptv) |
