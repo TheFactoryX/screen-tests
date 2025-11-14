@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #717 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-14 |
+| #718 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -784,3 +784,4 @@ Or let GitHub Action run it automatically.
 | 715 | 2025-11-14 17:40:43 | [scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio) | ✅ full (989⭐ Python) | [reels/reel_0715_scikit-bio-scikit-bio](reels/reel_0715_scikit-bio-scikit-bio) |
 | 716 | 2025-11-14 17:50:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179690⭐ Python) | [reels/reel_0716_Significant-Gravitas-AutoGPT](reels/reel_0716_Significant-Gravitas-AutoGPT) |
 | 717 | 2025-11-14 18:25:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135041⭐ Python) | [reels/reel_0717_yt-dlp-yt-dlp](reels/reel_0717_yt-dlp-yt-dlp) |
+| 718 | 2025-11-14 18:49:46 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249858⭐ None) | [reels/reel_0718_practical-tutorials-project-based-learning](reels/reel_0718_practical-tutorials-project-based-learning) |
