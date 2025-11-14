@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #684 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-14 |
+| #685 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -751,3 +751,4 @@ Or let GitHub Action run it automatically.
 | 682 | 2025-11-14 04:43:57 | [ground-creative/tuyapiphp](https://github.com/ground-creative/tuyapiphp) | ✅ full (38⭐ PHP) | [reels/reel_0682_ground-creative-tuyapiphp](reels/reel_0682_ground-creative-tuyapiphp) |
 | 683 | 2025-11-14 04:54:21 | [mierau/hotline](https://github.com/mierau/hotline) | ✅ full (695⭐ Swift) | [reels/reel_0683_mierau-hotline](reels/reel_0683_mierau-hotline) |
 | 684 | 2025-11-14 05:17:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258027⭐ None) | [reels/reel_0684_awesome-selfhosted-awesome-selfhosted](reels/reel_0684_awesome-selfhosted-awesome-selfhosted) |
+| 685 | 2025-11-14 05:42:06 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249805⭐ None) | [reels/reel_0685_practical-tutorials-project-based-learning](reels/reel_0685_practical-tutorials-project-based-learning) |
