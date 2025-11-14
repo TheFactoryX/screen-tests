@@ -1,0 +1,24 @@
+{
+  "reel_number": 722,
+  "recorded": "2025-11-14 19:50:12 UTC",
+  "repository": {
+    "full_name": "YALDAKHOSHPEY/YALDAKHOSHPEY",
+    "url": "https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY",
+    "clone_url": "https://github.com/YALDAKHOSHPEY/YALDAKHOSHPEY.git",
+    "stars": 40,
+    "language": null,
+    "size_kb": 363
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.17921
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 40 stars."
+  }
+}
