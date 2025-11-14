@@ -1,0 +1,24 @@
+{
+  "reel_number": 724,
+  "recorded": "2025-11-14 20:41:26 UTC",
+  "repository": {
+    "full_name": "Unity-Technologies/com.unity.netcode.gameobjects",
+    "url": "https://github.com/Unity-Technologies/com.unity.netcode.gameobjects",
+    "clone_url": "https://github.com/Unity-Technologies/com.unity.netcode.gameobjects.git",
+    "stars": 2271,
+    "language": "C#",
+    "size_kb": 164530
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 160,
+    "duration_seconds": 2.79631
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 2271 stars."
+  }
+}
