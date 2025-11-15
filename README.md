@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #789 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-15 |
+| #790 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -856,3 +856,4 @@ Or let GitHub Action run it automatically.
 | 787 | 2025-11-15 20:17:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156476⭐ TypeScript) | [reels/reel_0787_n8n-io-n8n](reels/reel_0787_n8n-io-n8n) |
 | 788 | 2025-11-15 20:38:06 | [Guymer/PyGuymer3](https://github.com/Guymer/PyGuymer3) | ✅ readme_only (19⭐ Python) | [reels/reel_0788_Guymer-PyGuymer3](reels/reel_0788_Guymer-PyGuymer3) |
 | 789 | 2025-11-15 20:50:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119713⭐ Python) | [reels/reel_0789_langchain-ai-langchain](reels/reel_0789_langchain-ai-langchain) |
+| 790 | 2025-11-15 21:14:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119713⭐ Python) | [reels/reel_0790_langchain-ai-langchain](reels/reel_0790_langchain-ai-langchain) |
