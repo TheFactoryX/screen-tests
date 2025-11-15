@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #741 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-15 |
+| #742 | [zhaozg/lua-openssl](https://github.com/zhaozg/lua-openssl) | C · ⭐ 307 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -808,3 +808,4 @@ Or let GitHub Action run it automatically.
 | 739 | 2025-11-15 04:22:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378501⭐ Python) | [reels/reel_0739_public-apis-public-apis](reels/reel_0739_public-apis-public-apis) |
 | 740 | 2025-11-15 04:42:33 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100361⭐ TypeScript) | [reels/reel_0740_iptv-org-iptv](reels/reel_0740_iptv-org-iptv) |
 | 741 | 2025-11-15 04:52:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156331⭐ TypeScript) | [reels/reel_0741_n8n-io-n8n](reels/reel_0741_n8n-io-n8n) |
+| 742 | 2025-11-15 05:17:04 | [zhaozg/lua-openssl](https://github.com/zhaozg/lua-openssl) | ✅ full (307⭐ C) | [reels/reel_0742_zhaozg-lua-openssl](reels/reel_0742_zhaozg-lua-openssl) |

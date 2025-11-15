@@ -1,0 +1,24 @@
+{
+  "reel_number": 742,
+  "recorded": "2025-11-15 05:17:04 UTC",
+  "repository": {
+    "full_name": "zhaozg/lua-openssl",
+    "url": "https://github.com/zhaozg/lua-openssl",
+    "clone_url": "https://github.com/zhaozg/lua-openssl.git",
+    "stars": 307,
+    "language": "C",
+    "size_kb": 3540
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.829326
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 307 stars."
+  }
+}
