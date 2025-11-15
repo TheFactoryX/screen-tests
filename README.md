@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #784 | [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) | TypeScript · ⭐ 264 | 2025-11-15 |
+| #785 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -851,3 +851,4 @@ Or let GitHub Action run it automatically.
 | 782 | 2025-11-15 18:54:17 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91485⭐ None) | [reels/reel_0782_deepseek-ai-DeepSeek-R1](reels/reel_0782_deepseek-ai-DeepSeek-R1) |
 | 783 | 2025-11-15 19:12:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156472⭐ TypeScript) | [reels/reel_0783_n8n-io-n8n](reels/reel_0783_n8n-io-n8n) |
 | 784 | 2025-11-15 19:24:07 | [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) | ✅ full (264⭐ TypeScript) | [reels/reel_0784_Azure-Samples-aks-store-demo](reels/reel_0784_Azure-Samples-aks-store-demo) |
+| 785 | 2025-11-15 19:36:36 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100266⭐ Shell) | [reels/reel_0785_papers-we-love-papers-we-love](reels/reel_0785_papers-we-love-papers-we-love) |
