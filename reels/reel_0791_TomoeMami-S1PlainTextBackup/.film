@@ -1,0 +1,24 @@
+{
+  "reel_number": 791,
+  "recorded": "2025-11-15 21:28:15 UTC",
+  "repository": {
+    "full_name": "TomoeMami/S1PlainTextBackup",
+    "url": "https://github.com/TomoeMami/S1PlainTextBackup",
+    "clone_url": "https://github.com/TomoeMami/S1PlainTextBackup.git",
+    "stars": 489,
+    "language": "Python",
+    "size_kb": 691021
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 674,
+    "duration_seconds": 0.000113
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 489 stars."
+  }
+}
