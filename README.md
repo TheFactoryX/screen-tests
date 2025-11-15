@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #769 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-15 |
+| #770 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -836,3 +836,4 @@ Or let GitHub Action run it automatically.
 | 767 | 2025-11-15 14:14:55 | [HexaEngine/HexaEngine](https://github.com/HexaEngine/HexaEngine) | ✅ shallow (143⭐ C#) | [reels/reel_0767_HexaEngine-HexaEngine](reels/reel_0767_HexaEngine-HexaEngine) |
 | 768 | 2025-11-15 14:32:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115276⭐ JavaScript) | [reels/reel_0768_open-webui-open-webui](reels/reel_0768_open-webui-open-webui) |
 | 769 | 2025-11-15 14:50:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100503⭐ TypeScript) | [reels/reel_0769_iptv-org-iptv](reels/reel_0769_iptv-org-iptv) |
+| 770 | 2025-11-15 15:16:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258264⭐ None) | [reels/reel_0770_awesome-selfhosted-awesome-selfhosted](reels/reel_0770_awesome-selfhosted-awesome-selfhosted) |
