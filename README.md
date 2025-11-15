@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #755 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-15 |
+| #756 | [Laxilef/OTGateway](https://github.com/Laxilef/OTGateway) | C++ · ⭐ 337 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -822,3 +822,4 @@ Or let GitHub Action run it automatically.
 | 753 | 2025-11-15 09:16:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179702⭐ Python) | [reels/reel_0753_Significant-Gravitas-AutoGPT](reels/reel_0753_Significant-Gravitas-AutoGPT) |
 | 754 | 2025-11-15 09:37:21 | [huangxy7/jd_scripts](https://github.com/huangxy7/jd_scripts) | ✅ full (204⭐ Python) | [reels/reel_0754_huangxy7-jd_scripts](reels/reel_0754_huangxy7-jd_scripts) |
 | 755 | 2025-11-15 09:50:12 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98890⭐ Rust) | [reels/reel_0755_tauri-apps-tauri](reels/reel_0755_tauri-apps-tauri) |
+| 756 | 2025-11-15 10:17:02 | [Laxilef/OTGateway](https://github.com/Laxilef/OTGateway) | ✅ full (337⭐ C++) | [reels/reel_0756_Laxilef-OTGateway](reels/reel_0756_Laxilef-OTGateway) |

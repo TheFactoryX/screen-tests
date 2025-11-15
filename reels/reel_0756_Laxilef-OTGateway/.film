@@ -1,0 +1,24 @@
+{
+  "reel_number": 756,
+  "recorded": "2025-11-15 10:17:02 UTC",
+  "repository": {
+    "full_name": "Laxilef/OTGateway",
+    "url": "https://github.com/Laxilef/OTGateway",
+    "clone_url": "https://github.com/Laxilef/OTGateway.git",
+    "stars": 337,
+    "language": "C++",
+    "size_kb": 12624
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 0.972129
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 337 stars."
+  }
+}
