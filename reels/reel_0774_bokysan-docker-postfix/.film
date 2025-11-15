@@ -1,0 +1,24 @@
+{
+  "reel_number": 774,
+  "recorded": "2025-11-15 16:41:58 UTC",
+  "repository": {
+    "full_name": "bokysan/docker-postfix",
+    "url": "https://github.com/bokysan/docker-postfix",
+    "clone_url": "https://github.com/bokysan/docker-postfix.git",
+    "stars": 658,
+    "language": "Shell",
+    "size_kb": 1454
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.57508
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 658 stars."
+  }
+}
