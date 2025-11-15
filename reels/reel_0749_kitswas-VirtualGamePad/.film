@@ -1,0 +1,24 @@
+{
+  "reel_number": 749,
+  "recorded": "2025-11-15 07:49:56 UTC",
+  "repository": {
+    "full_name": "kitswas/VirtualGamePad",
+    "url": "https://github.com/kitswas/VirtualGamePad",
+    "clone_url": "https://github.com/kitswas/VirtualGamePad.git",
+    "stars": 116,
+    "language": "SCSS",
+    "size_kb": 591
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 1.59207
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "SCSS",
+    "director_note": "A SCSS repository. 116 stars."
+  }
+}
