@@ -1,0 +1,24 @@
+{
+  "reel_number": 767,
+  "recorded": "2025-11-15 14:14:55 UTC",
+  "repository": {
+    "full_name": "HexaEngine/HexaEngine",
+    "url": "https://github.com/HexaEngine/HexaEngine",
+    "clone_url": "https://github.com/HexaEngine/HexaEngine.git",
+    "stars": 143,
+    "language": "C#",
+    "size_kb": 474640
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 463,
+    "duration_seconds": 2.061958
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 143 stars."
+  }
+}
