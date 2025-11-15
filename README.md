@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #765 | [adminlove520/Poc-Monitor_v1.0.1](https://github.com/adminlove520/Poc-Monitor_v1.0.1) | Go · ⭐ 216 | 2025-11-15 |
+| #766 | [nbd-wtf/bitcoin_signet](https://github.com/nbd-wtf/bitcoin_signet) | Python · ⭐ 21 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -832,3 +832,4 @@ Or let GitHub Action run it automatically.
 | 763 | 2025-11-15 12:33:16 | [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) | ✅ full (188⭐ TypeScript) | [reels/reel_0763_yuki-yano-zeno.zsh](reels/reel_0763_yuki-yano-zeno.zsh) |
 | 764 | 2025-11-15 13:05:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100469⭐ TypeScript) | [reels/reel_0764_iptv-org-iptv](reels/reel_0764_iptv-org-iptv) |
 | 765 | 2025-11-15 13:33:18 | [adminlove520/Poc-Monitor_v1.0.1](https://github.com/adminlove520/Poc-Monitor_v1.0.1) | ✅ shallow (216⭐ Go) | [reels/reel_0765_adminlove520-Poc-Monitor_v1.0.1](reels/reel_0765_adminlove520-Poc-Monitor_v1.0.1) |
+| 766 | 2025-11-15 13:49:56 | [nbd-wtf/bitcoin_signet](https://github.com/nbd-wtf/bitcoin_signet) | ✅ full (21⭐ Python) | [reels/reel_0766_nbd-wtf-bitcoin_signet](reels/reel_0766_nbd-wtf-bitcoin_signet) |
