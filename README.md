@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #793 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-15 |
+| #794 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -860,3 +860,4 @@ Or let GitHub Action run it automatically.
 | 791 | 2025-11-15 21:28:15 | [TomoeMami/S1PlainTextBackup](https://github.com/TomoeMami/S1PlainTextBackup) | ✅ readme_only (489⭐ Python) | [reels/reel_0791_TomoeMami-S1PlainTextBackup](reels/reel_0791_TomoeMami-S1PlainTextBackup) |
 | 792 | 2025-11-15 21:39:23 | [chelsea0x3b/cudarc](https://github.com/chelsea0x3b/cudarc) | ✅ full (969⭐ Rust) | [reels/reel_0792_chelsea0x3b-cudarc](reels/reel_0792_chelsea0x3b-cudarc) |
 | 793 | 2025-11-15 21:50:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115293⭐ JavaScript) | [reels/reel_0793_open-webui-open-webui](reels/reel_0793_open-webui-open-webui) |
+| 794 | 2025-11-15 22:13:47 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100288⭐ Python) | [reels/reel_0794_deepseek-ai-DeepSeek-V3](reels/reel_0794_deepseek-ai-DeepSeek-V3) |
