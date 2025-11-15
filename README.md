@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #760 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-15 |
+| #761 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -827,3 +827,4 @@ Or let GitHub Action run it automatically.
 | 758 | 2025-11-15 10:49:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156376⭐ TypeScript) | [reels/reel_0758_n8n-io-n8n](reels/reel_0758_n8n-io-n8n) |
 | 759 | 2025-11-15 11:13:26 | [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) | ✅ full (305⭐ Svelte) | [reels/reel_0759_sachinsenal0x64-hifi](reels/reel_0759_sachinsenal0x64-hifi) |
 | 760 | 2025-11-15 11:26:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156382⭐ TypeScript) | [reels/reel_0760_n8n-io-n8n](reels/reel_0760_n8n-io-n8n) |
+| 761 | 2025-11-15 11:38:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115265⭐ JavaScript) | [reels/reel_0761_open-webui-open-webui](reels/reel_0761_open-webui-open-webui) |
