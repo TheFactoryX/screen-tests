@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #768 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-15 |
+| #769 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -835,3 +835,4 @@ Or let GitHub Action run it automatically.
 | 766 | 2025-11-15 13:49:56 | [nbd-wtf/bitcoin_signet](https://github.com/nbd-wtf/bitcoin_signet) | ✅ full (21⭐ Python) | [reels/reel_0766_nbd-wtf-bitcoin_signet](reels/reel_0766_nbd-wtf-bitcoin_signet) |
 | 767 | 2025-11-15 14:14:55 | [HexaEngine/HexaEngine](https://github.com/HexaEngine/HexaEngine) | ✅ shallow (143⭐ C#) | [reels/reel_0767_HexaEngine-HexaEngine](reels/reel_0767_HexaEngine-HexaEngine) |
 | 768 | 2025-11-15 14:32:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115276⭐ JavaScript) | [reels/reel_0768_open-webui-open-webui](reels/reel_0768_open-webui-open-webui) |
+| 769 | 2025-11-15 14:50:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100503⭐ TypeScript) | [reels/reel_0769_iptv-org-iptv](reels/reel_0769_iptv-org-iptv) |
