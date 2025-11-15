@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #781 | [chenin-wang/awesome_ai_paper](https://github.com/chenin-wang/awesome_ai_paper) | Python · ⭐ 32 | 2025-11-15 |
+| #782 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -848,3 +848,4 @@ Or let GitHub Action run it automatically.
 | 779 | 2025-11-15 17:49:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115289⭐ JavaScript) | [reels/reel_0779_open-webui-open-webui](reels/reel_0779_open-webui-open-webui) |
 | 780 | 2025-11-15 18:22:49 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249946⭐ None) | [reels/reel_0780_practical-tutorials-project-based-learning](reels/reel_0780_practical-tutorials-project-based-learning) |
 | 781 | 2025-11-15 18:44:59 | [chenin-wang/awesome_ai_paper](https://github.com/chenin-wang/awesome_ai_paper) | ✅ full (32⭐ Python) | [reels/reel_0781_chenin-wang-awesome_ai_paper](reels/reel_0781_chenin-wang-awesome_ai_paper) |
+| 782 | 2025-11-15 18:54:17 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91485⭐ None) | [reels/reel_0782_deepseek-ai-DeepSeek-R1](reels/reel_0782_deepseek-ai-DeepSeek-R1) |
