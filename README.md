@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #767 | [HexaEngine/HexaEngine](https://github.com/HexaEngine/HexaEngine) | C# · ⭐ 143 | 2025-11-15 |
+| #768 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -834,3 +834,4 @@ Or let GitHub Action run it automatically.
 | 765 | 2025-11-15 13:33:18 | [adminlove520/Poc-Monitor_v1.0.1](https://github.com/adminlove520/Poc-Monitor_v1.0.1) | ✅ shallow (216⭐ Go) | [reels/reel_0765_adminlove520-Poc-Monitor_v1.0.1](reels/reel_0765_adminlove520-Poc-Monitor_v1.0.1) |
 | 766 | 2025-11-15 13:49:56 | [nbd-wtf/bitcoin_signet](https://github.com/nbd-wtf/bitcoin_signet) | ✅ full (21⭐ Python) | [reels/reel_0766_nbd-wtf-bitcoin_signet](reels/reel_0766_nbd-wtf-bitcoin_signet) |
 | 767 | 2025-11-15 14:14:55 | [HexaEngine/HexaEngine](https://github.com/HexaEngine/HexaEngine) | ✅ shallow (143⭐ C#) | [reels/reel_0767_HexaEngine-HexaEngine](reels/reel_0767_HexaEngine-HexaEngine) |
+| 768 | 2025-11-15 14:32:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115276⭐ JavaScript) | [reels/reel_0768_open-webui-open-webui](reels/reel_0768_open-webui-open-webui) |
