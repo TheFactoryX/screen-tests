@@ -1,0 +1,24 @@
+{
+  "reel_number": 759,
+  "recorded": "2025-11-15 11:13:26 UTC",
+  "repository": {
+    "full_name": "sachinsenal0x64/hifi",
+    "url": "https://github.com/sachinsenal0x64/hifi",
+    "clone_url": "https://github.com/sachinsenal0x64/hifi.git",
+    "stars": 305,
+    "language": "Svelte",
+    "size_kb": 38338
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 37,
+    "duration_seconds": 1.536903
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Svelte",
+    "director_note": "A Svelte repository. 305 stars."
+  }
+}
