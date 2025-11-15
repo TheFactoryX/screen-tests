@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #759 | [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) | Svelte · ⭐ 305 | 2025-11-15 |
+| #760 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -826,3 +826,4 @@ Or let GitHub Action run it automatically.
 | 757 | 2025-11-15 10:39:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138260⭐ Python) | [reels/reel_0757_langflow-ai-langflow](reels/reel_0757_langflow-ai-langflow) |
 | 758 | 2025-11-15 10:49:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156376⭐ TypeScript) | [reels/reel_0758_n8n-io-n8n](reels/reel_0758_n8n-io-n8n) |
 | 759 | 2025-11-15 11:13:26 | [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) | ✅ full (305⭐ Svelte) | [reels/reel_0759_sachinsenal0x64-hifi](reels/reel_0759_sachinsenal0x64-hifi) |
+| 760 | 2025-11-15 11:26:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156382⭐ TypeScript) | [reels/reel_0760_n8n-io-n8n](reels/reel_0760_n8n-io-n8n) |
