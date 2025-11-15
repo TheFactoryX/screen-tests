@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #756 | [Laxilef/OTGateway](https://github.com/Laxilef/OTGateway) | C++ · ⭐ 337 | 2025-11-15 |
+| #757 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -823,3 +823,4 @@ Or let GitHub Action run it automatically.
 | 754 | 2025-11-15 09:37:21 | [huangxy7/jd_scripts](https://github.com/huangxy7/jd_scripts) | ✅ full (204⭐ Python) | [reels/reel_0754_huangxy7-jd_scripts](reels/reel_0754_huangxy7-jd_scripts) |
 | 755 | 2025-11-15 09:50:12 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98890⭐ Rust) | [reels/reel_0755_tauri-apps-tauri](reels/reel_0755_tauri-apps-tauri) |
 | 756 | 2025-11-15 10:17:02 | [Laxilef/OTGateway](https://github.com/Laxilef/OTGateway) | ✅ full (337⭐ C++) | [reels/reel_0756_Laxilef-OTGateway](reels/reel_0756_Laxilef-OTGateway) |
+| 757 | 2025-11-15 10:39:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138260⭐ Python) | [reels/reel_0757_langflow-ai-langflow](reels/reel_0757_langflow-ai-langflow) |
