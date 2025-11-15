@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #785 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-15 |
+| #786 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -852,3 +852,4 @@ Or let GitHub Action run it automatically.
 | 783 | 2025-11-15 19:12:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156472⭐ TypeScript) | [reels/reel_0783_n8n-io-n8n](reels/reel_0783_n8n-io-n8n) |
 | 784 | 2025-11-15 19:24:07 | [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) | ✅ full (264⭐ TypeScript) | [reels/reel_0784_Azure-Samples-aks-store-demo](reels/reel_0784_Azure-Samples-aks-store-demo) |
 | 785 | 2025-11-15 19:36:36 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100266⭐ Shell) | [reels/reel_0785_papers-we-love-papers-we-love](reels/reel_0785_papers-we-love-papers-we-love) |
+| 786 | 2025-11-15 19:50:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138302⭐ Python) | [reels/reel_0786_langflow-ai-langflow](reels/reel_0786_langflow-ai-langflow) |
