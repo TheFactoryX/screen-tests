@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #736 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-15 |
+| #737 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -803,3 +803,4 @@ Or let GitHub Action run it automatically.
 | 734 | 2025-11-14 23:50:10 | [microsoft/ApplicationInsights-node.js](https://github.com/microsoft/ApplicationInsights-node.js) | ✅ full (330⭐ TypeScript) | [reels/reel_0734_microsoft-ApplicationInsights-node.js](reels/reel_0734_microsoft-ApplicationInsights-node.js) |
 | 735 | 2025-11-15 01:20:28 | [vinhnx/vtcode](https://github.com/vinhnx/vtcode) | ✅ full (249⭐ Rust) | [reels/reel_0735_vinhnx-vtcode](reels/reel_0735_vinhnx-vtcode) |
 | 736 | 2025-11-15 02:50:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100346⭐ TypeScript) | [reels/reel_0736_iptv-org-iptv](reels/reel_0736_iptv-org-iptv) |
+| 737 | 2025-11-15 03:38:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115251⭐ JavaScript) | [reels/reel_0737_open-webui-open-webui](reels/reel_0737_open-webui-open-webui) |
