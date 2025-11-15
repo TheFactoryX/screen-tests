@@ -1,0 +1,24 @@
+{
+  "reel_number": 796,
+  "recorded": "2025-11-15 22:50:10 UTC",
+  "repository": {
+    "full_name": "penpot/penpot-files",
+    "url": "https://github.com/penpot/penpot-files",
+    "clone_url": "https://github.com/penpot/penpot-files.git",
+    "stars": 198,
+    "language": null,
+    "size_kb": 1454286
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 1420,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 198 stars."
+  }
+}

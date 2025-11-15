@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #795 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-15 |
+| #796 | [penpot/penpot-files](https://github.com/penpot/penpot-files) | None · ⭐ 198 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -862,3 +862,4 @@ Or let GitHub Action run it automatically.
 | 793 | 2025-11-15 21:50:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115293⭐ JavaScript) | [reels/reel_0793_open-webui-open-webui](reels/reel_0793_open-webui-open-webui) |
 | 794 | 2025-11-15 22:13:47 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100288⭐ Python) | [reels/reel_0794_deepseek-ai-DeepSeek-V3](reels/reel_0794_deepseek-ai-DeepSeek-V3) |
 | 795 | 2025-11-15 22:30:55 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107883⭐ Rust) | [reels/reel_0795_rust-lang-rust](reels/reel_0795_rust-lang-rust) |
+| 796 | 2025-11-15 22:50:10 | [penpot/penpot-files](https://github.com/penpot/penpot-files) | ✅ readme_only (198⭐ None) | [reels/reel_0796_penpot-penpot-files](reels/reel_0796_penpot-penpot-files) |
