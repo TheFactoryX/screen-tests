@@ -1,0 +1,24 @@
+{
+  "reel_number": 784,
+  "recorded": "2025-11-15 19:24:07 UTC",
+  "repository": {
+    "full_name": "Azure-Samples/aks-store-demo",
+    "url": "https://github.com/Azure-Samples/aks-store-demo",
+    "clone_url": "https://github.com/Azure-Samples/aks-store-demo.git",
+    "stars": 264,
+    "language": "TypeScript",
+    "size_kb": 9563
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.961492
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 264 stars."
+  }
+}
