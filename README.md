@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #754 | [huangxy7/jd_scripts](https://github.com/huangxy7/jd_scripts) | Python · ⭐ 204 | 2025-11-15 |
+| #755 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -821,3 +821,4 @@ Or let GitHub Action run it automatically.
 | 752 | 2025-11-15 08:53:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138253⭐ Python) | [reels/reel_0752_langflow-ai-langflow](reels/reel_0752_langflow-ai-langflow) |
 | 753 | 2025-11-15 09:16:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179702⭐ Python) | [reels/reel_0753_Significant-Gravitas-AutoGPT](reels/reel_0753_Significant-Gravitas-AutoGPT) |
 | 754 | 2025-11-15 09:37:21 | [huangxy7/jd_scripts](https://github.com/huangxy7/jd_scripts) | ✅ full (204⭐ Python) | [reels/reel_0754_huangxy7-jd_scripts](reels/reel_0754_huangxy7-jd_scripts) |
+| 755 | 2025-11-15 09:50:12 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98890⭐ Rust) | [reels/reel_0755_tauri-apps-tauri](reels/reel_0755_tauri-apps-tauri) |
