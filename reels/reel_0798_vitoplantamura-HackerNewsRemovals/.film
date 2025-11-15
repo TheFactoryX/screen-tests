@@ -1,0 +1,24 @@
+{
+  "reel_number": 798,
+  "recorded": "2025-11-15 23:36:53 UTC",
+  "repository": {
+    "full_name": "vitoplantamura/HackerNewsRemovals",
+    "url": "https://github.com/vitoplantamura/HackerNewsRemovals",
+    "clone_url": "https://github.com/vitoplantamura/HackerNewsRemovals.git",
+    "stars": 348,
+    "language": "C#",
+    "size_kb": 7363
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 3.004659
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 348 stars."
+  }
+}

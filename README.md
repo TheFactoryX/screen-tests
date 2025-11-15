@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #797 | [piomin/sample-spring-boot-saga-eventing](https://github.com/piomin/sample-spring-boot-saga-eventing) | Java · ⭐ 24 | 2025-11-15 |
+| #798 | [vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) | C# · ⭐ 348 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -864,3 +864,4 @@ Or let GitHub Action run it automatically.
 | 795 | 2025-11-15 22:30:55 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107883⭐ Rust) | [reels/reel_0795_rust-lang-rust](reels/reel_0795_rust-lang-rust) |
 | 796 | 2025-11-15 22:50:10 | [penpot/penpot-files](https://github.com/penpot/penpot-files) | ✅ readme_only (198⭐ None) | [reels/reel_0796_penpot-penpot-files](reels/reel_0796_penpot-penpot-files) |
 | 797 | 2025-11-15 23:16:04 | [piomin/sample-spring-boot-saga-eventing](https://github.com/piomin/sample-spring-boot-saga-eventing) | ✅ full (24⭐ Java) | [reels/reel_0797_piomin-sample-spring-boot-saga-eventing](reels/reel_0797_piomin-sample-spring-boot-saga-eventing) |
+| 798 | 2025-11-15 23:36:53 | [vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) | ✅ full (348⭐ C#) | [reels/reel_0798_vitoplantamura-HackerNewsRemovals](reels/reel_0798_vitoplantamura-HackerNewsRemovals) |
