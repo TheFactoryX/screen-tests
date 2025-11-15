@@ -1,0 +1,24 @@
+{
+  "reel_number": 763,
+  "recorded": "2025-11-15 12:33:16 UTC",
+  "repository": {
+    "full_name": "yuki-yano/zeno.zsh",
+    "url": "https://github.com/yuki-yano/zeno.zsh",
+    "clone_url": "https://github.com/yuki-yano/zeno.zsh.git",
+    "stars": 188,
+    "language": "TypeScript",
+    "size_kb": 444
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.312772
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 188 stars."
+  }
+}

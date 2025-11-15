@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #762 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-15 |
+| #763 | [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) | TypeScript · ⭐ 188 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -829,3 +829,4 @@ Or let GitHub Action run it automatically.
 | 760 | 2025-11-15 11:26:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156382⭐ TypeScript) | [reels/reel_0760_n8n-io-n8n](reels/reel_0760_n8n-io-n8n) |
 | 761 | 2025-11-15 11:38:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115265⭐ JavaScript) | [reels/reel_0761_open-webui-open-webui](reels/reel_0761_open-webui-open-webui) |
 | 762 | 2025-11-15 11:50:14 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100442⭐ TypeScript) | [reels/reel_0762_iptv-org-iptv](reels/reel_0762_iptv-org-iptv) |
+| 763 | 2025-11-15 12:33:16 | [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh) | ✅ full (188⭐ TypeScript) | [reels/reel_0763_yuki-yano-zeno.zsh](reels/reel_0763_yuki-yano-zeno.zsh) |
