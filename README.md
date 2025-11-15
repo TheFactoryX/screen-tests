@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #771 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-15 |
+| #772 | [Chevey339/kelivo](https://github.com/Chevey339/kelivo) | Dart · ⭐ 641 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -838,3 +838,4 @@ Or let GitHub Action run it automatically.
 | 769 | 2025-11-15 14:50:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100503⭐ TypeScript) | [reels/reel_0769_iptv-org-iptv](reels/reel_0769_iptv-org-iptv) |
 | 770 | 2025-11-15 15:16:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258264⭐ None) | [reels/reel_0770_awesome-selfhosted-awesome-selfhosted](reels/reel_0770_awesome-selfhosted-awesome-selfhosted) |
 | 771 | 2025-11-15 15:38:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179709⭐ Python) | [reels/reel_0771_Significant-Gravitas-AutoGPT](reels/reel_0771_Significant-Gravitas-AutoGPT) |
+| 772 | 2025-11-15 15:49:58 | [Chevey339/kelivo](https://github.com/Chevey339/kelivo) | ✅ full (641⭐ Dart) | [reels/reel_0772_Chevey339-kelivo](reels/reel_0772_Chevey339-kelivo) |

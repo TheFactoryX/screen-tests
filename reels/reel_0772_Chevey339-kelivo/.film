@@ -1,0 +1,24 @@
+{
+  "reel_number": 772,
+  "recorded": "2025-11-15 15:49:58 UTC",
+  "repository": {
+    "full_name": "Chevey339/kelivo",
+    "url": "https://github.com/Chevey339/kelivo",
+    "clone_url": "https://github.com/Chevey339/kelivo.git",
+    "stars": 641,
+    "language": "Dart",
+    "size_kb": 26548
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 1.839377
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 641 stars."
+  }
+}
