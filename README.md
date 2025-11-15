@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #750 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-15 |
+| #751 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -817,3 +817,4 @@ Or let GitHub Action run it automatically.
 | 748 | 2025-11-15 07:35:56 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (438366⭐ Markdown) | [reels/reel_0748_codecrafters-io-build-your-own-x](reels/reel_0748_codecrafters-io-build-your-own-x) |
 | 749 | 2025-11-15 07:49:56 | [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) | ✅ full (116⭐ SCSS) | [reels/reel_0749_kitswas-VirtualGamePad](reels/reel_0749_kitswas-VirtualGamePad) |
 | 750 | 2025-11-15 08:21:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98889⭐ Rust) | [reels/reel_0750_tauri-apps-tauri](reels/reel_0750_tauri-apps-tauri) |
+| 751 | 2025-11-15 08:43:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156356⭐ TypeScript) | [reels/reel_0751_n8n-io-n8n](reels/reel_0751_n8n-io-n8n) |
