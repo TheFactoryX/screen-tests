@@ -1,0 +1,24 @@
+{
+  "reel_number": 765,
+  "recorded": "2025-11-15 13:33:18 UTC",
+  "repository": {
+    "full_name": "adminlove520/Poc-Monitor_v1.0.1",
+    "url": "https://github.com/adminlove520/Poc-Monitor_v1.0.1",
+    "clone_url": "https://github.com/adminlove520/Poc-Monitor_v1.0.1.git",
+    "stars": 216,
+    "language": "Go",
+    "size_kb": 424900
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 414,
+    "duration_seconds": 12.687789
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 216 stars."
+  }
+}
