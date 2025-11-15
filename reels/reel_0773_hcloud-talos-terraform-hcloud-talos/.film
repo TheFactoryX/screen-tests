@@ -1,0 +1,24 @@
+{
+  "reel_number": 773,
+  "recorded": "2025-11-15 16:19:37 UTC",
+  "repository": {
+    "full_name": "hcloud-talos/terraform-hcloud-talos",
+    "url": "https://github.com/hcloud-talos/terraform-hcloud-talos",
+    "clone_url": "https://github.com/hcloud-talos/terraform-hcloud-talos.git",
+    "stars": 239,
+    "language": "HCL",
+    "size_kb": 16469
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 0.680419
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HCL",
+    "director_note": "A HCL repository. 239 stars."
+  }
+}

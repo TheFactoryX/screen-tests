@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #772 | [Chevey339/kelivo](https://github.com/Chevey339/kelivo) | Dart · ⭐ 641 | 2025-11-15 |
+| #773 | [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) | HCL · ⭐ 239 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -839,3 +839,4 @@ Or let GitHub Action run it automatically.
 | 770 | 2025-11-15 15:16:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258264⭐ None) | [reels/reel_0770_awesome-selfhosted-awesome-selfhosted](reels/reel_0770_awesome-selfhosted-awesome-selfhosted) |
 | 771 | 2025-11-15 15:38:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179709⭐ Python) | [reels/reel_0771_Significant-Gravitas-AutoGPT](reels/reel_0771_Significant-Gravitas-AutoGPT) |
 | 772 | 2025-11-15 15:49:58 | [Chevey339/kelivo](https://github.com/Chevey339/kelivo) | ✅ full (641⭐ Dart) | [reels/reel_0772_Chevey339-kelivo](reels/reel_0772_Chevey339-kelivo) |
+| 773 | 2025-11-15 16:19:37 | [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) | ✅ full (239⭐ HCL) | [reels/reel_0773_hcloud-talos-terraform-hcloud-talos](reels/reel_0773_hcloud-talos-terraform-hcloud-talos) |
