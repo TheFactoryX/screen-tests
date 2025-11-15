@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #778 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-15 |
+| #779 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -845,3 +845,4 @@ Or let GitHub Action run it automatically.
 | 776 | 2025-11-15 17:13:56 | [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) | ✅ full (107⭐ Rust) | [reels/reel_0776_state-machines-state-machines-rs](reels/reel_0776_state-machines-state-machines-rs) |
 | 777 | 2025-11-15 17:29:43 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135140⭐ Python) | [reels/reel_0777_yt-dlp-yt-dlp](reels/reel_0777_yt-dlp-yt-dlp) |
 | 778 | 2025-11-15 17:40:15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156455⭐ TypeScript) | [reels/reel_0778_n8n-io-n8n](reels/reel_0778_n8n-io-n8n) |
+| 779 | 2025-11-15 17:49:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115289⭐ JavaScript) | [reels/reel_0779_open-webui-open-webui](reels/reel_0779_open-webui-open-webui) |
