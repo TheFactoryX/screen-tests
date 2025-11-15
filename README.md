@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #746 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-15 |
+| #747 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -813,3 +813,4 @@ Or let GitHub Action run it automatically.
 | 744 | 2025-11-15 05:50:09 | [adminouyang/231006](https://github.com/adminouyang/231006) | ✅ shallow (160⭐ JavaScript) | [reels/reel_0744_adminouyang-231006](reels/reel_0744_adminouyang-231006) |
 | 745 | 2025-11-15 06:25:15 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99789⭐ TypeScript) | [reels/reel_0745_shadcn-ui-ui](reels/reel_0745_shadcn-ui-ui) |
 | 746 | 2025-11-15 06:46:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258205⭐ None) | [reels/reel_0746_awesome-selfhosted-awesome-selfhosted](reels/reel_0746_awesome-selfhosted-awesome-selfhosted) |
+| 747 | 2025-11-15 07:15:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135094⭐ Python) | [reels/reel_0747_yt-dlp-yt-dlp](reels/reel_0747_yt-dlp-yt-dlp) |
