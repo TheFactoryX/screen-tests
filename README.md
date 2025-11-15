@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #796 | [penpot/penpot-files](https://github.com/penpot/penpot-files) | None · ⭐ 198 | 2025-11-15 |
+| #797 | [piomin/sample-spring-boot-saga-eventing](https://github.com/piomin/sample-spring-boot-saga-eventing) | Java · ⭐ 24 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -863,3 +863,4 @@ Or let GitHub Action run it automatically.
 | 794 | 2025-11-15 22:13:47 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100288⭐ Python) | [reels/reel_0794_deepseek-ai-DeepSeek-V3](reels/reel_0794_deepseek-ai-DeepSeek-V3) |
 | 795 | 2025-11-15 22:30:55 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107883⭐ Rust) | [reels/reel_0795_rust-lang-rust](reels/reel_0795_rust-lang-rust) |
 | 796 | 2025-11-15 22:50:10 | [penpot/penpot-files](https://github.com/penpot/penpot-files) | ✅ readme_only (198⭐ None) | [reels/reel_0796_penpot-penpot-files](reels/reel_0796_penpot-penpot-files) |
+| 797 | 2025-11-15 23:16:04 | [piomin/sample-spring-boot-saga-eventing](https://github.com/piomin/sample-spring-boot-saga-eventing) | ✅ full (24⭐ Java) | [reels/reel_0797_piomin-sample-spring-boot-saga-eventing](reels/reel_0797_piomin-sample-spring-boot-saga-eventing) |

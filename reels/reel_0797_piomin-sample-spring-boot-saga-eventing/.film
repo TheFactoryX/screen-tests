@@ -1,0 +1,24 @@
+{
+  "reel_number": 797,
+  "recorded": "2025-11-15 23:16:04 UTC",
+  "repository": {
+    "full_name": "piomin/sample-spring-boot-saga-eventing",
+    "url": "https://github.com/piomin/sample-spring-boot-saga-eventing",
+    "clone_url": "https://github.com/piomin/sample-spring-boot-saga-eventing.git",
+    "stars": 24,
+    "language": "Java",
+    "size_kb": 83
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.130998
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 24 stars."
+  }
+}
