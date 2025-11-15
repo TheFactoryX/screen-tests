@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #747 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-15 |
+| #748 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 438k | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -814,3 +814,4 @@ Or let GitHub Action run it automatically.
 | 745 | 2025-11-15 06:25:15 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99789⭐ TypeScript) | [reels/reel_0745_shadcn-ui-ui](reels/reel_0745_shadcn-ui-ui) |
 | 746 | 2025-11-15 06:46:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258205⭐ None) | [reels/reel_0746_awesome-selfhosted-awesome-selfhosted](reels/reel_0746_awesome-selfhosted-awesome-selfhosted) |
 | 747 | 2025-11-15 07:15:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135094⭐ Python) | [reels/reel_0747_yt-dlp-yt-dlp](reels/reel_0747_yt-dlp-yt-dlp) |
+| 748 | 2025-11-15 07:35:56 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (438366⭐ Markdown) | [reels/reel_0748_codecrafters-io-build-your-own-x](reels/reel_0748_codecrafters-io-build-your-own-x) |
