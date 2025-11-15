@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #775 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-15 |
+| #776 | [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) | Rust · ⭐ 107 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -842,3 +842,4 @@ Or let GitHub Action run it automatically.
 | 773 | 2025-11-15 16:19:37 | [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) | ✅ full (239⭐ HCL) | [reels/reel_0773_hcloud-talos-terraform-hcloud-talos](reels/reel_0773_hcloud-talos-terraform-hcloud-talos) |
 | 774 | 2025-11-15 16:41:58 | [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) | ✅ full (658⭐ Shell) | [reels/reel_0774_bokysan-docker-postfix](reels/reel_0774_bokysan-docker-postfix) |
 | 775 | 2025-11-15 16:51:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119704⭐ Python) | [reels/reel_0775_langchain-ai-langchain](reels/reel_0775_langchain-ai-langchain) |
+| 776 | 2025-11-15 17:13:56 | [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs) | ✅ full (107⭐ Rust) | [reels/reel_0776_state-machines-state-machines-rs](reels/reel_0776_state-machines-state-machines-rs) |

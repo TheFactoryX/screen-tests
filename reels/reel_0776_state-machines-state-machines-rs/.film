@@ -1,0 +1,24 @@
+{
+  "reel_number": 776,
+  "recorded": "2025-11-15 17:13:56 UTC",
+  "repository": {
+    "full_name": "state-machines/state-machines-rs",
+    "url": "https://github.com/state-machines/state-machines-rs",
+    "clone_url": "https://github.com/state-machines/state-machines-rs.git",
+    "stars": 107,
+    "language": "Rust",
+    "size_kb": 266
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.56028
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 107 stars."
+  }
+}
