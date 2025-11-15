@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #743 | [Tonyoko/randomCatFacts](https://github.com/Tonyoko/randomCatFacts) | None · ⭐ 24 | 2025-11-15 |
+| #744 | [adminouyang/231006](https://github.com/adminouyang/231006) | JavaScript · ⭐ 160 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -810,3 +810,4 @@ Or let GitHub Action run it automatically.
 | 741 | 2025-11-15 04:52:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156331⭐ TypeScript) | [reels/reel_0741_n8n-io-n8n](reels/reel_0741_n8n-io-n8n) |
 | 742 | 2025-11-15 05:17:04 | [zhaozg/lua-openssl](https://github.com/zhaozg/lua-openssl) | ✅ full (307⭐ C) | [reels/reel_0742_zhaozg-lua-openssl](reels/reel_0742_zhaozg-lua-openssl) |
 | 743 | 2025-11-15 05:40:19 | [Tonyoko/randomCatFacts](https://github.com/Tonyoko/randomCatFacts) | ✅ full (24⭐ None) | [reels/reel_0743_Tonyoko-randomCatFacts](reels/reel_0743_Tonyoko-randomCatFacts) |
+| 744 | 2025-11-15 05:50:09 | [adminouyang/231006](https://github.com/adminouyang/231006) | ✅ shallow (160⭐ JavaScript) | [reels/reel_0744_adminouyang-231006](reels/reel_0744_adminouyang-231006) |
