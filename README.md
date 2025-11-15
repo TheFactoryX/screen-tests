@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #791 | [TomoeMami/S1PlainTextBackup](https://github.com/TomoeMami/S1PlainTextBackup) | Python · ⭐ 489 | 2025-11-15 |
+| #792 | [chelsea0x3b/cudarc](https://github.com/chelsea0x3b/cudarc) | Rust · ⭐ 969 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -858,3 +858,4 @@ Or let GitHub Action run it automatically.
 | 789 | 2025-11-15 20:50:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119713⭐ Python) | [reels/reel_0789_langchain-ai-langchain](reels/reel_0789_langchain-ai-langchain) |
 | 790 | 2025-11-15 21:14:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119713⭐ Python) | [reels/reel_0790_langchain-ai-langchain](reels/reel_0790_langchain-ai-langchain) |
 | 791 | 2025-11-15 21:28:15 | [TomoeMami/S1PlainTextBackup](https://github.com/TomoeMami/S1PlainTextBackup) | ✅ readme_only (489⭐ Python) | [reels/reel_0791_TomoeMami-S1PlainTextBackup](reels/reel_0791_TomoeMami-S1PlainTextBackup) |
+| 792 | 2025-11-15 21:39:23 | [chelsea0x3b/cudarc](https://github.com/chelsea0x3b/cudarc) | ✅ full (969⭐ Rust) | [reels/reel_0792_chelsea0x3b-cudarc](reels/reel_0792_chelsea0x3b-cudarc) |

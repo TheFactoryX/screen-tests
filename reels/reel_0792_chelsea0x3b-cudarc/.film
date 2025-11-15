@@ -1,0 +1,24 @@
+{
+  "reel_number": 792,
+  "recorded": "2025-11-15 21:39:23 UTC",
+  "repository": {
+    "full_name": "chelsea0x3b/cudarc",
+    "url": "https://github.com/chelsea0x3b/cudarc",
+    "clone_url": "https://github.com/chelsea0x3b/cudarc.git",
+    "stars": 969,
+    "language": "Rust",
+    "size_kb": 4164
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.988739
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 969 stars."
+  }
+}
