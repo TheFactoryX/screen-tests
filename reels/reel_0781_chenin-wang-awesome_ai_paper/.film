@@ -1,0 +1,24 @@
+{
+  "reel_number": 781,
+  "recorded": "2025-11-15 18:44:59 UTC",
+  "repository": {
+    "full_name": "chenin-wang/awesome_ai_paper",
+    "url": "https://github.com/chenin-wang/awesome_ai_paper",
+    "clone_url": "https://github.com/chenin-wang/awesome_ai_paper.git",
+    "stars": 32,
+    "language": "Python",
+    "size_kb": 22807
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 22,
+    "duration_seconds": 4.411568
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 32 stars."
+  }
+}
