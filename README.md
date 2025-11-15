@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #734 | [microsoft/ApplicationInsights-node.js](https://github.com/microsoft/ApplicationInsights-node.js) | TypeScript · ⭐ 330 | 2025-11-14 |
+| #735 | [vinhnx/vtcode](https://github.com/vinhnx/vtcode) | Rust · ⭐ 249 | 2025-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -801,3 +801,4 @@ Or let GitHub Action run it automatically.
 | 732 | 2025-11-14 23:16:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138222⭐ Python) | [reels/reel_0732_langflow-ai-langflow](reels/reel_0732_langflow-ai-langflow) |
 | 733 | 2025-11-14 23:37:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156296⭐ TypeScript) | [reels/reel_0733_n8n-io-n8n](reels/reel_0733_n8n-io-n8n) |
 | 734 | 2025-11-14 23:50:10 | [microsoft/ApplicationInsights-node.js](https://github.com/microsoft/ApplicationInsights-node.js) | ✅ full (330⭐ TypeScript) | [reels/reel_0734_microsoft-ApplicationInsights-node.js](reels/reel_0734_microsoft-ApplicationInsights-node.js) |
+| 735 | 2025-11-15 01:20:28 | [vinhnx/vtcode](https://github.com/vinhnx/vtcode) | ✅ full (249⭐ Rust) | [reels/reel_0735_vinhnx-vtcode](reels/reel_0735_vinhnx-vtcode) |
