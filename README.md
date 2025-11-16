@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #832 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-16 |
+| #833 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -899,3 +899,4 @@ Or let GitHub Action run it automatically.
 | 830 | 2025-11-16 14:15:20 | [productdevbook/nitro-graphql](https://github.com/productdevbook/nitro-graphql) | ✅ full (111⭐ TypeScript) | [reels/reel_0830_productdevbook-nitro-graphql](reels/reel_0830_productdevbook-nitro-graphql) |
 | 831 | 2025-11-16 14:38:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179724⭐ Python) | [reels/reel_0831_Significant-Gravitas-AutoGPT](reels/reel_0831_Significant-Gravitas-AutoGPT) |
 | 832 | 2025-11-16 14:49:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138379⭐ Python) | [reels/reel_0832_langflow-ai-langflow](reels/reel_0832_langflow-ai-langflow) |
+| 833 | 2025-11-16 15:15:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135229⭐ Python) | [reels/reel_0833_yt-dlp-yt-dlp](reels/reel_0833_yt-dlp-yt-dlp) |
