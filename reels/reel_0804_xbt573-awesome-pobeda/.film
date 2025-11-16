@@ -1,0 +1,24 @@
+{
+  "reel_number": 804,
+  "recorded": "2025-11-16 04:45:22 UTC",
+  "repository": {
+    "full_name": "xbt573/awesome-pobeda",
+    "url": "https://github.com/xbt573/awesome-pobeda",
+    "clone_url": "https://github.com/xbt573/awesome-pobeda.git",
+    "stars": 16,
+    "language": "Go",
+    "size_kb": 79
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.469516
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 16 stars."
+  }
+}
