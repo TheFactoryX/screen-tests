@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #826 | [sjhgvr/oisd](https://github.com/sjhgvr/oisd) | None · ⭐ 149 | 2025-11-16 |
+| #827 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -893,3 +893,4 @@ Or let GitHub Action run it automatically.
 | 824 | 2025-11-16 11:37:40 | [zopefoundation/zope.interface](https://github.com/zopefoundation/zope.interface) | ✅ full (346⭐ Python) | [reels/reel_0824_zopefoundation-zope.interface](reels/reel_0824_zopefoundation-zope.interface) |
 | 825 | 2025-11-16 11:50:04 | [aymericzip/intlayer](https://github.com/aymericzip/intlayer) | ✅ shallow (399⭐ TypeScript) | [reels/reel_0825_aymericzip-intlayer](reels/reel_0825_aymericzip-intlayer) |
 | 826 | 2025-11-16 12:33:19 | [sjhgvr/oisd](https://github.com/sjhgvr/oisd) | ✅ shallow (149⭐ None) | [reels/reel_0826_sjhgvr-oisd](reels/reel_0826_sjhgvr-oisd) |
+| 827 | 2025-11-16 13:05:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119751⭐ Python) | [reels/reel_0827_langchain-ai-langchain](reels/reel_0827_langchain-ai-langchain) |
