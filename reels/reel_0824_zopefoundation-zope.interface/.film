@@ -1,0 +1,24 @@
+{
+  "reel_number": 824,
+  "recorded": "2025-11-16 11:37:40 UTC",
+  "repository": {
+    "full_name": "zopefoundation/zope.interface",
+    "url": "https://github.com/zopefoundation/zope.interface",
+    "clone_url": "https://github.com/zopefoundation/zope.interface.git",
+    "stars": 346,
+    "language": "Python",
+    "size_kb": 1638
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.492802
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 346 stars."
+  }
+}
