@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #845 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-16 |
+| #846 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -912,3 +912,4 @@ Or let GitHub Action run it automatically.
 | 843 | 2025-11-16 18:45:50 | [crash-predictor1/Aviator-Predictor](https://github.com/crash-predictor1/Aviator-Predictor) | ✅ full (68⭐ TypeScript) | [reels/reel_0843_crash-predictor1-Aviator-Predictor](reels/reel_0843_crash-predictor1-Aviator-Predictor) |
 | 844 | 2025-11-16 19:13:19 | [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) | ✅ readme_only (594⭐ HTML) | [reels/reel_0844_phishdestroy-destroylist](reels/reel_0844_phishdestroy-destroylist) |
 | 845 | 2025-11-16 19:25:46 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98923⭐ Rust) | [reels/reel_0845_tauri-apps-tauri](reels/reel_0845_tauri-apps-tauri) |
+| 846 | 2025-11-16 19:37:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107900⭐ Rust) | [reels/reel_0846_rust-lang-rust](reels/reel_0846_rust-lang-rust) |
