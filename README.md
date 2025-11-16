@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #831 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-16 |
+| #832 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -898,3 +898,4 @@ Or let GitHub Action run it automatically.
 | 829 | 2025-11-16 13:49:45 | [LenAnderson/SillyTavern-Codex](https://github.com/LenAnderson/SillyTavern-Codex) | ✅ full (16⭐ JavaScript) | [reels/reel_0829_LenAnderson-SillyTavern-Codex](reels/reel_0829_LenAnderson-SillyTavern-Codex) |
 | 830 | 2025-11-16 14:15:20 | [productdevbook/nitro-graphql](https://github.com/productdevbook/nitro-graphql) | ✅ full (111⭐ TypeScript) | [reels/reel_0830_productdevbook-nitro-graphql](reels/reel_0830_productdevbook-nitro-graphql) |
 | 831 | 2025-11-16 14:38:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179724⭐ Python) | [reels/reel_0831_Significant-Gravitas-AutoGPT](reels/reel_0831_Significant-Gravitas-AutoGPT) |
+| 832 | 2025-11-16 14:49:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138379⭐ Python) | [reels/reel_0832_langflow-ai-langflow](reels/reel_0832_langflow-ai-langflow) |
