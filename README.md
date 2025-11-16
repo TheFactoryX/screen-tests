@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #813 | [mahsanet/MahsaFreeConfig](https://github.com/mahsanet/MahsaFreeConfig) | HTML · ⭐ 147 | 2025-11-16 |
+| #814 | [manuelbl/SwissQRBillDemo](https://github.com/manuelbl/SwissQRBillDemo) | TypeScript · ⭐ 17 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -880,3 +880,4 @@ Or let GitHub Action run it automatically.
 | 811 | 2025-11-16 07:36:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98903⭐ Rust) | [reels/reel_0811_tauri-apps-tauri](reels/reel_0811_tauri-apps-tauri) |
 | 812 | 2025-11-16 07:49:42 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135203⭐ Python) | [reels/reel_0812_yt-dlp-yt-dlp](reels/reel_0812_yt-dlp-yt-dlp) |
 | 813 | 2025-11-16 08:21:44 | [mahsanet/MahsaFreeConfig](https://github.com/mahsanet/MahsaFreeConfig) | ✅ readme_only (147⭐ HTML) | [reels/reel_0813_mahsanet-MahsaFreeConfig](reels/reel_0813_mahsanet-MahsaFreeConfig) |
+| 814 | 2025-11-16 08:43:55 | [manuelbl/SwissQRBillDemo](https://github.com/manuelbl/SwissQRBillDemo) | ✅ full (17⭐ TypeScript) | [reels/reel_0814_manuelbl-SwissQRBillDemo](reels/reel_0814_manuelbl-SwissQRBillDemo) |
