@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #817 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-16 |
+| #818 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -884,3 +884,4 @@ Or let GitHub Action run it automatically.
 | 815 | 2025-11-16 08:53:57 | [openbiox/weekly](https://github.com/openbiox/weekly) | ✅ full (448⭐ HTML) | [reels/reel_0815_openbiox-weekly](reels/reel_0815_openbiox-weekly) |
 | 816 | 2025-11-16 09:17:24 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (243⭐ None) | [reels/reel_0816_hello-world-1989-cn-news](reels/reel_0816_hello-world-1989-cn-news) |
 | 817 | 2025-11-16 09:38:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258357⭐ None) | [reels/reel_0817_awesome-selfhosted-awesome-selfhosted](reels/reel_0817_awesome-selfhosted-awesome-selfhosted) |
+| 818 | 2025-11-16 09:49:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100684⭐ TypeScript) | [reels/reel_0818_iptv-org-iptv](reels/reel_0818_iptv-org-iptv) |
