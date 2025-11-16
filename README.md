@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #804 | [xbt573/awesome-pobeda](https://github.com/xbt573/awesome-pobeda) | Go · ⭐ 16 | 2025-11-16 |
+| #805 | [asxez/MusicBox](https://github.com/asxez/MusicBox) | JavaScript · ⭐ 267 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -871,3 +871,4 @@ Or let GitHub Action run it automatically.
 | 802 | 2025-11-16 03:55:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249973⭐ None) | [reels/reel_0802_practical-tutorials-project-based-learning](reels/reel_0802_practical-tutorials-project-based-learning) |
 | 803 | 2025-11-16 04:25:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115308⭐ JavaScript) | [reels/reel_0803_open-webui-open-webui](reels/reel_0803_open-webui-open-webui) |
 | 804 | 2025-11-16 04:45:22 | [xbt573/awesome-pobeda](https://github.com/xbt573/awesome-pobeda) | ✅ full (16⭐ Go) | [reels/reel_0804_xbt573-awesome-pobeda](reels/reel_0804_xbt573-awesome-pobeda) |
+| 805 | 2025-11-16 05:17:15 | [asxez/MusicBox](https://github.com/asxez/MusicBox) | ✅ full (267⭐ JavaScript) | [reels/reel_0805_asxez-MusicBox](reels/reel_0805_asxez-MusicBox) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 805,
+  "recorded": "2025-11-16 05:17:15 UTC",
+  "repository": {
+    "full_name": "asxez/MusicBox",
+    "url": "https://github.com/asxez/MusicBox",
+    "clone_url": "https://github.com/asxez/MusicBox.git",
+    "stars": 267,
+    "language": "JavaScript",
+    "size_kb": 7831
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.586528
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 267 stars."
+  }
+}
