@@ -1,0 +1,24 @@
+{
+  "reel_number": 836,
+  "recorded": "2025-11-16 16:19:55 UTC",
+  "repository": {
+    "full_name": "labex-labs/practice-c-programming-projects",
+    "url": "https://github.com/labex-labs/practice-c-programming-projects",
+    "clone_url": "https://github.com/labex-labs/practice-c-programming-projects.git",
+    "stars": 906,
+    "language": null,
+    "size_kb": 50
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.157886
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 906 stars."
+  }
+}

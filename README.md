@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #835 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-16 |
+| #836 | [labex-labs/practice-c-programming-projects](https://github.com/labex-labs/practice-c-programming-projects) | None · ⭐ 906 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -902,3 +902,4 @@ Or let GitHub Action run it automatically.
 | 833 | 2025-11-16 15:15:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135229⭐ Python) | [reels/reel_0833_yt-dlp-yt-dlp](reels/reel_0833_yt-dlp-yt-dlp) |
 | 834 | 2025-11-16 15:37:14 | [nflverse/nfldata](https://github.com/nflverse/nfldata) | ✅ readme_only (328⭐ R) | [reels/reel_0834_nflverse-nfldata](reels/reel_0834_nflverse-nfldata) |
 | 835 | 2025-11-16 15:49:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119763⭐ Python) | [reels/reel_0835_langchain-ai-langchain](reels/reel_0835_langchain-ai-langchain) |
+| 836 | 2025-11-16 16:19:55 | [labex-labs/practice-c-programming-projects](https://github.com/labex-labs/practice-c-programming-projects) | ✅ full (906⭐ None) | [reels/reel_0836_labex-labs-practice-c-programming-projects](reels/reel_0836_labex-labs-practice-c-programming-projects) |
