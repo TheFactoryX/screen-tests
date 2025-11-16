@@ -1,0 +1,24 @@
+{
+  "reel_number": 826,
+  "recorded": "2025-11-16 12:33:19 UTC",
+  "repository": {
+    "full_name": "sjhgvr/oisd",
+    "url": "https://github.com/sjhgvr/oisd",
+    "clone_url": "https://github.com/sjhgvr/oisd.git",
+    "stars": 149,
+    "language": null,
+    "size_kb": 376474
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 367,
+    "duration_seconds": 14.896416
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 149 stars."
+  }
+}

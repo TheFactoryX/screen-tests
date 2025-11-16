@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #825 | [aymericzip/intlayer](https://github.com/aymericzip/intlayer) | TypeScript · ⭐ 399 | 2025-11-16 |
+| #826 | [sjhgvr/oisd](https://github.com/sjhgvr/oisd) | None · ⭐ 149 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -892,3 +892,4 @@ Or let GitHub Action run it automatically.
 | 823 | 2025-11-16 11:26:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179720⭐ Python) | [reels/reel_0823_Significant-Gravitas-AutoGPT](reels/reel_0823_Significant-Gravitas-AutoGPT) |
 | 824 | 2025-11-16 11:37:40 | [zopefoundation/zope.interface](https://github.com/zopefoundation/zope.interface) | ✅ full (346⭐ Python) | [reels/reel_0824_zopefoundation-zope.interface](reels/reel_0824_zopefoundation-zope.interface) |
 | 825 | 2025-11-16 11:50:04 | [aymericzip/intlayer](https://github.com/aymericzip/intlayer) | ✅ shallow (399⭐ TypeScript) | [reels/reel_0825_aymericzip-intlayer](reels/reel_0825_aymericzip-intlayer) |
+| 826 | 2025-11-16 12:33:19 | [sjhgvr/oisd](https://github.com/sjhgvr/oisd) | ✅ shallow (149⭐ None) | [reels/reel_0826_sjhgvr-oisd](reels/reel_0826_sjhgvr-oisd) |
