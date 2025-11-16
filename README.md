@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #819 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | None · ⭐ 171 | 2025-11-16 |
+| #820 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -886,3 +886,4 @@ Or let GitHub Action run it automatically.
 | 817 | 2025-11-16 09:38:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258357⭐ None) | [reels/reel_0817_awesome-selfhosted-awesome-selfhosted](reels/reel_0817_awesome-selfhosted-awesome-selfhosted) |
 | 818 | 2025-11-16 09:49:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100684⭐ TypeScript) | [reels/reel_0818_iptv-org-iptv](reels/reel_0818_iptv-org-iptv) |
 | 819 | 2025-11-16 10:17:31 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (171⭐ None) | [reels/reel_0819_mytv-android-China-TV-Live-M3U8](reels/reel_0819_mytv-android-China-TV-Live-M3U8) |
+| 820 | 2025-11-16 10:40:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115325⭐ JavaScript) | [reels/reel_0820_open-webui-open-webui](reels/reel_0820_open-webui-open-webui) |
