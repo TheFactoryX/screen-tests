@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #854 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 378k | 2025-11-16 |
+| #855 | [LucasPickering/slumber](https://github.com/LucasPickering/slumber) | Rust · ⭐ 766 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -921,3 +921,4 @@ Or let GitHub Action run it automatically.
 | 852 | 2025-11-16 21:36:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156647⭐ TypeScript) | [reels/reel_0852_n8n-io-n8n](reels/reel_0852_n8n-io-n8n) |
 | 853 | 2025-11-16 21:49:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156648⭐ TypeScript) | [reels/reel_0853_n8n-io-n8n](reels/reel_0853_n8n-io-n8n) |
 | 854 | 2025-11-16 22:16:08 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378912⭐ Python) | [reels/reel_0854_public-apis-public-apis](reels/reel_0854_public-apis-public-apis) |
+| 855 | 2025-11-16 22:39:55 | [LucasPickering/slumber](https://github.com/LucasPickering/slumber) | ✅ full (766⭐ Rust) | [reels/reel_0855_LucasPickering-slumber](reels/reel_0855_LucasPickering-slumber) |
