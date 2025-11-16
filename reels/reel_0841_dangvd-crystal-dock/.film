@@ -1,0 +1,24 @@
+{
+  "reel_number": 841,
+  "recorded": "2025-11-16 17:49:52 UTC",
+  "repository": {
+    "full_name": "dangvd/crystal-dock",
+    "url": "https://github.com/dangvd/crystal-dock",
+    "clone_url": "https://github.com/dangvd/crystal-dock.git",
+    "stars": 277,
+    "language": "C++",
+    "size_kb": 18963
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 0.837708
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 277 stars."
+  }
+}
