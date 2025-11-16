@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #848 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-16 |
+| #849 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -915,3 +915,4 @@ Or let GitHub Action run it automatically.
 | 846 | 2025-11-16 19:37:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107900⭐ Rust) | [reels/reel_0846_rust-lang-rust](reels/reel_0846_rust-lang-rust) |
 | 847 | 2025-11-16 19:49:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156632⭐ TypeScript) | [reels/reel_0847_n8n-io-n8n](reels/reel_0847_n8n-io-n8n) |
 | 848 | 2025-11-16 20:18:52 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138807⭐ Python) | [reels/reel_0848_ytdl-org-youtube-dl](reels/reel_0848_ytdl-org-youtube-dl) |
+| 849 | 2025-11-16 20:39:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119769⭐ Python) | [reels/reel_0849_langchain-ai-langchain](reels/reel_0849_langchain-ai-langchain) |
