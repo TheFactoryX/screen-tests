@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #839 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-16 |
+| #840 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 660 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -906,3 +906,4 @@ Or let GitHub Action run it automatically.
 | 837 | 2025-11-16 16:42:57 | [justoneapi/data-api](https://github.com/justoneapi/data-api) | ✅ full (314⭐ None) | [reels/reel_0837_justoneapi-data-api](reels/reel_0837_justoneapi-data-api) |
 | 838 | 2025-11-16 16:53:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138391⭐ Python) | [reels/reel_0838_langflow-ai-langflow](reels/reel_0838_langflow-ai-langflow) |
 | 839 | 2025-11-16 17:14:53 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100781⭐ TypeScript) | [reels/reel_0839_iptv-org-iptv](reels/reel_0839_iptv-org-iptv) |
+| 840 | 2025-11-16 17:31:04 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (660⭐ Tcl) | [reels/reel_0840_rust-lang-crates.io-index](reels/reel_0840_rust-lang-crates.io-index) |
