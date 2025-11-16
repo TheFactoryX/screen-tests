@@ -1,0 +1,24 @@
+{
+  "reel_number": 843,
+  "recorded": "2025-11-16 18:45:50 UTC",
+  "repository": {
+    "full_name": "crash-predictor1/Aviator-Predictor",
+    "url": "https://github.com/crash-predictor1/Aviator-Predictor",
+    "clone_url": "https://github.com/crash-predictor1/Aviator-Predictor.git",
+    "stars": 68,
+    "language": "TypeScript",
+    "size_kb": 358
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.206321
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 68 stars."
+  }
+}

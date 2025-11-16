@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #842 | [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) | C# · ⭐ 460 | 2025-11-16 |
+| #843 | [crash-predictor1/Aviator-Predictor](https://github.com/crash-predictor1/Aviator-Predictor) | TypeScript · ⭐ 68 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -909,3 +909,4 @@ Or let GitHub Action run it automatically.
 | 840 | 2025-11-16 17:31:04 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (660⭐ Tcl) | [reels/reel_0840_rust-lang-crates.io-index](reels/reel_0840_rust-lang-crates.io-index) |
 | 841 | 2025-11-16 17:49:52 | [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) | ✅ full (277⭐ C++) | [reels/reel_0841_dangvd-crystal-dock](reels/reel_0841_dangvd-crystal-dock) |
 | 842 | 2025-11-16 18:23:28 | [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) | ✅ full (460⭐ C#) | [reels/reel_0842_Azure-azure-functions-dotnet-worker](reels/reel_0842_Azure-azure-functions-dotnet-worker) |
+| 843 | 2025-11-16 18:45:50 | [crash-predictor1/Aviator-Predictor](https://github.com/crash-predictor1/Aviator-Predictor) | ✅ full (68⭐ TypeScript) | [reels/reel_0843_crash-predictor1-Aviator-Predictor](reels/reel_0843_crash-predictor1-Aviator-Predictor) |
