@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #857 | [tulustul/ants-sandbox](https://github.com/tulustul/ants-sandbox) | TypeScript · ⭐ 106 | 2025-11-16 |
+| #858 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -924,3 +924,4 @@ Or let GitHub Action run it automatically.
 | 855 | 2025-11-16 22:39:55 | [LucasPickering/slumber](https://github.com/LucasPickering/slumber) | ✅ full (766⭐ Rust) | [reels/reel_0855_LucasPickering-slumber](reels/reel_0855_LucasPickering-slumber) |
 | 856 | 2025-11-16 22:50:00 | [leoriviera/thefactspace](https://github.com/leoriviera/thefactspace) | ✅ full (14⭐ TypeScript) | [reels/reel_0856_leoriviera-thefactspace](reels/reel_0856_leoriviera-thefactspace) |
 | 857 | 2025-11-16 23:16:01 | [tulustul/ants-sandbox](https://github.com/tulustul/ants-sandbox) | ✅ full (106⭐ TypeScript) | [reels/reel_0857_tulustul-ants-sandbox](reels/reel_0857_tulustul-ants-sandbox) |
+| 858 | 2025-11-16 23:37:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115368⭐ JavaScript) | [reels/reel_0858_open-webui-open-webui](reels/reel_0858_open-webui-open-webui) |
