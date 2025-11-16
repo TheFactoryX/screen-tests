@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #827 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-16 |
+| #828 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -894,3 +894,4 @@ Or let GitHub Action run it automatically.
 | 825 | 2025-11-16 11:50:04 | [aymericzip/intlayer](https://github.com/aymericzip/intlayer) | ✅ shallow (399⭐ TypeScript) | [reels/reel_0825_aymericzip-intlayer](reels/reel_0825_aymericzip-intlayer) |
 | 826 | 2025-11-16 12:33:19 | [sjhgvr/oisd](https://github.com/sjhgvr/oisd) | ✅ shallow (149⭐ None) | [reels/reel_0826_sjhgvr-oisd](reels/reel_0826_sjhgvr-oisd) |
 | 827 | 2025-11-16 13:05:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119751⭐ Python) | [reels/reel_0827_langchain-ai-langchain](reels/reel_0827_langchain-ai-langchain) |
+| 828 | 2025-11-16 13:33:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135224⭐ Python) | [reels/reel_0828_yt-dlp-yt-dlp](reels/reel_0828_yt-dlp-yt-dlp) |
