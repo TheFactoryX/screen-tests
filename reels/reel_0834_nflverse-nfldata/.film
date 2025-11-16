@@ -1,0 +1,24 @@
+{
+  "reel_number": 834,
+  "recorded": "2025-11-16 15:37:14 UTC",
+  "repository": {
+    "full_name": "nflverse/nfldata",
+    "url": "https://github.com/nflverse/nfldata",
+    "clone_url": "https://github.com/nflverse/nfldata.git",
+    "stars": 328,
+    "language": "R",
+    "size_kb": 7548618
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 7371,
+    "duration_seconds": 0.000141
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "R",
+    "director_note": "A R repository. 328 stars."
+  }
+}
