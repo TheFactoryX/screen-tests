@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #806 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-16 |
+| #807 | [mikro-orm/nestjs-realworld-example-app](https://github.com/mikro-orm/nestjs-realworld-example-app) | TypeScript · ⭐ 319 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -873,3 +873,4 @@ Or let GitHub Action run it automatically.
 | 804 | 2025-11-16 04:45:22 | [xbt573/awesome-pobeda](https://github.com/xbt573/awesome-pobeda) | ✅ full (16⭐ Go) | [reels/reel_0804_xbt573-awesome-pobeda](reels/reel_0804_xbt573-awesome-pobeda) |
 | 805 | 2025-11-16 05:17:15 | [asxez/MusicBox](https://github.com/asxez/MusicBox) | ✅ full (267⭐ JavaScript) | [reels/reel_0805_asxez-MusicBox](reels/reel_0805_asxez-MusicBox) |
 | 806 | 2025-11-16 05:40:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156522⭐ TypeScript) | [reels/reel_0806_n8n-io-n8n](reels/reel_0806_n8n-io-n8n) |
+| 807 | 2025-11-16 05:50:00 | [mikro-orm/nestjs-realworld-example-app](https://github.com/mikro-orm/nestjs-realworld-example-app) | ✅ full (319⭐ TypeScript) | [reels/reel_0807_mikro-orm-nestjs-realworld-example-app](reels/reel_0807_mikro-orm-nestjs-realworld-example-app) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 807,
+  "recorded": "2025-11-16 05:50:00 UTC",
+  "repository": {
+    "full_name": "mikro-orm/nestjs-realworld-example-app",
+    "url": "https://github.com/mikro-orm/nestjs-realworld-example-app",
+    "clone_url": "https://github.com/mikro-orm/nestjs-realworld-example-app.git",
+    "stars": 319,
+    "language": "TypeScript",
+    "size_kb": 4834
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 1.105536
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 319 stars."
+  }
+}
