@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #824 | [zopefoundation/zope.interface](https://github.com/zopefoundation/zope.interface) | Python · ⭐ 346 | 2025-11-16 |
+| #825 | [aymericzip/intlayer](https://github.com/aymericzip/intlayer) | TypeScript · ⭐ 399 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -891,3 +891,4 @@ Or let GitHub Action run it automatically.
 | 822 | 2025-11-16 11:13:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156575⭐ TypeScript) | [reels/reel_0822_n8n-io-n8n](reels/reel_0822_n8n-io-n8n) |
 | 823 | 2025-11-16 11:26:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179720⭐ Python) | [reels/reel_0823_Significant-Gravitas-AutoGPT](reels/reel_0823_Significant-Gravitas-AutoGPT) |
 | 824 | 2025-11-16 11:37:40 | [zopefoundation/zope.interface](https://github.com/zopefoundation/zope.interface) | ✅ full (346⭐ Python) | [reels/reel_0824_zopefoundation-zope.interface](reels/reel_0824_zopefoundation-zope.interface) |
+| 825 | 2025-11-16 11:50:04 | [aymericzip/intlayer](https://github.com/aymericzip/intlayer) | ✅ shallow (399⭐ TypeScript) | [reels/reel_0825_aymericzip-intlayer](reels/reel_0825_aymericzip-intlayer) |

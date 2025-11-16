@@ -1,0 +1,24 @@
+{
+  "reel_number": 825,
+  "recorded": "2025-11-16 11:50:04 UTC",
+  "repository": {
+    "full_name": "aymericzip/intlayer",
+    "url": "https://github.com/aymericzip/intlayer",
+    "clone_url": "https://github.com/aymericzip/intlayer.git",
+    "stars": 399,
+    "language": "TypeScript",
+    "size_kb": 449982
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 439,
+    "duration_seconds": 4.15295
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 399 stars."
+  }
+}
