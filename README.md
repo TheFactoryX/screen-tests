@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #818 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-16 |
+| #819 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | None · ⭐ 171 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -885,3 +885,4 @@ Or let GitHub Action run it automatically.
 | 816 | 2025-11-16 09:17:24 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (243⭐ None) | [reels/reel_0816_hello-world-1989-cn-news](reels/reel_0816_hello-world-1989-cn-news) |
 | 817 | 2025-11-16 09:38:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258357⭐ None) | [reels/reel_0817_awesome-selfhosted-awesome-selfhosted](reels/reel_0817_awesome-selfhosted-awesome-selfhosted) |
 | 818 | 2025-11-16 09:49:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100684⭐ TypeScript) | [reels/reel_0818_iptv-org-iptv](reels/reel_0818_iptv-org-iptv) |
+| 819 | 2025-11-16 10:17:31 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (171⭐ None) | [reels/reel_0819_mytv-android-China-TV-Live-M3U8](reels/reel_0819_mytv-android-China-TV-Live-M3U8) |
