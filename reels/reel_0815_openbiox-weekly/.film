@@ -1,0 +1,24 @@
+{
+  "reel_number": 815,
+  "recorded": "2025-11-16 08:53:57 UTC",
+  "repository": {
+    "full_name": "openbiox/weekly",
+    "url": "https://github.com/openbiox/weekly",
+    "clone_url": "https://github.com/openbiox/weekly.git",
+    "stars": 448,
+    "language": "HTML",
+    "size_kb": 7867
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.791061
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 448 stars."
+  }
+}
