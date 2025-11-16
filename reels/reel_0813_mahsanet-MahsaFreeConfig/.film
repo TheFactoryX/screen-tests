@@ -1,0 +1,24 @@
+{
+  "reel_number": 813,
+  "recorded": "2025-11-16 08:21:44 UTC",
+  "repository": {
+    "full_name": "mahsanet/MahsaFreeConfig",
+    "url": "https://github.com/mahsanet/MahsaFreeConfig",
+    "clone_url": "https://github.com/mahsanet/MahsaFreeConfig.git",
+    "stars": 147,
+    "language": "HTML",
+    "size_kb": 1251432
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1222,
+    "duration_seconds": 0.000135
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 147 stars."
+  }
+}
