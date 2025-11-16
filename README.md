@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #822 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 156k | 2025-11-16 |
+| #823 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -889,3 +889,4 @@ Or let GitHub Action run it automatically.
 | 820 | 2025-11-16 10:40:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115325⭐ JavaScript) | [reels/reel_0820_open-webui-open-webui](reels/reel_0820_open-webui-open-webui) |
 | 821 | 2025-11-16 10:50:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179720⭐ Python) | [reels/reel_0821_Significant-Gravitas-AutoGPT](reels/reel_0821_Significant-Gravitas-AutoGPT) |
 | 822 | 2025-11-16 11:13:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156575⭐ TypeScript) | [reels/reel_0822_n8n-io-n8n](reels/reel_0822_n8n-io-n8n) |
+| 823 | 2025-11-16 11:26:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179720⭐ Python) | [reels/reel_0823_Significant-Gravitas-AutoGPT](reels/reel_0823_Significant-Gravitas-AutoGPT) |
