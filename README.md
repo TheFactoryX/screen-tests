@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #800 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-16 |
+| #801 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -867,3 +867,4 @@ Or let GitHub Action run it automatically.
 | 798 | 2025-11-15 23:36:53 | [vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) | ✅ full (348⭐ C#) | [reels/reel_0798_vitoplantamura-HackerNewsRemovals](reels/reel_0798_vitoplantamura-HackerNewsRemovals) |
 | 799 | 2025-11-15 23:50:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100579⭐ TypeScript) | [reels/reel_0799_iptv-org-iptv](reels/reel_0799_iptv-org-iptv) |
 | 800 | 2025-11-16 01:27:30 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96608⭐ TypeScript) | [reels/reel_0800_ant-design-ant-design](reels/reel_0800_ant-design-ant-design) |
+| 801 | 2025-11-16 03:06:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107884⭐ Rust) | [reels/reel_0801_rust-lang-rust](reels/reel_0801_rust-lang-rust) |
