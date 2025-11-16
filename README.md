@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #841 | [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) | C++ · ⭐ 277 | 2025-11-16 |
+| #842 | [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) | C# · ⭐ 460 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -908,3 +908,4 @@ Or let GitHub Action run it automatically.
 | 839 | 2025-11-16 17:14:53 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100781⭐ TypeScript) | [reels/reel_0839_iptv-org-iptv](reels/reel_0839_iptv-org-iptv) |
 | 840 | 2025-11-16 17:31:04 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (660⭐ Tcl) | [reels/reel_0840_rust-lang-crates.io-index](reels/reel_0840_rust-lang-crates.io-index) |
 | 841 | 2025-11-16 17:49:52 | [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) | ✅ full (277⭐ C++) | [reels/reel_0841_dangvd-crystal-dock](reels/reel_0841_dangvd-crystal-dock) |
+| 842 | 2025-11-16 18:23:28 | [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) | ✅ full (460⭐ C#) | [reels/reel_0842_Azure-azure-functions-dotnet-worker](reels/reel_0842_Azure-azure-functions-dotnet-worker) |
