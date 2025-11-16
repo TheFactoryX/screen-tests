@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #843 | [crash-predictor1/Aviator-Predictor](https://github.com/crash-predictor1/Aviator-Predictor) | TypeScript · ⭐ 68 | 2025-11-16 |
+| #844 | [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) | HTML · ⭐ 594 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -910,3 +910,4 @@ Or let GitHub Action run it automatically.
 | 841 | 2025-11-16 17:49:52 | [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) | ✅ full (277⭐ C++) | [reels/reel_0841_dangvd-crystal-dock](reels/reel_0841_dangvd-crystal-dock) |
 | 842 | 2025-11-16 18:23:28 | [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) | ✅ full (460⭐ C#) | [reels/reel_0842_Azure-azure-functions-dotnet-worker](reels/reel_0842_Azure-azure-functions-dotnet-worker) |
 | 843 | 2025-11-16 18:45:50 | [crash-predictor1/Aviator-Predictor](https://github.com/crash-predictor1/Aviator-Predictor) | ✅ full (68⭐ TypeScript) | [reels/reel_0843_crash-predictor1-Aviator-Predictor](reels/reel_0843_crash-predictor1-Aviator-Predictor) |
+| 844 | 2025-11-16 19:13:19 | [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) | ✅ readme_only (594⭐ HTML) | [reels/reel_0844_phishdestroy-destroylist](reels/reel_0844_phishdestroy-destroylist) |

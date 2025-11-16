@@ -1,0 +1,24 @@
+{
+  "reel_number": 844,
+  "recorded": "2025-11-16 19:13:19 UTC",
+  "repository": {
+    "full_name": "phishdestroy/destroylist",
+    "url": "https://github.com/phishdestroy/destroylist",
+    "clone_url": "https://github.com/phishdestroy/destroylist.git",
+    "stars": 594,
+    "language": "HTML",
+    "size_kb": 736402
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 719,
+    "duration_seconds": 0.000147
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 594 stars."
+  }
+}
