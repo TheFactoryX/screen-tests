@@ -1,0 +1,24 @@
+{
+  "reel_number": 850,
+  "recorded": "2025-11-16 20:49:51 UTC",
+  "repository": {
+    "full_name": "lalinsky/zio",
+    "url": "https://github.com/lalinsky/zio",
+    "clone_url": "https://github.com/lalinsky/zio.git",
+    "stars": 283,
+    "language": "Zig",
+    "size_kb": 1551
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.765563
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Zig",
+    "director_note": "A Zig repository. 283 stars."
+  }
+}
