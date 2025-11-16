@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #799 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-15 |
+| #800 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -866,3 +866,4 @@ Or let GitHub Action run it automatically.
 | 797 | 2025-11-15 23:16:04 | [piomin/sample-spring-boot-saga-eventing](https://github.com/piomin/sample-spring-boot-saga-eventing) | ✅ full (24⭐ Java) | [reels/reel_0797_piomin-sample-spring-boot-saga-eventing](reels/reel_0797_piomin-sample-spring-boot-saga-eventing) |
 | 798 | 2025-11-15 23:36:53 | [vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) | ✅ full (348⭐ C#) | [reels/reel_0798_vitoplantamura-HackerNewsRemovals](reels/reel_0798_vitoplantamura-HackerNewsRemovals) |
 | 799 | 2025-11-15 23:50:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100579⭐ TypeScript) | [reels/reel_0799_iptv-org-iptv](reels/reel_0799_iptv-org-iptv) |
+| 800 | 2025-11-16 01:27:30 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96608⭐ TypeScript) | [reels/reel_0800_ant-design-ant-design](reels/reel_0800_ant-design-ant-design) |
