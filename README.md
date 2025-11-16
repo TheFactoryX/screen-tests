@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #801 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-16 |
+| #802 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 249k | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -868,3 +868,4 @@ Or let GitHub Action run it automatically.
 | 799 | 2025-11-15 23:50:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100579⭐ TypeScript) | [reels/reel_0799_iptv-org-iptv](reels/reel_0799_iptv-org-iptv) |
 | 800 | 2025-11-16 01:27:30 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96608⭐ TypeScript) | [reels/reel_0800_ant-design-ant-design](reels/reel_0800_ant-design-ant-design) |
 | 801 | 2025-11-16 03:06:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107884⭐ Rust) | [reels/reel_0801_rust-lang-rust](reels/reel_0801_rust-lang-rust) |
+| 802 | 2025-11-16 03:55:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (249973⭐ None) | [reels/reel_0802_practical-tutorials-project-based-learning](reels/reel_0802_practical-tutorials-project-based-learning) |
