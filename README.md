@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #815 | [openbiox/weekly](https://github.com/openbiox/weekly) | HTML · ⭐ 448 | 2025-11-16 |
+| #816 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 243 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -882,3 +882,4 @@ Or let GitHub Action run it automatically.
 | 813 | 2025-11-16 08:21:44 | [mahsanet/MahsaFreeConfig](https://github.com/mahsanet/MahsaFreeConfig) | ✅ readme_only (147⭐ HTML) | [reels/reel_0813_mahsanet-MahsaFreeConfig](reels/reel_0813_mahsanet-MahsaFreeConfig) |
 | 814 | 2025-11-16 08:43:55 | [manuelbl/SwissQRBillDemo](https://github.com/manuelbl/SwissQRBillDemo) | ✅ full (17⭐ TypeScript) | [reels/reel_0814_manuelbl-SwissQRBillDemo](reels/reel_0814_manuelbl-SwissQRBillDemo) |
 | 815 | 2025-11-16 08:53:57 | [openbiox/weekly](https://github.com/openbiox/weekly) | ✅ full (448⭐ HTML) | [reels/reel_0815_openbiox-weekly](reels/reel_0815_openbiox-weekly) |
+| 816 | 2025-11-16 09:17:24 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (243⭐ None) | [reels/reel_0816_hello-world-1989-cn-news](reels/reel_0816_hello-world-1989-cn-news) |
