@@ -1,0 +1,24 @@
+{
+  "reel_number": 856,
+  "recorded": "2025-11-16 22:50:00 UTC",
+  "repository": {
+    "full_name": "leoriviera/thefactspace",
+    "url": "https://github.com/leoriviera/thefactspace",
+    "clone_url": "https://github.com/leoriviera/thefactspace.git",
+    "stars": 14,
+    "language": "TypeScript",
+    "size_kb": 1390
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.23472
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 14 stars."
+  }
+}

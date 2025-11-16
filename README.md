@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #855 | [LucasPickering/slumber](https://github.com/LucasPickering/slumber) | Rust · ⭐ 766 | 2025-11-16 |
+| #856 | [leoriviera/thefactspace](https://github.com/leoriviera/thefactspace) | TypeScript · ⭐ 14 | 2025-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -922,3 +922,4 @@ Or let GitHub Action run it automatically.
 | 853 | 2025-11-16 21:49:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (156648⭐ TypeScript) | [reels/reel_0853_n8n-io-n8n](reels/reel_0853_n8n-io-n8n) |
 | 854 | 2025-11-16 22:16:08 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (378912⭐ Python) | [reels/reel_0854_public-apis-public-apis](reels/reel_0854_public-apis-public-apis) |
 | 855 | 2025-11-16 22:39:55 | [LucasPickering/slumber](https://github.com/LucasPickering/slumber) | ✅ full (766⭐ Rust) | [reels/reel_0855_LucasPickering-slumber](reels/reel_0855_LucasPickering-slumber) |
+| 856 | 2025-11-16 22:50:00 | [leoriviera/thefactspace](https://github.com/leoriviera/thefactspace) | ✅ full (14⭐ TypeScript) | [reels/reel_0856_leoriviera-thefactspace](reels/reel_0856_leoriviera-thefactspace) |
