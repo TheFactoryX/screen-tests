@@ -1,0 +1,24 @@
+{
+  "reel_number": 859,
+  "recorded": "2025-11-16 23:49:42 UTC",
+  "repository": {
+    "full_name": "doodlum/skyrim-community-shaders",
+    "url": "https://github.com/doodlum/skyrim-community-shaders",
+    "clone_url": "https://github.com/doodlum/skyrim-community-shaders.git",
+    "stars": 472,
+    "language": "C++",
+    "size_kb": 275232
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 268,
+    "duration_seconds": 3.729152
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 472 stars."
+  }
+}
