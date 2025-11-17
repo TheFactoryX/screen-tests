@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #874 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-17 |
+| #875 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 100k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -941,3 +941,4 @@ Or let GitHub Action run it automatically.
 | 872 | 2025-11-17 07:49:42 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107908⭐ Rust) | [reels/reel_0872_rust-lang-rust](reels/reel_0872_rust-lang-rust) |
 | 873 | 2025-11-17 08:27:14 | [opentofu/registry](https://github.com/opentofu/registry) | ✅ readme_only (382⭐ Go) | [reels/reel_0873_opentofu-registry](reels/reel_0873_opentofu-registry) |
 | 874 | 2025-11-17 08:51:44 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100307⭐ Python) | [reels/reel_0874_deepseek-ai-DeepSeek-V3](reels/reel_0874_deepseek-ai-DeepSeek-V3) |
+| 875 | 2025-11-17 09:23:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100988⭐ TypeScript) | [reels/reel_0875_iptv-org-iptv](reels/reel_0875_iptv-org-iptv) |
