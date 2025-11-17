@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #894 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-17 |
+| #895 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -961,3 +961,4 @@ Or let GitHub Action run it automatically.
 | 892 | 2025-11-17 16:24:55 | [swarm-game/swarm](https://github.com/swarm-game/swarm) | ✅ full (896⭐ Haskell) | [reels/reel_0892_swarm-game-swarm](reels/reel_0892_swarm-game-swarm) |
 | 893 | 2025-11-17 16:50:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (101068⭐ TypeScript) | [reels/reel_0893_iptv-org-iptv](reels/reel_0893_iptv-org-iptv) |
 | 894 | 2025-11-17 17:17:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135360⭐ Python) | [reels/reel_0894_yt-dlp-yt-dlp](reels/reel_0894_yt-dlp-yt-dlp) |
+| 895 | 2025-11-17 17:41:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96617⭐ TypeScript) | [reels/reel_0895_ant-design-ant-design](reels/reel_0895_ant-design-ant-design) |
