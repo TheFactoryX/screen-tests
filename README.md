@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #860 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-17 |
+| #861 | [WTFAcademy/frontend](https://github.com/WTFAcademy/frontend) | Jupyter Notebook · ⭐ 37 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -927,3 +927,4 @@ Or let GitHub Action run it automatically.
 | 858 | 2025-11-16 23:37:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115368⭐ JavaScript) | [reels/reel_0858_open-webui-open-webui](reels/reel_0858_open-webui-open-webui) |
 | 859 | 2025-11-16 23:49:42 | [doodlum/skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) | ✅ shallow (472⭐ C++) | [reels/reel_0859_doodlum-skyrim-community-shaders](reels/reel_0859_doodlum-skyrim-community-shaders) |
 | 860 | 2025-11-17 01:23:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107906⭐ Rust) | [reels/reel_0860_rust-lang-rust](reels/reel_0860_rust-lang-rust) |
+| 861 | 2025-11-17 02:58:30 | [WTFAcademy/frontend](https://github.com/WTFAcademy/frontend) | ✅ shallow (37⭐ Jupyter Notebook) | [reels/reel_0861_WTFAcademy-frontend](reels/reel_0861_WTFAcademy-frontend) |
