@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #862 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-17 |
+| #863 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 439k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -929,3 +929,4 @@ Or let GitHub Action run it automatically.
 | 860 | 2025-11-17 01:23:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107906⭐ Rust) | [reels/reel_0860_rust-lang-rust](reels/reel_0860_rust-lang-rust) |
 | 861 | 2025-11-17 02:58:30 | [WTFAcademy/frontend](https://github.com/WTFAcademy/frontend) | ✅ shallow (37⭐ Jupyter Notebook) | [reels/reel_0861_WTFAcademy-frontend](reels/reel_0861_WTFAcademy-frontend) |
 | 862 | 2025-11-17 03:51:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135286⭐ Python) | [reels/reel_0862_yt-dlp-yt-dlp](reels/reel_0862_yt-dlp-yt-dlp) |
+| 863 | 2025-11-17 04:25:02 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (439123⭐ Markdown) | [reels/reel_0863_codecrafters-io-build-your-own-x](reels/reel_0863_codecrafters-io-build-your-own-x) |
