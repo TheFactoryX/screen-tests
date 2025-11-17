@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #904 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-17 |
+| #905 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -971,3 +971,4 @@ Or let GitHub Action run it automatically.
 | 902 | 2025-11-17 19:50:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258617⭐ None) | [reels/reel_0902_awesome-selfhosted-awesome-selfhosted](reels/reel_0902_awesome-selfhosted-awesome-selfhosted) |
 | 903 | 2025-11-17 20:21:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119876⭐ Python) | [reels/reel_0903_langchain-ai-langchain](reels/reel_0903_langchain-ai-langchain) |
 | 904 | 2025-11-17 20:40:32 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179766⭐ Python) | [reels/reel_0904_Significant-Gravitas-AutoGPT](reels/reel_0904_Significant-Gravitas-AutoGPT) |
+| 905 | 2025-11-17 20:50:27 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138830⭐ Python) | [reels/reel_0905_ytdl-org-youtube-dl](reels/reel_0905_ytdl-org-youtube-dl) |
