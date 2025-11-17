@@ -1,0 +1,24 @@
+{
+  "reel_number": 907,
+  "recorded": "2025-11-17 21:39:03 UTC",
+  "repository": {
+    "full_name": "PRBonn/WeedsAreWeird",
+    "url": "https://github.com/PRBonn/WeedsAreWeird",
+    "clone_url": "https://github.com/PRBonn/WeedsAreWeird.git",
+    "stars": 22,
+    "language": "Python",
+    "size_kb": 7851
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.279431
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 22 stars."
+  }
+}

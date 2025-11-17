@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #906 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-17 |
+| #907 | [PRBonn/WeedsAreWeird](https://github.com/PRBonn/WeedsAreWeird) | Python · ⭐ 22 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -973,3 +973,4 @@ Or let GitHub Action run it automatically.
 | 904 | 2025-11-17 20:40:32 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179766⭐ Python) | [reels/reel_0904_Significant-Gravitas-AutoGPT](reels/reel_0904_Significant-Gravitas-AutoGPT) |
 | 905 | 2025-11-17 20:50:27 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138830⭐ Python) | [reels/reel_0905_ytdl-org-youtube-dl](reels/reel_0905_ytdl-org-youtube-dl) |
 | 906 | 2025-11-17 21:16:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258629⭐ None) | [reels/reel_0906_awesome-selfhosted-awesome-selfhosted](reels/reel_0906_awesome-selfhosted-awesome-selfhosted) |
+| 907 | 2025-11-17 21:39:03 | [PRBonn/WeedsAreWeird](https://github.com/PRBonn/WeedsAreWeird) | ✅ full (22⭐ Python) | [reels/reel_0907_PRBonn-WeedsAreWeird](reels/reel_0907_PRBonn-WeedsAreWeird) |
