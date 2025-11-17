@@ -1,0 +1,24 @@
+{
+  "reel_number": 883,
+  "recorded": "2025-11-17 12:38:17 UTC",
+  "repository": {
+    "full_name": "hookzof/socks5_list",
+    "url": "https://github.com/hookzof/socks5_list",
+    "clone_url": "https://github.com/hookzof/socks5_list.git",
+    "stars": 861,
+    "language": null,
+    "size_kb": 7495375
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 7319,
+    "duration_seconds": 0.000144
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 861 stars."
+  }
+}
