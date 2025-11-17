@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #898 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-17 |
+| #899 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -965,3 +965,4 @@ Or let GitHub Action run it automatically.
 | 896 | 2025-11-17 17:50:59 | [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) | ✅ full (272⭐ Open Policy Agent) | [reels/reel_0896_cisagov-ScubaGoggles](reels/reel_0896_cisagov-ScubaGoggles) |
 | 897 | 2025-11-17 18:26:43 | [mutable-org/mutable](https://github.com/mutable-org/mutable) | ✅ full (111⭐ C++) | [reels/reel_0897_mutable-org-mutable](reels/reel_0897_mutable-org-mutable) |
 | 898 | 2025-11-17 18:49:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107917⭐ Rust) | [reels/reel_0898_rust-lang-rust](reels/reel_0898_rust-lang-rust) |
+| 899 | 2025-11-17 19:14:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119874⭐ Python) | [reels/reel_0899_langchain-ai-langchain](reels/reel_0899_langchain-ai-langchain) |
