@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #863 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 439k | 2025-11-17 |
+| #864 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -930,3 +930,4 @@ Or let GitHub Action run it automatically.
 | 861 | 2025-11-17 02:58:30 | [WTFAcademy/frontend](https://github.com/WTFAcademy/frontend) | ✅ shallow (37⭐ Jupyter Notebook) | [reels/reel_0861_WTFAcademy-frontend](reels/reel_0861_WTFAcademy-frontend) |
 | 862 | 2025-11-17 03:51:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135286⭐ Python) | [reels/reel_0862_yt-dlp-yt-dlp](reels/reel_0862_yt-dlp-yt-dlp) |
 | 863 | 2025-11-17 04:25:02 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (439123⭐ Markdown) | [reels/reel_0863_codecrafters-io-build-your-own-x](reels/reel_0863_codecrafters-io-build-your-own-x) |
+| 864 | 2025-11-17 04:46:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138811⭐ Python) | [reels/reel_0864_ytdl-org-youtube-dl](reels/reel_0864_ytdl-org-youtube-dl) |
