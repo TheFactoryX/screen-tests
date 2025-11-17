@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #884 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-17 |
+| #885 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -951,3 +951,4 @@ Or let GitHub Action run it automatically.
 | 882 | 2025-11-17 11:50:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179751⭐ Python) | [reels/reel_0882_Significant-Gravitas-AutoGPT](reels/reel_0882_Significant-Gravitas-AutoGPT) |
 | 883 | 2025-11-17 12:38:17 | [hookzof/socks5_list](https://github.com/hookzof/socks5_list) | ✅ readme_only (861⭐ None) | [reels/reel_0883_hookzof-socks5_list](reels/reel_0883_hookzof-socks5_list) |
 | 884 | 2025-11-17 13:20:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258567⭐ None) | [reels/reel_0884_awesome-selfhosted-awesome-selfhosted](reels/reel_0884_awesome-selfhosted-awesome-selfhosted) |
+| 885 | 2025-11-17 13:48:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135340⭐ Python) | [reels/reel_0885_yt-dlp-yt-dlp](reels/reel_0885_yt-dlp-yt-dlp) |
