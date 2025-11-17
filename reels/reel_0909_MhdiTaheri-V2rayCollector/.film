@@ -1,0 +1,24 @@
+{
+  "reel_number": 909,
+  "recorded": "2025-11-17 22:17:40 UTC",
+  "repository": {
+    "full_name": "MhdiTaheri/V2rayCollector",
+    "url": "https://github.com/MhdiTaheri/V2rayCollector",
+    "clone_url": "https://github.com/MhdiTaheri/V2rayCollector.git",
+    "stars": 233,
+    "language": "PHP",
+    "size_kb": 643781
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 628,
+    "duration_seconds": 0.000165
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 233 stars."
+  }
+}
