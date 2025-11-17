@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #861 | [WTFAcademy/frontend](https://github.com/WTFAcademy/frontend) | Jupyter Notebook · ⭐ 37 | 2025-11-17 |
+| #862 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -928,3 +928,4 @@ Or let GitHub Action run it automatically.
 | 859 | 2025-11-16 23:49:42 | [doodlum/skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) | ✅ shallow (472⭐ C++) | [reels/reel_0859_doodlum-skyrim-community-shaders](reels/reel_0859_doodlum-skyrim-community-shaders) |
 | 860 | 2025-11-17 01:23:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107906⭐ Rust) | [reels/reel_0860_rust-lang-rust](reels/reel_0860_rust-lang-rust) |
 | 861 | 2025-11-17 02:58:30 | [WTFAcademy/frontend](https://github.com/WTFAcademy/frontend) | ✅ shallow (37⭐ Jupyter Notebook) | [reels/reel_0861_WTFAcademy-frontend](reels/reel_0861_WTFAcademy-frontend) |
+| 862 | 2025-11-17 03:51:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135286⭐ Python) | [reels/reel_0862_yt-dlp-yt-dlp](reels/reel_0862_yt-dlp-yt-dlp) |
