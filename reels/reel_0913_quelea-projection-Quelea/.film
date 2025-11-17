@@ -1,0 +1,24 @@
+{
+  "reel_number": 913,
+  "recorded": "2025-11-17 23:38:26 UTC",
+  "repository": {
+    "full_name": "quelea-projection/Quelea",
+    "url": "https://github.com/quelea-projection/Quelea",
+    "clone_url": "https://github.com/quelea-projection/Quelea.git",
+    "stars": 183,
+    "language": "Java",
+    "size_kb": 1862575
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1818,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 183 stars."
+  }
+}

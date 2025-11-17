@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #912 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-17 |
+| #913 | [quelea-projection/Quelea](https://github.com/quelea-projection/Quelea) | Java · ⭐ 183 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -979,3 +979,4 @@ Or let GitHub Action run it automatically.
 | 910 | 2025-11-17 22:41:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138540⭐ Python) | [reels/reel_0910_langflow-ai-langflow](reels/reel_0910_langflow-ai-langflow) |
 | 911 | 2025-11-17 22:51:37 | [gentoo-mirror/gentoo](https://github.com/gentoo-mirror/gentoo) | ✅ readme_only (184⭐ Shell) | [reels/reel_0911_gentoo-mirror-gentoo](reels/reel_0911_gentoo-mirror-gentoo) |
 | 912 | 2025-11-17 23:16:38 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115467⭐ JavaScript) | [reels/reel_0912_open-webui-open-webui](reels/reel_0912_open-webui-open-webui) |
+| 913 | 2025-11-17 23:38:26 | [quelea-projection/Quelea](https://github.com/quelea-projection/Quelea) | ✅ readme_only (183⭐ Java) | [reels/reel_0913_quelea-projection-Quelea](reels/reel_0913_quelea-projection-Quelea) |
