@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #889 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 100k | 2025-11-17 |
+| #890 | [bhrugen/QuirkyBookRental](https://github.com/bhrugen/QuirkyBookRental) | C# · ⭐ 22 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -956,3 +956,4 @@ Or let GitHub Action run it automatically.
 | 887 | 2025-11-17 14:44:20 | [Love4vn/love4vn](https://github.com/Love4vn/love4vn) | ✅ full (116⭐ Python) | [reels/reel_0887_Love4vn-love4vn](reels/reel_0887_Love4vn-love4vn) |
 | 888 | 2025-11-17 14:55:29 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138822⭐ Python) | [reels/reel_0888_ytdl-org-youtube-dl](reels/reel_0888_ytdl-org-youtube-dl) |
 | 889 | 2025-11-17 15:20:52 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100804⭐ None) | [reels/reel_0889_Hack-with-Github-Awesome-Hacking](reels/reel_0889_Hack-with-Github-Awesome-Hacking) |
+| 890 | 2025-11-17 15:43:29 | [bhrugen/QuirkyBookRental](https://github.com/bhrugen/QuirkyBookRental) | ✅ full (22⭐ C#) | [reels/reel_0890_bhrugen-QuirkyBookRental](reels/reel_0890_bhrugen-QuirkyBookRental) |
