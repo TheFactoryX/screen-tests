@@ -1,0 +1,24 @@
+{
+  "reel_number": 865,
+  "recorded": "2025-11-17 05:18:51 UTC",
+  "repository": {
+    "full_name": "cagnulein/qdomyos-zwift",
+    "url": "https://github.com/cagnulein/qdomyos-zwift",
+    "clone_url": "https://github.com/cagnulein/qdomyos-zwift.git",
+    "stars": 680,
+    "language": "C++",
+    "size_kb": 434758
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 424,
+    "duration_seconds": 8.959032
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 680 stars."
+  }
+}
