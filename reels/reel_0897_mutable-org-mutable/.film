@@ -1,0 +1,24 @@
+{
+  "reel_number": 897,
+  "recorded": "2025-11-17 18:26:43 UTC",
+  "repository": {
+    "full_name": "mutable-org/mutable",
+    "url": "https://github.com/mutable-org/mutable",
+    "clone_url": "https://github.com/mutable-org/mutable.git",
+    "stars": 111,
+    "language": "C++",
+    "size_kb": 6137
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.348509
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 111 stars."
+  }
+}

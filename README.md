@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #896 | [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) | Open Policy Agent · ⭐ 272 | 2025-11-17 |
+| #897 | [mutable-org/mutable](https://github.com/mutable-org/mutable) | C++ · ⭐ 111 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -963,3 +963,4 @@ Or let GitHub Action run it automatically.
 | 894 | 2025-11-17 17:17:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135360⭐ Python) | [reels/reel_0894_yt-dlp-yt-dlp](reels/reel_0894_yt-dlp-yt-dlp) |
 | 895 | 2025-11-17 17:41:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96617⭐ TypeScript) | [reels/reel_0895_ant-design-ant-design](reels/reel_0895_ant-design-ant-design) |
 | 896 | 2025-11-17 17:50:59 | [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) | ✅ full (272⭐ Open Policy Agent) | [reels/reel_0896_cisagov-ScubaGoggles](reels/reel_0896_cisagov-ScubaGoggles) |
+| 897 | 2025-11-17 18:26:43 | [mutable-org/mutable](https://github.com/mutable-org/mutable) | ✅ full (111⭐ C++) | [reels/reel_0897_mutable-org-mutable](reels/reel_0897_mutable-org-mutable) |
