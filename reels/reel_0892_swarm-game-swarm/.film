@@ -1,0 +1,24 @@
+{
+  "reel_number": 892,
+  "recorded": "2025-11-17 16:24:55 UTC",
+  "repository": {
+    "full_name": "swarm-game/swarm",
+    "url": "https://github.com/swarm-game/swarm",
+    "clone_url": "https://github.com/swarm-game/swarm.git",
+    "stars": 896,
+    "language": "Haskell",
+    "size_kb": 12905
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.293534
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haskell",
+    "director_note": "A Haskell repository. 896 stars."
+  }
+}
