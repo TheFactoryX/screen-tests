@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #867 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-17 |
+| #868 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -934,3 +934,4 @@ Or let GitHub Action run it automatically.
 | 865 | 2025-11-17 05:18:51 | [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) | ✅ shallow (680⭐ C++) | [reels/reel_0865_cagnulein-qdomyos-zwift](reels/reel_0865_cagnulein-qdomyos-zwift) |
 | 866 | 2025-11-17 05:42:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258521⭐ None) | [reels/reel_0866_awesome-selfhosted-awesome-selfhosted](reels/reel_0866_awesome-selfhosted-awesome-selfhosted) |
 | 867 | 2025-11-17 05:52:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258521⭐ None) | [reels/reel_0867_awesome-selfhosted-awesome-selfhosted](reels/reel_0867_awesome-selfhosted-awesome-selfhosted) |
+| 868 | 2025-11-17 06:28:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107907⭐ Rust) | [reels/reel_0868_rust-lang-rust](reels/reel_0868_rust-lang-rust) |
