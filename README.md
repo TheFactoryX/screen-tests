@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #859 | [doodlum/skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) | C++ · ⭐ 472 | 2025-11-16 |
+| #860 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -926,3 +926,4 @@ Or let GitHub Action run it automatically.
 | 857 | 2025-11-16 23:16:01 | [tulustul/ants-sandbox](https://github.com/tulustul/ants-sandbox) | ✅ full (106⭐ TypeScript) | [reels/reel_0857_tulustul-ants-sandbox](reels/reel_0857_tulustul-ants-sandbox) |
 | 858 | 2025-11-16 23:37:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115368⭐ JavaScript) | [reels/reel_0858_open-webui-open-webui](reels/reel_0858_open-webui-open-webui) |
 | 859 | 2025-11-16 23:49:42 | [doodlum/skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) | ✅ shallow (472⭐ C++) | [reels/reel_0859_doodlum-skyrim-community-shaders](reels/reel_0859_doodlum-skyrim-community-shaders) |
+| 860 | 2025-11-17 01:23:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107906⭐ Rust) | [reels/reel_0860_rust-lang-rust](reels/reel_0860_rust-lang-rust) |
