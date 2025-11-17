@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #895 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-17 |
+| #896 | [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) | Open Policy Agent · ⭐ 272 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -962,3 +962,4 @@ Or let GitHub Action run it automatically.
 | 893 | 2025-11-17 16:50:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (101068⭐ TypeScript) | [reels/reel_0893_iptv-org-iptv](reels/reel_0893_iptv-org-iptv) |
 | 894 | 2025-11-17 17:17:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135360⭐ Python) | [reels/reel_0894_yt-dlp-yt-dlp](reels/reel_0894_yt-dlp-yt-dlp) |
 | 895 | 2025-11-17 17:41:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96617⭐ TypeScript) | [reels/reel_0895_ant-design-ant-design](reels/reel_0895_ant-design-ant-design) |
+| 896 | 2025-11-17 17:50:59 | [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) | ✅ full (272⭐ Open Policy Agent) | [reels/reel_0896_cisagov-ScubaGoggles](reels/reel_0896_cisagov-ScubaGoggles) |
