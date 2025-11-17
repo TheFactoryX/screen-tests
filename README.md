@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #877 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-17 |
+| #878 | [symbola/symbola](https://github.com/symbola/symbola) | TypeScript · ⭐ 14 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -944,3 +944,4 @@ Or let GitHub Action run it automatically.
 | 875 | 2025-11-17 09:23:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (100988⭐ TypeScript) | [reels/reel_0875_iptv-org-iptv](reels/reel_0875_iptv-org-iptv) |
 | 876 | 2025-11-17 09:44:45 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250074⭐ None) | [reels/reel_0876_practical-tutorials-project-based-learning](reels/reel_0876_practical-tutorials-project-based-learning) |
 | 877 | 2025-11-17 09:54:55 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115413⭐ JavaScript) | [reels/reel_0877_open-webui-open-webui](reels/reel_0877_open-webui-open-webui) |
+| 878 | 2025-11-17 10:21:04 | [symbola/symbola](https://github.com/symbola/symbola) | ✅ readme_only (14⭐ TypeScript) | [reels/reel_0878_symbola-symbola](reels/reel_0878_symbola-symbola) |
