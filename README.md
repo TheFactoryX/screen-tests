@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #880 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-17 |
+| #881 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 250k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -947,3 +947,4 @@ Or let GitHub Action run it automatically.
 | 878 | 2025-11-17 10:21:04 | [symbola/symbola](https://github.com/symbola/symbola) | ✅ readme_only (14⭐ TypeScript) | [reels/reel_0878_symbola-symbola](reels/reel_0878_symbola-symbola) |
 | 879 | 2025-11-17 10:46:09 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100336⭐ Shell) | [reels/reel_0879_papers-we-love-papers-we-love](reels/reel_0879_papers-we-love-papers-we-love) |
 | 880 | 2025-11-17 11:16:43 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100337⭐ Shell) | [reels/reel_0880_papers-we-love-papers-we-love](reels/reel_0880_papers-we-love-papers-we-love) |
+| 881 | 2025-11-17 11:37:55 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250081⭐ None) | [reels/reel_0881_practical-tutorials-project-based-learning](reels/reel_0881_practical-tutorials-project-based-learning) |
