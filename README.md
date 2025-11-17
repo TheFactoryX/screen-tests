@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #902 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-17 |
+| #903 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -969,3 +969,4 @@ Or let GitHub Action run it automatically.
 | 900 | 2025-11-17 19:29:14 | [cool-japan/scirs](https://github.com/cool-japan/scirs) | ✅ full (92⭐ Rust) | [reels/reel_0900_cool-japan-scirs](reels/reel_0900_cool-japan-scirs) |
 | 901 | 2025-11-17 19:40:31 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100086⭐ TypeScript) | [reels/reel_0901_shadcn-ui-ui](reels/reel_0901_shadcn-ui-ui) |
 | 902 | 2025-11-17 19:50:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258617⭐ None) | [reels/reel_0902_awesome-selfhosted-awesome-selfhosted](reels/reel_0902_awesome-selfhosted-awesome-selfhosted) |
+| 903 | 2025-11-17 20:21:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119876⭐ Python) | [reels/reel_0903_langchain-ai-langchain](reels/reel_0903_langchain-ai-langchain) |
