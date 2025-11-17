@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #871 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-17 |
+| #872 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -938,3 +938,4 @@ Or let GitHub Action run it automatically.
 | 869 | 2025-11-17 06:53:15 | [webex/webex-js-sdk](https://github.com/webex/webex-js-sdk) | ✅ readme_only (189⭐ TypeScript) | [reels/reel_0869_webex-webex-js-sdk](reels/reel_0869_webex-webex-js-sdk) |
 | 870 | 2025-11-17 07:18:10 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100788⭐ None) | [reels/reel_0870_Hack-with-Github-Awesome-Hacking](reels/reel_0870_Hack-with-Github-Awesome-Hacking) |
 | 871 | 2025-11-17 07:39:26 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91489⭐ None) | [reels/reel_0871_deepseek-ai-DeepSeek-R1](reels/reel_0871_deepseek-ai-DeepSeek-R1) |
+| 872 | 2025-11-17 07:49:42 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107908⭐ Rust) | [reels/reel_0872_rust-lang-rust](reels/reel_0872_rust-lang-rust) |
