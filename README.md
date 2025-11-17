@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #897 | [mutable-org/mutable](https://github.com/mutable-org/mutable) | C++ · ⭐ 111 | 2025-11-17 |
+| #898 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -964,3 +964,4 @@ Or let GitHub Action run it automatically.
 | 895 | 2025-11-17 17:41:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96617⭐ TypeScript) | [reels/reel_0895_ant-design-ant-design](reels/reel_0895_ant-design-ant-design) |
 | 896 | 2025-11-17 17:50:59 | [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) | ✅ full (272⭐ Open Policy Agent) | [reels/reel_0896_cisagov-ScubaGoggles](reels/reel_0896_cisagov-ScubaGoggles) |
 | 897 | 2025-11-17 18:26:43 | [mutable-org/mutable](https://github.com/mutable-org/mutable) | ✅ full (111⭐ C++) | [reels/reel_0897_mutable-org-mutable](reels/reel_0897_mutable-org-mutable) |
+| 898 | 2025-11-17 18:49:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107917⭐ Rust) | [reels/reel_0898_rust-lang-rust](reels/reel_0898_rust-lang-rust) |
