@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #907 | [PRBonn/WeedsAreWeird](https://github.com/PRBonn/WeedsAreWeird) | Python · ⭐ 22 | 2025-11-17 |
+| #908 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -974,3 +974,4 @@ Or let GitHub Action run it automatically.
 | 905 | 2025-11-17 20:50:27 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138830⭐ Python) | [reels/reel_0905_ytdl-org-youtube-dl](reels/reel_0905_ytdl-org-youtube-dl) |
 | 906 | 2025-11-17 21:16:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258629⭐ None) | [reels/reel_0906_awesome-selfhosted-awesome-selfhosted](reels/reel_0906_awesome-selfhosted-awesome-selfhosted) |
 | 907 | 2025-11-17 21:39:03 | [PRBonn/WeedsAreWeird](https://github.com/PRBonn/WeedsAreWeird) | ✅ full (22⭐ Python) | [reels/reel_0907_PRBonn-WeedsAreWeird](reels/reel_0907_PRBonn-WeedsAreWeird) |
+| 908 | 2025-11-17 21:50:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115465⭐ JavaScript) | [reels/reel_0908_open-webui-open-webui](reels/reel_0908_open-webui-open-webui) |
