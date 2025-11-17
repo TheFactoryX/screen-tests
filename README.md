@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #886 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 99k | 2025-11-17 |
+| #887 | [Love4vn/love4vn](https://github.com/Love4vn/love4vn) | Python · ⭐ 116 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -953,3 +953,4 @@ Or let GitHub Action run it automatically.
 | 884 | 2025-11-17 13:20:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258567⭐ None) | [reels/reel_0884_awesome-selfhosted-awesome-selfhosted](reels/reel_0884_awesome-selfhosted-awesome-selfhosted) |
 | 885 | 2025-11-17 13:48:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135340⭐ Python) | [reels/reel_0885_yt-dlp-yt-dlp](reels/reel_0885_yt-dlp-yt-dlp) |
 | 886 | 2025-11-17 14:18:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (99922⭐ TypeScript) | [reels/reel_0886_shadcn-ui-ui](reels/reel_0886_shadcn-ui-ui) |
+| 887 | 2025-11-17 14:44:20 | [Love4vn/love4vn](https://github.com/Love4vn/love4vn) | ✅ full (116⭐ Python) | [reels/reel_0887_Love4vn-love4vn](reels/reel_0887_Love4vn-love4vn) |

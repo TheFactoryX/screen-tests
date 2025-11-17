@@ -1,0 +1,24 @@
+{
+  "reel_number": 887,
+  "recorded": "2025-11-17 14:44:20 UTC",
+  "repository": {
+    "full_name": "Love4vn/love4vn",
+    "url": "https://github.com/Love4vn/love4vn",
+    "clone_url": "https://github.com/Love4vn/love4vn.git",
+    "stars": 116,
+    "language": "Python",
+    "size_kb": 784
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.298806
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 116 stars."
+  }
+}
