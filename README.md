@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #868 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-17 |
+| #869 | [webex/webex-js-sdk](https://github.com/webex/webex-js-sdk) | TypeScript · ⭐ 189 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -935,3 +935,4 @@ Or let GitHub Action run it automatically.
 | 866 | 2025-11-17 05:42:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258521⭐ None) | [reels/reel_0866_awesome-selfhosted-awesome-selfhosted](reels/reel_0866_awesome-selfhosted-awesome-selfhosted) |
 | 867 | 2025-11-17 05:52:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258521⭐ None) | [reels/reel_0867_awesome-selfhosted-awesome-selfhosted](reels/reel_0867_awesome-selfhosted-awesome-selfhosted) |
 | 868 | 2025-11-17 06:28:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107907⭐ Rust) | [reels/reel_0868_rust-lang-rust](reels/reel_0868_rust-lang-rust) |
+| 869 | 2025-11-17 06:53:15 | [webex/webex-js-sdk](https://github.com/webex/webex-js-sdk) | ✅ readme_only (189⭐ TypeScript) | [reels/reel_0869_webex-webex-js-sdk](reels/reel_0869_webex-webex-js-sdk) |
