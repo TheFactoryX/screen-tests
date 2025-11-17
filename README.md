@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #899 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-17 |
+| #900 | [cool-japan/scirs](https://github.com/cool-japan/scirs) | Rust · ⭐ 92 | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -966,3 +966,4 @@ Or let GitHub Action run it automatically.
 | 897 | 2025-11-17 18:26:43 | [mutable-org/mutable](https://github.com/mutable-org/mutable) | ✅ full (111⭐ C++) | [reels/reel_0897_mutable-org-mutable](reels/reel_0897_mutable-org-mutable) |
 | 898 | 2025-11-17 18:49:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107917⭐ Rust) | [reels/reel_0898_rust-lang-rust](reels/reel_0898_rust-lang-rust) |
 | 899 | 2025-11-17 19:14:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119874⭐ Python) | [reels/reel_0899_langchain-ai-langchain](reels/reel_0899_langchain-ai-langchain) |
+| 900 | 2025-11-17 19:29:14 | [cool-japan/scirs](https://github.com/cool-japan/scirs) | ✅ full (92⭐ Rust) | [reels/reel_0900_cool-japan-scirs](reels/reel_0900_cool-japan-scirs) |

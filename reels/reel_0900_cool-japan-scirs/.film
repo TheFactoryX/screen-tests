@@ -1,0 +1,24 @@
+{
+  "reel_number": 900,
+  "recorded": "2025-11-17 19:29:14 UTC",
+  "repository": {
+    "full_name": "cool-japan/scirs",
+    "url": "https://github.com/cool-japan/scirs",
+    "clone_url": "https://github.com/cool-japan/scirs.git",
+    "stars": 92,
+    "language": "Rust",
+    "size_kb": 38032
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 37,
+    "duration_seconds": 18.211038
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 92 stars."
+  }
+}
