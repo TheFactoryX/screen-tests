@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #878 | [symbola/symbola](https://github.com/symbola/symbola) | TypeScript · ⭐ 14 | 2025-11-17 |
+| #879 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -945,3 +945,4 @@ Or let GitHub Action run it automatically.
 | 876 | 2025-11-17 09:44:45 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250074⭐ None) | [reels/reel_0876_practical-tutorials-project-based-learning](reels/reel_0876_practical-tutorials-project-based-learning) |
 | 877 | 2025-11-17 09:54:55 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115413⭐ JavaScript) | [reels/reel_0877_open-webui-open-webui](reels/reel_0877_open-webui-open-webui) |
 | 878 | 2025-11-17 10:21:04 | [symbola/symbola](https://github.com/symbola/symbola) | ✅ readme_only (14⭐ TypeScript) | [reels/reel_0878_symbola-symbola](reels/reel_0878_symbola-symbola) |
+| 879 | 2025-11-17 10:46:09 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100336⭐ Shell) | [reels/reel_0879_papers-we-love-papers-we-love](reels/reel_0879_papers-we-love-papers-we-love) |
