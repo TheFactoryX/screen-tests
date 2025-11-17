@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #893 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 101k | 2025-11-17 |
+| #894 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -960,3 +960,4 @@ Or let GitHub Action run it automatically.
 | 891 | 2025-11-17 15:55:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258593⭐ None) | [reels/reel_0891_awesome-selfhosted-awesome-selfhosted](reels/reel_0891_awesome-selfhosted-awesome-selfhosted) |
 | 892 | 2025-11-17 16:24:55 | [swarm-game/swarm](https://github.com/swarm-game/swarm) | ✅ full (896⭐ Haskell) | [reels/reel_0892_swarm-game-swarm](reels/reel_0892_swarm-game-swarm) |
 | 893 | 2025-11-17 16:50:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (101068⭐ TypeScript) | [reels/reel_0893_iptv-org-iptv](reels/reel_0893_iptv-org-iptv) |
+| 894 | 2025-11-17 17:17:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135360⭐ Python) | [reels/reel_0894_yt-dlp-yt-dlp](reels/reel_0894_yt-dlp-yt-dlp) |
