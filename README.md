@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #945 | [resend/resend-vercel-functions-example](https://github.com/resend/resend-vercel-functions-example) | TypeScript · ⭐ 37 | 2025-11-18 |
+| #946 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1012,3 +1012,4 @@ Or let GitHub Action run it automatically.
 | 943 | 2025-11-18 14:44:25 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258747⭐ None) | [reels/reel_0943_awesome-selfhosted-awesome-selfhosted](reels/reel_0943_awesome-selfhosted-awesome-selfhosted) |
 | 944 | 2025-11-18 14:55:23 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91497⭐ None) | [reels/reel_0944_deepseek-ai-DeepSeek-R1](reels/reel_0944_deepseek-ai-DeepSeek-R1) |
 | 945 | 2025-11-18 15:21:01 | [resend/resend-vercel-functions-example](https://github.com/resend/resend-vercel-functions-example) | ✅ full (37⭐ TypeScript) | [reels/reel_0945_resend-resend-vercel-functions-example](reels/reel_0945_resend-resend-vercel-functions-example) |
+| 946 | 2025-11-18 15:44:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135485⭐ Python) | [reels/reel_0946_yt-dlp-yt-dlp](reels/reel_0946_yt-dlp-yt-dlp) |
