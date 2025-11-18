@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #959 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 101k | 2025-11-18 |
+| #960 | [coreos/coreos-assembler](https://github.com/coreos/coreos-assembler) | Go · ⭐ 377 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1026,3 +1026,4 @@ Or let GitHub Action run it automatically.
 | 957 | 2025-11-18 19:50:21 | [facebookresearch/momentum](https://github.com/facebookresearch/momentum) | ✅ shallow (203⭐ C++) | [reels/reel_0957_facebookresearch-momentum](reels/reel_0957_facebookresearch-momentum) |
 | 958 | 2025-11-18 20:21:24 | [p-m-p/slider](https://github.com/p-m-p/slider) | ✅ full (890⭐ TypeScript) | [reels/reel_0958_p-m-p-slider](reels/reel_0958_p-m-p-slider) |
 | 959 | 2025-11-18 21:49:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (101733⭐ TypeScript) | [reels/reel_0959_iptv-org-iptv](reels/reel_0959_iptv-org-iptv) |
+| 960 | 2025-11-18 22:18:07 | [coreos/coreos-assembler](https://github.com/coreos/coreos-assembler) | ✅ full (377⭐ Go) | [reels/reel_0960_coreos-coreos-assembler](reels/reel_0960_coreos-coreos-assembler) |

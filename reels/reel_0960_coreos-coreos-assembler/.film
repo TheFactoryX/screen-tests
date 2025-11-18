@@ -1,0 +1,24 @@
+{
+  "reel_number": 960,
+  "recorded": "2025-11-18 22:18:07 UTC",
+  "repository": {
+    "full_name": "coreos/coreos-assembler",
+    "url": "https://github.com/coreos/coreos-assembler",
+    "clone_url": "https://github.com/coreos/coreos-assembler.git",
+    "stars": 377,
+    "language": "Go",
+    "size_kb": 95247
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 93,
+    "duration_seconds": 6.104388
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 377 stars."
+  }
+}
