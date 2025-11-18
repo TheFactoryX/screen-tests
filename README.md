@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #943 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-18 |
+| #944 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1010,3 +1010,4 @@ Or let GitHub Action run it automatically.
 | 941 | 2025-11-18 13:47:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157061⭐ TypeScript) | [reels/reel_0941_n8n-io-n8n](reels/reel_0941_n8n-io-n8n) |
 | 942 | 2025-11-18 14:18:40 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138841⭐ Python) | [reels/reel_0942_ytdl-org-youtube-dl](reels/reel_0942_ytdl-org-youtube-dl) |
 | 943 | 2025-11-18 14:44:25 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258747⭐ None) | [reels/reel_0943_awesome-selfhosted-awesome-selfhosted](reels/reel_0943_awesome-selfhosted-awesome-selfhosted) |
+| 944 | 2025-11-18 14:55:23 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91497⭐ None) | [reels/reel_0944_deepseek-ai-DeepSeek-R1](reels/reel_0944_deepseek-ai-DeepSeek-R1) |
