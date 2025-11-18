@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #928 | [SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops) | Python · ⭐ 735 | 2025-11-18 |
+| #929 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) | Zeek · ⭐ 380 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -995,3 +995,4 @@ Or let GitHub Action run it automatically.
 | 926 | 2025-11-18 07:18:08 | [rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts) | ✅ full (398⭐ Shell) | [reels/reel_0926_rentianyu-Ad-set-hosts](reels/reel_0926_rentianyu-Ad-set-hosts) |
 | 927 | 2025-11-18 07:39:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138576⭐ Python) | [reels/reel_0927_langflow-ai-langflow](reels/reel_0927_langflow-ai-langflow) |
 | 928 | 2025-11-18 07:50:21 | [SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops) | ✅ shallow (735⭐ Python) | [reels/reel_0928_SkafteNicki-dtu_mlops](reels/reel_0928_SkafteNicki-dtu_mlops) |
+| 929 | 2025-11-18 08:25:17 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) | ✅ full (380⭐ Zeek) | [reels/reel_0929_CriticalPathSecurity-Zeek-Intelligence-Feeds](reels/reel_0929_CriticalPathSecurity-Zeek-Intelligence-Feeds) |

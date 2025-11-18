@@ -1,0 +1,24 @@
+{
+  "reel_number": 929,
+  "recorded": "2025-11-18 08:25:17 UTC",
+  "repository": {
+    "full_name": "CriticalPathSecurity/Zeek-Intelligence-Feeds",
+    "url": "https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds",
+    "clone_url": "https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds.git",
+    "stars": 380,
+    "language": "Zeek",
+    "size_kb": 5667
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.589699
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Zeek",
+    "director_note": "A Zeek repository. 380 stars."
+  }
+}
