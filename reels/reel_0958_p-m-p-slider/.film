@@ -1,0 +1,24 @@
+{
+  "reel_number": 958,
+  "recorded": "2025-11-18 20:21:24 UTC",
+  "repository": {
+    "full_name": "p-m-p/slider",
+    "url": "https://github.com/p-m-p/slider",
+    "clone_url": "https://github.com/p-m-p/slider.git",
+    "stars": 890,
+    "language": "TypeScript",
+    "size_kb": 78193
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 76,
+    "duration_seconds": 3.522867
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 890 stars."
+  }
+}

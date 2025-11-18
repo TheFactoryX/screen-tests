@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #957 | [facebookresearch/momentum](https://github.com/facebookresearch/momentum) | C++ · ⭐ 203 | 2025-11-18 |
+| #958 | [p-m-p/slider](https://github.com/p-m-p/slider) | TypeScript · ⭐ 890 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1024,3 +1024,4 @@ Or let GitHub Action run it automatically.
 | 955 | 2025-11-18 19:15:29 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107935⭐ Rust) | [reels/reel_0955_rust-lang-rust](reels/reel_0955_rust-lang-rust) |
 | 956 | 2025-11-18 19:36:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138843⭐ Python) | [reels/reel_0956_ytdl-org-youtube-dl](reels/reel_0956_ytdl-org-youtube-dl) |
 | 957 | 2025-11-18 19:50:21 | [facebookresearch/momentum](https://github.com/facebookresearch/momentum) | ✅ shallow (203⭐ C++) | [reels/reel_0957_facebookresearch-momentum](reels/reel_0957_facebookresearch-momentum) |
+| 958 | 2025-11-18 20:21:24 | [p-m-p/slider](https://github.com/p-m-p/slider) | ✅ full (890⭐ TypeScript) | [reels/reel_0958_p-m-p-slider](reels/reel_0958_p-m-p-slider) |
