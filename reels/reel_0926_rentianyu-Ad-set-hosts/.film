@@ -1,0 +1,24 @@
+{
+  "reel_number": 926,
+  "recorded": "2025-11-18 07:18:08 UTC",
+  "repository": {
+    "full_name": "rentianyu/Ad-set-hosts",
+    "url": "https://github.com/rentianyu/Ad-set-hosts",
+    "clone_url": "https://github.com/rentianyu/Ad-set-hosts.git",
+    "stars": 398,
+    "language": "Shell",
+    "size_kb": 2872
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 3.085679
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 398 stars."
+  }
+}
