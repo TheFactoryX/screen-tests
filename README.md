@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #954 | [langchain-ai/docs](https://github.com/langchain-ai/docs) | MDX · ⭐ 104 | 2025-11-18 |
+| #955 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1021,3 +1021,4 @@ Or let GitHub Action run it automatically.
 | 952 | 2025-11-18 17:51:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258778⭐ None) | [reels/reel_0952_awesome-selfhosted-awesome-selfhosted](reels/reel_0952_awesome-selfhosted-awesome-selfhosted) |
 | 953 | 2025-11-18 18:28:02 | [inkeep/agents](https://github.com/inkeep/agents) | ✅ shallow (691⭐ TypeScript) | [reels/reel_0953_inkeep-agents](reels/reel_0953_inkeep-agents) |
 | 954 | 2025-11-18 18:52:38 | [langchain-ai/docs](https://github.com/langchain-ai/docs) | ✅ readme_only (104⭐ MDX) | [reels/reel_0954_langchain-ai-docs](reels/reel_0954_langchain-ai-docs) |
+| 955 | 2025-11-18 19:15:29 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107935⭐ Rust) | [reels/reel_0955_rust-lang-rust](reels/reel_0955_rust-lang-rust) |
