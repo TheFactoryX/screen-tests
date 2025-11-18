@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #962 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-18 |
+| #963 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1029,3 +1029,4 @@ Or let GitHub Action run it automatically.
 | 960 | 2025-11-18 22:18:07 | [coreos/coreos-assembler](https://github.com/coreos/coreos-assembler) | ✅ full (377⭐ Go) | [reels/reel_0960_coreos-coreos-assembler](reels/reel_0960_coreos-coreos-assembler) |
 | 961 | 2025-11-18 22:41:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119973⭐ Python) | [reels/reel_0961_langchain-ai-langchain](reels/reel_0961_langchain-ai-langchain) |
 | 962 | 2025-11-18 22:51:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138636⭐ Python) | [reels/reel_0962_langflow-ai-langflow](reels/reel_0962_langflow-ai-langflow) |
+| 963 | 2025-11-18 23:16:27 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138640⭐ Python) | [reels/reel_0963_langflow-ai-langflow](reels/reel_0963_langflow-ai-langflow) |
