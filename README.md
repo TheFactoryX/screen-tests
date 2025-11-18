@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #947 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-18 |
+| #948 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 157k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1014,3 +1014,4 @@ Or let GitHub Action run it automatically.
 | 945 | 2025-11-18 15:21:01 | [resend/resend-vercel-functions-example](https://github.com/resend/resend-vercel-functions-example) | ✅ full (37⭐ TypeScript) | [reels/reel_0945_resend-resend-vercel-functions-example](reels/reel_0945_resend-resend-vercel-functions-example) |
 | 946 | 2025-11-18 15:44:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135485⭐ Python) | [reels/reel_0946_yt-dlp-yt-dlp](reels/reel_0946_yt-dlp-yt-dlp) |
 | 947 | 2025-11-18 15:56:18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135486⭐ Python) | [reels/reel_0947_yt-dlp-yt-dlp](reels/reel_0947_yt-dlp-yt-dlp) |
+| 948 | 2025-11-18 16:28:24 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157103⭐ TypeScript) | [reels/reel_0948_n8n-io-n8n](reels/reel_0948_n8n-io-n8n) |
