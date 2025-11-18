@@ -1,0 +1,24 @@
+{
+  "reel_number": 957,
+  "recorded": "2025-11-18 19:50:21 UTC",
+  "repository": {
+    "full_name": "facebookresearch/momentum",
+    "url": "https://github.com/facebookresearch/momentum",
+    "clone_url": "https://github.com/facebookresearch/momentum.git",
+    "stars": 203,
+    "language": "C++",
+    "size_kb": 382505
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 373,
+    "duration_seconds": 0.80766
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 203 stars."
+  }
+}
