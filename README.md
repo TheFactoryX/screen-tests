@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #950 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 439k | 2025-11-18 |
+| #951 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 157k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1017,3 +1017,4 @@ Or let GitHub Action run it automatically.
 | 948 | 2025-11-18 16:28:24 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157103⭐ TypeScript) | [reels/reel_0948_n8n-io-n8n](reels/reel_0948_n8n-io-n8n) |
 | 949 | 2025-11-18 16:53:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115554⭐ JavaScript) | [reels/reel_0949_open-webui-open-webui](reels/reel_0949_open-webui-open-webui) |
 | 950 | 2025-11-18 17:17:41 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (439847⭐ Markdown) | [reels/reel_0950_codecrafters-io-build-your-own-x](reels/reel_0950_codecrafters-io-build-your-own-x) |
+| 951 | 2025-11-18 17:41:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157121⭐ TypeScript) | [reels/reel_0951_n8n-io-n8n](reels/reel_0951_n8n-io-n8n) |
