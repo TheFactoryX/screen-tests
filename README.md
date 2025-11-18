@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #929 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) | Zeek · ⭐ 380 | 2025-11-18 |
+| #930 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -996,3 +996,4 @@ Or let GitHub Action run it automatically.
 | 927 | 2025-11-18 07:39:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138576⭐ Python) | [reels/reel_0927_langflow-ai-langflow](reels/reel_0927_langflow-ai-langflow) |
 | 928 | 2025-11-18 07:50:21 | [SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops) | ✅ shallow (735⭐ Python) | [reels/reel_0928_SkafteNicki-dtu_mlops](reels/reel_0928_SkafteNicki-dtu_mlops) |
 | 929 | 2025-11-18 08:25:17 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) | ✅ full (380⭐ Zeek) | [reels/reel_0929_CriticalPathSecurity-Zeek-Intelligence-Feeds](reels/reel_0929_CriticalPathSecurity-Zeek-Intelligence-Feeds) |
+| 930 | 2025-11-18 08:49:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98984⭐ Rust) | [reels/reel_0930_tauri-apps-tauri](reels/reel_0930_tauri-apps-tauri) |
