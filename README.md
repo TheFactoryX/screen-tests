@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #931 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-18 |
+| #932 | [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) | C++ · ⭐ 721 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -998,3 +998,4 @@ Or let GitHub Action run it automatically.
 | 929 | 2025-11-18 08:25:17 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) | ✅ full (380⭐ Zeek) | [reels/reel_0929_CriticalPathSecurity-Zeek-Intelligence-Feeds](reels/reel_0929_CriticalPathSecurity-Zeek-Intelligence-Feeds) |
 | 930 | 2025-11-18 08:49:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98984⭐ Rust) | [reels/reel_0930_tauri-apps-tauri](reels/reel_0930_tauri-apps-tauri) |
 | 931 | 2025-11-18 09:20:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258713⭐ None) | [reels/reel_0931_awesome-selfhosted-awesome-selfhosted](reels/reel_0931_awesome-selfhosted-awesome-selfhosted) |
+| 932 | 2025-11-18 09:42:58 | [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) | ✅ full (721⭐ C++) | [reels/reel_0932_ai-dynamo-nixl](reels/reel_0932_ai-dynamo-nixl) |
