@@ -1,0 +1,24 @@
+{
+  "reel_number": 945,
+  "recorded": "2025-11-18 15:21:01 UTC",
+  "repository": {
+    "full_name": "resend/resend-vercel-functions-example",
+    "url": "https://github.com/resend/resend-vercel-functions-example",
+    "clone_url": "https://github.com/resend/resend-vercel-functions-example.git",
+    "stars": 37,
+    "language": "TypeScript",
+    "size_kb": 43
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.210435
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 37 stars."
+  }
+}

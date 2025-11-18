@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #944 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-18 |
+| #945 | [resend/resend-vercel-functions-example](https://github.com/resend/resend-vercel-functions-example) | TypeScript · ⭐ 37 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1011,3 +1011,4 @@ Or let GitHub Action run it automatically.
 | 942 | 2025-11-18 14:18:40 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138841⭐ Python) | [reels/reel_0942_ytdl-org-youtube-dl](reels/reel_0942_ytdl-org-youtube-dl) |
 | 943 | 2025-11-18 14:44:25 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258747⭐ None) | [reels/reel_0943_awesome-selfhosted-awesome-selfhosted](reels/reel_0943_awesome-selfhosted-awesome-selfhosted) |
 | 944 | 2025-11-18 14:55:23 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91497⭐ None) | [reels/reel_0944_deepseek-ai-DeepSeek-R1](reels/reel_0944_deepseek-ai-DeepSeek-R1) |
+| 945 | 2025-11-18 15:21:01 | [resend/resend-vercel-functions-example](https://github.com/resend/resend-vercel-functions-example) | ✅ full (37⭐ TypeScript) | [reels/reel_0945_resend-resend-vercel-functions-example](reels/reel_0945_resend-resend-vercel-functions-example) |
