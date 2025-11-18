@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #960 | [coreos/coreos-assembler](https://github.com/coreos/coreos-assembler) | Go · ⭐ 377 | 2025-11-18 |
+| #961 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1027,3 +1027,4 @@ Or let GitHub Action run it automatically.
 | 958 | 2025-11-18 20:21:24 | [p-m-p/slider](https://github.com/p-m-p/slider) | ✅ full (890⭐ TypeScript) | [reels/reel_0958_p-m-p-slider](reels/reel_0958_p-m-p-slider) |
 | 959 | 2025-11-18 21:49:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (101733⭐ TypeScript) | [reels/reel_0959_iptv-org-iptv](reels/reel_0959_iptv-org-iptv) |
 | 960 | 2025-11-18 22:18:07 | [coreos/coreos-assembler](https://github.com/coreos/coreos-assembler) | ✅ full (377⭐ Go) | [reels/reel_0960_coreos-coreos-assembler](reels/reel_0960_coreos-coreos-assembler) |
+| 961 | 2025-11-18 22:41:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119973⭐ Python) | [reels/reel_0961_langchain-ai-langchain](reels/reel_0961_langchain-ai-langchain) |
