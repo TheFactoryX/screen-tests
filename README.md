@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #941 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 157k | 2025-11-18 |
+| #942 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1008,3 +1008,4 @@ Or let GitHub Action run it automatically.
 | 939 | 2025-11-18 12:38:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250187⭐ None) | [reels/reel_0939_practical-tutorials-project-based-learning](reels/reel_0939_practical-tutorials-project-based-learning) |
 | 940 | 2025-11-18 13:20:58 | [anidl/multi-downloader-nx](https://github.com/anidl/multi-downloader-nx) | ✅ full (445⭐ TypeScript) | [reels/reel_0940_anidl-multi-downloader-nx](reels/reel_0940_anidl-multi-downloader-nx) |
 | 941 | 2025-11-18 13:47:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157061⭐ TypeScript) | [reels/reel_0941_n8n-io-n8n](reels/reel_0941_n8n-io-n8n) |
+| 942 | 2025-11-18 14:18:40 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138841⭐ Python) | [reels/reel_0942_ytdl-org-youtube-dl](reels/reel_0942_ytdl-org-youtube-dl) |
