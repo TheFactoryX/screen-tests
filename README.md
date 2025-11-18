@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #939 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 250k | 2025-11-18 |
+| #940 | [anidl/multi-downloader-nx](https://github.com/anidl/multi-downloader-nx) | TypeScript · ⭐ 445 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1006,3 +1006,4 @@ Or let GitHub Action run it automatically.
 | 937 | 2025-11-18 11:38:24 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258721⭐ None) | [reels/reel_0937_awesome-selfhosted-awesome-selfhosted](reels/reel_0937_awesome-selfhosted-awesome-selfhosted) |
 | 938 | 2025-11-18 11:50:23 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100358⭐ Shell) | [reels/reel_0938_papers-we-love-papers-we-love](reels/reel_0938_papers-we-love-papers-we-love) |
 | 939 | 2025-11-18 12:38:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250187⭐ None) | [reels/reel_0939_practical-tutorials-project-based-learning](reels/reel_0939_practical-tutorials-project-based-learning) |
+| 940 | 2025-11-18 13:20:58 | [anidl/multi-downloader-nx](https://github.com/anidl/multi-downloader-nx) | ✅ full (445⭐ TypeScript) | [reels/reel_0940_anidl-multi-downloader-nx](reels/reel_0940_anidl-multi-downloader-nx) |

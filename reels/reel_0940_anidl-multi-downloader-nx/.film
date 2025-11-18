@@ -1,0 +1,24 @@
+{
+  "reel_number": 940,
+  "recorded": "2025-11-18 13:20:58 UTC",
+  "repository": {
+    "full_name": "anidl/multi-downloader-nx",
+    "url": "https://github.com/anidl/multi-downloader-nx",
+    "clone_url": "https://github.com/anidl/multi-downloader-nx.git",
+    "stars": 445,
+    "language": "TypeScript",
+    "size_kb": 8189
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.028105
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 445 stars."
+  }
+}
