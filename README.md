@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #922 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-18 |
+| #923 | [gleachkr/x86.lean](https://github.com/gleachkr/x86.lean) | Lean · ⭐ 12 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -989,3 +989,4 @@ Or let GitHub Action run it automatically.
 | 920 | 2025-11-18 04:52:04 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135404⭐ Python) | [reels/reel_0920_yt-dlp-yt-dlp](reels/reel_0920_yt-dlp-yt-dlp) |
 | 921 | 2025-11-18 05:18:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135407⭐ Python) | [reels/reel_0921_yt-dlp-yt-dlp](reels/reel_0921_yt-dlp-yt-dlp) |
 | 922 | 2025-11-18 05:42:02 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100357⭐ Shell) | [reels/reel_0922_papers-we-love-papers-we-love](reels/reel_0922_papers-we-love-papers-we-love) |
+| 923 | 2025-11-18 05:51:31 | [gleachkr/x86.lean](https://github.com/gleachkr/x86.lean) | ✅ full (12⭐ Lean) | [reels/reel_0923_gleachkr-x86.lean](reels/reel_0923_gleachkr-x86.lean) |
