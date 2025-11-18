@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #955 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-18 |
+| #956 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1022,3 +1022,4 @@ Or let GitHub Action run it automatically.
 | 953 | 2025-11-18 18:28:02 | [inkeep/agents](https://github.com/inkeep/agents) | ✅ shallow (691⭐ TypeScript) | [reels/reel_0953_inkeep-agents](reels/reel_0953_inkeep-agents) |
 | 954 | 2025-11-18 18:52:38 | [langchain-ai/docs](https://github.com/langchain-ai/docs) | ✅ readme_only (104⭐ MDX) | [reels/reel_0954_langchain-ai-docs](reels/reel_0954_langchain-ai-docs) |
 | 955 | 2025-11-18 19:15:29 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107935⭐ Rust) | [reels/reel_0955_rust-lang-rust](reels/reel_0955_rust-lang-rust) |
+| 956 | 2025-11-18 19:36:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138843⭐ Python) | [reels/reel_0956_ytdl-org-youtube-dl](reels/reel_0956_ytdl-org-youtube-dl) |
