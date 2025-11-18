@@ -1,0 +1,24 @@
+{
+  "reel_number": 936,
+  "recorded": "2025-11-18 11:17:19 UTC",
+  "repository": {
+    "full_name": "intel/device-modeling-language",
+    "url": "https://github.com/intel/device-modeling-language",
+    "clone_url": "https://github.com/intel/device-modeling-language.git",
+    "stars": 104,
+    "language": "Python",
+    "size_kb": 2718
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.752126
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 104 stars."
+  }
+}
