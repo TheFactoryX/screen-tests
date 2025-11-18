@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #933 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-18 |
+| #934 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 157k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1000,3 +1000,4 @@ Or let GitHub Action run it automatically.
 | 931 | 2025-11-18 09:20:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258713⭐ None) | [reels/reel_0931_awesome-selfhosted-awesome-selfhosted](reels/reel_0931_awesome-selfhosted-awesome-selfhosted) |
 | 932 | 2025-11-18 09:42:58 | [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) | ✅ full (721⭐ C++) | [reels/reel_0932_ai-dynamo-nixl](reels/reel_0932_ai-dynamo-nixl) |
 | 933 | 2025-11-18 09:53:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258716⭐ None) | [reels/reel_0933_awesome-selfhosted-awesome-selfhosted](reels/reel_0933_awesome-selfhosted-awesome-selfhosted) |
+| 934 | 2025-11-18 10:21:17 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157021⭐ TypeScript) | [reels/reel_0934_n8n-io-n8n](reels/reel_0934_n8n-io-n8n) |
