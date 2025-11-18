@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #918 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-18 |
+| #919 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 98k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -985,3 +985,4 @@ Or let GitHub Action run it automatically.
 | 916 | 2025-11-18 02:55:20 | [Verity-Freedom/Tor-Portable](https://github.com/Verity-Freedom/Tor-Portable) | ✅ shallow (455⭐ Batchfile) | [reels/reel_0916_Verity-Freedom-Tor-Portable](reels/reel_0916_Verity-Freedom-Tor-Portable) |
 | 917 | 2025-11-18 03:44:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135399⭐ Python) | [reels/reel_0917_yt-dlp-yt-dlp](reels/reel_0917_yt-dlp-yt-dlp) |
 | 918 | 2025-11-18 04:01:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100146⭐ TypeScript) | [reels/reel_0918_shadcn-ui-ui](reels/reel_0918_shadcn-ui-ui) |
+| 919 | 2025-11-18 04:36:24 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (98973⭐ Rust) | [reels/reel_0919_tauri-apps-tauri](reels/reel_0919_tauri-apps-tauri) |
