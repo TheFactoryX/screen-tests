@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #914 | [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) | C++ · ⭐ 897 | 2025-11-17 |
+| #915 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -981,3 +981,4 @@ Or let GitHub Action run it automatically.
 | 912 | 2025-11-17 23:16:38 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115467⭐ JavaScript) | [reels/reel_0912_open-webui-open-webui](reels/reel_0912_open-webui-open-webui) |
 | 913 | 2025-11-17 23:38:26 | [quelea-projection/Quelea](https://github.com/quelea-projection/Quelea) | ✅ readme_only (183⭐ Java) | [reels/reel_0913_quelea-projection-Quelea](reels/reel_0913_quelea-projection-Quelea) |
 | 914 | 2025-11-17 23:50:26 | [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer) | ✅ full (897⭐ C++) | [reels/reel_0914_horsicq-XMachOViewer](reels/reel_0914_horsicq-XMachOViewer) |
+| 915 | 2025-11-18 01:22:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107918⭐ Rust) | [reels/reel_0915_rust-lang-rust](reels/reel_0915_rust-lang-rust) |
