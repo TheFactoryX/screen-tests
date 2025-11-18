@@ -1,0 +1,24 @@
+{
+  "reel_number": 953,
+  "recorded": "2025-11-18 18:28:02 UTC",
+  "repository": {
+    "full_name": "inkeep/agents",
+    "url": "https://github.com/inkeep/agents",
+    "clone_url": "https://github.com/inkeep/agents.git",
+    "stars": 691,
+    "language": "TypeScript",
+    "size_kb": 118939
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 116,
+    "duration_seconds": 3.180272
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 691 stars."
+  }
+}
