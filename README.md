@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #937 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-18 |
+| #938 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1004,3 +1004,4 @@ Or let GitHub Action run it automatically.
 | 935 | 2025-11-18 10:46:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135449⭐ Python) | [reels/reel_0935_yt-dlp-yt-dlp](reels/reel_0935_yt-dlp-yt-dlp) |
 | 936 | 2025-11-18 11:17:19 | [intel/device-modeling-language](https://github.com/intel/device-modeling-language) | ✅ full (104⭐ Python) | [reels/reel_0936_intel-device-modeling-language](reels/reel_0936_intel-device-modeling-language) |
 | 937 | 2025-11-18 11:38:24 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258721⭐ None) | [reels/reel_0937_awesome-selfhosted-awesome-selfhosted](reels/reel_0937_awesome-selfhosted-awesome-selfhosted) |
+| 938 | 2025-11-18 11:50:23 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100358⭐ Shell) | [reels/reel_0938_papers-we-love-papers-we-love](reels/reel_0938_papers-we-love-papers-we-love) |
