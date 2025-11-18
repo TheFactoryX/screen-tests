@@ -1,0 +1,24 @@
+{
+  "reel_number": 928,
+  "recorded": "2025-11-18 07:50:21 UTC",
+  "repository": {
+    "full_name": "SkafteNicki/dtu_mlops",
+    "url": "https://github.com/SkafteNicki/dtu_mlops",
+    "clone_url": "https://github.com/SkafteNicki/dtu_mlops.git",
+    "stars": 735,
+    "language": "Python",
+    "size_kb": 458562
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 447,
+    "duration_seconds": 2.107619
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 735 stars."
+  }
+}

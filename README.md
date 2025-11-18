@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #927 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-18 |
+| #928 | [SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops) | Python · ⭐ 735 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -994,3 +994,4 @@ Or let GitHub Action run it automatically.
 | 925 | 2025-11-18 06:51:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258687⭐ None) | [reels/reel_0925_awesome-selfhosted-awesome-selfhosted](reels/reel_0925_awesome-selfhosted-awesome-selfhosted) |
 | 926 | 2025-11-18 07:18:08 | [rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts) | ✅ full (398⭐ Shell) | [reels/reel_0926_rentianyu-Ad-set-hosts](reels/reel_0926_rentianyu-Ad-set-hosts) |
 | 927 | 2025-11-18 07:39:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138576⭐ Python) | [reels/reel_0927_langflow-ai-langflow](reels/reel_0927_langflow-ai-langflow) |
+| 928 | 2025-11-18 07:50:21 | [SkafteNicki/dtu_mlops](https://github.com/SkafteNicki/dtu_mlops) | ✅ shallow (735⭐ Python) | [reels/reel_0928_SkafteNicki-dtu_mlops](reels/reel_0928_SkafteNicki-dtu_mlops) |
