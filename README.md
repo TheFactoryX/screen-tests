@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #961 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-18 |
+| #962 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1028,3 +1028,4 @@ Or let GitHub Action run it automatically.
 | 959 | 2025-11-18 21:49:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (101733⭐ TypeScript) | [reels/reel_0959_iptv-org-iptv](reels/reel_0959_iptv-org-iptv) |
 | 960 | 2025-11-18 22:18:07 | [coreos/coreos-assembler](https://github.com/coreos/coreos-assembler) | ✅ full (377⭐ Go) | [reels/reel_0960_coreos-coreos-assembler](reels/reel_0960_coreos-coreos-assembler) |
 | 961 | 2025-11-18 22:41:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119973⭐ Python) | [reels/reel_0961_langchain-ai-langchain](reels/reel_0961_langchain-ai-langchain) |
+| 962 | 2025-11-18 22:51:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138636⭐ Python) | [reels/reel_0962_langflow-ai-langflow](reels/reel_0962_langflow-ai-langflow) |
