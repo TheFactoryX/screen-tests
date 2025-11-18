@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #926 | [rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts) | Shell · ⭐ 398 | 2025-11-18 |
+| #927 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -993,3 +993,4 @@ Or let GitHub Action run it automatically.
 | 924 | 2025-11-18 06:27:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119907⭐ Python) | [reels/reel_0924_langchain-ai-langchain](reels/reel_0924_langchain-ai-langchain) |
 | 925 | 2025-11-18 06:51:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258687⭐ None) | [reels/reel_0925_awesome-selfhosted-awesome-selfhosted](reels/reel_0925_awesome-selfhosted-awesome-selfhosted) |
 | 926 | 2025-11-18 07:18:08 | [rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts) | ✅ full (398⭐ Shell) | [reels/reel_0926_rentianyu-Ad-set-hosts](reels/reel_0926_rentianyu-Ad-set-hosts) |
+| 927 | 2025-11-18 07:39:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138576⭐ Python) | [reels/reel_0927_langflow-ai-langflow](reels/reel_0927_langflow-ai-langflow) |
