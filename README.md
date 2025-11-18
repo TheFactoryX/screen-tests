@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #964 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-18 |
+| #965 | [zellwk/zellwk.com](https://github.com/zellwk/zellwk.com) | MDX · ⭐ 346 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1031,3 +1031,4 @@ Or let GitHub Action run it automatically.
 | 962 | 2025-11-18 22:51:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138636⭐ Python) | [reels/reel_0962_langflow-ai-langflow](reels/reel_0962_langflow-ai-langflow) |
 | 963 | 2025-11-18 23:16:27 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138640⭐ Python) | [reels/reel_0963_langflow-ai-langflow](reels/reel_0963_langflow-ai-langflow) |
 | 964 | 2025-11-18 23:36:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99020⭐ Rust) | [reels/reel_0964_tauri-apps-tauri](reels/reel_0964_tauri-apps-tauri) |
+| 965 | 2025-11-18 23:50:04 | [zellwk/zellwk.com](https://github.com/zellwk/zellwk.com) | ✅ readme_only (346⭐ MDX) | [reels/reel_0965_zellwk-zellwk.com](reels/reel_0965_zellwk-zellwk.com) |
