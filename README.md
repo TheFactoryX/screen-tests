@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #917 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-18 |
+| #918 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -984,3 +984,4 @@ Or let GitHub Action run it automatically.
 | 915 | 2025-11-18 01:22:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107918⭐ Rust) | [reels/reel_0915_rust-lang-rust](reels/reel_0915_rust-lang-rust) |
 | 916 | 2025-11-18 02:55:20 | [Verity-Freedom/Tor-Portable](https://github.com/Verity-Freedom/Tor-Portable) | ✅ shallow (455⭐ Batchfile) | [reels/reel_0916_Verity-Freedom-Tor-Portable](reels/reel_0916_Verity-Freedom-Tor-Portable) |
 | 917 | 2025-11-18 03:44:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135399⭐ Python) | [reels/reel_0917_yt-dlp-yt-dlp](reels/reel_0917_yt-dlp-yt-dlp) |
+| 918 | 2025-11-18 04:01:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100146⭐ TypeScript) | [reels/reel_0918_shadcn-ui-ui](reels/reel_0918_shadcn-ui-ui) |
