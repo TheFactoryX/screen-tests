@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #953 | [inkeep/agents](https://github.com/inkeep/agents) | TypeScript · ⭐ 691 | 2025-11-18 |
+| #954 | [langchain-ai/docs](https://github.com/langchain-ai/docs) | MDX · ⭐ 104 | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -1020,3 +1020,4 @@ Or let GitHub Action run it automatically.
 | 951 | 2025-11-18 17:41:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157121⭐ TypeScript) | [reels/reel_0951_n8n-io-n8n](reels/reel_0951_n8n-io-n8n) |
 | 952 | 2025-11-18 17:51:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258778⭐ None) | [reels/reel_0952_awesome-selfhosted-awesome-selfhosted](reels/reel_0952_awesome-selfhosted-awesome-selfhosted) |
 | 953 | 2025-11-18 18:28:02 | [inkeep/agents](https://github.com/inkeep/agents) | ✅ shallow (691⭐ TypeScript) | [reels/reel_0953_inkeep-agents](reels/reel_0953_inkeep-agents) |
+| 954 | 2025-11-18 18:52:38 | [langchain-ai/docs](https://github.com/langchain-ai/docs) | ✅ readme_only (104⭐ MDX) | [reels/reel_0954_langchain-ai-docs](reels/reel_0954_langchain-ai-docs) |
