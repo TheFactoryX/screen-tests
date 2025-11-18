@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #923 | [gleachkr/x86.lean](https://github.com/gleachkr/x86.lean) | Lean · ⭐ 12 | 2025-11-18 |
+| #924 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 119k | 2025-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -990,3 +990,4 @@ Or let GitHub Action run it automatically.
 | 921 | 2025-11-18 05:18:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135407⭐ Python) | [reels/reel_0921_yt-dlp-yt-dlp](reels/reel_0921_yt-dlp-yt-dlp) |
 | 922 | 2025-11-18 05:42:02 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100357⭐ Shell) | [reels/reel_0922_papers-we-love-papers-we-love](reels/reel_0922_papers-we-love-papers-we-love) |
 | 923 | 2025-11-18 05:51:31 | [gleachkr/x86.lean](https://github.com/gleachkr/x86.lean) | ✅ full (12⭐ Lean) | [reels/reel_0923_gleachkr-x86.lean](reels/reel_0923_gleachkr-x86.lean) |
+| 924 | 2025-11-18 06:27:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (119907⭐ Python) | [reels/reel_0924_langchain-ai-langchain](reels/reel_0924_langchain-ai-langchain) |
