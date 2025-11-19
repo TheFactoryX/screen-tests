@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #989 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | Java · ⭐ 629 | 2025-11-19 |
+| #990 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1056,3 +1056,4 @@ Or let GitHub Action run it automatically.
 | 987 | 2025-11-19 10:55:10 | [estruyf/vscode-demo-time](https://github.com/estruyf/vscode-demo-time) | ✅ full (204⭐ TypeScript) | [reels/reel_0987_estruyf-vscode-demo-time](reels/reel_0987_estruyf-vscode-demo-time) |
 | 988 | 2025-11-19 11:16:33 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91493⭐ None) | [reels/reel_0988_deepseek-ai-DeepSeek-R1](reels/reel_0988_deepseek-ai-DeepSeek-R1) |
 | 989 | 2025-11-19 11:37:58 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | ✅ full (629⭐ Java) | [reels/reel_0989_ArcadeData-arcadedb](reels/reel_0989_ArcadeData-arcadedb) |
+| 990 | 2025-11-19 11:50:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135609⭐ Python) | [reels/reel_0990_yt-dlp-yt-dlp](reels/reel_0990_yt-dlp-yt-dlp) |
