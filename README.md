@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1005 | [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) | TypeScript · ⭐ 1k | 2025-11-19 |
+| #1006 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1072,3 +1072,4 @@ Or let GitHub Action run it automatically.
 | 1003 | 2025-11-19 17:38:18 | [steipete/oracle](https://github.com/steipete/oracle) | ✅ full (268⭐ TypeScript) | [reels/reel_1003_steipete-oracle](reels/reel_1003_steipete-oracle) |
 | 1004 | 2025-11-19 17:50:18 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379506⭐ Python) | [reels/reel_1004_public-apis-public-apis](reels/reel_1004_public-apis-public-apis) |
 | 1005 | 2025-11-19 18:27:25 | [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) | ✅ full (1673⭐ TypeScript) | [reels/reel_1005_anthropic-experimental-sandbox-runtime](reels/reel_1005_anthropic-experimental-sandbox-runtime) |
+| 1006 | 2025-11-19 18:49:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179801⭐ Python) | [reels/reel_1006_Significant-Gravitas-AutoGPT](reels/reel_1006_Significant-Gravitas-AutoGPT) |
