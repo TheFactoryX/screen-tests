@@ -1,0 +1,24 @@
+{
+  "reel_number": 979,
+  "recorded": "2025-11-19 07:50:14 UTC",
+  "repository": {
+    "full_name": "EhTagTranslation/Database",
+    "url": "https://github.com/EhTagTranslation/Database",
+    "clone_url": "https://github.com/EhTagTranslation/Database.git",
+    "stars": 950,
+    "language": "PowerShell",
+    "size_kb": 125248
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 122,
+    "duration_seconds": 0.580694
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 950 stars."
+  }
+}
