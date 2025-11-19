@@ -1,0 +1,24 @@
+{
+  "reel_number": 976,
+  "recorded": "2025-11-19 06:51:29 UTC",
+  "repository": {
+    "full_name": "JuliaMeshless/RadialBasisFunctions.jl",
+    "url": "https://github.com/JuliaMeshless/RadialBasisFunctions.jl",
+    "clone_url": "https://github.com/JuliaMeshless/RadialBasisFunctions.jl.git",
+    "stars": 14,
+    "language": "Julia",
+    "size_kb": 1449
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.245007
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Julia",
+    "director_note": "A Julia repository. 14 stars."
+  }
+}
