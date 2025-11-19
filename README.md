@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #996 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-19 |
+| #997 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 100k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1063,3 +1063,4 @@ Or let GitHub Action run it automatically.
 | 994 | 2025-11-19 14:18:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115656⭐ JavaScript) | [reels/reel_0994_open-webui-open-webui](reels/reel_0994_open-webui-open-webui) |
 | 995 | 2025-11-19 14:44:23 | [aiven/terraform-provider-aiven](https://github.com/aiven/terraform-provider-aiven) | ✅ full (129⭐ Go) | [reels/reel_0995_aiven-terraform-provider-aiven](reels/reel_0995_aiven-terraform-provider-aiven) |
 | 996 | 2025-11-19 14:55:58 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100333⭐ TypeScript) | [reels/reel_0996_shadcn-ui-ui](reels/reel_0996_shadcn-ui-ui) |
+| 997 | 2025-11-19 15:21:46 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100883⭐ None) | [reels/reel_0997_Hack-with-Github-Awesome-Hacking](reels/reel_0997_Hack-with-Github-Awesome-Hacking) |
