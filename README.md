@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #971 | [dd3v/favbox](https://github.com/dd3v/favbox) | Vue · ⭐ 449 | 2025-11-19 |
+| #972 | [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) | Marko · ⭐ 579 | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1038,3 +1038,4 @@ Or let GitHub Action run it automatically.
 | 969 | 2025-11-19 04:00:35 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115596⭐ JavaScript) | [reels/reel_0969_open-webui-open-webui](reels/reel_0969_open-webui-open-webui) |
 | 970 | 2025-11-19 04:36:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115597⭐ JavaScript) | [reels/reel_0970_open-webui-open-webui](reels/reel_0970_open-webui-open-webui) |
 | 971 | 2025-11-19 04:52:59 | [dd3v/favbox](https://github.com/dd3v/favbox) | ✅ full (449⭐ Vue) | [reels/reel_0971_dd3v-favbox](reels/reel_0971_dd3v-favbox) |
+| 972 | 2025-11-19 05:18:32 | [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) | ✅ shallow (579⭐ Marko) | [reels/reel_0972_Zigistry-Zigistry](reels/reel_0972_Zigistry-Zigistry) |

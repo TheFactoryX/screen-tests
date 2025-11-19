@@ -1,0 +1,24 @@
+{
+  "reel_number": 972,
+  "recorded": "2025-11-19 05:18:32 UTC",
+  "repository": {
+    "full_name": "Zigistry/Zigistry",
+    "url": "https://github.com/Zigistry/Zigistry",
+    "clone_url": "https://github.com/Zigistry/Zigistry.git",
+    "stars": 579,
+    "language": "Marko",
+    "size_kb": 129589
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 126,
+    "duration_seconds": 0.31956
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Marko",
+    "director_note": "A Marko repository. 579 stars."
+  }
+}
