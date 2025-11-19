@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1016 | [utiasASRL/vtr3](https://github.com/utiasASRL/vtr3) | C++ · ⭐ 130 | 2025-11-19 |
+| #1017 | [kirill-grouchnikov/radiance](https://github.com/kirill-grouchnikov/radiance) | Java · ⭐ 877 | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1083,3 +1083,4 @@ Or let GitHub Action run it automatically.
 | 1014 | 2025-11-19 21:14:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102065⭐ TypeScript) | [reels/reel_1014_iptv-org-iptv](reels/reel_1014_iptv-org-iptv) |
 | 1015 | 2025-11-19 21:28:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179802⭐ Python) | [reels/reel_1015_Significant-Gravitas-AutoGPT](reels/reel_1015_Significant-Gravitas-AutoGPT) |
 | 1016 | 2025-11-19 21:39:44 | [utiasASRL/vtr3](https://github.com/utiasASRL/vtr3) | ✅ shallow (130⭐ C++) | [reels/reel_1016_utiasASRL-vtr3](reels/reel_1016_utiasASRL-vtr3) |
+| 1017 | 2025-11-19 21:49:29 | [kirill-grouchnikov/radiance](https://github.com/kirill-grouchnikov/radiance) | ✅ readme_only (877⭐ Java) | [reels/reel_1017_kirill-grouchnikov-radiance](reels/reel_1017_kirill-grouchnikov-radiance) |
