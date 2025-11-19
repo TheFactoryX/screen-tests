@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #993 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-19 |
+| #994 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1060,3 +1060,4 @@ Or let GitHub Action run it automatically.
 | 991 | 2025-11-19 12:38:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135614⭐ Python) | [reels/reel_0991_yt-dlp-yt-dlp](reels/reel_0991_yt-dlp-yt-dlp) |
 | 992 | 2025-11-19 13:21:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135619⭐ Python) | [reels/reel_0992_yt-dlp-yt-dlp](reels/reel_0992_yt-dlp-yt-dlp) |
 | 993 | 2025-11-19 13:48:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120033⭐ Python) | [reels/reel_0993_langchain-ai-langchain](reels/reel_0993_langchain-ai-langchain) |
+| 994 | 2025-11-19 14:18:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115656⭐ JavaScript) | [reels/reel_0994_open-webui-open-webui](reels/reel_0994_open-webui-open-webui) |
