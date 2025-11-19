@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #970 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-19 |
+| #971 | [dd3v/favbox](https://github.com/dd3v/favbox) | Vue · ⭐ 449 | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1037,3 +1037,4 @@ Or let GitHub Action run it automatically.
 | 968 | 2025-11-19 03:43:38 | [justoneapi-45/tiktok-api](https://github.com/justoneapi-45/tiktok-api) | ✅ full (457⭐ None) | [reels/reel_0968_justoneapi-45-tiktok-api](reels/reel_0968_justoneapi-45-tiktok-api) |
 | 969 | 2025-11-19 04:00:35 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115596⭐ JavaScript) | [reels/reel_0969_open-webui-open-webui](reels/reel_0969_open-webui-open-webui) |
 | 970 | 2025-11-19 04:36:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115597⭐ JavaScript) | [reels/reel_0970_open-webui-open-webui](reels/reel_0970_open-webui-open-webui) |
+| 971 | 2025-11-19 04:52:59 | [dd3v/favbox](https://github.com/dd3v/favbox) | ✅ full (449⭐ Vue) | [reels/reel_0971_dd3v-favbox](reels/reel_0971_dd3v-favbox) |

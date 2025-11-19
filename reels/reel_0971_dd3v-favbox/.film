@@ -1,0 +1,24 @@
+{
+  "reel_number": 971,
+  "recorded": "2025-11-19 04:52:59 UTC",
+  "repository": {
+    "full_name": "dd3v/favbox",
+    "url": "https://github.com/dd3v/favbox",
+    "clone_url": "https://github.com/dd3v/favbox.git",
+    "stars": 449,
+    "language": "Vue",
+    "size_kb": 20860
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 0.595028
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 449 stars."
+  }
+}
