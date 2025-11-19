@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1002 | [Potterli20/hosts](https://github.com/Potterli20/hosts) | HTML · ⭐ 301 | 2025-11-19 |
+| #1003 | [steipete/oracle](https://github.com/steipete/oracle) | TypeScript · ⭐ 268 | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1069,3 +1069,4 @@ Or let GitHub Action run it automatically.
 | 1000 | 2025-11-19 16:24:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138712⭐ Python) | [reels/reel_1000_langflow-ai-langflow](reels/reel_1000_langflow-ai-langflow) |
 | 1001 | 2025-11-19 16:49:33 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379498⭐ Python) | [reels/reel_1001_public-apis-public-apis](reels/reel_1001_public-apis-public-apis) |
 | 1002 | 2025-11-19 17:17:21 | [Potterli20/hosts](https://github.com/Potterli20/hosts) | ✅ full (301⭐ HTML) | [reels/reel_1002_Potterli20-hosts](reels/reel_1002_Potterli20-hosts) |
+| 1003 | 2025-11-19 17:38:18 | [steipete/oracle](https://github.com/steipete/oracle) | ✅ full (268⭐ TypeScript) | [reels/reel_1003_steipete-oracle](reels/reel_1003_steipete-oracle) |

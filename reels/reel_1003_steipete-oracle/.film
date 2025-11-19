@@ -1,0 +1,24 @@
+{
+  "reel_number": 1003,
+  "recorded": "2025-11-19 17:38:18 UTC",
+  "repository": {
+    "full_name": "steipete/oracle",
+    "url": "https://github.com/steipete/oracle",
+    "clone_url": "https://github.com/steipete/oracle.git",
+    "stars": 268,
+    "language": "TypeScript",
+    "size_kb": 9090
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.887081
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 268 stars."
+  }
+}
