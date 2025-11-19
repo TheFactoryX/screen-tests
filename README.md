@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #973 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-19 |
+| #974 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1040,3 +1040,4 @@ Or let GitHub Action run it automatically.
 | 971 | 2025-11-19 04:52:59 | [dd3v/favbox](https://github.com/dd3v/favbox) | ✅ full (449⭐ Vue) | [reels/reel_0971_dd3v-favbox](reels/reel_0971_dd3v-favbox) |
 | 972 | 2025-11-19 05:18:32 | [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) | ✅ shallow (579⭐ Marko) | [reels/reel_0972_Zigistry-Zigistry](reels/reel_0972_Zigistry-Zigistry) |
 | 973 | 2025-11-19 05:41:58 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100289⭐ TypeScript) | [reels/reel_0973_shadcn-ui-ui](reels/reel_0973_shadcn-ui-ui) |
+| 974 | 2025-11-19 05:51:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107940⭐ Rust) | [reels/reel_0974_rust-lang-rust](reels/reel_0974_rust-lang-rust) |
