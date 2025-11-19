@@ -1,0 +1,24 @@
+{
+  "reel_number": 987,
+  "recorded": "2025-11-19 10:55:10 UTC",
+  "repository": {
+    "full_name": "estruyf/vscode-demo-time",
+    "url": "https://github.com/estruyf/vscode-demo-time",
+    "clone_url": "https://github.com/estruyf/vscode-demo-time.git",
+    "stars": 204,
+    "language": "TypeScript",
+    "size_kb": 71237
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 69,
+    "duration_seconds": 2.019821
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 204 stars."
+  }
+}
