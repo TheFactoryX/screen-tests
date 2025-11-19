@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #966 | [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) | TypeScript · ⭐ 354 | 2025-11-19 |
+| #967 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1033,3 +1033,4 @@ Or let GitHub Action run it automatically.
 | 964 | 2025-11-18 23:36:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99020⭐ Rust) | [reels/reel_0964_tauri-apps-tauri](reels/reel_0964_tauri-apps-tauri) |
 | 965 | 2025-11-18 23:50:04 | [zellwk/zellwk.com](https://github.com/zellwk/zellwk.com) | ✅ readme_only (346⭐ MDX) | [reels/reel_0965_zellwk-zellwk.com](reels/reel_0965_zellwk-zellwk.com) |
 | 966 | 2025-11-19 01:22:13 | [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) | ✅ full (354⭐ TypeScript) | [reels/reel_0966_webrecorder-browsertrix](reels/reel_0966_webrecorder-browsertrix) |
+| 967 | 2025-11-19 02:55:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135536⭐ Python) | [reels/reel_0967_yt-dlp-yt-dlp](reels/reel_0967_yt-dlp-yt-dlp) |
