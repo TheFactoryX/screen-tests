@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #998 | [Robbbert/hbmame](https://github.com/Robbbert/hbmame) | C++ · ⭐ 110 | 2025-11-19 |
+| #999 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1065,3 +1065,4 @@ Or let GitHub Action run it automatically.
 | 996 | 2025-11-19 14:55:58 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100333⭐ TypeScript) | [reels/reel_0996_shadcn-ui-ui](reels/reel_0996_shadcn-ui-ui) |
 | 997 | 2025-11-19 15:21:46 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100883⭐ None) | [reels/reel_0997_Hack-with-Github-Awesome-Hacking](reels/reel_0997_Hack-with-Github-Awesome-Hacking) |
 | 998 | 2025-11-19 15:40:04 | [Robbbert/hbmame](https://github.com/Robbbert/hbmame) | ✅ readme_only (110⭐ C++) | [reels/reel_0998_Robbbert-hbmame](reels/reel_0998_Robbbert-hbmame) |
+| 999 | 2025-11-19 15:50:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135631⭐ Python) | [reels/reel_0999_yt-dlp-yt-dlp](reels/reel_0999_yt-dlp-yt-dlp) |
