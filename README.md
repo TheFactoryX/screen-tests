@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1010 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-19 |
+| #1011 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1077,3 +1077,4 @@ Or let GitHub Action run it automatically.
 | 1008 | 2025-11-19 19:28:53 | [rocq-prover/opam](https://github.com/rocq-prover/opam) | ✅ full (153⭐ OCaml) | [reels/reel_1008_rocq-prover-opam](reels/reel_1008_rocq-prover-opam) |
 | 1009 | 2025-11-19 19:40:39 | [eoin-obrien/prisma-extension-kysely](https://github.com/eoin-obrien/prisma-extension-kysely) | ✅ full (299⭐ TypeScript) | [reels/reel_1009_eoin-obrien-prisma-extension-kysely](reels/reel_1009_eoin-obrien-prisma-extension-kysely) |
 | 1010 | 2025-11-19 19:50:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258952⭐ None) | [reels/reel_1010_awesome-selfhosted-awesome-selfhosted](reels/reel_1010_awesome-selfhosted-awesome-selfhosted) |
+| 1011 | 2025-11-19 20:18:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102055⭐ TypeScript) | [reels/reel_1011_iptv-org-iptv](reels/reel_1011_iptv-org-iptv) |
