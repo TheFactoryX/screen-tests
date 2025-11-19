@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #987 | [estruyf/vscode-demo-time](https://github.com/estruyf/vscode-demo-time) | TypeScript · ⭐ 204 | 2025-11-19 |
+| #988 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1054,3 +1054,4 @@ Or let GitHub Action run it automatically.
 | 985 | 2025-11-19 10:20:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100315⭐ TypeScript) | [reels/reel_0985_shadcn-ui-ui](reels/reel_0985_shadcn-ui-ui) |
 | 986 | 2025-11-19 10:44:58 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100323⭐ Python) | [reels/reel_0986_deepseek-ai-DeepSeek-V3](reels/reel_0986_deepseek-ai-DeepSeek-V3) |
 | 987 | 2025-11-19 10:55:10 | [estruyf/vscode-demo-time](https://github.com/estruyf/vscode-demo-time) | ✅ full (204⭐ TypeScript) | [reels/reel_0987_estruyf-vscode-demo-time](reels/reel_0987_estruyf-vscode-demo-time) |
+| 988 | 2025-11-19 11:16:33 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91493⭐ None) | [reels/reel_0988_deepseek-ai-DeepSeek-R1](reels/reel_0988_deepseek-ai-DeepSeek-R1) |
