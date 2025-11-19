@@ -1,0 +1,24 @@
+{
+  "reel_number": 995,
+  "recorded": "2025-11-19 14:44:23 UTC",
+  "repository": {
+    "full_name": "aiven/terraform-provider-aiven",
+    "url": "https://github.com/aiven/terraform-provider-aiven",
+    "clone_url": "https://github.com/aiven/terraform-provider-aiven.git",
+    "stars": 129,
+    "language": "Go",
+    "size_kb": 36628
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 1.91301
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 129 stars."
+  }
+}

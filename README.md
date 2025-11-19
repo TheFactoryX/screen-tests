@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #994 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-19 |
+| #995 | [aiven/terraform-provider-aiven](https://github.com/aiven/terraform-provider-aiven) | Go · ⭐ 129 | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1061,3 +1061,4 @@ Or let GitHub Action run it automatically.
 | 992 | 2025-11-19 13:21:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135619⭐ Python) | [reels/reel_0992_yt-dlp-yt-dlp](reels/reel_0992_yt-dlp-yt-dlp) |
 | 993 | 2025-11-19 13:48:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120033⭐ Python) | [reels/reel_0993_langchain-ai-langchain](reels/reel_0993_langchain-ai-langchain) |
 | 994 | 2025-11-19 14:18:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115656⭐ JavaScript) | [reels/reel_0994_open-webui-open-webui](reels/reel_0994_open-webui-open-webui) |
+| 995 | 2025-11-19 14:44:23 | [aiven/terraform-provider-aiven](https://github.com/aiven/terraform-provider-aiven) | ✅ full (129⭐ Go) | [reels/reel_0995_aiven-terraform-provider-aiven](reels/reel_0995_aiven-terraform-provider-aiven) |
