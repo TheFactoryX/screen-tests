@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #977 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-19 |
+| #978 | [khoadng/Boorusama](https://github.com/khoadng/Boorusama) | Dart · ⭐ 322 | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1044,3 +1044,4 @@ Or let GitHub Action run it automatically.
 | 975 | 2025-11-19 06:27:31 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100294⭐ TypeScript) | [reels/reel_0975_shadcn-ui-ui](reels/reel_0975_shadcn-ui-ui) |
 | 976 | 2025-11-19 06:51:29 | [JuliaMeshless/RadialBasisFunctions.jl](https://github.com/JuliaMeshless/RadialBasisFunctions.jl) | ✅ full (14⭐ Julia) | [reels/reel_0976_JuliaMeshless-RadialBasisFunctions.jl](reels/reel_0976_JuliaMeshless-RadialBasisFunctions.jl) |
 | 977 | 2025-11-19 07:17:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115608⭐ JavaScript) | [reels/reel_0977_open-webui-open-webui](reels/reel_0977_open-webui-open-webui) |
+| 978 | 2025-11-19 07:39:22 | [khoadng/Boorusama](https://github.com/khoadng/Boorusama) | ✅ full (322⭐ Dart) | [reels/reel_0978_khoadng-Boorusama](reels/reel_0978_khoadng-Boorusama) |

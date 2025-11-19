@@ -1,0 +1,24 @@
+{
+  "reel_number": 978,
+  "recorded": "2025-11-19 07:39:22 UTC",
+  "repository": {
+    "full_name": "khoadng/Boorusama",
+    "url": "https://github.com/khoadng/Boorusama",
+    "clone_url": "https://github.com/khoadng/Boorusama.git",
+    "stars": 322,
+    "language": "Dart",
+    "size_kb": 23888
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 1.929153
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 322 stars."
+  }
+}
