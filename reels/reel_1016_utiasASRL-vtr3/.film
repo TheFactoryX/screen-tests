@@ -1,0 +1,24 @@
+{
+  "reel_number": 1016,
+  "recorded": "2025-11-19 21:39:44 UTC",
+  "repository": {
+    "full_name": "utiasASRL/vtr3",
+    "url": "https://github.com/utiasASRL/vtr3",
+    "clone_url": "https://github.com/utiasASRL/vtr3.git",
+    "stars": 130,
+    "language": "C++",
+    "size_kb": 111984
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 109,
+    "duration_seconds": 0.829474
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 130 stars."
+  }
+}
