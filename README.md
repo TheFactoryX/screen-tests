@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #981 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-19 |
+| #982 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1048,3 +1048,4 @@ Or let GitHub Action run it automatically.
 | 979 | 2025-11-19 07:50:14 | [EhTagTranslation/Database](https://github.com/EhTagTranslation/Database) | ✅ shallow (950⭐ PowerShell) | [reels/reel_0979_EhTagTranslation-Database](reels/reel_0979_EhTagTranslation-Database) |
 | 980 | 2025-11-19 08:25:17 | [aveniridm/envion](https://github.com/aveniridm/envion) | ✅ shallow (116⭐ HTML) | [reels/reel_0980_aveniridm-envion](reels/reel_0980_aveniridm-envion) |
 | 981 | 2025-11-19 08:48:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115618⭐ JavaScript) | [reels/reel_0981_open-webui-open-webui](reels/reel_0981_open-webui-open-webui) |
+| 982 | 2025-11-19 09:20:32 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91493⭐ None) | [reels/reel_0982_deepseek-ai-DeepSeek-R1](reels/reel_0982_deepseek-ai-DeepSeek-R1) |
