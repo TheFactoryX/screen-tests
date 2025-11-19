@@ -1,0 +1,24 @@
+{
+  "reel_number": 1005,
+  "recorded": "2025-11-19 18:27:25 UTC",
+  "repository": {
+    "full_name": "anthropic-experimental/sandbox-runtime",
+    "url": "https://github.com/anthropic-experimental/sandbox-runtime",
+    "clone_url": "https://github.com/anthropic-experimental/sandbox-runtime.git",
+    "stars": 1673,
+    "language": "TypeScript",
+    "size_kb": 909
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.210045
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 1673 stars."
+  }
+}
