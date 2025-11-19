@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1001 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 379k | 2025-11-19 |
+| #1002 | [Potterli20/hosts](https://github.com/Potterli20/hosts) | HTML · ⭐ 301 | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1068,3 +1068,4 @@ Or let GitHub Action run it automatically.
 | 999 | 2025-11-19 15:50:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135631⭐ Python) | [reels/reel_0999_yt-dlp-yt-dlp](reels/reel_0999_yt-dlp-yt-dlp) |
 | 1000 | 2025-11-19 16:24:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138712⭐ Python) | [reels/reel_1000_langflow-ai-langflow](reels/reel_1000_langflow-ai-langflow) |
 | 1001 | 2025-11-19 16:49:33 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379498⭐ Python) | [reels/reel_1001_public-apis-public-apis](reels/reel_1001_public-apis-public-apis) |
+| 1002 | 2025-11-19 17:17:21 | [Potterli20/hosts](https://github.com/Potterli20/hosts) | ✅ full (301⭐ HTML) | [reels/reel_1002_Potterli20-hosts](reels/reel_1002_Potterli20-hosts) |

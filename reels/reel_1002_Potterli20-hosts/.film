@@ -1,0 +1,24 @@
+{
+  "reel_number": 1002,
+  "recorded": "2025-11-19 17:17:21 UTC",
+  "repository": {
+    "full_name": "Potterli20/hosts",
+    "url": "https://github.com/Potterli20/hosts",
+    "clone_url": "https://github.com/Potterli20/hosts.git",
+    "stars": 301,
+    "language": "HTML",
+    "size_kb": 9
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.437745
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 301 stars."
+  }
+}
