@@ -1,0 +1,24 @@
+{
+  "reel_number": 966,
+  "recorded": "2025-11-19 01:22:13 UTC",
+  "repository": {
+    "full_name": "webrecorder/browsertrix",
+    "url": "https://github.com/webrecorder/browsertrix",
+    "clone_url": "https://github.com/webrecorder/browsertrix.git",
+    "stars": 354,
+    "language": "TypeScript",
+    "size_kb": 18049
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.420626
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 354 stars."
+  }
+}
