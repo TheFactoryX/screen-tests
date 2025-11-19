@@ -1,0 +1,24 @@
+{
+  "reel_number": 998,
+  "recorded": "2025-11-19 15:40:04 UTC",
+  "repository": {
+    "full_name": "Robbbert/hbmame",
+    "url": "https://github.com/Robbbert/hbmame",
+    "clone_url": "https://github.com/Robbbert/hbmame.git",
+    "stars": 110,
+    "language": "C++",
+    "size_kb": 1348667
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 1317,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 110 stars."
+  }
+}
