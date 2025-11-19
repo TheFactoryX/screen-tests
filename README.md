@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #984 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-19 |
+| #985 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1051,3 +1051,4 @@ Or let GitHub Action run it automatically.
 | 982 | 2025-11-19 09:20:32 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91493⭐ None) | [reels/reel_0982_deepseek-ai-DeepSeek-R1](reels/reel_0982_deepseek-ai-DeepSeek-R1) |
 | 983 | 2025-11-19 09:42:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138686⭐ Python) | [reels/reel_0983_langflow-ai-langflow](reels/reel_0983_langflow-ai-langflow) |
 | 984 | 2025-11-19 09:52:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115627⭐ JavaScript) | [reels/reel_0984_open-webui-open-webui](reels/reel_0984_open-webui-open-webui) |
+| 985 | 2025-11-19 10:20:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100315⭐ TypeScript) | [reels/reel_0985_shadcn-ui-ui](reels/reel_0985_shadcn-ui-ui) |
