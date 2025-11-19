@@ -1,0 +1,24 @@
+{
+  "reel_number": 980,
+  "recorded": "2025-11-19 08:25:17 UTC",
+  "repository": {
+    "full_name": "aveniridm/envion",
+    "url": "https://github.com/aveniridm/envion",
+    "clone_url": "https://github.com/aveniridm/envion.git",
+    "stars": 116,
+    "language": "HTML",
+    "size_kb": 279148
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 272,
+    "duration_seconds": 10.786886
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 116 stars."
+  }
+}
