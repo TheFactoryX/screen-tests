@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #999 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-19 |
+| #1000 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1066,3 +1066,4 @@ Or let GitHub Action run it automatically.
 | 997 | 2025-11-19 15:21:46 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (100883⭐ None) | [reels/reel_0997_Hack-with-Github-Awesome-Hacking](reels/reel_0997_Hack-with-Github-Awesome-Hacking) |
 | 998 | 2025-11-19 15:40:04 | [Robbbert/hbmame](https://github.com/Robbbert/hbmame) | ✅ readme_only (110⭐ C++) | [reels/reel_0998_Robbbert-hbmame](reels/reel_0998_Robbbert-hbmame) |
 | 999 | 2025-11-19 15:50:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135631⭐ Python) | [reels/reel_0999_yt-dlp-yt-dlp](reels/reel_0999_yt-dlp-yt-dlp) |
+| 1000 | 2025-11-19 16:24:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138712⭐ Python) | [reels/reel_1000_langflow-ai-langflow](reels/reel_1000_langflow-ai-langflow) |
