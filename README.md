@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1009 | [eoin-obrien/prisma-extension-kysely](https://github.com/eoin-obrien/prisma-extension-kysely) | TypeScript · ⭐ 299 | 2025-11-19 |
+| #1010 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1076,3 +1076,4 @@ Or let GitHub Action run it automatically.
 | 1007 | 2025-11-19 19:14:55 | [S4ltster/Beemovie](https://github.com/S4ltster/Beemovie) | ✅ full (36⭐ CSS) | [reels/reel_1007_S4ltster-Beemovie](reels/reel_1007_S4ltster-Beemovie) |
 | 1008 | 2025-11-19 19:28:53 | [rocq-prover/opam](https://github.com/rocq-prover/opam) | ✅ full (153⭐ OCaml) | [reels/reel_1008_rocq-prover-opam](reels/reel_1008_rocq-prover-opam) |
 | 1009 | 2025-11-19 19:40:39 | [eoin-obrien/prisma-extension-kysely](https://github.com/eoin-obrien/prisma-extension-kysely) | ✅ full (299⭐ TypeScript) | [reels/reel_1009_eoin-obrien-prisma-extension-kysely](reels/reel_1009_eoin-obrien-prisma-extension-kysely) |
+| 1010 | 2025-11-19 19:50:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258952⭐ None) | [reels/reel_1010_awesome-selfhosted-awesome-selfhosted](reels/reel_1010_awesome-selfhosted-awesome-selfhosted) |
