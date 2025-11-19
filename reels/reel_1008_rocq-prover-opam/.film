@@ -1,0 +1,24 @@
+{
+  "reel_number": 1008,
+  "recorded": "2025-11-19 19:28:53 UTC",
+  "repository": {
+    "full_name": "rocq-prover/opam",
+    "url": "https://github.com/rocq-prover/opam",
+    "clone_url": "https://github.com/rocq-prover/opam.git",
+    "stars": 153,
+    "language": "OCaml",
+    "size_kb": 13196
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.539497
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "OCaml",
+    "director_note": "A OCaml repository. 153 stars."
+  }
+}

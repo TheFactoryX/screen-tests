@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1007 | [S4ltster/Beemovie](https://github.com/S4ltster/Beemovie) | CSS · ⭐ 36 | 2025-11-19 |
+| #1008 | [rocq-prover/opam](https://github.com/rocq-prover/opam) | OCaml · ⭐ 153 | 2025-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -1074,3 +1074,4 @@ Or let GitHub Action run it automatically.
 | 1005 | 2025-11-19 18:27:25 | [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) | ✅ full (1673⭐ TypeScript) | [reels/reel_1005_anthropic-experimental-sandbox-runtime](reels/reel_1005_anthropic-experimental-sandbox-runtime) |
 | 1006 | 2025-11-19 18:49:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179801⭐ Python) | [reels/reel_1006_Significant-Gravitas-AutoGPT](reels/reel_1006_Significant-Gravitas-AutoGPT) |
 | 1007 | 2025-11-19 19:14:55 | [S4ltster/Beemovie](https://github.com/S4ltster/Beemovie) | ✅ full (36⭐ CSS) | [reels/reel_1007_S4ltster-Beemovie](reels/reel_1007_S4ltster-Beemovie) |
+| 1008 | 2025-11-19 19:28:53 | [rocq-prover/opam](https://github.com/rocq-prover/opam) | ✅ full (153⭐ OCaml) | [reels/reel_1008_rocq-prover-opam](reels/reel_1008_rocq-prover-opam) |
