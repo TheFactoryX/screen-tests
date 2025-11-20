@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1069 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-20 |
+| #1070 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1136,3 +1136,4 @@ Or let GitHub Action run it automatically.
 | 1067 | 2025-11-20 19:40:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138839⭐ Python) | [reels/reel_1067_langflow-ai-langflow](reels/reel_1067_langflow-ai-langflow) |
 | 1068 | 2025-11-20 19:50:51 | [ivam3/i-Haklab](https://github.com/ivam3/i-Haklab) | ✅ readme_only (498⭐ JavaScript) | [reels/reel_1068_ivam3-i-Haklab](reels/reel_1068_ivam3-i-Haklab) |
 | 1069 | 2025-11-20 20:20:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138845⭐ Python) | [reels/reel_1069_langflow-ai-langflow](reels/reel_1069_langflow-ai-langflow) |
+| 1070 | 2025-11-20 20:41:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135766⭐ Python) | [reels/reel_1070_yt-dlp-yt-dlp](reels/reel_1070_yt-dlp-yt-dlp) |
