@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1025 | [termux-user-repository/tur](https://github.com/termux-user-repository/tur) | Shell · ⭐ 757 | 2025-11-20 |
+| #1026 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1092,3 +1092,4 @@ Or let GitHub Action run it automatically.
 | 1023 | 2025-11-19 23:50:05 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91492⭐ None) | [reels/reel_1023_deepseek-ai-DeepSeek-R1](reels/reel_1023_deepseek-ai-DeepSeek-R1) |
 | 1024 | 2025-11-20 01:21:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258992⭐ None) | [reels/reel_1024_awesome-selfhosted-awesome-selfhosted](reels/reel_1024_awesome-selfhosted-awesome-selfhosted) |
 | 1025 | 2025-11-20 02:53:49 | [termux-user-repository/tur](https://github.com/termux-user-repository/tur) | ✅ full (757⭐ Shell) | [reels/reel_1025_termux-user-repository-tur](reels/reel_1025_termux-user-repository-tur) |
+| 1026 | 2025-11-20 03:42:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107960⭐ Rust) | [reels/reel_1026_rust-lang-rust](reels/reel_1026_rust-lang-rust) |
