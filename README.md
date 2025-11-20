@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1079 | [parisolab/mathmod](https://github.com/parisolab/mathmod) | C++ · ⭐ 123 | 2025-11-20 |
+| #1080 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1146,3 +1146,4 @@ Or let GitHub Action run it automatically.
 | 1077 | 2025-11-20 22:50:14 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100338⭐ Python) | [reels/reel_1077_deepseek-ai-DeepSeek-V3](reels/reel_1077_deepseek-ai-DeepSeek-V3) |
 | 1078 | 2025-11-20 23:17:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179835⭐ Python) | [reels/reel_1078_Significant-Gravitas-AutoGPT](reels/reel_1078_Significant-Gravitas-AutoGPT) |
 | 1079 | 2025-11-20 23:38:26 | [parisolab/mathmod](https://github.com/parisolab/mathmod) | ✅ full (123⭐ C++) | [reels/reel_1079_parisolab-mathmod](reels/reel_1079_parisolab-mathmod) |
+| 1080 | 2025-11-20 23:50:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115790⭐ JavaScript) | [reels/reel_1080_open-webui-open-webui](reels/reel_1080_open-webui-open-webui) |
