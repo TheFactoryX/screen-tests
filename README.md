@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1053 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-20 |
+| #1054 | [ScienceArtist/reportcard.fun](https://github.com/ScienceArtist/reportcard.fun) | TypeScript · ⭐ 14 | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1120,3 +1120,4 @@ Or let GitHub Action run it automatically.
 | 1051 | 2025-11-20 13:45:42 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107969⭐ Rust) | [reels/reel_1051_rust-lang-rust](reels/reel_1051_rust-lang-rust) |
 | 1052 | 2025-11-20 14:18:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259086⭐ None) | [reels/reel_1052_awesome-selfhosted-awesome-selfhosted](reels/reel_1052_awesome-selfhosted-awesome-selfhosted) |
 | 1053 | 2025-11-20 14:41:53 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91493⭐ None) | [reels/reel_1053_deepseek-ai-DeepSeek-R1](reels/reel_1053_deepseek-ai-DeepSeek-R1) |
+| 1054 | 2025-11-20 14:52:07 | [ScienceArtist/reportcard.fun](https://github.com/ScienceArtist/reportcard.fun) | ✅ full (14⭐ TypeScript) | [reels/reel_1054_ScienceArtist-reportcard.fun](reels/reel_1054_ScienceArtist-reportcard.fun) |

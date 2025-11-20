@@ -1,0 +1,24 @@
+{
+  "reel_number": 1054,
+  "recorded": "2025-11-20 14:52:07 UTC",
+  "repository": {
+    "full_name": "ScienceArtist/reportcard.fun",
+    "url": "https://github.com/ScienceArtist/reportcard.fun",
+    "clone_url": "https://github.com/ScienceArtist/reportcard.fun.git",
+    "stars": 14,
+    "language": "TypeScript",
+    "size_kb": 4840
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.311101
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 14 stars."
+  }
+}
