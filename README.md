@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1075 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-20 |
+| #1076 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1142,3 +1142,4 @@ Or let GitHub Action run it automatically.
 | 1073 | 2025-11-20 21:36:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259126⭐ None) | [reels/reel_1073_awesome-selfhosted-awesome-selfhosted](reels/reel_1073_awesome-selfhosted-awesome-selfhosted) |
 | 1074 | 2025-11-20 21:50:12 | [hackclub/dns](https://github.com/hackclub/dns) | ✅ full (188⭐ YAML) | [reels/reel_1074_hackclub-dns](reels/reel_1074_hackclub-dns) |
 | 1075 | 2025-11-20 22:16:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107972⭐ Rust) | [reels/reel_1075_rust-lang-rust](reels/reel_1075_rust-lang-rust) |
+| 1076 | 2025-11-20 22:39:12 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91493⭐ None) | [reels/reel_1076_deepseek-ai-DeepSeek-R1](reels/reel_1076_deepseek-ai-DeepSeek-R1) |
