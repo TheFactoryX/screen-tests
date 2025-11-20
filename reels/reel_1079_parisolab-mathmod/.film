@@ -1,0 +1,24 @@
+{
+  "reel_number": 1079,
+  "recorded": "2025-11-20 23:38:26 UTC",
+  "repository": {
+    "full_name": "parisolab/mathmod",
+    "url": "https://github.com/parisolab/mathmod",
+    "clone_url": "https://github.com/parisolab/mathmod.git",
+    "stars": 123,
+    "language": "C++",
+    "size_kb": 17049
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 2.050819
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 123 stars."
+  }
+}
