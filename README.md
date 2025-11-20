@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1074 | [hackclub/dns](https://github.com/hackclub/dns) | YAML · ⭐ 188 | 2025-11-20 |
+| #1075 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1141,3 +1141,4 @@ Or let GitHub Action run it automatically.
 | 1072 | 2025-11-20 21:16:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157613⭐ TypeScript) | [reels/reel_1072_n8n-io-n8n](reels/reel_1072_n8n-io-n8n) |
 | 1073 | 2025-11-20 21:36:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259126⭐ None) | [reels/reel_1073_awesome-selfhosted-awesome-selfhosted](reels/reel_1073_awesome-selfhosted-awesome-selfhosted) |
 | 1074 | 2025-11-20 21:50:12 | [hackclub/dns](https://github.com/hackclub/dns) | ✅ full (188⭐ YAML) | [reels/reel_1074_hackclub-dns](reels/reel_1074_hackclub-dns) |
+| 1075 | 2025-11-20 22:16:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107972⭐ Rust) | [reels/reel_1075_rust-lang-rust](reels/reel_1075_rust-lang-rust) |
