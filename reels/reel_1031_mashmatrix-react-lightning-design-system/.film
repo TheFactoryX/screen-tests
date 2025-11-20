@@ -1,0 +1,24 @@
+{
+  "reel_number": 1031,
+  "recorded": "2025-11-20 05:42:06 UTC",
+  "repository": {
+    "full_name": "mashmatrix/react-lightning-design-system",
+    "url": "https://github.com/mashmatrix/react-lightning-design-system",
+    "clone_url": "https://github.com/mashmatrix/react-lightning-design-system.git",
+    "stars": 257,
+    "language": "TypeScript",
+    "size_kb": 33671
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 2.093957
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 257 stars."
+  }
+}
