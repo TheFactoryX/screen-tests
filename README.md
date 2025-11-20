@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1035 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 379k | 2025-11-20 |
+| #1036 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1102,3 +1102,4 @@ Or let GitHub Action run it automatically.
 | 1033 | 2025-11-20 06:27:22 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96623⭐ TypeScript) | [reels/reel_1033_ant-design-ant-design](reels/reel_1033_ant-design-ant-design) |
 | 1034 | 2025-11-20 06:51:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379611⭐ Python) | [reels/reel_1034_public-apis-public-apis](reels/reel_1034_public-apis-public-apis) |
 | 1035 | 2025-11-20 07:17:52 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379616⭐ Python) | [reels/reel_1035_public-apis-public-apis](reels/reel_1035_public-apis-public-apis) |
+| 1036 | 2025-11-20 07:38:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102148⭐ TypeScript) | [reels/reel_1036_iptv-org-iptv](reels/reel_1036_iptv-org-iptv) |
