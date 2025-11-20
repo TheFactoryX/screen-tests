@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1031 | [mashmatrix/react-lightning-design-system](https://github.com/mashmatrix/react-lightning-design-system) | TypeScript · ⭐ 257 | 2025-11-20 |
+| #1032 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1098,3 +1098,4 @@ Or let GitHub Action run it automatically.
 | 1029 | 2025-11-20 04:51:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102126⭐ TypeScript) | [reels/reel_1029_iptv-org-iptv](reels/reel_1029_iptv-org-iptv) |
 | 1030 | 2025-11-20 05:18:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138768⭐ Python) | [reels/reel_1030_langflow-ai-langflow](reels/reel_1030_langflow-ai-langflow) |
 | 1031 | 2025-11-20 05:42:06 | [mashmatrix/react-lightning-design-system](https://github.com/mashmatrix/react-lightning-design-system) | ✅ full (257⭐ TypeScript) | [reels/reel_1031_mashmatrix-react-lightning-design-system](reels/reel_1031_mashmatrix-react-lightning-design-system) |
+| 1032 | 2025-11-20 05:51:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179814⭐ Python) | [reels/reel_1032_Significant-Gravitas-AutoGPT](reels/reel_1032_Significant-Gravitas-AutoGPT) |
