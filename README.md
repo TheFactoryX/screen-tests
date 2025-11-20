@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1034 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 379k | 2025-11-20 |
+| #1035 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 379k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1101,3 +1101,4 @@ Or let GitHub Action run it automatically.
 | 1032 | 2025-11-20 05:51:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179814⭐ Python) | [reels/reel_1032_Significant-Gravitas-AutoGPT](reels/reel_1032_Significant-Gravitas-AutoGPT) |
 | 1033 | 2025-11-20 06:27:22 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96623⭐ TypeScript) | [reels/reel_1033_ant-design-ant-design](reels/reel_1033_ant-design-ant-design) |
 | 1034 | 2025-11-20 06:51:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379611⭐ Python) | [reels/reel_1034_public-apis-public-apis](reels/reel_1034_public-apis-public-apis) |
+| 1035 | 2025-11-20 07:17:52 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379616⭐ Python) | [reels/reel_1035_public-apis-public-apis](reels/reel_1035_public-apis-public-apis) |
