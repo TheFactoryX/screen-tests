@@ -1,0 +1,24 @@
+{
+  "reel_number": 1039,
+  "recorded": "2025-11-20 08:48:59 UTC",
+  "repository": {
+    "full_name": "IgniteUI/igniteui-angular",
+    "url": "https://github.com/IgniteUI/igniteui-angular",
+    "clone_url": "https://github.com/IgniteUI/igniteui-angular.git",
+    "stars": 573,
+    "language": "TypeScript",
+    "size_kb": 210225
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 205,
+    "duration_seconds": 1.793919
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 573 stars."
+  }
+}
