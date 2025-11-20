@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1065 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 259k | 2025-11-20 |
+| #1066 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1132,3 +1132,4 @@ Or let GitHub Action run it automatically.
 | 1063 | 2025-11-20 18:27:18 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (440665⭐ Markdown) | [reels/reel_1063_codecrafters-io-build-your-own-x](reels/reel_1063_codecrafters-io-build-your-own-x) |
 | 1064 | 2025-11-20 18:51:37 | [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) | ✅ full (38⭐ None) | [reels/reel_1064_Correia-jpv-fucking-awesome-chatgpt](reels/reel_1064_Correia-jpv-fucking-awesome-chatgpt) |
 | 1065 | 2025-11-20 19:14:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259116⭐ None) | [reels/reel_1065_awesome-selfhosted-awesome-selfhosted](reels/reel_1065_awesome-selfhosted-awesome-selfhosted) |
+| 1066 | 2025-11-20 19:28:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107974⭐ Rust) | [reels/reel_1066_rust-lang-rust](reels/reel_1066_rust-lang-rust) |
