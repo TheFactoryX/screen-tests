@@ -1,0 +1,24 @@
+{
+  "reel_number": 1074,
+  "recorded": "2025-11-20 21:50:12 UTC",
+  "repository": {
+    "full_name": "hackclub/dns",
+    "url": "https://github.com/hackclub/dns",
+    "clone_url": "https://github.com/hackclub/dns.git",
+    "stars": 188,
+    "language": "YAML",
+    "size_kb": 2148
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.354615
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "YAML",
+    "director_note": "A YAML repository. 188 stars."
+  }
+}

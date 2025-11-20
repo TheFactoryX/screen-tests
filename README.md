@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1073 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 259k | 2025-11-20 |
+| #1074 | [hackclub/dns](https://github.com/hackclub/dns) | YAML · ⭐ 188 | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1140,3 +1140,4 @@ Or let GitHub Action run it automatically.
 | 1071 | 2025-11-20 20:51:18 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250418⭐ None) | [reels/reel_1071_practical-tutorials-project-based-learning](reels/reel_1071_practical-tutorials-project-based-learning) |
 | 1072 | 2025-11-20 21:16:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157613⭐ TypeScript) | [reels/reel_1072_n8n-io-n8n](reels/reel_1072_n8n-io-n8n) |
 | 1073 | 2025-11-20 21:36:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259126⭐ None) | [reels/reel_1073_awesome-selfhosted-awesome-selfhosted](reels/reel_1073_awesome-selfhosted-awesome-selfhosted) |
+| 1074 | 2025-11-20 21:50:12 | [hackclub/dns](https://github.com/hackclub/dns) | ✅ full (188⭐ YAML) | [reels/reel_1074_hackclub-dns](reels/reel_1074_hackclub-dns) |
