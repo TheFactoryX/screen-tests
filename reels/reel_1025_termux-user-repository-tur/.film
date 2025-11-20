@@ -1,0 +1,24 @@
+{
+  "reel_number": 1025,
+  "recorded": "2025-11-20 02:53:49 UTC",
+  "repository": {
+    "full_name": "termux-user-repository/tur",
+    "url": "https://github.com/termux-user-repository/tur",
+    "clone_url": "https://github.com/termux-user-repository/tur.git",
+    "stars": 757,
+    "language": "Shell",
+    "size_kb": 4418
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.913001
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 757 stars."
+  }
+}
