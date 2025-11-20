@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1043 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-20 |
+| #1044 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1110,3 +1110,4 @@ Or let GitHub Action run it automatically.
 | 1041 | 2025-11-20 09:41:32 | [Project-Pandora-Game/pandora](https://github.com/Project-Pandora-Game/pandora) | ✅ full (14⭐ TypeScript) | [reels/reel_1041_Project-Pandora-Game-pandora](reels/reel_1041_Project-Pandora-Game-pandora) |
 | 1042 | 2025-11-20 09:51:42 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (440513⭐ Markdown) | [reels/reel_1042_codecrafters-io-build-your-own-x](reels/reel_1042_codecrafters-io-build-your-own-x) |
 | 1043 | 2025-11-20 10:20:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115734⭐ JavaScript) | [reels/reel_1043_open-webui-open-webui](reels/reel_1043_open-webui-open-webui) |
+| 1044 | 2025-11-20 10:44:44 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100414⭐ Shell) | [reels/reel_1044_papers-we-love-papers-we-love](reels/reel_1044_papers-we-love-papers-we-love) |
