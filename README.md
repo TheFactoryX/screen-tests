@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1039 | [IgniteUI/igniteui-angular](https://github.com/IgniteUI/igniteui-angular) | TypeScript · ⭐ 573 | 2025-11-20 |
+| #1040 | [fortran-lang/test-drive](https://github.com/fortran-lang/test-drive) | Fortran · ⭐ 105 | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1106,3 +1106,4 @@ Or let GitHub Action run it automatically.
 | 1037 | 2025-11-20 07:49:35 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100396⭐ TypeScript) | [reels/reel_1037_shadcn-ui-ui](reels/reel_1037_shadcn-ui-ui) |
 | 1038 | 2025-11-20 08:25:31 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107965⭐ Rust) | [reels/reel_1038_rust-lang-rust](reels/reel_1038_rust-lang-rust) |
 | 1039 | 2025-11-20 08:48:59 | [IgniteUI/igniteui-angular](https://github.com/IgniteUI/igniteui-angular) | ✅ shallow (573⭐ TypeScript) | [reels/reel_1039_IgniteUI-igniteui-angular](reels/reel_1039_IgniteUI-igniteui-angular) |
+| 1040 | 2025-11-20 09:19:20 | [fortran-lang/test-drive](https://github.com/fortran-lang/test-drive) | ✅ full (105⭐ Fortran) | [reels/reel_1040_fortran-lang-test-drive](reels/reel_1040_fortran-lang-test-drive) |
