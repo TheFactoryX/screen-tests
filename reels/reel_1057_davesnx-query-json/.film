@@ -1,0 +1,24 @@
+{
+  "reel_number": 1057,
+  "recorded": "2025-11-20 15:53:41 UTC",
+  "repository": {
+    "full_name": "davesnx/query-json",
+    "url": "https://github.com/davesnx/query-json",
+    "clone_url": "https://github.com/davesnx/query-json.git",
+    "stars": 614,
+    "language": "OCaml",
+    "size_kb": 43584
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 1.902722
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "OCaml",
+    "director_note": "A OCaml repository. 614 stars."
+  }
+}

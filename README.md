@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1056 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-20 |
+| #1057 | [davesnx/query-json](https://github.com/davesnx/query-json) | OCaml · ⭐ 614 | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1123,3 +1123,4 @@ Or let GitHub Action run it automatically.
 | 1054 | 2025-11-20 14:52:07 | [ScienceArtist/reportcard.fun](https://github.com/ScienceArtist/reportcard.fun) | ✅ full (14⭐ TypeScript) | [reels/reel_1054_ScienceArtist-reportcard.fun](reels/reel_1054_ScienceArtist-reportcard.fun) |
 | 1055 | 2025-11-20 15:19:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135743⭐ Python) | [reels/reel_1055_yt-dlp-yt-dlp](reels/reel_1055_yt-dlp-yt-dlp) |
 | 1056 | 2025-11-20 15:42:54 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115769⭐ JavaScript) | [reels/reel_1056_open-webui-open-webui](reels/reel_1056_open-webui-open-webui) |
+| 1057 | 2025-11-20 15:53:41 | [davesnx/query-json](https://github.com/davesnx/query-json) | ✅ full (614⭐ OCaml) | [reels/reel_1057_davesnx-query-json](reels/reel_1057_davesnx-query-json) |
