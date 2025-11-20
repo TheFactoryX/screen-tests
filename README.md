@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1063 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 440k | 2025-11-20 |
+| #1064 | [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) | None · ⭐ 38 | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1130,3 +1130,4 @@ Or let GitHub Action run it automatically.
 | 1061 | 2025-11-20 17:32:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157576⭐ TypeScript) | [reels/reel_1061_n8n-io-n8n](reels/reel_1061_n8n-io-n8n) |
 | 1062 | 2025-11-20 17:50:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138831⭐ Python) | [reels/reel_1062_langflow-ai-langflow](reels/reel_1062_langflow-ai-langflow) |
 | 1063 | 2025-11-20 18:27:18 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (440665⭐ Markdown) | [reels/reel_1063_codecrafters-io-build-your-own-x](reels/reel_1063_codecrafters-io-build-your-own-x) |
+| 1064 | 2025-11-20 18:51:37 | [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) | ✅ full (38⭐ None) | [reels/reel_1064_Correia-jpv-fucking-awesome-chatgpt](reels/reel_1064_Correia-jpv-fucking-awesome-chatgpt) |
