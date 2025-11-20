@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1041 | [Project-Pandora-Game/pandora](https://github.com/Project-Pandora-Game/pandora) | TypeScript · ⭐ 14 | 2025-11-20 |
+| #1042 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 440k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1108,3 +1108,4 @@ Or let GitHub Action run it automatically.
 | 1039 | 2025-11-20 08:48:59 | [IgniteUI/igniteui-angular](https://github.com/IgniteUI/igniteui-angular) | ✅ shallow (573⭐ TypeScript) | [reels/reel_1039_IgniteUI-igniteui-angular](reels/reel_1039_IgniteUI-igniteui-angular) |
 | 1040 | 2025-11-20 09:19:20 | [fortran-lang/test-drive](https://github.com/fortran-lang/test-drive) | ✅ full (105⭐ Fortran) | [reels/reel_1040_fortran-lang-test-drive](reels/reel_1040_fortran-lang-test-drive) |
 | 1041 | 2025-11-20 09:41:32 | [Project-Pandora-Game/pandora](https://github.com/Project-Pandora-Game/pandora) | ✅ full (14⭐ TypeScript) | [reels/reel_1041_Project-Pandora-Game-pandora](reels/reel_1041_Project-Pandora-Game-pandora) |
+| 1042 | 2025-11-20 09:51:42 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (440513⭐ Markdown) | [reels/reel_1042_codecrafters-io-build-your-own-x](reels/reel_1042_codecrafters-io-build-your-own-x) |
