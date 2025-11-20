@@ -1,0 +1,24 @@
+{
+  "reel_number": 1041,
+  "recorded": "2025-11-20 09:41:32 UTC",
+  "repository": {
+    "full_name": "Project-Pandora-Game/pandora",
+    "url": "https://github.com/Project-Pandora-Game/pandora",
+    "clone_url": "https://github.com/Project-Pandora-Game/pandora.git",
+    "stars": 14,
+    "language": "TypeScript",
+    "size_kb": 15507
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 2.221569
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 14 stars."
+  }
+}
