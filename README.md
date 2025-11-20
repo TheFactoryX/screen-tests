@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1032 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-20 |
+| #1033 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1099,3 +1099,4 @@ Or let GitHub Action run it automatically.
 | 1030 | 2025-11-20 05:18:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138768⭐ Python) | [reels/reel_1030_langflow-ai-langflow](reels/reel_1030_langflow-ai-langflow) |
 | 1031 | 2025-11-20 05:42:06 | [mashmatrix/react-lightning-design-system](https://github.com/mashmatrix/react-lightning-design-system) | ✅ full (257⭐ TypeScript) | [reels/reel_1031_mashmatrix-react-lightning-design-system](reels/reel_1031_mashmatrix-react-lightning-design-system) |
 | 1032 | 2025-11-20 05:51:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179814⭐ Python) | [reels/reel_1032_Significant-Gravitas-AutoGPT](reels/reel_1032_Significant-Gravitas-AutoGPT) |
+| 1033 | 2025-11-20 06:27:22 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96623⭐ TypeScript) | [reels/reel_1033_ant-design-ant-design](reels/reel_1033_ant-design-ant-design) |
