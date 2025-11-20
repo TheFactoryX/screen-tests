@@ -1,0 +1,24 @@
+{
+  "reel_number": 1050,
+  "recorded": "2025-11-20 13:19:50 UTC",
+  "repository": {
+    "full_name": "Tyrrrz/GitHubActionsTestLogger",
+    "url": "https://github.com/Tyrrrz/GitHubActionsTestLogger",
+    "clone_url": "https://github.com/Tyrrrz/GitHubActionsTestLogger.git",
+    "stars": 321,
+    "language": "C#",
+    "size_kb": 476
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.625226
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 321 stars."
+  }
+}
