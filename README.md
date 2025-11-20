@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1023 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-19 |
+| #1024 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 258k | 2025-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -1090,3 +1090,4 @@ Or let GitHub Action run it automatically.
 | 1021 | 2025-11-19 23:17:00 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (440309⭐ Markdown) | [reels/reel_1021_codecrafters-io-build-your-own-x](reels/reel_1021_codecrafters-io-build-your-own-x) |
 | 1022 | 2025-11-19 23:37:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138743⭐ Python) | [reels/reel_1022_langflow-ai-langflow](reels/reel_1022_langflow-ai-langflow) |
 | 1023 | 2025-11-19 23:50:05 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91492⭐ None) | [reels/reel_1023_deepseek-ai-DeepSeek-R1](reels/reel_1023_deepseek-ai-DeepSeek-R1) |
+| 1024 | 2025-11-20 01:21:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (258992⭐ None) | [reels/reel_1024_awesome-selfhosted-awesome-selfhosted](reels/reel_1024_awesome-selfhosted-awesome-selfhosted) |
