@@ -1,0 +1,24 @@
+{
+  "reel_number": 1028,
+  "recorded": "2025-11-20 04:31:31 UTC",
+  "repository": {
+    "full_name": "thatcherfreeman/utility-dctls",
+    "url": "https://github.com/thatcherfreeman/utility-dctls",
+    "clone_url": "https://github.com/thatcherfreeman/utility-dctls.git",
+    "stars": 306,
+    "language": "C",
+    "size_kb": 5825
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.404812
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 306 stars."
+  }
+}
