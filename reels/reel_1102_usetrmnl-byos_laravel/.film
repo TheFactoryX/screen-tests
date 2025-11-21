@@ -1,0 +1,24 @@
+{
+  "reel_number": 1102,
+  "recorded": "2025-11-21 10:53:56 UTC",
+  "repository": {
+    "full_name": "usetrmnl/byos_laravel",
+    "url": "https://github.com/usetrmnl/byos_laravel",
+    "clone_url": "https://github.com/usetrmnl/byos_laravel.git",
+    "stars": 128,
+    "language": "PHP",
+    "size_kb": 6126
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.42729
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 128 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1101 | [Gaerwn/randomCatFacts](https://github.com/Gaerwn/randomCatFacts) | None · ⭐ 25 | 2025-11-21 |
+| #1102 | [usetrmnl/byos_laravel](https://github.com/usetrmnl/byos_laravel) | PHP · ⭐ 128 | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1168,3 +1168,4 @@ Or let GitHub Action run it automatically.
 | 1099 | 2025-11-21 09:51:48 | [dronefreak/VisDrone-dataset-python-toolkit](https://github.com/dronefreak/VisDrone-dataset-python-toolkit) | ✅ shallow (45⭐ Python) | [reels/reel_1099_dronefreak-VisDrone-dataset-python-toolkit](reels/reel_1099_dronefreak-VisDrone-dataset-python-toolkit) |
 | 1100 | 2025-11-21 10:19:16 | [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) | ✅ shallow (340⭐ JavaScript) | [reels/reel_1100_Emurgo-yoroi-frontend](reels/reel_1100_Emurgo-yoroi-frontend) |
 | 1101 | 2025-11-21 10:43:29 | [Gaerwn/randomCatFacts](https://github.com/Gaerwn/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_1101_Gaerwn-randomCatFacts](reels/reel_1101_Gaerwn-randomCatFacts) |
+| 1102 | 2025-11-21 10:53:56 | [usetrmnl/byos_laravel](https://github.com/usetrmnl/byos_laravel) | ✅ full (128⭐ PHP) | [reels/reel_1102_usetrmnl-byos_laravel](reels/reel_1102_usetrmnl-byos_laravel) |
