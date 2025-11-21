@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1083 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-21 |
+| #1084 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 379k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1150,3 +1150,4 @@ Or let GitHub Action run it automatically.
 | 1081 | 2025-11-21 01:21:47 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179835⭐ Python) | [reels/reel_1081_Significant-Gravitas-AutoGPT](reels/reel_1081_Significant-Gravitas-AutoGPT) |
 | 1082 | 2025-11-21 02:54:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102273⭐ TypeScript) | [reels/reel_1082_iptv-org-iptv](reels/reel_1082_iptv-org-iptv) |
 | 1083 | 2025-11-21 03:42:19 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96629⭐ TypeScript) | [reels/reel_1083_ant-design-ant-design](reels/reel_1083_ant-design-ant-design) |
+| 1084 | 2025-11-21 03:59:34 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379800⭐ Python) | [reels/reel_1084_public-apis-public-apis](reels/reel_1084_public-apis-public-apis) |
