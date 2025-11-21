@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1099 | [dronefreak/VisDrone-dataset-python-toolkit](https://github.com/dronefreak/VisDrone-dataset-python-toolkit) | Python · ⭐ 45 | 2025-11-21 |
+| #1100 | [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) | JavaScript · ⭐ 340 | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1166,3 +1166,4 @@ Or let GitHub Action run it automatically.
 | 1097 | 2025-11-21 09:19:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259202⭐ None) | [reels/reel_1097_awesome-selfhosted-awesome-selfhosted](reels/reel_1097_awesome-selfhosted-awesome-selfhosted) |
 | 1098 | 2025-11-21 09:41:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259201⭐ None) | [reels/reel_1098_awesome-selfhosted-awesome-selfhosted](reels/reel_1098_awesome-selfhosted-awesome-selfhosted) |
 | 1099 | 2025-11-21 09:51:48 | [dronefreak/VisDrone-dataset-python-toolkit](https://github.com/dronefreak/VisDrone-dataset-python-toolkit) | ✅ shallow (45⭐ Python) | [reels/reel_1099_dronefreak-VisDrone-dataset-python-toolkit](reels/reel_1099_dronefreak-VisDrone-dataset-python-toolkit) |
+| 1100 | 2025-11-21 10:19:16 | [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) | ✅ shallow (340⭐ JavaScript) | [reels/reel_1100_Emurgo-yoroi-frontend](reels/reel_1100_Emurgo-yoroi-frontend) |

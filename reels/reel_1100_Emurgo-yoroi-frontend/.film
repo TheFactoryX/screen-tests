@@ -1,0 +1,24 @@
+{
+  "reel_number": 1100,
+  "recorded": "2025-11-21 10:19:16 UTC",
+  "repository": {
+    "full_name": "Emurgo/yoroi-frontend",
+    "url": "https://github.com/Emurgo/yoroi-frontend",
+    "clone_url": "https://github.com/Emurgo/yoroi-frontend.git",
+    "stars": 340,
+    "language": "JavaScript",
+    "size_kb": 194554
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 189,
+    "duration_seconds": 1.644951
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 340 stars."
+  }
+}
