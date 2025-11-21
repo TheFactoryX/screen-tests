@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1109 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-21 |
+| #1110 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1176,3 +1176,4 @@ Or let GitHub Action run it automatically.
 | 1107 | 2025-11-21 13:17:39 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100345⭐ Python) | [reels/reel_1107_deepseek-ai-DeepSeek-V3](reels/reel_1107_deepseek-ai-DeepSeek-V3) |
 | 1108 | 2025-11-21 13:44:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120190⭐ Python) | [reels/reel_1108_langchain-ai-langchain](reels/reel_1108_langchain-ai-langchain) |
 | 1109 | 2025-11-21 13:54:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138883⭐ Python) | [reels/reel_1109_ytdl-org-youtube-dl](reels/reel_1109_ytdl-org-youtube-dl) |
+| 1110 | 2025-11-21 14:18:04 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120191⭐ Python) | [reels/reel_1110_langchain-ai-langchain](reels/reel_1110_langchain-ai-langchain) |
