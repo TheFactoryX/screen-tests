@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1119 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-21 |
+| #1120 | [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) | C++ · ⭐ 422 | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1186,3 +1186,4 @@ Or let GitHub Action run it automatically.
 | 1117 | 2025-11-21 16:44:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102370⭐ TypeScript) | [reels/reel_1117_iptv-org-iptv](reels/reel_1117_iptv-org-iptv) |
 | 1118 | 2025-11-21 16:55:54 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138884⭐ Python) | [reels/reel_1118_ytdl-org-youtube-dl](reels/reel_1118_ytdl-org-youtube-dl) |
 | 1119 | 2025-11-21 17:17:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135840⭐ Python) | [reels/reel_1119_yt-dlp-yt-dlp](reels/reel_1119_yt-dlp-yt-dlp) |
+| 1120 | 2025-11-21 17:39:59 | [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) | ✅ full (422⭐ C++) | [reels/reel_1120_Lil-House-Pyarmor-Static-Unpack-1shot](reels/reel_1120_Lil-House-Pyarmor-Static-Unpack-1shot) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1120,
+  "recorded": "2025-11-21 17:39:59 UTC",
+  "repository": {
+    "full_name": "Lil-House/Pyarmor-Static-Unpack-1shot",
+    "url": "https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot",
+    "clone_url": "https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot.git",
+    "stars": 422,
+    "language": "C++",
+    "size_kb": 1130
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.613738
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 422 stars."
+  }
+}
