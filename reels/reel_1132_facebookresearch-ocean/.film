@@ -1,0 +1,24 @@
+{
+  "reel_number": 1132,
+  "recorded": "2025-11-21 21:37:29 UTC",
+  "repository": {
+    "full_name": "facebookresearch/ocean",
+    "url": "https://github.com/facebookresearch/ocean",
+    "clone_url": "https://github.com/facebookresearch/ocean.git",
+    "stars": 746,
+    "language": "C++",
+    "size_kb": 56773
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 3.12734
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 746 stars."
+  }
+}
