@@ -1,0 +1,24 @@
+{
+  "reel_number": 1101,
+  "recorded": "2025-11-21 10:43:29 UTC",
+  "repository": {
+    "full_name": "Gaerwn/randomCatFacts",
+    "url": "https://github.com/Gaerwn/randomCatFacts",
+    "clone_url": "https://github.com/Gaerwn/randomCatFacts.git",
+    "stars": 25,
+    "language": null,
+    "size_kb": 211
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.188022
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 25 stars."
+  }
+}
