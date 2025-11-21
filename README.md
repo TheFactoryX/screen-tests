@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1081 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-21 |
+| #1082 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1148,3 +1148,4 @@ Or let GitHub Action run it automatically.
 | 1079 | 2025-11-20 23:38:26 | [parisolab/mathmod](https://github.com/parisolab/mathmod) | ✅ full (123⭐ C++) | [reels/reel_1079_parisolab-mathmod](reels/reel_1079_parisolab-mathmod) |
 | 1080 | 2025-11-20 23:50:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115790⭐ JavaScript) | [reels/reel_1080_open-webui-open-webui](reels/reel_1080_open-webui-open-webui) |
 | 1081 | 2025-11-21 01:21:47 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179835⭐ Python) | [reels/reel_1081_Significant-Gravitas-AutoGPT](reels/reel_1081_Significant-Gravitas-AutoGPT) |
+| 1082 | 2025-11-21 02:54:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102273⭐ TypeScript) | [reels/reel_1082_iptv-org-iptv](reels/reel_1082_iptv-org-iptv) |
