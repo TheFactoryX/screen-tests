@@ -1,0 +1,24 @@
+{
+  "reel_number": 1116,
+  "recorded": "2025-11-21 16:23:03 UTC",
+  "repository": {
+    "full_name": "Talishar/Talishar",
+    "url": "https://github.com/Talishar/Talishar",
+    "clone_url": "https://github.com/Talishar/Talishar.git",
+    "stars": 132,
+    "language": "PHP",
+    "size_kb": 3052013
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2980,
+    "duration_seconds": 0.000134
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 132 stars."
+  }
+}
