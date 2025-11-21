@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1137 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-21 |
+| #1138 | [aomukai/Writingway](https://github.com/aomukai/Writingway) | Python · ⭐ 108 | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1204,3 +1204,4 @@ Or let GitHub Action run it automatically.
 | 1135 | 2025-11-21 22:40:36 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (441313⭐ Markdown) | [reels/reel_1135_codecrafters-io-build-your-own-x](reels/reel_1135_codecrafters-io-build-your-own-x) |
 | 1136 | 2025-11-21 22:50:08 | [apexive/odoo-llm](https://github.com/apexive/odoo-llm) | ✅ full (128⭐ Python) | [reels/reel_1136_apexive-odoo-llm](reels/reel_1136_apexive-odoo-llm) |
 | 1137 | 2025-11-21 23:16:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120210⭐ Python) | [reels/reel_1137_langchain-ai-langchain](reels/reel_1137_langchain-ai-langchain) |
+| 1138 | 2025-11-21 23:37:33 | [aomukai/Writingway](https://github.com/aomukai/Writingway) | ✅ full (108⭐ Python) | [reels/reel_1138_aomukai-Writingway](reels/reel_1138_aomukai-Writingway) |
