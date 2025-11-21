@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1080 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-20 |
+| #1081 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1147,3 +1147,4 @@ Or let GitHub Action run it automatically.
 | 1078 | 2025-11-20 23:17:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179835⭐ Python) | [reels/reel_1078_Significant-Gravitas-AutoGPT](reels/reel_1078_Significant-Gravitas-AutoGPT) |
 | 1079 | 2025-11-20 23:38:26 | [parisolab/mathmod](https://github.com/parisolab/mathmod) | ✅ full (123⭐ C++) | [reels/reel_1079_parisolab-mathmod](reels/reel_1079_parisolab-mathmod) |
 | 1080 | 2025-11-20 23:50:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115790⭐ JavaScript) | [reels/reel_1080_open-webui-open-webui](reels/reel_1080_open-webui-open-webui) |
+| 1081 | 2025-11-21 01:21:47 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179835⭐ Python) | [reels/reel_1081_Significant-Gravitas-AutoGPT](reels/reel_1081_Significant-Gravitas-AutoGPT) |
