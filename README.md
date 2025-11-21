@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1103 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-21 |
+| #1104 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1170,3 +1170,4 @@ Or let GitHub Action run it automatically.
 | 1101 | 2025-11-21 10:43:29 | [Gaerwn/randomCatFacts](https://github.com/Gaerwn/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_1101_Gaerwn-randomCatFacts](reels/reel_1101_Gaerwn-randomCatFacts) |
 | 1102 | 2025-11-21 10:53:56 | [usetrmnl/byos_laravel](https://github.com/usetrmnl/byos_laravel) | ✅ full (128⭐ PHP) | [reels/reel_1102_usetrmnl-byos_laravel](reels/reel_1102_usetrmnl-byos_laravel) |
 | 1103 | 2025-11-21 11:15:26 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107979⭐ Rust) | [reels/reel_1103_rust-lang-rust](reels/reel_1103_rust-lang-rust) |
+| 1104 | 2025-11-21 11:37:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138914⭐ Python) | [reels/reel_1104_langflow-ai-langflow](reels/reel_1104_langflow-ai-langflow) |
