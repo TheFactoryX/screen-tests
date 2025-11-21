@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1135 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 441k | 2025-11-21 |
+| #1136 | [apexive/odoo-llm](https://github.com/apexive/odoo-llm) | Python · ⭐ 128 | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1202,3 +1202,4 @@ Or let GitHub Action run it automatically.
 | 1133 | 2025-11-21 21:49:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138953⭐ Python) | [reels/reel_1133_langflow-ai-langflow](reels/reel_1133_langflow-ai-langflow) |
 | 1134 | 2025-11-21 22:17:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157833⭐ TypeScript) | [reels/reel_1134_n8n-io-n8n](reels/reel_1134_n8n-io-n8n) |
 | 1135 | 2025-11-21 22:40:36 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (441313⭐ Markdown) | [reels/reel_1135_codecrafters-io-build-your-own-x](reels/reel_1135_codecrafters-io-build-your-own-x) |
+| 1136 | 2025-11-21 22:50:08 | [apexive/odoo-llm](https://github.com/apexive/odoo-llm) | ✅ full (128⭐ Python) | [reels/reel_1136_apexive-odoo-llm](reels/reel_1136_apexive-odoo-llm) |

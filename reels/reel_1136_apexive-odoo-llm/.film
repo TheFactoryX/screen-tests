@@ -1,0 +1,24 @@
+{
+  "reel_number": 1136,
+  "recorded": "2025-11-21 22:50:08 UTC",
+  "repository": {
+    "full_name": "apexive/odoo-llm",
+    "url": "https://github.com/apexive/odoo-llm",
+    "clone_url": "https://github.com/apexive/odoo-llm.git",
+    "stars": 128,
+    "language": "Python",
+    "size_kb": 7953
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.788788
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 128 stars."
+  }
+}
