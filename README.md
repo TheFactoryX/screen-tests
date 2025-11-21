@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1122 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-21 |
+| #1123 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1189,3 +1189,4 @@ Or let GitHub Action run it automatically.
 | 1120 | 2025-11-21 17:39:59 | [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) | ✅ full (422⭐ C++) | [reels/reel_1120_Lil-House-Pyarmor-Static-Unpack-1shot](reels/reel_1120_Lil-House-Pyarmor-Static-Unpack-1shot) |
 | 1121 | 2025-11-21 17:50:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107991⭐ Rust) | [reels/reel_1121_rust-lang-rust](reels/reel_1121_rust-lang-rust) |
 | 1122 | 2025-11-21 18:24:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120204⭐ Python) | [reels/reel_1122_langchain-ai-langchain](reels/reel_1122_langchain-ai-langchain) |
+| 1123 | 2025-11-21 18:46:29 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100454⭐ Shell) | [reels/reel_1123_papers-we-love-papers-we-love](reels/reel_1123_papers-we-love-papers-we-love) |
