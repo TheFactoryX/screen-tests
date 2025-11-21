@@ -1,0 +1,24 @@
+{
+  "reel_number": 1099,
+  "recorded": "2025-11-21 09:51:48 UTC",
+  "repository": {
+    "full_name": "dronefreak/VisDrone-dataset-python-toolkit",
+    "url": "https://github.com/dronefreak/VisDrone-dataset-python-toolkit",
+    "clone_url": "https://github.com/dronefreak/VisDrone-dataset-python-toolkit.git",
+    "stars": 45,
+    "language": "Python",
+    "size_kb": 479917
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 468,
+    "duration_seconds": 0.641903
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 45 stars."
+  }
+}

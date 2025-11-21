@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1098 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 259k | 2025-11-21 |
+| #1099 | [dronefreak/VisDrone-dataset-python-toolkit](https://github.com/dronefreak/VisDrone-dataset-python-toolkit) | Python · ⭐ 45 | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1165,3 +1165,4 @@ Or let GitHub Action run it automatically.
 | 1096 | 2025-11-21 08:49:35 | [turion/rhine](https://github.com/turion/rhine) | ✅ full (135⭐ Haskell) | [reels/reel_1096_turion-rhine](reels/reel_1096_turion-rhine) |
 | 1097 | 2025-11-21 09:19:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259202⭐ None) | [reels/reel_1097_awesome-selfhosted-awesome-selfhosted](reels/reel_1097_awesome-selfhosted-awesome-selfhosted) |
 | 1098 | 2025-11-21 09:41:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259201⭐ None) | [reels/reel_1098_awesome-selfhosted-awesome-selfhosted](reels/reel_1098_awesome-selfhosted-awesome-selfhosted) |
+| 1099 | 2025-11-21 09:51:48 | [dronefreak/VisDrone-dataset-python-toolkit](https://github.com/dronefreak/VisDrone-dataset-python-toolkit) | ✅ shallow (45⭐ Python) | [reels/reel_1099_dronefreak-VisDrone-dataset-python-toolkit](reels/reel_1099_dronefreak-VisDrone-dataset-python-toolkit) |
