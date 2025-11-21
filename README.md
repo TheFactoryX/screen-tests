@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1106 | [alpinelinux/aports](https://github.com/alpinelinux/aports) | Shell · ⭐ 687 | 2025-11-21 |
+| #1107 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1173,3 +1173,4 @@ Or let GitHub Action run it automatically.
 | 1104 | 2025-11-21 11:37:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138914⭐ Python) | [reels/reel_1104_langflow-ai-langflow](reels/reel_1104_langflow-ai-langflow) |
 | 1105 | 2025-11-21 11:50:29 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138882⭐ Python) | [reels/reel_1105_ytdl-org-youtube-dl](reels/reel_1105_ytdl-org-youtube-dl) |
 | 1106 | 2025-11-21 12:36:20 | [alpinelinux/aports](https://github.com/alpinelinux/aports) | ✅ readme_only (687⭐ Shell) | [reels/reel_1106_alpinelinux-aports](reels/reel_1106_alpinelinux-aports) |
+| 1107 | 2025-11-21 13:17:39 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100345⭐ Python) | [reels/reel_1107_deepseek-ai-DeepSeek-V3](reels/reel_1107_deepseek-ai-DeepSeek-V3) |
