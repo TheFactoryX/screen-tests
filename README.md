@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1124 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-21 |
+| #1125 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1191,3 +1191,4 @@ Or let GitHub Action run it automatically.
 | 1122 | 2025-11-21 18:24:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120204⭐ Python) | [reels/reel_1122_langchain-ai-langchain](reels/reel_1122_langchain-ai-langchain) |
 | 1123 | 2025-11-21 18:46:29 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100454⭐ Shell) | [reels/reel_1123_papers-we-love-papers-we-love](reels/reel_1123_papers-we-love-papers-we-love) |
 | 1124 | 2025-11-21 19:15:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107990⭐ Rust) | [reels/reel_1124_rust-lang-rust](reels/reel_1124_rust-lang-rust) |
+| 1125 | 2025-11-21 19:28:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135848⭐ Python) | [reels/reel_1125_yt-dlp-yt-dlp](reels/reel_1125_yt-dlp-yt-dlp) |
