@@ -1,0 +1,24 @@
+{
+  "reel_number": 1096,
+  "recorded": "2025-11-21 08:49:35 UTC",
+  "repository": {
+    "full_name": "turion/rhine",
+    "url": "https://github.com/turion/rhine",
+    "clone_url": "https://github.com/turion/rhine.git",
+    "stars": 135,
+    "language": "Haskell",
+    "size_kb": 4478
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.62108
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haskell",
+    "director_note": "A Haskell repository. 135 stars."
+  }
+}
