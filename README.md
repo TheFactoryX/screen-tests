@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1125 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-21 |
+| #1126 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1192,3 +1192,4 @@ Or let GitHub Action run it automatically.
 | 1123 | 2025-11-21 18:46:29 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100454⭐ Shell) | [reels/reel_1123_papers-we-love-papers-we-love](reels/reel_1123_papers-we-love-papers-we-love) |
 | 1124 | 2025-11-21 19:15:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107990⭐ Rust) | [reels/reel_1124_rust-lang-rust](reels/reel_1124_rust-lang-rust) |
 | 1125 | 2025-11-21 19:28:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135848⭐ Python) | [reels/reel_1125_yt-dlp-yt-dlp](reels/reel_1125_yt-dlp-yt-dlp) |
+| 1126 | 2025-11-21 19:40:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138946⭐ Python) | [reels/reel_1126_langflow-ai-langflow](reels/reel_1126_langflow-ai-langflow) |
