@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1092 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-21 |
+| #1093 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1159,3 +1159,4 @@ Or let GitHub Action run it automatically.
 | 1090 | 2025-11-21 06:28:47 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135793⭐ Python) | [reels/reel_1090_yt-dlp-yt-dlp](reels/reel_1090_yt-dlp-yt-dlp) |
 | 1091 | 2025-11-21 06:53:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102303⭐ TypeScript) | [reels/reel_1091_iptv-org-iptv](reels/reel_1091_iptv-org-iptv) |
 | 1092 | 2025-11-21 07:18:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120167⭐ Python) | [reels/reel_1092_langchain-ai-langchain](reels/reel_1092_langchain-ai-langchain) |
+| 1093 | 2025-11-21 07:39:29 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138879⭐ Python) | [reels/reel_1093_ytdl-org-youtube-dl](reels/reel_1093_ytdl-org-youtube-dl) |
