@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1120 | [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) | C++ · ⭐ 422 | 2025-11-21 |
+| #1121 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 107k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1187,3 +1187,4 @@ Or let GitHub Action run it automatically.
 | 1118 | 2025-11-21 16:55:54 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138884⭐ Python) | [reels/reel_1118_ytdl-org-youtube-dl](reels/reel_1118_ytdl-org-youtube-dl) |
 | 1119 | 2025-11-21 17:17:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135840⭐ Python) | [reels/reel_1119_yt-dlp-yt-dlp](reels/reel_1119_yt-dlp-yt-dlp) |
 | 1120 | 2025-11-21 17:39:59 | [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) | ✅ full (422⭐ C++) | [reels/reel_1120_Lil-House-Pyarmor-Static-Unpack-1shot](reels/reel_1120_Lil-House-Pyarmor-Static-Unpack-1shot) |
+| 1121 | 2025-11-21 17:50:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107991⭐ Rust) | [reels/reel_1121_rust-lang-rust](reels/reel_1121_rust-lang-rust) |
