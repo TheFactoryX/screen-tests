@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1129 | [freeCodeCamp/curriculum-helpers](https://github.com/freeCodeCamp/curriculum-helpers) | JavaScript · ⭐ 24 | 2025-11-21 |
+| #1130 | [ruihan-dong/Awesome-AMP-Design](https://github.com/ruihan-dong/Awesome-AMP-Design) | None · ⭐ 19 | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1196,3 +1196,4 @@ Or let GitHub Action run it automatically.
 | 1127 | 2025-11-21 19:50:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107990⭐ Rust) | [reels/reel_1127_rust-lang-rust](reels/reel_1127_rust-lang-rust) |
 | 1128 | 2025-11-21 20:20:09 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (107989⭐ Rust) | [reels/reel_1128_rust-lang-rust](reels/reel_1128_rust-lang-rust) |
 | 1129 | 2025-11-21 20:41:09 | [freeCodeCamp/curriculum-helpers](https://github.com/freeCodeCamp/curriculum-helpers) | ✅ full (24⭐ JavaScript) | [reels/reel_1129_freeCodeCamp-curriculum-helpers](reels/reel_1129_freeCodeCamp-curriculum-helpers) |
+| 1130 | 2025-11-21 20:51:07 | [ruihan-dong/Awesome-AMP-Design](https://github.com/ruihan-dong/Awesome-AMP-Design) | ✅ full (19⭐ None) | [reels/reel_1130_ruihan-dong-Awesome-AMP-Design](reels/reel_1130_ruihan-dong-Awesome-AMP-Design) |
