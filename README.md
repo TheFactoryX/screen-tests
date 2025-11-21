@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1088 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 259k | 2025-11-21 |
+| #1089 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 379k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1155,3 +1155,4 @@ Or let GitHub Action run it automatically.
 | 1086 | 2025-11-21 04:52:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138882⭐ Python) | [reels/reel_1086_langflow-ai-langflow](reels/reel_1086_langflow-ai-langflow) |
 | 1087 | 2025-11-21 05:18:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102290⭐ TypeScript) | [reels/reel_1087_iptv-org-iptv](reels/reel_1087_iptv-org-iptv) |
 | 1088 | 2025-11-21 05:42:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259180⭐ None) | [reels/reel_1088_awesome-selfhosted-awesome-selfhosted](reels/reel_1088_awesome-selfhosted-awesome-selfhosted) |
+| 1089 | 2025-11-21 05:52:16 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (379811⭐ Python) | [reels/reel_1089_public-apis-public-apis](reels/reel_1089_public-apis-public-apis) |
