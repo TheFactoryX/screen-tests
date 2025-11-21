@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1117 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-21 |
+| #1118 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1184,3 +1184,4 @@ Or let GitHub Action run it automatically.
 | 1115 | 2025-11-21 15:49:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157789⭐ TypeScript) | [reels/reel_1115_n8n-io-n8n](reels/reel_1115_n8n-io-n8n) |
 | 1116 | 2025-11-21 16:23:03 | [Talishar/Talishar](https://github.com/Talishar/Talishar) | ✅ readme_only (132⭐ PHP) | [reels/reel_1116_Talishar-Talishar](reels/reel_1116_Talishar-Talishar) |
 | 1117 | 2025-11-21 16:44:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102370⭐ TypeScript) | [reels/reel_1117_iptv-org-iptv](reels/reel_1117_iptv-org-iptv) |
+| 1118 | 2025-11-21 16:55:54 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138884⭐ Python) | [reels/reel_1118_ytdl-org-youtube-dl](reels/reel_1118_ytdl-org-youtube-dl) |
