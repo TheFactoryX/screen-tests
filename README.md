@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1116 | [Talishar/Talishar](https://github.com/Talishar/Talishar) | PHP · ⭐ 132 | 2025-11-21 |
+| #1117 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1183,3 +1183,4 @@ Or let GitHub Action run it automatically.
 | 1114 | 2025-11-21 15:36:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157784⭐ TypeScript) | [reels/reel_1114_n8n-io-n8n](reels/reel_1114_n8n-io-n8n) |
 | 1115 | 2025-11-21 15:49:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157789⭐ TypeScript) | [reels/reel_1115_n8n-io-n8n](reels/reel_1115_n8n-io-n8n) |
 | 1116 | 2025-11-21 16:23:03 | [Talishar/Talishar](https://github.com/Talishar/Talishar) | ✅ readme_only (132⭐ PHP) | [reels/reel_1116_Talishar-Talishar](reels/reel_1116_Talishar-Talishar) |
+| 1117 | 2025-11-21 16:44:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102370⭐ TypeScript) | [reels/reel_1117_iptv-org-iptv](reels/reel_1117_iptv-org-iptv) |
