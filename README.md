@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1133 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 138k | 2025-11-21 |
+| #1134 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 157k | 2025-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -1200,3 +1200,4 @@ Or let GitHub Action run it automatically.
 | 1131 | 2025-11-21 21:15:55 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102394⭐ TypeScript) | [reels/reel_1131_iptv-org-iptv](reels/reel_1131_iptv-org-iptv) |
 | 1132 | 2025-11-21 21:37:29 | [facebookresearch/ocean](https://github.com/facebookresearch/ocean) | ✅ full (746⭐ C++) | [reels/reel_1132_facebookresearch-ocean](reels/reel_1132_facebookresearch-ocean) |
 | 1133 | 2025-11-21 21:49:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (138953⭐ Python) | [reels/reel_1133_langflow-ai-langflow](reels/reel_1133_langflow-ai-langflow) |
+| 1134 | 2025-11-21 22:17:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157833⭐ TypeScript) | [reels/reel_1134_n8n-io-n8n](reels/reel_1134_n8n-io-n8n) |
