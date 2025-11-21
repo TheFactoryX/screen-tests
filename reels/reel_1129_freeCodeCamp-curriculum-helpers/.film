@@ -1,0 +1,24 @@
+{
+  "reel_number": 1129,
+  "recorded": "2025-11-21 20:41:09 UTC",
+  "repository": {
+    "full_name": "freeCodeCamp/curriculum-helpers",
+    "url": "https://github.com/freeCodeCamp/curriculum-helpers",
+    "clone_url": "https://github.com/freeCodeCamp/curriculum-helpers.git",
+    "stars": 24,
+    "language": "JavaScript",
+    "size_kb": 2953
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.693448
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 24 stars."
+  }
+}
