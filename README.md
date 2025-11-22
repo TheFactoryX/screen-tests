@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1154 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-22 |
+| #1155 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 157k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1221,3 +1221,4 @@ Or let GitHub Action run it automatically.
 | 1152 | 2025-11-22 07:16:25 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138888⭐ Python) | [reels/reel_1152_ytdl-org-youtube-dl](reels/reel_1152_ytdl-org-youtube-dl) |
 | 1153 | 2025-11-22 07:36:04 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120228⭐ Python) | [reels/reel_1153_langchain-ai-langchain](reels/reel_1153_langchain-ai-langchain) |
 | 1154 | 2025-11-22 07:49:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102470⭐ TypeScript) | [reels/reel_1154_iptv-org-iptv](reels/reel_1154_iptv-org-iptv) |
+| 1155 | 2025-11-22 08:21:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157902⭐ TypeScript) | [reels/reel_1155_n8n-io-n8n](reels/reel_1155_n8n-io-n8n) |
