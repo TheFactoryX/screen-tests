@@ -1,0 +1,24 @@
+{
+  "reel_number": 1174,
+  "recorded": "2025-11-22 14:50:13 UTC",
+  "repository": {
+    "full_name": "openl-tablets/openl-tablets",
+    "url": "https://github.com/openl-tablets/openl-tablets",
+    "clone_url": "https://github.com/openl-tablets/openl-tablets.git",
+    "stars": 182,
+    "language": "Java",
+    "size_kb": 869696
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 849,
+    "duration_seconds": 0.000159
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 182 stars."
+  }
+}
