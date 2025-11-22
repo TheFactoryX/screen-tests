@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1194 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-22 |
+| #1195 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1261,3 +1261,4 @@ Or let GitHub Action run it automatically.
 | 1192 | 2025-11-22 20:50:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99168⭐ Rust) | [reels/reel_1192_tauri-apps-tauri](reels/reel_1192_tauri-apps-tauri) |
 | 1193 | 2025-11-22 21:15:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158008⭐ TypeScript) | [reels/reel_1193_n8n-io-n8n](reels/reel_1193_n8n-io-n8n) |
 | 1194 | 2025-11-22 21:36:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100538⭐ TypeScript) | [reels/reel_1194_shadcn-ui-ui](reels/reel_1194_shadcn-ui-ui) |
+| 1195 | 2025-11-22 21:50:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120259⭐ Python) | [reels/reel_1195_langchain-ai-langchain](reels/reel_1195_langchain-ai-langchain) |
