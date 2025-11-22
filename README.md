@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1196 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-22 |
+| #1197 | [mxw13579/silly-tavern-docker-starts](https://github.com/mxw13579/silly-tavern-docker-starts) | Shell · ⭐ 12 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1263,3 +1263,4 @@ Or let GitHub Action run it automatically.
 | 1194 | 2025-11-22 21:36:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100538⭐ TypeScript) | [reels/reel_1194_shadcn-ui-ui](reels/reel_1194_shadcn-ui-ui) |
 | 1195 | 2025-11-22 21:50:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120259⭐ Python) | [reels/reel_1195_langchain-ai-langchain](reels/reel_1195_langchain-ai-langchain) |
 | 1196 | 2025-11-22 22:16:34 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99169⭐ Rust) | [reels/reel_1196_tauri-apps-tauri](reels/reel_1196_tauri-apps-tauri) |
+| 1197 | 2025-11-22 22:40:01 | [mxw13579/silly-tavern-docker-starts](https://github.com/mxw13579/silly-tavern-docker-starts) | ✅ full (12⭐ Shell) | [reels/reel_1197_mxw13579-silly-tavern-docker-starts](reels/reel_1197_mxw13579-silly-tavern-docker-starts) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1197,
+  "recorded": "2025-11-22 22:40:01 UTC",
+  "repository": {
+    "full_name": "mxw13579/silly-tavern-docker-starts",
+    "url": "https://github.com/mxw13579/silly-tavern-docker-starts",
+    "clone_url": "https://github.com/mxw13579/silly-tavern-docker-starts.git",
+    "stars": 12,
+    "language": "Shell",
+    "size_kb": 182
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.647931
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 12 stars."
+  }
+}
