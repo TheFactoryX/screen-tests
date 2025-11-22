@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1142 | [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | Go · ⭐ 172 | 2025-11-22 |
+| #1143 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1209,3 +1209,4 @@ Or let GitHub Action run it automatically.
 | 1140 | 2025-11-22 01:19:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100499⭐ TypeScript) | [reels/reel_1140_shadcn-ui-ui](reels/reel_1140_shadcn-ui-ui) |
 | 1141 | 2025-11-22 02:47:55 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | ✅ full (78⭐ Rust) | [reels/reel_1141_anima-engine-anima-engine](reels/reel_1141_anima-engine-anima-engine) |
 | 1142 | 2025-11-22 03:36:22 | [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | ✅ full (172⭐ Go) | [reels/reel_1142_KaijuEngine-kaiju](reels/reel_1142_KaijuEngine-kaiju) |
+| 1143 | 2025-11-22 03:54:44 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138887⭐ Python) | [reels/reel_1143_ytdl-org-youtube-dl](reels/reel_1143_ytdl-org-youtube-dl) |
