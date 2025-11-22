@@ -1,0 +1,24 @@
+{
+  "reel_number": 1165,
+  "recorded": "2025-11-22 11:25:57 UTC",
+  "repository": {
+    "full_name": "PuddinCat/BestClash",
+    "url": "https://github.com/PuddinCat/BestClash",
+    "clone_url": "https://github.com/PuddinCat/BestClash.git",
+    "stars": 402,
+    "language": null,
+    "size_kb": 26938
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 5.049379
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 402 stars."
+  }
+}
