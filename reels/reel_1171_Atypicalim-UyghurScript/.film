@@ -1,0 +1,24 @@
+{
+  "reel_number": 1171,
+  "recorded": "2025-11-22 13:49:41 UTC",
+  "repository": {
+    "full_name": "Atypicalim/UyghurScript",
+    "url": "https://github.com/Atypicalim/UyghurScript",
+    "clone_url": "https://github.com/Atypicalim/UyghurScript.git",
+    "stars": 20,
+    "language": "C",
+    "size_kb": 21589
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 1.533754
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 20 stars."
+  }
+}
