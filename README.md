@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1168 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-22 |
+| #1169 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1235,3 +1235,4 @@ Or let GitHub Action run it automatically.
 | 1166 | 2025-11-22 11:37:24 | [jglrxavpok/Carrot](https://github.com/jglrxavpok/Carrot) | ✅ shallow (95⭐ C++) | [reels/reel_1166_jglrxavpok-Carrot](reels/reel_1166_jglrxavpok-Carrot) |
 | 1167 | 2025-11-22 11:50:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100521⭐ TypeScript) | [reels/reel_1167_shadcn-ui-ui](reels/reel_1167_shadcn-ui-ui) |
 | 1168 | 2025-11-22 12:32:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135897⭐ Python) | [reels/reel_1168_yt-dlp-yt-dlp](reels/reel_1168_yt-dlp-yt-dlp) |
+| 1169 | 2025-11-22 13:04:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102499⭐ TypeScript) | [reels/reel_1169_iptv-org-iptv](reels/reel_1169_iptv-org-iptv) |
