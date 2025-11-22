@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1149 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-22 |
+| #1150 | [nextcloud/tasks](https://github.com/nextcloud/tasks) | JavaScript · ⭐ 641 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1216,3 +1216,4 @@ Or let GitHub Action run it automatically.
 | 1147 | 2025-11-22 05:16:50 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100459⭐ Shell) | [reels/reel_1147_papers-we-love-papers-we-love](reels/reel_1147_papers-we-love-papers-we-love) |
 | 1148 | 2025-11-22 05:39:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250562⭐ None) | [reels/reel_1148_practical-tutorials-project-based-learning](reels/reel_1148_practical-tutorials-project-based-learning) |
 | 1149 | 2025-11-22 05:50:20 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96640⭐ TypeScript) | [reels/reel_1149_ant-design-ant-design](reels/reel_1149_ant-design-ant-design) |
+| 1150 | 2025-11-22 06:24:51 | [nextcloud/tasks](https://github.com/nextcloud/tasks) | ✅ full (641⭐ JavaScript) | [reels/reel_1150_nextcloud-tasks](reels/reel_1150_nextcloud-tasks) |
