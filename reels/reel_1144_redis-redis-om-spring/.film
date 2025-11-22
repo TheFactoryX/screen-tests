@@ -1,0 +1,24 @@
+{
+  "reel_number": 1144,
+  "recorded": "2025-11-22 04:20:49 UTC",
+  "repository": {
+    "full_name": "redis/redis-om-spring",
+    "url": "https://github.com/redis/redis-om-spring",
+    "clone_url": "https://github.com/redis/redis-om-spring.git",
+    "stars": 649,
+    "language": "Java",
+    "size_kb": 15066
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 0.996616
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 649 stars."
+  }
+}
