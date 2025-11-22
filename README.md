@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1176 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 157k | 2025-11-22 |
+| #1177 | [susanbrown94364susanbrown/weibo-api](https://github.com/susanbrown94364susanbrown/weibo-api) | None · ⭐ 104 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1243,3 +1243,4 @@ Or let GitHub Action run it automatically.
 | 1174 | 2025-11-22 14:50:13 | [openl-tablets/openl-tablets](https://github.com/openl-tablets/openl-tablets) | ✅ readme_only (182⭐ Java) | [reels/reel_1174_openl-tablets-openl-tablets](reels/reel_1174_openl-tablets-openl-tablets) |
 | 1175 | 2025-11-22 15:16:25 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100477⭐ Shell) | [reels/reel_1175_papers-we-love-papers-we-love](reels/reel_1175_papers-we-love-papers-we-love) |
 | 1176 | 2025-11-22 15:37:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157963⭐ TypeScript) | [reels/reel_1176_n8n-io-n8n](reels/reel_1176_n8n-io-n8n) |
+| 1177 | 2025-11-22 15:50:09 | [susanbrown94364susanbrown/weibo-api](https://github.com/susanbrown94364susanbrown/weibo-api) | ✅ full (104⭐ None) | [reels/reel_1177_susanbrown94364susanbrown-weibo-api](reels/reel_1177_susanbrown94364susanbrown-weibo-api) |
