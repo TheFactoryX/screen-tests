@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1156 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 259k | 2025-11-22 |
+| #1157 | [H3llKa1ser/B00t2R00t](https://github.com/H3llKa1ser/B00t2R00t) | Python · ⭐ 29 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1223,3 +1223,4 @@ Or let GitHub Action run it automatically.
 | 1154 | 2025-11-22 07:49:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102470⭐ TypeScript) | [reels/reel_1154_iptv-org-iptv](reels/reel_1154_iptv-org-iptv) |
 | 1155 | 2025-11-22 08:21:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157902⭐ TypeScript) | [reels/reel_1155_n8n-io-n8n](reels/reel_1155_n8n-io-n8n) |
 | 1156 | 2025-11-22 08:44:22 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259335⭐ None) | [reels/reel_1156_awesome-selfhosted-awesome-selfhosted](reels/reel_1156_awesome-selfhosted-awesome-selfhosted) |
+| 1157 | 2025-11-22 08:54:31 | [H3llKa1ser/B00t2R00t](https://github.com/H3llKa1ser/B00t2R00t) | ✅ full (29⭐ Python) | [reels/reel_1157_H3llKa1ser-B00t2R00t](reels/reel_1157_H3llKa1ser-B00t2R00t) |

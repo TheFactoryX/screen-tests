@@ -1,0 +1,24 @@
+{
+  "reel_number": 1157,
+  "recorded": "2025-11-22 08:54:31 UTC",
+  "repository": {
+    "full_name": "H3llKa1ser/B00t2R00t",
+    "url": "https://github.com/H3llKa1ser/B00t2R00t",
+    "clone_url": "https://github.com/H3llKa1ser/B00t2R00t.git",
+    "stars": 29,
+    "language": "Python",
+    "size_kb": 5894
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.628926
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 29 stars."
+  }
+}
