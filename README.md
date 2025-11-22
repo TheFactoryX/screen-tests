@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1153 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-22 |
+| #1154 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1220,3 +1220,4 @@ Or let GitHub Action run it automatically.
 | 1151 | 2025-11-22 06:47:07 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100509⭐ TypeScript) | [reels/reel_1151_shadcn-ui-ui](reels/reel_1151_shadcn-ui-ui) |
 | 1152 | 2025-11-22 07:16:25 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138888⭐ Python) | [reels/reel_1152_ytdl-org-youtube-dl](reels/reel_1152_ytdl-org-youtube-dl) |
 | 1153 | 2025-11-22 07:36:04 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120228⭐ Python) | [reels/reel_1153_langchain-ai-langchain](reels/reel_1153_langchain-ai-langchain) |
+| 1154 | 2025-11-22 07:49:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102470⭐ TypeScript) | [reels/reel_1154_iptv-org-iptv](reels/reel_1154_iptv-org-iptv) |
