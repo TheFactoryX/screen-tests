@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1171 | [Atypicalim/UyghurScript](https://github.com/Atypicalim/UyghurScript) | C · ⭐ 20 | 2025-11-22 |
+| #1172 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1238,3 +1238,4 @@ Or let GitHub Action run it automatically.
 | 1169 | 2025-11-22 13:04:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102499⭐ TypeScript) | [reels/reel_1169_iptv-org-iptv](reels/reel_1169_iptv-org-iptv) |
 | 1170 | 2025-11-22 13:32:09 | [rschristian/voldephobia](https://github.com/rschristian/voldephobia) | ✅ full (136⭐ JavaScript) | [reels/reel_1170_rschristian-voldephobia](reels/reel_1170_rschristian-voldephobia) |
 | 1171 | 2025-11-22 13:49:41 | [Atypicalim/UyghurScript](https://github.com/Atypicalim/UyghurScript) | ✅ full (20⭐ C) | [reels/reel_1171_Atypicalim-UyghurScript](reels/reel_1171_Atypicalim-UyghurScript) |
+| 1172 | 2025-11-22 14:15:10 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100352⭐ Python) | [reels/reel_1172_deepseek-ai-DeepSeek-V3](reels/reel_1172_deepseek-ai-DeepSeek-V3) |
