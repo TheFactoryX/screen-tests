@@ -1,0 +1,24 @@
+{
+  "reel_number": 1188,
+  "recorded": "2025-11-22 19:37:23 UTC",
+  "repository": {
+    "full_name": "GerbilSoft/rom-properties",
+    "url": "https://github.com/GerbilSoft/rom-properties",
+    "clone_url": "https://github.com/GerbilSoft/rom-properties.git",
+    "stars": 595,
+    "language": "C++",
+    "size_kb": 159639
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 155,
+    "duration_seconds": 3.316925
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 595 stars."
+  }
+}

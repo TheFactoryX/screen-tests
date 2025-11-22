@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1187 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-22 |
+| #1188 | [GerbilSoft/rom-properties](https://github.com/GerbilSoft/rom-properties) | C++ · ⭐ 595 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1254,3 +1254,4 @@ Or let GitHub Action run it automatically.
 | 1185 | 2025-11-22 18:46:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135920⭐ Python) | [reels/reel_1185_yt-dlp-yt-dlp](reels/reel_1185_yt-dlp-yt-dlp) |
 | 1186 | 2025-11-22 19:13:19 | [soaring-xiongkulu/easyaiot](https://github.com/soaring-xiongkulu/easyaiot) | ✅ readme_only (103⭐ Java) | [reels/reel_1186_soaring-xiongkulu-easyaiot](reels/reel_1186_soaring-xiongkulu-easyaiot) |
 | 1187 | 2025-11-22 19:26:00 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138889⭐ Python) | [reels/reel_1187_ytdl-org-youtube-dl](reels/reel_1187_ytdl-org-youtube-dl) |
+| 1188 | 2025-11-22 19:37:23 | [GerbilSoft/rom-properties](https://github.com/GerbilSoft/rom-properties) | ✅ shallow (595⭐ C++) | [reels/reel_1188_GerbilSoft-rom-properties](reels/reel_1188_GerbilSoft-rom-properties) |
