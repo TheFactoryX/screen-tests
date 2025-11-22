@@ -1,0 +1,24 @@
+{
+  "reel_number": 1201,
+  "recorded": "2025-11-22 23:49:52 UTC",
+  "repository": {
+    "full_name": "OWASP-BLT/BLT",
+    "url": "https://github.com/OWASP-BLT/BLT",
+    "clone_url": "https://github.com/OWASP-BLT/BLT.git",
+    "stars": 225,
+    "language": "HTML",
+    "size_kb": 95596
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 93,
+    "duration_seconds": 3.256186
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 225 stars."
+  }
+}
