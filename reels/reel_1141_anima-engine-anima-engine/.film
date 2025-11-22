@@ -1,0 +1,24 @@
+{
+  "reel_number": 1141,
+  "recorded": "2025-11-22 02:47:55 UTC",
+  "repository": {
+    "full_name": "anima-engine/anima-engine",
+    "url": "https://github.com/anima-engine/anima-engine",
+    "clone_url": "https://github.com/anima-engine/anima-engine.git",
+    "stars": 78,
+    "language": "Rust",
+    "size_kb": 128
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.129027
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 78 stars."
+  }
+}

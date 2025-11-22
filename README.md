@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1140 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-22 |
+| #1141 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | Rust · ⭐ 78 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1207,3 +1207,4 @@ Or let GitHub Action run it automatically.
 | 1138 | 2025-11-21 23:37:33 | [aomukai/Writingway](https://github.com/aomukai/Writingway) | ✅ full (108⭐ Python) | [reels/reel_1138_aomukai-Writingway](reels/reel_1138_aomukai-Writingway) |
 | 1139 | 2025-11-21 23:49:41 | [Nemirtingas/games-infos-datas](https://github.com/Nemirtingas/games-infos-datas) | ✅ readme_only (28⭐ None) | [reels/reel_1139_Nemirtingas-games-infos-datas](reels/reel_1139_Nemirtingas-games-infos-datas) |
 | 1140 | 2025-11-22 01:19:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100499⭐ TypeScript) | [reels/reel_1140_shadcn-ui-ui](reels/reel_1140_shadcn-ui-ui) |
+| 1141 | 2025-11-22 02:47:55 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | ✅ full (78⭐ Rust) | [reels/reel_1141_anima-engine-anima-engine](reels/reel_1141_anima-engine-anima-engine) |
