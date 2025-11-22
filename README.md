@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1144 | [redis/redis-om-spring](https://github.com/redis/redis-om-spring) | Java · ⭐ 649 | 2025-11-22 |
+| #1145 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 157k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1211,3 +1211,4 @@ Or let GitHub Action run it automatically.
 | 1142 | 2025-11-22 03:36:22 | [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | ✅ full (172⭐ Go) | [reels/reel_1142_KaijuEngine-kaiju](reels/reel_1142_KaijuEngine-kaiju) |
 | 1143 | 2025-11-22 03:54:44 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138887⭐ Python) | [reels/reel_1143_ytdl-org-youtube-dl](reels/reel_1143_ytdl-org-youtube-dl) |
 | 1144 | 2025-11-22 04:20:49 | [redis/redis-om-spring](https://github.com/redis/redis-om-spring) | ✅ full (649⭐ Java) | [reels/reel_1144_redis-redis-om-spring](reels/reel_1144_redis-redis-om-spring) |
+| 1145 | 2025-11-22 04:42:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157871⭐ TypeScript) | [reels/reel_1145_n8n-io-n8n](reels/reel_1145_n8n-io-n8n) |
