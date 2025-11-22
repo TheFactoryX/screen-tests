@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1185 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-22 |
+| #1186 | [soaring-xiongkulu/easyaiot](https://github.com/soaring-xiongkulu/easyaiot) | Java · ⭐ 103 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1252,3 +1252,4 @@ Or let GitHub Action run it automatically.
 | 1183 | 2025-11-22 17:50:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135914⭐ Python) | [reels/reel_1183_yt-dlp-yt-dlp](reels/reel_1183_yt-dlp-yt-dlp) |
 | 1184 | 2025-11-22 18:23:50 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100533⭐ TypeScript) | [reels/reel_1184_shadcn-ui-ui](reels/reel_1184_shadcn-ui-ui) |
 | 1185 | 2025-11-22 18:46:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135920⭐ Python) | [reels/reel_1185_yt-dlp-yt-dlp](reels/reel_1185_yt-dlp-yt-dlp) |
+| 1186 | 2025-11-22 19:13:19 | [soaring-xiongkulu/easyaiot](https://github.com/soaring-xiongkulu/easyaiot) | ✅ readme_only (103⭐ Java) | [reels/reel_1186_soaring-xiongkulu-easyaiot](reels/reel_1186_soaring-xiongkulu-easyaiot) |
