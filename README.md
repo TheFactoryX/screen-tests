@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1183 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-22 |
+| #1184 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1250,3 +1250,4 @@ Or let GitHub Action run it automatically.
 | 1181 | 2025-11-22 17:14:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135914⭐ Python) | [reels/reel_1181_yt-dlp-yt-dlp](reels/reel_1181_yt-dlp-yt-dlp) |
 | 1182 | 2025-11-22 17:30:48 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100525⭐ TypeScript) | [reels/reel_1182_shadcn-ui-ui](reels/reel_1182_shadcn-ui-ui) |
 | 1183 | 2025-11-22 17:50:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135914⭐ Python) | [reels/reel_1183_yt-dlp-yt-dlp](reels/reel_1183_yt-dlp-yt-dlp) |
+| 1184 | 2025-11-22 18:23:50 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100533⭐ TypeScript) | [reels/reel_1184_shadcn-ui-ui](reels/reel_1184_shadcn-ui-ui) |
