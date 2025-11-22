@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1177 | [susanbrown94364susanbrown/weibo-api](https://github.com/susanbrown94364susanbrown/weibo-api) | None · ⭐ 104 | 2025-11-22 |
+| #1178 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1244,3 +1244,4 @@ Or let GitHub Action run it automatically.
 | 1175 | 2025-11-22 15:16:25 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100477⭐ Shell) | [reels/reel_1175_papers-we-love-papers-we-love](reels/reel_1175_papers-we-love-papers-we-love) |
 | 1176 | 2025-11-22 15:37:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157963⭐ TypeScript) | [reels/reel_1176_n8n-io-n8n](reels/reel_1176_n8n-io-n8n) |
 | 1177 | 2025-11-22 15:50:09 | [susanbrown94364susanbrown/weibo-api](https://github.com/susanbrown94364susanbrown/weibo-api) | ✅ full (104⭐ None) | [reels/reel_1177_susanbrown94364susanbrown-weibo-api](reels/reel_1177_susanbrown94364susanbrown-weibo-api) |
+| 1178 | 2025-11-22 16:20:20 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138888⭐ Python) | [reels/reel_1178_ytdl-org-youtube-dl](reels/reel_1178_ytdl-org-youtube-dl) |
