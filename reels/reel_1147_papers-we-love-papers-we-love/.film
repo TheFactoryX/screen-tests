@@ -1,0 +1,24 @@
+{
+  "reel_number": 1147,
+  "recorded": "2025-11-22 05:16:50 UTC",
+  "repository": {
+    "full_name": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "clone_url": "https://github.com/papers-we-love/papers-we-love.git",
+    "stars": 100459,
+    "language": "Shell",
+    "size_kb": 230837
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 225,
+    "duration_seconds": 4.042025
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 100459 stars."
+  }
+}

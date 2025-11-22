@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1146 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 135k | 2025-11-22 |
+| #1147 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1213,3 +1213,4 @@ Or let GitHub Action run it automatically.
 | 1144 | 2025-11-22 04:20:49 | [redis/redis-om-spring](https://github.com/redis/redis-om-spring) | ✅ full (649⭐ Java) | [reels/reel_1144_redis-redis-om-spring](reels/reel_1144_redis-redis-om-spring) |
 | 1145 | 2025-11-22 04:42:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (157871⭐ TypeScript) | [reels/reel_1145_n8n-io-n8n](reels/reel_1145_n8n-io-n8n) |
 | 1146 | 2025-11-22 04:52:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135876⭐ Python) | [reels/reel_1146_yt-dlp-yt-dlp](reels/reel_1146_yt-dlp-yt-dlp) |
+| 1147 | 2025-11-22 05:16:50 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100459⭐ Shell) | [reels/reel_1147_papers-we-love-papers-we-love](reels/reel_1147_papers-we-love-papers-we-love) |
