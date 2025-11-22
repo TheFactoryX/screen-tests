@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1191 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-22 |
+| #1192 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1258,3 +1258,4 @@ Or let GitHub Action run it automatically.
 | 1189 | 2025-11-22 19:50:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120254⭐ Python) | [reels/reel_1189_langchain-ai-langchain](reels/reel_1189_langchain-ai-langchain) |
 | 1190 | 2025-11-22 20:19:09 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138889⭐ Python) | [reels/reel_1190_ytdl-org-youtube-dl](reels/reel_1190_ytdl-org-youtube-dl) |
 | 1191 | 2025-11-22 20:39:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115954⭐ JavaScript) | [reels/reel_1191_open-webui-open-webui](reels/reel_1191_open-webui-open-webui) |
+| 1192 | 2025-11-22 20:50:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99168⭐ Rust) | [reels/reel_1192_tauri-apps-tauri](reels/reel_1192_tauri-apps-tauri) |
