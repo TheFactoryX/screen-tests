@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1174 | [openl-tablets/openl-tablets](https://github.com/openl-tablets/openl-tablets) | Java · ⭐ 182 | 2025-11-22 |
+| #1175 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1241,3 +1241,4 @@ Or let GitHub Action run it automatically.
 | 1172 | 2025-11-22 14:15:10 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100352⭐ Python) | [reels/reel_1172_deepseek-ai-DeepSeek-V3](reels/reel_1172_deepseek-ai-DeepSeek-V3) |
 | 1173 | 2025-11-22 14:32:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259379⭐ None) | [reels/reel_1173_awesome-selfhosted-awesome-selfhosted](reels/reel_1173_awesome-selfhosted-awesome-selfhosted) |
 | 1174 | 2025-11-22 14:50:13 | [openl-tablets/openl-tablets](https://github.com/openl-tablets/openl-tablets) | ✅ readme_only (182⭐ Java) | [reels/reel_1174_openl-tablets-openl-tablets](reels/reel_1174_openl-tablets-openl-tablets) |
+| 1175 | 2025-11-22 15:16:25 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100477⭐ Shell) | [reels/reel_1175_papers-we-love-papers-we-love](reels/reel_1175_papers-we-love-papers-we-love) |
