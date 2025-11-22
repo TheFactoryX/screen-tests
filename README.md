@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1169 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-22 |
+| #1170 | [rschristian/voldephobia](https://github.com/rschristian/voldephobia) | JavaScript · ⭐ 136 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1236,3 +1236,4 @@ Or let GitHub Action run it automatically.
 | 1167 | 2025-11-22 11:50:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100521⭐ TypeScript) | [reels/reel_1167_shadcn-ui-ui](reels/reel_1167_shadcn-ui-ui) |
 | 1168 | 2025-11-22 12:32:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (135897⭐ Python) | [reels/reel_1168_yt-dlp-yt-dlp](reels/reel_1168_yt-dlp-yt-dlp) |
 | 1169 | 2025-11-22 13:04:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102499⭐ TypeScript) | [reels/reel_1169_iptv-org-iptv](reels/reel_1169_iptv-org-iptv) |
+| 1170 | 2025-11-22 13:32:09 | [rschristian/voldephobia](https://github.com/rschristian/voldephobia) | ✅ full (136⭐ JavaScript) | [reels/reel_1170_rschristian-voldephobia](reels/reel_1170_rschristian-voldephobia) |
