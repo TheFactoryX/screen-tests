@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1179 | [rshdhere/vibecheck](https://github.com/rshdhere/vibecheck) | Go · ⭐ 126 | 2025-11-22 |
+| #1180 | [nbauma109/jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) | Java · ⭐ 149 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1246,3 +1246,4 @@ Or let GitHub Action run it automatically.
 | 1177 | 2025-11-22 15:50:09 | [susanbrown94364susanbrown/weibo-api](https://github.com/susanbrown94364susanbrown/weibo-api) | ✅ full (104⭐ None) | [reels/reel_1177_susanbrown94364susanbrown-weibo-api](reels/reel_1177_susanbrown94364susanbrown-weibo-api) |
 | 1178 | 2025-11-22 16:20:20 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138888⭐ Python) | [reels/reel_1178_ytdl-org-youtube-dl](reels/reel_1178_ytdl-org-youtube-dl) |
 | 1179 | 2025-11-22 16:43:29 | [rshdhere/vibecheck](https://github.com/rshdhere/vibecheck) | ✅ full (126⭐ Go) | [reels/reel_1179_rshdhere-vibecheck](reels/reel_1179_rshdhere-vibecheck) |
+| 1180 | 2025-11-22 16:53:08 | [nbauma109/jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) | ✅ full (149⭐ Java) | [reels/reel_1180_nbauma109-jd-gui-duo](reels/reel_1180_nbauma109-jd-gui-duo) |
