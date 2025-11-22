@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1165 | [PuddinCat/BestClash](https://github.com/PuddinCat/BestClash) | None · ⭐ 402 | 2025-11-22 |
+| #1166 | [jglrxavpok/Carrot](https://github.com/jglrxavpok/Carrot) | C++ · ⭐ 95 | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1232,3 +1232,4 @@ Or let GitHub Action run it automatically.
 | 1163 | 2025-11-22 10:49:43 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120238⭐ Python) | [reels/reel_1163_langchain-ai-langchain](reels/reel_1163_langchain-ai-langchain) |
 | 1164 | 2025-11-22 11:13:20 | [ctfer-io/chall-manager](https://github.com/ctfer-io/chall-manager) | ✅ full (27⭐ Go) | [reels/reel_1164_ctfer-io-chall-manager](reels/reel_1164_ctfer-io-chall-manager) |
 | 1165 | 2025-11-22 11:25:57 | [PuddinCat/BestClash](https://github.com/PuddinCat/BestClash) | ✅ full (402⭐ None) | [reels/reel_1165_PuddinCat-BestClash](reels/reel_1165_PuddinCat-BestClash) |
+| 1166 | 2025-11-22 11:37:24 | [jglrxavpok/Carrot](https://github.com/jglrxavpok/Carrot) | ✅ shallow (95⭐ C++) | [reels/reel_1166_jglrxavpok-Carrot](reels/reel_1166_jglrxavpok-Carrot) |

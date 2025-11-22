@@ -1,0 +1,24 @@
+{
+  "reel_number": 1166,
+  "recorded": "2025-11-22 11:37:24 UTC",
+  "repository": {
+    "full_name": "jglrxavpok/Carrot",
+    "url": "https://github.com/jglrxavpok/Carrot",
+    "clone_url": "https://github.com/jglrxavpok/Carrot.git",
+    "stars": 95,
+    "language": "C++",
+    "size_kb": 317572
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 310,
+    "duration_seconds": 12.454181
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 95 stars."
+  }
+}
