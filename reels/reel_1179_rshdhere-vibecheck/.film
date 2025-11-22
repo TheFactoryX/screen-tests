@@ -1,0 +1,24 @@
+{
+  "reel_number": 1179,
+  "recorded": "2025-11-22 16:43:29 UTC",
+  "repository": {
+    "full_name": "rshdhere/vibecheck",
+    "url": "https://github.com/rshdhere/vibecheck",
+    "clone_url": "https://github.com/rshdhere/vibecheck.git",
+    "stars": 126,
+    "language": "Go",
+    "size_kb": 29441
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 1.146676
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 126 stars."
+  }
+}
