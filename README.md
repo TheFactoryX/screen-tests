@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1151 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-22 |
+| #1152 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -1218,3 +1218,4 @@ Or let GitHub Action run it automatically.
 | 1149 | 2025-11-22 05:50:20 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96640⭐ TypeScript) | [reels/reel_1149_ant-design-ant-design](reels/reel_1149_ant-design-ant-design) |
 | 1150 | 2025-11-22 06:24:51 | [nextcloud/tasks](https://github.com/nextcloud/tasks) | ✅ full (641⭐ JavaScript) | [reels/reel_1150_nextcloud-tasks](reels/reel_1150_nextcloud-tasks) |
 | 1151 | 2025-11-22 06:47:07 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100509⭐ TypeScript) | [reels/reel_1151_shadcn-ui-ui](reels/reel_1151_shadcn-ui-ui) |
+| 1152 | 2025-11-22 07:16:25 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138888⭐ Python) | [reels/reel_1152_ytdl-org-youtube-dl](reels/reel_1152_ytdl-org-youtube-dl) |
