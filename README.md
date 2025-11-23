@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1238 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-23 |
+| #1239 | [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) | Go · ⭐ 333 | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1305,3 +1305,4 @@ Or let GitHub Action run it automatically.
 | 1236 | 2025-11-23 15:50:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259549⭐ None) | [reels/reel_1236_awesome-selfhosted-awesome-selfhosted](reels/reel_1236_awesome-selfhosted-awesome-selfhosted) |
 | 1237 | 2025-11-23 16:20:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179887⭐ Python) | [reels/reel_1237_Significant-Gravitas-AutoGPT](reels/reel_1237_Significant-Gravitas-AutoGPT) |
 | 1238 | 2025-11-23 16:43:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139121⭐ Python) | [reels/reel_1238_langflow-ai-langflow](reels/reel_1238_langflow-ai-langflow) |
+| 1239 | 2025-11-23 16:53:34 | [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) | ✅ full (333⭐ Go) | [reels/reel_1239_TheLunarCompany-lunar](reels/reel_1239_TheLunarCompany-lunar) |
