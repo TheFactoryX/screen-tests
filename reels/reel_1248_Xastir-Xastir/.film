@@ -1,0 +1,24 @@
+{
+  "reel_number": 1248,
+  "recorded": "2025-11-23 19:49:39 UTC",
+  "repository": {
+    "full_name": "Xastir/Xastir",
+    "url": "https://github.com/Xastir/Xastir",
+    "clone_url": "https://github.com/Xastir/Xastir.git",
+    "stars": 235,
+    "language": "C",
+    "size_kb": 26914
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 3.980212
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 235 stars."
+  }
+}
