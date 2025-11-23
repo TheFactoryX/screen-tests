@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1246 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-23 |
+| #1247 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1313,3 +1313,4 @@ Or let GitHub Action run it automatically.
 | 1244 | 2025-11-23 18:46:52 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250716⭐ None) | [reels/reel_1244_practical-tutorials-project-based-learning](reels/reel_1244_practical-tutorials-project-based-learning) |
 | 1245 | 2025-11-23 19:13:55 | [retrozinndev/colorshell](https://github.com/retrozinndev/colorshell) | ✅ shallow (119⭐ TypeScript) | [reels/reel_1245_retrozinndev-colorshell](reels/reel_1245_retrozinndev-colorshell) |
 | 1246 | 2025-11-23 19:26:56 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91503⭐ None) | [reels/reel_1246_deepseek-ai-DeepSeek-R1](reels/reel_1246_deepseek-ai-DeepSeek-R1) |
+| 1247 | 2025-11-23 19:38:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102748⭐ TypeScript) | [reels/reel_1247_iptv-org-iptv](reels/reel_1247_iptv-org-iptv) |
