@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1252 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-23 |
+| #1253 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1319,3 +1319,4 @@ Or let GitHub Action run it automatically.
 | 1250 | 2025-11-23 20:40:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179891⭐ Python) | [reels/reel_1250_Significant-Gravitas-AutoGPT](reels/reel_1250_Significant-Gravitas-AutoGPT) |
 | 1251 | 2025-11-23 20:50:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136035⭐ Python) | [reels/reel_1251_yt-dlp-yt-dlp](reels/reel_1251_yt-dlp-yt-dlp) |
 | 1252 | 2025-11-23 21:15:56 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120307⭐ Python) | [reels/reel_1252_langchain-ai-langchain](reels/reel_1252_langchain-ai-langchain) |
+| 1253 | 2025-11-23 21:37:28 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138897⭐ Python) | [reels/reel_1253_ytdl-org-youtube-dl](reels/reel_1253_ytdl-org-youtube-dl) |
