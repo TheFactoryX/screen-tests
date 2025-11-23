@@ -1,0 +1,24 @@
+{
+  "reel_number": 1222,
+  "recorded": "2025-11-23 10:50:37 UTC",
+  "repository": {
+    "full_name": "IReaderorg/IReader",
+    "url": "https://github.com/IReaderorg/IReader",
+    "clone_url": "https://github.com/IReaderorg/IReader.git",
+    "stars": 462,
+    "language": "Kotlin",
+    "size_kb": 75087
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 73,
+    "duration_seconds": 2.552645
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 462 stars."
+  }
+}
