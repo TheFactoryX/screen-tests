@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1258 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 380k | 2025-11-23 |
+| #1259 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 116k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1325,3 +1325,4 @@ Or let GitHub Action run it automatically.
 | 1256 | 2025-11-23 22:40:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116040⭐ JavaScript) | [reels/reel_1256_open-webui-open-webui](reels/reel_1256_open-webui-open-webui) |
 | 1257 | 2025-11-23 22:50:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102766⭐ TypeScript) | [reels/reel_1257_iptv-org-iptv](reels/reel_1257_iptv-org-iptv) |
 | 1258 | 2025-11-23 23:16:28 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380436⭐ Python) | [reels/reel_1258_public-apis-public-apis](reels/reel_1258_public-apis-public-apis) |
+| 1259 | 2025-11-23 23:37:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116042⭐ JavaScript) | [reels/reel_1259_open-webui-open-webui](reels/reel_1259_open-webui-open-webui) |
