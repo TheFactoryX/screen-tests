@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1205 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 659 | 2025-11-23 |
+| #1206 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1272,3 +1272,4 @@ Or let GitHub Action run it automatically.
 | 1203 | 2025-11-23 03:17:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120265⭐ Python) | [reels/reel_1203_langchain-ai-langchain](reels/reel_1203_langchain-ai-langchain) |
 | 1204 | 2025-11-23 04:08:37 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100487⭐ Shell) | [reels/reel_1204_papers-we-love-papers-we-love](reels/reel_1204_papers-we-love-papers-we-love) |
 | 1205 | 2025-11-23 04:46:03 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (659⭐ Tcl) | [reels/reel_1205_rust-lang-crates.io-index](reels/reel_1205_rust-lang-crates.io-index) |
+| 1206 | 2025-11-23 05:17:06 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91498⭐ None) | [reels/reel_1206_deepseek-ai-DeepSeek-R1](reels/reel_1206_deepseek-ai-DeepSeek-R1) |
