@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1254 | [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) | Elixir · ⭐ 146 | 2025-11-23 |
+| #1255 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1321,3 +1321,4 @@ Or let GitHub Action run it automatically.
 | 1252 | 2025-11-23 21:15:56 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120307⭐ Python) | [reels/reel_1252_langchain-ai-langchain](reels/reel_1252_langchain-ai-langchain) |
 | 1253 | 2025-11-23 21:37:28 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138897⭐ Python) | [reels/reel_1253_ytdl-org-youtube-dl](reels/reel_1253_ytdl-org-youtube-dl) |
 | 1254 | 2025-11-23 21:50:21 | [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) | ✅ full (146⭐ Elixir) | [reels/reel_1254_team-alembic-ash_authentication](reels/reel_1254_team-alembic-ash_authentication) |
+| 1255 | 2025-11-23 22:16:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139146⭐ Python) | [reels/reel_1255_langflow-ai-langflow](reels/reel_1255_langflow-ai-langflow) |
