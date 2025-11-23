@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1256 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 116k | 2025-11-23 |
+| #1257 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1323,3 +1323,4 @@ Or let GitHub Action run it automatically.
 | 1254 | 2025-11-23 21:50:21 | [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) | ✅ full (146⭐ Elixir) | [reels/reel_1254_team-alembic-ash_authentication](reels/reel_1254_team-alembic-ash_authentication) |
 | 1255 | 2025-11-23 22:16:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139146⭐ Python) | [reels/reel_1255_langflow-ai-langflow](reels/reel_1255_langflow-ai-langflow) |
 | 1256 | 2025-11-23 22:40:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116040⭐ JavaScript) | [reels/reel_1256_open-webui-open-webui](reels/reel_1256_open-webui-open-webui) |
+| 1257 | 2025-11-23 22:50:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102766⭐ TypeScript) | [reels/reel_1257_iptv-org-iptv](reels/reel_1257_iptv-org-iptv) |
