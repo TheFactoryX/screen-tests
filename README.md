@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1222 | [IReaderorg/IReader](https://github.com/IReaderorg/IReader) | Kotlin · ⭐ 462 | 2025-11-23 |
+| #1223 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1289,3 +1289,4 @@ Or let GitHub Action run it automatically.
 | 1220 | 2025-11-23 10:17:42 | [jakechai/ComfyUI-JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade) | ✅ full (127⭐ Python) | [reels/reel_1220_jakechai-ComfyUI-JakeUpgrade](reels/reel_1220_jakechai-ComfyUI-JakeUpgrade) |
 | 1221 | 2025-11-23 10:40:35 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250677⭐ None) | [reels/reel_1221_practical-tutorials-project-based-learning](reels/reel_1221_practical-tutorials-project-based-learning) |
 | 1222 | 2025-11-23 10:50:37 | [IReaderorg/IReader](https://github.com/IReaderorg/IReader) | ✅ full (462⭐ Kotlin) | [reels/reel_1222_IReaderorg-IReader](reels/reel_1222_IReaderorg-IReader) |
+| 1223 | 2025-11-23 11:13:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108023⭐ Rust) | [reels/reel_1223_rust-lang-rust](reels/reel_1223_rust-lang-rust) |
