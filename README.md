@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1220 | [jakechai/ComfyUI-JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade) | Python · ⭐ 127 | 2025-11-23 |
+| #1221 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 250k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1287,3 +1287,4 @@ Or let GitHub Action run it automatically.
 | 1218 | 2025-11-23 09:38:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102669⭐ TypeScript) | [reels/reel_1218_iptv-org-iptv](reels/reel_1218_iptv-org-iptv) |
 | 1219 | 2025-11-23 09:49:52 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108025⭐ Rust) | [reels/reel_1219_rust-lang-rust](reels/reel_1219_rust-lang-rust) |
 | 1220 | 2025-11-23 10:17:42 | [jakechai/ComfyUI-JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade) | ✅ full (127⭐ Python) | [reels/reel_1220_jakechai-ComfyUI-JakeUpgrade](reels/reel_1220_jakechai-ComfyUI-JakeUpgrade) |
+| 1221 | 2025-11-23 10:40:35 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250677⭐ None) | [reels/reel_1221_practical-tutorials-project-based-learning](reels/reel_1221_practical-tutorials-project-based-learning) |
