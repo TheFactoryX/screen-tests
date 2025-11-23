@@ -1,0 +1,24 @@
+{
+  "reel_number": 1208,
+  "recorded": "2025-11-23 05:50:32 UTC",
+  "repository": {
+    "full_name": "danielhe4rt/basement-mentorship",
+    "url": "https://github.com/danielhe4rt/basement-mentorship",
+    "clone_url": "https://github.com/danielhe4rt/basement-mentorship.git",
+    "stars": 19,
+    "language": "PHP",
+    "size_kb": 1048
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.215431
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 19 stars."
+  }
+}
