@@ -1,0 +1,24 @@
+{
+  "reel_number": 1245,
+  "recorded": "2025-11-23 19:13:55 UTC",
+  "repository": {
+    "full_name": "retrozinndev/colorshell",
+    "url": "https://github.com/retrozinndev/colorshell",
+    "clone_url": "https://github.com/retrozinndev/colorshell.git",
+    "stars": 119,
+    "language": "TypeScript",
+    "size_kb": 447532
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 437,
+    "duration_seconds": 1.513634
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 119 stars."
+  }
+}
