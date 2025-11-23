@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1255 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-23 |
+| #1256 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 116k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1322,3 +1322,4 @@ Or let GitHub Action run it automatically.
 | 1253 | 2025-11-23 21:37:28 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138897⭐ Python) | [reels/reel_1253_ytdl-org-youtube-dl](reels/reel_1253_ytdl-org-youtube-dl) |
 | 1254 | 2025-11-23 21:50:21 | [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication) | ✅ full (146⭐ Elixir) | [reels/reel_1254_team-alembic-ash_authentication](reels/reel_1254_team-alembic-ash_authentication) |
 | 1255 | 2025-11-23 22:16:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139146⭐ Python) | [reels/reel_1255_langflow-ai-langflow](reels/reel_1255_langflow-ai-langflow) |
+| 1256 | 2025-11-23 22:40:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116040⭐ JavaScript) | [reels/reel_1256_open-webui-open-webui](reels/reel_1256_open-webui-open-webui) |
