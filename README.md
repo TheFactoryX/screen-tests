@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1248 | [Xastir/Xastir](https://github.com/Xastir/Xastir) | C · ⭐ 235 | 2025-11-23 |
+| #1249 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1315,3 +1315,4 @@ Or let GitHub Action run it automatically.
 | 1246 | 2025-11-23 19:26:56 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91503⭐ None) | [reels/reel_1246_deepseek-ai-DeepSeek-R1](reels/reel_1246_deepseek-ai-DeepSeek-R1) |
 | 1247 | 2025-11-23 19:38:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102748⭐ TypeScript) | [reels/reel_1247_iptv-org-iptv](reels/reel_1247_iptv-org-iptv) |
 | 1248 | 2025-11-23 19:49:39 | [Xastir/Xastir](https://github.com/Xastir/Xastir) | ✅ full (235⭐ C) | [reels/reel_1248_Xastir-Xastir](reels/reel_1248_Xastir-Xastir) |
+| 1249 | 2025-11-23 20:19:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102752⭐ TypeScript) | [reels/reel_1249_iptv-org-iptv](reels/reel_1249_iptv-org-iptv) |
