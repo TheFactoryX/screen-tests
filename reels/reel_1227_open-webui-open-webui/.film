@@ -1,0 +1,24 @@
+{
+  "reel_number": 1227,
+  "recorded": "2025-11-23 12:32:10 UTC",
+  "repository": {
+    "full_name": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "clone_url": "https://github.com/open-webui/open-webui.git",
+    "stars": 116004,
+    "language": "JavaScript",
+    "size_kb": 296574
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 289,
+    "duration_seconds": 2.070798
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 116004 stars."
+  }
+}

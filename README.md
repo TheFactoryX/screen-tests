@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1226 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-23 |
+| #1227 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 116k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1293,3 +1293,4 @@ Or let GitHub Action run it automatically.
 | 1224 | 2025-11-23 11:27:24 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (250679⭐ None) | [reels/reel_1224_practical-tutorials-project-based-learning](reels/reel_1224_practical-tutorials-project-based-learning) |
 | 1225 | 2025-11-23 11:38:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120283⭐ Python) | [reels/reel_1225_langchain-ai-langchain](reels/reel_1225_langchain-ai-langchain) |
 | 1226 | 2025-11-23 11:50:12 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108024⭐ Rust) | [reels/reel_1226_rust-lang-rust](reels/reel_1226_rust-lang-rust) |
+| 1227 | 2025-11-23 12:32:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116004⭐ JavaScript) | [reels/reel_1227_open-webui-open-webui](reels/reel_1227_open-webui-open-webui) |
