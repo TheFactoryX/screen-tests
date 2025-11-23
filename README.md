@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1250 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-23 |
+| #1251 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1317,3 +1317,4 @@ Or let GitHub Action run it automatically.
 | 1248 | 2025-11-23 19:49:39 | [Xastir/Xastir](https://github.com/Xastir/Xastir) | ✅ full (235⭐ C) | [reels/reel_1248_Xastir-Xastir](reels/reel_1248_Xastir-Xastir) |
 | 1249 | 2025-11-23 20:19:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102752⭐ TypeScript) | [reels/reel_1249_iptv-org-iptv](reels/reel_1249_iptv-org-iptv) |
 | 1250 | 2025-11-23 20:40:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179891⭐ Python) | [reels/reel_1250_Significant-Gravitas-AutoGPT](reels/reel_1250_Significant-Gravitas-AutoGPT) |
+| 1251 | 2025-11-23 20:50:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136035⭐ Python) | [reels/reel_1251_yt-dlp-yt-dlp](reels/reel_1251_yt-dlp-yt-dlp) |
