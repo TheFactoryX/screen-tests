@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1203 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-23 |
+| #1204 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1270,3 +1270,4 @@ Or let GitHub Action run it automatically.
 | 1201 | 2025-11-22 23:49:52 | [OWASP-BLT/BLT](https://github.com/OWASP-BLT/BLT) | ✅ full (225⭐ HTML) | [reels/reel_1201_OWASP-BLT-BLT](reels/reel_1201_OWASP-BLT-BLT) |
 | 1202 | 2025-11-23 01:41:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120263⭐ Python) | [reels/reel_1202_langchain-ai-langchain](reels/reel_1202_langchain-ai-langchain) |
 | 1203 | 2025-11-23 03:17:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120265⭐ Python) | [reels/reel_1203_langchain-ai-langchain](reels/reel_1203_langchain-ai-langchain) |
+| 1204 | 2025-11-23 04:08:37 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100487⭐ Shell) | [reels/reel_1204_papers-we-love-papers-we-love](reels/reel_1204_papers-we-love-papers-we-love) |
