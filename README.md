@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1257 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-23 |
+| #1258 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 380k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1324,3 +1324,4 @@ Or let GitHub Action run it automatically.
 | 1255 | 2025-11-23 22:16:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139146⭐ Python) | [reels/reel_1255_langflow-ai-langflow](reels/reel_1255_langflow-ai-langflow) |
 | 1256 | 2025-11-23 22:40:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116040⭐ JavaScript) | [reels/reel_1256_open-webui-open-webui](reels/reel_1256_open-webui-open-webui) |
 | 1257 | 2025-11-23 22:50:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102766⭐ TypeScript) | [reels/reel_1257_iptv-org-iptv](reels/reel_1257_iptv-org-iptv) |
+| 1258 | 2025-11-23 23:16:28 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380436⭐ Python) | [reels/reel_1258_public-apis-public-apis](reels/reel_1258_public-apis-public-apis) |
