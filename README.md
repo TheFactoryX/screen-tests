@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1218 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-23 |
+| #1219 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1285,3 +1285,4 @@ Or let GitHub Action run it automatically.
 | 1216 | 2025-11-23 08:54:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101094⭐ None) | [reels/reel_1216_Hack-with-Github-Awesome-Hacking](reels/reel_1216_Hack-with-Github-Awesome-Hacking) |
 | 1217 | 2025-11-23 09:17:14 | [fuwei99/SillyTavern-Docker](https://github.com/fuwei99/SillyTavern-Docker) | ✅ full (37⭐ Shell) | [reels/reel_1217_fuwei99-SillyTavern-Docker](reels/reel_1217_fuwei99-SillyTavern-Docker) |
 | 1218 | 2025-11-23 09:38:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102669⭐ TypeScript) | [reels/reel_1218_iptv-org-iptv](reels/reel_1218_iptv-org-iptv) |
+| 1219 | 2025-11-23 09:49:52 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108025⭐ Rust) | [reels/reel_1219_rust-lang-rust](reels/reel_1219_rust-lang-rust) |
