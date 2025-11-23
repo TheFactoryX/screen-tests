@@ -1,0 +1,24 @@
+{
+  "reel_number": 1215,
+  "recorded": "2025-11-23 08:44:17 UTC",
+  "repository": {
+    "full_name": "vivliostyle/vivliostyle.js",
+    "url": "https://github.com/vivliostyle/vivliostyle.js",
+    "clone_url": "https://github.com/vivliostyle/vivliostyle.js.git",
+    "stars": 697,
+    "language": "TypeScript",
+    "size_kb": 347827
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 339,
+    "duration_seconds": 0.361673
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 697 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1214 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 115k | 2025-11-23 |
+| #1215 | [vivliostyle/vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js) | TypeScript · ⭐ 697 | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1281,3 +1281,4 @@ Or let GitHub Action run it automatically.
 | 1212 | 2025-11-23 07:36:57 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179874⭐ Python) | [reels/reel_1212_Significant-Gravitas-AutoGPT](reels/reel_1212_Significant-Gravitas-AutoGPT) |
 | 1213 | 2025-11-23 07:50:15 | [BLOODWOLF333/Brutal-Doom-Community-Expansion](https://github.com/BLOODWOLF333/Brutal-Doom-Community-Expansion) | ✅ shallow (183⭐ None) | [reels/reel_1213_BLOODWOLF333-Brutal-Doom-Community-Expansion](reels/reel_1213_BLOODWOLF333-Brutal-Doom-Community-Expansion) |
 | 1214 | 2025-11-23 08:21:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115986⭐ JavaScript) | [reels/reel_1214_open-webui-open-webui](reels/reel_1214_open-webui-open-webui) |
+| 1215 | 2025-11-23 08:44:17 | [vivliostyle/vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js) | ✅ shallow (697⭐ TypeScript) | [reels/reel_1215_vivliostyle-vivliostyle.js](reels/reel_1215_vivliostyle-vivliostyle.js) |
