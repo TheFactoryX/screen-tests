@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1231 | [codecrafters-io/build-your-own-grep](https://github.com/codecrafters-io/build-your-own-grep) | Shell · ⭐ 23 | 2025-11-23 |
+| #1232 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1298,3 +1298,4 @@ Or let GitHub Action run it automatically.
 | 1229 | 2025-11-23 13:31:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139109⭐ Python) | [reels/reel_1229_langflow-ai-langflow](reels/reel_1229_langflow-ai-langflow) |
 | 1230 | 2025-11-23 13:49:46 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380263⭐ Python) | [reels/reel_1230_public-apis-public-apis](reels/reel_1230_public-apis-public-apis) |
 | 1231 | 2025-11-23 14:15:11 | [codecrafters-io/build-your-own-grep](https://github.com/codecrafters-io/build-your-own-grep) | ✅ full (23⭐ Shell) | [reels/reel_1231_codecrafters-io-build-your-own-grep](reels/reel_1231_codecrafters-io-build-your-own-grep) |
+| 1232 | 2025-11-23 14:32:33 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158129⭐ TypeScript) | [reels/reel_1232_n8n-io-n8n](reels/reel_1232_n8n-io-n8n) |
