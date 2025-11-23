@@ -1,0 +1,24 @@
+{
+  "reel_number": 1217,
+  "recorded": "2025-11-23 09:17:14 UTC",
+  "repository": {
+    "full_name": "fuwei99/SillyTavern-Docker",
+    "url": "https://github.com/fuwei99/SillyTavern-Docker",
+    "clone_url": "https://github.com/fuwei99/SillyTavern-Docker.git",
+    "stars": 37,
+    "language": "Shell",
+    "size_kb": 48
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.439935
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 37 stars."
+  }
+}

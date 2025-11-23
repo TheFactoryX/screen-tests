@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1216 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-11-23 |
+| #1217 | [fuwei99/SillyTavern-Docker](https://github.com/fuwei99/SillyTavern-Docker) | Shell · ⭐ 37 | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1283,3 +1283,4 @@ Or let GitHub Action run it automatically.
 | 1214 | 2025-11-23 08:21:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (115986⭐ JavaScript) | [reels/reel_1214_open-webui-open-webui](reels/reel_1214_open-webui-open-webui) |
 | 1215 | 2025-11-23 08:44:17 | [vivliostyle/vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js) | ✅ shallow (697⭐ TypeScript) | [reels/reel_1215_vivliostyle-vivliostyle.js](reels/reel_1215_vivliostyle-vivliostyle.js) |
 | 1216 | 2025-11-23 08:54:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101094⭐ None) | [reels/reel_1216_Hack-with-Github-Awesome-Hacking](reels/reel_1216_Hack-with-Github-Awesome-Hacking) |
+| 1217 | 2025-11-23 09:17:14 | [fuwei99/SillyTavern-Docker](https://github.com/fuwei99/SillyTavern-Docker) | ✅ full (37⭐ Shell) | [reels/reel_1217_fuwei99-SillyTavern-Docker](reels/reel_1217_fuwei99-SillyTavern-Docker) |
