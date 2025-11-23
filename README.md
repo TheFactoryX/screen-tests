@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1242 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-23 |
+| #1243 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 259k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1309,3 +1309,4 @@ Or let GitHub Action run it automatically.
 | 1240 | 2025-11-23 17:15:03 | [neutronimaging/CBCTCalibration](https://github.com/neutronimaging/CBCTCalibration) | ✅ full (20⭐ Jupyter Notebook) | [reels/reel_1240_neutronimaging-CBCTCalibration](reels/reel_1240_neutronimaging-CBCTCalibration) |
 | 1241 | 2025-11-23 17:31:28 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138894⭐ Python) | [reels/reel_1241_ytdl-org-youtube-dl](reels/reel_1241_ytdl-org-youtube-dl) |
 | 1242 | 2025-11-23 17:50:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100575⭐ TypeScript) | [reels/reel_1242_shadcn-ui-ui](reels/reel_1242_shadcn-ui-ui) |
+| 1243 | 2025-11-23 18:24:09 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259571⭐ None) | [reels/reel_1243_awesome-selfhosted-awesome-selfhosted](reels/reel_1243_awesome-selfhosted-awesome-selfhosted) |
