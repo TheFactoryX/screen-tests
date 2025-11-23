@@ -1,0 +1,24 @@
+{
+  "reel_number": 1231,
+  "recorded": "2025-11-23 14:15:11 UTC",
+  "repository": {
+    "full_name": "codecrafters-io/build-your-own-grep",
+    "url": "https://github.com/codecrafters-io/build-your-own-grep",
+    "clone_url": "https://github.com/codecrafters-io/build-your-own-grep.git",
+    "stars": 23,
+    "language": "Shell",
+    "size_kb": 889
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.340622
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 23 stars."
+  }
+}
