@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1259 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | JavaScript · ⭐ 116k | 2025-11-23 |
+| #1260 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1326,3 +1326,4 @@ Or let GitHub Action run it automatically.
 | 1257 | 2025-11-23 22:50:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102766⭐ TypeScript) | [reels/reel_1257_iptv-org-iptv](reels/reel_1257_iptv-org-iptv) |
 | 1258 | 2025-11-23 23:16:28 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380436⭐ Python) | [reels/reel_1258_public-apis-public-apis](reels/reel_1258_public-apis-public-apis) |
 | 1259 | 2025-11-23 23:37:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116042⭐ JavaScript) | [reels/reel_1259_open-webui-open-webui](reels/reel_1259_open-webui-open-webui) |
+| 1260 | 2025-11-23 23:50:18 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96662⭐ TypeScript) | [reels/reel_1260_ant-design-ant-design](reels/reel_1260_ant-design-ant-design) |
