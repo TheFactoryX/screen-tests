@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1219 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-23 |
+| #1220 | [jakechai/ComfyUI-JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade) | Python · ⭐ 127 | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1286,3 +1286,4 @@ Or let GitHub Action run it automatically.
 | 1217 | 2025-11-23 09:17:14 | [fuwei99/SillyTavern-Docker](https://github.com/fuwei99/SillyTavern-Docker) | ✅ full (37⭐ Shell) | [reels/reel_1217_fuwei99-SillyTavern-Docker](reels/reel_1217_fuwei99-SillyTavern-Docker) |
 | 1218 | 2025-11-23 09:38:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102669⭐ TypeScript) | [reels/reel_1218_iptv-org-iptv](reels/reel_1218_iptv-org-iptv) |
 | 1219 | 2025-11-23 09:49:52 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108025⭐ Rust) | [reels/reel_1219_rust-lang-rust](reels/reel_1219_rust-lang-rust) |
+| 1220 | 2025-11-23 10:17:42 | [jakechai/ComfyUI-JakeUpgrade](https://github.com/jakechai/ComfyUI-JakeUpgrade) | ✅ full (127⭐ Python) | [reels/reel_1220_jakechai-ComfyUI-JakeUpgrade](reels/reel_1220_jakechai-ComfyUI-JakeUpgrade) |
