@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1212 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-23 |
+| #1213 | [BLOODWOLF333/Brutal-Doom-Community-Expansion](https://github.com/BLOODWOLF333/Brutal-Doom-Community-Expansion) | None · ⭐ 183 | 2025-11-23 |
 ---
 
 ## 🎭 Selection Process
@@ -1279,3 +1279,4 @@ Or let GitHub Action run it automatically.
 | 1210 | 2025-11-23 06:49:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259477⭐ None) | [reels/reel_1210_awesome-selfhosted-awesome-selfhosted](reels/reel_1210_awesome-selfhosted-awesome-selfhosted) |
 | 1211 | 2025-11-23 07:16:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108022⭐ Rust) | [reels/reel_1211_rust-lang-rust](reels/reel_1211_rust-lang-rust) |
 | 1212 | 2025-11-23 07:36:57 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179874⭐ Python) | [reels/reel_1212_Significant-Gravitas-AutoGPT](reels/reel_1212_Significant-Gravitas-AutoGPT) |
+| 1213 | 2025-11-23 07:50:15 | [BLOODWOLF333/Brutal-Doom-Community-Expansion](https://github.com/BLOODWOLF333/Brutal-Doom-Community-Expansion) | ✅ shallow (183⭐ None) | [reels/reel_1213_BLOODWOLF333-Brutal-Doom-Community-Expansion](reels/reel_1213_BLOODWOLF333-Brutal-Doom-Community-Expansion) |
