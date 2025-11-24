@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1300 | [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | Scala · ⭐ 796 | 2025-11-24 |
+| #1301 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1367,3 +1367,4 @@ Or let GitHub Action run it automatically.
 | 1298 | 2025-11-24 18:52:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120392⭐ Python) | [reels/reel_1298_langchain-ai-langchain](reels/reel_1298_langchain-ai-langchain) |
 | 1299 | 2025-11-24 19:16:02 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91507⭐ None) | [reels/reel_1299_deepseek-ai-DeepSeek-R1](reels/reel_1299_deepseek-ai-DeepSeek-R1) |
 | 1300 | 2025-11-24 19:37:26 | [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | ✅ readme_only (796⭐ Scala) | [reels/reel_1300_plokhotnyuk-jsoniter-scala](reels/reel_1300_plokhotnyuk-jsoniter-scala) |
+| 1301 | 2025-11-24 19:50:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100639⭐ TypeScript) | [reels/reel_1301_shadcn-ui-ui](reels/reel_1301_shadcn-ui-ui) |
