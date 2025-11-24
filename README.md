@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1281 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 259k | 2025-11-24 |
+| #1282 | [AI-Hypercomputer/xpk](https://github.com/AI-Hypercomputer/xpk) | Python · ⭐ 153 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1348,3 +1348,4 @@ Or let GitHub Action run it automatically.
 | 1279 | 2025-11-24 11:16:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179899⭐ Python) | [reels/reel_1279_Significant-Gravitas-AutoGPT](reels/reel_1279_Significant-Gravitas-AutoGPT) |
 | 1280 | 2025-11-24 11:38:37 | [deezertidal/private](https://github.com/deezertidal/private) | ✅ readme_only (786⭐ JavaScript) | [reels/reel_1280_deezertidal-private](reels/reel_1280_deezertidal-private) |
 | 1281 | 2025-11-24 11:49:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259694⭐ None) | [reels/reel_1281_awesome-selfhosted-awesome-selfhosted](reels/reel_1281_awesome-selfhosted-awesome-selfhosted) |
+| 1282 | 2025-11-24 12:38:46 | [AI-Hypercomputer/xpk](https://github.com/AI-Hypercomputer/xpk) | ✅ full (153⭐ Python) | [reels/reel_1282_AI-Hypercomputer-xpk](reels/reel_1282_AI-Hypercomputer-xpk) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1282,
+  "recorded": "2025-11-24 12:38:46 UTC",
+  "repository": {
+    "full_name": "AI-Hypercomputer/xpk",
+    "url": "https://github.com/AI-Hypercomputer/xpk",
+    "clone_url": "https://github.com/AI-Hypercomputer/xpk.git",
+    "stars": 153,
+    "language": "Python",
+    "size_kb": 3238
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.734245
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 153 stars."
+  }
+}
