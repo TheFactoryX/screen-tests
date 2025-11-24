@@ -1,0 +1,24 @@
+{
+  "reel_number": 1269,
+  "recorded": "2025-11-24 06:53:34 UTC",
+  "repository": {
+    "full_name": "danielsogl/awesome-cordova-plugins",
+    "url": "https://github.com/danielsogl/awesome-cordova-plugins",
+    "clone_url": "https://github.com/danielsogl/awesome-cordova-plugins.git",
+    "stars": 2447,
+    "language": "TypeScript",
+    "size_kb": 40650
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 39,
+    "duration_seconds": 3.613204
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 2447 stars."
+  }
+}
