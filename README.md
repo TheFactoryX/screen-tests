@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1289 | [LODSContent/ChallengeLabs_Resources](https://github.com/LODSContent/ChallengeLabs_Resources) | JavaScript · ⭐ 12 | 2025-11-24 |
+| #1290 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1356,3 +1356,4 @@ Or let GitHub Action run it automatically.
 | 1287 | 2025-11-24 14:56:20 | [Cap-go/capgo](https://github.com/Cap-go/capgo) | ✅ shallow (173⭐ TypeScript) | [reels/reel_1287_Cap-go-capgo](reels/reel_1287_Cap-go-capgo) |
 | 1288 | 2025-11-24 15:24:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102908⭐ TypeScript) | [reels/reel_1288_iptv-org-iptv](reels/reel_1288_iptv-org-iptv) |
 | 1289 | 2025-11-24 15:44:05 | [LODSContent/ChallengeLabs_Resources](https://github.com/LODSContent/ChallengeLabs_Resources) | ✅ shallow (12⭐ JavaScript) | [reels/reel_1289_LODSContent-ChallengeLabs_Resources](reels/reel_1289_LODSContent-ChallengeLabs_Resources) |
+| 1290 | 2025-11-24 15:55:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136124⭐ Python) | [reels/reel_1290_yt-dlp-yt-dlp](reels/reel_1290_yt-dlp-yt-dlp) |
