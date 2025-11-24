@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1303 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-24 |
+| #1304 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1370,3 +1370,4 @@ Or let GitHub Action run it automatically.
 | 1301 | 2025-11-24 19:50:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100639⭐ TypeScript) | [reels/reel_1301_shadcn-ui-ui](reels/reel_1301_shadcn-ui-ui) |
 | 1302 | 2025-11-24 20:20:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179922⭐ Python) | [reels/reel_1302_Significant-Gravitas-AutoGPT](reels/reel_1302_Significant-Gravitas-AutoGPT) |
 | 1303 | 2025-11-24 20:40:43 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100528⭐ Shell) | [reels/reel_1303_papers-we-love-papers-we-love](reels/reel_1303_papers-we-love-papers-we-love) |
+| 1304 | 2025-11-24 20:51:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136148⭐ Python) | [reels/reel_1304_yt-dlp-yt-dlp](reels/reel_1304_yt-dlp-yt-dlp) |
