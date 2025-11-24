@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1275 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-24 |
+| #1276 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1342,3 +1342,4 @@ Or let GitHub Action run it automatically.
 | 1273 | 2025-11-24 08:27:05 | [thefLink/Hunt-Weird-ImageLoads](https://github.com/thefLink/Hunt-Weird-ImageLoads) | ✅ full (42⭐ C++) | [reels/reel_1273_thefLink-Hunt-Weird-ImageLoads](reels/reel_1273_thefLink-Hunt-Weird-ImageLoads) |
 | 1274 | 2025-11-24 08:51:57 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259675⭐ None) | [reels/reel_1274_awesome-selfhosted-awesome-selfhosted](reels/reel_1274_awesome-selfhosted-awesome-selfhosted) |
 | 1275 | 2025-11-24 09:23:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99212⭐ Rust) | [reels/reel_1275_tauri-apps-tauri](reels/reel_1275_tauri-apps-tauri) |
+| 1276 | 2025-11-24 09:45:36 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101160⭐ None) | [reels/reel_1276_Hack-with-Github-Awesome-Hacking](reels/reel_1276_Hack-with-Github-Awesome-Hacking) |
