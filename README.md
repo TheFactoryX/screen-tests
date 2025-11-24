@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1302 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-24 |
+| #1303 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1369,3 +1369,4 @@ Or let GitHub Action run it automatically.
 | 1300 | 2025-11-24 19:37:26 | [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | ✅ readme_only (796⭐ Scala) | [reels/reel_1300_plokhotnyuk-jsoniter-scala](reels/reel_1300_plokhotnyuk-jsoniter-scala) |
 | 1301 | 2025-11-24 19:50:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100639⭐ TypeScript) | [reels/reel_1301_shadcn-ui-ui](reels/reel_1301_shadcn-ui-ui) |
 | 1302 | 2025-11-24 20:20:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179922⭐ Python) | [reels/reel_1302_Significant-Gravitas-AutoGPT](reels/reel_1302_Significant-Gravitas-AutoGPT) |
+| 1303 | 2025-11-24 20:40:43 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100528⭐ Shell) | [reels/reel_1303_papers-we-love-papers-we-love](reels/reel_1303_papers-we-love-papers-we-love) |
