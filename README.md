@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1295 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 247 | 2025-11-24 |
+| #1296 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 442k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1362,3 +1362,4 @@ Or let GitHub Action run it automatically.
 | 1293 | 2025-11-24 16:56:31 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100383⭐ Python) | [reels/reel_1293_deepseek-ai-DeepSeek-V3](reels/reel_1293_deepseek-ai-DeepSeek-V3) |
 | 1294 | 2025-11-24 17:20:22 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99228⭐ Rust) | [reels/reel_1294_tauri-apps-tauri](reels/reel_1294_tauri-apps-tauri) |
 | 1295 | 2025-11-24 17:42:25 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (247⭐ None) | [reels/reel_1295_hello-world-1989-cn-news](reels/reel_1295_hello-world-1989-cn-news) |
+| 1296 | 2025-11-24 17:52:16 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (442862⭐ Markdown) | [reels/reel_1296_codecrafters-io-build-your-own-x](reels/reel_1296_codecrafters-io-build-your-own-x) |
