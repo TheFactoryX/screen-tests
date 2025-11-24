@@ -1,0 +1,24 @@
+{
+  "reel_number": 1312,
+  "recorded": "2025-11-24 23:38:41 UTC",
+  "repository": {
+    "full_name": "JoeBidenWhatAreYouHiding/kx",
+    "url": "https://github.com/JoeBidenWhatAreYouHiding/kx",
+    "clone_url": "https://github.com/JoeBidenWhatAreYouHiding/kx.git",
+    "stars": 109,
+    "language": "Lua",
+    "size_kb": 6873855
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 6712,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 109 stars."
+  }
+}
