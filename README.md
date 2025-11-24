@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1296 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 442k | 2025-11-24 |
+| #1297 | [BeRo1985/pasvulkan](https://github.com/BeRo1985/pasvulkan) | Pascal · ⭐ 207 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1363,3 +1363,4 @@ Or let GitHub Action run it automatically.
 | 1294 | 2025-11-24 17:20:22 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99228⭐ Rust) | [reels/reel_1294_tauri-apps-tauri](reels/reel_1294_tauri-apps-tauri) |
 | 1295 | 2025-11-24 17:42:25 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (247⭐ None) | [reels/reel_1295_hello-world-1989-cn-news](reels/reel_1295_hello-world-1989-cn-news) |
 | 1296 | 2025-11-24 17:52:16 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (442862⭐ Markdown) | [reels/reel_1296_codecrafters-io-build-your-own-x](reels/reel_1296_codecrafters-io-build-your-own-x) |
+| 1297 | 2025-11-24 18:28:07 | [BeRo1985/pasvulkan](https://github.com/BeRo1985/pasvulkan) | ✅ readme_only (207⭐ Pascal) | [reels/reel_1297_BeRo1985-pasvulkan](reels/reel_1297_BeRo1985-pasvulkan) |

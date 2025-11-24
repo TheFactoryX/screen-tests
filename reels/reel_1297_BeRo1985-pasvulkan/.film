@@ -1,0 +1,24 @@
+{
+  "reel_number": 1297,
+  "recorded": "2025-11-24 18:28:07 UTC",
+  "repository": {
+    "full_name": "BeRo1985/pasvulkan",
+    "url": "https://github.com/BeRo1985/pasvulkan",
+    "clone_url": "https://github.com/BeRo1985/pasvulkan.git",
+    "stars": 207,
+    "language": "Pascal",
+    "size_kb": 22041301
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 21524,
+    "duration_seconds": 0.000164
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Pascal",
+    "director_note": "A Pascal repository. 207 stars."
+  }
+}
