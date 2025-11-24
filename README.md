@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1312 | [JoeBidenWhatAreYouHiding/kx](https://github.com/JoeBidenWhatAreYouHiding/kx) | Lua · ⭐ 109 | 2025-11-24 |
+| #1313 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1379,3 +1379,4 @@ Or let GitHub Action run it automatically.
 | 1310 | 2025-11-24 22:51:21 | [robjhyndman/weird-package](https://github.com/robjhyndman/weird-package) | ✅ shallow (19⭐ R) | [reels/reel_1310_robjhyndman-weird-package](reels/reel_1310_robjhyndman-weird-package) |
 | 1311 | 2025-11-24 23:17:11 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96682⭐ TypeScript) | [reels/reel_1311_ant-design-ant-design](reels/reel_1311_ant-design-ant-design) |
 | 1312 | 2025-11-24 23:38:41 | [JoeBidenWhatAreYouHiding/kx](https://github.com/JoeBidenWhatAreYouHiding/kx) | ✅ readme_only (109⭐ Lua) | [reels/reel_1312_JoeBidenWhatAreYouHiding-kx](reels/reel_1312_JoeBidenWhatAreYouHiding-kx) |
+| 1313 | 2025-11-24 23:50:03 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138915⭐ Python) | [reels/reel_1313_ytdl-org-youtube-dl](reels/reel_1313_ytdl-org-youtube-dl) |
