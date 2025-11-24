@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1286 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 659 | 2025-11-24 |
+| #1287 | [Cap-go/capgo](https://github.com/Cap-go/capgo) | TypeScript · ⭐ 173 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1353,3 +1353,4 @@ Or let GitHub Action run it automatically.
 | 1284 | 2025-11-24 13:50:34 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96679⭐ TypeScript) | [reels/reel_1284_ant-design-ant-design](reels/reel_1284_ant-design-ant-design) |
 | 1285 | 2025-11-24 14:19:02 | [warpme/minimyth2](https://github.com/warpme/minimyth2) | ✅ shallow (108⭐ Makefile) | [reels/reel_1285_warpme-minimyth2](reels/reel_1285_warpme-minimyth2) |
 | 1286 | 2025-11-24 14:46:01 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (659⭐ Tcl) | [reels/reel_1286_rust-lang-crates.io-index](reels/reel_1286_rust-lang-crates.io-index) |
+| 1287 | 2025-11-24 14:56:20 | [Cap-go/capgo](https://github.com/Cap-go/capgo) | ✅ shallow (173⭐ TypeScript) | [reels/reel_1287_Cap-go-capgo](reels/reel_1287_Cap-go-capgo) |

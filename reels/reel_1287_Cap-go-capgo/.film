@@ -1,0 +1,24 @@
+{
+  "reel_number": 1287,
+  "recorded": "2025-11-24 14:56:20 UTC",
+  "repository": {
+    "full_name": "Cap-go/capgo",
+    "url": "https://github.com/Cap-go/capgo",
+    "clone_url": "https://github.com/Cap-go/capgo.git",
+    "stars": 173,
+    "language": "TypeScript",
+    "size_kb": 177236
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 173,
+    "duration_seconds": 2.389196
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 173 stars."
+  }
+}
