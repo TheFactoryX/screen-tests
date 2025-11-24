@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1294 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-24 |
+| #1295 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 247 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1361,3 +1361,4 @@ Or let GitHub Action run it automatically.
 | 1292 | 2025-11-24 16:45:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136130⭐ Python) | [reels/reel_1292_yt-dlp-yt-dlp](reels/reel_1292_yt-dlp-yt-dlp) |
 | 1293 | 2025-11-24 16:56:31 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100383⭐ Python) | [reels/reel_1293_deepseek-ai-DeepSeek-V3](reels/reel_1293_deepseek-ai-DeepSeek-V3) |
 | 1294 | 2025-11-24 17:20:22 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99228⭐ Rust) | [reels/reel_1294_tauri-apps-tauri](reels/reel_1294_tauri-apps-tauri) |
+| 1295 | 2025-11-24 17:42:25 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (247⭐ None) | [reels/reel_1295_hello-world-1989-cn-news](reels/reel_1295_hello-world-1989-cn-news) |
