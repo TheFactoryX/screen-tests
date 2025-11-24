@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1264 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-24 |
+| #1265 | [Charcoal-SE/SmokeDetector](https://github.com/Charcoal-SE/SmokeDetector) | Python · ⭐ 493 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1331,3 +1331,4 @@ Or let GitHub Action run it automatically.
 | 1262 | 2025-11-24 03:11:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102804⭐ TypeScript) | [reels/reel_1262_iptv-org-iptv](reels/reel_1262_iptv-org-iptv) |
 | 1263 | 2025-11-24 04:04:34 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138901⭐ Python) | [reels/reel_1263_ytdl-org-youtube-dl](reels/reel_1263_ytdl-org-youtube-dl) |
 | 1264 | 2025-11-24 04:46:35 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158251⭐ TypeScript) | [reels/reel_1264_n8n-io-n8n](reels/reel_1264_n8n-io-n8n) |
+| 1265 | 2025-11-24 05:19:26 | [Charcoal-SE/SmokeDetector](https://github.com/Charcoal-SE/SmokeDetector) | ✅ readme_only (493⭐ Python) | [reels/reel_1265_Charcoal-SE-SmokeDetector](reels/reel_1265_Charcoal-SE-SmokeDetector) |
