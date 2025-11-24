@@ -1,0 +1,24 @@
+{
+  "reel_number": 1278,
+  "recorded": "2025-11-24 10:46:44 UTC",
+  "repository": {
+    "full_name": "HSLdevcom/digitransit-ui",
+    "url": "https://github.com/HSLdevcom/digitransit-ui",
+    "clone_url": "https://github.com/HSLdevcom/digitransit-ui.git",
+    "stars": 252,
+    "language": "JavaScript",
+    "size_kb": 196841
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 192,
+    "duration_seconds": 1.005754
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 252 stars."
+  }
+}
