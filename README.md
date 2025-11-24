@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1292 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-24 |
+| #1293 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1359,3 +1359,4 @@ Or let GitHub Action run it automatically.
 | 1290 | 2025-11-24 15:55:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136124⭐ Python) | [reels/reel_1290_yt-dlp-yt-dlp](reels/reel_1290_yt-dlp-yt-dlp) |
 | 1291 | 2025-11-24 16:22:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108049⭐ Rust) | [reels/reel_1291_rust-lang-rust](reels/reel_1291_rust-lang-rust) |
 | 1292 | 2025-11-24 16:45:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136130⭐ Python) | [reels/reel_1292_yt-dlp-yt-dlp](reels/reel_1292_yt-dlp-yt-dlp) |
+| 1293 | 2025-11-24 16:56:31 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100383⭐ Python) | [reels/reel_1293_deepseek-ai-DeepSeek-V3](reels/reel_1293_deepseek-ai-DeepSeek-V3) |
