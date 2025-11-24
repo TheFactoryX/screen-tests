@@ -1,0 +1,24 @@
+{
+  "reel_number": 1308,
+  "recorded": "2025-11-24 22:17:13 UTC",
+  "repository": {
+    "full_name": "Triky313/AlbionOnline-StatisticsAnalysis",
+    "url": "https://github.com/Triky313/AlbionOnline-StatisticsAnalysis",
+    "clone_url": "https://github.com/Triky313/AlbionOnline-StatisticsAnalysis.git",
+    "stars": 446,
+    "language": "C#",
+    "size_kb": 24846
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 1.310362
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 446 stars."
+  }
+}

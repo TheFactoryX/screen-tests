@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1307 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-11-24 |
+| #1308 | [Triky313/AlbionOnline-StatisticsAnalysis](https://github.com/Triky313/AlbionOnline-StatisticsAnalysis) | C# · ⭐ 446 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1374,3 +1374,4 @@ Or let GitHub Action run it automatically.
 | 1305 | 2025-11-24 21:17:55 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96681⭐ TypeScript) | [reels/reel_1305_ant-design-ant-design](reels/reel_1305_ant-design-ant-design) |
 | 1306 | 2025-11-24 21:39:05 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100644⭐ TypeScript) | [reels/reel_1306_shadcn-ui-ui](reels/reel_1306_shadcn-ui-ui) |
 | 1307 | 2025-11-24 21:50:13 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101191⭐ None) | [reels/reel_1307_Hack-with-Github-Awesome-Hacking](reels/reel_1307_Hack-with-Github-Awesome-Hacking) |
+| 1308 | 2025-11-24 22:17:13 | [Triky313/AlbionOnline-StatisticsAnalysis](https://github.com/Triky313/AlbionOnline-StatisticsAnalysis) | ✅ full (446⭐ C#) | [reels/reel_1308_Triky313-AlbionOnline-StatisticsAnalysis](reels/reel_1308_Triky313-AlbionOnline-StatisticsAnalysis) |
