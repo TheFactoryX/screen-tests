@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1266 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-24 |
+| #1267 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1333,3 +1333,4 @@ Or let GitHub Action run it automatically.
 | 1264 | 2025-11-24 04:46:35 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158251⭐ TypeScript) | [reels/reel_1264_n8n-io-n8n](reels/reel_1264_n8n-io-n8n) |
 | 1265 | 2025-11-24 05:19:26 | [Charcoal-SE/SmokeDetector](https://github.com/Charcoal-SE/SmokeDetector) | ✅ readme_only (493⭐ Python) | [reels/reel_1265_Charcoal-SE-SmokeDetector](reels/reel_1265_Charcoal-SE-SmokeDetector) |
 | 1266 | 2025-11-24 05:43:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108043⭐ Rust) | [reels/reel_1266_rust-lang-rust](reels/reel_1266_rust-lang-rust) |
+| 1267 | 2025-11-24 05:53:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179898⭐ Python) | [reels/reel_1267_Significant-Gravitas-AutoGPT](reels/reel_1267_Significant-Gravitas-AutoGPT) |
