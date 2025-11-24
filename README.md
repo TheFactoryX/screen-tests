@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1278 | [HSLdevcom/digitransit-ui](https://github.com/HSLdevcom/digitransit-ui) | JavaScript · ⭐ 252 | 2025-11-24 |
+| #1279 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1345,3 +1345,4 @@ Or let GitHub Action run it automatically.
 | 1276 | 2025-11-24 09:45:36 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101160⭐ None) | [reels/reel_1276_Hack-with-Github-Awesome-Hacking](reels/reel_1276_Hack-with-Github-Awesome-Hacking) |
 | 1277 | 2025-11-24 10:21:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116097⭐ JavaScript) | [reels/reel_1277_open-webui-open-webui](reels/reel_1277_open-webui-open-webui) |
 | 1278 | 2025-11-24 10:46:44 | [HSLdevcom/digitransit-ui](https://github.com/HSLdevcom/digitransit-ui) | ✅ shallow (252⭐ JavaScript) | [reels/reel_1278_HSLdevcom-digitransit-ui](reels/reel_1278_HSLdevcom-digitransit-ui) |
+| 1279 | 2025-11-24 11:16:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179899⭐ Python) | [reels/reel_1279_Significant-Gravitas-AutoGPT](reels/reel_1279_Significant-Gravitas-AutoGPT) |
