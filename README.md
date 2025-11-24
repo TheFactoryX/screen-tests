@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1270 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-24 |
+| #1271 | [r-spatialecology/landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) | R · ⭐ 253 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1337,3 +1337,4 @@ Or let GitHub Action run it automatically.
 | 1268 | 2025-11-24 06:29:01 | [Azure/azure-functions-tooling-feed](https://github.com/Azure/azure-functions-tooling-feed) | ✅ full (29⭐ C#) | [reels/reel_1268_Azure-azure-functions-tooling-feed](reels/reel_1268_Azure-azure-functions-tooling-feed) |
 | 1269 | 2025-11-24 06:53:34 | [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) | ✅ full (2447⭐ TypeScript) | [reels/reel_1269_danielsogl-awesome-cordova-plugins](reels/reel_1269_danielsogl-awesome-cordova-plugins) |
 | 1270 | 2025-11-24 07:18:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158275⭐ TypeScript) | [reels/reel_1270_n8n-io-n8n](reels/reel_1270_n8n-io-n8n) |
+| 1271 | 2025-11-24 07:39:21 | [r-spatialecology/landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) | ✅ full (253⭐ R) | [reels/reel_1271_r-spatialecology-landscapemetrics](reels/reel_1271_r-spatialecology-landscapemetrics) |
