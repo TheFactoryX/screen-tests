@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1288 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-24 |
+| #1289 | [LODSContent/ChallengeLabs_Resources](https://github.com/LODSContent/ChallengeLabs_Resources) | JavaScript · ⭐ 12 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1355,3 +1355,4 @@ Or let GitHub Action run it automatically.
 | 1286 | 2025-11-24 14:46:01 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (659⭐ Tcl) | [reels/reel_1286_rust-lang-crates.io-index](reels/reel_1286_rust-lang-crates.io-index) |
 | 1287 | 2025-11-24 14:56:20 | [Cap-go/capgo](https://github.com/Cap-go/capgo) | ✅ shallow (173⭐ TypeScript) | [reels/reel_1287_Cap-go-capgo](reels/reel_1287_Cap-go-capgo) |
 | 1288 | 2025-11-24 15:24:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102908⭐ TypeScript) | [reels/reel_1288_iptv-org-iptv](reels/reel_1288_iptv-org-iptv) |
+| 1289 | 2025-11-24 15:44:05 | [LODSContent/ChallengeLabs_Resources](https://github.com/LODSContent/ChallengeLabs_Resources) | ✅ shallow (12⭐ JavaScript) | [reels/reel_1289_LODSContent-ChallengeLabs_Resources](reels/reel_1289_LODSContent-ChallengeLabs_Resources) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1289,
+  "recorded": "2025-11-24 15:44:05 UTC",
+  "repository": {
+    "full_name": "LODSContent/ChallengeLabs_Resources",
+    "url": "https://github.com/LODSContent/ChallengeLabs_Resources",
+    "clone_url": "https://github.com/LODSContent/ChallengeLabs_Resources.git",
+    "stars": 12,
+    "language": "JavaScript",
+    "size_kb": 147801
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 144,
+    "duration_seconds": 2.214325
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 12 stars."
+  }
+}
