@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1297 | [BeRo1985/pasvulkan](https://github.com/BeRo1985/pasvulkan) | Pascal · ⭐ 207 | 2025-11-24 |
+| #1298 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1364,3 +1364,4 @@ Or let GitHub Action run it automatically.
 | 1295 | 2025-11-24 17:42:25 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (247⭐ None) | [reels/reel_1295_hello-world-1989-cn-news](reels/reel_1295_hello-world-1989-cn-news) |
 | 1296 | 2025-11-24 17:52:16 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (442862⭐ Markdown) | [reels/reel_1296_codecrafters-io-build-your-own-x](reels/reel_1296_codecrafters-io-build-your-own-x) |
 | 1297 | 2025-11-24 18:28:07 | [BeRo1985/pasvulkan](https://github.com/BeRo1985/pasvulkan) | ✅ readme_only (207⭐ Pascal) | [reels/reel_1297_BeRo1985-pasvulkan](reels/reel_1297_BeRo1985-pasvulkan) |
+| 1298 | 2025-11-24 18:52:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120392⭐ Python) | [reels/reel_1298_langchain-ai-langchain](reels/reel_1298_langchain-ai-langchain) |
