@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1283 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-24 |
+| #1284 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1350,3 +1350,4 @@ Or let GitHub Action run it automatically.
 | 1281 | 2025-11-24 11:49:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259694⭐ None) | [reels/reel_1281_awesome-selfhosted-awesome-selfhosted](reels/reel_1281_awesome-selfhosted-awesome-selfhosted) |
 | 1282 | 2025-11-24 12:38:46 | [AI-Hypercomputer/xpk](https://github.com/AI-Hypercomputer/xpk) | ✅ full (153⭐ Python) | [reels/reel_1282_AI-Hypercomputer-xpk](reels/reel_1282_AI-Hypercomputer-xpk) |
 | 1283 | 2025-11-24 13:22:07 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179904⭐ Python) | [reels/reel_1283_Significant-Gravitas-AutoGPT](reels/reel_1283_Significant-Gravitas-AutoGPT) |
+| 1284 | 2025-11-24 13:50:34 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96679⭐ TypeScript) | [reels/reel_1284_ant-design-ant-design](reels/reel_1284_ant-design-ant-design) |
