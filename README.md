@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1299 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-24 |
+| #1300 | [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | Scala · ⭐ 796 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1366,3 +1366,4 @@ Or let GitHub Action run it automatically.
 | 1297 | 2025-11-24 18:28:07 | [BeRo1985/pasvulkan](https://github.com/BeRo1985/pasvulkan) | ✅ readme_only (207⭐ Pascal) | [reels/reel_1297_BeRo1985-pasvulkan](reels/reel_1297_BeRo1985-pasvulkan) |
 | 1298 | 2025-11-24 18:52:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120392⭐ Python) | [reels/reel_1298_langchain-ai-langchain](reels/reel_1298_langchain-ai-langchain) |
 | 1299 | 2025-11-24 19:16:02 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91507⭐ None) | [reels/reel_1299_deepseek-ai-DeepSeek-R1](reels/reel_1299_deepseek-ai-DeepSeek-R1) |
+| 1300 | 2025-11-24 19:37:26 | [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) | ✅ readme_only (796⭐ Scala) | [reels/reel_1300_plokhotnyuk-jsoniter-scala](reels/reel_1300_plokhotnyuk-jsoniter-scala) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1300,
+  "recorded": "2025-11-24 19:37:26 UTC",
+  "repository": {
+    "full_name": "plokhotnyuk/jsoniter-scala",
+    "url": "https://github.com/plokhotnyuk/jsoniter-scala",
+    "clone_url": "https://github.com/plokhotnyuk/jsoniter-scala.git",
+    "stars": 796,
+    "language": "Scala",
+    "size_kb": 7554097
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 7377,
+    "duration_seconds": 0.000117
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Scala",
+    "director_note": "A Scala repository. 796 stars."
+  }
+}
