@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1287 | [Cap-go/capgo](https://github.com/Cap-go/capgo) | TypeScript · ⭐ 173 | 2025-11-24 |
+| #1288 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1354,3 +1354,4 @@ Or let GitHub Action run it automatically.
 | 1285 | 2025-11-24 14:19:02 | [warpme/minimyth2](https://github.com/warpme/minimyth2) | ✅ shallow (108⭐ Makefile) | [reels/reel_1285_warpme-minimyth2](reels/reel_1285_warpme-minimyth2) |
 | 1286 | 2025-11-24 14:46:01 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (659⭐ Tcl) | [reels/reel_1286_rust-lang-crates.io-index](reels/reel_1286_rust-lang-crates.io-index) |
 | 1287 | 2025-11-24 14:56:20 | [Cap-go/capgo](https://github.com/Cap-go/capgo) | ✅ shallow (173⭐ TypeScript) | [reels/reel_1287_Cap-go-capgo](reels/reel_1287_Cap-go-capgo) |
+| 1288 | 2025-11-24 15:24:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102908⭐ TypeScript) | [reels/reel_1288_iptv-org-iptv](reels/reel_1288_iptv-org-iptv) |
