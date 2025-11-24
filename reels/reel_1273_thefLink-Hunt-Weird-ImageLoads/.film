@@ -1,0 +1,24 @@
+{
+  "reel_number": 1273,
+  "recorded": "2025-11-24 08:27:05 UTC",
+  "repository": {
+    "full_name": "thefLink/Hunt-Weird-ImageLoads",
+    "url": "https://github.com/thefLink/Hunt-Weird-ImageLoads",
+    "clone_url": "https://github.com/thefLink/Hunt-Weird-ImageLoads.git",
+    "stars": 42,
+    "language": "C++",
+    "size_kb": 113
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.134262
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 42 stars."
+  }
+}

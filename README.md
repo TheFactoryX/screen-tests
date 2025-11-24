@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1272 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 380k | 2025-11-24 |
+| #1273 | [thefLink/Hunt-Weird-ImageLoads](https://github.com/thefLink/Hunt-Weird-ImageLoads) | C++ · ⭐ 42 | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1339,3 +1339,4 @@ Or let GitHub Action run it automatically.
 | 1270 | 2025-11-24 07:18:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158275⭐ TypeScript) | [reels/reel_1270_n8n-io-n8n](reels/reel_1270_n8n-io-n8n) |
 | 1271 | 2025-11-24 07:39:21 | [r-spatialecology/landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) | ✅ full (253⭐ R) | [reels/reel_1271_r-spatialecology-landscapemetrics](reels/reel_1271_r-spatialecology-landscapemetrics) |
 | 1272 | 2025-11-24 07:50:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380543⭐ Python) | [reels/reel_1272_public-apis-public-apis](reels/reel_1272_public-apis-public-apis) |
+| 1273 | 2025-11-24 08:27:05 | [thefLink/Hunt-Weird-ImageLoads](https://github.com/thefLink/Hunt-Weird-ImageLoads) | ✅ full (42⭐ C++) | [reels/reel_1273_thefLink-Hunt-Weird-ImageLoads](reels/reel_1273_thefLink-Hunt-Weird-ImageLoads) |
