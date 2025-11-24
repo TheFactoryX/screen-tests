@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1271 | [r-spatialecology/landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) | R · ⭐ 253 | 2025-11-24 |
+| #1272 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 380k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1338,3 +1338,4 @@ Or let GitHub Action run it automatically.
 | 1269 | 2025-11-24 06:53:34 | [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) | ✅ full (2447⭐ TypeScript) | [reels/reel_1269_danielsogl-awesome-cordova-plugins](reels/reel_1269_danielsogl-awesome-cordova-plugins) |
 | 1270 | 2025-11-24 07:18:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158275⭐ TypeScript) | [reels/reel_1270_n8n-io-n8n](reels/reel_1270_n8n-io-n8n) |
 | 1271 | 2025-11-24 07:39:21 | [r-spatialecology/landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) | ✅ full (253⭐ R) | [reels/reel_1271_r-spatialecology-landscapemetrics](reels/reel_1271_r-spatialecology-landscapemetrics) |
+| 1272 | 2025-11-24 07:50:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380543⭐ Python) | [reels/reel_1272_public-apis-public-apis](reels/reel_1272_public-apis-public-apis) |
