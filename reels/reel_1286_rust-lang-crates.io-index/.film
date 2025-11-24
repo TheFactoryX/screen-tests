@@ -1,0 +1,24 @@
+{
+  "reel_number": 1286,
+  "recorded": "2025-11-24 14:46:01 UTC",
+  "repository": {
+    "full_name": "rust-lang/crates.io-index",
+    "url": "https://github.com/rust-lang/crates.io-index",
+    "clone_url": "https://github.com/rust-lang/crates.io-index.git",
+    "stars": 659,
+    "language": "Tcl",
+    "size_kb": 210147
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 205,
+    "duration_seconds": 53.921372
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Tcl",
+    "director_note": "A Tcl repository. 659 stars."
+  }
+}
