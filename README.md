@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1291 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-24 |
+| #1292 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1358,3 +1358,4 @@ Or let GitHub Action run it automatically.
 | 1289 | 2025-11-24 15:44:05 | [LODSContent/ChallengeLabs_Resources](https://github.com/LODSContent/ChallengeLabs_Resources) | ✅ shallow (12⭐ JavaScript) | [reels/reel_1289_LODSContent-ChallengeLabs_Resources](reels/reel_1289_LODSContent-ChallengeLabs_Resources) |
 | 1290 | 2025-11-24 15:55:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136124⭐ Python) | [reels/reel_1290_yt-dlp-yt-dlp](reels/reel_1290_yt-dlp-yt-dlp) |
 | 1291 | 2025-11-24 16:22:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108049⭐ Rust) | [reels/reel_1291_rust-lang-rust](reels/reel_1291_rust-lang-rust) |
+| 1292 | 2025-11-24 16:45:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136130⭐ Python) | [reels/reel_1292_yt-dlp-yt-dlp](reels/reel_1292_yt-dlp-yt-dlp) |
