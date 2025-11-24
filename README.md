@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1261 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-11-24 |
+| #1262 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 102k | 2025-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -1328,3 +1328,4 @@ Or let GitHub Action run it automatically.
 | 1259 | 2025-11-23 23:37:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116042⭐ JavaScript) | [reels/reel_1259_open-webui-open-webui](reels/reel_1259_open-webui-open-webui) |
 | 1260 | 2025-11-23 23:50:18 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96662⭐ TypeScript) | [reels/reel_1260_ant-design-ant-design](reels/reel_1260_ant-design-ant-design) |
 | 1261 | 2025-11-24 01:27:43 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101139⭐ None) | [reels/reel_1261_Hack-with-Github-Awesome-Hacking](reels/reel_1261_Hack-with-Github-Awesome-Hacking) |
+| 1262 | 2025-11-24 03:11:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (102804⭐ TypeScript) | [reels/reel_1262_iptv-org-iptv](reels/reel_1262_iptv-org-iptv) |
