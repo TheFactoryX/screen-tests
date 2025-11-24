@@ -1,0 +1,24 @@
+{
+  "reel_number": 1280,
+  "recorded": "2025-11-24 11:38:37 UTC",
+  "repository": {
+    "full_name": "deezertidal/private",
+    "url": "https://github.com/deezertidal/private",
+    "clone_url": "https://github.com/deezertidal/private.git",
+    "stars": 786,
+    "language": "JavaScript",
+    "size_kb": 8984992
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 8774,
+    "duration_seconds": 0.000131
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 786 stars."
+  }
+}
