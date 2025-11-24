@@ -1,0 +1,24 @@
+{
+  "reel_number": 1285,
+  "recorded": "2025-11-24 14:19:02 UTC",
+  "repository": {
+    "full_name": "warpme/minimyth2",
+    "url": "https://github.com/warpme/minimyth2",
+    "clone_url": "https://github.com/warpme/minimyth2.git",
+    "stars": 108,
+    "language": "Makefile",
+    "size_kb": 199127
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 194,
+    "duration_seconds": 1.270279
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Makefile",
+    "director_note": "A Makefile repository. 108 stars."
+  }
+}
