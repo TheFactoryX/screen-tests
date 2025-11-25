@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1343 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-11-25 |
+| #1344 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1410,3 +1410,4 @@ Or let GitHub Action run it automatically.
 | 1341 | 2025-11-25 14:45:29 | [myfear/ejq_substack_articles](https://github.com/myfear/ejq_substack_articles) | ✅ full (46⭐ Java) | [reels/reel_1341_myfear-ejq_substack_articles](reels/reel_1341_myfear-ejq_substack_articles) |
 | 1342 | 2025-11-25 15:20:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139331⭐ Python) | [reels/reel_1342_langflow-ai-langflow](reels/reel_1342_langflow-ai-langflow) |
 | 1343 | 2025-11-25 15:44:17 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101250⭐ None) | [reels/reel_1343_Hack-with-Github-Awesome-Hacking](reels/reel_1343_Hack-with-Github-Awesome-Hacking) |
+| 1344 | 2025-11-25 15:56:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116224⭐ Svelte) | [reels/reel_1344_open-webui-open-webui](reels/reel_1344_open-webui-open-webui) |
