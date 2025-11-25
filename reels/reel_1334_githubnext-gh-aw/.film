@@ -1,0 +1,24 @@
+{
+  "reel_number": 1334,
+  "recorded": "2025-11-25 11:16:50 UTC",
+  "repository": {
+    "full_name": "githubnext/gh-aw",
+    "url": "https://github.com/githubnext/gh-aw",
+    "clone_url": "https://github.com/githubnext/gh-aw.git",
+    "stars": 247,
+    "language": "Go",
+    "size_kb": 130502
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 127,
+    "duration_seconds": 1.514332
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 247 stars."
+  }
+}
