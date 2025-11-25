@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1316 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-25 |
+| #1317 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1383,3 +1383,4 @@ Or let GitHub Action run it automatically.
 | 1314 | 2025-11-25 01:22:51 | [delta-io/delta-kernel-rs](https://github.com/delta-io/delta-kernel-rs) | ✅ full (292⭐ Rust) | [reels/reel_1314_delta-io-delta-kernel-rs](reels/reel_1314_delta-io-delta-kernel-rs) |
 | 1315 | 2025-11-25 02:58:08 | [department-of-veterans-affairs/wtf-bot](https://github.com/department-of-veterans-affairs/wtf-bot) | ✅ full (11⭐ Python) | [reels/reel_1315_department-of-veterans-affairs-wtf-bot](reels/reel_1315_department-of-veterans-affairs-wtf-bot) |
 | 1316 | 2025-11-25 03:50:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139276⭐ Python) | [reels/reel_1316_langflow-ai-langflow](reels/reel_1316_langflow-ai-langflow) |
+| 1317 | 2025-11-25 04:24:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108062⭐ Rust) | [reels/reel_1317_rust-lang-rust](reels/reel_1317_rust-lang-rust) |
