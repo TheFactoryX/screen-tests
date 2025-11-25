@@ -1,0 +1,24 @@
+{
+  "reel_number": 1346,
+  "recorded": "2025-11-25 16:53:29 UTC",
+  "repository": {
+    "full_name": "obot-platform/obot",
+    "url": "https://github.com/obot-platform/obot",
+    "clone_url": "https://github.com/obot-platform/obot.git",
+    "stars": 468,
+    "language": "Go",
+    "size_kb": 33205
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 1.499128
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 468 stars."
+  }
+}

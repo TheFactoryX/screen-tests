@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1345 | [fibo/flow-view](https://github.com/fibo/flow-view) | JavaScript · ⭐ 193 | 2025-11-25 |
+| #1346 | [obot-platform/obot](https://github.com/obot-platform/obot) | Go · ⭐ 468 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1412,3 +1412,4 @@ Or let GitHub Action run it automatically.
 | 1343 | 2025-11-25 15:44:17 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101250⭐ None) | [reels/reel_1343_Hack-with-Github-Awesome-Hacking](reels/reel_1343_Hack-with-Github-Awesome-Hacking) |
 | 1344 | 2025-11-25 15:56:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116224⭐ Svelte) | [reels/reel_1344_open-webui-open-webui](reels/reel_1344_open-webui-open-webui) |
 | 1345 | 2025-11-25 16:27:50 | [fibo/flow-view](https://github.com/fibo/flow-view) | ✅ full (193⭐ JavaScript) | [reels/reel_1345_fibo-flow-view](reels/reel_1345_fibo-flow-view) |
+| 1346 | 2025-11-25 16:53:29 | [obot-platform/obot](https://github.com/obot-platform/obot) | ✅ full (468⭐ Go) | [reels/reel_1346_obot-platform-obot](reels/reel_1346_obot-platform-obot) |
