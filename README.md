@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1336 | [fboucher/AzSubscriptionCleaner](https://github.com/fboucher/AzSubscriptionCleaner) | PowerShell · ⭐ 38 | 2025-11-25 |
+| #1337 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1403,3 +1403,4 @@ Or let GitHub Action run it automatically.
 | 1334 | 2025-11-25 11:16:50 | [githubnext/gh-aw](https://github.com/githubnext/gh-aw) | ✅ shallow (247⭐ Go) | [reels/reel_1334_githubnext-gh-aw](reels/reel_1334_githubnext-gh-aw) |
 | 1335 | 2025-11-25 11:38:59 | [archercreat/api-tracer](https://github.com/archercreat/api-tracer) | ✅ full (16⭐ C) | [reels/reel_1335_archercreat-api-tracer](reels/reel_1335_archercreat-api-tracer) |
 | 1336 | 2025-11-25 11:50:18 | [fboucher/AzSubscriptionCleaner](https://github.com/fboucher/AzSubscriptionCleaner) | ✅ full (38⭐ PowerShell) | [reels/reel_1336_fboucher-AzSubscriptionCleaner](reels/reel_1336_fboucher-AzSubscriptionCleaner) |
+| 1337 | 2025-11-25 12:39:03 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91512⭐ None) | [reels/reel_1337_deepseek-ai-DeepSeek-R1](reels/reel_1337_deepseek-ai-DeepSeek-R1) |
