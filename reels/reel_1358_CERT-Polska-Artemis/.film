@@ -1,0 +1,24 @@
+{
+  "reel_number": 1358,
+  "recorded": "2025-11-25 21:17:19 UTC",
+  "repository": {
+    "full_name": "CERT-Polska/Artemis",
+    "url": "https://github.com/CERT-Polska/Artemis",
+    "clone_url": "https://github.com/CERT-Polska/Artemis.git",
+    "stars": 974,
+    "language": "Python",
+    "size_kb": 8346
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.532026
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 974 stars."
+  }
+}
