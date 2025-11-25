@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1339 | [he0119/CoolQBot](https://github.com/he0119/CoolQBot) | Python · ⭐ 91 | 2025-11-25 |
+| #1340 | [shapeshift/web](https://github.com/shapeshift/web) | TypeScript · ⭐ 198 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1406,3 +1406,4 @@ Or let GitHub Action run it automatically.
 | 1337 | 2025-11-25 12:39:03 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91512⭐ None) | [reels/reel_1337_deepseek-ai-DeepSeek-R1](reels/reel_1337_deepseek-ai-DeepSeek-R1) |
 | 1338 | 2025-11-25 13:22:15 | [Dao-AILab/quack](https://github.com/Dao-AILab/quack) | ✅ full (670⭐ Python) | [reels/reel_1338_Dao-AILab-quack](reels/reel_1338_Dao-AILab-quack) |
 | 1339 | 2025-11-25 13:49:56 | [he0119/CoolQBot](https://github.com/he0119/CoolQBot) | ✅ full (91⭐ Python) | [reels/reel_1339_he0119-CoolQBot](reels/reel_1339_he0119-CoolQBot) |
+| 1340 | 2025-11-25 14:18:50 | [shapeshift/web](https://github.com/shapeshift/web) | ✅ readme_only (198⭐ TypeScript) | [reels/reel_1340_shapeshift-web](reels/reel_1340_shapeshift-web) |

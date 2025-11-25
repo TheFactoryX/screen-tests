@@ -1,0 +1,24 @@
+{
+  "reel_number": 1340,
+  "recorded": "2025-11-25 14:18:50 UTC",
+  "repository": {
+    "full_name": "shapeshift/web",
+    "url": "https://github.com/shapeshift/web",
+    "clone_url": "https://github.com/shapeshift/web.git",
+    "stars": 198,
+    "language": "TypeScript",
+    "size_kb": 1110747
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1084,
+    "duration_seconds": 0.000141
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 198 stars."
+  }
+}
