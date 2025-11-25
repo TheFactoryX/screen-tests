@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1323 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-25 |
+| #1324 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1390,3 +1390,4 @@ Or let GitHub Action run it automatically.
 | 1321 | 2025-11-25 05:53:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259794⭐ None) | [reels/reel_1321_awesome-selfhosted-awesome-selfhosted](reels/reel_1321_awesome-selfhosted-awesome-selfhosted) |
 | 1322 | 2025-11-25 06:29:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136175⭐ Python) | [reels/reel_1322_yt-dlp-yt-dlp](reels/reel_1322_yt-dlp-yt-dlp) |
 | 1323 | 2025-11-25 06:55:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139290⭐ Python) | [reels/reel_1323_langflow-ai-langflow](reels/reel_1323_langflow-ai-langflow) |
+| 1324 | 2025-11-25 07:18:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108064⭐ Rust) | [reels/reel_1324_rust-lang-rust](reels/reel_1324_rust-lang-rust) |
