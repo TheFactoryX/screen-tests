@@ -1,0 +1,24 @@
+{
+  "reel_number": 1357,
+  "recorded": "2025-11-25 20:53:48 UTC",
+  "repository": {
+    "full_name": "google/dawn",
+    "url": "https://github.com/google/dawn",
+    "clone_url": "https://github.com/google/dawn.git",
+    "stars": 781,
+    "language": "C++",
+    "size_kb": 410433
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 400,
+    "duration_seconds": 7.971723
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 781 stars."
+  }
+}

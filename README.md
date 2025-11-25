@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1356 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-25 |
+| #1357 | [google/dawn](https://github.com/google/dawn) | C++ · ⭐ 781 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1423,3 +1423,4 @@ Or let GitHub Action run it automatically.
 | 1354 | 2025-11-25 19:49:53 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108080⭐ Rust) | [reels/reel_1354_rust-lang-rust](reels/reel_1354_rust-lang-rust) |
 | 1355 | 2025-11-25 20:20:35 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108080⭐ Rust) | [reels/reel_1355_rust-lang-rust](reels/reel_1355_rust-lang-rust) |
 | 1356 | 2025-11-25 20:42:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139347⭐ Python) | [reels/reel_1356_langflow-ai-langflow](reels/reel_1356_langflow-ai-langflow) |
+| 1357 | 2025-11-25 20:53:48 | [google/dawn](https://github.com/google/dawn) | ✅ shallow (781⭐ C++) | [reels/reel_1357_google-dawn](reels/reel_1357_google-dawn) |
