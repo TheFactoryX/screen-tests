@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1321 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 259k | 2025-11-25 |
+| #1322 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1388,3 +1388,4 @@ Or let GitHub Action run it automatically.
 | 1319 | 2025-11-25 05:18:54 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138912⭐ Python) | [reels/reel_1319_ytdl-org-youtube-dl](reels/reel_1319_ytdl-org-youtube-dl) |
 | 1320 | 2025-11-25 05:43:03 | [cataclysmbnteam/Cataclysm-BN](https://github.com/cataclysmbnteam/Cataclysm-BN) | ✅ readme_only (911⭐ C++) | [reels/reel_1320_cataclysmbnteam-Cataclysm-BN](reels/reel_1320_cataclysmbnteam-Cataclysm-BN) |
 | 1321 | 2025-11-25 05:53:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (259794⭐ None) | [reels/reel_1321_awesome-selfhosted-awesome-selfhosted](reels/reel_1321_awesome-selfhosted-awesome-selfhosted) |
+| 1322 | 2025-11-25 06:29:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136175⭐ Python) | [reels/reel_1322_yt-dlp-yt-dlp](reels/reel_1322_yt-dlp-yt-dlp) |
