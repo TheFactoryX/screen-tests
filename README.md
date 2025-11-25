@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1352 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 380k | 2025-11-25 |
+| #1353 | [jimmyhmiller/PlayGround](https://github.com/jimmyhmiller/PlayGround) | Rust · ⭐ 21 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1419,3 +1419,4 @@ Or let GitHub Action run it automatically.
 | 1350 | 2025-11-25 18:28:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100556⭐ Shell) | [reels/reel_1350_papers-we-love-papers-we-love](reels/reel_1350_papers-we-love-papers-we-love) |
 | 1351 | 2025-11-25 18:51:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158631⭐ TypeScript) | [reels/reel_1351_n8n-io-n8n](reels/reel_1351_n8n-io-n8n) |
 | 1352 | 2025-11-25 19:15:45 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380933⭐ Python) | [reels/reel_1352_public-apis-public-apis](reels/reel_1352_public-apis-public-apis) |
+| 1353 | 2025-11-25 19:38:39 | [jimmyhmiller/PlayGround](https://github.com/jimmyhmiller/PlayGround) | ✅ shallow (21⭐ Rust) | [reels/reel_1353_jimmyhmiller-PlayGround](reels/reel_1353_jimmyhmiller-PlayGround) |
