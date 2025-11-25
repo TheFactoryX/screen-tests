@@ -1,0 +1,24 @@
+{
+  "reel_number": 1339,
+  "recorded": "2025-11-25 13:49:56 UTC",
+  "repository": {
+    "full_name": "he0119/CoolQBot",
+    "url": "https://github.com/he0119/CoolQBot",
+    "clone_url": "https://github.com/he0119/CoolQBot.git",
+    "stars": 91,
+    "language": "Python",
+    "size_kb": 10589
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.133104
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 91 stars."
+  }
+}
