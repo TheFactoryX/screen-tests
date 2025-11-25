@@ -1,0 +1,24 @@
+{
+  "reel_number": 1315,
+  "recorded": "2025-11-25 02:58:08 UTC",
+  "repository": {
+    "full_name": "department-of-veterans-affairs/wtf-bot",
+    "url": "https://github.com/department-of-veterans-affairs/wtf-bot",
+    "clone_url": "https://github.com/department-of-veterans-affairs/wtf-bot.git",
+    "stars": 11,
+    "language": "Python",
+    "size_kb": 295
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.476534
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 11 stars."
+  }
+}
