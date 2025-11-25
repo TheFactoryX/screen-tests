@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1365 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-25 |
+| #1366 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1432,3 +1432,4 @@ Or let GitHub Action run it automatically.
 | 1363 | 2025-11-25 22:51:26 | [PureMVC/puremvc-js-multicore-framework](https://github.com/PureMVC/puremvc-js-multicore-framework) | ✅ full (141⭐ JavaScript) | [reels/reel_1363_PureMVC-puremvc-js-multicore-framework](reels/reel_1363_PureMVC-puremvc-js-multicore-framework) |
 | 1364 | 2025-11-25 23:16:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158662⭐ TypeScript) | [reels/reel_1364_n8n-io-n8n](reels/reel_1364_n8n-io-n8n) |
 | 1365 | 2025-11-25 23:38:24 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100707⭐ TypeScript) | [reels/reel_1365_shadcn-ui-ui](reels/reel_1365_shadcn-ui-ui) |
+| 1366 | 2025-11-25 23:50:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116244⭐ Svelte) | [reels/reel_1366_open-webui-open-webui](reels/reel_1366_open-webui-open-webui) |
