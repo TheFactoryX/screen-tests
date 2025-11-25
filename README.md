@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1355 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-25 |
+| #1356 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1422,3 +1422,4 @@ Or let GitHub Action run it automatically.
 | 1353 | 2025-11-25 19:38:39 | [jimmyhmiller/PlayGround](https://github.com/jimmyhmiller/PlayGround) | ✅ shallow (21⭐ Rust) | [reels/reel_1353_jimmyhmiller-PlayGround](reels/reel_1353_jimmyhmiller-PlayGround) |
 | 1354 | 2025-11-25 19:49:53 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108080⭐ Rust) | [reels/reel_1354_rust-lang-rust](reels/reel_1354_rust-lang-rust) |
 | 1355 | 2025-11-25 20:20:35 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108080⭐ Rust) | [reels/reel_1355_rust-lang-rust](reels/reel_1355_rust-lang-rust) |
+| 1356 | 2025-11-25 20:42:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139347⭐ Python) | [reels/reel_1356_langflow-ai-langflow](reels/reel_1356_langflow-ai-langflow) |
