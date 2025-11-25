@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1337 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-25 |
+| #1338 | [Dao-AILab/quack](https://github.com/Dao-AILab/quack) | Python · ⭐ 670 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1404,3 +1404,4 @@ Or let GitHub Action run it automatically.
 | 1335 | 2025-11-25 11:38:59 | [archercreat/api-tracer](https://github.com/archercreat/api-tracer) | ✅ full (16⭐ C) | [reels/reel_1335_archercreat-api-tracer](reels/reel_1335_archercreat-api-tracer) |
 | 1336 | 2025-11-25 11:50:18 | [fboucher/AzSubscriptionCleaner](https://github.com/fboucher/AzSubscriptionCleaner) | ✅ full (38⭐ PowerShell) | [reels/reel_1336_fboucher-AzSubscriptionCleaner](reels/reel_1336_fboucher-AzSubscriptionCleaner) |
 | 1337 | 2025-11-25 12:39:03 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91512⭐ None) | [reels/reel_1337_deepseek-ai-DeepSeek-R1](reels/reel_1337_deepseek-ai-DeepSeek-R1) |
+| 1338 | 2025-11-25 13:22:15 | [Dao-AILab/quack](https://github.com/Dao-AILab/quack) | ✅ full (670⭐ Python) | [reels/reel_1338_Dao-AILab-quack](reels/reel_1338_Dao-AILab-quack) |
