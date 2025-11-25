@@ -1,0 +1,24 @@
+{
+  "reel_number": 1320,
+  "recorded": "2025-11-25 05:43:03 UTC",
+  "repository": {
+    "full_name": "cataclysmbnteam/Cataclysm-BN",
+    "url": "https://github.com/cataclysmbnteam/Cataclysm-BN",
+    "clone_url": "https://github.com/cataclysmbnteam/Cataclysm-BN.git",
+    "stars": 911,
+    "language": "C++",
+    "size_kb": 5745238
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 5610,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 911 stars."
+  }
+}
