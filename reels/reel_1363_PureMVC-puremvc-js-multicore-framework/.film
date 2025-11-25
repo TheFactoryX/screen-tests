@@ -1,0 +1,24 @@
+{
+  "reel_number": 1363,
+  "recorded": "2025-11-25 22:51:26 UTC",
+  "repository": {
+    "full_name": "PureMVC/puremvc-js-multicore-framework",
+    "url": "https://github.com/PureMVC/puremvc-js-multicore-framework",
+    "clone_url": "https://github.com/PureMVC/puremvc-js-multicore-framework.git",
+    "stars": 141,
+    "language": "JavaScript",
+    "size_kb": 17245
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 0.368375
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 141 stars."
+  }
+}

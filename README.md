@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1362 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-25 |
+| #1363 | [PureMVC/puremvc-js-multicore-framework](https://github.com/PureMVC/puremvc-js-multicore-framework) | JavaScript · ⭐ 141 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1429,3 +1429,4 @@ Or let GitHub Action run it automatically.
 | 1360 | 2025-11-25 21:50:16 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99273⭐ Rust) | [reels/reel_1360_tauri-apps-tauri](reels/reel_1360_tauri-apps-tauri) |
 | 1361 | 2025-11-25 22:18:04 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138915⭐ Python) | [reels/reel_1361_ytdl-org-youtube-dl](reels/reel_1361_ytdl-org-youtube-dl) |
 | 1362 | 2025-11-25 22:42:09 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138913⭐ Python) | [reels/reel_1362_ytdl-org-youtube-dl](reels/reel_1362_ytdl-org-youtube-dl) |
+| 1363 | 2025-11-25 22:51:26 | [PureMVC/puremvc-js-multicore-framework](https://github.com/PureMVC/puremvc-js-multicore-framework) | ✅ full (141⭐ JavaScript) | [reels/reel_1363_PureMVC-puremvc-js-multicore-framework](reels/reel_1363_PureMVC-puremvc-js-multicore-framework) |
