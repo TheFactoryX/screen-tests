@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1326 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-25 |
+| #1327 | [cilium/cilium-cli](https://github.com/cilium/cilium-cli) | Makefile · ⭐ 525 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1393,3 +1393,4 @@ Or let GitHub Action run it automatically.
 | 1324 | 2025-11-25 07:18:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108064⭐ Rust) | [reels/reel_1324_rust-lang-rust](reels/reel_1324_rust-lang-rust) |
 | 1325 | 2025-11-25 07:39:25 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136181⭐ Python) | [reels/reel_1325_yt-dlp-yt-dlp](reels/reel_1325_yt-dlp-yt-dlp) |
 | 1326 | 2025-11-25 07:50:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136183⭐ Python) | [reels/reel_1326_yt-dlp-yt-dlp](reels/reel_1326_yt-dlp-yt-dlp) |
+| 1327 | 2025-11-25 08:26:34 | [cilium/cilium-cli](https://github.com/cilium/cilium-cli) | ✅ shallow (525⭐ Makefile) | [reels/reel_1327_cilium-cilium-cli](reels/reel_1327_cilium-cilium-cli) |
