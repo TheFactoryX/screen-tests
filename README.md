@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1331 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-25 |
+| #1332 | [terraform-linters/tflint-ruleset-opa](https://github.com/terraform-linters/tflint-ruleset-opa) | Go · ⭐ 82 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1398,3 +1398,4 @@ Or let GitHub Action run it automatically.
 | 1329 | 2025-11-25 09:21:25 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380828⭐ Python) | [reels/reel_1329_public-apis-public-apis](reels/reel_1329_public-apis-public-apis) |
 | 1330 | 2025-11-25 09:44:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158514⭐ TypeScript) | [reels/reel_1330_n8n-io-n8n](reels/reel_1330_n8n-io-n8n) |
 | 1331 | 2025-11-25 09:55:22 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100541⭐ Shell) | [reels/reel_1331_papers-we-love-papers-we-love](reels/reel_1331_papers-we-love-papers-we-love) |
+| 1332 | 2025-11-25 10:22:16 | [terraform-linters/tflint-ruleset-opa](https://github.com/terraform-linters/tflint-ruleset-opa) | ✅ full (82⭐ Go) | [reels/reel_1332_terraform-linters-tflint-ruleset-opa](reels/reel_1332_terraform-linters-tflint-ruleset-opa) |
