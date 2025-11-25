@@ -1,0 +1,24 @@
+{
+  "reel_number": 1318,
+  "recorded": "2025-11-25 04:46:25 UTC",
+  "repository": {
+    "full_name": "barry-far/V2ray-Config",
+    "url": "https://github.com/barry-far/V2ray-Config",
+    "clone_url": "https://github.com/barry-far/V2ray-Config.git",
+    "stars": 786,
+    "language": "Python",
+    "size_kb": 6532329
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 6379,
+    "duration_seconds": 0.000145
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 786 stars."
+  }
+}
