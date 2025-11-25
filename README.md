@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1359 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-25 |
+| #1360 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1426,3 +1426,4 @@ Or let GitHub Action run it automatically.
 | 1357 | 2025-11-25 20:53:48 | [google/dawn](https://github.com/google/dawn) | ✅ shallow (781⭐ C++) | [reels/reel_1357_google-dawn](reels/reel_1357_google-dawn) |
 | 1358 | 2025-11-25 21:17:19 | [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) | ✅ full (974⭐ Python) | [reels/reel_1358_CERT-Polska-Artemis](reels/reel_1358_CERT-Polska-Artemis) |
 | 1359 | 2025-11-25 21:38:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158651⭐ TypeScript) | [reels/reel_1359_n8n-io-n8n](reels/reel_1359_n8n-io-n8n) |
+| 1360 | 2025-11-25 21:50:16 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99273⭐ Rust) | [reels/reel_1360_tauri-apps-tauri](reels/reel_1360_tauri-apps-tauri) |
