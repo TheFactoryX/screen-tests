@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1327 | [cilium/cilium-cli](https://github.com/cilium/cilium-cli) | Makefile · ⭐ 525 | 2025-11-25 |
+| #1328 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1394,3 +1394,4 @@ Or let GitHub Action run it automatically.
 | 1325 | 2025-11-25 07:39:25 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136181⭐ Python) | [reels/reel_1325_yt-dlp-yt-dlp](reels/reel_1325_yt-dlp-yt-dlp) |
 | 1326 | 2025-11-25 07:50:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136183⭐ Python) | [reels/reel_1326_yt-dlp-yt-dlp](reels/reel_1326_yt-dlp-yt-dlp) |
 | 1327 | 2025-11-25 08:26:34 | [cilium/cilium-cli](https://github.com/cilium/cilium-cli) | ✅ shallow (525⭐ Makefile) | [reels/reel_1327_cilium-cilium-cli](reels/reel_1327_cilium-cilium-cli) |
+| 1328 | 2025-11-25 08:51:24 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158501⭐ TypeScript) | [reels/reel_1328_n8n-io-n8n](reels/reel_1328_n8n-io-n8n) |
