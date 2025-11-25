@@ -1,0 +1,24 @@
+{
+  "reel_number": 1349,
+  "recorded": "2025-11-25 17:52:23 UTC",
+  "repository": {
+    "full_name": "JieYangBruce/TorqueClustering",
+    "url": "https://github.com/JieYangBruce/TorqueClustering",
+    "clone_url": "https://github.com/JieYangBruce/TorqueClustering.git",
+    "stars": 165,
+    "language": "MATLAB",
+    "size_kb": 1308
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.537107
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MATLAB",
+    "director_note": "A MATLAB repository. 165 stars."
+  }
+}

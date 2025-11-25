@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1348 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-25 |
+| #1349 | [JieYangBruce/TorqueClustering](https://github.com/JieYangBruce/TorqueClustering) | MATLAB · ⭐ 165 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1415,3 +1415,4 @@ Or let GitHub Action run it automatically.
 | 1346 | 2025-11-25 16:53:29 | [obot-platform/obot](https://github.com/obot-platform/obot) | ✅ full (468⭐ Go) | [reels/reel_1346_obot-platform-obot](reels/reel_1346_obot-platform-obot) |
 | 1347 | 2025-11-25 17:18:32 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103093⭐ TypeScript) | [reels/reel_1347_iptv-org-iptv](reels/reel_1347_iptv-org-iptv) |
 | 1348 | 2025-11-25 17:44:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116224⭐ Svelte) | [reels/reel_1348_open-webui-open-webui](reels/reel_1348_open-webui-open-webui) |
+| 1349 | 2025-11-25 17:52:23 | [JieYangBruce/TorqueClustering](https://github.com/JieYangBruce/TorqueClustering) | ✅ full (165⭐ MATLAB) | [reels/reel_1349_JieYangBruce-TorqueClustering](reels/reel_1349_JieYangBruce-TorqueClustering) |
