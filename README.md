@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1334 | [githubnext/gh-aw](https://github.com/githubnext/gh-aw) | Go · ⭐ 247 | 2025-11-25 |
+| #1335 | [archercreat/api-tracer](https://github.com/archercreat/api-tracer) | C · ⭐ 16 | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1401,3 +1401,4 @@ Or let GitHub Action run it automatically.
 | 1332 | 2025-11-25 10:22:16 | [terraform-linters/tflint-ruleset-opa](https://github.com/terraform-linters/tflint-ruleset-opa) | ✅ full (82⭐ Go) | [reels/reel_1332_terraform-linters-tflint-ruleset-opa](reels/reel_1332_terraform-linters-tflint-ruleset-opa) |
 | 1333 | 2025-11-25 10:48:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179933⭐ Python) | [reels/reel_1333_Significant-Gravitas-AutoGPT](reels/reel_1333_Significant-Gravitas-AutoGPT) |
 | 1334 | 2025-11-25 11:16:50 | [githubnext/gh-aw](https://github.com/githubnext/gh-aw) | ✅ shallow (247⭐ Go) | [reels/reel_1334_githubnext-gh-aw](reels/reel_1334_githubnext-gh-aw) |
+| 1335 | 2025-11-25 11:38:59 | [archercreat/api-tracer](https://github.com/archercreat/api-tracer) | ✅ full (16⭐ C) | [reels/reel_1335_archercreat-api-tracer](reels/reel_1335_archercreat-api-tracer) |
