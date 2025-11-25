@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1350 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-25 |
+| #1351 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1417,3 +1417,4 @@ Or let GitHub Action run it automatically.
 | 1348 | 2025-11-25 17:44:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116224⭐ Svelte) | [reels/reel_1348_open-webui-open-webui](reels/reel_1348_open-webui-open-webui) |
 | 1349 | 2025-11-25 17:52:23 | [JieYangBruce/TorqueClustering](https://github.com/JieYangBruce/TorqueClustering) | ✅ full (165⭐ MATLAB) | [reels/reel_1349_JieYangBruce-TorqueClustering](reels/reel_1349_JieYangBruce-TorqueClustering) |
 | 1350 | 2025-11-25 18:28:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100556⭐ Shell) | [reels/reel_1350_papers-we-love-papers-we-love](reels/reel_1350_papers-we-love-papers-we-love) |
+| 1351 | 2025-11-25 18:51:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158631⭐ TypeScript) | [reels/reel_1351_n8n-io-n8n](reels/reel_1351_n8n-io-n8n) |
