@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1351 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-25 |
+| #1352 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 380k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1418,3 +1418,4 @@ Or let GitHub Action run it automatically.
 | 1349 | 2025-11-25 17:52:23 | [JieYangBruce/TorqueClustering](https://github.com/JieYangBruce/TorqueClustering) | ✅ full (165⭐ MATLAB) | [reels/reel_1349_JieYangBruce-TorqueClustering](reels/reel_1349_JieYangBruce-TorqueClustering) |
 | 1350 | 2025-11-25 18:28:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100556⭐ Shell) | [reels/reel_1350_papers-we-love-papers-we-love](reels/reel_1350_papers-we-love-papers-we-love) |
 | 1351 | 2025-11-25 18:51:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158631⭐ TypeScript) | [reels/reel_1351_n8n-io-n8n](reels/reel_1351_n8n-io-n8n) |
+| 1352 | 2025-11-25 19:15:45 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (380933⭐ Python) | [reels/reel_1352_public-apis-public-apis](reels/reel_1352_public-apis-public-apis) |
