@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1341 | [myfear/ejq_substack_articles](https://github.com/myfear/ejq_substack_articles) | Java · ⭐ 46 | 2025-11-25 |
+| #1342 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1408,3 +1408,4 @@ Or let GitHub Action run it automatically.
 | 1339 | 2025-11-25 13:49:56 | [he0119/CoolQBot](https://github.com/he0119/CoolQBot) | ✅ full (91⭐ Python) | [reels/reel_1339_he0119-CoolQBot](reels/reel_1339_he0119-CoolQBot) |
 | 1340 | 2025-11-25 14:18:50 | [shapeshift/web](https://github.com/shapeshift/web) | ✅ readme_only (198⭐ TypeScript) | [reels/reel_1340_shapeshift-web](reels/reel_1340_shapeshift-web) |
 | 1341 | 2025-11-25 14:45:29 | [myfear/ejq_substack_articles](https://github.com/myfear/ejq_substack_articles) | ✅ full (46⭐ Java) | [reels/reel_1341_myfear-ejq_substack_articles](reels/reel_1341_myfear-ejq_substack_articles) |
+| 1342 | 2025-11-25 15:20:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139331⭐ Python) | [reels/reel_1342_langflow-ai-langflow](reels/reel_1342_langflow-ai-langflow) |
