@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1364 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-25 |
+| #1365 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -1431,3 +1431,4 @@ Or let GitHub Action run it automatically.
 | 1362 | 2025-11-25 22:42:09 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138913⭐ Python) | [reels/reel_1362_ytdl-org-youtube-dl](reels/reel_1362_ytdl-org-youtube-dl) |
 | 1363 | 2025-11-25 22:51:26 | [PureMVC/puremvc-js-multicore-framework](https://github.com/PureMVC/puremvc-js-multicore-framework) | ✅ full (141⭐ JavaScript) | [reels/reel_1363_PureMVC-puremvc-js-multicore-framework](reels/reel_1363_PureMVC-puremvc-js-multicore-framework) |
 | 1364 | 2025-11-25 23:16:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158662⭐ TypeScript) | [reels/reel_1364_n8n-io-n8n](reels/reel_1364_n8n-io-n8n) |
+| 1365 | 2025-11-25 23:38:24 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100707⭐ TypeScript) | [reels/reel_1365_shadcn-ui-ui](reels/reel_1365_shadcn-ui-ui) |
