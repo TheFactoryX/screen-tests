@@ -1,0 +1,24 @@
+{
+  "reel_number": 1314,
+  "recorded": "2025-11-25 01:22:51 UTC",
+  "repository": {
+    "full_name": "delta-io/delta-kernel-rs",
+    "url": "https://github.com/delta-io/delta-kernel-rs",
+    "clone_url": "https://github.com/delta-io/delta-kernel-rs.git",
+    "stars": 292,
+    "language": "Rust",
+    "size_kb": 25108
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 1.044115
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 292 stars."
+  }
+}
