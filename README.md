@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1396 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-26 |
+| #1397 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1462,3 +1462,4 @@ Or let GitHub Action run it automatically.
 | 1394 | 2025-11-26 14:45:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139427⭐ Python) | [reels/reel_1394_langflow-ai-langflow](reels/reel_1394_langflow-ai-langflow) |
 | 1395 | 2025-11-26 14:56:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179953⭐ Python) | [reels/reel_1395_Significant-Gravitas-AutoGPT](reels/reel_1395_Significant-Gravitas-AutoGPT) |
 | 1396 | 2025-11-26 15:19:51 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96714⭐ TypeScript) | [reels/reel_1396_ant-design-ant-design](reels/reel_1396_ant-design-ant-design) |
+| 1397 | 2025-11-26 15:42:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138928⭐ Python) | [reels/reel_1397_ytdl-org-youtube-dl](reels/reel_1397_ytdl-org-youtube-dl) |
