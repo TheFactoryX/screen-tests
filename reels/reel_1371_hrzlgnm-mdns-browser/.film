@@ -1,0 +1,24 @@
+{
+  "reel_number": 1371,
+  "recorded": "2025-11-26 04:46:29 UTC",
+  "repository": {
+    "full_name": "hrzlgnm/mdns-browser",
+    "url": "https://github.com/hrzlgnm/mdns-browser",
+    "clone_url": "https://github.com/hrzlgnm/mdns-browser.git",
+    "stars": 172,
+    "language": "Rust",
+    "size_kb": 5862
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.471072
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 172 stars."
+  }
+}

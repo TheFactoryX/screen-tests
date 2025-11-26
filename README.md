@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1370 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-26 |
+| #1371 | [hrzlgnm/mdns-browser](https://github.com/hrzlgnm/mdns-browser) | Rust · ⭐ 172 | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1437,3 +1437,4 @@ Or let GitHub Action run it automatically.
 | 1368 | 2025-11-26 02:57:55 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (443373⭐ Markdown) | [reels/reel_1368_codecrafters-io-build-your-own-x](reels/reel_1368_codecrafters-io-build-your-own-x) |
 | 1369 | 2025-11-26 03:49:59 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100393⭐ Python) | [reels/reel_1369_deepseek-ai-DeepSeek-V3](reels/reel_1369_deepseek-ai-DeepSeek-V3) |
 | 1370 | 2025-11-26 04:24:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138915⭐ Python) | [reels/reel_1370_ytdl-org-youtube-dl](reels/reel_1370_ytdl-org-youtube-dl) |
+| 1371 | 2025-11-26 04:46:29 | [hrzlgnm/mdns-browser](https://github.com/hrzlgnm/mdns-browser) | ✅ full (172⭐ Rust) | [reels/reel_1371_hrzlgnm-mdns-browser](reels/reel_1371_hrzlgnm-mdns-browser) |
