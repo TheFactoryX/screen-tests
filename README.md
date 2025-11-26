@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1401 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 103k | 2025-11-26 |
+| #1402 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1467,3 +1467,4 @@ Or let GitHub Action run it automatically.
 | 1399 | 2025-11-26 16:23:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260097⭐ None) | [reels/reel_1399_awesome-selfhosted-awesome-selfhosted](reels/reel_1399_awesome-selfhosted-awesome-selfhosted) |
 | 1400 | 2025-11-26 16:49:53 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139436⭐ Python) | [reels/reel_1400_langflow-ai-langflow](reels/reel_1400_langflow-ai-langflow) |
 | 1401 | 2025-11-26 17:16:53 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103279⭐ TypeScript) | [reels/reel_1401_iptv-org-iptv](reels/reel_1401_iptv-org-iptv) |
+| 1402 | 2025-11-26 17:41:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260103⭐ None) | [reels/reel_1402_awesome-selfhosted-awesome-selfhosted](reels/reel_1402_awesome-selfhosted-awesome-selfhosted) |
