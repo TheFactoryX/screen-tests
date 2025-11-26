@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1371 | [hrzlgnm/mdns-browser](https://github.com/hrzlgnm/mdns-browser) | Rust · ⭐ 172 | 2025-11-26 |
+| #1372 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1438,3 +1438,4 @@ Or let GitHub Action run it automatically.
 | 1369 | 2025-11-26 03:49:59 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100393⭐ Python) | [reels/reel_1369_deepseek-ai-DeepSeek-V3](reels/reel_1369_deepseek-ai-DeepSeek-V3) |
 | 1370 | 2025-11-26 04:24:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138915⭐ Python) | [reels/reel_1370_ytdl-org-youtube-dl](reels/reel_1370_ytdl-org-youtube-dl) |
 | 1371 | 2025-11-26 04:46:29 | [hrzlgnm/mdns-browser](https://github.com/hrzlgnm/mdns-browser) | ✅ full (172⭐ Rust) | [reels/reel_1371_hrzlgnm-mdns-browser](reels/reel_1371_hrzlgnm-mdns-browser) |
+| 1372 | 2025-11-26 05:18:13 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108084⭐ Rust) | [reels/reel_1372_rust-lang-rust](reels/reel_1372_rust-lang-rust) |
