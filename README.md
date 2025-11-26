@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1394 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-26 |
+| #1395 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1460,3 +1460,4 @@ Or let GitHub Action run it automatically.
 | 1392 | 2025-11-26 13:51:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139419⭐ Python) | [reels/reel_1392_langflow-ai-langflow](reels/reel_1392_langflow-ai-langflow) |
 | 1393 | 2025-11-26 14:19:26 | [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) | ✅ full (718⭐ Shell) | [reels/reel_1393_R0GGER-public-iperf3-servers](reels/reel_1393_R0GGER-public-iperf3-servers) |
 | 1394 | 2025-11-26 14:45:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139427⭐ Python) | [reels/reel_1394_langflow-ai-langflow](reels/reel_1394_langflow-ai-langflow) |
+| 1395 | 2025-11-26 14:56:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179953⭐ Python) | [reels/reel_1395_Significant-Gravitas-AutoGPT](reels/reel_1395_Significant-Gravitas-AutoGPT) |
