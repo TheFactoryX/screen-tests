@@ -1,0 +1,24 @@
+{
+  "reel_number": 1412,
+  "recorded": "2025-11-26 20:49:57 UTC",
+  "repository": {
+    "full_name": "tuist/Noora",
+    "url": "https://github.com/tuist/Noora",
+    "clone_url": "https://github.com/tuist/Noora.git",
+    "stars": 311,
+    "language": "Elixir",
+    "size_kb": 77974
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 76,
+    "duration_seconds": 2.875131
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Elixir",
+    "director_note": "A Elixir repository. 311 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1411 | [a-merezhanyi/codewars](https://github.com/a-merezhanyi/codewars) | JavaScript · ⭐ 77 | 2025-11-26 |
+| #1412 | [tuist/Noora](https://github.com/tuist/Noora) | Elixir · ⭐ 311 | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1477,3 +1477,4 @@ Or let GitHub Action run it automatically.
 | 1409 | 2025-11-26 19:50:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103293⭐ TypeScript) | [reels/reel_1409_iptv-org-iptv](reels/reel_1409_iptv-org-iptv) |
 | 1410 | 2025-11-26 20:20:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179955⭐ Python) | [reels/reel_1410_Significant-Gravitas-AutoGPT](reels/reel_1410_Significant-Gravitas-AutoGPT) |
 | 1411 | 2025-11-26 20:38:40 | [a-merezhanyi/codewars](https://github.com/a-merezhanyi/codewars) | ✅ full (77⭐ JavaScript) | [reels/reel_1411_a-merezhanyi-codewars](reels/reel_1411_a-merezhanyi-codewars) |
+| 1412 | 2025-11-26 20:49:57 | [tuist/Noora](https://github.com/tuist/Noora) | ✅ full (311⭐ Elixir) | [reels/reel_1412_tuist-Noora](reels/reel_1412_tuist-Noora) |
