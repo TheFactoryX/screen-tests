@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1416 | [dongchengjie/airport](https://github.com/dongchengjie/airport) | None · ⭐ 286 | 2025-11-26 |
+| #1417 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1482,3 +1482,4 @@ Or let GitHub Action run it automatically.
 | 1414 | 2025-11-26 21:37:55 | [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) | ✅ full (928⭐ Rust) | [reels/reel_1414_VirusTotal-yara-x](reels/reel_1414_VirusTotal-yara-x) |
 | 1415 | 2025-11-26 21:50:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108093⭐ Rust) | [reels/reel_1415_rust-lang-rust](reels/reel_1415_rust-lang-rust) |
 | 1416 | 2025-11-26 22:17:36 | [dongchengjie/airport](https://github.com/dongchengjie/airport) | ✅ full (286⭐ None) | [reels/reel_1416_dongchengjie-airport](reels/reel_1416_dongchengjie-airport) |
+| 1417 | 2025-11-26 22:41:09 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116334⭐ Svelte) | [reels/reel_1417_open-webui-open-webui](reels/reel_1417_open-webui-open-webui) |
