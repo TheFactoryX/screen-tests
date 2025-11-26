@@ -1,0 +1,24 @@
+{
+  "reel_number": 1393,
+  "recorded": "2025-11-26 14:19:26 UTC",
+  "repository": {
+    "full_name": "R0GGER/public-iperf3-servers",
+    "url": "https://github.com/R0GGER/public-iperf3-servers",
+    "clone_url": "https://github.com/R0GGER/public-iperf3-servers.git",
+    "stars": 718,
+    "language": "Shell",
+    "size_kb": 348
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.725479
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 718 stars."
+  }
+}
