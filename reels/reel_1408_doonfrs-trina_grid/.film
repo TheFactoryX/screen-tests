@@ -1,0 +1,24 @@
+{
+  "reel_number": 1408,
+  "recorded": "2025-11-26 19:40:01 UTC",
+  "repository": {
+    "full_name": "doonfrs/trina_grid",
+    "url": "https://github.com/doonfrs/trina_grid",
+    "clone_url": "https://github.com/doonfrs/trina_grid.git",
+    "stars": 123,
+    "language": "Dart",
+    "size_kb": 56875
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 1.816396
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 123 stars."
+  }
+}
