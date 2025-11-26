@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1403 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-26 |
+| #1404 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1469,3 +1469,4 @@ Or let GitHub Action run it automatically.
 | 1401 | 2025-11-26 17:16:53 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103279⭐ TypeScript) | [reels/reel_1401_iptv-org-iptv](reels/reel_1401_iptv-org-iptv) |
 | 1402 | 2025-11-26 17:41:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260103⭐ None) | [reels/reel_1402_awesome-selfhosted-awesome-selfhosted](reels/reel_1402_awesome-selfhosted-awesome-selfhosted) |
 | 1403 | 2025-11-26 17:51:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120543⭐ Python) | [reels/reel_1403_langchain-ai-langchain](reels/reel_1403_langchain-ai-langchain) |
+| 1404 | 2025-11-26 18:22:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99310⭐ Rust) | [reels/reel_1404_tauri-apps-tauri](reels/reel_1404_tauri-apps-tauri) |
