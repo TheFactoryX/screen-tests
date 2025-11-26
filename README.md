@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1378 | [galacean/effects-runtime](https://github.com/galacean/effects-runtime) | TypeScript · ⭐ 570 | 2025-11-26 |
+| #1379 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1445,3 +1445,4 @@ Or let GitHub Action run it automatically.
 | 1376 | 2025-11-26 06:54:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158729⭐ TypeScript) | [reels/reel_1376_n8n-io-n8n](reels/reel_1376_n8n-io-n8n) |
 | 1377 | 2025-11-26 07:17:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158734⭐ TypeScript) | [reels/reel_1377_n8n-io-n8n](reels/reel_1377_n8n-io-n8n) |
 | 1378 | 2025-11-26 07:39:14 | [galacean/effects-runtime](https://github.com/galacean/effects-runtime) | ✅ full (570⭐ TypeScript) | [reels/reel_1378_galacean-effects-runtime](reels/reel_1378_galacean-effects-runtime) |
+| 1379 | 2025-11-26 07:49:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120504⭐ Python) | [reels/reel_1379_langchain-ai-langchain](reels/reel_1379_langchain-ai-langchain) |
