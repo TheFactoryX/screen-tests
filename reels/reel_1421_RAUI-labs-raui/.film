@@ -1,0 +1,24 @@
+{
+  "reel_number": 1421,
+  "recorded": "2025-11-26 23:49:52 UTC",
+  "repository": {
+    "full_name": "RAUI-labs/raui",
+    "url": "https://github.com/RAUI-labs/raui",
+    "clone_url": "https://github.com/RAUI-labs/raui.git",
+    "stars": 407,
+    "language": "Rust",
+    "size_kb": 16910
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 0.690931
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 407 stars."
+  }
+}

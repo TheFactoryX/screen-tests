@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1420 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 251k | 2025-11-26 |
+| #1421 | [RAUI-labs/raui](https://github.com/RAUI-labs/raui) | Rust · ⭐ 407 | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1486,3 +1486,4 @@ Or let GitHub Action run it automatically.
 | 1418 | 2025-11-26 22:50:58 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136347⭐ Python) | [reels/reel_1418_yt-dlp-yt-dlp](reels/reel_1418_yt-dlp-yt-dlp) |
 | 1419 | 2025-11-26 23:17:05 | [waefrebeorn/bytropix](https://github.com/waefrebeorn/bytropix) | ✅ full (25⭐ Python) | [reels/reel_1419_waefrebeorn-bytropix](reels/reel_1419_waefrebeorn-bytropix) |
 | 1420 | 2025-11-26 23:37:59 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251042⭐ None) | [reels/reel_1420_practical-tutorials-project-based-learning](reels/reel_1420_practical-tutorials-project-based-learning) |
+| 1421 | 2025-11-26 23:49:52 | [RAUI-labs/raui](https://github.com/RAUI-labs/raui) | ✅ full (407⭐ Rust) | [reels/reel_1421_RAUI-labs-raui](reels/reel_1421_RAUI-labs-raui) |
