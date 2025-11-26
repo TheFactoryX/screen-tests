@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1418 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-26 |
+| #1419 | [waefrebeorn/bytropix](https://github.com/waefrebeorn/bytropix) | Python · ⭐ 25 | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1484,3 +1484,4 @@ Or let GitHub Action run it automatically.
 | 1416 | 2025-11-26 22:17:36 | [dongchengjie/airport](https://github.com/dongchengjie/airport) | ✅ full (286⭐ None) | [reels/reel_1416_dongchengjie-airport](reels/reel_1416_dongchengjie-airport) |
 | 1417 | 2025-11-26 22:41:09 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116334⭐ Svelte) | [reels/reel_1417_open-webui-open-webui](reels/reel_1417_open-webui-open-webui) |
 | 1418 | 2025-11-26 22:50:58 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136347⭐ Python) | [reels/reel_1418_yt-dlp-yt-dlp](reels/reel_1418_yt-dlp-yt-dlp) |
+| 1419 | 2025-11-26 23:17:05 | [waefrebeorn/bytropix](https://github.com/waefrebeorn/bytropix) | ✅ full (25⭐ Python) | [reels/reel_1419_waefrebeorn-bytropix](reels/reel_1419_waefrebeorn-bytropix) |
