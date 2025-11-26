@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1393 | [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) | Shell · ⭐ 718 | 2025-11-26 |
+| #1394 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1459,3 +1459,4 @@ Or let GitHub Action run it automatically.
 | 1391 | 2025-11-26 13:23:43 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120529⭐ Python) | [reels/reel_1391_langchain-ai-langchain](reels/reel_1391_langchain-ai-langchain) |
 | 1392 | 2025-11-26 13:51:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139419⭐ Python) | [reels/reel_1392_langflow-ai-langflow](reels/reel_1392_langflow-ai-langflow) |
 | 1393 | 2025-11-26 14:19:26 | [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) | ✅ full (718⭐ Shell) | [reels/reel_1393_R0GGER-public-iperf3-servers](reels/reel_1393_R0GGER-public-iperf3-servers) |
+| 1394 | 2025-11-26 14:45:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139427⭐ Python) | [reels/reel_1394_langflow-ai-langflow](reels/reel_1394_langflow-ai-langflow) |
