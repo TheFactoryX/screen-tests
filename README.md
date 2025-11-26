@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1377 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-26 |
+| #1378 | [galacean/effects-runtime](https://github.com/galacean/effects-runtime) | TypeScript · ⭐ 570 | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1444,3 +1444,4 @@ Or let GitHub Action run it automatically.
 | 1375 | 2025-11-26 06:29:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100724⭐ TypeScript) | [reels/reel_1375_shadcn-ui-ui](reels/reel_1375_shadcn-ui-ui) |
 | 1376 | 2025-11-26 06:54:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158729⭐ TypeScript) | [reels/reel_1376_n8n-io-n8n](reels/reel_1376_n8n-io-n8n) |
 | 1377 | 2025-11-26 07:17:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158734⭐ TypeScript) | [reels/reel_1377_n8n-io-n8n](reels/reel_1377_n8n-io-n8n) |
+| 1378 | 2025-11-26 07:39:14 | [galacean/effects-runtime](https://github.com/galacean/effects-runtime) | ✅ full (570⭐ TypeScript) | [reels/reel_1378_galacean-effects-runtime](reels/reel_1378_galacean-effects-runtime) |

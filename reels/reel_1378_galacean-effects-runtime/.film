@@ -1,0 +1,24 @@
+{
+  "reel_number": 1378,
+  "recorded": "2025-11-26 07:39:14 UTC",
+  "repository": {
+    "full_name": "galacean/effects-runtime",
+    "url": "https://github.com/galacean/effects-runtime",
+    "clone_url": "https://github.com/galacean/effects-runtime.git",
+    "stars": 570,
+    "language": "TypeScript",
+    "size_kb": 18464
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.125512
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 570 stars."
+  }
+}
