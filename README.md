@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1398 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-26 |
+| #1399 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1464,3 +1464,4 @@ Or let GitHub Action run it automatically.
 | 1396 | 2025-11-26 15:19:51 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96714⭐ TypeScript) | [reels/reel_1396_ant-design-ant-design](reels/reel_1396_ant-design-ant-design) |
 | 1397 | 2025-11-26 15:42:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138928⭐ Python) | [reels/reel_1397_ytdl-org-youtube-dl](reels/reel_1397_ytdl-org-youtube-dl) |
 | 1398 | 2025-11-26 15:52:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116316⭐ Svelte) | [reels/reel_1398_open-webui-open-webui](reels/reel_1398_open-webui-open-webui) |
+| 1399 | 2025-11-26 16:23:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260097⭐ None) | [reels/reel_1399_awesome-selfhosted-awesome-selfhosted](reels/reel_1399_awesome-selfhosted-awesome-selfhosted) |
