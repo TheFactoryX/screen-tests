@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1382 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-26 |
+| #1383 | [LFDT-Lockness/cggmp21](https://github.com/LFDT-Lockness/cggmp21) | Rust · ⭐ 102 | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1449,3 +1449,4 @@ Or let GitHub Action run it automatically.
 | 1380 | 2025-11-26 08:25:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260016⭐ None) | [reels/reel_1380_awesome-selfhosted-awesome-selfhosted](reels/reel_1380_awesome-selfhosted-awesome-selfhosted) |
 | 1381 | 2025-11-26 08:49:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116283⭐ Svelte) | [reels/reel_1381_open-webui-open-webui](reels/reel_1381_open-webui-open-webui) |
 | 1382 | 2025-11-26 09:21:04 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260021⭐ None) | [reels/reel_1382_awesome-selfhosted-awesome-selfhosted](reels/reel_1382_awesome-selfhosted-awesome-selfhosted) |
+| 1383 | 2025-11-26 09:44:02 | [LFDT-Lockness/cggmp21](https://github.com/LFDT-Lockness/cggmp21) | ✅ full (102⭐ Rust) | [reels/reel_1383_LFDT-Lockness-cggmp21](reels/reel_1383_LFDT-Lockness-cggmp21) |
