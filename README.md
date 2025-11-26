@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1389 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-26 |
+| #1391 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1456,3 +1456,4 @@ Or let GitHub Action run it automatically.
 | 1387 | 2025-11-26 11:16:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100741⭐ TypeScript) | [reels/reel_1387_shadcn-ui-ui](reels/reel_1387_shadcn-ui-ui) |
 | 1388 | 2025-11-26 11:38:24 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260039⭐ None) | [reels/reel_1388_awesome-selfhosted-awesome-selfhosted](reels/reel_1388_awesome-selfhosted-awesome-selfhosted) |
 | 1389 | 2025-11-26 11:50:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136293⭐ Python) | [reels/reel_1389_yt-dlp-yt-dlp](reels/reel_1389_yt-dlp-yt-dlp) |
+| 1391 | 2025-11-26 13:23:43 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120529⭐ Python) | [reels/reel_1391_langchain-ai-langchain](reels/reel_1391_langchain-ai-langchain) |
