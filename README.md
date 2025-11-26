@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1384 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-26 |
+| #1385 | [i-stack/STBaseProject](https://github.com/i-stack/STBaseProject) | Swift · ⭐ 241 | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1451,3 +1451,4 @@ Or let GitHub Action run it automatically.
 | 1382 | 2025-11-26 09:21:04 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260021⭐ None) | [reels/reel_1382_awesome-selfhosted-awesome-selfhosted](reels/reel_1382_awesome-selfhosted-awesome-selfhosted) |
 | 1383 | 2025-11-26 09:44:02 | [LFDT-Lockness/cggmp21](https://github.com/LFDT-Lockness/cggmp21) | ✅ full (102⭐ Rust) | [reels/reel_1383_LFDT-Lockness-cggmp21](reels/reel_1383_LFDT-Lockness-cggmp21) |
 | 1384 | 2025-11-26 09:55:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260025⭐ None) | [reels/reel_1384_awesome-selfhosted-awesome-selfhosted](reels/reel_1384_awesome-selfhosted-awesome-selfhosted) |
+| 1385 | 2025-11-26 10:21:40 | [i-stack/STBaseProject](https://github.com/i-stack/STBaseProject) | ✅ shallow (241⭐ Swift) | [reels/reel_1385_i-stack-STBaseProject](reels/reel_1385_i-stack-STBaseProject) |

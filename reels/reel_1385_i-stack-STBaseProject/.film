@@ -1,0 +1,24 @@
+{
+  "reel_number": 1385,
+  "recorded": "2025-11-26 10:21:40 UTC",
+  "repository": {
+    "full_name": "i-stack/STBaseProject",
+    "url": "https://github.com/i-stack/STBaseProject",
+    "clone_url": "https://github.com/i-stack/STBaseProject.git",
+    "stars": 241,
+    "language": "Swift",
+    "size_kb": 116323
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 113,
+    "duration_seconds": 0.814623
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 241 stars."
+  }
+}
