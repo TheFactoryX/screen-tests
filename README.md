@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1369 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-26 |
+| #1370 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -1436,3 +1436,4 @@ Or let GitHub Action run it automatically.
 | 1367 | 2025-11-26 01:23:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116249⭐ Svelte) | [reels/reel_1367_open-webui-open-webui](reels/reel_1367_open-webui-open-webui) |
 | 1368 | 2025-11-26 02:57:55 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (443373⭐ Markdown) | [reels/reel_1368_codecrafters-io-build-your-own-x](reels/reel_1368_codecrafters-io-build-your-own-x) |
 | 1369 | 2025-11-26 03:49:59 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100393⭐ Python) | [reels/reel_1369_deepseek-ai-DeepSeek-V3](reels/reel_1369_deepseek-ai-DeepSeek-V3) |
+| 1370 | 2025-11-26 04:24:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138915⭐ Python) | [reels/reel_1370_ytdl-org-youtube-dl](reels/reel_1370_ytdl-org-youtube-dl) |
