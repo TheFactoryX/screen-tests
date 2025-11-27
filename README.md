@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1423 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 158k | 2025-11-27 |
+| #1424 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1489,3 +1489,4 @@ Or let GitHub Action run it automatically.
 | 1421 | 2025-11-26 23:49:52 | [RAUI-labs/raui](https://github.com/RAUI-labs/raui) | ✅ full (407⭐ Rust) | [reels/reel_1421_RAUI-labs-raui](reels/reel_1421_RAUI-labs-raui) |
 | 1422 | 2025-11-27 01:21:49 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91514⭐ None) | [reels/reel_1422_deepseek-ai-DeepSeek-R1](reels/reel_1422_deepseek-ai-DeepSeek-R1) |
 | 1423 | 2025-11-27 02:55:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158964⭐ TypeScript) | [reels/reel_1423_n8n-io-n8n](reels/reel_1423_n8n-io-n8n) |
+| 1424 | 2025-11-27 03:44:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99325⭐ Rust) | [reels/reel_1424_tauri-apps-tauri](reels/reel_1424_tauri-apps-tauri) |
