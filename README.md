@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1462 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-27 |
+| #1463 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1528,3 +1528,4 @@ Or let GitHub Action run it automatically.
 | 1460 | 2025-11-27 18:25:30 | [FusionAuth/webauthn.wtf](https://github.com/FusionAuth/webauthn.wtf) | ✅ full (19⭐ Astro) | [reels/reel_1460_FusionAuth-webauthn.wtf](reels/reel_1460_FusionAuth-webauthn.wtf) |
 | 1461 | 2025-11-27 18:48:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159151⭐ TypeScript) | [reels/reel_1461_n8n-io-n8n](reels/reel_1461_n8n-io-n8n) |
 | 1462 | 2025-11-27 19:14:16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116409⭐ Svelte) | [reels/reel_1462_open-webui-open-webui](reels/reel_1462_open-webui-open-webui) |
+| 1463 | 2025-11-27 19:27:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108110⭐ Rust) | [reels/reel_1463_rust-lang-rust](reels/reel_1463_rust-lang-rust) |
