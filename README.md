@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1443 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-27 |
+| #1444 | [jdubois/jdubois-langchain4j-demo](https://github.com/jdubois/jdubois-langchain4j-demo) | Java · ⭐ 129 | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1509,3 +1509,4 @@ Or let GitHub Action run it automatically.
 | 1441 | 2025-11-27 10:21:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138941⭐ Python) | [reels/reel_1441_ytdl-org-youtube-dl](reels/reel_1441_ytdl-org-youtube-dl) |
 | 1442 | 2025-11-27 10:45:38 | [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) | ✅ full (635⭐ Python) | [reels/reel_1442_NeptuneHub-AudioMuse-AI](reels/reel_1442_NeptuneHub-AudioMuse-AI) |
 | 1443 | 2025-11-27 11:16:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116388⭐ Svelte) | [reels/reel_1443_open-webui-open-webui](reels/reel_1443_open-webui-open-webui) |
+| 1444 | 2025-11-27 11:38:19 | [jdubois/jdubois-langchain4j-demo](https://github.com/jdubois/jdubois-langchain4j-demo) | ✅ full (129⭐ Java) | [reels/reel_1444_jdubois-jdubois-langchain4j-demo](reels/reel_1444_jdubois-jdubois-langchain4j-demo) |

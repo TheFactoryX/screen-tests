@@ -1,0 +1,24 @@
+{
+  "reel_number": 1444,
+  "recorded": "2025-11-27 11:38:19 UTC",
+  "repository": {
+    "full_name": "jdubois/jdubois-langchain4j-demo",
+    "url": "https://github.com/jdubois/jdubois-langchain4j-demo",
+    "clone_url": "https://github.com/jdubois/jdubois-langchain4j-demo.git",
+    "stars": 129,
+    "language": "Java",
+    "size_kb": 29462
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 1.182271
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 129 stars."
+  }
+}
