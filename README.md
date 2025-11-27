@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1473 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 103k | 2025-11-27 |
+| #1474 | [rix4uni/medium-writeups](https://github.com/rix4uni/medium-writeups) | Go · ⭐ 126 | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1539,3 +1539,4 @@ Or let GitHub Action run it automatically.
 | 1471 | 2025-11-27 21:50:08 | [WeiJiLab/kernel-inline-hook-framework](https://github.com/WeiJiLab/kernel-inline-hook-framework) | ✅ full (209⭐ C) | [reels/reel_1471_WeiJiLab-kernel-inline-hook-framework](reels/reel_1471_WeiJiLab-kernel-inline-hook-framework) |
 | 1472 | 2025-11-27 22:16:59 | [untitaker/html5gum](https://github.com/untitaker/html5gum) | ✅ full (165⭐ Rust) | [reels/reel_1472_untitaker-html5gum](reels/reel_1472_untitaker-html5gum) |
 | 1473 | 2025-11-27 22:40:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103472⭐ TypeScript) | [reels/reel_1473_iptv-org-iptv](reels/reel_1473_iptv-org-iptv) |
+| 1474 | 2025-11-27 22:49:46 | [rix4uni/medium-writeups](https://github.com/rix4uni/medium-writeups) | ✅ shallow (126⭐ Go) | [reels/reel_1474_rix4uni-medium-writeups](reels/reel_1474_rix4uni-medium-writeups) |
