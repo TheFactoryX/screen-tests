@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1433 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 103k | 2025-11-27 |
+| #1434 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1499,3 +1499,4 @@ Or let GitHub Action run it automatically.
 | 1431 | 2025-11-27 06:29:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136385⭐ Python) | [reels/reel_1431_yt-dlp-yt-dlp](reels/reel_1431_yt-dlp-yt-dlp) |
 | 1432 | 2025-11-27 06:55:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260205⭐ None) | [reels/reel_1432_awesome-selfhosted-awesome-selfhosted](reels/reel_1432_awesome-selfhosted-awesome-selfhosted) |
 | 1433 | 2025-11-27 07:19:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103366⭐ TypeScript) | [reels/reel_1433_iptv-org-iptv](reels/reel_1433_iptv-org-iptv) |
+| 1434 | 2025-11-27 07:40:25 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138936⭐ Python) | [reels/reel_1434_ytdl-org-youtube-dl](reels/reel_1434_ytdl-org-youtube-dl) |
