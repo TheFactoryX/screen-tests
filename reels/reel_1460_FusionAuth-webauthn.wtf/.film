@@ -1,0 +1,24 @@
+{
+  "reel_number": 1460,
+  "recorded": "2025-11-27 18:25:30 UTC",
+  "repository": {
+    "full_name": "FusionAuth/webauthn.wtf",
+    "url": "https://github.com/FusionAuth/webauthn.wtf",
+    "clone_url": "https://github.com/FusionAuth/webauthn.wtf.git",
+    "stars": 19,
+    "language": "Astro",
+    "size_kb": 10051
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.392722
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Astro",
+    "director_note": "A Astro repository. 19 stars."
+  }
+}
