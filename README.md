@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1453 | [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian) | C · ⭐ 321 | 2025-11-27 |
+| #1454 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1519,3 +1519,4 @@ Or let GitHub Action run it automatically.
 | 1451 | 2025-11-27 14:54:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116399⭐ Svelte) | [reels/reel_1451_open-webui-open-webui](reels/reel_1451_open-webui-open-webui) |
 | 1452 | 2025-11-27 15:19:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108109⭐ Rust) | [reels/reel_1452_rust-lang-rust](reels/reel_1452_rust-lang-rust) |
 | 1453 | 2025-11-27 15:41:19 | [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian) | ✅ shallow (321⭐ C) | [reels/reel_1453_ProjectNyxian-Nyxian](reels/reel_1453_ProjectNyxian-Nyxian) |
+| 1454 | 2025-11-27 15:51:48 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100613⭐ Shell) | [reels/reel_1454_papers-we-love-papers-we-love](reels/reel_1454_papers-we-love-papers-we-love) |
