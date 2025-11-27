@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1445 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-27 |
+| #1446 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1511,3 +1511,4 @@ Or let GitHub Action run it automatically.
 | 1443 | 2025-11-27 11:16:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116388⭐ Svelte) | [reels/reel_1443_open-webui-open-webui](reels/reel_1443_open-webui-open-webui) |
 | 1444 | 2025-11-27 11:38:19 | [jdubois/jdubois-langchain4j-demo](https://github.com/jdubois/jdubois-langchain4j-demo) | ✅ full (129⭐ Java) | [reels/reel_1444_jdubois-jdubois-langchain4j-demo](reels/reel_1444_jdubois-jdubois-langchain4j-demo) |
 | 1445 | 2025-11-27 11:49:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260246⭐ None) | [reels/reel_1445_awesome-selfhosted-awesome-selfhosted](reels/reel_1445_awesome-selfhosted-awesome-selfhosted) |
+| 1446 | 2025-11-27 12:39:04 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120613⭐ Python) | [reels/reel_1446_langchain-ai-langchain](reels/reel_1446_langchain-ai-langchain) |
