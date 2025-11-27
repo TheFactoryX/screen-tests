@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1421 | [RAUI-labs/raui](https://github.com/RAUI-labs/raui) | Rust · ⭐ 407 | 2025-11-26 |
+| #1422 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1487,3 +1487,4 @@ Or let GitHub Action run it automatically.
 | 1419 | 2025-11-26 23:17:05 | [waefrebeorn/bytropix](https://github.com/waefrebeorn/bytropix) | ✅ full (25⭐ Python) | [reels/reel_1419_waefrebeorn-bytropix](reels/reel_1419_waefrebeorn-bytropix) |
 | 1420 | 2025-11-26 23:37:59 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251042⭐ None) | [reels/reel_1420_practical-tutorials-project-based-learning](reels/reel_1420_practical-tutorials-project-based-learning) |
 | 1421 | 2025-11-26 23:49:52 | [RAUI-labs/raui](https://github.com/RAUI-labs/raui) | ✅ full (407⭐ Rust) | [reels/reel_1421_RAUI-labs-raui](reels/reel_1421_RAUI-labs-raui) |
+| 1422 | 2025-11-27 01:21:49 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91514⭐ None) | [reels/reel_1422_deepseek-ai-DeepSeek-R1](reels/reel_1422_deepseek-ai-DeepSeek-R1) |
