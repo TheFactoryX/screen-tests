@@ -1,0 +1,24 @@
+{
+  "reel_number": 1439,
+  "recorded": "2025-11-27 09:42:44 UTC",
+  "repository": {
+    "full_name": "babalae/bettergi-scripts-list",
+    "url": "https://github.com/babalae/bettergi-scripts-list",
+    "clone_url": "https://github.com/babalae/bettergi-scripts-list.git",
+    "stars": 325,
+    "language": "JavaScript",
+    "size_kb": 114353
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 111,
+    "duration_seconds": 2.373344
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 325 stars."
+  }
+}
