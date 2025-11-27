@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1450 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-27 |
+| #1451 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1516,3 +1516,4 @@ Or let GitHub Action run it automatically.
 | 1448 | 2025-11-27 13:48:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159095⭐ TypeScript) | [reels/reel_1448_n8n-io-n8n](reels/reel_1448_n8n-io-n8n) |
 | 1449 | 2025-11-27 14:18:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260258⭐ None) | [reels/reel_1449_awesome-selfhosted-awesome-selfhosted](reels/reel_1449_awesome-selfhosted-awesome-selfhosted) |
 | 1450 | 2025-11-27 14:43:27 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179978⭐ Python) | [reels/reel_1450_Significant-Gravitas-AutoGPT](reels/reel_1450_Significant-Gravitas-AutoGPT) |
+| 1451 | 2025-11-27 14:54:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116399⭐ Svelte) | [reels/reel_1451_open-webui-open-webui](reels/reel_1451_open-webui-open-webui) |
