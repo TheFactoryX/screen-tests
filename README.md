@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1424 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-27 |
+| #1425 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1490,3 +1490,4 @@ Or let GitHub Action run it automatically.
 | 1422 | 2025-11-27 01:21:49 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91514⭐ None) | [reels/reel_1422_deepseek-ai-DeepSeek-R1](reels/reel_1422_deepseek-ai-DeepSeek-R1) |
 | 1423 | 2025-11-27 02:55:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158964⭐ TypeScript) | [reels/reel_1423_n8n-io-n8n](reels/reel_1423_n8n-io-n8n) |
 | 1424 | 2025-11-27 03:44:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99325⭐ Rust) | [reels/reel_1424_tauri-apps-tauri](reels/reel_1424_tauri-apps-tauri) |
+| 1425 | 2025-11-27 04:01:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116356⭐ Svelte) | [reels/reel_1425_open-webui-open-webui](reels/reel_1425_open-webui-open-webui) |
