@@ -1,0 +1,24 @@
+{
+  "reel_number": 1442,
+  "recorded": "2025-11-27 10:45:38 UTC",
+  "repository": {
+    "full_name": "NeptuneHub/AudioMuse-AI",
+    "url": "https://github.com/NeptuneHub/AudioMuse-AI",
+    "clone_url": "https://github.com/NeptuneHub/AudioMuse-AI.git",
+    "stars": 635,
+    "language": "Python",
+    "size_kb": 34591
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 1.056588
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 635 stars."
+  }
+}
