@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1466 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-27 |
+| #1467 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1532,3 +1532,4 @@ Or let GitHub Action run it automatically.
 | 1464 | 2025-11-27 19:39:10 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100834⭐ TypeScript) | [reels/reel_1464_shadcn-ui-ui](reels/reel_1464_shadcn-ui-ui) |
 | 1465 | 2025-11-27 19:50:16 | [0xflux/Wyrm](https://github.com/0xflux/Wyrm) | ✅ full (319⭐ Rust) | [reels/reel_1465_0xflux-Wyrm](reels/reel_1465_0xflux-Wyrm) |
 | 1466 | 2025-11-27 20:18:02 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108110⭐ Rust) | [reels/reel_1466_rust-lang-rust](reels/reel_1466_rust-lang-rust) |
+| 1467 | 2025-11-27 20:39:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116414⭐ Svelte) | [reels/reel_1467_open-webui-open-webui](reels/reel_1467_open-webui-open-webui) |
