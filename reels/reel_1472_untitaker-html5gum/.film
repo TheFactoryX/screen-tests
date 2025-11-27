@@ -1,0 +1,24 @@
+{
+  "reel_number": 1472,
+  "recorded": "2025-11-27 22:16:59 UTC",
+  "repository": {
+    "full_name": "untitaker/html5gum",
+    "url": "https://github.com/untitaker/html5gum",
+    "clone_url": "https://github.com/untitaker/html5gum.git",
+    "stars": 165,
+    "language": "Rust",
+    "size_kb": 672
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.217478
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 165 stars."
+  }
+}

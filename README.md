@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1471 | [WeiJiLab/kernel-inline-hook-framework](https://github.com/WeiJiLab/kernel-inline-hook-framework) | C · ⭐ 209 | 2025-11-27 |
+| #1472 | [untitaker/html5gum](https://github.com/untitaker/html5gum) | Rust · ⭐ 165 | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1537,3 +1537,4 @@ Or let GitHub Action run it automatically.
 | 1469 | 2025-11-27 21:16:30 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179992⭐ Python) | [reels/reel_1469_Significant-Gravitas-AutoGPT](reels/reel_1469_Significant-Gravitas-AutoGPT) |
 | 1470 | 2025-11-27 21:37:03 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116416⭐ Svelte) | [reels/reel_1470_open-webui-open-webui](reels/reel_1470_open-webui-open-webui) |
 | 1471 | 2025-11-27 21:50:08 | [WeiJiLab/kernel-inline-hook-framework](https://github.com/WeiJiLab/kernel-inline-hook-framework) | ✅ full (209⭐ C) | [reels/reel_1471_WeiJiLab-kernel-inline-hook-framework](reels/reel_1471_WeiJiLab-kernel-inline-hook-framework) |
+| 1472 | 2025-11-27 22:16:59 | [untitaker/html5gum](https://github.com/untitaker/html5gum) | ✅ full (165⭐ Rust) | [reels/reel_1472_untitaker-html5gum](reels/reel_1472_untitaker-html5gum) |
