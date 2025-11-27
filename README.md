@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1437 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-27 |
+| #1438 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1503,3 +1503,4 @@ Or let GitHub Action run it automatically.
 | 1435 | 2025-11-27 07:49:59 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91516⭐ None) | [reels/reel_1435_deepseek-ai-DeepSeek-R1](reels/reel_1435_deepseek-ai-DeepSeek-R1) |
 | 1436 | 2025-11-27 08:26:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159017⭐ TypeScript) | [reels/reel_1436_n8n-io-n8n](reels/reel_1436_n8n-io-n8n) |
 | 1437 | 2025-11-27 08:50:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120604⭐ Python) | [reels/reel_1437_langchain-ai-langchain](reels/reel_1437_langchain-ai-langchain) |
+| 1438 | 2025-11-27 09:20:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136402⭐ Python) | [reels/reel_1438_yt-dlp-yt-dlp](reels/reel_1438_yt-dlp-yt-dlp) |
