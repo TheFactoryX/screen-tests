@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1476 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-27 |
+| #1477 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1542,3 +1542,4 @@ Or let GitHub Action run it automatically.
 | 1474 | 2025-11-27 22:49:46 | [rix4uni/medium-writeups](https://github.com/rix4uni/medium-writeups) | ✅ shallow (126⭐ Go) | [reels/reel_1474_rix4uni-medium-writeups](reels/reel_1474_rix4uni-medium-writeups) |
 | 1475 | 2025-11-27 23:16:55 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108112⭐ Rust) | [reels/reel_1475_rust-lang-rust](reels/reel_1475_rust-lang-rust) |
 | 1476 | 2025-11-27 23:37:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260333⭐ None) | [reels/reel_1476_awesome-selfhosted-awesome-selfhosted](reels/reel_1476_awesome-selfhosted-awesome-selfhosted) |
+| 1477 | 2025-11-27 23:50:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100837⭐ TypeScript) | [reels/reel_1477_shadcn-ui-ui](reels/reel_1477_shadcn-ui-ui) |
