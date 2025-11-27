@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1429 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-27 |
+| #1430 | [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) | Python · ⭐ 972 | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1495,3 +1495,4 @@ Or let GitHub Action run it automatically.
 | 1427 | 2025-11-27 04:53:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (158977⭐ TypeScript) | [reels/reel_1427_n8n-io-n8n](reels/reel_1427_n8n-io-n8n) |
 | 1428 | 2025-11-27 05:18:58 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96719⭐ TypeScript) | [reels/reel_1428_ant-design-ant-design](reels/reel_1428_ant-design-ant-design) |
 | 1429 | 2025-11-27 05:43:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100789⭐ TypeScript) | [reels/reel_1429_shadcn-ui-ui](reels/reel_1429_shadcn-ui-ui) |
+| 1430 | 2025-11-27 05:52:52 | [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) | ✅ shallow (972⭐ Python) | [reels/reel_1430_psygreg-linuxtoys](reels/reel_1430_psygreg-linuxtoys) |

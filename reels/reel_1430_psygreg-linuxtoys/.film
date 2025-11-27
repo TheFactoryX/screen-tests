@@ -1,0 +1,24 @@
+{
+  "reel_number": 1430,
+  "recorded": "2025-11-27 05:52:52 UTC",
+  "repository": {
+    "full_name": "psygreg/linuxtoys",
+    "url": "https://github.com/psygreg/linuxtoys",
+    "clone_url": "https://github.com/psygreg/linuxtoys.git",
+    "stars": 972,
+    "language": "Python",
+    "size_kb": 115771
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 113,
+    "duration_seconds": 0.578187
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 972 stars."
+  }
+}
