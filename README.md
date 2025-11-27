@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1452 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-27 |
+| #1453 | [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian) | C · ⭐ 321 | 2025-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -1518,3 +1518,4 @@ Or let GitHub Action run it automatically.
 | 1450 | 2025-11-27 14:43:27 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179978⭐ Python) | [reels/reel_1450_Significant-Gravitas-AutoGPT](reels/reel_1450_Significant-Gravitas-AutoGPT) |
 | 1451 | 2025-11-27 14:54:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116399⭐ Svelte) | [reels/reel_1451_open-webui-open-webui](reels/reel_1451_open-webui-open-webui) |
 | 1452 | 2025-11-27 15:19:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108109⭐ Rust) | [reels/reel_1452_rust-lang-rust](reels/reel_1452_rust-lang-rust) |
+| 1453 | 2025-11-27 15:41:19 | [ProjectNyxian/Nyxian](https://github.com/ProjectNyxian/Nyxian) | ✅ shallow (321⭐ C) | [reels/reel_1453_ProjectNyxian-Nyxian](reels/reel_1453_ProjectNyxian-Nyxian) |
