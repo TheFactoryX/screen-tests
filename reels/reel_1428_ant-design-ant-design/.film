@@ -1,0 +1,24 @@
+{
+  "reel_number": 1428,
+  "recorded": "2025-11-27 05:18:58 UTC",
+  "repository": {
+    "full_name": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "clone_url": "https://github.com/ant-design/ant-design.git",
+    "stars": 96719,
+    "language": "TypeScript",
+    "size_kb": 242317
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 236,
+    "duration_seconds": 3.154151
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 96719 stars."
+  }
+}
