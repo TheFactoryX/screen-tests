@@ -1,0 +1,24 @@
+{
+  "reel_number": 1471,
+  "recorded": "2025-11-27 21:50:08 UTC",
+  "repository": {
+    "full_name": "WeiJiLab/kernel-inline-hook-framework",
+    "url": "https://github.com/WeiJiLab/kernel-inline-hook-framework",
+    "clone_url": "https://github.com/WeiJiLab/kernel-inline-hook-framework.git",
+    "stars": 209,
+    "language": "C",
+    "size_kb": 3887
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.488059
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 209 stars."
+  }
+}
