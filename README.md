@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1530 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 444k | 2025-11-28 |
+| #1531 | [MiSTer-devel/Distribution_MiSTer](https://github.com/MiSTer-devel/Distribution_MiSTer) | Shell · ⭐ 124 | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1596,3 +1596,4 @@ Or let GitHub Action run it automatically.
 | 1528 | 2025-11-28 21:50:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108135⭐ Rust) | [reels/reel_1528_rust-lang-rust](reels/reel_1528_rust-lang-rust) |
 | 1529 | 2025-11-28 22:16:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136557⭐ Python) | [reels/reel_1529_yt-dlp-yt-dlp](reels/reel_1529_yt-dlp-yt-dlp) |
 | 1530 | 2025-11-28 22:39:57 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (444233⭐ Markdown) | [reels/reel_1530_codecrafters-io-build-your-own-x](reels/reel_1530_codecrafters-io-build-your-own-x) |
+| 1531 | 2025-11-28 22:50:12 | [MiSTer-devel/Distribution_MiSTer](https://github.com/MiSTer-devel/Distribution_MiSTer) | ✅ readme_only (124⭐ Shell) | [reels/reel_1531_MiSTer-devel-Distribution_MiSTer](reels/reel_1531_MiSTer-devel-Distribution_MiSTer) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1531,
+  "recorded": "2025-11-28 22:50:12 UTC",
+  "repository": {
+    "full_name": "MiSTer-devel/Distribution_MiSTer",
+    "url": "https://github.com/MiSTer-devel/Distribution_MiSTer",
+    "clone_url": "https://github.com/MiSTer-devel/Distribution_MiSTer.git",
+    "stars": 124,
+    "language": "Shell",
+    "size_kb": 742363
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 724,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 124 stars."
+  }
+}
