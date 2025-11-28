@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1481 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-28 |
+| #1482 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1547,3 +1547,4 @@ Or let GitHub Action run it automatically.
 | 1479 | 2025-11-28 02:54:24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103496⭐ TypeScript) | [reels/reel_1479_iptv-org-iptv](reels/reel_1479_iptv-org-iptv) |
 | 1480 | 2025-11-28 03:43:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179993⭐ Python) | [reels/reel_1480_Significant-Gravitas-AutoGPT](reels/reel_1480_Significant-Gravitas-AutoGPT) |
 | 1481 | 2025-11-28 04:00:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120653⭐ Python) | [reels/reel_1481_langchain-ai-langchain](reels/reel_1481_langchain-ai-langchain) |
+| 1482 | 2025-11-28 04:37:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116435⭐ Svelte) | [reels/reel_1482_open-webui-open-webui](reels/reel_1482_open-webui-open-webui) |
