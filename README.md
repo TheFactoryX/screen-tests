@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1506 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-28 |
+| #1507 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1572,3 +1572,4 @@ Or let GitHub Action run it automatically.
 | 1504 | 2025-11-28 13:19:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381545⭐ Python) | [reels/reel_1504_public-apis-public-apis](reels/reel_1504_public-apis-public-apis) |
 | 1505 | 2025-11-28 13:45:40 | [ate47/atian-cod-tools](https://github.com/ate47/atian-cod-tools) | ✅ full (87⭐ C++) | [reels/reel_1505_ate47-atian-cod-tools](reels/reel_1505_ate47-atian-cod-tools) |
 | 1506 | 2025-11-28 14:18:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139649⭐ Python) | [reels/reel_1506_langflow-ai-langflow](reels/reel_1506_langflow-ai-langflow) |
+| 1507 | 2025-11-28 14:42:58 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100638⭐ Shell) | [reels/reel_1507_papers-we-love-papers-we-love](reels/reel_1507_papers-we-love-papers-we-love) |
