@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1515 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-11-28 |
+| #1516 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 381k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1581,3 +1581,4 @@ Or let GitHub Action run it automatically.
 | 1513 | 2025-11-28 16:46:02 | [mphonic/Dumber-From-Another-Mother](https://github.com/mphonic/Dumber-From-Another-Mother) | ✅ full (11⭐ SuperCollider) | [reels/reel_1513_mphonic-Dumber-From-Another-Mother](reels/reel_1513_mphonic-Dumber-From-Another-Mother) |
 | 1514 | 2025-11-28 17:15:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159373⭐ TypeScript) | [reels/reel_1514_n8n-io-n8n](reels/reel_1514_n8n-io-n8n) |
 | 1515 | 2025-11-28 17:39:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159375⭐ TypeScript) | [reels/reel_1515_n8n-io-n8n](reels/reel_1515_n8n-io-n8n) |
+| 1516 | 2025-11-28 17:49:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381601⭐ Python) | [reels/reel_1516_public-apis-public-apis](reels/reel_1516_public-apis-public-apis) |
