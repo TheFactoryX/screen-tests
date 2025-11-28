@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1532 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-11-28 |
+| #1533 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1598,3 +1598,4 @@ Or let GitHub Action run it automatically.
 | 1530 | 2025-11-28 22:39:57 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (444233⭐ Markdown) | [reels/reel_1530_codecrafters-io-build-your-own-x](reels/reel_1530_codecrafters-io-build-your-own-x) |
 | 1531 | 2025-11-28 22:50:12 | [MiSTer-devel/Distribution_MiSTer](https://github.com/MiSTer-devel/Distribution_MiSTer) | ✅ readme_only (124⭐ Shell) | [reels/reel_1531_MiSTer-devel-Distribution_MiSTer](reels/reel_1531_MiSTer-devel-Distribution_MiSTer) |
 | 1532 | 2025-11-28 23:16:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159408⭐ TypeScript) | [reels/reel_1532_n8n-io-n8n](reels/reel_1532_n8n-io-n8n) |
+| 1533 | 2025-11-28 23:37:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180004⭐ Python) | [reels/reel_1533_Significant-Gravitas-AutoGPT](reels/reel_1533_Significant-Gravitas-AutoGPT) |
