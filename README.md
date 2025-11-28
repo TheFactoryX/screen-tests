@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1495 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-11-28 |
+| #1496 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1561,3 +1561,4 @@ Or let GitHub Action run it automatically.
 | 1493 | 2025-11-28 08:50:14 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138958⭐ Python) | [reels/reel_1493_ytdl-org-youtube-dl](reels/reel_1493_ytdl-org-youtube-dl) |
 | 1494 | 2025-11-28 09:19:19 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (400⭐ None) | [reels/reel_1494_zloi-user-hideip.me](reels/reel_1494_zloi-user-hideip.me) |
 | 1495 | 2025-11-28 09:40:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159297⭐ TypeScript) | [reels/reel_1495_n8n-io-n8n](reels/reel_1495_n8n-io-n8n) |
+| 1496 | 2025-11-28 09:50:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116453⭐ Svelte) | [reels/reel_1496_open-webui-open-webui](reels/reel_1496_open-webui-open-webui) |
