@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1486 | [hoeken/PsychicHttp](https://github.com/hoeken/PsychicHttp) | C++ · ⭐ 178 | 2025-11-28 |
+| #1487 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1552,3 +1552,4 @@ Or let GitHub Action run it automatically.
 | 1484 | 2025-11-28 05:19:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260370⭐ None) | [reels/reel_1484_awesome-selfhosted-awesome-selfhosted](reels/reel_1484_awesome-selfhosted-awesome-selfhosted) |
 | 1485 | 2025-11-28 05:43:09 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91519⭐ None) | [reels/reel_1485_deepseek-ai-DeepSeek-R1](reels/reel_1485_deepseek-ai-DeepSeek-R1) |
 | 1486 | 2025-11-28 05:52:46 | [hoeken/PsychicHttp](https://github.com/hoeken/PsychicHttp) | ✅ full (178⭐ C++) | [reels/reel_1486_hoeken-PsychicHttp](reels/reel_1486_hoeken-PsychicHttp) |
+| 1487 | 2025-11-28 06:29:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260377⭐ None) | [reels/reel_1487_awesome-selfhosted-awesome-selfhosted](reels/reel_1487_awesome-selfhosted-awesome-selfhosted) |
