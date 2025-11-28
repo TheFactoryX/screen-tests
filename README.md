@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1498 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-28 |
+| #1499 | [pottekkat/personal-website](https://github.com/pottekkat/personal-website) | HTML · ⭐ 128 | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1564,3 +1564,4 @@ Or let GitHub Action run it automatically.
 | 1496 | 2025-11-28 09:50:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116453⭐ Svelte) | [reels/reel_1496_open-webui-open-webui](reels/reel_1496_open-webui-open-webui) |
 | 1497 | 2025-11-28 10:20:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116454⭐ Svelte) | [reels/reel_1497_open-webui-open-webui](reels/reel_1497_open-webui-open-webui) |
 | 1498 | 2025-11-28 10:44:40 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100419⭐ Python) | [reels/reel_1498_deepseek-ai-DeepSeek-V3](reels/reel_1498_deepseek-ai-DeepSeek-V3) |
+| 1499 | 2025-11-28 10:54:40 | [pottekkat/personal-website](https://github.com/pottekkat/personal-website) | ✅ readme_only (128⭐ HTML) | [reels/reel_1499_pottekkat-personal-website](reels/reel_1499_pottekkat-personal-website) |
