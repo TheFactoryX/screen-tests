@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1494 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 400 | 2025-11-28 |
+| #1495 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1560,3 +1560,4 @@ Or let GitHub Action run it automatically.
 | 1492 | 2025-11-28 08:26:00 | [tutors-sdk/tutors](https://github.com/tutors-sdk/tutors) | ✅ full (120⭐ JavaScript) | [reels/reel_1492_tutors-sdk-tutors](reels/reel_1492_tutors-sdk-tutors) |
 | 1493 | 2025-11-28 08:50:14 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138958⭐ Python) | [reels/reel_1493_ytdl-org-youtube-dl](reels/reel_1493_ytdl-org-youtube-dl) |
 | 1494 | 2025-11-28 09:19:19 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (400⭐ None) | [reels/reel_1494_zloi-user-hideip.me](reels/reel_1494_zloi-user-hideip.me) |
+| 1495 | 2025-11-28 09:40:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159297⭐ TypeScript) | [reels/reel_1495_n8n-io-n8n](reels/reel_1495_n8n-io-n8n) |
