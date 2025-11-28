@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1527 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-28 |
+| #1528 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1593,3 +1593,4 @@ Or let GitHub Action run it automatically.
 | 1525 | 2025-11-28 20:50:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159398⭐ TypeScript) | [reels/reel_1525_n8n-io-n8n](reels/reel_1525_n8n-io-n8n) |
 | 1526 | 2025-11-28 21:15:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108133⭐ Rust) | [reels/reel_1526_rust-lang-rust](reels/reel_1526_rust-lang-rust) |
 | 1527 | 2025-11-28 21:37:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108133⭐ Rust) | [reels/reel_1527_rust-lang-rust](reels/reel_1527_rust-lang-rust) |
+| 1528 | 2025-11-28 21:50:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108135⭐ Rust) | [reels/reel_1528_rust-lang-rust](reels/reel_1528_rust-lang-rust) |
