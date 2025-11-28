@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1505 | [ate47/atian-cod-tools](https://github.com/ate47/atian-cod-tools) | C++ · ⭐ 87 | 2025-11-28 |
+| #1506 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1571,3 +1571,4 @@ Or let GitHub Action run it automatically.
 | 1503 | 2025-11-28 12:37:35 | [tecnickcom/tc-lib-barcode](https://github.com/tecnickcom/tc-lib-barcode) | ✅ full (284⭐ PHP) | [reels/reel_1503_tecnickcom-tc-lib-barcode](reels/reel_1503_tecnickcom-tc-lib-barcode) |
 | 1504 | 2025-11-28 13:19:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381545⭐ Python) | [reels/reel_1504_public-apis-public-apis](reels/reel_1504_public-apis-public-apis) |
 | 1505 | 2025-11-28 13:45:40 | [ate47/atian-cod-tools](https://github.com/ate47/atian-cod-tools) | ✅ full (87⭐ C++) | [reels/reel_1505_ate47-atian-cod-tools](reels/reel_1505_ate47-atian-cod-tools) |
+| 1506 | 2025-11-28 14:18:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139649⭐ Python) | [reels/reel_1506_langflow-ai-langflow](reels/reel_1506_langflow-ai-langflow) |
