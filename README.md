@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1492 | [tutors-sdk/tutors](https://github.com/tutors-sdk/tutors) | JavaScript · ⭐ 120 | 2025-11-28 |
+| #1493 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1558,3 +1558,4 @@ Or let GitHub Action run it automatically.
 | 1490 | 2025-11-28 07:39:21 | [agalue/LGTM-PoC](https://github.com/agalue/LGTM-PoC) | ✅ full (47⭐ Shell) | [reels/reel_1490_agalue-LGTM-PoC](reels/reel_1490_agalue-LGTM-PoC) |
 | 1491 | 2025-11-28 07:49:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260383⭐ None) | [reels/reel_1491_awesome-selfhosted-awesome-selfhosted](reels/reel_1491_awesome-selfhosted-awesome-selfhosted) |
 | 1492 | 2025-11-28 08:26:00 | [tutors-sdk/tutors](https://github.com/tutors-sdk/tutors) | ✅ full (120⭐ JavaScript) | [reels/reel_1492_tutors-sdk-tutors](reels/reel_1492_tutors-sdk-tutors) |
+| 1493 | 2025-11-28 08:50:14 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138958⭐ Python) | [reels/reel_1493_ytdl-org-youtube-dl](reels/reel_1493_ytdl-org-youtube-dl) |
