@@ -1,0 +1,24 @@
+{
+  "reel_number": 1534,
+  "recorded": "2025-11-28 23:50:10 UTC",
+  "repository": {
+    "full_name": "cokice/List-of-genshin-University",
+    "url": "https://github.com/cokice/List-of-genshin-University",
+    "clone_url": "https://github.com/cokice/List-of-genshin-University.git",
+    "stars": 336,
+    "language": "Python",
+    "size_kb": 1339
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.34538
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 336 stars."
+  }
+}
