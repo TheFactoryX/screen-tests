@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1518 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-28 |
+| #1519 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1584,3 +1584,4 @@ Or let GitHub Action run it automatically.
 | 1516 | 2025-11-28 17:49:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381601⭐ Python) | [reels/reel_1516_public-apis-public-apis](reels/reel_1516_public-apis-public-apis) |
 | 1517 | 2025-11-28 18:25:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260469⭐ None) | [reels/reel_1517_awesome-selfhosted-awesome-selfhosted](reels/reel_1517_awesome-selfhosted-awesome-selfhosted) |
 | 1518 | 2025-11-28 18:48:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120701⭐ Python) | [reels/reel_1518_langchain-ai-langchain](reels/reel_1518_langchain-ai-langchain) |
+| 1519 | 2025-11-28 19:13:59 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136548⭐ Python) | [reels/reel_1519_yt-dlp-yt-dlp](reels/reel_1519_yt-dlp-yt-dlp) |
