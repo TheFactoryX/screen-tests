@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1497 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-28 |
+| #1498 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1563,3 +1563,4 @@ Or let GitHub Action run it automatically.
 | 1495 | 2025-11-28 09:40:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159297⭐ TypeScript) | [reels/reel_1495_n8n-io-n8n](reels/reel_1495_n8n-io-n8n) |
 | 1496 | 2025-11-28 09:50:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116453⭐ Svelte) | [reels/reel_1496_open-webui-open-webui](reels/reel_1496_open-webui-open-webui) |
 | 1497 | 2025-11-28 10:20:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116454⭐ Svelte) | [reels/reel_1497_open-webui-open-webui](reels/reel_1497_open-webui-open-webui) |
+| 1498 | 2025-11-28 10:44:40 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100419⭐ Python) | [reels/reel_1498_deepseek-ai-DeepSeek-V3](reels/reel_1498_deepseek-ai-DeepSeek-V3) |
