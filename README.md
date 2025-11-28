@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1514 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-11-28 |
+| #1515 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1580,3 +1580,4 @@ Or let GitHub Action run it automatically.
 | 1512 | 2025-11-28 16:22:32 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100418⭐ Python) | [reels/reel_1512_deepseek-ai-DeepSeek-V3](reels/reel_1512_deepseek-ai-DeepSeek-V3) |
 | 1513 | 2025-11-28 16:46:02 | [mphonic/Dumber-From-Another-Mother](https://github.com/mphonic/Dumber-From-Another-Mother) | ✅ full (11⭐ SuperCollider) | [reels/reel_1513_mphonic-Dumber-From-Another-Mother](reels/reel_1513_mphonic-Dumber-From-Another-Mother) |
 | 1514 | 2025-11-28 17:15:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159373⭐ TypeScript) | [reels/reel_1514_n8n-io-n8n](reels/reel_1514_n8n-io-n8n) |
+| 1515 | 2025-11-28 17:39:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159375⭐ TypeScript) | [reels/reel_1515_n8n-io-n8n](reels/reel_1515_n8n-io-n8n) |
