@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1502 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 103k | 2025-11-28 |
+| #1503 | [tecnickcom/tc-lib-barcode](https://github.com/tecnickcom/tc-lib-barcode) | PHP · ⭐ 284 | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1568,3 +1568,4 @@ Or let GitHub Action run it automatically.
 | 1500 | 2025-11-28 11:16:23 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108122⭐ Rust) | [reels/reel_1500_rust-lang-rust](reels/reel_1500_rust-lang-rust) |
 | 1501 | 2025-11-28 11:37:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116460⭐ Svelte) | [reels/reel_1501_open-webui-open-webui](reels/reel_1501_open-webui-open-webui) |
 | 1502 | 2025-11-28 11:50:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103560⭐ TypeScript) | [reels/reel_1502_iptv-org-iptv](reels/reel_1502_iptv-org-iptv) |
+| 1503 | 2025-11-28 12:37:35 | [tecnickcom/tc-lib-barcode](https://github.com/tecnickcom/tc-lib-barcode) | ✅ full (284⭐ PHP) | [reels/reel_1503_tecnickcom-tc-lib-barcode](reels/reel_1503_tecnickcom-tc-lib-barcode) |

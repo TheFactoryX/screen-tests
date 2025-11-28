@@ -1,0 +1,24 @@
+{
+  "reel_number": 1503,
+  "recorded": "2025-11-28 12:37:35 UTC",
+  "repository": {
+    "full_name": "tecnickcom/tc-lib-barcode",
+    "url": "https://github.com/tecnickcom/tc-lib-barcode",
+    "clone_url": "https://github.com/tecnickcom/tc-lib-barcode.git",
+    "stars": 284,
+    "language": "PHP",
+    "size_kb": 933
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.28096
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 284 stars."
+  }
+}
