@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1528 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-28 |
+| #1529 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1594,3 +1594,4 @@ Or let GitHub Action run it automatically.
 | 1526 | 2025-11-28 21:15:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108133⭐ Rust) | [reels/reel_1526_rust-lang-rust](reels/reel_1526_rust-lang-rust) |
 | 1527 | 2025-11-28 21:37:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108133⭐ Rust) | [reels/reel_1527_rust-lang-rust](reels/reel_1527_rust-lang-rust) |
 | 1528 | 2025-11-28 21:50:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108135⭐ Rust) | [reels/reel_1528_rust-lang-rust](reels/reel_1528_rust-lang-rust) |
+| 1529 | 2025-11-28 22:16:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136557⭐ Python) | [reels/reel_1529_yt-dlp-yt-dlp](reels/reel_1529_yt-dlp-yt-dlp) |
