@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1479 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 103k | 2025-11-28 |
+| #1480 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 179k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1545,3 +1545,4 @@ Or let GitHub Action run it automatically.
 | 1477 | 2025-11-27 23:50:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100837⭐ TypeScript) | [reels/reel_1477_shadcn-ui-ui](reels/reel_1477_shadcn-ui-ui) |
 | 1478 | 2025-11-28 01:21:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179992⭐ Python) | [reels/reel_1478_Significant-Gravitas-AutoGPT](reels/reel_1478_Significant-Gravitas-AutoGPT) |
 | 1479 | 2025-11-28 02:54:24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103496⭐ TypeScript) | [reels/reel_1479_iptv-org-iptv](reels/reel_1479_iptv-org-iptv) |
+| 1480 | 2025-11-28 03:43:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179993⭐ Python) | [reels/reel_1480_Significant-Gravitas-AutoGPT](reels/reel_1480_Significant-Gravitas-AutoGPT) |
