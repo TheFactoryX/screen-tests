@@ -1,0 +1,24 @@
+{
+  "reel_number": 1510,
+  "recorded": "2025-11-28 15:40:21 UTC",
+  "repository": {
+    "full_name": "valeman/Awesome_Math_Books",
+    "url": "https://github.com/valeman/Awesome_Math_Books",
+    "clone_url": "https://github.com/valeman/Awesome_Math_Books.git",
+    "stars": 4985,
+    "language": null,
+    "size_kb": 232
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.149456
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 4985 stars."
+  }
+}
