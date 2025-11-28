@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1482 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-28 |
+| #1483 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1548,3 +1548,4 @@ Or let GitHub Action run it automatically.
 | 1480 | 2025-11-28 03:43:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (179993⭐ Python) | [reels/reel_1480_Significant-Gravitas-AutoGPT](reels/reel_1480_Significant-Gravitas-AutoGPT) |
 | 1481 | 2025-11-28 04:00:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120653⭐ Python) | [reels/reel_1481_langchain-ai-langchain](reels/reel_1481_langchain-ai-langchain) |
 | 1482 | 2025-11-28 04:37:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116435⭐ Svelte) | [reels/reel_1482_open-webui-open-webui](reels/reel_1482_open-webui-open-webui) |
+| 1483 | 2025-11-28 04:53:01 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138957⭐ Python) | [reels/reel_1483_ytdl-org-youtube-dl](reels/reel_1483_ytdl-org-youtube-dl) |
