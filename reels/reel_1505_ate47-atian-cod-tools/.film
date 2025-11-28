@@ -1,0 +1,24 @@
+{
+  "reel_number": 1505,
+  "recorded": "2025-11-28 13:45:40 UTC",
+  "repository": {
+    "full_name": "ate47/atian-cod-tools",
+    "url": "https://github.com/ate47/atian-cod-tools",
+    "clone_url": "https://github.com/ate47/atian-cod-tools.git",
+    "stars": 87,
+    "language": "C++",
+    "size_kb": 8535
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.902379
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 87 stars."
+  }
+}

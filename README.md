@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1504 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 381k | 2025-11-28 |
+| #1505 | [ate47/atian-cod-tools](https://github.com/ate47/atian-cod-tools) | C++ · ⭐ 87 | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1570,3 +1570,4 @@ Or let GitHub Action run it automatically.
 | 1502 | 2025-11-28 11:50:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103560⭐ TypeScript) | [reels/reel_1502_iptv-org-iptv](reels/reel_1502_iptv-org-iptv) |
 | 1503 | 2025-11-28 12:37:35 | [tecnickcom/tc-lib-barcode](https://github.com/tecnickcom/tc-lib-barcode) | ✅ full (284⭐ PHP) | [reels/reel_1503_tecnickcom-tc-lib-barcode](reels/reel_1503_tecnickcom-tc-lib-barcode) |
 | 1504 | 2025-11-28 13:19:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381545⭐ Python) | [reels/reel_1504_public-apis-public-apis](reels/reel_1504_public-apis-public-apis) |
+| 1505 | 2025-11-28 13:45:40 | [ate47/atian-cod-tools](https://github.com/ate47/atian-cod-tools) | ✅ full (87⭐ C++) | [reels/reel_1505_ate47-atian-cod-tools](reels/reel_1505_ate47-atian-cod-tools) |
