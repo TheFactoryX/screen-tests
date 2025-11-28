@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1489 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-28 |
+| #1490 | [agalue/LGTM-PoC](https://github.com/agalue/LGTM-PoC) | Shell · ⭐ 47 | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1555,3 +1555,4 @@ Or let GitHub Action run it automatically.
 | 1487 | 2025-11-28 06:29:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260377⭐ None) | [reels/reel_1487_awesome-selfhosted-awesome-selfhosted](reels/reel_1487_awesome-selfhosted-awesome-selfhosted) |
 | 1488 | 2025-11-28 06:54:23 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159250⭐ TypeScript) | [reels/reel_1488_n8n-io-n8n](reels/reel_1488_n8n-io-n8n) |
 | 1489 | 2025-11-28 07:18:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120662⭐ Python) | [reels/reel_1489_langchain-ai-langchain](reels/reel_1489_langchain-ai-langchain) |
+| 1490 | 2025-11-28 07:39:21 | [agalue/LGTM-PoC](https://github.com/agalue/LGTM-PoC) | ✅ full (47⭐ Shell) | [reels/reel_1490_agalue-LGTM-PoC](reels/reel_1490_agalue-LGTM-PoC) |

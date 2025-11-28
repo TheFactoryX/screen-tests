@@ -1,0 +1,24 @@
+{
+  "reel_number": 1490,
+  "recorded": "2025-11-28 07:39:21 UTC",
+  "repository": {
+    "full_name": "agalue/LGTM-PoC",
+    "url": "https://github.com/agalue/LGTM-PoC",
+    "clone_url": "https://github.com/agalue/LGTM-PoC.git",
+    "stars": 47,
+    "language": "Shell",
+    "size_kb": 6001
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.468669
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 47 stars."
+  }
+}
