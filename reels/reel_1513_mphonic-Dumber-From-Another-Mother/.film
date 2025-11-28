@@ -1,0 +1,24 @@
+{
+  "reel_number": 1513,
+  "recorded": "2025-11-28 16:46:02 UTC",
+  "repository": {
+    "full_name": "mphonic/Dumber-From-Another-Mother",
+    "url": "https://github.com/mphonic/Dumber-From-Another-Mother",
+    "clone_url": "https://github.com/mphonic/Dumber-From-Another-Mother.git",
+    "stars": 11,
+    "language": "SuperCollider",
+    "size_kb": 269
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.194151
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "SuperCollider",
+    "director_note": "A SuperCollider repository. 11 stars."
+  }
+}
