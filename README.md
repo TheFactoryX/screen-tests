@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1508 | [hongbo-miao/hongbomiao.com](https://github.com/hongbo-miao/hongbomiao.com) | Python · ⭐ 270 | 2025-11-28 |
+| #1509 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -1574,3 +1574,4 @@ Or let GitHub Action run it automatically.
 | 1506 | 2025-11-28 14:18:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139649⭐ Python) | [reels/reel_1506_langflow-ai-langflow](reels/reel_1506_langflow-ai-langflow) |
 | 1507 | 2025-11-28 14:42:58 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100638⭐ Shell) | [reels/reel_1507_papers-we-love-papers-we-love](reels/reel_1507_papers-we-love-papers-we-love) |
 | 1508 | 2025-11-28 14:52:59 | [hongbo-miao/hongbomiao.com](https://github.com/hongbo-miao/hongbomiao.com) | ✅ readme_only (270⭐ Python) | [reels/reel_1508_hongbo-miao-hongbomiao.com](reels/reel_1508_hongbo-miao-hongbomiao.com) |
+| 1509 | 2025-11-28 15:19:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108126⭐ Rust) | [reels/reel_1509_rust-lang-rust](reels/reel_1509_rust-lang-rust) |
