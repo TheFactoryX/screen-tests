@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1534 | [cokice/List-of-genshin-University](https://github.com/cokice/List-of-genshin-University) | Python · ⭐ 336 | 2025-11-28 |
+| #1535 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1600,3 +1600,4 @@ Or let GitHub Action run it automatically.
 | 1532 | 2025-11-28 23:16:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159408⭐ TypeScript) | [reels/reel_1532_n8n-io-n8n](reels/reel_1532_n8n-io-n8n) |
 | 1533 | 2025-11-28 23:37:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180004⭐ Python) | [reels/reel_1533_Significant-Gravitas-AutoGPT](reels/reel_1533_Significant-Gravitas-AutoGPT) |
 | 1534 | 2025-11-28 23:50:10 | [cokice/List-of-genshin-University](https://github.com/cokice/List-of-genshin-University) | ✅ full (336⭐ Python) | [reels/reel_1534_cokice-List-of-genshin-University](reels/reel_1534_cokice-List-of-genshin-University) |
+| 1535 | 2025-11-29 01:21:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116503⭐ Svelte) | [reels/reel_1535_open-webui-open-webui](reels/reel_1535_open-webui-open-webui) |
