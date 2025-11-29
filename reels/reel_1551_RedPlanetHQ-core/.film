@@ -1,0 +1,24 @@
+{
+  "reel_number": 1551,
+  "recorded": "2025-11-29 09:17:56 UTC",
+  "repository": {
+    "full_name": "RedPlanetHQ/core",
+    "url": "https://github.com/RedPlanetHQ/core",
+    "clone_url": "https://github.com/RedPlanetHQ/core.git",
+    "stars": 965,
+    "language": "TypeScript",
+    "size_kb": 46539
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 45,
+    "duration_seconds": 1.76823
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 965 stars."
+  }
+}
