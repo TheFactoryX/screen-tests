@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1590 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-11-29 |
+| #1591 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 444k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1656,3 +1656,4 @@ Or let GitHub Action run it automatically.
 | 1588 | 2025-11-29 21:49:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116565⭐ Svelte) | [reels/reel_1588_open-webui-open-webui](reels/reel_1588_open-webui-open-webui) |
 | 1589 | 2025-11-29 22:16:51 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (400⭐ None) | [reels/reel_1589_zloi-user-hideip.me](reels/reel_1589_zloi-user-hideip.me) |
 | 1590 | 2025-11-29 22:40:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159578⭐ TypeScript) | [reels/reel_1590_n8n-io-n8n](reels/reel_1590_n8n-io-n8n) |
+| 1591 | 2025-11-29 22:50:27 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (444466⭐ Markdown) | [reels/reel_1591_codecrafters-io-build-your-own-x](reels/reel_1591_codecrafters-io-build-your-own-x) |
