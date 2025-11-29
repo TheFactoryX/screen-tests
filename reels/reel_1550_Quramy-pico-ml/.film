@@ -1,0 +1,24 @@
+{
+  "reel_number": 1550,
+  "recorded": "2025-11-29 08:45:55 UTC",
+  "repository": {
+    "full_name": "Quramy/pico-ml",
+    "url": "https://github.com/Quramy/pico-ml",
+    "clone_url": "https://github.com/Quramy/pico-ml.git",
+    "stars": 51,
+    "language": "TypeScript",
+    "size_kb": 8994
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.546183
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 51 stars."
+  }
+}

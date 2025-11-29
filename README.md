@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1549 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-29 |
+| #1550 | [Quramy/pico-ml](https://github.com/Quramy/pico-ml) | TypeScript · ⭐ 51 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1615,3 +1615,4 @@ Or let GitHub Action run it automatically.
 | 1547 | 2025-11-29 07:37:18 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100426⭐ Python) | [reels/reel_1547_deepseek-ai-DeepSeek-V3](reels/reel_1547_deepseek-ai-DeepSeek-V3) |
 | 1548 | 2025-11-29 07:49:44 | [lukso-network/lukso-playground](https://github.com/lukso-network/lukso-playground) | ✅ full (23⭐ TypeScript) | [reels/reel_1548_lukso-network-lukso-playground](reels/reel_1548_lukso-network-lukso-playground) |
 | 1549 | 2025-11-29 08:23:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260549⭐ None) | [reels/reel_1549_awesome-selfhosted-awesome-selfhosted](reels/reel_1549_awesome-selfhosted-awesome-selfhosted) |
+| 1550 | 2025-11-29 08:45:55 | [Quramy/pico-ml](https://github.com/Quramy/pico-ml) | ✅ full (51⭐ TypeScript) | [reels/reel_1550_Quramy-pico-ml](reels/reel_1550_Quramy-pico-ml) |
