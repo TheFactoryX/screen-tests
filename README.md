@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1581 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-11-29 |
+| #1582 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1647,3 +1647,4 @@ Or let GitHub Action run it automatically.
 | 1579 | 2025-11-29 19:13:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103746⭐ TypeScript) | [reels/reel_1579_iptv-org-iptv](reels/reel_1579_iptv-org-iptv) |
 | 1580 | 2025-11-29 19:27:11 | [test157t/VRM-Assets-Pack-For-Silly-Tavern](https://github.com/test157t/VRM-Assets-Pack-For-Silly-Tavern) | ✅ full (54⭐ None) | [reels/reel_1580_test157t-VRM-Assets-Pack-For-Silly-Tavern](reels/reel_1580_test157t-VRM-Assets-Pack-For-Silly-Tavern) |
 | 1581 | 2025-11-29 19:38:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180016⭐ Python) | [reels/reel_1581_Significant-Gravitas-AutoGPT](reels/reel_1581_Significant-Gravitas-AutoGPT) |
+| 1582 | 2025-11-29 19:49:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108158⭐ Rust) | [reels/reel_1582_rust-lang-rust](reels/reel_1582_rust-lang-rust) |
