@@ -1,0 +1,24 @@
+{
+  "reel_number": 1576,
+  "recorded": "2025-11-29 17:50:14 UTC",
+  "repository": {
+    "full_name": "mayocream/koharu",
+    "url": "https://github.com/mayocream/koharu",
+    "clone_url": "https://github.com/mayocream/koharu.git",
+    "stars": 227,
+    "language": "Rust",
+    "size_kb": 12837
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 0.937598
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 227 stars."
+  }
+}
