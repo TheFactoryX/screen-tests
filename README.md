@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1586 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-11-29 |
+| #1587 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1652,3 +1652,4 @@ Or let GitHub Action run it automatically.
 | 1584 | 2025-11-29 20:40:48 | [factory-ben/feed](https://github.com/factory-ben/feed) | ✅ full (113⭐ JavaScript) | [reels/reel_1584_factory-ben-feed](reels/reel_1584_factory-ben-feed) |
 | 1585 | 2025-11-29 20:50:30 | [dazuma/toys](https://github.com/dazuma/toys) | ✅ full (126⭐ Ruby) | [reels/reel_1585_dazuma-toys](reels/reel_1585_dazuma-toys) |
 | 1586 | 2025-11-29 21:15:35 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101641⭐ None) | [reels/reel_1586_Hack-with-Github-Awesome-Hacking](reels/reel_1586_Hack-with-Github-Awesome-Hacking) |
+| 1587 | 2025-11-29 21:36:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260663⭐ None) | [reels/reel_1587_awesome-selfhosted-awesome-selfhosted](reels/reel_1587_awesome-selfhosted-awesome-selfhosted) |
