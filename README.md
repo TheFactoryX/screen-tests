@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1536 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-29 |
+| #1537 | [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) | Go · ⭐ 237 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1602,3 +1602,4 @@ Or let GitHub Action run it automatically.
 | 1534 | 2025-11-28 23:50:10 | [cokice/List-of-genshin-University](https://github.com/cokice/List-of-genshin-University) | ✅ full (336⭐ Python) | [reels/reel_1534_cokice-List-of-genshin-University](reels/reel_1534_cokice-List-of-genshin-University) |
 | 1535 | 2025-11-29 01:21:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116503⭐ Svelte) | [reels/reel_1535_open-webui-open-webui](reels/reel_1535_open-webui-open-webui) |
 | 1536 | 2025-11-29 02:53:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100919⭐ TypeScript) | [reels/reel_1536_shadcn-ui-ui](reels/reel_1536_shadcn-ui-ui) |
+| 1537 | 2025-11-29 03:43:36 | [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) | ✅ full (237⭐ Go) | [reels/reel_1537_seaweedfs-seaweedfs-operator](reels/reel_1537_seaweedfs-seaweedfs-operator) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1537,
+  "recorded": "2025-11-29 03:43:36 UTC",
+  "repository": {
+    "full_name": "seaweedfs/seaweedfs-operator",
+    "url": "https://github.com/seaweedfs/seaweedfs-operator",
+    "clone_url": "https://github.com/seaweedfs/seaweedfs-operator.git",
+    "stars": 237,
+    "language": "Go",
+    "size_kb": 17967
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.556733
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 237 stars."
+  }
+}
