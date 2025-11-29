@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1568 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-29 |
+| #1569 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1634,3 +1634,4 @@ Or let GitHub Action run it automatically.
 | 1566 | 2025-11-29 14:39:31 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139747⭐ Python) | [reels/reel_1566_langflow-ai-langflow](reels/reel_1566_langflow-ai-langflow) |
 | 1567 | 2025-11-29 14:50:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260594⭐ None) | [reels/reel_1567_awesome-selfhosted-awesome-selfhosted](reels/reel_1567_awesome-selfhosted-awesome-selfhosted) |
 | 1568 | 2025-11-29 15:16:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120731⭐ Python) | [reels/reel_1568_langchain-ai-langchain](reels/reel_1568_langchain-ai-langchain) |
+| 1569 | 2025-11-29 15:38:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138981⭐ Python) | [reels/reel_1569_ytdl-org-youtube-dl](reels/reel_1569_ytdl-org-youtube-dl) |
