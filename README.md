@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1588 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-29 |
+| #1589 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 400 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1654,3 +1654,4 @@ Or let GitHub Action run it automatically.
 | 1586 | 2025-11-29 21:15:35 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101641⭐ None) | [reels/reel_1586_Hack-with-Github-Awesome-Hacking](reels/reel_1586_Hack-with-Github-Awesome-Hacking) |
 | 1587 | 2025-11-29 21:36:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260663⭐ None) | [reels/reel_1587_awesome-selfhosted-awesome-selfhosted](reels/reel_1587_awesome-selfhosted-awesome-selfhosted) |
 | 1588 | 2025-11-29 21:49:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116565⭐ Svelte) | [reels/reel_1588_open-webui-open-webui](reels/reel_1588_open-webui-open-webui) |
+| 1589 | 2025-11-29 22:16:51 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (400⭐ None) | [reels/reel_1589_zloi-user-hideip.me](reels/reel_1589_zloi-user-hideip.me) |
