@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1584 | [factory-ben/feed](https://github.com/factory-ben/feed) | JavaScript · ⭐ 113 | 2025-11-29 |
+| #1585 | [dazuma/toys](https://github.com/dazuma/toys) | Ruby · ⭐ 126 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1650,3 +1650,4 @@ Or let GitHub Action run it automatically.
 | 1582 | 2025-11-29 19:49:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108158⭐ Rust) | [reels/reel_1582_rust-lang-rust](reels/reel_1582_rust-lang-rust) |
 | 1583 | 2025-11-29 20:19:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120737⭐ Python) | [reels/reel_1583_langchain-ai-langchain](reels/reel_1583_langchain-ai-langchain) |
 | 1584 | 2025-11-29 20:40:48 | [factory-ben/feed](https://github.com/factory-ben/feed) | ✅ full (113⭐ JavaScript) | [reels/reel_1584_factory-ben-feed](reels/reel_1584_factory-ben-feed) |
+| 1585 | 2025-11-29 20:50:30 | [dazuma/toys](https://github.com/dazuma/toys) | ✅ full (126⭐ Ruby) | [reels/reel_1585_dazuma-toys](reels/reel_1585_dazuma-toys) |

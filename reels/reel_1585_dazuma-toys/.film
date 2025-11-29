@@ -1,0 +1,24 @@
+{
+  "reel_number": 1585,
+  "recorded": "2025-11-29 20:50:30 UTC",
+  "repository": {
+    "full_name": "dazuma/toys",
+    "url": "https://github.com/dazuma/toys",
+    "clone_url": "https://github.com/dazuma/toys.git",
+    "stars": 126,
+    "language": "Ruby",
+    "size_kb": 16065
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 1.22351
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 126 stars."
+  }
+}
