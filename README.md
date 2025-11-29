@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1585 | [dazuma/toys](https://github.com/dazuma/toys) | Ruby · ⭐ 126 | 2025-11-29 |
+| #1586 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1651,3 +1651,4 @@ Or let GitHub Action run it automatically.
 | 1583 | 2025-11-29 20:19:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120737⭐ Python) | [reels/reel_1583_langchain-ai-langchain](reels/reel_1583_langchain-ai-langchain) |
 | 1584 | 2025-11-29 20:40:48 | [factory-ben/feed](https://github.com/factory-ben/feed) | ✅ full (113⭐ JavaScript) | [reels/reel_1584_factory-ben-feed](reels/reel_1584_factory-ben-feed) |
 | 1585 | 2025-11-29 20:50:30 | [dazuma/toys](https://github.com/dazuma/toys) | ✅ full (126⭐ Ruby) | [reels/reel_1585_dazuma-toys](reels/reel_1585_dazuma-toys) |
+| 1586 | 2025-11-29 21:15:35 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101641⭐ None) | [reels/reel_1586_Hack-with-Github-Awesome-Hacking](reels/reel_1586_Hack-with-Github-Awesome-Hacking) |
