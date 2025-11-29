@@ -1,0 +1,24 @@
+{
+  "reel_number": 1564,
+  "recorded": "2025-11-29 13:49:58 UTC",
+  "repository": {
+    "full_name": "ATTWoWAddon/AllTheThings",
+    "url": "https://github.com/ATTWoWAddon/AllTheThings",
+    "clone_url": "https://github.com/ATTWoWAddon/AllTheThings.git",
+    "stars": 157,
+    "language": "Lua",
+    "size_kb": 6578243
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 6424,
+    "duration_seconds": 0.000147
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 157 stars."
+  }
+}

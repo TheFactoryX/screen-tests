@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1563 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-29 |
+| #1564 | [ATTWoWAddon/AllTheThings](https://github.com/ATTWoWAddon/AllTheThings) | Lua · ⭐ 157 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1629,3 +1629,4 @@ Or let GitHub Action run it automatically.
 | 1561 | 2025-11-29 12:34:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180010⭐ Python) | [reels/reel_1561_Significant-Gravitas-AutoGPT](reels/reel_1561_Significant-Gravitas-AutoGPT) |
 | 1562 | 2025-11-29 13:14:34 | [BTMuli/TeyvatGuide](https://github.com/BTMuli/TeyvatGuide) | ✅ shallow (268⭐ Vue) | [reels/reel_1562_BTMuli-TeyvatGuide](reels/reel_1562_BTMuli-TeyvatGuide) |
 | 1563 | 2025-11-29 13:37:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136617⭐ Python) | [reels/reel_1563_yt-dlp-yt-dlp](reels/reel_1563_yt-dlp-yt-dlp) |
+| 1564 | 2025-11-29 13:49:58 | [ATTWoWAddon/AllTheThings](https://github.com/ATTWoWAddon/AllTheThings) | ✅ readme_only (157⭐ Lua) | [reels/reel_1564_ATTWoWAddon-AllTheThings](reels/reel_1564_ATTWoWAddon-AllTheThings) |
