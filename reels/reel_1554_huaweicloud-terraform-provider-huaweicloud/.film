@@ -1,0 +1,24 @@
+{
+  "reel_number": 1554,
+  "recorded": "2025-11-29 10:18:23 UTC",
+  "repository": {
+    "full_name": "huaweicloud/terraform-provider-huaweicloud",
+    "url": "https://github.com/huaweicloud/terraform-provider-huaweicloud",
+    "clone_url": "https://github.com/huaweicloud/terraform-provider-huaweicloud.git",
+    "stars": 252,
+    "language": "Go",
+    "size_kb": 72649
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 70,
+    "duration_seconds": 6.403426
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 252 stars."
+  }
+}

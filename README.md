@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1553 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 381k | 2025-11-29 |
+| #1554 | [huaweicloud/terraform-provider-huaweicloud](https://github.com/huaweicloud/terraform-provider-huaweicloud) | Go · ⭐ 252 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1619,3 +1619,4 @@ Or let GitHub Action run it automatically.
 | 1551 | 2025-11-29 09:17:56 | [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) | ✅ full (965⭐ TypeScript) | [reels/reel_1551_RedPlanetHQ-core](reels/reel_1551_RedPlanetHQ-core) |
 | 1552 | 2025-11-29 09:38:42 | [noahgorstein/jqp](https://github.com/noahgorstein/jqp) | ✅ full (2717⭐ Go) | [reels/reel_1552_noahgorstein-jqp](reels/reel_1552_noahgorstein-jqp) |
 | 1553 | 2025-11-29 09:50:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381712⭐ Python) | [reels/reel_1553_public-apis-public-apis](reels/reel_1553_public-apis-public-apis) |
+| 1554 | 2025-11-29 10:18:23 | [huaweicloud/terraform-provider-huaweicloud](https://github.com/huaweicloud/terraform-provider-huaweicloud) | ✅ full (252⭐ Go) | [reels/reel_1554_huaweicloud-terraform-provider-huaweicloud](reels/reel_1554_huaweicloud-terraform-provider-huaweicloud) |
