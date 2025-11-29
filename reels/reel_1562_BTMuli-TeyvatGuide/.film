@@ -1,0 +1,24 @@
+{
+  "reel_number": 1562,
+  "recorded": "2025-11-29 13:14:34 UTC",
+  "repository": {
+    "full_name": "BTMuli/TeyvatGuide",
+    "url": "https://github.com/BTMuli/TeyvatGuide",
+    "clone_url": "https://github.com/BTMuli/TeyvatGuide.git",
+    "stars": 268,
+    "language": "Vue",
+    "size_kb": 179461
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 175,
+    "duration_seconds": 1.801915
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 268 stars."
+  }
+}
