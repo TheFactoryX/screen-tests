@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1579 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 103k | 2025-11-29 |
+| #1580 | [test157t/VRM-Assets-Pack-For-Silly-Tavern](https://github.com/test157t/VRM-Assets-Pack-For-Silly-Tavern) | None · ⭐ 54 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1645,3 +1645,4 @@ Or let GitHub Action run it automatically.
 | 1577 | 2025-11-29 18:24:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138982⭐ Python) | [reels/reel_1577_ytdl-org-youtube-dl](reels/reel_1577_ytdl-org-youtube-dl) |
 | 1578 | 2025-11-29 18:47:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120736⭐ Python) | [reels/reel_1578_langchain-ai-langchain](reels/reel_1578_langchain-ai-langchain) |
 | 1579 | 2025-11-29 19:13:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103746⭐ TypeScript) | [reels/reel_1579_iptv-org-iptv](reels/reel_1579_iptv-org-iptv) |
+| 1580 | 2025-11-29 19:27:11 | [test157t/VRM-Assets-Pack-For-Silly-Tavern](https://github.com/test157t/VRM-Assets-Pack-For-Silly-Tavern) | ✅ full (54⭐ None) | [reels/reel_1580_test157t-VRM-Assets-Pack-For-Silly-Tavern](reels/reel_1580_test157t-VRM-Assets-Pack-For-Silly-Tavern) |
