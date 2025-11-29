@@ -1,0 +1,24 @@
+{
+  "reel_number": 1574,
+  "recorded": "2025-11-29 17:15:20 UTC",
+  "repository": {
+    "full_name": "FunkinCrew/Funkin",
+    "url": "https://github.com/FunkinCrew/Funkin",
+    "clone_url": "https://github.com/FunkinCrew/Funkin.git",
+    "stars": 3383,
+    "language": "Haxe",
+    "size_kb": 816897
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 797,
+    "duration_seconds": 0.000143
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haxe",
+    "director_note": "A Haxe repository. 3383 stars."
+  }
+}
