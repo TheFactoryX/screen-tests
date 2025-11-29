@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1560 | [daeuniverse/daed](https://github.com/daeuniverse/daed) | TypeScript · ⭐ 817 | 2025-11-29 |
+| #1561 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1626,3 +1626,4 @@ Or let GitHub Action run it automatically.
 | 1558 | 2025-11-29 11:28:15 | [fribbels/hsr-optimizer](https://github.com/fribbels/hsr-optimizer) | ✅ readme_only (504⭐ TypeScript) | [reels/reel_1558_fribbels-hsr-optimizer](reels/reel_1558_fribbels-hsr-optimizer) |
 | 1559 | 2025-11-29 11:40:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100939⭐ TypeScript) | [reels/reel_1559_shadcn-ui-ui](reels/reel_1559_shadcn-ui-ui) |
 | 1560 | 2025-11-29 11:50:19 | [daeuniverse/daed](https://github.com/daeuniverse/daed) | ✅ full (817⭐ TypeScript) | [reels/reel_1560_daeuniverse-daed](reels/reel_1560_daeuniverse-daed) |
+| 1561 | 2025-11-29 12:34:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180010⭐ Python) | [reels/reel_1561_Significant-Gravitas-AutoGPT](reels/reel_1561_Significant-Gravitas-AutoGPT) |
