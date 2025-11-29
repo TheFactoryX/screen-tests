@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1557 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-29 |
+| #1558 | [fribbels/hsr-optimizer](https://github.com/fribbels/hsr-optimizer) | TypeScript · ⭐ 504 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1623,3 +1623,4 @@ Or let GitHub Action run it automatically.
 | 1555 | 2025-11-29 10:41:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120724⭐ Python) | [reels/reel_1555_langchain-ai-langchain](reels/reel_1555_langchain-ai-langchain) |
 | 1556 | 2025-11-29 10:51:22 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251236⭐ None) | [reels/reel_1556_practical-tutorials-project-based-learning](reels/reel_1556_practical-tutorials-project-based-learning) |
 | 1557 | 2025-11-29 11:14:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116529⭐ Svelte) | [reels/reel_1557_open-webui-open-webui](reels/reel_1557_open-webui-open-webui) |
+| 1558 | 2025-11-29 11:28:15 | [fribbels/hsr-optimizer](https://github.com/fribbels/hsr-optimizer) | ✅ readme_only (504⭐ TypeScript) | [reels/reel_1558_fribbels-hsr-optimizer](reels/reel_1558_fribbels-hsr-optimizer) |

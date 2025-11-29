@@ -1,0 +1,24 @@
+{
+  "reel_number": 1558,
+  "recorded": "2025-11-29 11:28:15 UTC",
+  "repository": {
+    "full_name": "fribbels/hsr-optimizer",
+    "url": "https://github.com/fribbels/hsr-optimizer",
+    "clone_url": "https://github.com/fribbels/hsr-optimizer.git",
+    "stars": 504,
+    "language": "TypeScript",
+    "size_kb": 904664
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 883,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 504 stars."
+  }
+}
