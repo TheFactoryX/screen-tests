@@ -1,0 +1,24 @@
+{
+  "reel_number": 1548,
+  "recorded": "2025-11-29 07:49:44 UTC",
+  "repository": {
+    "full_name": "lukso-network/lukso-playground",
+    "url": "https://github.com/lukso-network/lukso-playground",
+    "clone_url": "https://github.com/lukso-network/lukso-playground.git",
+    "stars": 23,
+    "language": "TypeScript",
+    "size_kb": 4735
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.468596
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 23 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1547 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-29 |
+| #1548 | [lukso-network/lukso-playground](https://github.com/lukso-network/lukso-playground) | TypeScript · ⭐ 23 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1613,3 +1613,4 @@ Or let GitHub Action run it automatically.
 | 1545 | 2025-11-29 06:50:40 | [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) | ✅ full (884⭐ TypeScript) | [reels/reel_1545_margelo-react-native-quick-crypto](reels/reel_1545_margelo-react-native-quick-crypto) |
 | 1546 | 2025-11-29 07:17:02 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108143⭐ Rust) | [reels/reel_1546_rust-lang-rust](reels/reel_1546_rust-lang-rust) |
 | 1547 | 2025-11-29 07:37:18 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100426⭐ Python) | [reels/reel_1547_deepseek-ai-DeepSeek-V3](reels/reel_1547_deepseek-ai-DeepSeek-V3) |
+| 1548 | 2025-11-29 07:49:44 | [lukso-network/lukso-playground](https://github.com/lukso-network/lukso-playground) | ✅ full (23⭐ TypeScript) | [reels/reel_1548_lukso-network-lukso-playground](reels/reel_1548_lukso-network-lukso-playground) |
