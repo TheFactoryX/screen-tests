@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1552 | [noahgorstein/jqp](https://github.com/noahgorstein/jqp) | Go · ⭐ 2k | 2025-11-29 |
+| #1553 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 381k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1618,3 +1618,4 @@ Or let GitHub Action run it automatically.
 | 1550 | 2025-11-29 08:45:55 | [Quramy/pico-ml](https://github.com/Quramy/pico-ml) | ✅ full (51⭐ TypeScript) | [reels/reel_1550_Quramy-pico-ml](reels/reel_1550_Quramy-pico-ml) |
 | 1551 | 2025-11-29 09:17:56 | [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) | ✅ full (965⭐ TypeScript) | [reels/reel_1551_RedPlanetHQ-core](reels/reel_1551_RedPlanetHQ-core) |
 | 1552 | 2025-11-29 09:38:42 | [noahgorstein/jqp](https://github.com/noahgorstein/jqp) | ✅ full (2717⭐ Go) | [reels/reel_1552_noahgorstein-jqp](reels/reel_1552_noahgorstein-jqp) |
+| 1553 | 2025-11-29 09:50:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381712⭐ Python) | [reels/reel_1553_public-apis-public-apis](reels/reel_1553_public-apis-public-apis) |
