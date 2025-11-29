@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1582 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-29 |
+| #1583 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1648,3 +1648,4 @@ Or let GitHub Action run it automatically.
 | 1580 | 2025-11-29 19:27:11 | [test157t/VRM-Assets-Pack-For-Silly-Tavern](https://github.com/test157t/VRM-Assets-Pack-For-Silly-Tavern) | ✅ full (54⭐ None) | [reels/reel_1580_test157t-VRM-Assets-Pack-For-Silly-Tavern](reels/reel_1580_test157t-VRM-Assets-Pack-For-Silly-Tavern) |
 | 1581 | 2025-11-29 19:38:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180016⭐ Python) | [reels/reel_1581_Significant-Gravitas-AutoGPT](reels/reel_1581_Significant-Gravitas-AutoGPT) |
 | 1582 | 2025-11-29 19:49:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108158⭐ Rust) | [reels/reel_1582_rust-lang-rust](reels/reel_1582_rust-lang-rust) |
+| 1583 | 2025-11-29 20:19:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120737⭐ Python) | [reels/reel_1583_langchain-ai-langchain](reels/reel_1583_langchain-ai-langchain) |
