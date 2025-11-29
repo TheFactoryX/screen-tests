@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1570 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 251k | 2025-11-29 |
+| #1571 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1636,3 +1636,4 @@ Or let GitHub Action run it automatically.
 | 1568 | 2025-11-29 15:16:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120731⭐ Python) | [reels/reel_1568_langchain-ai-langchain](reels/reel_1568_langchain-ai-langchain) |
 | 1569 | 2025-11-29 15:38:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138981⭐ Python) | [reels/reel_1569_ytdl-org-youtube-dl](reels/reel_1569_ytdl-org-youtube-dl) |
 | 1570 | 2025-11-29 15:49:42 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251264⭐ None) | [reels/reel_1570_practical-tutorials-project-based-learning](reels/reel_1570_practical-tutorials-project-based-learning) |
+| 1571 | 2025-11-29 16:21:09 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100943⭐ TypeScript) | [reels/reel_1571_shadcn-ui-ui](reels/reel_1571_shadcn-ui-ui) |
