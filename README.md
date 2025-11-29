@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1539 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-29 |
+| #1540 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1605,3 +1605,4 @@ Or let GitHub Action run it automatically.
 | 1537 | 2025-11-29 03:43:36 | [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) | ✅ full (237⭐ Go) | [reels/reel_1537_seaweedfs-seaweedfs-operator](reels/reel_1537_seaweedfs-seaweedfs-operator) |
 | 1538 | 2025-11-29 04:00:01 | [LukePrior/nbn-upgrade-map](https://github.com/LukePrior/nbn-upgrade-map) | ✅ readme_only (196⭐ Python) | [reels/reel_1538_LukePrior-nbn-upgrade-map](reels/reel_1538_LukePrior-nbn-upgrade-map) |
 | 1539 | 2025-11-29 04:32:47 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100922⭐ TypeScript) | [reels/reel_1539_shadcn-ui-ui](reels/reel_1539_shadcn-ui-ui) |
+| 1540 | 2025-11-29 04:52:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116510⭐ Svelte) | [reels/reel_1540_open-webui-open-webui](reels/reel_1540_open-webui-open-webui) |
