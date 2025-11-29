@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1545 | [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) | TypeScript · ⭐ 884 | 2025-11-29 |
+| #1546 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1611,3 +1611,4 @@ Or let GitHub Action run it automatically.
 | 1543 | 2025-11-29 05:51:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136581⭐ Python) | [reels/reel_1543_yt-dlp-yt-dlp](reels/reel_1543_yt-dlp-yt-dlp) |
 | 1544 | 2025-11-29 06:26:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99404⭐ Rust) | [reels/reel_1544_tauri-apps-tauri](reels/reel_1544_tauri-apps-tauri) |
 | 1545 | 2025-11-29 06:50:40 | [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) | ✅ full (884⭐ TypeScript) | [reels/reel_1545_margelo-react-native-quick-crypto](reels/reel_1545_margelo-react-native-quick-crypto) |
+| 1546 | 2025-11-29 07:17:02 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108143⭐ Rust) | [reels/reel_1546_rust-lang-rust](reels/reel_1546_rust-lang-rust) |
