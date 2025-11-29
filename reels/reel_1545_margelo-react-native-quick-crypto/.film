@@ -1,0 +1,24 @@
+{
+  "reel_number": 1545,
+  "recorded": "2025-11-29 06:50:40 UTC",
+  "repository": {
+    "full_name": "margelo/react-native-quick-crypto",
+    "url": "https://github.com/margelo/react-native-quick-crypto",
+    "clone_url": "https://github.com/margelo/react-native-quick-crypto.git",
+    "stars": 884,
+    "language": "TypeScript",
+    "size_kb": 10188
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 1.05015
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 884 stars."
+  }
+}
