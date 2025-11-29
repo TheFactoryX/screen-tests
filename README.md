@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1577 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-29 |
+| #1578 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1643,3 +1643,4 @@ Or let GitHub Action run it automatically.
 | 1575 | 2025-11-29 17:38:28 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (400⭐ None) | [reels/reel_1575_zloi-user-hideip.me](reels/reel_1575_zloi-user-hideip.me) |
 | 1576 | 2025-11-29 17:50:14 | [mayocream/koharu](https://github.com/mayocream/koharu) | ✅ full (227⭐ Rust) | [reels/reel_1576_mayocream-koharu](reels/reel_1576_mayocream-koharu) |
 | 1577 | 2025-11-29 18:24:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138982⭐ Python) | [reels/reel_1577_ytdl-org-youtube-dl](reels/reel_1577_ytdl-org-youtube-dl) |
+| 1578 | 2025-11-29 18:47:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120736⭐ Python) | [reels/reel_1578_langchain-ai-langchain](reels/reel_1578_langchain-ai-langchain) |
