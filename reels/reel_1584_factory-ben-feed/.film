@@ -1,0 +1,24 @@
+{
+  "reel_number": 1584,
+  "recorded": "2025-11-29 20:40:48 UTC",
+  "repository": {
+    "full_name": "factory-ben/feed",
+    "url": "https://github.com/factory-ben/feed",
+    "clone_url": "https://github.com/factory-ben/feed.git",
+    "stars": 113,
+    "language": "JavaScript",
+    "size_kb": 8697
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.375695
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 113 stars."
+  }
+}

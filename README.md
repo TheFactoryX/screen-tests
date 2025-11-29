@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1583 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-29 |
+| #1584 | [factory-ben/feed](https://github.com/factory-ben/feed) | JavaScript · ⭐ 113 | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1649,3 +1649,4 @@ Or let GitHub Action run it automatically.
 | 1581 | 2025-11-29 19:38:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180016⭐ Python) | [reels/reel_1581_Significant-Gravitas-AutoGPT](reels/reel_1581_Significant-Gravitas-AutoGPT) |
 | 1582 | 2025-11-29 19:49:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108158⭐ Rust) | [reels/reel_1582_rust-lang-rust](reels/reel_1582_rust-lang-rust) |
 | 1583 | 2025-11-29 20:19:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120737⭐ Python) | [reels/reel_1583_langchain-ai-langchain](reels/reel_1583_langchain-ai-langchain) |
+| 1584 | 2025-11-29 20:40:48 | [factory-ben/feed](https://github.com/factory-ben/feed) | ✅ full (113⭐ JavaScript) | [reels/reel_1584_factory-ben-feed](reels/reel_1584_factory-ben-feed) |
