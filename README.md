@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1555 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-29 |
+| #1556 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 251k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1621,3 +1621,4 @@ Or let GitHub Action run it automatically.
 | 1553 | 2025-11-29 09:50:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381712⭐ Python) | [reels/reel_1553_public-apis-public-apis](reels/reel_1553_public-apis-public-apis) |
 | 1554 | 2025-11-29 10:18:23 | [huaweicloud/terraform-provider-huaweicloud](https://github.com/huaweicloud/terraform-provider-huaweicloud) | ✅ full (252⭐ Go) | [reels/reel_1554_huaweicloud-terraform-provider-huaweicloud](reels/reel_1554_huaweicloud-terraform-provider-huaweicloud) |
 | 1555 | 2025-11-29 10:41:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120724⭐ Python) | [reels/reel_1555_langchain-ai-langchain](reels/reel_1555_langchain-ai-langchain) |
+| 1556 | 2025-11-29 10:51:22 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251236⭐ None) | [reels/reel_1556_practical-tutorials-project-based-learning](reels/reel_1556_practical-tutorials-project-based-learning) |
