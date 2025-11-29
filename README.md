@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1542 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-29 |
+| #1543 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-29 |
 ---
 
 ## 🎭 Selection Process
@@ -1608,3 +1608,4 @@ Or let GitHub Action run it automatically.
 | 1540 | 2025-11-29 04:52:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116510⭐ Svelte) | [reels/reel_1540_open-webui-open-webui](reels/reel_1540_open-webui-open-webui) |
 | 1541 | 2025-11-29 05:18:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108144⭐ Rust) | [reels/reel_1541_rust-lang-rust](reels/reel_1541_rust-lang-rust) |
 | 1542 | 2025-11-29 05:41:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100925⭐ TypeScript) | [reels/reel_1542_shadcn-ui-ui](reels/reel_1542_shadcn-ui-ui) |
+| 1543 | 2025-11-29 05:51:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136581⭐ Python) | [reels/reel_1543_yt-dlp-yt-dlp](reels/reel_1543_yt-dlp-yt-dlp) |
