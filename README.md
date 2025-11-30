@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1615 | [programmablemd/spry](https://github.com/programmablemd/spry) | TypeScript · ⭐ 132 | 2025-11-30 |
+| #1616 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 660 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1681,3 +1681,4 @@ Or let GitHub Action run it automatically.
 | 1613 | 2025-11-30 10:17:38 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91541⭐ None) | [reels/reel_1613_deepseek-ai-DeepSeek-R1](reels/reel_1613_deepseek-ai-DeepSeek-R1) |
 | 1614 | 2025-11-30 10:41:05 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100444⭐ Python) | [reels/reel_1614_deepseek-ai-DeepSeek-V3](reels/reel_1614_deepseek-ai-DeepSeek-V3) |
 | 1615 | 2025-11-30 10:50:42 | [programmablemd/spry](https://github.com/programmablemd/spry) | ✅ full (132⭐ TypeScript) | [reels/reel_1615_programmablemd-spry](reels/reel_1615_programmablemd-spry) |
+| 1616 | 2025-11-30 11:15:24 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (660⭐ Tcl) | [reels/reel_1616_rust-lang-crates.io-index](reels/reel_1616_rust-lang-crates.io-index) |
