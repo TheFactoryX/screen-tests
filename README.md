@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1639 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 250 | 2025-11-30 |
+| #1640 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 251k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1705,3 +1705,4 @@ Or let GitHub Action run it automatically.
 | 1637 | 2025-11-30 18:47:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136728⭐ Python) | [reels/reel_1637_yt-dlp-yt-dlp](reels/reel_1637_yt-dlp-yt-dlp) |
 | 1638 | 2025-11-30 19:14:28 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100987⭐ TypeScript) | [reels/reel_1638_shadcn-ui-ui](reels/reel_1638_shadcn-ui-ui) |
 | 1639 | 2025-11-30 19:27:45 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (250⭐ None) | [reels/reel_1639_hello-world-1989-cn-news](reels/reel_1639_hello-world-1989-cn-news) |
+| 1640 | 2025-11-30 19:39:06 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251362⭐ None) | [reels/reel_1640_practical-tutorials-project-based-learning](reels/reel_1640_practical-tutorials-project-based-learning) |
