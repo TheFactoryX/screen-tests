@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1601 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-30 |
+| #1602 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 138k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1667,3 +1667,4 @@ Or let GitHub Action run it automatically.
 | 1599 | 2025-11-30 05:17:49 | [nix-community/nur-combined](https://github.com/nix-community/nur-combined) | ✅ readme_only (169⭐ Nix) | [reels/reel_1599_nix-community-nur-combined](reels/reel_1599_nix-community-nur-combined) |
 | 1600 | 2025-11-30 05:42:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100965⭐ TypeScript) | [reels/reel_1600_shadcn-ui-ui](reels/reel_1600_shadcn-ui-ui) |
 | 1601 | 2025-11-30 05:51:58 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99434⭐ Rust) | [reels/reel_1601_tauri-apps-tauri](reels/reel_1601_tauri-apps-tauri) |
+| 1602 | 2025-11-30 06:27:24 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138983⭐ Python) | [reels/reel_1602_ytdl-org-youtube-dl](reels/reel_1602_ytdl-org-youtube-dl) |
