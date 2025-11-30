@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1641 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-30 |
+| #1642 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 381k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1707,3 +1707,4 @@ Or let GitHub Action run it automatically.
 | 1639 | 2025-11-30 19:27:45 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (250⭐ None) | [reels/reel_1639_hello-world-1989-cn-news](reels/reel_1639_hello-world-1989-cn-news) |
 | 1640 | 2025-11-30 19:39:06 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251362⭐ None) | [reels/reel_1640_practical-tutorials-project-based-learning](reels/reel_1640_practical-tutorials-project-based-learning) |
 | 1641 | 2025-11-30 19:50:10 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91544⭐ None) | [reels/reel_1641_deepseek-ai-DeepSeek-R1](reels/reel_1641_deepseek-ai-DeepSeek-R1) |
+| 1642 | 2025-11-30 20:19:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381992⭐ Python) | [reels/reel_1642_public-apis-public-apis](reels/reel_1642_public-apis-public-apis) |
