@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1647 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-30 |
+| #1648 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1713,3 +1713,4 @@ Or let GitHub Action run it automatically.
 | 1645 | 2025-11-30 21:15:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120795⭐ Python) | [reels/reel_1645_langchain-ai-langchain](reels/reel_1645_langchain-ai-langchain) |
 | 1646 | 2025-11-30 21:37:08 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260824⭐ None) | [reels/reel_1646_awesome-selfhosted-awesome-selfhosted](reels/reel_1646_awesome-selfhosted-awesome-selfhosted) |
 | 1647 | 2025-11-30 21:50:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100988⭐ TypeScript) | [reels/reel_1647_shadcn-ui-ui](reels/reel_1647_shadcn-ui-ui) |
+| 1648 | 2025-11-30 22:17:09 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100450⭐ Python) | [reels/reel_1648_deepseek-ai-DeepSeek-V3](reels/reel_1648_deepseek-ai-DeepSeek-V3) |
