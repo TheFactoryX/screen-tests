@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1634 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-30 |
+| #1635 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 444k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1700,3 +1700,4 @@ Or let GitHub Action run it automatically.
 | 1632 | 2025-11-30 16:54:55 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96808⭐ TypeScript) | [reels/reel_1632_ant-design-ant-design](reels/reel_1632_ant-design-ant-design) |
 | 1633 | 2025-11-30 17:15:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108176⭐ Rust) | [reels/reel_1633_rust-lang-rust](reels/reel_1633_rust-lang-rust) |
 | 1634 | 2025-11-30 17:38:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120791⭐ Python) | [reels/reel_1634_langchain-ai-langchain](reels/reel_1634_langchain-ai-langchain) |
+| 1635 | 2025-11-30 17:49:53 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (444655⭐ Markdown) | [reels/reel_1635_codecrafters-io-build-your-own-x](reels/reel_1635_codecrafters-io-build-your-own-x) |
