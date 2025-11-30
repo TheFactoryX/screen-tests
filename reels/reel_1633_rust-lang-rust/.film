@@ -1,0 +1,24 @@
+{
+  "reel_number": 1633,
+  "recorded": "2025-11-30 17:15:16 UTC",
+  "repository": {
+    "full_name": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "clone_url": "https://github.com/rust-lang/rust.git",
+    "stars": 108176,
+    "language": "Rust",
+    "size_kb": 801925
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 783,
+    "duration_seconds": 0.000113
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 108176 stars."
+  }
+}

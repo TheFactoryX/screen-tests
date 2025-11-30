@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1632 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-11-30 |
+| #1633 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1698,3 +1698,4 @@ Or let GitHub Action run it automatically.
 | 1630 | 2025-11-30 16:20:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136721⭐ Python) | [reels/reel_1630_yt-dlp-yt-dlp](reels/reel_1630_yt-dlp-yt-dlp) |
 | 1631 | 2025-11-30 16:44:51 | [OpenSourceAGI/StarterDOCS](https://github.com/OpenSourceAGI/StarterDOCS) | ✅ full (37⭐ JavaScript) | [reels/reel_1631_OpenSourceAGI-StarterDOCS](reels/reel_1631_OpenSourceAGI-StarterDOCS) |
 | 1632 | 2025-11-30 16:54:55 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96808⭐ TypeScript) | [reels/reel_1632_ant-design-ant-design](reels/reel_1632_ant-design-ant-design) |
+| 1633 | 2025-11-30 17:15:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108176⭐ Rust) | [reels/reel_1633_rust-lang-rust](reels/reel_1633_rust-lang-rust) |
