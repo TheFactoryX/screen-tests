@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1597 | [apache/shardingsphere-doc](https://github.com/apache/shardingsphere-doc) | HTML · ⭐ 170 | 2025-11-30 |
+| #1598 | [lalifeier/IPTV](https://github.com/lalifeier/IPTV) | Python · ⭐ 332 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1663,3 +1663,4 @@ Or let GitHub Action run it automatically.
 | 1595 | 2025-11-30 01:40:41 | [pnp/pnpcore](https://github.com/pnp/pnpcore) | ✅ shallow (340⭐ C#) | [reels/reel_1595_pnp-pnpcore](reels/reel_1595_pnp-pnpcore) |
 | 1596 | 2025-11-30 03:16:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139786⭐ Python) | [reels/reel_1596_langflow-ai-langflow](reels/reel_1596_langflow-ai-langflow) |
 | 1597 | 2025-11-30 04:09:04 | [apache/shardingsphere-doc](https://github.com/apache/shardingsphere-doc) | ✅ readme_only (170⭐ HTML) | [reels/reel_1597_apache-shardingsphere-doc](reels/reel_1597_apache-shardingsphere-doc) |
+| 1598 | 2025-11-30 04:46:59 | [lalifeier/IPTV](https://github.com/lalifeier/IPTV) | ✅ readme_only (332⭐ Python) | [reels/reel_1598_lalifeier-IPTV](reels/reel_1598_lalifeier-IPTV) |

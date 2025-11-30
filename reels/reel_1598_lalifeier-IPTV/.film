@@ -1,0 +1,24 @@
+{
+  "reel_number": 1598,
+  "recorded": "2025-11-30 04:46:59 UTC",
+  "repository": {
+    "full_name": "lalifeier/IPTV",
+    "url": "https://github.com/lalifeier/IPTV",
+    "clone_url": "https://github.com/lalifeier/IPTV.git",
+    "stars": 332,
+    "language": "Python",
+    "size_kb": 1507951
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1472,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 332 stars."
+  }
+}
