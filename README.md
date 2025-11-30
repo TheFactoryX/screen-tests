@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1644 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-30 |
+| #1645 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1710,3 +1710,4 @@ Or let GitHub Action run it automatically.
 | 1642 | 2025-11-30 20:19:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (381992⭐ Python) | [reels/reel_1642_public-apis-public-apis](reels/reel_1642_public-apis-public-apis) |
 | 1643 | 2025-11-30 20:40:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103891⭐ TypeScript) | [reels/reel_1643_iptv-org-iptv](reels/reel_1643_iptv-org-iptv) |
 | 1644 | 2025-11-30 20:50:58 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100988⭐ TypeScript) | [reels/reel_1644_shadcn-ui-ui](reels/reel_1644_shadcn-ui-ui) |
+| 1645 | 2025-11-30 21:15:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120795⭐ Python) | [reels/reel_1645_langchain-ai-langchain](reels/reel_1645_langchain-ai-langchain) |
