@@ -1,0 +1,24 @@
+{
+  "reel_number": 1629,
+  "recorded": "2025-11-30 15:50:27 UTC",
+  "repository": {
+    "full_name": "Scriptez1/RedXFreeSteamInstaller",
+    "url": "https://github.com/Scriptez1/RedXFreeSteamInstaller",
+    "clone_url": "https://github.com/Scriptez1/RedXFreeSteamInstaller.git",
+    "stars": 158,
+    "language": null,
+    "size_kb": 3581754
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 3497,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 158 stars."
+  }
+}

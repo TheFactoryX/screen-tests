@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1628 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-30 |
+| #1629 | [Scriptez1/RedXFreeSteamInstaller](https://github.com/Scriptez1/RedXFreeSteamInstaller) | None · ⭐ 158 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1694,3 +1694,4 @@ Or let GitHub Action run it automatically.
 | 1626 | 2025-11-30 14:49:53 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108172⭐ Rust) | [reels/reel_1626_rust-lang-rust](reels/reel_1626_rust-lang-rust) |
 | 1627 | 2025-11-30 15:16:57 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (444635⭐ Markdown) | [reels/reel_1627_codecrafters-io-build-your-own-x](reels/reel_1627_codecrafters-io-build-your-own-x) |
 | 1628 | 2025-11-30 15:38:08 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99448⭐ Rust) | [reels/reel_1628_tauri-apps-tauri](reels/reel_1628_tauri-apps-tauri) |
+| 1629 | 2025-11-30 15:50:27 | [Scriptez1/RedXFreeSteamInstaller](https://github.com/Scriptez1/RedXFreeSteamInstaller) | ✅ readme_only (158⭐ None) | [reels/reel_1629_Scriptez1-RedXFreeSteamInstaller](reels/reel_1629_Scriptez1-RedXFreeSteamInstaller) |
