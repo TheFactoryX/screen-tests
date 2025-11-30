@@ -1,0 +1,24 @@
+{
+  "reel_number": 1595,
+  "recorded": "2025-11-30 01:40:41 UTC",
+  "repository": {
+    "full_name": "pnp/pnpcore",
+    "url": "https://github.com/pnp/pnpcore",
+    "clone_url": "https://github.com/pnp/pnpcore.git",
+    "stars": 340,
+    "language": "C#",
+    "size_kb": 179958
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 175,
+    "duration_seconds": 6.293342
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 340 stars."
+  }
+}
