@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1611 | [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) | TypeScript · ⭐ 320 | 2025-11-30 |
+| #1612 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 103k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1677,3 +1677,4 @@ Or let GitHub Action run it automatically.
 | 1609 | 2025-11-30 08:53:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116598⭐ Svelte) | [reels/reel_1609_open-webui-open-webui](reels/reel_1609_open-webui-open-webui) |
 | 1610 | 2025-11-30 09:17:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103820⭐ TypeScript) | [reels/reel_1610_iptv-org-iptv](reels/reel_1610_iptv-org-iptv) |
 | 1611 | 2025-11-30 09:38:24 | [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) | ✅ shallow (320⭐ TypeScript) | [reels/reel_1611_KartikLabhshetwar-stage](reels/reel_1611_KartikLabhshetwar-stage) |
+| 1612 | 2025-11-30 09:49:47 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103823⭐ TypeScript) | [reels/reel_1612_iptv-org-iptv](reels/reel_1612_iptv-org-iptv) |
