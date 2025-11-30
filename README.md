@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1613 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-30 |
+| #1614 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1679,3 +1679,4 @@ Or let GitHub Action run it automatically.
 | 1611 | 2025-11-30 09:38:24 | [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) | ✅ shallow (320⭐ TypeScript) | [reels/reel_1611_KartikLabhshetwar-stage](reels/reel_1611_KartikLabhshetwar-stage) |
 | 1612 | 2025-11-30 09:49:47 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103823⭐ TypeScript) | [reels/reel_1612_iptv-org-iptv](reels/reel_1612_iptv-org-iptv) |
 | 1613 | 2025-11-30 10:17:38 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91541⭐ None) | [reels/reel_1613_deepseek-ai-DeepSeek-R1](reels/reel_1613_deepseek-ai-DeepSeek-R1) |
+| 1614 | 2025-11-30 10:41:05 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100444⭐ Python) | [reels/reel_1614_deepseek-ai-DeepSeek-V3](reels/reel_1614_deepseek-ai-DeepSeek-V3) |
