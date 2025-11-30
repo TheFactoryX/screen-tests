@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1609 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-11-30 |
+| #1610 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 103k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1675,3 +1675,4 @@ Or let GitHub Action run it automatically.
 | 1607 | 2025-11-30 08:22:12 | [APIJSON/APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) | ✅ full (462⭐ JavaScript) | [reels/reel_1607_APIJSON-APIJSON-Demo](reels/reel_1607_APIJSON-APIJSON-Demo) |
 | 1608 | 2025-11-30 08:43:22 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91540⭐ None) | [reels/reel_1608_deepseek-ai-DeepSeek-R1](reels/reel_1608_deepseek-ai-DeepSeek-R1) |
 | 1609 | 2025-11-30 08:53:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116598⭐ Svelte) | [reels/reel_1609_open-webui-open-webui](reels/reel_1609_open-webui-open-webui) |
+| 1610 | 2025-11-30 09:17:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (103820⭐ TypeScript) | [reels/reel_1610_iptv-org-iptv](reels/reel_1610_iptv-org-iptv) |
