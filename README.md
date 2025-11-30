@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1607 | [APIJSON/APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) | JavaScript · ⭐ 462 | 2025-11-30 |
+| #1608 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1673,3 +1673,4 @@ Or let GitHub Action run it automatically.
 | 1605 | 2025-11-30 07:36:26 | [jobright-ai/2025-Data-Analysis-Internship](https://github.com/jobright-ai/2025-Data-Analysis-Internship) | ✅ full (108⭐ None) | [reels/reel_1605_jobright-ai-2025-Data-Analysis-Internship](reels/reel_1605_jobright-ai-2025-Data-Analysis-Internship) |
 | 1606 | 2025-11-30 07:49:38 | [piggz/harbour-amazfish](https://github.com/piggz/harbour-amazfish) | ✅ full (117⭐ C++) | [reels/reel_1606_piggz-harbour-amazfish](reels/reel_1606_piggz-harbour-amazfish) |
 | 1607 | 2025-11-30 08:22:12 | [APIJSON/APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) | ✅ full (462⭐ JavaScript) | [reels/reel_1607_APIJSON-APIJSON-Demo](reels/reel_1607_APIJSON-APIJSON-Demo) |
+| 1608 | 2025-11-30 08:43:22 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91540⭐ None) | [reels/reel_1608_deepseek-ai-DeepSeek-R1](reels/reel_1608_deepseek-ai-DeepSeek-R1) |
