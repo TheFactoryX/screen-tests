@@ -1,0 +1,24 @@
+{
+  "reel_number": 1606,
+  "recorded": "2025-11-30 07:49:38 UTC",
+  "repository": {
+    "full_name": "piggz/harbour-amazfish",
+    "url": "https://github.com/piggz/harbour-amazfish",
+    "clone_url": "https://github.com/piggz/harbour-amazfish.git",
+    "stars": 117,
+    "language": "C++",
+    "size_kb": 15873
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 0.661165
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 117 stars."
+  }
+}
