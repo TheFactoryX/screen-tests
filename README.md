@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1633 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-11-30 |
+| #1634 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1699,3 +1699,4 @@ Or let GitHub Action run it automatically.
 | 1631 | 2025-11-30 16:44:51 | [OpenSourceAGI/StarterDOCS](https://github.com/OpenSourceAGI/StarterDOCS) | ✅ full (37⭐ JavaScript) | [reels/reel_1631_OpenSourceAGI-StarterDOCS](reels/reel_1631_OpenSourceAGI-StarterDOCS) |
 | 1632 | 2025-11-30 16:54:55 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96808⭐ TypeScript) | [reels/reel_1632_ant-design-ant-design](reels/reel_1632_ant-design-ant-design) |
 | 1633 | 2025-11-30 17:15:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108176⭐ Rust) | [reels/reel_1633_rust-lang-rust](reels/reel_1633_rust-lang-rust) |
+| 1634 | 2025-11-30 17:38:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120791⭐ Python) | [reels/reel_1634_langchain-ai-langchain](reels/reel_1634_langchain-ai-langchain) |
