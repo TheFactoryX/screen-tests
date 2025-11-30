@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1630 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-30 |
+| #1631 | [OpenSourceAGI/StarterDOCS](https://github.com/OpenSourceAGI/StarterDOCS) | JavaScript · ⭐ 37 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1696,3 +1696,4 @@ Or let GitHub Action run it automatically.
 | 1628 | 2025-11-30 15:38:08 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99448⭐ Rust) | [reels/reel_1628_tauri-apps-tauri](reels/reel_1628_tauri-apps-tauri) |
 | 1629 | 2025-11-30 15:50:27 | [Scriptez1/RedXFreeSteamInstaller](https://github.com/Scriptez1/RedXFreeSteamInstaller) | ✅ readme_only (158⭐ None) | [reels/reel_1629_Scriptez1-RedXFreeSteamInstaller](reels/reel_1629_Scriptez1-RedXFreeSteamInstaller) |
 | 1630 | 2025-11-30 16:20:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136721⭐ Python) | [reels/reel_1630_yt-dlp-yt-dlp](reels/reel_1630_yt-dlp-yt-dlp) |
+| 1631 | 2025-11-30 16:44:51 | [OpenSourceAGI/StarterDOCS](https://github.com/OpenSourceAGI/StarterDOCS) | ✅ full (37⭐ JavaScript) | [reels/reel_1631_OpenSourceAGI-StarterDOCS](reels/reel_1631_OpenSourceAGI-StarterDOCS) |
