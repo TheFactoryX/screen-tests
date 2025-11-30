@@ -1,0 +1,24 @@
+{
+  "reel_number": 1611,
+  "recorded": "2025-11-30 09:38:24 UTC",
+  "repository": {
+    "full_name": "KartikLabhshetwar/stage",
+    "url": "https://github.com/KartikLabhshetwar/stage",
+    "clone_url": "https://github.com/KartikLabhshetwar/stage.git",
+    "stars": 320,
+    "language": "TypeScript",
+    "size_kb": 273175
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 266,
+    "duration_seconds": 5.064826
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 320 stars."
+  }
+}
