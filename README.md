@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1651 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-11-30 |
+| #1652 | [Numi2/zk-proof-of-funds](https://github.com/Numi2/zk-proof-of-funds) | Rust · ⭐ 12 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1717,3 +1717,4 @@ Or let GitHub Action run it automatically.
 | 1649 | 2025-11-30 22:40:57 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99458⭐ Rust) | [reels/reel_1649_tauri-apps-tauri](reels/reel_1649_tauri-apps-tauri) |
 | 1650 | 2025-11-30 22:50:19 | [braintrustdata/braintrust-proxy](https://github.com/braintrustdata/braintrust-proxy) | ✅ full (377⭐ TypeScript) | [reels/reel_1650_braintrustdata-braintrust-proxy](reels/reel_1650_braintrustdata-braintrust-proxy) |
 | 1651 | 2025-11-30 23:16:32 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159725⭐ TypeScript) | [reels/reel_1651_n8n-io-n8n](reels/reel_1651_n8n-io-n8n) |
+| 1652 | 2025-11-30 23:38:20 | [Numi2/zk-proof-of-funds](https://github.com/Numi2/zk-proof-of-funds) | ✅ readme_only (12⭐ Rust) | [reels/reel_1652_Numi2-zk-proof-of-funds](reels/reel_1652_Numi2-zk-proof-of-funds) |
