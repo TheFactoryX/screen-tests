@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1604 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-30 |
+| #1605 | [jobright-ai/2025-Data-Analysis-Internship](https://github.com/jobright-ai/2025-Data-Analysis-Internship) | None · ⭐ 108 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1670,3 +1670,4 @@ Or let GitHub Action run it automatically.
 | 1602 | 2025-11-30 06:27:24 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138983⭐ Python) | [reels/reel_1602_ytdl-org-youtube-dl](reels/reel_1602_ytdl-org-youtube-dl) |
 | 1603 | 2025-11-30 06:51:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120765⭐ Python) | [reels/reel_1603_langchain-ai-langchain](reels/reel_1603_langchain-ai-langchain) |
 | 1604 | 2025-11-30 07:16:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260733⭐ None) | [reels/reel_1604_awesome-selfhosted-awesome-selfhosted](reels/reel_1604_awesome-selfhosted-awesome-selfhosted) |
+| 1605 | 2025-11-30 07:36:26 | [jobright-ai/2025-Data-Analysis-Internship](https://github.com/jobright-ai/2025-Data-Analysis-Internship) | ✅ full (108⭐ None) | [reels/reel_1605_jobright-ai-2025-Data-Analysis-Internship](reels/reel_1605_jobright-ai-2025-Data-Analysis-Internship) |

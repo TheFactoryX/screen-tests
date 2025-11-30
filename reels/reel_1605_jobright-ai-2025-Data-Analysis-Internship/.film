@@ -1,0 +1,24 @@
+{
+  "reel_number": 1605,
+  "recorded": "2025-11-30 07:36:26 UTC",
+  "repository": {
+    "full_name": "jobright-ai/2025-Data-Analysis-Internship",
+    "url": "https://github.com/jobright-ai/2025-Data-Analysis-Internship",
+    "clone_url": "https://github.com/jobright-ai/2025-Data-Analysis-Internship.git",
+    "stars": 108,
+    "language": null,
+    "size_kb": 3635
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.842304
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 108 stars."
+  }
+}
