@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1606 | [piggz/harbour-amazfish](https://github.com/piggz/harbour-amazfish) | C++ · ⭐ 117 | 2025-11-30 |
+| #1607 | [APIJSON/APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) | JavaScript · ⭐ 462 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1672,3 +1672,4 @@ Or let GitHub Action run it automatically.
 | 1604 | 2025-11-30 07:16:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260733⭐ None) | [reels/reel_1604_awesome-selfhosted-awesome-selfhosted](reels/reel_1604_awesome-selfhosted-awesome-selfhosted) |
 | 1605 | 2025-11-30 07:36:26 | [jobright-ai/2025-Data-Analysis-Internship](https://github.com/jobright-ai/2025-Data-Analysis-Internship) | ✅ full (108⭐ None) | [reels/reel_1605_jobright-ai-2025-Data-Analysis-Internship](reels/reel_1605_jobright-ai-2025-Data-Analysis-Internship) |
 | 1606 | 2025-11-30 07:49:38 | [piggz/harbour-amazfish](https://github.com/piggz/harbour-amazfish) | ✅ full (117⭐ C++) | [reels/reel_1606_piggz-harbour-amazfish](reels/reel_1606_piggz-harbour-amazfish) |
+| 1607 | 2025-11-30 08:22:12 | [APIJSON/APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) | ✅ full (462⭐ JavaScript) | [reels/reel_1607_APIJSON-APIJSON-Demo](reels/reel_1607_APIJSON-APIJSON-Demo) |

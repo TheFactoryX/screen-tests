@@ -1,0 +1,24 @@
+{
+  "reel_number": 1607,
+  "recorded": "2025-11-30 08:22:12 UTC",
+  "repository": {
+    "full_name": "APIJSON/APIJSON-Demo",
+    "url": "https://github.com/APIJSON/APIJSON-Demo",
+    "clone_url": "https://github.com/APIJSON/APIJSON-Demo.git",
+    "stars": 462,
+    "language": "JavaScript",
+    "size_kb": 61500
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 60,
+    "duration_seconds": 4.887212
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 462 stars."
+  }
+}
