@@ -1,0 +1,24 @@
+{
+  "reel_number": 1599,
+  "recorded": "2025-11-30 05:17:49 UTC",
+  "repository": {
+    "full_name": "nix-community/nur-combined",
+    "url": "https://github.com/nix-community/nur-combined",
+    "clone_url": "https://github.com/nix-community/nur-combined.git",
+    "stars": 169,
+    "language": "Nix",
+    "size_kb": 846255
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 826,
+    "duration_seconds": 0.000112
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 169 stars."
+  }
+}
