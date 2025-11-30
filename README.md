@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1635 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 444k | 2025-11-30 |
+| #1636 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1701,3 +1701,4 @@ Or let GitHub Action run it automatically.
 | 1633 | 2025-11-30 17:15:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108176⭐ Rust) | [reels/reel_1633_rust-lang-rust](reels/reel_1633_rust-lang-rust) |
 | 1634 | 2025-11-30 17:38:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120791⭐ Python) | [reels/reel_1634_langchain-ai-langchain](reels/reel_1634_langchain-ai-langchain) |
 | 1635 | 2025-11-30 17:49:53 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (444655⭐ Markdown) | [reels/reel_1635_codecrafters-io-build-your-own-x](reels/reel_1635_codecrafters-io-build-your-own-x) |
+| 1636 | 2025-11-30 18:24:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136728⭐ Python) | [reels/reel_1636_yt-dlp-yt-dlp](reels/reel_1636_yt-dlp-yt-dlp) |
