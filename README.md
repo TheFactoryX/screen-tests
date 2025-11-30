@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1596 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-11-30 |
+| #1597 | [apache/shardingsphere-doc](https://github.com/apache/shardingsphere-doc) | HTML · ⭐ 170 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1662,3 +1662,4 @@ Or let GitHub Action run it automatically.
 | 1594 | 2025-11-29 23:50:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (138982⭐ Python) | [reels/reel_1594_ytdl-org-youtube-dl](reels/reel_1594_ytdl-org-youtube-dl) |
 | 1595 | 2025-11-30 01:40:41 | [pnp/pnpcore](https://github.com/pnp/pnpcore) | ✅ shallow (340⭐ C#) | [reels/reel_1595_pnp-pnpcore](reels/reel_1595_pnp-pnpcore) |
 | 1596 | 2025-11-30 03:16:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139786⭐ Python) | [reels/reel_1596_langflow-ai-langflow](reels/reel_1596_langflow-ai-langflow) |
+| 1597 | 2025-11-30 04:09:04 | [apache/shardingsphere-doc](https://github.com/apache/shardingsphere-doc) | ✅ readme_only (170⭐ HTML) | [reels/reel_1597_apache-shardingsphere-doc](reels/reel_1597_apache-shardingsphere-doc) |

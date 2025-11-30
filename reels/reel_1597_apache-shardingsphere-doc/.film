@@ -1,0 +1,24 @@
+{
+  "reel_number": 1597,
+  "recorded": "2025-11-30 04:09:04 UTC",
+  "repository": {
+    "full_name": "apache/shardingsphere-doc",
+    "url": "https://github.com/apache/shardingsphere-doc",
+    "clone_url": "https://github.com/apache/shardingsphere-doc.git",
+    "stars": 170,
+    "language": "HTML",
+    "size_kb": 9800729
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 9571,
+    "duration_seconds": 0.00013
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 170 stars."
+  }
+}
