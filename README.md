@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1599 | [nix-community/nur-combined](https://github.com/nix-community/nur-combined) | Nix · ⭐ 169 | 2025-11-30 |
+| #1600 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 100k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1665,3 +1665,4 @@ Or let GitHub Action run it automatically.
 | 1597 | 2025-11-30 04:09:04 | [apache/shardingsphere-doc](https://github.com/apache/shardingsphere-doc) | ✅ readme_only (170⭐ HTML) | [reels/reel_1597_apache-shardingsphere-doc](reels/reel_1597_apache-shardingsphere-doc) |
 | 1598 | 2025-11-30 04:46:59 | [lalifeier/IPTV](https://github.com/lalifeier/IPTV) | ✅ readme_only (332⭐ Python) | [reels/reel_1598_lalifeier-IPTV](reels/reel_1598_lalifeier-IPTV) |
 | 1599 | 2025-11-30 05:17:49 | [nix-community/nur-combined](https://github.com/nix-community/nur-combined) | ✅ readme_only (169⭐ Nix) | [reels/reel_1599_nix-community-nur-combined](reels/reel_1599_nix-community-nur-combined) |
+| 1600 | 2025-11-30 05:42:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100965⭐ TypeScript) | [reels/reel_1600_shadcn-ui-ui](reels/reel_1600_shadcn-ui-ui) |
