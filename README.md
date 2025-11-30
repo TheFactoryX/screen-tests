@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1649 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-11-30 |
+| #1650 | [braintrustdata/braintrust-proxy](https://github.com/braintrustdata/braintrust-proxy) | TypeScript · ⭐ 377 | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1715,3 +1715,4 @@ Or let GitHub Action run it automatically.
 | 1647 | 2025-11-30 21:50:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (100988⭐ TypeScript) | [reels/reel_1647_shadcn-ui-ui](reels/reel_1647_shadcn-ui-ui) |
 | 1648 | 2025-11-30 22:17:09 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100450⭐ Python) | [reels/reel_1648_deepseek-ai-DeepSeek-V3](reels/reel_1648_deepseek-ai-DeepSeek-V3) |
 | 1649 | 2025-11-30 22:40:57 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99458⭐ Rust) | [reels/reel_1649_tauri-apps-tauri](reels/reel_1649_tauri-apps-tauri) |
+| 1650 | 2025-11-30 22:50:19 | [braintrustdata/braintrust-proxy](https://github.com/braintrustdata/braintrust-proxy) | ✅ full (377⭐ TypeScript) | [reels/reel_1650_braintrustdata-braintrust-proxy](reels/reel_1650_braintrustdata-braintrust-proxy) |
