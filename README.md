@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1617 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-11-30 |
+| #1618 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-11-30 |
 ---
 
 ## 🎭 Selection Process
@@ -1683,3 +1683,4 @@ Or let GitHub Action run it automatically.
 | 1615 | 2025-11-30 10:50:42 | [programmablemd/spry](https://github.com/programmablemd/spry) | ✅ full (132⭐ TypeScript) | [reels/reel_1615_programmablemd-spry](reels/reel_1615_programmablemd-spry) |
 | 1616 | 2025-11-30 11:15:24 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (660⭐ Tcl) | [reels/reel_1616_rust-lang-crates.io-index](reels/reel_1616_rust-lang-crates.io-index) |
 | 1617 | 2025-11-30 11:27:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260762⭐ None) | [reels/reel_1617_awesome-selfhosted-awesome-selfhosted](reels/reel_1617_awesome-selfhosted-awesome-selfhosted) |
+| 1618 | 2025-11-30 11:39:28 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180028⭐ Python) | [reels/reel_1618_Significant-Gravitas-AutoGPT](reels/reel_1618_Significant-Gravitas-AutoGPT) |
