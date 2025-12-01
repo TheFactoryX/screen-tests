@@ -1,0 +1,24 @@
+{
+  "reel_number": 1669,
+  "recorded": "2025-12-01 11:16:51 UTC",
+  "repository": {
+    "full_name": "TonyJiangWJ/mimotion",
+    "url": "https://github.com/TonyJiangWJ/mimotion",
+    "clone_url": "https://github.com/TonyJiangWJ/mimotion.git",
+    "stars": 832,
+    "language": "Python",
+    "size_kb": 163
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.241608
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 832 stars."
+  }
+}
