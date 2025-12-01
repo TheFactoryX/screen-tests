@@ -1,0 +1,24 @@
+{
+  "reel_number": 1693,
+  "recorded": "2025-12-01 21:49:47 UTC",
+  "repository": {
+    "full_name": "attakei/sphinx-revealjs",
+    "url": "https://github.com/attakei/sphinx-revealjs",
+    "clone_url": "https://github.com/attakei/sphinx-revealjs.git",
+    "stars": 124,
+    "language": "Python",
+    "size_kb": 5249
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.306399
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 124 stars."
+  }
+}
