@@ -1,0 +1,24 @@
+{
+  "reel_number": 1686,
+  "recorded": "2025-12-01 19:32:13 UTC",
+  "repository": {
+    "full_name": "cnlohr/cnhardware",
+    "url": "https://github.com/cnlohr/cnhardware",
+    "clone_url": "https://github.com/cnlohr/cnhardware.git",
+    "stars": 86,
+    "language": "C",
+    "size_kb": 57339
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 2.796985
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 86 stars."
+  }
+}

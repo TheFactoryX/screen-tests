@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1685 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-12-01 |
+| #1686 | [cnlohr/cnhardware](https://github.com/cnlohr/cnhardware) | C · ⭐ 86 | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1751,3 +1751,4 @@ Or let GitHub Action run it automatically.
 | 1683 | 2025-12-01 17:49:42 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136820⭐ Python) | [reels/reel_1683_yt-dlp-yt-dlp](reels/reel_1683_yt-dlp-yt-dlp) |
 | 1684 | 2025-12-01 18:31:33 | [qiqi20020612/SillyTavern-Telegram-Connector](https://github.com/qiqi20020612/SillyTavern-Telegram-Connector) | ✅ full (23⭐ JavaScript) | [reels/reel_1684_qiqi20020612-SillyTavern-Telegram-Connector](reels/reel_1684_qiqi20020612-SillyTavern-Telegram-Connector) |
 | 1685 | 2025-12-01 19:01:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136825⭐ Python) | [reels/reel_1685_yt-dlp-yt-dlp](reels/reel_1685_yt-dlp-yt-dlp) |
+| 1686 | 2025-12-01 19:32:13 | [cnlohr/cnhardware](https://github.com/cnlohr/cnhardware) | ✅ full (86⭐ C) | [reels/reel_1686_cnlohr-cnhardware](reels/reel_1686_cnlohr-cnhardware) |
