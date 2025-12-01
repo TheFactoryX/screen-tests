@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1686 | [cnlohr/cnhardware](https://github.com/cnlohr/cnhardware) | C · ⭐ 86 | 2025-12-01 |
+| #1687 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1752,3 +1752,4 @@ Or let GitHub Action run it automatically.
 | 1684 | 2025-12-01 18:31:33 | [qiqi20020612/SillyTavern-Telegram-Connector](https://github.com/qiqi20020612/SillyTavern-Telegram-Connector) | ✅ full (23⭐ JavaScript) | [reels/reel_1684_qiqi20020612-SillyTavern-Telegram-Connector](reels/reel_1684_qiqi20020612-SillyTavern-Telegram-Connector) |
 | 1685 | 2025-12-01 19:01:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136825⭐ Python) | [reels/reel_1685_yt-dlp-yt-dlp](reels/reel_1685_yt-dlp-yt-dlp) |
 | 1686 | 2025-12-01 19:32:13 | [cnlohr/cnhardware](https://github.com/cnlohr/cnhardware) | ✅ full (86⭐ C) | [reels/reel_1686_cnlohr-cnhardware](reels/reel_1686_cnlohr-cnhardware) |
+| 1687 | 2025-12-01 19:51:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139948⭐ Python) | [reels/reel_1687_langflow-ai-langflow](reels/reel_1687_langflow-ai-langflow) |
