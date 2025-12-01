@@ -1,0 +1,24 @@
+{
+  "reel_number": 1684,
+  "recorded": "2025-12-01 18:31:33 UTC",
+  "repository": {
+    "full_name": "qiqi20020612/SillyTavern-Telegram-Connector",
+    "url": "https://github.com/qiqi20020612/SillyTavern-Telegram-Connector",
+    "clone_url": "https://github.com/qiqi20020612/SillyTavern-Telegram-Connector.git",
+    "stars": 23,
+    "language": "JavaScript",
+    "size_kb": 110
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.296465
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 23 stars."
+  }
+}

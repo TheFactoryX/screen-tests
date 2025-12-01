@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1683 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-12-01 |
+| #1684 | [qiqi20020612/SillyTavern-Telegram-Connector](https://github.com/qiqi20020612/SillyTavern-Telegram-Connector) | JavaScript · ⭐ 23 | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1749,3 +1749,4 @@ Or let GitHub Action run it automatically.
 | 1681 | 2025-12-01 16:58:34 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139004⭐ Python) | [reels/reel_1681_ytdl-org-youtube-dl](reels/reel_1681_ytdl-org-youtube-dl) |
 | 1682 | 2025-12-01 17:27:44 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139004⭐ Python) | [reels/reel_1682_ytdl-org-youtube-dl](reels/reel_1682_ytdl-org-youtube-dl) |
 | 1683 | 2025-12-01 17:49:42 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136820⭐ Python) | [reels/reel_1683_yt-dlp-yt-dlp](reels/reel_1683_yt-dlp-yt-dlp) |
+| 1684 | 2025-12-01 18:31:33 | [qiqi20020612/SillyTavern-Telegram-Connector](https://github.com/qiqi20020612/SillyTavern-Telegram-Connector) | ✅ full (23⭐ JavaScript) | [reels/reel_1684_qiqi20020612-SillyTavern-Telegram-Connector](reels/reel_1684_qiqi20020612-SillyTavern-Telegram-Connector) |
