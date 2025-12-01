@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1675 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-01 |
+| #1676 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1741,3 +1741,4 @@ Or let GitHub Action run it automatically.
 | 1673 | 2025-12-01 13:24:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101014⭐ TypeScript) | [reels/reel_1673_shadcn-ui-ui](reels/reel_1673_shadcn-ui-ui) |
 | 1674 | 2025-12-01 13:52:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101015⭐ TypeScript) | [reels/reel_1674_shadcn-ui-ui](reels/reel_1674_shadcn-ui-ui) |
 | 1675 | 2025-12-01 14:19:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104030⭐ TypeScript) | [reels/reel_1675_iptv-org-iptv](reels/reel_1675_iptv-org-iptv) |
+| 1676 | 2025-12-01 14:47:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116696⭐ Svelte) | [reels/reel_1676_open-webui-open-webui](reels/reel_1676_open-webui-open-webui) |
