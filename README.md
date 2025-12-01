@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1672 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-01 |
+| #1673 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1738,3 +1738,4 @@ Or let GitHub Action run it automatically.
 | 1670 | 2025-12-01 11:39:11 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96825⭐ TypeScript) | [reels/reel_1670_ant-design-ant-design](reels/reel_1670_ant-design-ant-design) |
 | 1671 | 2025-12-01 11:50:21 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101785⭐ None) | [reels/reel_1671_Hack-with-Github-Awesome-Hacking](reels/reel_1671_Hack-with-Github-Awesome-Hacking) |
 | 1672 | 2025-12-01 12:39:58 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101012⭐ TypeScript) | [reels/reel_1672_shadcn-ui-ui](reels/reel_1672_shadcn-ui-ui) |
+| 1673 | 2025-12-01 13:24:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101014⭐ TypeScript) | [reels/reel_1673_shadcn-ui-ui](reels/reel_1673_shadcn-ui-ui) |
