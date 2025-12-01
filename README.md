@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1678 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 139k | 2025-12-01 |
+| #1679 | [twbs/examples](https://github.com/twbs/examples) | HTML · ⭐ 650 | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1744,3 +1744,4 @@ Or let GitHub Action run it automatically.
 | 1676 | 2025-12-01 14:47:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116696⭐ Svelte) | [reels/reel_1676_open-webui-open-webui](reels/reel_1676_open-webui-open-webui) |
 | 1677 | 2025-12-01 15:20:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260945⭐ None) | [reels/reel_1677_awesome-selfhosted-awesome-selfhosted](reels/reel_1677_awesome-selfhosted-awesome-selfhosted) |
 | 1678 | 2025-12-01 15:44:28 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139932⭐ Python) | [reels/reel_1678_langflow-ai-langflow](reels/reel_1678_langflow-ai-langflow) |
+| 1679 | 2025-12-01 15:56:28 | [twbs/examples](https://github.com/twbs/examples) | ✅ full (650⭐ HTML) | [reels/reel_1679_twbs-examples](reels/reel_1679_twbs-examples) |
