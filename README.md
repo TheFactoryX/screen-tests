@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1667 | [dinfuehr/dora](https://github.com/dinfuehr/dora) | Rust · ⭐ 506 | 2025-12-01 |
+| #1668 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1733,3 +1733,4 @@ Or let GitHub Action run it automatically.
 | 1665 | 2025-12-01 09:27:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159817⭐ TypeScript) | [reels/reel_1665_n8n-io-n8n](reels/reel_1665_n8n-io-n8n) |
 | 1666 | 2025-12-01 09:49:48 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91538⭐ None) | [reels/reel_1666_deepseek-ai-DeepSeek-R1](reels/reel_1666_deepseek-ai-DeepSeek-R1) |
 | 1667 | 2025-12-01 10:21:47 | [dinfuehr/dora](https://github.com/dinfuehr/dora) | ✅ full (506⭐ Rust) | [reels/reel_1667_dinfuehr-dora](reels/reel_1667_dinfuehr-dora) |
+| 1668 | 2025-12-01 10:48:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260911⭐ None) | [reels/reel_1668_awesome-selfhosted-awesome-selfhosted](reels/reel_1668_awesome-selfhosted-awesome-selfhosted) |
