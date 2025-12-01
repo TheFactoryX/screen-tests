@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1688 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-01 |
+| #1689 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1754,3 +1754,4 @@ Or let GitHub Action run it automatically.
 | 1686 | 2025-12-01 19:32:13 | [cnlohr/cnhardware](https://github.com/cnlohr/cnhardware) | ✅ full (86⭐ C) | [reels/reel_1686_cnlohr-cnhardware](reels/reel_1686_cnlohr-cnhardware) |
 | 1687 | 2025-12-01 19:51:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139948⭐ Python) | [reels/reel_1687_langflow-ai-langflow](reels/reel_1687_langflow-ai-langflow) |
 | 1688 | 2025-12-01 20:20:03 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139006⭐ Python) | [reels/reel_1688_ytdl-org-youtube-dl](reels/reel_1688_ytdl-org-youtube-dl) |
+| 1689 | 2025-12-01 20:39:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136835⭐ Python) | [reels/reel_1689_yt-dlp-yt-dlp](reels/reel_1689_yt-dlp-yt-dlp) |
