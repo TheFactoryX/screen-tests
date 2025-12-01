@@ -1,0 +1,24 @@
+{
+  "reel_number": 1692,
+  "recorded": "2025-12-01 21:36:17 UTC",
+  "repository": {
+    "full_name": "makepad/makepad",
+    "url": "https://github.com/makepad/makepad",
+    "clone_url": "https://github.com/makepad/makepad.git",
+    "stars": 5962,
+    "language": "Rust",
+    "size_kb": 138974
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 135,
+    "duration_seconds": 1.938441
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 5962 stars."
+  }
+}

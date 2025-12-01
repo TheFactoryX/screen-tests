@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1691 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-12-01 |
+| #1692 | [makepad/makepad](https://github.com/makepad/makepad) | Rust · ⭐ 5k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1757,3 +1757,4 @@ Or let GitHub Action run it automatically.
 | 1689 | 2025-12-01 20:39:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136835⭐ Python) | [reels/reel_1689_yt-dlp-yt-dlp](reels/reel_1689_yt-dlp-yt-dlp) |
 | 1690 | 2025-12-01 20:50:24 | [fm4se/fm-playground](https://github.com/fm4se/fm-playground) | ✅ shallow (17⭐ TypeScript) | [reels/reel_1690_fm4se-fm-playground](reels/reel_1690_fm4se-fm-playground) |
 | 1691 | 2025-12-01 21:15:56 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120874⭐ Python) | [reels/reel_1691_langchain-ai-langchain](reels/reel_1691_langchain-ai-langchain) |
+| 1692 | 2025-12-01 21:36:17 | [makepad/makepad](https://github.com/makepad/makepad) | ✅ shallow (5962⭐ Rust) | [reels/reel_1692_makepad-makepad](reels/reel_1692_makepad-makepad) |
