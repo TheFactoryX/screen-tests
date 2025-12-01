@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1682 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-01 |
+| #1683 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1748,3 +1748,4 @@ Or let GitHub Action run it automatically.
 | 1680 | 2025-12-01 16:30:49 | [huggingface/inference-playground](https://github.com/huggingface/inference-playground) | ✅ shallow (48⭐ Svelte) | [reels/reel_1680_huggingface-inference-playground](reels/reel_1680_huggingface-inference-playground) |
 | 1681 | 2025-12-01 16:58:34 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139004⭐ Python) | [reels/reel_1681_ytdl-org-youtube-dl](reels/reel_1681_ytdl-org-youtube-dl) |
 | 1682 | 2025-12-01 17:27:44 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139004⭐ Python) | [reels/reel_1682_ytdl-org-youtube-dl](reels/reel_1682_ytdl-org-youtube-dl) |
+| 1683 | 2025-12-01 17:49:42 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136820⭐ Python) | [reels/reel_1683_yt-dlp-yt-dlp](reels/reel_1683_yt-dlp-yt-dlp) |
