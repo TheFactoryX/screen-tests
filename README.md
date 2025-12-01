@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1689 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-12-01 |
+| #1690 | [fm4se/fm-playground](https://github.com/fm4se/fm-playground) | TypeScript · ⭐ 17 | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1755,3 +1755,4 @@ Or let GitHub Action run it automatically.
 | 1687 | 2025-12-01 19:51:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139948⭐ Python) | [reels/reel_1687_langflow-ai-langflow](reels/reel_1687_langflow-ai-langflow) |
 | 1688 | 2025-12-01 20:20:03 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139006⭐ Python) | [reels/reel_1688_ytdl-org-youtube-dl](reels/reel_1688_ytdl-org-youtube-dl) |
 | 1689 | 2025-12-01 20:39:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136835⭐ Python) | [reels/reel_1689_yt-dlp-yt-dlp](reels/reel_1689_yt-dlp-yt-dlp) |
+| 1690 | 2025-12-01 20:50:24 | [fm4se/fm-playground](https://github.com/fm4se/fm-playground) | ✅ shallow (17⭐ TypeScript) | [reels/reel_1690_fm4se-fm-playground](reels/reel_1690_fm4se-fm-playground) |

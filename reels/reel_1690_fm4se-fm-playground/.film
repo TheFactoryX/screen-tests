@@ -1,0 +1,24 @@
+{
+  "reel_number": 1690,
+  "recorded": "2025-12-01 20:50:24 UTC",
+  "repository": {
+    "full_name": "fm4se/fm-playground",
+    "url": "https://github.com/fm4se/fm-playground",
+    "clone_url": "https://github.com/fm4se/fm-playground.git",
+    "stars": 17,
+    "language": "TypeScript",
+    "size_kb": 141306
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 137,
+    "duration_seconds": 6.149788
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 17 stars."
+  }
+}
