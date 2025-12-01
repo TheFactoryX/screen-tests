@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1693 | [attakei/sphinx-revealjs](https://github.com/attakei/sphinx-revealjs) | Python · ⭐ 124 | 2025-12-01 |
+| #1694 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1759,3 +1759,4 @@ Or let GitHub Action run it automatically.
 | 1691 | 2025-12-01 21:15:56 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120874⭐ Python) | [reels/reel_1691_langchain-ai-langchain](reels/reel_1691_langchain-ai-langchain) |
 | 1692 | 2025-12-01 21:36:17 | [makepad/makepad](https://github.com/makepad/makepad) | ✅ shallow (5962⭐ Rust) | [reels/reel_1692_makepad-makepad](reels/reel_1692_makepad-makepad) |
 | 1693 | 2025-12-01 21:49:47 | [attakei/sphinx-revealjs](https://github.com/attakei/sphinx-revealjs) | ✅ full (124⭐ Python) | [reels/reel_1693_attakei-sphinx-revealjs](reels/reel_1693_attakei-sphinx-revealjs) |
+| 1694 | 2025-12-01 22:16:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159940⭐ TypeScript) | [reels/reel_1694_n8n-io-n8n](reels/reel_1694_n8n-io-n8n) |
