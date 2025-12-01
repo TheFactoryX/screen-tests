@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1661 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-12-01 |
+| #1662 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 382k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1727,3 +1727,4 @@ Or let GitHub Action run it automatically.
 | 1659 | 2025-12-01 06:31:35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136782⭐ Python) | [reels/reel_1659_yt-dlp-yt-dlp](reels/reel_1659_yt-dlp-yt-dlp) |
 | 1660 | 2025-12-01 06:59:55 | [TheThingSystem/node-winkapi](https://github.com/TheThingSystem/node-winkapi) | ✅ full (40⭐ JavaScript) | [reels/reel_1660_TheThingSystem-node-winkapi](reels/reel_1660_TheThingSystem-node-winkapi) |
 | 1661 | 2025-12-01 07:30:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120830⭐ Python) | [reels/reel_1661_langchain-ai-langchain](reels/reel_1661_langchain-ai-langchain) |
+| 1662 | 2025-12-01 07:51:18 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (382051⭐ Python) | [reels/reel_1662_public-apis-public-apis](reels/reel_1662_public-apis-public-apis) |
