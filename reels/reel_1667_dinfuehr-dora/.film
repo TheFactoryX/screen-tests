@@ -1,0 +1,24 @@
+{
+  "reel_number": 1667,
+  "recorded": "2025-12-01 10:21:47 UTC",
+  "repository": {
+    "full_name": "dinfuehr/dora",
+    "url": "https://github.com/dinfuehr/dora",
+    "clone_url": "https://github.com/dinfuehr/dora.git",
+    "stars": 506,
+    "language": "Rust",
+    "size_kb": 29068
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 2.692605
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 506 stars."
+  }
+}

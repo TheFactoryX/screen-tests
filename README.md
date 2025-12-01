@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1666 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-12-01 |
+| #1667 | [dinfuehr/dora](https://github.com/dinfuehr/dora) | Rust · ⭐ 506 | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1732,3 +1732,4 @@ Or let GitHub Action run it automatically.
 | 1664 | 2025-12-01 08:55:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (139903⭐ Python) | [reels/reel_1664_langflow-ai-langflow](reels/reel_1664_langflow-ai-langflow) |
 | 1665 | 2025-12-01 09:27:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159817⭐ TypeScript) | [reels/reel_1665_n8n-io-n8n](reels/reel_1665_n8n-io-n8n) |
 | 1666 | 2025-12-01 09:49:48 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91538⭐ None) | [reels/reel_1666_deepseek-ai-DeepSeek-R1](reels/reel_1666_deepseek-ai-DeepSeek-R1) |
+| 1667 | 2025-12-01 10:21:47 | [dinfuehr/dora](https://github.com/dinfuehr/dora) | ✅ full (506⭐ Rust) | [reels/reel_1667_dinfuehr-dora](reels/reel_1667_dinfuehr-dora) |
