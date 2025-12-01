@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1654 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-01 |
+| #1655 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 260k | 2025-12-01 |
 ---
 
 ## 🎭 Selection Process
@@ -1720,3 +1720,4 @@ Or let GitHub Action run it automatically.
 | 1652 | 2025-11-30 23:38:20 | [Numi2/zk-proof-of-funds](https://github.com/Numi2/zk-proof-of-funds) | ✅ readme_only (12⭐ Rust) | [reels/reel_1652_Numi2-zk-proof-of-funds](reels/reel_1652_Numi2-zk-proof-of-funds) |
 | 1653 | 2025-11-30 23:49:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159729⭐ TypeScript) | [reels/reel_1653_n8n-io-n8n](reels/reel_1653_n8n-io-n8n) |
 | 1654 | 2025-12-01 01:47:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108182⭐ Rust) | [reels/reel_1654_rust-lang-rust](reels/reel_1654_rust-lang-rust) |
+| 1655 | 2025-12-01 03:49:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (260867⭐ None) | [reels/reel_1655_awesome-selfhosted-awesome-selfhosted](reels/reel_1655_awesome-selfhosted-awesome-selfhosted) |
