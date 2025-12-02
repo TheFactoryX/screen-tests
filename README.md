@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1704 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-02 |
+| #1705 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1770,3 +1770,4 @@ Or let GitHub Action run it automatically.
 | 1702 | 2025-12-02 03:58:59 | [notthebee/nix-config](https://github.com/notthebee/nix-config) | ✅ full (719⭐ Nix) | [reels/reel_1702_notthebee-nix-config](reels/reel_1702_notthebee-nix-config) |
 | 1703 | 2025-12-02 04:37:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159984⭐ TypeScript) | [reels/reel_1703_n8n-io-n8n](reels/reel_1703_n8n-io-n8n) |
 | 1704 | 2025-12-02 04:56:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101061⭐ TypeScript) | [reels/reel_1704_shadcn-ui-ui](reels/reel_1704_shadcn-ui-ui) |
+| 1705 | 2025-12-02 05:20:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99490⭐ Rust) | [reels/reel_1705_tauri-apps-tauri](reels/reel_1705_tauri-apps-tauri) |
