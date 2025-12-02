@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1711 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-02 |
+| #1712 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1777,3 +1777,4 @@ Or let GitHub Action run it automatically.
 | 1709 | 2025-12-02 06:56:38 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116742⭐ Svelte) | [reels/reel_1709_open-webui-open-webui](reels/reel_1709_open-webui-open-webui) |
 | 1710 | 2025-12-02 07:23:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104135⭐ TypeScript) | [reels/reel_1710_iptv-org-iptv](reels/reel_1710_iptv-org-iptv) |
 | 1711 | 2025-12-02 07:42:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104138⭐ TypeScript) | [reels/reel_1711_iptv-org-iptv](reels/reel_1711_iptv-org-iptv) |
+| 1712 | 2025-12-02 07:51:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160024⭐ TypeScript) | [reels/reel_1712_n8n-io-n8n](reels/reel_1712_n8n-io-n8n) |
