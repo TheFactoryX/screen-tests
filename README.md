@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1717 | [Ada18980/KinkiestDungeon](https://github.com/Ada18980/KinkiestDungeon) | TypeScript · ⭐ 136 | 2025-12-02 |
+| #1718 | [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) | HCL · ⭐ 719 | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1783,3 +1783,4 @@ Or let GitHub Action run it automatically.
 | 1715 | 2025-12-02 09:24:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261055⭐ None) | [reels/reel_1715_awesome-selfhosted-awesome-selfhosted](reels/reel_1715_awesome-selfhosted-awesome-selfhosted) |
 | 1716 | 2025-12-02 09:47:39 | [PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) | ✅ readme_only (428⭐ Python) | [reels/reel_1716_PostHog-posthog-foss](reels/reel_1716_PostHog-posthog-foss) |
 | 1717 | 2025-12-02 10:21:01 | [Ada18980/KinkiestDungeon](https://github.com/Ada18980/KinkiestDungeon) | ✅ readme_only (136⭐ TypeScript) | [reels/reel_1717_Ada18980-KinkiestDungeon](reels/reel_1717_Ada18980-KinkiestDungeon) |
+| 1718 | 2025-12-02 10:47:04 | [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) | ✅ full (719⭐ HCL) | [reels/reel_1718_ministryofjustice-modernisation-platform](reels/reel_1718_ministryofjustice-modernisation-platform) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1718,
+  "recorded": "2025-12-02 10:47:04 UTC",
+  "repository": {
+    "full_name": "ministryofjustice/modernisation-platform",
+    "url": "https://github.com/ministryofjustice/modernisation-platform",
+    "clone_url": "https://github.com/ministryofjustice/modernisation-platform.git",
+    "stars": 719,
+    "language": "HCL",
+    "size_kb": 32113
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 31,
+    "duration_seconds": 1.693507
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HCL",
+    "director_note": "A HCL repository. 719 stars."
+  }
+}
