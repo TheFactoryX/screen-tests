@@ -1,0 +1,24 @@
+{
+  "reel_number": 1702,
+  "recorded": "2025-12-02 03:58:59 UTC",
+  "repository": {
+    "full_name": "notthebee/nix-config",
+    "url": "https://github.com/notthebee/nix-config",
+    "clone_url": "https://github.com/notthebee/nix-config.git",
+    "stars": 719,
+    "language": "Nix",
+    "size_kb": 2175
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.379115
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 719 stars."
+  }
+}
