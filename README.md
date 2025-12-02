@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1714 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-02 |
+| #1715 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1780,3 +1780,4 @@ Or let GitHub Action run it automatically.
 | 1712 | 2025-12-02 07:51:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160024⭐ TypeScript) | [reels/reel_1712_n8n-io-n8n](reels/reel_1712_n8n-io-n8n) |
 | 1713 | 2025-12-02 08:27:22 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445059⭐ Markdown) | [reels/reel_1713_codecrafters-io-build-your-own-x](reels/reel_1713_codecrafters-io-build-your-own-x) |
 | 1714 | 2025-12-02 08:54:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160032⭐ TypeScript) | [reels/reel_1714_n8n-io-n8n](reels/reel_1714_n8n-io-n8n) |
+| 1715 | 2025-12-02 09:24:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261055⭐ None) | [reels/reel_1715_awesome-selfhosted-awesome-selfhosted](reels/reel_1715_awesome-selfhosted-awesome-selfhosted) |
