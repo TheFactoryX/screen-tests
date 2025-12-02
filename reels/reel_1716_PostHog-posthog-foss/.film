@@ -1,0 +1,24 @@
+{
+  "reel_number": 1716,
+  "recorded": "2025-12-02 09:47:39 UTC",
+  "repository": {
+    "full_name": "PostHog/posthog-foss",
+    "url": "https://github.com/PostHog/posthog-foss",
+    "clone_url": "https://github.com/PostHog/posthog-foss.git",
+    "stars": 428,
+    "language": "Python",
+    "size_kb": 2561548
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2501,
+    "duration_seconds": 0.00013
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 428 stars."
+  }
+}
