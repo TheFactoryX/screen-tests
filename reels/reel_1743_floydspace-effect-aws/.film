@@ -1,0 +1,24 @@
+{
+  "reel_number": 1743,
+  "recorded": "2025-12-02 21:49:41 UTC",
+  "repository": {
+    "full_name": "floydspace/effect-aws",
+    "url": "https://github.com/floydspace/effect-aws",
+    "clone_url": "https://github.com/floydspace/effect-aws.git",
+    "stars": 170,
+    "language": "TypeScript",
+    "size_kb": 3081
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.552165
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 170 stars."
+  }
+}
