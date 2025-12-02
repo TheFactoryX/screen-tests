@@ -1,0 +1,24 @@
+{
+  "reel_number": 1725,
+  "recorded": "2025-12-02 14:20:38 UTC",
+  "repository": {
+    "full_name": "Berginoff/randomCatFacts",
+    "url": "https://github.com/Berginoff/randomCatFacts",
+    "clone_url": "https://github.com/Berginoff/randomCatFacts.git",
+    "stars": 25,
+    "language": null,
+    "size_kb": 270
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.188299
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 25 stars."
+  }
+}
