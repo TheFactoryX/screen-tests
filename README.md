@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1706 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-02 |
+| #1707 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1772,3 +1772,4 @@ Or let GitHub Action run it automatically.
 | 1704 | 2025-12-02 04:56:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101061⭐ TypeScript) | [reels/reel_1704_shadcn-ui-ui](reels/reel_1704_shadcn-ui-ui) |
 | 1705 | 2025-12-02 05:20:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99490⭐ Rust) | [reels/reel_1705_tauri-apps-tauri](reels/reel_1705_tauri-apps-tauri) |
 | 1706 | 2025-12-02 05:43:26 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99490⭐ Rust) | [reels/reel_1706_tauri-apps-tauri](reels/reel_1706_tauri-apps-tauri) |
+| 1707 | 2025-12-02 05:53:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116733⭐ Svelte) | [reels/reel_1707_open-webui-open-webui](reels/reel_1707_open-webui-open-webui) |
