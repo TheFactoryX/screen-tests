@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1741 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-02 |
+| #1742 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1807,3 +1807,4 @@ Or let GitHub Action run it automatically.
 | 1739 | 2025-12-02 20:44:56 | [stylelint-scss/stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) | ✅ full (878⭐ JavaScript) | [reels/reel_1739_stylelint-scss-stylelint-scss](reels/reel_1739_stylelint-scss-stylelint-scss) |
 | 1740 | 2025-12-02 20:55:53 | [cheehwatang/cheehwatang](https://github.com/cheehwatang/cheehwatang) | ✅ full (16⭐ None) | [reels/reel_1740_cheehwatang-cheehwatang](reels/reel_1740_cheehwatang-cheehwatang) |
 | 1741 | 2025-12-02 21:19:49 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100515⭐ Python) | [reels/reel_1741_deepseek-ai-DeepSeek-V3](reels/reel_1741_deepseek-ai-DeepSeek-V3) |
+| 1742 | 2025-12-02 21:38:03 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136950⭐ Python) | [reels/reel_1742_yt-dlp-yt-dlp](reels/reel_1742_yt-dlp-yt-dlp) |
