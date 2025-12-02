@@ -1,0 +1,24 @@
+{
+  "reel_number": 1739,
+  "recorded": "2025-12-02 20:44:56 UTC",
+  "repository": {
+    "full_name": "stylelint-scss/stylelint-scss",
+    "url": "https://github.com/stylelint-scss/stylelint-scss",
+    "clone_url": "https://github.com/stylelint-scss/stylelint-scss.git",
+    "stars": 878,
+    "language": "JavaScript",
+    "size_kb": 6925
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.967603
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 878 stars."
+  }
+}
