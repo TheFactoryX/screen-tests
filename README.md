@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1702 | [notthebee/nix-config](https://github.com/notthebee/nix-config) | Nix · ⭐ 719 | 2025-12-02 |
+| #1703 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 159k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1768,3 +1768,4 @@ Or let GitHub Action run it automatically.
 | 1700 | 2025-12-02 01:24:40 | [saproto/saproto](https://github.com/saproto/saproto) | ✅ shallow (18⭐ PHP) | [reels/reel_1700_saproto-saproto](reels/reel_1700_saproto-saproto) |
 | 1701 | 2025-12-02 03:04:18 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (178⭐ None) | [reels/reel_1701_mytv-android-China-TV-Live-M3U8](reels/reel_1701_mytv-android-China-TV-Live-M3U8) |
 | 1702 | 2025-12-02 03:58:59 | [notthebee/nix-config](https://github.com/notthebee/nix-config) | ✅ full (719⭐ Nix) | [reels/reel_1702_notthebee-nix-config](reels/reel_1702_notthebee-nix-config) |
+| 1703 | 2025-12-02 04:37:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159984⭐ TypeScript) | [reels/reel_1703_n8n-io-n8n](reels/reel_1703_n8n-io-n8n) |
