@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1720 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 136k | 2025-12-02 |
+| #1721 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1786,3 +1786,4 @@ Or let GitHub Action run it automatically.
 | 1718 | 2025-12-02 10:47:04 | [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) | ✅ full (719⭐ HCL) | [reels/reel_1718_ministryofjustice-modernisation-platform](reels/reel_1718_ministryofjustice-modernisation-platform) |
 | 1719 | 2025-12-02 11:18:17 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91546⭐ None) | [reels/reel_1719_deepseek-ai-DeepSeek-R1](reels/reel_1719_deepseek-ai-DeepSeek-R1) |
 | 1720 | 2025-12-02 11:39:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136906⭐ Python) | [reels/reel_1720_yt-dlp-yt-dlp](reels/reel_1720_yt-dlp-yt-dlp) |
+| 1721 | 2025-12-02 11:50:15 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101851⭐ None) | [reels/reel_1721_Hack-with-Github-Awesome-Hacking](reels/reel_1721_Hack-with-Github-Awesome-Hacking) |
