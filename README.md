@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1699 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-01 |
+| #1700 | [saproto/saproto](https://github.com/saproto/saproto) | PHP · ⭐ 18 | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1765,3 +1765,4 @@ Or let GitHub Action run it automatically.
 | 1697 | 2025-12-01 23:17:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (159946⭐ TypeScript) | [reels/reel_1697_n8n-io-n8n](reels/reel_1697_n8n-io-n8n) |
 | 1698 | 2025-12-01 23:38:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120875⭐ Python) | [reels/reel_1698_langchain-ai-langchain](reels/reel_1698_langchain-ai-langchain) |
 | 1699 | 2025-12-01 23:49:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108191⭐ Rust) | [reels/reel_1699_rust-lang-rust](reels/reel_1699_rust-lang-rust) |
+| 1700 | 2025-12-02 01:24:40 | [saproto/saproto](https://github.com/saproto/saproto) | ✅ shallow (18⭐ PHP) | [reels/reel_1700_saproto-saproto](reels/reel_1700_saproto-saproto) |

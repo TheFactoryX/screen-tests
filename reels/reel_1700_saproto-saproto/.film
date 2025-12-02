@@ -1,0 +1,24 @@
+{
+  "reel_number": 1700,
+  "recorded": "2025-12-02 01:24:40 UTC",
+  "repository": {
+    "full_name": "saproto/saproto",
+    "url": "https://github.com/saproto/saproto",
+    "clone_url": "https://github.com/saproto/saproto.git",
+    "stars": 18,
+    "language": "PHP",
+    "size_kb": 111375
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 108,
+    "duration_seconds": 1.260733
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 18 stars."
+  }
+}
