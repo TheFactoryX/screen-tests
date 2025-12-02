@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1729 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 120k | 2025-12-02 |
+| #1730 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1795,3 +1795,4 @@ Or let GitHub Action run it automatically.
 | 1727 | 2025-12-02 15:21:22 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (382280⭐ Python) | [reels/reel_1727_public-apis-public-apis](reels/reel_1727_public-apis-public-apis) |
 | 1728 | 2025-12-02 15:46:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116776⭐ Svelte) | [reels/reel_1728_open-webui-open-webui](reels/reel_1728_open-webui-open-webui) |
 | 1729 | 2025-12-02 16:26:30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (120954⭐ Python) | [reels/reel_1729_langchain-ai-langchain](reels/reel_1729_langchain-ai-langchain) |
+| 1730 | 2025-12-02 16:54:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101878⭐ None) | [reels/reel_1730_Hack-with-Github-Awesome-Hacking](reels/reel_1730_Hack-with-Github-Awesome-Hacking) |
