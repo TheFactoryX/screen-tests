@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1716 | [PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) | Python · ⭐ 428 | 2025-12-02 |
+| #1717 | [Ada18980/KinkiestDungeon](https://github.com/Ada18980/KinkiestDungeon) | TypeScript · ⭐ 136 | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1782,3 +1782,4 @@ Or let GitHub Action run it automatically.
 | 1714 | 2025-12-02 08:54:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160032⭐ TypeScript) | [reels/reel_1714_n8n-io-n8n](reels/reel_1714_n8n-io-n8n) |
 | 1715 | 2025-12-02 09:24:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261055⭐ None) | [reels/reel_1715_awesome-selfhosted-awesome-selfhosted](reels/reel_1715_awesome-selfhosted-awesome-selfhosted) |
 | 1716 | 2025-12-02 09:47:39 | [PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) | ✅ readme_only (428⭐ Python) | [reels/reel_1716_PostHog-posthog-foss](reels/reel_1716_PostHog-posthog-foss) |
+| 1717 | 2025-12-02 10:21:01 | [Ada18980/KinkiestDungeon](https://github.com/Ada18980/KinkiestDungeon) | ✅ readme_only (136⭐ TypeScript) | [reels/reel_1717_Ada18980-KinkiestDungeon](reels/reel_1717_Ada18980-KinkiestDungeon) |

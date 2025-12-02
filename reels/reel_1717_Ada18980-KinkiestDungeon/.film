@@ -1,0 +1,24 @@
+{
+  "reel_number": 1717,
+  "recorded": "2025-12-02 10:21:01 UTC",
+  "repository": {
+    "full_name": "Ada18980/KinkiestDungeon",
+    "url": "https://github.com/Ada18980/KinkiestDungeon",
+    "clone_url": "https://github.com/Ada18980/KinkiestDungeon.git",
+    "stars": 136,
+    "language": "TypeScript",
+    "size_kb": 5277628
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 5153,
+    "duration_seconds": 0.000143
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 136 stars."
+  }
+}
