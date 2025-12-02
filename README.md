@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1733 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-02 |
+| #1734 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1799,3 +1799,4 @@ Or let GitHub Action run it automatically.
 | 1731 | 2025-12-02 17:21:05 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101098⭐ TypeScript) | [reels/reel_1731_shadcn-ui-ui](reels/reel_1731_shadcn-ui-ui) |
 | 1732 | 2025-12-02 17:45:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101878⭐ None) | [reels/reel_1732_Hack-with-Github-Awesome-Hacking](reels/reel_1732_Hack-with-Github-Awesome-Hacking) |
 | 1733 | 2025-12-02 18:30:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140043⭐ Python) | [reels/reel_1733_langflow-ai-langflow](reels/reel_1733_langflow-ai-langflow) |
+| 1734 | 2025-12-02 19:00:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160176⭐ TypeScript) | [reels/reel_1734_n8n-io-n8n](reels/reel_1734_n8n-io-n8n) |
