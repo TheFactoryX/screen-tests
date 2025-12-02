@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1739 | [stylelint-scss/stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) | JavaScript · ⭐ 878 | 2025-12-02 |
+| #1740 | [cheehwatang/cheehwatang](https://github.com/cheehwatang/cheehwatang) | None · ⭐ 16 | 2025-12-02 |
 ---
 
 ## 🎭 Selection Process
@@ -1805,3 +1805,4 @@ Or let GitHub Action run it automatically.
 | 1737 | 2025-12-02 19:53:24 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139020⭐ Python) | [reels/reel_1737_ytdl-org-youtube-dl](reels/reel_1737_ytdl-org-youtube-dl) |
 | 1738 | 2025-12-02 20:23:00 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445278⭐ Markdown) | [reels/reel_1738_codecrafters-io-build-your-own-x](reels/reel_1738_codecrafters-io-build-your-own-x) |
 | 1739 | 2025-12-02 20:44:56 | [stylelint-scss/stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) | ✅ full (878⭐ JavaScript) | [reels/reel_1739_stylelint-scss-stylelint-scss](reels/reel_1739_stylelint-scss-stylelint-scss) |
+| 1740 | 2025-12-02 20:55:53 | [cheehwatang/cheehwatang](https://github.com/cheehwatang/cheehwatang) | ✅ full (16⭐ None) | [reels/reel_1740_cheehwatang-cheehwatang](reels/reel_1740_cheehwatang-cheehwatang) |
