@@ -1,0 +1,24 @@
+{
+  "reel_number": 1793,
+  "recorded": "2025-12-03 21:37:31 UTC",
+  "repository": {
+    "full_name": "Calvin-LL/CalcGPT.io",
+    "url": "https://github.com/Calvin-LL/CalcGPT.io",
+    "clone_url": "https://github.com/Calvin-LL/CalcGPT.io.git",
+    "stars": 147,
+    "language": "Astro",
+    "size_kb": 453962
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 443,
+    "duration_seconds": 0.27533
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Astro",
+    "director_note": "A Astro repository. 147 stars."
+  }
+}
