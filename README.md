@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1773 | [tsaiid/vghks-random-duty](https://github.com/tsaiid/vghks-random-duty) | JavaScript · ⭐ 16 | 2025-12-03 |
+| #1774 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1839,3 +1839,4 @@ Or let GitHub Action run it automatically.
 | 1771 | 2025-12-03 11:50:27 | [ItzLevvie/MicrosoftTeams-msinternal](https://github.com/ItzLevvie/MicrosoftTeams-msinternal) | ✅ full (527⭐ PowerShell) | [reels/reel_1771_ItzLevvie-MicrosoftTeams-msinternal](reels/reel_1771_ItzLevvie-MicrosoftTeams-msinternal) |
 | 1772 | 2025-12-03 12:40:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99538⭐ Rust) | [reels/reel_1772_tauri-apps-tauri](reels/reel_1772_tauri-apps-tauri) |
 | 1773 | 2025-12-03 13:24:35 | [tsaiid/vghks-random-duty](https://github.com/tsaiid/vghks-random-duty) | ✅ full (16⭐ JavaScript) | [reels/reel_1773_tsaiid-vghks-random-duty](reels/reel_1773_tsaiid-vghks-random-duty) |
+| 1774 | 2025-12-03 13:53:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121038⭐ Python) | [reels/reel_1774_langchain-ai-langchain](reels/reel_1774_langchain-ai-langchain) |
