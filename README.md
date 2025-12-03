@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1795 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-03 |
+| #1796 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1861,3 +1861,4 @@ Or let GitHub Action run it automatically.
 | 1793 | 2025-12-03 21:37:31 | [Calvin-LL/CalcGPT.io](https://github.com/Calvin-LL/CalcGPT.io) | ✅ shallow (147⭐ Astro) | [reels/reel_1793_Calvin-LL-CalcGPT.io](reels/reel_1793_Calvin-LL-CalcGPT.io) |
 | 1794 | 2025-12-03 21:50:21 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (382485⭐ Python) | [reels/reel_1794_public-apis-public-apis](reels/reel_1794_public-apis-public-apis) |
 | 1795 | 2025-12-03 22:18:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137051⭐ Python) | [reels/reel_1795_yt-dlp-yt-dlp](reels/reel_1795_yt-dlp-yt-dlp) |
+| 1796 | 2025-12-03 22:43:30 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160452⭐ TypeScript) | [reels/reel_1796_n8n-io-n8n](reels/reel_1796_n8n-io-n8n) |
