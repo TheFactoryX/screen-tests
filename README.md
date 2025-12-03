@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1798 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-03 |
+| #1799 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1864,3 +1864,4 @@ Or let GitHub Action run it automatically.
 | 1796 | 2025-12-03 22:43:30 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160452⭐ TypeScript) | [reels/reel_1796_n8n-io-n8n](reels/reel_1796_n8n-io-n8n) |
 | 1797 | 2025-12-03 22:53:21 | [akdeb/ElatoAI](https://github.com/akdeb/ElatoAI) | ✅ shallow (1258⭐ TypeScript) | [reels/reel_1797_akdeb-ElatoAI](reels/reel_1797_akdeb-ElatoAI) |
 | 1798 | 2025-12-03 23:16:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121063⭐ Python) | [reels/reel_1798_langchain-ai-langchain](reels/reel_1798_langchain-ai-langchain) |
+| 1799 | 2025-12-03 23:38:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137061⭐ Python) | [reels/reel_1799_yt-dlp-yt-dlp](reels/reel_1799_yt-dlp-yt-dlp) |
