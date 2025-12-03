@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1749 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-02 |
+| #1750 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 251k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1815,3 +1815,4 @@ Or let GitHub Action run it automatically.
 | 1747 | 2025-12-02 23:17:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261137⭐ None) | [reels/reel_1747_awesome-selfhosted-awesome-selfhosted](reels/reel_1747_awesome-selfhosted-awesome-selfhosted) |
 | 1748 | 2025-12-02 23:39:03 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (136957⭐ Python) | [reels/reel_1748_yt-dlp-yt-dlp](reels/reel_1748_yt-dlp-yt-dlp) |
 | 1749 | 2025-12-02 23:49:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180066⭐ Python) | [reels/reel_1749_Significant-Gravitas-AutoGPT](reels/reel_1749_Significant-Gravitas-AutoGPT) |
+| 1750 | 2025-12-03 01:24:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251562⭐ None) | [reels/reel_1750_practical-tutorials-project-based-learning](reels/reel_1750_practical-tutorials-project-based-learning) |
