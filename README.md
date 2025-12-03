@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1793 | [Calvin-LL/CalcGPT.io](https://github.com/Calvin-LL/CalcGPT.io) | Astro · ⭐ 147 | 2025-12-03 |
+| #1794 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 382k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1859,3 +1859,4 @@ Or let GitHub Action run it automatically.
 | 1791 | 2025-12-03 20:56:45 | [fjall-rs/lsm-tree](https://github.com/fjall-rs/lsm-tree) | ✅ full (297⭐ Rust) | [reels/reel_1791_fjall-rs-lsm-tree](reels/reel_1791_fjall-rs-lsm-tree) |
 | 1792 | 2025-12-03 21:20:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180084⭐ Python) | [reels/reel_1792_Significant-Gravitas-AutoGPT](reels/reel_1792_Significant-Gravitas-AutoGPT) |
 | 1793 | 2025-12-03 21:37:31 | [Calvin-LL/CalcGPT.io](https://github.com/Calvin-LL/CalcGPT.io) | ✅ shallow (147⭐ Astro) | [reels/reel_1793_Calvin-LL-CalcGPT.io](reels/reel_1793_Calvin-LL-CalcGPT.io) |
+| 1794 | 2025-12-03 21:50:21 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (382485⭐ Python) | [reels/reel_1794_public-apis-public-apis](reels/reel_1794_public-apis-public-apis) |
