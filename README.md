@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1784 | [Kikobeats/isolated-function](https://github.com/Kikobeats/isolated-function) | JavaScript · ⭐ 17 | 2025-12-03 |
+| #1785 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1850,3 +1850,4 @@ Or let GitHub Action run it automatically.
 | 1782 | 2025-12-03 17:45:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140086⭐ Python) | [reels/reel_1782_langflow-ai-langflow](reels/reel_1782_langflow-ai-langflow) |
 | 1783 | 2025-12-03 17:55:51 | [spacetelescope/jdaviz](https://github.com/spacetelescope/jdaviz) | ✅ shallow (166⭐ Python) | [reels/reel_1783_spacetelescope-jdaviz](reels/reel_1783_spacetelescope-jdaviz) |
 | 1784 | 2025-12-03 18:32:40 | [Kikobeats/isolated-function](https://github.com/Kikobeats/isolated-function) | ✅ full (17⭐ JavaScript) | [reels/reel_1784_Kikobeats-isolated-function](reels/reel_1784_Kikobeats-isolated-function) |
+| 1785 | 2025-12-03 18:58:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261265⭐ None) | [reels/reel_1785_awesome-selfhosted-awesome-selfhosted](reels/reel_1785_awesome-selfhosted-awesome-selfhosted) |
