@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1775 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-03 |
+| #1776 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1841,3 +1841,4 @@ Or let GitHub Action run it automatically.
 | 1773 | 2025-12-03 13:24:35 | [tsaiid/vghks-random-duty](https://github.com/tsaiid/vghks-random-duty) | ✅ full (16⭐ JavaScript) | [reels/reel_1773_tsaiid-vghks-random-duty](reels/reel_1773_tsaiid-vghks-random-duty) |
 | 1774 | 2025-12-03 13:53:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121038⭐ Python) | [reels/reel_1774_langchain-ai-langchain](reels/reel_1774_langchain-ai-langchain) |
 | 1775 | 2025-12-03 14:20:24 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101174⭐ TypeScript) | [reels/reel_1775_shadcn-ui-ui](reels/reel_1775_shadcn-ui-ui) |
+| 1776 | 2025-12-03 14:47:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121041⭐ Python) | [reels/reel_1776_langchain-ai-langchain](reels/reel_1776_langchain-ai-langchain) |
