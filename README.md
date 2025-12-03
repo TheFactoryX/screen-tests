@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1787 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 445k | 2025-12-03 |
+| #1788 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1853,3 +1853,4 @@ Or let GitHub Action run it automatically.
 | 1785 | 2025-12-03 18:58:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261265⭐ None) | [reels/reel_1785_awesome-selfhosted-awesome-selfhosted](reels/reel_1785_awesome-selfhosted-awesome-selfhosted) |
 | 1786 | 2025-12-03 19:23:51 | [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) | ✅ shallow (312⭐ TypeScript) | [reels/reel_1786_OpenAgentsInc-openagents](reels/reel_1786_OpenAgentsInc-openagents) |
 | 1787 | 2025-12-03 19:38:15 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445750⭐ Markdown) | [reels/reel_1787_codecrafters-io-build-your-own-x](reels/reel_1787_codecrafters-io-build-your-own-x) |
+| 1788 | 2025-12-03 19:50:14 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121056⭐ Python) | [reels/reel_1788_langchain-ai-langchain](reels/reel_1788_langchain-ai-langchain) |
