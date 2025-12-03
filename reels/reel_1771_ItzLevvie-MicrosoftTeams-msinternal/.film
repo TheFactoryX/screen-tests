@@ -1,0 +1,24 @@
+{
+  "reel_number": 1771,
+  "recorded": "2025-12-03 11:50:27 UTC",
+  "repository": {
+    "full_name": "ItzLevvie/MicrosoftTeams-msinternal",
+    "url": "https://github.com/ItzLevvie/MicrosoftTeams-msinternal",
+    "clone_url": "https://github.com/ItzLevvie/MicrosoftTeams-msinternal.git",
+    "stars": 527,
+    "language": "PowerShell",
+    "size_kb": 22000
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 2.263924
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 527 stars."
+  }
+}
