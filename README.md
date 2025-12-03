@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1785 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-03 |
+| #1786 | [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) | TypeScript · ⭐ 312 | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1851,3 +1851,4 @@ Or let GitHub Action run it automatically.
 | 1783 | 2025-12-03 17:55:51 | [spacetelescope/jdaviz](https://github.com/spacetelescope/jdaviz) | ✅ shallow (166⭐ Python) | [reels/reel_1783_spacetelescope-jdaviz](reels/reel_1783_spacetelescope-jdaviz) |
 | 1784 | 2025-12-03 18:32:40 | [Kikobeats/isolated-function](https://github.com/Kikobeats/isolated-function) | ✅ full (17⭐ JavaScript) | [reels/reel_1784_Kikobeats-isolated-function](reels/reel_1784_Kikobeats-isolated-function) |
 | 1785 | 2025-12-03 18:58:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261265⭐ None) | [reels/reel_1785_awesome-selfhosted-awesome-selfhosted](reels/reel_1785_awesome-selfhosted-awesome-selfhosted) |
+| 1786 | 2025-12-03 19:23:51 | [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) | ✅ shallow (312⭐ TypeScript) | [reels/reel_1786_OpenAgentsInc-openagents](reels/reel_1786_OpenAgentsInc-openagents) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1786,
+  "recorded": "2025-12-03 19:23:51 UTC",
+  "repository": {
+    "full_name": "OpenAgentsInc/openagents",
+    "url": "https://github.com/OpenAgentsInc/openagents",
+    "clone_url": "https://github.com/OpenAgentsInc/openagents.git",
+    "stars": 312,
+    "language": "TypeScript",
+    "size_kb": 102470
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 100,
+    "duration_seconds": 0.283403
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 312 stars."
+  }
+}
