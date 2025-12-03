@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1768 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-12-03 |
+| #1769 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1834,3 +1834,4 @@ Or let GitHub Action run it automatically.
 | 1766 | 2025-12-03 09:45:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160318⭐ TypeScript) | [reels/reel_1766_n8n-io-n8n](reels/reel_1766_n8n-io-n8n) |
 | 1767 | 2025-12-03 10:22:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261191⭐ None) | [reels/reel_1767_awesome-selfhosted-awesome-selfhosted](reels/reel_1767_awesome-selfhosted-awesome-selfhosted) |
 | 1768 | 2025-12-03 10:49:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116846⭐ Svelte) | [reels/reel_1768_open-webui-open-webui](reels/reel_1768_open-webui-open-webui) |
+| 1769 | 2025-12-03 11:17:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137010⭐ Python) | [reels/reel_1769_yt-dlp-yt-dlp](reels/reel_1769_yt-dlp-yt-dlp) |
