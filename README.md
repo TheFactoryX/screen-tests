@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1752 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | None · ⭐ 178 | 2025-12-03 |
+| #1753 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1818,3 +1818,4 @@ Or let GitHub Action run it automatically.
 | 1750 | 2025-12-03 01:24:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251562⭐ None) | [reels/reel_1750_practical-tutorials-project-based-learning](reels/reel_1750_practical-tutorials-project-based-learning) |
 | 1751 | 2025-12-03 03:00:56 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445381⭐ Markdown) | [reels/reel_1751_codecrafters-io-build-your-own-x](reels/reel_1751_codecrafters-io-build-your-own-x) |
 | 1752 | 2025-12-03 03:57:46 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (178⭐ None) | [reels/reel_1752_mytv-android-China-TV-Live-M3U8](reels/reel_1752_mytv-android-China-TV-Live-M3U8) |
+| 1753 | 2025-12-03 04:32:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160262⭐ TypeScript) | [reels/reel_1753_n8n-io-n8n](reels/reel_1753_n8n-io-n8n) |
