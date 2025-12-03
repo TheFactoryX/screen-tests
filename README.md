@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1794 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 382k | 2025-12-03 |
+| #1795 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1860,3 +1860,4 @@ Or let GitHub Action run it automatically.
 | 1792 | 2025-12-03 21:20:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180084⭐ Python) | [reels/reel_1792_Significant-Gravitas-AutoGPT](reels/reel_1792_Significant-Gravitas-AutoGPT) |
 | 1793 | 2025-12-03 21:37:31 | [Calvin-LL/CalcGPT.io](https://github.com/Calvin-LL/CalcGPT.io) | ✅ shallow (147⭐ Astro) | [reels/reel_1793_Calvin-LL-CalcGPT.io](reels/reel_1793_Calvin-LL-CalcGPT.io) |
 | 1794 | 2025-12-03 21:50:21 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (382485⭐ Python) | [reels/reel_1794_public-apis-public-apis](reels/reel_1794_public-apis-public-apis) |
+| 1795 | 2025-12-03 22:18:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137051⭐ Python) | [reels/reel_1795_yt-dlp-yt-dlp](reels/reel_1795_yt-dlp-yt-dlp) |
