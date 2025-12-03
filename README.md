@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1761 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 445k | 2025-12-03 |
+| #1762 | [mmomtchev/sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) | TypeScript · ⭐ 119 | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1827,3 +1827,4 @@ Or let GitHub Action run it automatically.
 | 1759 | 2025-12-03 06:55:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116829⭐ Svelte) | [reels/reel_1759_open-webui-open-webui](reels/reel_1759_open-webui-open-webui) |
 | 1760 | 2025-12-03 07:21:05 | [justoneapi-45/tiktok-api](https://github.com/justoneapi-45/tiktok-api) | ✅ full (639⭐ None) | [reels/reel_1760_justoneapi-45-tiktok-api](reels/reel_1760_justoneapi-45-tiktok-api) |
 | 1761 | 2025-12-03 07:41:50 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445500⭐ Markdown) | [reels/reel_1761_codecrafters-io-build-your-own-x](reels/reel_1761_codecrafters-io-build-your-own-x) |
+| 1762 | 2025-12-03 07:51:49 | [mmomtchev/sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) | ✅ full (119⭐ TypeScript) | [reels/reel_1762_mmomtchev-sqlite-wasm-http](reels/reel_1762_mmomtchev-sqlite-wasm-http) |

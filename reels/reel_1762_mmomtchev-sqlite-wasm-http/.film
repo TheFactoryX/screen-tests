@@ -1,0 +1,24 @@
+{
+  "reel_number": 1762,
+  "recorded": "2025-12-03 07:51:49 UTC",
+  "repository": {
+    "full_name": "mmomtchev/sqlite-wasm-http",
+    "url": "https://github.com/mmomtchev/sqlite-wasm-http",
+    "clone_url": "https://github.com/mmomtchev/sqlite-wasm-http.git",
+    "stars": 119,
+    "language": "TypeScript",
+    "size_kb": 9470
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 1.771237
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 119 stars."
+  }
+}
