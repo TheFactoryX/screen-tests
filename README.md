@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1771 | [ItzLevvie/MicrosoftTeams-msinternal](https://github.com/ItzLevvie/MicrosoftTeams-msinternal) | PowerShell · ⭐ 527 | 2025-12-03 |
+| #1772 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1837,3 +1837,4 @@ Or let GitHub Action run it automatically.
 | 1769 | 2025-12-03 11:17:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137010⭐ Python) | [reels/reel_1769_yt-dlp-yt-dlp](reels/reel_1769_yt-dlp-yt-dlp) |
 | 1770 | 2025-12-03 11:39:49 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251594⭐ None) | [reels/reel_1770_practical-tutorials-project-based-learning](reels/reel_1770_practical-tutorials-project-based-learning) |
 | 1771 | 2025-12-03 11:50:27 | [ItzLevvie/MicrosoftTeams-msinternal](https://github.com/ItzLevvie/MicrosoftTeams-msinternal) | ✅ full (527⭐ PowerShell) | [reels/reel_1771_ItzLevvie-MicrosoftTeams-msinternal](reels/reel_1771_ItzLevvie-MicrosoftTeams-msinternal) |
+| 1772 | 2025-12-03 12:40:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99538⭐ Rust) | [reels/reel_1772_tauri-apps-tauri](reels/reel_1772_tauri-apps-tauri) |
