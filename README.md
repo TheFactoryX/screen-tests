@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1764 | [zkoss/zk](https://github.com/zkoss/zk) | Java · ⭐ 461 | 2025-12-03 |
+| #1765 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 251k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1830,3 +1830,4 @@ Or let GitHub Action run it automatically.
 | 1762 | 2025-12-03 07:51:49 | [mmomtchev/sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) | ✅ full (119⭐ TypeScript) | [reels/reel_1762_mmomtchev-sqlite-wasm-http](reels/reel_1762_mmomtchev-sqlite-wasm-http) |
 | 1763 | 2025-12-03 08:26:48 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139019⭐ Python) | [reels/reel_1763_ytdl-org-youtube-dl](reels/reel_1763_ytdl-org-youtube-dl) |
 | 1764 | 2025-12-03 08:53:12 | [zkoss/zk](https://github.com/zkoss/zk) | ✅ readme_only (461⭐ Java) | [reels/reel_1764_zkoss-zk](reels/reel_1764_zkoss-zk) |
+| 1765 | 2025-12-03 09:23:02 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251585⭐ None) | [reels/reel_1765_practical-tutorials-project-based-learning](reels/reel_1765_practical-tutorials-project-based-learning) |
