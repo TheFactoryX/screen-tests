@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1753 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-03 |
+| #1754 | [KATO-Hiro/AtCoderClans](https://github.com/KATO-Hiro/AtCoderClans) | Shell · ⭐ 134 | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1819,3 +1819,4 @@ Or let GitHub Action run it automatically.
 | 1751 | 2025-12-03 03:00:56 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445381⭐ Markdown) | [reels/reel_1751_codecrafters-io-build-your-own-x](reels/reel_1751_codecrafters-io-build-your-own-x) |
 | 1752 | 2025-12-03 03:57:46 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (178⭐ None) | [reels/reel_1752_mytv-android-China-TV-Live-M3U8](reels/reel_1752_mytv-android-China-TV-Live-M3U8) |
 | 1753 | 2025-12-03 04:32:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160262⭐ TypeScript) | [reels/reel_1753_n8n-io-n8n](reels/reel_1753_n8n-io-n8n) |
+| 1754 | 2025-12-03 04:55:57 | [KATO-Hiro/AtCoderClans](https://github.com/KATO-Hiro/AtCoderClans) | ✅ full (134⭐ Shell) | [reels/reel_1754_KATO-Hiro-AtCoderClans](reels/reel_1754_KATO-Hiro-AtCoderClans) |

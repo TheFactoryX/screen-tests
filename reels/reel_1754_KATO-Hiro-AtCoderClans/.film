@@ -1,0 +1,24 @@
+{
+  "reel_number": 1754,
+  "recorded": "2025-12-03 04:55:57 UTC",
+  "repository": {
+    "full_name": "KATO-Hiro/AtCoderClans",
+    "url": "https://github.com/KATO-Hiro/AtCoderClans",
+    "clone_url": "https://github.com/KATO-Hiro/AtCoderClans.git",
+    "stars": 134,
+    "language": "Shell",
+    "size_kb": 83292
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 81,
+    "duration_seconds": 2.592754
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 134 stars."
+  }
+}
