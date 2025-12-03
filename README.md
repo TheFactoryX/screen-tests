@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1758 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-03 |
+| #1759 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 116k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1824,3 +1824,4 @@ Or let GitHub Action run it automatically.
 | 1756 | 2025-12-03 05:42:32 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100525⭐ Python) | [reels/reel_1756_deepseek-ai-DeepSeek-V3](reels/reel_1756_deepseek-ai-DeepSeek-V3) |
 | 1757 | 2025-12-03 05:52:31 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139022⭐ Python) | [reels/reel_1757_ytdl-org-youtube-dl](reels/reel_1757_ytdl-org-youtube-dl) |
 | 1758 | 2025-12-03 06:29:44 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140096⭐ Python) | [reels/reel_1758_langflow-ai-langflow](reels/reel_1758_langflow-ai-langflow) |
+| 1759 | 2025-12-03 06:55:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (116829⭐ Svelte) | [reels/reel_1759_open-webui-open-webui](reels/reel_1759_open-webui-open-webui) |
