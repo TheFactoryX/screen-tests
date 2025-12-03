@@ -1,0 +1,24 @@
+{
+  "reel_number": 1764,
+  "recorded": "2025-12-03 08:53:12 UTC",
+  "repository": {
+    "full_name": "zkoss/zk",
+    "url": "https://github.com/zkoss/zk",
+    "clone_url": "https://github.com/zkoss/zk.git",
+    "stars": 461,
+    "language": "Java",
+    "size_kb": 1018850
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 994,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 461 stars."
+  }
+}
