@@ -1,0 +1,24 @@
+{
+  "reel_number": 1791,
+  "recorded": "2025-12-03 20:56:45 UTC",
+  "repository": {
+    "full_name": "fjall-rs/lsm-tree",
+    "url": "https://github.com/fjall-rs/lsm-tree",
+    "clone_url": "https://github.com/fjall-rs/lsm-tree.git",
+    "stars": 297,
+    "language": "Rust",
+    "size_kb": 3313
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.785812
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 297 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1790 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-03 |
+| #1791 | [fjall-rs/lsm-tree](https://github.com/fjall-rs/lsm-tree) | Rust · ⭐ 297 | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1856,3 +1856,4 @@ Or let GitHub Action run it automatically.
 | 1788 | 2025-12-03 19:50:14 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121056⭐ Python) | [reels/reel_1788_langchain-ai-langchain](reels/reel_1788_langchain-ai-langchain) |
 | 1789 | 2025-12-03 20:22:25 | [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) | ✅ full (706⭐ Python) | [reels/reel_1789_RealOrangeOne-django-tasks](reels/reel_1789_RealOrangeOne-django-tasks) |
 | 1790 | 2025-12-03 20:45:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104428⭐ TypeScript) | [reels/reel_1790_iptv-org-iptv](reels/reel_1790_iptv-org-iptv) |
+| 1791 | 2025-12-03 20:56:45 | [fjall-rs/lsm-tree](https://github.com/fjall-rs/lsm-tree) | ✅ full (297⭐ Rust) | [reels/reel_1791_fjall-rs-lsm-tree](reels/reel_1791_fjall-rs-lsm-tree) |
