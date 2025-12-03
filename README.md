@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1756 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-03 |
+| #1757 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1822,3 +1822,4 @@ Or let GitHub Action run it automatically.
 | 1754 | 2025-12-03 04:55:57 | [KATO-Hiro/AtCoderClans](https://github.com/KATO-Hiro/AtCoderClans) | ✅ full (134⭐ Shell) | [reels/reel_1754_KATO-Hiro-AtCoderClans](reels/reel_1754_KATO-Hiro-AtCoderClans) |
 | 1755 | 2025-12-03 05:20:07 | [saisuiu/Lionkings-Http-Proxys-Proxies](https://github.com/saisuiu/Lionkings-Http-Proxys-Proxies) | ✅ readme_only (167⭐ None) | [reels/reel_1755_saisuiu-Lionkings-Http-Proxys-Proxies](reels/reel_1755_saisuiu-Lionkings-Http-Proxys-Proxies) |
 | 1756 | 2025-12-03 05:42:32 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100525⭐ Python) | [reels/reel_1756_deepseek-ai-DeepSeek-V3](reels/reel_1756_deepseek-ai-DeepSeek-V3) |
+| 1757 | 2025-12-03 05:52:31 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139022⭐ Python) | [reels/reel_1757_ytdl-org-youtube-dl](reels/reel_1757_ytdl-org-youtube-dl) |
