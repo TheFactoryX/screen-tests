@@ -1,0 +1,24 @@
+{
+  "reel_number": 1783,
+  "recorded": "2025-12-03 17:55:51 UTC",
+  "repository": {
+    "full_name": "spacetelescope/jdaviz",
+    "url": "https://github.com/spacetelescope/jdaviz",
+    "clone_url": "https://github.com/spacetelescope/jdaviz.git",
+    "stars": 166,
+    "language": "Python",
+    "size_kb": 201623
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 196,
+    "duration_seconds": 0.706334
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 166 stars."
+  }
+}

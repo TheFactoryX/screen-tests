@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1782 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-03 |
+| #1783 | [spacetelescope/jdaviz](https://github.com/spacetelescope/jdaviz) | Python · ⭐ 166 | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1848,3 +1848,4 @@ Or let GitHub Action run it automatically.
 | 1780 | 2025-12-03 16:54:27 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108232⭐ Rust) | [reels/reel_1780_rust-lang-rust](reels/reel_1780_rust-lang-rust) |
 | 1781 | 2025-12-03 17:21:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180085⭐ Python) | [reels/reel_1781_Significant-Gravitas-AutoGPT](reels/reel_1781_Significant-Gravitas-AutoGPT) |
 | 1782 | 2025-12-03 17:45:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140086⭐ Python) | [reels/reel_1782_langflow-ai-langflow](reels/reel_1782_langflow-ai-langflow) |
+| 1783 | 2025-12-03 17:55:51 | [spacetelescope/jdaviz](https://github.com/spacetelescope/jdaviz) | ✅ shallow (166⭐ Python) | [reels/reel_1783_spacetelescope-jdaviz](reels/reel_1783_spacetelescope-jdaviz) |
