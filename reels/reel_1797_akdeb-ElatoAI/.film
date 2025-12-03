@@ -1,0 +1,24 @@
+{
+  "reel_number": 1797,
+  "recorded": "2025-12-03 22:53:21 UTC",
+  "repository": {
+    "full_name": "akdeb/ElatoAI",
+    "url": "https://github.com/akdeb/ElatoAI",
+    "clone_url": "https://github.com/akdeb/ElatoAI.git",
+    "stars": 1258,
+    "language": "TypeScript",
+    "size_kb": 132292
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 129,
+    "duration_seconds": 1.428706
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 1258 stars."
+  }
+}
