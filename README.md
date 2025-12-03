@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1765 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 251k | 2025-12-03 |
+| #1766 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1831,3 +1831,4 @@ Or let GitHub Action run it automatically.
 | 1763 | 2025-12-03 08:26:48 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139019⭐ Python) | [reels/reel_1763_ytdl-org-youtube-dl](reels/reel_1763_ytdl-org-youtube-dl) |
 | 1764 | 2025-12-03 08:53:12 | [zkoss/zk](https://github.com/zkoss/zk) | ✅ readme_only (461⭐ Java) | [reels/reel_1764_zkoss-zk](reels/reel_1764_zkoss-zk) |
 | 1765 | 2025-12-03 09:23:02 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251585⭐ None) | [reels/reel_1765_practical-tutorials-project-based-learning](reels/reel_1765_practical-tutorials-project-based-learning) |
+| 1766 | 2025-12-03 09:45:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160318⭐ TypeScript) | [reels/reel_1766_n8n-io-n8n](reels/reel_1766_n8n-io-n8n) |
