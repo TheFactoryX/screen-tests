@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1762 | [mmomtchev/sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) | TypeScript · ⭐ 119 | 2025-12-03 |
+| #1763 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-03 |
 ---
 
 ## 🎭 Selection Process
@@ -1828,3 +1828,4 @@ Or let GitHub Action run it automatically.
 | 1760 | 2025-12-03 07:21:05 | [justoneapi-45/tiktok-api](https://github.com/justoneapi-45/tiktok-api) | ✅ full (639⭐ None) | [reels/reel_1760_justoneapi-45-tiktok-api](reels/reel_1760_justoneapi-45-tiktok-api) |
 | 1761 | 2025-12-03 07:41:50 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445500⭐ Markdown) | [reels/reel_1761_codecrafters-io-build-your-own-x](reels/reel_1761_codecrafters-io-build-your-own-x) |
 | 1762 | 2025-12-03 07:51:49 | [mmomtchev/sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http) | ✅ full (119⭐ TypeScript) | [reels/reel_1762_mmomtchev-sqlite-wasm-http](reels/reel_1762_mmomtchev-sqlite-wasm-http) |
+| 1763 | 2025-12-03 08:26:48 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139019⭐ Python) | [reels/reel_1763_ytdl-org-youtube-dl](reels/reel_1763_ytdl-org-youtube-dl) |
