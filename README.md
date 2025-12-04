@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1809 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-04 |
+| #1810 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1875,3 +1875,4 @@ Or let GitHub Action run it automatically.
 | 1807 | 2025-12-04 05:43:17 | [AeonGames/AeonEngine](https://github.com/AeonGames/AeonEngine) | ✅ full (17⭐ C++) | [reels/reel_1807_AeonGames-AeonEngine](reels/reel_1807_AeonGames-AeonEngine) |
 | 1808 | 2025-12-04 05:52:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251657⭐ None) | [reels/reel_1808_practical-tutorials-project-based-learning](reels/reel_1808_practical-tutorials-project-based-learning) |
 | 1809 | 2025-12-04 06:29:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140099⭐ Python) | [reels/reel_1809_langflow-ai-langflow](reels/reel_1809_langflow-ai-langflow) |
+| 1810 | 2025-12-04 06:55:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140100⭐ Python) | [reels/reel_1810_langflow-ai-langflow](reels/reel_1810_langflow-ai-langflow) |
