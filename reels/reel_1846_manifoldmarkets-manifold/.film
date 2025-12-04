@@ -1,0 +1,24 @@
+{
+  "reel_number": 1846,
+  "recorded": "2025-12-04 22:41:29 UTC",
+  "repository": {
+    "full_name": "manifoldmarkets/manifold",
+    "url": "https://github.com/manifoldmarkets/manifold",
+    "clone_url": "https://github.com/manifoldmarkets/manifold.git",
+    "stars": 462,
+    "language": "TypeScript",
+    "size_kb": 176177
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 172,
+    "duration_seconds": 4.859059
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 462 stars."
+  }
+}
