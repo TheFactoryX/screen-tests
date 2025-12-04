@@ -1,0 +1,24 @@
+{
+  "reel_number": 1849,
+  "recorded": "2025-12-04 23:39:22 UTC",
+  "repository": {
+    "full_name": "0xDanielLopez/TweetFeed",
+    "url": "https://github.com/0xDanielLopez/TweetFeed",
+    "clone_url": "https://github.com/0xDanielLopez/TweetFeed.git",
+    "stars": 607,
+    "language": null,
+    "size_kb": 24984
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 3.614312
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 607 stars."
+  }
+}

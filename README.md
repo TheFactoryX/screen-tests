@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1848 | [cluntop/tvbox](https://github.com/cluntop/tvbox) | Python · ⭐ 203 | 2025-12-04 |
+| #1849 | [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed) | None · ⭐ 607 | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1914,3 +1914,4 @@ Or let GitHub Action run it automatically.
 | 1846 | 2025-12-04 22:41:29 | [manifoldmarkets/manifold](https://github.com/manifoldmarkets/manifold) | ✅ shallow (462⭐ TypeScript) | [reels/reel_1846_manifoldmarkets-manifold](reels/reel_1846_manifoldmarkets-manifold) |
 | 1847 | 2025-12-04 22:51:26 | [bingo-js/bingo](https://github.com/bingo-js/bingo) | ✅ full (131⭐ TypeScript) | [reels/reel_1847_bingo-js-bingo](reels/reel_1847_bingo-js-bingo) |
 | 1848 | 2025-12-04 23:17:40 | [cluntop/tvbox](https://github.com/cluntop/tvbox) | ✅ shallow (203⭐ Python) | [reels/reel_1848_cluntop-tvbox](reels/reel_1848_cluntop-tvbox) |
+| 1849 | 2025-12-04 23:39:22 | [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed) | ✅ full (607⭐ None) | [reels/reel_1849_0xDanielLopez-TweetFeed](reels/reel_1849_0xDanielLopez-TweetFeed) |
