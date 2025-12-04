@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1813 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-04 |
+| #1814 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1879,3 +1879,4 @@ Or let GitHub Action run it automatically.
 | 1811 | 2025-12-04 07:20:24 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100554⭐ Python) | [reels/reel_1811_deepseek-ai-DeepSeek-V3](reels/reel_1811_deepseek-ai-DeepSeek-V3) |
 | 1812 | 2025-12-04 07:41:12 | [zclucas/RMT](https://github.com/zclucas/RMT) | ✅ shallow (821⭐ AutoHotkey) | [reels/reel_1812_zclucas-RMT](reels/reel_1812_zclucas-RMT) |
 | 1813 | 2025-12-04 07:51:02 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121096⭐ Python) | [reels/reel_1813_langchain-ai-langchain](reels/reel_1813_langchain-ai-langchain) |
+| 1814 | 2025-12-04 08:26:57 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261362⭐ None) | [reels/reel_1814_awesome-selfhosted-awesome-selfhosted](reels/reel_1814_awesome-selfhosted-awesome-selfhosted) |
