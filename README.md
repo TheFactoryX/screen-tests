@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1803 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-04 |
+| #1804 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 445k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1869,3 +1869,4 @@ Or let GitHub Action run it automatically.
 | 1801 | 2025-12-04 01:25:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140075⭐ Python) | [reels/reel_1801_langflow-ai-langflow](reels/reel_1801_langflow-ai-langflow) |
 | 1802 | 2025-12-04 03:05:21 | [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) | ✅ full (336⭐ Python) | [reels/reel_1802_wecode-ai-Wegent](reels/reel_1802_wecode-ai-Wegent) |
 | 1803 | 2025-12-04 03:59:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140089⭐ Python) | [reels/reel_1803_langflow-ai-langflow](reels/reel_1803_langflow-ai-langflow) |
+| 1804 | 2025-12-04 04:37:26 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445851⭐ Markdown) | [reels/reel_1804_codecrafters-io-build-your-own-x](reels/reel_1804_codecrafters-io-build-your-own-x) |
