@@ -1,0 +1,24 @@
+{
+  "reel_number": 1831,
+  "recorded": "2025-12-04 16:54:22 UTC",
+  "repository": {
+    "full_name": "glasskube/distr",
+    "url": "https://github.com/glasskube/distr",
+    "clone_url": "https://github.com/glasskube/distr.git",
+    "stars": 678,
+    "language": "Go",
+    "size_kb": 5794
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.257765
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 678 stars."
+  }
+}
