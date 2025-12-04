@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1800 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-03 |
+| #1801 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1866,3 +1866,4 @@ Or let GitHub Action run it automatically.
 | 1798 | 2025-12-03 23:16:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121063⭐ Python) | [reels/reel_1798_langchain-ai-langchain](reels/reel_1798_langchain-ai-langchain) |
 | 1799 | 2025-12-03 23:38:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137061⭐ Python) | [reels/reel_1799_yt-dlp-yt-dlp](reels/reel_1799_yt-dlp-yt-dlp) |
 | 1800 | 2025-12-03 23:49:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140108⭐ Python) | [reels/reel_1800_langflow-ai-langflow](reels/reel_1800_langflow-ai-langflow) |
+| 1801 | 2025-12-04 01:25:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140075⭐ Python) | [reels/reel_1801_langflow-ai-langflow](reels/reel_1801_langflow-ai-langflow) |
