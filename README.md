@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1840 | [okta/okta-signin-widget](https://github.com/okta/okta-signin-widget) | JavaScript · ⭐ 392 | 2025-12-04 |
+| #1841 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1906,3 +1906,4 @@ Or let GitHub Action run it automatically.
 | 1838 | 2025-12-04 19:50:16 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100562⭐ Python) | [reels/reel_1838_deepseek-ai-DeepSeek-V3](reels/reel_1838_deepseek-ai-DeepSeek-V3) |
 | 1839 | 2025-12-04 20:22:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180106⭐ Python) | [reels/reel_1839_Significant-Gravitas-AutoGPT](reels/reel_1839_Significant-Gravitas-AutoGPT) |
 | 1840 | 2025-12-04 20:45:03 | [okta/okta-signin-widget](https://github.com/okta/okta-signin-widget) | ✅ shallow (392⭐ JavaScript) | [reels/reel_1840_okta-okta-signin-widget](reels/reel_1840_okta-okta-signin-widget) |
+| 1841 | 2025-12-04 20:56:09 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100562⭐ Python) | [reels/reel_1841_deepseek-ai-DeepSeek-V3](reels/reel_1841_deepseek-ai-DeepSeek-V3) |
