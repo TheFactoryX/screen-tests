@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1802 | [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) | Python · ⭐ 336 | 2025-12-04 |
+| #1803 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1868,3 +1868,4 @@ Or let GitHub Action run it automatically.
 | 1800 | 2025-12-03 23:49:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140108⭐ Python) | [reels/reel_1800_langflow-ai-langflow](reels/reel_1800_langflow-ai-langflow) |
 | 1801 | 2025-12-04 01:25:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140075⭐ Python) | [reels/reel_1801_langflow-ai-langflow](reels/reel_1801_langflow-ai-langflow) |
 | 1802 | 2025-12-04 03:05:21 | [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) | ✅ full (336⭐ Python) | [reels/reel_1802_wecode-ai-Wegent](reels/reel_1802_wecode-ai-Wegent) |
+| 1803 | 2025-12-04 03:59:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140089⭐ Python) | [reels/reel_1803_langflow-ai-langflow](reels/reel_1803_langflow-ai-langflow) |
