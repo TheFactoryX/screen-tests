@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1844 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 101k | 2025-12-04 |
+| #1845 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1910,3 +1910,4 @@ Or let GitHub Action run it automatically.
 | 1842 | 2025-12-04 21:20:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160631⭐ TypeScript) | [reels/reel_1842_n8n-io-n8n](reels/reel_1842_n8n-io-n8n) |
 | 1843 | 2025-12-04 21:40:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104560⭐ TypeScript) | [reels/reel_1843_iptv-org-iptv](reels/reel_1843_iptv-org-iptv) |
 | 1844 | 2025-12-04 21:49:58 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101992⭐ None) | [reels/reel_1844_Hack-with-Github-Awesome-Hacking](reels/reel_1844_Hack-with-Github-Awesome-Hacking) |
+| 1845 | 2025-12-04 22:16:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137130⭐ Python) | [reels/reel_1845_yt-dlp-yt-dlp](reels/reel_1845_yt-dlp-yt-dlp) |
