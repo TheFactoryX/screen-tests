@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1824 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-04 |
+| #1825 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1890,3 +1890,4 @@ Or let GitHub Action run it automatically.
 | 1822 | 2025-12-04 11:51:43 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (661⭐ Tcl) | [reels/reel_1822_rust-lang-crates.io-index](reels/reel_1822_rust-lang-crates.io-index) |
 | 1823 | 2025-12-04 12:40:47 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445983⭐ Markdown) | [reels/reel_1823_codecrafters-io-build-your-own-x](reels/reel_1823_codecrafters-io-build-your-own-x) |
 | 1824 | 2025-12-04 13:24:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180104⭐ Python) | [reels/reel_1824_Significant-Gravitas-AutoGPT](reels/reel_1824_Significant-Gravitas-AutoGPT) |
+| 1825 | 2025-12-04 13:53:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99574⭐ Rust) | [reels/reel_1825_tauri-apps-tauri](reels/reel_1825_tauri-apps-tauri) |
