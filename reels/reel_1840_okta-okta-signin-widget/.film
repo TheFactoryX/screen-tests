@@ -1,0 +1,24 @@
+{
+  "reel_number": 1840,
+  "recorded": "2025-12-04 20:45:03 UTC",
+  "repository": {
+    "full_name": "okta/okta-signin-widget",
+    "url": "https://github.com/okta/okta-signin-widget",
+    "clone_url": "https://github.com/okta/okta-signin-widget.git",
+    "stars": 392,
+    "language": "JavaScript",
+    "size_kb": 154665
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 151,
+    "duration_seconds": 1.618084
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 392 stars."
+  }
+}
