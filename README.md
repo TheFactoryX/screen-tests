@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1837 | [emulator-wtf/gradle-plugin](https://github.com/emulator-wtf/gradle-plugin) | Java · ⭐ 13 | 2025-12-04 |
+| #1838 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1903,3 +1903,4 @@ Or let GitHub Action run it automatically.
 | 1835 | 2025-12-04 18:59:30 | [bebo-dot-dev/m3u-epg-editor](https://github.com/bebo-dot-dev/m3u-epg-editor) | ✅ full (142⭐ Python) | [reels/reel_1835_bebo-dot-dev-m3u-epg-editor](reels/reel_1835_bebo-dot-dev-m3u-epg-editor) |
 | 1836 | 2025-12-04 19:25:28 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99585⭐ Rust) | [reels/reel_1836_tauri-apps-tauri](reels/reel_1836_tauri-apps-tauri) |
 | 1837 | 2025-12-04 19:39:18 | [emulator-wtf/gradle-plugin](https://github.com/emulator-wtf/gradle-plugin) | ✅ full (13⭐ Java) | [reels/reel_1837_emulator-wtf-gradle-plugin](reels/reel_1837_emulator-wtf-gradle-plugin) |
+| 1838 | 2025-12-04 19:50:16 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100562⭐ Python) | [reels/reel_1838_deepseek-ai-DeepSeek-V3](reels/reel_1838_deepseek-ai-DeepSeek-V3) |
