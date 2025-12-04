@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1847 | [bingo-js/bingo](https://github.com/bingo-js/bingo) | TypeScript · ⭐ 131 | 2025-12-04 |
+| #1848 | [cluntop/tvbox](https://github.com/cluntop/tvbox) | Python · ⭐ 203 | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1913,3 +1913,4 @@ Or let GitHub Action run it automatically.
 | 1845 | 2025-12-04 22:16:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137130⭐ Python) | [reels/reel_1845_yt-dlp-yt-dlp](reels/reel_1845_yt-dlp-yt-dlp) |
 | 1846 | 2025-12-04 22:41:29 | [manifoldmarkets/manifold](https://github.com/manifoldmarkets/manifold) | ✅ shallow (462⭐ TypeScript) | [reels/reel_1846_manifoldmarkets-manifold](reels/reel_1846_manifoldmarkets-manifold) |
 | 1847 | 2025-12-04 22:51:26 | [bingo-js/bingo](https://github.com/bingo-js/bingo) | ✅ full (131⭐ TypeScript) | [reels/reel_1847_bingo-js-bingo](reels/reel_1847_bingo-js-bingo) |
+| 1848 | 2025-12-04 23:17:40 | [cluntop/tvbox](https://github.com/cluntop/tvbox) | ✅ shallow (203⭐ Python) | [reels/reel_1848_cluntop-tvbox](reels/reel_1848_cluntop-tvbox) |
