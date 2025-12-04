@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1827 | [mapterhorn/mapterhorn](https://github.com/mapterhorn/mapterhorn) | Python · ⭐ 136 | 2025-12-04 |
+| #1828 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1893,3 +1893,4 @@ Or let GitHub Action run it automatically.
 | 1825 | 2025-12-04 13:53:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99574⭐ Rust) | [reels/reel_1825_tauri-apps-tauri](reels/reel_1825_tauri-apps-tauri) |
 | 1826 | 2025-12-04 14:20:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99575⭐ Rust) | [reels/reel_1826_tauri-apps-tauri](reels/reel_1826_tauri-apps-tauri) |
 | 1827 | 2025-12-04 14:47:14 | [mapterhorn/mapterhorn](https://github.com/mapterhorn/mapterhorn) | ✅ full (136⭐ Python) | [reels/reel_1827_mapterhorn-mapterhorn](reels/reel_1827_mapterhorn-mapterhorn) |
+| 1828 | 2025-12-04 15:21:52 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121138⭐ Python) | [reels/reel_1828_langchain-ai-langchain](reels/reel_1828_langchain-ai-langchain) |
