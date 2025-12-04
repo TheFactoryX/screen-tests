@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1833 | [jso/py-wink](https://github.com/jso/py-wink) | Python · ⭐ 46 | 2025-12-04 |
+| #1834 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1899,3 +1899,4 @@ Or let GitHub Action run it automatically.
 | 1831 | 2025-12-04 16:54:22 | [glasskube/distr](https://github.com/glasskube/distr) | ✅ full (678⭐ Go) | [reels/reel_1831_glasskube-distr](reels/reel_1831_glasskube-distr) |
 | 1832 | 2025-12-04 17:20:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261441⭐ None) | [reels/reel_1832_awesome-selfhosted-awesome-selfhosted](reels/reel_1832_awesome-selfhosted-awesome-selfhosted) |
 | 1833 | 2025-12-04 17:45:28 | [jso/py-wink](https://github.com/jso/py-wink) | ✅ full (46⭐ Python) | [reels/reel_1833_jso-py-wink](reels/reel_1833_jso-py-wink) |
+| 1834 | 2025-12-04 18:30:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121152⭐ Python) | [reels/reel_1834_langchain-ai-langchain](reels/reel_1834_langchain-ai-langchain) |
