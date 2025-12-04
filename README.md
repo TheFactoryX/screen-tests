@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1842 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-04 |
+| #1843 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1908,3 +1908,4 @@ Or let GitHub Action run it automatically.
 | 1840 | 2025-12-04 20:45:03 | [okta/okta-signin-widget](https://github.com/okta/okta-signin-widget) | ✅ shallow (392⭐ JavaScript) | [reels/reel_1840_okta-okta-signin-widget](reels/reel_1840_okta-okta-signin-widget) |
 | 1841 | 2025-12-04 20:56:09 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100562⭐ Python) | [reels/reel_1841_deepseek-ai-DeepSeek-V3](reels/reel_1841_deepseek-ai-DeepSeek-V3) |
 | 1842 | 2025-12-04 21:20:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160631⭐ TypeScript) | [reels/reel_1842_n8n-io-n8n](reels/reel_1842_n8n-io-n8n) |
+| 1843 | 2025-12-04 21:40:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104560⭐ TypeScript) | [reels/reel_1843_iptv-org-iptv](reels/reel_1843_iptv-org-iptv) |
