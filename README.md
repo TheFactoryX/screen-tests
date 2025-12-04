@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1822 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 661 | 2025-12-04 |
+| #1823 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 445k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1888,3 +1888,4 @@ Or let GitHub Action run it automatically.
 | 1820 | 2025-12-04 11:18:11 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | ✅ full (2127⭐ Shell) | [reels/reel_1820_llm-d-llm-d](reels/reel_1820_llm-d-llm-d) |
 | 1821 | 2025-12-04 11:39:31 | [ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats) | ✅ full (746⭐ Python) | [reels/reel_1821_ChanseyIsTheBest-NX-60FPS-RES-GFX-Cheats](reels/reel_1821_ChanseyIsTheBest-NX-60FPS-RES-GFX-Cheats) |
 | 1822 | 2025-12-04 11:51:43 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (661⭐ Tcl) | [reels/reel_1822_rust-lang-crates.io-index](reels/reel_1822_rust-lang-crates.io-index) |
+| 1823 | 2025-12-04 12:40:47 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445983⭐ Markdown) | [reels/reel_1823_codecrafters-io-build-your-own-x](reels/reel_1823_codecrafters-io-build-your-own-x) |
