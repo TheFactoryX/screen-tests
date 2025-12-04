@@ -1,0 +1,24 @@
+{
+  "reel_number": 1847,
+  "recorded": "2025-12-04 22:51:26 UTC",
+  "repository": {
+    "full_name": "bingo-js/bingo",
+    "url": "https://github.com/bingo-js/bingo",
+    "clone_url": "https://github.com/bingo-js/bingo.git",
+    "stars": 131,
+    "language": "TypeScript",
+    "size_kb": 2995
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.798752
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 131 stars."
+  }
+}
