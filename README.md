@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1831 | [glasskube/distr](https://github.com/glasskube/distr) | Go · ⭐ 678 | 2025-12-04 |
+| #1832 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1897,3 +1897,4 @@ Or let GitHub Action run it automatically.
 | 1829 | 2025-12-04 15:45:43 | [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) | ✅ readme_only (873⭐ TypeScript) | [reels/reel_1829_opencollective-opencollective-frontend](reels/reel_1829_opencollective-opencollective-frontend) |
 | 1830 | 2025-12-04 16:27:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137118⭐ Python) | [reels/reel_1830_yt-dlp-yt-dlp](reels/reel_1830_yt-dlp-yt-dlp) |
 | 1831 | 2025-12-04 16:54:22 | [glasskube/distr](https://github.com/glasskube/distr) | ✅ full (678⭐ Go) | [reels/reel_1831_glasskube-distr](reels/reel_1831_glasskube-distr) |
+| 1832 | 2025-12-04 17:20:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261441⭐ None) | [reels/reel_1832_awesome-selfhosted-awesome-selfhosted](reels/reel_1832_awesome-selfhosted-awesome-selfhosted) |
