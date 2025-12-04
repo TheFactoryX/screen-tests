@@ -1,0 +1,24 @@
+{
+  "reel_number": 1812,
+  "recorded": "2025-12-04 07:41:12 UTC",
+  "repository": {
+    "full_name": "zclucas/RMT",
+    "url": "https://github.com/zclucas/RMT",
+    "clone_url": "https://github.com/zclucas/RMT.git",
+    "stars": 821,
+    "language": "AutoHotkey",
+    "size_kb": 191518
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 187,
+    "duration_seconds": 3.672513
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "AutoHotkey",
+    "director_note": "A AutoHotkey repository. 821 stars."
+  }
+}

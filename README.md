@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1811 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-04 |
+| #1812 | [zclucas/RMT](https://github.com/zclucas/RMT) | AutoHotkey · ⭐ 821 | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1877,3 +1877,4 @@ Or let GitHub Action run it automatically.
 | 1809 | 2025-12-04 06:29:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140099⭐ Python) | [reels/reel_1809_langflow-ai-langflow](reels/reel_1809_langflow-ai-langflow) |
 | 1810 | 2025-12-04 06:55:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140100⭐ Python) | [reels/reel_1810_langflow-ai-langflow](reels/reel_1810_langflow-ai-langflow) |
 | 1811 | 2025-12-04 07:20:24 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100554⭐ Python) | [reels/reel_1811_deepseek-ai-DeepSeek-V3](reels/reel_1811_deepseek-ai-DeepSeek-V3) |
+| 1812 | 2025-12-04 07:41:12 | [zclucas/RMT](https://github.com/zclucas/RMT) | ✅ shallow (821⭐ AutoHotkey) | [reels/reel_1812_zclucas-RMT](reels/reel_1812_zclucas-RMT) |
