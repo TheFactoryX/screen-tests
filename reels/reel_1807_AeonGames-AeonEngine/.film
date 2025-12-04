@@ -1,0 +1,24 @@
+{
+  "reel_number": 1807,
+  "recorded": "2025-12-04 05:43:17 UTC",
+  "repository": {
+    "full_name": "AeonGames/AeonEngine",
+    "url": "https://github.com/AeonGames/AeonEngine",
+    "clone_url": "https://github.com/AeonGames/AeonEngine.git",
+    "stars": 17,
+    "language": "C++",
+    "size_kb": 18347
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.049699
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 17 stars."
+  }
+}

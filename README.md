@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1806 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | None · ⭐ 91k | 2025-12-04 |
+| #1807 | [AeonGames/AeonEngine](https://github.com/AeonGames/AeonEngine) | C++ · ⭐ 17 | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1872,3 +1872,4 @@ Or let GitHub Action run it automatically.
 | 1804 | 2025-12-04 04:37:26 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (445851⭐ Markdown) | [reels/reel_1804_codecrafters-io-build-your-own-x](reels/reel_1804_codecrafters-io-build-your-own-x) |
 | 1805 | 2025-12-04 04:56:26 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101953⭐ None) | [reels/reel_1805_Hack-with-Github-Awesome-Hacking](reels/reel_1805_Hack-with-Github-Awesome-Hacking) |
 | 1806 | 2025-12-04 05:21:17 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ✅ full (91544⭐ None) | [reels/reel_1806_deepseek-ai-DeepSeek-R1](reels/reel_1806_deepseek-ai-DeepSeek-R1) |
+| 1807 | 2025-12-04 05:43:17 | [AeonGames/AeonEngine](https://github.com/AeonGames/AeonEngine) | ✅ full (17⭐ C++) | [reels/reel_1807_AeonGames-AeonEngine](reels/reel_1807_AeonGames-AeonEngine) |
