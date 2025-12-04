@@ -1,0 +1,24 @@
+{
+  "reel_number": 1837,
+  "recorded": "2025-12-04 19:39:18 UTC",
+  "repository": {
+    "full_name": "emulator-wtf/gradle-plugin",
+    "url": "https://github.com/emulator-wtf/gradle-plugin",
+    "clone_url": "https://github.com/emulator-wtf/gradle-plugin.git",
+    "stars": 13,
+    "language": "Java",
+    "size_kb": 982
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.205414
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 13 stars."
+  }
+}
