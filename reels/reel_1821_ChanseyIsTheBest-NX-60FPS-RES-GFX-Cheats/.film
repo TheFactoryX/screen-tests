@@ -1,0 +1,24 @@
+{
+  "reel_number": 1821,
+  "recorded": "2025-12-04 11:39:31 UTC",
+  "repository": {
+    "full_name": "ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats",
+    "url": "https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats",
+    "clone_url": "https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats.git",
+    "stars": 746,
+    "language": "Python",
+    "size_kb": 2332
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.776746
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 746 stars."
+  }
+}

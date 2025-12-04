@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1820 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | Shell · ⭐ 2k | 2025-12-04 |
+| #1821 | [ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats) | Python · ⭐ 746 | 2025-12-04 |
 ---
 
 ## 🎭 Selection Process
@@ -1886,3 +1886,4 @@ Or let GitHub Action run it automatically.
 | 1818 | 2025-12-04 10:22:25 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137096⭐ Python) | [reels/reel_1818_yt-dlp-yt-dlp](reels/reel_1818_yt-dlp-yt-dlp) |
 | 1819 | 2025-12-04 10:48:10 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (101966⭐ None) | [reels/reel_1819_Hack-with-Github-Awesome-Hacking](reels/reel_1819_Hack-with-Github-Awesome-Hacking) |
 | 1820 | 2025-12-04 11:18:11 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | ✅ full (2127⭐ Shell) | [reels/reel_1820_llm-d-llm-d](reels/reel_1820_llm-d-llm-d) |
+| 1821 | 2025-12-04 11:39:31 | [ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats) | ✅ full (746⭐ Python) | [reels/reel_1821_ChanseyIsTheBest-NX-60FPS-RES-GFX-Cheats](reels/reel_1821_ChanseyIsTheBest-NX-60FPS-RES-GFX-Cheats) |
