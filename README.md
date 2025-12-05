@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1850 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-04 |
+| #1851 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1916,3 +1916,4 @@ Or let GitHub Action run it automatically.
 | 1848 | 2025-12-04 23:17:40 | [cluntop/tvbox](https://github.com/cluntop/tvbox) | ✅ shallow (203⭐ Python) | [reels/reel_1848_cluntop-tvbox](reels/reel_1848_cluntop-tvbox) |
 | 1849 | 2025-12-04 23:39:22 | [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed) | ✅ full (607⭐ None) | [reels/reel_1849_0xDanielLopez-TweetFeed](reels/reel_1849_0xDanielLopez-TweetFeed) |
 | 1850 | 2025-12-04 23:50:10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137139⭐ Python) | [reels/reel_1850_yt-dlp-yt-dlp](reels/reel_1850_yt-dlp-yt-dlp) |
+| 1851 | 2025-12-05 01:25:15 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96866⭐ TypeScript) | [reels/reel_1851_ant-design-ant-design](reels/reel_1851_ant-design-ant-design) |
