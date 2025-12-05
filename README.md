@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1858 | [masaic-ai-platform/AgC](https://github.com/masaic-ai-platform/AgC) | Kotlin · ⭐ 105 | 2025-12-05 |
+| #1859 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1924,3 +1924,4 @@ Or let GitHub Action run it automatically.
 | 1856 | 2025-12-05 05:18:55 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104569⭐ TypeScript) | [reels/reel_1856_iptv-org-iptv](reels/reel_1856_iptv-org-iptv) |
 | 1857 | 2025-12-05 05:42:59 | [reers/ReerKit](https://github.com/reers/ReerKit) | ✅ full (114⭐ Swift) | [reels/reel_1857_reers-ReerKit](reels/reel_1857_reers-ReerKit) |
 | 1858 | 2025-12-05 05:53:04 | [masaic-ai-platform/AgC](https://github.com/masaic-ai-platform/AgC) | ✅ full (105⭐ Kotlin) | [reels/reel_1858_masaic-ai-platform-AgC](reels/reel_1858_masaic-ai-platform-AgC) |
+| 1859 | 2025-12-05 06:29:40 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96872⭐ TypeScript) | [reels/reel_1859_ant-design-ant-design](reels/reel_1859_ant-design-ant-design) |
