@@ -1,0 +1,24 @@
+{
+  "reel_number": 1881,
+  "recorded": "2025-12-05 15:44:08 UTC",
+  "repository": {
+    "full_name": "vishnuharidas/utf8-playground",
+    "url": "https://github.com/vishnuharidas/utf8-playground",
+    "clone_url": "https://github.com/vishnuharidas/utf8-playground.git",
+    "stars": 49,
+    "language": "TypeScript",
+    "size_kb": 697
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.365605
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 49 stars."
+  }
+}
