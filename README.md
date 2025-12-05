@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1852 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-05 |
+| #1853 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1918,3 +1918,4 @@ Or let GitHub Action run it automatically.
 | 1850 | 2025-12-04 23:50:10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137139⭐ Python) | [reels/reel_1850_yt-dlp-yt-dlp](reels/reel_1850_yt-dlp-yt-dlp) |
 | 1851 | 2025-12-05 01:25:15 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96866⭐ TypeScript) | [reels/reel_1851_ant-design-ant-design](reels/reel_1851_ant-design-ant-design) |
 | 1852 | 2025-12-05 03:04:53 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140180⭐ Python) | [reels/reel_1852_langflow-ai-langflow](reels/reel_1852_langflow-ai-langflow) |
+| 1853 | 2025-12-05 03:58:02 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108263⭐ Rust) | [reels/reel_1853_rust-lang-rust](reels/reel_1853_rust-lang-rust) |
