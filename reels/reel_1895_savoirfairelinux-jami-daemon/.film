@@ -1,0 +1,24 @@
+{
+  "reel_number": 1895,
+  "recorded": "2025-12-05 20:43:13 UTC",
+  "repository": {
+    "full_name": "savoirfairelinux/jami-daemon",
+    "url": "https://github.com/savoirfairelinux/jami-daemon",
+    "clone_url": "https://github.com/savoirfairelinux/jami-daemon.git",
+    "stars": 156,
+    "language": "C++",
+    "size_kb": 205115
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 200,
+    "duration_seconds": 1.183597
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 156 stars."
+  }
+}
