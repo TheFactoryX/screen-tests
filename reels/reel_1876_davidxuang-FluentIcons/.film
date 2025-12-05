@@ -1,0 +1,24 @@
+{
+  "reel_number": 1876,
+  "recorded": "2025-12-05 13:48:52 UTC",
+  "repository": {
+    "full_name": "davidxuang/FluentIcons",
+    "url": "https://github.com/davidxuang/FluentIcons",
+    "clone_url": "https://github.com/davidxuang/FluentIcons.git",
+    "stars": 165,
+    "language": "C#",
+    "size_kb": 57282
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 2.795553
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 165 stars."
+  }
+}

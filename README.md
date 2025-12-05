@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1875 | [jeff5/very-slow-jython](https://github.com/jeff5/very-slow-jython) | Java · ⭐ 18 | 2025-12-05 |
+| #1876 | [davidxuang/FluentIcons](https://github.com/davidxuang/FluentIcons) | C# · ⭐ 165 | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1941,3 +1941,4 @@ Or let GitHub Action run it automatically.
 | 1873 | 2025-12-05 11:49:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101289⭐ TypeScript) | [reels/reel_1873_shadcn-ui-ui](reels/reel_1873_shadcn-ui-ui) |
 | 1874 | 2025-12-05 12:38:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121224⭐ Python) | [reels/reel_1874_langchain-ai-langchain](reels/reel_1874_langchain-ai-langchain) |
 | 1875 | 2025-12-05 13:21:04 | [jeff5/very-slow-jython](https://github.com/jeff5/very-slow-jython) | ✅ full (18⭐ Java) | [reels/reel_1875_jeff5-very-slow-jython](reels/reel_1875_jeff5-very-slow-jython) |
+| 1876 | 2025-12-05 13:48:52 | [davidxuang/FluentIcons](https://github.com/davidxuang/FluentIcons) | ✅ full (165⭐ C#) | [reels/reel_1876_davidxuang-FluentIcons](reels/reel_1876_davidxuang-FluentIcons) |
