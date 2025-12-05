@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1900 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-05 |
+| #1901 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1966,3 +1966,4 @@ Or let GitHub Action run it automatically.
 | 1898 | 2025-12-05 21:38:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261643⭐ None) | [reels/reel_1898_awesome-selfhosted-awesome-selfhosted](reels/reel_1898_awesome-selfhosted-awesome-selfhosted) |
 | 1899 | 2025-12-05 21:49:47 | [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) | ✅ full (532⭐ SCSS) | [reels/reel_1899_pidcodes-pidcodes.github.com](reels/reel_1899_pidcodes-pidcodes.github.com) |
 | 1900 | 2025-12-05 22:17:41 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96876⭐ TypeScript) | [reels/reel_1900_ant-design-ant-design](reels/reel_1900_ant-design-ant-design) |
+| 1901 | 2025-12-05 22:41:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261648⭐ None) | [reels/reel_1901_awesome-selfhosted-awesome-selfhosted](reels/reel_1901_awesome-selfhosted-awesome-selfhosted) |
