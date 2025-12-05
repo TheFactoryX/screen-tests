@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1891 | [vChewing/vChewing-macOS](https://github.com/vChewing/vChewing-macOS) | C · ⭐ 396 | 2025-12-05 |
+| #1892 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1957,3 +1957,4 @@ Or let GitHub Action run it automatically.
 | 1889 | 2025-12-05 18:49:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121246⭐ Python) | [reels/reel_1889_langchain-ai-langchain](reels/reel_1889_langchain-ai-langchain) |
 | 1890 | 2025-12-05 19:15:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99634⭐ Rust) | [reels/reel_1890_tauri-apps-tauri](reels/reel_1890_tauri-apps-tauri) |
 | 1891 | 2025-12-05 19:29:57 | [vChewing/vChewing-macOS](https://github.com/vChewing/vChewing-macOS) | ✅ full (396⭐ C) | [reels/reel_1891_vChewing-vChewing-macOS](reels/reel_1891_vChewing-vChewing-macOS) |
+| 1892 | 2025-12-05 19:40:47 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96876⭐ TypeScript) | [reels/reel_1892_ant-design-ant-design](reels/reel_1892_ant-design-ant-design) |
