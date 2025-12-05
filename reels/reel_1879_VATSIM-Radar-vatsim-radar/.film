@@ -1,0 +1,24 @@
+{
+  "reel_number": 1879,
+  "recorded": "2025-12-05 14:54:10 UTC",
+  "repository": {
+    "full_name": "VATSIM-Radar/vatsim-radar",
+    "url": "https://github.com/VATSIM-Radar/vatsim-radar",
+    "clone_url": "https://github.com/VATSIM-Radar/vatsim-radar.git",
+    "stars": 166,
+    "language": "Vue",
+    "size_kb": 43222
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 3.344577
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 166 stars."
+  }
+}
