@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1904 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 446k | 2025-12-05 |
+| #1905 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1970,3 +1970,4 @@ Or let GitHub Action run it automatically.
 | 1902 | 2025-12-05 22:51:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160829⭐ TypeScript) | [reels/reel_1902_n8n-io-n8n](reels/reel_1902_n8n-io-n8n) |
 | 1903 | 2025-12-05 23:17:28 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96876⭐ TypeScript) | [reels/reel_1903_ant-design-ant-design](reels/reel_1903_ant-design-ant-design) |
 | 1904 | 2025-12-05 23:38:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (446649⭐ Markdown) | [reels/reel_1904_codecrafters-io-build-your-own-x](reels/reel_1904_codecrafters-io-build-your-own-x) |
+| 1905 | 2025-12-05 23:49:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137250⭐ Python) | [reels/reel_1905_yt-dlp-yt-dlp](reels/reel_1905_yt-dlp-yt-dlp) |
