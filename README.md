@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1854 | [openai/whisper](https://github.com/openai/whisper) | Python · ⭐ 91k | 2025-12-05 |
+| #1855 | [aspect-build/rules_lint](https://github.com/aspect-build/rules_lint) | Starlark · ⭐ 127 | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1920,3 +1920,4 @@ Or let GitHub Action run it automatically.
 | 1852 | 2025-12-05 03:04:53 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140180⭐ Python) | [reels/reel_1852_langflow-ai-langflow](reels/reel_1852_langflow-ai-langflow) |
 | 1853 | 2025-12-05 03:58:02 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108263⭐ Rust) | [reels/reel_1853_rust-lang-rust](reels/reel_1853_rust-lang-rust) |
 | 1854 | 2025-12-05 04:34:44 | [openai/whisper](https://github.com/openai/whisper) | ✅ full (91582⭐ Python) | [reels/reel_1854_openai-whisper](reels/reel_1854_openai-whisper) |
+| 1855 | 2025-12-05 04:55:15 | [aspect-build/rules_lint](https://github.com/aspect-build/rules_lint) | ✅ full (127⭐ Starlark) | [reels/reel_1855_aspect-build-rules_lint](reels/reel_1855_aspect-build-rules_lint) |
