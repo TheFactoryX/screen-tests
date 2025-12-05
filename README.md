@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1902 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-05 |
+| #1903 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1968,3 +1968,4 @@ Or let GitHub Action run it automatically.
 | 1900 | 2025-12-05 22:17:41 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96876⭐ TypeScript) | [reels/reel_1900_ant-design-ant-design](reels/reel_1900_ant-design-ant-design) |
 | 1901 | 2025-12-05 22:41:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261648⭐ None) | [reels/reel_1901_awesome-selfhosted-awesome-selfhosted](reels/reel_1901_awesome-selfhosted-awesome-selfhosted) |
 | 1902 | 2025-12-05 22:51:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160829⭐ TypeScript) | [reels/reel_1902_n8n-io-n8n](reels/reel_1902_n8n-io-n8n) |
+| 1903 | 2025-12-05 23:17:28 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96876⭐ TypeScript) | [reels/reel_1903_ant-design-ant-design](reels/reel_1903_ant-design-ant-design) |
