@@ -1,0 +1,24 @@
+{
+  "reel_number": 1891,
+  "recorded": "2025-12-05 19:29:57 UTC",
+  "repository": {
+    "full_name": "vChewing/vChewing-macOS",
+    "url": "https://github.com/vChewing/vChewing-macOS",
+    "clone_url": "https://github.com/vChewing/vChewing-macOS.git",
+    "stars": 396,
+    "language": "C",
+    "size_kb": 28121
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 1.743823
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 396 stars."
+  }
+}
