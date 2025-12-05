@@ -1,0 +1,24 @@
+{
+  "reel_number": 1858,
+  "recorded": "2025-12-05 05:53:04 UTC",
+  "repository": {
+    "full_name": "masaic-ai-platform/AgC",
+    "url": "https://github.com/masaic-ai-platform/AgC",
+    "clone_url": "https://github.com/masaic-ai-platform/AgC.git",
+    "stars": 105,
+    "language": "Kotlin",
+    "size_kb": 40923
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 39,
+    "duration_seconds": 1.365432
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 105 stars."
+  }
+}
