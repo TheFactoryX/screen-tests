@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1887 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-05 |
+| #1888 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1953,3 +1953,4 @@ Or let GitHub Action run it automatically.
 | 1885 | 2025-12-05 17:18:06 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100579⭐ Python) | [reels/reel_1885_deepseek-ai-DeepSeek-V3](reels/reel_1885_deepseek-ai-DeepSeek-V3) |
 | 1886 | 2025-12-05 17:41:30 | [maximegris/angular-tauri](https://github.com/maximegris/angular-tauri) | ✅ full (212⭐ TypeScript) | [reels/reel_1886_maximegris-angular-tauri](reels/reel_1886_maximegris-angular-tauri) |
 | 1887 | 2025-12-05 17:51:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160791⭐ TypeScript) | [reels/reel_1887_n8n-io-n8n](reels/reel_1887_n8n-io-n8n) |
+| 1888 | 2025-12-05 18:25:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160796⭐ TypeScript) | [reels/reel_1888_n8n-io-n8n](reels/reel_1888_n8n-io-n8n) |
