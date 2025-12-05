@@ -1,0 +1,24 @@
+{
+  "reel_number": 1894,
+  "recorded": "2025-12-05 20:21:15 UTC",
+  "repository": {
+    "full_name": "gerbv/gerbv",
+    "url": "https://github.com/gerbv/gerbv",
+    "clone_url": "https://github.com/gerbv/gerbv.git",
+    "stars": 200,
+    "language": "C",
+    "size_kb": 21204
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 1.846439
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 200 stars."
+  }
+}

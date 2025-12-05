@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1893 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-05 |
+| #1894 | [gerbv/gerbv](https://github.com/gerbv/gerbv) | C · ⭐ 200 | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1959,3 +1959,4 @@ Or let GitHub Action run it automatically.
 | 1891 | 2025-12-05 19:29:57 | [vChewing/vChewing-macOS](https://github.com/vChewing/vChewing-macOS) | ✅ full (396⭐ C) | [reels/reel_1891_vChewing-vChewing-macOS](reels/reel_1891_vChewing-vChewing-macOS) |
 | 1892 | 2025-12-05 19:40:47 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96876⭐ TypeScript) | [reels/reel_1892_ant-design-ant-design](reels/reel_1892_ant-design-ant-design) |
 | 1893 | 2025-12-05 19:50:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140250⭐ Python) | [reels/reel_1893_langflow-ai-langflow](reels/reel_1893_langflow-ai-langflow) |
+| 1894 | 2025-12-05 20:21:15 | [gerbv/gerbv](https://github.com/gerbv/gerbv) | ✅ full (200⭐ C) | [reels/reel_1894_gerbv-gerbv](reels/reel_1894_gerbv-gerbv) |
