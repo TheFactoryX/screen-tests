@@ -1,0 +1,24 @@
+{
+  "reel_number": 1884,
+  "recorded": "2025-12-05 16:49:39 UTC",
+  "repository": {
+    "full_name": "OpenMW/openmw",
+    "url": "https://github.com/OpenMW/openmw",
+    "clone_url": "https://github.com/OpenMW/openmw.git",
+    "stars": 6087,
+    "language": "C++",
+    "size_kb": 104679
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 102,
+    "duration_seconds": 1.826792
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 6087 stars."
+  }
+}
