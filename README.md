@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1898 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-05 |
+| #1899 | [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) | SCSS · ⭐ 532 | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1964,3 +1964,4 @@ Or let GitHub Action run it automatically.
 | 1896 | 2025-12-05 20:54:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140255⭐ Python) | [reels/reel_1896_langflow-ai-langflow](reels/reel_1896_langflow-ai-langflow) |
 | 1897 | 2025-12-05 21:17:05 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102046⭐ None) | [reels/reel_1897_Hack-with-Github-Awesome-Hacking](reels/reel_1897_Hack-with-Github-Awesome-Hacking) |
 | 1898 | 2025-12-05 21:38:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261643⭐ None) | [reels/reel_1898_awesome-selfhosted-awesome-selfhosted](reels/reel_1898_awesome-selfhosted-awesome-selfhosted) |
+| 1899 | 2025-12-05 21:49:47 | [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) | ✅ full (532⭐ SCSS) | [reels/reel_1899_pidcodes-pidcodes.github.com](reels/reel_1899_pidcodes-pidcodes.github.com) |
