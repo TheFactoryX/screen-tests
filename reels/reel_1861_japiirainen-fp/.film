@@ -1,0 +1,24 @@
+{
+  "reel_number": 1861,
+  "recorded": "2025-12-05 07:20:38 UTC",
+  "repository": {
+    "full_name": "japiirainen/fp",
+    "url": "https://github.com/japiirainen/fp",
+    "clone_url": "https://github.com/japiirainen/fp.git",
+    "stars": 102,
+    "language": "Haskell",
+    "size_kb": 90
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.161945
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haskell",
+    "director_note": "A Haskell repository. 102 stars."
+  }
+}
