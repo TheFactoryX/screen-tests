@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1889 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-05 |
+| #1890 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1955,3 +1955,4 @@ Or let GitHub Action run it automatically.
 | 1887 | 2025-12-05 17:51:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160791⭐ TypeScript) | [reels/reel_1887_n8n-io-n8n](reels/reel_1887_n8n-io-n8n) |
 | 1888 | 2025-12-05 18:25:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160796⭐ TypeScript) | [reels/reel_1888_n8n-io-n8n](reels/reel_1888_n8n-io-n8n) |
 | 1889 | 2025-12-05 18:49:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121246⭐ Python) | [reels/reel_1889_langchain-ai-langchain](reels/reel_1889_langchain-ai-langchain) |
+| 1890 | 2025-12-05 19:15:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99634⭐ Rust) | [reels/reel_1890_tauri-apps-tauri](reels/reel_1890_tauri-apps-tauri) |
