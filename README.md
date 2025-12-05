@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1896 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-05 |
+| #1897 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1962,3 +1962,4 @@ Or let GitHub Action run it automatically.
 | 1894 | 2025-12-05 20:21:15 | [gerbv/gerbv](https://github.com/gerbv/gerbv) | ✅ full (200⭐ C) | [reels/reel_1894_gerbv-gerbv](reels/reel_1894_gerbv-gerbv) |
 | 1895 | 2025-12-05 20:43:13 | [savoirfairelinux/jami-daemon](https://github.com/savoirfairelinux/jami-daemon) | ✅ shallow (156⭐ C++) | [reels/reel_1895_savoirfairelinux-jami-daemon](reels/reel_1895_savoirfairelinux-jami-daemon) |
 | 1896 | 2025-12-05 20:54:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140255⭐ Python) | [reels/reel_1896_langflow-ai-langflow](reels/reel_1896_langflow-ai-langflow) |
+| 1897 | 2025-12-05 21:17:05 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102046⭐ None) | [reels/reel_1897_Hack-with-Github-Awesome-Hacking](reels/reel_1897_Hack-with-Github-Awesome-Hacking) |
