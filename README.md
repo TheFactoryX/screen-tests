@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1870 | [celetor/epg](https://github.com/celetor/epg) | JavaScript · ⭐ 114 | 2025-12-05 |
+| #1871 | [CommE2E/comm](https://github.com/CommE2E/comm) | JavaScript · ⭐ 319 | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1936,3 +1936,4 @@ Or let GitHub Action run it automatically.
 | 1868 | 2025-12-05 09:52:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160728⭐ TypeScript) | [reels/reel_1868_n8n-io-n8n](reels/reel_1868_n8n-io-n8n) |
 | 1869 | 2025-12-05 10:20:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101286⭐ TypeScript) | [reels/reel_1869_shadcn-ui-ui](reels/reel_1869_shadcn-ui-ui) |
 | 1870 | 2025-12-05 10:45:15 | [celetor/epg](https://github.com/celetor/epg) | ✅ full (114⭐ JavaScript) | [reels/reel_1870_celetor-epg](reels/reel_1870_celetor-epg) |
+| 1871 | 2025-12-05 11:17:35 | [CommE2E/comm](https://github.com/CommE2E/comm) | ✅ shallow (319⭐ JavaScript) | [reels/reel_1871_CommE2E-comm](reels/reel_1871_CommE2E-comm) |
