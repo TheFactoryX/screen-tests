@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1863 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-05 |
+| #1864 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1929,3 +1929,4 @@ Or let GitHub Action run it automatically.
 | 1861 | 2025-12-05 07:20:38 | [japiirainen/fp](https://github.com/japiirainen/fp) | ✅ full (102⭐ Haskell) | [reels/reel_1861_japiirainen-fp](reels/reel_1861_japiirainen-fp) |
 | 1862 | 2025-12-05 07:40:29 | [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) | ✅ full (4949⭐ C++) | [reels/reel_1862_The-Powder-Toy-The-Powder-Toy](reels/reel_1862_The-Powder-Toy-The-Powder-Toy) |
 | 1863 | 2025-12-05 07:50:37 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99609⭐ Rust) | [reels/reel_1863_tauri-apps-tauri](reels/reel_1863_tauri-apps-tauri) |
+| 1864 | 2025-12-05 08:25:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104575⭐ TypeScript) | [reels/reel_1864_iptv-org-iptv](reels/reel_1864_iptv-org-iptv) |
