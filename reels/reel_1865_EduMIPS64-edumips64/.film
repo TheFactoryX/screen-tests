@@ -1,0 +1,24 @@
+{
+  "reel_number": 1865,
+  "recorded": "2025-12-05 08:50:11 UTC",
+  "repository": {
+    "full_name": "EduMIPS64/edumips64",
+    "url": "https://github.com/EduMIPS64/edumips64",
+    "clone_url": "https://github.com/EduMIPS64/edumips64.git",
+    "stars": 171,
+    "language": "Java",
+    "size_kb": 74365
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 72,
+    "duration_seconds": 3.541564
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 171 stars."
+  }
+}
