@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1885 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-05 |
+| #1886 | [maximegris/angular-tauri](https://github.com/maximegris/angular-tauri) | TypeScript · ⭐ 212 | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1951,3 +1951,4 @@ Or let GitHub Action run it automatically.
 | 1883 | 2025-12-05 16:24:26 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96874⭐ TypeScript) | [reels/reel_1883_ant-design-ant-design](reels/reel_1883_ant-design-ant-design) |
 | 1884 | 2025-12-05 16:49:39 | [OpenMW/openmw](https://github.com/OpenMW/openmw) | ✅ shallow (6087⭐ C++) | [reels/reel_1884_OpenMW-openmw](reels/reel_1884_OpenMW-openmw) |
 | 1885 | 2025-12-05 17:18:06 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100579⭐ Python) | [reels/reel_1885_deepseek-ai-DeepSeek-V3](reels/reel_1885_deepseek-ai-DeepSeek-V3) |
+| 1886 | 2025-12-05 17:41:30 | [maximegris/angular-tauri](https://github.com/maximegris/angular-tauri) | ✅ full (212⭐ TypeScript) | [reels/reel_1886_maximegris-angular-tauri](reels/reel_1886_maximegris-angular-tauri) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1886,
+  "recorded": "2025-12-05 17:41:30 UTC",
+  "repository": {
+    "full_name": "maximegris/angular-tauri",
+    "url": "https://github.com/maximegris/angular-tauri",
+    "clone_url": "https://github.com/maximegris/angular-tauri.git",
+    "stars": 212,
+    "language": "TypeScript",
+    "size_kb": 2087
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.681038
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 212 stars."
+  }
+}
