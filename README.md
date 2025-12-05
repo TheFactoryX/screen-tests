@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1855 | [aspect-build/rules_lint](https://github.com/aspect-build/rules_lint) | Starlark · ⭐ 127 | 2025-12-05 |
+| #1856 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1921,3 +1921,4 @@ Or let GitHub Action run it automatically.
 | 1853 | 2025-12-05 03:58:02 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108263⭐ Rust) | [reels/reel_1853_rust-lang-rust](reels/reel_1853_rust-lang-rust) |
 | 1854 | 2025-12-05 04:34:44 | [openai/whisper](https://github.com/openai/whisper) | ✅ full (91582⭐ Python) | [reels/reel_1854_openai-whisper](reels/reel_1854_openai-whisper) |
 | 1855 | 2025-12-05 04:55:15 | [aspect-build/rules_lint](https://github.com/aspect-build/rules_lint) | ✅ full (127⭐ Starlark) | [reels/reel_1855_aspect-build-rules_lint](reels/reel_1855_aspect-build-rules_lint) |
+| 1856 | 2025-12-05 05:18:55 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104569⭐ TypeScript) | [reels/reel_1856_iptv-org-iptv](reels/reel_1856_iptv-org-iptv) |
