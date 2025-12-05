@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1877 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-05 |
+| #1878 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1943,3 +1943,4 @@ Or let GitHub Action run it automatically.
 | 1875 | 2025-12-05 13:21:04 | [jeff5/very-slow-jython](https://github.com/jeff5/very-slow-jython) | ✅ full (18⭐ Java) | [reels/reel_1875_jeff5-very-slow-jython](reels/reel_1875_jeff5-very-slow-jython) |
 | 1876 | 2025-12-05 13:48:52 | [davidxuang/FluentIcons](https://github.com/davidxuang/FluentIcons) | ✅ full (165⭐ C#) | [reels/reel_1876_davidxuang-FluentIcons](reels/reel_1876_davidxuang-FluentIcons) |
 | 1877 | 2025-12-05 14:19:30 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101293⭐ TypeScript) | [reels/reel_1877_shadcn-ui-ui](reels/reel_1877_shadcn-ui-ui) |
+| 1878 | 2025-12-05 14:44:28 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108271⭐ Rust) | [reels/reel_1878_rust-lang-rust](reels/reel_1878_rust-lang-rust) |
