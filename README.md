@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1879 | [VATSIM-Radar/vatsim-radar](https://github.com/VATSIM-Radar/vatsim-radar) | Vue · ⭐ 166 | 2025-12-05 |
+| #1880 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1945,3 +1945,4 @@ Or let GitHub Action run it automatically.
 | 1877 | 2025-12-05 14:19:30 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101293⭐ TypeScript) | [reels/reel_1877_shadcn-ui-ui](reels/reel_1877_shadcn-ui-ui) |
 | 1878 | 2025-12-05 14:44:28 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108271⭐ Rust) | [reels/reel_1878_rust-lang-rust](reels/reel_1878_rust-lang-rust) |
 | 1879 | 2025-12-05 14:54:10 | [VATSIM-Radar/vatsim-radar](https://github.com/VATSIM-Radar/vatsim-radar) | ✅ full (166⭐ Vue) | [reels/reel_1879_VATSIM-Radar-vatsim-radar](reels/reel_1879_VATSIM-Radar-vatsim-radar) |
+| 1880 | 2025-12-05 15:20:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180128⭐ Python) | [reels/reel_1880_Significant-Gravitas-AutoGPT](reels/reel_1880_Significant-Gravitas-AutoGPT) |
