@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1881 | [vishnuharidas/utf8-playground](https://github.com/vishnuharidas/utf8-playground) | TypeScript · ⭐ 49 | 2025-12-05 |
+| #1882 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-05 |
 ---
 
 ## 🎭 Selection Process
@@ -1947,3 +1947,4 @@ Or let GitHub Action run it automatically.
 | 1879 | 2025-12-05 14:54:10 | [VATSIM-Radar/vatsim-radar](https://github.com/VATSIM-Radar/vatsim-radar) | ✅ full (166⭐ Vue) | [reels/reel_1879_VATSIM-Radar-vatsim-radar](reels/reel_1879_VATSIM-Radar-vatsim-radar) |
 | 1880 | 2025-12-05 15:20:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180128⭐ Python) | [reels/reel_1880_Significant-Gravitas-AutoGPT](reels/reel_1880_Significant-Gravitas-AutoGPT) |
 | 1881 | 2025-12-05 15:44:08 | [vishnuharidas/utf8-playground](https://github.com/vishnuharidas/utf8-playground) | ✅ full (49⭐ TypeScript) | [reels/reel_1881_vishnuharidas-utf8-playground](reels/reel_1881_vishnuharidas-utf8-playground) |
+| 1882 | 2025-12-05 15:55:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140230⭐ Python) | [reels/reel_1882_langflow-ai-langflow](reels/reel_1882_langflow-ai-langflow) |
