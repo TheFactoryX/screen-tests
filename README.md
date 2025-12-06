@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1961 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-06 |
+| #1962 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2027,3 +2027,4 @@ Or let GitHub Action run it automatically.
 | 1959 | 2025-12-06 21:49:41 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99667⭐ Rust) | [reels/reel_1959_tauri-apps-tauri](reels/reel_1959_tauri-apps-tauri) |
 | 1960 | 2025-12-06 22:16:57 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121289⭐ Python) | [reels/reel_1960_langchain-ai-langchain](reels/reel_1960_langchain-ai-langchain) |
 | 1961 | 2025-12-06 22:40:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180144⭐ Python) | [reels/reel_1961_Significant-Gravitas-AutoGPT](reels/reel_1961_Significant-Gravitas-AutoGPT) |
+| 1962 | 2025-12-06 22:50:40 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96881⭐ TypeScript) | [reels/reel_1962_ant-design-ant-design](reels/reel_1962_ant-design-ant-design) |
