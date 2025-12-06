@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1933 | [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) | JavaScript · ⭐ 234 | 2025-12-06 |
+| #1934 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1999,3 +1999,4 @@ Or let GitHub Action run it automatically.
 | 1931 | 2025-12-06 11:49:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104614⭐ TypeScript) | [reels/reel_1931_iptv-org-iptv](reels/reel_1931_iptv-org-iptv) |
 | 1932 | 2025-12-06 12:35:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160908⭐ TypeScript) | [reels/reel_1932_n8n-io-n8n](reels/reel_1932_n8n-io-n8n) |
 | 1933 | 2025-12-06 13:14:38 | [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) | ✅ full (234⭐ JavaScript) | [reels/reel_1933_swyxio-gh-action-data-scraping](reels/reel_1933_swyxio-gh-action-data-scraping) |
+| 1934 | 2025-12-06 13:37:37 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101331⭐ TypeScript) | [reels/reel_1934_shadcn-ui-ui](reels/reel_1934_shadcn-ui-ui) |
