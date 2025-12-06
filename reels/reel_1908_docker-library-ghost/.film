@@ -1,0 +1,24 @@
+{
+  "reel_number": 1908,
+  "recorded": "2025-12-06 03:41:21 UTC",
+  "repository": {
+    "full_name": "docker-library/ghost",
+    "url": "https://github.com/docker-library/ghost",
+    "clone_url": "https://github.com/docker-library/ghost.git",
+    "stars": 790,
+    "language": "Shell",
+    "size_kb": 671
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.164955
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 790 stars."
+  }
+}

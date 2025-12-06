@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1907 | [anirudha-8/status-code-mastery](https://github.com/anirudha-8/status-code-mastery) | None · ⭐ 16 | 2025-12-06 |
+| #1908 | [docker-library/ghost](https://github.com/docker-library/ghost) | Shell · ⭐ 790 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1973,3 +1973,4 @@ Or let GitHub Action run it automatically.
 | 1905 | 2025-12-05 23:49:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137250⭐ Python) | [reels/reel_1905_yt-dlp-yt-dlp](reels/reel_1905_yt-dlp-yt-dlp) |
 | 1906 | 2025-12-06 01:21:06 | [JsonAsAsset/JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) | ✅ full (256⭐ C++) | [reels/reel_1906_JsonAsAsset-JsonAsAsset](reels/reel_1906_JsonAsAsset-JsonAsAsset) |
 | 1907 | 2025-12-06 02:52:35 | [anirudha-8/status-code-mastery](https://github.com/anirudha-8/status-code-mastery) | ✅ full (16⭐ None) | [reels/reel_1907_anirudha-8-status-code-mastery](reels/reel_1907_anirudha-8-status-code-mastery) |
+| 1908 | 2025-12-06 03:41:21 | [docker-library/ghost](https://github.com/docker-library/ghost) | ✅ full (790⭐ Shell) | [reels/reel_1908_docker-library-ghost](reels/reel_1908_docker-library-ghost) |
