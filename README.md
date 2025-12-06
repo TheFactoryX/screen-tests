@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1912 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-06 |
+| #1913 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1978,3 +1978,4 @@ Or let GitHub Action run it automatically.
 | 1910 | 2025-12-06 04:30:07 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180132⭐ Python) | [reels/reel_1910_Significant-Gravitas-AutoGPT](reels/reel_1910_Significant-Gravitas-AutoGPT) |
 | 1911 | 2025-12-06 04:45:31 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121261⭐ Python) | [reels/reel_1911_langchain-ai-langchain](reels/reel_1911_langchain-ai-langchain) |
 | 1912 | 2025-12-06 05:17:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108289⭐ Rust) | [reels/reel_1912_rust-lang-rust](reels/reel_1912_rust-lang-rust) |
+| 1913 | 2025-12-06 05:41:21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117076⭐ Svelte) | [reels/reel_1913_open-webui-open-webui](reels/reel_1913_open-webui-open-webui) |
