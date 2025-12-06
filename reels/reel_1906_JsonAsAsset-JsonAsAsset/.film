@@ -1,0 +1,24 @@
+{
+  "reel_number": 1906,
+  "recorded": "2025-12-06 01:21:06 UTC",
+  "repository": {
+    "full_name": "JsonAsAsset/JsonAsAsset",
+    "url": "https://github.com/JsonAsAsset/JsonAsAsset",
+    "clone_url": "https://github.com/JsonAsAsset/JsonAsAsset.git",
+    "stars": 256,
+    "language": "C++",
+    "size_kb": 22017
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 2.602824
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 256 stars."
+  }
+}
