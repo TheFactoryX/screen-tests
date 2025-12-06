@@ -1,0 +1,24 @@
+{
+  "reel_number": 1951,
+  "recorded": "2025-12-06 19:26:40 UTC",
+  "repository": {
+    "full_name": "tony/.dot-config",
+    "url": "https://github.com/tony/.dot-config",
+    "clone_url": "https://github.com/tony/.dot-config.git",
+    "stars": 127,
+    "language": "Python",
+    "size_kb": 1648
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.378498
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 127 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1950 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-06 |
+| #1951 | [tony/.dot-config](https://github.com/tony/.dot-config) | Python · ⭐ 127 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2016,3 +2016,4 @@ Or let GitHub Action run it automatically.
 | 1948 | 2025-12-06 18:24:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96880⭐ TypeScript) | [reels/reel_1948_ant-design-ant-design](reels/reel_1948_ant-design-ant-design) |
 | 1949 | 2025-12-06 18:46:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104641⭐ TypeScript) | [reels/reel_1949_iptv-org-iptv](reels/reel_1949_iptv-org-iptv) |
 | 1950 | 2025-12-06 19:14:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117114⭐ Svelte) | [reels/reel_1950_open-webui-open-webui](reels/reel_1950_open-webui-open-webui) |
+| 1951 | 2025-12-06 19:26:40 | [tony/.dot-config](https://github.com/tony/.dot-config) | ✅ full (127⭐ Python) | [reels/reel_1951_tony-.dot-config](reels/reel_1951_tony-.dot-config) |
