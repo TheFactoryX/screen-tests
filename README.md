@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1948 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-06 |
+| #1949 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2014,3 +2014,4 @@ Or let GitHub Action run it automatically.
 | 1946 | 2025-12-06 17:38:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180146⭐ Python) | [reels/reel_1946_Significant-Gravitas-AutoGPT](reels/reel_1946_Significant-Gravitas-AutoGPT) |
 | 1947 | 2025-12-06 17:50:16 | [andygrove/how-query-engines-work](https://github.com/andygrove/how-query-engines-work) | ✅ full (410⭐ Kotlin) | [reels/reel_1947_andygrove-how-query-engines-work](reels/reel_1947_andygrove-how-query-engines-work) |
 | 1948 | 2025-12-06 18:24:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96880⭐ TypeScript) | [reels/reel_1948_ant-design-ant-design](reels/reel_1948_ant-design-ant-design) |
+| 1949 | 2025-12-06 18:46:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104641⭐ TypeScript) | [reels/reel_1949_iptv-org-iptv](reels/reel_1949_iptv-org-iptv) |
