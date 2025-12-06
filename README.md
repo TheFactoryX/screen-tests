@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1954 | [Martomate/Hexacraft](https://github.com/Martomate/Hexacraft) | Scala · ⭐ 14 | 2025-12-06 |
+| #1955 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2020,3 +2020,4 @@ Or let GitHub Action run it automatically.
 | 1952 | 2025-12-06 19:37:58 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100837⭐ Shell) | [reels/reel_1952_papers-we-love-papers-we-love](reels/reel_1952_papers-we-love-papers-we-love) |
 | 1953 | 2025-12-06 19:50:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101344⭐ TypeScript) | [reels/reel_1953_shadcn-ui-ui](reels/reel_1953_shadcn-ui-ui) |
 | 1954 | 2025-12-06 20:19:10 | [Martomate/Hexacraft](https://github.com/Martomate/Hexacraft) | ✅ full (14⭐ Scala) | [reels/reel_1954_Martomate-Hexacraft](reels/reel_1954_Martomate-Hexacraft) |
+| 1955 | 2025-12-06 20:39:49 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180144⭐ Python) | [reels/reel_1955_Significant-Gravitas-AutoGPT](reels/reel_1955_Significant-Gravitas-AutoGPT) |
