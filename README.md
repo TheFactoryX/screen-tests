@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1939 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-06 |
+| #1940 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 382k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2005,3 +2005,4 @@ Or let GitHub Action run it automatically.
 | 1937 | 2025-12-06 14:39:02 | [echasnovski/nvim](https://github.com/echasnovski/nvim) | ✅ full (183⭐ Lua) | [reels/reel_1937_echasnovski-nvim](reels/reel_1937_echasnovski-nvim) |
 | 1938 | 2025-12-06 14:50:02 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251888⭐ None) | [reels/reel_1938_practical-tutorials-project-based-learning](reels/reel_1938_practical-tutorials-project-based-learning) |
 | 1939 | 2025-12-06 15:16:29 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108298⭐ Rust) | [reels/reel_1939_rust-lang-rust](reels/reel_1939_rust-lang-rust) |
+| 1940 | 2025-12-06 15:38:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (382848⭐ Python) | [reels/reel_1940_public-apis-public-apis](reels/reel_1940_public-apis-public-apis) |
