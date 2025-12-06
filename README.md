@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1942 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-06 |
+| #1943 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2008,3 +2008,4 @@ Or let GitHub Action run it automatically.
 | 1940 | 2025-12-06 15:38:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (382848⭐ Python) | [reels/reel_1940_public-apis-public-apis](reels/reel_1940_public-apis-public-apis) |
 | 1941 | 2025-12-06 15:50:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104631⭐ TypeScript) | [reels/reel_1941_iptv-org-iptv](reels/reel_1941_iptv-org-iptv) |
 | 1942 | 2025-12-06 16:21:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261749⭐ None) | [reels/reel_1942_awesome-selfhosted-awesome-selfhosted](reels/reel_1942_awesome-selfhosted-awesome-selfhosted) |
+| 1943 | 2025-12-06 16:44:54 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96879⭐ TypeScript) | [reels/reel_1943_ant-design-ant-design](reels/reel_1943_ant-design-ant-design) |
