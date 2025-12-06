@@ -1,0 +1,24 @@
+{
+  "reel_number": 1937,
+  "recorded": "2025-12-06 14:39:02 UTC",
+  "repository": {
+    "full_name": "echasnovski/nvim",
+    "url": "https://github.com/echasnovski/nvim",
+    "clone_url": "https://github.com/echasnovski/nvim.git",
+    "stars": 183,
+    "language": "Lua",
+    "size_kb": 11890
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 1.075535
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 183 stars."
+  }
+}

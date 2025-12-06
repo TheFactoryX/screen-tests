@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1936 | [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) | Swift · ⭐ 230 | 2025-12-06 |
+| #1937 | [echasnovski/nvim](https://github.com/echasnovski/nvim) | Lua · ⭐ 183 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2002,3 +2002,4 @@ Or let GitHub Action run it automatically.
 | 1934 | 2025-12-06 13:37:37 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101331⭐ TypeScript) | [reels/reel_1934_shadcn-ui-ui](reels/reel_1934_shadcn-ui-ui) |
 | 1935 | 2025-12-06 13:50:07 | [sverweij/mscgen_js](https://github.com/sverweij/mscgen_js) | ✅ full (210⭐ HTML) | [reels/reel_1935_sverweij-mscgen_js](reels/reel_1935_sverweij-mscgen_js) |
 | 1936 | 2025-12-06 14:15:29 | [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) | ✅ full (230⭐ Swift) | [reels/reel_1936_supergeorg-Grocy-SwiftUI](reels/reel_1936_supergeorg-Grocy-SwiftUI) |
+| 1937 | 2025-12-06 14:39:02 | [echasnovski/nvim](https://github.com/echasnovski/nvim) | ✅ full (183⭐ Lua) | [reels/reel_1937_echasnovski-nvim](reels/reel_1937_echasnovski-nvim) |
