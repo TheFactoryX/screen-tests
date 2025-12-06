@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1921 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-06 |
+| #1922 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1987,3 +1987,4 @@ Or let GitHub Action run it automatically.
 | 1919 | 2025-12-06 07:50:01 | [urnetwork/android](https://github.com/urnetwork/android) | ✅ readme_only (142⭐ Kotlin) | [reels/reel_1919_urnetwork-android](reels/reel_1919_urnetwork-android) |
 | 1920 | 2025-12-06 08:22:47 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104605⭐ TypeScript) | [reels/reel_1920_iptv-org-iptv](reels/reel_1920_iptv-org-iptv) |
 | 1921 | 2025-12-06 08:45:49 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160881⭐ TypeScript) | [reels/reel_1921_n8n-io-n8n](reels/reel_1921_n8n-io-n8n) |
+| 1922 | 2025-12-06 09:18:09 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261703⭐ None) | [reels/reel_1922_awesome-selfhosted-awesome-selfhosted](reels/reel_1922_awesome-selfhosted-awesome-selfhosted) |
