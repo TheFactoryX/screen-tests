@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1958 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-06 |
+| #1959 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2024,3 +2024,4 @@ Or let GitHub Action run it automatically.
 | 1956 | 2025-12-06 20:50:01 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96880⭐ TypeScript) | [reels/reel_1956_ant-design-ant-design](reels/reel_1956_ant-design-ant-design) |
 | 1957 | 2025-12-06 21:15:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108305⭐ Rust) | [reels/reel_1957_rust-lang-rust](reels/reel_1957_rust-lang-rust) |
 | 1958 | 2025-12-06 21:37:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137342⭐ Python) | [reels/reel_1958_yt-dlp-yt-dlp](reels/reel_1958_yt-dlp-yt-dlp) |
+| 1959 | 2025-12-06 21:49:41 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99667⭐ Rust) | [reels/reel_1959_tauri-apps-tauri](reels/reel_1959_tauri-apps-tauri) |
