@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1931 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-06 |
+| #1932 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 160k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1997,3 +1997,4 @@ Or let GitHub Action run it automatically.
 | 1929 | 2025-12-06 11:28:07 | [DefiLlama/dimension-adapters](https://github.com/DefiLlama/dimension-adapters) | ✅ full (160⭐ TypeScript) | [reels/reel_1929_DefiLlama-dimension-adapters](reels/reel_1929_DefiLlama-dimension-adapters) |
 | 1930 | 2025-12-06 11:39:39 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101327⭐ TypeScript) | [reels/reel_1930_shadcn-ui-ui](reels/reel_1930_shadcn-ui-ui) |
 | 1931 | 2025-12-06 11:49:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104614⭐ TypeScript) | [reels/reel_1931_iptv-org-iptv](reels/reel_1931_iptv-org-iptv) |
+| 1932 | 2025-12-06 12:35:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160908⭐ TypeScript) | [reels/reel_1932_n8n-io-n8n](reels/reel_1932_n8n-io-n8n) |
