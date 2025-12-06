@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1906 | [JsonAsAsset/JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) | C++ · ⭐ 256 | 2025-12-06 |
+| #1907 | [anirudha-8/status-code-mastery](https://github.com/anirudha-8/status-code-mastery) | None · ⭐ 16 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1972,3 +1972,4 @@ Or let GitHub Action run it automatically.
 | 1904 | 2025-12-05 23:38:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (446649⭐ Markdown) | [reels/reel_1904_codecrafters-io-build-your-own-x](reels/reel_1904_codecrafters-io-build-your-own-x) |
 | 1905 | 2025-12-05 23:49:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137250⭐ Python) | [reels/reel_1905_yt-dlp-yt-dlp](reels/reel_1905_yt-dlp-yt-dlp) |
 | 1906 | 2025-12-06 01:21:06 | [JsonAsAsset/JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) | ✅ full (256⭐ C++) | [reels/reel_1906_JsonAsAsset-JsonAsAsset](reels/reel_1906_JsonAsAsset-JsonAsAsset) |
+| 1907 | 2025-12-06 02:52:35 | [anirudha-8/status-code-mastery](https://github.com/anirudha-8/status-code-mastery) | ✅ full (16⭐ None) | [reels/reel_1907_anirudha-8-status-code-mastery](reels/reel_1907_anirudha-8-status-code-mastery) |
