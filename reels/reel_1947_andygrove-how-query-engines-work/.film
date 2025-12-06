@@ -1,0 +1,24 @@
+{
+  "reel_number": 1947,
+  "recorded": "2025-12-06 17:50:16 UTC",
+  "repository": {
+    "full_name": "andygrove/how-query-engines-work",
+    "url": "https://github.com/andygrove/how-query-engines-work",
+    "clone_url": "https://github.com/andygrove/how-query-engines-work.git",
+    "stars": 410,
+    "language": "Kotlin",
+    "size_kb": 1914
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.242531
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 410 stars."
+  }
+}
