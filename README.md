@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1924 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-06 |
+| #1925 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1990,3 +1990,4 @@ Or let GitHub Action run it automatically.
 | 1922 | 2025-12-06 09:18:09 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261703⭐ None) | [reels/reel_1922_awesome-selfhosted-awesome-selfhosted](reels/reel_1922_awesome-selfhosted-awesome-selfhosted) |
 | 1923 | 2025-12-06 09:39:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261707⭐ None) | [reels/reel_1923_awesome-selfhosted-awesome-selfhosted](reels/reel_1923_awesome-selfhosted-awesome-selfhosted) |
 | 1924 | 2025-12-06 09:49:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104608⭐ TypeScript) | [reels/reel_1924_iptv-org-iptv](reels/reel_1924_iptv-org-iptv) |
+| 1925 | 2025-12-06 10:18:14 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102081⭐ None) | [reels/reel_1925_Hack-with-Github-Awesome-Hacking](reels/reel_1925_Hack-with-Github-Awesome-Hacking) |
