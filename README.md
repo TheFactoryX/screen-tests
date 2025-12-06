@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1944 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-06 |
+| #1945 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 446k | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2010,3 +2010,4 @@ Or let GitHub Action run it automatically.
 | 1942 | 2025-12-06 16:21:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261749⭐ None) | [reels/reel_1942_awesome-selfhosted-awesome-selfhosted](reels/reel_1942_awesome-selfhosted-awesome-selfhosted) |
 | 1943 | 2025-12-06 16:44:54 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96879⭐ TypeScript) | [reels/reel_1943_ant-design-ant-design](reels/reel_1943_ant-design-ant-design) |
 | 1944 | 2025-12-06 16:54:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180146⭐ Python) | [reels/reel_1944_Significant-Gravitas-AutoGPT](reels/reel_1944_Significant-Gravitas-AutoGPT) |
+| 1945 | 2025-12-06 17:15:16 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (446863⭐ Markdown) | [reels/reel_1945_codecrafters-io-build-your-own-x](reels/reel_1945_codecrafters-io-build-your-own-x) |
