@@ -1,0 +1,24 @@
+{
+  "reel_number": 1954,
+  "recorded": "2025-12-06 20:19:10 UTC",
+  "repository": {
+    "full_name": "Martomate/Hexacraft",
+    "url": "https://github.com/Martomate/Hexacraft",
+    "clone_url": "https://github.com/Martomate/Hexacraft.git",
+    "stars": 14,
+    "language": "Scala",
+    "size_kb": 31563
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 1.842938
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Scala",
+    "director_note": "A Scala repository. 14 stars."
+  }
+}

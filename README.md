@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1953 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-06 |
+| #1954 | [Martomate/Hexacraft](https://github.com/Martomate/Hexacraft) | Scala · ⭐ 14 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2019,3 +2019,4 @@ Or let GitHub Action run it automatically.
 | 1951 | 2025-12-06 19:26:40 | [tony/.dot-config](https://github.com/tony/.dot-config) | ✅ full (127⭐ Python) | [reels/reel_1951_tony-.dot-config](reels/reel_1951_tony-.dot-config) |
 | 1952 | 2025-12-06 19:37:58 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100837⭐ Shell) | [reels/reel_1952_papers-we-love-papers-we-love](reels/reel_1952_papers-we-love-papers-we-love) |
 | 1953 | 2025-12-06 19:50:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101344⭐ TypeScript) | [reels/reel_1953_shadcn-ui-ui](reels/reel_1953_shadcn-ui-ui) |
+| 1954 | 2025-12-06 20:19:10 | [Martomate/Hexacraft](https://github.com/Martomate/Hexacraft) | ✅ full (14⭐ Scala) | [reels/reel_1954_Martomate-Hexacraft](reels/reel_1954_Martomate-Hexacraft) |
