@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1934 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-06 |
+| #1935 | [sverweij/mscgen_js](https://github.com/sverweij/mscgen_js) | HTML · ⭐ 210 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2000,3 +2000,4 @@ Or let GitHub Action run it automatically.
 | 1932 | 2025-12-06 12:35:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160908⭐ TypeScript) | [reels/reel_1932_n8n-io-n8n](reels/reel_1932_n8n-io-n8n) |
 | 1933 | 2025-12-06 13:14:38 | [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) | ✅ full (234⭐ JavaScript) | [reels/reel_1933_swyxio-gh-action-data-scraping](reels/reel_1933_swyxio-gh-action-data-scraping) |
 | 1934 | 2025-12-06 13:37:37 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101331⭐ TypeScript) | [reels/reel_1934_shadcn-ui-ui](reels/reel_1934_shadcn-ui-ui) |
+| 1935 | 2025-12-06 13:50:07 | [sverweij/mscgen_js](https://github.com/sverweij/mscgen_js) | ✅ full (210⭐ HTML) | [reels/reel_1935_sverweij-mscgen_js](reels/reel_1935_sverweij-mscgen_js) |

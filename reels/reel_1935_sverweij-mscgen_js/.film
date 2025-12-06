@@ -1,0 +1,24 @@
+{
+  "reel_number": 1935,
+  "recorded": "2025-12-06 13:50:07 UTC",
+  "repository": {
+    "full_name": "sverweij/mscgen_js",
+    "url": "https://github.com/sverweij/mscgen_js",
+    "clone_url": "https://github.com/sverweij/mscgen_js.git",
+    "stars": 210,
+    "language": "HTML",
+    "size_kb": 20237
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 19,
+    "duration_seconds": 2.135928
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 210 stars."
+  }
+}
