@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1935 | [sverweij/mscgen_js](https://github.com/sverweij/mscgen_js) | HTML · ⭐ 210 | 2025-12-06 |
+| #1936 | [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) | Swift · ⭐ 230 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -2001,3 +2001,4 @@ Or let GitHub Action run it automatically.
 | 1933 | 2025-12-06 13:14:38 | [swyxio/gh-action-data-scraping](https://github.com/swyxio/gh-action-data-scraping) | ✅ full (234⭐ JavaScript) | [reels/reel_1933_swyxio-gh-action-data-scraping](reels/reel_1933_swyxio-gh-action-data-scraping) |
 | 1934 | 2025-12-06 13:37:37 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101331⭐ TypeScript) | [reels/reel_1934_shadcn-ui-ui](reels/reel_1934_shadcn-ui-ui) |
 | 1935 | 2025-12-06 13:50:07 | [sverweij/mscgen_js](https://github.com/sverweij/mscgen_js) | ✅ full (210⭐ HTML) | [reels/reel_1935_sverweij-mscgen_js](reels/reel_1935_sverweij-mscgen_js) |
+| 1936 | 2025-12-06 14:15:29 | [supergeorg/Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI) | ✅ full (230⭐ Swift) | [reels/reel_1936_supergeorg-Grocy-SwiftUI](reels/reel_1936_supergeorg-Grocy-SwiftUI) |

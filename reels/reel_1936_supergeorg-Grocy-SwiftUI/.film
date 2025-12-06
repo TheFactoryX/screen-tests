@@ -1,0 +1,24 @@
+{
+  "reel_number": 1936,
+  "recorded": "2025-12-06 14:15:29 UTC",
+  "repository": {
+    "full_name": "supergeorg/Grocy-SwiftUI",
+    "url": "https://github.com/supergeorg/Grocy-SwiftUI",
+    "clone_url": "https://github.com/supergeorg/Grocy-SwiftUI.git",
+    "stars": 230,
+    "language": "Swift",
+    "size_kb": 43570
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 1.407934
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 230 stars."
+  }
+}
