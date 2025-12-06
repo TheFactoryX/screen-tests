@@ -1,0 +1,24 @@
+{
+  "reel_number": 1916,
+  "recorded": "2025-12-06 06:49:15 UTC",
+  "repository": {
+    "full_name": "tommyettinger/juniper",
+    "url": "https://github.com/tommyettinger/juniper",
+    "clone_url": "https://github.com/tommyettinger/juniper.git",
+    "stars": 12,
+    "language": "Java",
+    "size_kb": 35528
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 34,
+    "duration_seconds": 2.178509
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 12 stars."
+  }
+}
