@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1918 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-06 |
+| #1919 | [urnetwork/android](https://github.com/urnetwork/android) | Kotlin · ⭐ 142 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1984,3 +1984,4 @@ Or let GitHub Action run it automatically.
 | 1916 | 2025-12-06 06:49:15 | [tommyettinger/juniper](https://github.com/tommyettinger/juniper) | ✅ full (12⭐ Java) | [reels/reel_1916_tommyettinger-juniper](reels/reel_1916_tommyettinger-juniper) |
 | 1917 | 2025-12-06 07:16:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (251845⭐ None) | [reels/reel_1917_practical-tutorials-project-based-learning](reels/reel_1917_practical-tutorials-project-based-learning) |
 | 1918 | 2025-12-06 07:37:02 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102070⭐ None) | [reels/reel_1918_Hack-with-Github-Awesome-Hacking](reels/reel_1918_Hack-with-Github-Awesome-Hacking) |
+| 1919 | 2025-12-06 07:50:01 | [urnetwork/android](https://github.com/urnetwork/android) | ✅ readme_only (142⭐ Kotlin) | [reels/reel_1919_urnetwork-android](reels/reel_1919_urnetwork-android) |

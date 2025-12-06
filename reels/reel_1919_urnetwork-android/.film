@@ -1,0 +1,24 @@
+{
+  "reel_number": 1919,
+  "recorded": "2025-12-06 07:50:01 UTC",
+  "repository": {
+    "full_name": "urnetwork/android",
+    "url": "https://github.com/urnetwork/android",
+    "clone_url": "https://github.com/urnetwork/android.git",
+    "stars": 142,
+    "language": "Kotlin",
+    "size_kb": 637416
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 622,
+    "duration_seconds": 0.000146
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 142 stars."
+  }
+}
