@@ -1,0 +1,24 @@
+{
+  "reel_number": 1929,
+  "recorded": "2025-12-06 11:28:07 UTC",
+  "repository": {
+    "full_name": "DefiLlama/dimension-adapters",
+    "url": "https://github.com/DefiLlama/dimension-adapters",
+    "clone_url": "https://github.com/DefiLlama/dimension-adapters.git",
+    "stars": 160,
+    "language": "TypeScript",
+    "size_kb": 19342
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.692202
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 160 stars."
+  }
+}

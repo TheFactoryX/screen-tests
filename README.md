@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1928 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-12-06 |
+| #1929 | [DefiLlama/dimension-adapters](https://github.com/DefiLlama/dimension-adapters) | TypeScript · ⭐ 160 | 2025-12-06 |
 ---
 
 ## 🎭 Selection Process
@@ -1994,3 +1994,4 @@ Or let GitHub Action run it automatically.
 | 1926 | 2025-12-06 10:41:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137296⭐ Python) | [reels/reel_1926_yt-dlp-yt-dlp](reels/reel_1926_yt-dlp-yt-dlp) |
 | 1927 | 2025-12-06 10:51:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101326⭐ TypeScript) | [reels/reel_1927_shadcn-ui-ui](reels/reel_1927_shadcn-ui-ui) |
 | 1928 | 2025-12-06 11:14:22 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100828⭐ Shell) | [reels/reel_1928_papers-we-love-papers-we-love](reels/reel_1928_papers-we-love-papers-we-love) |
+| 1929 | 2025-12-06 11:28:07 | [DefiLlama/dimension-adapters](https://github.com/DefiLlama/dimension-adapters) | ✅ full (160⭐ TypeScript) | [reels/reel_1929_DefiLlama-dimension-adapters](reels/reel_1929_DefiLlama-dimension-adapters) |
