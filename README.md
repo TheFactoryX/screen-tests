@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2003 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-07 |
+| #2004 | [ipeirotis/dealing_with_data](https://github.com/ipeirotis/dealing_with_data) | Jupyter Notebook · ⭐ 122 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2069,3 +2069,4 @@ Or let GitHub Action run it automatically.
 | 2001 | 2025-12-07 15:49:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117169⭐ Svelte) | [reels/reel_2001_open-webui-open-webui](reels/reel_2001_open-webui-open-webui) |
 | 2002 | 2025-12-07 16:20:44 | [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) | ✅ full (1146⭐ Rust) | [reels/reel_2002_bnjbvr-cargo-machete](reels/reel_2002_bnjbvr-cargo-machete) |
 | 2003 | 2025-12-07 16:44:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99694⭐ Rust) | [reels/reel_2003_tauri-apps-tauri](reels/reel_2003_tauri-apps-tauri) |
+| 2004 | 2025-12-07 16:54:16 | [ipeirotis/dealing_with_data](https://github.com/ipeirotis/dealing_with_data) | ✅ shallow (122⭐ Jupyter Notebook) | [reels/reel_2004_ipeirotis-dealing_with_data](reels/reel_2004_ipeirotis-dealing_with_data) |
