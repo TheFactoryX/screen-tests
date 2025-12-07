@@ -1,0 +1,24 @@
+{
+  "reel_number": 1968,
+  "recorded": "2025-12-07 04:08:47 UTC",
+  "repository": {
+    "full_name": "AvaLovelace1/BrickGPT",
+    "url": "https://github.com/AvaLovelace1/BrickGPT",
+    "clone_url": "https://github.com/AvaLovelace1/BrickGPT.git",
+    "stars": 1536,
+    "language": "Python",
+    "size_kb": 247726
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 241,
+    "duration_seconds": 0.620766
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 1536 stars."
+  }
+}

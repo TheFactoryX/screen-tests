@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1967 | [SHANMUGAM070106/cursor-free-vip](https://github.com/SHANMUGAM070106/cursor-free-vip) | Python · ⭐ 130 | 2025-12-07 |
+| #1968 | [AvaLovelace1/BrickGPT](https://github.com/AvaLovelace1/BrickGPT) | Python · ⭐ 1k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2033,3 +2033,4 @@ Or let GitHub Action run it automatically.
 | 1965 | 2025-12-06 23:50:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160982⭐ TypeScript) | [reels/reel_1965_n8n-io-n8n](reels/reel_1965_n8n-io-n8n) |
 | 1966 | 2025-12-07 01:41:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101346⭐ TypeScript) | [reels/reel_1966_shadcn-ui-ui](reels/reel_1966_shadcn-ui-ui) |
 | 1967 | 2025-12-07 03:17:02 | [SHANMUGAM070106/cursor-free-vip](https://github.com/SHANMUGAM070106/cursor-free-vip) | ✅ full (130⭐ Python) | [reels/reel_1967_SHANMUGAM070106-cursor-free-vip](reels/reel_1967_SHANMUGAM070106-cursor-free-vip) |
+| 1968 | 2025-12-07 04:08:47 | [AvaLovelace1/BrickGPT](https://github.com/AvaLovelace1/BrickGPT) | ✅ shallow (1536⭐ Python) | [reels/reel_1968_AvaLovelace1-BrickGPT](reels/reel_1968_AvaLovelace1-BrickGPT) |
