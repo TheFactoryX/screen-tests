@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1986 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-07 |
+| #1987 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2052,3 +2052,4 @@ Or let GitHub Action run it automatically.
 | 1984 | 2025-12-07 09:50:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104676⭐ TypeScript) | [reels/reel_1984_iptv-org-iptv](reels/reel_1984_iptv-org-iptv) |
 | 1985 | 2025-12-07 10:17:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180149⭐ Python) | [reels/reel_1985_Significant-Gravitas-AutoGPT](reels/reel_1985_Significant-Gravitas-AutoGPT) |
 | 1986 | 2025-12-07 10:40:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101361⭐ TypeScript) | [reels/reel_1986_shadcn-ui-ui](reels/reel_1986_shadcn-ui-ui) |
+| 1987 | 2025-12-07 10:50:17 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99683⭐ Rust) | [reels/reel_1987_tauri-apps-tauri](reels/reel_1987_tauri-apps-tauri) |
