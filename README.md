@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1980 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-07 |
+| #1981 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 161k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2046,3 +2046,4 @@ Or let GitHub Action run it automatically.
 | 1978 | 2025-12-07 07:50:12 | [Copycord/Copycord](https://github.com/Copycord/Copycord) | ✅ full (359⭐ Python) | [reels/reel_1978_Copycord-Copycord](reels/reel_1978_Copycord-Copycord) |
 | 1979 | 2025-12-07 08:22:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261845⭐ None) | [reels/reel_1979_awesome-selfhosted-awesome-selfhosted](reels/reel_1979_awesome-selfhosted-awesome-selfhosted) |
 | 1980 | 2025-12-07 08:44:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140392⭐ Python) | [reels/reel_1980_langflow-ai-langflow](reels/reel_1980_langflow-ai-langflow) |
+| 1981 | 2025-12-07 08:54:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161046⭐ TypeScript) | [reels/reel_1981_n8n-io-n8n](reels/reel_1981_n8n-io-n8n) |
