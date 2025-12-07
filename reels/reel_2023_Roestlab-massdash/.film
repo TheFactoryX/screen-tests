@@ -1,0 +1,24 @@
+{
+  "reel_number": 2023,
+  "recorded": "2025-12-07 22:49:58 UTC",
+  "repository": {
+    "full_name": "Roestlab/massdash",
+    "url": "https://github.com/Roestlab/massdash",
+    "clone_url": "https://github.com/Roestlab/massdash.git",
+    "stars": 21,
+    "language": "HTML",
+    "size_kb": 231706
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 226,
+    "duration_seconds": 14.131041
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 21 stars."
+  }
+}
