@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2021 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-07 |
+| #2022 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2087,3 +2087,4 @@ Or let GitHub Action run it automatically.
 | 2019 | 2025-12-07 21:40:26 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | ✅ full (51⭐ Java) | [reels/reel_2019_team-abnormals-neapolitan](reels/reel_2019_team-abnormals-neapolitan) |
 | 2020 | 2025-12-07 21:50:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121336⭐ Python) | [reels/reel_2020_langchain-ai-langchain](reels/reel_2020_langchain-ai-langchain) |
 | 2021 | 2025-12-07 22:16:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261935⭐ None) | [reels/reel_2021_awesome-selfhosted-awesome-selfhosted](reels/reel_2021_awesome-selfhosted-awesome-selfhosted) |
+| 2022 | 2025-12-07 22:39:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121337⭐ Python) | [reels/reel_2022_langchain-ai-langchain](reels/reel_2022_langchain-ai-langchain) |
