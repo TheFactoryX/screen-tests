@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2019 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | Java · ⭐ 51 | 2025-12-07 |
+| #2020 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2085,3 +2085,4 @@ Or let GitHub Action run it automatically.
 | 2017 | 2025-12-07 21:14:58 | [rectorphp/rector-src](https://github.com/rectorphp/rector-src) | ✅ full (123⭐ PHP) | [reels/reel_2017_rectorphp-rector-src](reels/reel_2017_rectorphp-rector-src) |
 | 2018 | 2025-12-07 21:29:20 | [Kanaduchi/vwcoding](https://github.com/Kanaduchi/vwcoding) | ✅ shallow (109⭐ HTML) | [reels/reel_2018_Kanaduchi-vwcoding](reels/reel_2018_Kanaduchi-vwcoding) |
 | 2019 | 2025-12-07 21:40:26 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | ✅ full (51⭐ Java) | [reels/reel_2019_team-abnormals-neapolitan](reels/reel_2019_team-abnormals-neapolitan) |
+| 2020 | 2025-12-07 21:50:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121336⭐ Python) | [reels/reel_2020_langchain-ai-langchain](reels/reel_2020_langchain-ai-langchain) |
