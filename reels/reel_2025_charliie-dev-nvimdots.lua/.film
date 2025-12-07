@@ -1,0 +1,24 @@
+{
+  "reel_number": 2025,
+  "recorded": "2025-12-07 23:37:21 UTC",
+  "repository": {
+    "full_name": "charliie-dev/nvimdots.lua",
+    "url": "https://github.com/charliie-dev/nvimdots.lua",
+    "clone_url": "https://github.com/charliie-dev/nvimdots.lua.git",
+    "stars": 129,
+    "language": "Lua",
+    "size_kb": 48443
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 47,
+    "duration_seconds": 1.159663
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 129 stars."
+  }
+}
