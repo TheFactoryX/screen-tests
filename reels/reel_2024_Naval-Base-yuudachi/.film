@@ -1,0 +1,24 @@
+{
+  "reel_number": 2024,
+  "recorded": "2025-12-07 23:16:30 UTC",
+  "repository": {
+    "full_name": "Naval-Base/yuudachi",
+    "url": "https://github.com/Naval-Base/yuudachi",
+    "clone_url": "https://github.com/Naval-Base/yuudachi.git",
+    "stars": 284,
+    "language": "TypeScript",
+    "size_kb": 13250
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.44561
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 284 stars."
+  }
+}

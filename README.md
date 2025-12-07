@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2023 | [Roestlab/massdash](https://github.com/Roestlab/massdash) | HTML · ⭐ 21 | 2025-12-07 |
+| #2024 | [Naval-Base/yuudachi](https://github.com/Naval-Base/yuudachi) | TypeScript · ⭐ 284 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2089,3 +2089,4 @@ Or let GitHub Action run it automatically.
 | 2021 | 2025-12-07 22:16:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261935⭐ None) | [reels/reel_2021_awesome-selfhosted-awesome-selfhosted](reels/reel_2021_awesome-selfhosted-awesome-selfhosted) |
 | 2022 | 2025-12-07 22:39:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121337⭐ Python) | [reels/reel_2022_langchain-ai-langchain](reels/reel_2022_langchain-ai-langchain) |
 | 2023 | 2025-12-07 22:49:58 | [Roestlab/massdash](https://github.com/Roestlab/massdash) | ✅ shallow (21⭐ HTML) | [reels/reel_2023_Roestlab-massdash](reels/reel_2023_Roestlab-massdash) |
+| 2024 | 2025-12-07 23:16:30 | [Naval-Base/yuudachi](https://github.com/Naval-Base/yuudachi) | ✅ full (284⭐ TypeScript) | [reels/reel_2024_Naval-Base-yuudachi](reels/reel_2024_Naval-Base-yuudachi) |
