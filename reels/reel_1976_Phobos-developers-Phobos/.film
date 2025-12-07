@@ -1,0 +1,24 @@
+{
+  "reel_number": 1976,
+  "recorded": "2025-12-07 07:16:54 UTC",
+  "repository": {
+    "full_name": "Phobos-developers/Phobos",
+    "url": "https://github.com/Phobos-developers/Phobos",
+    "clone_url": "https://github.com/Phobos-developers/Phobos.git",
+    "stars": 388,
+    "language": "C++",
+    "size_kb": 116894
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 114,
+    "duration_seconds": 4.309363
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 388 stars."
+  }
+}
