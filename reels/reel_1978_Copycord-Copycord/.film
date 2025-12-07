@@ -1,0 +1,24 @@
+{
+  "reel_number": 1978,
+  "recorded": "2025-12-07 07:50:12 UTC",
+  "repository": {
+    "full_name": "Copycord/Copycord",
+    "url": "https://github.com/Copycord/Copycord",
+    "clone_url": "https://github.com/Copycord/Copycord.git",
+    "stars": 359,
+    "language": "Python",
+    "size_kb": 26615
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 4.234497
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 359 stars."
+  }
+}
