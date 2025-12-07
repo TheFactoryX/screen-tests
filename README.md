@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1966 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-07 |
+| #1967 | [SHANMUGAM070106/cursor-free-vip](https://github.com/SHANMUGAM070106/cursor-free-vip) | Python · ⭐ 130 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2032,3 +2032,4 @@ Or let GitHub Action run it automatically.
 | 1964 | 2025-12-06 23:38:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261792⭐ None) | [reels/reel_1964_awesome-selfhosted-awesome-selfhosted](reels/reel_1964_awesome-selfhosted-awesome-selfhosted) |
 | 1965 | 2025-12-06 23:50:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (160982⭐ TypeScript) | [reels/reel_1965_n8n-io-n8n](reels/reel_1965_n8n-io-n8n) |
 | 1966 | 2025-12-07 01:41:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101346⭐ TypeScript) | [reels/reel_1966_shadcn-ui-ui](reels/reel_1966_shadcn-ui-ui) |
+| 1967 | 2025-12-07 03:17:02 | [SHANMUGAM070106/cursor-free-vip](https://github.com/SHANMUGAM070106/cursor-free-vip) | ✅ full (130⭐ Python) | [reels/reel_1967_SHANMUGAM070106-cursor-free-vip](reels/reel_1967_SHANMUGAM070106-cursor-free-vip) |
