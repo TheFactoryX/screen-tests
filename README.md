@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2016 | [GH05TCREW/ghostcrew](https://github.com/GH05TCREW/ghostcrew) | Python · ⭐ 492 | 2025-12-07 |
+| #2017 | [rectorphp/rector-src](https://github.com/rectorphp/rector-src) | PHP · ⭐ 123 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2082,3 +2082,4 @@ Or let GitHub Action run it automatically.
 | 2014 | 2025-12-07 20:19:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180157⭐ Python) | [reels/reel_2014_Significant-Gravitas-AutoGPT](reels/reel_2014_Significant-Gravitas-AutoGPT) |
 | 2015 | 2025-12-07 20:40:05 | [angular/web-codegen-scorer](https://github.com/angular/web-codegen-scorer) | ✅ full (587⭐ TypeScript) | [reels/reel_2015_angular-web-codegen-scorer](reels/reel_2015_angular-web-codegen-scorer) |
 | 2016 | 2025-12-07 20:49:47 | [GH05TCREW/ghostcrew](https://github.com/GH05TCREW/ghostcrew) | ✅ full (492⭐ Python) | [reels/reel_2016_GH05TCREW-ghostcrew](reels/reel_2016_GH05TCREW-ghostcrew) |
+| 2017 | 2025-12-07 21:14:58 | [rectorphp/rector-src](https://github.com/rectorphp/rector-src) | ✅ full (123⭐ PHP) | [reels/reel_2017_rectorphp-rector-src](reels/reel_2017_rectorphp-rector-src) |

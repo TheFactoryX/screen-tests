@@ -1,0 +1,24 @@
+{
+  "reel_number": 2017,
+  "recorded": "2025-12-07 21:14:58 UTC",
+  "repository": {
+    "full_name": "rectorphp/rector-src",
+    "url": "https://github.com/rectorphp/rector-src",
+    "clone_url": "https://github.com/rectorphp/rector-src.git",
+    "stars": 123,
+    "language": "PHP",
+    "size_kb": 71489
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 69,
+    "duration_seconds": 4.814229
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 123 stars."
+  }
+}
