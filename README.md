@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2010 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-07 |
+| #2011 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 161k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2076,3 +2076,4 @@ Or let GitHub Action run it automatically.
 | 2008 | 2025-12-07 18:24:30 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (401⭐ None) | [reels/reel_2008_zloi-user-hideip.me](reels/reel_2008_zloi-user-hideip.me) |
 | 2009 | 2025-12-07 18:46:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121328⭐ Python) | [reels/reel_2009_langchain-ai-langchain](reels/reel_2009_langchain-ai-langchain) |
 | 2010 | 2025-12-07 19:13:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180157⭐ Python) | [reels/reel_2010_Significant-Gravitas-AutoGPT](reels/reel_2010_Significant-Gravitas-AutoGPT) |
+| 2011 | 2025-12-07 19:26:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161130⭐ TypeScript) | [reels/reel_2011_n8n-io-n8n](reels/reel_2011_n8n-io-n8n) |
