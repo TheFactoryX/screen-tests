@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1974 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-07 |
+| #1975 | [ToastHawaii/osm-apps-catalog](https://github.com/ToastHawaii/osm-apps-catalog) | TypeScript · ⭐ 11 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2040,3 +2040,4 @@ Or let GitHub Action run it automatically.
 | 1972 | 2025-12-07 05:40:02 | [arg3t/dotfiles](https://github.com/arg3t/dotfiles) | ✅ full (38⭐ C) | [reels/reel_1972_arg3t-dotfiles](reels/reel_1972_arg3t-dotfiles) |
 | 1973 | 2025-12-07 05:50:07 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (382922⭐ Python) | [reels/reel_1973_public-apis-public-apis](reels/reel_1973_public-apis-public-apis) |
 | 1974 | 2025-12-07 06:26:20 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101355⭐ TypeScript) | [reels/reel_1974_shadcn-ui-ui](reels/reel_1974_shadcn-ui-ui) |
+| 1975 | 2025-12-07 06:48:56 | [ToastHawaii/osm-apps-catalog](https://github.com/ToastHawaii/osm-apps-catalog) | ✅ full (11⭐ TypeScript) | [reels/reel_1975_ToastHawaii-osm-apps-catalog](reels/reel_1975_ToastHawaii-osm-apps-catalog) |

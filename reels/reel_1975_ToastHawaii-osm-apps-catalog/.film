@@ -1,0 +1,24 @@
+{
+  "reel_number": 1975,
+  "recorded": "2025-12-07 06:48:56 UTC",
+  "repository": {
+    "full_name": "ToastHawaii/osm-apps-catalog",
+    "url": "https://github.com/ToastHawaii/osm-apps-catalog",
+    "clone_url": "https://github.com/ToastHawaii/osm-apps-catalog.git",
+    "stars": 11,
+    "language": "TypeScript",
+    "size_kb": 62555
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 61,
+    "duration_seconds": 6.899889
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 11 stars."
+  }
+}
