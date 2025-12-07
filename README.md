@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2018 | [Kanaduchi/vwcoding](https://github.com/Kanaduchi/vwcoding) | HTML · ⭐ 109 | 2025-12-07 |
+| #2019 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | Java · ⭐ 51 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2084,3 +2084,4 @@ Or let GitHub Action run it automatically.
 | 2016 | 2025-12-07 20:49:47 | [GH05TCREW/ghostcrew](https://github.com/GH05TCREW/ghostcrew) | ✅ full (492⭐ Python) | [reels/reel_2016_GH05TCREW-ghostcrew](reels/reel_2016_GH05TCREW-ghostcrew) |
 | 2017 | 2025-12-07 21:14:58 | [rectorphp/rector-src](https://github.com/rectorphp/rector-src) | ✅ full (123⭐ PHP) | [reels/reel_2017_rectorphp-rector-src](reels/reel_2017_rectorphp-rector-src) |
 | 2018 | 2025-12-07 21:29:20 | [Kanaduchi/vwcoding](https://github.com/Kanaduchi/vwcoding) | ✅ shallow (109⭐ HTML) | [reels/reel_2018_Kanaduchi-vwcoding](reels/reel_2018_Kanaduchi-vwcoding) |
+| 2019 | 2025-12-07 21:40:26 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | ✅ full (51⭐ Java) | [reels/reel_2019_team-abnormals-neapolitan](reels/reel_2019_team-abnormals-neapolitan) |
