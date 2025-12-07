@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2007 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-07 |
+| #2008 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 401 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2073,3 +2073,4 @@ Or let GitHub Action run it automatically.
 | 2005 | 2025-12-07 17:14:55 | [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress) | ✅ full (117⭐ PHP) | [reels/reel_2005_GatherPress-gatherpress](reels/reel_2005_GatherPress-gatherpress) |
 | 2006 | 2025-12-07 17:31:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121325⭐ Python) | [reels/reel_2006_langchain-ai-langchain](reels/reel_2006_langchain-ai-langchain) |
 | 2007 | 2025-12-07 17:50:10 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101378⭐ TypeScript) | [reels/reel_2007_shadcn-ui-ui](reels/reel_2007_shadcn-ui-ui) |
+| 2008 | 2025-12-07 18:24:30 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (401⭐ None) | [reels/reel_2008_zloi-user-hideip.me](reels/reel_2008_zloi-user-hideip.me) |
