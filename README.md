@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1988 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-07 |
+| #1989 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2054,3 +2054,4 @@ Or let GitHub Action run it automatically.
 | 1986 | 2025-12-07 10:40:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101361⭐ TypeScript) | [reels/reel_1986_shadcn-ui-ui](reels/reel_1986_shadcn-ui-ui) |
 | 1987 | 2025-12-07 10:50:17 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99683⭐ Rust) | [reels/reel_1987_tauri-apps-tauri](reels/reel_1987_tauri-apps-tauri) |
 | 1988 | 2025-12-07 11:14:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117160⭐ Svelte) | [reels/reel_1988_open-webui-open-webui](reels/reel_1988_open-webui-open-webui) |
+| 1989 | 2025-12-07 11:27:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104677⭐ TypeScript) | [reels/reel_1989_iptv-org-iptv](reels/reel_1989_iptv-org-iptv) |
