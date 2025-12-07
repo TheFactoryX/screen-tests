@@ -1,0 +1,24 @@
+{
+  "reel_number": 2015,
+  "recorded": "2025-12-07 20:40:05 UTC",
+  "repository": {
+    "full_name": "angular/web-codegen-scorer",
+    "url": "https://github.com/angular/web-codegen-scorer",
+    "clone_url": "https://github.com/angular/web-codegen-scorer.git",
+    "stars": 587,
+    "language": "TypeScript",
+    "size_kb": 2367
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.342307
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 587 stars."
+  }
+}
