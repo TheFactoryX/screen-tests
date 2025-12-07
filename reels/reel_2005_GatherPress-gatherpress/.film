@@ -1,0 +1,24 @@
+{
+  "reel_number": 2005,
+  "recorded": "2025-12-07 17:14:55 UTC",
+  "repository": {
+    "full_name": "GatherPress/gatherpress",
+    "url": "https://github.com/GatherPress/gatherpress",
+    "clone_url": "https://github.com/GatherPress/gatherpress.git",
+    "stars": 117,
+    "language": "PHP",
+    "size_kb": 61738
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 60,
+    "duration_seconds": 2.16268
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 117 stars."
+  }
+}
