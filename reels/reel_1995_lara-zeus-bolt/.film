@@ -1,0 +1,24 @@
+{
+  "reel_number": 1995,
+  "recorded": "2025-12-07 13:49:43 UTC",
+  "repository": {
+    "full_name": "lara-zeus/bolt",
+    "url": "https://github.com/lara-zeus/bolt",
+    "clone_url": "https://github.com/lara-zeus/bolt.git",
+    "stars": 232,
+    "language": "PHP",
+    "size_kb": 5823
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.246564
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 232 stars."
+  }
+}
