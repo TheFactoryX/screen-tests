@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2001 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-07 |
+| #2002 | [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) | Rust · ⭐ 1k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2067,3 +2067,4 @@ Or let GitHub Action run it automatically.
 | 1999 | 2025-12-07 15:16:09 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108321⭐ Rust) | [reels/reel_1999_rust-lang-rust](reels/reel_1999_rust-lang-rust) |
 | 2000 | 2025-12-07 15:37:08 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117169⭐ Svelte) | [reels/reel_2000_open-webui-open-webui](reels/reel_2000_open-webui-open-webui) |
 | 2001 | 2025-12-07 15:49:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117169⭐ Svelte) | [reels/reel_2001_open-webui-open-webui](reels/reel_2001_open-webui-open-webui) |
+| 2002 | 2025-12-07 16:20:44 | [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) | ✅ full (1146⭐ Rust) | [reels/reel_2002_bnjbvr-cargo-machete](reels/reel_2002_bnjbvr-cargo-machete) |
