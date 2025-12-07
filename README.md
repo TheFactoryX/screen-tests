@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1970 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-07 |
+| #1971 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2036,3 +2036,4 @@ Or let GitHub Action run it automatically.
 | 1968 | 2025-12-07 04:08:47 | [AvaLovelace1/BrickGPT](https://github.com/AvaLovelace1/BrickGPT) | ✅ shallow (1536⭐ Python) | [reels/reel_1968_AvaLovelace1-BrickGPT](reels/reel_1968_AvaLovelace1-BrickGPT) |
 | 1969 | 2025-12-07 04:44:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117138⭐ Svelte) | [reels/reel_1969_open-webui-open-webui](reels/reel_1969_open-webui-open-webui) |
 | 1970 | 2025-12-07 04:57:38 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117140⭐ Svelte) | [reels/reel_1970_open-webui-open-webui](reels/reel_1970_open-webui-open-webui) |
+| 1971 | 2025-12-07 05:22:34 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121297⭐ Python) | [reels/reel_1971_langchain-ai-langchain](reels/reel_1971_langchain-ai-langchain) |
