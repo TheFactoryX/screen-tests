@@ -1,0 +1,24 @@
+{
+  "reel_number": 2018,
+  "recorded": "2025-12-07 21:29:20 UTC",
+  "repository": {
+    "full_name": "Kanaduchi/vwcoding",
+    "url": "https://github.com/Kanaduchi/vwcoding",
+    "clone_url": "https://github.com/Kanaduchi/vwcoding.git",
+    "stars": 109,
+    "language": "HTML",
+    "size_kb": 348155
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 339,
+    "duration_seconds": 7.368816
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 109 stars."
+  }
+}
