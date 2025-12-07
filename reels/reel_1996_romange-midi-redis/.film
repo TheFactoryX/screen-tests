@@ -1,0 +1,24 @@
+{
+  "reel_number": 1996,
+  "recorded": "2025-12-07 14:15:51 UTC",
+  "repository": {
+    "full_name": "romange/midi-redis",
+    "url": "https://github.com/romange/midi-redis",
+    "clone_url": "https://github.com/romange/midi-redis.git",
+    "stars": 36,
+    "language": "C++",
+    "size_kb": 233
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.527581
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 36 stars."
+  }
+}

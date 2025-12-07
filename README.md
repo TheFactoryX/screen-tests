@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1995 | [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | PHP · ⭐ 232 | 2025-12-07 |
+| #1996 | [romange/midi-redis](https://github.com/romange/midi-redis) | C++ · ⭐ 36 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2061,3 +2061,4 @@ Or let GitHub Action run it automatically.
 | 1993 | 2025-12-07 13:12:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137391⭐ Python) | [reels/reel_1993_yt-dlp-yt-dlp](reels/reel_1993_yt-dlp-yt-dlp) |
 | 1994 | 2025-12-07 13:35:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261878⭐ None) | [reels/reel_1994_awesome-selfhosted-awesome-selfhosted](reels/reel_1994_awesome-selfhosted-awesome-selfhosted) |
 | 1995 | 2025-12-07 13:49:43 | [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | ✅ full (232⭐ PHP) | [reels/reel_1995_lara-zeus-bolt](reels/reel_1995_lara-zeus-bolt) |
+| 1996 | 2025-12-07 14:15:51 | [romange/midi-redis](https://github.com/romange/midi-redis) | ✅ full (36⭐ C++) | [reels/reel_1996_romange-midi-redis](reels/reel_1996_romange-midi-redis) |
