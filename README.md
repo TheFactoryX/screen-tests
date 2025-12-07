@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2012 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-07 |
+| #2013 | [s4hri/pyicub](https://github.com/s4hri/pyicub) | Python · ⭐ 13 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2078,3 +2078,4 @@ Or let GitHub Action run it automatically.
 | 2010 | 2025-12-07 19:13:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180157⭐ Python) | [reels/reel_2010_Significant-Gravitas-AutoGPT](reels/reel_2010_Significant-Gravitas-AutoGPT) |
 | 2011 | 2025-12-07 19:26:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161130⭐ TypeScript) | [reels/reel_2011_n8n-io-n8n](reels/reel_2011_n8n-io-n8n) |
 | 2012 | 2025-12-07 19:38:21 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96892⭐ TypeScript) | [reels/reel_2012_ant-design-ant-design](reels/reel_2012_ant-design-ant-design) |
+| 2013 | 2025-12-07 19:50:14 | [s4hri/pyicub](https://github.com/s4hri/pyicub) | ✅ full (13⭐ Python) | [reels/reel_2013_s4hri-pyicub](reels/reel_2013_s4hri-pyicub) |
