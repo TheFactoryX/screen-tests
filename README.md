@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1982 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-07 |
+| #1983 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2048,3 +2048,4 @@ Or let GitHub Action run it automatically.
 | 1980 | 2025-12-07 08:44:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140392⭐ Python) | [reels/reel_1980_langflow-ai-langflow](reels/reel_1980_langflow-ai-langflow) |
 | 1981 | 2025-12-07 08:54:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161046⭐ TypeScript) | [reels/reel_1981_n8n-io-n8n](reels/reel_1981_n8n-io-n8n) |
 | 1982 | 2025-12-07 09:17:47 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180149⭐ Python) | [reels/reel_1982_Significant-Gravitas-AutoGPT](reels/reel_1982_Significant-Gravitas-AutoGPT) |
+| 1983 | 2025-12-07 09:38:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104676⭐ TypeScript) | [reels/reel_1983_iptv-org-iptv](reels/reel_1983_iptv-org-iptv) |
