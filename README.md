@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1991 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-07 |
+| #1992 | [mmpx12/proxy-list](https://github.com/mmpx12/proxy-list) | None · ⭐ 407 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2057,3 +2057,4 @@ Or let GitHub Action run it automatically.
 | 1989 | 2025-12-07 11:27:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104677⭐ TypeScript) | [reels/reel_1989_iptv-org-iptv](reels/reel_1989_iptv-org-iptv) |
 | 1990 | 2025-12-07 11:38:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161065⭐ TypeScript) | [reels/reel_1990_n8n-io-n8n](reels/reel_1990_n8n-io-n8n) |
 | 1991 | 2025-12-07 11:49:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137385⭐ Python) | [reels/reel_1991_yt-dlp-yt-dlp](reels/reel_1991_yt-dlp-yt-dlp) |
+| 1992 | 2025-12-07 12:34:14 | [mmpx12/proxy-list](https://github.com/mmpx12/proxy-list) | ✅ readme_only (407⭐ None) | [reels/reel_1992_mmpx12-proxy-list](reels/reel_1992_mmpx12-proxy-list) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 1992,
+  "recorded": "2025-12-07 12:34:14 UTC",
+  "repository": {
+    "full_name": "mmpx12/proxy-list",
+    "url": "https://github.com/mmpx12/proxy-list",
+    "clone_url": "https://github.com/mmpx12/proxy-list.git",
+    "stars": 407,
+    "language": null,
+    "size_kb": 1017064
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 993,
+    "duration_seconds": 0.000134
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 407 stars."
+  }
+}
