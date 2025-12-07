@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2015 | [angular/web-codegen-scorer](https://github.com/angular/web-codegen-scorer) | TypeScript · ⭐ 587 | 2025-12-07 |
+| #2016 | [GH05TCREW/ghostcrew](https://github.com/GH05TCREW/ghostcrew) | Python · ⭐ 492 | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2081,3 +2081,4 @@ Or let GitHub Action run it automatically.
 | 2013 | 2025-12-07 19:50:14 | [s4hri/pyicub](https://github.com/s4hri/pyicub) | ✅ full (13⭐ Python) | [reels/reel_2013_s4hri-pyicub](reels/reel_2013_s4hri-pyicub) |
 | 2014 | 2025-12-07 20:19:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180157⭐ Python) | [reels/reel_2014_Significant-Gravitas-AutoGPT](reels/reel_2014_Significant-Gravitas-AutoGPT) |
 | 2015 | 2025-12-07 20:40:05 | [angular/web-codegen-scorer](https://github.com/angular/web-codegen-scorer) | ✅ full (587⭐ TypeScript) | [reels/reel_2015_angular-web-codegen-scorer](reels/reel_2015_angular-web-codegen-scorer) |
+| 2016 | 2025-12-07 20:49:47 | [GH05TCREW/ghostcrew](https://github.com/GH05TCREW/ghostcrew) | ✅ full (492⭐ Python) | [reels/reel_2016_GH05TCREW-ghostcrew](reels/reel_2016_GH05TCREW-ghostcrew) |
