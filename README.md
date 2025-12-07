@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1997 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-07 |
+| #1998 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2063,3 +2063,4 @@ Or let GitHub Action run it automatically.
 | 1995 | 2025-12-07 13:49:43 | [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | ✅ full (232⭐ PHP) | [reels/reel_1995_lara-zeus-bolt](reels/reel_1995_lara-zeus-bolt) |
 | 1996 | 2025-12-07 14:15:51 | [romange/midi-redis](https://github.com/romange/midi-redis) | ✅ full (36⭐ C++) | [reels/reel_1996_romange-midi-redis](reels/reel_1996_romange-midi-redis) |
 | 1997 | 2025-12-07 14:39:39 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139063⭐ Python) | [reels/reel_1997_ytdl-org-youtube-dl](reels/reel_1997_ytdl-org-youtube-dl) |
+| 1998 | 2025-12-07 14:49:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140418⭐ Python) | [reels/reel_1998_langflow-ai-langflow](reels/reel_1998_langflow-ai-langflow) |
