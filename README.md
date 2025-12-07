@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1979 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-07 |
+| #1980 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2045,3 +2045,4 @@ Or let GitHub Action run it automatically.
 | 1977 | 2025-12-07 07:36:58 | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | ✅ shallow (241⭐ YAML) | [reels/reel_1977_aquaproj-aqua-registry](reels/reel_1977_aquaproj-aqua-registry) |
 | 1978 | 2025-12-07 07:50:12 | [Copycord/Copycord](https://github.com/Copycord/Copycord) | ✅ full (359⭐ Python) | [reels/reel_1978_Copycord-Copycord](reels/reel_1978_Copycord-Copycord) |
 | 1979 | 2025-12-07 08:22:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261845⭐ None) | [reels/reel_1979_awesome-selfhosted-awesome-selfhosted](reels/reel_1979_awesome-selfhosted-awesome-selfhosted) |
+| 1980 | 2025-12-07 08:44:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140392⭐ Python) | [reels/reel_1980_langflow-ai-langflow](reels/reel_1980_langflow-ai-langflow) |
