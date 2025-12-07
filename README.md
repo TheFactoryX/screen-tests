@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #1978 | [Copycord/Copycord](https://github.com/Copycord/Copycord) | Python · ⭐ 359 | 2025-12-07 |
+| #1979 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-07 |
 ---
 
 ## 🎭 Selection Process
@@ -2044,3 +2044,4 @@ Or let GitHub Action run it automatically.
 | 1976 | 2025-12-07 07:16:54 | [Phobos-developers/Phobos](https://github.com/Phobos-developers/Phobos) | ✅ shallow (388⭐ C++) | [reels/reel_1976_Phobos-developers-Phobos](reels/reel_1976_Phobos-developers-Phobos) |
 | 1977 | 2025-12-07 07:36:58 | [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) | ✅ shallow (241⭐ YAML) | [reels/reel_1977_aquaproj-aqua-registry](reels/reel_1977_aquaproj-aqua-registry) |
 | 1978 | 2025-12-07 07:50:12 | [Copycord/Copycord](https://github.com/Copycord/Copycord) | ✅ full (359⭐ Python) | [reels/reel_1978_Copycord-Copycord](reels/reel_1978_Copycord-Copycord) |
+| 1979 | 2025-12-07 08:22:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261845⭐ None) | [reels/reel_1979_awesome-selfhosted-awesome-selfhosted](reels/reel_1979_awesome-selfhosted-awesome-selfhosted) |
