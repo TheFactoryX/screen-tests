@@ -1,0 +1,24 @@
+{
+  "reel_number": 2059,
+  "recorded": "2025-12-08 18:29:11 UTC",
+  "repository": {
+    "full_name": "globus/globus-compute",
+    "url": "https://github.com/globus/globus-compute",
+    "clone_url": "https://github.com/globus/globus-compute.git",
+    "stars": 157,
+    "language": "Python",
+    "size_kb": 28113
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 1.406546
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 157 stars."
+  }
+}
