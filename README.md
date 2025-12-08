@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2070 | [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) | TypeScript · ⭐ 152 | 2025-12-08 |
+| #2071 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2136,3 +2136,4 @@ Or let GitHub Action run it automatically.
 | 2068 | 2025-12-08 21:37:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180176⭐ Python) | [reels/reel_2068_Significant-Gravitas-AutoGPT](reels/reel_2068_Significant-Gravitas-AutoGPT) |
 | 2069 | 2025-12-08 21:50:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104733⭐ TypeScript) | [reels/reel_2069_iptv-org-iptv](reels/reel_2069_iptv-org-iptv) |
 | 2070 | 2025-12-08 22:18:10 | [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) | ✅ full (152⭐ TypeScript) | [reels/reel_2070_mylukin-agent-foreman](reels/reel_2070_mylukin-agent-foreman) |
+| 2071 | 2025-12-08 22:42:24 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99749⭐ Rust) | [reels/reel_2071_tauri-apps-tauri](reels/reel_2071_tauri-apps-tauri) |
