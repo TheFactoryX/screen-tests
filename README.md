@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2074 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 447k | 2025-12-08 |
+| #2075 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | TypeScript · ⭐ 227 | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2140,3 +2140,4 @@ Or let GitHub Action run it automatically.
 | 2072 | 2025-12-08 22:52:21 | [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) | ✅ full (230⭐ PHP) | [reels/reel_2072_stuttter-wp-multi-network](reels/reel_2072_stuttter-wp-multi-network) |
 | 2073 | 2025-12-08 23:18:05 | [Avdpro/ai2apps](https://github.com/Avdpro/ai2apps) | ✅ shallow (439⭐ JavaScript) | [reels/reel_2073_Avdpro-ai2apps](reels/reel_2073_Avdpro-ai2apps) |
 | 2074 | 2025-12-08 23:39:14 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (447457⭐ Markdown) | [reels/reel_2074_codecrafters-io-build-your-own-x](reels/reel_2074_codecrafters-io-build-your-own-x) |
+| 2075 | 2025-12-08 23:49:41 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | ✅ full (227⭐ TypeScript) | [reels/reel_2075_modelcontextprotocol-ext-apps](reels/reel_2075_modelcontextprotocol-ext-apps) |

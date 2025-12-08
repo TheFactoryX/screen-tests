@@ -1,0 +1,24 @@
+{
+  "reel_number": 2075,
+  "recorded": "2025-12-08 23:49:41 UTC",
+  "repository": {
+    "full_name": "modelcontextprotocol/ext-apps",
+    "url": "https://github.com/modelcontextprotocol/ext-apps",
+    "clone_url": "https://github.com/modelcontextprotocol/ext-apps.git",
+    "stars": 227,
+    "language": "TypeScript",
+    "size_kb": 2512
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.516407
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 227 stars."
+  }
+}
