@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2029 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-08 |
+| #2030 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2095,3 +2095,4 @@ Or let GitHub Action run it automatically.
 | 2027 | 2025-12-08 01:25:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261951⭐ None) | [reels/reel_2027_awesome-selfhosted-awesome-selfhosted](reels/reel_2027_awesome-selfhosted-awesome-selfhosted) |
 | 2028 | 2025-12-08 03:07:13 | [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) | ✅ readme_only (683⭐ None) | [reels/reel_2028_roosterkid-openproxylist](reels/reel_2028_roosterkid-openproxylist) |
 | 2029 | 2025-12-08 04:02:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121359⭐ Python) | [reels/reel_2029_langchain-ai-langchain](reels/reel_2029_langchain-ai-langchain) |
+| 2030 | 2025-12-08 04:46:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99712⭐ Rust) | [reels/reel_2030_tauri-apps-tauri](reels/reel_2030_tauri-apps-tauri) |
