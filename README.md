@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2040 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | C# · ⭐ 91k | 2025-12-08 |
+| #2041 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2106,3 +2106,4 @@ Or let GitHub Action run it automatically.
 | 2038 | 2025-12-08 08:55:45 | [FabianaCampanari/University-Python-Projects](https://github.com/FabianaCampanari/University-Python-Projects) | ✅ full (15⭐ Python) | [reels/reel_2038_FabianaCampanari-University-Python-Projects](reels/reel_2038_FabianaCampanari-University-Python-Projects) |
 | 2039 | 2025-12-08 09:27:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140488⭐ Python) | [reels/reel_2039_langflow-ai-langflow](reels/reel_2039_langflow-ai-langflow) |
 | 2040 | 2025-12-08 09:50:35 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | ✅ full (91765⭐ C#) | [reels/reel_2040_2dust-v2rayN](reels/reel_2040_2dust-v2rayN) |
+| 2041 | 2025-12-08 10:21:34 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100873⭐ Shell) | [reels/reel_2041_papers-we-love-papers-we-love](reels/reel_2041_papers-we-love-papers-we-love) |
