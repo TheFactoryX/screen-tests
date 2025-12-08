@@ -1,0 +1,24 @@
+{
+  "reel_number": 2072,
+  "recorded": "2025-12-08 22:52:21 UTC",
+  "repository": {
+    "full_name": "stuttter/wp-multi-network",
+    "url": "https://github.com/stuttter/wp-multi-network",
+    "clone_url": "https://github.com/stuttter/wp-multi-network.git",
+    "stars": 230,
+    "language": "PHP",
+    "size_kb": 938
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.71386
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 230 stars."
+  }
+}
