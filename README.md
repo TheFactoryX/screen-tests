@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2049 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-08 |
+| #2050 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2115,3 +2115,4 @@ Or let GitHub Action run it automatically.
 | 2047 | 2025-12-08 13:23:16 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99730⭐ Rust) | [reels/reel_2047_tauri-apps-tauri](reels/reel_2047_tauri-apps-tauri) |
 | 2048 | 2025-12-08 13:51:29 | [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) | ✅ full (1611⭐ JavaScript) | [reels/reel_2048_glidea-banana-prompt-quicker](reels/reel_2048_glidea-banana-prompt-quicker) |
 | 2049 | 2025-12-08 14:20:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180173⭐ Python) | [reels/reel_2049_Significant-Gravitas-AutoGPT](reels/reel_2049_Significant-Gravitas-AutoGPT) |
+| 2050 | 2025-12-08 14:46:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104722⭐ TypeScript) | [reels/reel_2050_iptv-org-iptv](reels/reel_2050_iptv-org-iptv) |
