@@ -1,0 +1,24 @@
+{
+  "reel_number": 2028,
+  "recorded": "2025-12-08 03:07:13 UTC",
+  "repository": {
+    "full_name": "roosterkid/openproxylist",
+    "url": "https://github.com/roosterkid/openproxylist",
+    "clone_url": "https://github.com/roosterkid/openproxylist.git",
+    "stars": 683,
+    "language": null,
+    "size_kb": 977685
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 954,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 683 stars."
+  }
+}

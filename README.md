@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2027 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-08 |
+| #2028 | [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) | None · ⭐ 683 | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2093,3 +2093,4 @@ Or let GitHub Action run it automatically.
 | 2025 | 2025-12-07 23:37:21 | [charliie-dev/nvimdots.lua](https://github.com/charliie-dev/nvimdots.lua) | ✅ full (129⭐ Lua) | [reels/reel_2025_charliie-dev-nvimdots.lua](reels/reel_2025_charliie-dev-nvimdots.lua) |
 | 2026 | 2025-12-07 23:49:51 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108330⭐ Rust) | [reels/reel_2026_rust-lang-rust](reels/reel_2026_rust-lang-rust) |
 | 2027 | 2025-12-08 01:25:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261951⭐ None) | [reels/reel_2027_awesome-selfhosted-awesome-selfhosted](reels/reel_2027_awesome-selfhosted-awesome-selfhosted) |
+| 2028 | 2025-12-08 03:07:13 | [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) | ✅ readme_only (683⭐ None) | [reels/reel_2028_roosterkid-openproxylist](reels/reel_2028_roosterkid-openproxylist) |
