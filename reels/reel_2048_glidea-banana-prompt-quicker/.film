@@ -1,0 +1,24 @@
+{
+  "reel_number": 2048,
+  "recorded": "2025-12-08 13:51:29 UTC",
+  "repository": {
+    "full_name": "glidea/banana-prompt-quicker",
+    "url": "https://github.com/glidea/banana-prompt-quicker",
+    "clone_url": "https://github.com/glidea/banana-prompt-quicker.git",
+    "stars": 1611,
+    "language": "JavaScript",
+    "size_kb": 21496
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 0.889351
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 1611 stars."
+  }
+}
