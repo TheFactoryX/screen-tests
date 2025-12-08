@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2034 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 252 | 2025-12-08 |
+| #2035 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2100,3 +2100,4 @@ Or let GitHub Action run it automatically.
 | 2032 | 2025-12-08 05:45:17 | [iedr/goodfirstissues](https://github.com/iedr/goodfirstissues) | ✅ shallow (398⭐ JavaScript) | [reels/reel_2032_iedr-goodfirstissues](reels/reel_2032_iedr-goodfirstissues) |
 | 2033 | 2025-12-08 06:32:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140475⭐ Python) | [reels/reel_2033_langflow-ai-langflow](reels/reel_2033_langflow-ai-langflow) |
 | 2034 | 2025-12-08 07:01:17 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (252⭐ None) | [reels/reel_2034_hello-world-1989-cn-news](reels/reel_2034_hello-world-1989-cn-news) |
+| 2035 | 2025-12-08 07:34:35 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96898⭐ TypeScript) | [reels/reel_2035_ant-design-ant-design](reels/reel_2035_ant-design-ant-design) |
