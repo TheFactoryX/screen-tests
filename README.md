@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2057 | [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) | TypeScript · ⭐ 334 | 2025-12-08 |
+| #2058 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2123,3 +2123,4 @@ Or let GitHub Action run it automatically.
 | 2055 | 2025-12-08 16:52:58 | [newrelic/node-newrelic](https://github.com/newrelic/node-newrelic) | ✅ full (997⭐ JavaScript) | [reels/reel_2055_newrelic-node-newrelic](reels/reel_2055_newrelic-node-newrelic) |
 | 2056 | 2025-12-08 17:18:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180176⭐ Python) | [reels/reel_2056_Significant-Gravitas-AutoGPT](reels/reel_2056_Significant-Gravitas-AutoGPT) |
 | 2057 | 2025-12-08 17:43:29 | [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) | ✅ shallow (334⭐ TypeScript) | [reels/reel_2057_Esri-calcite-design-system](reels/reel_2057_Esri-calcite-design-system) |
+| 2058 | 2025-12-08 17:53:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262073⭐ None) | [reels/reel_2058_awesome-selfhosted-awesome-selfhosted](reels/reel_2058_awesome-selfhosted-awesome-selfhosted) |
