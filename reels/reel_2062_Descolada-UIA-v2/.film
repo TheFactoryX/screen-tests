@@ -1,0 +1,24 @@
+{
+  "reel_number": 2062,
+  "recorded": "2025-12-08 19:38:07 UTC",
+  "repository": {
+    "full_name": "Descolada/UIA-v2",
+    "url": "https://github.com/Descolada/UIA-v2",
+    "clone_url": "https://github.com/Descolada/UIA-v2.git",
+    "stars": 342,
+    "language": "AutoHotkey",
+    "size_kb": 461
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.260222
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "AutoHotkey",
+    "director_note": "A AutoHotkey repository. 342 stars."
+  }
+}
