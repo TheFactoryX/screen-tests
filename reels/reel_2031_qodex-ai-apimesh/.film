@@ -1,0 +1,24 @@
+{
+  "reel_number": 2031,
+  "recorded": "2025-12-08 05:20:41 UTC",
+  "repository": {
+    "full_name": "qodex-ai/apimesh",
+    "url": "https://github.com/qodex-ai/apimesh",
+    "clone_url": "https://github.com/qodex-ai/apimesh.git",
+    "stars": 201,
+    "language": "Python",
+    "size_kb": 822
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.185615
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 201 stars."
+  }
+}
