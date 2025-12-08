@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2042 | [duckdb/community-extensions](https://github.com/duckdb/community-extensions) | Shell · ⭐ 274 | 2025-12-08 |
+| #2043 | [praha-inc/byethrow](https://github.com/praha-inc/byethrow) | TypeScript · ⭐ 186 | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2108,3 +2108,4 @@ Or let GitHub Action run it automatically.
 | 2040 | 2025-12-08 09:50:35 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | ✅ full (91765⭐ C#) | [reels/reel_2040_2dust-v2rayN](reels/reel_2040_2dust-v2rayN) |
 | 2041 | 2025-12-08 10:21:34 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100873⭐ Shell) | [reels/reel_2041_papers-we-love-papers-we-love](reels/reel_2041_papers-we-love-papers-we-love) |
 | 2042 | 2025-12-08 10:47:48 | [duckdb/community-extensions](https://github.com/duckdb/community-extensions) | ✅ full (274⭐ Shell) | [reels/reel_2042_duckdb-community-extensions](reels/reel_2042_duckdb-community-extensions) |
+| 2043 | 2025-12-08 11:17:11 | [praha-inc/byethrow](https://github.com/praha-inc/byethrow) | ✅ full (186⭐ TypeScript) | [reels/reel_2043_praha-inc-byethrow](reels/reel_2043_praha-inc-byethrow) |

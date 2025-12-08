@@ -1,0 +1,24 @@
+{
+  "reel_number": 2043,
+  "recorded": "2025-12-08 11:17:11 UTC",
+  "repository": {
+    "full_name": "praha-inc/byethrow",
+    "url": "https://github.com/praha-inc/byethrow",
+    "clone_url": "https://github.com/praha-inc/byethrow.git",
+    "stars": 186,
+    "language": "TypeScript",
+    "size_kb": 1312
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.337861
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 186 stars."
+  }
+}
