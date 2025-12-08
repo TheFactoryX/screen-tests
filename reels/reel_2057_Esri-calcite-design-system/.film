@@ -1,0 +1,24 @@
+{
+  "reel_number": 2057,
+  "recorded": "2025-12-08 17:43:29 UTC",
+  "repository": {
+    "full_name": "Esri/calcite-design-system",
+    "url": "https://github.com/Esri/calcite-design-system",
+    "clone_url": "https://github.com/Esri/calcite-design-system.git",
+    "stars": 334,
+    "language": "TypeScript",
+    "size_kb": 410238
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 400,
+    "duration_seconds": 1.287478
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 334 stars."
+  }
+}

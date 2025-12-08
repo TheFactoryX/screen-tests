@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2056 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-08 |
+| #2057 | [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) | TypeScript · ⭐ 334 | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2122,3 +2122,4 @@ Or let GitHub Action run it automatically.
 | 2054 | 2025-12-08 16:25:55 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117259⭐ Svelte) | [reels/reel_2054_open-webui-open-webui](reels/reel_2054_open-webui-open-webui) |
 | 2055 | 2025-12-08 16:52:58 | [newrelic/node-newrelic](https://github.com/newrelic/node-newrelic) | ✅ full (997⭐ JavaScript) | [reels/reel_2055_newrelic-node-newrelic](reels/reel_2055_newrelic-node-newrelic) |
 | 2056 | 2025-12-08 17:18:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180176⭐ Python) | [reels/reel_2056_Significant-Gravitas-AutoGPT](reels/reel_2056_Significant-Gravitas-AutoGPT) |
+| 2057 | 2025-12-08 17:43:29 | [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) | ✅ shallow (334⭐ TypeScript) | [reels/reel_2057_Esri-calcite-design-system](reels/reel_2057_Esri-calcite-design-system) |
