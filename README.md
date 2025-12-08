@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2039 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-08 |
+| #2040 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | C# · ⭐ 91k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2105,3 +2105,4 @@ Or let GitHub Action run it automatically.
 | 2037 | 2025-12-08 08:29:01 | [skanehira/yui](https://github.com/skanehira/yui) | ✅ full (12⭐ Rust) | [reels/reel_2037_skanehira-yui](reels/reel_2037_skanehira-yui) |
 | 2038 | 2025-12-08 08:55:45 | [FabianaCampanari/University-Python-Projects](https://github.com/FabianaCampanari/University-Python-Projects) | ✅ full (15⭐ Python) | [reels/reel_2038_FabianaCampanari-University-Python-Projects](reels/reel_2038_FabianaCampanari-University-Python-Projects) |
 | 2039 | 2025-12-08 09:27:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140488⭐ Python) | [reels/reel_2039_langflow-ai-langflow](reels/reel_2039_langflow-ai-langflow) |
+| 2040 | 2025-12-08 09:50:35 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | ✅ full (91765⭐ C#) | [reels/reel_2040_2dust-v2rayN](reels/reel_2040_2dust-v2rayN) |
