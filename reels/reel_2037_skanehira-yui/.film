@@ -1,0 +1,24 @@
+{
+  "reel_number": 2037,
+  "recorded": "2025-12-08 08:29:01 UTC",
+  "repository": {
+    "full_name": "skanehira/yui",
+    "url": "https://github.com/skanehira/yui",
+    "clone_url": "https://github.com/skanehira/yui.git",
+    "stars": 12,
+    "language": "Rust",
+    "size_kb": 153
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.472388
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 12 stars."
+  }
+}
