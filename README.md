@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2045 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 137k | 2025-12-08 |
+| #2046 | [2BAD/bitrix](https://github.com/2BAD/bitrix) | TypeScript · ⭐ 113 | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2111,3 +2111,4 @@ Or let GitHub Action run it automatically.
 | 2043 | 2025-12-08 11:17:11 | [praha-inc/byethrow](https://github.com/praha-inc/byethrow) | ✅ full (186⭐ TypeScript) | [reels/reel_2043_praha-inc-byethrow](reels/reel_2043_praha-inc-byethrow) |
 | 2044 | 2025-12-08 11:39:28 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104719⭐ TypeScript) | [reels/reel_2044_iptv-org-iptv](reels/reel_2044_iptv-org-iptv) |
 | 2045 | 2025-12-08 11:50:29 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137506⭐ Python) | [reels/reel_2045_yt-dlp-yt-dlp](reels/reel_2045_yt-dlp-yt-dlp) |
+| 2046 | 2025-12-08 12:39:28 | [2BAD/bitrix](https://github.com/2BAD/bitrix) | ✅ full (113⭐ TypeScript) | [reels/reel_2046_2BAD-bitrix](reels/reel_2046_2BAD-bitrix) |
