@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2063 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-08 |
+| #2064 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2129,3 +2129,4 @@ Or let GitHub Action run it automatically.
 | 2061 | 2025-12-08 19:16:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101436⭐ TypeScript) | [reels/reel_2061_shadcn-ui-ui](reels/reel_2061_shadcn-ui-ui) |
 | 2062 | 2025-12-08 19:38:07 | [Descolada/UIA-v2](https://github.com/Descolada/UIA-v2) | ✅ full (342⭐ AutoHotkey) | [reels/reel_2062_Descolada-UIA-v2](reels/reel_2062_Descolada-UIA-v2) |
 | 2063 | 2025-12-08 19:50:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108350⭐ Rust) | [reels/reel_2063_rust-lang-rust](reels/reel_2063_rust-lang-rust) |
+| 2064 | 2025-12-08 20:21:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262086⭐ None) | [reels/reel_2064_awesome-selfhosted-awesome-selfhosted](reels/reel_2064_awesome-selfhosted-awesome-selfhosted) |
