@@ -1,0 +1,24 @@
+{
+  "reel_number": 2032,
+  "recorded": "2025-12-08 05:45:17 UTC",
+  "repository": {
+    "full_name": "iedr/goodfirstissues",
+    "url": "https://github.com/iedr/goodfirstissues",
+    "clone_url": "https://github.com/iedr/goodfirstissues.git",
+    "stars": 398,
+    "language": "JavaScript",
+    "size_kb": 376684
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 367,
+    "duration_seconds": 0.530557
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 398 stars."
+  }
+}
