@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2065 | [sp1187/veesem](https://github.com/sp1187/veesem) | C++ · ⭐ 27 | 2025-12-08 |
+| #2066 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2131,3 +2131,4 @@ Or let GitHub Action run it automatically.
 | 2063 | 2025-12-08 19:50:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108350⭐ Rust) | [reels/reel_2063_rust-lang-rust](reels/reel_2063_rust-lang-rust) |
 | 2064 | 2025-12-08 20:21:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262086⭐ None) | [reels/reel_2064_awesome-selfhosted-awesome-selfhosted](reels/reel_2064_awesome-selfhosted-awesome-selfhosted) |
 | 2065 | 2025-12-08 20:44:11 | [sp1187/veesem](https://github.com/sp1187/veesem) | ✅ full (27⭐ C++) | [reels/reel_2065_sp1187-veesem](reels/reel_2065_sp1187-veesem) |
+| 2066 | 2025-12-08 20:55:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121423⭐ Python) | [reels/reel_2066_langchain-ai-langchain](reels/reel_2066_langchain-ai-langchain) |
