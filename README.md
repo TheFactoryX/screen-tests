@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2059 | [globus/globus-compute](https://github.com/globus/globus-compute) | Python · ⭐ 157 | 2025-12-08 |
+| #2060 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2125,3 +2125,4 @@ Or let GitHub Action run it automatically.
 | 2057 | 2025-12-08 17:43:29 | [Esri/calcite-design-system](https://github.com/Esri/calcite-design-system) | ✅ shallow (334⭐ TypeScript) | [reels/reel_2057_Esri-calcite-design-system](reels/reel_2057_Esri-calcite-design-system) |
 | 2058 | 2025-12-08 17:53:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262073⭐ None) | [reels/reel_2058_awesome-selfhosted-awesome-selfhosted](reels/reel_2058_awesome-selfhosted-awesome-selfhosted) |
 | 2059 | 2025-12-08 18:29:11 | [globus/globus-compute](https://github.com/globus/globus-compute) | ✅ full (157⭐ Python) | [reels/reel_2059_globus-globus-compute](reels/reel_2059_globus-globus-compute) |
+| 2060 | 2025-12-08 18:52:57 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121418⭐ Python) | [reels/reel_2060_langchain-ai-langchain](reels/reel_2060_langchain-ai-langchain) |
