@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2052 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-08 |
+| #2053 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2118,3 +2118,4 @@ Or let GitHub Action run it automatically.
 | 2050 | 2025-12-08 14:46:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104722⭐ TypeScript) | [reels/reel_2050_iptv-org-iptv](reels/reel_2050_iptv-org-iptv) |
 | 2051 | 2025-12-08 15:21:05 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96907⭐ TypeScript) | [reels/reel_2051_ant-design-ant-design](reels/reel_2051_ant-design-ant-design) |
 | 2052 | 2025-12-08 15:42:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108339⭐ Rust) | [reels/reel_2052_rust-lang-rust](reels/reel_2052_rust-lang-rust) |
+| 2053 | 2025-12-08 15:53:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121407⭐ Python) | [reels/reel_2053_langchain-ai-langchain](reels/reel_2053_langchain-ai-langchain) |
