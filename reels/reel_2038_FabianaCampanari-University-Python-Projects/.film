@@ -1,0 +1,24 @@
+{
+  "reel_number": 2038,
+  "recorded": "2025-12-08 08:55:45 UTC",
+  "repository": {
+    "full_name": "FabianaCampanari/University-Python-Projects",
+    "url": "https://github.com/FabianaCampanari/University-Python-Projects",
+    "clone_url": "https://github.com/FabianaCampanari/University-Python-Projects.git",
+    "stars": 15,
+    "language": "Python",
+    "size_kb": 871
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.620497
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 15 stars."
+  }
+}

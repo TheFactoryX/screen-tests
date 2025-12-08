@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2037 | [skanehira/yui](https://github.com/skanehira/yui) | Rust · ⭐ 12 | 2025-12-08 |
+| #2038 | [FabianaCampanari/University-Python-Projects](https://github.com/FabianaCampanari/University-Python-Projects) | Python · ⭐ 15 | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2103,3 +2103,4 @@ Or let GitHub Action run it automatically.
 | 2035 | 2025-12-08 07:34:35 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96898⭐ TypeScript) | [reels/reel_2035_ant-design-ant-design](reels/reel_2035_ant-design-ant-design) |
 | 2036 | 2025-12-08 07:51:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262002⭐ None) | [reels/reel_2036_awesome-selfhosted-awesome-selfhosted](reels/reel_2036_awesome-selfhosted-awesome-selfhosted) |
 | 2037 | 2025-12-08 08:29:01 | [skanehira/yui](https://github.com/skanehira/yui) | ✅ full (12⭐ Rust) | [reels/reel_2037_skanehira-yui](reels/reel_2037_skanehira-yui) |
+| 2038 | 2025-12-08 08:55:45 | [FabianaCampanari/University-Python-Projects](https://github.com/FabianaCampanari/University-Python-Projects) | ✅ full (15⭐ Python) | [reels/reel_2038_FabianaCampanari-University-Python-Projects](reels/reel_2038_FabianaCampanari-University-Python-Projects) |
