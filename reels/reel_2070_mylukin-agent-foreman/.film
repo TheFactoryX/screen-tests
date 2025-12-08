@@ -1,0 +1,24 @@
+{
+  "reel_number": 2070,
+  "recorded": "2025-12-08 22:18:10 UTC",
+  "repository": {
+    "full_name": "mylukin/agent-foreman",
+    "url": "https://github.com/mylukin/agent-foreman",
+    "clone_url": "https://github.com/mylukin/agent-foreman.git",
+    "stars": 152,
+    "language": "TypeScript",
+    "size_kb": 1038
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.249746
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 152 stars."
+  }
+}

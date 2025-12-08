@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2069 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-08 |
+| #2070 | [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) | TypeScript · ⭐ 152 | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2135,3 +2135,4 @@ Or let GitHub Action run it automatically.
 | 2067 | 2025-12-08 21:16:26 | [flipcomputing/flock](https://github.com/flipcomputing/flock) | ✅ shallow (20⭐ JavaScript) | [reels/reel_2067_flipcomputing-flock](reels/reel_2067_flipcomputing-flock) |
 | 2068 | 2025-12-08 21:37:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180176⭐ Python) | [reels/reel_2068_Significant-Gravitas-AutoGPT](reels/reel_2068_Significant-Gravitas-AutoGPT) |
 | 2069 | 2025-12-08 21:50:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104733⭐ TypeScript) | [reels/reel_2069_iptv-org-iptv](reels/reel_2069_iptv-org-iptv) |
+| 2070 | 2025-12-08 22:18:10 | [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) | ✅ full (152⭐ TypeScript) | [reels/reel_2070_mylukin-agent-foreman](reels/reel_2070_mylukin-agent-foreman) |
