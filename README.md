@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2026 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-07 |
+| #2027 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 261k | 2025-12-08 |
 ---
 
 ## 🎭 Selection Process
@@ -2092,3 +2092,4 @@ Or let GitHub Action run it automatically.
 | 2024 | 2025-12-07 23:16:30 | [Naval-Base/yuudachi](https://github.com/Naval-Base/yuudachi) | ✅ full (284⭐ TypeScript) | [reels/reel_2024_Naval-Base-yuudachi](reels/reel_2024_Naval-Base-yuudachi) |
 | 2025 | 2025-12-07 23:37:21 | [charliie-dev/nvimdots.lua](https://github.com/charliie-dev/nvimdots.lua) | ✅ full (129⭐ Lua) | [reels/reel_2025_charliie-dev-nvimdots.lua](reels/reel_2025_charliie-dev-nvimdots.lua) |
 | 2026 | 2025-12-07 23:49:51 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108330⭐ Rust) | [reels/reel_2026_rust-lang-rust](reels/reel_2026_rust-lang-rust) |
+| 2027 | 2025-12-08 01:25:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (261951⭐ None) | [reels/reel_2027_awesome-selfhosted-awesome-selfhosted](reels/reel_2027_awesome-selfhosted-awesome-selfhosted) |
