@@ -1,0 +1,24 @@
+{
+  "reel_number": 2118,
+  "recorded": "2025-12-09 20:19:33 UTC",
+  "repository": {
+    "full_name": "dahlend/kete",
+    "url": "https://github.com/dahlend/kete",
+    "clone_url": "https://github.com/dahlend/kete.git",
+    "stars": 119,
+    "language": "Rust",
+    "size_kb": 245849
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 240,
+    "duration_seconds": 2.456065
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 119 stars."
+  }
+}
