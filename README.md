@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2075 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | TypeScript · ⭐ 227 | 2025-12-08 |
+| #2076 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2141,3 +2141,4 @@ Or let GitHub Action run it automatically.
 | 2073 | 2025-12-08 23:18:05 | [Avdpro/ai2apps](https://github.com/Avdpro/ai2apps) | ✅ shallow (439⭐ JavaScript) | [reels/reel_2073_Avdpro-ai2apps](reels/reel_2073_Avdpro-ai2apps) |
 | 2074 | 2025-12-08 23:39:14 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (447457⭐ Markdown) | [reels/reel_2074_codecrafters-io-build-your-own-x](reels/reel_2074_codecrafters-io-build-your-own-x) |
 | 2075 | 2025-12-08 23:49:41 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | ✅ full (227⭐ TypeScript) | [reels/reel_2075_modelcontextprotocol-ext-apps](reels/reel_2075_modelcontextprotocol-ext-apps) |
+| 2076 | 2025-12-09 01:24:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101444⭐ TypeScript) | [reels/reel_2076_shadcn-ui-ui](reels/reel_2076_shadcn-ui-ui) |
