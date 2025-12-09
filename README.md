@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2109 | [mozilla/experimenter](https://github.com/mozilla/experimenter) | Python · ⭐ 139 | 2025-12-09 |
+| #2110 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2175,3 +2175,4 @@ Or let GitHub Action run it automatically.
 | 2107 | 2025-12-09 16:25:21 | [MrPYTHONI/bugscan-mr](https://github.com/MrPYTHONI/bugscan-mr) | ✅ full (13⭐ Python) | [reels/reel_2107_MrPYTHONI-bugscan-mr](reels/reel_2107_MrPYTHONI-bugscan-mr) |
 | 2108 | 2025-12-09 16:51:20 | [mintlify/docs](https://github.com/mintlify/docs) | ✅ shallow (300⭐ MDX) | [reels/reel_2108_mintlify-docs](reels/reel_2108_mintlify-docs) |
 | 2109 | 2025-12-09 17:19:22 | [mozilla/experimenter](https://github.com/mozilla/experimenter) | ✅ full (139⭐ Python) | [reels/reel_2109_mozilla-experimenter](reels/reel_2109_mozilla-experimenter) |
+| 2110 | 2025-12-09 17:43:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262225⭐ None) | [reels/reel_2110_awesome-selfhosted-awesome-selfhosted](reels/reel_2110_awesome-selfhosted-awesome-selfhosted) |
