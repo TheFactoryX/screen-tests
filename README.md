@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2113 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-09 |
+| #2114 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | Python · ⭐ 5k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2179,3 +2179,4 @@ Or let GitHub Action run it automatically.
 | 2111 | 2025-12-09 17:54:48 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161571⭐ TypeScript) | [reels/reel_2111_n8n-io-n8n](reels/reel_2111_n8n-io-n8n) |
 | 2112 | 2025-12-09 18:24:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140629⭐ Python) | [reels/reel_2112_langflow-ai-langflow](reels/reel_2112_langflow-ai-langflow) |
 | 2113 | 2025-12-09 18:50:31 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96917⭐ TypeScript) | [reels/reel_2113_ant-design-ant-design](reels/reel_2113_ant-design-ant-design) |
+| 2114 | 2025-12-09 19:14:11 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | ✅ full (5394⭐ Python) | [reels/reel_2114_RapidAI-RapidOCR](reels/reel_2114_RapidAI-RapidOCR) |
