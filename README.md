@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2083 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-09 |
+| #2084 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 383k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2149,3 +2149,4 @@ Or let GitHub Action run it automatically.
 | 2081 | 2025-12-09 05:18:51 | [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) | ✅ full (623⭐ None) | [reels/reel_2081_mobilenetworkltd-openapk](reels/reel_2081_mobilenetworkltd-openapk) |
 | 2082 | 2025-12-09 05:43:39 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (383250⭐ Python) | [reels/reel_2082_public-apis-public-apis](reels/reel_2082_public-apis-public-apis) |
 | 2083 | 2025-12-09 05:53:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99763⭐ Rust) | [reels/reel_2083_tauri-apps-tauri](reels/reel_2083_tauri-apps-tauri) |
+| 2084 | 2025-12-09 06:30:39 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (383259⭐ Python) | [reels/reel_2084_public-apis-public-apis](reels/reel_2084_public-apis-public-apis) |
