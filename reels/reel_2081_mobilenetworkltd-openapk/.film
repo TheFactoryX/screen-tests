@@ -1,0 +1,24 @@
+{
+  "reel_number": 2081,
+  "recorded": "2025-12-09 05:18:51 UTC",
+  "repository": {
+    "full_name": "mobilenetworkltd/openapk",
+    "url": "https://github.com/mobilenetworkltd/openapk",
+    "clone_url": "https://github.com/mobilenetworkltd/openapk.git",
+    "stars": 623,
+    "language": null,
+    "size_kb": 5521
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.132897
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 623 stars."
+  }
+}
