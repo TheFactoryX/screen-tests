@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2122 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-12-09 |
+| #2123 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2188,3 +2188,4 @@ Or let GitHub Action run it automatically.
 | 2120 | 2025-12-09 20:49:54 | [microsoft/teams-sdk](https://github.com/microsoft/teams-sdk) | ✅ full (659⭐ MDX) | [reels/reel_2120_microsoft-teams-sdk](reels/reel_2120_microsoft-teams-sdk) |
 | 2121 | 2025-12-09 21:16:28 | [authzed/playground](https://github.com/authzed/playground) | ✅ full (56⭐ TypeScript) | [reels/reel_2121_authzed-playground](reels/reel_2121_authzed-playground) |
 | 2122 | 2025-12-09 21:39:33 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100915⭐ Shell) | [reels/reel_2122_papers-we-love-papers-we-love](reels/reel_2122_papers-we-love-papers-we-love) |
+| 2123 | 2025-12-09 21:50:01 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180190⭐ Python) | [reels/reel_2123_Significant-Gravitas-AutoGPT](reels/reel_2123_Significant-Gravitas-AutoGPT) |
