@@ -1,0 +1,24 @@
+{
+  "reel_number": 2108,
+  "recorded": "2025-12-09 16:51:20 UTC",
+  "repository": {
+    "full_name": "mintlify/docs",
+    "url": "https://github.com/mintlify/docs",
+    "clone_url": "https://github.com/mintlify/docs.git",
+    "stars": 300,
+    "language": "MDX",
+    "size_kb": 148583
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 145,
+    "duration_seconds": 2.04617
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 300 stars."
+  }
+}

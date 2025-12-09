@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2107 | [MrPYTHONI/bugscan-mr](https://github.com/MrPYTHONI/bugscan-mr) | Python · ⭐ 13 | 2025-12-09 |
+| #2108 | [mintlify/docs](https://github.com/mintlify/docs) | MDX · ⭐ 300 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2173,3 +2173,4 @@ Or let GitHub Action run it automatically.
 | 2105 | 2025-12-09 15:43:52 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99784⭐ Rust) | [reels/reel_2105_tauri-apps-tauri](reels/reel_2105_tauri-apps-tauri) |
 | 2106 | 2025-12-09 15:54:49 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99784⭐ Rust) | [reels/reel_2106_tauri-apps-tauri](reels/reel_2106_tauri-apps-tauri) |
 | 2107 | 2025-12-09 16:25:21 | [MrPYTHONI/bugscan-mr](https://github.com/MrPYTHONI/bugscan-mr) | ✅ full (13⭐ Python) | [reels/reel_2107_MrPYTHONI-bugscan-mr](reels/reel_2107_MrPYTHONI-bugscan-mr) |
+| 2108 | 2025-12-09 16:51:20 | [mintlify/docs](https://github.com/mintlify/docs) | ✅ shallow (300⭐ MDX) | [reels/reel_2108_mintlify-docs](reels/reel_2108_mintlify-docs) |
