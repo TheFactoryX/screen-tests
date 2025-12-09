@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2097 | [huphtur/single-serving-sites](https://github.com/huphtur/single-serving-sites) | Liquid · ⭐ 41 | 2025-12-09 |
+| #2098 | [yamcs/yamcs](https://github.com/yamcs/yamcs) | Java · ⭐ 249 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2163,3 +2163,4 @@ Or let GitHub Action run it automatically.
 | 2095 | 2025-12-09 10:48:31 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96912⭐ TypeScript) | [reels/reel_2095_ant-design-ant-design](reels/reel_2095_ant-design-ant-design) |
 | 2096 | 2025-12-09 11:18:03 | [YuzakiKokuban/meta-hybrid_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) | ✅ full (152⭐ Rust) | [reels/reel_2096_YuzakiKokuban-meta-hybrid_mount](reels/reel_2096_YuzakiKokuban-meta-hybrid_mount) |
 | 2097 | 2025-12-09 11:39:32 | [huphtur/single-serving-sites](https://github.com/huphtur/single-serving-sites) | ✅ full (41⭐ Liquid) | [reels/reel_2097_huphtur-single-serving-sites](reels/reel_2097_huphtur-single-serving-sites) |
+| 2098 | 2025-12-09 11:49:58 | [yamcs/yamcs](https://github.com/yamcs/yamcs) | ✅ full (249⭐ Java) | [reels/reel_2098_yamcs-yamcs](reels/reel_2098_yamcs-yamcs) |
