@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2096 | [YuzakiKokuban/meta-hybrid_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) | Rust · ⭐ 152 | 2025-12-09 |
+| #2097 | [huphtur/single-serving-sites](https://github.com/huphtur/single-serving-sites) | Liquid · ⭐ 41 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2162,3 +2162,4 @@ Or let GitHub Action run it automatically.
 | 2094 | 2025-12-09 10:24:57 | [SmartArduino/DOIT_AI](https://github.com/SmartArduino/DOIT_AI) | ✅ full (161⭐ C++) | [reels/reel_2094_SmartArduino-DOIT_AI](reels/reel_2094_SmartArduino-DOIT_AI) |
 | 2095 | 2025-12-09 10:48:31 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96912⭐ TypeScript) | [reels/reel_2095_ant-design-ant-design](reels/reel_2095_ant-design-ant-design) |
 | 2096 | 2025-12-09 11:18:03 | [YuzakiKokuban/meta-hybrid_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) | ✅ full (152⭐ Rust) | [reels/reel_2096_YuzakiKokuban-meta-hybrid_mount](reels/reel_2096_YuzakiKokuban-meta-hybrid_mount) |
+| 2097 | 2025-12-09 11:39:32 | [huphtur/single-serving-sites](https://github.com/huphtur/single-serving-sites) | ✅ full (41⭐ Liquid) | [reels/reel_2097_huphtur-single-serving-sites](reels/reel_2097_huphtur-single-serving-sites) |

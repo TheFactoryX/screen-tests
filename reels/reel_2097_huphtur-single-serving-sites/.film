@@ -1,0 +1,24 @@
+{
+  "reel_number": 2097,
+  "recorded": "2025-12-09 11:39:32 UTC",
+  "repository": {
+    "full_name": "huphtur/single-serving-sites",
+    "url": "https://github.com/huphtur/single-serving-sites",
+    "clone_url": "https://github.com/huphtur/single-serving-sites.git",
+    "stars": 41,
+    "language": "Liquid",
+    "size_kb": 10898
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.971632
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Liquid",
+    "director_note": "A Liquid repository. 41 stars."
+  }
+}
