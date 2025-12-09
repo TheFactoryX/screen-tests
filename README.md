@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2127 | [BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot](https://github.com/BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot) | Python · ⭐ 265 | 2025-12-09 |
+| #2128 | [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | TypeScript · ⭐ 176 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2193,3 +2193,4 @@ Or let GitHub Action run it automatically.
 | 2125 | 2025-12-09 22:40:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137717⭐ Python) | [reels/reel_2125_yt-dlp-yt-dlp](reels/reel_2125_yt-dlp-yt-dlp) |
 | 2126 | 2025-12-09 22:50:06 | [capdevon/Archer-Game-Template2](https://github.com/capdevon/Archer-Game-Template2) | ✅ shallow (20⭐ Java) | [reels/reel_2126_capdevon-Archer-Game-Template2](reels/reel_2126_capdevon-Archer-Game-Template2) |
 | 2127 | 2025-12-09 23:18:37 | [BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot](https://github.com/BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot) | ✅ full (265⭐ Python) | [reels/reel_2127_BEDOLAGA-DEV-remnawave-bedolaga-telegram-bot](reels/reel_2127_BEDOLAGA-DEV-remnawave-bedolaga-telegram-bot) |
+| 2128 | 2025-12-09 23:37:47 | [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | ✅ shallow (176⭐ TypeScript) | [reels/reel_2128_speakeasy-api-gram](reels/reel_2128_speakeasy-api-gram) |
