@@ -1,0 +1,24 @@
+{
+  "reel_number": 2099,
+  "recorded": "2025-12-09 12:40:53 UTC",
+  "repository": {
+    "full_name": "11notes/docker-traefik",
+    "url": "https://github.com/11notes/docker-traefik",
+    "clone_url": "https://github.com/11notes/docker-traefik.git",
+    "stars": 129,
+    "language": "Dockerfile",
+    "size_kb": 289
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.154965
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dockerfile",
+    "director_note": "A Dockerfile repository. 129 stars."
+  }
+}
