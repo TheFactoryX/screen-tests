@@ -1,0 +1,24 @@
+{
+  "reel_number": 2079,
+  "recorded": "2025-12-09 04:32:36 UTC",
+  "repository": {
+    "full_name": "lonnyzhang423/douyin-hot-hub",
+    "url": "https://github.com/lonnyzhang423/douyin-hot-hub",
+    "clone_url": "https://github.com/lonnyzhang423/douyin-hot-hub.git",
+    "stars": 633,
+    "language": "Python",
+    "size_kb": 2282425
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2228,
+    "duration_seconds": 0.000157
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 633 stars."
+  }
+}
