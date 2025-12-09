@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2087 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-09 |
+| #2088 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2153,3 +2153,4 @@ Or let GitHub Action run it automatically.
 | 2085 | 2025-12-09 06:59:07 | [Q3Rally-Team/q3rally](https://github.com/Q3Rally-Team/q3rally) | ✅ readme_only (61⭐ C) | [reels/reel_2085_Q3Rally-Team-q3rally](reels/reel_2085_Q3Rally-Team-q3rally) |
 | 2086 | 2025-12-09 07:29:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252145⭐ None) | [reels/reel_2086_practical-tutorials-project-based-learning](reels/reel_2086_practical-tutorials-project-based-learning) |
 | 2087 | 2025-12-09 07:44:33 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99769⭐ Rust) | [reels/reel_2087_tauri-apps-tauri](reels/reel_2087_tauri-apps-tauri) |
+| 2088 | 2025-12-09 07:54:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262153⭐ None) | [reels/reel_2088_awesome-selfhosted-awesome-selfhosted](reels/reel_2088_awesome-selfhosted-awesome-selfhosted) |
