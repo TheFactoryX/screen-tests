@@ -1,0 +1,24 @@
+{
+  "reel_number": 2096,
+  "recorded": "2025-12-09 11:18:03 UTC",
+  "repository": {
+    "full_name": "YuzakiKokuban/meta-hybrid_mount",
+    "url": "https://github.com/YuzakiKokuban/meta-hybrid_mount",
+    "clone_url": "https://github.com/YuzakiKokuban/meta-hybrid_mount.git",
+    "stars": 152,
+    "language": "Rust",
+    "size_kb": 23885
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 0.811414
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 152 stars."
+  }
+}
