@@ -1,0 +1,24 @@
+{
+  "reel_number": 2126,
+  "recorded": "2025-12-09 22:50:06 UTC",
+  "repository": {
+    "full_name": "capdevon/Archer-Game-Template2",
+    "url": "https://github.com/capdevon/Archer-Game-Template2",
+    "clone_url": "https://github.com/capdevon/Archer-Game-Template2.git",
+    "stars": 20,
+    "language": "Java",
+    "size_kb": 148792
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 145,
+    "duration_seconds": 3.585005
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 20 stars."
+  }
+}
