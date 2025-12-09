@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2093 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-09 |
+| #2094 | [SmartArduino/DOIT_AI](https://github.com/SmartArduino/DOIT_AI) | C++ · ⭐ 161 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2159,3 +2159,4 @@ Or let GitHub Action run it automatically.
 | 2091 | 2025-12-09 09:22:20 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96912⭐ TypeScript) | [reels/reel_2091_ant-design-ant-design](reels/reel_2091_ant-design-ant-design) |
 | 2092 | 2025-12-09 09:44:57 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (447577⭐ Markdown) | [reels/reel_2092_codecrafters-io-build-your-own-x](reels/reel_2092_codecrafters-io-build-your-own-x) |
 | 2093 | 2025-12-09 09:55:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262168⭐ None) | [reels/reel_2093_awesome-selfhosted-awesome-selfhosted](reels/reel_2093_awesome-selfhosted-awesome-selfhosted) |
+| 2094 | 2025-12-09 10:24:57 | [SmartArduino/DOIT_AI](https://github.com/SmartArduino/DOIT_AI) | ✅ full (161⭐ C++) | [reels/reel_2094_SmartArduino-DOIT_AI](reels/reel_2094_SmartArduino-DOIT_AI) |

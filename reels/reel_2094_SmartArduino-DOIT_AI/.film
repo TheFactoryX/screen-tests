@@ -1,0 +1,24 @@
+{
+  "reel_number": 2094,
+  "recorded": "2025-12-09 10:24:57 UTC",
+  "repository": {
+    "full_name": "SmartArduino/DOIT_AI",
+    "url": "https://github.com/SmartArduino/DOIT_AI",
+    "clone_url": "https://github.com/SmartArduino/DOIT_AI.git",
+    "stars": 161,
+    "language": "C++",
+    "size_kb": 5610
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.039492
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 161 stars."
+  }
+}
