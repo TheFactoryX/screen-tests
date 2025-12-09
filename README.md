@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2084 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 383k | 2025-12-09 |
+| #2085 | [Q3Rally-Team/q3rally](https://github.com/Q3Rally-Team/q3rally) | C · ⭐ 61 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2150,3 +2150,4 @@ Or let GitHub Action run it automatically.
 | 2082 | 2025-12-09 05:43:39 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (383250⭐ Python) | [reels/reel_2082_public-apis-public-apis](reels/reel_2082_public-apis-public-apis) |
 | 2083 | 2025-12-09 05:53:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99763⭐ Rust) | [reels/reel_2083_tauri-apps-tauri](reels/reel_2083_tauri-apps-tauri) |
 | 2084 | 2025-12-09 06:30:39 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (383259⭐ Python) | [reels/reel_2084_public-apis-public-apis](reels/reel_2084_public-apis-public-apis) |
+| 2085 | 2025-12-09 06:59:07 | [Q3Rally-Team/q3rally](https://github.com/Q3Rally-Team/q3rally) | ✅ readme_only (61⭐ C) | [reels/reel_2085_Q3Rally-Team-q3rally](reels/reel_2085_Q3Rally-Team-q3rally) |

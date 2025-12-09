@@ -1,0 +1,24 @@
+{
+  "reel_number": 2085,
+  "recorded": "2025-12-09 06:59:07 UTC",
+  "repository": {
+    "full_name": "Q3Rally-Team/q3rally",
+    "url": "https://github.com/Q3Rally-Team/q3rally",
+    "clone_url": "https://github.com/Q3Rally-Team/q3rally.git",
+    "stars": 61,
+    "language": "C",
+    "size_kb": 834176
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 814,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 61 stars."
+  }
+}
