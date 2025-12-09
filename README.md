@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2128 | [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | TypeScript · ⭐ 176 | 2025-12-09 |
+| #2129 | [lrnselfreliance/wrolpi](https://github.com/lrnselfreliance/wrolpi) | JavaScript · ⭐ 143 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2194,3 +2194,4 @@ Or let GitHub Action run it automatically.
 | 2126 | 2025-12-09 22:50:06 | [capdevon/Archer-Game-Template2](https://github.com/capdevon/Archer-Game-Template2) | ✅ shallow (20⭐ Java) | [reels/reel_2126_capdevon-Archer-Game-Template2](reels/reel_2126_capdevon-Archer-Game-Template2) |
 | 2127 | 2025-12-09 23:18:37 | [BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot](https://github.com/BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot) | ✅ full (265⭐ Python) | [reels/reel_2127_BEDOLAGA-DEV-remnawave-bedolaga-telegram-bot](reels/reel_2127_BEDOLAGA-DEV-remnawave-bedolaga-telegram-bot) |
 | 2128 | 2025-12-09 23:37:47 | [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | ✅ shallow (176⭐ TypeScript) | [reels/reel_2128_speakeasy-api-gram](reels/reel_2128_speakeasy-api-gram) |
+| 2129 | 2025-12-09 23:50:10 | [lrnselfreliance/wrolpi](https://github.com/lrnselfreliance/wrolpi) | ✅ full (143⭐ JavaScript) | [reels/reel_2129_lrnselfreliance-wrolpi](reels/reel_2129_lrnselfreliance-wrolpi) |

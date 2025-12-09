@@ -1,0 +1,24 @@
+{
+  "reel_number": 2129,
+  "recorded": "2025-12-09 23:50:10 UTC",
+  "repository": {
+    "full_name": "lrnselfreliance/wrolpi",
+    "url": "https://github.com/lrnselfreliance/wrolpi",
+    "clone_url": "https://github.com/lrnselfreliance/wrolpi.git",
+    "stars": 143,
+    "language": "JavaScript",
+    "size_kb": 11597
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 1.056168
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 143 stars."
+  }
+}
