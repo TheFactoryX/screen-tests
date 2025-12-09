@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2116 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-09 |
+| #2117 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2182,3 +2182,4 @@ Or let GitHub Action run it automatically.
 | 2114 | 2025-12-09 19:14:11 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | ✅ full (5394⭐ Python) | [reels/reel_2114_RapidAI-RapidOCR](reels/reel_2114_RapidAI-RapidOCR) |
 | 2115 | 2025-12-09 19:26:38 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (447703⭐ Markdown) | [reels/reel_2115_codecrafters-io-build-your-own-x](reels/reel_2115_codecrafters-io-build-your-own-x) |
 | 2116 | 2025-12-09 19:39:08 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99787⭐ Rust) | [reels/reel_2116_tauri-apps-tauri](reels/reel_2116_tauri-apps-tauri) |
+| 2117 | 2025-12-09 19:50:17 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108377⭐ Rust) | [reels/reel_2117_rust-lang-rust](reels/reel_2117_rust-lang-rust) |
