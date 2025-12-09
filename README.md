@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2099 | [11notes/docker-traefik](https://github.com/11notes/docker-traefik) | Dockerfile · ⭐ 129 | 2025-12-09 |
+| #2100 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2165,3 +2165,4 @@ Or let GitHub Action run it automatically.
 | 2097 | 2025-12-09 11:39:32 | [huphtur/single-serving-sites](https://github.com/huphtur/single-serving-sites) | ✅ full (41⭐ Liquid) | [reels/reel_2097_huphtur-single-serving-sites](reels/reel_2097_huphtur-single-serving-sites) |
 | 2098 | 2025-12-09 11:49:58 | [yamcs/yamcs](https://github.com/yamcs/yamcs) | ✅ full (249⭐ Java) | [reels/reel_2098_yamcs-yamcs](reels/reel_2098_yamcs-yamcs) |
 | 2099 | 2025-12-09 12:40:53 | [11notes/docker-traefik](https://github.com/11notes/docker-traefik) | ✅ full (129⭐ Dockerfile) | [reels/reel_2099_11notes-docker-traefik](reels/reel_2099_11notes-docker-traefik) |
+| 2100 | 2025-12-09 13:24:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180188⭐ Python) | [reels/reel_2100_Significant-Gravitas-AutoGPT](reels/reel_2100_Significant-Gravitas-AutoGPT) |
