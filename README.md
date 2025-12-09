@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2092 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 447k | 2025-12-09 |
+| #2093 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2158,3 +2158,4 @@ Or let GitHub Action run it automatically.
 | 2090 | 2025-12-09 08:53:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108365⭐ Rust) | [reels/reel_2090_rust-lang-rust](reels/reel_2090_rust-lang-rust) |
 | 2091 | 2025-12-09 09:22:20 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96912⭐ TypeScript) | [reels/reel_2091_ant-design-ant-design](reels/reel_2091_ant-design-ant-design) |
 | 2092 | 2025-12-09 09:44:57 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (447577⭐ Markdown) | [reels/reel_2092_codecrafters-io-build-your-own-x](reels/reel_2092_codecrafters-io-build-your-own-x) |
+| 2093 | 2025-12-09 09:55:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262168⭐ None) | [reels/reel_2093_awesome-selfhosted-awesome-selfhosted](reels/reel_2093_awesome-selfhosted-awesome-selfhosted) |
