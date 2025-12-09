@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2120 | [microsoft/teams-sdk](https://github.com/microsoft/teams-sdk) | MDX · ⭐ 659 | 2025-12-09 |
+| #2121 | [authzed/playground](https://github.com/authzed/playground) | TypeScript · ⭐ 56 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2186,3 +2186,4 @@ Or let GitHub Action run it automatically.
 | 2118 | 2025-12-09 20:19:33 | [dahlend/kete](https://github.com/dahlend/kete) | ✅ shallow (119⭐ Rust) | [reels/reel_2118_dahlend-kete](reels/reel_2118_dahlend-kete) |
 | 2119 | 2025-12-09 20:39:30 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96916⭐ TypeScript) | [reels/reel_2119_ant-design-ant-design](reels/reel_2119_ant-design-ant-design) |
 | 2120 | 2025-12-09 20:49:54 | [microsoft/teams-sdk](https://github.com/microsoft/teams-sdk) | ✅ full (659⭐ MDX) | [reels/reel_2120_microsoft-teams-sdk](reels/reel_2120_microsoft-teams-sdk) |
+| 2121 | 2025-12-09 21:16:28 | [authzed/playground](https://github.com/authzed/playground) | ✅ full (56⭐ TypeScript) | [reels/reel_2121_authzed-playground](reels/reel_2121_authzed-playground) |
