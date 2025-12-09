@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2104 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-09 |
+| #2105 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2170,3 +2170,4 @@ Or let GitHub Action run it automatically.
 | 2102 | 2025-12-09 14:20:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117349⭐ Svelte) | [reels/reel_2102_open-webui-open-webui](reels/reel_2102_open-webui-open-webui) |
 | 2103 | 2025-12-09 14:48:00 | [bmen25124/SillyTavern-Flowchart](https://github.com/bmen25124/SillyTavern-Flowchart) | ✅ full (26⭐ TypeScript) | [reels/reel_2103_bmen25124-SillyTavern-Flowchart](reels/reel_2103_bmen25124-SillyTavern-Flowchart) |
 | 2104 | 2025-12-09 15:22:15 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102322⭐ None) | [reels/reel_2104_Hack-with-Github-Awesome-Hacking](reels/reel_2104_Hack-with-Github-Awesome-Hacking) |
+| 2105 | 2025-12-09 15:43:52 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99784⭐ Rust) | [reels/reel_2105_tauri-apps-tauri](reels/reel_2105_tauri-apps-tauri) |
