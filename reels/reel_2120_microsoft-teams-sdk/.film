@@ -1,0 +1,24 @@
+{
+  "reel_number": 2120,
+  "recorded": "2025-12-09 20:49:54 UTC",
+  "repository": {
+    "full_name": "microsoft/teams-sdk",
+    "url": "https://github.com/microsoft/teams-sdk",
+    "clone_url": "https://github.com/microsoft/teams-sdk.git",
+    "stars": 659,
+    "language": "MDX",
+    "size_kb": 49341
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 48,
+    "duration_seconds": 2.418888
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 659 stars."
+  }
+}
