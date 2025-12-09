@@ -1,0 +1,24 @@
+{
+  "reel_number": 2109,
+  "recorded": "2025-12-09 17:19:22 UTC",
+  "repository": {
+    "full_name": "mozilla/experimenter",
+    "url": "https://github.com/mozilla/experimenter",
+    "clone_url": "https://github.com/mozilla/experimenter.git",
+    "stars": 139,
+    "language": "Python",
+    "size_kb": 74393
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 72,
+    "duration_seconds": 5.353764
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 139 stars."
+  }
+}
