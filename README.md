@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2091 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-09 |
+| #2092 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 447k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2157,3 +2157,4 @@ Or let GitHub Action run it automatically.
 | 2089 | 2025-12-09 08:28:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161465⭐ TypeScript) | [reels/reel_2089_n8n-io-n8n](reels/reel_2089_n8n-io-n8n) |
 | 2090 | 2025-12-09 08:53:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108365⭐ Rust) | [reels/reel_2090_rust-lang-rust](reels/reel_2090_rust-lang-rust) |
 | 2091 | 2025-12-09 09:22:20 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96912⭐ TypeScript) | [reels/reel_2091_ant-design-ant-design](reels/reel_2091_ant-design-ant-design) |
+| 2092 | 2025-12-09 09:44:57 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (447577⭐ Markdown) | [reels/reel_2092_codecrafters-io-build-your-own-x](reels/reel_2092_codecrafters-io-build-your-own-x) |
