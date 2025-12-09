@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2079 | [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) | Python · ⭐ 633 | 2025-12-09 |
+| #2080 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2145,3 +2145,4 @@ Or let GitHub Action run it automatically.
 | 2077 | 2025-12-09 03:04:00 | [SierraJC/terraform-provider-coolify](https://github.com/SierraJC/terraform-provider-coolify) | ✅ full (45⭐ Go) | [reels/reel_2077_SierraJC-terraform-provider-coolify](reels/reel_2077_SierraJC-terraform-provider-coolify) |
 | 2078 | 2025-12-09 03:57:27 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96913⭐ TypeScript) | [reels/reel_2078_ant-design-ant-design](reels/reel_2078_ant-design-ant-design) |
 | 2079 | 2025-12-09 04:32:36 | [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) | ✅ readme_only (633⭐ Python) | [reels/reel_2079_lonnyzhang423-douyin-hot-hub](reels/reel_2079_lonnyzhang423-douyin-hot-hub) |
+| 2080 | 2025-12-09 04:55:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140565⭐ Python) | [reels/reel_2080_langflow-ai-langflow](reels/reel_2080_langflow-ai-langflow) |
