@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2081 | [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) | None · ⭐ 623 | 2025-12-09 |
+| #2082 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 383k | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2147,3 +2147,4 @@ Or let GitHub Action run it automatically.
 | 2079 | 2025-12-09 04:32:36 | [lonnyzhang423/douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) | ✅ readme_only (633⭐ Python) | [reels/reel_2079_lonnyzhang423-douyin-hot-hub](reels/reel_2079_lonnyzhang423-douyin-hot-hub) |
 | 2080 | 2025-12-09 04:55:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140565⭐ Python) | [reels/reel_2080_langflow-ai-langflow](reels/reel_2080_langflow-ai-langflow) |
 | 2081 | 2025-12-09 05:18:51 | [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) | ✅ full (623⭐ None) | [reels/reel_2081_mobilenetworkltd-openapk](reels/reel_2081_mobilenetworkltd-openapk) |
+| 2082 | 2025-12-09 05:43:39 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (383250⭐ Python) | [reels/reel_2082_public-apis-public-apis](reels/reel_2082_public-apis-public-apis) |
