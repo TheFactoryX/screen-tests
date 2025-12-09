@@ -1,0 +1,24 @@
+{
+  "reel_number": 2103,
+  "recorded": "2025-12-09 14:48:00 UTC",
+  "repository": {
+    "full_name": "bmen25124/SillyTavern-Flowchart",
+    "url": "https://github.com/bmen25124/SillyTavern-Flowchart",
+    "clone_url": "https://github.com/bmen25124/SillyTavern-Flowchart.git",
+    "stars": 26,
+    "language": "TypeScript",
+    "size_kb": 8776
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.203622
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 26 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2102 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-09 |
+| #2103 | [bmen25124/SillyTavern-Flowchart](https://github.com/bmen25124/SillyTavern-Flowchart) | TypeScript · ⭐ 26 | 2025-12-09 |
 ---
 
 ## 🎭 Selection Process
@@ -2168,3 +2168,4 @@ Or let GitHub Action run it automatically.
 | 2100 | 2025-12-09 13:24:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180188⭐ Python) | [reels/reel_2100_Significant-Gravitas-AutoGPT](reels/reel_2100_Significant-Gravitas-AutoGPT) |
 | 2101 | 2025-12-09 13:52:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140605⭐ Python) | [reels/reel_2101_langflow-ai-langflow](reels/reel_2101_langflow-ai-langflow) |
 | 2102 | 2025-12-09 14:20:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117349⭐ Svelte) | [reels/reel_2102_open-webui-open-webui](reels/reel_2102_open-webui-open-webui) |
+| 2103 | 2025-12-09 14:48:00 | [bmen25124/SillyTavern-Flowchart](https://github.com/bmen25124/SillyTavern-Flowchart) | ✅ full (26⭐ TypeScript) | [reels/reel_2103_bmen25124-SillyTavern-Flowchart](reels/reel_2103_bmen25124-SillyTavern-Flowchart) |
