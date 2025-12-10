@@ -1,0 +1,24 @@
+{
+  "reel_number": 2152,
+  "recorded": "2025-12-10 13:55:06 UTC",
+  "repository": {
+    "full_name": "isadorasophia/murder",
+    "url": "https://github.com/isadorasophia/murder",
+    "clone_url": "https://github.com/isadorasophia/murder.git",
+    "stars": 3067,
+    "language": "C#",
+    "size_kb": 17422
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.687335
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 3067 stars."
+  }
+}
