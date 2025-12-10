@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2154 | [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) | TypeScript · ⭐ 164 | 2025-12-10 |
+| #2155 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2220,3 +2220,4 @@ Or let GitHub Action run it automatically.
 | 2152 | 2025-12-10 13:55:06 | [isadorasophia/murder](https://github.com/isadorasophia/murder) | ✅ full (3067⭐ C#) | [reels/reel_2152_isadorasophia-murder](reels/reel_2152_isadorasophia-murder) |
 | 2153 | 2025-12-10 14:21:03 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100932⭐ Shell) | [reels/reel_2153_papers-we-love-papers-we-love](reels/reel_2153_papers-we-love-papers-we-love) |
 | 2154 | 2025-12-10 14:48:57 | [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) | ✅ full (164⭐ TypeScript) | [reels/reel_2154_nextcloud-whiteboard](reels/reel_2154_nextcloud-whiteboard) |
+| 2155 | 2025-12-10 15:23:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180215⭐ Python) | [reels/reel_2155_Significant-Gravitas-AutoGPT](reels/reel_2155_Significant-Gravitas-AutoGPT) |
