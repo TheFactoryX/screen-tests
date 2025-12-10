@@ -1,0 +1,24 @@
+{
+  "reel_number": 2154,
+  "recorded": "2025-12-10 14:48:57 UTC",
+  "repository": {
+    "full_name": "nextcloud/whiteboard",
+    "url": "https://github.com/nextcloud/whiteboard",
+    "clone_url": "https://github.com/nextcloud/whiteboard.git",
+    "stars": 164,
+    "language": "TypeScript",
+    "size_kb": 14496
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 2.189508
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 164 stars."
+  }
+}
