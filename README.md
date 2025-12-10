@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2144 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-10 |
+| #2145 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2210,3 +2210,4 @@ Or let GitHub Action run it automatically.
 | 2142 | 2025-12-10 08:53:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161709⭐ TypeScript) | [reels/reel_2142_n8n-io-n8n](reels/reel_2142_n8n-io-n8n) |
 | 2143 | 2025-12-10 09:22:38 | [openbsd/ports](https://github.com/openbsd/ports) | ✅ readme_only (545⭐ Makefile) | [reels/reel_2143_openbsd-ports](reels/reel_2143_openbsd-ports) |
 | 2144 | 2025-12-10 09:46:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140695⭐ Python) | [reels/reel_2144_langflow-ai-langflow](reels/reel_2144_langflow-ai-langflow) |
+| 2145 | 2025-12-10 10:22:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108398⭐ Rust) | [reels/reel_2145_rust-lang-rust](reels/reel_2145_rust-lang-rust) |
