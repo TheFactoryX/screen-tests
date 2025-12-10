@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2148 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-10 |
+| #2149 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2214,3 +2214,4 @@ Or let GitHub Action run it automatically.
 | 2146 | 2025-12-10 10:49:26 | [TM9657/flow-like](https://github.com/TM9657/flow-like) | ✅ shallow (480⭐ Rust) | [reels/reel_2146_TM9657-flow-like](reels/reel_2146_TM9657-flow-like) |
 | 2147 | 2025-12-10 11:17:30 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100930⭐ Shell) | [reels/reel_2147_papers-we-love-papers-we-love](reels/reel_2147_papers-we-love-papers-we-love) |
 | 2148 | 2025-12-10 11:39:15 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252229⭐ None) | [reels/reel_2148_practical-tutorials-project-based-learning](reels/reel_2148_practical-tutorials-project-based-learning) |
+| 2149 | 2025-12-10 11:51:10 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101539⭐ TypeScript) | [reels/reel_2149_shadcn-ui-ui](reels/reel_2149_shadcn-ui-ui) |
