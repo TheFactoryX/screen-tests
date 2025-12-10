@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2156 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-10 |
+| #2157 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2222,3 +2222,4 @@ Or let GitHub Action run it automatically.
 | 2154 | 2025-12-10 14:48:57 | [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) | ✅ full (164⭐ TypeScript) | [reels/reel_2154_nextcloud-whiteboard](reels/reel_2154_nextcloud-whiteboard) |
 | 2155 | 2025-12-10 15:23:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180215⭐ Python) | [reels/reel_2155_Significant-Gravitas-AutoGPT](reels/reel_2155_Significant-Gravitas-AutoGPT) |
 | 2156 | 2025-12-10 15:45:24 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101554⭐ TypeScript) | [reels/reel_2156_shadcn-ui-ui](reels/reel_2156_shadcn-ui-ui) |
+| 2157 | 2025-12-10 16:26:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121579⭐ Python) | [reels/reel_2157_langchain-ai-langchain](reels/reel_2157_langchain-ai-langchain) |
