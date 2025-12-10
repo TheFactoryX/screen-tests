@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2171 | [zozs/a-wild-button-appears](https://github.com/zozs/a-wild-button-appears) | JavaScript · ⭐ 13 | 2025-12-10 |
+| #2172 | [alexey-goloburdin/knowledge-base](https://github.com/alexey-goloburdin/knowledge-base) | None · ⭐ 390 | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2237,3 +2237,4 @@ Or let GitHub Action run it automatically.
 | 2169 | 2025-12-10 21:43:34 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100684⭐ Python) | [reels/reel_2169_deepseek-ai-DeepSeek-V3](reels/reel_2169_deepseek-ai-DeepSeek-V3) |
 | 2170 | 2025-12-10 21:53:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102379⭐ None) | [reels/reel_2170_Hack-with-Github-Awesome-Hacking](reels/reel_2170_Hack-with-Github-Awesome-Hacking) |
 | 2171 | 2025-12-10 22:18:46 | [zozs/a-wild-button-appears](https://github.com/zozs/a-wild-button-appears) | ✅ full (13⭐ JavaScript) | [reels/reel_2171_zozs-a-wild-button-appears](reels/reel_2171_zozs-a-wild-button-appears) |
+| 2172 | 2025-12-10 22:43:50 | [alexey-goloburdin/knowledge-base](https://github.com/alexey-goloburdin/knowledge-base) | ✅ full (390⭐ None) | [reels/reel_2172_alexey-goloburdin-knowledge-base](reels/reel_2172_alexey-goloburdin-knowledge-base) |
