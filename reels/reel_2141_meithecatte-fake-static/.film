@@ -1,0 +1,24 @@
+{
+  "reel_number": 2141,
+  "recorded": "2025-12-10 08:27:14 UTC",
+  "repository": {
+    "full_name": "meithecatte/fake-static",
+    "url": "https://github.com/meithecatte/fake-static",
+    "clone_url": "https://github.com/meithecatte/fake-static.git",
+    "stars": 103,
+    "language": "Rust",
+    "size_kb": 2
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.200736
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 103 stars."
+  }
+}

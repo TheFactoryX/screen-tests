@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2140 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-10 |
+| #2141 | [meithecatte/fake-static](https://github.com/meithecatte/fake-static) | Rust · ⭐ 103 | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2206,3 +2206,4 @@ Or let GitHub Action run it automatically.
 | 2138 | 2025-12-10 06:59:53 | [clemensv/avrotize](https://github.com/clemensv/avrotize) | ✅ full (104⭐ Python) | [reels/reel_2138_clemensv-avrotize](reels/reel_2138_clemensv-avrotize) |
 | 2139 | 2025-12-10 07:30:29 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117403⭐ Svelte) | [reels/reel_2139_open-webui-open-webui](reels/reel_2139_open-webui-open-webui) |
 | 2140 | 2025-12-10 07:51:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180203⭐ Python) | [reels/reel_2140_Significant-Gravitas-AutoGPT](reels/reel_2140_Significant-Gravitas-AutoGPT) |
+| 2141 | 2025-12-10 08:27:14 | [meithecatte/fake-static](https://github.com/meithecatte/fake-static) | ✅ full (103⭐ Rust) | [reels/reel_2141_meithecatte-fake-static](reels/reel_2141_meithecatte-fake-static) |
