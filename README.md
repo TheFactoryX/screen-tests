@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2152 | [isadorasophia/murder](https://github.com/isadorasophia/murder) | C# · ⭐ 3k | 2025-12-10 |
+| #2153 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2218,3 +2218,4 @@ Or let GitHub Action run it automatically.
 | 2150 | 2025-12-10 12:40:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121563⭐ Python) | [reels/reel_2150_langchain-ai-langchain](reels/reel_2150_langchain-ai-langchain) |
 | 2151 | 2025-12-10 13:25:49 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99803⭐ Rust) | [reels/reel_2151_tauri-apps-tauri](reels/reel_2151_tauri-apps-tauri) |
 | 2152 | 2025-12-10 13:55:06 | [isadorasophia/murder](https://github.com/isadorasophia/murder) | ✅ full (3067⭐ C#) | [reels/reel_2152_isadorasophia-murder](reels/reel_2152_isadorasophia-murder) |
+| 2153 | 2025-12-10 14:21:03 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100932⭐ Shell) | [reels/reel_2153_papers-we-love-papers-we-love](reels/reel_2153_papers-we-love-papers-we-love) |
