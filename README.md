@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2130 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-10 |
+| #2131 | [bmen25124/SillyTavern-MCP-Client](https://github.com/bmen25124/SillyTavern-MCP-Client) | TypeScript · ⭐ 62 | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2196,3 +2196,4 @@ Or let GitHub Action run it automatically.
 | 2128 | 2025-12-09 23:37:47 | [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | ✅ shallow (176⭐ TypeScript) | [reels/reel_2128_speakeasy-api-gram](reels/reel_2128_speakeasy-api-gram) |
 | 2129 | 2025-12-09 23:50:10 | [lrnselfreliance/wrolpi](https://github.com/lrnselfreliance/wrolpi) | ✅ full (143⭐ JavaScript) | [reels/reel_2129_lrnselfreliance-wrolpi](reels/reel_2129_lrnselfreliance-wrolpi) |
 | 2130 | 2025-12-10 01:26:43 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99787⭐ Rust) | [reels/reel_2130_tauri-apps-tauri](reels/reel_2130_tauri-apps-tauri) |
+| 2131 | 2025-12-10 03:09:35 | [bmen25124/SillyTavern-MCP-Client](https://github.com/bmen25124/SillyTavern-MCP-Client) | ✅ full (62⭐ TypeScript) | [reels/reel_2131_bmen25124-SillyTavern-MCP-Client](reels/reel_2131_bmen25124-SillyTavern-MCP-Client) |
