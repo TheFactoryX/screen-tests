@@ -1,0 +1,24 @@
+{
+  "reel_number": 2163,
+  "recorded": "2025-12-10 19:16:41 UTC",
+  "repository": {
+    "full_name": "kaniini/libucontext",
+    "url": "https://github.com/kaniini/libucontext",
+    "clone_url": "https://github.com/kaniini/libucontext.git",
+    "stars": 130,
+    "language": "Assembly",
+    "size_kb": 291
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.527792
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Assembly",
+    "director_note": "A Assembly repository. 130 stars."
+  }
+}
