@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2167 | [llilakoblock/bmw-e87-e90-can-bt](https://github.com/llilakoblock/bmw-e87-e90-can-bt) | C++ · ⭐ 17 | 2025-12-10 |
+| #2168 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2233,3 +2233,4 @@ Or let GitHub Action run it automatically.
 | 2165 | 2025-12-10 19:50:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140735⭐ Python) | [reels/reel_2165_langflow-ai-langflow](reels/reel_2165_langflow-ai-langflow) |
 | 2166 | 2025-12-10 20:22:45 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96930⭐ TypeScript) | [reels/reel_2166_ant-design-ant-design](reels/reel_2166_ant-design-ant-design) |
 | 2167 | 2025-12-10 20:46:36 | [llilakoblock/bmw-e87-e90-can-bt](https://github.com/llilakoblock/bmw-e87-e90-can-bt) | ✅ full (17⭐ C++) | [reels/reel_2167_llilakoblock-bmw-e87-e90-can-bt](reels/reel_2167_llilakoblock-bmw-e87-e90-can-bt) |
+| 2168 | 2025-12-10 21:20:11 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99815⭐ Rust) | [reels/reel_2168_tauri-apps-tauri](reels/reel_2168_tauri-apps-tauri) |
