@@ -1,0 +1,24 @@
+{
+  "reel_number": 2132,
+  "recorded": "2025-12-10 04:02:14 UTC",
+  "repository": {
+    "full_name": "avidale/weirdMath",
+    "url": "https://github.com/avidale/weirdMath",
+    "clone_url": "https://github.com/avidale/weirdMath.git",
+    "stars": 68,
+    "language": "Jupyter Notebook",
+    "size_kb": 5283
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.436633
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 68 stars."
+  }
+}
