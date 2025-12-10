@@ -1,0 +1,24 @@
+{
+  "reel_number": 2161,
+  "recorded": "2025-12-10 18:28:31 UTC",
+  "repository": {
+    "full_name": "chrultrabook/stoney-kernel",
+    "url": "https://github.com/chrultrabook/stoney-kernel",
+    "clone_url": "https://github.com/chrultrabook/stoney-kernel.git",
+    "stars": 17,
+    "language": "Shell",
+    "size_kb": 223
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.518734
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 17 stars."
+  }
+}

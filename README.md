@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2160 | [prove-rs/z3.rs](https://github.com/prove-rs/z3.rs) | Rust · ⭐ 457 | 2025-12-10 |
+| #2161 | [chrultrabook/stoney-kernel](https://github.com/chrultrabook/stoney-kernel) | Shell · ⭐ 17 | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2226,3 +2226,4 @@ Or let GitHub Action run it automatically.
 | 2158 | 2025-12-10 16:52:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117455⭐ Svelte) | [reels/reel_2158_open-webui-open-webui](reels/reel_2158_open-webui-open-webui) |
 | 2159 | 2025-12-10 17:20:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101558⭐ TypeScript) | [reels/reel_2159_shadcn-ui-ui](reels/reel_2159_shadcn-ui-ui) |
 | 2160 | 2025-12-10 17:45:48 | [prove-rs/z3.rs](https://github.com/prove-rs/z3.rs) | ✅ full (457⭐ Rust) | [reels/reel_2160_prove-rs-z3.rs](reels/reel_2160_prove-rs-z3.rs) |
+| 2161 | 2025-12-10 18:28:31 | [chrultrabook/stoney-kernel](https://github.com/chrultrabook/stoney-kernel) | ✅ full (17⭐ Shell) | [reels/reel_2161_chrultrabook-stoney-kernel](reels/reel_2161_chrultrabook-stoney-kernel) |
