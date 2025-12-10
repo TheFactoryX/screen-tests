@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2134 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-10 |
+| #2135 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2200,3 +2200,4 @@ Or let GitHub Action run it automatically.
 | 2132 | 2025-12-10 04:02:14 | [avidale/weirdMath](https://github.com/avidale/weirdMath) | ✅ full (68⭐ Jupyter Notebook) | [reels/reel_2132_avidale-weirdMath](reels/reel_2132_avidale-weirdMath) |
 | 2133 | 2025-12-10 04:46:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161658⭐ TypeScript) | [reels/reel_2133_n8n-io-n8n](reels/reel_2133_n8n-io-n8n) |
 | 2134 | 2025-12-10 05:20:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108387⭐ Rust) | [reels/reel_2134_rust-lang-rust](reels/reel_2134_rust-lang-rust) |
+| 2135 | 2025-12-10 05:44:26 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99798⭐ Rust) | [reels/reel_2135_tauri-apps-tauri](reels/reel_2135_tauri-apps-tauri) |
