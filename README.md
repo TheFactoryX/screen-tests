@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2159 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-10 |
+| #2160 | [prove-rs/z3.rs](https://github.com/prove-rs/z3.rs) | Rust · ⭐ 457 | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2225,3 +2225,4 @@ Or let GitHub Action run it automatically.
 | 2157 | 2025-12-10 16:26:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121579⭐ Python) | [reels/reel_2157_langchain-ai-langchain](reels/reel_2157_langchain-ai-langchain) |
 | 2158 | 2025-12-10 16:52:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117455⭐ Svelte) | [reels/reel_2158_open-webui-open-webui](reels/reel_2158_open-webui-open-webui) |
 | 2159 | 2025-12-10 17:20:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101558⭐ TypeScript) | [reels/reel_2159_shadcn-ui-ui](reels/reel_2159_shadcn-ui-ui) |
+| 2160 | 2025-12-10 17:45:48 | [prove-rs/z3.rs](https://github.com/prove-rs/z3.rs) | ✅ full (457⭐ Rust) | [reels/reel_2160_prove-rs-z3.rs](reels/reel_2160_prove-rs-z3.rs) |
