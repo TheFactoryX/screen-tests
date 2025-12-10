@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2175 | [BLAST-WarpX/warpx](https://github.com/BLAST-WarpX/warpx) | C++ · ⭐ 398 | 2025-12-10 |
+| #2176 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2241,3 +2241,4 @@ Or let GitHub Action run it automatically.
 | 2173 | 2025-12-10 22:54:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137839⭐ Python) | [reels/reel_2173_yt-dlp-yt-dlp](reels/reel_2173_yt-dlp-yt-dlp) |
 | 2174 | 2025-12-10 23:16:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104798⭐ TypeScript) | [reels/reel_2174_iptv-org-iptv](reels/reel_2174_iptv-org-iptv) |
 | 2175 | 2025-12-10 23:39:04 | [BLAST-WarpX/warpx](https://github.com/BLAST-WarpX/warpx) | ✅ full (398⭐ C++) | [reels/reel_2175_BLAST-WarpX-warpx](reels/reel_2175_BLAST-WarpX-warpx) |
+| 2176 | 2025-12-10 23:49:56 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252288⭐ None) | [reels/reel_2176_practical-tutorials-project-based-learning](reels/reel_2176_practical-tutorials-project-based-learning) |
