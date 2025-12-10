@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2165 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-10 |
+| #2166 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2231,3 +2231,4 @@ Or let GitHub Action run it automatically.
 | 2163 | 2025-12-10 19:16:41 | [kaniini/libucontext](https://github.com/kaniini/libucontext) | ✅ full (130⭐ Assembly) | [reels/reel_2163_kaniini-libucontext](reels/reel_2163_kaniini-libucontext) |
 | 2164 | 2025-12-10 19:39:00 | [craftcms/spoke-and-chain](https://github.com/craftcms/spoke-and-chain) | ✅ readme_only (58⭐ Twig) | [reels/reel_2164_craftcms-spoke-and-chain](reels/reel_2164_craftcms-spoke-and-chain) |
 | 2165 | 2025-12-10 19:50:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140735⭐ Python) | [reels/reel_2165_langflow-ai-langflow](reels/reel_2165_langflow-ai-langflow) |
+| 2166 | 2025-12-10 20:22:45 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96930⭐ TypeScript) | [reels/reel_2166_ant-design-ant-design](reels/reel_2166_ant-design-ant-design) |
