@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2145 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-10 |
+| #2146 | [TM9657/flow-like](https://github.com/TM9657/flow-like) | Rust · ⭐ 480 | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2211,3 +2211,4 @@ Or let GitHub Action run it automatically.
 | 2143 | 2025-12-10 09:22:38 | [openbsd/ports](https://github.com/openbsd/ports) | ✅ readme_only (545⭐ Makefile) | [reels/reel_2143_openbsd-ports](reels/reel_2143_openbsd-ports) |
 | 2144 | 2025-12-10 09:46:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140695⭐ Python) | [reels/reel_2144_langflow-ai-langflow](reels/reel_2144_langflow-ai-langflow) |
 | 2145 | 2025-12-10 10:22:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108398⭐ Rust) | [reels/reel_2145_rust-lang-rust](reels/reel_2145_rust-lang-rust) |
+| 2146 | 2025-12-10 10:49:26 | [TM9657/flow-like](https://github.com/TM9657/flow-like) | ✅ shallow (480⭐ Rust) | [reels/reel_2146_TM9657-flow-like](reels/reel_2146_TM9657-flow-like) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 2146,
+  "recorded": "2025-12-10 10:49:26 UTC",
+  "repository": {
+    "full_name": "TM9657/flow-like",
+    "url": "https://github.com/TM9657/flow-like",
+    "clone_url": "https://github.com/TM9657/flow-like.git",
+    "stars": 480,
+    "language": "Rust",
+    "size_kb": 234390
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 228,
+    "duration_seconds": 8.654617
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 480 stars."
+  }
+}
