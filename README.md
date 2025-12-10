@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2150 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-10 |
+| #2151 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2216,3 +2216,4 @@ Or let GitHub Action run it automatically.
 | 2148 | 2025-12-10 11:39:15 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252229⭐ None) | [reels/reel_2148_practical-tutorials-project-based-learning](reels/reel_2148_practical-tutorials-project-based-learning) |
 | 2149 | 2025-12-10 11:51:10 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101539⭐ TypeScript) | [reels/reel_2149_shadcn-ui-ui](reels/reel_2149_shadcn-ui-ui) |
 | 2150 | 2025-12-10 12:40:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121563⭐ Python) | [reels/reel_2150_langchain-ai-langchain](reels/reel_2150_langchain-ai-langchain) |
+| 2151 | 2025-12-10 13:25:49 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99803⭐ Rust) | [reels/reel_2151_tauri-apps-tauri](reels/reel_2151_tauri-apps-tauri) |
