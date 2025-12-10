@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2142 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 161k | 2025-12-10 |
+| #2143 | [openbsd/ports](https://github.com/openbsd/ports) | Makefile · ⭐ 545 | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2208,3 +2208,4 @@ Or let GitHub Action run it automatically.
 | 2140 | 2025-12-10 07:51:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180203⭐ Python) | [reels/reel_2140_Significant-Gravitas-AutoGPT](reels/reel_2140_Significant-Gravitas-AutoGPT) |
 | 2141 | 2025-12-10 08:27:14 | [meithecatte/fake-static](https://github.com/meithecatte/fake-static) | ✅ full (103⭐ Rust) | [reels/reel_2141_meithecatte-fake-static](reels/reel_2141_meithecatte-fake-static) |
 | 2142 | 2025-12-10 08:53:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161709⭐ TypeScript) | [reels/reel_2142_n8n-io-n8n](reels/reel_2142_n8n-io-n8n) |
+| 2143 | 2025-12-10 09:22:38 | [openbsd/ports](https://github.com/openbsd/ports) | ✅ readme_only (545⭐ Makefile) | [reels/reel_2143_openbsd-ports](reels/reel_2143_openbsd-ports) |
