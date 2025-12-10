@@ -1,0 +1,24 @@
+{
+  "reel_number": 2164,
+  "recorded": "2025-12-10 19:39:00 UTC",
+  "repository": {
+    "full_name": "craftcms/spoke-and-chain",
+    "url": "https://github.com/craftcms/spoke-and-chain",
+    "clone_url": "https://github.com/craftcms/spoke-and-chain.git",
+    "stars": 58,
+    "language": "Twig",
+    "size_kb": 974981
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 952,
+    "duration_seconds": 0.000141
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Twig",
+    "director_note": "A Twig repository. 58 stars."
+  }
+}
