@@ -1,0 +1,24 @@
+{
+  "reel_number": 2167,
+  "recorded": "2025-12-10 20:46:36 UTC",
+  "repository": {
+    "full_name": "llilakoblock/bmw-e87-e90-can-bt",
+    "url": "https://github.com/llilakoblock/bmw-e87-e90-can-bt",
+    "clone_url": "https://github.com/llilakoblock/bmw-e87-e90-can-bt.git",
+    "stars": 17,
+    "language": "C++",
+    "size_kb": 44
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.212416
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 17 stars."
+  }
+}
