@@ -1,0 +1,24 @@
+{
+  "reel_number": 2171,
+  "recorded": "2025-12-10 22:18:46 UTC",
+  "repository": {
+    "full_name": "zozs/a-wild-button-appears",
+    "url": "https://github.com/zozs/a-wild-button-appears",
+    "clone_url": "https://github.com/zozs/a-wild-button-appears.git",
+    "stars": 13,
+    "language": "JavaScript",
+    "size_kb": 2432
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.608143
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 13 stars."
+  }
+}
