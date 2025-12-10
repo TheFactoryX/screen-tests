@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2174 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-10 |
+| #2175 | [BLAST-WarpX/warpx](https://github.com/BLAST-WarpX/warpx) | C++ · ⭐ 398 | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2240,3 +2240,4 @@ Or let GitHub Action run it automatically.
 | 2172 | 2025-12-10 22:43:50 | [alexey-goloburdin/knowledge-base](https://github.com/alexey-goloburdin/knowledge-base) | ✅ full (390⭐ None) | [reels/reel_2172_alexey-goloburdin-knowledge-base](reels/reel_2172_alexey-goloburdin-knowledge-base) |
 | 2173 | 2025-12-10 22:54:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137839⭐ Python) | [reels/reel_2173_yt-dlp-yt-dlp](reels/reel_2173_yt-dlp-yt-dlp) |
 | 2174 | 2025-12-10 23:16:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104798⭐ TypeScript) | [reels/reel_2174_iptv-org-iptv](reels/reel_2174_iptv-org-iptv) |
+| 2175 | 2025-12-10 23:39:04 | [BLAST-WarpX/warpx](https://github.com/BLAST-WarpX/warpx) | ✅ full (398⭐ C++) | [reels/reel_2175_BLAST-WarpX-warpx](reels/reel_2175_BLAST-WarpX-warpx) |

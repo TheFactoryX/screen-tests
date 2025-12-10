@@ -1,0 +1,24 @@
+{
+  "reel_number": 2175,
+  "recorded": "2025-12-10 23:39:04 UTC",
+  "repository": {
+    "full_name": "BLAST-WarpX/warpx",
+    "url": "https://github.com/BLAST-WarpX/warpx",
+    "clone_url": "https://github.com/BLAST-WarpX/warpx.git",
+    "stars": 398,
+    "language": "C++",
+    "size_kb": 87217
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 85,
+    "duration_seconds": 4.664944
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 398 stars."
+  }
+}
