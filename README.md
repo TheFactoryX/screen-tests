@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2138 | [clemensv/avrotize](https://github.com/clemensv/avrotize) | Python · ⭐ 104 | 2025-12-10 |
+| #2139 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2204,3 +2204,4 @@ Or let GitHub Action run it automatically.
 | 2136 | 2025-12-10 05:54:21 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252208⭐ None) | [reels/reel_2136_practical-tutorials-project-based-learning](reels/reel_2136_practical-tutorials-project-based-learning) |
 | 2137 | 2025-12-10 06:31:00 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121532⭐ Python) | [reels/reel_2137_langchain-ai-langchain](reels/reel_2137_langchain-ai-langchain) |
 | 2138 | 2025-12-10 06:59:53 | [clemensv/avrotize](https://github.com/clemensv/avrotize) | ✅ full (104⭐ Python) | [reels/reel_2138_clemensv-avrotize](reels/reel_2138_clemensv-avrotize) |
+| 2139 | 2025-12-10 07:30:29 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117403⭐ Svelte) | [reels/reel_2139_open-webui-open-webui](reels/reel_2139_open-webui-open-webui) |
