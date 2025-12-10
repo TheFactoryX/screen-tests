@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2146 | [TM9657/flow-like](https://github.com/TM9657/flow-like) | Rust · ⭐ 480 | 2025-12-10 |
+| #2147 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-12-10 |
 ---
 
 ## 🎭 Selection Process
@@ -2212,3 +2212,4 @@ Or let GitHub Action run it automatically.
 | 2144 | 2025-12-10 09:46:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140695⭐ Python) | [reels/reel_2144_langflow-ai-langflow](reels/reel_2144_langflow-ai-langflow) |
 | 2145 | 2025-12-10 10:22:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108398⭐ Rust) | [reels/reel_2145_rust-lang-rust](reels/reel_2145_rust-lang-rust) |
 | 2146 | 2025-12-10 10:49:26 | [TM9657/flow-like](https://github.com/TM9657/flow-like) | ✅ shallow (480⭐ Rust) | [reels/reel_2146_TM9657-flow-like](reels/reel_2146_TM9657-flow-like) |
+| 2147 | 2025-12-10 11:17:30 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100930⭐ Shell) | [reels/reel_2147_papers-we-love-papers-we-love](reels/reel_2147_papers-we-love-papers-we-love) |
