@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2183 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-11 |
+| #2184 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2249,3 +2249,4 @@ Or let GitHub Action run it automatically.
 | 2181 | 2025-12-11 05:21:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101579⭐ TypeScript) | [reels/reel_2181_shadcn-ui-ui](reels/reel_2181_shadcn-ui-ui) |
 | 2182 | 2025-12-11 05:45:33 | [RiseInRose/AgentGPT-zh](https://github.com/RiseInRose/AgentGPT-zh) | ✅ full (134⭐ Python) | [reels/reel_2182_RiseInRose-AgentGPT-zh](reels/reel_2182_RiseInRose-AgentGPT-zh) |
 | 2183 | 2025-12-11 06:31:43 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139123⭐ Python) | [reels/reel_2183_ytdl-org-youtube-dl](reels/reel_2183_ytdl-org-youtube-dl) |
+| 2184 | 2025-12-11 07:00:55 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252306⭐ None) | [reels/reel_2184_practical-tutorials-project-based-learning](reels/reel_2184_practical-tutorials-project-based-learning) |
