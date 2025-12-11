@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2199 | [ArmanTheParman/Parmanode](https://github.com/ArmanTheParman/Parmanode) | Shell · ⭐ 108 | 2025-12-11 |
+| #2200 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2265,3 +2265,4 @@ Or let GitHub Action run it automatically.
 | 2197 | 2025-12-11 13:27:35 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96934⭐ TypeScript) | [reels/reel_2197_ant-design-ant-design](reels/reel_2197_ant-design-ant-design) |
 | 2198 | 2025-12-11 13:56:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161984⭐ TypeScript) | [reels/reel_2198_n8n-io-n8n](reels/reel_2198_n8n-io-n8n) |
 | 2199 | 2025-12-11 14:23:29 | [ArmanTheParman/Parmanode](https://github.com/ArmanTheParman/Parmanode) | ✅ shallow (108⭐ Shell) | [reels/reel_2199_ArmanTheParman-Parmanode](reels/reel_2199_ArmanTheParman-Parmanode) |
+| 2200 | 2025-12-11 14:45:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121641⭐ Python) | [reels/reel_2200_langchain-ai-langchain](reels/reel_2200_langchain-ai-langchain) |
