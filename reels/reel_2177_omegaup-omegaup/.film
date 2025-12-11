@@ -1,0 +1,24 @@
+{
+  "reel_number": 2177,
+  "recorded": "2025-12-11 01:27:41 UTC",
+  "repository": {
+    "full_name": "omegaup/omegaup",
+    "url": "https://github.com/omegaup/omegaup",
+    "clone_url": "https://github.com/omegaup/omegaup.git",
+    "stars": 290,
+    "language": "PHP",
+    "size_kb": 289941
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 283,
+    "duration_seconds": 1.102252
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 290 stars."
+  }
+}
