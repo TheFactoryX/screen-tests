@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2195 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-11 |
+| #2196 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 161k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2261,3 +2261,4 @@ Or let GitHub Action run it automatically.
 | 2193 | 2025-12-11 11:18:01 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99839⭐ Rust) | [reels/reel_2193_tauri-apps-tauri](reels/reel_2193_tauri-apps-tauri) |
 | 2194 | 2025-12-11 11:40:04 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101604⭐ TypeScript) | [reels/reel_2194_shadcn-ui-ui](reels/reel_2194_shadcn-ui-ui) |
 | 2195 | 2025-12-11 11:51:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99841⭐ Rust) | [reels/reel_2195_tauri-apps-tauri](reels/reel_2195_tauri-apps-tauri) |
+| 2196 | 2025-12-11 12:42:09 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161965⭐ TypeScript) | [reels/reel_2196_n8n-io-n8n](reels/reel_2196_n8n-io-n8n) |
