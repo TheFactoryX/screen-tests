@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2223 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-11 |
+| #2224 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2289,3 +2289,4 @@ Or let GitHub Action run it automatically.
 | 2221 | 2025-12-11 22:53:44 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100975⭐ Shell) | [reels/reel_2221_papers-we-love-papers-we-love](reels/reel_2221_papers-we-love-papers-we-love) |
 | 2222 | 2025-12-11 23:18:09 | [palfrey/wharf](https://github.com/palfrey/wharf) | ✅ full (258⭐ Python) | [reels/reel_2222_palfrey-wharf](reels/reel_2222_palfrey-wharf) |
 | 2223 | 2025-12-11 23:40:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117552⭐ Svelte) | [reels/reel_2223_open-webui-open-webui](reels/reel_2223_open-webui-open-webui) |
+| 2224 | 2025-12-11 23:50:31 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102435⭐ None) | [reels/reel_2224_Hack-with-Github-Awesome-Hacking](reels/reel_2224_Hack-with-Github-Awesome-Hacking) |
