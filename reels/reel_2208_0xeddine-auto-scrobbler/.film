@@ -1,0 +1,24 @@
+{
+  "reel_number": 2208,
+  "recorded": "2025-12-11 18:37:27 UTC",
+  "repository": {
+    "full_name": "0xeddine/auto-scrobbler",
+    "url": "https://github.com/0xeddine/auto-scrobbler",
+    "clone_url": "https://github.com/0xeddine/auto-scrobbler.git",
+    "stars": 13,
+    "language": "Python",
+    "size_kb": 57
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.111245
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 13 stars."
+  }
+}
