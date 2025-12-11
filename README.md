@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2212 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-11 |
+| #2213 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2278,3 +2278,4 @@ Or let GitHub Action run it automatically.
 | 2210 | 2025-12-11 19:26:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (137928⭐ Python) | [reels/reel_2210_yt-dlp-yt-dlp](reels/reel_2210_yt-dlp-yt-dlp) |
 | 2211 | 2025-12-11 19:41:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108431⭐ Rust) | [reels/reel_2211_rust-lang-rust](reels/reel_2211_rust-lang-rust) |
 | 2212 | 2025-12-11 19:51:54 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139130⭐ Python) | [reels/reel_2212_ytdl-org-youtube-dl](reels/reel_2212_ytdl-org-youtube-dl) |
+| 2213 | 2025-12-11 20:22:05 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101630⭐ TypeScript) | [reels/reel_2213_shadcn-ui-ui](reels/reel_2213_shadcn-ui-ui) |
