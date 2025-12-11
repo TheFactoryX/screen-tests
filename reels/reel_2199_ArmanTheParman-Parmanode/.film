@@ -1,0 +1,24 @@
+{
+  "reel_number": 2199,
+  "recorded": "2025-12-11 14:23:29 UTC",
+  "repository": {
+    "full_name": "ArmanTheParman/Parmanode",
+    "url": "https://github.com/ArmanTheParman/Parmanode",
+    "clone_url": "https://github.com/ArmanTheParman/Parmanode.git",
+    "stars": 108,
+    "language": "Shell",
+    "size_kb": 106961
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 104,
+    "duration_seconds": 0.741705
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 108 stars."
+  }
+}
