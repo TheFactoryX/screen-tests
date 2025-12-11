@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2178 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-11 |
+| #2179 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2244,3 +2244,4 @@ Or let GitHub Action run it automatically.
 | 2176 | 2025-12-10 23:49:56 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252288⭐ None) | [reels/reel_2176_practical-tutorials-project-based-learning](reels/reel_2176_practical-tutorials-project-based-learning) |
 | 2177 | 2025-12-11 01:27:41 | [omegaup/omegaup](https://github.com/omegaup/omegaup) | ✅ shallow (290⭐ PHP) | [reels/reel_2177_omegaup-omegaup](reels/reel_2177_omegaup-omegaup) |
 | 2178 | 2025-12-11 03:13:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117473⭐ Svelte) | [reels/reel_2178_open-webui-open-webui](reels/reel_2178_open-webui-open-webui) |
+| 2179 | 2025-12-11 04:05:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99824⭐ Rust) | [reels/reel_2179_tauri-apps-tauri](reels/reel_2179_tauri-apps-tauri) |
