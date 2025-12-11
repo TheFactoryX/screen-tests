@@ -1,0 +1,24 @@
+{
+  "reel_number": 2182,
+  "recorded": "2025-12-11 05:45:33 UTC",
+  "repository": {
+    "full_name": "RiseInRose/AgentGPT-zh",
+    "url": "https://github.com/RiseInRose/AgentGPT-zh",
+    "clone_url": "https://github.com/RiseInRose/AgentGPT-zh.git",
+    "stars": 134,
+    "language": "Python",
+    "size_kb": 6942
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.958669
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 134 stars."
+  }
+}
