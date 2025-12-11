@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2217 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-11 |
+| #2218 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2283,3 +2283,4 @@ Or let GitHub Action run it automatically.
 | 2215 | 2025-12-11 20:52:43 | [yeongsheng-tan/lunchbox_api](https://github.com/yeongsheng-tan/lunchbox_api) | ✅ full (11⭐ Elixir) | [reels/reel_2215_yeongsheng-tan-lunchbox_api](reels/reel_2215_yeongsheng-tan-lunchbox_api) |
 | 2216 | 2025-12-11 21:20:32 | [cinder/Cinder](https://github.com/cinder/Cinder) | ✅ shallow (5488⭐ C++) | [reels/reel_2216_cinder-Cinder](reels/reel_2216_cinder-Cinder) |
 | 2217 | 2025-12-11 21:40:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108432⭐ Rust) | [reels/reel_2217_rust-lang-rust](reels/reel_2217_rust-lang-rust) |
+| 2218 | 2025-12-11 21:50:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104830⭐ TypeScript) | [reels/reel_2218_iptv-org-iptv](reels/reel_2218_iptv-org-iptv) |
