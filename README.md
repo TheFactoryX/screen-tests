@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2180 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 161k | 2025-12-11 |
+| #2181 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2246,3 +2246,4 @@ Or let GitHub Action run it automatically.
 | 2178 | 2025-12-11 03:13:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117473⭐ Svelte) | [reels/reel_2178_open-webui-open-webui](reels/reel_2178_open-webui-open-webui) |
 | 2179 | 2025-12-11 04:05:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99824⭐ Rust) | [reels/reel_2179_tauri-apps-tauri](reels/reel_2179_tauri-apps-tauri) |
 | 2180 | 2025-12-11 04:48:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161870⭐ TypeScript) | [reels/reel_2180_n8n-io-n8n](reels/reel_2180_n8n-io-n8n) |
+| 2181 | 2025-12-11 05:21:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101579⭐ TypeScript) | [reels/reel_2181_shadcn-ui-ui](reels/reel_2181_shadcn-ui-ui) |
