@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2186 | [dplanitzer/Serena](https://github.com/dplanitzer/Serena) | C · ⭐ 253 | 2025-12-11 |
+| #2187 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2252,3 +2252,4 @@ Or let GitHub Action run it automatically.
 | 2184 | 2025-12-11 07:00:55 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252306⭐ None) | [reels/reel_2184_practical-tutorials-project-based-learning](reels/reel_2184_practical-tutorials-project-based-learning) |
 | 2185 | 2025-12-11 07:34:27 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180223⭐ Python) | [reels/reel_2185_Significant-Gravitas-AutoGPT](reels/reel_2185_Significant-Gravitas-AutoGPT) |
 | 2186 | 2025-12-11 07:50:45 | [dplanitzer/Serena](https://github.com/dplanitzer/Serena) | ✅ full (253⭐ C) | [reels/reel_2186_dplanitzer-Serena](reels/reel_2186_dplanitzer-Serena) |
+| 2187 | 2025-12-11 08:27:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117503⭐ Svelte) | [reels/reel_2187_open-webui-open-webui](reels/reel_2187_open-webui-open-webui) |
