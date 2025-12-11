@@ -1,0 +1,24 @@
+{
+  "reel_number": 2215,
+  "recorded": "2025-12-11 20:52:43 UTC",
+  "repository": {
+    "full_name": "yeongsheng-tan/lunchbox_api",
+    "url": "https://github.com/yeongsheng-tan/lunchbox_api",
+    "clone_url": "https://github.com/yeongsheng-tan/lunchbox_api.git",
+    "stars": 11,
+    "language": "Elixir",
+    "size_kb": 14470
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 0.997667
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Elixir",
+    "director_note": "A Elixir repository. 11 stars."
+  }
+}
