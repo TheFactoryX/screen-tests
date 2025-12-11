@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2218 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-11 |
+| #2219 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2284,3 +2284,4 @@ Or let GitHub Action run it automatically.
 | 2216 | 2025-12-11 21:20:32 | [cinder/Cinder](https://github.com/cinder/Cinder) | ✅ shallow (5488⭐ C++) | [reels/reel_2216_cinder-Cinder](reels/reel_2216_cinder-Cinder) |
 | 2217 | 2025-12-11 21:40:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108432⭐ Rust) | [reels/reel_2217_rust-lang-rust](reels/reel_2217_rust-lang-rust) |
 | 2218 | 2025-12-11 21:50:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104830⭐ TypeScript) | [reels/reel_2218_iptv-org-iptv](reels/reel_2218_iptv-org-iptv) |
+| 2219 | 2025-12-11 22:18:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262503⭐ None) | [reels/reel_2219_awesome-selfhosted-awesome-selfhosted](reels/reel_2219_awesome-selfhosted-awesome-selfhosted) |
