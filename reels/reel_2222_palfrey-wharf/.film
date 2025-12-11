@@ -1,0 +1,24 @@
+{
+  "reel_number": 2222,
+  "recorded": "2025-12-11 23:18:09 UTC",
+  "repository": {
+    "full_name": "palfrey/wharf",
+    "url": "https://github.com/palfrey/wharf",
+    "clone_url": "https://github.com/palfrey/wharf.git",
+    "stars": 258,
+    "language": "Python",
+    "size_kb": 5782
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.64603
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 258 stars."
+  }
+}
