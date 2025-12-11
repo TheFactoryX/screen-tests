@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2182 | [RiseInRose/AgentGPT-zh](https://github.com/RiseInRose/AgentGPT-zh) | Python · ⭐ 134 | 2025-12-11 |
+| #2183 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2248,3 +2248,4 @@ Or let GitHub Action run it automatically.
 | 2180 | 2025-12-11 04:48:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161870⭐ TypeScript) | [reels/reel_2180_n8n-io-n8n](reels/reel_2180_n8n-io-n8n) |
 | 2181 | 2025-12-11 05:21:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101579⭐ TypeScript) | [reels/reel_2181_shadcn-ui-ui](reels/reel_2181_shadcn-ui-ui) |
 | 2182 | 2025-12-11 05:45:33 | [RiseInRose/AgentGPT-zh](https://github.com/RiseInRose/AgentGPT-zh) | ✅ full (134⭐ Python) | [reels/reel_2182_RiseInRose-AgentGPT-zh](reels/reel_2182_RiseInRose-AgentGPT-zh) |
+| 2183 | 2025-12-11 06:31:43 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139123⭐ Python) | [reels/reel_2183_ytdl-org-youtube-dl](reels/reel_2183_ytdl-org-youtube-dl) |
