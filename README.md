@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2188 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-11 |
+| #2189 | [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free) | Python · ⭐ 428 | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2254,3 +2254,4 @@ Or let GitHub Action run it automatically.
 | 2186 | 2025-12-11 07:50:45 | [dplanitzer/Serena](https://github.com/dplanitzer/Serena) | ✅ full (253⭐ C) | [reels/reel_2186_dplanitzer-Serena](reels/reel_2186_dplanitzer-Serena) |
 | 2187 | 2025-12-11 08:27:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117503⭐ Svelte) | [reels/reel_2187_open-webui-open-webui](reels/reel_2187_open-webui-open-webui) |
 | 2188 | 2025-12-11 08:53:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262431⭐ None) | [reels/reel_2188_awesome-selfhosted-awesome-selfhosted](reels/reel_2188_awesome-selfhosted-awesome-selfhosted) |
+| 2189 | 2025-12-11 09:24:11 | [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free) | ✅ full (428⭐ Python) | [reels/reel_2189_xiaoji235-airport-free](reels/reel_2189_xiaoji235-airport-free) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 2189,
+  "recorded": "2025-12-11 09:24:11 UTC",
+  "repository": {
+    "full_name": "xiaoji235/airport-free",
+    "url": "https://github.com/xiaoji235/airport-free",
+    "clone_url": "https://github.com/xiaoji235/airport-free.git",
+    "stars": 428,
+    "language": "Python",
+    "size_kb": 25333
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 3.433192
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 428 stars."
+  }
+}
