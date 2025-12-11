@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2197 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-11 |
+| #2198 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 161k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2263,3 +2263,4 @@ Or let GitHub Action run it automatically.
 | 2195 | 2025-12-11 11:51:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99841⭐ Rust) | [reels/reel_2195_tauri-apps-tauri](reels/reel_2195_tauri-apps-tauri) |
 | 2196 | 2025-12-11 12:42:09 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161965⭐ TypeScript) | [reels/reel_2196_n8n-io-n8n](reels/reel_2196_n8n-io-n8n) |
 | 2197 | 2025-12-11 13:27:35 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96934⭐ TypeScript) | [reels/reel_2197_ant-design-ant-design](reels/reel_2197_ant-design-ant-design) |
+| 2198 | 2025-12-11 13:56:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (161984⭐ TypeScript) | [reels/reel_2198_n8n-io-n8n](reels/reel_2198_n8n-io-n8n) |
