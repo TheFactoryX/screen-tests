@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2208 | [0xeddine/auto-scrobbler](https://github.com/0xeddine/auto-scrobbler) | Python · ⭐ 13 | 2025-12-11 |
+| #2209 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2274,3 +2274,4 @@ Or let GitHub Action run it automatically.
 | 2206 | 2025-12-11 17:30:54 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101626⭐ TypeScript) | [reels/reel_2206_shadcn-ui-ui](reels/reel_2206_shadcn-ui-ui) |
 | 2207 | 2025-12-11 17:57:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140826⭐ Python) | [reels/reel_2207_langflow-ai-langflow](reels/reel_2207_langflow-ai-langflow) |
 | 2208 | 2025-12-11 18:37:27 | [0xeddine/auto-scrobbler](https://github.com/0xeddine/auto-scrobbler) | ✅ full (13⭐ Python) | [reels/reel_2208_0xeddine-auto-scrobbler](reels/reel_2208_0xeddine-auto-scrobbler) |
+| 2209 | 2025-12-11 18:59:16 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262483⭐ None) | [reels/reel_2209_awesome-selfhosted-awesome-selfhosted](reels/reel_2209_awesome-selfhosted-awesome-selfhosted) |
