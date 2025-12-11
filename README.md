@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2213 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-11 |
+| #2214 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2279,3 +2279,4 @@ Or let GitHub Action run it automatically.
 | 2211 | 2025-12-11 19:41:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108431⭐ Rust) | [reels/reel_2211_rust-lang-rust](reels/reel_2211_rust-lang-rust) |
 | 2212 | 2025-12-11 19:51:54 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139130⭐ Python) | [reels/reel_2212_ytdl-org-youtube-dl](reels/reel_2212_ytdl-org-youtube-dl) |
 | 2213 | 2025-12-11 20:22:05 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101630⭐ TypeScript) | [reels/reel_2213_shadcn-ui-ui](reels/reel_2213_shadcn-ui-ui) |
+| 2214 | 2025-12-11 20:42:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180230⭐ Python) | [reels/reel_2214_Significant-Gravitas-AutoGPT](reels/reel_2214_Significant-Gravitas-AutoGPT) |
