@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2219 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-11 |
+| #2220 | [mozilla/telemetry-airflow](https://github.com/mozilla/telemetry-airflow) | Python · ⭐ 197 | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2285,3 +2285,4 @@ Or let GitHub Action run it automatically.
 | 2217 | 2025-12-11 21:40:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108432⭐ Rust) | [reels/reel_2217_rust-lang-rust](reels/reel_2217_rust-lang-rust) |
 | 2218 | 2025-12-11 21:50:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104830⭐ TypeScript) | [reels/reel_2218_iptv-org-iptv](reels/reel_2218_iptv-org-iptv) |
 | 2219 | 2025-12-11 22:18:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262503⭐ None) | [reels/reel_2219_awesome-selfhosted-awesome-selfhosted](reels/reel_2219_awesome-selfhosted-awesome-selfhosted) |
+| 2220 | 2025-12-11 22:44:12 | [mozilla/telemetry-airflow](https://github.com/mozilla/telemetry-airflow) | ✅ full (197⭐ Python) | [reels/reel_2220_mozilla-telemetry-airflow](reels/reel_2220_mozilla-telemetry-airflow) |

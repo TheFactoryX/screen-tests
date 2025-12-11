@@ -1,0 +1,24 @@
+{
+  "reel_number": 2220,
+  "recorded": "2025-12-11 22:44:12 UTC",
+  "repository": {
+    "full_name": "mozilla/telemetry-airflow",
+    "url": "https://github.com/mozilla/telemetry-airflow",
+    "clone_url": "https://github.com/mozilla/telemetry-airflow.git",
+    "stars": 197,
+    "language": "Python",
+    "size_kb": 3583
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.449348
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 197 stars."
+  }
+}
