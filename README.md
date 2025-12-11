@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2190 | [Nerixyz/uploader](https://github.com/Nerixyz/uploader) | JavaScript · ⭐ 12 | 2025-12-11 |
+| #2191 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-11 |
 ---
 
 ## 🎭 Selection Process
@@ -2256,3 +2256,4 @@ Or let GitHub Action run it automatically.
 | 2188 | 2025-12-11 08:53:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262431⭐ None) | [reels/reel_2188_awesome-selfhosted-awesome-selfhosted](reels/reel_2188_awesome-selfhosted-awesome-selfhosted) |
 | 2189 | 2025-12-11 09:24:11 | [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free) | ✅ full (428⭐ Python) | [reels/reel_2189_xiaoji235-airport-free](reels/reel_2189_xiaoji235-airport-free) |
 | 2190 | 2025-12-11 09:46:31 | [Nerixyz/uploader](https://github.com/Nerixyz/uploader) | ✅ full (12⭐ JavaScript) | [reels/reel_2190_Nerixyz-uploader](reels/reel_2190_Nerixyz-uploader) |
+| 2191 | 2025-12-11 10:23:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117508⭐ Svelte) | [reels/reel_2191_open-webui-open-webui](reels/reel_2191_open-webui-open-webui) |
