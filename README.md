@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2263 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-12 |
+| #2264 | [tholman/mondrian-and-me](https://github.com/tholman/mondrian-and-me) | HTML · ⭐ 25 | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2329,3 +2329,4 @@ Or let GitHub Action run it automatically.
 | 2261 | 2025-12-12 19:15:57 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117640⭐ Svelte) | [reels/reel_2261_open-webui-open-webui](reels/reel_2261_open-webui-open-webui) |
 | 2262 | 2025-12-12 19:37:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121760⭐ Python) | [reels/reel_2262_langchain-ai-langchain](reels/reel_2262_langchain-ai-langchain) |
 | 2263 | 2025-12-12 19:49:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140934⭐ Python) | [reels/reel_2263_langflow-ai-langflow](reels/reel_2263_langflow-ai-langflow) |
+| 2264 | 2025-12-12 20:21:07 | [tholman/mondrian-and-me](https://github.com/tholman/mondrian-and-me) | ✅ full (25⭐ HTML) | [reels/reel_2264_tholman-mondrian-and-me](reels/reel_2264_tholman-mondrian-and-me) |
