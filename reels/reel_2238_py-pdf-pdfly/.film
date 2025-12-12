@@ -1,0 +1,24 @@
+{
+  "reel_number": 2238,
+  "recorded": "2025-12-12 09:23:26 UTC",
+  "repository": {
+    "full_name": "py-pdf/pdfly",
+    "url": "https://github.com/py-pdf/pdfly",
+    "clone_url": "https://github.com/py-pdf/pdfly.git",
+    "stars": 502,
+    "language": "Python",
+    "size_kb": 2020
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.730368
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 502 stars."
+  }
+}

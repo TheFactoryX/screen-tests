@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2237 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-12 |
+| #2238 | [py-pdf/pdfly](https://github.com/py-pdf/pdfly) | Python · ⭐ 502 | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2303,3 +2303,4 @@ Or let GitHub Action run it automatically.
 | 2235 | 2025-12-12 07:51:02 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121703⭐ Python) | [reels/reel_2235_langchain-ai-langchain](reels/reel_2235_langchain-ai-langchain) |
 | 2236 | 2025-12-12 08:27:58 | [enriquephl/QuantumultX_config](https://github.com/enriquephl/QuantumultX_config) | ✅ full (121⭐ Vim Snippet) | [reels/reel_2236_enriquephl-QuantumultX_config](reels/reel_2236_enriquephl-QuantumultX_config) |
 | 2237 | 2025-12-12 08:54:50 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101663⭐ TypeScript) | [reels/reel_2237_shadcn-ui-ui](reels/reel_2237_shadcn-ui-ui) |
+| 2238 | 2025-12-12 09:23:26 | [py-pdf/pdfly](https://github.com/py-pdf/pdfly) | ✅ full (502⭐ Python) | [reels/reel_2238_py-pdf-pdfly](reels/reel_2238_py-pdf-pdfly) |
