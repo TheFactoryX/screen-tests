@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2273 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-12 |
+| #2274 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2339,3 +2339,4 @@ Or let GitHub Action run it automatically.
 | 2271 | 2025-12-12 22:43:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99896⭐ Rust) | [reels/reel_2271_tauri-apps-tauri](reels/reel_2271_tauri-apps-tauri) |
 | 2272 | 2025-12-12 22:52:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121772⭐ Python) | [reels/reel_2272_langchain-ai-langchain](reels/reel_2272_langchain-ai-langchain) |
 | 2273 | 2025-12-12 23:18:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262667⭐ None) | [reels/reel_2273_awesome-selfhosted-awesome-selfhosted](reels/reel_2273_awesome-selfhosted-awesome-selfhosted) |
+| 2274 | 2025-12-12 23:39:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104863⭐ TypeScript) | [reels/reel_2274_iptv-org-iptv](reels/reel_2274_iptv-org-iptv) |
