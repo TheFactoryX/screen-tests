@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2253 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-12 |
+| #2254 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 383k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2319,3 +2319,4 @@ Or let GitHub Action run it automatically.
 | 2251 | 2025-12-12 15:20:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162229⭐ TypeScript) | [reels/reel_2251_n8n-io-n8n](reels/reel_2251_n8n-io-n8n) |
 | 2252 | 2025-12-12 15:43:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138030⭐ Python) | [reels/reel_2252_yt-dlp-yt-dlp](reels/reel_2252_yt-dlp-yt-dlp) |
 | 2253 | 2025-12-12 15:55:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121741⭐ Python) | [reels/reel_2253_langchain-ai-langchain](reels/reel_2253_langchain-ai-langchain) |
+| 2254 | 2025-12-12 16:24:23 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (383778⭐ Python) | [reels/reel_2254_public-apis-public-apis](reels/reel_2254_public-apis-public-apis) |
