@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2261 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-12 |
+| #2262 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2327,3 +2327,4 @@ Or let GitHub Action run it automatically.
 | 2259 | 2025-12-12 18:29:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262637⭐ None) | [reels/reel_2259_awesome-selfhosted-awesome-selfhosted](reels/reel_2259_awesome-selfhosted-awesome-selfhosted) |
 | 2260 | 2025-12-12 18:54:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121759⭐ Python) | [reels/reel_2260_langchain-ai-langchain](reels/reel_2260_langchain-ai-langchain) |
 | 2261 | 2025-12-12 19:15:57 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117640⭐ Svelte) | [reels/reel_2261_open-webui-open-webui](reels/reel_2261_open-webui-open-webui) |
+| 2262 | 2025-12-12 19:37:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121760⭐ Python) | [reels/reel_2262_langchain-ai-langchain](reels/reel_2262_langchain-ai-langchain) |
