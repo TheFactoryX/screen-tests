@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2270 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-12 |
+| #2271 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2336,3 +2336,4 @@ Or let GitHub Action run it automatically.
 | 2268 | 2025-12-12 21:38:09 | [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) | ✅ full (636⭐ JavaScript) | [reels/reel_2268_n00bcodr-Jellyfin-Enhanced](reels/reel_2268_n00bcodr-Jellyfin-Enhanced) |
 | 2269 | 2025-12-12 21:50:13 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108453⭐ Rust) | [reels/reel_2269_rust-lang-rust](reels/reel_2269_rust-lang-rust) |
 | 2270 | 2025-12-12 22:18:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140947⭐ Python) | [reels/reel_2270_langflow-ai-langflow](reels/reel_2270_langflow-ai-langflow) |
+| 2271 | 2025-12-12 22:43:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99896⭐ Rust) | [reels/reel_2271_tauri-apps-tauri](reels/reel_2271_tauri-apps-tauri) |
