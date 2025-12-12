@@ -1,0 +1,24 @@
+{
+  "reel_number": 2245,
+  "recorded": "2025-12-12 12:40:03 UTC",
+  "repository": {
+    "full_name": "Charcoal-SE/SmokeDetector",
+    "url": "https://github.com/Charcoal-SE/SmokeDetector",
+    "clone_url": "https://github.com/Charcoal-SE/SmokeDetector.git",
+    "stars": 492,
+    "language": "Python",
+    "size_kb": 1999720
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1952,
+    "duration_seconds": 0.000314
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 492 stars."
+  }
+}
