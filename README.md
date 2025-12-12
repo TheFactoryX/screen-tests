@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2241 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 401 | 2025-12-12 |
+| #2242 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2307,3 +2307,4 @@ Or let GitHub Action run it automatically.
 | 2239 | 2025-12-12 09:45:52 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262581⭐ None) | [reels/reel_2239_awesome-selfhosted-awesome-selfhosted](reels/reel_2239_awesome-selfhosted-awesome-selfhosted) |
 | 2240 | 2025-12-12 10:21:12 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162184⭐ TypeScript) | [reels/reel_2240_n8n-io-n8n](reels/reel_2240_n8n-io-n8n) |
 | 2241 | 2025-12-12 10:47:20 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (401⭐ None) | [reels/reel_2241_zloi-user-hideip.me](reels/reel_2241_zloi-user-hideip.me) |
+| 2242 | 2025-12-12 11:18:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140900⭐ Python) | [reels/reel_2242_langflow-ai-langflow](reels/reel_2242_langflow-ai-langflow) |
