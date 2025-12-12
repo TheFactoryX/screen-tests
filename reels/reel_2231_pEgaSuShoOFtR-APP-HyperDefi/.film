@@ -1,0 +1,24 @@
+{
+  "reel_number": 2231,
+  "recorded": "2025-12-12 05:54:53 UTC",
+  "repository": {
+    "full_name": "pEgaSuShoOFtR/APP-HyperDefi",
+    "url": "https://github.com/pEgaSuShoOFtR/APP-HyperDefi",
+    "clone_url": "https://github.com/pEgaSuShoOFtR/APP-HyperDefi.git",
+    "stars": 227,
+    "language": null,
+    "size_kb": 1171
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.413217
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 227 stars."
+  }
+}
