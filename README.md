@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2243 | [alphagov/govuk-design-system](https://github.com/alphagov/govuk-design-system) | Nunjucks · ⭐ 608 | 2025-12-12 |
+| #2244 | [story-apps/starc](https://github.com/story-apps/starc) | C++ · ⭐ 318 | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2309,3 +2309,4 @@ Or let GitHub Action run it automatically.
 | 2241 | 2025-12-12 10:47:20 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ full (401⭐ None) | [reels/reel_2241_zloi-user-hideip.me](reels/reel_2241_zloi-user-hideip.me) |
 | 2242 | 2025-12-12 11:18:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140900⭐ Python) | [reels/reel_2242_langflow-ai-langflow](reels/reel_2242_langflow-ai-langflow) |
 | 2243 | 2025-12-12 11:40:46 | [alphagov/govuk-design-system](https://github.com/alphagov/govuk-design-system) | ✅ full (608⭐ Nunjucks) | [reels/reel_2243_alphagov-govuk-design-system](reels/reel_2243_alphagov-govuk-design-system) |
+| 2244 | 2025-12-12 11:50:41 | [story-apps/starc](https://github.com/story-apps/starc) | ✅ shallow (318⭐ C++) | [reels/reel_2244_story-apps-starc](reels/reel_2244_story-apps-starc) |

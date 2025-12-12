@@ -1,0 +1,24 @@
+{
+  "reel_number": 2244,
+  "recorded": "2025-12-12 11:50:41 UTC",
+  "repository": {
+    "full_name": "story-apps/starc",
+    "url": "https://github.com/story-apps/starc",
+    "clone_url": "https://github.com/story-apps/starc.git",
+    "stars": 318,
+    "language": "C++",
+    "size_kb": 186044
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 181,
+    "duration_seconds": 6.031092
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 318 stars."
+  }
+}
