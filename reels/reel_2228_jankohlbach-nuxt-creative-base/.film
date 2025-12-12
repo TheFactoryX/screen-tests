@@ -1,0 +1,24 @@
+{
+  "reel_number": 2228,
+  "recorded": "2025-12-12 04:46:55 UTC",
+  "repository": {
+    "full_name": "jankohlbach/nuxt-creative-base",
+    "url": "https://github.com/jankohlbach/nuxt-creative-base",
+    "clone_url": "https://github.com/jankohlbach/nuxt-creative-base.git",
+    "stars": 43,
+    "language": "Vue",
+    "size_kb": 8665
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.719917
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 43 stars."
+  }
+}
