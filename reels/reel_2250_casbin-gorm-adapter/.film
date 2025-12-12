@@ -1,0 +1,24 @@
+{
+  "reel_number": 2250,
+  "recorded": "2025-12-12 14:51:35 UTC",
+  "repository": {
+    "full_name": "casbin/gorm-adapter",
+    "url": "https://github.com/casbin/gorm-adapter",
+    "clone_url": "https://github.com/casbin/gorm-adapter.git",
+    "stars": 734,
+    "language": "Go",
+    "size_kb": 216
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.181328
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 734 stars."
+  }
+}

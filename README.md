@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2249 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-12 |
+| #2250 | [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter) | Go · ⭐ 734 | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2315,3 +2315,4 @@ Or let GitHub Action run it automatically.
 | 2247 | 2025-12-12 13:51:54 | [ai-glimpse/toyllm](https://github.com/ai-glimpse/toyllm) | ✅ full (25⭐ Python) | [reels/reel_2247_ai-glimpse-toyllm](reels/reel_2247_ai-glimpse-toyllm) |
 | 2248 | 2025-12-12 14:18:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162214⭐ TypeScript) | [reels/reel_2248_n8n-io-n8n](reels/reel_2248_n8n-io-n8n) |
 | 2249 | 2025-12-12 14:40:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180247⭐ Python) | [reels/reel_2249_Significant-Gravitas-AutoGPT](reels/reel_2249_Significant-Gravitas-AutoGPT) |
+| 2250 | 2025-12-12 14:51:35 | [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter) | ✅ full (734⭐ Go) | [reels/reel_2250_casbin-gorm-adapter](reels/reel_2250_casbin-gorm-adapter) |
