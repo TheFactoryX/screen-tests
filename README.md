@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2233 | [WeiGiegie/666](https://github.com/WeiGiegie/666) | JavaScript · ⭐ 337 | 2025-12-12 |
+| #2234 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2299,3 +2299,4 @@ Or let GitHub Action run it automatically.
 | 2231 | 2025-12-12 05:54:53 | [pEgaSuShoOFtR/APP-HyperDefi](https://github.com/pEgaSuShoOFtR/APP-HyperDefi) | ✅ full (227⭐ None) | [reels/reel_2231_pEgaSuShoOFtR-APP-HyperDefi](reels/reel_2231_pEgaSuShoOFtR-APP-HyperDefi) |
 | 2232 | 2025-12-12 06:30:24 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100985⭐ Shell) | [reels/reel_2232_papers-we-love-papers-we-love](reels/reel_2232_papers-we-love-papers-we-love) |
 | 2233 | 2025-12-12 07:00:39 | [WeiGiegie/666](https://github.com/WeiGiegie/666) | ✅ full (337⭐ JavaScript) | [reels/reel_2233_WeiGiegie-666](reels/reel_2233_WeiGiegie-666) |
+| 2234 | 2025-12-12 07:33:40 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108444⭐ Rust) | [reels/reel_2234_rust-lang-rust](reels/reel_2234_rust-lang-rust) |
