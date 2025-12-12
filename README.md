@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2267 | [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) | Go · ⭐ 358 | 2025-12-12 |
+| #2268 | [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) | JavaScript · ⭐ 636 | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2333,3 +2333,4 @@ Or let GitHub Action run it automatically.
 | 2265 | 2025-12-12 20:43:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101705⭐ TypeScript) | [reels/reel_2265_shadcn-ui-ui](reels/reel_2265_shadcn-ui-ui) |
 | 2266 | 2025-12-12 20:55:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162271⭐ TypeScript) | [reels/reel_2266_n8n-io-n8n](reels/reel_2266_n8n-io-n8n) |
 | 2267 | 2025-12-12 21:17:30 | [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) | ✅ full (358⭐ Go) | [reels/reel_2267_jkroepke-openvpn-auth-oauth2](reels/reel_2267_jkroepke-openvpn-auth-oauth2) |
+| 2268 | 2025-12-12 21:38:09 | [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) | ✅ full (636⭐ JavaScript) | [reels/reel_2268_n00bcodr-Jellyfin-Enhanced](reels/reel_2268_n00bcodr-Jellyfin-Enhanced) |
