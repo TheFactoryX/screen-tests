@@ -1,0 +1,24 @@
+{
+  "reel_number": 2236,
+  "recorded": "2025-12-12 08:27:58 UTC",
+  "repository": {
+    "full_name": "enriquephl/QuantumultX_config",
+    "url": "https://github.com/enriquephl/QuantumultX_config",
+    "clone_url": "https://github.com/enriquephl/QuantumultX_config.git",
+    "stars": 121,
+    "language": "Vim Snippet",
+    "size_kb": 517
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.281659
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vim Snippet",
+    "director_note": "A Vim Snippet repository. 121 stars."
+  }
+}
