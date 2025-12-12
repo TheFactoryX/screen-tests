@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2231 | [pEgaSuShoOFtR/APP-HyperDefi](https://github.com/pEgaSuShoOFtR/APP-HyperDefi) | None · ⭐ 227 | 2025-12-12 |
+| #2232 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 100k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2297,3 +2297,4 @@ Or let GitHub Action run it automatically.
 | 2229 | 2025-12-12 05:20:17 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96936⭐ TypeScript) | [reels/reel_2229_ant-design-ant-design](reels/reel_2229_ant-design-ant-design) |
 | 2230 | 2025-12-12 05:44:51 | [dsalaj/quirky-ux](https://github.com/dsalaj/quirky-ux) | ✅ full (12⭐ HTML) | [reels/reel_2230_dsalaj-quirky-ux](reels/reel_2230_dsalaj-quirky-ux) |
 | 2231 | 2025-12-12 05:54:53 | [pEgaSuShoOFtR/APP-HyperDefi](https://github.com/pEgaSuShoOFtR/APP-HyperDefi) | ✅ full (227⭐ None) | [reels/reel_2231_pEgaSuShoOFtR-APP-HyperDefi](reels/reel_2231_pEgaSuShoOFtR-APP-HyperDefi) |
+| 2232 | 2025-12-12 06:30:24 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (100985⭐ Shell) | [reels/reel_2232_papers-we-love-papers-we-love](reels/reel_2232_papers-we-love-papers-we-love) |
