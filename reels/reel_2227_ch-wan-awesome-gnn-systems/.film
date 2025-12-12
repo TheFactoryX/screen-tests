@@ -1,0 +1,24 @@
+{
+  "reel_number": 2227,
+  "recorded": "2025-12-12 04:04:20 UTC",
+  "repository": {
+    "full_name": "ch-wan/awesome-gnn-systems",
+    "url": "https://github.com/ch-wan/awesome-gnn-systems",
+    "clone_url": "https://github.com/ch-wan/awesome-gnn-systems.git",
+    "stars": 332,
+    "language": "Python",
+    "size_kb": 769
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.665615
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 332 stars."
+  }
+}

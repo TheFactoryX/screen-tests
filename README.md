@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2226 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-12 |
+| #2227 | [ch-wan/awesome-gnn-systems](https://github.com/ch-wan/awesome-gnn-systems) | Python · ⭐ 332 | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2292,3 +2292,4 @@ Or let GitHub Action run it automatically.
 | 2224 | 2025-12-11 23:50:31 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102435⭐ None) | [reels/reel_2224_Hack-with-Github-Awesome-Hacking](reels/reel_2224_Hack-with-Github-Awesome-Hacking) |
 | 2225 | 2025-12-12 01:27:03 | [codecrafters-io/language-dashboard](https://github.com/codecrafters-io/language-dashboard) | ✅ full (13⭐ Python) | [reels/reel_2225_codecrafters-io-language-dashboard](reels/reel_2225_codecrafters-io-language-dashboard) |
 | 2226 | 2025-12-12 03:10:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117564⭐ Svelte) | [reels/reel_2226_open-webui-open-webui](reels/reel_2226_open-webui-open-webui) |
+| 2227 | 2025-12-12 04:04:20 | [ch-wan/awesome-gnn-systems](https://github.com/ch-wan/awesome-gnn-systems) | ✅ full (332⭐ Python) | [reels/reel_2227_ch-wan-awesome-gnn-systems](reels/reel_2227_ch-wan-awesome-gnn-systems) |
