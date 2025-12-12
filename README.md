@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2247 | [ai-glimpse/toyllm](https://github.com/ai-glimpse/toyllm) | Python · ⭐ 25 | 2025-12-12 |
+| #2248 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 162k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2313,3 +2313,4 @@ Or let GitHub Action run it automatically.
 | 2245 | 2025-12-12 12:40:03 | [Charcoal-SE/SmokeDetector](https://github.com/Charcoal-SE/SmokeDetector) | ✅ readme_only (492⭐ Python) | [reels/reel_2245_Charcoal-SE-SmokeDetector](reels/reel_2245_Charcoal-SE-SmokeDetector) |
 | 2246 | 2025-12-12 13:23:04 | [justoneapi-45/tiktok-api](https://github.com/justoneapi-45/tiktok-api) | ✅ full (640⭐ None) | [reels/reel_2246_justoneapi-45-tiktok-api](reels/reel_2246_justoneapi-45-tiktok-api) |
 | 2247 | 2025-12-12 13:51:54 | [ai-glimpse/toyllm](https://github.com/ai-glimpse/toyllm) | ✅ full (25⭐ Python) | [reels/reel_2247_ai-glimpse-toyllm](reels/reel_2247_ai-glimpse-toyllm) |
+| 2248 | 2025-12-12 14:18:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162214⭐ TypeScript) | [reels/reel_2248_n8n-io-n8n](reels/reel_2248_n8n-io-n8n) |
