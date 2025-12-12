@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2228 | [jankohlbach/nuxt-creative-base](https://github.com/jankohlbach/nuxt-creative-base) | Vue · ⭐ 43 | 2025-12-12 |
+| #2229 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-12 |
 ---
 
 ## 🎭 Selection Process
@@ -2294,3 +2294,4 @@ Or let GitHub Action run it automatically.
 | 2226 | 2025-12-12 03:10:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117564⭐ Svelte) | [reels/reel_2226_open-webui-open-webui](reels/reel_2226_open-webui-open-webui) |
 | 2227 | 2025-12-12 04:04:20 | [ch-wan/awesome-gnn-systems](https://github.com/ch-wan/awesome-gnn-systems) | ✅ full (332⭐ Python) | [reels/reel_2227_ch-wan-awesome-gnn-systems](reels/reel_2227_ch-wan-awesome-gnn-systems) |
 | 2228 | 2025-12-12 04:46:55 | [jankohlbach/nuxt-creative-base](https://github.com/jankohlbach/nuxt-creative-base) | ✅ full (43⭐ Vue) | [reels/reel_2228_jankohlbach-nuxt-creative-base](reels/reel_2228_jankohlbach-nuxt-creative-base) |
+| 2229 | 2025-12-12 05:20:17 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96936⭐ TypeScript) | [reels/reel_2229_ant-design-ant-design](reels/reel_2229_ant-design-ant-design) |
