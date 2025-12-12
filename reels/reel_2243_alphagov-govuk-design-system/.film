@@ -1,0 +1,24 @@
+{
+  "reel_number": 2243,
+  "recorded": "2025-12-12 11:40:46 UTC",
+  "repository": {
+    "full_name": "alphagov/govuk-design-system",
+    "url": "https://github.com/alphagov/govuk-design-system",
+    "clone_url": "https://github.com/alphagov/govuk-design-system.git",
+    "stars": 608,
+    "language": "Nunjucks",
+    "size_kb": 34402
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 3.904826
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nunjucks",
+    "director_note": "A Nunjucks repository. 608 stars."
+  }
+}
