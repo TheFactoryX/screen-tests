@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2306 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-13 |
+| #2307 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 101k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2372,3 +2372,4 @@ Or let GitHub Action run it automatically.
 | 2304 | 2025-12-13 13:52:42 | [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) | ✅ readme_only (7330⭐ C++) | [reels/reel_2304_OpenTTD-OpenTTD](reels/reel_2304_OpenTTD-OpenTTD) |
 | 2305 | 2025-12-13 14:16:17 | [rancher/artifact-mirror](https://github.com/rancher/artifact-mirror) | ✅ full (36⭐ Go) | [reels/reel_2305_rancher-artifact-mirror](reels/reel_2305_rancher-artifact-mirror) |
 | 2306 | 2025-12-13 14:40:27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99917⭐ Rust) | [reels/reel_2306_tauri-apps-tauri](reels/reel_2306_tauri-apps-tauri) |
+| 2307 | 2025-12-13 14:50:31 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101835⭐ TypeScript) | [reels/reel_2307_shadcn-ui-ui](reels/reel_2307_shadcn-ui-ui) |
