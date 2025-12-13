@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2328 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-13 |
+| #2329 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2394,3 +2394,4 @@ Or let GitHub Action run it automatically.
 | 2326 | 2025-12-13 21:37:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141031⭐ Python) | [reels/reel_2326_langflow-ai-langflow](reels/reel_2326_langflow-ai-langflow) |
 | 2327 | 2025-12-13 21:49:58 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138145⭐ Python) | [reels/reel_2327_yt-dlp-yt-dlp](reels/reel_2327_yt-dlp-yt-dlp) |
 | 2328 | 2025-12-13 22:17:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117717⭐ Svelte) | [reels/reel_2328_open-webui-open-webui](reels/reel_2328_open-webui-open-webui) |
+| 2329 | 2025-12-13 22:40:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104894⭐ TypeScript) | [reels/reel_2329_iptv-org-iptv](reels/reel_2329_iptv-org-iptv) |
