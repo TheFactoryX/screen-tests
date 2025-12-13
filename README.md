@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2313 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-13 |
+| #2314 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2379,3 +2379,4 @@ Or let GitHub Action run it automatically.
 | 2311 | 2025-12-13 16:21:30 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100726⭐ Python) | [reels/reel_2311_deepseek-ai-DeepSeek-V3](reels/reel_2311_deepseek-ai-DeepSeek-V3) |
 | 2312 | 2025-12-13 16:45:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141011⭐ Python) | [reels/reel_2312_langflow-ai-langflow](reels/reel_2312_langflow-ai-langflow) |
 | 2313 | 2025-12-13 17:16:13 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102530⭐ None) | [reels/reel_2313_Hack-with-Github-Awesome-Hacking](reels/reel_2313_Hack-with-Github-Awesome-Hacking) |
+| 2314 | 2025-12-13 17:38:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108472⭐ Rust) | [reels/reel_2314_rust-lang-rust](reels/reel_2314_rust-lang-rust) |
