@@ -1,0 +1,24 @@
+{
+  "reel_number": 2317,
+  "recorded": "2025-12-13 18:47:30 UTC",
+  "repository": {
+    "full_name": "DIGI-UW/OpenELIS-Global-2",
+    "url": "https://github.com/DIGI-UW/OpenELIS-Global-2",
+    "clone_url": "https://github.com/DIGI-UW/OpenELIS-Global-2.git",
+    "stars": 168,
+    "language": "Java",
+    "size_kb": 230290
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 224,
+    "duration_seconds": 3.873645
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 168 stars."
+  }
+}

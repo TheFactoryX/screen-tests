@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2316 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-13 |
+| #2317 | [DIGI-UW/OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2) | Java · ⭐ 168 | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2382,3 +2382,4 @@ Or let GitHub Action run it automatically.
 | 2314 | 2025-12-13 17:38:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108472⭐ Rust) | [reels/reel_2314_rust-lang-rust](reels/reel_2314_rust-lang-rust) |
 | 2315 | 2025-12-13 17:49:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180269⭐ Python) | [reels/reel_2315_Significant-Gravitas-AutoGPT](reels/reel_2315_Significant-Gravitas-AutoGPT) |
 | 2316 | 2025-12-13 18:24:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138128⭐ Python) | [reels/reel_2316_yt-dlp-yt-dlp](reels/reel_2316_yt-dlp-yt-dlp) |
+| 2317 | 2025-12-13 18:47:30 | [DIGI-UW/OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2) | ✅ shallow (168⭐ Java) | [reels/reel_2317_DIGI-UW-OpenELIS-Global-2](reels/reel_2317_DIGI-UW-OpenELIS-Global-2) |
