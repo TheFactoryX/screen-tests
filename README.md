@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2282 | [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) | Lua · ⭐ 216 | 2025-12-13 |
+| #2283 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 162k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2348,3 +2348,4 @@ Or let GitHub Action run it automatically.
 | 2280 | 2025-12-13 04:46:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117658⭐ Svelte) | [reels/reel_2280_open-webui-open-webui](reels/reel_2280_open-webui-open-webui) |
 | 2281 | 2025-12-13 05:19:16 | [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) | ✅ full (203⭐ Python) | [reels/reel_2281_EuleMitKeule-device-tools](reels/reel_2281_EuleMitKeule-device-tools) |
 | 2282 | 2025-12-13 05:43:03 | [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) | ✅ full (216⭐ Lua) | [reels/reel_2282_rockyzhang24-dotfiles](reels/reel_2282_rockyzhang24-dotfiles) |
+| 2283 | 2025-12-13 05:53:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162340⭐ TypeScript) | [reels/reel_2283_n8n-io-n8n](reels/reel_2283_n8n-io-n8n) |
