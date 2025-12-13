@@ -1,0 +1,24 @@
+{
+  "reel_number": 2279,
+  "recorded": "2025-12-13 04:24:57 UTC",
+  "repository": {
+    "full_name": "shoebpate1/Web-CTF-Challenges",
+    "url": "https://github.com/shoebpate1/Web-CTF-Challenges",
+    "clone_url": "https://github.com/shoebpate1/Web-CTF-Challenges.git",
+    "stars": 27,
+    "language": "Handlebars",
+    "size_kb": 15
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.119363
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Handlebars",
+    "director_note": "A Handlebars repository. 27 stars."
+  }
+}

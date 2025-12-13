@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2278 | [plengauer/Thoth](https://github.com/plengauer/Thoth) | Shell · ⭐ 141 | 2025-12-13 |
+| #2279 | [shoebpate1/Web-CTF-Challenges](https://github.com/shoebpate1/Web-CTF-Challenges) | Handlebars · ⭐ 27 | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2344,3 +2344,4 @@ Or let GitHub Action run it automatically.
 | 2276 | 2025-12-13 01:22:31 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102506⭐ None) | [reels/reel_2276_Hack-with-Github-Awesome-Hacking](reels/reel_2276_Hack-with-Github-Awesome-Hacking) |
 | 2277 | 2025-12-13 02:57:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117656⭐ Svelte) | [reels/reel_2277_open-webui-open-webui](reels/reel_2277_open-webui-open-webui) |
 | 2278 | 2025-12-13 03:50:25 | [plengauer/Thoth](https://github.com/plengauer/Thoth) | ✅ full (141⭐ Shell) | [reels/reel_2278_plengauer-Thoth](reels/reel_2278_plengauer-Thoth) |
+| 2279 | 2025-12-13 04:24:57 | [shoebpate1/Web-CTF-Challenges](https://github.com/shoebpate1/Web-CTF-Challenges) | ✅ full (27⭐ Handlebars) | [reels/reel_2279_shoebpate1-Web-CTF-Challenges](reels/reel_2279_shoebpate1-Web-CTF-Challenges) |
