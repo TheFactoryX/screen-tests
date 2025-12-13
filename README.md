@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2286 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-13 |
+| #2287 | [tseemann/shovill](https://github.com/tseemann/shovill) | Perl · ⭐ 243 | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2352,3 +2352,4 @@ Or let GitHub Action run it automatically.
 | 2284 | 2025-12-13 06:27:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162345⭐ TypeScript) | [reels/reel_2284_n8n-io-n8n](reels/reel_2284_n8n-io-n8n) |
 | 2285 | 2025-12-13 06:52:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (101754⭐ TypeScript) | [reels/reel_2285_shadcn-ui-ui](reels/reel_2285_shadcn-ui-ui) |
 | 2286 | 2025-12-13 07:20:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140978⭐ Python) | [reels/reel_2286_langflow-ai-langflow](reels/reel_2286_langflow-ai-langflow) |
+| 2287 | 2025-12-13 07:38:43 | [tseemann/shovill](https://github.com/tseemann/shovill) | ✅ full (243⭐ Perl) | [reels/reel_2287_tseemann-shovill](reels/reel_2287_tseemann-shovill) |
