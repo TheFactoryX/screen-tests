@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2332 | [daRkZvoidSTRi/Flashloan-Arbitrage-Bot](https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot) | JavaScript · ⭐ 114 | 2025-12-13 |
+| #2333 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2398,3 +2398,4 @@ Or let GitHub Action run it automatically.
 | 2330 | 2025-12-13 22:50:28 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104895⭐ TypeScript) | [reels/reel_2330_iptv-org-iptv](reels/reel_2330_iptv-org-iptv) |
 | 2331 | 2025-12-13 23:17:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (383968⭐ Python) | [reels/reel_2331_public-apis-public-apis](reels/reel_2331_public-apis-public-apis) |
 | 2332 | 2025-12-13 23:38:15 | [daRkZvoidSTRi/Flashloan-Arbitrage-Bot](https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot) | ✅ full (114⭐ JavaScript) | [reels/reel_2332_daRkZvoidSTRi-Flashloan-Arbitrage-Bot](reels/reel_2332_daRkZvoidSTRi-Flashloan-Arbitrage-Bot) |
+| 2333 | 2025-12-13 23:50:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117722⭐ Svelte) | [reels/reel_2333_open-webui-open-webui](reels/reel_2333_open-webui-open-webui) |
