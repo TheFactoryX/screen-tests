@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2280 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-13 |
+| #2281 | [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) | Python · ⭐ 203 | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2346,3 +2346,4 @@ Or let GitHub Action run it automatically.
 | 2278 | 2025-12-13 03:50:25 | [plengauer/Thoth](https://github.com/plengauer/Thoth) | ✅ full (141⭐ Shell) | [reels/reel_2278_plengauer-Thoth](reels/reel_2278_plengauer-Thoth) |
 | 2279 | 2025-12-13 04:24:57 | [shoebpate1/Web-CTF-Challenges](https://github.com/shoebpate1/Web-CTF-Challenges) | ✅ full (27⭐ Handlebars) | [reels/reel_2279_shoebpate1-Web-CTF-Challenges](reels/reel_2279_shoebpate1-Web-CTF-Challenges) |
 | 2280 | 2025-12-13 04:46:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117658⭐ Svelte) | [reels/reel_2280_open-webui-open-webui](reels/reel_2280_open-webui-open-webui) |
+| 2281 | 2025-12-13 05:19:16 | [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) | ✅ full (203⭐ Python) | [reels/reel_2281_EuleMitKeule-device-tools](reels/reel_2281_EuleMitKeule-device-tools) |
