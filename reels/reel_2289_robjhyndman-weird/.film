@@ -1,0 +1,24 @@
+{
+  "reel_number": 2289,
+  "recorded": "2025-12-13 08:23:12 UTC",
+  "repository": {
+    "full_name": "robjhyndman/weird",
+    "url": "https://github.com/robjhyndman/weird",
+    "clone_url": "https://github.com/robjhyndman/weird.git",
+    "stars": 42,
+    "language": "TeX",
+    "size_kb": 133109
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 129,
+    "duration_seconds": 2.429479
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TeX",
+    "director_note": "A TeX repository. 42 stars."
+  }
+}
