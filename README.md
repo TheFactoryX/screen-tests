@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2292 | [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) | Python · ⭐ 106 | 2025-12-13 |
+| #2293 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2358,3 +2358,4 @@ Or let GitHub Action run it automatically.
 | 2290 | 2025-12-13 08:45:53 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252431⭐ None) | [reels/reel_2290_practical-tutorials-project-based-learning](reels/reel_2290_practical-tutorials-project-based-learning) |
 | 2291 | 2025-12-13 09:18:12 | [opennextjs/opennextjs-netlify](https://github.com/opennextjs/opennextjs-netlify) | ✅ shallow (800⭐ TypeScript) | [reels/reel_2291_opennextjs-opennextjs-netlify](reels/reel_2291_opennextjs-opennextjs-netlify) |
 | 2292 | 2025-12-13 09:39:13 | [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) | ✅ shallow (106⭐ Python) | [reels/reel_2292_Vann-Dev-proxy-list](reels/reel_2292_Vann-Dev-proxy-list) |
+| 2293 | 2025-12-13 09:49:42 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138090⭐ Python) | [reels/reel_2293_yt-dlp-yt-dlp](reels/reel_2293_yt-dlp-yt-dlp) |
