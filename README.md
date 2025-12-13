@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2298 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-13 |
+| #2299 | [badhive/stitch](https://github.com/badhive/stitch) | C++ · ⭐ 269 | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2364,3 +2364,4 @@ Or let GitHub Action run it automatically.
 | 2296 | 2025-12-13 10:51:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180265⭐ Python) | [reels/reel_2296_Significant-Gravitas-AutoGPT](reels/reel_2296_Significant-Gravitas-AutoGPT) |
 | 2297 | 2025-12-13 11:14:41 | [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) | ✅ full (313⭐ PHP) | [reels/reel_2297_bonny-WordPress-Simple-History](reels/reel_2297_bonny-WordPress-Simple-History) |
 | 2298 | 2025-12-13 11:28:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117685⭐ Svelte) | [reels/reel_2298_open-webui-open-webui](reels/reel_2298_open-webui-open-webui) |
+| 2299 | 2025-12-13 11:40:39 | [badhive/stitch](https://github.com/badhive/stitch) | ✅ full (269⭐ C++) | [reels/reel_2299_badhive-stitch](reels/reel_2299_badhive-stitch) |

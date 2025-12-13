@@ -1,0 +1,24 @@
+{
+  "reel_number": 2299,
+  "recorded": "2025-12-13 11:40:39 UTC",
+  "repository": {
+    "full_name": "badhive/stitch",
+    "url": "https://github.com/badhive/stitch",
+    "clone_url": "https://github.com/badhive/stitch.git",
+    "stars": 269,
+    "language": "C++",
+    "size_kb": 442
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.793319
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 269 stars."
+  }
+}
