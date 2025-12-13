@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2323 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-13 |
+| #2324 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2389,3 +2389,4 @@ Or let GitHub Action run it automatically.
 | 2321 | 2025-12-13 19:50:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108476⭐ Rust) | [reels/reel_2321_rust-lang-rust](reels/reel_2321_rust-lang-rust) |
 | 2322 | 2025-12-13 20:19:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108475⭐ Rust) | [reels/reel_2322_rust-lang-rust](reels/reel_2322_rust-lang-rust) |
 | 2323 | 2025-12-13 20:40:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117716⭐ Svelte) | [reels/reel_2323_open-webui-open-webui](reels/reel_2323_open-webui-open-webui) |
+| 2324 | 2025-12-13 20:50:09 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139145⭐ Python) | [reels/reel_2324_ytdl-org-youtube-dl](reels/reel_2324_ytdl-org-youtube-dl) |
