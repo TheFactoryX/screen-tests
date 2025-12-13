@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2281 | [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) | Python · ⭐ 203 | 2025-12-13 |
+| #2282 | [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) | Lua · ⭐ 216 | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2347,3 +2347,4 @@ Or let GitHub Action run it automatically.
 | 2279 | 2025-12-13 04:24:57 | [shoebpate1/Web-CTF-Challenges](https://github.com/shoebpate1/Web-CTF-Challenges) | ✅ full (27⭐ Handlebars) | [reels/reel_2279_shoebpate1-Web-CTF-Challenges](reels/reel_2279_shoebpate1-Web-CTF-Challenges) |
 | 2280 | 2025-12-13 04:46:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117658⭐ Svelte) | [reels/reel_2280_open-webui-open-webui](reels/reel_2280_open-webui-open-webui) |
 | 2281 | 2025-12-13 05:19:16 | [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) | ✅ full (203⭐ Python) | [reels/reel_2281_EuleMitKeule-device-tools](reels/reel_2281_EuleMitKeule-device-tools) |
+| 2282 | 2025-12-13 05:43:03 | [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) | ✅ full (216⭐ Lua) | [reels/reel_2282_rockyzhang24-dotfiles](reels/reel_2282_rockyzhang24-dotfiles) |
