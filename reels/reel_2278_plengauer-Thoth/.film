@@ -1,0 +1,24 @@
+{
+  "reel_number": 2278,
+  "recorded": "2025-12-13 03:50:25 UTC",
+  "repository": {
+    "full_name": "plengauer/Thoth",
+    "url": "https://github.com/plengauer/Thoth",
+    "clone_url": "https://github.com/plengauer/Thoth.git",
+    "stars": 141,
+    "language": "Shell",
+    "size_kb": 7477
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.914968
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 141 stars."
+  }
+}
