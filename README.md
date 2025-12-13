@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2275 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 140k | 2025-12-12 |
+| #2276 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2341,3 +2341,4 @@ Or let GitHub Action run it automatically.
 | 2273 | 2025-12-12 23:18:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262667⭐ None) | [reels/reel_2273_awesome-selfhosted-awesome-selfhosted](reels/reel_2273_awesome-selfhosted-awesome-selfhosted) |
 | 2274 | 2025-12-12 23:39:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104863⭐ TypeScript) | [reels/reel_2274_iptv-org-iptv](reels/reel_2274_iptv-org-iptv) |
 | 2275 | 2025-12-12 23:49:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140950⭐ Python) | [reels/reel_2275_langflow-ai-langflow](reels/reel_2275_langflow-ai-langflow) |
+| 2276 | 2025-12-13 01:22:31 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102506⭐ None) | [reels/reel_2276_Hack-with-Github-Awesome-Hacking](reels/reel_2276_Hack-with-Github-Awesome-Hacking) |
