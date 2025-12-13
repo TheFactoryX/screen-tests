@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2295 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-13 |
+| #2296 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2361,3 +2361,4 @@ Or let GitHub Action run it automatically.
 | 2293 | 2025-12-13 09:49:42 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138090⭐ Python) | [reels/reel_2293_yt-dlp-yt-dlp](reels/reel_2293_yt-dlp-yt-dlp) |
 | 2294 | 2025-12-13 10:18:19 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100718⭐ Python) | [reels/reel_2294_deepseek-ai-DeepSeek-V3](reels/reel_2294_deepseek-ai-DeepSeek-V3) |
 | 2295 | 2025-12-13 10:41:43 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99907⭐ Rust) | [reels/reel_2295_tauri-apps-tauri](reels/reel_2295_tauri-apps-tauri) |
+| 2296 | 2025-12-13 10:51:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180265⭐ Python) | [reels/reel_2296_Significant-Gravitas-AutoGPT](reels/reel_2296_Significant-Gravitas-AutoGPT) |
