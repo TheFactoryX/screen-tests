@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2310 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-13 |
+| #2311 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2376,3 +2376,4 @@ Or let GitHub Action run it automatically.
 | 2308 | 2025-12-13 15:17:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262756⭐ None) | [reels/reel_2308_awesome-selfhosted-awesome-selfhosted](reels/reel_2308_awesome-selfhosted-awesome-selfhosted) |
 | 2309 | 2025-12-13 15:38:46 | [nxp-mcuxpresso/spsdk](https://github.com/nxp-mcuxpresso/spsdk) | ✅ full (71⭐ Python) | [reels/reel_2309_nxp-mcuxpresso-spsdk](reels/reel_2309_nxp-mcuxpresso-spsdk) |
 | 2310 | 2025-12-13 15:49:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138115⭐ Python) | [reels/reel_2310_yt-dlp-yt-dlp](reels/reel_2310_yt-dlp-yt-dlp) |
+| 2311 | 2025-12-13 16:21:30 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100726⭐ Python) | [reels/reel_2311_deepseek-ai-DeepSeek-V3](reels/reel_2311_deepseek-ai-DeepSeek-V3) |
