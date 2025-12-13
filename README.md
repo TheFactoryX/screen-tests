@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2304 | [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) | C++ · ⭐ 7k | 2025-12-13 |
+| #2305 | [rancher/artifact-mirror](https://github.com/rancher/artifact-mirror) | Go · ⭐ 36 | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2370,3 +2370,4 @@ Or let GitHub Action run it automatically.
 | 2302 | 2025-12-13 13:15:37 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99914⭐ Rust) | [reels/reel_2302_tauri-apps-tauri](reels/reel_2302_tauri-apps-tauri) |
 | 2303 | 2025-12-13 13:42:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104875⭐ TypeScript) | [reels/reel_2303_iptv-org-iptv](reels/reel_2303_iptv-org-iptv) |
 | 2304 | 2025-12-13 13:52:42 | [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) | ✅ readme_only (7330⭐ C++) | [reels/reel_2304_OpenTTD-OpenTTD](reels/reel_2304_OpenTTD-OpenTTD) |
+| 2305 | 2025-12-13 14:16:17 | [rancher/artifact-mirror](https://github.com/rancher/artifact-mirror) | ✅ full (36⭐ Go) | [reels/reel_2305_rancher-artifact-mirror](reels/reel_2305_rancher-artifact-mirror) |

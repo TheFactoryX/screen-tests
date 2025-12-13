@@ -1,0 +1,24 @@
+{
+  "reel_number": 2305,
+  "recorded": "2025-12-13 14:16:17 UTC",
+  "repository": {
+    "full_name": "rancher/artifact-mirror",
+    "url": "https://github.com/rancher/artifact-mirror",
+    "clone_url": "https://github.com/rancher/artifact-mirror.git",
+    "stars": 36,
+    "language": "Go",
+    "size_kb": 3240
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.31094
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 36 stars."
+  }
+}
