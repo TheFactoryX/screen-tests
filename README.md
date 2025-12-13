@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2297 | [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) | PHP · ⭐ 313 | 2025-12-13 |
+| #2298 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2363,3 +2363,4 @@ Or let GitHub Action run it automatically.
 | 2295 | 2025-12-13 10:41:43 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99907⭐ Rust) | [reels/reel_2295_tauri-apps-tauri](reels/reel_2295_tauri-apps-tauri) |
 | 2296 | 2025-12-13 10:51:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180265⭐ Python) | [reels/reel_2296_Significant-Gravitas-AutoGPT](reels/reel_2296_Significant-Gravitas-AutoGPT) |
 | 2297 | 2025-12-13 11:14:41 | [bonny/WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History) | ✅ full (313⭐ PHP) | [reels/reel_2297_bonny-WordPress-Simple-History](reels/reel_2297_bonny-WordPress-Simple-History) |
+| 2298 | 2025-12-13 11:28:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117685⭐ Svelte) | [reels/reel_2298_open-webui-open-webui](reels/reel_2298_open-webui-open-webui) |
