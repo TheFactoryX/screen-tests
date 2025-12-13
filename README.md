@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2289 | [robjhyndman/weird](https://github.com/robjhyndman/weird) | TeX · ⭐ 42 | 2025-12-13 |
+| #2290 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2355,3 +2355,4 @@ Or let GitHub Action run it automatically.
 | 2287 | 2025-12-13 07:38:43 | [tseemann/shovill](https://github.com/tseemann/shovill) | ✅ full (243⭐ Perl) | [reels/reel_2287_tseemann-shovill](reels/reel_2287_tseemann-shovill) |
 | 2288 | 2025-12-13 07:50:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108459⭐ Rust) | [reels/reel_2288_rust-lang-rust](reels/reel_2288_rust-lang-rust) |
 | 2289 | 2025-12-13 08:23:12 | [robjhyndman/weird](https://github.com/robjhyndman/weird) | ✅ shallow (42⭐ TeX) | [reels/reel_2289_robjhyndman-weird](reels/reel_2289_robjhyndman-weird) |
+| 2290 | 2025-12-13 08:45:53 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252431⭐ None) | [reels/reel_2290_practical-tutorials-project-based-learning](reels/reel_2290_practical-tutorials-project-based-learning) |
