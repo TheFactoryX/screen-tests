@@ -1,0 +1,24 @@
+{
+  "reel_number": 2332,
+  "recorded": "2025-12-13 23:38:15 UTC",
+  "repository": {
+    "full_name": "daRkZvoidSTRi/Flashloan-Arbitrage-Bot",
+    "url": "https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot",
+    "clone_url": "https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot.git",
+    "stars": 114,
+    "language": "JavaScript",
+    "size_kb": 187
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.460079
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 114 stars."
+  }
+}
