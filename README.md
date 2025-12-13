@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2312 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-13 |
+| #2313 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2378,3 +2378,4 @@ Or let GitHub Action run it automatically.
 | 2310 | 2025-12-13 15:49:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138115⭐ Python) | [reels/reel_2310_yt-dlp-yt-dlp](reels/reel_2310_yt-dlp-yt-dlp) |
 | 2311 | 2025-12-13 16:21:30 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100726⭐ Python) | [reels/reel_2311_deepseek-ai-DeepSeek-V3](reels/reel_2311_deepseek-ai-DeepSeek-V3) |
 | 2312 | 2025-12-13 16:45:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141011⭐ Python) | [reels/reel_2312_langflow-ai-langflow](reels/reel_2312_langflow-ai-langflow) |
+| 2313 | 2025-12-13 17:16:13 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102530⭐ None) | [reels/reel_2313_Hack-with-Github-Awesome-Hacking](reels/reel_2313_Hack-with-Github-Awesome-Hacking) |
