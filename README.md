@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2319 | [dennyabrain/InstagramTitles](https://github.com/dennyabrain/InstagramTitles) | Java · ⭐ 19 | 2025-12-13 |
+| #2320 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2385,3 +2385,4 @@ Or let GitHub Action run it automatically.
 | 2317 | 2025-12-13 18:47:30 | [DIGI-UW/OpenELIS-Global-2](https://github.com/DIGI-UW/OpenELIS-Global-2) | ✅ shallow (168⭐ Java) | [reels/reel_2317_DIGI-UW-OpenELIS-Global-2](reels/reel_2317_DIGI-UW-OpenELIS-Global-2) |
 | 2318 | 2025-12-13 19:14:07 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121827⭐ Python) | [reels/reel_2318_langchain-ai-langchain](reels/reel_2318_langchain-ai-langchain) |
 | 2319 | 2025-12-13 19:27:11 | [dennyabrain/InstagramTitles](https://github.com/dennyabrain/InstagramTitles) | ✅ full (19⭐ Java) | [reels/reel_2319_dennyabrain-InstagramTitles](reels/reel_2319_dennyabrain-InstagramTitles) |
+| 2320 | 2025-12-13 19:38:22 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121829⭐ Python) | [reels/reel_2320_langchain-ai-langchain](reels/reel_2320_langchain-ai-langchain) |
