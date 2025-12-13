@@ -1,0 +1,24 @@
+{
+  "reel_number": 2309,
+  "recorded": "2025-12-13 15:38:46 UTC",
+  "repository": {
+    "full_name": "nxp-mcuxpresso/spsdk",
+    "url": "https://github.com/nxp-mcuxpresso/spsdk",
+    "clone_url": "https://github.com/nxp-mcuxpresso/spsdk.git",
+    "stars": 71,
+    "language": "Python",
+    "size_kb": 78715
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 76,
+    "duration_seconds": 3.981643
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 71 stars."
+  }
+}
