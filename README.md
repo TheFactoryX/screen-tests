@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2300 | [Correia-jpv/fucking-the-book-of-secret-knowledge](https://github.com/Correia-jpv/fucking-the-book-of-secret-knowledge) | None · ⭐ 259 | 2025-12-13 |
+| #2301 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2366,3 +2366,4 @@ Or let GitHub Action run it automatically.
 | 2298 | 2025-12-13 11:28:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117685⭐ Svelte) | [reels/reel_2298_open-webui-open-webui](reels/reel_2298_open-webui-open-webui) |
 | 2299 | 2025-12-13 11:40:39 | [badhive/stitch](https://github.com/badhive/stitch) | ✅ full (269⭐ C++) | [reels/reel_2299_badhive-stitch](reels/reel_2299_badhive-stitch) |
 | 2300 | 2025-12-13 11:50:14 | [Correia-jpv/fucking-the-book-of-secret-knowledge](https://github.com/Correia-jpv/fucking-the-book-of-secret-knowledge) | ✅ full (259⭐ None) | [reels/reel_2300_Correia-jpv-fucking-the-book-of-secret-knowledge](reels/reel_2300_Correia-jpv-fucking-the-book-of-secret-knowledge) |
+| 2301 | 2025-12-13 12:35:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180267⭐ Python) | [reels/reel_2301_Significant-Gravitas-AutoGPT](reels/reel_2301_Significant-Gravitas-AutoGPT) |
