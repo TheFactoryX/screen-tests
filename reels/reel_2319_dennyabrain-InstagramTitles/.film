@@ -1,0 +1,24 @@
+{
+  "reel_number": 2319,
+  "recorded": "2025-12-13 19:27:11 UTC",
+  "repository": {
+    "full_name": "dennyabrain/InstagramTitles",
+    "url": "https://github.com/dennyabrain/InstagramTitles",
+    "clone_url": "https://github.com/dennyabrain/InstagramTitles.git",
+    "stars": 19,
+    "language": "Java",
+    "size_kb": 8743
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.672044
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 19 stars."
+  }
+}
