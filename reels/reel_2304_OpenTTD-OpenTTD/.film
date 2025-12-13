@@ -1,0 +1,24 @@
+{
+  "reel_number": 2304,
+  "recorded": "2025-12-13 13:52:42 UTC",
+  "repository": {
+    "full_name": "OpenTTD/OpenTTD",
+    "url": "https://github.com/OpenTTD/OpenTTD",
+    "clone_url": "https://github.com/OpenTTD/OpenTTD.git",
+    "stars": 7330,
+    "language": "C++",
+    "size_kb": 636792
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 621,
+    "duration_seconds": 0.000143
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 7330 stars."
+  }
+}
