@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2276 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-13 |
+| #2277 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2342,3 +2342,4 @@ Or let GitHub Action run it automatically.
 | 2274 | 2025-12-12 23:39:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104863⭐ TypeScript) | [reels/reel_2274_iptv-org-iptv](reels/reel_2274_iptv-org-iptv) |
 | 2275 | 2025-12-12 23:49:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (140950⭐ Python) | [reels/reel_2275_langflow-ai-langflow](reels/reel_2275_langflow-ai-langflow) |
 | 2276 | 2025-12-13 01:22:31 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102506⭐ None) | [reels/reel_2276_Hack-with-Github-Awesome-Hacking](reels/reel_2276_Hack-with-Github-Awesome-Hacking) |
+| 2277 | 2025-12-13 02:57:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117656⭐ Svelte) | [reels/reel_2277_open-webui-open-webui](reels/reel_2277_open-webui-open-webui) |
