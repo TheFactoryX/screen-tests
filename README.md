@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2290 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-13 |
+| #2291 | [opennextjs/opennextjs-netlify](https://github.com/opennextjs/opennextjs-netlify) | TypeScript · ⭐ 800 | 2025-12-13 |
 ---
 
 ## 🎭 Selection Process
@@ -2356,3 +2356,4 @@ Or let GitHub Action run it automatically.
 | 2288 | 2025-12-13 07:50:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108459⭐ Rust) | [reels/reel_2288_rust-lang-rust](reels/reel_2288_rust-lang-rust) |
 | 2289 | 2025-12-13 08:23:12 | [robjhyndman/weird](https://github.com/robjhyndman/weird) | ✅ shallow (42⭐ TeX) | [reels/reel_2289_robjhyndman-weird](reels/reel_2289_robjhyndman-weird) |
 | 2290 | 2025-12-13 08:45:53 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252431⭐ None) | [reels/reel_2290_practical-tutorials-project-based-learning](reels/reel_2290_practical-tutorials-project-based-learning) |
+| 2291 | 2025-12-13 09:18:12 | [opennextjs/opennextjs-netlify](https://github.com/opennextjs/opennextjs-netlify) | ✅ shallow (800⭐ TypeScript) | [reels/reel_2291_opennextjs-opennextjs-netlify](reels/reel_2291_opennextjs-opennextjs-netlify) |
