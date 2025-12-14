@@ -1,0 +1,24 @@
+{
+  "reel_number": 2371,
+  "recorded": "2025-12-14 17:39:25 UTC",
+  "repository": {
+    "full_name": "ebullient/ttrpg-convert-cli",
+    "url": "https://github.com/ebullient/ttrpg-convert-cli",
+    "clone_url": "https://github.com/ebullient/ttrpg-convert-cli.git",
+    "stars": 310,
+    "language": "Java",
+    "size_kb": 4301
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.900619
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 310 stars."
+  }
+}
