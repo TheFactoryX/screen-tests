@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2334 | [cocopuff2u/MOFA](https://github.com/cocopuff2u/MOFA) | Shell · ⭐ 232 | 2025-12-14 |
+| #2335 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 162k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2400,3 +2400,4 @@ Or let GitHub Action run it automatically.
 | 2332 | 2025-12-13 23:38:15 | [daRkZvoidSTRi/Flashloan-Arbitrage-Bot](https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot) | ✅ full (114⭐ JavaScript) | [reels/reel_2332_daRkZvoidSTRi-Flashloan-Arbitrage-Bot](reels/reel_2332_daRkZvoidSTRi-Flashloan-Arbitrage-Bot) |
 | 2333 | 2025-12-13 23:50:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117722⭐ Svelte) | [reels/reel_2333_open-webui-open-webui](reels/reel_2333_open-webui-open-webui) |
 | 2334 | 2025-12-14 01:41:39 | [cocopuff2u/MOFA](https://github.com/cocopuff2u/MOFA) | ✅ full (232⭐ Shell) | [reels/reel_2334_cocopuff2u-MOFA](reels/reel_2334_cocopuff2u-MOFA) |
+| 2335 | 2025-12-14 03:18:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162494⭐ TypeScript) | [reels/reel_2335_n8n-io-n8n](reels/reel_2335_n8n-io-n8n) |
