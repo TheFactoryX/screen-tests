@@ -1,0 +1,24 @@
+{
+  "reel_number": 2339,
+  "recorded": "2025-12-14 05:42:55 UTC",
+  "repository": {
+    "full_name": "statamic/starter-kit-cool-writings",
+    "url": "https://github.com/statamic/starter-kit-cool-writings",
+    "clone_url": "https://github.com/statamic/starter-kit-cool-writings.git",
+    "stars": 115,
+    "language": "Antlers",
+    "size_kb": 1071
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.423975
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Antlers",
+    "director_note": "A Antlers repository. 115 stars."
+  }
+}
