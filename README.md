@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2358 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 661 | 2025-12-14 |
+| #2359 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2424,3 +2424,4 @@ Or let GitHub Action run it automatically.
 | 2356 | 2025-12-14 11:41:07 | [speich/fileUploader](https://github.com/speich/fileUploader) | ✅ full (54⭐ JavaScript) | [reels/reel_2356_speich-fileUploader](reels/reel_2356_speich-fileUploader) |
 | 2357 | 2025-12-14 11:51:00 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262891⭐ None) | [reels/reel_2357_awesome-selfhosted-awesome-selfhosted](reels/reel_2357_awesome-selfhosted-awesome-selfhosted) |
 | 2358 | 2025-12-14 12:37:59 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (661⭐ Tcl) | [reels/reel_2358_rust-lang-crates.io-index](reels/reel_2358_rust-lang-crates.io-index) |
+| 2359 | 2025-12-14 13:15:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108492⭐ Rust) | [reels/reel_2359_rust-lang-rust](reels/reel_2359_rust-lang-rust) |
