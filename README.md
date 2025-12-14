@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2380 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-14 |
+| #2381 | [ROCm/composable_kernel](https://github.com/ROCm/composable_kernel) | C++ · ⭐ 497 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2446,3 +2446,4 @@ Or let GitHub Action run it automatically.
 | 2378 | 2025-12-14 19:50:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141113⭐ Python) | [reels/reel_2378_langflow-ai-langflow](reels/reel_2378_langflow-ai-langflow) |
 | 2379 | 2025-12-14 20:20:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117778⭐ Svelte) | [reels/reel_2379_open-webui-open-webui](reels/reel_2379_open-webui-open-webui) |
 | 2380 | 2025-12-14 20:41:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141115⭐ Python) | [reels/reel_2380_langflow-ai-langflow](reels/reel_2380_langflow-ai-langflow) |
+| 2381 | 2025-12-14 20:52:10 | [ROCm/composable_kernel](https://github.com/ROCm/composable_kernel) | ✅ full (497⭐ C++) | [reels/reel_2381_ROCm-composable_kernel](reels/reel_2381_ROCm-composable_kernel) |

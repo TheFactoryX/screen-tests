@@ -1,0 +1,24 @@
+{
+  "reel_number": 2381,
+  "recorded": "2025-12-14 20:52:10 UTC",
+  "repository": {
+    "full_name": "ROCm/composable_kernel",
+    "url": "https://github.com/ROCm/composable_kernel",
+    "clone_url": "https://github.com/ROCm/composable_kernel.git",
+    "stars": 497,
+    "language": "C++",
+    "size_kb": 67506
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 65,
+    "duration_seconds": 5.681694
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 497 stars."
+  }
+}
