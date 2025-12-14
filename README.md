@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2383 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 162k | 2025-12-14 |
+| #2384 | [ityonemo/clr](https://github.com/ityonemo/clr) | Zig · ⭐ 128 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2449,3 +2449,4 @@ Or let GitHub Action run it automatically.
 | 2381 | 2025-12-14 20:52:10 | [ROCm/composable_kernel](https://github.com/ROCm/composable_kernel) | ✅ full (497⭐ C++) | [reels/reel_2381_ROCm-composable_kernel](reels/reel_2381_ROCm-composable_kernel) |
 | 2382 | 2025-12-14 21:16:44 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108508⭐ Rust) | [reels/reel_2382_rust-lang-rust](reels/reel_2382_rust-lang-rust) |
 | 2383 | 2025-12-14 21:37:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162625⭐ TypeScript) | [reels/reel_2383_n8n-io-n8n](reels/reel_2383_n8n-io-n8n) |
+| 2384 | 2025-12-14 21:49:59 | [ityonemo/clr](https://github.com/ityonemo/clr) | ✅ full (128⭐ Zig) | [reels/reel_2384_ityonemo-clr](reels/reel_2384_ityonemo-clr) |
