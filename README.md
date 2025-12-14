@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2353 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-14 |
+| #2354 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2419,3 +2419,4 @@ Or let GitHub Action run it automatically.
 | 2351 | 2025-12-14 10:18:23 | [djvelimir/djvelimir.github.io](https://github.com/djvelimir/djvelimir.github.io) | ✅ full (48⭐ TypeScript) | [reels/reel_2351_djvelimir-djvelimir.github.io](reels/reel_2351_djvelimir-djvelimir.github.io) |
 | 2352 | 2025-12-14 10:42:37 | [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) | ✅ full (382⭐ TypeScript) | [reels/reel_2352_simPod-GrafanaJsonDatasource](reels/reel_2352_simPod-GrafanaJsonDatasource) |
 | 2353 | 2025-12-14 10:52:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108489⭐ Rust) | [reels/reel_2353_rust-lang-rust](reels/reel_2353_rust-lang-rust) |
+| 2354 | 2025-12-14 11:15:00 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141083⭐ Python) | [reels/reel_2354_langflow-ai-langflow](reels/reel_2354_langflow-ai-langflow) |
