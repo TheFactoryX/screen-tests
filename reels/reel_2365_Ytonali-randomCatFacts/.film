@@ -1,0 +1,24 @@
+{
+  "reel_number": 2365,
+  "recorded": "2025-12-14 15:17:25 UTC",
+  "repository": {
+    "full_name": "Ytonali/randomCatFacts",
+    "url": "https://github.com/Ytonali/randomCatFacts",
+    "clone_url": "https://github.com/Ytonali/randomCatFacts.git",
+    "stars": 25,
+    "language": null,
+    "size_kb": 348
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.275501
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 25 stars."
+  }
+}
