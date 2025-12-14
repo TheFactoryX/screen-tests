@@ -1,0 +1,24 @@
+{
+  "reel_number": 2334,
+  "recorded": "2025-12-14 01:41:39 UTC",
+  "repository": {
+    "full_name": "cocopuff2u/MOFA",
+    "url": "https://github.com/cocopuff2u/MOFA",
+    "clone_url": "https://github.com/cocopuff2u/MOFA.git",
+    "stars": 232,
+    "language": "Shell",
+    "size_kb": 85709
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 83,
+    "duration_seconds": 11.786318
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 232 stars."
+  }
+}
