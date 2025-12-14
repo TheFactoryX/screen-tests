@@ -1,0 +1,24 @@
+{
+  "reel_number": 2352,
+  "recorded": "2025-12-14 10:42:37 UTC",
+  "repository": {
+    "full_name": "simPod/GrafanaJsonDatasource",
+    "url": "https://github.com/simPod/GrafanaJsonDatasource",
+    "clone_url": "https://github.com/simPod/GrafanaJsonDatasource.git",
+    "stars": 382,
+    "language": "TypeScript",
+    "size_kb": 25115
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 1.60306
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 382 stars."
+  }
+}
