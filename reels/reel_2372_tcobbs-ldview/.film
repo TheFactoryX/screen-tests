@@ -1,0 +1,24 @@
+{
+  "reel_number": 2372,
+  "recorded": "2025-12-14 17:50:02 UTC",
+  "repository": {
+    "full_name": "tcobbs/ldview",
+    "url": "https://github.com/tcobbs/ldview",
+    "clone_url": "https://github.com/tcobbs/ldview.git",
+    "stars": 103,
+    "language": "C++",
+    "size_kb": 43329
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 2.610384
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 103 stars."
+  }
+}

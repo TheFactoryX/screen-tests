@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2371 | [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) | Java · ⭐ 310 | 2025-12-14 |
+| #2372 | [tcobbs/ldview](https://github.com/tcobbs/ldview) | C++ · ⭐ 103 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2437,3 +2437,4 @@ Or let GitHub Action run it automatically.
 | 2369 | 2025-12-14 16:45:47 | [justoneapi-01/xiaohongshu-api](https://github.com/justoneapi-01/xiaohongshu-api) | ✅ full (141⭐ None) | [reels/reel_2369_justoneapi-01-xiaohongshu-api](reels/reel_2369_justoneapi-01-xiaohongshu-api) |
 | 2370 | 2025-12-14 17:15:56 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102587⭐ None) | [reels/reel_2370_Hack-with-Github-Awesome-Hacking](reels/reel_2370_Hack-with-Github-Awesome-Hacking) |
 | 2371 | 2025-12-14 17:39:25 | [ebullient/ttrpg-convert-cli](https://github.com/ebullient/ttrpg-convert-cli) | ✅ full (310⭐ Java) | [reels/reel_2371_ebullient-ttrpg-convert-cli](reels/reel_2371_ebullient-ttrpg-convert-cli) |
+| 2372 | 2025-12-14 17:50:02 | [tcobbs/ldview](https://github.com/tcobbs/ldview) | ✅ full (103⭐ C++) | [reels/reel_2372_tcobbs-ldview](reels/reel_2372_tcobbs-ldview) |
