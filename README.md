@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2367 | [Alisah-Ozcan/HEonGPU](https://github.com/Alisah-Ozcan/HEonGPU) | Cuda · ⭐ 106 | 2025-12-14 |
+| #2368 | [precice/fenicsx-adapter](https://github.com/precice/fenicsx-adapter) | Python · ⭐ 12 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2433,3 +2433,4 @@ Or let GitHub Action run it automatically.
 | 2365 | 2025-12-14 15:17:25 | [Ytonali/randomCatFacts](https://github.com/Ytonali/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_2365_Ytonali-randomCatFacts](reels/reel_2365_Ytonali-randomCatFacts) |
 | 2366 | 2025-12-14 15:38:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121888⭐ Python) | [reels/reel_2366_langchain-ai-langchain](reels/reel_2366_langchain-ai-langchain) |
 | 2367 | 2025-12-14 15:49:36 | [Alisah-Ozcan/HEonGPU](https://github.com/Alisah-Ozcan/HEonGPU) | ✅ full (106⭐ Cuda) | [reels/reel_2367_Alisah-Ozcan-HEonGPU](reels/reel_2367_Alisah-Ozcan-HEonGPU) |
+| 2368 | 2025-12-14 16:21:05 | [precice/fenicsx-adapter](https://github.com/precice/fenicsx-adapter) | ✅ full (12⭐ Python) | [reels/reel_2368_precice-fenicsx-adapter](reels/reel_2368_precice-fenicsx-adapter) |

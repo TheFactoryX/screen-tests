@@ -1,0 +1,24 @@
+{
+  "reel_number": 2368,
+  "recorded": "2025-12-14 16:21:05 UTC",
+  "repository": {
+    "full_name": "precice/fenicsx-adapter",
+    "url": "https://github.com/precice/fenicsx-adapter",
+    "clone_url": "https://github.com/precice/fenicsx-adapter.git",
+    "stars": 12,
+    "language": "Python",
+    "size_kb": 7414
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.433387
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 12 stars."
+  }
+}
