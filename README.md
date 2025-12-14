@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2384 | [ityonemo/clr](https://github.com/ityonemo/clr) | Zig · ⭐ 128 | 2025-12-14 |
+| #2385 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2450,3 +2450,4 @@ Or let GitHub Action run it automatically.
 | 2382 | 2025-12-14 21:16:44 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108508⭐ Rust) | [reels/reel_2382_rust-lang-rust](reels/reel_2382_rust-lang-rust) |
 | 2383 | 2025-12-14 21:37:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162625⭐ TypeScript) | [reels/reel_2383_n8n-io-n8n](reels/reel_2383_n8n-io-n8n) |
 | 2384 | 2025-12-14 21:49:59 | [ityonemo/clr](https://github.com/ityonemo/clr) | ✅ full (128⭐ Zig) | [reels/reel_2384_ityonemo-clr](reels/reel_2384_ityonemo-clr) |
+| 2385 | 2025-12-14 22:17:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121899⭐ Python) | [reels/reel_2385_langchain-ai-langchain](reels/reel_2385_langchain-ai-langchain) |
