@@ -1,0 +1,24 @@
+{
+  "reel_number": 2348,
+  "recorded": "2025-12-14 09:18:37 UTC",
+  "repository": {
+    "full_name": "xBourner/status-card",
+    "url": "https://github.com/xBourner/status-card",
+    "clone_url": "https://github.com/xBourner/status-card.git",
+    "stars": 258,
+    "language": "TypeScript",
+    "size_kb": 21401
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 0.80444
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 258 stars."
+  }
+}
