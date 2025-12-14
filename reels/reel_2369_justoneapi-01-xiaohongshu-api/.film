@@ -1,0 +1,24 @@
+{
+  "reel_number": 2369,
+  "recorded": "2025-12-14 16:45:47 UTC",
+  "repository": {
+    "full_name": "justoneapi-01/xiaohongshu-api",
+    "url": "https://github.com/justoneapi-01/xiaohongshu-api",
+    "clone_url": "https://github.com/justoneapi-01/xiaohongshu-api.git",
+    "stars": 141,
+    "language": null,
+    "size_kb": 216
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.537267
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 141 stars."
+  }
+}

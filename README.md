@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2368 | [precice/fenicsx-adapter](https://github.com/precice/fenicsx-adapter) | Python · ⭐ 12 | 2025-12-14 |
+| #2369 | [justoneapi-01/xiaohongshu-api](https://github.com/justoneapi-01/xiaohongshu-api) | None · ⭐ 141 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2434,3 +2434,4 @@ Or let GitHub Action run it automatically.
 | 2366 | 2025-12-14 15:38:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121888⭐ Python) | [reels/reel_2366_langchain-ai-langchain](reels/reel_2366_langchain-ai-langchain) |
 | 2367 | 2025-12-14 15:49:36 | [Alisah-Ozcan/HEonGPU](https://github.com/Alisah-Ozcan/HEonGPU) | ✅ full (106⭐ Cuda) | [reels/reel_2367_Alisah-Ozcan-HEonGPU](reels/reel_2367_Alisah-Ozcan-HEonGPU) |
 | 2368 | 2025-12-14 16:21:05 | [precice/fenicsx-adapter](https://github.com/precice/fenicsx-adapter) | ✅ full (12⭐ Python) | [reels/reel_2368_precice-fenicsx-adapter](reels/reel_2368_precice-fenicsx-adapter) |
+| 2369 | 2025-12-14 16:45:47 | [justoneapi-01/xiaohongshu-api](https://github.com/justoneapi-01/xiaohongshu-api) | ✅ full (141⭐ None) | [reels/reel_2369_justoneapi-01-xiaohongshu-api](reels/reel_2369_justoneapi-01-xiaohongshu-api) |
