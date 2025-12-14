@@ -1,0 +1,24 @@
+{
+  "reel_number": 2343,
+  "recorded": "2025-12-14 07:17:43 UTC",
+  "repository": {
+    "full_name": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "clone_url": "https://github.com/satwikkansal/wtfpython.git",
+    "stars": 36836,
+    "language": "Python",
+    "size_kb": 1544
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.761686
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 36836 stars."
+  }
+}
