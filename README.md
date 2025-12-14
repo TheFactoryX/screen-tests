@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2374 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-14 |
+| #2375 | [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) | Vue · ⭐ 766 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2440,3 +2440,4 @@ Or let GitHub Action run it automatically.
 | 2372 | 2025-12-14 17:50:02 | [tcobbs/ldview](https://github.com/tcobbs/ldview) | ✅ full (103⭐ C++) | [reels/reel_2372_tcobbs-ldview](reels/reel_2372_tcobbs-ldview) |
 | 2373 | 2025-12-14 18:25:32 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96965⭐ TypeScript) | [reels/reel_2373_ant-design-ant-design](reels/reel_2373_ant-design-ant-design) |
 | 2374 | 2025-12-14 18:48:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117776⭐ Svelte) | [reels/reel_2374_open-webui-open-webui](reels/reel_2374_open-webui-open-webui) |
+| 2375 | 2025-12-14 19:14:18 | [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) | ✅ full (766⭐ Vue) | [reels/reel_2375_thelastoutpostworkshop-ESPConnect](reels/reel_2375_thelastoutpostworkshop-ESPConnect) |
