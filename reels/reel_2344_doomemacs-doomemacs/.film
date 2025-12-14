@@ -1,0 +1,24 @@
+{
+  "reel_number": 2344,
+  "recorded": "2025-12-14 07:37:55 UTC",
+  "repository": {
+    "full_name": "doomemacs/doomemacs",
+    "url": "https://github.com/doomemacs/doomemacs",
+    "clone_url": "https://github.com/doomemacs/doomemacs.git",
+    "stars": 21349,
+    "language": "Emacs Lisp",
+    "size_kb": 34543
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 2.423874
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Emacs Lisp",
+    "director_note": "A Emacs Lisp repository. 21349 stars."
+  }
+}

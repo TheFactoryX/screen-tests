@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2343 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python · ⭐ 36k | 2025-12-14 |
+| #2344 | [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) | Emacs Lisp · ⭐ 21k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2409,3 +2409,4 @@ Or let GitHub Action run it automatically.
 | 2341 | 2025-12-14 06:27:45 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138184⭐ Python) | [reels/reel_2341_yt-dlp-yt-dlp](reels/reel_2341_yt-dlp-yt-dlp) |
 | 2342 | 2025-12-14 06:51:53 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (448827⭐ Markdown) | [reels/reel_2342_codecrafters-io-build-your-own-x](reels/reel_2342_codecrafters-io-build-your-own-x) |
 | 2343 | 2025-12-14 07:17:43 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | ✅ full (36836⭐ Python) | [reels/reel_2343_satwikkansal-wtfpython](reels/reel_2343_satwikkansal-wtfpython) |
+| 2344 | 2025-12-14 07:37:55 | [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) | ✅ full (21349⭐ Emacs Lisp) | [reels/reel_2344_doomemacs-doomemacs](reels/reel_2344_doomemacs-doomemacs) |
