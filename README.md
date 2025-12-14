@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2348 | [xBourner/status-card](https://github.com/xBourner/status-card) | TypeScript · ⭐ 258 | 2025-12-14 |
+| #2349 | [argos-ci/argos](https://github.com/argos-ci/argos) | TypeScript · ⭐ 532 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2414,3 +2414,4 @@ Or let GitHub Action run it automatically.
 | 2346 | 2025-12-14 08:23:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104906⭐ TypeScript) | [reels/reel_2346_iptv-org-iptv](reels/reel_2346_iptv-org-iptv) |
 | 2347 | 2025-12-14 08:46:28 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252504⭐ None) | [reels/reel_2347_practical-tutorials-project-based-learning](reels/reel_2347_practical-tutorials-project-based-learning) |
 | 2348 | 2025-12-14 09:18:37 | [xBourner/status-card](https://github.com/xBourner/status-card) | ✅ full (258⭐ TypeScript) | [reels/reel_2348_xBourner-status-card](reels/reel_2348_xBourner-status-card) |
+| 2349 | 2025-12-14 09:40:04 | [argos-ci/argos](https://github.com/argos-ci/argos) | ✅ full (532⭐ TypeScript) | [reels/reel_2349_argos-ci-argos](reels/reel_2349_argos-ci-argos) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 2349,
+  "recorded": "2025-12-14 09:40:04 UTC",
+  "repository": {
+    "full_name": "argos-ci/argos",
+    "url": "https://github.com/argos-ci/argos",
+    "clone_url": "https://github.com/argos-ci/argos.git",
+    "stars": 532,
+    "language": "TypeScript",
+    "size_kb": 61337
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 59,
+    "duration_seconds": 2.410643
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 532 stars."
+  }
+}
