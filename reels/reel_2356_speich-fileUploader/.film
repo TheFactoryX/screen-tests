@@ -1,0 +1,24 @@
+{
+  "reel_number": 2356,
+  "recorded": "2025-12-14 11:41:07 UTC",
+  "repository": {
+    "full_name": "speich/fileUploader",
+    "url": "https://github.com/speich/fileUploader",
+    "clone_url": "https://github.com/speich/fileUploader.git",
+    "stars": 54,
+    "language": "JavaScript",
+    "size_kb": 276
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.499514
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 54 stars."
+  }
+}
