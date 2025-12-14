@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2356 | [speich/fileUploader](https://github.com/speich/fileUploader) | JavaScript · ⭐ 54 | 2025-12-14 |
+| #2357 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2422,3 +2422,4 @@ Or let GitHub Action run it automatically.
 | 2354 | 2025-12-14 11:15:00 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141083⭐ Python) | [reels/reel_2354_langflow-ai-langflow](reels/reel_2354_langflow-ai-langflow) |
 | 2355 | 2025-12-14 11:29:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102575⭐ None) | [reels/reel_2355_Hack-with-Github-Awesome-Hacking](reels/reel_2355_Hack-with-Github-Awesome-Hacking) |
 | 2356 | 2025-12-14 11:41:07 | [speich/fileUploader](https://github.com/speich/fileUploader) | ✅ full (54⭐ JavaScript) | [reels/reel_2356_speich-fileUploader](reels/reel_2356_speich-fileUploader) |
+| 2357 | 2025-12-14 11:51:00 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262891⭐ None) | [reels/reel_2357_awesome-selfhosted-awesome-selfhosted](reels/reel_2357_awesome-selfhosted-awesome-selfhosted) |
