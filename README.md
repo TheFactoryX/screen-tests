@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2352 | [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) | TypeScript · ⭐ 382 | 2025-12-14 |
+| #2353 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2418,3 +2418,4 @@ Or let GitHub Action run it automatically.
 | 2350 | 2025-12-14 09:49:46 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108486⭐ Rust) | [reels/reel_2350_rust-lang-rust](reels/reel_2350_rust-lang-rust) |
 | 2351 | 2025-12-14 10:18:23 | [djvelimir/djvelimir.github.io](https://github.com/djvelimir/djvelimir.github.io) | ✅ full (48⭐ TypeScript) | [reels/reel_2351_djvelimir-djvelimir.github.io](reels/reel_2351_djvelimir-djvelimir.github.io) |
 | 2352 | 2025-12-14 10:42:37 | [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) | ✅ full (382⭐ TypeScript) | [reels/reel_2352_simPod-GrafanaJsonDatasource](reels/reel_2352_simPod-GrafanaJsonDatasource) |
+| 2353 | 2025-12-14 10:52:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108489⭐ Rust) | [reels/reel_2353_rust-lang-rust](reels/reel_2353_rust-lang-rust) |
