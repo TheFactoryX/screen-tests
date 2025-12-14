@@ -1,0 +1,24 @@
+{
+  "reel_number": 2360,
+  "recorded": "2025-12-14 13:43:09 UTC",
+  "repository": {
+    "full_name": "friedrichor/Awesome-Multimodal-Papers",
+    "url": "https://github.com/friedrichor/Awesome-Multimodal-Papers",
+    "clone_url": "https://github.com/friedrichor/Awesome-Multimodal-Papers.git",
+    "stars": 301,
+    "language": null,
+    "size_kb": 66585
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 65,
+    "duration_seconds": 1.141685
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 301 stars."
+  }
+}
