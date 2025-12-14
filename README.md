@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2376 | [teelur/budget-board](https://github.com/teelur/budget-board) | C# · ⭐ 614 | 2025-12-14 |
+| #2377 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2442,3 +2442,4 @@ Or let GitHub Action run it automatically.
 | 2374 | 2025-12-14 18:48:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117776⭐ Svelte) | [reels/reel_2374_open-webui-open-webui](reels/reel_2374_open-webui-open-webui) |
 | 2375 | 2025-12-14 19:14:18 | [thelastoutpostworkshop/ESPConnect](https://github.com/thelastoutpostworkshop/ESPConnect) | ✅ full (766⭐ Vue) | [reels/reel_2375_thelastoutpostworkshop-ESPConnect](reels/reel_2375_thelastoutpostworkshop-ESPConnect) |
 | 2376 | 2025-12-14 19:28:09 | [teelur/budget-board](https://github.com/teelur/budget-board) | ✅ full (614⭐ C#) | [reels/reel_2376_teelur-budget-board](reels/reel_2376_teelur-budget-board) |
+| 2377 | 2025-12-14 19:39:42 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101059⭐ Shell) | [reels/reel_2377_papers-we-love-papers-we-love](reels/reel_2377_papers-we-love-papers-we-love) |
