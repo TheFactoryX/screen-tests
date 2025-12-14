@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2389 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-14 |
+| #2390 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 102k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2455,3 +2455,4 @@ Or let GitHub Action run it automatically.
 | 2387 | 2025-12-14 22:50:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262970⭐ None) | [reels/reel_2387_awesome-selfhosted-awesome-selfhosted](reels/reel_2387_awesome-selfhosted-awesome-selfhosted) |
 | 2388 | 2025-12-14 23:16:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121900⭐ Python) | [reels/reel_2388_langchain-ai-langchain](reels/reel_2388_langchain-ai-langchain) |
 | 2389 | 2025-12-14 23:38:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138265⭐ Python) | [reels/reel_2389_yt-dlp-yt-dlp](reels/reel_2389_yt-dlp-yt-dlp) |
+| 2390 | 2025-12-14 23:50:04 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (102315⭐ TypeScript) | [reels/reel_2390_shadcn-ui-ui](reels/reel_2390_shadcn-ui-ui) |
