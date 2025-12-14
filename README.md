@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2337 | [protesilaos/spacious-padding](https://github.com/protesilaos/spacious-padding) | Emacs Lisp · ⭐ 104 | 2025-12-14 |
+| #2338 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2403,3 +2403,4 @@ Or let GitHub Action run it automatically.
 | 2335 | 2025-12-14 03:18:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162494⭐ TypeScript) | [reels/reel_2335_n8n-io-n8n](reels/reel_2335_n8n-io-n8n) |
 | 2336 | 2025-12-14 04:11:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121846⭐ Python) | [reels/reel_2336_langchain-ai-langchain](reels/reel_2336_langchain-ai-langchain) |
 | 2337 | 2025-12-14 04:49:11 | [protesilaos/spacious-padding](https://github.com/protesilaos/spacious-padding) | ✅ full (104⭐ Emacs Lisp) | [reels/reel_2337_protesilaos-spacious-padding](reels/reel_2337_protesilaos-spacious-padding) |
+| 2338 | 2025-12-14 05:18:22 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262848⭐ None) | [reels/reel_2338_awesome-selfhosted-awesome-selfhosted](reels/reel_2338_awesome-selfhosted-awesome-selfhosted) |
