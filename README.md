@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2369 | [justoneapi-01/xiaohongshu-api](https://github.com/justoneapi-01/xiaohongshu-api) | None · ⭐ 141 | 2025-12-14 |
+| #2370 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2435,3 +2435,4 @@ Or let GitHub Action run it automatically.
 | 2367 | 2025-12-14 15:49:36 | [Alisah-Ozcan/HEonGPU](https://github.com/Alisah-Ozcan/HEonGPU) | ✅ full (106⭐ Cuda) | [reels/reel_2367_Alisah-Ozcan-HEonGPU](reels/reel_2367_Alisah-Ozcan-HEonGPU) |
 | 2368 | 2025-12-14 16:21:05 | [precice/fenicsx-adapter](https://github.com/precice/fenicsx-adapter) | ✅ full (12⭐ Python) | [reels/reel_2368_precice-fenicsx-adapter](reels/reel_2368_precice-fenicsx-adapter) |
 | 2369 | 2025-12-14 16:45:47 | [justoneapi-01/xiaohongshu-api](https://github.com/justoneapi-01/xiaohongshu-api) | ✅ full (141⭐ None) | [reels/reel_2369_justoneapi-01-xiaohongshu-api](reels/reel_2369_justoneapi-01-xiaohongshu-api) |
+| 2370 | 2025-12-14 17:15:56 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102587⭐ None) | [reels/reel_2370_Hack-with-Github-Awesome-Hacking](reels/reel_2370_Hack-with-Github-Awesome-Hacking) |
