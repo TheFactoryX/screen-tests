@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2360 | [friedrichor/Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) | None · ⭐ 301 | 2025-12-14 |
+| #2361 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2426,3 +2426,4 @@ Or let GitHub Action run it automatically.
 | 2358 | 2025-12-14 12:37:59 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (661⭐ Tcl) | [reels/reel_2358_rust-lang-crates.io-index](reels/reel_2358_rust-lang-crates.io-index) |
 | 2359 | 2025-12-14 13:15:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108492⭐ Rust) | [reels/reel_2359_rust-lang-rust](reels/reel_2359_rust-lang-rust) |
 | 2360 | 2025-12-14 13:43:09 | [friedrichor/Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) | ✅ full (301⭐ None) | [reels/reel_2360_friedrichor-Awesome-Multimodal-Papers](reels/reel_2360_friedrichor-Awesome-Multimodal-Papers) |
+| 2361 | 2025-12-14 13:53:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117762⭐ Svelte) | [reels/reel_2361_open-webui-open-webui](reels/reel_2361_open-webui-open-webui) |
