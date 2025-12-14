@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2378 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-14 |
+| #2379 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2444,3 +2444,4 @@ Or let GitHub Action run it automatically.
 | 2376 | 2025-12-14 19:28:09 | [teelur/budget-board](https://github.com/teelur/budget-board) | ✅ full (614⭐ C#) | [reels/reel_2376_teelur-budget-board](reels/reel_2376_teelur-budget-board) |
 | 2377 | 2025-12-14 19:39:42 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101059⭐ Shell) | [reels/reel_2377_papers-we-love-papers-we-love](reels/reel_2377_papers-we-love-papers-we-love) |
 | 2378 | 2025-12-14 19:50:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141113⭐ Python) | [reels/reel_2378_langflow-ai-langflow](reels/reel_2378_langflow-ai-langflow) |
+| 2379 | 2025-12-14 20:20:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117778⭐ Svelte) | [reels/reel_2379_open-webui-open-webui](reels/reel_2379_open-webui-open-webui) |
