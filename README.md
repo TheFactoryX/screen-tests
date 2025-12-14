@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2357 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 262k | 2025-12-14 |
+| #2358 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 661 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2423,3 +2423,4 @@ Or let GitHub Action run it automatically.
 | 2355 | 2025-12-14 11:29:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102575⭐ None) | [reels/reel_2355_Hack-with-Github-Awesome-Hacking](reels/reel_2355_Hack-with-Github-Awesome-Hacking) |
 | 2356 | 2025-12-14 11:41:07 | [speich/fileUploader](https://github.com/speich/fileUploader) | ✅ full (54⭐ JavaScript) | [reels/reel_2356_speich-fileUploader](reels/reel_2356_speich-fileUploader) |
 | 2357 | 2025-12-14 11:51:00 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (262891⭐ None) | [reels/reel_2357_awesome-selfhosted-awesome-selfhosted](reels/reel_2357_awesome-selfhosted-awesome-selfhosted) |
+| 2358 | 2025-12-14 12:37:59 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (661⭐ Tcl) | [reels/reel_2358_rust-lang-crates.io-index](reels/reel_2358_rust-lang-crates.io-index) |
