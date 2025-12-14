@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2350 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-14 |
+| #2351 | [djvelimir/djvelimir.github.io](https://github.com/djvelimir/djvelimir.github.io) | TypeScript · ⭐ 48 | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2416,3 +2416,4 @@ Or let GitHub Action run it automatically.
 | 2348 | 2025-12-14 09:18:37 | [xBourner/status-card](https://github.com/xBourner/status-card) | ✅ full (258⭐ TypeScript) | [reels/reel_2348_xBourner-status-card](reels/reel_2348_xBourner-status-card) |
 | 2349 | 2025-12-14 09:40:04 | [argos-ci/argos](https://github.com/argos-ci/argos) | ✅ full (532⭐ TypeScript) | [reels/reel_2349_argos-ci-argos](reels/reel_2349_argos-ci-argos) |
 | 2350 | 2025-12-14 09:49:46 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108486⭐ Rust) | [reels/reel_2350_rust-lang-rust](reels/reel_2350_rust-lang-rust) |
+| 2351 | 2025-12-14 10:18:23 | [djvelimir/djvelimir.github.io](https://github.com/djvelimir/djvelimir.github.io) | ✅ full (48⭐ TypeScript) | [reels/reel_2351_djvelimir-djvelimir.github.io](reels/reel_2351_djvelimir-djvelimir.github.io) |

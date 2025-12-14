@@ -1,0 +1,24 @@
+{
+  "reel_number": 2351,
+  "recorded": "2025-12-14 10:18:23 UTC",
+  "repository": {
+    "full_name": "djvelimir/djvelimir.github.io",
+    "url": "https://github.com/djvelimir/djvelimir.github.io",
+    "clone_url": "https://github.com/djvelimir/djvelimir.github.io.git",
+    "stars": 48,
+    "language": "TypeScript",
+    "size_kb": 10170
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 1.117737
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 48 stars."
+  }
+}
