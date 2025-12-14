@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2345 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-14 |
+| #2346 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-14 |
 ---
 
 ## 🎭 Selection Process
@@ -2411,3 +2411,4 @@ Or let GitHub Action run it automatically.
 | 2343 | 2025-12-14 07:17:43 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | ✅ full (36836⭐ Python) | [reels/reel_2343_satwikkansal-wtfpython](reels/reel_2343_satwikkansal-wtfpython) |
 | 2344 | 2025-12-14 07:37:55 | [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) | ✅ full (21349⭐ Emacs Lisp) | [reels/reel_2344_doomemacs-doomemacs](reels/reel_2344_doomemacs-doomemacs) |
 | 2345 | 2025-12-14 07:49:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138192⭐ Python) | [reels/reel_2345_yt-dlp-yt-dlp](reels/reel_2345_yt-dlp-yt-dlp) |
+| 2346 | 2025-12-14 08:23:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104906⭐ TypeScript) | [reels/reel_2346_iptv-org-iptv](reels/reel_2346_iptv-org-iptv) |
