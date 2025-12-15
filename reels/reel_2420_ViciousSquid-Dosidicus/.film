@@ -1,0 +1,24 @@
+{
+  "reel_number": 2420,
+  "recorded": "2025-12-15 17:54:21 UTC",
+  "repository": {
+    "full_name": "ViciousSquid/Dosidicus",
+    "url": "https://github.com/ViciousSquid/Dosidicus",
+    "clone_url": "https://github.com/ViciousSquid/Dosidicus.git",
+    "stars": 263,
+    "language": "Python",
+    "size_kb": 8769
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.062485
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 263 stars."
+  }
+}
