@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2431 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 162k | 2025-12-15 |
+| #2432 | [swc-project/swc-playground](https://github.com/swc-project/swc-playground) | TypeScript · ⭐ 137 | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2497,3 +2497,4 @@ Or let GitHub Action run it automatically.
 | 2429 | 2025-12-15 21:41:34 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141214⭐ Python) | [reels/reel_2429_langflow-ai-langflow](reels/reel_2429_langflow-ai-langflow) |
 | 2430 | 2025-12-15 21:51:15 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117876⭐ Svelte) | [reels/reel_2430_open-webui-open-webui](reels/reel_2430_open-webui-open-webui) |
 | 2431 | 2025-12-15 22:18:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162876⭐ TypeScript) | [reels/reel_2431_n8n-io-n8n](reels/reel_2431_n8n-io-n8n) |
+| 2432 | 2025-12-15 22:43:57 | [swc-project/swc-playground](https://github.com/swc-project/swc-playground) | ✅ full (137⭐ TypeScript) | [reels/reel_2432_swc-project-swc-playground](reels/reel_2432_swc-project-swc-playground) |
