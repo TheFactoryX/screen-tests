@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2397 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-15 |
+| #2398 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 104k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2463,3 +2463,4 @@ Or let GitHub Action run it automatically.
 | 2395 | 2025-12-15 05:30:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263009⭐ None) | [reels/reel_2395_awesome-selfhosted-awesome-selfhosted](reels/reel_2395_awesome-selfhosted-awesome-selfhosted) |
 | 2396 | 2025-12-15 05:54:14 | [vidavidorra/commitlint-plugin-function-rules](https://github.com/vidavidorra/commitlint-plugin-function-rules) | ✅ full (48⭐ TypeScript) | [reels/reel_2396_vidavidorra-commitlint-plugin-function-rules](reels/reel_2396_vidavidorra-commitlint-plugin-function-rules) |
 | 2397 | 2025-12-15 06:33:05 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104934⭐ TypeScript) | [reels/reel_2397_iptv-org-iptv](reels/reel_2397_iptv-org-iptv) |
+| 2398 | 2025-12-15 07:01:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104935⭐ TypeScript) | [reels/reel_2398_iptv-org-iptv](reels/reel_2398_iptv-org-iptv) |
