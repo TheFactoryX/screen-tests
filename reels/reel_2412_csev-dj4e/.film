@@ -1,0 +1,24 @@
+{
+  "reel_number": 2412,
+  "recorded": "2025-12-15 13:58:48 UTC",
+  "repository": {
+    "full_name": "csev/dj4e",
+    "url": "https://github.com/csev/dj4e",
+    "clone_url": "https://github.com/csev/dj4e.git",
+    "stars": 105,
+    "language": "PHP",
+    "size_kb": 211110
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 206,
+    "duration_seconds": 7.754183
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 105 stars."
+  }
+}

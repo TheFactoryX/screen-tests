@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2411 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 449k | 2025-12-15 |
+| #2412 | [csev/dj4e](https://github.com/csev/dj4e) | PHP · ⭐ 105 | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2477,3 +2477,4 @@ Or let GitHub Action run it automatically.
 | 2409 | 2025-12-15 11:50:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141184⭐ Python) | [reels/reel_2409_langflow-ai-langflow](reels/reel_2409_langflow-ai-langflow) |
 | 2410 | 2025-12-15 12:43:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121953⭐ Python) | [reels/reel_2410_langchain-ai-langchain](reels/reel_2410_langchain-ai-langchain) |
 | 2411 | 2025-12-15 13:29:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (449193⭐ Markdown) | [reels/reel_2411_codecrafters-io-build-your-own-x](reels/reel_2411_codecrafters-io-build-your-own-x) |
+| 2412 | 2025-12-15 13:58:48 | [csev/dj4e](https://github.com/csev/dj4e) | ✅ shallow (105⭐ PHP) | [reels/reel_2412_csev-dj4e](reels/reel_2412_csev-dj4e) |
