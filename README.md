@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2410 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 121k | 2025-12-15 |
+| #2411 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 449k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2476,3 +2476,4 @@ Or let GitHub Action run it automatically.
 | 2408 | 2025-12-15 11:40:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117837⭐ Svelte) | [reels/reel_2408_open-webui-open-webui](reels/reel_2408_open-webui-open-webui) |
 | 2409 | 2025-12-15 11:50:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141184⭐ Python) | [reels/reel_2409_langflow-ai-langflow](reels/reel_2409_langflow-ai-langflow) |
 | 2410 | 2025-12-15 12:43:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (121953⭐ Python) | [reels/reel_2410_langchain-ai-langchain](reels/reel_2410_langchain-ai-langchain) |
+| 2411 | 2025-12-15 13:29:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (449193⭐ Markdown) | [reels/reel_2411_codecrafters-io-build-your-own-x](reels/reel_2411_codecrafters-io-build-your-own-x) |
