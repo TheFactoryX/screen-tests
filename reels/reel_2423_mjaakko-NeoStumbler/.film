@@ -1,0 +1,24 @@
+{
+  "reel_number": 2423,
+  "recorded": "2025-12-15 19:22:49 UTC",
+  "repository": {
+    "full_name": "mjaakko/NeoStumbler",
+    "url": "https://github.com/mjaakko/NeoStumbler",
+    "clone_url": "https://github.com/mjaakko/NeoStumbler.git",
+    "stars": 390,
+    "language": "Kotlin",
+    "size_kb": 19428
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.214957
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 390 stars."
+  }
+}
