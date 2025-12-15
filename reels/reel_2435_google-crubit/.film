@@ -1,0 +1,24 @@
+{
+  "reel_number": 2435,
+  "recorded": "2025-12-15 23:40:18 UTC",
+  "repository": {
+    "full_name": "google/crubit",
+    "url": "https://github.com/google/crubit",
+    "clone_url": "https://github.com/google/crubit.git",
+    "stars": 932,
+    "language": "C++",
+    "size_kb": 19381
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 2.275569
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 932 stars."
+  }
+}
