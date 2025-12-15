@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2423 | [mjaakko/NeoStumbler](https://github.com/mjaakko/NeoStumbler) | Kotlin · ⭐ 390 | 2025-12-15 |
+| #2424 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2489,3 +2489,4 @@ Or let GitHub Action run it automatically.
 | 2421 | 2025-12-15 18:29:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108544⭐ Rust) | [reels/reel_2421_rust-lang-rust](reels/reel_2421_rust-lang-rust) |
 | 2422 | 2025-12-15 18:57:11 | [GoldenGnu/jeveassets](https://github.com/GoldenGnu/jeveassets) | ✅ full (174⭐ Java) | [reels/reel_2422_GoldenGnu-jeveassets](reels/reel_2422_GoldenGnu-jeveassets) |
 | 2423 | 2025-12-15 19:22:49 | [mjaakko/NeoStumbler](https://github.com/mjaakko/NeoStumbler) | ✅ full (390⭐ Kotlin) | [reels/reel_2423_mjaakko-NeoStumbler](reels/reel_2423_mjaakko-NeoStumbler) |
+| 2424 | 2025-12-15 19:39:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263137⭐ None) | [reels/reel_2424_awesome-selfhosted-awesome-selfhosted](reels/reel_2424_awesome-selfhosted-awesome-selfhosted) |
