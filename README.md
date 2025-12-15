@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2406 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-15 |
+| #2407 | [binarynonsense/comic-book-reader](https://github.com/binarynonsense/comic-book-reader) | JavaScript · ⭐ 305 | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2472,3 +2472,4 @@ Or let GitHub Action run it automatically.
 | 2404 | 2025-12-15 09:58:11 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (449137⭐ Markdown) | [reels/reel_2404_codecrafters-io-build-your-own-x](reels/reel_2404_codecrafters-io-build-your-own-x) |
 | 2405 | 2025-12-15 10:33:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (102499⭐ TypeScript) | [reels/reel_2405_shadcn-ui-ui](reels/reel_2405_shadcn-ui-ui) |
 | 2406 | 2025-12-15 10:57:17 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96972⭐ TypeScript) | [reels/reel_2406_ant-design-ant-design](reels/reel_2406_ant-design-ant-design) |
+| 2407 | 2025-12-15 11:23:09 | [binarynonsense/comic-book-reader](https://github.com/binarynonsense/comic-book-reader) | ✅ full (305⭐ JavaScript) | [reels/reel_2407_binarynonsense-comic-book-reader](reels/reel_2407_binarynonsense-comic-book-reader) |
