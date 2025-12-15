@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2420 | [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) | Python · ⭐ 263 | 2025-12-15 |
+| #2421 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2486,3 +2486,4 @@ Or let GitHub Action run it automatically.
 | 2418 | 2025-12-15 17:02:19 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96975⭐ TypeScript) | [reels/reel_2418_ant-design-ant-design](reels/reel_2418_ant-design-ant-design) |
 | 2419 | 2025-12-15 17:39:05 | [jumperexchange/jumper-exchange](https://github.com/jumperexchange/jumper-exchange) | ✅ full (257⭐ TypeScript) | [reels/reel_2419_jumperexchange-jumper-exchange](reels/reel_2419_jumperexchange-jumper-exchange) |
 | 2420 | 2025-12-15 17:54:21 | [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) | ✅ full (263⭐ Python) | [reels/reel_2420_ViciousSquid-Dosidicus](reels/reel_2420_ViciousSquid-Dosidicus) |
+| 2421 | 2025-12-15 18:29:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108544⭐ Rust) | [reels/reel_2421_rust-lang-rust](reels/reel_2421_rust-lang-rust) |
