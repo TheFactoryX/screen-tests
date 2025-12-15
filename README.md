@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2399 | [JawadYT36/KHAN-MD](https://github.com/JawadYT36/KHAN-MD) | JavaScript · ⭐ 554 | 2025-12-15 |
+| #2400 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 99k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2465,3 +2465,4 @@ Or let GitHub Action run it automatically.
 | 2397 | 2025-12-15 06:33:05 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104934⭐ TypeScript) | [reels/reel_2397_iptv-org-iptv](reels/reel_2397_iptv-org-iptv) |
 | 2398 | 2025-12-15 07:01:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104935⭐ TypeScript) | [reels/reel_2398_iptv-org-iptv](reels/reel_2398_iptv-org-iptv) |
 | 2399 | 2025-12-15 07:35:41 | [JawadYT36/KHAN-MD](https://github.com/JawadYT36/KHAN-MD) | ✅ full (554⭐ JavaScript) | [reels/reel_2399_JawadYT36-KHAN-MD](reels/reel_2399_JawadYT36-KHAN-MD) |
+| 2400 | 2025-12-15 07:52:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99982⭐ Rust) | [reels/reel_2400_tauri-apps-tauri](reels/reel_2400_tauri-apps-tauri) |
