@@ -1,0 +1,24 @@
+{
+  "reel_number": 2419,
+  "recorded": "2025-12-15 17:39:05 UTC",
+  "repository": {
+    "full_name": "jumperexchange/jumper-exchange",
+    "url": "https://github.com/jumperexchange/jumper-exchange",
+    "clone_url": "https://github.com/jumperexchange/jumper-exchange.git",
+    "stars": 257,
+    "language": "TypeScript",
+    "size_kb": 67273
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 65,
+    "duration_seconds": 3.502821
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 257 stars."
+  }
+}
