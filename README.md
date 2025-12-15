@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2407 | [binarynonsense/comic-book-reader](https://github.com/binarynonsense/comic-book-reader) | JavaScript · ⭐ 305 | 2025-12-15 |
+| #2408 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 117k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2473,3 +2473,4 @@ Or let GitHub Action run it automatically.
 | 2405 | 2025-12-15 10:33:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (102499⭐ TypeScript) | [reels/reel_2405_shadcn-ui-ui](reels/reel_2405_shadcn-ui-ui) |
 | 2406 | 2025-12-15 10:57:17 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96972⭐ TypeScript) | [reels/reel_2406_ant-design-ant-design](reels/reel_2406_ant-design-ant-design) |
 | 2407 | 2025-12-15 11:23:09 | [binarynonsense/comic-book-reader](https://github.com/binarynonsense/comic-book-reader) | ✅ full (305⭐ JavaScript) | [reels/reel_2407_binarynonsense-comic-book-reader](reels/reel_2407_binarynonsense-comic-book-reader) |
+| 2408 | 2025-12-15 11:40:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117837⭐ Svelte) | [reels/reel_2408_open-webui-open-webui](reels/reel_2408_open-webui-open-webui) |
