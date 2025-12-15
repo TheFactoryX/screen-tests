@@ -1,0 +1,24 @@
+{
+  "reel_number": 2433,
+  "recorded": "2025-12-15 22:54:24 UTC",
+  "repository": {
+    "full_name": "nyxgeek/frontdoor_waf_wtf",
+    "url": "https://github.com/nyxgeek/frontdoor_waf_wtf",
+    "clone_url": "https://github.com/nyxgeek/frontdoor_waf_wtf.git",
+    "stars": 23,
+    "language": "PowerShell",
+    "size_kb": 21
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.222621
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 23 stars."
+  }
+}
