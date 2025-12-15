@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2416 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-15 |
+| #2417 | [DavideViolante/weird-to-normal-chars](https://github.com/DavideViolante/weird-to-normal-chars) | JavaScript · ⭐ 11 | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2482,3 +2482,4 @@ Or let GitHub Action run it automatically.
 | 2414 | 2025-12-15 14:59:13 | [MetaMask/metamask-docs](https://github.com/MetaMask/metamask-docs) | ✅ shallow (799⭐ MDX) | [reels/reel_2414_MetaMask-metamask-docs](reels/reel_2414_MetaMask-metamask-docs) |
 | 2415 | 2025-12-15 15:32:47 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101084⭐ Shell) | [reels/reel_2415_papers-we-love-papers-we-love](reels/reel_2415_papers-we-love-papers-we-love) |
 | 2416 | 2025-12-15 15:57:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263093⭐ None) | [reels/reel_2416_awesome-selfhosted-awesome-selfhosted](reels/reel_2416_awesome-selfhosted-awesome-selfhosted) |
+| 2417 | 2025-12-15 16:35:55 | [DavideViolante/weird-to-normal-chars](https://github.com/DavideViolante/weird-to-normal-chars) | ✅ full (11⭐ JavaScript) | [reels/reel_2417_DavideViolante-weird-to-normal-chars](reels/reel_2417_DavideViolante-weird-to-normal-chars) |
