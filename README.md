@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2428 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-15 |
+| #2429 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2494,3 +2494,4 @@ Or let GitHub Action run it automatically.
 | 2426 | 2025-12-15 20:21:56 | [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) | ✅ full (3927⭐ Python) | [reels/reel_2426_AsahiLinux-m1n1](reels/reel_2426_AsahiLinux-m1n1) |
 | 2427 | 2025-12-15 20:45:59 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138355⭐ Python) | [reels/reel_2427_yt-dlp-yt-dlp](reels/reel_2427_yt-dlp-yt-dlp) |
 | 2428 | 2025-12-15 21:18:34 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263149⭐ None) | [reels/reel_2428_awesome-selfhosted-awesome-selfhosted](reels/reel_2428_awesome-selfhosted-awesome-selfhosted) |
+| 2429 | 2025-12-15 21:41:34 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141214⭐ Python) | [reels/reel_2429_langflow-ai-langflow](reels/reel_2429_langflow-ai-langflow) |
