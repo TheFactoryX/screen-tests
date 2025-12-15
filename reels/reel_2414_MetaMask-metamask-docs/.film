@@ -1,0 +1,24 @@
+{
+  "reel_number": 2414,
+  "recorded": "2025-12-15 14:59:13 UTC",
+  "repository": {
+    "full_name": "MetaMask/metamask-docs",
+    "url": "https://github.com/MetaMask/metamask-docs",
+    "clone_url": "https://github.com/MetaMask/metamask-docs.git",
+    "stars": 799,
+    "language": "MDX",
+    "size_kb": 401738
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 392,
+    "duration_seconds": 5.307041
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 799 stars."
+  }
+}

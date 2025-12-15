@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2413 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-15 |
+| #2414 | [MetaMask/metamask-docs](https://github.com/MetaMask/metamask-docs) | MDX · ⭐ 799 | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2479,3 +2479,4 @@ Or let GitHub Action run it automatically.
 | 2411 | 2025-12-15 13:29:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (449193⭐ Markdown) | [reels/reel_2411_codecrafters-io-build-your-own-x](reels/reel_2411_codecrafters-io-build-your-own-x) |
 | 2412 | 2025-12-15 13:58:48 | [csev/dj4e](https://github.com/csev/dj4e) | ✅ shallow (105⭐ PHP) | [reels/reel_2412_csev-dj4e](reels/reel_2412_csev-dj4e) |
 | 2413 | 2025-12-15 14:34:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141192⭐ Python) | [reels/reel_2413_langflow-ai-langflow](reels/reel_2413_langflow-ai-langflow) |
+| 2414 | 2025-12-15 14:59:13 | [MetaMask/metamask-docs](https://github.com/MetaMask/metamask-docs) | ✅ shallow (799⭐ MDX) | [reels/reel_2414_MetaMask-metamask-docs](reels/reel_2414_MetaMask-metamask-docs) |
