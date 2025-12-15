@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2433 | [nyxgeek/frontdoor_waf_wtf](https://github.com/nyxgeek/frontdoor_waf_wtf) | PowerShell · ⭐ 23 | 2025-12-15 |
+| #2434 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 162k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2499,3 +2499,4 @@ Or let GitHub Action run it automatically.
 | 2431 | 2025-12-15 22:18:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162876⭐ TypeScript) | [reels/reel_2431_n8n-io-n8n](reels/reel_2431_n8n-io-n8n) |
 | 2432 | 2025-12-15 22:43:57 | [swc-project/swc-playground](https://github.com/swc-project/swc-playground) | ✅ full (137⭐ TypeScript) | [reels/reel_2432_swc-project-swc-playground](reels/reel_2432_swc-project-swc-playground) |
 | 2433 | 2025-12-15 22:54:24 | [nyxgeek/frontdoor_waf_wtf](https://github.com/nyxgeek/frontdoor_waf_wtf) | ✅ full (23⭐ PowerShell) | [reels/reel_2433_nyxgeek-frontdoor_waf_wtf](reels/reel_2433_nyxgeek-frontdoor_waf_wtf) |
+| 2434 | 2025-12-15 23:18:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162882⭐ TypeScript) | [reels/reel_2434_n8n-io-n8n](reels/reel_2434_n8n-io-n8n) |
