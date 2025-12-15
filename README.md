@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2395 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-15 |
+| #2396 | [vidavidorra/commitlint-plugin-function-rules](https://github.com/vidavidorra/commitlint-plugin-function-rules) | TypeScript · ⭐ 48 | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2461,3 +2461,4 @@ Or let GitHub Action run it automatically.
 | 2393 | 2025-12-15 04:26:14 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99975⭐ Rust) | [reels/reel_2393_tauri-apps-tauri](reels/reel_2393_tauri-apps-tauri) |
 | 2394 | 2025-12-15 04:57:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (102403⭐ TypeScript) | [reels/reel_2394_shadcn-ui-ui](reels/reel_2394_shadcn-ui-ui) |
 | 2395 | 2025-12-15 05:30:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263009⭐ None) | [reels/reel_2395_awesome-selfhosted-awesome-selfhosted](reels/reel_2395_awesome-selfhosted-awesome-selfhosted) |
+| 2396 | 2025-12-15 05:54:14 | [vidavidorra/commitlint-plugin-function-rules](https://github.com/vidavidorra/commitlint-plugin-function-rules) | ✅ full (48⭐ TypeScript) | [reels/reel_2396_vidavidorra-commitlint-plugin-function-rules](reels/reel_2396_vidavidorra-commitlint-plugin-function-rules) |
