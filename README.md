@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2401 | [microsoft/promptflow](https://github.com/microsoft/promptflow) | Python · ⭐ 10k | 2025-12-15 |
+| #2402 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2467,3 +2467,4 @@ Or let GitHub Action run it automatically.
 | 2399 | 2025-12-15 07:35:41 | [JawadYT36/KHAN-MD](https://github.com/JawadYT36/KHAN-MD) | ✅ full (554⭐ JavaScript) | [reels/reel_2399_JawadYT36-KHAN-MD](reels/reel_2399_JawadYT36-KHAN-MD) |
 | 2400 | 2025-12-15 07:52:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99982⭐ Rust) | [reels/reel_2400_tauri-apps-tauri](reels/reel_2400_tauri-apps-tauri) |
 | 2401 | 2025-12-15 08:30:10 | [microsoft/promptflow](https://github.com/microsoft/promptflow) | ✅ shallow (10929⭐ Python) | [reels/reel_2401_microsoft-promptflow](reels/reel_2401_microsoft-promptflow) |
+| 2402 | 2025-12-15 08:57:51 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96973⭐ TypeScript) | [reels/reel_2402_ant-design-ant-design](reels/reel_2402_ant-design-ant-design) |
