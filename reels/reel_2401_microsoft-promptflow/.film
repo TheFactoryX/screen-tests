@@ -1,0 +1,24 @@
+{
+  "reel_number": 2401,
+  "recorded": "2025-12-15 08:30:10 UTC",
+  "repository": {
+    "full_name": "microsoft/promptflow",
+    "url": "https://github.com/microsoft/promptflow",
+    "clone_url": "https://github.com/microsoft/promptflow.git",
+    "stars": 10929,
+    "language": "Python",
+    "size_kb": 173437
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 169,
+    "duration_seconds": 6.128217
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 10929 stars."
+  }
+}
