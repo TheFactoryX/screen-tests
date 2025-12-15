@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2402 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 96k | 2025-12-15 |
+| #2403 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-15 |
 ---
 
 ## 🎭 Selection Process
@@ -2468,3 +2468,4 @@ Or let GitHub Action run it automatically.
 | 2400 | 2025-12-15 07:52:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (99982⭐ Rust) | [reels/reel_2400_tauri-apps-tauri](reels/reel_2400_tauri-apps-tauri) |
 | 2401 | 2025-12-15 08:30:10 | [microsoft/promptflow](https://github.com/microsoft/promptflow) | ✅ shallow (10929⭐ Python) | [reels/reel_2401_microsoft-promptflow](reels/reel_2401_microsoft-promptflow) |
 | 2402 | 2025-12-15 08:57:51 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (96973⭐ TypeScript) | [reels/reel_2402_ant-design-ant-design](reels/reel_2402_ant-design-ant-design) |
+| 2403 | 2025-12-15 09:37:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141174⭐ Python) | [reels/reel_2403_langflow-ai-langflow](reels/reel_2403_langflow-ai-langflow) |
