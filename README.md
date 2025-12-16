@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2453 | [auricom/home-ops](https://github.com/auricom/home-ops) | Shell · ⭐ 200 | 2025-12-16 |
+| #2454 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2519,3 +2519,4 @@ Or let GitHub Action run it automatically.
 | 2451 | 2025-12-16 10:22:47 | [facebook/SPARTA](https://github.com/facebook/SPARTA) | ✅ full (662⭐ C++) | [reels/reel_2451_facebook-SPARTA](reels/reel_2451_facebook-SPARTA) |
 | 2452 | 2025-12-16 10:49:12 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108558⭐ Rust) | [reels/reel_2452_rust-lang-rust](reels/reel_2452_rust-lang-rust) |
 | 2453 | 2025-12-16 11:18:18 | [auricom/home-ops](https://github.com/auricom/home-ops) | ✅ full (200⭐ Shell) | [reels/reel_2453_auricom-home-ops](reels/reel_2453_auricom-home-ops) |
+| 2454 | 2025-12-16 11:40:17 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252686⭐ None) | [reels/reel_2454_practical-tutorials-project-based-learning](reels/reel_2454_practical-tutorials-project-based-learning) |
