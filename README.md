@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2465 | [tsinghua-fib-lab/Awesome-AI-Scientists](https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists) | None · ⭐ 11 | 2025-12-16 |
+| #2466 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2531,3 +2531,4 @@ Or let GitHub Action run it automatically.
 | 2463 | 2025-12-16 15:57:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117961⭐ Svelte) | [reels/reel_2463_open-webui-open-webui](reels/reel_2463_open-webui-open-webui) |
 | 2464 | 2025-12-16 16:35:20 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108562⭐ Rust) | [reels/reel_2464_rust-lang-rust](reels/reel_2464_rust-lang-rust) |
 | 2465 | 2025-12-16 17:01:03 | [tsinghua-fib-lab/Awesome-AI-Scientists](https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists) | ✅ full (11⭐ None) | [reels/reel_2465_tsinghua-fib-lab-Awesome-AI-Scientists](reels/reel_2465_tsinghua-fib-lab-Awesome-AI-Scientists) |
+| 2466 | 2025-12-16 17:38:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138463⭐ Python) | [reels/reel_2466_yt-dlp-yt-dlp](reels/reel_2466_yt-dlp-yt-dlp) |
