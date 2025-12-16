@@ -1,0 +1,24 @@
+{
+  "reel_number": 2451,
+  "recorded": "2025-12-16 10:22:47 UTC",
+  "repository": {
+    "full_name": "facebook/SPARTA",
+    "url": "https://github.com/facebook/SPARTA",
+    "clone_url": "https://github.com/facebook/SPARTA.git",
+    "stars": 662,
+    "language": "C++",
+    "size_kb": 892
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.207874
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 662 stars."
+  }
+}
