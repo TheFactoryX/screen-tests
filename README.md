@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2439 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-16 |
+| #2440 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2505,3 +2505,4 @@ Or let GitHub Action run it automatically.
 | 2437 | 2025-12-16 01:28:01 | [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) | ✅ readme_only (407⭐ None) | [reels/reel_2437_matthuisman-i.mjh.nz](reels/reel_2437_matthuisman-i.mjh.nz) |
 | 2438 | 2025-12-16 03:12:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108552⭐ Rust) | [reels/reel_2438_rust-lang-rust](reels/reel_2438_rust-lang-rust) |
 | 2439 | 2025-12-16 04:05:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263198⭐ None) | [reels/reel_2439_awesome-selfhosted-awesome-selfhosted](reels/reel_2439_awesome-selfhosted-awesome-selfhosted) |
+| 2440 | 2025-12-16 04:48:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141242⭐ Python) | [reels/reel_2440_langflow-ai-langflow](reels/reel_2440_langflow-ai-langflow) |
