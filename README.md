@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2459 | [MaximumADHD/Roblox-FFlag-Tracker](https://github.com/MaximumADHD/Roblox-FFlag-Tracker) | None · ⭐ 160 | 2025-12-16 |
+| #2460 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2525,3 +2525,4 @@ Or let GitHub Action run it automatically.
 | 2457 | 2025-12-16 13:27:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263264⭐ None) | [reels/reel_2457_awesome-selfhosted-awesome-selfhosted](reels/reel_2457_awesome-selfhosted-awesome-selfhosted) |
 | 2458 | 2025-12-16 13:55:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (117951⭐ Svelte) | [reels/reel_2458_open-webui-open-webui](reels/reel_2458_open-webui-open-webui) |
 | 2459 | 2025-12-16 14:22:29 | [MaximumADHD/Roblox-FFlag-Tracker](https://github.com/MaximumADHD/Roblox-FFlag-Tracker) | ✅ shallow (160⭐ None) | [reels/reel_2459_MaximumADHD-Roblox-FFlag-Tracker](reels/reel_2459_MaximumADHD-Roblox-FFlag-Tracker) |
+| 2460 | 2025-12-16 14:50:43 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138444⭐ Python) | [reels/reel_2460_yt-dlp-yt-dlp](reels/reel_2460_yt-dlp-yt-dlp) |
