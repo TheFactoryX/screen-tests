@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2451 | [facebook/SPARTA](https://github.com/facebook/SPARTA) | C++ · ⭐ 662 | 2025-12-16 |
+| #2452 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2517,3 +2517,4 @@ Or let GitHub Action run it automatically.
 | 2449 | 2025-12-16 09:27:25 | [coollabsio/coolify.io](https://github.com/coollabsio/coolify.io) | ✅ full (25⭐ Astro) | [reels/reel_2449_coollabsio-coolify.io](reels/reel_2449_coollabsio-coolify.io) |
 | 2450 | 2025-12-16 09:48:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (104973⭐ TypeScript) | [reels/reel_2450_iptv-org-iptv](reels/reel_2450_iptv-org-iptv) |
 | 2451 | 2025-12-16 10:22:47 | [facebook/SPARTA](https://github.com/facebook/SPARTA) | ✅ full (662⭐ C++) | [reels/reel_2451_facebook-SPARTA](reels/reel_2451_facebook-SPARTA) |
+| 2452 | 2025-12-16 10:49:12 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108558⭐ Rust) | [reels/reel_2452_rust-lang-rust](reels/reel_2452_rust-lang-rust) |
