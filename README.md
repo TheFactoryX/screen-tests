@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2436 | [geopandas/xyzservices](https://github.com/geopandas/xyzservices) | Python · ⭐ 217 | 2025-12-15 |
+| #2437 | [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) | None · ⭐ 407 | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2502,3 +2502,4 @@ Or let GitHub Action run it automatically.
 | 2434 | 2025-12-15 23:18:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (162882⭐ TypeScript) | [reels/reel_2434_n8n-io-n8n](reels/reel_2434_n8n-io-n8n) |
 | 2435 | 2025-12-15 23:40:18 | [google/crubit](https://github.com/google/crubit) | ✅ full (932⭐ C++) | [reels/reel_2435_google-crubit](reels/reel_2435_google-crubit) |
 | 2436 | 2025-12-15 23:50:49 | [geopandas/xyzservices](https://github.com/geopandas/xyzservices) | ✅ full (217⭐ Python) | [reels/reel_2436_geopandas-xyzservices](reels/reel_2436_geopandas-xyzservices) |
+| 2437 | 2025-12-16 01:28:01 | [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) | ✅ readme_only (407⭐ None) | [reels/reel_2437_matthuisman-i.mjh.nz](reels/reel_2437_matthuisman-i.mjh.nz) |
