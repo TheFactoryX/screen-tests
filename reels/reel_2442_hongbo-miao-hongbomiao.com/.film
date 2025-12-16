@@ -1,0 +1,24 @@
+{
+  "reel_number": 2442,
+  "recorded": "2025-12-16 05:45:33 UTC",
+  "repository": {
+    "full_name": "hongbo-miao/hongbomiao.com",
+    "url": "https://github.com/hongbo-miao/hongbomiao.com",
+    "clone_url": "https://github.com/hongbo-miao/hongbomiao.com.git",
+    "stars": 277,
+    "language": "Python",
+    "size_kb": 1098285
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1072,
+    "duration_seconds": 0.000151
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 277 stars."
+  }
+}
