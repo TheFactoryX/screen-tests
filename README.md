@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2445 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 662 | 2025-12-16 |
+| #2446 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2511,3 +2511,4 @@ Or let GitHub Action run it automatically.
 | 2443 | 2025-12-16 06:31:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138402⭐ Python) | [reels/reel_2443_yt-dlp-yt-dlp](reels/reel_2443_yt-dlp-yt-dlp) |
 | 2444 | 2025-12-16 07:00:45 | [apache/apisix-helm-chart](https://github.com/apache/apisix-helm-chart) | ✅ full (261⭐ Smarty) | [reels/reel_2444_apache-apisix-helm-chart](reels/reel_2444_apache-apisix-helm-chart) |
 | 2445 | 2025-12-16 07:35:58 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (662⭐ Tcl) | [reels/reel_2445_rust-lang-crates.io-index](reels/reel_2445_rust-lang-crates.io-index) |
+| 2446 | 2025-12-16 07:51:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180317⭐ Python) | [reels/reel_2446_Significant-Gravitas-AutoGPT](reels/reel_2446_Significant-Gravitas-AutoGPT) |
