@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2443 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-16 |
+| #2444 | [apache/apisix-helm-chart](https://github.com/apache/apisix-helm-chart) | Smarty · ⭐ 261 | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2509,3 +2509,4 @@ Or let GitHub Action run it automatically.
 | 2441 | 2025-12-16 05:21:03 | [Correia-jpv/fucking-magictools](https://github.com/Correia-jpv/fucking-magictools) | ✅ full (19⭐ Markdown) | [reels/reel_2441_Correia-jpv-fucking-magictools](reels/reel_2441_Correia-jpv-fucking-magictools) |
 | 2442 | 2025-12-16 05:45:33 | [hongbo-miao/hongbomiao.com](https://github.com/hongbo-miao/hongbomiao.com) | ✅ readme_only (277⭐ Python) | [reels/reel_2442_hongbo-miao-hongbomiao.com](reels/reel_2442_hongbo-miao-hongbomiao.com) |
 | 2443 | 2025-12-16 06:31:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138402⭐ Python) | [reels/reel_2443_yt-dlp-yt-dlp](reels/reel_2443_yt-dlp-yt-dlp) |
+| 2444 | 2025-12-16 07:00:45 | [apache/apisix-helm-chart](https://github.com/apache/apisix-helm-chart) | ✅ full (261⭐ Smarty) | [reels/reel_2444_apache-apisix-helm-chart](reels/reel_2444_apache-apisix-helm-chart) |
