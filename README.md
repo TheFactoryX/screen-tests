@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2466 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-16 |
+| #2467 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2532,3 +2532,4 @@ Or let GitHub Action run it automatically.
 | 2464 | 2025-12-16 16:35:20 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108562⭐ Rust) | [reels/reel_2464_rust-lang-rust](reels/reel_2464_rust-lang-rust) |
 | 2465 | 2025-12-16 17:01:03 | [tsinghua-fib-lab/Awesome-AI-Scientists](https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists) | ✅ full (11⭐ None) | [reels/reel_2465_tsinghua-fib-lab-Awesome-AI-Scientists](reels/reel_2465_tsinghua-fib-lab-Awesome-AI-Scientists) |
 | 2466 | 2025-12-16 17:38:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138463⭐ Python) | [reels/reel_2466_yt-dlp-yt-dlp](reels/reel_2466_yt-dlp-yt-dlp) |
+| 2467 | 2025-12-16 17:54:20 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100034⭐ Rust) | [reels/reel_2467_tauri-apps-tauri](reels/reel_2467_tauri-apps-tauri) |
