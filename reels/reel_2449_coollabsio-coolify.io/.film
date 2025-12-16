@@ -1,0 +1,24 @@
+{
+  "reel_number": 2449,
+  "recorded": "2025-12-16 09:27:25 UTC",
+  "repository": {
+    "full_name": "coollabsio/coolify.io",
+    "url": "https://github.com/coollabsio/coolify.io",
+    "clone_url": "https://github.com/coollabsio/coolify.io.git",
+    "stars": 25,
+    "language": "Astro",
+    "size_kb": 5717
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.663479
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Astro",
+    "director_note": "A Astro repository. 25 stars."
+  }
+}
