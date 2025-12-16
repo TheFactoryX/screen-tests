@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2455 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-16 |
+| #2456 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2521,3 +2521,4 @@ Or let GitHub Action run it automatically.
 | 2453 | 2025-12-16 11:18:18 | [auricom/home-ops](https://github.com/auricom/home-ops) | ✅ full (200⭐ Shell) | [reels/reel_2453_auricom-home-ops](reels/reel_2453_auricom-home-ops) |
 | 2454 | 2025-12-16 11:40:17 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252686⭐ None) | [reels/reel_2454_practical-tutorials-project-based-learning](reels/reel_2454_practical-tutorials-project-based-learning) |
 | 2455 | 2025-12-16 11:50:50 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100023⭐ Rust) | [reels/reel_2455_tauri-apps-tauri](reels/reel_2455_tauri-apps-tauri) |
+| 2456 | 2025-12-16 12:41:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263255⭐ None) | [reels/reel_2456_awesome-selfhosted-awesome-selfhosted](reels/reel_2456_awesome-selfhosted-awesome-selfhosted) |
