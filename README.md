@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2447 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-16 |
+| #2448 | [bmen25124/SillyTavern-Custom-Scenario](https://github.com/bmen25124/SillyTavern-Custom-Scenario) | TypeScript · ⭐ 34 | 2025-12-16 |
 ---
 
 ## 🎭 Selection Process
@@ -2513,3 +2513,4 @@ Or let GitHub Action run it automatically.
 | 2445 | 2025-12-16 07:35:58 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (662⭐ Tcl) | [reels/reel_2445_rust-lang-crates.io-index](reels/reel_2445_rust-lang-crates.io-index) |
 | 2446 | 2025-12-16 07:51:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180317⭐ Python) | [reels/reel_2446_Significant-Gravitas-AutoGPT](reels/reel_2446_Significant-Gravitas-AutoGPT) |
 | 2447 | 2025-12-16 08:28:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141263⭐ Python) | [reels/reel_2447_langflow-ai-langflow](reels/reel_2447_langflow-ai-langflow) |
+| 2448 | 2025-12-16 08:56:10 | [bmen25124/SillyTavern-Custom-Scenario](https://github.com/bmen25124/SillyTavern-Custom-Scenario) | ✅ full (34⭐ TypeScript) | [reels/reel_2448_bmen25124-SillyTavern-Custom-Scenario](reels/reel_2448_bmen25124-SillyTavern-Custom-Scenario) |

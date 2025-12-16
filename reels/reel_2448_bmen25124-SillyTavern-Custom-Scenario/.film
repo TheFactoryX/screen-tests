@@ -1,0 +1,24 @@
+{
+  "reel_number": 2448,
+  "recorded": "2025-12-16 08:56:10 UTC",
+  "repository": {
+    "full_name": "bmen25124/SillyTavern-Custom-Scenario",
+    "url": "https://github.com/bmen25124/SillyTavern-Custom-Scenario",
+    "clone_url": "https://github.com/bmen25124/SillyTavern-Custom-Scenario.git",
+    "stars": 34,
+    "language": "TypeScript",
+    "size_kb": 1312
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.448239
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 34 stars."
+  }
+}
