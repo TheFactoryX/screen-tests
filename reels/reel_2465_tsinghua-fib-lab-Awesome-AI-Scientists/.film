@@ -1,0 +1,24 @@
+{
+  "reel_number": 2465,
+  "recorded": "2025-12-16 17:01:03 UTC",
+  "repository": {
+    "full_name": "tsinghua-fib-lab/Awesome-AI-Scientists",
+    "url": "https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists",
+    "clone_url": "https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists.git",
+    "stars": 11,
+    "language": null,
+    "size_kb": 8278
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.758485
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 11 stars."
+  }
+}
