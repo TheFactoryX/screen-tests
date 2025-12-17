@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2490 | [jzero-io/jzero](https://github.com/jzero-io/jzero) | Go · ⭐ 123 | 2025-12-17 |
+| #2491 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2556,3 +2556,4 @@ Or let GitHub Action run it automatically.
 | 2488 | 2025-12-17 04:45:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141322⭐ Python) | [reels/reel_2488_langflow-ai-langflow](reels/reel_2488_langflow-ai-langflow) |
 | 2489 | 2025-12-17 05:20:54 | [drmingdrmer/tips](https://github.com/drmingdrmer/tips) | ✅ full (85⭐ Rust) | [reels/reel_2489_drmingdrmer-tips](reels/reel_2489_drmingdrmer-tips) |
 | 2490 | 2025-12-17 05:45:39 | [jzero-io/jzero](https://github.com/jzero-io/jzero) | ✅ full (123⭐ Go) | [reels/reel_2490_jzero-io-jzero](reels/reel_2490_jzero-io-jzero) |
+| 2491 | 2025-12-17 06:30:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141329⭐ Python) | [reels/reel_2491_langflow-ai-langflow](reels/reel_2491_langflow-ai-langflow) |
