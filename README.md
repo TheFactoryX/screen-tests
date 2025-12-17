@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2505 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 102k | 2025-12-17 |
+| #2506 | [garilol/randomCatFacts](https://github.com/garilol/randomCatFacts) | JavaScript · ⭐ 53 | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2571,3 +2571,4 @@ Or let GitHub Action run it automatically.
 | 2503 | 2025-12-17 11:50:57 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122095⭐ Python) | [reels/reel_2503_langchain-ai-langchain](reels/reel_2503_langchain-ai-langchain) |
 | 2504 | 2025-12-17 12:41:11 | [infosecstreams/infosecstreams.github.io](https://github.com/infosecstreams/infosecstreams.github.io) | ✅ full (248⭐ HTML) | [reels/reel_2504_infosecstreams-infosecstreams.github.io](reels/reel_2504_infosecstreams-infosecstreams.github.io) |
 | 2505 | 2025-12-17 13:23:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (102992⭐ TypeScript) | [reels/reel_2505_shadcn-ui-ui](reels/reel_2505_shadcn-ui-ui) |
+| 2506 | 2025-12-17 13:51:12 | [garilol/randomCatFacts](https://github.com/garilol/randomCatFacts) | ✅ full (53⭐ JavaScript) | [reels/reel_2506_garilol-randomCatFacts](reels/reel_2506_garilol-randomCatFacts) |

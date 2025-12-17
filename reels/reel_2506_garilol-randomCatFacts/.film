@@ -1,0 +1,24 @@
+{
+  "reel_number": 2506,
+  "recorded": "2025-12-17 13:51:12 UTC",
+  "repository": {
+    "full_name": "garilol/randomCatFacts",
+    "url": "https://github.com/garilol/randomCatFacts",
+    "clone_url": "https://github.com/garilol/randomCatFacts.git",
+    "stars": 53,
+    "language": "JavaScript",
+    "size_kb": 454
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.255892
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 53 stars."
+  }
+}
