@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2497 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-17 |
+| #2498 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2563,3 +2563,4 @@ Or let GitHub Action run it automatically.
 | 2495 | 2025-12-17 08:28:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263356⭐ None) | [reels/reel_2495_awesome-selfhosted-awesome-selfhosted](reels/reel_2495_awesome-selfhosted-awesome-selfhosted) |
 | 2496 | 2025-12-17 08:55:40 | [css-doodle/svg](https://github.com/css-doodle/svg) | ✅ full (82⭐ JavaScript) | [reels/reel_2496_css-doodle-svg](reels/reel_2496_css-doodle-svg) |
 | 2497 | 2025-12-17 09:27:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138517⭐ Python) | [reels/reel_2497_yt-dlp-yt-dlp](reels/reel_2497_yt-dlp-yt-dlp) |
+| 2498 | 2025-12-17 09:49:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263364⭐ None) | [reels/reel_2498_awesome-selfhosted-awesome-selfhosted](reels/reel_2498_awesome-selfhosted-awesome-selfhosted) |
