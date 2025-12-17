@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2522 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-17 |
+| #2523 | [test157t/Live2dModels-ST-](https://github.com/test157t/Live2dModels-ST-) | Jupyter Notebook · ⭐ 42 | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2588,3 +2588,4 @@ Or let GitHub Action run it automatically.
 | 2520 | 2025-12-17 20:22:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263445⭐ None) | [reels/reel_2520_awesome-selfhosted-awesome-selfhosted](reels/reel_2520_awesome-selfhosted-awesome-selfhosted) |
 | 2521 | 2025-12-17 20:45:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103012⭐ TypeScript) | [reels/reel_2521_shadcn-ui-ui](reels/reel_2521_shadcn-ui-ui) |
 | 2522 | 2025-12-17 21:18:53 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97011⭐ TypeScript) | [reels/reel_2522_ant-design-ant-design](reels/reel_2522_ant-design-ant-design) |
+| 2523 | 2025-12-17 21:41:38 | [test157t/Live2dModels-ST-](https://github.com/test157t/Live2dModels-ST-) | ✅ readme_only (42⭐ Jupyter Notebook) | [reels/reel_2523_test157t-Live2dModels-ST-](reels/reel_2523_test157t-Live2dModels-ST-) |
