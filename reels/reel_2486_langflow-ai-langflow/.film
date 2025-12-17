@@ -1,0 +1,24 @@
+{
+  "reel_number": 2486,
+  "recorded": "2025-12-17 03:05:49 UTC",
+  "repository": {
+    "full_name": "langflow-ai/langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "clone_url": "https://github.com/langflow-ai/langflow.git",
+    "stars": 141316,
+    "language": "Python",
+    "size_kb": 1022371
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "readme_only",
+    "size_mb": 998,
+    "duration_seconds": 0.000145
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 141316 stars."
+  }
+}
