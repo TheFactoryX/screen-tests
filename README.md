@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2513 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 385k | 2025-12-17 |
+| #2514 | [jobright-ai/2025-Data-Analysis-New-Grad](https://github.com/jobright-ai/2025-Data-Analysis-New-Grad) | None · ⭐ 121 | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2579,3 +2579,4 @@ Or let GitHub Action run it automatically.
 | 2511 | 2025-12-17 16:26:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263414⭐ None) | [reels/reel_2511_awesome-selfhosted-awesome-selfhosted](reels/reel_2511_awesome-selfhosted-awesome-selfhosted) |
 | 2512 | 2025-12-17 16:54:36 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97009⭐ TypeScript) | [reels/reel_2512_ant-design-ant-design](reels/reel_2512_ant-design-ant-design) |
 | 2513 | 2025-12-17 17:22:11 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (385868⭐ Python) | [reels/reel_2513_public-apis-public-apis](reels/reel_2513_public-apis-public-apis) |
+| 2514 | 2025-12-17 17:45:48 | [jobright-ai/2025-Data-Analysis-New-Grad](https://github.com/jobright-ai/2025-Data-Analysis-New-Grad) | ✅ full (121⭐ None) | [reels/reel_2514_jobright-ai-2025-Data-Analysis-New-Grad](reels/reel_2514_jobright-ai-2025-Data-Analysis-New-Grad) |
