@@ -1,0 +1,24 @@
+{
+  "reel_number": 2490,
+  "recorded": "2025-12-17 05:45:39 UTC",
+  "repository": {
+    "full_name": "jzero-io/jzero",
+    "url": "https://github.com/jzero-io/jzero",
+    "clone_url": "https://github.com/jzero-io/jzero.git",
+    "stars": 123,
+    "language": "Go",
+    "size_kb": 27970
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 2.817981
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 123 stars."
+  }
+}
