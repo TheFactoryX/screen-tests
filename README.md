@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2512 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-17 |
+| #2513 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 385k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2578,3 +2578,4 @@ Or let GitHub Action run it automatically.
 | 2510 | 2025-12-17 15:46:54 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105024⭐ TypeScript) | [reels/reel_2510_iptv-org-iptv](reels/reel_2510_iptv-org-iptv) |
 | 2511 | 2025-12-17 16:26:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263414⭐ None) | [reels/reel_2511_awesome-selfhosted-awesome-selfhosted](reels/reel_2511_awesome-selfhosted-awesome-selfhosted) |
 | 2512 | 2025-12-17 16:54:36 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97009⭐ TypeScript) | [reels/reel_2512_ant-design-ant-design](reels/reel_2512_ant-design-ant-design) |
+| 2513 | 2025-12-17 17:22:11 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (385868⭐ Python) | [reels/reel_2513_public-apis-public-apis](reels/reel_2513_public-apis-public-apis) |
