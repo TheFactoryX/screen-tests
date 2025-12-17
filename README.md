@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2487 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 102k | 2025-12-17 |
+| #2488 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2553,3 +2553,4 @@ Or let GitHub Action run it automatically.
 | 2485 | 2025-12-17 01:23:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141309⭐ Python) | [reels/reel_2485_langflow-ai-langflow](reels/reel_2485_langflow-ai-langflow) |
 | 2486 | 2025-12-17 03:05:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141316⭐ Python) | [reels/reel_2486_langflow-ai-langflow](reels/reel_2486_langflow-ai-langflow) |
 | 2487 | 2025-12-17 04:01:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (102943⭐ TypeScript) | [reels/reel_2487_shadcn-ui-ui](reels/reel_2487_shadcn-ui-ui) |
+| 2488 | 2025-12-17 04:45:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141322⭐ Python) | [reels/reel_2488_langflow-ai-langflow](reels/reel_2488_langflow-ai-langflow) |
