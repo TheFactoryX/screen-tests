@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2499 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-17 |
+| #2500 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2565,3 +2565,4 @@ Or let GitHub Action run it automatically.
 | 2497 | 2025-12-17 09:27:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138517⭐ Python) | [reels/reel_2497_yt-dlp-yt-dlp](reels/reel_2497_yt-dlp-yt-dlp) |
 | 2498 | 2025-12-17 09:49:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263364⭐ None) | [reels/reel_2498_awesome-selfhosted-awesome-selfhosted](reels/reel_2498_awesome-selfhosted-awesome-selfhosted) |
 | 2499 | 2025-12-17 10:22:22 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100770⭐ Python) | [reels/reel_2499_deepseek-ai-DeepSeek-V3](reels/reel_2499_deepseek-ai-DeepSeek-V3) |
+| 2500 | 2025-12-17 10:48:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100070⭐ Rust) | [reels/reel_2500_tauri-apps-tauri](reels/reel_2500_tauri-apps-tauri) |
