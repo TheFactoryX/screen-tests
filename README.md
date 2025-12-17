@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2492 | [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) | Haxe · ⭐ 2k | 2025-12-17 |
+| #2493 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 105k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2558,3 +2558,4 @@ Or let GitHub Action run it automatically.
 | 2490 | 2025-12-17 05:45:39 | [jzero-io/jzero](https://github.com/jzero-io/jzero) | ✅ full (123⭐ Go) | [reels/reel_2490_jzero-io-jzero](reels/reel_2490_jzero-io-jzero) |
 | 2491 | 2025-12-17 06:30:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141329⭐ Python) | [reels/reel_2491_langflow-ai-langflow](reels/reel_2491_langflow-ai-langflow) |
 | 2492 | 2025-12-17 06:59:50 | [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) | ✅ full (2143⭐ Haxe) | [reels/reel_2492_HaxeFlixel-flixel](reels/reel_2492_HaxeFlixel-flixel) |
+| 2493 | 2025-12-17 07:30:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105007⭐ TypeScript) | [reels/reel_2493_iptv-org-iptv](reels/reel_2493_iptv-org-iptv) |
