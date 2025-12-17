@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2523 | [test157t/Live2dModels-ST-](https://github.com/test157t/Live2dModels-ST-) | Jupyter Notebook · ⭐ 42 | 2025-12-17 |
+| #2524 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2589,3 +2589,4 @@ Or let GitHub Action run it automatically.
 | 2521 | 2025-12-17 20:45:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103012⭐ TypeScript) | [reels/reel_2521_shadcn-ui-ui](reels/reel_2521_shadcn-ui-ui) |
 | 2522 | 2025-12-17 21:18:53 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97011⭐ TypeScript) | [reels/reel_2522_ant-design-ant-design](reels/reel_2522_ant-design-ant-design) |
 | 2523 | 2025-12-17 21:41:38 | [test157t/Live2dModels-ST-](https://github.com/test157t/Live2dModels-ST-) | ✅ readme_only (42⭐ Jupyter Notebook) | [reels/reel_2523_test157t-Live2dModels-ST-](reels/reel_2523_test157t-Live2dModels-ST-) |
+| 2524 | 2025-12-17 21:51:39 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252800⭐ None) | [reels/reel_2524_practical-tutorials-project-based-learning](reels/reel_2524_practical-tutorials-project-based-learning) |
