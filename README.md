@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2488 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-17 |
+| #2489 | [drmingdrmer/tips](https://github.com/drmingdrmer/tips) | Rust · ⭐ 85 | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2554,3 +2554,4 @@ Or let GitHub Action run it automatically.
 | 2486 | 2025-12-17 03:05:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141316⭐ Python) | [reels/reel_2486_langflow-ai-langflow](reels/reel_2486_langflow-ai-langflow) |
 | 2487 | 2025-12-17 04:01:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (102943⭐ TypeScript) | [reels/reel_2487_shadcn-ui-ui](reels/reel_2487_shadcn-ui-ui) |
 | 2488 | 2025-12-17 04:45:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141322⭐ Python) | [reels/reel_2488_langflow-ai-langflow](reels/reel_2488_langflow-ai-langflow) |
+| 2489 | 2025-12-17 05:20:54 | [drmingdrmer/tips](https://github.com/drmingdrmer/tips) | ✅ full (85⭐ Rust) | [reels/reel_2489_drmingdrmer-tips](reels/reel_2489_drmingdrmer-tips) |
