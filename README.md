@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2508 | [DeveloperPaul123/modern-cv](https://github.com/DeveloperPaul123/modern-cv) | Typst · ⭐ 497 | 2025-12-17 |
+| #2509 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2574,3 +2574,4 @@ Or let GitHub Action run it automatically.
 | 2506 | 2025-12-17 13:51:12 | [garilol/randomCatFacts](https://github.com/garilol/randomCatFacts) | ✅ full (53⭐ JavaScript) | [reels/reel_2506_garilol-randomCatFacts](reels/reel_2506_garilol-randomCatFacts) |
 | 2507 | 2025-12-17 14:20:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138540⭐ Python) | [reels/reel_2507_yt-dlp-yt-dlp](reels/reel_2507_yt-dlp-yt-dlp) |
 | 2508 | 2025-12-17 14:49:21 | [DeveloperPaul123/modern-cv](https://github.com/DeveloperPaul123/modern-cv) | ✅ full (497⭐ Typst) | [reels/reel_2508_DeveloperPaul123-modern-cv](reels/reel_2508_DeveloperPaul123-modern-cv) |
+| 2509 | 2025-12-17 15:21:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122101⭐ Python) | [reels/reel_2509_langchain-ai-langchain](reels/reel_2509_langchain-ai-langchain) |
