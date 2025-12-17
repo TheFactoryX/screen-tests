@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2520 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-17 |
+| #2521 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2586,3 +2586,4 @@ Or let GitHub Action run it automatically.
 | 2518 | 2025-12-17 19:39:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263437⭐ None) | [reels/reel_2518_awesome-selfhosted-awesome-selfhosted](reels/reel_2518_awesome-selfhosted-awesome-selfhosted) |
 | 2519 | 2025-12-17 19:49:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105031⭐ TypeScript) | [reels/reel_2519_iptv-org-iptv](reels/reel_2519_iptv-org-iptv) |
 | 2520 | 2025-12-17 20:22:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263445⭐ None) | [reels/reel_2520_awesome-selfhosted-awesome-selfhosted](reels/reel_2520_awesome-selfhosted-awesome-selfhosted) |
+| 2521 | 2025-12-17 20:45:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103012⭐ TypeScript) | [reels/reel_2521_shadcn-ui-ui](reels/reel_2521_shadcn-ui-ui) |
