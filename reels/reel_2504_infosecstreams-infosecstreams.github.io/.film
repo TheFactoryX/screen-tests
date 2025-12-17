@@ -1,0 +1,24 @@
+{
+  "reel_number": 2504,
+  "recorded": "2025-12-17 12:41:11 UTC",
+  "repository": {
+    "full_name": "infosecstreams/infosecstreams.github.io",
+    "url": "https://github.com/infosecstreams/infosecstreams.github.io",
+    "clone_url": "https://github.com/infosecstreams/infosecstreams.github.io.git",
+    "stars": 248,
+    "language": "HTML",
+    "size_kb": 20299
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 19,
+    "duration_seconds": 3.547676
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 248 stars."
+  }
+}
