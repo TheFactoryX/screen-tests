@@ -1,0 +1,24 @@
+{
+  "reel_number": 2492,
+  "recorded": "2025-12-17 06:59:50 UTC",
+  "repository": {
+    "full_name": "HaxeFlixel/flixel",
+    "url": "https://github.com/HaxeFlixel/flixel",
+    "clone_url": "https://github.com/HaxeFlixel/flixel.git",
+    "stars": 2143,
+    "language": "Haxe",
+    "size_kb": 91179
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 89,
+    "duration_seconds": 2.709971
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haxe",
+    "director_note": "A Haxe repository. 2143 stars."
+  }
+}
