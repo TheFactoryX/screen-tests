@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2506 | [garilol/randomCatFacts](https://github.com/garilol/randomCatFacts) | JavaScript · ⭐ 53 | 2025-12-17 |
+| #2507 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2572,3 +2572,4 @@ Or let GitHub Action run it automatically.
 | 2504 | 2025-12-17 12:41:11 | [infosecstreams/infosecstreams.github.io](https://github.com/infosecstreams/infosecstreams.github.io) | ✅ full (248⭐ HTML) | [reels/reel_2504_infosecstreams-infosecstreams.github.io](reels/reel_2504_infosecstreams-infosecstreams.github.io) |
 | 2505 | 2025-12-17 13:23:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (102992⭐ TypeScript) | [reels/reel_2505_shadcn-ui-ui](reels/reel_2505_shadcn-ui-ui) |
 | 2506 | 2025-12-17 13:51:12 | [garilol/randomCatFacts](https://github.com/garilol/randomCatFacts) | ✅ full (53⭐ JavaScript) | [reels/reel_2506_garilol-randomCatFacts](reels/reel_2506_garilol-randomCatFacts) |
+| 2507 | 2025-12-17 14:20:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138540⭐ Python) | [reels/reel_2507_yt-dlp-yt-dlp](reels/reel_2507_yt-dlp-yt-dlp) |
