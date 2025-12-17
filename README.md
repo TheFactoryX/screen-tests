@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2494 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-17 |
+| #2495 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 263k | 2025-12-17 |
 ---
 
 ## 🎭 Selection Process
@@ -2560,3 +2560,4 @@ Or let GitHub Action run it automatically.
 | 2492 | 2025-12-17 06:59:50 | [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) | ✅ full (2143⭐ Haxe) | [reels/reel_2492_HaxeFlixel-flixel](reels/reel_2492_HaxeFlixel-flixel) |
 | 2493 | 2025-12-17 07:30:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105007⭐ TypeScript) | [reels/reel_2493_iptv-org-iptv](reels/reel_2493_iptv-org-iptv) |
 | 2494 | 2025-12-17 07:45:27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100061⭐ Rust) | [reels/reel_2494_tauri-apps-tauri](reels/reel_2494_tauri-apps-tauri) |
+| 2495 | 2025-12-17 08:28:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263356⭐ None) | [reels/reel_2495_awesome-selfhosted-awesome-selfhosted](reels/reel_2495_awesome-selfhosted-awesome-selfhosted) |
