@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2549 | [ricewind012/win95-themes](https://github.com/ricewind012/win95-themes) | SCSS · ⭐ 118 | 2025-12-18 |
+| #2550 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2615,3 +2615,4 @@ Or let GitHub Action run it automatically.
 | 2547 | 2025-12-18 10:47:33 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (163456⭐ TypeScript) | [reels/reel_2547_n8n-io-n8n](reels/reel_2547_n8n-io-n8n) |
 | 2548 | 2025-12-18 11:17:38 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118122⭐ Svelte) | [reels/reel_2548_open-webui-open-webui](reels/reel_2548_open-webui-open-webui) |
 | 2549 | 2025-12-18 11:39:57 | [ricewind012/win95-themes](https://github.com/ricewind012/win95-themes) | ✅ full (118⭐ SCSS) | [reels/reel_2549_ricewind012-win95-themes](reels/reel_2549_ricewind012-win95-themes) |
+| 2550 | 2025-12-18 11:50:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138654⭐ Python) | [reels/reel_2550_yt-dlp-yt-dlp](reels/reel_2550_yt-dlp-yt-dlp) |
