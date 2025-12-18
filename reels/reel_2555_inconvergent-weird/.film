@@ -1,0 +1,24 @@
+{
+  "reel_number": 2555,
+  "recorded": "2025-12-18 14:47:30 UTC",
+  "repository": {
+    "full_name": "inconvergent/weird",
+    "url": "https://github.com/inconvergent/weird",
+    "clone_url": "https://github.com/inconvergent/weird.git",
+    "stars": 1580,
+    "language": "Common Lisp",
+    "size_kb": 3100
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.571364
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Common Lisp",
+    "director_note": "A Common Lisp repository. 1580 stars."
+  }
+}
