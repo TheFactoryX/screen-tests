@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2578 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-18 |
+| #2579 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2644,3 +2644,4 @@ Or let GitHub Action run it automatically.
 | 2576 | 2025-12-18 22:53:25 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (449967⭐ Markdown) | [reels/reel_2576_codecrafters-io-build-your-own-x](reels/reel_2576_codecrafters-io-build-your-own-x) |
 | 2577 | 2025-12-18 23:18:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118164⭐ Svelte) | [reels/reel_2577_open-webui-open-webui](reels/reel_2577_open-webui-open-webui) |
 | 2578 | 2025-12-18 23:39:57 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101173⭐ Shell) | [reels/reel_2578_papers-we-love-papers-we-love](reels/reel_2578_papers-we-love-papers-we-love) |
+| 2579 | 2025-12-18 23:50:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108609⭐ Rust) | [reels/reel_2579_rust-lang-rust](reels/reel_2579_rust-lang-rust) |
