@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2555 | [inconvergent/weird](https://github.com/inconvergent/weird) | Common Lisp · ⭐ 1k | 2025-12-18 |
+| #2556 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2621,3 +2621,4 @@ Or let GitHub Action run it automatically.
 | 2553 | 2025-12-18 13:54:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141446⭐ Python) | [reels/reel_2553_langflow-ai-langflow](reels/reel_2553_langflow-ai-langflow) |
 | 2554 | 2025-12-18 14:21:05 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103088⭐ TypeScript) | [reels/reel_2554_shadcn-ui-ui](reels/reel_2554_shadcn-ui-ui) |
 | 2555 | 2025-12-18 14:47:30 | [inconvergent/weird](https://github.com/inconvergent/weird) | ✅ full (1580⭐ Common Lisp) | [reels/reel_2555_inconvergent-weird](reels/reel_2555_inconvergent-weird) |
+| 2556 | 2025-12-18 15:21:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138663⭐ Python) | [reels/reel_2556_yt-dlp-yt-dlp](reels/reel_2556_yt-dlp-yt-dlp) |
