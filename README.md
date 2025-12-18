@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2530 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-17 |
+| #2531 | [Rem01Gaming/encore](https://github.com/Rem01Gaming/encore) | C++ · ⭐ 331 | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2596,3 +2596,4 @@ Or let GitHub Action run it automatically.
 | 2528 | 2025-12-17 23:18:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180348⭐ Python) | [reels/reel_2528_Significant-Gravitas-AutoGPT](reels/reel_2528_Significant-Gravitas-AutoGPT) |
 | 2529 | 2025-12-17 23:40:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100099⭐ Rust) | [reels/reel_2529_tauri-apps-tauri](reels/reel_2529_tauri-apps-tauri) |
 | 2530 | 2025-12-17 23:51:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108599⭐ Rust) | [reels/reel_2530_rust-lang-rust](reels/reel_2530_rust-lang-rust) |
+| 2531 | 2025-12-18 01:23:57 | [Rem01Gaming/encore](https://github.com/Rem01Gaming/encore) | ✅ full (331⭐ C++) | [reels/reel_2531_Rem01Gaming-encore](reels/reel_2531_Rem01Gaming-encore) |
