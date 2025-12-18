@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2562 | [xuliangzhan/vxe-table-demo](https://github.com/xuliangzhan/vxe-table-demo) | Vue · ⭐ 139 | 2025-12-18 |
+| #2563 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2628,3 +2628,4 @@ Or let GitHub Action run it automatically.
 | 2560 | 2025-12-18 17:00:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118157⭐ Svelte) | [reels/reel_2560_open-webui-open-webui](reels/reel_2560_open-webui-open-webui) |
 | 2561 | 2025-12-18 17:37:22 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141458⭐ Python) | [reels/reel_2561_langflow-ai-langflow](reels/reel_2561_langflow-ai-langflow) |
 | 2562 | 2025-12-18 17:54:06 | [xuliangzhan/vxe-table-demo](https://github.com/xuliangzhan/vxe-table-demo) | ✅ full (139⭐ Vue) | [reels/reel_2562_xuliangzhan-vxe-table-demo](reels/reel_2562_xuliangzhan-vxe-table-demo) |
+| 2563 | 2025-12-18 18:29:09 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108606⭐ Rust) | [reels/reel_2563_rust-lang-rust](reels/reel_2563_rust-lang-rust) |
