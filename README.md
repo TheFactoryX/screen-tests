@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2576 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 449k | 2025-12-18 |
+| #2577 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2642,3 +2642,4 @@ Or let GitHub Action run it automatically.
 | 2574 | 2025-12-18 22:18:16 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180357⭐ Python) | [reels/reel_2574_Significant-Gravitas-AutoGPT](reels/reel_2574_Significant-Gravitas-AutoGPT) |
 | 2575 | 2025-12-18 22:42:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263640⭐ None) | [reels/reel_2575_awesome-selfhosted-awesome-selfhosted](reels/reel_2575_awesome-selfhosted-awesome-selfhosted) |
 | 2576 | 2025-12-18 22:53:25 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (449967⭐ Markdown) | [reels/reel_2576_codecrafters-io-build-your-own-x](reels/reel_2576_codecrafters-io-build-your-own-x) |
+| 2577 | 2025-12-18 23:18:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118164⭐ Svelte) | [reels/reel_2577_open-webui-open-webui](reels/reel_2577_open-webui-open-webui) |
