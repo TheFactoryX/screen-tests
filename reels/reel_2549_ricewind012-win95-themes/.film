@@ -1,0 +1,24 @@
+{
+  "reel_number": 2549,
+  "recorded": "2025-12-18 11:39:57 UTC",
+  "repository": {
+    "full_name": "ricewind012/win95-themes",
+    "url": "https://github.com/ricewind012/win95-themes",
+    "clone_url": "https://github.com/ricewind012/win95-themes.git",
+    "stars": 118,
+    "language": "SCSS",
+    "size_kb": 2432
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.71847
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "SCSS",
+    "director_note": "A SCSS repository. 118 stars."
+  }
+}
