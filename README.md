@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2571 | [hashicorp/http-echo](https://github.com/hashicorp/http-echo) | Go · ⭐ 362 | 2025-12-18 |
+| #2572 | [emmercm/igir](https://github.com/emmercm/igir) | TypeScript · ⭐ 685 | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2637,3 +2637,4 @@ Or let GitHub Action run it automatically.
 | 2569 | 2025-12-18 20:41:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138666⭐ Python) | [reels/reel_2569_yt-dlp-yt-dlp](reels/reel_2569_yt-dlp-yt-dlp) |
 | 2570 | 2025-12-18 20:52:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (263630⭐ None) | [reels/reel_2570_awesome-selfhosted-awesome-selfhosted](reels/reel_2570_awesome-selfhosted-awesome-selfhosted) |
 | 2571 | 2025-12-18 21:16:46 | [hashicorp/http-echo](https://github.com/hashicorp/http-echo) | ✅ full (362⭐ Go) | [reels/reel_2571_hashicorp-http-echo](reels/reel_2571_hashicorp-http-echo) |
+| 2572 | 2025-12-18 21:39:00 | [emmercm/igir](https://github.com/emmercm/igir) | ✅ full (685⭐ TypeScript) | [reels/reel_2572_emmercm-igir](reels/reel_2572_emmercm-igir) |
