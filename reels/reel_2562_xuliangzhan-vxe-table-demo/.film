@@ -1,0 +1,24 @@
+{
+  "reel_number": 2562,
+  "recorded": "2025-12-18 17:54:06 UTC",
+  "repository": {
+    "full_name": "xuliangzhan/vxe-table-demo",
+    "url": "https://github.com/xuliangzhan/vxe-table-demo",
+    "clone_url": "https://github.com/xuliangzhan/vxe-table-demo.git",
+    "stars": 139,
+    "language": "Vue",
+    "size_kb": 1642
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.800199
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 139 stars."
+  }
+}
