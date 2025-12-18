@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2563 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-18 |
+| #2564 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2629,3 +2629,4 @@ Or let GitHub Action run it automatically.
 | 2561 | 2025-12-18 17:37:22 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141458⭐ Python) | [reels/reel_2561_langflow-ai-langflow](reels/reel_2561_langflow-ai-langflow) |
 | 2562 | 2025-12-18 17:54:06 | [xuliangzhan/vxe-table-demo](https://github.com/xuliangzhan/vxe-table-demo) | ✅ full (139⭐ Vue) | [reels/reel_2562_xuliangzhan-vxe-table-demo](reels/reel_2562_xuliangzhan-vxe-table-demo) |
 | 2563 | 2025-12-18 18:29:09 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108606⭐ Rust) | [reels/reel_2563_rust-lang-rust](reels/reel_2563_rust-lang-rust) |
+| 2564 | 2025-12-18 18:56:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103095⭐ TypeScript) | [reels/reel_2564_shadcn-ui-ui](reels/reel_2564_shadcn-ui-ui) |
