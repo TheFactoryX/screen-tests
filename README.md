@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2535 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-18 |
+| #2536 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2601,3 +2601,4 @@ Or let GitHub Action run it automatically.
 | 2533 | 2025-12-18 04:02:42 | [tuantvk/WtfReactNativeTesting](https://github.com/tuantvk/WtfReactNativeTesting) | ✅ full (68⭐ JavaScript) | [reels/reel_2533_tuantvk-WtfReactNativeTesting](reels/reel_2533_tuantvk-WtfReactNativeTesting) |
 | 2534 | 2025-12-18 04:46:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180352⭐ Python) | [reels/reel_2534_Significant-Gravitas-AutoGPT](reels/reel_2534_Significant-Gravitas-AutoGPT) |
 | 2535 | 2025-12-18 05:20:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108600⭐ Rust) | [reels/reel_2535_rust-lang-rust](reels/reel_2535_rust-lang-rust) |
+| 2536 | 2025-12-18 05:46:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103041⭐ TypeScript) | [reels/reel_2536_shadcn-ui-ui](reels/reel_2536_shadcn-ui-ui) |
