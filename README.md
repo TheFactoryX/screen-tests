@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2538 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 163k | 2025-12-18 |
+| #2539 | [demos-europe/demosplan-core](https://github.com/demos-europe/demosplan-core) | PHP · ⭐ 11 | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2604,3 +2604,4 @@ Or let GitHub Action run it automatically.
 | 2536 | 2025-12-18 05:46:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103041⭐ TypeScript) | [reels/reel_2536_shadcn-ui-ui](reels/reel_2536_shadcn-ui-ui) |
 | 2537 | 2025-12-18 06:31:03 | [Nyasami/Ksign](https://github.com/Nyasami/Ksign) | ✅ full (308⭐ Swift) | [reels/reel_2537_Nyasami-Ksign](reels/reel_2537_Nyasami-Ksign) |
 | 2538 | 2025-12-18 06:59:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (163407⭐ TypeScript) | [reels/reel_2538_n8n-io-n8n](reels/reel_2538_n8n-io-n8n) |
+| 2539 | 2025-12-18 07:30:04 | [demos-europe/demosplan-core](https://github.com/demos-europe/demosplan-core) | ✅ full (11⭐ PHP) | [reels/reel_2539_demos-europe-demosplan-core](reels/reel_2539_demos-europe-demosplan-core) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 2539,
+  "recorded": "2025-12-18 07:30:04 UTC",
+  "repository": {
+    "full_name": "demos-europe/demosplan-core",
+    "url": "https://github.com/demos-europe/demosplan-core",
+    "clone_url": "https://github.com/demos-europe/demosplan-core.git",
+    "stars": 11,
+    "language": "PHP",
+    "size_kb": 67691
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 66,
+    "duration_seconds": 5.800194
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 11 stars."
+  }
+}
