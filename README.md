@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2565 | [adiom-data/dsync](https://github.com/adiom-data/dsync) | Go · ⭐ 136 | 2025-12-18 |
+| #2566 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2631,3 +2631,4 @@ Or let GitHub Action run it automatically.
 | 2563 | 2025-12-18 18:29:09 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108606⭐ Rust) | [reels/reel_2563_rust-lang-rust](reels/reel_2563_rust-lang-rust) |
 | 2564 | 2025-12-18 18:56:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103095⭐ TypeScript) | [reels/reel_2564_shadcn-ui-ui](reels/reel_2564_shadcn-ui-ui) |
 | 2565 | 2025-12-18 19:17:39 | [adiom-data/dsync](https://github.com/adiom-data/dsync) | ✅ shallow (136⭐ Go) | [reels/reel_2565_adiom-data-dsync](reels/reel_2565_adiom-data-dsync) |
+| 2566 | 2025-12-18 19:37:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108605⭐ Rust) | [reels/reel_2566_rust-lang-rust](reels/reel_2566_rust-lang-rust) |
