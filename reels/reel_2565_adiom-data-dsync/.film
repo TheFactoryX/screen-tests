@@ -1,0 +1,24 @@
+{
+  "reel_number": 2565,
+  "recorded": "2025-12-18 19:17:39 UTC",
+  "repository": {
+    "full_name": "adiom-data/dsync",
+    "url": "https://github.com/adiom-data/dsync",
+    "clone_url": "https://github.com/adiom-data/dsync.git",
+    "stars": 136,
+    "language": "Go",
+    "size_kb": 309785
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 302,
+    "duration_seconds": 0.857383
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 136 stars."
+  }
+}
