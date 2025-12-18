@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2567 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-18 |
+| #2568 | [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) | Python · ⭐ 102 | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2633,3 +2633,4 @@ Or let GitHub Action run it automatically.
 | 2565 | 2025-12-18 19:17:39 | [adiom-data/dsync](https://github.com/adiom-data/dsync) | ✅ shallow (136⭐ Go) | [reels/reel_2565_adiom-data-dsync](reels/reel_2565_adiom-data-dsync) |
 | 2566 | 2025-12-18 19:37:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108605⭐ Rust) | [reels/reel_2566_rust-lang-rust](reels/reel_2566_rust-lang-rust) |
 | 2567 | 2025-12-18 19:50:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180358⭐ Python) | [reels/reel_2567_Significant-Gravitas-AutoGPT](reels/reel_2567_Significant-Gravitas-AutoGPT) |
+| 2568 | 2025-12-18 20:19:17 | [HHS/simpler-grants-gov](https://github.com/HHS/simpler-grants-gov) | ✅ shallow (102⭐ Python) | [reels/reel_2568_HHS-simpler-grants-gov](reels/reel_2568_HHS-simpler-grants-gov) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 2568,
+  "recorded": "2025-12-18 20:19:17 UTC",
+  "repository": {
+    "full_name": "HHS/simpler-grants-gov",
+    "url": "https://github.com/HHS/simpler-grants-gov",
+    "clone_url": "https://github.com/HHS/simpler-grants-gov.git",
+    "stars": 102,
+    "language": "Python",
+    "size_kb": 254052
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 248,
+    "duration_seconds": 2.810121
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 102 stars."
+  }
+}
