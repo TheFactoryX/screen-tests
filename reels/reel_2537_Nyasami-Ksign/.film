@@ -1,0 +1,24 @@
+{
+  "reel_number": 2537,
+  "recorded": "2025-12-18 06:31:03 UTC",
+  "repository": {
+    "full_name": "Nyasami/Ksign",
+    "url": "https://github.com/Nyasami/Ksign",
+    "clone_url": "https://github.com/Nyasami/Ksign.git",
+    "stars": 308,
+    "language": "Swift",
+    "size_kb": 42072
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 41,
+    "duration_seconds": 1.852374
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 308 stars."
+  }
+}
