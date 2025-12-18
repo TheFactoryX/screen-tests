@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2532 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-18 |
+| #2533 | [tuantvk/WtfReactNativeTesting](https://github.com/tuantvk/WtfReactNativeTesting) | JavaScript · ⭐ 68 | 2025-12-18 |
 ---
 
 ## 🎭 Selection Process
@@ -2598,3 +2598,4 @@ Or let GitHub Action run it automatically.
 | 2530 | 2025-12-17 23:51:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108599⭐ Rust) | [reels/reel_2530_rust-lang-rust](reels/reel_2530_rust-lang-rust) |
 | 2531 | 2025-12-18 01:23:57 | [Rem01Gaming/encore](https://github.com/Rem01Gaming/encore) | ✅ full (331⭐ C++) | [reels/reel_2531_Rem01Gaming-encore](reels/reel_2531_Rem01Gaming-encore) |
 | 2532 | 2025-12-18 03:06:57 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252817⭐ None) | [reels/reel_2532_practical-tutorials-project-based-learning](reels/reel_2532_practical-tutorials-project-based-learning) |
+| 2533 | 2025-12-18 04:02:42 | [tuantvk/WtfReactNativeTesting](https://github.com/tuantvk/WtfReactNativeTesting) | ✅ full (68⭐ JavaScript) | [reels/reel_2533_tuantvk-WtfReactNativeTesting](reels/reel_2533_tuantvk-WtfReactNativeTesting) |
