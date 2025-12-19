@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2598 | [elalamiimed/HITSZCS](https://github.com/elalamiimed/HITSZCS) | None · ⭐ 101 | 2025-12-19 |
+| #2599 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2664,3 +2664,4 @@ Or let GitHub Action run it automatically.
 | 2596 | 2025-12-19 10:20:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (163658⭐ TypeScript) | [reels/reel_2596_n8n-io-n8n](reels/reel_2596_n8n-io-n8n) |
 | 2597 | 2025-12-19 10:46:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122247⭐ Python) | [reels/reel_2597_langchain-ai-langchain](reels/reel_2597_langchain-ai-langchain) |
 | 2598 | 2025-12-19 11:17:02 | [elalamiimed/HITSZCS](https://github.com/elalamiimed/HITSZCS) | ✅ readme_only (101⭐ None) | [reels/reel_2598_elalamiimed-HITSZCS](reels/reel_2598_elalamiimed-HITSZCS) |
+| 2599 | 2025-12-19 11:39:06 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100166⭐ Rust) | [reels/reel_2599_tauri-apps-tauri](reels/reel_2599_tauri-apps-tauri) |
