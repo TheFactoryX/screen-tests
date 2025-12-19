@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2595 | [jobright-ai/2025-Data-Analysis-New-Grad](https://github.com/jobright-ai/2025-Data-Analysis-New-Grad) | None · ⭐ 121 | 2025-12-19 |
+| #2596 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 163k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2661,3 +2661,4 @@ Or let GitHub Action run it automatically.
 | 2593 | 2025-12-19 08:53:33 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252932⭐ None) | [reels/reel_2593_practical-tutorials-project-based-learning](reels/reel_2593_practical-tutorials-project-based-learning) |
 | 2594 | 2025-12-19 09:23:09 | [stacklok/toolhive](https://github.com/stacklok/toolhive) | ✅ full (1432⭐ Go) | [reels/reel_2594_stacklok-toolhive](reels/reel_2594_stacklok-toolhive) |
 | 2595 | 2025-12-19 09:45:33 | [jobright-ai/2025-Data-Analysis-New-Grad](https://github.com/jobright-ai/2025-Data-Analysis-New-Grad) | ✅ full (121⭐ None) | [reels/reel_2595_jobright-ai-2025-Data-Analysis-New-Grad](reels/reel_2595_jobright-ai-2025-Data-Analysis-New-Grad) |
+| 2596 | 2025-12-19 10:20:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (163658⭐ TypeScript) | [reels/reel_2596_n8n-io-n8n](reels/reel_2596_n8n-io-n8n) |
