@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2580 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-19 |
+| #2581 | [rafalmiel/cykusz-rs](https://github.com/rafalmiel/cykusz-rs) | Rust · ⭐ 24 | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2646,3 +2646,4 @@ Or let GitHub Action run it automatically.
 | 2578 | 2025-12-18 23:39:57 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101173⭐ Shell) | [reels/reel_2578_papers-we-love-papers-we-love](reels/reel_2578_papers-we-love-papers-we-love) |
 | 2579 | 2025-12-18 23:50:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108609⭐ Rust) | [reels/reel_2579_rust-lang-rust](reels/reel_2579_rust-lang-rust) |
 | 2580 | 2025-12-19 01:26:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141481⭐ Python) | [reels/reel_2580_langflow-ai-langflow](reels/reel_2580_langflow-ai-langflow) |
+| 2581 | 2025-12-19 03:11:30 | [rafalmiel/cykusz-rs](https://github.com/rafalmiel/cykusz-rs) | ✅ full (24⭐ Rust) | [reels/reel_2581_rafalmiel-cykusz-rs](reels/reel_2581_rafalmiel-cykusz-rs) |

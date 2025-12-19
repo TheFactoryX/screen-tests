@@ -1,0 +1,24 @@
+{
+  "reel_number": 2581,
+  "recorded": "2025-12-19 03:11:30 UTC",
+  "repository": {
+    "full_name": "rafalmiel/cykusz-rs",
+    "url": "https://github.com/rafalmiel/cykusz-rs",
+    "clone_url": "https://github.com/rafalmiel/cykusz-rs.git",
+    "stars": 24,
+    "language": "Rust",
+    "size_kb": 27359
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 1.852299
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 24 stars."
+  }
+}
