@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2609 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-19 |
+| #2610 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2675,3 +2675,4 @@ Or let GitHub Action run it automatically.
 | 2607 | 2025-12-19 15:44:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103139⭐ TypeScript) | [reels/reel_2607_shadcn-ui-ui](reels/reel_2607_shadcn-ui-ui) |
 | 2608 | 2025-12-19 15:55:24 | [ruslanlap/CommunityPowerToysRunPlugin-QuickNotes](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) | ✅ full (28⭐ C#) | [reels/reel_2608_ruslanlap-CommunityPowerToysRunPlugin-QuickNotes](reels/reel_2608_ruslanlap-CommunityPowerToysRunPlugin-QuickNotes) |
 | 2609 | 2025-12-19 16:25:27 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141524⭐ Python) | [reels/reel_2609_langflow-ai-langflow](reels/reel_2609_langflow-ai-langflow) |
+| 2610 | 2025-12-19 16:50:17 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100170⭐ Rust) | [reels/reel_2610_tauri-apps-tauri](reels/reel_2610_tauri-apps-tauri) |
