@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2624 | [inanevin/stakeforge](https://github.com/inanevin/stakeforge) | C++ · ⭐ 11 | 2025-12-19 |
+| #2625 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 252k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2690,3 +2690,4 @@ Or let GitHub Action run it automatically.
 | 2622 | 2025-12-19 21:17:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118237⭐ Svelte) | [reels/reel_2622_open-webui-open-webui](reels/reel_2622_open-webui-open-webui) |
 | 2623 | 2025-12-19 21:39:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118237⭐ Svelte) | [reels/reel_2623_open-webui-open-webui](reels/reel_2623_open-webui-open-webui) |
 | 2624 | 2025-12-19 21:49:39 | [inanevin/stakeforge](https://github.com/inanevin/stakeforge) | ✅ shallow (11⭐ C++) | [reels/reel_2624_inanevin-stakeforge](reels/reel_2624_inanevin-stakeforge) |
+| 2625 | 2025-12-19 22:18:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252986⭐ None) | [reels/reel_2625_practical-tutorials-project-based-learning](reels/reel_2625_practical-tutorials-project-based-learning) |
