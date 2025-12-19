@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2616 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-19 |
+| #2617 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2682,3 +2682,4 @@ Or let GitHub Action run it automatically.
 | 2614 | 2025-12-19 18:27:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103152⭐ TypeScript) | [reels/reel_2614_shadcn-ui-ui](reels/reel_2614_shadcn-ui-ui) |
 | 2615 | 2025-12-19 18:53:25 | [RockyHong/TetrisInspector](https://github.com/RockyHong/TetrisInspector) | ✅ full (11⭐ C#) | [reels/reel_2615_RockyHong-TetrisInspector](reels/reel_2615_RockyHong-TetrisInspector) |
 | 2616 | 2025-12-19 19:15:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108631⭐ Rust) | [reels/reel_2616_rust-lang-rust](reels/reel_2616_rust-lang-rust) |
+| 2617 | 2025-12-19 19:37:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138787⭐ Python) | [reels/reel_2617_yt-dlp-yt-dlp](reels/reel_2617_yt-dlp-yt-dlp) |
