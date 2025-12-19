@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2605 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-19 |
+| #2606 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2671,3 +2671,4 @@ Or let GitHub Action run it automatically.
 | 2603 | 2025-12-19 13:49:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122258⭐ Python) | [reels/reel_2603_langchain-ai-langchain](reels/reel_2603_langchain-ai-langchain) |
 | 2604 | 2025-12-19 14:19:43 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100168⭐ Rust) | [reels/reel_2604_tauri-apps-tauri](reels/reel_2604_tauri-apps-tauri) |
 | 2605 | 2025-12-19 14:45:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141517⭐ Python) | [reels/reel_2605_langflow-ai-langflow](reels/reel_2605_langflow-ai-langflow) |
+| 2606 | 2025-12-19 15:20:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138756⭐ Python) | [reels/reel_2606_yt-dlp-yt-dlp](reels/reel_2606_yt-dlp-yt-dlp) |
