@@ -1,0 +1,24 @@
+{
+  "reel_number": 2583,
+  "recorded": "2025-12-19 04:47:29 UTC",
+  "repository": {
+    "full_name": "fish2018/YPrompt",
+    "url": "https://github.com/fish2018/YPrompt",
+    "clone_url": "https://github.com/fish2018/YPrompt.git",
+    "stars": 1312,
+    "language": "TypeScript",
+    "size_kb": 38654
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 37,
+    "duration_seconds": 1.963775
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 1312 stars."
+  }
+}
