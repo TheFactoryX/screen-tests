@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2586 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-19 |
+| #2587 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2652,3 +2652,4 @@ Or let GitHub Action run it automatically.
 | 2584 | 2025-12-19 05:19:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141493⭐ Python) | [reels/reel_2584_langflow-ai-langflow](reels/reel_2584_langflow-ai-langflow) |
 | 2585 | 2025-12-19 05:44:49 | [is-cool-me/register](https://github.com/is-cool-me/register) | ✅ full (197⭐ Python) | [reels/reel_2585_is-cool-me-register](reels/reel_2585_is-cool-me-register) |
 | 2586 | 2025-12-19 05:55:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118181⭐ Svelte) | [reels/reel_2586_open-webui-open-webui](reels/reel_2586_open-webui-open-webui) |
+| 2587 | 2025-12-19 06:30:09 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103118⭐ TypeScript) | [reels/reel_2587_shadcn-ui-ui](reels/reel_2587_shadcn-ui-ui) |
