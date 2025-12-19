@@ -1,0 +1,24 @@
+{
+  "reel_number": 2585,
+  "recorded": "2025-12-19 05:44:49 UTC",
+  "repository": {
+    "full_name": "is-cool-me/register",
+    "url": "https://github.com/is-cool-me/register",
+    "clone_url": "https://github.com/is-cool-me/register.git",
+    "stars": 197,
+    "language": "Python",
+    "size_kb": 1288
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.202437
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 197 stars."
+  }
+}
