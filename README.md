@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2626 | [arnkoen/poki](https://github.com/arnkoen/poki) | C · ⭐ 23 | 2025-12-19 |
+| #2627 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2692,3 +2692,4 @@ Or let GitHub Action run it automatically.
 | 2624 | 2025-12-19 21:49:39 | [inanevin/stakeforge](https://github.com/inanevin/stakeforge) | ✅ shallow (11⭐ C++) | [reels/reel_2624_inanevin-stakeforge](reels/reel_2624_inanevin-stakeforge) |
 | 2625 | 2025-12-19 22:18:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (252986⭐ None) | [reels/reel_2625_practical-tutorials-project-based-learning](reels/reel_2625_practical-tutorials-project-based-learning) |
 | 2626 | 2025-12-19 22:42:51 | [arnkoen/poki](https://github.com/arnkoen/poki) | ✅ full (23⭐ C) | [reels/reel_2626_arnkoen-poki](reels/reel_2626_arnkoen-poki) |
+| 2627 | 2025-12-19 22:52:44 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102888⭐ None) | [reels/reel_2627_Hack-with-Github-Awesome-Hacking](reels/reel_2627_Hack-with-Github-Awesome-Hacking) |
