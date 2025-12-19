@@ -1,0 +1,24 @@
+{
+  "reel_number": 2620,
+  "recorded": "2025-12-19 20:43:31 UTC",
+  "repository": {
+    "full_name": "fobo66/algolia-firebase-functions",
+    "url": "https://github.com/fobo66/algolia-firebase-functions",
+    "clone_url": "https://github.com/fobo66/algolia-firebase-functions.git",
+    "stars": 32,
+    "language": "TypeScript",
+    "size_kb": 7538
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.281179
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 32 stars."
+  }
+}
