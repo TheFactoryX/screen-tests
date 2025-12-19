@@ -1,0 +1,24 @@
+{
+  "reel_number": 2588,
+  "recorded": "2025-12-19 06:55:46 UTC",
+  "repository": {
+    "full_name": "MABeeskow/GebPy",
+    "url": "https://github.com/MABeeskow/GebPy",
+    "clone_url": "https://github.com/MABeeskow/GebPy.git",
+    "stars": 31,
+    "language": "Jupyter Notebook",
+    "size_kb": 71680
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 70,
+    "duration_seconds": 2.882299
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 31 stars."
+  }
+}

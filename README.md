@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2587 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-19 |
+| #2588 | [MABeeskow/GebPy](https://github.com/MABeeskow/GebPy) | Jupyter Notebook · ⭐ 31 | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2653,3 +2653,4 @@ Or let GitHub Action run it automatically.
 | 2585 | 2025-12-19 05:44:49 | [is-cool-me/register](https://github.com/is-cool-me/register) | ✅ full (197⭐ Python) | [reels/reel_2585_is-cool-me-register](reels/reel_2585_is-cool-me-register) |
 | 2586 | 2025-12-19 05:55:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118181⭐ Svelte) | [reels/reel_2586_open-webui-open-webui](reels/reel_2586_open-webui-open-webui) |
 | 2587 | 2025-12-19 06:30:09 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103118⭐ TypeScript) | [reels/reel_2587_shadcn-ui-ui](reels/reel_2587_shadcn-ui-ui) |
+| 2588 | 2025-12-19 06:55:46 | [MABeeskow/GebPy](https://github.com/MABeeskow/GebPy) | ✅ full (31⭐ Jupyter Notebook) | [reels/reel_2588_MABeeskow-GebPy](reels/reel_2588_MABeeskow-GebPy) |
