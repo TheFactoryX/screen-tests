@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2611 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-19 |
+| #2612 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2677,3 +2677,4 @@ Or let GitHub Action run it automatically.
 | 2609 | 2025-12-19 16:25:27 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141524⭐ Python) | [reels/reel_2609_langflow-ai-langflow](reels/reel_2609_langflow-ai-langflow) |
 | 2610 | 2025-12-19 16:50:17 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100170⭐ Rust) | [reels/reel_2610_tauri-apps-tauri](reels/reel_2610_tauri-apps-tauri) |
 | 2611 | 2025-12-19 17:17:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141528⭐ Python) | [reels/reel_2611_langflow-ai-langflow](reels/reel_2611_langflow-ai-langflow) |
+| 2612 | 2025-12-19 17:38:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141527⭐ Python) | [reels/reel_2612_langflow-ai-langflow](reels/reel_2612_langflow-ai-langflow) |
