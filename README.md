@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2603 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-19 |
+| #2604 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2669,3 +2669,4 @@ Or let GitHub Action run it automatically.
 | 2601 | 2025-12-19 12:38:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141511⭐ Python) | [reels/reel_2601_langflow-ai-langflow](reels/reel_2601_langflow-ai-langflow) |
 | 2602 | 2025-12-19 13:21:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122256⭐ Python) | [reels/reel_2602_langchain-ai-langchain](reels/reel_2602_langchain-ai-langchain) |
 | 2603 | 2025-12-19 13:49:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122258⭐ Python) | [reels/reel_2603_langchain-ai-langchain](reels/reel_2603_langchain-ai-langchain) |
+| 2604 | 2025-12-19 14:19:43 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100168⭐ Rust) | [reels/reel_2604_tauri-apps-tauri](reels/reel_2604_tauri-apps-tauri) |
