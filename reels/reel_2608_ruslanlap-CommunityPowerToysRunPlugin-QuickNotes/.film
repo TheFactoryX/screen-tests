@@ -1,0 +1,24 @@
+{
+  "reel_number": 2608,
+  "recorded": "2025-12-19 15:55:24 UTC",
+  "repository": {
+    "full_name": "ruslanlap/CommunityPowerToysRunPlugin-QuickNotes",
+    "url": "https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes",
+    "clone_url": "https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes.git",
+    "stars": 28,
+    "language": "C#",
+    "size_kb": 41361
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 40,
+    "duration_seconds": 1.110614
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 28 stars."
+  }
+}

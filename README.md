@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2607 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-19 |
+| #2608 | [ruslanlap/CommunityPowerToysRunPlugin-QuickNotes](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) | C# · ⭐ 28 | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2673,3 +2673,4 @@ Or let GitHub Action run it automatically.
 | 2605 | 2025-12-19 14:45:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141517⭐ Python) | [reels/reel_2605_langflow-ai-langflow](reels/reel_2605_langflow-ai-langflow) |
 | 2606 | 2025-12-19 15:20:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138756⭐ Python) | [reels/reel_2606_yt-dlp-yt-dlp](reels/reel_2606_yt-dlp-yt-dlp) |
 | 2607 | 2025-12-19 15:44:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103139⭐ TypeScript) | [reels/reel_2607_shadcn-ui-ui](reels/reel_2607_shadcn-ui-ui) |
+| 2608 | 2025-12-19 15:55:24 | [ruslanlap/CommunityPowerToysRunPlugin-QuickNotes](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) | ✅ full (28⭐ C#) | [reels/reel_2608_ruslanlap-CommunityPowerToysRunPlugin-QuickNotes](reels/reel_2608_ruslanlap-CommunityPowerToysRunPlugin-QuickNotes) |
