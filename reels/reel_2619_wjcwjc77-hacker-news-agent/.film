@@ -1,0 +1,24 @@
+{
+  "reel_number": 2619,
+  "recorded": "2025-12-19 20:21:00 UTC",
+  "repository": {
+    "full_name": "wjcwjc77/hacker-news-agent",
+    "url": "https://github.com/wjcwjc77/hacker-news-agent",
+    "clone_url": "https://github.com/wjcwjc77/hacker-news-agent.git",
+    "stars": 68,
+    "language": "TypeScript",
+    "size_kb": 928
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.938604
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 68 stars."
+  }
+}

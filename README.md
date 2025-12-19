@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2618 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-19 |
+| #2619 | [wjcwjc77/hacker-news-agent](https://github.com/wjcwjc77/hacker-news-agent) | TypeScript · ⭐ 68 | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2684,3 +2684,4 @@ Or let GitHub Action run it automatically.
 | 2616 | 2025-12-19 19:15:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108631⭐ Rust) | [reels/reel_2616_rust-lang-rust](reels/reel_2616_rust-lang-rust) |
 | 2617 | 2025-12-19 19:37:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138787⭐ Python) | [reels/reel_2617_yt-dlp-yt-dlp](reels/reel_2617_yt-dlp-yt-dlp) |
 | 2618 | 2025-12-19 19:49:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141532⭐ Python) | [reels/reel_2618_langflow-ai-langflow](reels/reel_2618_langflow-ai-langflow) |
+| 2619 | 2025-12-19 20:21:00 | [wjcwjc77/hacker-news-agent](https://github.com/wjcwjc77/hacker-news-agent) | ✅ full (68⭐ TypeScript) | [reels/reel_2619_wjcwjc77-hacker-news-agent](reels/reel_2619_wjcwjc77-hacker-news-agent) |
