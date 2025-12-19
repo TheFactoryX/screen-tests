@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2602 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-19 |
+| #2603 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2668,3 +2668,4 @@ Or let GitHub Action run it automatically.
 | 2600 | 2025-12-19 11:50:36 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101190⭐ Shell) | [reels/reel_2600_papers-we-love-papers-we-love](reels/reel_2600_papers-we-love-papers-we-love) |
 | 2601 | 2025-12-19 12:38:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141511⭐ Python) | [reels/reel_2601_langflow-ai-langflow](reels/reel_2601_langflow-ai-langflow) |
 | 2602 | 2025-12-19 13:21:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122256⭐ Python) | [reels/reel_2602_langchain-ai-langchain](reels/reel_2602_langchain-ai-langchain) |
+| 2603 | 2025-12-19 13:49:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122258⭐ Python) | [reels/reel_2603_langchain-ai-langchain](reels/reel_2603_langchain-ai-langchain) |
