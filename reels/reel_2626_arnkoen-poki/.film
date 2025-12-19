@@ -1,0 +1,24 @@
+{
+  "reel_number": 2626,
+  "recorded": "2025-12-19 22:42:51 UTC",
+  "repository": {
+    "full_name": "arnkoen/poki",
+    "url": "https://github.com/arnkoen/poki",
+    "clone_url": "https://github.com/arnkoen/poki.git",
+    "stars": 23,
+    "language": "C",
+    "size_kb": 11007
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.992387
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 23 stars."
+  }
+}
