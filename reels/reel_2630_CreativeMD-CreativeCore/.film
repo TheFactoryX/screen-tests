@@ -1,0 +1,24 @@
+{
+  "reel_number": 2630,
+  "recorded": "2025-12-19 23:50:03 UTC",
+  "repository": {
+    "full_name": "CreativeMD/CreativeCore",
+    "url": "https://github.com/CreativeMD/CreativeCore",
+    "clone_url": "https://github.com/CreativeMD/CreativeCore.git",
+    "stars": 74,
+    "language": "Java",
+    "size_kb": 7144
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.828101
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 74 stars."
+  }
+}
