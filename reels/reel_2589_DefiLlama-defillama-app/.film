@@ -1,0 +1,24 @@
+{
+  "reel_number": 2589,
+  "recorded": "2025-12-19 07:21:29 UTC",
+  "repository": {
+    "full_name": "DefiLlama/defillama-app",
+    "url": "https://github.com/DefiLlama/defillama-app",
+    "clone_url": "https://github.com/DefiLlama/defillama-app.git",
+    "stars": 270,
+    "language": "TypeScript",
+    "size_kb": 157638
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 153,
+    "duration_seconds": 1.13729
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 270 stars."
+  }
+}
