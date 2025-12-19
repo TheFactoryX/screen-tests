@@ -1,0 +1,24 @@
+{
+  "reel_number": 2598,
+  "recorded": "2025-12-19 11:17:02 UTC",
+  "repository": {
+    "full_name": "elalamiimed/HITSZCS",
+    "url": "https://github.com/elalamiimed/HITSZCS",
+    "clone_url": "https://github.com/elalamiimed/HITSZCS.git",
+    "stars": 101,
+    "language": null,
+    "size_kb": 1249159
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1219,
+    "duration_seconds": 0.000115
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 101 stars."
+  }
+}
