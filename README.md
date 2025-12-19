@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2622 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-19 |
+| #2623 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2688,3 +2688,4 @@ Or let GitHub Action run it automatically.
 | 2620 | 2025-12-19 20:43:31 | [fobo66/algolia-firebase-functions](https://github.com/fobo66/algolia-firebase-functions) | ✅ full (32⭐ TypeScript) | [reels/reel_2620_fobo66-algolia-firebase-functions](reels/reel_2620_fobo66-algolia-firebase-functions) |
 | 2621 | 2025-12-19 20:54:44 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108633⭐ Rust) | [reels/reel_2621_rust-lang-rust](reels/reel_2621_rust-lang-rust) |
 | 2622 | 2025-12-19 21:17:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118237⭐ Svelte) | [reels/reel_2622_open-webui-open-webui](reels/reel_2622_open-webui-open-webui) |
+| 2623 | 2025-12-19 21:39:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118237⭐ Svelte) | [reels/reel_2623_open-webui-open-webui](reels/reel_2623_open-webui-open-webui) |
