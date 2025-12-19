@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2623 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-19 |
+| #2624 | [inanevin/stakeforge](https://github.com/inanevin/stakeforge) | C++ · ⭐ 11 | 2025-12-19 |
 ---
 
 ## 🎭 Selection Process
@@ -2689,3 +2689,4 @@ Or let GitHub Action run it automatically.
 | 2621 | 2025-12-19 20:54:44 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108633⭐ Rust) | [reels/reel_2621_rust-lang-rust](reels/reel_2621_rust-lang-rust) |
 | 2622 | 2025-12-19 21:17:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118237⭐ Svelte) | [reels/reel_2622_open-webui-open-webui](reels/reel_2622_open-webui-open-webui) |
 | 2623 | 2025-12-19 21:39:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118237⭐ Svelte) | [reels/reel_2623_open-webui-open-webui](reels/reel_2623_open-webui-open-webui) |
+| 2624 | 2025-12-19 21:49:39 | [inanevin/stakeforge](https://github.com/inanevin/stakeforge) | ✅ shallow (11⭐ C++) | [reels/reel_2624_inanevin-stakeforge](reels/reel_2624_inanevin-stakeforge) |

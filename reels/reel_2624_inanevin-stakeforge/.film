@@ -1,0 +1,24 @@
+{
+  "reel_number": 2624,
+  "recorded": "2025-12-19 21:49:39 UTC",
+  "repository": {
+    "full_name": "inanevin/stakeforge",
+    "url": "https://github.com/inanevin/stakeforge",
+    "clone_url": "https://github.com/inanevin/stakeforge.git",
+    "stars": 11,
+    "language": "C++",
+    "size_kb": 302728
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 295,
+    "duration_seconds": 2.769029
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 11 stars."
+  }
+}
