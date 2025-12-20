@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2633 | [duzyn/scoop-cn](https://github.com/duzyn/scoop-cn) | PowerShell · ⭐ 490 | 2025-12-20 |
+| #2634 | [vyuh-tech/vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | Dart · ⭐ 134 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2699,3 +2699,4 @@ Or let GitHub Action run it automatically.
 | 2631 | 2025-12-20 01:23:02 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97027⭐ TypeScript) | [reels/reel_2631_ant-design-ant-design](reels/reel_2631_ant-design-ant-design) |
 | 2632 | 2025-12-20 02:57:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (386763⭐ Python) | [reels/reel_2632_public-apis-public-apis](reels/reel_2632_public-apis-public-apis) |
 | 2633 | 2025-12-20 03:50:15 | [duzyn/scoop-cn](https://github.com/duzyn/scoop-cn) | ✅ full (490⭐ PowerShell) | [reels/reel_2633_duzyn-scoop-cn](reels/reel_2633_duzyn-scoop-cn) |
+| 2634 | 2025-12-20 04:24:52 | [vyuh-tech/vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | ✅ full (134⭐ Dart) | [reels/reel_2634_vyuh-tech-vyuh_node_flow](reels/reel_2634_vyuh-tech-vyuh_node_flow) |

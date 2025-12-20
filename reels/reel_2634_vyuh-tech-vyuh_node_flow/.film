@@ -1,0 +1,24 @@
+{
+  "reel_number": 2634,
+  "recorded": "2025-12-20 04:24:52 UTC",
+  "repository": {
+    "full_name": "vyuh-tech/vyuh_node_flow",
+    "url": "https://github.com/vyuh-tech/vyuh_node_flow",
+    "clone_url": "https://github.com/vyuh-tech/vyuh_node_flow.git",
+    "stars": 134,
+    "language": "Dart",
+    "size_kb": 9284
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.550303
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 134 stars."
+  }
+}
