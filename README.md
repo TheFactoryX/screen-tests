@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2630 | [CreativeMD/CreativeCore](https://github.com/CreativeMD/CreativeCore) | Java · ⭐ 74 | 2025-12-19 |
+| #2631 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2696,3 +2696,4 @@ Or let GitHub Action run it automatically.
 | 2628 | 2025-12-19 23:17:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138795⭐ Python) | [reels/reel_2628_yt-dlp-yt-dlp](reels/reel_2628_yt-dlp-yt-dlp) |
 | 2629 | 2025-12-19 23:39:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105618⭐ TypeScript) | [reels/reel_2629_iptv-org-iptv](reels/reel_2629_iptv-org-iptv) |
 | 2630 | 2025-12-19 23:50:03 | [CreativeMD/CreativeCore](https://github.com/CreativeMD/CreativeCore) | ✅ full (74⭐ Java) | [reels/reel_2630_CreativeMD-CreativeCore](reels/reel_2630_CreativeMD-CreativeCore) |
+| 2631 | 2025-12-20 01:23:02 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97027⭐ TypeScript) | [reels/reel_2631_ant-design-ant-design](reels/reel_2631_ant-design-ant-design) |
