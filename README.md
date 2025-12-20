@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2674 | [BcnBitcoinOnly/signet-playground](https://github.com/BcnBitcoinOnly/signet-playground) | None · ⭐ 15 | 2025-12-20 |
+| #2675 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2740,3 +2740,4 @@ Or let GitHub Action run it automatically.
 | 2672 | 2025-12-20 18:24:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105787⭐ TypeScript) | [reels/reel_2672_iptv-org-iptv](reels/reel_2672_iptv-org-iptv) |
 | 2673 | 2025-12-20 18:46:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141597⭐ Python) | [reels/reel_2673_langflow-ai-langflow](reels/reel_2673_langflow-ai-langflow) |
 | 2674 | 2025-12-20 19:13:47 | [BcnBitcoinOnly/signet-playground](https://github.com/BcnBitcoinOnly/signet-playground) | ✅ full (15⭐ None) | [reels/reel_2674_BcnBitcoinOnly-signet-playground](reels/reel_2674_BcnBitcoinOnly-signet-playground) |
+| 2675 | 2025-12-20 19:27:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180399⭐ Python) | [reels/reel_2675_Significant-Gravitas-AutoGPT](reels/reel_2675_Significant-Gravitas-AutoGPT) |
