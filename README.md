@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2661 | [ex-actor/ex-actor](https://github.com/ex-actor/ex-actor) | C++ · ⭐ 127 | 2025-12-20 |
+| #2662 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2727,3 +2727,4 @@ Or let GitHub Action run it automatically.
 | 2659 | 2025-12-20 13:52:40 | [steipete/clawdis](https://github.com/steipete/clawdis) | ✅ full (421⭐ Swift) | [reels/reel_2659_steipete-clawdis](reels/reel_2659_steipete-clawdis) |
 | 2660 | 2025-12-20 14:16:54 | [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) | ✅ full (444⭐ C++) | [reels/reel_2660_Zalafina-QKeyMapper](reels/reel_2660_Zalafina-QKeyMapper) |
 | 2661 | 2025-12-20 14:40:08 | [ex-actor/ex-actor](https://github.com/ex-actor/ex-actor) | ✅ full (127⭐ C++) | [reels/reel_2661_ex-actor-ex-actor](reels/reel_2661_ex-actor-ex-actor) |
+| 2662 | 2025-12-20 14:50:28 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102912⭐ None) | [reels/reel_2662_Hack-with-Github-Awesome-Hacking](reels/reel_2662_Hack-with-Github-Awesome-Hacking) |
