@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2670 | [rust-lang-nursery/rust-toolstate](https://github.com/rust-lang-nursery/rust-toolstate) | SCSS · ⭐ 101 | 2025-12-20 |
+| #2671 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2736,3 +2736,4 @@ Or let GitHub Action run it automatically.
 | 2668 | 2025-12-20 16:54:12 | [eloquence/help.wtf](https://github.com/eloquence/help.wtf) | ✅ full (13⭐ JavaScript) | [reels/reel_2668_eloquence-help.wtf](reels/reel_2668_eloquence-help.wtf) |
 | 2669 | 2025-12-20 17:15:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103214⭐ TypeScript) | [reels/reel_2669_shadcn-ui-ui](reels/reel_2669_shadcn-ui-ui) |
 | 2670 | 2025-12-20 17:38:29 | [rust-lang-nursery/rust-toolstate](https://github.com/rust-lang-nursery/rust-toolstate) | ✅ readme_only (101⭐ SCSS) | [reels/reel_2670_rust-lang-nursery-rust-toolstate](reels/reel_2670_rust-lang-nursery-rust-toolstate) |
+| 2671 | 2025-12-20 17:50:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138876⭐ Python) | [reels/reel_2671_yt-dlp-yt-dlp](reels/reel_2671_yt-dlp-yt-dlp) |
