@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2685 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 163k | 2025-12-20 |
+| #2686 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2751,3 +2751,4 @@ Or let GitHub Action run it automatically.
 | 2683 | 2025-12-20 21:49:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103226⭐ TypeScript) | [reels/reel_2683_shadcn-ui-ui](reels/reel_2683_shadcn-ui-ui) |
 | 2684 | 2025-12-20 22:16:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108655⭐ Rust) | [reels/reel_2684_rust-lang-rust](reels/reel_2684_rust-lang-rust) |
 | 2685 | 2025-12-20 22:40:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (163885⭐ TypeScript) | [reels/reel_2685_n8n-io-n8n](reels/reel_2685_n8n-io-n8n) |
+| 2686 | 2025-12-20 22:50:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118310⭐ Svelte) | [reels/reel_2686_open-webui-open-webui](reels/reel_2686_open-webui-open-webui) |
