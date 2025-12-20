@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2677 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-20 |
+| #2678 | [SillyTavern/SillyTavern-Office-Parser](https://github.com/SillyTavern/SillyTavern-Office-Parser) | JavaScript · ⭐ 11 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2743,3 +2743,4 @@ Or let GitHub Action run it automatically.
 | 2675 | 2025-12-20 19:27:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180399⭐ Python) | [reels/reel_2675_Significant-Gravitas-AutoGPT](reels/reel_2675_Significant-Gravitas-AutoGPT) |
 | 2676 | 2025-12-20 19:38:53 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138889⭐ Python) | [reels/reel_2676_yt-dlp-yt-dlp](reels/reel_2676_yt-dlp-yt-dlp) |
 | 2677 | 2025-12-20 19:50:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122313⭐ Python) | [reels/reel_2677_langchain-ai-langchain](reels/reel_2677_langchain-ai-langchain) |
+| 2678 | 2025-12-20 20:19:03 | [SillyTavern/SillyTavern-Office-Parser](https://github.com/SillyTavern/SillyTavern-Office-Parser) | ✅ full (11⭐ JavaScript) | [reels/reel_2678_SillyTavern-SillyTavern-Office-Parser](reels/reel_2678_SillyTavern-SillyTavern-Office-Parser) |
