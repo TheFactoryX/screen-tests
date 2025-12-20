@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2673 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-20 |
+| #2674 | [BcnBitcoinOnly/signet-playground](https://github.com/BcnBitcoinOnly/signet-playground) | None · ⭐ 15 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2739,3 +2739,4 @@ Or let GitHub Action run it automatically.
 | 2671 | 2025-12-20 17:50:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138876⭐ Python) | [reels/reel_2671_yt-dlp-yt-dlp](reels/reel_2671_yt-dlp-yt-dlp) |
 | 2672 | 2025-12-20 18:24:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105787⭐ TypeScript) | [reels/reel_2672_iptv-org-iptv](reels/reel_2672_iptv-org-iptv) |
 | 2673 | 2025-12-20 18:46:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141597⭐ Python) | [reels/reel_2673_langflow-ai-langflow](reels/reel_2673_langflow-ai-langflow) |
+| 2674 | 2025-12-20 19:13:47 | [BcnBitcoinOnly/signet-playground](https://github.com/BcnBitcoinOnly/signet-playground) | ✅ full (15⭐ None) | [reels/reel_2674_BcnBitcoinOnly-signet-playground](reels/reel_2674_BcnBitcoinOnly-signet-playground) |
