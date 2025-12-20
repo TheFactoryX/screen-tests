@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2651 | [Eukaryot/sonic3air](https://github.com/Eukaryot/sonic3air) | C++ · ⭐ 479 | 2025-12-20 |
+| #2652 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2717,3 +2717,4 @@ Or let GitHub Action run it automatically.
 | 2649 | 2025-12-20 10:18:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138843⭐ Python) | [reels/reel_2649_yt-dlp-yt-dlp](reels/reel_2649_yt-dlp-yt-dlp) |
 | 2650 | 2025-12-20 10:42:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105680⭐ TypeScript) | [reels/reel_2650_iptv-org-iptv](reels/reel_2650_iptv-org-iptv) |
 | 2651 | 2025-12-20 10:51:35 | [Eukaryot/sonic3air](https://github.com/Eukaryot/sonic3air) | ✅ shallow (479⭐ C++) | [reels/reel_2651_Eukaryot-sonic3air](reels/reel_2651_Eukaryot-sonic3air) |
+| 2652 | 2025-12-20 11:14:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141579⭐ Python) | [reels/reel_2652_langflow-ai-langflow](reels/reel_2652_langflow-ai-langflow) |
