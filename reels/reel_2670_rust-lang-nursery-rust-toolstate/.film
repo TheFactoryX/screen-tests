@@ -1,0 +1,24 @@
+{
+  "reel_number": 2670,
+  "recorded": "2025-12-20 17:38:29 UTC",
+  "repository": {
+    "full_name": "rust-lang-nursery/rust-toolstate",
+    "url": "https://github.com/rust-lang-nursery/rust-toolstate",
+    "clone_url": "https://github.com/rust-lang-nursery/rust-toolstate.git",
+    "stars": 101,
+    "language": "SCSS",
+    "size_kb": 1775222
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1733,
+    "duration_seconds": 0.000169
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "SCSS",
+    "director_note": "A SCSS repository. 101 stars."
+  }
+}
