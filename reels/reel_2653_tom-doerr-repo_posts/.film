@@ -1,0 +1,24 @@
+{
+  "reel_number": 2653,
+  "recorded": "2025-12-20 11:29:12 UTC",
+  "repository": {
+    "full_name": "tom-doerr/repo_posts",
+    "url": "https://github.com/tom-doerr/repo_posts",
+    "clone_url": "https://github.com/tom-doerr/repo_posts.git",
+    "stars": 172,
+    "language": "Python",
+    "size_kb": 1453510
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1419,
+    "duration_seconds": 0.000164
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 172 stars."
+  }
+}

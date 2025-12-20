@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2652 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-20 |
+| #2653 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | Python · ⭐ 172 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2718,3 +2718,4 @@ Or let GitHub Action run it automatically.
 | 2650 | 2025-12-20 10:42:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105680⭐ TypeScript) | [reels/reel_2650_iptv-org-iptv](reels/reel_2650_iptv-org-iptv) |
 | 2651 | 2025-12-20 10:51:35 | [Eukaryot/sonic3air](https://github.com/Eukaryot/sonic3air) | ✅ shallow (479⭐ C++) | [reels/reel_2651_Eukaryot-sonic3air](reels/reel_2651_Eukaryot-sonic3air) |
 | 2652 | 2025-12-20 11:14:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141579⭐ Python) | [reels/reel_2652_langflow-ai-langflow](reels/reel_2652_langflow-ai-langflow) |
+| 2653 | 2025-12-20 11:29:12 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (172⭐ Python) | [reels/reel_2653_tom-doerr-repo_posts](reels/reel_2653_tom-doerr-repo_posts) |
