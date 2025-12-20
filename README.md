@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2667 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 163k | 2025-12-20 |
+| #2668 | [eloquence/help.wtf](https://github.com/eloquence/help.wtf) | JavaScript · ⭐ 13 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2733,3 +2733,4 @@ Or let GitHub Action run it automatically.
 | 2665 | 2025-12-20 15:50:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180395⭐ Python) | [reels/reel_2665_Significant-Gravitas-AutoGPT](reels/reel_2665_Significant-Gravitas-AutoGPT) |
 | 2666 | 2025-12-20 16:21:56 | [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) | ✅ full (237⭐ TypeScript) | [reels/reel_2666_YouMind-OpenLab-awesome-gemini-3-prompts](reels/reel_2666_YouMind-OpenLab-awesome-gemini-3-prompts) |
 | 2667 | 2025-12-20 16:44:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (163851⭐ TypeScript) | [reels/reel_2667_n8n-io-n8n](reels/reel_2667_n8n-io-n8n) |
+| 2668 | 2025-12-20 16:54:12 | [eloquence/help.wtf](https://github.com/eloquence/help.wtf) | ✅ full (13⭐ JavaScript) | [reels/reel_2668_eloquence-help.wtf](reels/reel_2668_eloquence-help.wtf) |
