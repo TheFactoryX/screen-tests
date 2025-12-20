@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2646 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-20 |
+| #2647 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 253k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2712,3 +2712,4 @@ Or let GitHub Action run it automatically.
 | 2644 | 2025-12-20 08:23:06 | [chr15m/runprompt](https://github.com/chr15m/runprompt) | ✅ full (404⭐ Python) | [reels/reel_2644_chr15m-runprompt](reels/reel_2644_chr15m-runprompt) |
 | 2645 | 2025-12-20 08:46:15 | [eu-digital-identity-wallet/eudi-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui) | ✅ shallow (152⭐ Kotlin) | [reels/reel_2645_eu-digital-identity-wallet-eudi-app-android-wallet-ui](reels/reel_2645_eu-digital-identity-wallet-eudi-app-android-wallet-ui) |
 | 2646 | 2025-12-20 09:18:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122297⭐ Python) | [reels/reel_2646_langchain-ai-langchain](reels/reel_2646_langchain-ai-langchain) |
+| 2647 | 2025-12-20 09:39:11 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (253011⭐ None) | [reels/reel_2647_practical-tutorials-project-based-learning](reels/reel_2647_practical-tutorials-project-based-learning) |
