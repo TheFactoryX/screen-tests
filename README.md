@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2638 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-20 |
+| #2639 | [lonewolfyx/awesome-duyi](https://github.com/lonewolfyx/awesome-duyi) | TypeScript · ⭐ 41 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2704,3 +2704,4 @@ Or let GitHub Action run it automatically.
 | 2636 | 2025-12-20 05:18:29 | [dtolnay/ref-cast](https://github.com/dtolnay/ref-cast) | ✅ full (215⭐ Rust) | [reels/reel_2636_dtolnay-ref-cast](reels/reel_2636_dtolnay-ref-cast) |
 | 2637 | 2025-12-20 05:45:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118265⭐ Svelte) | [reels/reel_2637_open-webui-open-webui](reels/reel_2637_open-webui-open-webui) |
 | 2638 | 2025-12-20 05:54:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118266⭐ Svelte) | [reels/reel_2638_open-webui-open-webui](reels/reel_2638_open-webui-open-webui) |
+| 2639 | 2025-12-20 06:28:17 | [lonewolfyx/awesome-duyi](https://github.com/lonewolfyx/awesome-duyi) | ✅ full (41⭐ TypeScript) | [reels/reel_2639_lonewolfyx-awesome-duyi](reels/reel_2639_lonewolfyx-awesome-duyi) |

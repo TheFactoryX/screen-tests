@@ -1,0 +1,24 @@
+{
+  "reel_number": 2639,
+  "recorded": "2025-12-20 06:28:17 UTC",
+  "repository": {
+    "full_name": "lonewolfyx/awesome-duyi",
+    "url": "https://github.com/lonewolfyx/awesome-duyi",
+    "clone_url": "https://github.com/lonewolfyx/awesome-duyi.git",
+    "stars": 41,
+    "language": "TypeScript",
+    "size_kb": 18816
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 2.660231
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 41 stars."
+  }
+}
