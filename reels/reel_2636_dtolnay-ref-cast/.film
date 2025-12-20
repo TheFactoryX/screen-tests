@@ -1,0 +1,24 @@
+{
+  "reel_number": 2636,
+  "recorded": "2025-12-20 05:18:29 UTC",
+  "repository": {
+    "full_name": "dtolnay/ref-cast",
+    "url": "https://github.com/dtolnay/ref-cast",
+    "clone_url": "https://github.com/dtolnay/ref-cast.git",
+    "stars": 215,
+    "language": "Rust",
+    "size_kb": 360
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.478733
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 215 stars."
+  }
+}
