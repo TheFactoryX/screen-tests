@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2679 | [Capgemini/gov-prototype-by-prompt](https://github.com/Capgemini/gov-prototype-by-prompt) | TypeScript · ⭐ 19 | 2025-12-20 |
+| #2680 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 105k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2745,3 +2745,4 @@ Or let GitHub Action run it automatically.
 | 2677 | 2025-12-20 19:50:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122313⭐ Python) | [reels/reel_2677_langchain-ai-langchain](reels/reel_2677_langchain-ai-langchain) |
 | 2678 | 2025-12-20 20:19:03 | [SillyTavern/SillyTavern-Office-Parser](https://github.com/SillyTavern/SillyTavern-Office-Parser) | ✅ full (11⭐ JavaScript) | [reels/reel_2678_SillyTavern-SillyTavern-Office-Parser](reels/reel_2678_SillyTavern-SillyTavern-Office-Parser) |
 | 2679 | 2025-12-20 20:40:09 | [Capgemini/gov-prototype-by-prompt](https://github.com/Capgemini/gov-prototype-by-prompt) | ✅ full (19⭐ TypeScript) | [reels/reel_2679_Capgemini-gov-prototype-by-prompt](reels/reel_2679_Capgemini-gov-prototype-by-prompt) |
+| 2680 | 2025-12-20 20:50:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105815⭐ TypeScript) | [reels/reel_2680_iptv-org-iptv](reels/reel_2680_iptv-org-iptv) |
