@@ -1,0 +1,24 @@
+{
+  "reel_number": 2651,
+  "recorded": "2025-12-20 10:51:35 UTC",
+  "repository": {
+    "full_name": "Eukaryot/sonic3air",
+    "url": "https://github.com/Eukaryot/sonic3air",
+    "clone_url": "https://github.com/Eukaryot/sonic3air.git",
+    "stars": 479,
+    "language": "C++",
+    "size_kb": 221219
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 216,
+    "duration_seconds": 7.003165
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 479 stars."
+  }
+}
