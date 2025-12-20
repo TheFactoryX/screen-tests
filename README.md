@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2657 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-20 |
+| #2658 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2723,3 +2723,4 @@ Or let GitHub Action run it automatically.
 | 2655 | 2025-12-20 11:50:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180392⭐ Python) | [reels/reel_2655_Significant-Gravitas-AutoGPT](reels/reel_2655_Significant-Gravitas-AutoGPT) |
 | 2656 | 2025-12-20 12:35:44 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (450302⭐ Markdown) | [reels/reel_2656_codecrafters-io-build-your-own-x](reels/reel_2656_codecrafters-io-build-your-own-x) |
 | 2657 | 2025-12-20 13:15:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122303⭐ Python) | [reels/reel_2657_langchain-ai-langchain](reels/reel_2657_langchain-ai-langchain) |
+| 2658 | 2025-12-20 13:43:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138855⭐ Python) | [reels/reel_2658_yt-dlp-yt-dlp](reels/reel_2658_yt-dlp-yt-dlp) |
