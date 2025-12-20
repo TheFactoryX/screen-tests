@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2665 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-20 |
+| #2666 | [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) | TypeScript · ⭐ 237 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2731,3 +2731,4 @@ Or let GitHub Action run it automatically.
 | 2663 | 2025-12-20 15:17:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103207⭐ TypeScript) | [reels/reel_2663_shadcn-ui-ui](reels/reel_2663_shadcn-ui-ui) |
 | 2664 | 2025-12-20 15:39:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103209⭐ TypeScript) | [reels/reel_2664_shadcn-ui-ui](reels/reel_2664_shadcn-ui-ui) |
 | 2665 | 2025-12-20 15:50:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180395⭐ Python) | [reels/reel_2665_Significant-Gravitas-AutoGPT](reels/reel_2665_Significant-Gravitas-AutoGPT) |
+| 2666 | 2025-12-20 16:21:56 | [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) | ✅ full (237⭐ TypeScript) | [reels/reel_2666_YouMind-OpenLab-awesome-gemini-3-prompts](reels/reel_2666_YouMind-OpenLab-awesome-gemini-3-prompts) |
