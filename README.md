@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2634 | [vyuh-tech/vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | Dart · ⭐ 134 | 2025-12-20 |
+| #2635 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2700,3 +2700,4 @@ Or let GitHub Action run it automatically.
 | 2632 | 2025-12-20 02:57:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (386763⭐ Python) | [reels/reel_2632_public-apis-public-apis](reels/reel_2632_public-apis-public-apis) |
 | 2633 | 2025-12-20 03:50:15 | [duzyn/scoop-cn](https://github.com/duzyn/scoop-cn) | ✅ full (490⭐ PowerShell) | [reels/reel_2633_duzyn-scoop-cn](reels/reel_2633_duzyn-scoop-cn) |
 | 2634 | 2025-12-20 04:24:52 | [vyuh-tech/vyuh_node_flow](https://github.com/vyuh-tech/vyuh_node_flow) | ✅ full (134⭐ Dart) | [reels/reel_2634_vyuh-tech-vyuh_node_flow](reels/reel_2634_vyuh-tech-vyuh_node_flow) |
+| 2635 | 2025-12-20 04:46:28 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100189⭐ Rust) | [reels/reel_2635_tauri-apps-tauri](reels/reel_2635_tauri-apps-tauri) |
