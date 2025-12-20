@@ -1,0 +1,24 @@
+{
+  "reel_number": 2645,
+  "recorded": "2025-12-20 08:46:15 UTC",
+  "repository": {
+    "full_name": "eu-digital-identity-wallet/eudi-app-android-wallet-ui",
+    "url": "https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui",
+    "clone_url": "https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui.git",
+    "stars": 152,
+    "language": "Kotlin",
+    "size_kb": 236008
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 230,
+    "duration_seconds": 0.395598
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 152 stars."
+  }
+}

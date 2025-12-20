@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2644 | [chr15m/runprompt](https://github.com/chr15m/runprompt) | Python · ⭐ 404 | 2025-12-20 |
+| #2645 | [eu-digital-identity-wallet/eudi-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui) | Kotlin · ⭐ 152 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2710,3 +2710,4 @@ Or let GitHub Action run it automatically.
 | 2642 | 2025-12-20 07:37:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141568⭐ Python) | [reels/reel_2642_langflow-ai-langflow](reels/reel_2642_langflow-ai-langflow) |
 | 2643 | 2025-12-20 07:50:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141568⭐ Python) | [reels/reel_2643_langflow-ai-langflow](reels/reel_2643_langflow-ai-langflow) |
 | 2644 | 2025-12-20 08:23:06 | [chr15m/runprompt](https://github.com/chr15m/runprompt) | ✅ full (404⭐ Python) | [reels/reel_2644_chr15m-runprompt](reels/reel_2644_chr15m-runprompt) |
+| 2645 | 2025-12-20 08:46:15 | [eu-digital-identity-wallet/eudi-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui) | ✅ shallow (152⭐ Kotlin) | [reels/reel_2645_eu-digital-identity-wallet-eudi-app-android-wallet-ui](reels/reel_2645_eu-digital-identity-wallet-eudi-app-android-wallet-ui) |
