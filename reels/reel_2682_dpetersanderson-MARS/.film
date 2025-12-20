@@ -1,0 +1,24 @@
+{
+  "reel_number": 2682,
+  "recorded": "2025-12-20 21:37:00 UTC",
+  "repository": {
+    "full_name": "dpetersanderson/MARS",
+    "url": "https://github.com/dpetersanderson/MARS",
+    "clone_url": "https://github.com/dpetersanderson/MARS.git",
+    "stars": 176,
+    "language": "Java",
+    "size_kb": 4342
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 1.012334
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 176 stars."
+  }
+}
