@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2682 | [dpetersanderson/MARS](https://github.com/dpetersanderson/MARS) | Java · ⭐ 176 | 2025-12-20 |
+| #2683 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2748,3 +2748,4 @@ Or let GitHub Action run it automatically.
 | 2680 | 2025-12-20 20:50:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105815⭐ TypeScript) | [reels/reel_2680_iptv-org-iptv](reels/reel_2680_iptv-org-iptv) |
 | 2681 | 2025-12-20 21:15:29 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101230⭐ Shell) | [reels/reel_2681_papers-we-love-papers-we-love](reels/reel_2681_papers-we-love-papers-we-love) |
 | 2682 | 2025-12-20 21:37:00 | [dpetersanderson/MARS](https://github.com/dpetersanderson/MARS) | ✅ full (176⭐ Java) | [reels/reel_2682_dpetersanderson-MARS](reels/reel_2682_dpetersanderson-MARS) |
+| 2683 | 2025-12-20 21:49:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103226⭐ TypeScript) | [reels/reel_2683_shadcn-ui-ui](reels/reel_2683_shadcn-ui-ui) |
