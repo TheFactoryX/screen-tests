@@ -1,0 +1,24 @@
+{
+  "reel_number": 2644,
+  "recorded": "2025-12-20 08:23:06 UTC",
+  "repository": {
+    "full_name": "chr15m/runprompt",
+    "url": "https://github.com/chr15m/runprompt",
+    "clone_url": "https://github.com/chr15m/runprompt.git",
+    "stars": 404,
+    "language": "Python",
+    "size_kb": 217
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.433742
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 404 stars."
+  }
+}

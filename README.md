@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2643 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-20 |
+| #2644 | [chr15m/runprompt](https://github.com/chr15m/runprompt) | Python · ⭐ 404 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2709,3 +2709,4 @@ Or let GitHub Action run it automatically.
 | 2641 | 2025-12-20 07:16:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108635⭐ Rust) | [reels/reel_2641_rust-lang-rust](reels/reel_2641_rust-lang-rust) |
 | 2642 | 2025-12-20 07:37:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141568⭐ Python) | [reels/reel_2642_langflow-ai-langflow](reels/reel_2642_langflow-ai-langflow) |
 | 2643 | 2025-12-20 07:50:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141568⭐ Python) | [reels/reel_2643_langflow-ai-langflow](reels/reel_2643_langflow-ai-langflow) |
+| 2644 | 2025-12-20 08:23:06 | [chr15m/runprompt](https://github.com/chr15m/runprompt) | ✅ full (404⭐ Python) | [reels/reel_2644_chr15m-runprompt](reels/reel_2644_chr15m-runprompt) |
