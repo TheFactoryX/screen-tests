@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2640 | [Cloudflare-Mining/Cloudflare-Datamining](https://github.com/Cloudflare-Mining/Cloudflare-Datamining) | HTML · ⭐ 182 | 2025-12-20 |
+| #2641 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2706,3 +2706,4 @@ Or let GitHub Action run it automatically.
 | 2638 | 2025-12-20 05:54:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118266⭐ Svelte) | [reels/reel_2638_open-webui-open-webui](reels/reel_2638_open-webui-open-webui) |
 | 2639 | 2025-12-20 06:28:17 | [lonewolfyx/awesome-duyi](https://github.com/lonewolfyx/awesome-duyi) | ✅ full (41⭐ TypeScript) | [reels/reel_2639_lonewolfyx-awesome-duyi](reels/reel_2639_lonewolfyx-awesome-duyi) |
 | 2640 | 2025-12-20 06:52:40 | [Cloudflare-Mining/Cloudflare-Datamining](https://github.com/Cloudflare-Mining/Cloudflare-Datamining) | ✅ readme_only (182⭐ HTML) | [reels/reel_2640_Cloudflare-Mining-Cloudflare-Datamining](reels/reel_2640_Cloudflare-Mining-Cloudflare-Datamining) |
+| 2641 | 2025-12-20 07:16:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108635⭐ Rust) | [reels/reel_2641_rust-lang-rust](reels/reel_2641_rust-lang-rust) |
