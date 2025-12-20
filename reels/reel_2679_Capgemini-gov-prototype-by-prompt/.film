@@ -1,0 +1,24 @@
+{
+  "reel_number": 2679,
+  "recorded": "2025-12-20 20:40:09 UTC",
+  "repository": {
+    "full_name": "Capgemini/gov-prototype-by-prompt",
+    "url": "https://github.com/Capgemini/gov-prototype-by-prompt",
+    "clone_url": "https://github.com/Capgemini/gov-prototype-by-prompt.git",
+    "stars": 19,
+    "language": "TypeScript",
+    "size_kb": 935
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.821011
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 19 stars."
+  }
+}
