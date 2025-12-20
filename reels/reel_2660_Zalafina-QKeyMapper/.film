@@ -1,0 +1,24 @@
+{
+  "reel_number": 2660,
+  "recorded": "2025-12-20 14:16:54 UTC",
+  "repository": {
+    "full_name": "Zalafina/QKeyMapper",
+    "url": "https://github.com/Zalafina/QKeyMapper",
+    "clone_url": "https://github.com/Zalafina/QKeyMapper.git",
+    "stars": 444,
+    "language": "C++",
+    "size_kb": 66879
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 65,
+    "duration_seconds": 4.218487
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 444 stars."
+  }
+}
