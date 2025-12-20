@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2649 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-20 |
+| #2650 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 105k | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2715,3 +2715,4 @@ Or let GitHub Action run it automatically.
 | 2647 | 2025-12-20 09:39:11 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (253011⭐ None) | [reels/reel_2647_practical-tutorials-project-based-learning](reels/reel_2647_practical-tutorials-project-based-learning) |
 | 2648 | 2025-12-20 09:50:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118273⭐ Svelte) | [reels/reel_2648_open-webui-open-webui](reels/reel_2648_open-webui-open-webui) |
 | 2649 | 2025-12-20 10:18:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138843⭐ Python) | [reels/reel_2649_yt-dlp-yt-dlp](reels/reel_2649_yt-dlp-yt-dlp) |
+| 2650 | 2025-12-20 10:42:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105680⭐ TypeScript) | [reels/reel_2650_iptv-org-iptv](reels/reel_2650_iptv-org-iptv) |
