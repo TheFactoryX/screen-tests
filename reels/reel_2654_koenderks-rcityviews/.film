@@ -1,0 +1,24 @@
+{
+  "reel_number": 2654,
+  "recorded": "2025-12-20 11:40:54 UTC",
+  "repository": {
+    "full_name": "koenderks/rcityviews",
+    "url": "https://github.com/koenderks/rcityviews",
+    "clone_url": "https://github.com/koenderks/rcityviews.git",
+    "stars": 202,
+    "language": "R",
+    "size_kb": 1329507
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1298,
+    "duration_seconds": 0.000154
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "R",
+    "director_note": "A R repository. 202 stars."
+  }
+}
