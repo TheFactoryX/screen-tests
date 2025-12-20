@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2658 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-20 |
+| #2659 | [steipete/clawdis](https://github.com/steipete/clawdis) | Swift · ⭐ 421 | 2025-12-20 |
 ---
 
 ## 🎭 Selection Process
@@ -2724,3 +2724,4 @@ Or let GitHub Action run it automatically.
 | 2656 | 2025-12-20 12:35:44 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (450302⭐ Markdown) | [reels/reel_2656_codecrafters-io-build-your-own-x](reels/reel_2656_codecrafters-io-build-your-own-x) |
 | 2657 | 2025-12-20 13:15:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122303⭐ Python) | [reels/reel_2657_langchain-ai-langchain](reels/reel_2657_langchain-ai-langchain) |
 | 2658 | 2025-12-20 13:43:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138855⭐ Python) | [reels/reel_2658_yt-dlp-yt-dlp](reels/reel_2658_yt-dlp-yt-dlp) |
+| 2659 | 2025-12-20 13:52:40 | [steipete/clawdis](https://github.com/steipete/clawdis) | ✅ full (421⭐ Swift) | [reels/reel_2659_steipete-clawdis](reels/reel_2659_steipete-clawdis) |

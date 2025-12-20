@@ -1,0 +1,24 @@
+{
+  "reel_number": 2659,
+  "recorded": "2025-12-20 13:52:40 UTC",
+  "repository": {
+    "full_name": "steipete/clawdis",
+    "url": "https://github.com/steipete/clawdis",
+    "clone_url": "https://github.com/steipete/clawdis.git",
+    "stars": 421,
+    "language": "Swift",
+    "size_kb": 35062
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 34,
+    "duration_seconds": 2.319228
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 421 stars."
+  }
+}
