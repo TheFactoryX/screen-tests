@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2720 | [muan/site](https://github.com/muan/site) | HTML · ⭐ 402 | 2025-12-21 |
+| #2721 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 106k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2786,3 +2786,4 @@ Or let GitHub Action run it automatically.
 | 2718 | 2025-12-21 14:16:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (163973⭐ TypeScript) | [reels/reel_2718_n8n-io-n8n](reels/reel_2718_n8n-io-n8n) |
 | 2719 | 2025-12-21 14:40:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138985⭐ Python) | [reels/reel_2719_yt-dlp-yt-dlp](reels/reel_2719_yt-dlp-yt-dlp) |
 | 2720 | 2025-12-21 14:50:24 | [muan/site](https://github.com/muan/site) | ✅ shallow (402⭐ HTML) | [reels/reel_2720_muan-site](reels/reel_2720_muan-site) |
+| 2721 | 2025-12-21 15:17:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106082⭐ TypeScript) | [reels/reel_2721_iptv-org-iptv](reels/reel_2721_iptv-org-iptv) |
