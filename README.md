@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2729 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-21 |
+| #2730 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2795,3 +2795,4 @@ Or let GitHub Action run it automatically.
 | 2727 | 2025-12-21 17:39:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122367⭐ Python) | [reels/reel_2727_langchain-ai-langchain](reels/reel_2727_langchain-ai-langchain) |
 | 2728 | 2025-12-21 17:50:09 | [CommunityToolkit/Labs-Windows](https://github.com/CommunityToolkit/Labs-Windows) | ✅ full (442⭐ C#) | [reels/reel_2728_CommunityToolkit-Labs-Windows](reels/reel_2728_CommunityToolkit-Labs-Windows) |
 | 2729 | 2025-12-21 18:25:51 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100800⭐ Python) | [reels/reel_2729_deepseek-ai-DeepSeek-V3](reels/reel_2729_deepseek-ai-DeepSeek-V3) |
+| 2730 | 2025-12-21 18:48:59 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97042⭐ TypeScript) | [reels/reel_2730_ant-design-ant-design](reels/reel_2730_ant-design-ant-design) |
