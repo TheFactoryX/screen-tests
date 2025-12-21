@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2702 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-21 |
+| #2703 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2768,3 +2768,4 @@ Or let GitHub Action run it automatically.
 | 2700 | 2025-12-21 07:38:28 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141629⭐ Python) | [reels/reel_2700_langflow-ai-langflow](reels/reel_2700_langflow-ai-langflow) |
 | 2701 | 2025-12-21 07:49:43 | [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | ✅ full (193⭐ TypeScript) | [reels/reel_2701_pedramamini-Maestro](reels/reel_2701_pedramamini-Maestro) |
 | 2702 | 2025-12-21 08:23:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122334⭐ Python) | [reels/reel_2702_langchain-ai-langchain](reels/reel_2702_langchain-ai-langchain) |
+| 2703 | 2025-12-21 08:47:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118341⭐ Svelte) | [reels/reel_2703_open-webui-open-webui](reels/reel_2703_open-webui-open-webui) |
