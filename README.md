@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2699 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-21 |
+| #2700 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2765,3 +2765,4 @@ Or let GitHub Action run it automatically.
 | 2697 | 2025-12-21 06:28:20 | [jsuto/piler](https://github.com/jsuto/piler) | ✅ full (219⭐ PHP) | [reels/reel_2697_jsuto-piler](reels/reel_2697_jsuto-piler) |
 | 2698 | 2025-12-21 06:52:55 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (105937⭐ TypeScript) | [reels/reel_2698_iptv-org-iptv](reels/reel_2698_iptv-org-iptv) |
 | 2699 | 2025-12-21 07:17:41 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100224⭐ Rust) | [reels/reel_2699_tauri-apps-tauri](reels/reel_2699_tauri-apps-tauri) |
+| 2700 | 2025-12-21 07:38:28 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141629⭐ Python) | [reels/reel_2700_langflow-ai-langflow](reels/reel_2700_langflow-ai-langflow) |
