@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2726 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-21 |
+| #2727 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2792,3 +2792,4 @@ Or let GitHub Action run it automatically.
 | 2724 | 2025-12-21 16:21:29 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103267⭐ TypeScript) | [reels/reel_2724_shadcn-ui-ui](reels/reel_2724_shadcn-ui-ui) |
 | 2725 | 2025-12-21 16:45:30 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103269⭐ TypeScript) | [reels/reel_2725_shadcn-ui-ui](reels/reel_2725_shadcn-ui-ui) |
 | 2726 | 2025-12-21 17:15:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103273⭐ TypeScript) | [reels/reel_2726_shadcn-ui-ui](reels/reel_2726_shadcn-ui-ui) |
+| 2727 | 2025-12-21 17:39:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122367⭐ Python) | [reels/reel_2727_langchain-ai-langchain](reels/reel_2727_langchain-ai-langchain) |
