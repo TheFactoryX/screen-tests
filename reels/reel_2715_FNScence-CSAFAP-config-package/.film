@@ -1,0 +1,24 @@
+{
+  "reel_number": 2715,
+  "recorded": "2025-12-21 13:16:18 UTC",
+  "repository": {
+    "full_name": "FNScence/CSAFAP-config-package",
+    "url": "https://github.com/FNScence/CSAFAP-config-package",
+    "clone_url": "https://github.com/FNScence/CSAFAP-config-package.git",
+    "stars": 115,
+    "language": null,
+    "size_kb": 1113
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.777735
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 115 stars."
+  }
+}
