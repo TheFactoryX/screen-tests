@@ -1,0 +1,24 @@
+{
+  "reel_number": 2701,
+  "recorded": "2025-12-21 07:49:43 UTC",
+  "repository": {
+    "full_name": "pedramamini/Maestro",
+    "url": "https://github.com/pedramamini/Maestro",
+    "clone_url": "https://github.com/pedramamini/Maestro.git",
+    "stars": 193,
+    "language": "TypeScript",
+    "size_kb": 18304
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.628697
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 193 stars."
+  }
+}
