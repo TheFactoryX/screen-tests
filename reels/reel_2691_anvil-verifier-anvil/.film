@@ -1,0 +1,24 @@
+{
+  "reel_number": 2691,
+  "recorded": "2025-12-21 03:19:06 UTC",
+  "repository": {
+    "full_name": "anvil-verifier/anvil",
+    "url": "https://github.com/anvil-verifier/anvil",
+    "clone_url": "https://github.com/anvil-verifier/anvil.git",
+    "stars": 141,
+    "language": "Rust",
+    "size_kb": 38273
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 37,
+    "duration_seconds": 1.936116
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 141 stars."
+  }
+}
