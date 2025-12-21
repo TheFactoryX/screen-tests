@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2724 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-21 |
+| #2725 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2790,3 +2790,4 @@ Or let GitHub Action run it automatically.
 | 2722 | 2025-12-21 15:39:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387038⭐ Python) | [reels/reel_2722_public-apis-public-apis](reels/reel_2722_public-apis-public-apis) |
 | 2723 | 2025-12-21 15:50:04 | [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) | ✅ readme_only (16342⭐ C) | [reels/reel_2723_UberGuidoZ-Flipper](reels/reel_2723_UberGuidoZ-Flipper) |
 | 2724 | 2025-12-21 16:21:29 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103267⭐ TypeScript) | [reels/reel_2724_shadcn-ui-ui](reels/reel_2724_shadcn-ui-ui) |
+| 2725 | 2025-12-21 16:45:30 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103269⭐ TypeScript) | [reels/reel_2725_shadcn-ui-ui](reels/reel_2725_shadcn-ui-ui) |
