@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2739 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-21 |
+| #2740 | [oNaiPs/dmenu-mac](https://github.com/oNaiPs/dmenu-mac) | Swift · ⭐ 325 | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2805,3 +2805,4 @@ Or let GitHub Action run it automatically.
 | 2737 | 2025-12-21 20:52:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139016⭐ Python) | [reels/reel_2737_yt-dlp-yt-dlp](reels/reel_2737_yt-dlp-yt-dlp) |
 | 2738 | 2025-12-21 21:17:30 | [cisagov/vulnrichment](https://github.com/cisagov/vulnrichment) | ✅ shallow (705⭐ None) | [reels/reel_2738_cisagov-vulnrichment](reels/reel_2738_cisagov-vulnrichment) |
 | 2739 | 2025-12-21 21:38:01 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180418⭐ Python) | [reels/reel_2739_Significant-Gravitas-AutoGPT](reels/reel_2739_Significant-Gravitas-AutoGPT) |
+| 2740 | 2025-12-21 21:50:05 | [oNaiPs/dmenu-mac](https://github.com/oNaiPs/dmenu-mac) | ✅ full (325⭐ Swift) | [reels/reel_2740_oNaiPs-dmenu-mac](reels/reel_2740_oNaiPs-dmenu-mac) |
