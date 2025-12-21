@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2708 | [anonymous-echo/Poc-Monitor_v1.0.1](https://github.com/anonymous-echo/Poc-Monitor_v1.0.1) | Go · ⭐ 224 | 2025-12-21 |
+| #2709 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 138k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2774,3 +2774,4 @@ Or let GitHub Action run it automatically.
 | 2706 | 2025-12-21 09:50:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118343⭐ Svelte) | [reels/reel_2706_open-webui-open-webui](reels/reel_2706_open-webui-open-webui) |
 | 2707 | 2025-12-21 10:18:40 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108663⭐ Rust) | [reels/reel_2707_rust-lang-rust](reels/reel_2707_rust-lang-rust) |
 | 2708 | 2025-12-21 10:43:26 | [anonymous-echo/Poc-Monitor_v1.0.1](https://github.com/anonymous-echo/Poc-Monitor_v1.0.1) | ✅ shallow (224⭐ Go) | [reels/reel_2708_anonymous-echo-Poc-Monitor_v1.0.1](reels/reel_2708_anonymous-echo-Poc-Monitor_v1.0.1) |
+| 2709 | 2025-12-21 10:53:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138947⭐ Python) | [reels/reel_2709_yt-dlp-yt-dlp](reels/reel_2709_yt-dlp-yt-dlp) |
