@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2717 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 106k | 2025-12-21 |
+| #2718 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 163k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2783,3 +2783,4 @@ Or let GitHub Action run it automatically.
 | 2715 | 2025-12-21 13:16:18 | [FNScence/CSAFAP-config-package](https://github.com/FNScence/CSAFAP-config-package) | ✅ full (115⭐ None) | [reels/reel_2715_FNScence-CSAFAP-config-package](reels/reel_2715_FNScence-CSAFAP-config-package) |
 | 2716 | 2025-12-21 13:43:47 | [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) | ✅ shallow (312⭐ Vue) | [reels/reel_2716_tgmeng-com-tgmeng-top-search-frontend](reels/reel_2716_tgmeng-com-tgmeng-top-search-frontend) |
 | 2717 | 2025-12-21 13:53:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106063⭐ TypeScript) | [reels/reel_2717_iptv-org-iptv](reels/reel_2717_iptv-org-iptv) |
+| 2718 | 2025-12-21 14:16:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (163973⭐ TypeScript) | [reels/reel_2718_n8n-io-n8n](reels/reel_2718_n8n-io-n8n) |
