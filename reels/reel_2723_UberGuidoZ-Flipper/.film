@@ -1,0 +1,24 @@
+{
+  "reel_number": 2723,
+  "recorded": "2025-12-21 15:50:04 UTC",
+  "repository": {
+    "full_name": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "clone_url": "https://github.com/UberGuidoZ/Flipper.git",
+    "stars": 16342,
+    "language": "C",
+    "size_kb": 2190661
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 2139,
+    "duration_seconds": 0.000142
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 16342 stars."
+  }
+}

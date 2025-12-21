@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2722 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 387k | 2025-12-21 |
+| #2723 | [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) | C · ⭐ 16k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2788,3 +2788,4 @@ Or let GitHub Action run it automatically.
 | 2720 | 2025-12-21 14:50:24 | [muan/site](https://github.com/muan/site) | ✅ shallow (402⭐ HTML) | [reels/reel_2720_muan-site](reels/reel_2720_muan-site) |
 | 2721 | 2025-12-21 15:17:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106082⭐ TypeScript) | [reels/reel_2721_iptv-org-iptv](reels/reel_2721_iptv-org-iptv) |
 | 2722 | 2025-12-21 15:39:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387038⭐ Python) | [reels/reel_2722_public-apis-public-apis](reels/reel_2722_public-apis-public-apis) |
+| 2723 | 2025-12-21 15:50:04 | [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) | ✅ readme_only (16342⭐ C) | [reels/reel_2723_UberGuidoZ-Flipper](reels/reel_2723_UberGuidoZ-Flipper) |
