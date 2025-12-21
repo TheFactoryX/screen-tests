@@ -1,0 +1,24 @@
+{
+  "reel_number": 2693,
+  "recorded": "2025-12-21 04:49:41 UTC",
+  "repository": {
+    "full_name": "Nirant07/VIT-Papers",
+    "url": "https://github.com/Nirant07/VIT-Papers",
+    "clone_url": "https://github.com/Nirant07/VIT-Papers.git",
+    "stars": 104,
+    "language": null,
+    "size_kb": 338882
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 330,
+    "duration_seconds": 9.6267
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 104 stars."
+  }
+}

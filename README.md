@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2692 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-21 |
+| #2693 | [Nirant07/VIT-Papers](https://github.com/Nirant07/VIT-Papers) | None · ⭐ 104 | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2758,3 +2758,4 @@ Or let GitHub Action run it automatically.
 | 2690 | 2025-12-21 01:41:41 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97035⭐ TypeScript) | [reels/reel_2690_ant-design-ant-design](reels/reel_2690_ant-design-ant-design) |
 | 2691 | 2025-12-21 03:19:06 | [anvil-verifier/anvil](https://github.com/anvil-verifier/anvil) | ✅ full (141⭐ Rust) | [reels/reel_2691_anvil-verifier-anvil](reels/reel_2691_anvil-verifier-anvil) |
 | 2692 | 2025-12-21 04:12:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103232⭐ TypeScript) | [reels/reel_2692_shadcn-ui-ui](reels/reel_2692_shadcn-ui-ui) |
+| 2693 | 2025-12-21 04:49:41 | [Nirant07/VIT-Papers](https://github.com/Nirant07/VIT-Papers) | ✅ shallow (104⭐ None) | [reels/reel_2693_Nirant07-VIT-Papers](reels/reel_2693_Nirant07-VIT-Papers) |
