@@ -1,0 +1,24 @@
+{
+  "reel_number": 2716,
+  "recorded": "2025-12-21 13:43:47 UTC",
+  "repository": {
+    "full_name": "tgmeng-com/tgmeng-top-search-frontend",
+    "url": "https://github.com/tgmeng-com/tgmeng-top-search-frontend",
+    "clone_url": "https://github.com/tgmeng-com/tgmeng-top-search-frontend.git",
+    "stars": 312,
+    "language": "Vue",
+    "size_kb": 179664
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 175,
+    "duration_seconds": 4.113673
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 312 stars."
+  }
+}

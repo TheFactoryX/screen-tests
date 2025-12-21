@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2715 | [FNScence/CSAFAP-config-package](https://github.com/FNScence/CSAFAP-config-package) | None · ⭐ 115 | 2025-12-21 |
+| #2716 | [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) | Vue · ⭐ 312 | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2781,3 +2781,4 @@ Or let GitHub Action run it automatically.
 | 2713 | 2025-12-21 11:51:44 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103253⭐ TypeScript) | [reels/reel_2713_shadcn-ui-ui](reels/reel_2713_shadcn-ui-ui) |
 | 2714 | 2025-12-21 12:36:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138962⭐ Python) | [reels/reel_2714_yt-dlp-yt-dlp](reels/reel_2714_yt-dlp-yt-dlp) |
 | 2715 | 2025-12-21 13:16:18 | [FNScence/CSAFAP-config-package](https://github.com/FNScence/CSAFAP-config-package) | ✅ full (115⭐ None) | [reels/reel_2715_FNScence-CSAFAP-config-package](reels/reel_2715_FNScence-CSAFAP-config-package) |
+| 2716 | 2025-12-21 13:43:47 | [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) | ✅ shallow (312⭐ Vue) | [reels/reel_2716_tgmeng-com-tgmeng-top-search-frontend](reels/reel_2716_tgmeng-com-tgmeng-top-search-frontend) |
