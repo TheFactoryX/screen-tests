@@ -1,0 +1,24 @@
+{
+  "reel_number": 2736,
+  "recorded": "2025-12-21 20:41:43 UTC",
+  "repository": {
+    "full_name": "Remiiiiis/randomCatFacts",
+    "url": "https://github.com/Remiiiiis/randomCatFacts",
+    "clone_url": "https://github.com/Remiiiiis/randomCatFacts.git",
+    "stars": 25,
+    "language": null,
+    "size_kb": 394
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.278769
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 25 stars."
+  }
+}
