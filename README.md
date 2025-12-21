@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2712 | [gabrielweyer/azure-functions-telemetry](https://github.com/gabrielweyer/azure-functions-telemetry) | C# · ⭐ 18 | 2025-12-21 |
+| #2713 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2778,3 +2778,4 @@ Or let GitHub Action run it automatically.
 | 2710 | 2025-12-21 11:15:05 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102951⭐ None) | [reels/reel_2710_Hack-with-Github-Awesome-Hacking](reels/reel_2710_Hack-with-Github-Awesome-Hacking) |
 | 2711 | 2025-12-21 11:30:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108663⭐ Rust) | [reels/reel_2711_rust-lang-rust](reels/reel_2711_rust-lang-rust) |
 | 2712 | 2025-12-21 11:41:46 | [gabrielweyer/azure-functions-telemetry](https://github.com/gabrielweyer/azure-functions-telemetry) | ✅ full (18⭐ C#) | [reels/reel_2712_gabrielweyer-azure-functions-telemetry](reels/reel_2712_gabrielweyer-azure-functions-telemetry) |
+| 2713 | 2025-12-21 11:51:44 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103253⭐ TypeScript) | [reels/reel_2713_shadcn-ui-ui](reels/reel_2713_shadcn-ui-ui) |
