@@ -1,0 +1,24 @@
+{
+  "reel_number": 2697,
+  "recorded": "2025-12-21 06:28:20 UTC",
+  "repository": {
+    "full_name": "jsuto/piler",
+    "url": "https://github.com/jsuto/piler",
+    "clone_url": "https://github.com/jsuto/piler.git",
+    "stars": 219,
+    "language": "PHP",
+    "size_kb": 26595
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 1.485934
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 219 stars."
+  }
+}
