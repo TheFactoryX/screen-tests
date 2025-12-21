@@ -1,0 +1,24 @@
+{
+  "reel_number": 2745,
+  "recorded": "2025-12-21 23:39:05 UTC",
+  "repository": {
+    "full_name": "bro256/Awesome-PQC-Resources",
+    "url": "https://github.com/bro256/Awesome-PQC-Resources",
+    "clone_url": "https://github.com/bro256/Awesome-PQC-Resources.git",
+    "stars": 22,
+    "language": null,
+    "size_kb": 141
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.517234
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 22 stars."
+  }
+}

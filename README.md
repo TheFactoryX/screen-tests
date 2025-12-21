@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2744 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 106k | 2025-12-21 |
+| #2745 | [bro256/Awesome-PQC-Resources](https://github.com/bro256/Awesome-PQC-Resources) | None · ⭐ 22 | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2810,3 +2810,4 @@ Or let GitHub Action run it automatically.
 | 2742 | 2025-12-21 22:42:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141673⭐ Python) | [reels/reel_2742_langflow-ai-langflow](reels/reel_2742_langflow-ai-langflow) |
 | 2743 | 2025-12-21 22:51:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118379⭐ Svelte) | [reels/reel_2743_open-webui-open-webui](reels/reel_2743_open-webui-open-webui) |
 | 2744 | 2025-12-21 23:17:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106171⭐ TypeScript) | [reels/reel_2744_iptv-org-iptv](reels/reel_2744_iptv-org-iptv) |
+| 2745 | 2025-12-21 23:39:05 | [bro256/Awesome-PQC-Resources](https://github.com/bro256/Awesome-PQC-Resources) | ✅ full (22⭐ None) | [reels/reel_2745_bro256-Awesome-PQC-Resources](reels/reel_2745_bro256-Awesome-PQC-Resources) |
