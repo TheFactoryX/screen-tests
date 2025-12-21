@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2689 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-20 |
+| #2690 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2755,3 +2755,4 @@ Or let GitHub Action run it automatically.
 | 2687 | 2025-12-20 23:17:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180400⭐ Python) | [reels/reel_2687_Significant-Gravitas-AutoGPT](reels/reel_2687_Significant-Gravitas-AutoGPT) |
 | 2688 | 2025-12-20 23:38:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103228⭐ TypeScript) | [reels/reel_2688_shadcn-ui-ui](reels/reel_2688_shadcn-ui-ui) |
 | 2689 | 2025-12-20 23:49:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108656⭐ Rust) | [reels/reel_2689_rust-lang-rust](reels/reel_2689_rust-lang-rust) |
+| 2690 | 2025-12-21 01:41:41 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97035⭐ TypeScript) | [reels/reel_2690_ant-design-ant-design](reels/reel_2690_ant-design-ant-design) |
