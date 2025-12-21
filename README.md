@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2710 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 102k | 2025-12-21 |
+| #2711 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2776,3 +2776,4 @@ Or let GitHub Action run it automatically.
 | 2708 | 2025-12-21 10:43:26 | [anonymous-echo/Poc-Monitor_v1.0.1](https://github.com/anonymous-echo/Poc-Monitor_v1.0.1) | ✅ shallow (224⭐ Go) | [reels/reel_2708_anonymous-echo-Poc-Monitor_v1.0.1](reels/reel_2708_anonymous-echo-Poc-Monitor_v1.0.1) |
 | 2709 | 2025-12-21 10:53:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (138947⭐ Python) | [reels/reel_2709_yt-dlp-yt-dlp](reels/reel_2709_yt-dlp-yt-dlp) |
 | 2710 | 2025-12-21 11:15:05 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (102951⭐ None) | [reels/reel_2710_Hack-with-Github-Awesome-Hacking](reels/reel_2710_Hack-with-Github-Awesome-Hacking) |
+| 2711 | 2025-12-21 11:30:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108663⭐ Rust) | [reels/reel_2711_rust-lang-rust](reels/reel_2711_rust-lang-rust) |
