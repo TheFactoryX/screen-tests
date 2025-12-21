@@ -1,0 +1,24 @@
+{
+  "reel_number": 2734,
+  "recorded": "2025-12-21 19:50:16 UTC",
+  "repository": {
+    "full_name": "mlrun/demo-fraud",
+    "url": "https://github.com/mlrun/demo-fraud",
+    "clone_url": "https://github.com/mlrun/demo-fraud.git",
+    "stars": 20,
+    "language": "Jupyter Notebook",
+    "size_kb": 10952
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 2.759209
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 20 stars."
+  }
+}

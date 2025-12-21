@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2733 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 106k | 2025-12-21 |
+| #2734 | [mlrun/demo-fraud](https://github.com/mlrun/demo-fraud) | Jupyter Notebook · ⭐ 20 | 2025-12-21 |
 ---
 
 ## 🎭 Selection Process
@@ -2799,3 +2799,4 @@ Or let GitHub Action run it automatically.
 | 2731 | 2025-12-21 19:14:19 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180417⭐ Python) | [reels/reel_2731_Significant-Gravitas-AutoGPT](reels/reel_2731_Significant-Gravitas-AutoGPT) |
 | 2732 | 2025-12-21 19:28:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108669⭐ Rust) | [reels/reel_2732_rust-lang-rust](reels/reel_2732_rust-lang-rust) |
 | 2733 | 2025-12-21 19:40:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106150⭐ TypeScript) | [reels/reel_2733_iptv-org-iptv](reels/reel_2733_iptv-org-iptv) |
+| 2734 | 2025-12-21 19:50:16 | [mlrun/demo-fraud](https://github.com/mlrun/demo-fraud) | ✅ full (20⭐ Jupyter Notebook) | [reels/reel_2734_mlrun-demo-fraud](reels/reel_2734_mlrun-demo-fraud) |
