@@ -1,0 +1,24 @@
+{
+  "reel_number": 2789,
+  "recorded": "2025-12-22 21:39:31 UTC",
+  "repository": {
+    "full_name": "jw-12138/multi-window-collab-demo",
+    "url": "https://github.com/jw-12138/multi-window-collab-demo",
+    "clone_url": "https://github.com/jw-12138/multi-window-collab-demo.git",
+    "stars": 137,
+    "language": "Vue",
+    "size_kb": 20
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.282218
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 137 stars."
+  }
+}

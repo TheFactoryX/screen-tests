@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2788 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-22 |
+| #2789 | [jw-12138/multi-window-collab-demo](https://github.com/jw-12138/multi-window-collab-demo) | Vue · ⭐ 137 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2854,3 +2854,4 @@ Or let GitHub Action run it automatically.
 | 2786 | 2025-12-22 20:43:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103336⭐ TypeScript) | [reels/reel_2786_shadcn-ui-ui](reels/reel_2786_shadcn-ui-ui) |
 | 2787 | 2025-12-22 20:55:16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118470⭐ Svelte) | [reels/reel_2787_open-webui-open-webui](reels/reel_2787_open-webui-open-webui) |
 | 2788 | 2025-12-22 21:17:10 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97054⭐ TypeScript) | [reels/reel_2788_ant-design-ant-design](reels/reel_2788_ant-design-ant-design) |
+| 2789 | 2025-12-22 21:39:31 | [jw-12138/multi-window-collab-demo](https://github.com/jw-12138/multi-window-collab-demo) | ✅ full (137⭐ Vue) | [reels/reel_2789_jw-12138-multi-window-collab-demo](reels/reel_2789_jw-12138-multi-window-collab-demo) |
