@@ -1,0 +1,24 @@
+{
+  "reel_number": 2761,
+  "recorded": "2025-12-22 10:20:33 UTC",
+  "repository": {
+    "full_name": "toy/image_size",
+    "url": "https://github.com/toy/image_size",
+    "clone_url": "https://github.com/toy/image_size.git",
+    "stars": 92,
+    "language": "Ruby",
+    "size_kb": 327
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.323494
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 92 stars."
+  }
+}
