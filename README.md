@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2761 | [toy/image_size](https://github.com/toy/image_size) | Ruby · ⭐ 92 | 2025-12-22 |
+| #2762 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2827,3 +2827,4 @@ Or let GitHub Action run it automatically.
 | 2759 | 2025-12-22 09:26:40 | [constructive-io/supabase-test-suite](https://github.com/constructive-io/supabase-test-suite) | ✅ full (18⭐ TypeScript) | [reels/reel_2759_constructive-io-supabase-test-suite](reels/reel_2759_constructive-io-supabase-test-suite) |
 | 2760 | 2025-12-22 09:49:53 | [ruanyf/articles](https://github.com/ruanyf/articles) | ✅ full (1012⭐ Makefile) | [reels/reel_2760_ruanyf-articles](reels/reel_2760_ruanyf-articles) |
 | 2761 | 2025-12-22 10:20:33 | [toy/image_size](https://github.com/toy/image_size) | ✅ full (92⭐ Ruby) | [reels/reel_2761_toy-image_size](reels/reel_2761_toy-image_size) |
+| 2762 | 2025-12-22 10:46:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122432⭐ Python) | [reels/reel_2762_langchain-ai-langchain](reels/reel_2762_langchain-ai-langchain) |
