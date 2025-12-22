@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2786 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-22 |
+| #2787 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2852,3 +2852,4 @@ Or let GitHub Action run it automatically.
 | 2784 | 2025-12-22 19:49:56 | [zzzeek/alembic](https://github.com/zzzeek/alembic) | ✅ full (532⭐ Python) | [reels/reel_2784_zzzeek-alembic](reels/reel_2784_zzzeek-alembic) |
 | 2785 | 2025-12-22 20:20:59 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97054⭐ TypeScript) | [reels/reel_2785_ant-design-ant-design](reels/reel_2785_ant-design-ant-design) |
 | 2786 | 2025-12-22 20:43:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103336⭐ TypeScript) | [reels/reel_2786_shadcn-ui-ui](reels/reel_2786_shadcn-ui-ui) |
+| 2787 | 2025-12-22 20:55:16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118470⭐ Svelte) | [reels/reel_2787_open-webui-open-webui](reels/reel_2787_open-webui-open-webui) |
