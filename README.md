@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2751 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-22 |
+| #2752 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2817,3 +2817,4 @@ Or let GitHub Action run it automatically.
 | 2749 | 2025-12-22 04:26:29 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100249⭐ Rust) | [reels/reel_2749_tauri-apps-tauri](reels/reel_2749_tauri-apps-tauri) |
 | 2750 | 2025-12-22 04:57:12 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387134⭐ Python) | [reels/reel_2750_public-apis-public-apis](reels/reel_2750_public-apis-public-apis) |
 | 2751 | 2025-12-22 05:27:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118401⭐ Svelte) | [reels/reel_2751_open-webui-open-webui](reels/reel_2751_open-webui-open-webui) |
+| 2752 | 2025-12-22 05:47:58 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139222⭐ Python) | [reels/reel_2752_ytdl-org-youtube-dl](reels/reel_2752_ytdl-org-youtube-dl) |
