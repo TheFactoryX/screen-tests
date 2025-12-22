@@ -1,0 +1,24 @@
+{
+  "reel_number": 2757,
+  "recorded": "2025-12-22 08:28:32 UTC",
+  "repository": {
+    "full_name": "mdn/translated-content-de",
+    "url": "https://github.com/mdn/translated-content-de",
+    "clone_url": "https://github.com/mdn/translated-content-de.git",
+    "stars": 14,
+    "language": "Markdown",
+    "size_kb": 113834
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 111,
+    "duration_seconds": 5.19318
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Markdown",
+    "director_note": "A Markdown repository. 14 stars."
+  }
+}
