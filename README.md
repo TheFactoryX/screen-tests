@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2769 | [TheRealClarity/wtfis](https://github.com/TheRealClarity/wtfis) | C · ⭐ 68 | 2025-12-22 |
+| #2770 | [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) | Rust · ⭐ 160 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2835,3 +2835,4 @@ Or let GitHub Action run it automatically.
 | 2767 | 2025-12-22 13:23:02 | [odoo/runbot](https://github.com/odoo/runbot) | ✅ full (145⭐ Python) | [reels/reel_2767_odoo-runbot](reels/reel_2767_odoo-runbot) |
 | 2768 | 2025-12-22 13:51:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122441⭐ Python) | [reels/reel_2768_langchain-ai-langchain](reels/reel_2768_langchain-ai-langchain) |
 | 2769 | 2025-12-22 14:19:32 | [TheRealClarity/wtfis](https://github.com/TheRealClarity/wtfis) | ✅ full (68⭐ C) | [reels/reel_2769_TheRealClarity-wtfis](reels/reel_2769_TheRealClarity-wtfis) |
+| 2770 | 2025-12-22 14:44:44 | [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) | ✅ shallow (160⭐ Rust) | [reels/reel_2770_block-mesh-block-mesh-monorepo](reels/reel_2770_block-mesh-block-mesh-monorepo) |

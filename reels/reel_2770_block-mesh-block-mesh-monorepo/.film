@@ -1,0 +1,24 @@
+{
+  "reel_number": 2770,
+  "recorded": "2025-12-22 14:44:44 UTC",
+  "repository": {
+    "full_name": "block-mesh/block-mesh-monorepo",
+    "url": "https://github.com/block-mesh/block-mesh-monorepo",
+    "clone_url": "https://github.com/block-mesh/block-mesh-monorepo.git",
+    "stars": 160,
+    "language": "Rust",
+    "size_kb": 136802
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 133,
+    "duration_seconds": 2.11469
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 160 stars."
+  }
+}
