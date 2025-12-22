@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2759 | [constructive-io/supabase-test-suite](https://github.com/constructive-io/supabase-test-suite) | TypeScript · ⭐ 18 | 2025-12-22 |
+| #2760 | [ruanyf/articles](https://github.com/ruanyf/articles) | Makefile · ⭐ 1k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2825,3 +2825,4 @@ Or let GitHub Action run it automatically.
 | 2757 | 2025-12-22 08:28:32 | [mdn/translated-content-de](https://github.com/mdn/translated-content-de) | ✅ shallow (14⭐ Markdown) | [reels/reel_2757_mdn-translated-content-de](reels/reel_2757_mdn-translated-content-de) |
 | 2758 | 2025-12-22 08:54:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139068⭐ Python) | [reels/reel_2758_yt-dlp-yt-dlp](reels/reel_2758_yt-dlp-yt-dlp) |
 | 2759 | 2025-12-22 09:26:40 | [constructive-io/supabase-test-suite](https://github.com/constructive-io/supabase-test-suite) | ✅ full (18⭐ TypeScript) | [reels/reel_2759_constructive-io-supabase-test-suite](reels/reel_2759_constructive-io-supabase-test-suite) |
+| 2760 | 2025-12-22 09:49:53 | [ruanyf/articles](https://github.com/ruanyf/articles) | ✅ full (1012⭐ Makefile) | [reels/reel_2760_ruanyf-articles](reels/reel_2760_ruanyf-articles) |
