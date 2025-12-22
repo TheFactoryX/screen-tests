@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2790 | [CrowdStrike/falcon-scripts](https://github.com/CrowdStrike/falcon-scripts) | Shell · ⭐ 198 | 2025-12-22 |
+| #2791 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 106k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2856,3 +2856,4 @@ Or let GitHub Action run it automatically.
 | 2788 | 2025-12-22 21:17:10 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97054⭐ TypeScript) | [reels/reel_2788_ant-design-ant-design](reels/reel_2788_ant-design-ant-design) |
 | 2789 | 2025-12-22 21:39:31 | [jw-12138/multi-window-collab-demo](https://github.com/jw-12138/multi-window-collab-demo) | ✅ full (137⭐ Vue) | [reels/reel_2789_jw-12138-multi-window-collab-demo](reels/reel_2789_jw-12138-multi-window-collab-demo) |
 | 2790 | 2025-12-22 21:50:22 | [CrowdStrike/falcon-scripts](https://github.com/CrowdStrike/falcon-scripts) | ✅ full (198⭐ Shell) | [reels/reel_2790_CrowdStrike-falcon-scripts](reels/reel_2790_CrowdStrike-falcon-scripts) |
+| 2791 | 2025-12-22 22:18:54 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106421⭐ TypeScript) | [reels/reel_2791_iptv-org-iptv](reels/reel_2791_iptv-org-iptv) |
