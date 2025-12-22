@@ -1,0 +1,24 @@
+{
+  "reel_number": 2759,
+  "recorded": "2025-12-22 09:26:40 UTC",
+  "repository": {
+    "full_name": "constructive-io/supabase-test-suite",
+    "url": "https://github.com/constructive-io/supabase-test-suite",
+    "clone_url": "https://github.com/constructive-io/supabase-test-suite.git",
+    "stars": 18,
+    "language": "TypeScript",
+    "size_kb": 1711
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.401547
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 18 stars."
+  }
+}

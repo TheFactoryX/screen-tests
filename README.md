@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2758 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-22 |
+| #2759 | [constructive-io/supabase-test-suite](https://github.com/constructive-io/supabase-test-suite) | TypeScript · ⭐ 18 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2824,3 +2824,4 @@ Or let GitHub Action run it automatically.
 | 2756 | 2025-12-22 07:51:33 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164109⭐ TypeScript) | [reels/reel_2756_n8n-io-n8n](reels/reel_2756_n8n-io-n8n) |
 | 2757 | 2025-12-22 08:28:32 | [mdn/translated-content-de](https://github.com/mdn/translated-content-de) | ✅ shallow (14⭐ Markdown) | [reels/reel_2757_mdn-translated-content-de](reels/reel_2757_mdn-translated-content-de) |
 | 2758 | 2025-12-22 08:54:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139068⭐ Python) | [reels/reel_2758_yt-dlp-yt-dlp](reels/reel_2758_yt-dlp-yt-dlp) |
+| 2759 | 2025-12-22 09:26:40 | [constructive-io/supabase-test-suite](https://github.com/constructive-io/supabase-test-suite) | ✅ full (18⭐ TypeScript) | [reels/reel_2759_constructive-io-supabase-test-suite](reels/reel_2759_constructive-io-supabase-test-suite) |
