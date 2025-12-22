@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2792 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-22 |
+| #2793 | [googleapis/discovery-artifact-manager](https://github.com/googleapis/discovery-artifact-manager) | Java · ⭐ 52 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2858,3 +2858,4 @@ Or let GitHub Action run it automatically.
 | 2790 | 2025-12-22 21:50:22 | [CrowdStrike/falcon-scripts](https://github.com/CrowdStrike/falcon-scripts) | ✅ full (198⭐ Shell) | [reels/reel_2790_CrowdStrike-falcon-scripts](reels/reel_2790_CrowdStrike-falcon-scripts) |
 | 2791 | 2025-12-22 22:18:54 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106421⭐ TypeScript) | [reels/reel_2791_iptv-org-iptv](reels/reel_2791_iptv-org-iptv) |
 | 2792 | 2025-12-22 22:43:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180433⭐ Python) | [reels/reel_2792_Significant-Gravitas-AutoGPT](reels/reel_2792_Significant-Gravitas-AutoGPT) |
+| 2793 | 2025-12-22 22:54:32 | [googleapis/discovery-artifact-manager](https://github.com/googleapis/discovery-artifact-manager) | ✅ readme_only (52⭐ Java) | [reels/reel_2793_googleapis-discovery-artifact-manager](reels/reel_2793_googleapis-discovery-artifact-manager) |

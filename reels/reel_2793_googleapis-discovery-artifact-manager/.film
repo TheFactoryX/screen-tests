@@ -1,0 +1,24 @@
+{
+  "reel_number": 2793,
+  "recorded": "2025-12-22 22:54:32 UTC",
+  "repository": {
+    "full_name": "googleapis/discovery-artifact-manager",
+    "url": "https://github.com/googleapis/discovery-artifact-manager",
+    "clone_url": "https://github.com/googleapis/discovery-artifact-manager.git",
+    "stars": 52,
+    "language": "Java",
+    "size_kb": 523544
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 511,
+    "duration_seconds": 0.00014
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 52 stars."
+  }
+}
