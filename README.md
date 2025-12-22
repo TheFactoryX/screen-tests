@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2753 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-22 |
+| #2754 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2819,3 +2819,4 @@ Or let GitHub Action run it automatically.
 | 2751 | 2025-12-22 05:27:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118401⭐ Svelte) | [reels/reel_2751_open-webui-open-webui](reels/reel_2751_open-webui-open-webui) |
 | 2752 | 2025-12-22 05:47:58 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139222⭐ Python) | [reels/reel_2752_ytdl-org-youtube-dl](reels/reel_2752_ytdl-org-youtube-dl) |
 | 2753 | 2025-12-22 06:32:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103298⭐ TypeScript) | [reels/reel_2753_shadcn-ui-ui](reels/reel_2753_shadcn-ui-ui) |
+| 2754 | 2025-12-22 07:01:43 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100259⭐ Rust) | [reels/reel_2754_tauri-apps-tauri](reels/reel_2754_tauri-apps-tauri) |
