@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2748 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-22 |
+| #2749 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2814,3 +2814,4 @@ Or let GitHub Action run it automatically.
 | 2746 | 2025-12-21 23:50:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106173⭐ TypeScript) | [reels/reel_2746_iptv-org-iptv](reels/reel_2746_iptv-org-iptv) |
 | 2747 | 2025-12-22 01:41:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122386⭐ Python) | [reels/reel_2747_langchain-ai-langchain](reels/reel_2747_langchain-ai-langchain) |
 | 2748 | 2025-12-22 03:21:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108672⭐ Rust) | [reels/reel_2748_rust-lang-rust](reels/reel_2748_rust-lang-rust) |
+| 2749 | 2025-12-22 04:26:29 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100249⭐ Rust) | [reels/reel_2749_tauri-apps-tauri](reels/reel_2749_tauri-apps-tauri) |
