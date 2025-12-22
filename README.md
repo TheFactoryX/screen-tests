@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2773 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-22 |
+| #2774 | [commercialhaskell/stackage-snapshots](https://github.com/commercialhaskell/stackage-snapshots) | Haskell · ⭐ 15 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2839,3 +2839,4 @@ Or let GitHub Action run it automatically.
 | 2771 | 2025-12-22 14:55:32 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387242⭐ Python) | [reels/reel_2771_public-apis-public-apis](reels/reel_2771_public-apis-public-apis) |
 | 2772 | 2025-12-22 15:21:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108693⭐ Rust) | [reels/reel_2772_rust-lang-rust](reels/reel_2772_rust-lang-rust) |
 | 2773 | 2025-12-22 15:43:53 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100277⭐ Rust) | [reels/reel_2773_tauri-apps-tauri](reels/reel_2773_tauri-apps-tauri) |
+| 2774 | 2025-12-22 15:55:50 | [commercialhaskell/stackage-snapshots](https://github.com/commercialhaskell/stackage-snapshots) | ✅ shallow (15⭐ Haskell) | [reels/reel_2774_commercialhaskell-stackage-snapshots](reels/reel_2774_commercialhaskell-stackage-snapshots) |

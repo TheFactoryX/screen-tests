@@ -1,0 +1,24 @@
+{
+  "reel_number": 2774,
+  "recorded": "2025-12-22 15:55:50 UTC",
+  "repository": {
+    "full_name": "commercialhaskell/stackage-snapshots",
+    "url": "https://github.com/commercialhaskell/stackage-snapshots",
+    "clone_url": "https://github.com/commercialhaskell/stackage-snapshots.git",
+    "stars": 15,
+    "language": "Haskell",
+    "size_kb": 212494
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 207,
+    "duration_seconds": 41.128618
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haskell",
+    "director_note": "A Haskell repository. 15 stars."
+  }
+}
