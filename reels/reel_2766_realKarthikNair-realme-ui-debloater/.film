@@ -1,0 +1,24 @@
+{
+  "reel_number": 2766,
+  "recorded": "2025-12-22 12:39:53 UTC",
+  "repository": {
+    "full_name": "realKarthikNair/realme-ui-debloater",
+    "url": "https://github.com/realKarthikNair/realme-ui-debloater",
+    "clone_url": "https://github.com/realKarthikNair/realme-ui-debloater.git",
+    "stars": 83,
+    "language": "Shell",
+    "size_kb": 15739
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 1.358832
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 83 stars."
+  }
+}
