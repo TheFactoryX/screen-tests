@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2762 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-22 |
+| #2763 | [yannseznec/talkBack](https://github.com/yannseznec/talkBack) | None · ⭐ 26 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2828,3 +2828,4 @@ Or let GitHub Action run it automatically.
 | 2760 | 2025-12-22 09:49:53 | [ruanyf/articles](https://github.com/ruanyf/articles) | ✅ full (1012⭐ Makefile) | [reels/reel_2760_ruanyf-articles](reels/reel_2760_ruanyf-articles) |
 | 2761 | 2025-12-22 10:20:33 | [toy/image_size](https://github.com/toy/image_size) | ✅ full (92⭐ Ruby) | [reels/reel_2761_toy-image_size](reels/reel_2761_toy-image_size) |
 | 2762 | 2025-12-22 10:46:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122432⭐ Python) | [reels/reel_2762_langchain-ai-langchain](reels/reel_2762_langchain-ai-langchain) |
+| 2763 | 2025-12-22 11:17:21 | [yannseznec/talkBack](https://github.com/yannseznec/talkBack) | ✅ full (26⭐ None) | [reels/reel_2763_yannseznec-talkBack](reels/reel_2763_yannseznec-talkBack) |

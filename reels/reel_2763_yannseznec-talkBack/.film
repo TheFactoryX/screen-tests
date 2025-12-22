@@ -1,0 +1,24 @@
+{
+  "reel_number": 2763,
+  "recorded": "2025-12-22 11:17:21 UTC",
+  "repository": {
+    "full_name": "yannseznec/talkBack",
+    "url": "https://github.com/yannseznec/talkBack",
+    "clone_url": "https://github.com/yannseznec/talkBack.git",
+    "stars": 26,
+    "language": null,
+    "size_kb": 1225
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.546333
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 26 stars."
+  }
+}
