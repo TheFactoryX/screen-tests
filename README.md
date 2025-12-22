@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2794 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-22 |
+| #2795 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 253k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2860,3 +2860,4 @@ Or let GitHub Action run it automatically.
 | 2792 | 2025-12-22 22:43:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180433⭐ Python) | [reels/reel_2792_Significant-Gravitas-AutoGPT](reels/reel_2792_Significant-Gravitas-AutoGPT) |
 | 2793 | 2025-12-22 22:54:32 | [googleapis/discovery-artifact-manager](https://github.com/googleapis/discovery-artifact-manager) | ✅ readme_only (52⭐ Java) | [reels/reel_2793_googleapis-discovery-artifact-manager](reels/reel_2793_googleapis-discovery-artifact-manager) |
 | 2794 | 2025-12-22 23:18:34 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100799⭐ Python) | [reels/reel_2794_deepseek-ai-DeepSeek-V3](reels/reel_2794_deepseek-ai-DeepSeek-V3) |
+| 2795 | 2025-12-22 23:40:06 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (253225⭐ None) | [reels/reel_2795_practical-tutorials-project-based-learning](reels/reel_2795_practical-tutorials-project-based-learning) |
