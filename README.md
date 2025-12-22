@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2772 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-22 |
+| #2773 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2838,3 +2838,4 @@ Or let GitHub Action run it automatically.
 | 2770 | 2025-12-22 14:44:44 | [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) | ✅ shallow (160⭐ Rust) | [reels/reel_2770_block-mesh-block-mesh-monorepo](reels/reel_2770_block-mesh-block-mesh-monorepo) |
 | 2771 | 2025-12-22 14:55:32 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387242⭐ Python) | [reels/reel_2771_public-apis-public-apis](reels/reel_2771_public-apis-public-apis) |
 | 2772 | 2025-12-22 15:21:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108693⭐ Rust) | [reels/reel_2772_rust-lang-rust](reels/reel_2772_rust-lang-rust) |
+| 2773 | 2025-12-22 15:43:53 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100277⭐ Rust) | [reels/reel_2773_tauri-apps-tauri](reels/reel_2773_tauri-apps-tauri) |
