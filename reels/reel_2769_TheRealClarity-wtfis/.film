@@ -1,0 +1,24 @@
+{
+  "reel_number": 2769,
+  "recorded": "2025-12-22 14:19:32 UTC",
+  "repository": {
+    "full_name": "TheRealClarity/wtfis",
+    "url": "https://github.com/TheRealClarity/wtfis",
+    "clone_url": "https://github.com/TheRealClarity/wtfis.git",
+    "stars": 68,
+    "language": "C",
+    "size_kb": 8708
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.43777
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 68 stars."
+  }
+}
