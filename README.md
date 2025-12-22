@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2782 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-22 |
+| #2783 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2848,3 +2848,4 @@ Or let GitHub Action run it automatically.
 | 2780 | 2025-12-22 18:28:34 | [iad1tya/Echo-Music](https://github.com/iad1tya/Echo-Music) | ✅ full (142⭐ Kotlin) | [reels/reel_2780_iad1tya-Echo-Music](reels/reel_2780_iad1tya-Echo-Music) |
 | 2781 | 2025-12-22 18:54:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118467⭐ Svelte) | [reels/reel_2781_open-webui-open-webui](reels/reel_2781_open-webui-open-webui) |
 | 2782 | 2025-12-22 19:16:16 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141749⭐ Python) | [reels/reel_2782_langflow-ai-langflow](reels/reel_2782_langflow-ai-langflow) |
+| 2783 | 2025-12-22 19:37:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139117⭐ Python) | [reels/reel_2783_yt-dlp-yt-dlp](reels/reel_2783_yt-dlp-yt-dlp) |
