@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2780 | [iad1tya/Echo-Music](https://github.com/iad1tya/Echo-Music) | Kotlin · ⭐ 142 | 2025-12-22 |
+| #2781 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2846,3 +2846,4 @@ Or let GitHub Action run it automatically.
 | 2778 | 2025-12-22 17:42:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180431⭐ Python) | [reels/reel_2778_Significant-Gravitas-AutoGPT](reels/reel_2778_Significant-Gravitas-AutoGPT) |
 | 2779 | 2025-12-22 17:51:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122456⭐ Python) | [reels/reel_2779_langchain-ai-langchain](reels/reel_2779_langchain-ai-langchain) |
 | 2780 | 2025-12-22 18:28:34 | [iad1tya/Echo-Music](https://github.com/iad1tya/Echo-Music) | ✅ full (142⭐ Kotlin) | [reels/reel_2780_iad1tya-Echo-Music](reels/reel_2780_iad1tya-Echo-Music) |
+| 2781 | 2025-12-22 18:54:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118467⭐ Svelte) | [reels/reel_2781_open-webui-open-webui](reels/reel_2781_open-webui-open-webui) |
