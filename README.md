@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2764 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-22 |
+| #2765 | [cirosantilli/essays](https://github.com/cirosantilli/essays) | Shell · ⭐ 21 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2830,3 +2830,4 @@ Or let GitHub Action run it automatically.
 | 2762 | 2025-12-22 10:46:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122432⭐ Python) | [reels/reel_2762_langchain-ai-langchain](reels/reel_2762_langchain-ai-langchain) |
 | 2763 | 2025-12-22 11:17:21 | [yannseznec/talkBack](https://github.com/yannseznec/talkBack) | ✅ full (26⭐ None) | [reels/reel_2763_yannseznec-talkBack](reels/reel_2763_yannseznec-talkBack) |
 | 2764 | 2025-12-22 11:39:01 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122434⭐ Python) | [reels/reel_2764_langchain-ai-langchain](reels/reel_2764_langchain-ai-langchain) |
+| 2765 | 2025-12-22 11:50:15 | [cirosantilli/essays](https://github.com/cirosantilli/essays) | ✅ full (21⭐ Shell) | [reels/reel_2765_cirosantilli-essays](reels/reel_2765_cirosantilli-essays) |

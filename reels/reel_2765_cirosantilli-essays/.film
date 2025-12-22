@@ -1,0 +1,24 @@
+{
+  "reel_number": 2765,
+  "recorded": "2025-12-22 11:50:15 UTC",
+  "repository": {
+    "full_name": "cirosantilli/essays",
+    "url": "https://github.com/cirosantilli/essays",
+    "clone_url": "https://github.com/cirosantilli/essays.git",
+    "stars": 21,
+    "language": "Shell",
+    "size_kb": 67
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.22423
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 21 stars."
+  }
+}
