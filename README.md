@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2785 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-22 |
+| #2786 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2851,3 +2851,4 @@ Or let GitHub Action run it automatically.
 | 2783 | 2025-12-22 19:37:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139117⭐ Python) | [reels/reel_2783_yt-dlp-yt-dlp](reels/reel_2783_yt-dlp-yt-dlp) |
 | 2784 | 2025-12-22 19:49:56 | [zzzeek/alembic](https://github.com/zzzeek/alembic) | ✅ full (532⭐ Python) | [reels/reel_2784_zzzeek-alembic](reels/reel_2784_zzzeek-alembic) |
 | 2785 | 2025-12-22 20:20:59 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97054⭐ TypeScript) | [reels/reel_2785_ant-design-ant-design](reels/reel_2785_ant-design-ant-design) |
+| 2786 | 2025-12-22 20:43:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103336⭐ TypeScript) | [reels/reel_2786_shadcn-ui-ui](reels/reel_2786_shadcn-ui-ui) |
