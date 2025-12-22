@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2757 | [mdn/translated-content-de](https://github.com/mdn/translated-content-de) | Markdown · ⭐ 14 | 2025-12-22 |
+| #2758 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2823,3 +2823,4 @@ Or let GitHub Action run it automatically.
 | 2755 | 2025-12-22 07:34:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106229⭐ TypeScript) | [reels/reel_2755_iptv-org-iptv](reels/reel_2755_iptv-org-iptv) |
 | 2756 | 2025-12-22 07:51:33 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164109⭐ TypeScript) | [reels/reel_2756_n8n-io-n8n](reels/reel_2756_n8n-io-n8n) |
 | 2757 | 2025-12-22 08:28:32 | [mdn/translated-content-de](https://github.com/mdn/translated-content-de) | ✅ shallow (14⭐ Markdown) | [reels/reel_2757_mdn-translated-content-de](reels/reel_2757_mdn-translated-content-de) |
+| 2758 | 2025-12-22 08:54:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139068⭐ Python) | [reels/reel_2758_yt-dlp-yt-dlp](reels/reel_2758_yt-dlp-yt-dlp) |
