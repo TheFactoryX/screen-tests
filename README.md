@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2766 | [realKarthikNair/realme-ui-debloater](https://github.com/realKarthikNair/realme-ui-debloater) | Shell · ⭐ 83 | 2025-12-22 |
+| #2767 | [odoo/runbot](https://github.com/odoo/runbot) | Python · ⭐ 145 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2832,3 +2832,4 @@ Or let GitHub Action run it automatically.
 | 2764 | 2025-12-22 11:39:01 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122434⭐ Python) | [reels/reel_2764_langchain-ai-langchain](reels/reel_2764_langchain-ai-langchain) |
 | 2765 | 2025-12-22 11:50:15 | [cirosantilli/essays](https://github.com/cirosantilli/essays) | ✅ full (21⭐ Shell) | [reels/reel_2765_cirosantilli-essays](reels/reel_2765_cirosantilli-essays) |
 | 2766 | 2025-12-22 12:39:53 | [realKarthikNair/realme-ui-debloater](https://github.com/realKarthikNair/realme-ui-debloater) | ✅ full (83⭐ Shell) | [reels/reel_2766_realKarthikNair-realme-ui-debloater](reels/reel_2766_realKarthikNair-realme-ui-debloater) |
+| 2767 | 2025-12-22 13:23:02 | [odoo/runbot](https://github.com/odoo/runbot) | ✅ full (145⭐ Python) | [reels/reel_2767_odoo-runbot](reels/reel_2767_odoo-runbot) |
