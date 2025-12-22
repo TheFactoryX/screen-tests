@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2778 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-22 |
+| #2779 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2844,3 +2844,4 @@ Or let GitHub Action run it automatically.
 | 2776 | 2025-12-22 16:50:26 | [SOVEREIGN-NET/The-Sovereign-Network](https://github.com/SOVEREIGN-NET/The-Sovereign-Network) | ✅ full (169⭐ Rust) | [reels/reel_2776_SOVEREIGN-NET-The-Sovereign-Network](reels/reel_2776_SOVEREIGN-NET-The-Sovereign-Network) |
 | 2777 | 2025-12-22 17:17:40 | [sOLarFLaMEPyL/Arbitrage_Mev_BOT](https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT) | ✅ full (372⭐ Solidity) | [reels/reel_2777_sOLarFLaMEPyL-Arbitrage_Mev_BOT](reels/reel_2777_sOLarFLaMEPyL-Arbitrage_Mev_BOT) |
 | 2778 | 2025-12-22 17:42:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180431⭐ Python) | [reels/reel_2778_Significant-Gravitas-AutoGPT](reels/reel_2778_Significant-Gravitas-AutoGPT) |
+| 2779 | 2025-12-22 17:51:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122456⭐ Python) | [reels/reel_2779_langchain-ai-langchain](reels/reel_2779_langchain-ai-langchain) |
