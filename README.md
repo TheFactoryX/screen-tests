@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2776 | [SOVEREIGN-NET/The-Sovereign-Network](https://github.com/SOVEREIGN-NET/The-Sovereign-Network) | Rust · ⭐ 169 | 2025-12-22 |
+| #2777 | [sOLarFLaMEPyL/Arbitrage_Mev_BOT](https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT) | Solidity · ⭐ 372 | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2842,3 +2842,4 @@ Or let GitHub Action run it automatically.
 | 2774 | 2025-12-22 15:55:50 | [commercialhaskell/stackage-snapshots](https://github.com/commercialhaskell/stackage-snapshots) | ✅ shallow (15⭐ Haskell) | [reels/reel_2774_commercialhaskell-stackage-snapshots](reels/reel_2774_commercialhaskell-stackage-snapshots) |
 | 2775 | 2025-12-22 16:24:12 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97054⭐ TypeScript) | [reels/reel_2775_ant-design-ant-design](reels/reel_2775_ant-design-ant-design) |
 | 2776 | 2025-12-22 16:50:26 | [SOVEREIGN-NET/The-Sovereign-Network](https://github.com/SOVEREIGN-NET/The-Sovereign-Network) | ✅ full (169⭐ Rust) | [reels/reel_2776_SOVEREIGN-NET-The-Sovereign-Network](reels/reel_2776_SOVEREIGN-NET-The-Sovereign-Network) |
+| 2777 | 2025-12-22 17:17:40 | [sOLarFLaMEPyL/Arbitrage_Mev_BOT](https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT) | ✅ full (372⭐ Solidity) | [reels/reel_2777_sOLarFLaMEPyL-Arbitrage_Mev_BOT](reels/reel_2777_sOLarFLaMEPyL-Arbitrage_Mev_BOT) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 2777,
+  "recorded": "2025-12-22 17:17:40 UTC",
+  "repository": {
+    "full_name": "sOLarFLaMEPyL/Arbitrage_Mev_BOT",
+    "url": "https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT",
+    "clone_url": "https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT.git",
+    "stars": 372,
+    "language": "Solidity",
+    "size_kb": 368
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.137367
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Solidity",
+    "director_note": "A Solidity repository. 372 stars."
+  }
+}
