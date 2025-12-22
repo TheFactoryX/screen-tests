@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2747 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-22 |
+| #2748 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2813,3 +2813,4 @@ Or let GitHub Action run it automatically.
 | 2745 | 2025-12-21 23:39:05 | [bro256/Awesome-PQC-Resources](https://github.com/bro256/Awesome-PQC-Resources) | ✅ full (22⭐ None) | [reels/reel_2745_bro256-Awesome-PQC-Resources](reels/reel_2745_bro256-Awesome-PQC-Resources) |
 | 2746 | 2025-12-21 23:50:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106173⭐ TypeScript) | [reels/reel_2746_iptv-org-iptv](reels/reel_2746_iptv-org-iptv) |
 | 2747 | 2025-12-22 01:41:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122386⭐ Python) | [reels/reel_2747_langchain-ai-langchain](reels/reel_2747_langchain-ai-langchain) |
+| 2748 | 2025-12-22 03:21:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108672⭐ Rust) | [reels/reel_2748_rust-lang-rust](reels/reel_2748_rust-lang-rust) |
