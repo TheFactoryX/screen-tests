@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2771 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 387k | 2025-12-22 |
+| #2772 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2837,3 +2837,4 @@ Or let GitHub Action run it automatically.
 | 2769 | 2025-12-22 14:19:32 | [TheRealClarity/wtfis](https://github.com/TheRealClarity/wtfis) | ✅ full (68⭐ C) | [reels/reel_2769_TheRealClarity-wtfis](reels/reel_2769_TheRealClarity-wtfis) |
 | 2770 | 2025-12-22 14:44:44 | [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) | ✅ shallow (160⭐ Rust) | [reels/reel_2770_block-mesh-block-mesh-monorepo](reels/reel_2770_block-mesh-block-mesh-monorepo) |
 | 2771 | 2025-12-22 14:55:32 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387242⭐ Python) | [reels/reel_2771_public-apis-public-apis](reels/reel_2771_public-apis-public-apis) |
+| 2772 | 2025-12-22 15:21:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108693⭐ Rust) | [reels/reel_2772_rust-lang-rust](reels/reel_2772_rust-lang-rust) |
