@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2793 | [googleapis/discovery-artifact-manager](https://github.com/googleapis/discovery-artifact-manager) | Java · ⭐ 52 | 2025-12-22 |
+| #2794 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-22 |
 ---
 
 ## 🎭 Selection Process
@@ -2859,3 +2859,4 @@ Or let GitHub Action run it automatically.
 | 2791 | 2025-12-22 22:18:54 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106421⭐ TypeScript) | [reels/reel_2791_iptv-org-iptv](reels/reel_2791_iptv-org-iptv) |
 | 2792 | 2025-12-22 22:43:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180433⭐ Python) | [reels/reel_2792_Significant-Gravitas-AutoGPT](reels/reel_2792_Significant-Gravitas-AutoGPT) |
 | 2793 | 2025-12-22 22:54:32 | [googleapis/discovery-artifact-manager](https://github.com/googleapis/discovery-artifact-manager) | ✅ readme_only (52⭐ Java) | [reels/reel_2793_googleapis-discovery-artifact-manager](reels/reel_2793_googleapis-discovery-artifact-manager) |
+| 2794 | 2025-12-22 23:18:34 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100799⭐ Python) | [reels/reel_2794_deepseek-ai-DeepSeek-V3](reels/reel_2794_deepseek-ai-DeepSeek-V3) |
