@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2823 | [2dos/DK64-Randomizer](https://github.com/2dos/DK64-Randomizer) | Python · ⭐ 63 | 2025-12-23 |
+| #2824 | [databrickslabs/lakebridge](https://github.com/databrickslabs/lakebridge) | Python · ⭐ 116 | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2889,3 +2889,4 @@ Or let GitHub Action run it automatically.
 | 2821 | 2025-12-23 15:20:02 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100808⭐ Python) | [reels/reel_2821_deepseek-ai-DeepSeek-V3](reels/reel_2821_deepseek-ai-DeepSeek-V3) |
 | 2822 | 2025-12-23 15:43:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108732⭐ Rust) | [reels/reel_2822_rust-lang-rust](reels/reel_2822_rust-lang-rust) |
 | 2823 | 2025-12-23 15:55:42 | [2dos/DK64-Randomizer](https://github.com/2dos/DK64-Randomizer) | ✅ readme_only (63⭐ Python) | [reels/reel_2823_2dos-DK64-Randomizer](reels/reel_2823_2dos-DK64-Randomizer) |
+| 2824 | 2025-12-23 16:27:10 | [databrickslabs/lakebridge](https://github.com/databrickslabs/lakebridge) | ✅ shallow (116⭐ Python) | [reels/reel_2824_databrickslabs-lakebridge](reels/reel_2824_databrickslabs-lakebridge) |

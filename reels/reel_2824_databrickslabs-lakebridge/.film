@@ -1,0 +1,24 @@
+{
+  "reel_number": 2824,
+  "recorded": "2025-12-23 16:27:10 UTC",
+  "repository": {
+    "full_name": "databrickslabs/lakebridge",
+    "url": "https://github.com/databrickslabs/lakebridge",
+    "clone_url": "https://github.com/databrickslabs/lakebridge.git",
+    "stars": 116,
+    "language": "Python",
+    "size_kb": 372890
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 364,
+    "duration_seconds": 3.435061
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 116 stars."
+  }
+}
