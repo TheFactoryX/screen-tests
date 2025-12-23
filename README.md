@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2803 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-23 |
+| #2804 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2869,3 +2869,4 @@ Or let GitHub Action run it automatically.
 | 2801 | 2025-12-23 05:22:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139163⭐ Python) | [reels/reel_2801_yt-dlp-yt-dlp](reels/reel_2801_yt-dlp-yt-dlp) |
 | 2802 | 2025-12-23 05:47:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106532⭐ TypeScript) | [reels/reel_2802_iptv-org-iptv](reels/reel_2802_iptv-org-iptv) |
 | 2803 | 2025-12-23 06:31:43 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139170⭐ Python) | [reels/reel_2803_yt-dlp-yt-dlp](reels/reel_2803_yt-dlp-yt-dlp) |
+| 2804 | 2025-12-23 07:01:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108716⭐ Rust) | [reels/reel_2804_rust-lang-rust](reels/reel_2804_rust-lang-rust) |
