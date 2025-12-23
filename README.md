@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2812 | [matter-js/matter.js](https://github.com/matter-js/matter.js) | TypeScript · ⭐ 638 | 2025-12-23 |
+| #2813 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2878,3 +2878,4 @@ Or let GitHub Action run it automatically.
 | 2810 | 2025-12-23 09:46:15 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97059⭐ TypeScript) | [reels/reel_2810_ant-design-ant-design](reels/reel_2810_ant-design-ant-design) |
 | 2811 | 2025-12-23 10:21:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (264251⭐ None) | [reels/reel_2811_awesome-selfhosted-awesome-selfhosted](reels/reel_2811_awesome-selfhosted-awesome-selfhosted) |
 | 2812 | 2025-12-23 10:47:22 | [matter-js/matter.js](https://github.com/matter-js/matter.js) | ✅ full (638⭐ TypeScript) | [reels/reel_2812_matter-js-matter.js](reels/reel_2812_matter-js-matter.js) |
+| 2813 | 2025-12-23 11:17:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141814⭐ Python) | [reels/reel_2813_langflow-ai-langflow](reels/reel_2813_langflow-ai-langflow) |
