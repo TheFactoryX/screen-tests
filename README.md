@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2809 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-23 |
+| #2810 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2875,3 +2875,4 @@ Or let GitHub Action run it automatically.
 | 2807 | 2025-12-23 08:27:53 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139226⭐ Python) | [reels/reel_2807_ytdl-org-youtube-dl](reels/reel_2807_ytdl-org-youtube-dl) |
 | 2808 | 2025-12-23 08:54:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100306⭐ Rust) | [reels/reel_2808_tauri-apps-tauri](reels/reel_2808_tauri-apps-tauri) |
 | 2809 | 2025-12-23 09:23:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108722⭐ Rust) | [reels/reel_2809_rust-lang-rust](reels/reel_2809_rust-lang-rust) |
+| 2810 | 2025-12-23 09:46:15 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97059⭐ TypeScript) | [reels/reel_2810_ant-design-ant-design](reels/reel_2810_ant-design-ant-design) |
