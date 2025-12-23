@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2804 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-23 |
+| #2805 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2870,3 +2870,4 @@ Or let GitHub Action run it automatically.
 | 2802 | 2025-12-23 05:47:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106532⭐ TypeScript) | [reels/reel_2802_iptv-org-iptv](reels/reel_2802_iptv-org-iptv) |
 | 2803 | 2025-12-23 06:31:43 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139170⭐ Python) | [reels/reel_2803_yt-dlp-yt-dlp](reels/reel_2803_yt-dlp-yt-dlp) |
 | 2804 | 2025-12-23 07:01:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108716⭐ Rust) | [reels/reel_2804_rust-lang-rust](reels/reel_2804_rust-lang-rust) |
+| 2805 | 2025-12-23 07:34:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118500⭐ Svelte) | [reels/reel_2805_open-webui-open-webui](reels/reel_2805_open-webui-open-webui) |
