@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2824 | [databrickslabs/lakebridge](https://github.com/databrickslabs/lakebridge) | Python · ⭐ 116 | 2025-12-23 |
+| #2825 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2890,3 +2890,4 @@ Or let GitHub Action run it automatically.
 | 2822 | 2025-12-23 15:43:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108732⭐ Rust) | [reels/reel_2822_rust-lang-rust](reels/reel_2822_rust-lang-rust) |
 | 2823 | 2025-12-23 15:55:42 | [2dos/DK64-Randomizer](https://github.com/2dos/DK64-Randomizer) | ✅ readme_only (63⭐ Python) | [reels/reel_2823_2dos-DK64-Randomizer](reels/reel_2823_2dos-DK64-Randomizer) |
 | 2824 | 2025-12-23 16:27:10 | [databrickslabs/lakebridge](https://github.com/databrickslabs/lakebridge) | ✅ shallow (116⭐ Python) | [reels/reel_2824_databrickslabs-lakebridge](reels/reel_2824_databrickslabs-lakebridge) |
+| 2825 | 2025-12-23 16:52:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108735⭐ Rust) | [reels/reel_2825_rust-lang-rust](reels/reel_2825_rust-lang-rust) |
