@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2838 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-23 |
+| #2839 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 164k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2904,3 +2904,4 @@ Or let GitHub Action run it automatically.
 | 2836 | 2025-12-23 20:54:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103404⭐ TypeScript) | [reels/reel_2836_shadcn-ui-ui](reels/reel_2836_shadcn-ui-ui) |
 | 2837 | 2025-12-23 21:18:00 | [mph-/lcapy](https://github.com/mph-/lcapy) | ✅ full (281⭐ Python) | [reels/reel_2837_mph--lcapy](reels/reel_2837_mph--lcapy) |
 | 2838 | 2025-12-23 21:39:35 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108752⭐ Rust) | [reels/reel_2838_rust-lang-rust](reels/reel_2838_rust-lang-rust) |
+| 2839 | 2025-12-23 21:49:48 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164389⭐ TypeScript) | [reels/reel_2839_n8n-io-n8n](reels/reel_2839_n8n-io-n8n) |
