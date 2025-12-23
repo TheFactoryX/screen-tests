@@ -1,0 +1,24 @@
+{
+  "reel_number": 2799,
+  "recorded": "2025-12-23 04:08:30 UTC",
+  "repository": {
+    "full_name": "madereddy/noisy",
+    "url": "https://github.com/madereddy/noisy",
+    "clone_url": "https://github.com/madereddy/noisy.git",
+    "stars": 103,
+    "language": "Python",
+    "size_kb": 804
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.520737
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 103 stars."
+  }
+}

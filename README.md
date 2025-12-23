@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2798 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-23 |
+| #2799 | [madereddy/noisy](https://github.com/madereddy/noisy) | Python · ⭐ 103 | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2864,3 +2864,4 @@ Or let GitHub Action run it automatically.
 | 2796 | 2025-12-22 23:50:43 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101292⭐ Shell) | [reels/reel_2796_papers-we-love-papers-we-love](reels/reel_2796_papers-we-love-papers-we-love) |
 | 2797 | 2025-12-23 01:27:21 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106452⭐ TypeScript) | [reels/reel_2797_iptv-org-iptv](reels/reel_2797_iptv-org-iptv) |
 | 2798 | 2025-12-23 03:14:05 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100299⭐ Rust) | [reels/reel_2798_tauri-apps-tauri](reels/reel_2798_tauri-apps-tauri) |
+| 2799 | 2025-12-23 04:08:30 | [madereddy/noisy](https://github.com/madereddy/noisy) | ✅ full (103⭐ Python) | [reels/reel_2799_madereddy-noisy](reels/reel_2799_madereddy-noisy) |
