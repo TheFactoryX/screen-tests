@@ -1,0 +1,24 @@
+{
+  "reel_number": 2843,
+  "recorded": "2025-12-23 23:17:39 UTC",
+  "repository": {
+    "full_name": "elastic/integrations",
+    "url": "https://github.com/elastic/integrations",
+    "clone_url": "https://github.com/elastic/integrations.git",
+    "stars": 313,
+    "language": "Handlebars",
+    "size_kb": 1016377
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 992,
+    "duration_seconds": 0.000136
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Handlebars",
+    "director_note": "A Handlebars repository. 313 stars."
+  }
+}
