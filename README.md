@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2831 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-23 |
+| #2832 | [smpetersgithub/AdvancedSQLPuzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) | TSQL · ⭐ 830 | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2897,3 +2897,4 @@ Or let GitHub Action run it automatically.
 | 2829 | 2025-12-23 18:28:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122544⭐ Python) | [reels/reel_2829_langchain-ai-langchain](reels/reel_2829_langchain-ai-langchain) |
 | 2830 | 2025-12-23 18:54:43 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101320⭐ Shell) | [reels/reel_2830_papers-we-love-papers-we-love](reels/reel_2830_papers-we-love-papers-we-love) |
 | 2831 | 2025-12-23 19:16:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122544⭐ Python) | [reels/reel_2831_langchain-ai-langchain](reels/reel_2831_langchain-ai-langchain) |
+| 2832 | 2025-12-23 19:37:18 | [smpetersgithub/AdvancedSQLPuzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) | ✅ full (830⭐ TSQL) | [reels/reel_2832_smpetersgithub-AdvancedSQLPuzzles](reels/reel_2832_smpetersgithub-AdvancedSQLPuzzles) |

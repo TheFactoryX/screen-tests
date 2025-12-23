@@ -1,0 +1,24 @@
+{
+  "reel_number": 2832,
+  "recorded": "2025-12-23 19:37:18 UTC",
+  "repository": {
+    "full_name": "smpetersgithub/AdvancedSQLPuzzles",
+    "url": "https://github.com/smpetersgithub/AdvancedSQLPuzzles",
+    "clone_url": "https://github.com/smpetersgithub/AdvancedSQLPuzzles.git",
+    "stars": 830,
+    "language": "TSQL",
+    "size_kb": 15191
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 0.787944
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TSQL",
+    "director_note": "A TSQL repository. 830 stars."
+  }
+}
