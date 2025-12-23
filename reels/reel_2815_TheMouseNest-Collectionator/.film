@@ -1,0 +1,24 @@
+{
+  "reel_number": 2815,
+  "recorded": "2025-12-23 11:50:45 UTC",
+  "repository": {
+    "full_name": "TheMouseNest/Collectionator",
+    "url": "https://github.com/TheMouseNest/Collectionator",
+    "clone_url": "https://github.com/TheMouseNest/Collectionator.git",
+    "stars": 11,
+    "language": "Lua",
+    "size_kb": 380
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.584256
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 11 stars."
+  }
+}
