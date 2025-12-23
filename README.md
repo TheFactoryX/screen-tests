@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2808 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-23 |
+| #2809 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2874,3 +2874,4 @@ Or let GitHub Action run it automatically.
 | 2806 | 2025-12-23 07:51:38 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101298⭐ Shell) | [reels/reel_2806_papers-we-love-papers-we-love](reels/reel_2806_papers-we-love-papers-we-love) |
 | 2807 | 2025-12-23 08:27:53 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139226⭐ Python) | [reels/reel_2807_ytdl-org-youtube-dl](reels/reel_2807_ytdl-org-youtube-dl) |
 | 2808 | 2025-12-23 08:54:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100306⭐ Rust) | [reels/reel_2808_tauri-apps-tauri](reels/reel_2808_tauri-apps-tauri) |
+| 2809 | 2025-12-23 09:23:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108722⭐ Rust) | [reels/reel_2809_rust-lang-rust](reels/reel_2809_rust-lang-rust) |
