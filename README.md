@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2806 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-23 |
+| #2807 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2872,3 +2872,4 @@ Or let GitHub Action run it automatically.
 | 2804 | 2025-12-23 07:01:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108716⭐ Rust) | [reels/reel_2804_rust-lang-rust](reels/reel_2804_rust-lang-rust) |
 | 2805 | 2025-12-23 07:34:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118500⭐ Svelte) | [reels/reel_2805_open-webui-open-webui](reels/reel_2805_open-webui-open-webui) |
 | 2806 | 2025-12-23 07:51:38 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101298⭐ Shell) | [reels/reel_2806_papers-we-love-papers-we-love](reels/reel_2806_papers-we-love-papers-we-love) |
+| 2807 | 2025-12-23 08:27:53 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139226⭐ Python) | [reels/reel_2807_ytdl-org-youtube-dl](reels/reel_2807_ytdl-org-youtube-dl) |
