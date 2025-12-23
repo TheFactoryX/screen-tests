@@ -1,0 +1,24 @@
+{
+  "reel_number": 2845,
+  "recorded": "2025-12-23 23:50:05 UTC",
+  "repository": {
+    "full_name": "oxc-project/playground",
+    "url": "https://github.com/oxc-project/playground",
+    "clone_url": "https://github.com/oxc-project/playground.git",
+    "stars": 51,
+    "language": "Vue",
+    "size_kb": 1465
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.291661
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 51 stars."
+  }
+}

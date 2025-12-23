@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2844 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-23 |
+| #2845 | [oxc-project/playground](https://github.com/oxc-project/playground) | Vue · ⭐ 51 | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2910,3 +2910,4 @@ Or let GitHub Action run it automatically.
 | 2842 | 2025-12-23 22:52:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118652⭐ Svelte) | [reels/reel_2842_open-webui-open-webui](reels/reel_2842_open-webui-open-webui) |
 | 2843 | 2025-12-23 23:17:39 | [elastic/integrations](https://github.com/elastic/integrations) | ✅ readme_only (313⭐ Handlebars) | [reels/reel_2843_elastic-integrations](reels/reel_2843_elastic-integrations) |
 | 2844 | 2025-12-23 23:39:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141855⭐ Python) | [reels/reel_2844_langflow-ai-langflow](reels/reel_2844_langflow-ai-langflow) |
+| 2845 | 2025-12-23 23:50:05 | [oxc-project/playground](https://github.com/oxc-project/playground) | ✅ full (51⭐ Vue) | [reels/reel_2845_oxc-project-playground](reels/reel_2845_oxc-project-playground) |
