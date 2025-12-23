@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2818 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-23 |
+| #2819 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2884,3 +2884,4 @@ Or let GitHub Action run it automatically.
 | 2816 | 2025-12-23 12:40:29 | [kumahq/kuma-website](https://github.com/kumahq/kuma-website) | ✅ full (140⭐ Ruby) | [reels/reel_2816_kumahq-kuma-website](reels/reel_2816_kumahq-kuma-website) |
 | 2817 | 2025-12-23 13:24:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141821⭐ Python) | [reels/reel_2817_langflow-ai-langflow](reels/reel_2817_langflow-ai-langflow) |
 | 2818 | 2025-12-23 13:52:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139212⭐ Python) | [reels/reel_2818_yt-dlp-yt-dlp](reels/reel_2818_yt-dlp-yt-dlp) |
+| 2819 | 2025-12-23 14:19:29 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100314⭐ Rust) | [reels/reel_2819_tauri-apps-tauri](reels/reel_2819_tauri-apps-tauri) |
