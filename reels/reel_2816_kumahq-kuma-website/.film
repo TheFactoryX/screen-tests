@@ -1,0 +1,24 @@
+{
+  "reel_number": 2816,
+  "recorded": "2025-12-23 12:40:29 UTC",
+  "repository": {
+    "full_name": "kumahq/kuma-website",
+    "url": "https://github.com/kumahq/kuma-website",
+    "clone_url": "https://github.com/kumahq/kuma-website.git",
+    "stars": 140,
+    "language": "Ruby",
+    "size_kb": 53608
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 52,
+    "duration_seconds": 2.030005
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 140 stars."
+  }
+}

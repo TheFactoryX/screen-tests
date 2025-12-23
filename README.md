@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2815 | [TheMouseNest/Collectionator](https://github.com/TheMouseNest/Collectionator) | Lua · ⭐ 11 | 2025-12-23 |
+| #2816 | [kumahq/kuma-website](https://github.com/kumahq/kuma-website) | Ruby · ⭐ 140 | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2881,3 +2881,4 @@ Or let GitHub Action run it automatically.
 | 2813 | 2025-12-23 11:17:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141814⭐ Python) | [reels/reel_2813_langflow-ai-langflow](reels/reel_2813_langflow-ai-langflow) |
 | 2814 | 2025-12-23 11:39:41 | [Cloudflare-Mining/Cloudflare-Datamining](https://github.com/Cloudflare-Mining/Cloudflare-Datamining) | ✅ readme_only (182⭐ HTML) | [reels/reel_2814_Cloudflare-Mining-Cloudflare-Datamining](reels/reel_2814_Cloudflare-Mining-Cloudflare-Datamining) |
 | 2815 | 2025-12-23 11:50:45 | [TheMouseNest/Collectionator](https://github.com/TheMouseNest/Collectionator) | ✅ full (11⭐ Lua) | [reels/reel_2815_TheMouseNest-Collectionator](reels/reel_2815_TheMouseNest-Collectionator) |
+| 2816 | 2025-12-23 12:40:29 | [kumahq/kuma-website](https://github.com/kumahq/kuma-website) | ✅ full (140⭐ Ruby) | [reels/reel_2816_kumahq-kuma-website](reels/reel_2816_kumahq-kuma-website) |
