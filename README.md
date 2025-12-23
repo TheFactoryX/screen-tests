@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2833 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-23 |
+| #2834 | [dogkeeper886/ollama-k80-lab](https://github.com/dogkeeper886/ollama-k80-lab) | Python · ⭐ 19 | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2899,3 +2899,4 @@ Or let GitHub Action run it automatically.
 | 2831 | 2025-12-23 19:16:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122544⭐ Python) | [reels/reel_2831_langchain-ai-langchain](reels/reel_2831_langchain-ai-langchain) |
 | 2832 | 2025-12-23 19:37:18 | [smpetersgithub/AdvancedSQLPuzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) | ✅ full (830⭐ TSQL) | [reels/reel_2832_smpetersgithub-AdvancedSQLPuzzles](reels/reel_2832_smpetersgithub-AdvancedSQLPuzzles) |
 | 2833 | 2025-12-23 19:50:15 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100327⭐ Rust) | [reels/reel_2833_tauri-apps-tauri](reels/reel_2833_tauri-apps-tauri) |
+| 2834 | 2025-12-23 20:20:46 | [dogkeeper886/ollama-k80-lab](https://github.com/dogkeeper886/ollama-k80-lab) | ✅ full (19⭐ Python) | [reels/reel_2834_dogkeeper886-ollama-k80-lab](reels/reel_2834_dogkeeper886-ollama-k80-lab) |
