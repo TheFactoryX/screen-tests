@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2807 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-23 |
+| #2808 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2873,3 +2873,4 @@ Or let GitHub Action run it automatically.
 | 2805 | 2025-12-23 07:34:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118500⭐ Svelte) | [reels/reel_2805_open-webui-open-webui](reels/reel_2805_open-webui-open-webui) |
 | 2806 | 2025-12-23 07:51:38 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101298⭐ Shell) | [reels/reel_2806_papers-we-love-papers-we-love](reels/reel_2806_papers-we-love-papers-we-love) |
 | 2807 | 2025-12-23 08:27:53 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139226⭐ Python) | [reels/reel_2807_ytdl-org-youtube-dl](reels/reel_2807_ytdl-org-youtube-dl) |
+| 2808 | 2025-12-23 08:54:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100306⭐ Rust) | [reels/reel_2808_tauri-apps-tauri](reels/reel_2808_tauri-apps-tauri) |
