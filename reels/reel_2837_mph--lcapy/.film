@@ -1,0 +1,24 @@
+{
+  "reel_number": 2837,
+  "recorded": "2025-12-23 21:18:00 UTC",
+  "repository": {
+    "full_name": "mph-/lcapy",
+    "url": "https://github.com/mph-/lcapy",
+    "clone_url": "https://github.com/mph-/lcapy.git",
+    "stars": 281,
+    "language": "Python",
+    "size_kb": 49176
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 48,
+    "duration_seconds": 2.222428
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 281 stars."
+  }
+}

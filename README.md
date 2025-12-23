@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2836 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-23 |
+| #2837 | [mph-/lcapy](https://github.com/mph-/lcapy) | Python · ⭐ 281 | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2902,3 +2902,4 @@ Or let GitHub Action run it automatically.
 | 2834 | 2025-12-23 20:20:46 | [dogkeeper886/ollama-k80-lab](https://github.com/dogkeeper886/ollama-k80-lab) | ✅ full (19⭐ Python) | [reels/reel_2834_dogkeeper886-ollama-k80-lab](reels/reel_2834_dogkeeper886-ollama-k80-lab) |
 | 2835 | 2025-12-23 20:43:01 | [Yczar/wtf-dart](https://github.com/Yczar/wtf-dart) | ✅ full (98⭐ Dart) | [reels/reel_2835_Yczar-wtf-dart](reels/reel_2835_Yczar-wtf-dart) |
 | 2836 | 2025-12-23 20:54:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103404⭐ TypeScript) | [reels/reel_2836_shadcn-ui-ui](reels/reel_2836_shadcn-ui-ui) |
+| 2837 | 2025-12-23 21:18:00 | [mph-/lcapy](https://github.com/mph-/lcapy) | ✅ full (281⭐ Python) | [reels/reel_2837_mph--lcapy](reels/reel_2837_mph--lcapy) |
