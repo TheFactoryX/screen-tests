@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2828 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-23 |
+| #2829 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2894,3 +2894,4 @@ Or let GitHub Action run it automatically.
 | 2826 | 2025-12-23 17:19:08 | [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) | ✅ full (460⭐ JavaScript) | [reels/reel_2826_pietheinstrengholt-rssmonster](reels/reel_2826_pietheinstrengholt-rssmonster) |
 | 2827 | 2025-12-23 17:44:10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164376⭐ TypeScript) | [reels/reel_2827_n8n-io-n8n](reels/reel_2827_n8n-io-n8n) |
 | 2828 | 2025-12-23 17:54:09 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108744⭐ Rust) | [reels/reel_2828_rust-lang-rust](reels/reel_2828_rust-lang-rust) |
+| 2829 | 2025-12-23 18:28:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122544⭐ Python) | [reels/reel_2829_langchain-ai-langchain](reels/reel_2829_langchain-ai-langchain) |
