@@ -1,0 +1,24 @@
+{
+  "reel_number": 2823,
+  "recorded": "2025-12-23 15:55:42 UTC",
+  "repository": {
+    "full_name": "2dos/DK64-Randomizer",
+    "url": "https://github.com/2dos/DK64-Randomizer",
+    "clone_url": "https://github.com/2dos/DK64-Randomizer.git",
+    "stars": 63,
+    "language": "Python",
+    "size_kb": 923121
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 901,
+    "duration_seconds": 0.000161
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 63 stars."
+  }
+}
