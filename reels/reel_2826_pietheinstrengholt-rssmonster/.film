@@ -1,0 +1,24 @@
+{
+  "reel_number": 2826,
+  "recorded": "2025-12-23 17:19:08 UTC",
+  "repository": {
+    "full_name": "pietheinstrengholt/rssmonster",
+    "url": "https://github.com/pietheinstrengholt/rssmonster",
+    "clone_url": "https://github.com/pietheinstrengholt/rssmonster.git",
+    "stars": 460,
+    "language": "JavaScript",
+    "size_kb": 18520
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.142645
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 460 stars."
+  }
+}
