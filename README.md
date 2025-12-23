@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2801 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-23 |
+| #2802 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 106k | 2025-12-23 |
 ---
 
 ## 🎭 Selection Process
@@ -2867,3 +2867,4 @@ Or let GitHub Action run it automatically.
 | 2799 | 2025-12-23 04:08:30 | [madereddy/noisy](https://github.com/madereddy/noisy) | ✅ full (103⭐ Python) | [reels/reel_2799_madereddy-noisy](reels/reel_2799_madereddy-noisy) |
 | 2800 | 2025-12-23 04:49:58 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103041⭐ None) | [reels/reel_2800_Hack-with-Github-Awesome-Hacking](reels/reel_2800_Hack-with-Github-Awesome-Hacking) |
 | 2801 | 2025-12-23 05:22:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139163⭐ Python) | [reels/reel_2801_yt-dlp-yt-dlp](reels/reel_2801_yt-dlp-yt-dlp) |
+| 2802 | 2025-12-23 05:47:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106532⭐ TypeScript) | [reels/reel_2802_iptv-org-iptv](reels/reel_2802_iptv-org-iptv) |
