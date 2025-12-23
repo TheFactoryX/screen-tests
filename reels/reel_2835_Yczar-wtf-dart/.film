@@ -1,0 +1,24 @@
+{
+  "reel_number": 2835,
+  "recorded": "2025-12-23 20:43:01 UTC",
+  "repository": {
+    "full_name": "Yczar/wtf-dart",
+    "url": "https://github.com/Yczar/wtf-dart",
+    "clone_url": "https://github.com/Yczar/wtf-dart.git",
+    "stars": 98,
+    "language": "Dart",
+    "size_kb": 67
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.16448
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 98 stars."
+  }
+}
