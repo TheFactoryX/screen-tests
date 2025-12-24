@@ -1,0 +1,24 @@
+{
+  "reel_number": 2860,
+  "recorded": "2025-12-24 09:54:53 UTC",
+  "repository": {
+    "full_name": "proflamyt/300days-of-hacking",
+    "url": "https://github.com/proflamyt/300days-of-hacking",
+    "clone_url": "https://github.com/proflamyt/300days-of-hacking.git",
+    "stars": 63,
+    "language": "Python",
+    "size_kb": 62911
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 61,
+    "duration_seconds": 2.230402
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 63 stars."
+  }
+}
