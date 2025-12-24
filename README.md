@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2861 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-24 |
+| #2862 | [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) | Kotlin · ⭐ 1k | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2927,3 +2927,4 @@ Or let GitHub Action run it automatically.
 | 2859 | 2025-12-24 09:44:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103441⭐ TypeScript) | [reels/reel_2859_shadcn-ui-ui](reels/reel_2859_shadcn-ui-ui) |
 | 2860 | 2025-12-24 09:54:53 | [proflamyt/300days-of-hacking](https://github.com/proflamyt/300days-of-hacking) | ✅ full (63⭐ Python) | [reels/reel_2860_proflamyt-300days-of-hacking](reels/reel_2860_proflamyt-300days-of-hacking) |
 | 2861 | 2025-12-24 10:20:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122595⭐ Python) | [reels/reel_2861_langchain-ai-langchain](reels/reel_2861_langchain-ai-langchain) |
+| 2862 | 2025-12-24 10:45:07 | [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) | ✅ full (1447⭐ Kotlin) | [reels/reel_2862_xchacha20-poly1305-husi](reels/reel_2862_xchacha20-poly1305-husi) |
