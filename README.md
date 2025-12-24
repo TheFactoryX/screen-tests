@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2897 | [HDVinnie/TrackerHub](https://github.com/HDVinnie/TrackerHub) | Markdown · ⭐ 135 | 2025-12-24 |
+| #2898 | [carbon-design-system/sveld](https://github.com/carbon-design-system/sveld) | Svelte · ⭐ 437 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2963,3 +2963,4 @@ Or let GitHub Action run it automatically.
 | 2895 | 2025-12-24 22:52:24 | [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) | ✅ full (183⭐ None) | [reels/reel_2895_ShadowWhisperer-IPs](reels/reel_2895_ShadowWhisperer-IPs) |
 | 2896 | 2025-12-24 23:17:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180475⭐ Python) | [reels/reel_2896_Significant-Gravitas-AutoGPT](reels/reel_2896_Significant-Gravitas-AutoGPT) |
 | 2897 | 2025-12-24 23:39:39 | [HDVinnie/TrackerHub](https://github.com/HDVinnie/TrackerHub) | ✅ readme_only (135⭐ Markdown) | [reels/reel_2897_HDVinnie-TrackerHub](reels/reel_2897_HDVinnie-TrackerHub) |
+| 2898 | 2025-12-24 23:50:24 | [carbon-design-system/sveld](https://github.com/carbon-design-system/sveld) | ✅ full (437⭐ Svelte) | [reels/reel_2898_carbon-design-system-sveld](reels/reel_2898_carbon-design-system-sveld) |
