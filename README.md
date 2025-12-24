@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2879 | [GrapeLemonade/useless-compiler](https://github.com/GrapeLemonade/useless-compiler) | C++ · ⭐ 14 | 2025-12-24 |
+| #2880 | [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) | Python · ⭐ 147 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2945,3 +2945,4 @@ Or let GitHub Action run it automatically.
 | 2877 | 2025-12-24 16:48:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103460⭐ TypeScript) | [reels/reel_2877_shadcn-ui-ui](reels/reel_2877_shadcn-ui-ui) |
 | 2878 | 2025-12-24 17:16:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180473⭐ Python) | [reels/reel_2878_Significant-Gravitas-AutoGPT](reels/reel_2878_Significant-Gravitas-AutoGPT) |
 | 2879 | 2025-12-24 17:40:48 | [GrapeLemonade/useless-compiler](https://github.com/GrapeLemonade/useless-compiler) | ✅ full (14⭐ C++) | [reels/reel_2879_GrapeLemonade-useless-compiler](reels/reel_2879_GrapeLemonade-useless-compiler) |
+| 2880 | 2025-12-24 17:50:16 | [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) | ✅ full (147⭐ Python) | [reels/reel_2880_nvuillam-github-dependents-info](reels/reel_2880_nvuillam-github-dependents-info) |
