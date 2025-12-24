@@ -1,0 +1,24 @@
+{
+  "reel_number": 2866,
+  "recorded": "2025-12-24 11:50:06 UTC",
+  "repository": {
+    "full_name": "arangodb/go-driver",
+    "url": "https://github.com/arangodb/go-driver",
+    "clone_url": "https://github.com/arangodb/go-driver.git",
+    "stars": 350,
+    "language": "Go",
+    "size_kb": 2443
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.551305
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 350 stars."
+  }
+}
