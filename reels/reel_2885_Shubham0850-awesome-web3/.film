@@ -1,0 +1,24 @@
+{
+  "reel_number": 2885,
+  "recorded": "2025-12-24 19:41:19 UTC",
+  "repository": {
+    "full_name": "Shubham0850/awesome-web3",
+    "url": "https://github.com/Shubham0850/awesome-web3",
+    "clone_url": "https://github.com/Shubham0850/awesome-web3.git",
+    "stars": 34,
+    "language": null,
+    "size_kb": 1733
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.407514
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 34 stars."
+  }
+}

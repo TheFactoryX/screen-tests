@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2884 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-24 |
+| #2885 | [Shubham0850/awesome-web3](https://github.com/Shubham0850/awesome-web3) | None · ⭐ 34 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2950,3 +2950,4 @@ Or let GitHub Action run it automatically.
 | 2882 | 2025-12-24 18:52:12 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100829⭐ Python) | [reels/reel_2882_deepseek-ai-DeepSeek-V3](reels/reel_2882_deepseek-ai-DeepSeek-V3) |
 | 2883 | 2025-12-24 19:14:55 | [bd4sur/Nano](https://github.com/bd4sur/Nano) | ✅ full (239⭐ C) | [reels/reel_2883_bd4sur-Nano](reels/reel_2883_bd4sur-Nano) |
 | 2884 | 2025-12-24 19:29:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108791⭐ Rust) | [reels/reel_2884_rust-lang-rust](reels/reel_2884_rust-lang-rust) |
+| 2885 | 2025-12-24 19:41:19 | [Shubham0850/awesome-web3](https://github.com/Shubham0850/awesome-web3) | ✅ full (34⭐ None) | [reels/reel_2885_Shubham0850-awesome-web3](reels/reel_2885_Shubham0850-awesome-web3) |
