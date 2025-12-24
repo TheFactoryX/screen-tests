@@ -1,0 +1,24 @@
+{
+  "reel_number": 2888,
+  "recorded": "2025-12-24 20:42:48 UTC",
+  "repository": {
+    "full_name": "mvdwetering/huesyncbox",
+    "url": "https://github.com/mvdwetering/huesyncbox",
+    "clone_url": "https://github.com/mvdwetering/huesyncbox.git",
+    "stars": 139,
+    "language": "Python",
+    "size_kb": 458
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.49651
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 139 stars."
+  }
+}
