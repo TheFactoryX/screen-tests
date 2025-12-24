@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2893 | [willtobyte/carimbo](https://github.com/willtobyte/carimbo) | C++ · ⭐ 138 | 2025-12-24 |
+| #2894 | [NovaEngineering-Source/PrototypeMachinery](https://github.com/NovaEngineering-Source/PrototypeMachinery) | Kotlin · ⭐ 20 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2959,3 +2959,4 @@ Or let GitHub Action run it automatically.
 | 2891 | 2025-12-24 21:39:15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164593⭐ TypeScript) | [reels/reel_2891_n8n-io-n8n](reels/reel_2891_n8n-io-n8n) |
 | 2892 | 2025-12-24 21:50:08 | [getindiekit/indiekit](https://github.com/getindiekit/indiekit) | ✅ full (369⭐ JavaScript) | [reels/reel_2892_getindiekit-indiekit](reels/reel_2892_getindiekit-indiekit) |
 | 2893 | 2025-12-24 22:19:34 | [willtobyte/carimbo](https://github.com/willtobyte/carimbo) | ✅ full (138⭐ C++) | [reels/reel_2893_willtobyte-carimbo](reels/reel_2893_willtobyte-carimbo) |
+| 2894 | 2025-12-24 22:42:58 | [NovaEngineering-Source/PrototypeMachinery](https://github.com/NovaEngineering-Source/PrototypeMachinery) | ✅ full (20⭐ Kotlin) | [reels/reel_2894_NovaEngineering-Source-PrototypeMachinery](reels/reel_2894_NovaEngineering-Source-PrototypeMachinery) |
