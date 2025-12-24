@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2882 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-24 |
+| #2883 | [bd4sur/Nano](https://github.com/bd4sur/Nano) | C · ⭐ 239 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2948,3 +2948,4 @@ Or let GitHub Action run it automatically.
 | 2880 | 2025-12-24 17:50:16 | [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) | ✅ full (147⭐ Python) | [reels/reel_2880_nvuillam-github-dependents-info](reels/reel_2880_nvuillam-github-dependents-info) |
 | 2881 | 2025-12-24 18:28:00 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97077⭐ TypeScript) | [reels/reel_2881_ant-design-ant-design](reels/reel_2881_ant-design-ant-design) |
 | 2882 | 2025-12-24 18:52:12 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100829⭐ Python) | [reels/reel_2882_deepseek-ai-DeepSeek-V3](reels/reel_2882_deepseek-ai-DeepSeek-V3) |
+| 2883 | 2025-12-24 19:14:55 | [bd4sur/Nano](https://github.com/bd4sur/Nano) | ✅ full (239⭐ C) | [reels/reel_2883_bd4sur-Nano](reels/reel_2883_bd4sur-Nano) |

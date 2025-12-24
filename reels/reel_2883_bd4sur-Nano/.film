@@ -1,0 +1,24 @@
+{
+  "reel_number": 2883,
+  "recorded": "2025-12-24 19:14:55 UTC",
+  "repository": {
+    "full_name": "bd4sur/Nano",
+    "url": "https://github.com/bd4sur/Nano",
+    "clone_url": "https://github.com/bd4sur/Nano.git",
+    "stars": 239,
+    "language": "C",
+    "size_kb": 58134
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 56,
+    "duration_seconds": 1.642498
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 239 stars."
+  }
+}
