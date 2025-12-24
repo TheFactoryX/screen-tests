@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2876 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-24 |
+| #2877 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2942,3 +2942,4 @@ Or let GitHub Action run it automatically.
 | 2874 | 2025-12-24 15:42:46 | [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) | ✅ full (552⭐ Rust) | [reels/reel_2874_EricLBuehler-candle-vllm](reels/reel_2874_EricLBuehler-candle-vllm) |
 | 2875 | 2025-12-24 15:54:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122612⭐ Python) | [reels/reel_2875_langchain-ai-langchain](reels/reel_2875_langchain-ai-langchain) |
 | 2876 | 2025-12-24 16:23:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141919⭐ Python) | [reels/reel_2876_langflow-ai-langflow](reels/reel_2876_langflow-ai-langflow) |
+| 2877 | 2025-12-24 16:48:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103460⭐ TypeScript) | [reels/reel_2877_shadcn-ui-ui](reels/reel_2877_shadcn-ui-ui) |
