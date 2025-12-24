@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2863 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2025-12-24 |
+| #2864 | [openshift/microshift](https://github.com/openshift/microshift) | Go · ⭐ 807 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2929,3 +2929,4 @@ Or let GitHub Action run it automatically.
 | 2861 | 2025-12-24 10:20:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122595⭐ Python) | [reels/reel_2861_langchain-ai-langchain](reels/reel_2861_langchain-ai-langchain) |
 | 2862 | 2025-12-24 10:45:07 | [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) | ✅ full (1447⭐ Kotlin) | [reels/reel_2862_xchacha20-poly1305-husi](reels/reel_2862_xchacha20-poly1305-husi) |
 | 2863 | 2025-12-24 10:55:53 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103127⭐ None) | [reels/reel_2863_Hack-with-Github-Awesome-Hacking](reels/reel_2863_Hack-with-Github-Awesome-Hacking) |
+| 2864 | 2025-12-24 11:19:02 | [openshift/microshift](https://github.com/openshift/microshift) | ✅ shallow (807⭐ Go) | [reels/reel_2864_openshift-microshift](reels/reel_2864_openshift-microshift) |
