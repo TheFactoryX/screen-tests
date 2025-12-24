@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2846 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-24 |
+| #2847 | [NanashiTheNameless/Zorin-OS-Pro](https://github.com/NanashiTheNameless/Zorin-OS-Pro) | Shell · ⭐ 416 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2912,3 +2912,4 @@ Or let GitHub Action run it automatically.
 | 2844 | 2025-12-23 23:39:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141855⭐ Python) | [reels/reel_2844_langflow-ai-langflow](reels/reel_2844_langflow-ai-langflow) |
 | 2845 | 2025-12-23 23:50:05 | [oxc-project/playground](https://github.com/oxc-project/playground) | ✅ full (51⭐ Vue) | [reels/reel_2845_oxc-project-playground](reels/reel_2845_oxc-project-playground) |
 | 2846 | 2025-12-24 01:26:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118678⭐ Svelte) | [reels/reel_2846_open-webui-open-webui](reels/reel_2846_open-webui-open-webui) |
+| 2847 | 2025-12-24 03:10:26 | [NanashiTheNameless/Zorin-OS-Pro](https://github.com/NanashiTheNameless/Zorin-OS-Pro) | ✅ full (416⭐ Shell) | [reels/reel_2847_NanashiTheNameless-Zorin-OS-Pro](reels/reel_2847_NanashiTheNameless-Zorin-OS-Pro) |

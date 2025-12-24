@@ -1,0 +1,24 @@
+{
+  "reel_number": 2847,
+  "recorded": "2025-12-24 03:10:26 UTC",
+  "repository": {
+    "full_name": "NanashiTheNameless/Zorin-OS-Pro",
+    "url": "https://github.com/NanashiTheNameless/Zorin-OS-Pro",
+    "clone_url": "https://github.com/NanashiTheNameless/Zorin-OS-Pro.git",
+    "stars": 416,
+    "language": "Shell",
+    "size_kb": 273
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.127913
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 416 stars."
+  }
+}
