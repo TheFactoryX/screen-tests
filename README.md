@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2867 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 253k | 2025-12-24 |
+| #2868 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2933,3 +2933,4 @@ Or let GitHub Action run it automatically.
 | 2865 | 2025-12-24 11:39:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106781⭐ TypeScript) | [reels/reel_2865_iptv-org-iptv](reels/reel_2865_iptv-org-iptv) |
 | 2866 | 2025-12-24 11:50:06 | [arangodb/go-driver](https://github.com/arangodb/go-driver) | ✅ full (350⭐ Go) | [reels/reel_2866_arangodb-go-driver](reels/reel_2866_arangodb-go-driver) |
 | 2867 | 2025-12-24 12:39:36 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (253347⭐ None) | [reels/reel_2867_practical-tutorials-project-based-learning](reels/reel_2867_practical-tutorials-project-based-learning) |
+| 2868 | 2025-12-24 13:20:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122605⭐ Python) | [reels/reel_2868_langchain-ai-langchain](reels/reel_2868_langchain-ai-langchain) |
