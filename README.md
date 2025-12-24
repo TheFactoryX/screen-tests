@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2886 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 451k | 2025-12-24 |
+| #2887 | [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) | None · ⭐ 16 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2952,3 +2952,4 @@ Or let GitHub Action run it automatically.
 | 2884 | 2025-12-24 19:29:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108791⭐ Rust) | [reels/reel_2884_rust-lang-rust](reels/reel_2884_rust-lang-rust) |
 | 2885 | 2025-12-24 19:41:19 | [Shubham0850/awesome-web3](https://github.com/Shubham0850/awesome-web3) | ✅ full (34⭐ None) | [reels/reel_2885_Shubham0850-awesome-web3](reels/reel_2885_Shubham0850-awesome-web3) |
 | 2886 | 2025-12-24 19:51:28 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (451712⭐ Markdown) | [reels/reel_2886_codecrafters-io-build-your-own-x](reels/reel_2886_codecrafters-io-build-your-own-x) |
+| 2887 | 2025-12-24 20:20:26 | [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) | ✅ full (16⭐ None) | [reels/reel_2887_awesome-sora-awesome-sora-zh](reels/reel_2887_awesome-sora-awesome-sora-zh) |

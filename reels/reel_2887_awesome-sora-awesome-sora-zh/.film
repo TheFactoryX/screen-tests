@@ -1,0 +1,24 @@
+{
+  "reel_number": 2887,
+  "recorded": "2025-12-24 20:20:26 UTC",
+  "repository": {
+    "full_name": "awesome-sora/awesome-sora-zh",
+    "url": "https://github.com/awesome-sora/awesome-sora-zh",
+    "clone_url": "https://github.com/awesome-sora/awesome-sora-zh.git",
+    "stars": 16,
+    "language": null,
+    "size_kb": 1122
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.711714
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 16 stars."
+  }
+}
