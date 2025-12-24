@@ -1,0 +1,24 @@
+{
+  "reel_number": 2853,
+  "recorded": "2025-12-24 07:00:55 UTC",
+  "repository": {
+    "full_name": "reg-viz/img-diff-js",
+    "url": "https://github.com/reg-viz/img-diff-js",
+    "clone_url": "https://github.com/reg-viz/img-diff-js.git",
+    "stars": 120,
+    "language": "TypeScript",
+    "size_kb": 2096
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.315607
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 120 stars."
+  }
+}

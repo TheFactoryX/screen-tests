@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2852 | [nombrekeff/cli-badges](https://github.com/nombrekeff/cli-badges) | JavaScript · ⭐ 45 | 2025-12-24 |
+| #2853 | [reg-viz/img-diff-js](https://github.com/reg-viz/img-diff-js) | TypeScript · ⭐ 120 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2918,3 +2918,4 @@ Or let GitHub Action run it automatically.
 | 2850 | 2025-12-24 05:22:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139295⭐ Python) | [reels/reel_2850_yt-dlp-yt-dlp](reels/reel_2850_yt-dlp-yt-dlp) |
 | 2851 | 2025-12-24 05:47:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141873⭐ Python) | [reels/reel_2851_langflow-ai-langflow](reels/reel_2851_langflow-ai-langflow) |
 | 2852 | 2025-12-24 06:31:29 | [nombrekeff/cli-badges](https://github.com/nombrekeff/cli-badges) | ✅ full (45⭐ JavaScript) | [reels/reel_2852_nombrekeff-cli-badges](reels/reel_2852_nombrekeff-cli-badges) |
+| 2853 | 2025-12-24 07:00:55 | [reg-viz/img-diff-js](https://github.com/reg-viz/img-diff-js) | ✅ full (120⭐ TypeScript) | [reels/reel_2853_reg-viz-img-diff-js](reels/reel_2853_reg-viz-img-diff-js) |
