@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2891 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 164k | 2025-12-24 |
+| #2892 | [getindiekit/indiekit](https://github.com/getindiekit/indiekit) | JavaScript · ⭐ 369 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2957,3 +2957,4 @@ Or let GitHub Action run it automatically.
 | 2889 | 2025-12-24 20:53:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139374⭐ Python) | [reels/reel_2889_yt-dlp-yt-dlp](reels/reel_2889_yt-dlp-yt-dlp) |
 | 2890 | 2025-12-24 21:17:24 | [TheBrunoRM/Skywars](https://github.com/TheBrunoRM/Skywars) | ✅ full (15⭐ Java) | [reels/reel_2890_TheBrunoRM-Skywars](reels/reel_2890_TheBrunoRM-Skywars) |
 | 2891 | 2025-12-24 21:39:15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164593⭐ TypeScript) | [reels/reel_2891_n8n-io-n8n](reels/reel_2891_n8n-io-n8n) |
+| 2892 | 2025-12-24 21:50:08 | [getindiekit/indiekit](https://github.com/getindiekit/indiekit) | ✅ full (369⭐ JavaScript) | [reels/reel_2892_getindiekit-indiekit](reels/reel_2892_getindiekit-indiekit) |
