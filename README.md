@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2870 | [anonymous-echo/Poc-Monitor_v1.0.1](https://github.com/anonymous-echo/Poc-Monitor_v1.0.1) | Go · ⭐ 224 | 2025-12-24 |
+| #2871 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2936,3 +2936,4 @@ Or let GitHub Action run it automatically.
 | 2868 | 2025-12-24 13:20:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122605⭐ Python) | [reels/reel_2868_langchain-ai-langchain](reels/reel_2868_langchain-ai-langchain) |
 | 2869 | 2025-12-24 13:48:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108788⭐ Rust) | [reels/reel_2869_rust-lang-rust](reels/reel_2869_rust-lang-rust) |
 | 2870 | 2025-12-24 14:18:09 | [anonymous-echo/Poc-Monitor_v1.0.1](https://github.com/anonymous-echo/Poc-Monitor_v1.0.1) | ✅ shallow (224⭐ Go) | [reels/reel_2870_anonymous-echo-Poc-Monitor_v1.0.1](reels/reel_2870_anonymous-echo-Poc-Monitor_v1.0.1) |
+| 2871 | 2025-12-24 14:43:18 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97077⭐ TypeScript) | [reels/reel_2871_ant-design-ant-design](reels/reel_2871_ant-design-ant-design) |
