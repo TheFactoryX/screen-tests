@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2894 | [NovaEngineering-Source/PrototypeMachinery](https://github.com/NovaEngineering-Source/PrototypeMachinery) | Kotlin · ⭐ 20 | 2025-12-24 |
+| #2895 | [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) | None · ⭐ 183 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2960,3 +2960,4 @@ Or let GitHub Action run it automatically.
 | 2892 | 2025-12-24 21:50:08 | [getindiekit/indiekit](https://github.com/getindiekit/indiekit) | ✅ full (369⭐ JavaScript) | [reels/reel_2892_getindiekit-indiekit](reels/reel_2892_getindiekit-indiekit) |
 | 2893 | 2025-12-24 22:19:34 | [willtobyte/carimbo](https://github.com/willtobyte/carimbo) | ✅ full (138⭐ C++) | [reels/reel_2893_willtobyte-carimbo](reels/reel_2893_willtobyte-carimbo) |
 | 2894 | 2025-12-24 22:42:58 | [NovaEngineering-Source/PrototypeMachinery](https://github.com/NovaEngineering-Source/PrototypeMachinery) | ✅ full (20⭐ Kotlin) | [reels/reel_2894_NovaEngineering-Source-PrototypeMachinery](reels/reel_2894_NovaEngineering-Source-PrototypeMachinery) |
+| 2895 | 2025-12-24 22:52:24 | [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) | ✅ full (183⭐ None) | [reels/reel_2895_ShadowWhisperer-IPs](reels/reel_2895_ShadowWhisperer-IPs) |

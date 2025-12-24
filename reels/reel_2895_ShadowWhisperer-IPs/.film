@@ -1,0 +1,24 @@
+{
+  "reel_number": 2895,
+  "recorded": "2025-12-24 22:52:24 UTC",
+  "repository": {
+    "full_name": "ShadowWhisperer/IPs",
+    "url": "https://github.com/ShadowWhisperer/IPs",
+    "clone_url": "https://github.com/ShadowWhisperer/IPs.git",
+    "stars": 183,
+    "language": null,
+    "size_kb": 2138
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.343952
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 183 stars."
+  }
+}
