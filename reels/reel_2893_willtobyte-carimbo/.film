@@ -1,0 +1,24 @@
+{
+  "reel_number": 2893,
+  "recorded": "2025-12-24 22:19:34 UTC",
+  "repository": {
+    "full_name": "willtobyte/carimbo",
+    "url": "https://github.com/willtobyte/carimbo",
+    "clone_url": "https://github.com/willtobyte/carimbo.git",
+    "stars": 138,
+    "language": "C++",
+    "size_kb": 3770
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.419552
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 138 stars."
+  }
+}
