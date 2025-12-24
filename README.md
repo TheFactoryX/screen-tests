@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2888 | [mvdwetering/huesyncbox](https://github.com/mvdwetering/huesyncbox) | Python · ⭐ 139 | 2025-12-24 |
+| #2889 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2954,3 +2954,4 @@ Or let GitHub Action run it automatically.
 | 2886 | 2025-12-24 19:51:28 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (451712⭐ Markdown) | [reels/reel_2886_codecrafters-io-build-your-own-x](reels/reel_2886_codecrafters-io-build-your-own-x) |
 | 2887 | 2025-12-24 20:20:26 | [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) | ✅ full (16⭐ None) | [reels/reel_2887_awesome-sora-awesome-sora-zh](reels/reel_2887_awesome-sora-awesome-sora-zh) |
 | 2888 | 2025-12-24 20:42:48 | [mvdwetering/huesyncbox](https://github.com/mvdwetering/huesyncbox) | ✅ full (139⭐ Python) | [reels/reel_2888_mvdwetering-huesyncbox](reels/reel_2888_mvdwetering-huesyncbox) |
+| 2889 | 2025-12-24 20:53:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139374⭐ Python) | [reels/reel_2889_yt-dlp-yt-dlp](reels/reel_2889_yt-dlp-yt-dlp) |
