@@ -1,0 +1,24 @@
+{
+  "reel_number": 2874,
+  "recorded": "2025-12-24 15:42:46 UTC",
+  "repository": {
+    "full_name": "EricLBuehler/candle-vllm",
+    "url": "https://github.com/EricLBuehler/candle-vllm",
+    "clone_url": "https://github.com/EricLBuehler/candle-vllm.git",
+    "stars": 552,
+    "language": "Rust",
+    "size_kb": 90530
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 88,
+    "duration_seconds": 1.653614
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 552 stars."
+  }
+}

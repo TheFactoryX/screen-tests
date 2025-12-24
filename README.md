@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2873 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 253k | 2025-12-24 |
+| #2874 | [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) | Rust · ⭐ 552 | 2025-12-24 |
 ---
 
 ## 🎭 Selection Process
@@ -2939,3 +2939,4 @@ Or let GitHub Action run it automatically.
 | 2871 | 2025-12-24 14:43:18 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97077⭐ TypeScript) | [reels/reel_2871_ant-design-ant-design](reels/reel_2871_ant-design-ant-design) |
 | 2872 | 2025-12-24 14:54:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106798⭐ TypeScript) | [reels/reel_2872_iptv-org-iptv](reels/reel_2872_iptv-org-iptv) |
 | 2873 | 2025-12-24 15:19:56 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (253356⭐ None) | [reels/reel_2873_practical-tutorials-project-based-learning](reels/reel_2873_practical-tutorials-project-based-learning) |
+| 2874 | 2025-12-24 15:42:46 | [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) | ✅ full (552⭐ Rust) | [reels/reel_2874_EricLBuehler-candle-vllm](reels/reel_2874_EricLBuehler-candle-vllm) |
