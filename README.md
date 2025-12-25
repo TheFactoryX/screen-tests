@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2932 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-25 |
+| #2933 | [nix-community/nur-combined](https://github.com/nix-community/nur-combined) | Nix · ⭐ 173 | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2998,3 +2998,4 @@ Or let GitHub Action run it automatically.
 | 2930 | 2025-12-25 16:48:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106954⭐ TypeScript) | [reels/reel_2930_iptv-org-iptv](reels/reel_2930_iptv-org-iptv) |
 | 2931 | 2025-12-25 17:16:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139460⭐ Python) | [reels/reel_2931_yt-dlp-yt-dlp](reels/reel_2931_yt-dlp-yt-dlp) |
 | 2932 | 2025-12-25 17:41:28 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100838⭐ Python) | [reels/reel_2932_deepseek-ai-DeepSeek-V3](reels/reel_2932_deepseek-ai-DeepSeek-V3) |
+| 2933 | 2025-12-25 17:50:42 | [nix-community/nur-combined](https://github.com/nix-community/nur-combined) | ✅ readme_only (173⭐ Nix) | [reels/reel_2933_nix-community-nur-combined](reels/reel_2933_nix-community-nur-combined) |
