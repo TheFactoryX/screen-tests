@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2924 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-25 |
+| #2925 | [google/filonov](https://github.com/google/filonov) | Python · ⭐ 12 | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2990,3 +2990,4 @@ Or let GitHub Action run it automatically.
 | 2922 | 2025-12-25 13:48:20 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (187⭐ None) | [reels/reel_2922_mytv-android-China-TV-Live-M3U8](reels/reel_2922_mytv-android-China-TV-Live-M3U8) |
 | 2923 | 2025-12-25 14:18:31 | [fbef0102/L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins) | ✅ shallow (260⭐ SourcePawn) | [reels/reel_2923_fbef0102-L4D1_2-Plugins](reels/reel_2923_fbef0102-L4D1_2-Plugins) |
 | 2924 | 2025-12-25 14:43:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180491⭐ Python) | [reels/reel_2924_Significant-Gravitas-AutoGPT](reels/reel_2924_Significant-Gravitas-AutoGPT) |
+| 2925 | 2025-12-25 14:54:17 | [google/filonov](https://github.com/google/filonov) | ✅ full (12⭐ Python) | [reels/reel_2925_google-filonov](reels/reel_2925_google-filonov) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 2925,
+  "recorded": "2025-12-25 14:54:17 UTC",
+  "repository": {
+    "full_name": "google/filonov",
+    "url": "https://github.com/google/filonov",
+    "clone_url": "https://github.com/google/filonov.git",
+    "stars": 12,
+    "language": "Python",
+    "size_kb": 2216
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.422002
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 12 stars."
+  }
+}
