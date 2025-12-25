@@ -1,0 +1,24 @@
+{
+  "reel_number": 2910,
+  "recorded": "2025-12-25 08:26:33 UTC",
+  "repository": {
+    "full_name": "clashv2ray-hub/v2rayfree",
+    "url": "https://github.com/clashv2ray-hub/v2rayfree",
+    "clone_url": "https://github.com/clashv2ray-hub/v2rayfree.git",
+    "stars": 181,
+    "language": "Shell",
+    "size_kb": 1402
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.538011
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 181 stars."
+  }
+}
