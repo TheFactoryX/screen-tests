@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2898 | [carbon-design-system/sveld](https://github.com/carbon-design-system/sveld) | Svelte · ⭐ 437 | 2025-12-24 |
+| #2899 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2964,3 +2964,4 @@ Or let GitHub Action run it automatically.
 | 2896 | 2025-12-24 23:17:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180475⭐ Python) | [reels/reel_2896_Significant-Gravitas-AutoGPT](reels/reel_2896_Significant-Gravitas-AutoGPT) |
 | 2897 | 2025-12-24 23:39:39 | [HDVinnie/TrackerHub](https://github.com/HDVinnie/TrackerHub) | ✅ readme_only (135⭐ Markdown) | [reels/reel_2897_HDVinnie-TrackerHub](reels/reel_2897_HDVinnie-TrackerHub) |
 | 2898 | 2025-12-24 23:50:24 | [carbon-design-system/sveld](https://github.com/carbon-design-system/sveld) | ✅ full (437⭐ Svelte) | [reels/reel_2898_carbon-design-system-sveld](reels/reel_2898_carbon-design-system-sveld) |
+| 2899 | 2025-12-25 01:27:22 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103157⭐ None) | [reels/reel_2899_Hack-with-Github-Awesome-Hacking](reels/reel_2899_Hack-with-Github-Awesome-Hacking) |
