@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2939 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-25 |
+| #2940 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -3005,3 +3005,4 @@ Or let GitHub Action run it automatically.
 | 2937 | 2025-12-25 19:29:50 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100403⭐ Rust) | [reels/reel_2937_tauri-apps-tauri](reels/reel_2937_tauri-apps-tauri) |
 | 2938 | 2025-12-25 19:42:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180490⭐ Python) | [reels/reel_2938_Significant-Gravitas-AutoGPT](reels/reel_2938_Significant-Gravitas-AutoGPT) |
 | 2939 | 2025-12-25 19:51:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139474⭐ Python) | [reels/reel_2939_yt-dlp-yt-dlp](reels/reel_2939_yt-dlp-yt-dlp) |
+| 2940 | 2025-12-25 20:21:06 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103201⭐ None) | [reels/reel_2940_Hack-with-Github-Awesome-Hacking](reels/reel_2940_Hack-with-Github-Awesome-Hacking) |
