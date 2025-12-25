@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2926 | [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) | Python · ⭐ 112 | 2025-12-25 |
+| #2927 | [mikejac/node-red-contrib-google-smarthome](https://github.com/mikejac/node-red-contrib-google-smarthome) | TypeScript · ⭐ 131 | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2992,3 +2992,4 @@ Or let GitHub Action run it automatically.
 | 2924 | 2025-12-25 14:43:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180491⭐ Python) | [reels/reel_2924_Significant-Gravitas-AutoGPT](reels/reel_2924_Significant-Gravitas-AutoGPT) |
 | 2925 | 2025-12-25 14:54:17 | [google/filonov](https://github.com/google/filonov) | ✅ full (12⭐ Python) | [reels/reel_2925_google-filonov](reels/reel_2925_google-filonov) |
 | 2926 | 2025-12-25 15:18:51 | [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) | ✅ shallow (112⭐ Python) | [reels/reel_2926_abusaeeidx-IPTV-Scraper-Zilla](reels/reel_2926_abusaeeidx-IPTV-Scraper-Zilla) |
+| 2927 | 2025-12-25 15:41:22 | [mikejac/node-red-contrib-google-smarthome](https://github.com/mikejac/node-red-contrib-google-smarthome) | ✅ full (131⭐ TypeScript) | [reels/reel_2927_mikejac-node-red-contrib-google-smarthome](reels/reel_2927_mikejac-node-red-contrib-google-smarthome) |
