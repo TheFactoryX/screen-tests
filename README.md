@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2910 | [clashv2ray-hub/v2rayfree](https://github.com/clashv2ray-hub/v2rayfree) | Shell · ⭐ 181 | 2025-12-25 |
+| #2911 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 451k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2976,3 +2976,4 @@ Or let GitHub Action run it automatically.
 | 2908 | 2025-12-25 07:43:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164656⭐ TypeScript) | [reels/reel_2908_n8n-io-n8n](reels/reel_2908_n8n-io-n8n) |
 | 2909 | 2025-12-25 07:53:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106887⭐ TypeScript) | [reels/reel_2909_iptv-org-iptv](reels/reel_2909_iptv-org-iptv) |
 | 2910 | 2025-12-25 08:26:33 | [clashv2ray-hub/v2rayfree](https://github.com/clashv2ray-hub/v2rayfree) | ✅ full (181⭐ Shell) | [reels/reel_2910_clashv2ray-hub-v2rayfree](reels/reel_2910_clashv2ray-hub-v2rayfree) |
+| 2911 | 2025-12-25 08:51:15 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (451818⭐ Markdown) | [reels/reel_2911_codecrafters-io-build-your-own-x](reels/reel_2911_codecrafters-io-build-your-own-x) |
