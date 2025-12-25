@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2900 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-25 |
+| #2901 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2966,3 +2966,4 @@ Or let GitHub Action run it automatically.
 | 2898 | 2025-12-24 23:50:24 | [carbon-design-system/sveld](https://github.com/carbon-design-system/sveld) | ✅ full (437⭐ Svelte) | [reels/reel_2898_carbon-design-system-sveld](reels/reel_2898_carbon-design-system-sveld) |
 | 2899 | 2025-12-25 01:27:22 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103157⭐ None) | [reels/reel_2899_Hack-with-Github-Awesome-Hacking](reels/reel_2899_Hack-with-Github-Awesome-Hacking) |
 | 2900 | 2025-12-25 03:14:33 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100830⭐ Python) | [reels/reel_2900_deepseek-ai-DeepSeek-V3](reels/reel_2900_deepseek-ai-DeepSeek-V3) |
+| 2901 | 2025-12-25 04:08:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141950⭐ Python) | [reels/reel_2901_langflow-ai-langflow](reels/reel_2901_langflow-ai-langflow) |
