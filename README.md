@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2929 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 141k | 2025-12-25 |
+| #2930 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 106k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2995,3 +2995,4 @@ Or let GitHub Action run it automatically.
 | 2927 | 2025-12-25 15:41:22 | [mikejac/node-red-contrib-google-smarthome](https://github.com/mikejac/node-red-contrib-google-smarthome) | ✅ full (131⭐ TypeScript) | [reels/reel_2927_mikejac-node-red-contrib-google-smarthome](reels/reel_2927_mikejac-node-red-contrib-google-smarthome) |
 | 2928 | 2025-12-25 15:51:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108824⭐ Rust) | [reels/reel_2928_rust-lang-rust](reels/reel_2928_rust-lang-rust) |
 | 2929 | 2025-12-25 16:23:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141987⭐ Python) | [reels/reel_2929_langflow-ai-langflow](reels/reel_2929_langflow-ai-langflow) |
+| 2930 | 2025-12-25 16:48:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106954⭐ TypeScript) | [reels/reel_2930_iptv-org-iptv](reels/reel_2930_iptv-org-iptv) |
