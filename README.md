@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2945 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-25 |
+| #2946 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 106k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -3011,3 +3011,4 @@ Or let GitHub Action run it automatically.
 | 2943 | 2025-12-25 21:17:26 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97085⭐ TypeScript) | [reels/reel_2943_ant-design-ant-design](reels/reel_2943_ant-design-ant-design) |
 | 2944 | 2025-12-25 21:39:05 | [jobright-ai/2026-Software-Engineer-New-Grad](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad) | ✅ full (301⭐ None) | [reels/reel_2944_jobright-ai-2026-Software-Engineer-New-Grad](reels/reel_2944_jobright-ai-2026-Software-Engineer-New-Grad) |
 | 2945 | 2025-12-25 21:50:10 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97086⭐ TypeScript) | [reels/reel_2945_ant-design-ant-design](reels/reel_2945_ant-design-ant-design) |
+| 2946 | 2025-12-25 22:18:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106983⭐ TypeScript) | [reels/reel_2946_iptv-org-iptv](reels/reel_2946_iptv-org-iptv) |
