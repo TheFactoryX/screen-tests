@@ -1,0 +1,24 @@
+{
+  "reel_number": 2918,
+  "recorded": "2025-12-25 11:38:38 UTC",
+  "repository": {
+    "full_name": "1600822305/AetherLink",
+    "url": "https://github.com/1600822305/AetherLink",
+    "clone_url": "https://github.com/1600822305/AetherLink.git",
+    "stars": 263,
+    "language": "TypeScript",
+    "size_kb": 25992
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 1.334862
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 263 stars."
+  }
+}
