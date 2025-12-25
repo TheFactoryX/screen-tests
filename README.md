@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2935 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 264k | 2025-12-25 |
+| #2936 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 451k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -3001,3 +3001,4 @@ Or let GitHub Action run it automatically.
 | 2933 | 2025-12-25 17:50:42 | [nix-community/nur-combined](https://github.com/nix-community/nur-combined) | ✅ readme_only (173⭐ Nix) | [reels/reel_2933_nix-community-nur-combined](reels/reel_2933_nix-community-nur-combined) |
 | 2934 | 2025-12-25 18:27:25 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118934⭐ Svelte) | [reels/reel_2934_open-webui-open-webui](reels/reel_2934_open-webui-open-webui) |
 | 2935 | 2025-12-25 18:52:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (264773⭐ None) | [reels/reel_2935_awesome-selfhosted-awesome-selfhosted](reels/reel_2935_awesome-selfhosted-awesome-selfhosted) |
+| 2936 | 2025-12-25 19:14:59 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (451920⭐ Markdown) | [reels/reel_2936_codecrafters-io-build-your-own-x](reels/reel_2936_codecrafters-io-build-your-own-x) |
