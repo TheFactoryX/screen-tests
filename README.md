@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2912 | [ecamp/ecamp3](https://github.com/ecamp/ecamp3) | PHP · ⭐ 146 | 2025-12-25 |
+| #2913 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2978,3 +2978,4 @@ Or let GitHub Action run it automatically.
 | 2910 | 2025-12-25 08:26:33 | [clashv2ray-hub/v2rayfree](https://github.com/clashv2ray-hub/v2rayfree) | ✅ full (181⭐ Shell) | [reels/reel_2910_clashv2ray-hub-v2rayfree](reels/reel_2910_clashv2ray-hub-v2rayfree) |
 | 2911 | 2025-12-25 08:51:15 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (451818⭐ Markdown) | [reels/reel_2911_codecrafters-io-build-your-own-x](reels/reel_2911_codecrafters-io-build-your-own-x) |
 | 2912 | 2025-12-25 09:21:28 | [ecamp/ecamp3](https://github.com/ecamp/ecamp3) | ✅ shallow (146⭐ PHP) | [reels/reel_2912_ecamp-ecamp3](reels/reel_2912_ecamp-ecamp3) |
+| 2913 | 2025-12-25 09:43:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108811⭐ Rust) | [reels/reel_2913_rust-lang-rust](reels/reel_2913_rust-lang-rust) |
