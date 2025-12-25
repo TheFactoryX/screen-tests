@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2925 | [google/filonov](https://github.com/google/filonov) | Python · ⭐ 12 | 2025-12-25 |
+| #2926 | [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) | Python · ⭐ 112 | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2991,3 +2991,4 @@ Or let GitHub Action run it automatically.
 | 2923 | 2025-12-25 14:18:31 | [fbef0102/L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins) | ✅ shallow (260⭐ SourcePawn) | [reels/reel_2923_fbef0102-L4D1_2-Plugins](reels/reel_2923_fbef0102-L4D1_2-Plugins) |
 | 2924 | 2025-12-25 14:43:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180491⭐ Python) | [reels/reel_2924_Significant-Gravitas-AutoGPT](reels/reel_2924_Significant-Gravitas-AutoGPT) |
 | 2925 | 2025-12-25 14:54:17 | [google/filonov](https://github.com/google/filonov) | ✅ full (12⭐ Python) | [reels/reel_2925_google-filonov](reels/reel_2925_google-filonov) |
+| 2926 | 2025-12-25 15:18:51 | [abusaeeidx/IPTV-Scraper-Zilla](https://github.com/abusaeeidx/IPTV-Scraper-Zilla) | ✅ shallow (112⭐ Python) | [reels/reel_2926_abusaeeidx-IPTV-Scraper-Zilla](reels/reel_2926_abusaeeidx-IPTV-Scraper-Zilla) |

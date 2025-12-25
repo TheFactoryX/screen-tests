@@ -1,0 +1,24 @@
+{
+  "reel_number": 2926,
+  "recorded": "2025-12-25 15:18:51 UTC",
+  "repository": {
+    "full_name": "abusaeeidx/IPTV-Scraper-Zilla",
+    "url": "https://github.com/abusaeeidx/IPTV-Scraper-Zilla",
+    "clone_url": "https://github.com/abusaeeidx/IPTV-Scraper-Zilla.git",
+    "stars": 112,
+    "language": "Python",
+    "size_kb": 402981
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 393,
+    "duration_seconds": 1.654442
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 112 stars."
+  }
+}
