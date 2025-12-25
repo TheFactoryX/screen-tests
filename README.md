@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2907 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-25 |
+| #2908 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 164k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2973,3 +2973,4 @@ Or let GitHub Action run it automatically.
 | 2905 | 2025-12-25 06:30:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (253398⭐ None) | [reels/reel_2905_practical-tutorials-project-based-learning](reels/reel_2905_practical-tutorials-project-based-learning) |
 | 2906 | 2025-12-25 07:00:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106881⭐ TypeScript) | [reels/reel_2906_iptv-org-iptv](reels/reel_2906_iptv-org-iptv) |
 | 2907 | 2025-12-25 07:29:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100374⭐ Rust) | [reels/reel_2907_tauri-apps-tauri](reels/reel_2907_tauri-apps-tauri) |
+| 2908 | 2025-12-25 07:43:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164656⭐ TypeScript) | [reels/reel_2908_n8n-io-n8n](reels/reel_2908_n8n-io-n8n) |
