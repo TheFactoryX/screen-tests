@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2918 | [1600822305/AetherLink](https://github.com/1600822305/AetherLink) | TypeScript · ⭐ 263 | 2025-12-25 |
+| #2919 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2984,3 +2984,4 @@ Or let GitHub Action run it automatically.
 | 2916 | 2025-12-25 10:45:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118905⭐ Svelte) | [reels/reel_2916_open-webui-open-webui](reels/reel_2916_open-webui-open-webui) |
 | 2917 | 2025-12-25 11:16:30 | [ImMALWARE/zapret-magisk](https://github.com/ImMALWARE/zapret-magisk) | ✅ full (157⭐ HTML) | [reels/reel_2917_ImMALWARE-zapret-magisk](reels/reel_2917_ImMALWARE-zapret-magisk) |
 | 2918 | 2025-12-25 11:38:38 | [1600822305/AetherLink](https://github.com/1600822305/AetherLink) | ✅ full (263⭐ TypeScript) | [reels/reel_2918_1600822305-AetherLink](reels/reel_2918_1600822305-AetherLink) |
+| 2919 | 2025-12-25 11:50:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108817⭐ Rust) | [reels/reel_2919_rust-lang-rust](reels/reel_2919_rust-lang-rust) |
