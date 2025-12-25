@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2950 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 253k | 2025-12-25 |
+| #2951 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 264k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -3016,3 +3016,4 @@ Or let GitHub Action run it automatically.
 | 2948 | 2025-12-25 22:53:15 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118941⭐ Svelte) | [reels/reel_2948_open-webui-open-webui](reels/reel_2948_open-webui-open-webui) |
 | 2949 | 2025-12-25 23:18:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103511⭐ TypeScript) | [reels/reel_2949_shadcn-ui-ui](reels/reel_2949_shadcn-ui-ui) |
 | 2950 | 2025-12-25 23:39:55 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (253450⭐ None) | [reels/reel_2950_practical-tutorials-project-based-learning](reels/reel_2950_practical-tutorials-project-based-learning) |
+| 2951 | 2025-12-25 23:50:16 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (264815⭐ None) | [reels/reel_2951_awesome-selfhosted-awesome-selfhosted](reels/reel_2951_awesome-selfhosted-awesome-selfhosted) |
