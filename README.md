@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2942 | [asyncvlsi/act](https://github.com/asyncvlsi/act) | C++ · ⭐ 122 | 2025-12-25 |
+| #2943 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -3008,3 +3008,4 @@ Or let GitHub Action run it automatically.
 | 2940 | 2025-12-25 20:21:06 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103201⭐ None) | [reels/reel_2940_Hack-with-Github-Awesome-Hacking](reels/reel_2940_Hack-with-Github-Awesome-Hacking) |
 | 2941 | 2025-12-25 20:43:19 | [CarGuo/gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo) | ✅ full (3343⭐ Dart) | [reels/reel_2941_CarGuo-gsy_flutter_demo](reels/reel_2941_CarGuo-gsy_flutter_demo) |
 | 2942 | 2025-12-25 20:54:20 | [asyncvlsi/act](https://github.com/asyncvlsi/act) | ✅ full (122⭐ C++) | [reels/reel_2942_asyncvlsi-act](reels/reel_2942_asyncvlsi-act) |
+| 2943 | 2025-12-25 21:17:26 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97085⭐ TypeScript) | [reels/reel_2943_ant-design-ant-design](reels/reel_2943_ant-design-ant-design) |
