@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2916 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-25 |
+| #2917 | [ImMALWARE/zapret-magisk](https://github.com/ImMALWARE/zapret-magisk) | HTML · ⭐ 157 | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2982,3 +2982,4 @@ Or let GitHub Action run it automatically.
 | 2914 | 2025-12-25 09:54:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (106900⭐ TypeScript) | [reels/reel_2914_iptv-org-iptv](reels/reel_2914_iptv-org-iptv) |
 | 2915 | 2025-12-25 10:20:27 | [shenmintao/Raw-Alchemy](https://github.com/shenmintao/Raw-Alchemy) | ✅ full (179⭐ Python) | [reels/reel_2915_shenmintao-Raw-Alchemy](reels/reel_2915_shenmintao-Raw-Alchemy) |
 | 2916 | 2025-12-25 10:45:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118905⭐ Svelte) | [reels/reel_2916_open-webui-open-webui](reels/reel_2916_open-webui-open-webui) |
+| 2917 | 2025-12-25 11:16:30 | [ImMALWARE/zapret-magisk](https://github.com/ImMALWARE/zapret-magisk) | ✅ full (157⭐ HTML) | [reels/reel_2917_ImMALWARE-zapret-magisk](reels/reel_2917_ImMALWARE-zapret-magisk) |
