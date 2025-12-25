@@ -1,0 +1,24 @@
+{
+  "reel_number": 2912,
+  "recorded": "2025-12-25 09:21:28 UTC",
+  "repository": {
+    "full_name": "ecamp/ecamp3",
+    "url": "https://github.com/ecamp/ecamp3",
+    "clone_url": "https://github.com/ecamp/ecamp3.git",
+    "stars": 146,
+    "language": "PHP",
+    "size_kb": 235947
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 230,
+    "duration_seconds": 0.888858
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 146 stars."
+  }
+}
