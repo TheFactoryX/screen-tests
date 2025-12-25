@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2919 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-25 |
+| #2920 | [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) | JavaScript · ⭐ 705 | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2985,3 +2985,4 @@ Or let GitHub Action run it automatically.
 | 2917 | 2025-12-25 11:16:30 | [ImMALWARE/zapret-magisk](https://github.com/ImMALWARE/zapret-magisk) | ✅ full (157⭐ HTML) | [reels/reel_2917_ImMALWARE-zapret-magisk](reels/reel_2917_ImMALWARE-zapret-magisk) |
 | 2918 | 2025-12-25 11:38:38 | [1600822305/AetherLink](https://github.com/1600822305/AetherLink) | ✅ full (263⭐ TypeScript) | [reels/reel_2918_1600822305-AetherLink](reels/reel_2918_1600822305-AetherLink) |
 | 2919 | 2025-12-25 11:50:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108817⭐ Rust) | [reels/reel_2919_rust-lang-rust](reels/reel_2919_rust-lang-rust) |
+| 2920 | 2025-12-25 12:38:43 | [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) | ✅ full (705⭐ JavaScript) | [reels/reel_2920_catlog22-Claude-Code-Workflow](reels/reel_2920_catlog22-Claude-Code-Workflow) |
