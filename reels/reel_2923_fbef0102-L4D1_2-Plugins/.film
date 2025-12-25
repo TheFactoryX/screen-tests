@@ -1,0 +1,24 @@
+{
+  "reel_number": 2923,
+  "recorded": "2025-12-25 14:18:31 UTC",
+  "repository": {
+    "full_name": "fbef0102/L4D1_2-Plugins",
+    "url": "https://github.com/fbef0102/L4D1_2-Plugins",
+    "clone_url": "https://github.com/fbef0102/L4D1_2-Plugins.git",
+    "stars": 260,
+    "language": "SourcePawn",
+    "size_kb": 443711
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 433,
+    "duration_seconds": 9.727378
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "SourcePawn",
+    "director_note": "A SourcePawn repository. 260 stars."
+  }
+}

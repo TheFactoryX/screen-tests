@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2922 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | None · ⭐ 187 | 2025-12-25 |
+| #2923 | [fbef0102/L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins) | SourcePawn · ⭐ 260 | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2988,3 +2988,4 @@ Or let GitHub Action run it automatically.
 | 2920 | 2025-12-25 12:38:43 | [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) | ✅ full (705⭐ JavaScript) | [reels/reel_2920_catlog22-Claude-Code-Workflow](reels/reel_2920_catlog22-Claude-Code-Workflow) |
 | 2921 | 2025-12-25 13:20:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118915⭐ Svelte) | [reels/reel_2921_open-webui-open-webui](reels/reel_2921_open-webui-open-webui) |
 | 2922 | 2025-12-25 13:48:20 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (187⭐ None) | [reels/reel_2922_mytv-android-China-TV-Live-M3U8](reels/reel_2922_mytv-android-China-TV-Live-M3U8) |
+| 2923 | 2025-12-25 14:18:31 | [fbef0102/L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins) | ✅ shallow (260⭐ SourcePawn) | [reels/reel_2923_fbef0102-L4D1_2-Plugins](reels/reel_2923_fbef0102-L4D1_2-Plugins) |
