@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2903 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-25 |
+| #2904 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -2969,3 +2969,4 @@ Or let GitHub Action run it automatically.
 | 2901 | 2025-12-25 04:08:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (141950⭐ Python) | [reels/reel_2901_langflow-ai-langflow](reels/reel_2901_langflow-ai-langflow) |
 | 2902 | 2025-12-25 04:50:06 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100829⭐ Python) | [reels/reel_2902_deepseek-ai-DeepSeek-V3](reels/reel_2902_deepseek-ai-DeepSeek-V3) |
 | 2903 | 2025-12-25 05:22:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118881⭐ Svelte) | [reels/reel_2903_open-webui-open-webui](reels/reel_2903_open-webui-open-webui) |
+| 2904 | 2025-12-25 05:46:33 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100370⭐ Rust) | [reels/reel_2904_tauri-apps-tauri](reels/reel_2904_tauri-apps-tauri) |
