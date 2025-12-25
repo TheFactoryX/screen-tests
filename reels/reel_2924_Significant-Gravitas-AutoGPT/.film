@@ -1,0 +1,24 @@
+{
+  "reel_number": 2924,
+  "recorded": "2025-12-25 14:43:26 UTC",
+  "repository": {
+    "full_name": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "clone_url": "https://github.com/Significant-Gravitas/AutoGPT.git",
+    "stars": 180491,
+    "language": "Python",
+    "size_kb": 317749
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 310,
+    "duration_seconds": 3.400079
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 180491 stars."
+  }
+}
