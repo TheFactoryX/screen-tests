@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2940 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2025-12-25 |
+| #2941 | [CarGuo/gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo) | Dart · ⭐ 3k | 2025-12-25 |
 ---
 
 ## 🎭 Selection Process
@@ -3006,3 +3006,4 @@ Or let GitHub Action run it automatically.
 | 2938 | 2025-12-25 19:42:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180490⭐ Python) | [reels/reel_2938_Significant-Gravitas-AutoGPT](reels/reel_2938_Significant-Gravitas-AutoGPT) |
 | 2939 | 2025-12-25 19:51:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139474⭐ Python) | [reels/reel_2939_yt-dlp-yt-dlp](reels/reel_2939_yt-dlp-yt-dlp) |
 | 2940 | 2025-12-25 20:21:06 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103201⭐ None) | [reels/reel_2940_Hack-with-Github-Awesome-Hacking](reels/reel_2940_Hack-with-Github-Awesome-Hacking) |
+| 2941 | 2025-12-25 20:43:19 | [CarGuo/gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo) | ✅ full (3343⭐ Dart) | [reels/reel_2941_CarGuo-gsy_flutter_demo](reels/reel_2941_CarGuo-gsy_flutter_demo) |

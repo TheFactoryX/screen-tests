@@ -1,0 +1,24 @@
+{
+  "reel_number": 2941,
+  "recorded": "2025-12-25 20:43:19 UTC",
+  "repository": {
+    "full_name": "CarGuo/gsy_flutter_demo",
+    "url": "https://github.com/CarGuo/gsy_flutter_demo",
+    "clone_url": "https://github.com/CarGuo/gsy_flutter_demo.git",
+    "stars": 3343,
+    "language": "Dart",
+    "size_kb": 55805
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 54,
+    "duration_seconds": 1.34593
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 3343 stars."
+  }
+}
