@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2996 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-26 |
+| #2997 | [gemwalletcom/gem-ios](https://github.com/gemwalletcom/gem-ios) | Swift · ⭐ 294 | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3062,3 +3062,4 @@ Or let GitHub Action run it automatically.
 | 2994 | 2025-12-26 20:20:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142083⭐ Python) | [reels/reel_2994_langflow-ai-langflow](reels/reel_2994_langflow-ai-langflow) |
 | 2995 | 2025-12-26 20:42:07 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452169⭐ Markdown) | [reels/reel_2995_codecrafters-io-build-your-own-x](reels/reel_2995_codecrafters-io-build-your-own-x) |
 | 2996 | 2025-12-26 20:52:46 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101407⭐ Shell) | [reels/reel_2996_papers-we-love-papers-we-love](reels/reel_2996_papers-we-love-papers-we-love) |
+| 2997 | 2025-12-26 21:17:00 | [gemwalletcom/gem-ios](https://github.com/gemwalletcom/gem-ios) | ✅ full (294⭐ Swift) | [reels/reel_2997_gemwalletcom-gem-ios](reels/reel_2997_gemwalletcom-gem-ios) |

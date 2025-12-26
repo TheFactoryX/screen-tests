@@ -1,0 +1,24 @@
+{
+  "reel_number": 2997,
+  "recorded": "2025-12-26 21:17:00 UTC",
+  "repository": {
+    "full_name": "gemwalletcom/gem-ios",
+    "url": "https://github.com/gemwalletcom/gem-ios",
+    "clone_url": "https://github.com/gemwalletcom/gem-ios.git",
+    "stars": 294,
+    "language": "Swift",
+    "size_kb": 17567
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.979486
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 294 stars."
+  }
+}
