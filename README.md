@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2992 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-26 |
+| #2993 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 452k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3058,3 +3058,4 @@ Or let GitHub Action run it automatically.
 | 2990 | 2025-12-26 19:14:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164880⭐ TypeScript) | [reels/reel_2990_n8n-io-n8n](reels/reel_2990_n8n-io-n8n) |
 | 2991 | 2025-12-26 19:29:16 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452161⭐ Markdown) | [reels/reel_2991_codecrafters-io-build-your-own-x](reels/reel_2991_codecrafters-io-build-your-own-x) |
 | 2992 | 2025-12-26 19:41:33 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107091⭐ TypeScript) | [reels/reel_2992_iptv-org-iptv](reels/reel_2992_iptv-org-iptv) |
+| 2993 | 2025-12-26 19:51:27 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452163⭐ Markdown) | [reels/reel_2993_codecrafters-io-build-your-own-x](reels/reel_2993_codecrafters-io-build-your-own-x) |
