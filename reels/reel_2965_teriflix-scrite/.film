@@ -1,0 +1,24 @@
+{
+  "reel_number": 2965,
+  "recorded": "2025-12-26 08:50:47 UTC",
+  "repository": {
+    "full_name": "teriflix/scrite",
+    "url": "https://github.com/teriflix/scrite",
+    "clone_url": "https://github.com/teriflix/scrite.git",
+    "stars": 342,
+    "language": "C++",
+    "size_kb": 92332
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 90,
+    "duration_seconds": 3.827137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 342 stars."
+  }
+}
