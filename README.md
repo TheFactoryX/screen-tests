@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2979 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 387k | 2025-12-26 |
+| #2980 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3045,3 +3045,4 @@ Or let GitHub Action run it automatically.
 | 2977 | 2025-12-26 14:18:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180507⭐ Python) | [reels/reel_2977_Significant-Gravitas-AutoGPT](reels/reel_2977_Significant-Gravitas-AutoGPT) |
 | 2978 | 2025-12-26 14:44:00 | [AshVXmc/ReonixeDungeons](https://github.com/AshVXmc/ReonixeDungeons) | ✅ full (24⭐ GDScript) | [reels/reel_2978_AshVXmc-ReonixeDungeons](reels/reel_2978_AshVXmc-ReonixeDungeons) |
 | 2979 | 2025-12-26 14:54:46 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387892⭐ Python) | [reels/reel_2979_public-apis-public-apis](reels/reel_2979_public-apis-public-apis) |
+| 2980 | 2025-12-26 15:19:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139558⭐ Python) | [reels/reel_2980_yt-dlp-yt-dlp](reels/reel_2980_yt-dlp-yt-dlp) |
