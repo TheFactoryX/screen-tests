@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2963 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-26 |
+| #2964 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 118k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3029,3 +3029,4 @@ Or let GitHub Action run it automatically.
 | 2961 | 2025-12-26 07:29:18 | [chainguard-demo/guardcraft-server](https://github.com/chainguard-demo/guardcraft-server) | ✅ full (17⭐ Shell) | [reels/reel_2961_chainguard-demo-guardcraft-server](reels/reel_2961_chainguard-demo-guardcraft-server) |
 | 2962 | 2025-12-26 07:43:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139531⭐ Python) | [reels/reel_2962_yt-dlp-yt-dlp](reels/reel_2962_yt-dlp-yt-dlp) |
 | 2963 | 2025-12-26 07:53:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108843⭐ Rust) | [reels/reel_2963_rust-lang-rust](reels/reel_2963_rust-lang-rust) |
+| 2964 | 2025-12-26 08:26:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118987⭐ Svelte) | [reels/reel_2964_open-webui-open-webui](reels/reel_2964_open-webui-open-webui) |
