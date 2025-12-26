@@ -1,0 +1,24 @@
+{
+  "reel_number": 2984,
+  "recorded": "2025-12-26 16:46:06 UTC",
+  "repository": {
+    "full_name": "narze/react-useless",
+    "url": "https://github.com/narze/react-useless",
+    "clone_url": "https://github.com/narze/react-useless.git",
+    "stars": 55,
+    "language": "TypeScript",
+    "size_kb": 778
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 1.012548
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 55 stars."
+  }
+}
