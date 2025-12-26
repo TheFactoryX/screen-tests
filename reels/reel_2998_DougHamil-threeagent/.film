@@ -1,0 +1,24 @@
+{
+  "reel_number": 2998,
+  "recorded": "2025-12-26 21:38:31 UTC",
+  "repository": {
+    "full_name": "DougHamil/threeagent",
+    "url": "https://github.com/DougHamil/threeagent",
+    "clone_url": "https://github.com/DougHamil/threeagent.git",
+    "stars": 137,
+    "language": "Clojure",
+    "size_kb": 861
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.537202
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Clojure",
+    "director_note": "A Clojure repository. 137 stars."
+  }
+}
