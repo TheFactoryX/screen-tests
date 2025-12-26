@@ -1,0 +1,24 @@
+{
+  "reel_number": 2982,
+  "recorded": "2025-12-26 15:52:27 UTC",
+  "repository": {
+    "full_name": "militarandroid/cybersecurity_hack",
+    "url": "https://github.com/militarandroid/cybersecurity_hack",
+    "clone_url": "https://github.com/militarandroid/cybersecurity_hack.git",
+    "stars": 41,
+    "language": "Python",
+    "size_kb": 6
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.10977
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 41 stars."
+  }
+}
