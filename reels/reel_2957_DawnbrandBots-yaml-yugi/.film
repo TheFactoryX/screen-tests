@@ -1,0 +1,24 @@
+{
+  "reel_number": 2957,
+  "recorded": "2025-12-26 05:45:06 UTC",
+  "repository": {
+    "full_name": "DawnbrandBots/yaml-yugi",
+    "url": "https://github.com/DawnbrandBots/yaml-yugi",
+    "clone_url": "https://github.com/DawnbrandBots/yaml-yugi.git",
+    "stars": 30,
+    "language": "Python",
+    "size_kb": 6457763
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 6306,
+    "duration_seconds": 0.000112
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 30 stars."
+  }
+}

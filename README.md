@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2956 | [remarkablegames/phaser-rpg](https://github.com/remarkablegames/phaser-rpg) | TypeScript · ⭐ 32 | 2025-12-26 |
+| #2957 | [DawnbrandBots/yaml-yugi](https://github.com/DawnbrandBots/yaml-yugi) | Python · ⭐ 30 | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3022,3 +3022,4 @@ Or let GitHub Action run it automatically.
 | 2954 | 2025-12-26 04:05:07 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180491⭐ Python) | [reels/reel_2954_Significant-Gravitas-AutoGPT](reels/reel_2954_Significant-Gravitas-AutoGPT) |
 | 2955 | 2025-12-26 04:47:35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139512⭐ Python) | [reels/reel_2955_yt-dlp-yt-dlp](reels/reel_2955_yt-dlp-yt-dlp) |
 | 2956 | 2025-12-26 05:20:20 | [remarkablegames/phaser-rpg](https://github.com/remarkablegames/phaser-rpg) | ✅ full (32⭐ TypeScript) | [reels/reel_2956_remarkablegames-phaser-rpg](reels/reel_2956_remarkablegames-phaser-rpg) |
+| 2957 | 2025-12-26 05:45:06 | [DawnbrandBots/yaml-yugi](https://github.com/DawnbrandBots/yaml-yugi) | ✅ readme_only (30⭐ Python) | [reels/reel_2957_DawnbrandBots-yaml-yugi](reels/reel_2957_DawnbrandBots-yaml-yugi) |
