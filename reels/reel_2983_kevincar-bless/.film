@@ -1,0 +1,24 @@
+{
+  "reel_number": 2983,
+  "recorded": "2025-12-26 16:22:02 UTC",
+  "repository": {
+    "full_name": "kevincar/bless",
+    "url": "https://github.com/kevincar/bless",
+    "clone_url": "https://github.com/kevincar/bless.git",
+    "stars": 174,
+    "language": "Python",
+    "size_kb": 337
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.334146
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 174 stars."
+  }
+}
