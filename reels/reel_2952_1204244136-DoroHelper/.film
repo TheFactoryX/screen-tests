@@ -1,0 +1,24 @@
+{
+  "reel_number": 2952,
+  "recorded": "2025-12-26 01:27:21 UTC",
+  "repository": {
+    "full_name": "1204244136/DoroHelper",
+    "url": "https://github.com/1204244136/DoroHelper",
+    "clone_url": "https://github.com/1204244136/DoroHelper.git",
+    "stars": 730,
+    "language": "AutoHotkey",
+    "size_kb": 5070
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 1.498572
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "AutoHotkey",
+    "director_note": "A AutoHotkey repository. 730 stars."
+  }
+}
