@@ -1,0 +1,24 @@
+{
+  "reel_number": 2961,
+  "recorded": "2025-12-26 07:29:18 UTC",
+  "repository": {
+    "full_name": "chainguard-demo/guardcraft-server",
+    "url": "https://github.com/chainguard-demo/guardcraft-server",
+    "clone_url": "https://github.com/chainguard-demo/guardcraft-server.git",
+    "stars": 17,
+    "language": "Shell",
+    "size_kb": 17906
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 0.969377
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 17 stars."
+  }
+}

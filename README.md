@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2960 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-26 |
+| #2961 | [chainguard-demo/guardcraft-server](https://github.com/chainguard-demo/guardcraft-server) | Shell · ⭐ 17 | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3026,3 +3026,4 @@ Or let GitHub Action run it automatically.
 | 2958 | 2025-12-26 05:55:28 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100415⭐ Rust) | [reels/reel_2958_tauri-apps-tauri](reels/reel_2958_tauri-apps-tauri) |
 | 2959 | 2025-12-26 06:30:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180492⭐ Python) | [reels/reel_2959_Significant-Gravitas-AutoGPT](reels/reel_2959_Significant-Gravitas-AutoGPT) |
 | 2960 | 2025-12-26 06:59:32 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100846⭐ Python) | [reels/reel_2960_deepseek-ai-DeepSeek-V3](reels/reel_2960_deepseek-ai-DeepSeek-V3) |
+| 2961 | 2025-12-26 07:29:18 | [chainguard-demo/guardcraft-server](https://github.com/chainguard-demo/guardcraft-server) | ✅ full (17⭐ Shell) | [reels/reel_2961_chainguard-demo-guardcraft-server](reels/reel_2961_chainguard-demo-guardcraft-server) |
