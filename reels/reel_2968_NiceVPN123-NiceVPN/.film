@@ -1,0 +1,24 @@
+{
+  "reel_number": 2968,
+  "recorded": "2025-12-26 09:54:00 UTC",
+  "repository": {
+    "full_name": "NiceVPN123/NiceVPN",
+    "url": "https://github.com/NiceVPN123/NiceVPN",
+    "clone_url": "https://github.com/NiceVPN123/NiceVPN.git",
+    "stars": 616,
+    "language": "Python",
+    "size_kb": 4816237
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 4703,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 616 stars."
+  }
+}
