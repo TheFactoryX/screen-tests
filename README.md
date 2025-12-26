@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2984 | [narze/react-useless](https://github.com/narze/react-useless) | TypeScript · ⭐ 55 | 2025-12-26 |
+| #2985 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3050,3 +3050,4 @@ Or let GitHub Action run it automatically.
 | 2982 | 2025-12-26 15:52:27 | [militarandroid/cybersecurity_hack](https://github.com/militarandroid/cybersecurity_hack) | ✅ full (41⭐ Python) | [reels/reel_2982_militarandroid-cybersecurity_hack](reels/reel_2982_militarandroid-cybersecurity_hack) |
 | 2983 | 2025-12-26 16:22:02 | [kevincar/bless](https://github.com/kevincar/bless) | ✅ full (174⭐ Python) | [reels/reel_2983_kevincar-bless](reels/reel_2983_kevincar-bless) |
 | 2984 | 2025-12-26 16:46:06 | [narze/react-useless](https://github.com/narze/react-useless) | ✅ full (55⭐ TypeScript) | [reels/reel_2984_narze-react-useless](reels/reel_2984_narze-react-useless) |
+| 2985 | 2025-12-26 17:16:07 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97094⭐ TypeScript) | [reels/reel_2985_ant-design-ant-design](reels/reel_2985_ant-design-ant-design) |
