@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2999 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-26 |
+| #3000 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3065,3 +3065,4 @@ Or let GitHub Action run it automatically.
 | 2997 | 2025-12-26 21:17:00 | [gemwalletcom/gem-ios](https://github.com/gemwalletcom/gem-ios) | ✅ full (294⭐ Swift) | [reels/reel_2997_gemwalletcom-gem-ios](reels/reel_2997_gemwalletcom-gem-ios) |
 | 2998 | 2025-12-26 21:38:31 | [DougHamil/threeagent](https://github.com/DougHamil/threeagent) | ✅ full (137⭐ Clojure) | [reels/reel_2998_DougHamil-threeagent](reels/reel_2998_DougHamil-threeagent) |
 | 2999 | 2025-12-26 21:49:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122751⭐ Python) | [reels/reel_2999_langchain-ai-langchain](reels/reel_2999_langchain-ai-langchain) |
+| 3000 | 2025-12-26 22:18:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180514⭐ Python) | [reels/reel_3000_Significant-Gravitas-AutoGPT](reels/reel_3000_Significant-Gravitas-AutoGPT) |
