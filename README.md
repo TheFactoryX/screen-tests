@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2974 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-26 |
+| #2975 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3040,3 +3040,4 @@ Or let GitHub Action run it automatically.
 | 2972 | 2025-12-26 11:38:44 | [lailongwei/llbc](https://github.com/lailongwei/llbc) | ✅ full (295⭐ C++) | [reels/reel_2972_lailongwei-llbc](reels/reel_2972_lailongwei-llbc) |
 | 2973 | 2025-12-26 11:50:09 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101393⭐ Shell) | [reels/reel_2973_papers-we-love-papers-we-love](reels/reel_2973_papers-we-love-papers-we-love) |
 | 2974 | 2025-12-26 12:38:50 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101393⭐ Shell) | [reels/reel_2974_papers-we-love-papers-we-love](reels/reel_2974_papers-we-love-papers-we-love) |
+| 2975 | 2025-12-26 13:21:28 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142061⭐ Python) | [reels/reel_2975_langflow-ai-langflow](reels/reel_2975_langflow-ai-langflow) |
