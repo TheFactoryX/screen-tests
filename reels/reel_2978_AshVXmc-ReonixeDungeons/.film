@@ -1,0 +1,24 @@
+{
+  "reel_number": 2978,
+  "recorded": "2025-12-26 14:44:00 UTC",
+  "repository": {
+    "full_name": "AshVXmc/ReonixeDungeons",
+    "url": "https://github.com/AshVXmc/ReonixeDungeons",
+    "clone_url": "https://github.com/AshVXmc/ReonixeDungeons.git",
+    "stars": 24,
+    "language": "GDScript",
+    "size_kb": 56442
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 2.292699
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "GDScript",
+    "director_note": "A GDScript repository. 24 stars."
+  }
+}
