@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3002 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-26 |
+| #3003 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 452k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3068,3 +3068,4 @@ Or let GitHub Action run it automatically.
 | 3000 | 2025-12-26 22:18:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180514⭐ Python) | [reels/reel_3000_Significant-Gravitas-AutoGPT](reels/reel_3000_Significant-Gravitas-AutoGPT) |
 | 3001 | 2025-12-26 22:42:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107099⭐ TypeScript) | [reels/reel_3001_iptv-org-iptv](reels/reel_3001_iptv-org-iptv) |
 | 3002 | 2025-12-26 22:53:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122753⭐ Python) | [reels/reel_3002_langchain-ai-langchain](reels/reel_3002_langchain-ai-langchain) |
+| 3003 | 2025-12-26 23:17:55 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452179⭐ Markdown) | [reels/reel_3003_codecrafters-io-build-your-own-x](reels/reel_3003_codecrafters-io-build-your-own-x) |
