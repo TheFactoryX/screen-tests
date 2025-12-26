@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2986 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2025-12-26 |
+| #2987 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3052,3 +3052,4 @@ Or let GitHub Action run it automatically.
 | 2984 | 2025-12-26 16:46:06 | [narze/react-useless](https://github.com/narze/react-useless) | ✅ full (55⭐ TypeScript) | [reels/reel_2984_narze-react-useless](reels/reel_2984_narze-react-useless) |
 | 2985 | 2025-12-26 17:16:07 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97094⭐ TypeScript) | [reels/reel_2985_ant-design-ant-design](reels/reel_2985_ant-design-ant-design) |
 | 2986 | 2025-12-26 17:40:13 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103250⭐ None) | [reels/reel_2986_Hack-with-Github-Awesome-Hacking](reels/reel_2986_Hack-with-Github-Awesome-Hacking) |
+| 2987 | 2025-12-26 17:50:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139566⭐ Python) | [reels/reel_2987_yt-dlp-yt-dlp](reels/reel_2987_yt-dlp-yt-dlp) |
