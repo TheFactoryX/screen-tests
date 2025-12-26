@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2980 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-26 |
+| #2981 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3046,3 +3046,4 @@ Or let GitHub Action run it automatically.
 | 2978 | 2025-12-26 14:44:00 | [AshVXmc/ReonixeDungeons](https://github.com/AshVXmc/ReonixeDungeons) | ✅ full (24⭐ GDScript) | [reels/reel_2978_AshVXmc-ReonixeDungeons](reels/reel_2978_AshVXmc-ReonixeDungeons) |
 | 2979 | 2025-12-26 14:54:46 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387892⭐ Python) | [reels/reel_2979_public-apis-public-apis](reels/reel_2979_public-apis-public-apis) |
 | 2980 | 2025-12-26 15:19:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139558⭐ Python) | [reels/reel_2980_yt-dlp-yt-dlp](reels/reel_2980_yt-dlp-yt-dlp) |
+| 2981 | 2025-12-26 15:41:52 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108851⭐ Rust) | [reels/reel_2981_rust-lang-rust](reels/reel_2981_rust-lang-rust) |
