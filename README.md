@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2989 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-26 |
+| #2990 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 164k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3055,3 +3055,4 @@ Or let GitHub Action run it automatically.
 | 2987 | 2025-12-26 17:50:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139566⭐ Python) | [reels/reel_2987_yt-dlp-yt-dlp](reels/reel_2987_yt-dlp-yt-dlp) |
 | 2988 | 2025-12-26 18:27:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142078⭐ Python) | [reels/reel_2988_langflow-ai-langflow](reels/reel_2988_langflow-ai-langflow) |
 | 2989 | 2025-12-26 18:52:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103563⭐ TypeScript) | [reels/reel_2989_shadcn-ui-ui](reels/reel_2989_shadcn-ui-ui) |
+| 2990 | 2025-12-26 19:14:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164880⭐ TypeScript) | [reels/reel_2990_n8n-io-n8n](reels/reel_2990_n8n-io-n8n) |
