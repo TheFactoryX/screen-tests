@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3004 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-26 |
+| #3005 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 164k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3070,3 +3070,4 @@ Or let GitHub Action run it automatically.
 | 3002 | 2025-12-26 22:53:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122753⭐ Python) | [reels/reel_3002_langchain-ai-langchain](reels/reel_3002_langchain-ai-langchain) |
 | 3003 | 2025-12-26 23:17:55 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452179⭐ Markdown) | [reels/reel_3003_codecrafters-io-build-your-own-x](reels/reel_3003_codecrafters-io-build-your-own-x) |
 | 3004 | 2025-12-26 23:39:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108861⭐ Rust) | [reels/reel_3004_rust-lang-rust](reels/reel_3004_rust-lang-rust) |
+| 3005 | 2025-12-26 23:50:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164902⭐ TypeScript) | [reels/reel_3005_n8n-io-n8n](reels/reel_3005_n8n-io-n8n) |
