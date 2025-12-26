@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2978 | [AshVXmc/ReonixeDungeons](https://github.com/AshVXmc/ReonixeDungeons) | GDScript · ⭐ 24 | 2025-12-26 |
+| #2979 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 387k | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3044,3 +3044,4 @@ Or let GitHub Action run it automatically.
 | 2976 | 2025-12-26 13:48:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122731⭐ Python) | [reels/reel_2976_langchain-ai-langchain](reels/reel_2976_langchain-ai-langchain) |
 | 2977 | 2025-12-26 14:18:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180507⭐ Python) | [reels/reel_2977_Significant-Gravitas-AutoGPT](reels/reel_2977_Significant-Gravitas-AutoGPT) |
 | 2978 | 2025-12-26 14:44:00 | [AshVXmc/ReonixeDungeons](https://github.com/AshVXmc/ReonixeDungeons) | ✅ full (24⭐ GDScript) | [reels/reel_2978_AshVXmc-ReonixeDungeons](reels/reel_2978_AshVXmc-ReonixeDungeons) |
+| 2979 | 2025-12-26 14:54:46 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (387892⭐ Python) | [reels/reel_2979_public-apis-public-apis](reels/reel_2979_public-apis-public-apis) |
