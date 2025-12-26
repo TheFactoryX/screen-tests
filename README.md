@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #2970 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-26 |
+| #2971 | [aaru-dps/Aaru](https://github.com/aaru-dps/Aaru) | C# · ⭐ 558 | 2025-12-26 |
 ---
 
 ## 🎭 Selection Process
@@ -3036,3 +3036,4 @@ Or let GitHub Action run it automatically.
 | 2968 | 2025-12-26 09:54:00 | [NiceVPN123/NiceVPN](https://github.com/NiceVPN123/NiceVPN) | ✅ readme_only (616⭐ Python) | [reels/reel_2968_NiceVPN123-NiceVPN](reels/reel_2968_NiceVPN123-NiceVPN) |
 | 2969 | 2025-12-26 10:20:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (118998⭐ Svelte) | [reels/reel_2969_open-webui-open-webui](reels/reel_2969_open-webui-open-webui) |
 | 2970 | 2025-12-26 10:45:19 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180503⭐ Python) | [reels/reel_2970_Significant-Gravitas-AutoGPT](reels/reel_2970_Significant-Gravitas-AutoGPT) |
+| 2971 | 2025-12-26 11:17:23 | [aaru-dps/Aaru](https://github.com/aaru-dps/Aaru) | ✅ full (558⭐ C#) | [reels/reel_2971_aaru-dps-Aaru](reels/reel_2971_aaru-dps-Aaru) |
