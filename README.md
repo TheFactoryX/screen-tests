@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3015 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-27 |
+| #3016 | [InspectorCaracal/SillyTavern-ReMemory](https://github.com/InspectorCaracal/SillyTavern-ReMemory) | JavaScript · ⭐ 39 | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3081,3 +3081,4 @@ Or let GitHub Action run it automatically.
 | 3013 | 2025-12-27 06:28:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164934⭐ TypeScript) | [reels/reel_3013_n8n-io-n8n](reels/reel_3013_n8n-io-n8n) |
 | 3014 | 2025-12-27 06:54:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103588⭐ TypeScript) | [reels/reel_3014_shadcn-ui-ui](reels/reel_3014_shadcn-ui-ui) |
 | 3015 | 2025-12-27 07:17:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107130⭐ TypeScript) | [reels/reel_3015_iptv-org-iptv](reels/reel_3015_iptv-org-iptv) |
+| 3016 | 2025-12-27 07:38:24 | [InspectorCaracal/SillyTavern-ReMemory](https://github.com/InspectorCaracal/SillyTavern-ReMemory) | ✅ full (39⭐ JavaScript) | [reels/reel_3016_InspectorCaracal-SillyTavern-ReMemory](reels/reel_3016_InspectorCaracal-SillyTavern-ReMemory) |
