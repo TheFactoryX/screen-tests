@@ -1,0 +1,24 @@
+{
+  "reel_number": 3045,
+  "recorded": "2025-12-27 18:26:13 UTC",
+  "repository": {
+    "full_name": "SakanaAI/Sudoku-Bench",
+    "url": "https://github.com/SakanaAI/Sudoku-Bench",
+    "clone_url": "https://github.com/SakanaAI/Sudoku-Bench.git",
+    "stars": 146,
+    "language": "JavaScript",
+    "size_kb": 2811
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.425478
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 146 stars."
+  }
+}

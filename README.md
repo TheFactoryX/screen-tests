@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3044 | [erfg12/AOL_4.0_Emu](https://github.com/erfg12/AOL_4.0_Emu) | C# · ⭐ 131 | 2025-12-27 |
+| #3045 | [SakanaAI/Sudoku-Bench](https://github.com/SakanaAI/Sudoku-Bench) | JavaScript · ⭐ 146 | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3110,3 +3110,4 @@ Or let GitHub Action run it automatically.
 | 3042 | 2025-12-27 17:16:07 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452375⭐ Markdown) | [reels/reel_3042_codecrafters-io-build-your-own-x](reels/reel_3042_codecrafters-io-build-your-own-x) |
 | 3043 | 2025-12-27 17:39:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119073⭐ Svelte) | [reels/reel_3043_open-webui-open-webui](reels/reel_3043_open-webui-open-webui) |
 | 3044 | 2025-12-27 17:50:16 | [erfg12/AOL_4.0_Emu](https://github.com/erfg12/AOL_4.0_Emu) | ✅ full (131⭐ C#) | [reels/reel_3044_erfg12-AOL_4.0_Emu](reels/reel_3044_erfg12-AOL_4.0_Emu) |
+| 3045 | 2025-12-27 18:26:13 | [SakanaAI/Sudoku-Bench](https://github.com/SakanaAI/Sudoku-Bench) | ✅ full (146⭐ JavaScript) | [reels/reel_3045_SakanaAI-Sudoku-Bench](reels/reel_3045_SakanaAI-Sudoku-Bench) |
