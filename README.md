@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3060 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 265k | 2025-12-27 |
+| #3061 | [PeterWaher/IoTGateway](https://github.com/PeterWaher/IoTGateway) | C# · ⭐ 250 | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3126,3 +3126,4 @@ Or let GitHub Action run it automatically.
 | 3058 | 2025-12-27 22:42:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122808⭐ Python) | [reels/reel_3058_langchain-ai-langchain](reels/reel_3058_langchain-ai-langchain) |
 | 3059 | 2025-12-27 22:52:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122808⭐ Python) | [reels/reel_3059_langchain-ai-langchain](reels/reel_3059_langchain-ai-langchain) |
 | 3060 | 2025-12-27 23:17:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265202⭐ None) | [reels/reel_3060_awesome-selfhosted-awesome-selfhosted](reels/reel_3060_awesome-selfhosted-awesome-selfhosted) |
+| 3061 | 2025-12-27 23:39:33 | [PeterWaher/IoTGateway](https://github.com/PeterWaher/IoTGateway) | ✅ readme_only (250⭐ C#) | [reels/reel_3061_PeterWaher-IoTGateway](reels/reel_3061_PeterWaher-IoTGateway) |

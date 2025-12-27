@@ -1,0 +1,24 @@
+{
+  "reel_number": 3061,
+  "recorded": "2025-12-27 23:39:33 UTC",
+  "repository": {
+    "full_name": "PeterWaher/IoTGateway",
+    "url": "https://github.com/PeterWaher/IoTGateway",
+    "clone_url": "https://github.com/PeterWaher/IoTGateway.git",
+    "stars": 250,
+    "language": "C#",
+    "size_kb": 10264834
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 10024,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 250 stars."
+  }
+}
