@@ -1,0 +1,24 @@
+{
+  "reel_number": 3041,
+  "recorded": "2025-12-27 16:46:14 UTC",
+  "repository": {
+    "full_name": "exasim-project/NeoN",
+    "url": "https://github.com/exasim-project/NeoN",
+    "clone_url": "https://github.com/exasim-project/NeoN.git",
+    "stars": 84,
+    "language": "C++",
+    "size_kb": 130497
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 127,
+    "duration_seconds": 0.655873
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 84 stars."
+  }
+}
