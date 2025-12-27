@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3025 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-27 |
+| #3026 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3091,3 +3091,4 @@ Or let GitHub Action run it automatically.
 | 3023 | 2025-12-27 10:18:42 | [clashv2ray-hub/clashfree](https://github.com/clashv2ray-hub/clashfree) | ✅ full (179⭐ Shell) | [reels/reel_3023_clashv2ray-hub-clashfree](reels/reel_3023_clashv2ray-hub-clashfree) |
 | 3024 | 2025-12-27 10:43:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139623⭐ Python) | [reels/reel_3024_yt-dlp-yt-dlp](reels/reel_3024_yt-dlp-yt-dlp) |
 | 3025 | 2025-12-27 10:53:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97098⭐ TypeScript) | [reels/reel_3025_ant-design-ant-design](reels/reel_3025_ant-design-ant-design) |
+| 3026 | 2025-12-27 11:14:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180530⭐ Python) | [reels/reel_3026_Significant-Gravitas-AutoGPT](reels/reel_3026_Significant-Gravitas-AutoGPT) |
