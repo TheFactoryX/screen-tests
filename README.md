@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3052 | [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) | Starlark · ⭐ 345 | 2025-12-27 |
+| #3053 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 265k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3118,3 +3118,4 @@ Or let GitHub Action run it automatically.
 | 3050 | 2025-12-27 19:50:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139670⭐ Python) | [reels/reel_3050_yt-dlp-yt-dlp](reels/reel_3050_yt-dlp-yt-dlp) |
 | 3051 | 2025-12-27 20:20:19 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452395⭐ Markdown) | [reels/reel_3051_codecrafters-io-build-your-own-x](reels/reel_3051_codecrafters-io-build-your-own-x) |
 | 3052 | 2025-12-27 20:42:16 | [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) | ✅ full (345⭐ Starlark) | [reels/reel_3052_bazelbuild-bazel-central-registry](reels/reel_3052_bazelbuild-bazel-central-registry) |
+| 3053 | 2025-12-27 20:52:34 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265183⭐ None) | [reels/reel_3053_awesome-selfhosted-awesome-selfhosted](reels/reel_3053_awesome-selfhosted-awesome-selfhosted) |
