@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3019 | [openfoodfacts/openfoodfacts-dart](https://github.com/openfoodfacts/openfoodfacts-dart) | Dart · ⭐ 208 | 2025-12-27 |
+| #3020 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 164k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3085,3 +3085,4 @@ Or let GitHub Action run it automatically.
 | 3017 | 2025-12-27 07:50:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119052⭐ Svelte) | [reels/reel_3017_open-webui-open-webui](reels/reel_3017_open-webui-open-webui) |
 | 3018 | 2025-12-27 08:24:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100457⭐ Rust) | [reels/reel_3018_tauri-apps-tauri](reels/reel_3018_tauri-apps-tauri) |
 | 3019 | 2025-12-27 08:48:13 | [openfoodfacts/openfoodfacts-dart](https://github.com/openfoodfacts/openfoodfacts-dart) | ✅ full (208⭐ Dart) | [reels/reel_3019_openfoodfacts-openfoodfacts-dart](reels/reel_3019_openfoodfacts-openfoodfacts-dart) |
+| 3020 | 2025-12-27 09:18:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164949⭐ TypeScript) | [reels/reel_3020_n8n-io-n8n](reels/reel_3020_n8n-io-n8n) |
