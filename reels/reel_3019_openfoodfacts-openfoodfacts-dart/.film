@@ -1,0 +1,24 @@
+{
+  "reel_number": 3019,
+  "recorded": "2025-12-27 08:48:13 UTC",
+  "repository": {
+    "full_name": "openfoodfacts/openfoodfacts-dart",
+    "url": "https://github.com/openfoodfacts/openfoodfacts-dart",
+    "clone_url": "https://github.com/openfoodfacts/openfoodfacts-dart.git",
+    "stars": 208,
+    "language": "Dart",
+    "size_kb": 75771
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 73,
+    "duration_seconds": 6.877711
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 208 stars."
+  }
+}
