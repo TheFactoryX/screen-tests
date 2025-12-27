@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3045 | [SakanaAI/Sudoku-Bench](https://github.com/SakanaAI/Sudoku-Bench) | JavaScript · ⭐ 146 | 2025-12-27 |
+| #3046 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3111,3 +3111,4 @@ Or let GitHub Action run it automatically.
 | 3043 | 2025-12-27 17:39:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119073⭐ Svelte) | [reels/reel_3043_open-webui-open-webui](reels/reel_3043_open-webui-open-webui) |
 | 3044 | 2025-12-27 17:50:16 | [erfg12/AOL_4.0_Emu](https://github.com/erfg12/AOL_4.0_Emu) | ✅ full (131⭐ C#) | [reels/reel_3044_erfg12-AOL_4.0_Emu](reels/reel_3044_erfg12-AOL_4.0_Emu) |
 | 3045 | 2025-12-27 18:26:13 | [SakanaAI/Sudoku-Bench](https://github.com/SakanaAI/Sudoku-Bench) | ✅ full (146⭐ JavaScript) | [reels/reel_3045_SakanaAI-Sudoku-Bench](reels/reel_3045_SakanaAI-Sudoku-Bench) |
+| 3046 | 2025-12-27 18:49:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108886⭐ Rust) | [reels/reel_3046_rust-lang-rust](reels/reel_3046_rust-lang-rust) |
