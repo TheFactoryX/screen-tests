@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3028 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-27 |
+| #3029 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 164k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3094,3 +3094,4 @@ Or let GitHub Action run it automatically.
 | 3026 | 2025-12-27 11:14:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180530⭐ Python) | [reels/reel_3026_Significant-Gravitas-AutoGPT](reels/reel_3026_Significant-Gravitas-AutoGPT) |
 | 3027 | 2025-12-27 11:29:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122779⭐ Python) | [reels/reel_3027_langchain-ai-langchain](reels/reel_3027_langchain-ai-langchain) |
 | 3028 | 2025-12-27 11:42:09 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139269⭐ Python) | [reels/reel_3028_ytdl-org-youtube-dl](reels/reel_3028_ytdl-org-youtube-dl) |
+| 3029 | 2025-12-27 11:52:10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164964⭐ TypeScript) | [reels/reel_3029_n8n-io-n8n](reels/reel_3029_n8n-io-n8n) |
