@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3024 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-27 |
+| #3025 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3090,3 +3090,4 @@ Or let GitHub Action run it automatically.
 | 3022 | 2025-12-27 09:50:41 | [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) | ✅ full (218⭐ TypeScript) | [reels/reel_3022_punkpeye-mcp-proxy](reels/reel_3022_punkpeye-mcp-proxy) |
 | 3023 | 2025-12-27 10:18:42 | [clashv2ray-hub/clashfree](https://github.com/clashv2ray-hub/clashfree) | ✅ full (179⭐ Shell) | [reels/reel_3023_clashv2ray-hub-clashfree](reels/reel_3023_clashv2ray-hub-clashfree) |
 | 3024 | 2025-12-27 10:43:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139623⭐ Python) | [reels/reel_3024_yt-dlp-yt-dlp](reels/reel_3024_yt-dlp-yt-dlp) |
+| 3025 | 2025-12-27 10:53:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97098⭐ TypeScript) | [reels/reel_3025_ant-design-ant-design](reels/reel_3025_ant-design-ant-design) |
