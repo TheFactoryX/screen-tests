@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3047 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-27 |
+| #3048 | [LeventErkok/sbv](https://github.com/LeventErkok/sbv) | Haskell · ⭐ 264 | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3113,3 +3113,4 @@ Or let GitHub Action run it automatically.
 | 3045 | 2025-12-27 18:26:13 | [SakanaAI/Sudoku-Bench](https://github.com/SakanaAI/Sudoku-Bench) | ✅ full (146⭐ JavaScript) | [reels/reel_3045_SakanaAI-Sudoku-Bench](reels/reel_3045_SakanaAI-Sudoku-Bench) |
 | 3046 | 2025-12-27 18:49:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108886⭐ Rust) | [reels/reel_3046_rust-lang-rust](reels/reel_3046_rust-lang-rust) |
 | 3047 | 2025-12-27 19:14:08 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107201⭐ TypeScript) | [reels/reel_3047_iptv-org-iptv](reels/reel_3047_iptv-org-iptv) |
+| 3048 | 2025-12-27 19:28:46 | [LeventErkok/sbv](https://github.com/LeventErkok/sbv) | ✅ full (264⭐ Haskell) | [reels/reel_3048_LeventErkok-sbv](reels/reel_3048_LeventErkok-sbv) |

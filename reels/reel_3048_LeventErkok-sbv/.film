@@ -1,0 +1,24 @@
+{
+  "reel_number": 3048,
+  "recorded": "2025-12-27 19:28:46 UTC",
+  "repository": {
+    "full_name": "LeventErkok/sbv",
+    "url": "https://github.com/LeventErkok/sbv",
+    "clone_url": "https://github.com/LeventErkok/sbv.git",
+    "stars": 264,
+    "language": "Haskell",
+    "size_kb": 20283
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 19,
+    "duration_seconds": 2.108126
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haskell",
+    "director_note": "A Haskell repository. 264 stars."
+  }
+}
