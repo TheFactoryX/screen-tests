@@ -1,0 +1,24 @@
+{
+  "reel_number": 3052,
+  "recorded": "2025-12-27 20:42:16 UTC",
+  "repository": {
+    "full_name": "bazelbuild/bazel-central-registry",
+    "url": "https://github.com/bazelbuild/bazel-central-registry",
+    "clone_url": "https://github.com/bazelbuild/bazel-central-registry.git",
+    "stars": 345,
+    "language": "Starlark",
+    "size_kb": 14878
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 3.704256
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Starlark",
+    "director_note": "A Starlark repository. 345 stars."
+  }
+}
