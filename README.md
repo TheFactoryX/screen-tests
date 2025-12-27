@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3038 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-27 |
+| #3039 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3104,3 +3104,4 @@ Or let GitHub Action run it automatically.
 | 3036 | 2025-12-27 14:51:24 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452344⭐ Markdown) | [reels/reel_3036_codecrafters-io-build-your-own-x](reels/reel_3036_codecrafters-io-build-your-own-x) |
 | 3037 | 2025-12-27 15:17:31 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100860⭐ Python) | [reels/reel_3037_deepseek-ai-DeepSeek-V3](reels/reel_3037_deepseek-ai-DeepSeek-V3) |
 | 3038 | 2025-12-27 15:39:45 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100861⭐ Python) | [reels/reel_3038_deepseek-ai-DeepSeek-V3](reels/reel_3038_deepseek-ai-DeepSeek-V3) |
+| 3039 | 2025-12-27 15:50:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139273⭐ Python) | [reels/reel_3039_ytdl-org-youtube-dl](reels/reel_3039_ytdl-org-youtube-dl) |
