@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3039 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-27 |
+| #3040 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 279 | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3105,3 +3105,4 @@ Or let GitHub Action run it automatically.
 | 3037 | 2025-12-27 15:17:31 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100860⭐ Python) | [reels/reel_3037_deepseek-ai-DeepSeek-V3](reels/reel_3037_deepseek-ai-DeepSeek-V3) |
 | 3038 | 2025-12-27 15:39:45 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100861⭐ Python) | [reels/reel_3038_deepseek-ai-DeepSeek-V3](reels/reel_3038_deepseek-ai-DeepSeek-V3) |
 | 3039 | 2025-12-27 15:50:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139273⭐ Python) | [reels/reel_3039_ytdl-org-youtube-dl](reels/reel_3039_ytdl-org-youtube-dl) |
+| 3040 | 2025-12-27 16:22:38 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (279⭐ None) | [reels/reel_3040_hello-world-1989-cn-news](reels/reel_3040_hello-world-1989-cn-news) |
