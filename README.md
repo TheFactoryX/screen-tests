@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3050 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-27 |
+| #3051 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 452k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3116,3 +3116,4 @@ Or let GitHub Action run it automatically.
 | 3048 | 2025-12-27 19:28:46 | [LeventErkok/sbv](https://github.com/LeventErkok/sbv) | ✅ full (264⭐ Haskell) | [reels/reel_3048_LeventErkok-sbv](reels/reel_3048_LeventErkok-sbv) |
 | 3049 | 2025-12-27 19:40:35 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100476⭐ Rust) | [reels/reel_3049_tauri-apps-tauri](reels/reel_3049_tauri-apps-tauri) |
 | 3050 | 2025-12-27 19:50:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139670⭐ Python) | [reels/reel_3050_yt-dlp-yt-dlp](reels/reel_3050_yt-dlp-yt-dlp) |
+| 3051 | 2025-12-27 20:20:19 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452395⭐ Markdown) | [reels/reel_3051_codecrafters-io-build-your-own-x](reels/reel_3051_codecrafters-io-build-your-own-x) |
