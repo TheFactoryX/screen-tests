@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3030 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-27 |
+| #3031 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 452k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3096,3 +3096,4 @@ Or let GitHub Action run it automatically.
 | 3028 | 2025-12-27 11:42:09 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139269⭐ Python) | [reels/reel_3028_ytdl-org-youtube-dl](reels/reel_3028_ytdl-org-youtube-dl) |
 | 3029 | 2025-12-27 11:52:10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164964⭐ TypeScript) | [reels/reel_3029_n8n-io-n8n](reels/reel_3029_n8n-io-n8n) |
 | 3030 | 2025-12-27 12:36:27 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100860⭐ Python) | [reels/reel_3030_deepseek-ai-DeepSeek-V3](reels/reel_3030_deepseek-ai-DeepSeek-V3) |
+| 3031 | 2025-12-27 13:17:25 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452325⭐ Markdown) | [reels/reel_3031_codecrafters-io-build-your-own-x](reels/reel_3031_codecrafters-io-build-your-own-x) |
