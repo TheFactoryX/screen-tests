@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3043 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-27 |
+| #3044 | [erfg12/AOL_4.0_Emu](https://github.com/erfg12/AOL_4.0_Emu) | C# · ⭐ 131 | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3109,3 +3109,4 @@ Or let GitHub Action run it automatically.
 | 3041 | 2025-12-27 16:46:14 | [exasim-project/NeoN](https://github.com/exasim-project/NeoN) | ✅ shallow (84⭐ C++) | [reels/reel_3041_exasim-project-NeoN](reels/reel_3041_exasim-project-NeoN) |
 | 3042 | 2025-12-27 17:16:07 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452375⭐ Markdown) | [reels/reel_3042_codecrafters-io-build-your-own-x](reels/reel_3042_codecrafters-io-build-your-own-x) |
 | 3043 | 2025-12-27 17:39:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119073⭐ Svelte) | [reels/reel_3043_open-webui-open-webui](reels/reel_3043_open-webui-open-webui) |
+| 3044 | 2025-12-27 17:50:16 | [erfg12/AOL_4.0_Emu](https://github.com/erfg12/AOL_4.0_Emu) | ✅ full (131⭐ C#) | [reels/reel_3044_erfg12-AOL_4.0_Emu](reels/reel_3044_erfg12-AOL_4.0_Emu) |

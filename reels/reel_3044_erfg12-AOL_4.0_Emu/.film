@@ -1,0 +1,24 @@
+{
+  "reel_number": 3044,
+  "recorded": "2025-12-27 17:50:16 UTC",
+  "repository": {
+    "full_name": "erfg12/AOL_4.0_Emu",
+    "url": "https://github.com/erfg12/AOL_4.0_Emu",
+    "clone_url": "https://github.com/erfg12/AOL_4.0_Emu.git",
+    "stars": 131,
+    "language": "C#",
+    "size_kb": 31670
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 0.77302
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 131 stars."
+  }
+}
