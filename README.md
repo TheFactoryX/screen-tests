@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3007 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-27 |
+| #3008 | [lenguyenthanh/fide](https://github.com/lenguyenthanh/fide) | Scala · ⭐ 14 | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3073,3 +3073,4 @@ Or let GitHub Action run it automatically.
 | 3005 | 2025-12-26 23:50:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164902⭐ TypeScript) | [reels/reel_3005_n8n-io-n8n](reels/reel_3005_n8n-io-n8n) |
 | 3006 | 2025-12-27 01:25:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142092⭐ Python) | [reels/reel_3006_langflow-ai-langflow](reels/reel_3006_langflow-ai-langflow) |
 | 3007 | 2025-12-27 03:08:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100450⭐ Rust) | [reels/reel_3007_tauri-apps-tauri](reels/reel_3007_tauri-apps-tauri) |
+| 3008 | 2025-12-27 04:01:51 | [lenguyenthanh/fide](https://github.com/lenguyenthanh/fide) | ✅ full (14⭐ Scala) | [reels/reel_3008_lenguyenthanh-fide](reels/reel_3008_lenguyenthanh-fide) |
