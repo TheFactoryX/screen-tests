@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3041 | [exasim-project/NeoN](https://github.com/exasim-project/NeoN) | C++ · ⭐ 84 | 2025-12-27 |
+| #3042 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 452k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3107,3 +3107,4 @@ Or let GitHub Action run it automatically.
 | 3039 | 2025-12-27 15:50:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139273⭐ Python) | [reels/reel_3039_ytdl-org-youtube-dl](reels/reel_3039_ytdl-org-youtube-dl) |
 | 3040 | 2025-12-27 16:22:38 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (279⭐ None) | [reels/reel_3040_hello-world-1989-cn-news](reels/reel_3040_hello-world-1989-cn-news) |
 | 3041 | 2025-12-27 16:46:14 | [exasim-project/NeoN](https://github.com/exasim-project/NeoN) | ✅ shallow (84⭐ C++) | [reels/reel_3041_exasim-project-NeoN](reels/reel_3041_exasim-project-NeoN) |
+| 3042 | 2025-12-27 17:16:07 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452375⭐ Markdown) | [reels/reel_3042_codecrafters-io-build-your-own-x](reels/reel_3042_codecrafters-io-build-your-own-x) |
