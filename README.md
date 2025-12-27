@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3026 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-27 |
+| #3027 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3092,3 +3092,4 @@ Or let GitHub Action run it automatically.
 | 3024 | 2025-12-27 10:43:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139623⭐ Python) | [reels/reel_3024_yt-dlp-yt-dlp](reels/reel_3024_yt-dlp-yt-dlp) |
 | 3025 | 2025-12-27 10:53:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97098⭐ TypeScript) | [reels/reel_3025_ant-design-ant-design](reels/reel_3025_ant-design-ant-design) |
 | 3026 | 2025-12-27 11:14:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180530⭐ Python) | [reels/reel_3026_Significant-Gravitas-AutoGPT](reels/reel_3026_Significant-Gravitas-AutoGPT) |
+| 3027 | 2025-12-27 11:29:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122779⭐ Python) | [reels/reel_3027_langchain-ai-langchain](reels/reel_3027_langchain-ai-langchain) |
