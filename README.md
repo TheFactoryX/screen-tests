@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3012 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-27 |
+| #3013 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 164k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3078,3 +3078,4 @@ Or let GitHub Action run it automatically.
 | 3010 | 2025-12-27 04:59:59 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (253585⭐ None) | [reels/reel_3010_practical-tutorials-project-based-learning](reels/reel_3010_practical-tutorials-project-based-learning) |
 | 3011 | 2025-12-27 05:30:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122769⭐ Python) | [reels/reel_3011_langchain-ai-langchain](reels/reel_3011_langchain-ai-langchain) |
 | 3012 | 2025-12-27 05:52:32 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97098⭐ TypeScript) | [reels/reel_3012_ant-design-ant-design](reels/reel_3012_ant-design-ant-design) |
+| 3013 | 2025-12-27 06:28:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164934⭐ TypeScript) | [reels/reel_3013_n8n-io-n8n](reels/reel_3013_n8n-io-n8n) |
