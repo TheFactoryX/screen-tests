@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3053 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 265k | 2025-12-27 |
+| #3054 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3119,3 +3119,4 @@ Or let GitHub Action run it automatically.
 | 3051 | 2025-12-27 20:20:19 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452395⭐ Markdown) | [reels/reel_3051_codecrafters-io-build-your-own-x](reels/reel_3051_codecrafters-io-build-your-own-x) |
 | 3052 | 2025-12-27 20:42:16 | [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) | ✅ full (345⭐ Starlark) | [reels/reel_3052_bazelbuild-bazel-central-registry](reels/reel_3052_bazelbuild-bazel-central-registry) |
 | 3053 | 2025-12-27 20:52:34 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265183⭐ None) | [reels/reel_3053_awesome-selfhosted-awesome-selfhosted](reels/reel_3053_awesome-selfhosted-awesome-selfhosted) |
+| 3054 | 2025-12-27 21:16:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119083⭐ Svelte) | [reels/reel_3054_open-webui-open-webui](reels/reel_3054_open-webui-open-webui) |
