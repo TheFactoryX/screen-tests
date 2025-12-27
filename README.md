@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3017 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-27 |
+| #3018 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3083,3 +3083,4 @@ Or let GitHub Action run it automatically.
 | 3015 | 2025-12-27 07:17:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107130⭐ TypeScript) | [reels/reel_3015_iptv-org-iptv](reels/reel_3015_iptv-org-iptv) |
 | 3016 | 2025-12-27 07:38:24 | [InspectorCaracal/SillyTavern-ReMemory](https://github.com/InspectorCaracal/SillyTavern-ReMemory) | ✅ full (39⭐ JavaScript) | [reels/reel_3016_InspectorCaracal-SillyTavern-ReMemory](reels/reel_3016_InspectorCaracal-SillyTavern-ReMemory) |
 | 3017 | 2025-12-27 07:50:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119052⭐ Svelte) | [reels/reel_3017_open-webui-open-webui](reels/reel_3017_open-webui-open-webui) |
+| 3018 | 2025-12-27 08:24:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100457⭐ Rust) | [reels/reel_3018_tauri-apps-tauri](reels/reel_3018_tauri-apps-tauri) |
