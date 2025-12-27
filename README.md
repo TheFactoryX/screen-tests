@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3014 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-27 |
+| #3015 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-27 |
 ---
 
 ## 🎭 Selection Process
@@ -3080,3 +3080,4 @@ Or let GitHub Action run it automatically.
 | 3012 | 2025-12-27 05:52:32 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97098⭐ TypeScript) | [reels/reel_3012_ant-design-ant-design](reels/reel_3012_ant-design-ant-design) |
 | 3013 | 2025-12-27 06:28:43 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (164934⭐ TypeScript) | [reels/reel_3013_n8n-io-n8n](reels/reel_3013_n8n-io-n8n) |
 | 3014 | 2025-12-27 06:54:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103588⭐ TypeScript) | [reels/reel_3014_shadcn-ui-ui](reels/reel_3014_shadcn-ui-ui) |
+| 3015 | 2025-12-27 07:17:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107130⭐ TypeScript) | [reels/reel_3015_iptv-org-iptv](reels/reel_3015_iptv-org-iptv) |
