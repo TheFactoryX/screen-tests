@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3066 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-28 |
+| #3067 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3132,3 +3132,4 @@ Or let GitHub Action run it automatically.
 | 3064 | 2025-12-28 03:46:15 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139700⭐ Python) | [reels/reel_3064_yt-dlp-yt-dlp](reels/reel_3064_yt-dlp-yt-dlp) |
 | 3065 | 2025-12-28 04:42:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139704⭐ Python) | [reels/reel_3065_yt-dlp-yt-dlp](reels/reel_3065_yt-dlp-yt-dlp) |
 | 3066 | 2025-12-28 05:03:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119101⭐ Svelte) | [reels/reel_3066_open-webui-open-webui](reels/reel_3066_open-webui-open-webui) |
+| 3067 | 2025-12-28 05:40:03 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97103⭐ TypeScript) | [reels/reel_3067_ant-design-ant-design](reels/reel_3067_ant-design-ant-design) |
