@@ -1,0 +1,24 @@
+{
+  "reel_number": 3080,
+  "recorded": "2025-12-28 10:44:07 UTC",
+  "repository": {
+    "full_name": "Seebass22/terminal-toys",
+    "url": "https://github.com/Seebass22/terminal-toys",
+    "clone_url": "https://github.com/Seebass22/terminal-toys.git",
+    "stars": 27,
+    "language": "Rust",
+    "size_kb": 102
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.470647
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 27 stars."
+  }
+}
