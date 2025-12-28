@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3070 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-28 |
+| #3071 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3136,3 +3136,4 @@ Or let GitHub Action run it automatically.
 | 3068 | 2025-12-28 05:53:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180542⭐ Python) | [reels/reel_3068_Significant-Gravitas-AutoGPT](reels/reel_3068_Significant-Gravitas-AutoGPT) |
 | 3069 | 2025-12-28 06:29:12 | [cxyfreedom/website-hot-hub](https://github.com/cxyfreedom/website-hot-hub) | ✅ shallow (286⭐ Python) | [reels/reel_3069_cxyfreedom-website-hot-hub](reels/reel_3069_cxyfreedom-website-hot-hub) |
 | 3070 | 2025-12-28 06:54:38 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100491⭐ Rust) | [reels/reel_3070_tauri-apps-tauri](reels/reel_3070_tauri-apps-tauri) |
+| 3071 | 2025-12-28 07:19:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100492⭐ Rust) | [reels/reel_3071_tauri-apps-tauri](reels/reel_3071_tauri-apps-tauri) |
