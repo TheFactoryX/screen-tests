@@ -1,0 +1,24 @@
+{
+  "reel_number": 3114,
+  "recorded": "2025-12-28 23:17:53 UTC",
+  "repository": {
+    "full_name": "guiyumin/vget",
+    "url": "https://github.com/guiyumin/vget",
+    "clone_url": "https://github.com/guiyumin/vget.git",
+    "stars": 384,
+    "language": "Go",
+    "size_kb": 1336
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.3279
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 384 stars."
+  }
+}
