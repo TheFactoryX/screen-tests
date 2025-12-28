@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3078 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 388k | 2025-12-28 |
+| #3079 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3144,3 +3144,4 @@ Or let GitHub Action run it automatically.
 | 3076 | 2025-12-28 09:19:00 | [hcloud-k8s/terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) | ✅ full (464⭐ HCL) | [reels/reel_3076_hcloud-k8s-terraform-hcloud-kubernetes](reels/reel_3076_hcloud-k8s-terraform-hcloud-kubernetes) |
 | 3077 | 2025-12-28 09:41:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139724⭐ Python) | [reels/reel_3077_yt-dlp-yt-dlp](reels/reel_3077_yt-dlp-yt-dlp) |
 | 3078 | 2025-12-28 09:51:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388213⭐ Python) | [reels/reel_3078_public-apis-public-apis](reels/reel_3078_public-apis-public-apis) |
+| 3079 | 2025-12-28 10:19:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103636⭐ TypeScript) | [reels/reel_3079_shadcn-ui-ui](reels/reel_3079_shadcn-ui-ui) |
