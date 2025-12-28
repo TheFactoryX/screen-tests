@@ -1,0 +1,24 @@
+{
+  "reel_number": 3081,
+  "recorded": "2025-12-28 10:54:09 UTC",
+  "repository": {
+    "full_name": "0vercl0k/wtf",
+    "url": "https://github.com/0vercl0k/wtf",
+    "clone_url": "https://github.com/0vercl0k/wtf.git",
+    "stars": 1703,
+    "language": "C++",
+    "size_kb": 109580
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 107,
+    "duration_seconds": 5.42467
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 1703 stars."
+  }
+}
