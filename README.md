@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3076 | [hcloud-k8s/terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) | HCL · ⭐ 464 | 2025-12-28 |
+| #3077 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3142,3 +3142,4 @@ Or let GitHub Action run it automatically.
 | 3074 | 2025-12-28 08:24:23 | [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) | ✅ full (256⭐ TypeScript) | [reels/reel_3074_YouMind-OpenLab-awesome-gemini-3-prompts](reels/reel_3074_YouMind-OpenLab-awesome-gemini-3-prompts) |
 | 3075 | 2025-12-28 08:48:19 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180548⭐ Python) | [reels/reel_3075_Significant-Gravitas-AutoGPT](reels/reel_3075_Significant-Gravitas-AutoGPT) |
 | 3076 | 2025-12-28 09:19:00 | [hcloud-k8s/terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) | ✅ full (464⭐ HCL) | [reels/reel_3076_hcloud-k8s-terraform-hcloud-kubernetes](reels/reel_3076_hcloud-k8s-terraform-hcloud-kubernetes) |
+| 3077 | 2025-12-28 09:41:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139724⭐ Python) | [reels/reel_3077_yt-dlp-yt-dlp](reels/reel_3077_yt-dlp-yt-dlp) |
