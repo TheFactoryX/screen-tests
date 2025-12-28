@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3115 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-28 |
+| #3116 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 452k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3181,3 +3181,4 @@ Or let GitHub Action run it automatically.
 | 3113 | 2025-12-28 22:53:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119156⭐ Svelte) | [reels/reel_3113_open-webui-open-webui](reels/reel_3113_open-webui-open-webui) |
 | 3114 | 2025-12-28 23:17:53 | [guiyumin/vget](https://github.com/guiyumin/vget) | ✅ full (384⭐ Go) | [reels/reel_3114_guiyumin-vget](reels/reel_3114_guiyumin-vget) |
 | 3115 | 2025-12-28 23:40:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103663⭐ TypeScript) | [reels/reel_3115_shadcn-ui-ui](reels/reel_3115_shadcn-ui-ui) |
+| 3116 | 2025-12-28 23:50:41 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452650⭐ Markdown) | [reels/reel_3116_codecrafters-io-build-your-own-x](reels/reel_3116_codecrafters-io-build-your-own-x) |
