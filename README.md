@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3063 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-28 |
+| #3064 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3129,3 +3129,4 @@ Or let GitHub Action run it automatically.
 | 3061 | 2025-12-27 23:39:33 | [PeterWaher/IoTGateway](https://github.com/PeterWaher/IoTGateway) | ✅ readme_only (250⭐ C#) | [reels/reel_3061_PeterWaher-IoTGateway](reels/reel_3061_PeterWaher-IoTGateway) |
 | 3062 | 2025-12-27 23:50:12 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388142⭐ Python) | [reels/reel_3062_public-apis-public-apis](reels/reel_3062_public-apis-public-apis) |
 | 3063 | 2025-12-28 01:45:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108891⭐ Rust) | [reels/reel_3063_rust-lang-rust](reels/reel_3063_rust-lang-rust) |
+| 3064 | 2025-12-28 03:46:15 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139700⭐ Python) | [reels/reel_3064_yt-dlp-yt-dlp](reels/reel_3064_yt-dlp-yt-dlp) |
