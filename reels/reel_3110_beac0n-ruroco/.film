@@ -1,0 +1,24 @@
+{
+  "reel_number": 3110,
+  "recorded": "2025-12-28 21:49:58 UTC",
+  "repository": {
+    "full_name": "beac0n/ruroco",
+    "url": "https://github.com/beac0n/ruroco",
+    "clone_url": "https://github.com/beac0n/ruroco.git",
+    "stars": 553,
+    "language": "Rust",
+    "size_kb": 5897
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.710915
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 553 stars."
+  }
+}
