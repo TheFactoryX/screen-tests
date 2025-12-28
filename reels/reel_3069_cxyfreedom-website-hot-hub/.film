@@ -1,0 +1,24 @@
+{
+  "reel_number": 3069,
+  "recorded": "2025-12-28 06:29:12 UTC",
+  "repository": {
+    "full_name": "cxyfreedom/website-hot-hub",
+    "url": "https://github.com/cxyfreedom/website-hot-hub",
+    "clone_url": "https://github.com/cxyfreedom/website-hot-hub.git",
+    "stars": 286,
+    "language": "Python",
+    "size_kb": 122955
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 120,
+    "duration_seconds": 5.30437
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 286 stars."
+  }
+}
