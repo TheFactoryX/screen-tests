@@ -1,0 +1,24 @@
+{
+  "reel_number": 3090,
+  "recorded": "2025-12-28 14:52:24 UTC",
+  "repository": {
+    "full_name": "ruby2js/ruby2js",
+    "url": "https://github.com/ruby2js/ruby2js",
+    "clone_url": "https://github.com/ruby2js/ruby2js.git",
+    "stars": 465,
+    "language": "Ruby",
+    "size_kb": 11851
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 0.986643
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 465 stars."
+  }
+}
