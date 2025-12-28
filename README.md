@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3084 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-28 |
+| #3085 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 265k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3150,3 +3150,4 @@ Or let GitHub Action run it automatically.
 | 3082 | 2025-12-28 11:16:18 | [BryceWG/BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard) | ✅ shallow (411⭐ Kotlin) | [reels/reel_3082_BryceWG-BiBi-Keyboard](reels/reel_3082_BryceWG-BiBi-Keyboard) |
 | 3083 | 2025-12-28 11:38:04 | [easylist/ruadlist](https://github.com/easylist/ruadlist) | ✅ full (136⭐ Adblock Filter List) | [reels/reel_3083_easylist-ruadlist](reels/reel_3083_easylist-ruadlist) |
 | 3084 | 2025-12-28 11:49:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180548⭐ Python) | [reels/reel_3084_Significant-Gravitas-AutoGPT](reels/reel_3084_Significant-Gravitas-AutoGPT) |
+| 3085 | 2025-12-28 12:37:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265302⭐ None) | [reels/reel_3085_awesome-selfhosted-awesome-selfhosted](reels/reel_3085_awesome-selfhosted-awesome-selfhosted) |
