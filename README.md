@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3097 | [Qualcomm-AI-research/fastforward](https://github.com/Qualcomm-AI-research/fastforward) | Python · ⭐ 40 | 2025-12-28 |
+| #3098 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3163,3 +3163,4 @@ Or let GitHub Action run it automatically.
 | 3095 | 2025-12-28 16:47:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101472⭐ Shell) | [reels/reel_3095_papers-we-love-papers-we-love](reels/reel_3095_papers-we-love-papers-we-love) |
 | 3096 | 2025-12-28 17:16:33 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) | ✅ readme_only (268⭐ C#) | [reels/reel_3096_BigheadSMZ-Zelda-LA-DX-HD-Updated](reels/reel_3096_BigheadSMZ-Zelda-LA-DX-HD-Updated) |
 | 3097 | 2025-12-28 17:41:07 | [Qualcomm-AI-research/fastforward](https://github.com/Qualcomm-AI-research/fastforward) | ✅ full (40⭐ Python) | [reels/reel_3097_Qualcomm-AI-research-fastforward](reels/reel_3097_Qualcomm-AI-research-fastforward) |
+| 3098 | 2025-12-28 17:50:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107339⭐ TypeScript) | [reels/reel_3098_iptv-org-iptv](reels/reel_3098_iptv-org-iptv) |
