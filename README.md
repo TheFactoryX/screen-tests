@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3081 | [0vercl0k/wtf](https://github.com/0vercl0k/wtf) | C++ · ⭐ 1k | 2025-12-28 |
+| #3082 | [BryceWG/BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard) | Kotlin · ⭐ 411 | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3147,3 +3147,4 @@ Or let GitHub Action run it automatically.
 | 3079 | 2025-12-28 10:19:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103636⭐ TypeScript) | [reels/reel_3079_shadcn-ui-ui](reels/reel_3079_shadcn-ui-ui) |
 | 3080 | 2025-12-28 10:44:07 | [Seebass22/terminal-toys](https://github.com/Seebass22/terminal-toys) | ✅ full (27⭐ Rust) | [reels/reel_3080_Seebass22-terminal-toys](reels/reel_3080_Seebass22-terminal-toys) |
 | 3081 | 2025-12-28 10:54:09 | [0vercl0k/wtf](https://github.com/0vercl0k/wtf) | ✅ shallow (1703⭐ C++) | [reels/reel_3081_0vercl0k-wtf](reels/reel_3081_0vercl0k-wtf) |
+| 3082 | 2025-12-28 11:16:18 | [BryceWG/BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard) | ✅ shallow (411⭐ Kotlin) | [reels/reel_3082_BryceWG-BiBi-Keyboard](reels/reel_3082_BryceWG-BiBi-Keyboard) |
