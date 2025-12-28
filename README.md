@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3110 | [beac0n/ruroco](https://github.com/beac0n/ruroco) | Rust · ⭐ 553 | 2025-12-28 |
+| #3111 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 165k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3176,3 +3176,4 @@ Or let GitHub Action run it automatically.
 | 3108 | 2025-12-28 21:17:19 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97108⭐ TypeScript) | [reels/reel_3108_ant-design-ant-design](reels/reel_3108_ant-design-ant-design) |
 | 3109 | 2025-12-28 21:39:09 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100525⭐ Rust) | [reels/reel_3109_tauri-apps-tauri](reels/reel_3109_tauri-apps-tauri) |
 | 3110 | 2025-12-28 21:49:58 | [beac0n/ruroco](https://github.com/beac0n/ruroco) | ✅ full (553⭐ Rust) | [reels/reel_3110_beac0n-ruroco](reels/reel_3110_beac0n-ruroco) |
+| 3111 | 2025-12-28 22:18:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (165208⭐ TypeScript) | [reels/reel_3111_n8n-io-n8n](reels/reel_3111_n8n-io-n8n) |
