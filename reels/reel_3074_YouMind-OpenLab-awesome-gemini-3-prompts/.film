@@ -1,0 +1,24 @@
+{
+  "reel_number": 3074,
+  "recorded": "2025-12-28 08:24:23 UTC",
+  "repository": {
+    "full_name": "YouMind-OpenLab/awesome-gemini-3-prompts",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
+    "clone_url": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts.git",
+    "stars": 256,
+    "language": "TypeScript",
+    "size_kb": 8494
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.041646
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 256 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3073 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-28 |
+| #3074 | [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) | TypeScript · ⭐ 256 | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3139,3 +3139,4 @@ Or let GitHub Action run it automatically.
 | 3071 | 2025-12-28 07:19:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100492⭐ Rust) | [reels/reel_3071_tauri-apps-tauri](reels/reel_3071_tauri-apps-tauri) |
 | 3072 | 2025-12-28 07:40:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139719⭐ Python) | [reels/reel_3072_yt-dlp-yt-dlp](reels/reel_3072_yt-dlp-yt-dlp) |
 | 3073 | 2025-12-28 07:50:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139720⭐ Python) | [reels/reel_3073_yt-dlp-yt-dlp](reels/reel_3073_yt-dlp-yt-dlp) |
+| 3074 | 2025-12-28 08:24:23 | [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) | ✅ full (256⭐ TypeScript) | [reels/reel_3074_YouMind-OpenLab-awesome-gemini-3-prompts](reels/reel_3074_YouMind-OpenLab-awesome-gemini-3-prompts) |
