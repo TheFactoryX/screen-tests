@@ -1,0 +1,24 @@
+{
+  "reel_number": 3102,
+  "recorded": "2025-12-28 19:28:59 UTC",
+  "repository": {
+    "full_name": "wayhome/awesome-awesome",
+    "url": "https://github.com/wayhome/awesome-awesome",
+    "clone_url": "https://github.com/wayhome/awesome-awesome.git",
+    "stars": 13,
+    "language": null,
+    "size_kb": 270
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.777699
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 13 stars."
+  }
+}

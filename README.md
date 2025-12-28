@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3101 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-28 |
+| #3102 | [wayhome/awesome-awesome](https://github.com/wayhome/awesome-awesome) | None · ⭐ 13 | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3167,3 +3167,4 @@ Or let GitHub Action run it automatically.
 | 3099 | 2025-12-28 18:27:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142217⭐ Python) | [reels/reel_3099_langflow-ai-langflow](reels/reel_3099_langflow-ai-langflow) |
 | 3100 | 2025-12-28 18:51:14 | [ruxailab/RUXAILAB](https://github.com/ruxailab/RUXAILAB) | ✅ shallow (113⭐ Vue) | [reels/reel_3100_ruxailab-RUXAILAB](reels/reel_3100_ruxailab-RUXAILAB) |
 | 3101 | 2025-12-28 19:14:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119144⭐ Svelte) | [reels/reel_3101_open-webui-open-webui](reels/reel_3101_open-webui-open-webui) |
+| 3102 | 2025-12-28 19:28:59 | [wayhome/awesome-awesome](https://github.com/wayhome/awesome-awesome) | ✅ full (13⭐ None) | [reels/reel_3102_wayhome-awesome-awesome](reels/reel_3102_wayhome-awesome-awesome) |
