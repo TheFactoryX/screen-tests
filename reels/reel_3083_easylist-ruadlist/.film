@@ -1,0 +1,24 @@
+{
+  "reel_number": 3083,
+  "recorded": "2025-12-28 11:38:04 UTC",
+  "repository": {
+    "full_name": "easylist/ruadlist",
+    "url": "https://github.com/easylist/ruadlist",
+    "clone_url": "https://github.com/easylist/ruadlist.git",
+    "stars": 136,
+    "language": "Adblock Filter List",
+    "size_kb": 50242
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 49,
+    "duration_seconds": 16.467895
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Adblock Filter List",
+    "director_note": "A Adblock Filter List repository. 136 stars."
+  }
+}
