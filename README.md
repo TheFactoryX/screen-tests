@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3112 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-28 |
+| #3113 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3178,3 +3178,4 @@ Or let GitHub Action run it automatically.
 | 3110 | 2025-12-28 21:49:58 | [beac0n/ruroco](https://github.com/beac0n/ruroco) | ✅ full (553⭐ Rust) | [reels/reel_3110_beac0n-ruroco](reels/reel_3110_beac0n-ruroco) |
 | 3111 | 2025-12-28 22:18:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (165208⭐ TypeScript) | [reels/reel_3111_n8n-io-n8n](reels/reel_3111_n8n-io-n8n) |
 | 3112 | 2025-12-28 22:43:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107359⭐ TypeScript) | [reels/reel_3112_iptv-org-iptv](reels/reel_3112_iptv-org-iptv) |
+| 3113 | 2025-12-28 22:53:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119156⭐ Svelte) | [reels/reel_3113_open-webui-open-webui](reels/reel_3113_open-webui-open-webui) |
