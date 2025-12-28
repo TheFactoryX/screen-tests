@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3071 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-28 |
+| #3072 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3137,3 +3137,4 @@ Or let GitHub Action run it automatically.
 | 3069 | 2025-12-28 06:29:12 | [cxyfreedom/website-hot-hub](https://github.com/cxyfreedom/website-hot-hub) | ✅ shallow (286⭐ Python) | [reels/reel_3069_cxyfreedom-website-hot-hub](reels/reel_3069_cxyfreedom-website-hot-hub) |
 | 3070 | 2025-12-28 06:54:38 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100491⭐ Rust) | [reels/reel_3070_tauri-apps-tauri](reels/reel_3070_tauri-apps-tauri) |
 | 3071 | 2025-12-28 07:19:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100492⭐ Rust) | [reels/reel_3071_tauri-apps-tauri](reels/reel_3071_tauri-apps-tauri) |
+| 3072 | 2025-12-28 07:40:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139719⭐ Python) | [reels/reel_3072_yt-dlp-yt-dlp](reels/reel_3072_yt-dlp-yt-dlp) |
