@@ -1,0 +1,24 @@
+{
+  "reel_number": 3096,
+  "recorded": "2025-12-28 17:16:33 UTC",
+  "repository": {
+    "full_name": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "clone_url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated.git",
+    "stars": 268,
+    "language": "C#",
+    "size_kb": 926148
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 904,
+    "duration_seconds": 0.000107
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 268 stars."
+  }
+}

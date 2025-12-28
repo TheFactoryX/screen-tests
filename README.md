@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3095 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-28 |
+| #3096 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) | C# · ⭐ 268 | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3161,3 +3161,4 @@ Or let GitHub Action run it automatically.
 | 3093 | 2025-12-28 15:50:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100512⭐ Rust) | [reels/reel_3093_tauri-apps-tauri](reels/reel_3093_tauri-apps-tauri) |
 | 3094 | 2025-12-28 16:22:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180553⭐ Python) | [reels/reel_3094_Significant-Gravitas-AutoGPT](reels/reel_3094_Significant-Gravitas-AutoGPT) |
 | 3095 | 2025-12-28 16:47:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101472⭐ Shell) | [reels/reel_3095_papers-we-love-papers-we-love](reels/reel_3095_papers-we-love-papers-we-love) |
+| 3096 | 2025-12-28 17:16:33 | [BigheadSMZ/Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) | ✅ readme_only (268⭐ C#) | [reels/reel_3096_BigheadSMZ-Zelda-LA-DX-HD-Updated](reels/reel_3096_BigheadSMZ-Zelda-LA-DX-HD-Updated) |
