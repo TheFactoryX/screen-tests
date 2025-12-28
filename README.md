@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3091 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 452k | 2025-12-28 |
+| #3092 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3157,3 +3157,4 @@ Or let GitHub Action run it automatically.
 | 3089 | 2025-12-28 14:42:08 | [ai-glimpse/toynlp](https://github.com/ai-glimpse/toynlp) | ✅ full (31⭐ Python) | [reels/reel_3089_ai-glimpse-toynlp](reels/reel_3089_ai-glimpse-toynlp) |
 | 3090 | 2025-12-28 14:52:24 | [ruby2js/ruby2js](https://github.com/ruby2js/ruby2js) | ✅ full (465⭐ Ruby) | [reels/reel_3090_ruby2js-ruby2js](reels/reel_3090_ruby2js-ruby2js) |
 | 3091 | 2025-12-28 15:17:50 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452576⭐ Markdown) | [reels/reel_3091_codecrafters-io-build-your-own-x](reels/reel_3091_codecrafters-io-build-your-own-x) |
+| 3092 | 2025-12-28 15:40:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119133⭐ Svelte) | [reels/reel_3092_open-webui-open-webui](reels/reel_3092_open-webui-open-webui) |
