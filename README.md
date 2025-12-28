@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3086 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) | TypeScript · ⭐ 548 | 2025-12-28 |
+| #3087 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3152,3 +3152,4 @@ Or let GitHub Action run it automatically.
 | 3084 | 2025-12-28 11:49:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180548⭐ Python) | [reels/reel_3084_Significant-Gravitas-AutoGPT](reels/reel_3084_Significant-Gravitas-AutoGPT) |
 | 3085 | 2025-12-28 12:37:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265302⭐ None) | [reels/reel_3085_awesome-selfhosted-awesome-selfhosted](reels/reel_3085_awesome-selfhosted-awesome-selfhosted) |
 | 3086 | 2025-12-28 13:18:41 | [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) | ✅ full (548⭐ TypeScript) | [reels/reel_3086_dyoshikawa-rulesync](reels/reel_3086_dyoshikawa-rulesync) |
+| 3087 | 2025-12-28 13:46:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139743⭐ Python) | [reels/reel_3087_yt-dlp-yt-dlp](reels/reel_3087_yt-dlp-yt-dlp) |
