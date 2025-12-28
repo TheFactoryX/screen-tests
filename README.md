@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3102 | [wayhome/awesome-awesome](https://github.com/wayhome/awesome-awesome) | None · ⭐ 13 | 2025-12-28 |
+| #3103 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3168,3 +3168,4 @@ Or let GitHub Action run it automatically.
 | 3100 | 2025-12-28 18:51:14 | [ruxailab/RUXAILAB](https://github.com/ruxailab/RUXAILAB) | ✅ shallow (113⭐ Vue) | [reels/reel_3100_ruxailab-RUXAILAB](reels/reel_3100_ruxailab-RUXAILAB) |
 | 3101 | 2025-12-28 19:14:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119144⭐ Svelte) | [reels/reel_3101_open-webui-open-webui](reels/reel_3101_open-webui-open-webui) |
 | 3102 | 2025-12-28 19:28:59 | [wayhome/awesome-awesome](https://github.com/wayhome/awesome-awesome) | ✅ full (13⭐ None) | [reels/reel_3102_wayhome-awesome-awesome](reels/reel_3102_wayhome-awesome-awesome) |
+| 3103 | 2025-12-28 19:41:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180555⭐ Python) | [reels/reel_3103_Significant-Gravitas-AutoGPT](reels/reel_3103_Significant-Gravitas-AutoGPT) |
