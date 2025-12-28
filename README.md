@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3104 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-28 |
+| #3105 | [missingfaktor/akar](https://github.com/missingfaktor/akar) | Clojure · ⭐ 182 | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3170,3 +3170,4 @@ Or let GitHub Action run it automatically.
 | 3102 | 2025-12-28 19:28:59 | [wayhome/awesome-awesome](https://github.com/wayhome/awesome-awesome) | ✅ full (13⭐ None) | [reels/reel_3102_wayhome-awesome-awesome](reels/reel_3102_wayhome-awesome-awesome) |
 | 3103 | 2025-12-28 19:41:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180555⭐ Python) | [reels/reel_3103_Significant-Gravitas-AutoGPT](reels/reel_3103_Significant-Gravitas-AutoGPT) |
 | 3104 | 2025-12-28 19:50:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180555⭐ Python) | [reels/reel_3104_Significant-Gravitas-AutoGPT](reels/reel_3104_Significant-Gravitas-AutoGPT) |
+| 3105 | 2025-12-28 20:20:42 | [missingfaktor/akar](https://github.com/missingfaktor/akar) | ✅ full (182⭐ Clojure) | [reels/reel_3105_missingfaktor-akar](reels/reel_3105_missingfaktor-akar) |
