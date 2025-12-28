@@ -1,0 +1,24 @@
+{
+  "reel_number": 3107,
+  "recorded": "2025-12-28 20:54:08 UTC",
+  "repository": {
+    "full_name": "Jason94/coalton-io",
+    "url": "https://github.com/Jason94/coalton-io",
+    "clone_url": "https://github.com/Jason94/coalton-io.git",
+    "stars": 14,
+    "language": "Common Lisp",
+    "size_kb": 322
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.283046
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Common Lisp",
+    "director_note": "A Common Lisp repository. 14 stars."
+  }
+}
