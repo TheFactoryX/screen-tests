@@ -1,0 +1,24 @@
+{
+  "reel_number": 3086,
+  "recorded": "2025-12-28 13:18:41 UTC",
+  "repository": {
+    "full_name": "dyoshikawa/rulesync",
+    "url": "https://github.com/dyoshikawa/rulesync",
+    "clone_url": "https://github.com/dyoshikawa/rulesync.git",
+    "stars": 548,
+    "language": "TypeScript",
+    "size_kb": 10910
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.585394
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 548 stars."
+  }
+}
