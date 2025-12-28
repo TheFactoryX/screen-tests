@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3064 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-28 |
+| #3065 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3130,3 +3130,4 @@ Or let GitHub Action run it automatically.
 | 3062 | 2025-12-27 23:50:12 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388142⭐ Python) | [reels/reel_3062_public-apis-public-apis](reels/reel_3062_public-apis-public-apis) |
 | 3063 | 2025-12-28 01:45:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108891⭐ Rust) | [reels/reel_3063_rust-lang-rust](reels/reel_3063_rust-lang-rust) |
 | 3064 | 2025-12-28 03:46:15 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139700⭐ Python) | [reels/reel_3064_yt-dlp-yt-dlp](reels/reel_3064_yt-dlp-yt-dlp) |
+| 3065 | 2025-12-28 04:42:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139704⭐ Python) | [reels/reel_3065_yt-dlp-yt-dlp](reels/reel_3065_yt-dlp-yt-dlp) |
