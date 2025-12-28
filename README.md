@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3099 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2025-12-28 |
+| #3100 | [ruxailab/RUXAILAB](https://github.com/ruxailab/RUXAILAB) | Vue · ⭐ 113 | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3165,3 +3165,4 @@ Or let GitHub Action run it automatically.
 | 3097 | 2025-12-28 17:41:07 | [Qualcomm-AI-research/fastforward](https://github.com/Qualcomm-AI-research/fastforward) | ✅ full (40⭐ Python) | [reels/reel_3097_Qualcomm-AI-research-fastforward](reels/reel_3097_Qualcomm-AI-research-fastforward) |
 | 3098 | 2025-12-28 17:50:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107339⭐ TypeScript) | [reels/reel_3098_iptv-org-iptv](reels/reel_3098_iptv-org-iptv) |
 | 3099 | 2025-12-28 18:27:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142217⭐ Python) | [reels/reel_3099_langflow-ai-langflow](reels/reel_3099_langflow-ai-langflow) |
+| 3100 | 2025-12-28 18:51:14 | [ruxailab/RUXAILAB](https://github.com/ruxailab/RUXAILAB) | ✅ shallow (113⭐ Vue) | [reels/reel_3100_ruxailab-RUXAILAB](reels/reel_3100_ruxailab-RUXAILAB) |
