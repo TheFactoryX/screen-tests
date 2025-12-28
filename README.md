@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3092 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-28 |
+| #3093 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-28 |
 ---
 
 ## 🎭 Selection Process
@@ -3158,3 +3158,4 @@ Or let GitHub Action run it automatically.
 | 3090 | 2025-12-28 14:52:24 | [ruby2js/ruby2js](https://github.com/ruby2js/ruby2js) | ✅ full (465⭐ Ruby) | [reels/reel_3090_ruby2js-ruby2js](reels/reel_3090_ruby2js-ruby2js) |
 | 3091 | 2025-12-28 15:17:50 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452576⭐ Markdown) | [reels/reel_3091_codecrafters-io-build-your-own-x](reels/reel_3091_codecrafters-io-build-your-own-x) |
 | 3092 | 2025-12-28 15:40:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119133⭐ Svelte) | [reels/reel_3092_open-webui-open-webui](reels/reel_3092_open-webui-open-webui) |
+| 3093 | 2025-12-28 15:50:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100512⭐ Rust) | [reels/reel_3093_tauri-apps-tauri](reels/reel_3093_tauri-apps-tauri) |
