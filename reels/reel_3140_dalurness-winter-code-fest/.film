@@ -1,0 +1,24 @@
+{
+  "reel_number": 3140,
+  "recorded": "2025-12-29 15:20:34 UTC",
+  "repository": {
+    "full_name": "dalurness/winter-code-fest",
+    "url": "https://github.com/dalurness/winter-code-fest",
+    "clone_url": "https://github.com/dalurness/winter-code-fest.git",
+    "stars": 14,
+    "language": "TypeScript",
+    "size_kb": 64761
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 1.335444
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 14 stars."
+  }
+}
