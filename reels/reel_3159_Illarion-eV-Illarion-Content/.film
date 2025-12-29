@@ -1,0 +1,24 @@
+{
+  "reel_number": 3159,
+  "recorded": "2025-12-29 22:18:30 UTC",
+  "repository": {
+    "full_name": "Illarion-eV/Illarion-Content",
+    "url": "https://github.com/Illarion-eV/Illarion-Content",
+    "clone_url": "https://github.com/Illarion-eV/Illarion-Content.git",
+    "stars": 35,
+    "language": "Lua",
+    "size_kb": 36551
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 4.636174
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 35 stars."
+  }
+}
