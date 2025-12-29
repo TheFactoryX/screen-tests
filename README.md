@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3131 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-29 |
+| #3132 | [cashubtc/cdk](https://github.com/cashubtc/cdk) | Rust · ⭐ 196 | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3197,3 +3197,4 @@ Or let GitHub Action run it automatically.
 | 3129 | 2025-12-29 09:56:20 | [nghyane/llm-mux](https://github.com/nghyane/llm-mux) | ✅ full (173⭐ Go) | [reels/reel_3129_nghyane-llm-mux](reels/reel_3129_nghyane-llm-mux) |
 | 3130 | 2025-12-29 10:25:22 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | ✅ full (52⭐ Java) | [reels/reel_3130_team-abnormals-neapolitan](reels/reel_3130_team-abnormals-neapolitan) |
 | 3131 | 2025-12-29 10:48:06 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139285⭐ Python) | [reels/reel_3131_ytdl-org-youtube-dl](reels/reel_3131_ytdl-org-youtube-dl) |
+| 3132 | 2025-12-29 11:17:29 | [cashubtc/cdk](https://github.com/cashubtc/cdk) | ✅ full (196⭐ Rust) | [reels/reel_3132_cashubtc-cdk](reels/reel_3132_cashubtc-cdk) |
