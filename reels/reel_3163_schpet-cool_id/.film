@@ -1,0 +1,24 @@
+{
+  "reel_number": 3163,
+  "recorded": "2025-12-29 23:40:22 UTC",
+  "repository": {
+    "full_name": "schpet/cool_id",
+    "url": "https://github.com/schpet/cool_id",
+    "clone_url": "https://github.com/schpet/cool_id.git",
+    "stars": 63,
+    "language": "Ruby",
+    "size_kb": 87
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.15155
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 63 stars."
+  }
+}
