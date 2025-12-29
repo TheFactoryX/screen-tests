@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3163 | [schpet/cool_id](https://github.com/schpet/cool_id) | Ruby · ⭐ 63 | 2025-12-29 |
+| #3164 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3229,3 +3229,4 @@ Or let GitHub Action run it automatically.
 | 3161 | 2025-12-29 22:53:03 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97117⭐ TypeScript) | [reels/reel_3161_ant-design-ant-design](reels/reel_3161_ant-design-ant-design) |
 | 3162 | 2025-12-29 23:18:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119241⭐ Svelte) | [reels/reel_3162_open-webui-open-webui](reels/reel_3162_open-webui-open-webui) |
 | 3163 | 2025-12-29 23:40:22 | [schpet/cool_id](https://github.com/schpet/cool_id) | ✅ full (63⭐ Ruby) | [reels/reel_3163_schpet-cool_id](reels/reel_3163_schpet-cool_id) |
+| 3164 | 2025-12-29 23:50:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139919⭐ Python) | [reels/reel_3164_yt-dlp-yt-dlp](reels/reel_3164_yt-dlp-yt-dlp) |
