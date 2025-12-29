@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3132 | [cashubtc/cdk](https://github.com/cashubtc/cdk) | Rust · ⭐ 196 | 2025-12-29 |
+| #3133 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3198,3 +3198,4 @@ Or let GitHub Action run it automatically.
 | 3130 | 2025-12-29 10:25:22 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | ✅ full (52⭐ Java) | [reels/reel_3130_team-abnormals-neapolitan](reels/reel_3130_team-abnormals-neapolitan) |
 | 3131 | 2025-12-29 10:48:06 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139285⭐ Python) | [reels/reel_3131_ytdl-org-youtube-dl](reels/reel_3131_ytdl-org-youtube-dl) |
 | 3132 | 2025-12-29 11:17:29 | [cashubtc/cdk](https://github.com/cashubtc/cdk) | ✅ full (196⭐ Rust) | [reels/reel_3132_cashubtc-cdk](reels/reel_3132_cashubtc-cdk) |
+| 3133 | 2025-12-29 11:40:20 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180596⭐ Python) | [reels/reel_3133_Significant-Gravitas-AutoGPT](reels/reel_3133_Significant-Gravitas-AutoGPT) |
