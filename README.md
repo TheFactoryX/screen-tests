@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3145 | [yegor256/micromap](https://github.com/yegor256/micromap) | Rust · ⭐ 183 | 2025-12-29 |
+| #3146 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 265k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3211,3 +3211,4 @@ Or let GitHub Action run it automatically.
 | 3143 | 2025-12-29 16:26:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122918⭐ Python) | [reels/reel_3143_langchain-ai-langchain](reels/reel_3143_langchain-ai-langchain) |
 | 3144 | 2025-12-29 16:49:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107453⭐ TypeScript) | [reels/reel_3144_iptv-org-iptv](reels/reel_3144_iptv-org-iptv) |
 | 3145 | 2025-12-29 17:17:16 | [yegor256/micromap](https://github.com/yegor256/micromap) | ✅ full (183⭐ Rust) | [reels/reel_3145_yegor256-micromap](reels/reel_3145_yegor256-micromap) |
+| 3146 | 2025-12-29 17:42:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265519⭐ None) | [reels/reel_3146_awesome-selfhosted-awesome-selfhosted](reels/reel_3146_awesome-selfhosted-awesome-selfhosted) |
