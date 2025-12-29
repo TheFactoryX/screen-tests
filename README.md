@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3129 | [nghyane/llm-mux](https://github.com/nghyane/llm-mux) | Go · ⭐ 173 | 2025-12-29 |
+| #3130 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | Java · ⭐ 52 | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3195,3 +3195,4 @@ Or let GitHub Action run it automatically.
 | 3127 | 2025-12-29 08:56:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139847⭐ Python) | [reels/reel_3127_yt-dlp-yt-dlp](reels/reel_3127_yt-dlp-yt-dlp) |
 | 3128 | 2025-12-29 09:32:53 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139850⭐ Python) | [reels/reel_3128_yt-dlp-yt-dlp](reels/reel_3128_yt-dlp-yt-dlp) |
 | 3129 | 2025-12-29 09:56:20 | [nghyane/llm-mux](https://github.com/nghyane/llm-mux) | ✅ full (173⭐ Go) | [reels/reel_3129_nghyane-llm-mux](reels/reel_3129_nghyane-llm-mux) |
+| 3130 | 2025-12-29 10:25:22 | [team-abnormals/neapolitan](https://github.com/team-abnormals/neapolitan) | ✅ full (52⭐ Java) | [reels/reel_3130_team-abnormals-neapolitan](reels/reel_3130_team-abnormals-neapolitan) |

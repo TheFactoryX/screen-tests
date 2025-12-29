@@ -1,0 +1,24 @@
+{
+  "reel_number": 3130,
+  "recorded": "2025-12-29 10:25:22 UTC",
+  "repository": {
+    "full_name": "team-abnormals/neapolitan",
+    "url": "https://github.com/team-abnormals/neapolitan",
+    "clone_url": "https://github.com/team-abnormals/neapolitan.git",
+    "stars": 52,
+    "language": "Java",
+    "size_kb": 6300
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.549247
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 52 stars."
+  }
+}
