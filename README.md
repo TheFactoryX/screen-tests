@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3122 | [UltimateHackingKeyboard/firmware](https://github.com/UltimateHackingKeyboard/firmware) | C · ⭐ 476 | 2025-12-29 |
+| #3123 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3188,3 +3188,4 @@ Or let GitHub Action run it automatically.
 | 3120 | 2025-12-29 05:16:59 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100536⭐ Rust) | [reels/reel_3120_tauri-apps-tauri](reels/reel_3120_tauri-apps-tauri) |
 | 3121 | 2025-12-29 05:50:48 | [theihasan/geezap](https://github.com/theihasan/geezap) | ✅ full (109⭐ PHP) | [reels/reel_3121_theihasan-geezap](reels/reel_3121_theihasan-geezap) |
 | 3122 | 2025-12-29 06:32:52 | [UltimateHackingKeyboard/firmware](https://github.com/UltimateHackingKeyboard/firmware) | ✅ full (476⭐ C) | [reels/reel_3122_UltimateHackingKeyboard-firmware](reels/reel_3122_UltimateHackingKeyboard-firmware) |
+| 3123 | 2025-12-29 07:02:43 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97115⭐ TypeScript) | [reels/reel_3123_ant-design-ant-design](reels/reel_3123_ant-design-ant-design) |
