@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3155 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-29 |
+| #3156 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 165k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3221,3 +3221,4 @@ Or let GitHub Action run it automatically.
 | 3153 | 2025-12-29 20:22:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119227⭐ Svelte) | [reels/reel_3153_open-webui-open-webui](reels/reel_3153_open-webui-open-webui) |
 | 3154 | 2025-12-29 20:44:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142300⭐ Python) | [reels/reel_3154_langflow-ai-langflow](reels/reel_3154_langflow-ai-langflow) |
 | 3155 | 2025-12-29 20:55:57 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97117⭐ TypeScript) | [reels/reel_3155_ant-design-ant-design](reels/reel_3155_ant-design-ant-design) |
+| 3156 | 2025-12-29 21:19:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (165419⭐ TypeScript) | [reels/reel_3156_n8n-io-n8n](reels/reel_3156_n8n-io-n8n) |
