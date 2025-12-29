@@ -1,0 +1,24 @@
+{
+  "reel_number": 3160,
+  "recorded": "2025-12-29 22:42:50 UTC",
+  "repository": {
+    "full_name": "Sesu8642/FeudalTactics",
+    "url": "https://github.com/Sesu8642/FeudalTactics",
+    "clone_url": "https://github.com/Sesu8642/FeudalTactics.git",
+    "stars": 101,
+    "language": "Java",
+    "size_kb": 47216
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 46,
+    "duration_seconds": 1.53293
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 101 stars."
+  }
+}

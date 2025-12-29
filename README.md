@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3159 | [Illarion-eV/Illarion-Content](https://github.com/Illarion-eV/Illarion-Content) | Lua · ⭐ 35 | 2025-12-29 |
+| #3160 | [Sesu8642/FeudalTactics](https://github.com/Sesu8642/FeudalTactics) | Java · ⭐ 101 | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3225,3 +3225,4 @@ Or let GitHub Action run it automatically.
 | 3157 | 2025-12-29 21:39:43 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97117⭐ TypeScript) | [reels/reel_3157_ant-design-ant-design](reels/reel_3157_ant-design-ant-design) |
 | 3158 | 2025-12-29 21:50:21 | [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) | ✅ readme_only (572⭐ JavaScript) | [reels/reel_3158_McShelby-hugo-theme-relearn](reels/reel_3158_McShelby-hugo-theme-relearn) |
 | 3159 | 2025-12-29 22:18:30 | [Illarion-eV/Illarion-Content](https://github.com/Illarion-eV/Illarion-Content) | ✅ full (35⭐ Lua) | [reels/reel_3159_Illarion-eV-Illarion-Content](reels/reel_3159_Illarion-eV-Illarion-Content) |
+| 3160 | 2025-12-29 22:42:50 | [Sesu8642/FeudalTactics](https://github.com/Sesu8642/FeudalTactics) | ✅ full (101⭐ Java) | [reels/reel_3160_Sesu8642-FeudalTactics](reels/reel_3160_Sesu8642-FeudalTactics) |
