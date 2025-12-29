@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3124 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-29 |
+| #3125 | [OE4T/tegra-demo-distro](https://github.com/OE4T/tegra-demo-distro) | C · ⭐ 106 | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3190,3 +3190,4 @@ Or let GitHub Action run it automatically.
 | 3122 | 2025-12-29 06:32:52 | [UltimateHackingKeyboard/firmware](https://github.com/UltimateHackingKeyboard/firmware) | ✅ full (476⭐ C) | [reels/reel_3122_UltimateHackingKeyboard-firmware](reels/reel_3122_UltimateHackingKeyboard-firmware) |
 | 3123 | 2025-12-29 07:02:43 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97115⭐ TypeScript) | [reels/reel_3123_ant-design-ant-design](reels/reel_3123_ant-design-ant-design) |
 | 3124 | 2025-12-29 07:37:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122878⭐ Python) | [reels/reel_3124_langchain-ai-langchain](reels/reel_3124_langchain-ai-langchain) |
+| 3125 | 2025-12-29 07:52:34 | [OE4T/tegra-demo-distro](https://github.com/OE4T/tegra-demo-distro) | ✅ full (106⭐ C) | [reels/reel_3125_OE4T-tegra-demo-distro](reels/reel_3125_OE4T-tegra-demo-distro) |

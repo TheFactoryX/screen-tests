@@ -1,0 +1,24 @@
+{
+  "reel_number": 3125,
+  "recorded": "2025-12-29 07:52:34 UTC",
+  "repository": {
+    "full_name": "OE4T/tegra-demo-distro",
+    "url": "https://github.com/OE4T/tegra-demo-distro",
+    "clone_url": "https://github.com/OE4T/tegra-demo-distro.git",
+    "stars": 106,
+    "language": "C",
+    "size_kb": 1083
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.358469
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 106 stars."
+  }
+}
