@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3120 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-29 |
+| #3121 | [theihasan/geezap](https://github.com/theihasan/geezap) | PHP · ⭐ 109 | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3186,3 +3186,4 @@ Or let GitHub Action run it automatically.
 | 3118 | 2025-12-29 03:27:38 | [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) | ✅ shallow (205⭐ PowerShell) | [reels/reel_3118_TheTaylorLee-AdminToolbox](reels/reel_3118_TheTaylorLee-AdminToolbox) |
 | 3119 | 2025-12-29 04:35:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119174⭐ Svelte) | [reels/reel_3119_open-webui-open-webui](reels/reel_3119_open-webui-open-webui) |
 | 3120 | 2025-12-29 05:16:59 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100536⭐ Rust) | [reels/reel_3120_tauri-apps-tauri](reels/reel_3120_tauri-apps-tauri) |
+| 3121 | 2025-12-29 05:50:48 | [theihasan/geezap](https://github.com/theihasan/geezap) | ✅ full (109⭐ PHP) | [reels/reel_3121_theihasan-geezap](reels/reel_3121_theihasan-geezap) |
