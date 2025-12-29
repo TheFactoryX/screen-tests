@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3152 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2025-12-29 |
+| #3153 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3218,3 +3218,4 @@ Or let GitHub Action run it automatically.
 | 3150 | 2025-12-29 19:15:22 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452846⭐ Markdown) | [reels/reel_3150_codecrafters-io-build-your-own-x](reels/reel_3150_codecrafters-io-build-your-own-x) |
 | 3151 | 2025-12-29 19:37:29 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388461⭐ Python) | [reels/reel_3151_public-apis-public-apis](reels/reel_3151_public-apis-public-apis) |
 | 3152 | 2025-12-29 19:50:09 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103411⭐ None) | [reels/reel_3152_Hack-with-Github-Awesome-Hacking](reels/reel_3152_Hack-with-Github-Awesome-Hacking) |
+| 3153 | 2025-12-29 20:22:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119227⭐ Svelte) | [reels/reel_3153_open-webui-open-webui](reels/reel_3153_open-webui-open-webui) |
