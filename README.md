@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3134 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-29 |
+| #3135 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3200,3 +3200,4 @@ Or let GitHub Action run it automatically.
 | 3132 | 2025-12-29 11:17:29 | [cashubtc/cdk](https://github.com/cashubtc/cdk) | ✅ full (196⭐ Rust) | [reels/reel_3132_cashubtc-cdk](reels/reel_3132_cashubtc-cdk) |
 | 3133 | 2025-12-29 11:40:20 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180596⭐ Python) | [reels/reel_3133_Significant-Gravitas-AutoGPT](reels/reel_3133_Significant-Gravitas-AutoGPT) |
 | 3134 | 2025-12-29 11:51:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101493⭐ Shell) | [reels/reel_3134_papers-we-love-papers-we-love](reels/reel_3134_papers-we-love-papers-we-love) |
+| 3135 | 2025-12-29 12:41:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108929⭐ Rust) | [reels/reel_3135_rust-lang-rust](reels/reel_3135_rust-lang-rust) |
