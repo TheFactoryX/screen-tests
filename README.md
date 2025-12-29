@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3136 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-29 |
+| #3137 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3202,3 +3202,4 @@ Or let GitHub Action run it automatically.
 | 3134 | 2025-12-29 11:51:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101493⭐ Shell) | [reels/reel_3134_papers-we-love-papers-we-love](reels/reel_3134_papers-we-love-papers-we-love) |
 | 3135 | 2025-12-29 12:41:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108929⭐ Rust) | [reels/reel_3135_rust-lang-rust](reels/reel_3135_rust-lang-rust) |
 | 3136 | 2025-12-29 13:26:12 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139288⭐ Python) | [reels/reel_3136_ytdl-org-youtube-dl](reels/reel_3136_ytdl-org-youtube-dl) |
+| 3137 | 2025-12-29 13:54:05 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97115⭐ TypeScript) | [reels/reel_3137_ant-design-ant-design](reels/reel_3137_ant-design-ant-design) |
