@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3118 | [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) | PowerShell · ⭐ 205 | 2025-12-29 |
+| #3119 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3184,3 +3184,4 @@ Or let GitHub Action run it automatically.
 | 3116 | 2025-12-28 23:50:41 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452650⭐ Markdown) | [reels/reel_3116_codecrafters-io-build-your-own-x](reels/reel_3116_codecrafters-io-build-your-own-x) |
 | 3117 | 2025-12-29 01:44:41 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139283⭐ Python) | [reels/reel_3117_ytdl-org-youtube-dl](reels/reel_3117_ytdl-org-youtube-dl) |
 | 3118 | 2025-12-29 03:27:38 | [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) | ✅ shallow (205⭐ PowerShell) | [reels/reel_3118_TheTaylorLee-AdminToolbox](reels/reel_3118_TheTaylorLee-AdminToolbox) |
+| 3119 | 2025-12-29 04:35:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119174⭐ Svelte) | [reels/reel_3119_open-webui-open-webui](reels/reel_3119_open-webui-open-webui) |
