@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3143 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 122k | 2025-12-29 |
+| #3144 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3209,3 +3209,4 @@ Or let GitHub Action run it automatically.
 | 3141 | 2025-12-29 15:44:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107441⭐ TypeScript) | [reels/reel_3141_iptv-org-iptv](reels/reel_3141_iptv-org-iptv) |
 | 3142 | 2025-12-29 15:55:58 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100887⭐ Python) | [reels/reel_3142_deepseek-ai-DeepSeek-V3](reels/reel_3142_deepseek-ai-DeepSeek-V3) |
 | 3143 | 2025-12-29 16:26:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (122918⭐ Python) | [reels/reel_3143_langchain-ai-langchain](reels/reel_3143_langchain-ai-langchain) |
+| 3144 | 2025-12-29 16:49:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107453⭐ TypeScript) | [reels/reel_3144_iptv-org-iptv](reels/reel_3144_iptv-org-iptv) |
