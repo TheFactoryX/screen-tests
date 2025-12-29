@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3135 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-29 |
+| #3136 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3201,3 +3201,4 @@ Or let GitHub Action run it automatically.
 | 3133 | 2025-12-29 11:40:20 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180596⭐ Python) | [reels/reel_3133_Significant-Gravitas-AutoGPT](reels/reel_3133_Significant-Gravitas-AutoGPT) |
 | 3134 | 2025-12-29 11:51:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101493⭐ Shell) | [reels/reel_3134_papers-we-love-papers-we-love](reels/reel_3134_papers-we-love-papers-we-love) |
 | 3135 | 2025-12-29 12:41:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108929⭐ Rust) | [reels/reel_3135_rust-lang-rust](reels/reel_3135_rust-lang-rust) |
+| 3136 | 2025-12-29 13:26:12 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139288⭐ Python) | [reels/reel_3136_ytdl-org-youtube-dl](reels/reel_3136_ytdl-org-youtube-dl) |
