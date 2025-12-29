@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3141 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-29 |
+| #3142 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-29 |
 ---
 
 ## 🎭 Selection Process
@@ -3207,3 +3207,4 @@ Or let GitHub Action run it automatically.
 | 3139 | 2025-12-29 14:46:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107435⭐ TypeScript) | [reels/reel_3139_iptv-org-iptv](reels/reel_3139_iptv-org-iptv) |
 | 3140 | 2025-12-29 15:20:34 | [dalurness/winter-code-fest](https://github.com/dalurness/winter-code-fest) | ✅ full (14⭐ TypeScript) | [reels/reel_3140_dalurness-winter-code-fest](reels/reel_3140_dalurness-winter-code-fest) |
 | 3141 | 2025-12-29 15:44:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107441⭐ TypeScript) | [reels/reel_3141_iptv-org-iptv](reels/reel_3141_iptv-org-iptv) |
+| 3142 | 2025-12-29 15:55:58 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100887⭐ Python) | [reels/reel_3142_deepseek-ai-DeepSeek-V3](reels/reel_3142_deepseek-ai-DeepSeek-V3) |
