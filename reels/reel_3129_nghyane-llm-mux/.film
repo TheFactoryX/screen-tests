@@ -1,0 +1,24 @@
+{
+  "reel_number": 3129,
+  "recorded": "2025-12-29 09:56:20 UTC",
+  "repository": {
+    "full_name": "nghyane/llm-mux",
+    "url": "https://github.com/nghyane/llm-mux",
+    "clone_url": "https://github.com/nghyane/llm-mux.git",
+    "stars": 173,
+    "language": "Go",
+    "size_kb": 34182
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 0.993209
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 173 stars."
+  }
+}
