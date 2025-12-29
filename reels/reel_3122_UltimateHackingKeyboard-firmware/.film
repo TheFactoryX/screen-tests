@@ -1,0 +1,24 @@
+{
+  "reel_number": 3122,
+  "recorded": "2025-12-29 06:32:52 UTC",
+  "repository": {
+    "full_name": "UltimateHackingKeyboard/firmware",
+    "url": "https://github.com/UltimateHackingKeyboard/firmware",
+    "clone_url": "https://github.com/UltimateHackingKeyboard/firmware.git",
+    "stars": 476,
+    "language": "C",
+    "size_kb": 7857
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.056413
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 476 stars."
+  }
+}
