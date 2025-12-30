@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3190 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 388k | 2025-12-30 |
+| #3191 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3256,3 +3256,4 @@ Or let GitHub Action run it automatically.
 | 3188 | 2025-12-30 14:45:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142373⭐ Python) | [reels/reel_3188_langflow-ai-langflow](reels/reel_3188_langflow-ai-langflow) |
 | 3189 | 2025-12-30 15:20:41 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180661⭐ Python) | [reels/reel_3189_Significant-Gravitas-AutoGPT](reels/reel_3189_Significant-Gravitas-AutoGPT) |
 | 3190 | 2025-12-30 15:43:58 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388621⭐ Python) | [reels/reel_3190_public-apis-public-apis](reels/reel_3190_public-apis-public-apis) |
+| 3191 | 2025-12-30 15:55:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119298⭐ Svelte) | [reels/reel_3191_open-webui-open-webui](reels/reel_3191_open-webui-open-webui) |
