@@ -1,0 +1,24 @@
+{
+  "reel_number": 3179,
+  "recorded": "2025-12-30 10:21:09 UTC",
+  "repository": {
+    "full_name": "voodooEntity/go-tachicrypt",
+    "url": "https://github.com/voodooEntity/go-tachicrypt",
+    "clone_url": "https://github.com/voodooEntity/go-tachicrypt.git",
+    "stars": 36,
+    "language": "Go",
+    "size_kb": 19414
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 0.695618
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 36 stars."
+  }
+}
