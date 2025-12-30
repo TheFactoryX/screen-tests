@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3166 | [swiftlang/swift-build](https://github.com/swiftlang/swift-build) | Swift · ⭐ 2k | 2025-12-30 |
+| #3167 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3232,3 +3232,4 @@ Or let GitHub Action run it automatically.
 | 3164 | 2025-12-29 23:50:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139919⭐ Python) | [reels/reel_3164_yt-dlp-yt-dlp](reels/reel_3164_yt-dlp-yt-dlp) |
 | 3165 | 2025-12-30 01:27:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180617⭐ Python) | [reels/reel_3165_Significant-Gravitas-AutoGPT](reels/reel_3165_Significant-Gravitas-AutoGPT) |
 | 3166 | 2025-12-30 03:15:52 | [swiftlang/swift-build](https://github.com/swiftlang/swift-build) | ✅ full (2155⭐ Swift) | [reels/reel_3166_swiftlang-swift-build](reels/reel_3166_swiftlang-swift-build) |
+| 3167 | 2025-12-30 04:12:39 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101519⭐ Shell) | [reels/reel_3167_papers-we-love-papers-we-love](reels/reel_3167_papers-we-love-papers-we-love) |
