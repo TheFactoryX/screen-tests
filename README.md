@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3180 | [snappdevelopment/JsonTree](https://github.com/snappdevelopment/JsonTree) | Kotlin · ⭐ 108 | 2025-12-30 |
+| #3181 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3246,3 +3246,4 @@ Or let GitHub Action run it automatically.
 | 3178 | 2025-12-30 09:46:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388576⭐ Python) | [reels/reel_3178_public-apis-public-apis](reels/reel_3178_public-apis-public-apis) |
 | 3179 | 2025-12-30 10:21:09 | [voodooEntity/go-tachicrypt](https://github.com/voodooEntity/go-tachicrypt) | ✅ full (36⭐ Go) | [reels/reel_3179_voodooEntity-go-tachicrypt](reels/reel_3179_voodooEntity-go-tachicrypt) |
 | 3180 | 2025-12-30 10:47:18 | [snappdevelopment/JsonTree](https://github.com/snappdevelopment/JsonTree) | ✅ full (108⭐ Kotlin) | [reels/reel_3180_snappdevelopment-JsonTree](reels/reel_3180_snappdevelopment-JsonTree) |
+| 3181 | 2025-12-30 11:17:54 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119279⭐ Svelte) | [reels/reel_3181_open-webui-open-webui](reels/reel_3181_open-webui-open-webui) |
