@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3184 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-30 |
+| #3185 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3250,3 +3250,4 @@ Or let GitHub Action run it automatically.
 | 3182 | 2025-12-30 11:40:06 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139980⭐ Python) | [reels/reel_3182_yt-dlp-yt-dlp](reels/reel_3182_yt-dlp-yt-dlp) |
 | 3183 | 2025-12-30 11:50:53 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100580⭐ Rust) | [reels/reel_3183_tauri-apps-tauri](reels/reel_3183_tauri-apps-tauri) |
 | 3184 | 2025-12-30 12:40:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180659⭐ Python) | [reels/reel_3184_Significant-Gravitas-AutoGPT](reels/reel_3184_Significant-Gravitas-AutoGPT) |
+| 3185 | 2025-12-30 13:24:35 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97127⭐ TypeScript) | [reels/reel_3185_ant-design-ant-design](reels/reel_3185_ant-design-ant-design) |
