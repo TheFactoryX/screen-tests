@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3175 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-30 |
+| #3176 | [python/typing_extensions](https://github.com/python/typing_extensions) | Python · ⭐ 543 | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3241,3 +3241,4 @@ Or let GitHub Action run it automatically.
 | 3173 | 2025-12-30 07:34:03 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142340⭐ Python) | [reels/reel_3173_langflow-ai-langflow](reels/reel_3173_langflow-ai-langflow) |
 | 3174 | 2025-12-30 07:51:09 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265606⭐ None) | [reels/reel_3174_awesome-selfhosted-awesome-selfhosted](reels/reel_3174_awesome-selfhosted-awesome-selfhosted) |
 | 3175 | 2025-12-30 08:27:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97123⭐ TypeScript) | [reels/reel_3175_ant-design-ant-design](reels/reel_3175_ant-design-ant-design) |
+| 3176 | 2025-12-30 08:53:51 | [python/typing_extensions](https://github.com/python/typing_extensions) | ✅ full (543⭐ Python) | [reels/reel_3176_python-typing_extensions](reels/reel_3176_python-typing_extensions) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 3176,
+  "recorded": "2025-12-30 08:53:51 UTC",
+  "repository": {
+    "full_name": "python/typing_extensions",
+    "url": "https://github.com/python/typing_extensions",
+    "clone_url": "https://github.com/python/typing_extensions.git",
+    "stars": 543,
+    "language": "Python",
+    "size_kb": 2168
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.107118
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 543 stars."
+  }
+}
