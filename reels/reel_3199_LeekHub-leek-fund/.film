@@ -1,0 +1,24 @@
+{
+  "reel_number": 3199,
+  "recorded": "2025-12-30 19:15:47 UTC",
+  "repository": {
+    "full_name": "LeekHub/leek-fund",
+    "url": "https://github.com/LeekHub/leek-fund",
+    "clone_url": "https://github.com/LeekHub/leek-fund.git",
+    "stars": 3444,
+    "language": "TypeScript",
+    "size_kb": 28964
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 0.892922
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 3444 stars."
+  }
+}
