@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3208 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2025-12-30 |
+| #3209 | [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) | Swift · ⭐ 769 | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3274,3 +3274,4 @@ Or let GitHub Action run it automatically.
 | 3206 | 2025-12-30 21:40:21 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97131⭐ TypeScript) | [reels/reel_3206_ant-design-ant-design](reels/reel_3206_ant-design-ant-design) |
 | 3207 | 2025-12-30 21:51:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139304⭐ Python) | [reels/reel_3207_ytdl-org-youtube-dl](reels/reel_3207_ytdl-org-youtube-dl) |
 | 3208 | 2025-12-30 22:18:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140034⭐ Python) | [reels/reel_3208_yt-dlp-yt-dlp](reels/reel_3208_yt-dlp-yt-dlp) |
+| 3209 | 2025-12-30 22:43:48 | [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) | ✅ full (769⭐ Swift) | [reels/reel_3209_paulgessinger-swift-paperless](reels/reel_3209_paulgessinger-swift-paperless) |
