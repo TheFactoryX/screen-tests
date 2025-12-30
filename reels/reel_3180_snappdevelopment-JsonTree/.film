@@ -1,0 +1,24 @@
+{
+  "reel_number": 3180,
+  "recorded": "2025-12-30 10:47:18 UTC",
+  "repository": {
+    "full_name": "snappdevelopment/JsonTree",
+    "url": "https://github.com/snappdevelopment/JsonTree",
+    "clone_url": "https://github.com/snappdevelopment/JsonTree.git",
+    "stars": 108,
+    "language": "Kotlin",
+    "size_kb": 2708
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.69553
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 108 stars."
+  }
+}
