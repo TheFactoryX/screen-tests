@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3170 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 165k | 2025-12-30 |
+| #3171 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 452k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3236,3 +3236,4 @@ Or let GitHub Action run it automatically.
 | 3168 | 2025-12-30 04:52:47 | [codemirror/view](https://github.com/codemirror/view) | ✅ full (166⭐ TypeScript) | [reels/reel_3168_codemirror-view](reels/reel_3168_codemirror-view) |
 | 3169 | 2025-12-30 05:22:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139943⭐ Python) | [reels/reel_3169_yt-dlp-yt-dlp](reels/reel_3169_yt-dlp-yt-dlp) |
 | 3170 | 2025-12-30 05:46:18 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (165470⭐ TypeScript) | [reels/reel_3170_n8n-io-n8n](reels/reel_3170_n8n-io-n8n) |
+| 3171 | 2025-12-30 06:30:49 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452944⭐ Markdown) | [reels/reel_3171_codecrafters-io-build-your-own-x](reels/reel_3171_codecrafters-io-build-your-own-x) |
