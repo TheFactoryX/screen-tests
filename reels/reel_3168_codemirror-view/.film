@@ -1,0 +1,24 @@
+{
+  "reel_number": 3168,
+  "recorded": "2025-12-30 04:52:47 UTC",
+  "repository": {
+    "full_name": "codemirror/view",
+    "url": "https://github.com/codemirror/view",
+    "clone_url": "https://github.com/codemirror/view.git",
+    "stars": 166,
+    "language": "TypeScript",
+    "size_kb": 2432
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.411911
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 166 stars."
+  }
+}
