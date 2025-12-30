@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3196 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2025-12-30 |
+| #3197 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3262,3 +3262,4 @@ Or let GitHub Action run it automatically.
 | 3194 | 2025-12-30 17:19:18 | [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) | ✅ full (379⭐ PHP) | [reels/reel_3194_phpstan-phpstan-src](reels/reel_3194_phpstan-phpstan-src) |
 | 3195 | 2025-12-30 17:44:30 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (165589⭐ TypeScript) | [reels/reel_3195_n8n-io-n8n](reels/reel_3195_n8n-io-n8n) |
 | 3196 | 2025-12-30 17:54:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142381⭐ Python) | [reels/reel_3196_langflow-ai-langflow](reels/reel_3196_langflow-ai-langflow) |
+| 3197 | 2025-12-30 18:29:02 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123038⭐ Python) | [reels/reel_3197_langchain-ai-langchain](reels/reel_3197_langchain-ai-langchain) |
