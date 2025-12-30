@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3182 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-30 |
+| #3183 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3248,3 +3248,4 @@ Or let GitHub Action run it automatically.
 | 3180 | 2025-12-30 10:47:18 | [snappdevelopment/JsonTree](https://github.com/snappdevelopment/JsonTree) | ✅ full (108⭐ Kotlin) | [reels/reel_3180_snappdevelopment-JsonTree](reels/reel_3180_snappdevelopment-JsonTree) |
 | 3181 | 2025-12-30 11:17:54 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119279⭐ Svelte) | [reels/reel_3181_open-webui-open-webui](reels/reel_3181_open-webui-open-webui) |
 | 3182 | 2025-12-30 11:40:06 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139980⭐ Python) | [reels/reel_3182_yt-dlp-yt-dlp](reels/reel_3182_yt-dlp-yt-dlp) |
+| 3183 | 2025-12-30 11:50:53 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100580⭐ Rust) | [reels/reel_3183_tauri-apps-tauri](reels/reel_3183_tauri-apps-tauri) |
