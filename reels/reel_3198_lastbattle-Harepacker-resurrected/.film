@@ -1,0 +1,24 @@
+{
+  "reel_number": 3198,
+  "recorded": "2025-12-30 18:55:02 UTC",
+  "repository": {
+    "full_name": "lastbattle/Harepacker-resurrected",
+    "url": "https://github.com/lastbattle/Harepacker-resurrected",
+    "clone_url": "https://github.com/lastbattle/Harepacker-resurrected.git",
+    "stars": 521,
+    "language": "C#",
+    "size_kb": 43013
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 2.190136
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 521 stars."
+  }
+}
