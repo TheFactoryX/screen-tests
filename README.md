@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3210 | [STMicroelectronics/STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5) | C · ⭐ 159 | 2025-12-30 |
+| #3211 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | TypeScript · ⭐ 159 | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3276,3 +3276,4 @@ Or let GitHub Action run it automatically.
 | 3208 | 2025-12-30 22:18:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140034⭐ Python) | [reels/reel_3208_yt-dlp-yt-dlp](reels/reel_3208_yt-dlp-yt-dlp) |
 | 3209 | 2025-12-30 22:43:48 | [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) | ✅ full (769⭐ Swift) | [reels/reel_3209_paulgessinger-swift-paperless](reels/reel_3209_paulgessinger-swift-paperless) |
 | 3210 | 2025-12-30 22:53:53 | [STMicroelectronics/STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5) | ✅ shallow (159⭐ C) | [reels/reel_3210_STMicroelectronics-STM32CubeU5](reels/reel_3210_STMicroelectronics-STM32CubeU5) |
+| 3211 | 2025-12-30 23:17:48 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | ✅ full (159⭐ TypeScript) | [reels/reel_3211_khoj-ai-openpaper](reels/reel_3211_khoj-ai-openpaper) |
