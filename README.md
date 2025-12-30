@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3211 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | TypeScript · ⭐ 159 | 2025-12-30 |
+| #3212 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3277,3 +3277,4 @@ Or let GitHub Action run it automatically.
 | 3209 | 2025-12-30 22:43:48 | [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) | ✅ full (769⭐ Swift) | [reels/reel_3209_paulgessinger-swift-paperless](reels/reel_3209_paulgessinger-swift-paperless) |
 | 3210 | 2025-12-30 22:53:53 | [STMicroelectronics/STM32CubeU5](https://github.com/STMicroelectronics/STM32CubeU5) | ✅ shallow (159⭐ C) | [reels/reel_3210_STMicroelectronics-STM32CubeU5](reels/reel_3210_STMicroelectronics-STM32CubeU5) |
 | 3211 | 2025-12-30 23:17:48 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | ✅ full (159⭐ TypeScript) | [reels/reel_3211_khoj-ai-openpaper](reels/reel_3211_khoj-ai-openpaper) |
+| 3212 | 2025-12-30 23:39:42 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103461⭐ None) | [reels/reel_3212_Hack-with-Github-Awesome-Hacking](reels/reel_3212_Hack-with-Github-Awesome-Hacking) |
