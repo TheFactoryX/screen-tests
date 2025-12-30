@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3191 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-30 |
+| #3192 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3257,3 +3257,4 @@ Or let GitHub Action run it automatically.
 | 3189 | 2025-12-30 15:20:41 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180661⭐ Python) | [reels/reel_3189_Significant-Gravitas-AutoGPT](reels/reel_3189_Significant-Gravitas-AutoGPT) |
 | 3190 | 2025-12-30 15:43:58 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388621⭐ Python) | [reels/reel_3190_public-apis-public-apis](reels/reel_3190_public-apis-public-apis) |
 | 3191 | 2025-12-30 15:55:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119298⭐ Svelte) | [reels/reel_3191_open-webui-open-webui](reels/reel_3191_open-webui-open-webui) |
+| 3192 | 2025-12-30 16:27:50 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101546⭐ Shell) | [reels/reel_3192_papers-we-love-papers-we-love](reels/reel_3192_papers-we-love-papers-we-love) |
