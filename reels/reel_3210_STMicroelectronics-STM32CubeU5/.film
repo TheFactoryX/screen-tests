@@ -1,0 +1,24 @@
+{
+  "reel_number": 3210,
+  "recorded": "2025-12-30 22:53:53 UTC",
+  "repository": {
+    "full_name": "STMicroelectronics/STM32CubeU5",
+    "url": "https://github.com/STMicroelectronics/STM32CubeU5",
+    "clone_url": "https://github.com/STMicroelectronics/STM32CubeU5.git",
+    "stars": 159,
+    "language": "C",
+    "size_kb": 370937
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 362,
+    "duration_seconds": 11.028323
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 159 stars."
+  }
+}
