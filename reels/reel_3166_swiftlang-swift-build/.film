@@ -1,0 +1,24 @@
+{
+  "reel_number": 3166,
+  "recorded": "2025-12-30 03:15:52 UTC",
+  "repository": {
+    "full_name": "swiftlang/swift-build",
+    "url": "https://github.com/swiftlang/swift-build",
+    "clone_url": "https://github.com/swiftlang/swift-build.git",
+    "stars": 2155,
+    "language": "Swift",
+    "size_kb": 11349
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 2.212601
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 2155 stars."
+  }
+}
