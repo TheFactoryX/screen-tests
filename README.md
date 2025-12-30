@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3168 | [codemirror/view](https://github.com/codemirror/view) | TypeScript · ⭐ 166 | 2025-12-30 |
+| #3169 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 139k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3234,3 +3234,4 @@ Or let GitHub Action run it automatically.
 | 3166 | 2025-12-30 03:15:52 | [swiftlang/swift-build](https://github.com/swiftlang/swift-build) | ✅ full (2155⭐ Swift) | [reels/reel_3166_swiftlang-swift-build](reels/reel_3166_swiftlang-swift-build) |
 | 3167 | 2025-12-30 04:12:39 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101519⭐ Shell) | [reels/reel_3167_papers-we-love-papers-we-love](reels/reel_3167_papers-we-love-papers-we-love) |
 | 3168 | 2025-12-30 04:52:47 | [codemirror/view](https://github.com/codemirror/view) | ✅ full (166⭐ TypeScript) | [reels/reel_3168_codemirror-view](reels/reel_3168_codemirror-view) |
+| 3169 | 2025-12-30 05:22:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (139943⭐ Python) | [reels/reel_3169_yt-dlp-yt-dlp](reels/reel_3169_yt-dlp-yt-dlp) |
