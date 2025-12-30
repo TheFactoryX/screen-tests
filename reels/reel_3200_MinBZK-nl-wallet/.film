@@ -1,0 +1,24 @@
+{
+  "reel_number": 3200,
+  "recorded": "2025-12-30 19:37:37 UTC",
+  "repository": {
+    "full_name": "MinBZK/nl-wallet",
+    "url": "https://github.com/MinBZK/nl-wallet",
+    "clone_url": "https://github.com/MinBZK/nl-wallet.git",
+    "stars": 200,
+    "language": "Rust",
+    "size_kb": 299564
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 292,
+    "duration_seconds": 1.803643
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 200 stars."
+  }
+}
