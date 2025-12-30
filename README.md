@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3185 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-30 |
+| #3186 | [purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails) | Rust · ⭐ 429 | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3251,3 +3251,4 @@ Or let GitHub Action run it automatically.
 | 3183 | 2025-12-30 11:50:53 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100580⭐ Rust) | [reels/reel_3183_tauri-apps-tauri](reels/reel_3183_tauri-apps-tauri) |
 | 3184 | 2025-12-30 12:40:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180659⭐ Python) | [reels/reel_3184_Significant-Gravitas-AutoGPT](reels/reel_3184_Significant-Gravitas-AutoGPT) |
 | 3185 | 2025-12-30 13:24:35 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97127⭐ TypeScript) | [reels/reel_3185_ant-design-ant-design](reels/reel_3185_ant-design-ant-design) |
+| 3186 | 2025-12-30 13:52:37 | [purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails) | ✅ full (429⭐ Rust) | [reels/reel_3186_purton-tech-rust-on-nails](reels/reel_3186_purton-tech-rust-on-nails) |
