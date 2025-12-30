@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3172 | [f-droid/fdroiddata](https://github.com/f-droid/fdroiddata) | Python · ⭐ 299 | 2025-12-30 |
+| #3173 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3238,3 +3238,4 @@ Or let GitHub Action run it automatically.
 | 3170 | 2025-12-30 05:46:18 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (165470⭐ TypeScript) | [reels/reel_3170_n8n-io-n8n](reels/reel_3170_n8n-io-n8n) |
 | 3171 | 2025-12-30 06:30:49 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (452944⭐ Markdown) | [reels/reel_3171_codecrafters-io-build-your-own-x](reels/reel_3171_codecrafters-io-build-your-own-x) |
 | 3172 | 2025-12-30 07:00:32 | [f-droid/fdroiddata](https://github.com/f-droid/fdroiddata) | ✅ shallow (299⭐ Python) | [reels/reel_3172_f-droid-fdroiddata](reels/reel_3172_f-droid-fdroiddata) |
+| 3173 | 2025-12-30 07:34:03 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142340⭐ Python) | [reels/reel_3173_langflow-ai-langflow](reels/reel_3173_langflow-ai-langflow) |
