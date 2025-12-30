@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3200 | [MinBZK/nl-wallet](https://github.com/MinBZK/nl-wallet) | Rust · ⭐ 200 | 2025-12-30 |
+| #3201 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-30 |
 ---
 
 ## 🎭 Selection Process
@@ -3266,3 +3266,4 @@ Or let GitHub Action run it automatically.
 | 3198 | 2025-12-30 18:55:02 | [lastbattle/Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) | ✅ full (521⭐ C#) | [reels/reel_3198_lastbattle-Harepacker-resurrected](reels/reel_3198_lastbattle-Harepacker-resurrected) |
 | 3199 | 2025-12-30 19:15:47 | [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) | ✅ full (3444⭐ TypeScript) | [reels/reel_3199_LeekHub-leek-fund](reels/reel_3199_LeekHub-leek-fund) |
 | 3200 | 2025-12-30 19:37:37 | [MinBZK/nl-wallet](https://github.com/MinBZK/nl-wallet) | ✅ shallow (200⭐ Rust) | [reels/reel_3200_MinBZK-nl-wallet](reels/reel_3200_MinBZK-nl-wallet) |
+| 3201 | 2025-12-30 19:50:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180667⭐ Python) | [reels/reel_3201_Significant-Gravitas-AutoGPT](reels/reel_3201_Significant-Gravitas-AutoGPT) |
