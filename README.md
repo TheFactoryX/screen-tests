@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3227 | [datawhalechina/easy-vectordb](https://github.com/datawhalechina/easy-vectordb) | Jupyter Notebook · ⭐ 138 | 2025-12-31 |
+| #3228 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3293,3 +3293,4 @@ Or let GitHub Action run it automatically.
 | 3225 | 2025-12-31 08:53:31 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100618⭐ Rust) | [reels/reel_3225_tauri-apps-tauri](reels/reel_3225_tauri-apps-tauri) |
 | 3226 | 2025-12-31 09:23:15 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142435⭐ Python) | [reels/reel_3226_langflow-ai-langflow](reels/reel_3226_langflow-ai-langflow) |
 | 3227 | 2025-12-31 09:46:06 | [datawhalechina/easy-vectordb](https://github.com/datawhalechina/easy-vectordb) | ✅ shallow (138⭐ Jupyter Notebook) | [reels/reel_3227_datawhalechina-easy-vectordb](reels/reel_3227_datawhalechina-easy-vectordb) |
+| 3228 | 2025-12-31 10:20:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103806⭐ TypeScript) | [reels/reel_3228_shadcn-ui-ui](reels/reel_3228_shadcn-ui-ui) |
