@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3258 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 254k | 2025-12-31 |
+| #3259 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3324,3 +3324,4 @@ Or let GitHub Action run it automatically.
 | 3256 | 2025-12-31 21:17:15 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97134⭐ TypeScript) | [reels/reel_3256_ant-design-ant-design](reels/reel_3256_ant-design-ant-design) |
 | 3257 | 2025-12-31 21:39:16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119396⭐ Svelte) | [reels/reel_3257_open-webui-open-webui](reels/reel_3257_open-webui-open-webui) |
 | 3258 | 2025-12-31 21:50:13 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254092⭐ None) | [reels/reel_3258_practical-tutorials-project-based-learning](reels/reel_3258_practical-tutorials-project-based-learning) |
+| 3259 | 2025-12-31 22:19:09 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100911⭐ Python) | [reels/reel_3259_deepseek-ai-DeepSeek-V3](reels/reel_3259_deepseek-ai-DeepSeek-V3) |
