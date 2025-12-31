@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3216 | [elementary/files](https://github.com/elementary/files) | Vala · ⭐ 349 | 2025-12-31 |
+| #3217 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 254k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3282,3 +3282,4 @@ Or let GitHub Action run it automatically.
 | 3214 | 2025-12-31 01:28:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123051⭐ Python) | [reels/reel_3214_langchain-ai-langchain](reels/reel_3214_langchain-ai-langchain) |
 | 3215 | 2025-12-31 03:15:38 | [adamlui/userscripts](https://github.com/adamlui/userscripts) | ✅ shallow (322⭐ JavaScript) | [reels/reel_3215_adamlui-userscripts](reels/reel_3215_adamlui-userscripts) |
 | 3216 | 2025-12-31 04:11:54 | [elementary/files](https://github.com/elementary/files) | ✅ shallow (349⭐ Vala) | [reels/reel_3216_elementary-files](reels/reel_3216_elementary-files) |
+| 3217 | 2025-12-31 04:51:40 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254036⭐ None) | [reels/reel_3217_practical-tutorials-project-based-learning](reels/reel_3217_practical-tutorials-project-based-learning) |
