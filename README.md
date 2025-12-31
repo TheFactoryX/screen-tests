@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3241 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2025-12-31 |
+| #3242 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3307,3 +3307,4 @@ Or let GitHub Action run it automatically.
 | 3239 | 2025-12-31 15:19:34 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453237⭐ Markdown) | [reels/reel_3239_codecrafters-io-build-your-own-x](reels/reel_3239_codecrafters-io-build-your-own-x) |
 | 3240 | 2025-12-31 15:41:50 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254077⭐ None) | [reels/reel_3240_practical-tutorials-project-based-learning](reels/reel_3240_practical-tutorials-project-based-learning) |
 | 3241 | 2025-12-31 15:52:28 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142477⭐ Python) | [reels/reel_3241_langflow-ai-langflow](reels/reel_3241_langflow-ai-langflow) |
+| 3242 | 2025-12-31 16:23:57 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97133⭐ TypeScript) | [reels/reel_3242_ant-design-ant-design](reels/reel_3242_ant-design-ant-design) |
