@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3259 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-31 |
+| #3260 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3325,3 +3325,4 @@ Or let GitHub Action run it automatically.
 | 3257 | 2025-12-31 21:39:16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119396⭐ Svelte) | [reels/reel_3257_open-webui-open-webui](reels/reel_3257_open-webui-open-webui) |
 | 3258 | 2025-12-31 21:50:13 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254092⭐ None) | [reels/reel_3258_practical-tutorials-project-based-learning](reels/reel_3258_practical-tutorials-project-based-learning) |
 | 3259 | 2025-12-31 22:19:09 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100911⭐ Python) | [reels/reel_3259_deepseek-ai-DeepSeek-V3](reels/reel_3259_deepseek-ai-DeepSeek-V3) |
+| 3260 | 2025-12-31 22:43:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180721⭐ Python) | [reels/reel_3260_Significant-Gravitas-AutoGPT](reels/reel_3260_Significant-Gravitas-AutoGPT) |
