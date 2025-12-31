@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3214 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2025-12-31 |
+| #3215 | [adamlui/userscripts](https://github.com/adamlui/userscripts) | JavaScript · ⭐ 322 | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3280,3 +3280,4 @@ Or let GitHub Action run it automatically.
 | 3212 | 2025-12-30 23:39:42 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103461⭐ None) | [reels/reel_3212_Hack-with-Github-Awesome-Hacking](reels/reel_3212_Hack-with-Github-Awesome-Hacking) |
 | 3213 | 2025-12-30 23:50:32 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180671⭐ Python) | [reels/reel_3213_Significant-Gravitas-AutoGPT](reels/reel_3213_Significant-Gravitas-AutoGPT) |
 | 3214 | 2025-12-31 01:28:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123051⭐ Python) | [reels/reel_3214_langchain-ai-langchain](reels/reel_3214_langchain-ai-langchain) |
+| 3215 | 2025-12-31 03:15:38 | [adamlui/userscripts](https://github.com/adamlui/userscripts) | ✅ shallow (322⭐ JavaScript) | [reels/reel_3215_adamlui-userscripts](reels/reel_3215_adamlui-userscripts) |
