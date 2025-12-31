@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3250 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 388k | 2025-12-31 |
+| #3251 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 101k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3316,3 +3316,4 @@ Or let GitHub Action run it automatically.
 | 3248 | 2025-12-31 18:52:41 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453265⭐ Markdown) | [reels/reel_3248_codecrafters-io-build-your-own-x](reels/reel_3248_codecrafters-io-build-your-own-x) |
 | 3249 | 2025-12-31 19:14:39 | [eduardogsilva/wireguard_webadmin](https://github.com/eduardogsilva/wireguard_webadmin) | ✅ full (238⭐ JavaScript) | [reels/reel_3249_eduardogsilva-wireguard_webadmin](reels/reel_3249_eduardogsilva-wireguard_webadmin) |
 | 3250 | 2025-12-31 19:29:23 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388805⭐ Python) | [reels/reel_3250_public-apis-public-apis](reels/reel_3250_public-apis-public-apis) |
+| 3251 | 2025-12-31 19:42:05 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101577⭐ Shell) | [reels/reel_3251_papers-we-love-papers-we-love](reels/reel_3251_papers-we-love-papers-we-love) |
