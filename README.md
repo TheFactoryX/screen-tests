@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3247 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2025-12-31 |
+| #3248 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 453k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3313,3 +3313,4 @@ Or let GitHub Action run it automatically.
 | 3245 | 2025-12-31 17:40:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180720⭐ Python) | [reels/reel_3245_Significant-Gravitas-AutoGPT](reels/reel_3245_Significant-Gravitas-AutoGPT) |
 | 3246 | 2025-12-31 17:50:27 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180720⭐ Python) | [reels/reel_3246_Significant-Gravitas-AutoGPT](reels/reel_3246_Significant-Gravitas-AutoGPT) |
 | 3247 | 2025-12-31 18:27:54 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100912⭐ Python) | [reels/reel_3247_deepseek-ai-DeepSeek-V3](reels/reel_3247_deepseek-ai-DeepSeek-V3) |
+| 3248 | 2025-12-31 18:52:41 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453265⭐ Markdown) | [reels/reel_3248_codecrafters-io-build-your-own-x](reels/reel_3248_codecrafters-io-build-your-own-x) |
