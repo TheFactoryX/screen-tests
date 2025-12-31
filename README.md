@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3215 | [adamlui/userscripts](https://github.com/adamlui/userscripts) | JavaScript · ⭐ 322 | 2025-12-31 |
+| #3216 | [elementary/files](https://github.com/elementary/files) | Vala · ⭐ 349 | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3281,3 +3281,4 @@ Or let GitHub Action run it automatically.
 | 3213 | 2025-12-30 23:50:32 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180671⭐ Python) | [reels/reel_3213_Significant-Gravitas-AutoGPT](reels/reel_3213_Significant-Gravitas-AutoGPT) |
 | 3214 | 2025-12-31 01:28:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123051⭐ Python) | [reels/reel_3214_langchain-ai-langchain](reels/reel_3214_langchain-ai-langchain) |
 | 3215 | 2025-12-31 03:15:38 | [adamlui/userscripts](https://github.com/adamlui/userscripts) | ✅ shallow (322⭐ JavaScript) | [reels/reel_3215_adamlui-userscripts](reels/reel_3215_adamlui-userscripts) |
+| 3216 | 2025-12-31 04:11:54 | [elementary/files](https://github.com/elementary/files) | ✅ shallow (349⭐ Vala) | [reels/reel_3216_elementary-files](reels/reel_3216_elementary-files) |

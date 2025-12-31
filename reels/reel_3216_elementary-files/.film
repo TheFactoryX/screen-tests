@@ -1,0 +1,24 @@
+{
+  "reel_number": 3216,
+  "recorded": "2025-12-31 04:11:54 UTC",
+  "repository": {
+    "full_name": "elementary/files",
+    "url": "https://github.com/elementary/files",
+    "clone_url": "https://github.com/elementary/files.git",
+    "stars": 349,
+    "language": "Vala",
+    "size_kb": 207901
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 203,
+    "duration_seconds": 1.116069
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vala",
+    "director_note": "A Vala repository. 349 stars."
+  }
+}
