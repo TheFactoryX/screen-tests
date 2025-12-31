@@ -1,0 +1,24 @@
+{
+  "reel_number": 3222,
+  "recorded": "2025-12-31 07:33:59 UTC",
+  "repository": {
+    "full_name": "thomino/expo-playground",
+    "url": "https://github.com/thomino/expo-playground",
+    "clone_url": "https://github.com/thomino/expo-playground.git",
+    "stars": 191,
+    "language": "TypeScript",
+    "size_kb": 5430
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.431286
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 191 stars."
+  }
+}
