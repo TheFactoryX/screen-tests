@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3244 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2025-12-31 |
+| #3245 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3310,3 +3310,4 @@ Or let GitHub Action run it automatically.
 | 3242 | 2025-12-31 16:23:57 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97133⭐ TypeScript) | [reels/reel_3242_ant-design-ant-design](reels/reel_3242_ant-design-ant-design) |
 | 3243 | 2025-12-31 16:48:29 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140143⭐ Python) | [reels/reel_3243_yt-dlp-yt-dlp](reels/reel_3243_yt-dlp-yt-dlp) |
 | 3244 | 2025-12-31 17:17:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103496⭐ None) | [reels/reel_3244_Hack-with-Github-Awesome-Hacking](reels/reel_3244_Hack-with-Github-Awesome-Hacking) |
+| 3245 | 2025-12-31 17:40:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180720⭐ Python) | [reels/reel_3245_Significant-Gravitas-AutoGPT](reels/reel_3245_Significant-Gravitas-AutoGPT) |
