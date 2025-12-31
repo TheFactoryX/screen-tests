@@ -1,0 +1,24 @@
+{
+  "reel_number": 3236,
+  "recorded": "2025-12-31 14:18:39 UTC",
+  "repository": {
+    "full_name": "inokawa/remark-docx",
+    "url": "https://github.com/inokawa/remark-docx",
+    "clone_url": "https://github.com/inokawa/remark-docx.git",
+    "stars": 106,
+    "language": "TypeScript",
+    "size_kb": 35961
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 2.51061
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 106 stars."
+  }
+}
