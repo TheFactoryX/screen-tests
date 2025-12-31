@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3231 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-31 |
+| #3232 | [freqtrade/frequi](https://github.com/freqtrade/frequi) | Vue · ⭐ 897 | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3297,3 +3297,4 @@ Or let GitHub Action run it automatically.
 | 3229 | 2025-12-31 10:45:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119362⭐ Svelte) | [reels/reel_3229_open-webui-open-webui](reels/reel_3229_open-webui-open-webui) |
 | 3230 | 2025-12-31 11:17:45 | [ivankra/javascript-zoo](https://github.com/ivankra/javascript-zoo) | ✅ full (152⭐ JavaScript) | [reels/reel_3230_ivankra-javascript-zoo](reels/reel_3230_ivankra-javascript-zoo) |
 | 3231 | 2025-12-31 11:38:58 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100622⭐ Rust) | [reels/reel_3231_tauri-apps-tauri](reels/reel_3231_tauri-apps-tauri) |
+| 3232 | 2025-12-31 11:50:18 | [freqtrade/frequi](https://github.com/freqtrade/frequi) | ✅ full (897⭐ Vue) | [reels/reel_3232_freqtrade-frequi](reels/reel_3232_freqtrade-frequi) |
