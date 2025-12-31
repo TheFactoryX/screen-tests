@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3213 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-30 |
+| #3214 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3279,3 +3279,4 @@ Or let GitHub Action run it automatically.
 | 3211 | 2025-12-30 23:17:48 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | ✅ full (159⭐ TypeScript) | [reels/reel_3211_khoj-ai-openpaper](reels/reel_3211_khoj-ai-openpaper) |
 | 3212 | 2025-12-30 23:39:42 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103461⭐ None) | [reels/reel_3212_Hack-with-Github-Awesome-Hacking](reels/reel_3212_Hack-with-Github-Awesome-Hacking) |
 | 3213 | 2025-12-30 23:50:32 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180671⭐ Python) | [reels/reel_3213_Significant-Gravitas-AutoGPT](reels/reel_3213_Significant-Gravitas-AutoGPT) |
+| 3214 | 2025-12-31 01:28:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123051⭐ Python) | [reels/reel_3214_langchain-ai-langchain](reels/reel_3214_langchain-ai-langchain) |
