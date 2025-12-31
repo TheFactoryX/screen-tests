@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3252 | [MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) | None · ⭐ 285 | 2025-12-31 |
+| #3253 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3318,3 +3318,4 @@ Or let GitHub Action run it automatically.
 | 3250 | 2025-12-31 19:29:23 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (388805⭐ Python) | [reels/reel_3250_public-apis-public-apis](reels/reel_3250_public-apis-public-apis) |
 | 3251 | 2025-12-31 19:42:05 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101577⭐ Shell) | [reels/reel_3251_papers-we-love-papers-we-love](reels/reel_3251_papers-we-love-papers-we-love) |
 | 3252 | 2025-12-31 19:52:03 | [MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) | ✅ full (285⭐ None) | [reels/reel_3252_MicrosoftLearning-PL-900-Microsoft-Power-Platform-Fundamentals](reels/reel_3252_MicrosoftLearning-PL-900-Microsoft-Power-Platform-Fundamentals) |
+| 3253 | 2025-12-31 20:20:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107957⭐ TypeScript) | [reels/reel_3253_iptv-org-iptv](reels/reel_3253_iptv-org-iptv) |
