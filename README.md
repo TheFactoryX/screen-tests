@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3220 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-31 |
+| #3221 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3286,3 +3286,4 @@ Or let GitHub Action run it automatically.
 | 3218 | 2025-12-31 05:23:33 | [nyabla/silly.city-webring](https://github.com/nyabla/silly.city-webring) | ✅ full (14⭐ HTML) | [reels/reel_3218_nyabla-silly.city-webring](reels/reel_3218_nyabla-silly.city-webring) |
 | 3219 | 2025-12-31 05:48:02 | [funky-station/funky-station](https://github.com/funky-station/funky-station) | ✅ readme_only (67⭐ C#) | [reels/reel_3219_funky-station-funky-station](reels/reel_3219_funky-station-funky-station) |
 | 3220 | 2025-12-31 06:31:11 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100611⭐ Rust) | [reels/reel_3220_tauri-apps-tauri](reels/reel_3220_tauri-apps-tauri) |
+| 3221 | 2025-12-31 07:00:27 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97134⭐ TypeScript) | [reels/reel_3221_ant-design-ant-design](reels/reel_3221_ant-design-ant-design) |
