@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3260 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-31 |
+| #3261 | [rust-lang-nursery/rust-toolstate](https://github.com/rust-lang-nursery/rust-toolstate) | SCSS · ⭐ 101 | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3326,3 +3326,4 @@ Or let GitHub Action run it automatically.
 | 3258 | 2025-12-31 21:50:13 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254092⭐ None) | [reels/reel_3258_practical-tutorials-project-based-learning](reels/reel_3258_practical-tutorials-project-based-learning) |
 | 3259 | 2025-12-31 22:19:09 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100911⭐ Python) | [reels/reel_3259_deepseek-ai-DeepSeek-V3](reels/reel_3259_deepseek-ai-DeepSeek-V3) |
 | 3260 | 2025-12-31 22:43:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180721⭐ Python) | [reels/reel_3260_Significant-Gravitas-AutoGPT](reels/reel_3260_Significant-Gravitas-AutoGPT) |
+| 3261 | 2025-12-31 22:54:03 | [rust-lang-nursery/rust-toolstate](https://github.com/rust-lang-nursery/rust-toolstate) | ✅ readme_only (101⭐ SCSS) | [reels/reel_3261_rust-lang-nursery-rust-toolstate](reels/reel_3261_rust-lang-nursery-rust-toolstate) |
