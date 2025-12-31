@@ -1,0 +1,24 @@
+{
+  "reel_number": 3227,
+  "recorded": "2025-12-31 09:46:06 UTC",
+  "repository": {
+    "full_name": "datawhalechina/easy-vectordb",
+    "url": "https://github.com/datawhalechina/easy-vectordb",
+    "clone_url": "https://github.com/datawhalechina/easy-vectordb.git",
+    "stars": 138,
+    "language": "Jupyter Notebook",
+    "size_kb": 164884
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 161,
+    "duration_seconds": 1.813613
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 138 stars."
+  }
+}
