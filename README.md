@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3236 | [inokawa/remark-docx](https://github.com/inokawa/remark-docx) | TypeScript · ⭐ 106 | 2025-12-31 |
+| #3237 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3302,3 +3302,4 @@ Or let GitHub Action run it automatically.
 | 3234 | 2025-12-31 13:21:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180704⭐ Python) | [reels/reel_3234_Significant-Gravitas-AutoGPT](reels/reel_3234_Significant-Gravitas-AutoGPT) |
 | 3235 | 2025-12-31 13:49:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140113⭐ Python) | [reels/reel_3235_yt-dlp-yt-dlp](reels/reel_3235_yt-dlp-yt-dlp) |
 | 3236 | 2025-12-31 14:18:39 | [inokawa/remark-docx](https://github.com/inokawa/remark-docx) | ✅ full (106⭐ TypeScript) | [reels/reel_3236_inokawa-remark-docx](reels/reel_3236_inokawa-remark-docx) |
+| 3237 | 2025-12-31 14:44:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140129⭐ Python) | [reels/reel_3237_yt-dlp-yt-dlp](reels/reel_3237_yt-dlp-yt-dlp) |
