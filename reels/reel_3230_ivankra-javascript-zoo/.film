@@ -1,0 +1,24 @@
+{
+  "reel_number": 3230,
+  "recorded": "2025-12-31 11:17:45 UTC",
+  "repository": {
+    "full_name": "ivankra/javascript-zoo",
+    "url": "https://github.com/ivankra/javascript-zoo",
+    "clone_url": "https://github.com/ivankra/javascript-zoo.git",
+    "stars": 152,
+    "language": "JavaScript",
+    "size_kb": 8517
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.499853
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 152 stars."
+  }
+}

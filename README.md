@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3229 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2025-12-31 |
+| #3230 | [ivankra/javascript-zoo](https://github.com/ivankra/javascript-zoo) | JavaScript · ⭐ 152 | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3295,3 +3295,4 @@ Or let GitHub Action run it automatically.
 | 3227 | 2025-12-31 09:46:06 | [datawhalechina/easy-vectordb](https://github.com/datawhalechina/easy-vectordb) | ✅ shallow (138⭐ Jupyter Notebook) | [reels/reel_3227_datawhalechina-easy-vectordb](reels/reel_3227_datawhalechina-easy-vectordb) |
 | 3228 | 2025-12-31 10:20:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103806⭐ TypeScript) | [reels/reel_3228_shadcn-ui-ui](reels/reel_3228_shadcn-ui-ui) |
 | 3229 | 2025-12-31 10:45:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119362⭐ Svelte) | [reels/reel_3229_open-webui-open-webui](reels/reel_3229_open-webui-open-webui) |
+| 3230 | 2025-12-31 11:17:45 | [ivankra/javascript-zoo](https://github.com/ivankra/javascript-zoo) | ✅ full (152⭐ JavaScript) | [reels/reel_3230_ivankra-javascript-zoo](reels/reel_3230_ivankra-javascript-zoo) |
