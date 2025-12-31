@@ -1,0 +1,24 @@
+{
+  "reel_number": 3219,
+  "recorded": "2025-12-31 05:48:02 UTC",
+  "repository": {
+    "full_name": "funky-station/funky-station",
+    "url": "https://github.com/funky-station/funky-station",
+    "clone_url": "https://github.com/funky-station/funky-station.git",
+    "stars": 67,
+    "language": "C#",
+    "size_kb": 1424185
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 1390,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 67 stars."
+  }
+}

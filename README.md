@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3218 | [nyabla/silly.city-webring](https://github.com/nyabla/silly.city-webring) | HTML · ⭐ 14 | 2025-12-31 |
+| #3219 | [funky-station/funky-station](https://github.com/funky-station/funky-station) | C# · ⭐ 67 | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3284,3 +3284,4 @@ Or let GitHub Action run it automatically.
 | 3216 | 2025-12-31 04:11:54 | [elementary/files](https://github.com/elementary/files) | ✅ shallow (349⭐ Vala) | [reels/reel_3216_elementary-files](reels/reel_3216_elementary-files) |
 | 3217 | 2025-12-31 04:51:40 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254036⭐ None) | [reels/reel_3217_practical-tutorials-project-based-learning](reels/reel_3217_practical-tutorials-project-based-learning) |
 | 3218 | 2025-12-31 05:23:33 | [nyabla/silly.city-webring](https://github.com/nyabla/silly.city-webring) | ✅ full (14⭐ HTML) | [reels/reel_3218_nyabla-silly.city-webring](reels/reel_3218_nyabla-silly.city-webring) |
+| 3219 | 2025-12-31 05:48:02 | [funky-station/funky-station](https://github.com/funky-station/funky-station) | ✅ readme_only (67⭐ C#) | [reels/reel_3219_funky-station-funky-station](reels/reel_3219_funky-station-funky-station) |
