@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3254 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-31 |
+| #3255 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | None · ⭐ 192 | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3320,3 +3320,4 @@ Or let GitHub Action run it automatically.
 | 3252 | 2025-12-31 19:52:03 | [MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) | ✅ full (285⭐ None) | [reels/reel_3252_MicrosoftLearning-PL-900-Microsoft-Power-Platform-Fundamentals](reels/reel_3252_MicrosoftLearning-PL-900-Microsoft-Power-Platform-Fundamentals) |
 | 3253 | 2025-12-31 20:20:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107957⭐ TypeScript) | [reels/reel_3253_iptv-org-iptv](reels/reel_3253_iptv-org-iptv) |
 | 3254 | 2025-12-31 20:43:14 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108984⭐ Rust) | [reels/reel_3254_rust-lang-rust](reels/reel_3254_rust-lang-rust) |
+| 3255 | 2025-12-31 20:54:06 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (192⭐ None) | [reels/reel_3255_mytv-android-China-TV-Live-M3U8](reels/reel_3255_mytv-android-China-TV-Live-M3U8) |
