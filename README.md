@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3237 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2025-12-31 |
+| #3238 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3303,3 +3303,4 @@ Or let GitHub Action run it automatically.
 | 3235 | 2025-12-31 13:49:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140113⭐ Python) | [reels/reel_3235_yt-dlp-yt-dlp](reels/reel_3235_yt-dlp-yt-dlp) |
 | 3236 | 2025-12-31 14:18:39 | [inokawa/remark-docx](https://github.com/inokawa/remark-docx) | ✅ full (106⭐ TypeScript) | [reels/reel_3236_inokawa-remark-docx](reels/reel_3236_inokawa-remark-docx) |
 | 3237 | 2025-12-31 14:44:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140129⭐ Python) | [reels/reel_3237_yt-dlp-yt-dlp](reels/reel_3237_yt-dlp-yt-dlp) |
+| 3238 | 2025-12-31 14:54:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100624⭐ Rust) | [reels/reel_3238_tauri-apps-tauri](reels/reel_3238_tauri-apps-tauri) |
