@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3240 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 254k | 2025-12-31 |
+| #3241 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3306,3 +3306,4 @@ Or let GitHub Action run it automatically.
 | 3238 | 2025-12-31 14:54:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100624⭐ Rust) | [reels/reel_3238_tauri-apps-tauri](reels/reel_3238_tauri-apps-tauri) |
 | 3239 | 2025-12-31 15:19:34 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453237⭐ Markdown) | [reels/reel_3239_codecrafters-io-build-your-own-x](reels/reel_3239_codecrafters-io-build-your-own-x) |
 | 3240 | 2025-12-31 15:41:50 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254077⭐ None) | [reels/reel_3240_practical-tutorials-project-based-learning](reels/reel_3240_practical-tutorials-project-based-learning) |
+| 3241 | 2025-12-31 15:52:28 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142477⭐ Python) | [reels/reel_3241_langflow-ai-langflow](reels/reel_3241_langflow-ai-langflow) |
