@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3224 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2025-12-31 |
+| #3225 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3290,3 +3290,4 @@ Or let GitHub Action run it automatically.
 | 3222 | 2025-12-31 07:33:59 | [thomino/expo-playground](https://github.com/thomino/expo-playground) | ✅ full (191⭐ TypeScript) | [reels/reel_3222_thomino-expo-playground](reels/reel_3222_thomino-expo-playground) |
 | 3223 | 2025-12-31 07:51:28 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107790⭐ TypeScript) | [reels/reel_3223_iptv-org-iptv](reels/reel_3223_iptv-org-iptv) |
 | 3224 | 2025-12-31 08:27:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140084⭐ Python) | [reels/reel_3224_yt-dlp-yt-dlp](reels/reel_3224_yt-dlp-yt-dlp) |
+| 3225 | 2025-12-31 08:53:31 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100618⭐ Rust) | [reels/reel_3225_tauri-apps-tauri](reels/reel_3225_tauri-apps-tauri) |
