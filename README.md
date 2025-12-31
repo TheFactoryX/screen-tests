@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3222 | [thomino/expo-playground](https://github.com/thomino/expo-playground) | TypeScript · ⭐ 191 | 2025-12-31 |
+| #3223 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3288,3 +3288,4 @@ Or let GitHub Action run it automatically.
 | 3220 | 2025-12-31 06:31:11 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100611⭐ Rust) | [reels/reel_3220_tauri-apps-tauri](reels/reel_3220_tauri-apps-tauri) |
 | 3221 | 2025-12-31 07:00:27 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97134⭐ TypeScript) | [reels/reel_3221_ant-design-ant-design](reels/reel_3221_ant-design-ant-design) |
 | 3222 | 2025-12-31 07:33:59 | [thomino/expo-playground](https://github.com/thomino/expo-playground) | ✅ full (191⭐ TypeScript) | [reels/reel_3222_thomino-expo-playground](reels/reel_3222_thomino-expo-playground) |
+| 3223 | 2025-12-31 07:51:28 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107790⭐ TypeScript) | [reels/reel_3223_iptv-org-iptv](reels/reel_3223_iptv-org-iptv) |
