@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3233 | [drb-ra/C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds) | REXX · ⭐ 660 | 2025-12-31 |
+| #3234 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3299,3 +3299,4 @@ Or let GitHub Action run it automatically.
 | 3231 | 2025-12-31 11:38:58 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100622⭐ Rust) | [reels/reel_3231_tauri-apps-tauri](reels/reel_3231_tauri-apps-tauri) |
 | 3232 | 2025-12-31 11:50:18 | [freqtrade/frequi](https://github.com/freqtrade/frequi) | ✅ full (897⭐ Vue) | [reels/reel_3232_freqtrade-frequi](reels/reel_3232_freqtrade-frequi) |
 | 3233 | 2025-12-31 12:39:38 | [drb-ra/C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds) | ✅ readme_only (660⭐ REXX) | [reels/reel_3233_drb-ra-C2IntelFeeds](reels/reel_3233_drb-ra-C2IntelFeeds) |
+| 3234 | 2025-12-31 13:21:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180704⭐ Python) | [reels/reel_3234_Significant-Gravitas-AutoGPT](reels/reel_3234_Significant-Gravitas-AutoGPT) |
