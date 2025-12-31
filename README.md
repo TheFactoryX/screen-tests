@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3253 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 107k | 2025-12-31 |
+| #3254 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2025-12-31 |
 ---
 
 ## 🎭 Selection Process
@@ -3319,3 +3319,4 @@ Or let GitHub Action run it automatically.
 | 3251 | 2025-12-31 19:42:05 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (101577⭐ Shell) | [reels/reel_3251_papers-we-love-papers-we-love](reels/reel_3251_papers-we-love-papers-we-love) |
 | 3252 | 2025-12-31 19:52:03 | [MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) | ✅ full (285⭐ None) | [reels/reel_3252_MicrosoftLearning-PL-900-Microsoft-Power-Platform-Fundamentals](reels/reel_3252_MicrosoftLearning-PL-900-Microsoft-Power-Platform-Fundamentals) |
 | 3253 | 2025-12-31 20:20:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (107957⭐ TypeScript) | [reels/reel_3253_iptv-org-iptv](reels/reel_3253_iptv-org-iptv) |
+| 3254 | 2025-12-31 20:43:14 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108984⭐ Rust) | [reels/reel_3254_rust-lang-rust](reels/reel_3254_rust-lang-rust) |
