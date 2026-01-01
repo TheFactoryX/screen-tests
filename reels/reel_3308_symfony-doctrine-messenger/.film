@@ -1,0 +1,24 @@
+{
+  "reel_number": 3308,
+  "recorded": "2026-01-01 22:18:47 UTC",
+  "repository": {
+    "full_name": "symfony/doctrine-messenger",
+    "url": "https://github.com/symfony/doctrine-messenger",
+    "clone_url": "https://github.com/symfony/doctrine-messenger.git",
+    "stars": 525,
+    "language": "PHP",
+    "size_kb": 433
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.570699
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 525 stars."
+  }
+}
