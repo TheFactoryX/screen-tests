@@ -1,0 +1,24 @@
+{
+  "reel_number": 3313,
+  "recorded": "2026-01-01 23:51:36 UTC",
+  "repository": {
+    "full_name": "mkshare3/mkshare3.github.io",
+    "url": "https://github.com/mkshare3/mkshare3.github.io",
+    "clone_url": "https://github.com/mkshare3/mkshare3.github.io.git",
+    "stars": 178,
+    "language": null,
+    "size_kb": 1384
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.855072
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 178 stars."
+  }
+}
