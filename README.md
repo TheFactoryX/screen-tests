@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3297 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-01 |
+| #3298 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3363,3 +3363,4 @@ Or let GitHub Action run it automatically.
 | 3295 | 2026-01-01 17:42:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119432⭐ Svelte) | [reels/reel_3295_open-webui-open-webui](reels/reel_3295_open-webui-open-webui) |
 | 3296 | 2026-01-01 17:52:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142544⭐ Python) | [reels/reel_3296_langflow-ai-langflow](reels/reel_3296_langflow-ai-langflow) |
 | 3297 | 2026-01-01 18:28:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140239⭐ Python) | [reels/reel_3297_yt-dlp-yt-dlp](reels/reel_3297_yt-dlp-yt-dlp) |
+| 3298 | 2026-01-01 18:53:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109010⭐ Rust) | [reels/reel_3298_rust-lang-rust](reels/reel_3298_rust-lang-rust) |
