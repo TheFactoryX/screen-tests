@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3278 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-01 |
+| #3279 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 265k | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3344,3 +3344,4 @@ Or let GitHub Action run it automatically.
 | 3276 | 2026-01-01 09:23:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265939⭐ None) | [reels/reel_3276_awesome-selfhosted-awesome-selfhosted](reels/reel_3276_awesome-selfhosted-awesome-selfhosted) |
 | 3277 | 2026-01-01 09:45:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142523⭐ Python) | [reels/reel_3277_langflow-ai-langflow](reels/reel_3277_langflow-ai-langflow) |
 | 3278 | 2026-01-01 10:21:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142526⭐ Python) | [reels/reel_3278_langflow-ai-langflow](reels/reel_3278_langflow-ai-langflow) |
+| 3279 | 2026-01-01 10:46:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265945⭐ None) | [reels/reel_3279_awesome-selfhosted-awesome-selfhosted](reels/reel_3279_awesome-selfhosted-awesome-selfhosted) |
