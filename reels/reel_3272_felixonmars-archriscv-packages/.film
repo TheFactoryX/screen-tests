@@ -1,0 +1,24 @@
+{
+  "reel_number": 3272,
+  "recorded": "2026-01-01 07:33:51 UTC",
+  "repository": {
+    "full_name": "felixonmars/archriscv-packages",
+    "url": "https://github.com/felixonmars/archriscv-packages",
+    "clone_url": "https://github.com/felixonmars/archriscv-packages.git",
+    "stars": 255,
+    "language": "C",
+    "size_kb": 11724
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 1.496951
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 255 stars."
+  }
+}
