@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3300 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-01 |
+| #3301 | [srcimon/screwbox](https://github.com/srcimon/screwbox) | Java · ⭐ 14 | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3366,3 +3366,4 @@ Or let GitHub Action run it automatically.
 | 3298 | 2026-01-01 18:53:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109010⭐ Rust) | [reels/reel_3298_rust-lang-rust](reels/reel_3298_rust-lang-rust) |
 | 3299 | 2026-01-01 19:15:23 | [EnzymeAD/Reactant.jl](https://github.com/EnzymeAD/Reactant.jl) | ✅ shallow (277⭐ Julia) | [reels/reel_3299_EnzymeAD-Reactant.jl](reels/reel_3299_EnzymeAD-Reactant.jl) |
 | 3300 | 2026-01-01 19:37:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140249⭐ Python) | [reels/reel_3300_yt-dlp-yt-dlp](reels/reel_3300_yt-dlp-yt-dlp) |
+| 3301 | 2026-01-01 19:50:01 | [srcimon/screwbox](https://github.com/srcimon/screwbox) | ✅ full (14⭐ Java) | [reels/reel_3301_srcimon-screwbox](reels/reel_3301_srcimon-screwbox) |
