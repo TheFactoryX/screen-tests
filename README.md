@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3266 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 103k | 2026-01-01 |
+| #3267 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3332,3 +3332,4 @@ Or let GitHub Action run it automatically.
 | 3264 | 2025-12-31 23:50:28 | [Dpeta/PesterchumOnlineButSilly](https://github.com/Dpeta/PesterchumOnlineButSilly) | ✅ full (12⭐ JavaScript) | [reels/reel_3264_Dpeta-PesterchumOnlineButSilly](reels/reel_3264_Dpeta-PesterchumOnlineButSilly) |
 | 3265 | 2026-01-01 01:47:09 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453301⭐ Markdown) | [reels/reel_3265_codecrafters-io-build-your-own-x](reels/reel_3265_codecrafters-io-build-your-own-x) |
 | 3266 | 2026-01-01 03:49:07 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103833⭐ TypeScript) | [reels/reel_3266_shadcn-ui-ui](reels/reel_3266_shadcn-ui-ui) |
+| 3267 | 2026-01-01 04:46:07 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97137⭐ TypeScript) | [reels/reel_3267_ant-design-ant-design](reels/reel_3267_ant-design-ant-design) |
