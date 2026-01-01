@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3308 | [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) | PHP · ⭐ 525 | 2026-01-01 |
+| #3309 | [SerenityJS/serenity](https://github.com/SerenityJS/serenity) | TypeScript · ⭐ 150 | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3374,3 +3374,4 @@ Or let GitHub Action run it automatically.
 | 3306 | 2026-01-01 21:39:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142551⭐ Python) | [reels/reel_3306_langflow-ai-langflow](reels/reel_3306_langflow-ai-langflow) |
 | 3307 | 2026-01-01 21:50:03 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100663⭐ Rust) | [reels/reel_3307_tauri-apps-tauri](reels/reel_3307_tauri-apps-tauri) |
 | 3308 | 2026-01-01 22:18:47 | [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) | ✅ full (525⭐ PHP) | [reels/reel_3308_symfony-doctrine-messenger](reels/reel_3308_symfony-doctrine-messenger) |
+| 3309 | 2026-01-01 22:43:54 | [SerenityJS/serenity](https://github.com/SerenityJS/serenity) | ✅ full (150⭐ TypeScript) | [reels/reel_3309_SerenityJS-serenity](reels/reel_3309_SerenityJS-serenity) |
