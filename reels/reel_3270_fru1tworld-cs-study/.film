@@ -1,0 +1,24 @@
+{
+  "reel_number": 3270,
+  "recorded": "2026-01-01 06:31:07 UTC",
+  "repository": {
+    "full_name": "fru1tworld/cs-study",
+    "url": "https://github.com/fru1tworld/cs-study",
+    "clone_url": "https://github.com/fru1tworld/cs-study.git",
+    "stars": 385,
+    "language": "Java",
+    "size_kb": 5226
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.851127
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 385 stars."
+  }
+}
