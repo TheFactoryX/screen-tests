@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3272 | [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) | C · ⭐ 255 | 2026-01-01 |
+| #3273 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3338,3 +3338,4 @@ Or let GitHub Action run it automatically.
 | 3270 | 2026-01-01 06:31:07 | [fru1tworld/cs-study](https://github.com/fru1tworld/cs-study) | ✅ full (385⭐ Java) | [reels/reel_3270_fru1tworld-cs-study](reels/reel_3270_fru1tworld-cs-study) |
 | 3271 | 2026-01-01 07:00:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142515⭐ Python) | [reels/reel_3271_langflow-ai-langflow](reels/reel_3271_langflow-ai-langflow) |
 | 3272 | 2026-01-01 07:33:51 | [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) | ✅ full (255⭐ C) | [reels/reel_3272_felixonmars-archriscv-packages](reels/reel_3272_felixonmars-archriscv-packages) |
+| 3273 | 2026-01-01 07:51:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108011⭐ TypeScript) | [reels/reel_3273_iptv-org-iptv](reels/reel_3273_iptv-org-iptv) |
