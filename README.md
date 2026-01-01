@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3304 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-01 |
+| #3305 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3370,3 +3370,4 @@ Or let GitHub Action run it automatically.
 | 3302 | 2026-01-01 20:21:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254196⭐ None) | [reels/reel_3302_practical-tutorials-project-based-learning](reels/reel_3302_practical-tutorials-project-based-learning) |
 | 3303 | 2026-01-01 20:44:22 | [webgptorg/promptbook](https://github.com/webgptorg/promptbook) | ✅ readme_only (139⭐ TypeScript) | [reels/reel_3303_webgptorg-promptbook](reels/reel_3303_webgptorg-promptbook) |
 | 3304 | 2026-01-01 20:55:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109012⭐ Rust) | [reels/reel_3304_rust-lang-rust](reels/reel_3304_rust-lang-rust) |
+| 3305 | 2026-01-01 21:19:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180735⭐ Python) | [reels/reel_3305_Significant-Gravitas-AutoGPT](reels/reel_3305_Significant-Gravitas-AutoGPT) |
