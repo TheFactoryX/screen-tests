@@ -1,0 +1,24 @@
+{
+  "reel_number": 3299,
+  "recorded": "2026-01-01 19:15:23 UTC",
+  "repository": {
+    "full_name": "EnzymeAD/Reactant.jl",
+    "url": "https://github.com/EnzymeAD/Reactant.jl",
+    "clone_url": "https://github.com/EnzymeAD/Reactant.jl.git",
+    "stars": 277,
+    "language": "Julia",
+    "size_kb": 103272
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 100,
+    "duration_seconds": 0.610391
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Julia",
+    "director_note": "A Julia repository. 277 stars."
+  }
+}
