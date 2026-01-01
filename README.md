@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3270 | [fru1tworld/cs-study](https://github.com/fru1tworld/cs-study) | Java · ⭐ 385 | 2026-01-01 |
+| #3271 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3336,3 +3336,4 @@ Or let GitHub Action run it automatically.
 | 3268 | 2026-01-01 05:25:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265909⭐ None) | [reels/reel_3268_awesome-selfhosted-awesome-selfhosted](reels/reel_3268_awesome-selfhosted-awesome-selfhosted) |
 | 3269 | 2026-01-01 05:48:56 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (165809⭐ TypeScript) | [reels/reel_3269_n8n-io-n8n](reels/reel_3269_n8n-io-n8n) |
 | 3270 | 2026-01-01 06:31:07 | [fru1tworld/cs-study](https://github.com/fru1tworld/cs-study) | ✅ full (385⭐ Java) | [reels/reel_3270_fru1tworld-cs-study](reels/reel_3270_fru1tworld-cs-study) |
+| 3271 | 2026-01-01 07:00:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142515⭐ Python) | [reels/reel_3271_langflow-ai-langflow](reels/reel_3271_langflow-ai-langflow) |
