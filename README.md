@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3264 | [Dpeta/PesterchumOnlineButSilly](https://github.com/Dpeta/PesterchumOnlineButSilly) | JavaScript · ⭐ 12 | 2025-12-31 |
+| #3265 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 453k | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3330,3 +3330,4 @@ Or let GitHub Action run it automatically.
 | 3262 | 2025-12-31 23:18:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103831⭐ TypeScript) | [reels/reel_3262_shadcn-ui-ui](reels/reel_3262_shadcn-ui-ui) |
 | 3263 | 2025-12-31 23:40:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (265883⭐ None) | [reels/reel_3263_awesome-selfhosted-awesome-selfhosted](reels/reel_3263_awesome-selfhosted-awesome-selfhosted) |
 | 3264 | 2025-12-31 23:50:28 | [Dpeta/PesterchumOnlineButSilly](https://github.com/Dpeta/PesterchumOnlineButSilly) | ✅ full (12⭐ JavaScript) | [reels/reel_3264_Dpeta-PesterchumOnlineButSilly](reels/reel_3264_Dpeta-PesterchumOnlineButSilly) |
+| 3265 | 2026-01-01 01:47:09 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453301⭐ Markdown) | [reels/reel_3265_codecrafters-io-build-your-own-x](reels/reel_3265_codecrafters-io-build-your-own-x) |
