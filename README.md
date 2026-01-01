@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3274 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-01 |
+| #3275 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 108k | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3340,3 +3340,4 @@ Or let GitHub Action run it automatically.
 | 3272 | 2026-01-01 07:33:51 | [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) | ✅ full (255⭐ C) | [reels/reel_3272_felixonmars-archriscv-packages](reels/reel_3272_felixonmars-archriscv-packages) |
 | 3273 | 2026-01-01 07:51:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108011⭐ TypeScript) | [reels/reel_3273_iptv-org-iptv](reels/reel_3273_iptv-org-iptv) |
 | 3274 | 2026-01-01 08:27:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123140⭐ Python) | [reels/reel_3274_langchain-ai-langchain](reels/reel_3274_langchain-ai-langchain) |
+| 3275 | 2026-01-01 08:52:36 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (108992⭐ Rust) | [reels/reel_3275_rust-lang-rust](reels/reel_3275_rust-lang-rust) |
