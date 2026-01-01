@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3290 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-01 |
+| #3291 | [NexusGPU/tensor-fusion](https://github.com/NexusGPU/tensor-fusion) | Go · ⭐ 109 | 2026-01-01 |
 ---
 
 ## 🎭 Selection Process
@@ -3356,3 +3356,4 @@ Or let GitHub Action run it automatically.
 | 3288 | 2026-01-01 14:54:43 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123158⭐ Python) | [reels/reel_3288_langchain-ai-langchain](reels/reel_3288_langchain-ai-langchain) |
 | 3289 | 2026-01-01 15:19:45 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140224⭐ Python) | [reels/reel_3289_yt-dlp-yt-dlp](reels/reel_3289_yt-dlp-yt-dlp) |
 | 3290 | 2026-01-01 15:42:04 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142537⭐ Python) | [reels/reel_3290_langflow-ai-langflow](reels/reel_3290_langflow-ai-langflow) |
+| 3291 | 2026-01-01 15:52:51 | [NexusGPU/tensor-fusion](https://github.com/NexusGPU/tensor-fusion) | ✅ full (109⭐ Go) | [reels/reel_3291_NexusGPU-tensor-fusion](reels/reel_3291_NexusGPU-tensor-fusion) |

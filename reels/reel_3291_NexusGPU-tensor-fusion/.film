@@ -1,0 +1,24 @@
+{
+  "reel_number": 3291,
+  "recorded": "2026-01-01 15:52:51 UTC",
+  "repository": {
+    "full_name": "NexusGPU/tensor-fusion",
+    "url": "https://github.com/NexusGPU/tensor-fusion",
+    "clone_url": "https://github.com/NexusGPU/tensor-fusion.git",
+    "stars": 109,
+    "language": "Go",
+    "size_kb": 2866
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.561763
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 109 stars."
+  }
+}
