@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3342 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-02 |
+| #3343 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3408,3 +3408,4 @@ Or let GitHub Action run it automatically.
 | 3340 | 2026-01-02 15:23:13 | [ztdf123/sillytavern-ext-chat-exporter](https://github.com/ztdf123/sillytavern-ext-chat-exporter) | ✅ full (17⭐ JavaScript) | [reels/reel_3340_ztdf123-sillytavern-ext-chat-exporter](reels/reel_3340_ztdf123-sillytavern-ext-chat-exporter) |
 | 3341 | 2026-01-02 15:43:04 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | ✅ full (707⭐ PHP) | [reels/reel_3341_LibreSign-libresign](reels/reel_3341_LibreSign-libresign) |
 | 3342 | 2026-01-02 15:54:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108214⭐ TypeScript) | [reels/reel_3342_iptv-org-iptv](reels/reel_3342_iptv-org-iptv) |
+| 3343 | 2026-01-02 16:23:35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140362⭐ Python) | [reels/reel_3343_yt-dlp-yt-dlp](reels/reel_3343_yt-dlp-yt-dlp) |
