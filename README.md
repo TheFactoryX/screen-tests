@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3328 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-02 |
+| #3329 | [thebeninator/Pact-Increased-Lethality](https://github.com/thebeninator/Pact-Increased-Lethality) | C# · ⭐ 26 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3394,3 +3394,4 @@ Or let GitHub Action run it automatically.
 | 3326 | 2026-01-02 09:22:57 | [IRT-Saint-Exupery/CoFmuPy](https://github.com/IRT-Saint-Exupery/CoFmuPy) | ✅ full (15⭐ Jupyter Notebook) | [reels/reel_3326_IRT-Saint-Exupery-CoFmuPy](reels/reel_3326_IRT-Saint-Exupery-CoFmuPy) |
 | 3327 | 2026-01-02 09:45:44 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97142⭐ TypeScript) | [reels/reel_3327_ant-design-ant-design](reels/reel_3327_ant-design-ant-design) |
 | 3328 | 2026-01-02 10:19:55 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109029⭐ Rust) | [reels/reel_3328_rust-lang-rust](reels/reel_3328_rust-lang-rust) |
+| 3329 | 2026-01-02 10:44:45 | [thebeninator/Pact-Increased-Lethality](https://github.com/thebeninator/Pact-Increased-Lethality) | ✅ full (26⭐ C#) | [reels/reel_3329_thebeninator-Pact-Increased-Lethality](reels/reel_3329_thebeninator-Pact-Increased-Lethality) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 3329,
+  "recorded": "2026-01-02 10:44:45 UTC",
+  "repository": {
+    "full_name": "thebeninator/Pact-Increased-Lethality",
+    "url": "https://github.com/thebeninator/Pact-Increased-Lethality",
+    "clone_url": "https://github.com/thebeninator/Pact-Increased-Lethality.git",
+    "stars": 26,
+    "language": "C#",
+    "size_kb": 473
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.389682
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 26 stars."
+  }
+}
