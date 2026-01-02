@@ -1,0 +1,24 @@
+{
+  "reel_number": 3340,
+  "recorded": "2026-01-02 15:23:13 UTC",
+  "repository": {
+    "full_name": "ztdf123/sillytavern-ext-chat-exporter",
+    "url": "https://github.com/ztdf123/sillytavern-ext-chat-exporter",
+    "clone_url": "https://github.com/ztdf123/sillytavern-ext-chat-exporter.git",
+    "stars": 17,
+    "language": "JavaScript",
+    "size_kb": 12
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.406798
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 17 stars."
+  }
+}
