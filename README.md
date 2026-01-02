@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3350 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 166k | 2026-01-02 |
+| #3351 | [minetest-texture-packs/Good-Morning-Craft](https://github.com/minetest-texture-packs/Good-Morning-Craft) | None · ⭐ 13 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3416,3 +3416,4 @@ Or let GitHub Action run it automatically.
 | 3348 | 2026-01-02 18:27:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180758⭐ Python) | [reels/reel_3348_Significant-Gravitas-AutoGPT](reels/reel_3348_Significant-Gravitas-AutoGPT) |
 | 3349 | 2026-01-02 18:52:45 | [essamamdani/coolify-trigger-v4](https://github.com/essamamdani/coolify-trigger-v4) | ✅ full (13⭐ None) | [reels/reel_3349_essamamdani-coolify-trigger-v4](reels/reel_3349_essamamdani-coolify-trigger-v4) |
 | 3350 | 2026-01-02 19:12:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166085⭐ TypeScript) | [reels/reel_3350_n8n-io-n8n](reels/reel_3350_n8n-io-n8n) |
+| 3351 | 2026-01-02 19:25:46 | [minetest-texture-packs/Good-Morning-Craft](https://github.com/minetest-texture-packs/Good-Morning-Craft) | ✅ full (13⭐ None) | [reels/reel_3351_minetest-texture-packs-Good-Morning-Craft](reels/reel_3351_minetest-texture-packs-Good-Morning-Craft) |

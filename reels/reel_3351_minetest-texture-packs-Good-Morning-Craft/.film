@@ -1,0 +1,24 @@
+{
+  "reel_number": 3351,
+  "recorded": "2026-01-02 19:25:46 UTC",
+  "repository": {
+    "full_name": "minetest-texture-packs/Good-Morning-Craft",
+    "url": "https://github.com/minetest-texture-packs/Good-Morning-Craft",
+    "clone_url": "https://github.com/minetest-texture-packs/Good-Morning-Craft.git",
+    "stars": 13,
+    "language": null,
+    "size_kb": 15491
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 0.721021
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 13 stars."
+  }
+}
