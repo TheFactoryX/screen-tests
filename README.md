@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3332 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-02 |
+| #3333 | [art3m4ik3/cloudflare-solver](https://github.com/art3m4ik3/cloudflare-solver) | Python · ⭐ 11 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3398,3 +3398,4 @@ Or let GitHub Action run it automatically.
 | 3330 | 2026-01-02 10:55:43 | [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) | ✅ full (808⭐ Java) | [reels/reel_3330_spring-projects-spring-data-relational](reels/reel_3330_spring-projects-spring-data-relational) |
 | 3331 | 2026-01-02 11:17:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108184⭐ TypeScript) | [reels/reel_3331_iptv-org-iptv](reels/reel_3331_iptv-org-iptv) |
 | 3332 | 2026-01-02 11:39:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266138⭐ None) | [reels/reel_3332_awesome-selfhosted-awesome-selfhosted](reels/reel_3332_awesome-selfhosted-awesome-selfhosted) |
+| 3333 | 2026-01-02 11:50:07 | [art3m4ik3/cloudflare-solver](https://github.com/art3m4ik3/cloudflare-solver) | ✅ full (11⭐ Python) | [reels/reel_3333_art3m4ik3-cloudflare-solver](reels/reel_3333_art3m4ik3-cloudflare-solver) |
