@@ -1,0 +1,24 @@
+{
+  "reel_number": 3338,
+  "recorded": "2026-01-02 14:45:13 UTC",
+  "repository": {
+    "full_name": "Brewforge/homebrew-chinese",
+    "url": "https://github.com/Brewforge/homebrew-chinese",
+    "clone_url": "https://github.com/Brewforge/homebrew-chinese.git",
+    "stars": 114,
+    "language": "Ruby",
+    "size_kb": 1654
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.584417
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 114 stars."
+  }
+}
