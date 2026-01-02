@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3323 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 453k | 2026-01-02 |
+| #3324 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3389,3 +3389,4 @@ Or let GitHub Action run it automatically.
 | 3321 | 2026-01-02 07:00:58 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100927⭐ Python) | [reels/reel_3321_deepseek-ai-DeepSeek-V3](reels/reel_3321_deepseek-ai-DeepSeek-V3) |
 | 3322 | 2026-01-02 07:34:40 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | ✅ readme_only (529⭐ Python) | [reels/reel_3322_Fincept-Corporation-FinceptTerminal](reels/reel_3322_Fincept-Corporation-FinceptTerminal) |
 | 3323 | 2026-01-02 07:51:30 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453521⭐ Markdown) | [reels/reel_3323_codecrafters-io-build-your-own-x](reels/reel_3323_codecrafters-io-build-your-own-x) |
+| 3324 | 2026-01-02 08:27:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100676⭐ Rust) | [reels/reel_3324_tauri-apps-tauri](reels/reel_3324_tauri-apps-tauri) |
