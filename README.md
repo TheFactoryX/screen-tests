@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3319 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-02 |
+| #3320 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3385,3 +3385,4 @@ Or let GitHub Action run it automatically.
 | 3317 | 2026-01-02 04:57:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103875⭐ TypeScript) | [reels/reel_3317_shadcn-ui-ui](reels/reel_3317_shadcn-ui-ui) |
 | 3318 | 2026-01-02 05:31:23 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97140⭐ TypeScript) | [reels/reel_3318_ant-design-ant-design](reels/reel_3318_ant-design-ant-design) |
 | 3319 | 2026-01-02 05:54:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266096⭐ None) | [reels/reel_3319_awesome-selfhosted-awesome-selfhosted](reels/reel_3319_awesome-selfhosted-awesome-selfhosted) |
+| 3320 | 2026-01-02 06:31:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109021⭐ Rust) | [reels/reel_3320_rust-lang-rust](reels/reel_3320_rust-lang-rust) |
