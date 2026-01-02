@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3318 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-02 |
+| #3319 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3384,3 +3384,4 @@ Or let GitHub Action run it automatically.
 | 3316 | 2026-01-02 04:25:54 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100673⭐ Rust) | [reels/reel_3316_tauri-apps-tauri](reels/reel_3316_tauri-apps-tauri) |
 | 3317 | 2026-01-02 04:57:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (103875⭐ TypeScript) | [reels/reel_3317_shadcn-ui-ui](reels/reel_3317_shadcn-ui-ui) |
 | 3318 | 2026-01-02 05:31:23 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97140⭐ TypeScript) | [reels/reel_3318_ant-design-ant-design](reels/reel_3318_ant-design-ant-design) |
+| 3319 | 2026-01-02 05:54:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266096⭐ None) | [reels/reel_3319_awesome-selfhosted-awesome-selfhosted](reels/reel_3319_awesome-selfhosted-awesome-selfhosted) |
