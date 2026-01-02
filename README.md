@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3353 | [materialsproject/api](https://github.com/materialsproject/api) | Python · ⭐ 153 | 2026-01-02 |
+| #3354 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 166k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3419,3 +3419,4 @@ Or let GitHub Action run it automatically.
 | 3351 | 2026-01-02 19:25:46 | [minetest-texture-packs/Good-Morning-Craft](https://github.com/minetest-texture-packs/Good-Morning-Craft) | ✅ full (13⭐ None) | [reels/reel_3351_minetest-texture-packs-Good-Morning-Craft](reels/reel_3351_minetest-texture-packs-Good-Morning-Craft) |
 | 3352 | 2026-01-02 19:38:18 | [denis-sokolov/remove-github-forks](https://github.com/denis-sokolov/remove-github-forks) | ✅ full (284⭐ JavaScript) | [reels/reel_3352_denis-sokolov-remove-github-forks](reels/reel_3352_denis-sokolov-remove-github-forks) |
 | 3353 | 2026-01-02 19:50:03 | [materialsproject/api](https://github.com/materialsproject/api) | ✅ full (153⭐ Python) | [reels/reel_3353_materialsproject-api](reels/reel_3353_materialsproject-api) |
+| 3354 | 2026-01-02 20:20:48 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166090⭐ TypeScript) | [reels/reel_3354_n8n-io-n8n](reels/reel_3354_n8n-io-n8n) |
