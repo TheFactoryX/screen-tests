@@ -1,0 +1,24 @@
+{
+  "reel_number": 3322,
+  "recorded": "2026-01-02 07:34:40 UTC",
+  "repository": {
+    "full_name": "Fincept-Corporation/FinceptTerminal",
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "clone_url": "https://github.com/Fincept-Corporation/FinceptTerminal.git",
+    "stars": 529,
+    "language": "Python",
+    "size_kb": 691463
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 675,
+    "duration_seconds": 0.000146
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 529 stars."
+  }
+}
