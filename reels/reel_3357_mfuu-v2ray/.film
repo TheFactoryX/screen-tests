@@ -1,0 +1,24 @@
+{
+  "reel_number": 3357,
+  "recorded": "2026-01-02 21:14:49 UTC",
+  "repository": {
+    "full_name": "mfuu/v2ray",
+    "url": "https://github.com/mfuu/v2ray",
+    "clone_url": "https://github.com/mfuu/v2ray.git",
+    "stars": 807,
+    "language": "Python",
+    "size_kb": 22
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.480122
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 807 stars."
+  }
+}
