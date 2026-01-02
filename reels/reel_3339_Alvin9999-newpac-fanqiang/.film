@@ -1,0 +1,24 @@
+{
+  "reel_number": 3339,
+  "recorded": "2026-01-02 14:56:18 UTC",
+  "repository": {
+    "full_name": "Alvin9999-newpac/fanqiang",
+    "url": "https://github.com/Alvin9999-newpac/fanqiang",
+    "clone_url": "https://github.com/Alvin9999-newpac/fanqiang.git",
+    "stars": 288,
+    "language": "Shell",
+    "size_kb": 263
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.546466
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 288 stars."
+  }
+}

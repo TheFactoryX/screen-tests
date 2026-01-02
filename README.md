@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3338 | [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) | Ruby · ⭐ 114 | 2026-01-02 |
+| #3339 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | Shell · ⭐ 288 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3404,3 +3404,4 @@ Or let GitHub Action run it automatically.
 | 3336 | 2026-01-02 13:49:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119484⭐ Svelte) | [reels/reel_3336_open-webui-open-webui](reels/reel_3336_open-webui-open-webui) |
 | 3337 | 2026-01-02 14:19:27 | [sertit/eoreader](https://github.com/sertit/eoreader) | ✅ full (322⭐ Python) | [reels/reel_3337_sertit-eoreader](reels/reel_3337_sertit-eoreader) |
 | 3338 | 2026-01-02 14:45:13 | [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) | ✅ full (114⭐ Ruby) | [reels/reel_3338_Brewforge-homebrew-chinese](reels/reel_3338_Brewforge-homebrew-chinese) |
+| 3339 | 2026-01-02 14:56:18 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (288⭐ Shell) | [reels/reel_3339_Alvin9999-newpac-fanqiang](reels/reel_3339_Alvin9999-newpac-fanqiang) |
