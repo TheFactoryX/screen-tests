@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3334 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-02 |
+| #3335 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3400,3 +3400,4 @@ Or let GitHub Action run it automatically.
 | 3332 | 2026-01-02 11:39:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266138⭐ None) | [reels/reel_3332_awesome-selfhosted-awesome-selfhosted](reels/reel_3332_awesome-selfhosted-awesome-selfhosted) |
 | 3333 | 2026-01-02 11:50:07 | [art3m4ik3/cloudflare-solver](https://github.com/art3m4ik3/cloudflare-solver) | ✅ full (11⭐ Python) | [reels/reel_3333_art3m4ik3-cloudflare-solver](reels/reel_3333_art3m4ik3-cloudflare-solver) |
 | 3334 | 2026-01-02 12:38:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139330⭐ Python) | [reels/reel_3334_ytdl-org-youtube-dl](reels/reel_3334_ytdl-org-youtube-dl) |
+| 3335 | 2026-01-02 13:21:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142591⭐ Python) | [reels/reel_3335_langflow-ai-langflow](reels/reel_3335_langflow-ai-langflow) |
