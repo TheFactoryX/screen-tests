@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3344 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-02 |
+| #3345 | [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) | TypeScript · ⭐ 551 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3410,3 +3410,4 @@ Or let GitHub Action run it automatically.
 | 3342 | 2026-01-02 15:54:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108214⭐ TypeScript) | [reels/reel_3342_iptv-org-iptv](reels/reel_3342_iptv-org-iptv) |
 | 3343 | 2026-01-02 16:23:35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140362⭐ Python) | [reels/reel_3343_yt-dlp-yt-dlp](reels/reel_3343_yt-dlp-yt-dlp) |
 | 3344 | 2026-01-02 16:49:24 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266172⭐ None) | [reels/reel_3344_awesome-selfhosted-awesome-selfhosted](reels/reel_3344_awesome-selfhosted-awesome-selfhosted) |
+| 3345 | 2026-01-02 17:16:50 | [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) | ✅ full (551⭐ TypeScript) | [reels/reel_3345_qwreey-quick-settings-tweaks](reels/reel_3345_qwreey-quick-settings-tweaks) |
