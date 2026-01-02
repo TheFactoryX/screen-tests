@@ -1,0 +1,24 @@
+{
+  "reel_number": 3353,
+  "recorded": "2026-01-02 19:50:03 UTC",
+  "repository": {
+    "full_name": "materialsproject/api",
+    "url": "https://github.com/materialsproject/api",
+    "clone_url": "https://github.com/materialsproject/api.git",
+    "stars": 153,
+    "language": "Python",
+    "size_kb": 35973
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 2.51704
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 153 stars."
+  }
+}

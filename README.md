@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3352 | [denis-sokolov/remove-github-forks](https://github.com/denis-sokolov/remove-github-forks) | JavaScript · ⭐ 284 | 2026-01-02 |
+| #3353 | [materialsproject/api](https://github.com/materialsproject/api) | Python · ⭐ 153 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3418,3 +3418,4 @@ Or let GitHub Action run it automatically.
 | 3350 | 2026-01-02 19:12:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166085⭐ TypeScript) | [reels/reel_3350_n8n-io-n8n](reels/reel_3350_n8n-io-n8n) |
 | 3351 | 2026-01-02 19:25:46 | [minetest-texture-packs/Good-Morning-Craft](https://github.com/minetest-texture-packs/Good-Morning-Craft) | ✅ full (13⭐ None) | [reels/reel_3351_minetest-texture-packs-Good-Morning-Craft](reels/reel_3351_minetest-texture-packs-Good-Morning-Craft) |
 | 3352 | 2026-01-02 19:38:18 | [denis-sokolov/remove-github-forks](https://github.com/denis-sokolov/remove-github-forks) | ✅ full (284⭐ JavaScript) | [reels/reel_3352_denis-sokolov-remove-github-forks](reels/reel_3352_denis-sokolov-remove-github-forks) |
+| 3353 | 2026-01-02 19:50:03 | [materialsproject/api](https://github.com/materialsproject/api) | ✅ full (153⭐ Python) | [reels/reel_3353_materialsproject-api](reels/reel_3353_materialsproject-api) |
