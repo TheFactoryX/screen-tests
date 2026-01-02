@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3313 | [mkshare3/mkshare3.github.io](https://github.com/mkshare3/mkshare3.github.io) | None · ⭐ 178 | 2026-01-01 |
+| #3314 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3379,3 +3379,4 @@ Or let GitHub Action run it automatically.
 | 3311 | 2026-01-01 23:18:57 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140264⭐ Python) | [reels/reel_3311_yt-dlp-yt-dlp](reels/reel_3311_yt-dlp-yt-dlp) |
 | 3312 | 2026-01-01 23:40:54 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100665⭐ Rust) | [reels/reel_3312_tauri-apps-tauri](reels/reel_3312_tauri-apps-tauri) |
 | 3313 | 2026-01-01 23:51:36 | [mkshare3/mkshare3.github.io](https://github.com/mkshare3/mkshare3.github.io) | ✅ full (178⭐ None) | [reels/reel_3313_mkshare3-mkshare3.github.io](reels/reel_3313_mkshare3-mkshare3.github.io) |
+| 3314 | 2026-01-02 01:39:15 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103566⭐ None) | [reels/reel_3314_Hack-with-Github-Awesome-Hacking](reels/reel_3314_Hack-with-Github-Awesome-Hacking) |
