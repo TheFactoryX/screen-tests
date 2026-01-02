@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3362 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-02 |
+| #3363 | [mongodb-js/vscode](https://github.com/mongodb-js/vscode) | TypeScript · ⭐ 362 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3428,3 +3428,4 @@ Or let GitHub Action run it automatically.
 | 3360 | 2026-01-02 21:52:32 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453684⭐ Markdown) | [reels/reel_3360_codecrafters-io-build-your-own-x](reels/reel_3360_codecrafters-io-build-your-own-x) |
 | 3361 | 2026-01-02 22:18:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266206⭐ None) | [reels/reel_3361_awesome-selfhosted-awesome-selfhosted](reels/reel_3361_awesome-selfhosted-awesome-selfhosted) |
 | 3362 | 2026-01-02 22:44:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109047⭐ Rust) | [reels/reel_3362_rust-lang-rust](reels/reel_3362_rust-lang-rust) |
+| 3363 | 2026-01-02 22:55:25 | [mongodb-js/vscode](https://github.com/mongodb-js/vscode) | ✅ full (362⭐ TypeScript) | [reels/reel_3363_mongodb-js-vscode](reels/reel_3363_mongodb-js-vscode) |

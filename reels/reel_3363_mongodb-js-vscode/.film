@@ -1,0 +1,24 @@
+{
+  "reel_number": 3363,
+  "recorded": "2026-01-02 22:55:25 UTC",
+  "repository": {
+    "full_name": "mongodb-js/vscode",
+    "url": "https://github.com/mongodb-js/vscode",
+    "clone_url": "https://github.com/mongodb-js/vscode.git",
+    "stars": 362,
+    "language": "TypeScript",
+    "size_kb": 56323
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 3.301181
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 362 stars."
+  }
+}
