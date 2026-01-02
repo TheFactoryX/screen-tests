@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3354 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 166k | 2026-01-02 |
+| #3355 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3420,3 +3420,4 @@ Or let GitHub Action run it automatically.
 | 3352 | 2026-01-02 19:38:18 | [denis-sokolov/remove-github-forks](https://github.com/denis-sokolov/remove-github-forks) | ✅ full (284⭐ JavaScript) | [reels/reel_3352_denis-sokolov-remove-github-forks](reels/reel_3352_denis-sokolov-remove-github-forks) |
 | 3353 | 2026-01-02 19:50:03 | [materialsproject/api](https://github.com/materialsproject/api) | ✅ full (153⭐ Python) | [reels/reel_3353_materialsproject-api](reels/reel_3353_materialsproject-api) |
 | 3354 | 2026-01-02 20:20:48 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166090⭐ TypeScript) | [reels/reel_3354_n8n-io-n8n](reels/reel_3354_n8n-io-n8n) |
+| 3355 | 2026-01-02 20:43:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119508⭐ Svelte) | [reels/reel_3355_open-webui-open-webui](reels/reel_3355_open-webui-open-webui) |
