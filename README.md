@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3336 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2026-01-02 |
+| #3337 | [sertit/eoreader](https://github.com/sertit/eoreader) | Python · ⭐ 322 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3402,3 +3402,4 @@ Or let GitHub Action run it automatically.
 | 3334 | 2026-01-02 12:38:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139330⭐ Python) | [reels/reel_3334_ytdl-org-youtube-dl](reels/reel_3334_ytdl-org-youtube-dl) |
 | 3335 | 2026-01-02 13:21:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142591⭐ Python) | [reels/reel_3335_langflow-ai-langflow](reels/reel_3335_langflow-ai-langflow) |
 | 3336 | 2026-01-02 13:49:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119484⭐ Svelte) | [reels/reel_3336_open-webui-open-webui](reels/reel_3336_open-webui-open-webui) |
+| 3337 | 2026-01-02 14:19:27 | [sertit/eoreader](https://github.com/sertit/eoreader) | ✅ full (322⭐ Python) | [reels/reel_3337_sertit-eoreader](reels/reel_3337_sertit-eoreader) |
