@@ -1,0 +1,24 @@
+{
+  "reel_number": 3349,
+  "recorded": "2026-01-02 18:52:45 UTC",
+  "repository": {
+    "full_name": "essamamdani/coolify-trigger-v4",
+    "url": "https://github.com/essamamdani/coolify-trigger-v4",
+    "clone_url": "https://github.com/essamamdani/coolify-trigger-v4.git",
+    "stars": 13,
+    "language": null,
+    "size_kb": 10
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.192177
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 13 stars."
+  }
+}

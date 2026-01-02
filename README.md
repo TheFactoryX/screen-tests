@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3348 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-02 |
+| #3349 | [essamamdani/coolify-trigger-v4](https://github.com/essamamdani/coolify-trigger-v4) | None · ⭐ 13 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3414,3 +3414,4 @@ Or let GitHub Action run it automatically.
 | 3346 | 2026-01-02 17:41:07 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254290⭐ None) | [reels/reel_3346_practical-tutorials-project-based-learning](reels/reel_3346_practical-tutorials-project-based-learning) |
 | 3347 | 2026-01-02 17:51:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123212⭐ Python) | [reels/reel_3347_langchain-ai-langchain](reels/reel_3347_langchain-ai-langchain) |
 | 3348 | 2026-01-02 18:27:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180758⭐ Python) | [reels/reel_3348_Significant-Gravitas-AutoGPT](reels/reel_3348_Significant-Gravitas-AutoGPT) |
+| 3349 | 2026-01-02 18:52:45 | [essamamdani/coolify-trigger-v4](https://github.com/essamamdani/coolify-trigger-v4) | ✅ full (13⭐ None) | [reels/reel_3349_essamamdani-coolify-trigger-v4](reels/reel_3349_essamamdani-coolify-trigger-v4) |
