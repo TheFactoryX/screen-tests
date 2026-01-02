@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3359 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-02 |
+| #3360 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 453k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3425,3 +3425,4 @@ Or let GitHub Action run it automatically.
 | 3357 | 2026-01-02 21:14:49 | [mfuu/v2ray](https://github.com/mfuu/v2ray) | ✅ full (807⭐ Python) | [reels/reel_3357_mfuu-v2ray](reels/reel_3357_mfuu-v2ray) |
 | 3358 | 2026-01-02 21:30:02 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100689⭐ Rust) | [reels/reel_3358_tauri-apps-tauri](reels/reel_3358_tauri-apps-tauri) |
 | 3359 | 2026-01-02 21:42:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100689⭐ Rust) | [reels/reel_3359_tauri-apps-tauri](reels/reel_3359_tauri-apps-tauri) |
+| 3360 | 2026-01-02 21:52:32 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453684⭐ Markdown) | [reels/reel_3360_codecrafters-io-build-your-own-x](reels/reel_3360_codecrafters-io-build-your-own-x) |
