@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3331 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-02 |
+| #3332 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3397,3 +3397,4 @@ Or let GitHub Action run it automatically.
 | 3329 | 2026-01-02 10:44:45 | [thebeninator/Pact-Increased-Lethality](https://github.com/thebeninator/Pact-Increased-Lethality) | ✅ full (26⭐ C#) | [reels/reel_3329_thebeninator-Pact-Increased-Lethality](reels/reel_3329_thebeninator-Pact-Increased-Lethality) |
 | 3330 | 2026-01-02 10:55:43 | [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) | ✅ full (808⭐ Java) | [reels/reel_3330_spring-projects-spring-data-relational](reels/reel_3330_spring-projects-spring-data-relational) |
 | 3331 | 2026-01-02 11:17:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108184⭐ TypeScript) | [reels/reel_3331_iptv-org-iptv](reels/reel_3331_iptv-org-iptv) |
+| 3332 | 2026-01-02 11:39:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266138⭐ None) | [reels/reel_3332_awesome-selfhosted-awesome-selfhosted](reels/reel_3332_awesome-selfhosted-awesome-selfhosted) |
