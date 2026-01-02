@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3329 | [thebeninator/Pact-Increased-Lethality](https://github.com/thebeninator/Pact-Increased-Lethality) | C# · ⭐ 26 | 2026-01-02 |
+| #3330 | [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) | Java · ⭐ 808 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3395,3 +3395,4 @@ Or let GitHub Action run it automatically.
 | 3327 | 2026-01-02 09:45:44 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97142⭐ TypeScript) | [reels/reel_3327_ant-design-ant-design](reels/reel_3327_ant-design-ant-design) |
 | 3328 | 2026-01-02 10:19:55 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109029⭐ Rust) | [reels/reel_3328_rust-lang-rust](reels/reel_3328_rust-lang-rust) |
 | 3329 | 2026-01-02 10:44:45 | [thebeninator/Pact-Increased-Lethality](https://github.com/thebeninator/Pact-Increased-Lethality) | ✅ full (26⭐ C#) | [reels/reel_3329_thebeninator-Pact-Increased-Lethality](reels/reel_3329_thebeninator-Pact-Increased-Lethality) |
+| 3330 | 2026-01-02 10:55:43 | [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) | ✅ full (808⭐ Java) | [reels/reel_3330_spring-projects-spring-data-relational](reels/reel_3330_spring-projects-spring-data-relational) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 3330,
+  "recorded": "2026-01-02 10:55:43 UTC",
+  "repository": {
+    "full_name": "spring-projects/spring-data-relational",
+    "url": "https://github.com/spring-projects/spring-data-relational",
+    "clone_url": "https://github.com/spring-projects/spring-data-relational.git",
+    "stars": 808,
+    "language": "Java",
+    "size_kb": 13536
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 1.632733
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 808 stars."
+  }
+}
