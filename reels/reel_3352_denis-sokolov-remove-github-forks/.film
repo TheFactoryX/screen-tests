@@ -1,0 +1,24 @@
+{
+  "reel_number": 3352,
+  "recorded": "2026-01-02 19:38:18 UTC",
+  "repository": {
+    "full_name": "denis-sokolov/remove-github-forks",
+    "url": "https://github.com/denis-sokolov/remove-github-forks",
+    "clone_url": "https://github.com/denis-sokolov/remove-github-forks.git",
+    "stars": 284,
+    "language": "JavaScript",
+    "size_kb": 402
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.205647
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 284 stars."
+  }
+}
