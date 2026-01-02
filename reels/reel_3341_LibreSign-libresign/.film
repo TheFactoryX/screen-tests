@@ -1,0 +1,24 @@
+{
+  "reel_number": 3341,
+  "recorded": "2026-01-02 15:43:04 UTC",
+  "repository": {
+    "full_name": "LibreSign/libresign",
+    "url": "https://github.com/LibreSign/libresign",
+    "clone_url": "https://github.com/LibreSign/libresign.git",
+    "stars": 707,
+    "language": "PHP",
+    "size_kb": 92313
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 90,
+    "duration_seconds": 5.663308
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 707 stars."
+  }
+}

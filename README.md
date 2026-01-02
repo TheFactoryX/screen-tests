@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3340 | [ztdf123/sillytavern-ext-chat-exporter](https://github.com/ztdf123/sillytavern-ext-chat-exporter) | JavaScript · ⭐ 17 | 2026-01-02 |
+| #3341 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | PHP · ⭐ 707 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3406,3 +3406,4 @@ Or let GitHub Action run it automatically.
 | 3338 | 2026-01-02 14:45:13 | [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) | ✅ full (114⭐ Ruby) | [reels/reel_3338_Brewforge-homebrew-chinese](reels/reel_3338_Brewforge-homebrew-chinese) |
 | 3339 | 2026-01-02 14:56:18 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (288⭐ Shell) | [reels/reel_3339_Alvin9999-newpac-fanqiang](reels/reel_3339_Alvin9999-newpac-fanqiang) |
 | 3340 | 2026-01-02 15:23:13 | [ztdf123/sillytavern-ext-chat-exporter](https://github.com/ztdf123/sillytavern-ext-chat-exporter) | ✅ full (17⭐ JavaScript) | [reels/reel_3340_ztdf123-sillytavern-ext-chat-exporter](reels/reel_3340_ztdf123-sillytavern-ext-chat-exporter) |
+| 3341 | 2026-01-02 15:43:04 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | ✅ full (707⭐ PHP) | [reels/reel_3341_LibreSign-libresign](reels/reel_3341_LibreSign-libresign) |
