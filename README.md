@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3347 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-02 |
+| #3348 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3413,3 +3413,4 @@ Or let GitHub Action run it automatically.
 | 3345 | 2026-01-02 17:16:50 | [qwreey/quick-settings-tweaks](https://github.com/qwreey/quick-settings-tweaks) | ✅ full (551⭐ TypeScript) | [reels/reel_3345_qwreey-quick-settings-tweaks](reels/reel_3345_qwreey-quick-settings-tweaks) |
 | 3346 | 2026-01-02 17:41:07 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254290⭐ None) | [reels/reel_3346_practical-tutorials-project-based-learning](reels/reel_3346_practical-tutorials-project-based-learning) |
 | 3347 | 2026-01-02 17:51:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123212⭐ Python) | [reels/reel_3347_langchain-ai-langchain](reels/reel_3347_langchain-ai-langchain) |
+| 3348 | 2026-01-02 18:27:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180758⭐ Python) | [reels/reel_3348_Significant-Gravitas-AutoGPT](reels/reel_3348_Significant-Gravitas-AutoGPT) |
