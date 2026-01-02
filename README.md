@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3360 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 453k | 2026-01-02 |
+| #3361 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3426,3 +3426,4 @@ Or let GitHub Action run it automatically.
 | 3358 | 2026-01-02 21:30:02 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100689⭐ Rust) | [reels/reel_3358_tauri-apps-tauri](reels/reel_3358_tauri-apps-tauri) |
 | 3359 | 2026-01-02 21:42:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100689⭐ Rust) | [reels/reel_3359_tauri-apps-tauri](reels/reel_3359_tauri-apps-tauri) |
 | 3360 | 2026-01-02 21:52:32 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453684⭐ Markdown) | [reels/reel_3360_codecrafters-io-build-your-own-x](reels/reel_3360_codecrafters-io-build-your-own-x) |
+| 3361 | 2026-01-02 22:18:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266206⭐ None) | [reels/reel_3361_awesome-selfhosted-awesome-selfhosted](reels/reel_3361_awesome-selfhosted-awesome-selfhosted) |
