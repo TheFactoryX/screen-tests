@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3357 | [mfuu/v2ray](https://github.com/mfuu/v2ray) | Python · ⭐ 807 | 2026-01-02 |
+| #3358 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3423,3 +3423,4 @@ Or let GitHub Action run it automatically.
 | 3355 | 2026-01-02 20:43:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119508⭐ Svelte) | [reels/reel_3355_open-webui-open-webui](reels/reel_3355_open-webui-open-webui) |
 | 3356 | 2026-01-02 20:54:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166093⭐ TypeScript) | [reels/reel_3356_n8n-io-n8n](reels/reel_3356_n8n-io-n8n) |
 | 3357 | 2026-01-02 21:14:49 | [mfuu/v2ray](https://github.com/mfuu/v2ray) | ✅ full (807⭐ Python) | [reels/reel_3357_mfuu-v2ray](reels/reel_3357_mfuu-v2ray) |
+| 3358 | 2026-01-02 21:30:02 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100689⭐ Rust) | [reels/reel_3358_tauri-apps-tauri](reels/reel_3358_tauri-apps-tauri) |
