@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3325 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 165k | 2026-01-02 |
+| #3326 | [IRT-Saint-Exupery/CoFmuPy](https://github.com/IRT-Saint-Exupery/CoFmuPy) | Jupyter Notebook · ⭐ 15 | 2026-01-02 |
 ---
 
 ## 🎭 Selection Process
@@ -3391,3 +3391,4 @@ Or let GitHub Action run it automatically.
 | 3323 | 2026-01-02 07:51:30 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453521⭐ Markdown) | [reels/reel_3323_codecrafters-io-build-your-own-x](reels/reel_3323_codecrafters-io-build-your-own-x) |
 | 3324 | 2026-01-02 08:27:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100676⭐ Rust) | [reels/reel_3324_tauri-apps-tauri](reels/reel_3324_tauri-apps-tauri) |
 | 3325 | 2026-01-02 08:53:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (165989⭐ TypeScript) | [reels/reel_3325_n8n-io-n8n](reels/reel_3325_n8n-io-n8n) |
+| 3326 | 2026-01-02 09:22:57 | [IRT-Saint-Exupery/CoFmuPy](https://github.com/IRT-Saint-Exupery/CoFmuPy) | ✅ full (15⭐ Jupyter Notebook) | [reels/reel_3326_IRT-Saint-Exupery-CoFmuPy](reels/reel_3326_IRT-Saint-Exupery-CoFmuPy) |
