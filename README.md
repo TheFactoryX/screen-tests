@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3372 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-03 |
+| #3373 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3438,3 +3438,4 @@ Or let GitHub Action run it automatically.
 | 3370 | 2026-01-03 04:47:27 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (669⭐ Tcl) | [reels/reel_3370_rust-lang-crates.io-index](reels/reel_3370_rust-lang-crates.io-index) |
 | 3371 | 2026-01-03 05:00:00 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (389106⭐ Python) | [reels/reel_3371_public-apis-public-apis](reels/reel_3371_public-apis-public-apis) |
 | 3372 | 2026-01-03 05:31:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109054⭐ Rust) | [reels/reel_3372_rust-lang-rust](reels/reel_3372_rust-lang-rust) |
+| 3373 | 2026-01-03 05:52:33 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97146⭐ TypeScript) | [reels/reel_3373_ant-design-ant-design](reels/reel_3373_ant-design-ant-design) |
