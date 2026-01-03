@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3378 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-03 |
+| #3379 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 453k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3444,3 +3444,4 @@ Or let GitHub Action run it automatically.
 | 3376 | 2026-01-03 07:17:56 | [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) | ✅ full (593⭐ Python) | [reels/reel_3376_z3z1ma-dbt-osmosis](reels/reel_3376_z3z1ma-dbt-osmosis) |
 | 3377 | 2026-01-03 07:38:44 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100696⭐ Rust) | [reels/reel_3377_tauri-apps-tauri](reels/reel_3377_tauri-apps-tauri) |
 | 3378 | 2026-01-03 07:50:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109058⭐ Rust) | [reels/reel_3378_rust-lang-rust](reels/reel_3378_rust-lang-rust) |
+| 3379 | 2026-01-03 08:25:09 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453763⭐ Markdown) | [reels/reel_3379_codecrafters-io-build-your-own-x](reels/reel_3379_codecrafters-io-build-your-own-x) |
