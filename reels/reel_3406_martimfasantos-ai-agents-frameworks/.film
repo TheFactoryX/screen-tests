@@ -1,0 +1,24 @@
+{
+  "reel_number": 3406,
+  "recorded": "2026-01-03 19:14:02 UTC",
+  "repository": {
+    "full_name": "martimfasantos/ai-agents-frameworks",
+    "url": "https://github.com/martimfasantos/ai-agents-frameworks",
+    "clone_url": "https://github.com/martimfasantos/ai-agents-frameworks.git",
+    "stars": 331,
+    "language": "Jupyter Notebook",
+    "size_kb": 21615
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 1.68672
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 331 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3405 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-03 |
+| #3406 | [martimfasantos/ai-agents-frameworks](https://github.com/martimfasantos/ai-agents-frameworks) | Jupyter Notebook · ⭐ 331 | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3471,3 +3471,4 @@ Or let GitHub Action run it automatically.
 | 3403 | 2026-01-03 17:49:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166236⭐ TypeScript) | [reels/reel_3403_n8n-io-n8n](reels/reel_3403_n8n-io-n8n) |
 | 3404 | 2026-01-03 18:26:28 | [richkmeli/Richkware](https://github.com/richkmeli/Richkware) | ✅ full (533⭐ C++) | [reels/reel_3404_richkmeli-Richkware](reels/reel_3404_richkmeli-Richkware) |
 | 3405 | 2026-01-03 18:50:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108349⭐ TypeScript) | [reels/reel_3405_iptv-org-iptv](reels/reel_3405_iptv-org-iptv) |
+| 3406 | 2026-01-03 19:14:02 | [martimfasantos/ai-agents-frameworks](https://github.com/martimfasantos/ai-agents-frameworks) | ✅ full (331⭐ Jupyter Notebook) | [reels/reel_3406_martimfasantos-ai-agents-frameworks](reels/reel_3406_martimfasantos-ai-agents-frameworks) |
