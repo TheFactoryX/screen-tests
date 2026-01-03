@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3413 | [zetxek/adritian-free-hugo-theme](https://github.com/zetxek/adritian-free-hugo-theme) | TypeScript · ⭐ 196 | 2026-01-03 |
+| #3414 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3479,3 +3479,4 @@ Or let GitHub Action run it automatically.
 | 3411 | 2026-01-03 20:42:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119570⭐ Svelte) | [reels/reel_3411_open-webui-open-webui](reels/reel_3411_open-webui-open-webui) |
 | 3412 | 2026-01-03 20:53:36 | [ashuotaku/sillytavern](https://github.com/ashuotaku/sillytavern) | ✅ full (54⭐ Jupyter Notebook) | [reels/reel_3412_ashuotaku-sillytavern](reels/reel_3412_ashuotaku-sillytavern) |
 | 3413 | 2026-01-03 21:16:57 | [zetxek/adritian-free-hugo-theme](https://github.com/zetxek/adritian-free-hugo-theme) | ✅ full (196⭐ TypeScript) | [reels/reel_3413_zetxek-adritian-free-hugo-theme](reels/reel_3413_zetxek-adritian-free-hugo-theme) |
+| 3414 | 2026-01-03 21:39:00 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139341⭐ Python) | [reels/reel_3414_ytdl-org-youtube-dl](reels/reel_3414_ytdl-org-youtube-dl) |
