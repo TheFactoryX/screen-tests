@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3377 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-03 |
+| #3378 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3443,3 +3443,4 @@ Or let GitHub Action run it automatically.
 | 3375 | 2026-01-03 06:54:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140417⭐ Python) | [reels/reel_3375_yt-dlp-yt-dlp](reels/reel_3375_yt-dlp-yt-dlp) |
 | 3376 | 2026-01-03 07:17:56 | [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) | ✅ full (593⭐ Python) | [reels/reel_3376_z3z1ma-dbt-osmosis](reels/reel_3376_z3z1ma-dbt-osmosis) |
 | 3377 | 2026-01-03 07:38:44 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100696⭐ Rust) | [reels/reel_3377_tauri-apps-tauri](reels/reel_3377_tauri-apps-tauri) |
+| 3378 | 2026-01-03 07:50:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109058⭐ Rust) | [reels/reel_3378_rust-lang-rust](reels/reel_3378_rust-lang-rust) |
