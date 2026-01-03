@@ -1,0 +1,24 @@
+{
+  "reel_number": 3376,
+  "recorded": "2026-01-03 07:17:56 UTC",
+  "repository": {
+    "full_name": "z3z1ma/dbt-osmosis",
+    "url": "https://github.com/z3z1ma/dbt-osmosis",
+    "clone_url": "https://github.com/z3z1ma/dbt-osmosis.git",
+    "stars": 593,
+    "language": "Python",
+    "size_kb": 8505
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.214644
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 593 stars."
+  }
+}

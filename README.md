@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3375 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-03 |
+| #3376 | [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) | Python · ⭐ 593 | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3441,3 +3441,4 @@ Or let GitHub Action run it automatically.
 | 3373 | 2026-01-03 05:52:33 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97146⭐ TypeScript) | [reels/reel_3373_ant-design-ant-design](reels/reel_3373_ant-design-ant-design) |
 | 3374 | 2026-01-03 06:29:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108284⭐ TypeScript) | [reels/reel_3374_iptv-org-iptv](reels/reel_3374_iptv-org-iptv) |
 | 3375 | 2026-01-03 06:54:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140417⭐ Python) | [reels/reel_3375_yt-dlp-yt-dlp](reels/reel_3375_yt-dlp-yt-dlp) |
+| 3376 | 2026-01-03 07:17:56 | [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) | ✅ full (593⭐ Python) | [reels/reel_3376_z3z1ma-dbt-osmosis](reels/reel_3376_z3z1ma-dbt-osmosis) |
