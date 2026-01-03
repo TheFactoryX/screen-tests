@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3394 | [felipegcoutinho/opensheets-app](https://github.com/felipegcoutinho/opensheets-app) | TypeScript · ⭐ 182 | 2026-01-03 |
+| #3395 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3460,3 +3460,4 @@ Or let GitHub Action run it automatically.
 | 3392 | 2026-01-03 13:45:10 | [sabuhiteymurov/expo-base](https://github.com/sabuhiteymurov/expo-base) | ✅ full (101⭐ TypeScript) | [reels/reel_3392_sabuhiteymurov-expo-base](reels/reel_3392_sabuhiteymurov-expo-base) |
 | 3393 | 2026-01-03 14:17:23 | [vgstation-coders/vgstation13](https://github.com/vgstation-coders/vgstation13) | ✅ readme_only (276⭐ DM) | [reels/reel_3393_vgstation-coders-vgstation13](reels/reel_3393_vgstation-coders-vgstation13) |
 | 3394 | 2026-01-03 14:41:28 | [felipegcoutinho/opensheets-app](https://github.com/felipegcoutinho/opensheets-app) | ✅ full (182⭐ TypeScript) | [reels/reel_3394_felipegcoutinho-opensheets-app](reels/reel_3394_felipegcoutinho-opensheets-app) |
+| 3395 | 2026-01-03 14:52:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123265⭐ Python) | [reels/reel_3395_langchain-ai-langchain](reels/reel_3395_langchain-ai-langchain) |
