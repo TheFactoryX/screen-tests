@@ -1,0 +1,24 @@
+{
+  "reel_number": 3412,
+  "recorded": "2026-01-03 20:53:36 UTC",
+  "repository": {
+    "full_name": "ashuotaku/sillytavern",
+    "url": "https://github.com/ashuotaku/sillytavern",
+    "clone_url": "https://github.com/ashuotaku/sillytavern.git",
+    "stars": 54,
+    "language": "Jupyter Notebook",
+    "size_kb": 5047
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.626945
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 54 stars."
+  }
+}
