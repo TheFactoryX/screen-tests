@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3407 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-03 |
+| #3408 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3473,3 +3473,4 @@ Or let GitHub Action run it automatically.
 | 3405 | 2026-01-03 18:50:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108349⭐ TypeScript) | [reels/reel_3405_iptv-org-iptv](reels/reel_3405_iptv-org-iptv) |
 | 3406 | 2026-01-03 19:14:02 | [martimfasantos/ai-agents-frameworks](https://github.com/martimfasantos/ai-agents-frameworks) | ✅ full (331⭐ Jupyter Notebook) | [reels/reel_3406_martimfasantos-ai-agents-frameworks](reels/reel_3406_martimfasantos-ai-agents-frameworks) |
 | 3407 | 2026-01-03 19:28:50 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97150⭐ TypeScript) | [reels/reel_3407_ant-design-ant-design](reels/reel_3407_ant-design-ant-design) |
+| 3408 | 2026-01-03 19:41:00 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97150⭐ TypeScript) | [reels/reel_3408_ant-design-ant-design](reels/reel_3408_ant-design-ant-design) |
