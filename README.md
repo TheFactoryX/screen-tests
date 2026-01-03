@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3391 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-03 |
+| #3392 | [sabuhiteymurov/expo-base](https://github.com/sabuhiteymurov/expo-base) | TypeScript · ⭐ 101 | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3457,3 +3457,4 @@ Or let GitHub Action run it automatically.
 | 3389 | 2026-01-03 11:53:00 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (669⭐ Tcl) | [reels/reel_3389_rust-lang-crates.io-index](reels/reel_3389_rust-lang-crates.io-index) |
 | 3390 | 2026-01-03 12:36:49 | [SnowyMouse/chimera](https://github.com/SnowyMouse/chimera) | ✅ full (222⭐ C++) | [reels/reel_3390_SnowyMouse-chimera](reels/reel_3390_SnowyMouse-chimera) |
 | 3391 | 2026-01-03 13:17:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142649⭐ Python) | [reels/reel_3391_langflow-ai-langflow](reels/reel_3391_langflow-ai-langflow) |
+| 3392 | 2026-01-03 13:45:10 | [sabuhiteymurov/expo-base](https://github.com/sabuhiteymurov/expo-base) | ✅ full (101⭐ TypeScript) | [reels/reel_3392_sabuhiteymurov-expo-base](reels/reel_3392_sabuhiteymurov-expo-base) |
