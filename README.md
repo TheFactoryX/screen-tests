@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3396 | [gslege/CloudflareIP](https://github.com/gslege/CloudflareIP) | Python · ⭐ 128 | 2026-01-03 |
+| #3397 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 453k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3462,3 +3462,4 @@ Or let GitHub Action run it automatically.
 | 3394 | 2026-01-03 14:41:28 | [felipegcoutinho/opensheets-app](https://github.com/felipegcoutinho/opensheets-app) | ✅ full (182⭐ TypeScript) | [reels/reel_3394_felipegcoutinho-opensheets-app](reels/reel_3394_felipegcoutinho-opensheets-app) |
 | 3395 | 2026-01-03 14:52:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123265⭐ Python) | [reels/reel_3395_langchain-ai-langchain](reels/reel_3395_langchain-ai-langchain) |
 | 3396 | 2026-01-03 15:17:42 | [gslege/CloudflareIP](https://github.com/gslege/CloudflareIP) | ✅ full (128⭐ Python) | [reels/reel_3396_gslege-CloudflareIP](reels/reel_3396_gslege-CloudflareIP) |
+| 3397 | 2026-01-03 15:40:13 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453852⭐ Markdown) | [reels/reel_3397_codecrafters-io-build-your-own-x](reels/reel_3397_codecrafters-io-build-your-own-x) |
