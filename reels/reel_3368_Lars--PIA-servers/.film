@@ -1,0 +1,24 @@
+{
+  "reel_number": 3368,
+  "recorded": "2026-01-03 03:07:10 UTC",
+  "repository": {
+    "full_name": "Lars-/PIA-servers",
+    "url": "https://github.com/Lars-/PIA-servers",
+    "clone_url": "https://github.com/Lars-/PIA-servers.git",
+    "stars": 126,
+    "language": null,
+    "size_kb": 1372103
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1339,
+    "duration_seconds": 0.000167
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 126 stars."
+  }
+}
