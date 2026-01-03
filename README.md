@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3383 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 389k | 2026-01-03 |
+| #3384 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3449,3 +3449,4 @@ Or let GitHub Action run it automatically.
 | 3381 | 2026-01-03 09:18:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142637⭐ Python) | [reels/reel_3381_langflow-ai-langflow](reels/reel_3381_langflow-ai-langflow) |
 | 3382 | 2026-01-03 09:40:52 | [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) | ✅ full (616⭐ C++) | [reels/reel_3382_osmcode-osmium-tool](reels/reel_3382_osmcode-osmium-tool) |
 | 3383 | 2026-01-03 09:51:04 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (389137⭐ Python) | [reels/reel_3383_public-apis-public-apis](reels/reel_3383_public-apis-public-apis) |
+| 3384 | 2026-01-03 10:18:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108314⭐ TypeScript) | [reels/reel_3384_iptv-org-iptv](reels/reel_3384_iptv-org-iptv) |
