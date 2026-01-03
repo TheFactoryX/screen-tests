@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3416 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-03 |
+| #3417 | [hackclub/toolbox](https://github.com/hackclub/toolbox) | JavaScript · ⭐ 23 | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3482,3 +3482,4 @@ Or let GitHub Action run it automatically.
 | 3414 | 2026-01-03 21:39:00 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139341⭐ Python) | [reels/reel_3414_ytdl-org-youtube-dl](reels/reel_3414_ytdl-org-youtube-dl) |
 | 3415 | 2026-01-03 21:49:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100721⭐ Rust) | [reels/reel_3415_tauri-apps-tauri](reels/reel_3415_tauri-apps-tauri) |
 | 3416 | 2026-01-03 22:17:51 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102015⭐ Shell) | [reels/reel_3416_papers-we-love-papers-we-love](reels/reel_3416_papers-we-love-papers-we-love) |
+| 3417 | 2026-01-03 22:42:37 | [hackclub/toolbox](https://github.com/hackclub/toolbox) | ✅ full (23⭐ JavaScript) | [reels/reel_3417_hackclub-toolbox](reels/reel_3417_hackclub-toolbox) |
