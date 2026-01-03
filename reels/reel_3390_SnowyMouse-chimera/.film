@@ -1,0 +1,24 @@
+{
+  "reel_number": 3390,
+  "recorded": "2026-01-03 12:36:49 UTC",
+  "repository": {
+    "full_name": "SnowyMouse/chimera",
+    "url": "https://github.com/SnowyMouse/chimera",
+    "clone_url": "https://github.com/SnowyMouse/chimera.git",
+    "stars": 222,
+    "language": "C++",
+    "size_kb": 17816
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.14562
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 222 stars."
+  }
+}
