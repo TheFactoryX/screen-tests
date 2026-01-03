@@ -1,0 +1,24 @@
+{
+  "reel_number": 3399,
+  "recorded": "2026-01-03 16:22:34 UTC",
+  "repository": {
+    "full_name": "hgmzhn/manga-translator-ui",
+    "url": "https://github.com/hgmzhn/manga-translator-ui",
+    "clone_url": "https://github.com/hgmzhn/manga-translator-ui.git",
+    "stars": 439,
+    "language": "Python",
+    "size_kb": 98333
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 96,
+    "duration_seconds": 3.340017
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 439 stars."
+  }
+}
