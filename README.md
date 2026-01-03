@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3379 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 453k | 2026-01-03 |
+| #3380 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 100k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3445,3 +3445,4 @@ Or let GitHub Action run it automatically.
 | 3377 | 2026-01-03 07:38:44 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100696⭐ Rust) | [reels/reel_3377_tauri-apps-tauri](reels/reel_3377_tauri-apps-tauri) |
 | 3378 | 2026-01-03 07:50:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109058⭐ Rust) | [reels/reel_3378_rust-lang-rust](reels/reel_3378_rust-lang-rust) |
 | 3379 | 2026-01-03 08:25:09 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (453763⭐ Markdown) | [reels/reel_3379_codecrafters-io-build-your-own-x](reels/reel_3379_codecrafters-io-build-your-own-x) |
+| 3380 | 2026-01-03 08:48:37 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100941⭐ Python) | [reels/reel_3380_deepseek-ai-DeepSeek-V3](reels/reel_3380_deepseek-ai-DeepSeek-V3) |
