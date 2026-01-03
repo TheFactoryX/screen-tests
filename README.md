@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3410 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 254k | 2026-01-03 |
+| #3411 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3476,3 +3476,4 @@ Or let GitHub Action run it automatically.
 | 3408 | 2026-01-03 19:41:00 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97150⭐ TypeScript) | [reels/reel_3408_ant-design-ant-design](reels/reel_3408_ant-design-ant-design) |
 | 3409 | 2026-01-03 19:50:30 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | ✅ full (300⭐ Rust) | [reels/reel_3409_open-telemetry-weaver](reels/reel_3409_open-telemetry-weaver) |
 | 3410 | 2026-01-03 20:20:20 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254426⭐ None) | [reels/reel_3410_practical-tutorials-project-based-learning](reels/reel_3410_practical-tutorials-project-based-learning) |
+| 3411 | 2026-01-03 20:42:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119570⭐ Svelte) | [reels/reel_3411_open-webui-open-webui](reels/reel_3411_open-webui-open-webui) |
