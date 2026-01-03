@@ -1,0 +1,24 @@
+{
+  "reel_number": 3413,
+  "recorded": "2026-01-03 21:16:57 UTC",
+  "repository": {
+    "full_name": "zetxek/adritian-free-hugo-theme",
+    "url": "https://github.com/zetxek/adritian-free-hugo-theme",
+    "clone_url": "https://github.com/zetxek/adritian-free-hugo-theme.git",
+    "stars": 196,
+    "language": "TypeScript",
+    "size_kb": 27384
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 0.787958
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 196 stars."
+  }
+}
