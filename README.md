@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3417 | [hackclub/toolbox](https://github.com/hackclub/toolbox) | JavaScript · ⭐ 23 | 2026-01-03 |
+| #3418 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3483,3 +3483,4 @@ Or let GitHub Action run it automatically.
 | 3415 | 2026-01-03 21:49:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100721⭐ Rust) | [reels/reel_3415_tauri-apps-tauri](reels/reel_3415_tauri-apps-tauri) |
 | 3416 | 2026-01-03 22:17:51 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102015⭐ Shell) | [reels/reel_3416_papers-we-love-papers-we-love](reels/reel_3416_papers-we-love-papers-we-love) |
 | 3417 | 2026-01-03 22:42:37 | [hackclub/toolbox](https://github.com/hackclub/toolbox) | ✅ full (23⭐ JavaScript) | [reels/reel_3417_hackclub-toolbox](reels/reel_3417_hackclub-toolbox) |
+| 3418 | 2026-01-03 22:52:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142673⭐ Python) | [reels/reel_3418_langflow-ai-langflow](reels/reel_3418_langflow-ai-langflow) |
