@@ -1,0 +1,24 @@
+{
+  "reel_number": 3382,
+  "recorded": "2026-01-03 09:40:52 UTC",
+  "repository": {
+    "full_name": "osmcode/osmium-tool",
+    "url": "https://github.com/osmcode/osmium-tool",
+    "clone_url": "https://github.com/osmcode/osmium-tool.git",
+    "stars": 616,
+    "language": "C++",
+    "size_kb": 2616
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.369546
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 616 stars."
+  }
+}
