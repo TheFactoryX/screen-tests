@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3382 | [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) | C++ · ⭐ 616 | 2026-01-03 |
+| #3383 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 389k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3448,3 +3448,4 @@ Or let GitHub Action run it automatically.
 | 3380 | 2026-01-03 08:48:37 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (100941⭐ Python) | [reels/reel_3380_deepseek-ai-DeepSeek-V3](reels/reel_3380_deepseek-ai-DeepSeek-V3) |
 | 3381 | 2026-01-03 09:18:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142637⭐ Python) | [reels/reel_3381_langflow-ai-langflow](reels/reel_3381_langflow-ai-langflow) |
 | 3382 | 2026-01-03 09:40:52 | [osmcode/osmium-tool](https://github.com/osmcode/osmium-tool) | ✅ full (616⭐ C++) | [reels/reel_3382_osmcode-osmium-tool](reels/reel_3382_osmcode-osmium-tool) |
+| 3383 | 2026-01-03 09:51:04 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (389137⭐ Python) | [reels/reel_3383_public-apis-public-apis](reels/reel_3383_public-apis-public-apis) |
