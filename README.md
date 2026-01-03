@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3390 | [SnowyMouse/chimera](https://github.com/SnowyMouse/chimera) | C++ · ⭐ 222 | 2026-01-03 |
+| #3391 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3456,3 +3456,4 @@ Or let GitHub Action run it automatically.
 | 3388 | 2026-01-03 11:37:18 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254383⭐ None) | [reels/reel_3388_practical-tutorials-project-based-learning](reels/reel_3388_practical-tutorials-project-based-learning) |
 | 3389 | 2026-01-03 11:53:00 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (669⭐ Tcl) | [reels/reel_3389_rust-lang-crates.io-index](reels/reel_3389_rust-lang-crates.io-index) |
 | 3390 | 2026-01-03 12:36:49 | [SnowyMouse/chimera](https://github.com/SnowyMouse/chimera) | ✅ full (222⭐ C++) | [reels/reel_3390_SnowyMouse-chimera](reels/reel_3390_SnowyMouse-chimera) |
+| 3391 | 2026-01-03 13:17:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142649⭐ Python) | [reels/reel_3391_langflow-ai-langflow](reels/reel_3391_langflow-ai-langflow) |
