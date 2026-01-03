@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3403 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 166k | 2026-01-03 |
+| #3404 | [richkmeli/Richkware](https://github.com/richkmeli/Richkware) | C++ · ⭐ 533 | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3469,3 +3469,4 @@ Or let GitHub Action run it automatically.
 | 3401 | 2026-01-03 17:16:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180773⭐ Python) | [reels/reel_3401_Significant-Gravitas-AutoGPT](reels/reel_3401_Significant-Gravitas-AutoGPT) |
 | 3402 | 2026-01-03 17:40:16 | [GeneBO98/tradetally](https://github.com/GeneBO98/tradetally) | ✅ full (115⭐ JavaScript) | [reels/reel_3402_GeneBO98-tradetally](reels/reel_3402_GeneBO98-tradetally) |
 | 3403 | 2026-01-03 17:49:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166236⭐ TypeScript) | [reels/reel_3403_n8n-io-n8n](reels/reel_3403_n8n-io-n8n) |
+| 3404 | 2026-01-03 18:26:28 | [richkmeli/Richkware](https://github.com/richkmeli/Richkware) | ✅ full (533⭐ C++) | [reels/reel_3404_richkmeli-Richkware](reels/reel_3404_richkmeli-Richkware) |

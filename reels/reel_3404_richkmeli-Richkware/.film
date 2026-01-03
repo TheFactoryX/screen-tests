@@ -1,0 +1,24 @@
+{
+  "reel_number": 3404,
+  "recorded": "2026-01-03 18:26:28 UTC",
+  "repository": {
+    "full_name": "richkmeli/Richkware",
+    "url": "https://github.com/richkmeli/Richkware",
+    "clone_url": "https://github.com/richkmeli/Richkware.git",
+    "stars": 533,
+    "language": "C++",
+    "size_kb": 4358
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.42003
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 533 stars."
+  }
+}
