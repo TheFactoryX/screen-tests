@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3418 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-03 |
+| #3419 | [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban) | Scala · ⭐ 979 | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3484,3 +3484,4 @@ Or let GitHub Action run it automatically.
 | 3416 | 2026-01-03 22:17:51 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102015⭐ Shell) | [reels/reel_3416_papers-we-love-papers-we-love](reels/reel_3416_papers-we-love-papers-we-love) |
 | 3417 | 2026-01-03 22:42:37 | [hackclub/toolbox](https://github.com/hackclub/toolbox) | ✅ full (23⭐ JavaScript) | [reels/reel_3417_hackclub-toolbox](reels/reel_3417_hackclub-toolbox) |
 | 3418 | 2026-01-03 22:52:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142673⭐ Python) | [reels/reel_3418_langflow-ai-langflow](reels/reel_3418_langflow-ai-langflow) |
+| 3419 | 2026-01-03 23:17:39 | [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban) | ✅ full (979⭐ Scala) | [reels/reel_3419_ghostdogpr-caliban](reels/reel_3419_ghostdogpr-caliban) |

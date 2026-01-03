@@ -1,0 +1,24 @@
+{
+  "reel_number": 3419,
+  "recorded": "2026-01-03 23:17:39 UTC",
+  "repository": {
+    "full_name": "ghostdogpr/caliban",
+    "url": "https://github.com/ghostdogpr/caliban",
+    "clone_url": "https://github.com/ghostdogpr/caliban.git",
+    "stars": 979,
+    "language": "Scala",
+    "size_kb": 16483
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 1.335649
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Scala",
+    "director_note": "A Scala repository. 979 stars."
+  }
+}
