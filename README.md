@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3370 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 669 | 2026-01-03 |
+| #3371 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 389k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3436,3 +3436,4 @@ Or let GitHub Action run it automatically.
 | 3368 | 2026-01-03 03:07:10 | [Lars-/PIA-servers](https://github.com/Lars-/PIA-servers) | ✅ readme_only (126⭐ None) | [reels/reel_3368_Lars--PIA-servers](reels/reel_3368_Lars--PIA-servers) |
 | 3369 | 2026-01-03 04:01:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266241⭐ None) | [reels/reel_3369_awesome-selfhosted-awesome-selfhosted](reels/reel_3369_awesome-selfhosted-awesome-selfhosted) |
 | 3370 | 2026-01-03 04:47:27 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (669⭐ Tcl) | [reels/reel_3370_rust-lang-crates.io-index](reels/reel_3370_rust-lang-crates.io-index) |
+| 3371 | 2026-01-03 05:00:00 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (389106⭐ Python) | [reels/reel_3371_public-apis-public-apis](reels/reel_3371_public-apis-public-apis) |
