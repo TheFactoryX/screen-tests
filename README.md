@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3419 | [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban) | Scala · ⭐ 979 | 2026-01-03 |
+| #3420 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3485,3 +3485,4 @@ Or let GitHub Action run it automatically.
 | 3417 | 2026-01-03 22:42:37 | [hackclub/toolbox](https://github.com/hackclub/toolbox) | ✅ full (23⭐ JavaScript) | [reels/reel_3417_hackclub-toolbox](reels/reel_3417_hackclub-toolbox) |
 | 3418 | 2026-01-03 22:52:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142673⭐ Python) | [reels/reel_3418_langflow-ai-langflow](reels/reel_3418_langflow-ai-langflow) |
 | 3419 | 2026-01-03 23:17:39 | [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban) | ✅ full (979⭐ Scala) | [reels/reel_3419_ghostdogpr-caliban](reels/reel_3419_ghostdogpr-caliban) |
+| 3420 | 2026-01-03 23:39:37 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97150⭐ TypeScript) | [reels/reel_3420_ant-design-ant-design](reels/reel_3420_ant-design-ant-design) |
