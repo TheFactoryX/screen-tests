@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3401 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-03 |
+| #3402 | [GeneBO98/tradetally](https://github.com/GeneBO98/tradetally) | JavaScript · ⭐ 115 | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3467,3 +3467,4 @@ Or let GitHub Action run it automatically.
 | 3399 | 2026-01-03 16:22:34 | [hgmzhn/manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) | ✅ full (439⭐ Python) | [reels/reel_3399_hgmzhn-manga-translator-ui](reels/reel_3399_hgmzhn-manga-translator-ui) |
 | 3400 | 2026-01-03 16:47:13 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102006⭐ Shell) | [reels/reel_3400_papers-we-love-papers-we-love](reels/reel_3400_papers-we-love-papers-we-love) |
 | 3401 | 2026-01-03 17:16:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180773⭐ Python) | [reels/reel_3401_Significant-Gravitas-AutoGPT](reels/reel_3401_Significant-Gravitas-AutoGPT) |
+| 3402 | 2026-01-03 17:40:16 | [GeneBO98/tradetally](https://github.com/GeneBO98/tradetally) | ✅ full (115⭐ JavaScript) | [reels/reel_3402_GeneBO98-tradetally](reels/reel_3402_GeneBO98-tradetally) |
