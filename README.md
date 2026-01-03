@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3408 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-03 |
+| #3409 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | Rust · ⭐ 300 | 2026-01-03 |
 ---
 
 ## 🎭 Selection Process
@@ -3474,3 +3474,4 @@ Or let GitHub Action run it automatically.
 | 3406 | 2026-01-03 19:14:02 | [martimfasantos/ai-agents-frameworks](https://github.com/martimfasantos/ai-agents-frameworks) | ✅ full (331⭐ Jupyter Notebook) | [reels/reel_3406_martimfasantos-ai-agents-frameworks](reels/reel_3406_martimfasantos-ai-agents-frameworks) |
 | 3407 | 2026-01-03 19:28:50 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97150⭐ TypeScript) | [reels/reel_3407_ant-design-ant-design](reels/reel_3407_ant-design-ant-design) |
 | 3408 | 2026-01-03 19:41:00 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97150⭐ TypeScript) | [reels/reel_3408_ant-design-ant-design](reels/reel_3408_ant-design-ant-design) |
+| 3409 | 2026-01-03 19:50:30 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | ✅ full (300⭐ Rust) | [reels/reel_3409_open-telemetry-weaver](reels/reel_3409_open-telemetry-weaver) |
