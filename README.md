@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3455 | [bwipp/postscriptbarcode](https://github.com/bwipp/postscriptbarcode) | PostScript · ⭐ 490 | 2026-01-04 |
+| #3456 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 454k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3521,3 +3521,4 @@ Or let GitHub Action run it automatically.
 | 3453 | 2026-01-04 16:46:43 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97156⭐ TypeScript) | [reels/reel_3453_ant-design-ant-design](reels/reel_3453_ant-design-ant-design) |
 | 3454 | 2026-01-04 17:16:12 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266514⭐ None) | [reels/reel_3454_awesome-selfhosted-awesome-selfhosted](reels/reel_3454_awesome-selfhosted-awesome-selfhosted) |
 | 3455 | 2026-01-04 17:40:37 | [bwipp/postscriptbarcode](https://github.com/bwipp/postscriptbarcode) | ✅ full (490⭐ PostScript) | [reels/reel_3455_bwipp-postscriptbarcode](reels/reel_3455_bwipp-postscriptbarcode) |
+| 3456 | 2026-01-04 17:50:34 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454135⭐ Markdown) | [reels/reel_3456_codecrafters-io-build-your-own-x](reels/reel_3456_codecrafters-io-build-your-own-x) |
