@@ -1,0 +1,24 @@
+{
+  "reel_number": 3422,
+  "recorded": "2026-01-04 01:47:23 UTC",
+  "repository": {
+    "full_name": "Cantera/cantera",
+    "url": "https://github.com/Cantera/cantera",
+    "clone_url": "https://github.com/Cantera/cantera.git",
+    "stars": 747,
+    "language": "C++",
+    "size_kb": 59490
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 58,
+    "duration_seconds": 4.333661
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 747 stars."
+  }
+}

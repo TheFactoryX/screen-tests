@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3421 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-03 |
+| #3422 | [Cantera/cantera](https://github.com/Cantera/cantera) | C++ · ⭐ 747 | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3487,3 +3487,4 @@ Or let GitHub Action run it automatically.
 | 3419 | 2026-01-03 23:17:39 | [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban) | ✅ full (979⭐ Scala) | [reels/reel_3419_ghostdogpr-caliban](reels/reel_3419_ghostdogpr-caliban) |
 | 3420 | 2026-01-03 23:39:37 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97150⭐ TypeScript) | [reels/reel_3420_ant-design-ant-design](reels/reel_3420_ant-design-ant-design) |
 | 3421 | 2026-01-03 23:50:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180779⭐ Python) | [reels/reel_3421_Significant-Gravitas-AutoGPT](reels/reel_3421_Significant-Gravitas-AutoGPT) |
+| 3422 | 2026-01-04 01:47:23 | [Cantera/cantera](https://github.com/Cantera/cantera) | ✅ full (747⭐ C++) | [reels/reel_3422_Cantera-cantera](reels/reel_3422_Cantera-cantera) |
