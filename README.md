@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3422 | [Cantera/cantera](https://github.com/Cantera/cantera) | C++ · ⭐ 747 | 2026-01-04 |
+| #3423 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3488,3 +3488,4 @@ Or let GitHub Action run it automatically.
 | 3420 | 2026-01-03 23:39:37 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97150⭐ TypeScript) | [reels/reel_3420_ant-design-ant-design](reels/reel_3420_ant-design-ant-design) |
 | 3421 | 2026-01-03 23:50:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180779⭐ Python) | [reels/reel_3421_Significant-Gravitas-AutoGPT](reels/reel_3421_Significant-Gravitas-AutoGPT) |
 | 3422 | 2026-01-04 01:47:23 | [Cantera/cantera](https://github.com/Cantera/cantera) | ✅ full (747⭐ C++) | [reels/reel_3422_Cantera-cantera](reels/reel_3422_Cantera-cantera) |
+| 3423 | 2026-01-04 03:49:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119595⭐ Svelte) | [reels/reel_3423_open-webui-open-webui](reels/reel_3423_open-webui-open-webui) |
