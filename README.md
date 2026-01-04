@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3473 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-04 |
+| #3474 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3539,3 +3539,4 @@ Or let GitHub Action run it automatically.
 | 3471 | 2026-01-04 22:54:02 | [OpenGammaProject/Mini-SiD](https://github.com/OpenGammaProject/Mini-SiD) | ✅ full (35⭐ None) | [reels/reel_3471_OpenGammaProject-Mini-SiD](reels/reel_3471_OpenGammaProject-Mini-SiD) |
 | 3472 | 2026-01-04 23:18:08 | [gmh5225/LLVMIntrinsicRewrite](https://github.com/gmh5225/LLVMIntrinsicRewrite) | ✅ full (13⭐ C) | [reels/reel_3472_gmh5225-LLVMIntrinsicRewrite](reels/reel_3472_gmh5225-LLVMIntrinsicRewrite) |
 | 3473 | 2026-01-04 23:40:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123382⭐ Python) | [reels/reel_3473_langchain-ai-langchain](reels/reel_3473_langchain-ai-langchain) |
+| 3474 | 2026-01-04 23:51:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266562⭐ None) | [reels/reel_3474_awesome-selfhosted-awesome-selfhosted](reels/reel_3474_awesome-selfhosted-awesome-selfhosted) |
