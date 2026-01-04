@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3430 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-04 |
+| #3431 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 454k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3496,3 +3496,4 @@ Or let GitHub Action run it automatically.
 | 3428 | 2026-01-04 06:55:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108393⭐ TypeScript) | [reels/reel_3428_iptv-org-iptv](reels/reel_3428_iptv-org-iptv) |
 | 3429 | 2026-01-04 07:21:12 | [teojs/clock-dashboard](https://github.com/teojs/clock-dashboard) | ✅ full (201⭐ Vue) | [reels/reel_3429_teojs-clock-dashboard](reels/reel_3429_teojs-clock-dashboard) |
 | 3430 | 2026-01-04 07:41:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123330⭐ Python) | [reels/reel_3430_langchain-ai-langchain](reels/reel_3430_langchain-ai-langchain) |
+| 3431 | 2026-01-04 07:51:14 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454028⭐ Markdown) | [reels/reel_3431_codecrafters-io-build-your-own-x](reels/reel_3431_codecrafters-io-build-your-own-x) |
