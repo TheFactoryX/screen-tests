@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3471 | [OpenGammaProject/Mini-SiD](https://github.com/OpenGammaProject/Mini-SiD) | None · ⭐ 35 | 2026-01-04 |
+| #3472 | [gmh5225/LLVMIntrinsicRewrite](https://github.com/gmh5225/LLVMIntrinsicRewrite) | C · ⭐ 13 | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3537,3 +3537,4 @@ Or let GitHub Action run it automatically.
 | 3469 | 2026-01-04 22:18:10 | [Aeron1-bit/PyWxDump](https://github.com/Aeron1-bit/PyWxDump) | ✅ full (161⭐ Python) | [reels/reel_3469_Aeron1-bit-PyWxDump](reels/reel_3469_Aeron1-bit-PyWxDump) |
 | 3470 | 2026-01-04 22:43:23 | [Rockbox/rockbox](https://github.com/Rockbox/rockbox) | ✅ shallow (607⭐ C) | [reels/reel_3470_Rockbox-rockbox](reels/reel_3470_Rockbox-rockbox) |
 | 3471 | 2026-01-04 22:54:02 | [OpenGammaProject/Mini-SiD](https://github.com/OpenGammaProject/Mini-SiD) | ✅ full (35⭐ None) | [reels/reel_3471_OpenGammaProject-Mini-SiD](reels/reel_3471_OpenGammaProject-Mini-SiD) |
+| 3472 | 2026-01-04 23:18:08 | [gmh5225/LLVMIntrinsicRewrite](https://github.com/gmh5225/LLVMIntrinsicRewrite) | ✅ full (13⭐ C) | [reels/reel_3472_gmh5225-LLVMIntrinsicRewrite](reels/reel_3472_gmh5225-LLVMIntrinsicRewrite) |
