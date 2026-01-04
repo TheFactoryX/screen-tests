@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3452 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-04 |
+| #3453 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3518,3 +3518,4 @@ Or let GitHub Action run it automatically.
 | 3450 | 2026-01-04 15:39:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108444⭐ TypeScript) | [reels/reel_3450_iptv-org-iptv](reels/reel_3450_iptv-org-iptv) |
 | 3451 | 2026-01-04 15:49:44 | [react18-tools/esbuild-plugin-react18](https://github.com/react18-tools/esbuild-plugin-react18) | ✅ full (15⭐ TypeScript) | [reels/reel_3451_react18-tools-esbuild-plugin-react18](reels/reel_3451_react18-tools-esbuild-plugin-react18) |
 | 3452 | 2026-01-04 16:22:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109098⭐ Rust) | [reels/reel_3452_rust-lang-rust](reels/reel_3452_rust-lang-rust) |
+| 3453 | 2026-01-04 16:46:43 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97156⭐ TypeScript) | [reels/reel_3453_ant-design-ant-design](reels/reel_3453_ant-design-ant-design) |
