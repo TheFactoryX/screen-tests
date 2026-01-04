@@ -1,0 +1,24 @@
+{
+  "reel_number": 3435,
+  "recorded": "2026-01-04 09:39:59 UTC",
+  "repository": {
+    "full_name": "cedarjs/cedar",
+    "url": "https://github.com/cedarjs/cedar",
+    "clone_url": "https://github.com/cedarjs/cedar.git",
+    "stars": 104,
+    "language": "TypeScript",
+    "size_kb": 477606
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 466,
+    "duration_seconds": 1.526427
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 104 stars."
+  }
+}
