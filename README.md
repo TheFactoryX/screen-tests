@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3437 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-04 |
+| #3438 | [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp) | JavaScript · ⭐ 147 | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3503,3 +3503,4 @@ Or let GitHub Action run it automatically.
 | 3435 | 2026-01-04 09:39:59 | [cedarjs/cedar](https://github.com/cedarjs/cedar) | ✅ shallow (104⭐ TypeScript) | [reels/reel_3435_cedarjs-cedar](reels/reel_3435_cedarjs-cedar) |
 | 3436 | 2026-01-04 09:50:04 | [teknogods/TeknoParrotUI](https://github.com/teknogods/TeknoParrotUI) | ✅ full (293⭐ C#) | [reels/reel_3436_teknogods-TeknoParrotUI](reels/reel_3436_teknogods-TeknoParrotUI) |
 | 3437 | 2026-01-04 10:18:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180811⭐ Python) | [reels/reel_3437_Significant-Gravitas-AutoGPT](reels/reel_3437_Significant-Gravitas-AutoGPT) |
+| 3438 | 2026-01-04 10:43:18 | [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp) | ✅ full (147⭐ JavaScript) | [reels/reel_3438_farinchan-chatery_whatsapp](reels/reel_3438_farinchan-chatery_whatsapp) |
