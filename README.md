@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3457 | [liununu/liununu](https://github.com/liununu/liununu) | JavaScript · ⭐ 124 | 2026-01-04 |
+| #3458 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3523,3 +3523,4 @@ Or let GitHub Action run it automatically.
 | 3455 | 2026-01-04 17:40:37 | [bwipp/postscriptbarcode](https://github.com/bwipp/postscriptbarcode) | ✅ full (490⭐ PostScript) | [reels/reel_3455_bwipp-postscriptbarcode](reels/reel_3455_bwipp-postscriptbarcode) |
 | 3456 | 2026-01-04 17:50:34 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454135⭐ Markdown) | [reels/reel_3456_codecrafters-io-build-your-own-x](reels/reel_3456_codecrafters-io-build-your-own-x) |
 | 3457 | 2026-01-04 18:26:37 | [liununu/liununu](https://github.com/liununu/liununu) | ✅ full (124⭐ JavaScript) | [reels/reel_3457_liununu-liununu](reels/reel_3457_liununu-liununu) |
+| 3458 | 2026-01-04 18:51:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180822⭐ Python) | [reels/reel_3458_Significant-Gravitas-AutoGPT](reels/reel_3458_Significant-Gravitas-AutoGPT) |
