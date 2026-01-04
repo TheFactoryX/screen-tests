@@ -1,0 +1,24 @@
+{
+  "reel_number": 3439,
+  "recorded": "2026-01-04 10:53:39 UTC",
+  "repository": {
+    "full_name": "solatis/claude-config",
+    "url": "https://github.com/solatis/claude-config",
+    "clone_url": "https://github.com/solatis/claude-config.git",
+    "stars": 348,
+    "language": "Python",
+    "size_kb": 738
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.554215
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 348 stars."
+  }
+}
