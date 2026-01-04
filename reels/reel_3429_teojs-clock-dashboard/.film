@@ -1,0 +1,24 @@
+{
+  "reel_number": 3429,
+  "recorded": "2026-01-04 07:21:12 UTC",
+  "repository": {
+    "full_name": "teojs/clock-dashboard",
+    "url": "https://github.com/teojs/clock-dashboard",
+    "clone_url": "https://github.com/teojs/clock-dashboard.git",
+    "stars": 201,
+    "language": "Vue",
+    "size_kb": 15484
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 1.458475
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 201 stars."
+  }
+}
