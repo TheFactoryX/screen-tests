@@ -1,0 +1,24 @@
+{
+  "reel_number": 3455,
+  "recorded": "2026-01-04 17:40:37 UTC",
+  "repository": {
+    "full_name": "bwipp/postscriptbarcode",
+    "url": "https://github.com/bwipp/postscriptbarcode",
+    "clone_url": "https://github.com/bwipp/postscriptbarcode.git",
+    "stars": 490,
+    "language": "PostScript",
+    "size_kb": 18478
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.693646
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PostScript",
+    "director_note": "A PostScript repository. 490 stars."
+  }
+}
