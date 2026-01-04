@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3423 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2026-01-04 |
+| #3424 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3489,3 +3489,4 @@ Or let GitHub Action run it automatically.
 | 3421 | 2026-01-03 23:50:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180779⭐ Python) | [reels/reel_3421_Significant-Gravitas-AutoGPT](reels/reel_3421_Significant-Gravitas-AutoGPT) |
 | 3422 | 2026-01-04 01:47:23 | [Cantera/cantera](https://github.com/Cantera/cantera) | ✅ full (747⭐ C++) | [reels/reel_3422_Cantera-cantera](reels/reel_3422_Cantera-cantera) |
 | 3423 | 2026-01-04 03:49:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119595⭐ Svelte) | [reels/reel_3423_open-webui-open-webui](reels/reel_3423_open-webui-open-webui) |
+| 3424 | 2026-01-04 04:47:31 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142695⭐ Python) | [reels/reel_3424_langflow-ai-langflow](reels/reel_3424_langflow-ai-langflow) |
