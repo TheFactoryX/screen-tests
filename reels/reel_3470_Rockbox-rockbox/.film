@@ -1,0 +1,24 @@
+{
+  "reel_number": 3470,
+  "recorded": "2026-01-04 22:43:23 UTC",
+  "repository": {
+    "full_name": "Rockbox/rockbox",
+    "url": "https://github.com/Rockbox/rockbox",
+    "clone_url": "https://github.com/Rockbox/rockbox.git",
+    "stars": 607,
+    "language": "C",
+    "size_kb": 209351
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 204,
+    "duration_seconds": 7.876928
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 607 stars."
+  }
+}
