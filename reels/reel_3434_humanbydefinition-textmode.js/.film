@@ -1,0 +1,24 @@
+{
+  "reel_number": 3434,
+  "recorded": "2026-01-04 09:18:15 UTC",
+  "repository": {
+    "full_name": "humanbydefinition/textmode.js",
+    "url": "https://github.com/humanbydefinition/textmode.js",
+    "clone_url": "https://github.com/humanbydefinition/textmode.js.git",
+    "stars": 69,
+    "language": "TypeScript",
+    "size_kb": 2162
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.690147
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 69 stars."
+  }
+}
