@@ -1,0 +1,24 @@
+{
+  "reel_number": 3426,
+  "recorded": "2026-01-04 05:47:31 UTC",
+  "repository": {
+    "full_name": "pieroproietti/penguins-eggs",
+    "url": "https://github.com/pieroproietti/penguins-eggs",
+    "clone_url": "https://github.com/pieroproietti/penguins-eggs.git",
+    "stars": 520,
+    "language": "TypeScript",
+    "size_kb": 227432
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 222,
+    "duration_seconds": 0.727955
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 520 stars."
+  }
+}
