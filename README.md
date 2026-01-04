@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3439 | [solatis/claude-config](https://github.com/solatis/claude-config) | Python · ⭐ 348 | 2026-01-04 |
+| #3440 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3505,3 +3505,4 @@ Or let GitHub Action run it automatically.
 | 3437 | 2026-01-04 10:18:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180811⭐ Python) | [reels/reel_3437_Significant-Gravitas-AutoGPT](reels/reel_3437_Significant-Gravitas-AutoGPT) |
 | 3438 | 2026-01-04 10:43:18 | [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp) | ✅ full (147⭐ JavaScript) | [reels/reel_3438_farinchan-chatery_whatsapp](reels/reel_3438_farinchan-chatery_whatsapp) |
 | 3439 | 2026-01-04 10:53:39 | [solatis/claude-config](https://github.com/solatis/claude-config) | ✅ full (348⭐ Python) | [reels/reel_3439_solatis-claude-config](reels/reel_3439_solatis-claude-config) |
+| 3440 | 2026-01-04 11:15:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119635⭐ Svelte) | [reels/reel_3440_open-webui-open-webui](reels/reel_3440_open-webui-open-webui) |
