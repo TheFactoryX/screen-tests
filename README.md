@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3466 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-04 |
+| #3467 | [umputun/tg-spam](https://github.com/umputun/tg-spam) | Go · ⭐ 397 | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3532,3 +3532,4 @@ Or let GitHub Action run it automatically.
 | 3464 | 2026-01-04 20:43:30 | [cnlohr/ch32fun](https://github.com/cnlohr/ch32fun) | ✅ full (1333⭐ C) | [reels/reel_3464_cnlohr-ch32fun](reels/reel_3464_cnlohr-ch32fun) |
 | 3465 | 2026-01-04 20:54:36 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266541⭐ None) | [reels/reel_3465_awesome-selfhosted-awesome-selfhosted](reels/reel_3465_awesome-selfhosted-awesome-selfhosted) |
 | 3466 | 2026-01-04 21:17:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108464⭐ TypeScript) | [reels/reel_3466_iptv-org-iptv](reels/reel_3466_iptv-org-iptv) |
+| 3467 | 2026-01-04 21:39:11 | [umputun/tg-spam](https://github.com/umputun/tg-spam) | ✅ shallow (397⭐ Go) | [reels/reel_3467_umputun-tg-spam](reels/reel_3467_umputun-tg-spam) |
