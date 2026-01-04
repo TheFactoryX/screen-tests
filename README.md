@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3432 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-04 |
+| #3433 | [ideasplus/Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security) | None · ⭐ 66 | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3498,3 +3498,4 @@ Or let GitHub Action run it automatically.
 | 3430 | 2026-01-04 07:41:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123330⭐ Python) | [reels/reel_3430_langchain-ai-langchain](reels/reel_3430_langchain-ai-langchain) |
 | 3431 | 2026-01-04 07:51:14 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454028⭐ Markdown) | [reels/reel_3431_codecrafters-io-build-your-own-x](reels/reel_3431_codecrafters-io-build-your-own-x) |
 | 3432 | 2026-01-04 08:25:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266434⭐ None) | [reels/reel_3432_awesome-selfhosted-awesome-selfhosted](reels/reel_3432_awesome-selfhosted-awesome-selfhosted) |
+| 3433 | 2026-01-04 08:48:57 | [ideasplus/Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security) | ✅ full (66⭐ None) | [reels/reel_3433_ideasplus-Awesome-Autonomous-Driving-Security](reels/reel_3433_ideasplus-Awesome-Autonomous-Driving-Security) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 3433,
+  "recorded": "2026-01-04 08:48:57 UTC",
+  "repository": {
+    "full_name": "ideasplus/Awesome-Autonomous-Driving-Security",
+    "url": "https://github.com/ideasplus/Awesome-Autonomous-Driving-Security",
+    "clone_url": "https://github.com/ideasplus/Awesome-Autonomous-Driving-Security.git",
+    "stars": 66,
+    "language": null,
+    "size_kb": 108
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.47397
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 66 stars."
+  }
+}
