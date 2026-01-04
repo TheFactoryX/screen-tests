@@ -1,0 +1,24 @@
+{
+  "reel_number": 3451,
+  "recorded": "2026-01-04 15:49:44 UTC",
+  "repository": {
+    "full_name": "react18-tools/esbuild-plugin-react18",
+    "url": "https://github.com/react18-tools/esbuild-plugin-react18",
+    "clone_url": "https://github.com/react18-tools/esbuild-plugin-react18.git",
+    "stars": 15,
+    "language": "TypeScript",
+    "size_kb": 5410
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.297076
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 15 stars."
+  }
+}
