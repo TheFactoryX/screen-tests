@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3426 | [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) | TypeScript · ⭐ 520 | 2026-01-04 |
+| #3427 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3492,3 +3492,4 @@ Or let GitHub Action run it automatically.
 | 3424 | 2026-01-04 04:47:31 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142695⭐ Python) | [reels/reel_3424_langflow-ai-langflow](reels/reel_3424_langflow-ai-langflow) |
 | 3425 | 2026-01-04 05:24:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108386⭐ TypeScript) | [reels/reel_3425_iptv-org-iptv](reels/reel_3425_iptv-org-iptv) |
 | 3426 | 2026-01-04 05:47:31 | [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) | ✅ shallow (520⭐ TypeScript) | [reels/reel_3426_pieroproietti-penguins-eggs](reels/reel_3426_pieroproietti-penguins-eggs) |
+| 3427 | 2026-01-04 06:29:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180795⭐ Python) | [reels/reel_3427_Significant-Gravitas-AutoGPT](reels/reel_3427_Significant-Gravitas-AutoGPT) |
