@@ -1,0 +1,24 @@
+{
+  "reel_number": 3436,
+  "recorded": "2026-01-04 09:50:04 UTC",
+  "repository": {
+    "full_name": "teknogods/TeknoParrotUI",
+    "url": "https://github.com/teknogods/TeknoParrotUI",
+    "clone_url": "https://github.com/teknogods/TeknoParrotUI.git",
+    "stars": 293,
+    "language": "C#",
+    "size_kb": 96648
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 94,
+    "duration_seconds": 2.76881
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 293 stars."
+  }
+}
