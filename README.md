@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3468 | [kismetpro/NodeSuber](https://github.com/kismetpro/NodeSuber) | Python · ⭐ 105 | 2026-01-04 |
+| #3469 | [Aeron1-bit/PyWxDump](https://github.com/Aeron1-bit/PyWxDump) | Python · ⭐ 161 | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3534,3 +3534,4 @@ Or let GitHub Action run it automatically.
 | 3466 | 2026-01-04 21:17:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108464⭐ TypeScript) | [reels/reel_3466_iptv-org-iptv](reels/reel_3466_iptv-org-iptv) |
 | 3467 | 2026-01-04 21:39:11 | [umputun/tg-spam](https://github.com/umputun/tg-spam) | ✅ shallow (397⭐ Go) | [reels/reel_3467_umputun-tg-spam](reels/reel_3467_umputun-tg-spam) |
 | 3468 | 2026-01-04 21:49:55 | [kismetpro/NodeSuber](https://github.com/kismetpro/NodeSuber) | ✅ shallow (105⭐ Python) | [reels/reel_3468_kismetpro-NodeSuber](reels/reel_3468_kismetpro-NodeSuber) |
+| 3469 | 2026-01-04 22:18:10 | [Aeron1-bit/PyWxDump](https://github.com/Aeron1-bit/PyWxDump) | ✅ full (161⭐ Python) | [reels/reel_3469_Aeron1-bit-PyWxDump](reels/reel_3469_Aeron1-bit-PyWxDump) |
