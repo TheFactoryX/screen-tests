@@ -1,0 +1,24 @@
+{
+  "reel_number": 3444,
+  "recorded": "2026-01-04 13:18:36 UTC",
+  "repository": {
+    "full_name": "malinkang/duolingo2notion",
+    "url": "https://github.com/malinkang/duolingo2notion",
+    "clone_url": "https://github.com/malinkang/duolingo2notion.git",
+    "stars": 101,
+    "language": "Python",
+    "size_kb": 2855
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.662001
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 101 stars."
+  }
+}
