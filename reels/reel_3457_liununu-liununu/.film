@@ -1,0 +1,24 @@
+{
+  "reel_number": 3457,
+  "recorded": "2026-01-04 18:26:37 UTC",
+  "repository": {
+    "full_name": "liununu/liununu",
+    "url": "https://github.com/liununu/liununu",
+    "clone_url": "https://github.com/liununu/liununu.git",
+    "stars": 124,
+    "language": "JavaScript",
+    "size_kb": 2198
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.259605
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 124 stars."
+  }
+}
