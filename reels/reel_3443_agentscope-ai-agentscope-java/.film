@@ -1,0 +1,24 @@
+{
+  "reel_number": 3443,
+  "recorded": "2026-01-04 12:37:05 UTC",
+  "repository": {
+    "full_name": "agentscope-ai/agentscope-java",
+    "url": "https://github.com/agentscope-ai/agentscope-java",
+    "clone_url": "https://github.com/agentscope-ai/agentscope-java.git",
+    "stars": 737,
+    "language": "Java",
+    "size_kb": 25594
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 2.04641
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 737 stars."
+  }
+}
