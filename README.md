@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3460 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-04 |
+| #3461 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3526,3 +3526,4 @@ Or let GitHub Action run it automatically.
 | 3458 | 2026-01-04 18:51:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180822⭐ Python) | [reels/reel_3458_Significant-Gravitas-AutoGPT](reels/reel_3458_Significant-Gravitas-AutoGPT) |
 | 3459 | 2026-01-04 19:14:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180822⭐ Python) | [reels/reel_3459_Significant-Gravitas-AutoGPT](reels/reel_3459_Significant-Gravitas-AutoGPT) |
 | 3460 | 2026-01-04 19:28:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123379⭐ Python) | [reels/reel_3460_langchain-ai-langchain](reels/reel_3460_langchain-ai-langchain) |
+| 3461 | 2026-01-04 19:41:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140614⭐ Python) | [reels/reel_3461_yt-dlp-yt-dlp](reels/reel_3461_yt-dlp-yt-dlp) |
