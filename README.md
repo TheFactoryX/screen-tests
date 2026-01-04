@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3463 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 254k | 2026-01-04 |
+| #3464 | [cnlohr/ch32fun](https://github.com/cnlohr/ch32fun) | C · ⭐ 1k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3529,3 +3529,4 @@ Or let GitHub Action run it automatically.
 | 3461 | 2026-01-04 19:41:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140614⭐ Python) | [reels/reel_3461_yt-dlp-yt-dlp](reels/reel_3461_yt-dlp-yt-dlp) |
 | 3462 | 2026-01-04 19:51:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108460⭐ TypeScript) | [reels/reel_3462_iptv-org-iptv](reels/reel_3462_iptv-org-iptv) |
 | 3463 | 2026-01-04 20:21:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254558⭐ None) | [reels/reel_3463_practical-tutorials-project-based-learning](reels/reel_3463_practical-tutorials-project-based-learning) |
+| 3464 | 2026-01-04 20:43:30 | [cnlohr/ch32fun](https://github.com/cnlohr/ch32fun) | ✅ full (1333⭐ C) | [reels/reel_3464_cnlohr-ch32fun](reels/reel_3464_cnlohr-ch32fun) |
