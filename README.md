@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3470 | [Rockbox/rockbox](https://github.com/Rockbox/rockbox) | C · ⭐ 607 | 2026-01-04 |
+| #3471 | [OpenGammaProject/Mini-SiD](https://github.com/OpenGammaProject/Mini-SiD) | None · ⭐ 35 | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3536,3 +3536,4 @@ Or let GitHub Action run it automatically.
 | 3468 | 2026-01-04 21:49:55 | [kismetpro/NodeSuber](https://github.com/kismetpro/NodeSuber) | ✅ shallow (105⭐ Python) | [reels/reel_3468_kismetpro-NodeSuber](reels/reel_3468_kismetpro-NodeSuber) |
 | 3469 | 2026-01-04 22:18:10 | [Aeron1-bit/PyWxDump](https://github.com/Aeron1-bit/PyWxDump) | ✅ full (161⭐ Python) | [reels/reel_3469_Aeron1-bit-PyWxDump](reels/reel_3469_Aeron1-bit-PyWxDump) |
 | 3470 | 2026-01-04 22:43:23 | [Rockbox/rockbox](https://github.com/Rockbox/rockbox) | ✅ shallow (607⭐ C) | [reels/reel_3470_Rockbox-rockbox](reels/reel_3470_Rockbox-rockbox) |
+| 3471 | 2026-01-04 22:54:02 | [OpenGammaProject/Mini-SiD](https://github.com/OpenGammaProject/Mini-SiD) | ✅ full (35⭐ None) | [reels/reel_3471_OpenGammaProject-Mini-SiD](reels/reel_3471_OpenGammaProject-Mini-SiD) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 3471,
+  "recorded": "2026-01-04 22:54:02 UTC",
+  "repository": {
+    "full_name": "OpenGammaProject/Mini-SiD",
+    "url": "https://github.com/OpenGammaProject/Mini-SiD",
+    "clone_url": "https://github.com/OpenGammaProject/Mini-SiD.git",
+    "stars": 35,
+    "language": null,
+    "size_kb": 12953
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.493776
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 35 stars."
+  }
+}
