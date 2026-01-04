@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3449 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 454k | 2026-01-04 |
+| #3450 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-04 |
 ---
 
 ## 🎭 Selection Process
@@ -3515,3 +3515,4 @@ Or let GitHub Action run it automatically.
 | 3447 | 2026-01-04 14:41:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180814⭐ Python) | [reels/reel_3447_Significant-Gravitas-AutoGPT](reels/reel_3447_Significant-Gravitas-AutoGPT) |
 | 3448 | 2026-01-04 14:51:35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140584⭐ Python) | [reels/reel_3448_yt-dlp-yt-dlp](reels/reel_3448_yt-dlp-yt-dlp) |
 | 3449 | 2026-01-04 15:17:53 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454114⭐ Markdown) | [reels/reel_3449_codecrafters-io-build-your-own-x](reels/reel_3449_codecrafters-io-build-your-own-x) |
+| 3450 | 2026-01-04 15:39:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108444⭐ TypeScript) | [reels/reel_3450_iptv-org-iptv](reels/reel_3450_iptv-org-iptv) |
