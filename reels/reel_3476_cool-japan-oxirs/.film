@@ -1,0 +1,24 @@
+{
+  "reel_number": 3476,
+  "recorded": "2026-01-05 03:53:58 UTC",
+  "repository": {
+    "full_name": "cool-japan/oxirs",
+    "url": "https://github.com/cool-japan/oxirs",
+    "clone_url": "https://github.com/cool-japan/oxirs.git",
+    "stars": 17,
+    "language": "Rust",
+    "size_kb": 15223
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 3.610234
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 17 stars."
+  }
+}
