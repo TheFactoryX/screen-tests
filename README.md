@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3480 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 166k | 2026-01-05 |
+| #3481 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3546,3 +3546,4 @@ Or let GitHub Action run it automatically.
 | 3478 | 2026-01-05 05:34:25 | [dev-five-git/devup-ui](https://github.com/dev-five-git/devup-ui) | ✅ full (313⭐ Rust) | [reels/reel_3478_dev-five-git-devup-ui](reels/reel_3478_dev-five-git-devup-ui) |
 | 3479 | 2026-01-05 06:00:40 | [fosslight/fosslight](https://github.com/fosslight/fosslight) | ✅ full (192⭐ Java) | [reels/reel_3479_fosslight-fosslight](reels/reel_3479_fosslight-fosslight) |
 | 3480 | 2026-01-05 06:56:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166549⭐ TypeScript) | [reels/reel_3480_n8n-io-n8n](reels/reel_3480_n8n-io-n8n) |
+| 3481 | 2026-01-05 07:29:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266616⭐ None) | [reels/reel_3481_awesome-selfhosted-awesome-selfhosted](reels/reel_3481_awesome-selfhosted-awesome-selfhosted) |
