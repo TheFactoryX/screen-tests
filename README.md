@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3503 | [huggingface/tokenizers](https://github.com/huggingface/tokenizers) | Rust · ⭐ 10k | 2026-01-05 |
+| #3504 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3569,3 +3569,4 @@ Or let GitHub Action run it automatically.
 | 3501 | 2026-01-05 17:46:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266687⭐ None) | [reels/reel_3501_awesome-selfhosted-awesome-selfhosted](reels/reel_3501_awesome-selfhosted-awesome-selfhosted) |
 | 3502 | 2026-01-05 18:30:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108551⭐ TypeScript) | [reels/reel_3502_iptv-org-iptv](reels/reel_3502_iptv-org-iptv) |
 | 3503 | 2026-01-05 18:57:22 | [huggingface/tokenizers](https://github.com/huggingface/tokenizers) | ✅ full (10362⭐ Rust) | [reels/reel_3503_huggingface-tokenizers](reels/reel_3503_huggingface-tokenizers) |
+| 3504 | 2026-01-05 19:23:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100803⭐ Rust) | [reels/reel_3504_tauri-apps-tauri](reels/reel_3504_tauri-apps-tauri) |
