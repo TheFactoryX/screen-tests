@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3506 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 454k | 2026-01-05 |
+| #3507 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3572,3 +3572,4 @@ Or let GitHub Action run it automatically.
 | 3504 | 2026-01-05 19:23:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100803⭐ Rust) | [reels/reel_3504_tauri-apps-tauri](reels/reel_3504_tauri-apps-tauri) |
 | 3505 | 2026-01-05 19:40:37 | [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) | ✅ full (755⭐ TypeScript) | [reels/reel_3505_AgnosticUI-agnosticui](reels/reel_3505_AgnosticUI-agnosticui) |
 | 3506 | 2026-01-05 19:51:05 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454387⭐ Markdown) | [reels/reel_3506_codecrafters-io-build-your-own-x](reels/reel_3506_codecrafters-io-build-your-own-x) |
+| 3507 | 2026-01-05 20:23:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109150⭐ Rust) | [reels/reel_3507_rust-lang-rust](reels/reel_3507_rust-lang-rust) |
