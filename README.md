@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3504 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-05 |
+| #3505 | [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) | TypeScript · ⭐ 755 | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3570,3 +3570,4 @@ Or let GitHub Action run it automatically.
 | 3502 | 2026-01-05 18:30:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108551⭐ TypeScript) | [reels/reel_3502_iptv-org-iptv](reels/reel_3502_iptv-org-iptv) |
 | 3503 | 2026-01-05 18:57:22 | [huggingface/tokenizers](https://github.com/huggingface/tokenizers) | ✅ full (10362⭐ Rust) | [reels/reel_3503_huggingface-tokenizers](reels/reel_3503_huggingface-tokenizers) |
 | 3504 | 2026-01-05 19:23:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100803⭐ Rust) | [reels/reel_3504_tauri-apps-tauri](reels/reel_3504_tauri-apps-tauri) |
+| 3505 | 2026-01-05 19:40:37 | [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) | ✅ full (755⭐ TypeScript) | [reels/reel_3505_AgnosticUI-agnosticui](reels/reel_3505_AgnosticUI-agnosticui) |

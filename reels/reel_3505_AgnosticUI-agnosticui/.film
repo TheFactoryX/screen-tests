@@ -1,0 +1,24 @@
+{
+  "reel_number": 3505,
+  "recorded": "2026-01-05 19:40:37 UTC",
+  "repository": {
+    "full_name": "AgnosticUI/agnosticui",
+    "url": "https://github.com/AgnosticUI/agnosticui",
+    "clone_url": "https://github.com/AgnosticUI/agnosticui.git",
+    "stars": 755,
+    "language": "TypeScript",
+    "size_kb": 65229
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 4.916998
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 755 stars."
+  }
+}
