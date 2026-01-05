@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3511 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-05 |
+| #3512 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3577,3 +3577,4 @@ Or let GitHub Action run it automatically.
 | 3509 | 2026-01-05 21:18:53 | [PostHog/posthog.com](https://github.com/PostHog/posthog.com) | ✅ readme_only (885⭐ TypeScript) | [reels/reel_3509_PostHog-posthog.com](reels/reel_3509_PostHog-posthog.com) |
 | 3510 | 2026-01-05 21:42:34 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100805⭐ Rust) | [reels/reel_3510_tauri-apps-tauri](reels/reel_3510_tauri-apps-tauri) |
 | 3511 | 2026-01-05 21:52:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104100⭐ TypeScript) | [reels/reel_3511_shadcn-ui-ui](reels/reel_3511_shadcn-ui-ui) |
+| 3512 | 2026-01-05 22:19:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102095⭐ Shell) | [reels/reel_3512_papers-we-love-papers-we-love](reels/reel_3512_papers-we-love-papers-we-love) |
