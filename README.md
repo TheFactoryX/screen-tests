@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3476 | [cool-japan/oxirs](https://github.com/cool-japan/oxirs) | Rust · ⭐ 17 | 2026-01-05 |
+| #3477 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3542,3 +3542,4 @@ Or let GitHub Action run it automatically.
 | 3474 | 2026-01-04 23:51:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266562⭐ None) | [reels/reel_3474_awesome-selfhosted-awesome-selfhosted](reels/reel_3474_awesome-selfhosted-awesome-selfhosted) |
 | 3475 | 2026-01-05 01:47:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166504⭐ TypeScript) | [reels/reel_3475_n8n-io-n8n](reels/reel_3475_n8n-io-n8n) |
 | 3476 | 2026-01-05 03:53:58 | [cool-japan/oxirs](https://github.com/cool-japan/oxirs) | ✅ full (17⭐ Rust) | [reels/reel_3476_cool-japan-oxirs](reels/reel_3476_cool-japan-oxirs) |
+| 3477 | 2026-01-05 04:55:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109120⭐ Rust) | [reels/reel_3477_rust-lang-rust](reels/reel_3477_rust-lang-rust) |
