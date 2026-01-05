@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3502 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-05 |
+| #3503 | [huggingface/tokenizers](https://github.com/huggingface/tokenizers) | Rust · ⭐ 10k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3568,3 +3568,4 @@ Or let GitHub Action run it automatically.
 | 3500 | 2026-01-05 17:20:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109143⭐ Rust) | [reels/reel_3500_rust-lang-rust](reels/reel_3500_rust-lang-rust) |
 | 3501 | 2026-01-05 17:46:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266687⭐ None) | [reels/reel_3501_awesome-selfhosted-awesome-selfhosted](reels/reel_3501_awesome-selfhosted-awesome-selfhosted) |
 | 3502 | 2026-01-05 18:30:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108551⭐ TypeScript) | [reels/reel_3502_iptv-org-iptv](reels/reel_3502_iptv-org-iptv) |
+| 3503 | 2026-01-05 18:57:22 | [huggingface/tokenizers](https://github.com/huggingface/tokenizers) | ✅ full (10362⭐ Rust) | [reels/reel_3503_huggingface-tokenizers](reels/reel_3503_huggingface-tokenizers) |
