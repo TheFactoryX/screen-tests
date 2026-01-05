@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3482 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-05 |
+| #3483 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3548,3 +3548,4 @@ Or let GitHub Action run it automatically.
 | 3480 | 2026-01-05 06:56:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166549⭐ TypeScript) | [reels/reel_3480_n8n-io-n8n](reels/reel_3480_n8n-io-n8n) |
 | 3481 | 2026-01-05 07:29:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266616⭐ None) | [reels/reel_3481_awesome-selfhosted-awesome-selfhosted](reels/reel_3481_awesome-selfhosted-awesome-selfhosted) |
 | 3482 | 2026-01-05 07:50:27 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180839⭐ Python) | [reels/reel_3482_Significant-Gravitas-AutoGPT](reels/reel_3482_Significant-Gravitas-AutoGPT) |
+| 3483 | 2026-01-05 08:30:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123433⭐ Python) | [reels/reel_3483_langchain-ai-langchain](reels/reel_3483_langchain-ai-langchain) |
