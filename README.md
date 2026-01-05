@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3509 | [PostHog/posthog.com](https://github.com/PostHog/posthog.com) | TypeScript · ⭐ 885 | 2026-01-05 |
+| #3510 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3575,3 +3575,4 @@ Or let GitHub Action run it automatically.
 | 3507 | 2026-01-05 20:23:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109150⭐ Rust) | [reels/reel_3507_rust-lang-rust](reels/reel_3507_rust-lang-rust) |
 | 3508 | 2026-01-05 20:46:23 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454388⭐ Markdown) | [reels/reel_3508_codecrafters-io-build-your-own-x](reels/reel_3508_codecrafters-io-build-your-own-x) |
 | 3509 | 2026-01-05 21:18:53 | [PostHog/posthog.com](https://github.com/PostHog/posthog.com) | ✅ readme_only (885⭐ TypeScript) | [reels/reel_3509_PostHog-posthog.com](reels/reel_3509_PostHog-posthog.com) |
+| 3510 | 2026-01-05 21:42:34 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100805⭐ Rust) | [reels/reel_3510_tauri-apps-tauri](reels/reel_3510_tauri-apps-tauri) |
