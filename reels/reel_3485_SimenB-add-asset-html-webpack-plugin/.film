@@ -1,0 +1,24 @@
+{
+  "reel_number": 3485,
+  "recorded": "2026-01-05 09:47:00 UTC",
+  "repository": {
+    "full_name": "SimenB/add-asset-html-webpack-plugin",
+    "url": "https://github.com/SimenB/add-asset-html-webpack-plugin",
+    "clone_url": "https://github.com/SimenB/add-asset-html-webpack-plugin.git",
+    "stars": 336,
+    "language": "JavaScript",
+    "size_kb": 13858
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 1.412689
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 336 stars."
+  }
+}
