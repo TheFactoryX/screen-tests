@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3489 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-05 |
+| #3490 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3555,3 +3555,4 @@ Or let GitHub Action run it automatically.
 | 3487 | 2026-01-05 10:50:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100789⭐ Rust) | [reels/reel_3487_tauri-apps-tauri](reels/reel_3487_tauri-apps-tauri) |
 | 3488 | 2026-01-05 11:18:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119725⭐ Svelte) | [reels/reel_3488_open-webui-open-webui](reels/reel_3488_open-webui-open-webui) |
 | 3489 | 2026-01-05 11:41:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180846⭐ Python) | [reels/reel_3489_Significant-Gravitas-AutoGPT](reels/reel_3489_Significant-Gravitas-AutoGPT) |
+| 3490 | 2026-01-05 11:51:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142799⭐ Python) | [reels/reel_3490_langflow-ai-langflow](reels/reel_3490_langflow-ai-langflow) |
