@@ -1,0 +1,24 @@
+{
+  "reel_number": 3478,
+  "recorded": "2026-01-05 05:34:25 UTC",
+  "repository": {
+    "full_name": "dev-five-git/devup-ui",
+    "url": "https://github.com/dev-five-git/devup-ui",
+    "clone_url": "https://github.com/dev-five-git/devup-ui.git",
+    "stars": 313,
+    "language": "Rust",
+    "size_kb": 33681
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 1.466789
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 313 stars."
+  }
+}

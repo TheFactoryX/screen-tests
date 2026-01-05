@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3477 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-05 |
+| #3478 | [dev-five-git/devup-ui](https://github.com/dev-five-git/devup-ui) | Rust · ⭐ 313 | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3543,3 +3543,4 @@ Or let GitHub Action run it automatically.
 | 3475 | 2026-01-05 01:47:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166504⭐ TypeScript) | [reels/reel_3475_n8n-io-n8n](reels/reel_3475_n8n-io-n8n) |
 | 3476 | 2026-01-05 03:53:58 | [cool-japan/oxirs](https://github.com/cool-japan/oxirs) | ✅ full (17⭐ Rust) | [reels/reel_3476_cool-japan-oxirs](reels/reel_3476_cool-japan-oxirs) |
 | 3477 | 2026-01-05 04:55:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109120⭐ Rust) | [reels/reel_3477_rust-lang-rust](reels/reel_3477_rust-lang-rust) |
+| 3478 | 2026-01-05 05:34:25 | [dev-five-git/devup-ui](https://github.com/dev-five-git/devup-ui) | ✅ full (313⭐ Rust) | [reels/reel_3478_dev-five-git-devup-ui](reels/reel_3478_dev-five-git-devup-ui) |
