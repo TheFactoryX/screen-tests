@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3512 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-05 |
+| #3513 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3578,3 +3578,4 @@ Or let GitHub Action run it automatically.
 | 3510 | 2026-01-05 21:42:34 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100805⭐ Rust) | [reels/reel_3510_tauri-apps-tauri](reels/reel_3510_tauri-apps-tauri) |
 | 3511 | 2026-01-05 21:52:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104100⭐ TypeScript) | [reels/reel_3511_shadcn-ui-ui](reels/reel_3511_shadcn-ui-ui) |
 | 3512 | 2026-01-05 22:19:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102095⭐ Shell) | [reels/reel_3512_papers-we-love-papers-we-love](reels/reel_3512_papers-we-love-papers-we-love) |
+| 3513 | 2026-01-05 22:45:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140734⭐ Python) | [reels/reel_3513_yt-dlp-yt-dlp](reels/reel_3513_yt-dlp-yt-dlp) |
