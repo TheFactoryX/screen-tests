@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3491 | [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) | Go · ⭐ 415 | 2026-01-05 |
+| #3492 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3557,3 +3557,4 @@ Or let GitHub Action run it automatically.
 | 3489 | 2026-01-05 11:41:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180846⭐ Python) | [reels/reel_3489_Significant-Gravitas-AutoGPT](reels/reel_3489_Significant-Gravitas-AutoGPT) |
 | 3490 | 2026-01-05 11:51:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142799⭐ Python) | [reels/reel_3490_langflow-ai-langflow](reels/reel_3490_langflow-ai-langflow) |
 | 3491 | 2026-01-05 12:42:56 | [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) | ✅ full (415⭐ Go) | [reels/reel_3491_kubernetes-sigs-cloud-provider-kind](reels/reel_3491_kubernetes-sigs-cloud-provider-kind) |
+| 3492 | 2026-01-05 13:30:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123458⭐ Python) | [reels/reel_3492_langchain-ai-langchain](reels/reel_3492_langchain-ai-langchain) |
