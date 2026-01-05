@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3498 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 405 | 2026-01-05 |
+| #3499 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3564,3 +3564,4 @@ Or let GitHub Action run it automatically.
 | 3496 | 2026-01-05 15:29:31 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123462⭐ Python) | [reels/reel_3496_langchain-ai-langchain](reels/reel_3496_langchain-ai-langchain) |
 | 3497 | 2026-01-05 15:49:18 | [UnstableDesign/AdaCAD-UI](https://github.com/UnstableDesign/AdaCAD-UI) | ✅ shallow (65⭐ Ada) | [reels/reel_3497_UnstableDesign-AdaCAD-UI](reels/reel_3497_UnstableDesign-AdaCAD-UI) |
 | 3498 | 2026-01-05 16:25:19 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ shallow (405⭐ None) | [reels/reel_3498_zloi-user-hideip.me](reels/reel_3498_zloi-user-hideip.me) |
+| 3499 | 2026-01-05 16:51:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266678⭐ None) | [reels/reel_3499_awesome-selfhosted-awesome-selfhosted](reels/reel_3499_awesome-selfhosted-awesome-selfhosted) |
