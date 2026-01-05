@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3487 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-05 |
+| #3488 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 119k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3553,3 +3553,4 @@ Or let GitHub Action run it automatically.
 | 3485 | 2026-01-05 09:47:00 | [SimenB/add-asset-html-webpack-plugin](https://github.com/SimenB/add-asset-html-webpack-plugin) | ✅ full (336⭐ JavaScript) | [reels/reel_3485_SimenB-add-asset-html-webpack-plugin](reels/reel_3485_SimenB-add-asset-html-webpack-plugin) |
 | 3486 | 2026-01-05 10:23:28 | [cobuildwithus/flows.wtf](https://github.com/cobuildwithus/flows.wtf) | ✅ full (13⭐ TypeScript) | [reels/reel_3486_cobuildwithus-flows.wtf](reels/reel_3486_cobuildwithus-flows.wtf) |
 | 3487 | 2026-01-05 10:50:40 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100789⭐ Rust) | [reels/reel_3487_tauri-apps-tauri](reels/reel_3487_tauri-apps-tauri) |
+| 3488 | 2026-01-05 11:18:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (119725⭐ Svelte) | [reels/reel_3488_open-webui-open-webui](reels/reel_3488_open-webui-open-webui) |
