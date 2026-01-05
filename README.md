@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3493 | [devops-infra/docker-terragrunt](https://github.com/devops-infra/docker-terragrunt) | Makefile · ⭐ 173 | 2026-01-05 |
+| #3494 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 166k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3559,3 +3559,4 @@ Or let GitHub Action run it automatically.
 | 3491 | 2026-01-05 12:42:56 | [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) | ✅ full (415⭐ Go) | [reels/reel_3491_kubernetes-sigs-cloud-provider-kind](reels/reel_3491_kubernetes-sigs-cloud-provider-kind) |
 | 3492 | 2026-01-05 13:30:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123458⭐ Python) | [reels/reel_3492_langchain-ai-langchain](reels/reel_3492_langchain-ai-langchain) |
 | 3493 | 2026-01-05 13:58:25 | [devops-infra/docker-terragrunt](https://github.com/devops-infra/docker-terragrunt) | ✅ full (173⭐ Makefile) | [reels/reel_3493_devops-infra-docker-terragrunt](reels/reel_3493_devops-infra-docker-terragrunt) |
+| 3494 | 2026-01-05 14:32:34 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166641⭐ TypeScript) | [reels/reel_3494_n8n-io-n8n](reels/reel_3494_n8n-io-n8n) |
