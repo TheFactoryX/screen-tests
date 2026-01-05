@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3515 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-05 |
+| #3516 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3581,3 +3581,4 @@ Or let GitHub Action run it automatically.
 | 3513 | 2026-01-05 22:45:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140734⭐ Python) | [reels/reel_3513_yt-dlp-yt-dlp](reels/reel_3513_yt-dlp-yt-dlp) |
 | 3514 | 2026-01-05 23:18:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266727⭐ None) | [reels/reel_3514_awesome-selfhosted-awesome-selfhosted](reels/reel_3514_awesome-selfhosted-awesome-selfhosted) |
 | 3515 | 2026-01-05 23:41:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109148⭐ Rust) | [reels/reel_3515_rust-lang-rust](reels/reel_3515_rust-lang-rust) |
+| 3516 | 2026-01-05 23:51:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123475⭐ Python) | [reels/reel_3516_langchain-ai-langchain](reels/reel_3516_langchain-ai-langchain) |
