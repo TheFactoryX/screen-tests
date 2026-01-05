@@ -1,0 +1,24 @@
+{
+  "reel_number": 3493,
+  "recorded": "2026-01-05 13:58:25 UTC",
+  "repository": {
+    "full_name": "devops-infra/docker-terragrunt",
+    "url": "https://github.com/devops-infra/docker-terragrunt",
+    "clone_url": "https://github.com/devops-infra/docker-terragrunt.git",
+    "stars": 173,
+    "language": "Makefile",
+    "size_kb": 3493
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.466964
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Makefile",
+    "director_note": "A Makefile repository. 173 stars."
+  }
+}
