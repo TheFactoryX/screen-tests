@@ -1,0 +1,24 @@
+{
+  "reel_number": 3509,
+  "recorded": "2026-01-05 21:18:53 UTC",
+  "repository": {
+    "full_name": "PostHog/posthog.com",
+    "url": "https://github.com/PostHog/posthog.com",
+    "clone_url": "https://github.com/PostHog/posthog.com.git",
+    "stars": 885,
+    "language": "TypeScript",
+    "size_kb": 2173613
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2122,
+    "duration_seconds": 0.000135
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 885 stars."
+  }
+}

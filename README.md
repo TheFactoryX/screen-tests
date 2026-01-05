@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3508 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 454k | 2026-01-05 |
+| #3509 | [PostHog/posthog.com](https://github.com/PostHog/posthog.com) | TypeScript · ⭐ 885 | 2026-01-05 |
 ---
 
 ## 🎭 Selection Process
@@ -3574,3 +3574,4 @@ Or let GitHub Action run it automatically.
 | 3506 | 2026-01-05 19:51:05 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454387⭐ Markdown) | [reels/reel_3506_codecrafters-io-build-your-own-x](reels/reel_3506_codecrafters-io-build-your-own-x) |
 | 3507 | 2026-01-05 20:23:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109150⭐ Rust) | [reels/reel_3507_rust-lang-rust](reels/reel_3507_rust-lang-rust) |
 | 3508 | 2026-01-05 20:46:23 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454388⭐ Markdown) | [reels/reel_3508_codecrafters-io-build-your-own-x](reels/reel_3508_codecrafters-io-build-your-own-x) |
+| 3509 | 2026-01-05 21:18:53 | [PostHog/posthog.com](https://github.com/PostHog/posthog.com) | ✅ readme_only (885⭐ TypeScript) | [reels/reel_3509_PostHog-posthog.com](reels/reel_3509_PostHog-posthog.com) |
