@@ -1,0 +1,24 @@
+{
+  "reel_number": 3553,
+  "recorded": "2026-01-06 20:44:50 UTC",
+  "repository": {
+    "full_name": "assistant-ui/tool-ui",
+    "url": "https://github.com/assistant-ui/tool-ui",
+    "clone_url": "https://github.com/assistant-ui/tool-ui.git",
+    "stars": 110,
+    "language": "TypeScript",
+    "size_kb": 2771
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.496515
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 110 stars."
+  }
+}
