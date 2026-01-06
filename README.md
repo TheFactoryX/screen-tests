@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3549 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 672 | 2026-01-06 |
+| #3550 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3615,3 +3615,4 @@ Or let GitHub Action run it automatically.
 | 3547 | 2026-01-06 18:29:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100846⭐ Rust) | [reels/reel_3547_tauri-apps-tauri](reels/reel_3547_tauri-apps-tauri) |
 | 3548 | 2026-01-06 18:54:26 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104189⭐ TypeScript) | [reels/reel_3548_shadcn-ui-ui](reels/reel_3548_shadcn-ui-ui) |
 | 3549 | 2026-01-06 19:18:56 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (672⭐ Tcl) | [reels/reel_3549_rust-lang-crates.io-index](reels/reel_3549_rust-lang-crates.io-index) |
+| 3550 | 2026-01-06 19:39:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180889⭐ Python) | [reels/reel_3550_Significant-Gravitas-AutoGPT](reels/reel_3550_Significant-Gravitas-AutoGPT) |
