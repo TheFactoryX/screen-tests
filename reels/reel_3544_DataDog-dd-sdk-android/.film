@@ -1,0 +1,24 @@
+{
+  "reel_number": 3544,
+  "recorded": "2026-01-06 16:55:25 UTC",
+  "repository": {
+    "full_name": "DataDog/dd-sdk-android",
+    "url": "https://github.com/DataDog/dd-sdk-android",
+    "clone_url": "https://github.com/DataDog/dd-sdk-android.git",
+    "stars": 205,
+    "language": "Kotlin",
+    "size_kb": 97353
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 95,
+    "duration_seconds": 4.418624
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 205 stars."
+  }
+}

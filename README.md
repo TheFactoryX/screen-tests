@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3543 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 454k | 2026-01-06 |
+| #3544 | [DataDog/dd-sdk-android](https://github.com/DataDog/dd-sdk-android) | Kotlin · ⭐ 205 | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3609,3 +3609,4 @@ Or let GitHub Action run it automatically.
 | 3541 | 2026-01-06 15:21:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166835⭐ TypeScript) | [reels/reel_3541_n8n-io-n8n](reels/reel_3541_n8n-io-n8n) |
 | 3542 | 2026-01-06 15:45:39 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140811⭐ Python) | [reels/reel_3542_yt-dlp-yt-dlp](reels/reel_3542_yt-dlp-yt-dlp) |
 | 3543 | 2026-01-06 16:26:48 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (454554⭐ Markdown) | [reels/reel_3543_codecrafters-io-build-your-own-x](reels/reel_3543_codecrafters-io-build-your-own-x) |
+| 3544 | 2026-01-06 16:55:25 | [DataDog/dd-sdk-android](https://github.com/DataDog/dd-sdk-android) | ✅ full (205⭐ Kotlin) | [reels/reel_3544_DataDog-dd-sdk-android](reels/reel_3544_DataDog-dd-sdk-android) |
