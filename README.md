@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3555 | [VineLang/vine](https://github.com/VineLang/vine) | Rust · ⭐ 337 | 2026-01-06 |
+| #3556 | [QuinnSixe/Solana-Pumpfun-Mayhem-Bot](https://github.com/QuinnSixe/Solana-Pumpfun-Mayhem-Bot) | TypeScript · ⭐ 584 | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3621,3 +3621,4 @@ Or let GitHub Action run it automatically.
 | 3553 | 2026-01-06 20:44:50 | [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui) | ✅ full (110⭐ TypeScript) | [reels/reel_3553_assistant-ui-tool-ui](reels/reel_3553_assistant-ui-tool-ui) |
 | 3554 | 2026-01-06 20:55:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123570⭐ Python) | [reels/reel_3554_langchain-ai-langchain](reels/reel_3554_langchain-ai-langchain) |
 | 3555 | 2026-01-06 21:19:43 | [VineLang/vine](https://github.com/VineLang/vine) | ✅ full (337⭐ Rust) | [reels/reel_3555_VineLang-vine](reels/reel_3555_VineLang-vine) |
+| 3556 | 2026-01-06 21:42:14 | [QuinnSixe/Solana-Pumpfun-Mayhem-Bot](https://github.com/QuinnSixe/Solana-Pumpfun-Mayhem-Bot) | ✅ full (584⭐ TypeScript) | [reels/reel_3556_QuinnSixe-Solana-Pumpfun-Mayhem-Bot](reels/reel_3556_QuinnSixe-Solana-Pumpfun-Mayhem-Bot) |
