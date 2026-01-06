@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3531 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-06 |
+| #3532 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3597,3 +3597,4 @@ Or let GitHub Action run it automatically.
 | 3529 | 2026-01-06 09:27:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100827⭐ Rust) | [reels/reel_3529_tauri-apps-tauri](reels/reel_3529_tauri-apps-tauri) |
 | 3530 | 2026-01-06 09:49:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103938⭐ None) | [reels/reel_3530_Hack-with-Github-Awesome-Hacking](reels/reel_3530_Hack-with-Github-Awesome-Hacking) |
 | 3531 | 2026-01-06 10:21:32 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139365⭐ Python) | [reels/reel_3531_ytdl-org-youtube-dl](reels/reel_3531_ytdl-org-youtube-dl) |
+| 3532 | 2026-01-06 10:48:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108615⭐ TypeScript) | [reels/reel_3532_iptv-org-iptv](reels/reel_3532_iptv-org-iptv) |
