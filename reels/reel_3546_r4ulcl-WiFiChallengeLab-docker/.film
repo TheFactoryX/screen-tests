@@ -1,0 +1,24 @@
+{
+  "reel_number": 3546,
+  "recorded": "2026-01-06 17:46:34 UTC",
+  "repository": {
+    "full_name": "r4ulcl/WiFiChallengeLab-docker",
+    "url": "https://github.com/r4ulcl/WiFiChallengeLab-docker",
+    "clone_url": "https://github.com/r4ulcl/WiFiChallengeLab-docker.git",
+    "stars": 346,
+    "language": "Shell",
+    "size_kb": 8573
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.691974
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 346 stars."
+  }
+}
