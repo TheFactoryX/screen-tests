@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3546 | [r4ulcl/WiFiChallengeLab-docker](https://github.com/r4ulcl/WiFiChallengeLab-docker) | Shell · ⭐ 346 | 2026-01-06 |
+| #3547 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3612,3 +3612,4 @@ Or let GitHub Action run it automatically.
 | 3544 | 2026-01-06 16:55:25 | [DataDog/dd-sdk-android](https://github.com/DataDog/dd-sdk-android) | ✅ full (205⭐ Kotlin) | [reels/reel_3544_DataDog-dd-sdk-android](reels/reel_3544_DataDog-dd-sdk-android) |
 | 3545 | 2026-01-06 17:22:02 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123567⭐ Python) | [reels/reel_3545_langchain-ai-langchain](reels/reel_3545_langchain-ai-langchain) |
 | 3546 | 2026-01-06 17:46:34 | [r4ulcl/WiFiChallengeLab-docker](https://github.com/r4ulcl/WiFiChallengeLab-docker) | ✅ full (346⭐ Shell) | [reels/reel_3546_r4ulcl-WiFiChallengeLab-docker](reels/reel_3546_r4ulcl-WiFiChallengeLab-docker) |
+| 3547 | 2026-01-06 18:29:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100846⭐ Rust) | [reels/reel_3547_tauri-apps-tauri](reels/reel_3547_tauri-apps-tauri) |
