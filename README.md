@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3558 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-06 |
+| #3559 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3624,3 +3624,4 @@ Or let GitHub Action run it automatically.
 | 3556 | 2026-01-06 21:42:14 | [QuinnSixe/Solana-Pumpfun-Mayhem-Bot](https://github.com/QuinnSixe/Solana-Pumpfun-Mayhem-Bot) | ✅ full (584⭐ TypeScript) | [reels/reel_3556_QuinnSixe-Solana-Pumpfun-Mayhem-Bot](reels/reel_3556_QuinnSixe-Solana-Pumpfun-Mayhem-Bot) |
 | 3557 | 2026-01-06 21:53:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142912⭐ Python) | [reels/reel_3557_langflow-ai-langflow](reels/reel_3557_langflow-ai-langflow) |
 | 3558 | 2026-01-06 22:19:34 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97184⭐ TypeScript) | [reels/reel_3558_ant-design-ant-design](reels/reel_3558_ant-design-ant-design) |
+| 3559 | 2026-01-06 22:45:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142916⭐ Python) | [reels/reel_3559_langflow-ai-langflow](reels/reel_3559_langflow-ai-langflow) |
