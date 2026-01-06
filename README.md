@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3516 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-05 |
+| #3517 | [NVIDIA-NeMo/Evaluator](https://github.com/NVIDIA-NeMo/Evaluator) | Python · ⭐ 164 | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3582,3 +3582,4 @@ Or let GitHub Action run it automatically.
 | 3514 | 2026-01-05 23:18:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266727⭐ None) | [reels/reel_3514_awesome-selfhosted-awesome-selfhosted](reels/reel_3514_awesome-selfhosted-awesome-selfhosted) |
 | 3515 | 2026-01-05 23:41:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109148⭐ Rust) | [reels/reel_3515_rust-lang-rust](reels/reel_3515_rust-lang-rust) |
 | 3516 | 2026-01-05 23:51:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123475⭐ Python) | [reels/reel_3516_langchain-ai-langchain](reels/reel_3516_langchain-ai-langchain) |
+| 3517 | 2026-01-06 01:39:14 | [NVIDIA-NeMo/Evaluator](https://github.com/NVIDIA-NeMo/Evaluator) | ✅ full (164⭐ Python) | [reels/reel_3517_NVIDIA-NeMo-Evaluator](reels/reel_3517_NVIDIA-NeMo-Evaluator) |

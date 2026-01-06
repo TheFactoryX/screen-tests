@@ -1,0 +1,24 @@
+{
+  "reel_number": 3517,
+  "recorded": "2026-01-06 01:39:14 UTC",
+  "repository": {
+    "full_name": "NVIDIA-NeMo/Evaluator",
+    "url": "https://github.com/NVIDIA-NeMo/Evaluator",
+    "clone_url": "https://github.com/NVIDIA-NeMo/Evaluator.git",
+    "stars": 164,
+    "language": "Python",
+    "size_kb": 11056
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.705976
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 164 stars."
+  }
+}
