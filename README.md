@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3553 | [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui) | TypeScript · ⭐ 110 | 2026-01-06 |
+| #3554 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3619,3 +3619,4 @@ Or let GitHub Action run it automatically.
 | 3551 | 2026-01-06 19:51:02 | [qxzg/Actions](https://github.com/qxzg/Actions) | ✅ shallow (301⭐ Shell) | [reels/reel_3551_qxzg-Actions](reels/reel_3551_qxzg-Actions) |
 | 3552 | 2026-01-06 20:22:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140831⭐ Python) | [reels/reel_3552_yt-dlp-yt-dlp](reels/reel_3552_yt-dlp-yt-dlp) |
 | 3553 | 2026-01-06 20:44:50 | [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui) | ✅ full (110⭐ TypeScript) | [reels/reel_3553_assistant-ui-tool-ui](reels/reel_3553_assistant-ui-tool-ui) |
+| 3554 | 2026-01-06 20:55:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123570⭐ Python) | [reels/reel_3554_langchain-ai-langchain](reels/reel_3554_langchain-ai-langchain) |
