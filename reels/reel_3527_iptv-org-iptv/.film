@@ -1,0 +1,24 @@
+{
+  "reel_number": 3527,
+  "recorded": "2026-01-06 08:28:39 UTC",
+  "repository": {
+    "full_name": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "clone_url": "https://github.com/iptv-org/iptv.git",
+    "stars": 108605,
+    "language": "TypeScript",
+    "size_kb": 1124949
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 1098,
+    "duration_seconds": 0.000152
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 108605 stars."
+  }
+}
