@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3521 | [gethugothemes/dot-hugo](https://github.com/gethugothemes/dot-hugo) | JavaScript · ⭐ 269 | 2026-01-06 |
+| #3522 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3587,3 +3587,4 @@ Or let GitHub Action run it automatically.
 | 3519 | 2026-01-06 04:23:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104121⭐ TypeScript) | [reels/reel_3519_shadcn-ui-ui](reels/reel_3519_shadcn-ui-ui) |
 | 3520 | 2026-01-06 04:56:57 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139362⭐ Python) | [reels/reel_3520_ytdl-org-youtube-dl](reels/reel_3520_ytdl-org-youtube-dl) |
 | 3521 | 2026-01-06 05:27:24 | [gethugothemes/dot-hugo](https://github.com/gethugothemes/dot-hugo) | ✅ full (269⭐ JavaScript) | [reels/reel_3521_gethugothemes-dot-hugo](reels/reel_3521_gethugothemes-dot-hugo) |
+| 3522 | 2026-01-06 05:49:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123508⭐ Python) | [reels/reel_3522_langchain-ai-langchain](reels/reel_3522_langchain-ai-langchain) |
