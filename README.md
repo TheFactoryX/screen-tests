@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3551 | [qxzg/Actions](https://github.com/qxzg/Actions) | Shell · ⭐ 301 | 2026-01-06 |
+| #3552 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3617,3 +3617,4 @@ Or let GitHub Action run it automatically.
 | 3549 | 2026-01-06 19:18:56 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (672⭐ Tcl) | [reels/reel_3549_rust-lang-crates.io-index](reels/reel_3549_rust-lang-crates.io-index) |
 | 3550 | 2026-01-06 19:39:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180889⭐ Python) | [reels/reel_3550_Significant-Gravitas-AutoGPT](reels/reel_3550_Significant-Gravitas-AutoGPT) |
 | 3551 | 2026-01-06 19:51:02 | [qxzg/Actions](https://github.com/qxzg/Actions) | ✅ shallow (301⭐ Shell) | [reels/reel_3551_qxzg-Actions](reels/reel_3551_qxzg-Actions) |
+| 3552 | 2026-01-06 20:22:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140831⭐ Python) | [reels/reel_3552_yt-dlp-yt-dlp](reels/reel_3552_yt-dlp-yt-dlp) |
