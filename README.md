@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3535 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-06 |
+| #3536 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3601,3 +3601,4 @@ Or let GitHub Action run it automatically.
 | 3533 | 2026-01-06 11:17:28 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142885⭐ Python) | [reels/reel_3533_langflow-ai-langflow](reels/reel_3533_langflow-ai-langflow) |
 | 3534 | 2026-01-06 11:40:02 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139365⭐ Python) | [reels/reel_3534_ytdl-org-youtube-dl](reels/reel_3534_ytdl-org-youtube-dl) |
 | 3535 | 2026-01-06 11:51:22 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100833⭐ Rust) | [reels/reel_3535_tauri-apps-tauri](reels/reel_3535_tauri-apps-tauri) |
+| 3536 | 2026-01-06 12:41:13 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109170⭐ Rust) | [reels/reel_3536_rust-lang-rust](reels/reel_3536_rust-lang-rust) |
