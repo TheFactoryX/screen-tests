@@ -1,0 +1,24 @@
+{
+  "reel_number": 3561,
+  "recorded": "2026-01-06 23:40:48 UTC",
+  "repository": {
+    "full_name": "aljazceru/awesome-nostr",
+    "url": "https://github.com/aljazceru/awesome-nostr",
+    "clone_url": "https://github.com/aljazceru/awesome-nostr.git",
+    "stars": 2844,
+    "language": "JavaScript",
+    "size_kb": 2111
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.43557
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 2844 stars."
+  }
+}
