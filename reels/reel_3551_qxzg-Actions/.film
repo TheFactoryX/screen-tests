@@ -1,0 +1,24 @@
+{
+  "reel_number": 3551,
+  "recorded": "2026-01-06 19:51:02 UTC",
+  "repository": {
+    "full_name": "qxzg/Actions",
+    "url": "https://github.com/qxzg/Actions",
+    "clone_url": "https://github.com/qxzg/Actions.git",
+    "stars": 301,
+    "language": "Shell",
+    "size_kb": 172360
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 168,
+    "duration_seconds": 0.270142
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 301 stars."
+  }
+}
