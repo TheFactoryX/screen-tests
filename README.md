@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3520 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-06 |
+| #3521 | [gethugothemes/dot-hugo](https://github.com/gethugothemes/dot-hugo) | JavaScript · ⭐ 269 | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3586,3 +3586,4 @@ Or let GitHub Action run it automatically.
 | 3518 | 2026-01-06 03:18:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266755⭐ None) | [reels/reel_3518_awesome-selfhosted-awesome-selfhosted](reels/reel_3518_awesome-selfhosted-awesome-selfhosted) |
 | 3519 | 2026-01-06 04:23:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104121⭐ TypeScript) | [reels/reel_3519_shadcn-ui-ui](reels/reel_3519_shadcn-ui-ui) |
 | 3520 | 2026-01-06 04:56:57 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139362⭐ Python) | [reels/reel_3520_ytdl-org-youtube-dl](reels/reel_3520_ytdl-org-youtube-dl) |
+| 3521 | 2026-01-06 05:27:24 | [gethugothemes/dot-hugo](https://github.com/gethugothemes/dot-hugo) | ✅ full (269⭐ JavaScript) | [reels/reel_3521_gethugothemes-dot-hugo](reels/reel_3521_gethugothemes-dot-hugo) |
