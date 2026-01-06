@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3523 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-06 |
+| #3524 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 166k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3589,3 +3589,4 @@ Or let GitHub Action run it automatically.
 | 3521 | 2026-01-06 05:27:24 | [gethugothemes/dot-hugo](https://github.com/gethugothemes/dot-hugo) | ✅ full (269⭐ JavaScript) | [reels/reel_3521_gethugothemes-dot-hugo](reels/reel_3521_gethugothemes-dot-hugo) |
 | 3522 | 2026-01-06 05:49:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123508⭐ Python) | [reels/reel_3522_langchain-ai-langchain](reels/reel_3522_langchain-ai-langchain) |
 | 3523 | 2026-01-06 06:32:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104128⭐ TypeScript) | [reels/reel_3523_shadcn-ui-ui](reels/reel_3523_shadcn-ui-ui) |
+| 3524 | 2026-01-06 07:02:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166763⭐ TypeScript) | [reels/reel_3524_n8n-io-n8n](reels/reel_3524_n8n-io-n8n) |
