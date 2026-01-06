@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3561 | [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) | JavaScript · ⭐ 2k | 2026-01-06 |
+| #3562 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3627,3 +3627,4 @@ Or let GitHub Action run it automatically.
 | 3559 | 2026-01-06 22:45:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142916⭐ Python) | [reels/reel_3559_langflow-ai-langflow](reels/reel_3559_langflow-ai-langflow) |
 | 3560 | 2026-01-06 23:19:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109176⭐ Rust) | [reels/reel_3560_rust-lang-rust](reels/reel_3560_rust-lang-rust) |
 | 3561 | 2026-01-06 23:40:48 | [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) | ✅ full (2844⭐ JavaScript) | [reels/reel_3561_aljazceru-awesome-nostr](reels/reel_3561_aljazceru-awesome-nostr) |
+| 3562 | 2026-01-06 23:50:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104197⭐ TypeScript) | [reels/reel_3562_shadcn-ui-ui](reels/reel_3562_shadcn-ui-ui) |
