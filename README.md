@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3529 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-06 |
+| #3530 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 103k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3595,3 +3595,4 @@ Or let GitHub Action run it automatically.
 | 3527 | 2026-01-06 08:28:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108605⭐ TypeScript) | [reels/reel_3527_iptv-org-iptv](reels/reel_3527_iptv-org-iptv) |
 | 3528 | 2026-01-06 08:56:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142874⭐ Python) | [reels/reel_3528_langflow-ai-langflow](reels/reel_3528_langflow-ai-langflow) |
 | 3529 | 2026-01-06 09:27:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100827⭐ Rust) | [reels/reel_3529_tauri-apps-tauri](reels/reel_3529_tauri-apps-tauri) |
+| 3530 | 2026-01-06 09:49:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (103938⭐ None) | [reels/reel_3530_Hack-with-Github-Awesome-Hacking](reels/reel_3530_Hack-with-Github-Awesome-Hacking) |
