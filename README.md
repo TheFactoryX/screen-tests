@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3541 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 166k | 2026-01-06 |
+| #3542 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-06 |
 ---
 
 ## 🎭 Selection Process
@@ -3607,3 +3607,4 @@ Or let GitHub Action run it automatically.
 | 3539 | 2026-01-06 14:20:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142895⭐ Python) | [reels/reel_3539_langflow-ai-langflow](reels/reel_3539_langflow-ai-langflow) |
 | 3540 | 2026-01-06 14:49:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180886⭐ Python) | [reels/reel_3540_Significant-Gravitas-AutoGPT](reels/reel_3540_Significant-Gravitas-AutoGPT) |
 | 3541 | 2026-01-06 15:21:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (166835⭐ TypeScript) | [reels/reel_3541_n8n-io-n8n](reels/reel_3541_n8n-io-n8n) |
+| 3542 | 2026-01-06 15:45:39 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140811⭐ Python) | [reels/reel_3542_yt-dlp-yt-dlp](reels/reel_3542_yt-dlp-yt-dlp) |
