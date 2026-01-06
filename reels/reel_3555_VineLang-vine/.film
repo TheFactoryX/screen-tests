@@ -1,0 +1,24 @@
+{
+  "reel_number": 3555,
+  "recorded": "2026-01-06 21:19:43 UTC",
+  "repository": {
+    "full_name": "VineLang/vine",
+    "url": "https://github.com/VineLang/vine",
+    "clone_url": "https://github.com/VineLang/vine.git",
+    "stars": 337,
+    "language": "Rust",
+    "size_kb": 5986
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.693776
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 337 stars."
+  }
+}
