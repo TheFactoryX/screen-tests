@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3603 | [superset-sh/superset](https://github.com/superset-sh/superset) | TypeScript · ⭐ 450 | 2026-01-07 |
+| #3604 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3669,3 +3669,4 @@ Or let GitHub Action run it automatically.
 | 3601 | 2026-01-07 21:52:12 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109200⭐ Rust) | [reels/reel_3601_rust-lang-rust](reels/reel_3601_rust-lang-rust) |
 | 3602 | 2026-01-07 22:19:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267083⭐ None) | [reels/reel_3602_awesome-selfhosted-awesome-selfhosted](reels/reel_3602_awesome-selfhosted-awesome-selfhosted) |
 | 3603 | 2026-01-07 22:44:48 | [superset-sh/superset](https://github.com/superset-sh/superset) | ✅ full (450⭐ TypeScript) | [reels/reel_3603_superset-sh-superset](reels/reel_3603_superset-sh-superset) |
+| 3604 | 2026-01-07 22:56:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140942⭐ Python) | [reels/reel_3604_yt-dlp-yt-dlp](reels/reel_3604_yt-dlp-yt-dlp) |
