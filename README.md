@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3599 | [lieying8/sync](https://github.com/lieying8/sync) | JavaScript · ⭐ 129 | 2026-01-07 |
+| #3600 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 167k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3665,3 +3665,4 @@ Or let GitHub Action run it automatically.
 | 3597 | 2026-01-07 20:23:14 | [flamingrickpat/private-machine](https://github.com/flamingrickpat/private-machine) | ✅ full (27⭐ Python) | [reels/reel_3597_flamingrickpat-private-machine](reels/reel_3597_flamingrickpat-private-machine) |
 | 3598 | 2026-01-07 20:47:33 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97194⭐ TypeScript) | [reels/reel_3598_ant-design-ant-design](reels/reel_3598_ant-design-ant-design) |
 | 3599 | 2026-01-07 21:18:45 | [lieying8/sync](https://github.com/lieying8/sync) | ✅ full (129⭐ JavaScript) | [reels/reel_3599_lieying8-sync](reels/reel_3599_lieying8-sync) |
+| 3600 | 2026-01-07 21:41:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167146⭐ TypeScript) | [reels/reel_3600_n8n-io-n8n](reels/reel_3600_n8n-io-n8n) |
