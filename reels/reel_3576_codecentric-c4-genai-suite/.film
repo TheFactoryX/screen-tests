@@ -1,0 +1,24 @@
+{
+  "reel_number": 3576,
+  "recorded": "2026-01-07 09:55:41 UTC",
+  "repository": {
+    "full_name": "codecentric/c4-genai-suite",
+    "url": "https://github.com/codecentric/c4-genai-suite",
+    "clone_url": "https://github.com/codecentric/c4-genai-suite.git",
+    "stars": 160,
+    "language": "TypeScript",
+    "size_kb": 14339
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 2.558702
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 160 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3575 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 266k | 2026-01-07 |
+| #3576 | [codecentric/c4-genai-suite](https://github.com/codecentric/c4-genai-suite) | TypeScript · ⭐ 160 | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3641,3 +3641,4 @@ Or let GitHub Action run it automatically.
 | 3573 | 2026-01-07 08:28:33 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167003⭐ TypeScript) | [reels/reel_3573_n8n-io-n8n](reels/reel_3573_n8n-io-n8n) |
 | 3574 | 2026-01-07 08:56:54 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104235⭐ TypeScript) | [reels/reel_3574_shadcn-ui-ui](reels/reel_3574_shadcn-ui-ui) |
 | 3575 | 2026-01-07 09:31:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266966⭐ None) | [reels/reel_3575_awesome-selfhosted-awesome-selfhosted](reels/reel_3575_awesome-selfhosted-awesome-selfhosted) |
+| 3576 | 2026-01-07 09:55:41 | [codecentric/c4-genai-suite](https://github.com/codecentric/c4-genai-suite) | ✅ full (160⭐ TypeScript) | [reels/reel_3576_codecentric-c4-genai-suite](reels/reel_3576_codecentric-c4-genai-suite) |
