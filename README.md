@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3564 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-07 |
+| #3565 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 142k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3630,3 +3630,4 @@ Or let GitHub Action run it automatically.
 | 3562 | 2026-01-06 23:50:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104197⭐ TypeScript) | [reels/reel_3562_shadcn-ui-ui](reels/reel_3562_shadcn-ui-ui) |
 | 3563 | 2026-01-07 01:38:59 | [horsicq/nfdx64dbg](https://github.com/horsicq/nfdx64dbg) | ✅ full (169⭐ C) | [reels/reel_3563_horsicq-nfdx64dbg](reels/reel_3563_horsicq-nfdx64dbg) |
 | 3564 | 2026-01-07 03:19:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123591⭐ Python) | [reels/reel_3564_langchain-ai-langchain](reels/reel_3564_langchain-ai-langchain) |
+| 3565 | 2026-01-07 04:24:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (142938⭐ Python) | [reels/reel_3565_langflow-ai-langflow](reels/reel_3565_langflow-ai-langflow) |
