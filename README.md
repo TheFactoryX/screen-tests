@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3587 | [JM-Lab/spring-ai-playground](https://github.com/JM-Lab/spring-ai-playground) | Java · ⭐ 170 | 2026-01-07 |
+| #3588 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3653,3 +3653,4 @@ Or let GitHub Action run it automatically.
 | 3585 | 2026-01-07 14:26:42 | [RivelleDays/SillyTavern-AstraProjecta](https://github.com/RivelleDays/SillyTavern-AstraProjecta) | ✅ full (13⭐ JavaScript) | [reels/reel_3585_RivelleDays-SillyTavern-AstraProjecta](reels/reel_3585_RivelleDays-SillyTavern-AstraProjecta) |
 | 3586 | 2026-01-07 14:51:01 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100879⭐ Rust) | [reels/reel_3586_tauri-apps-tauri](reels/reel_3586_tauri-apps-tauri) |
 | 3587 | 2026-01-07 15:23:29 | [JM-Lab/spring-ai-playground](https://github.com/JM-Lab/spring-ai-playground) | ✅ full (170⭐ Java) | [reels/reel_3587_JM-Lab-spring-ai-playground](reels/reel_3587_JM-Lab-spring-ai-playground) |
+| 3588 | 2026-01-07 15:48:59 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102153⭐ Shell) | [reels/reel_3588_papers-we-love-papers-we-love](reels/reel_3588_papers-we-love-papers-we-love) |
