@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3589 | [PAIR-code/autonotes](https://github.com/PAIR-code/autonotes) | TypeScript · ⭐ 35 | 2026-01-07 |
+| #3590 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3655,3 +3655,4 @@ Or let GitHub Action run it automatically.
 | 3587 | 2026-01-07 15:23:29 | [JM-Lab/spring-ai-playground](https://github.com/JM-Lab/spring-ai-playground) | ✅ full (170⭐ Java) | [reels/reel_3587_JM-Lab-spring-ai-playground](reels/reel_3587_JM-Lab-spring-ai-playground) |
 | 3588 | 2026-01-07 15:48:59 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102153⭐ Shell) | [reels/reel_3588_papers-we-love-papers-we-love](reels/reel_3588_papers-we-love-papers-we-love) |
 | 3589 | 2026-01-07 16:28:31 | [PAIR-code/autonotes](https://github.com/PAIR-code/autonotes) | ✅ full (35⭐ TypeScript) | [reels/reel_3589_PAIR-code-autonotes](reels/reel_3589_PAIR-code-autonotes) |
+| 3590 | 2026-01-07 16:57:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104259⭐ TypeScript) | [reels/reel_3590_shadcn-ui-ui](reels/reel_3590_shadcn-ui-ui) |
