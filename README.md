@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3585 | [RivelleDays/SillyTavern-AstraProjecta](https://github.com/RivelleDays/SillyTavern-AstraProjecta) | JavaScript · ⭐ 13 | 2026-01-07 |
+| #3586 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3651,3 +3651,4 @@ Or let GitHub Action run it automatically.
 | 3583 | 2026-01-07 13:28:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140910⭐ Python) | [reels/reel_3583_yt-dlp-yt-dlp](reels/reel_3583_yt-dlp-yt-dlp) |
 | 3584 | 2026-01-07 13:56:43 | [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles) | ✅ full (209⭐ Shell) | [reels/reel_3584_stefanjudis-dotfiles](reels/reel_3584_stefanjudis-dotfiles) |
 | 3585 | 2026-01-07 14:26:42 | [RivelleDays/SillyTavern-AstraProjecta](https://github.com/RivelleDays/SillyTavern-AstraProjecta) | ✅ full (13⭐ JavaScript) | [reels/reel_3585_RivelleDays-SillyTavern-AstraProjecta](reels/reel_3585_RivelleDays-SillyTavern-AstraProjecta) |
+| 3586 | 2026-01-07 14:51:01 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100879⭐ Rust) | [reels/reel_3586_tauri-apps-tauri](reels/reel_3586_tauri-apps-tauri) |
