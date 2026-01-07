@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3597 | [flamingrickpat/private-machine](https://github.com/flamingrickpat/private-machine) | Python · ⭐ 27 | 2026-01-07 |
+| #3598 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3663,3 +3663,4 @@ Or let GitHub Action run it automatically.
 | 3595 | 2026-01-07 19:31:05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180914⭐ Python) | [reels/reel_3595_Significant-Gravitas-AutoGPT](reels/reel_3595_Significant-Gravitas-AutoGPT) |
 | 3596 | 2026-01-07 19:50:50 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (254915⭐ None) | [reels/reel_3596_practical-tutorials-project-based-learning](reels/reel_3596_practical-tutorials-project-based-learning) |
 | 3597 | 2026-01-07 20:23:14 | [flamingrickpat/private-machine](https://github.com/flamingrickpat/private-machine) | ✅ full (27⭐ Python) | [reels/reel_3597_flamingrickpat-private-machine](reels/reel_3597_flamingrickpat-private-machine) |
+| 3598 | 2026-01-07 20:47:33 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97194⭐ TypeScript) | [reels/reel_3598_ant-design-ant-design](reels/reel_3598_ant-design-ant-design) |
