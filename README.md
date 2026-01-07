@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3594 | [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) | TypeScript · ⭐ 293 | 2026-01-07 |
+| #3595 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3660,3 +3660,4 @@ Or let GitHub Action run it automatically.
 | 3592 | 2026-01-07 17:51:43 | [gruelbox/transaction-outbox](https://github.com/gruelbox/transaction-outbox) | ✅ full (304⭐ Java) | [reels/reel_3592_gruelbox-transaction-outbox](reels/reel_3592_gruelbox-transaction-outbox) |
 | 3593 | 2026-01-07 18:30:59 | [sharkDoor/vpn-free-nodes](https://github.com/sharkDoor/vpn-free-nodes) | ✅ full (613⭐ None) | [reels/reel_3593_sharkDoor-vpn-free-nodes](reels/reel_3593_sharkDoor-vpn-free-nodes) |
 | 3594 | 2026-01-07 19:01:09 | [joelhooks/swarm-tools](https://github.com/joelhooks/swarm-tools) | ✅ full (293⭐ TypeScript) | [reels/reel_3594_joelhooks-swarm-tools](reels/reel_3594_joelhooks-swarm-tools) |
+| 3595 | 2026-01-07 19:31:05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180914⭐ Python) | [reels/reel_3595_Significant-Gravitas-AutoGPT](reels/reel_3595_Significant-Gravitas-AutoGPT) |
