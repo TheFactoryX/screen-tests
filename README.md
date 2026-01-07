@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3577 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-07 |
+| #3578 | [esi/esi-docs](https://github.com/esi/esi-docs) | Python · ⭐ 184 | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3643,3 +3643,4 @@ Or let GitHub Action run it automatically.
 | 3575 | 2026-01-07 09:31:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (266966⭐ None) | [reels/reel_3575_awesome-selfhosted-awesome-selfhosted](reels/reel_3575_awesome-selfhosted-awesome-selfhosted) |
 | 3576 | 2026-01-07 09:55:41 | [codecentric/c4-genai-suite](https://github.com/codecentric/c4-genai-suite) | ✅ full (160⭐ TypeScript) | [reels/reel_3576_codecentric-c4-genai-suite](reels/reel_3576_codecentric-c4-genai-suite) |
 | 3577 | 2026-01-07 10:24:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104246⭐ TypeScript) | [reels/reel_3577_shadcn-ui-ui](reels/reel_3577_shadcn-ui-ui) |
+| 3578 | 2026-01-07 10:48:52 | [esi/esi-docs](https://github.com/esi/esi-docs) | ✅ full (184⭐ Python) | [reels/reel_3578_esi-esi-docs](reels/reel_3578_esi-esi-docs) |
