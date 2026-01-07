@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3606 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-07 |
+| #3607 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3672,3 +3672,4 @@ Or let GitHub Action run it automatically.
 | 3604 | 2026-01-07 22:56:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140942⭐ Python) | [reels/reel_3604_yt-dlp-yt-dlp](reels/reel_3604_yt-dlp-yt-dlp) |
 | 3605 | 2026-01-07 23:20:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104274⭐ TypeScript) | [reels/reel_3605_shadcn-ui-ui](reels/reel_3605_shadcn-ui-ui) |
 | 3606 | 2026-01-07 23:41:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108727⭐ TypeScript) | [reels/reel_3606_iptv-org-iptv](reels/reel_3606_iptv-org-iptv) |
+| 3607 | 2026-01-07 23:51:50 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104275⭐ TypeScript) | [reels/reel_3607_shadcn-ui-ui](reels/reel_3607_shadcn-ui-ui) |
