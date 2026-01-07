@@ -1,0 +1,24 @@
+{
+  "reel_number": 3589,
+  "recorded": "2026-01-07 16:28:31 UTC",
+  "repository": {
+    "full_name": "PAIR-code/autonotes",
+    "url": "https://github.com/PAIR-code/autonotes",
+    "clone_url": "https://github.com/PAIR-code/autonotes.git",
+    "stars": 35,
+    "language": "TypeScript",
+    "size_kb": 16173
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 0.635447
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 35 stars."
+  }
+}
