@@ -1,0 +1,24 @@
+{
+  "reel_number": 3580,
+  "recorded": "2026-01-07 11:40:48 UTC",
+  "repository": {
+    "full_name": "YuanGao-YG/NeuralOM",
+    "url": "https://github.com/YuanGao-YG/NeuralOM",
+    "clone_url": "https://github.com/YuanGao-YG/NeuralOM.git",
+    "stars": 257,
+    "language": "Python",
+    "size_kb": 18047
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 0.946178
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 257 stars."
+  }
+}
