@@ -1,0 +1,24 @@
+{
+  "reel_number": 3584,
+  "recorded": "2026-01-07 13:56:43 UTC",
+  "repository": {
+    "full_name": "stefanjudis/dotfiles",
+    "url": "https://github.com/stefanjudis/dotfiles",
+    "clone_url": "https://github.com/stefanjudis/dotfiles.git",
+    "stars": 209,
+    "language": "Shell",
+    "size_kb": 620
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.286918
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 209 stars."
+  }
+}

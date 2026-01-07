@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3583 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 140k | 2026-01-07 |
+| #3584 | [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles) | Shell · ⭐ 209 | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3649,3 +3649,4 @@ Or let GitHub Action run it automatically.
 | 3581 | 2026-01-07 11:51:38 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101004⭐ Python) | [reels/reel_3581_deepseek-ai-DeepSeek-V3](reels/reel_3581_deepseek-ai-DeepSeek-V3) |
 | 3582 | 2026-01-07 12:42:08 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267000⭐ None) | [reels/reel_3582_awesome-selfhosted-awesome-selfhosted](reels/reel_3582_awesome-selfhosted-awesome-selfhosted) |
 | 3583 | 2026-01-07 13:28:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (140910⭐ Python) | [reels/reel_3583_yt-dlp-yt-dlp](reels/reel_3583_yt-dlp-yt-dlp) |
+| 3584 | 2026-01-07 13:56:43 | [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles) | ✅ full (209⭐ Shell) | [reels/reel_3584_stefanjudis-dotfiles](reels/reel_3584_stefanjudis-dotfiles) |
