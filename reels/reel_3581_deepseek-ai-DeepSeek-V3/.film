@@ -1,0 +1,24 @@
+{
+  "reel_number": 3581,
+  "recorded": "2026-01-07 11:51:38 UTC",
+  "repository": {
+    "full_name": "deepseek-ai/DeepSeek-V3",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-V3.git",
+    "stars": 101004,
+    "language": "Python",
+    "size_kb": 1768
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.184894
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 101004 stars."
+  }
+}
