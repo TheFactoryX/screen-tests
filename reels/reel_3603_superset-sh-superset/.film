@@ -1,0 +1,24 @@
+{
+  "reel_number": 3603,
+  "recorded": "2026-01-07 22:44:48 UTC",
+  "repository": {
+    "full_name": "superset-sh/superset",
+    "url": "https://github.com/superset-sh/superset",
+    "clone_url": "https://github.com/superset-sh/superset.git",
+    "stars": 450,
+    "language": "TypeScript",
+    "size_kb": 94952
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 92,
+    "duration_seconds": 2.220058
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 450 stars."
+  }
+}

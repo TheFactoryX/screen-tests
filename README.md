@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3602 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-07 |
+| #3603 | [superset-sh/superset](https://github.com/superset-sh/superset) | TypeScript · ⭐ 450 | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3668,3 +3668,4 @@ Or let GitHub Action run it automatically.
 | 3600 | 2026-01-07 21:41:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167146⭐ TypeScript) | [reels/reel_3600_n8n-io-n8n](reels/reel_3600_n8n-io-n8n) |
 | 3601 | 2026-01-07 21:52:12 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109200⭐ Rust) | [reels/reel_3601_rust-lang-rust](reels/reel_3601_rust-lang-rust) |
 | 3602 | 2026-01-07 22:19:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267083⭐ None) | [reels/reel_3602_awesome-selfhosted-awesome-selfhosted](reels/reel_3602_awesome-selfhosted-awesome-selfhosted) |
+| 3603 | 2026-01-07 22:44:48 | [superset-sh/superset](https://github.com/superset-sh/superset) | ✅ full (450⭐ TypeScript) | [reels/reel_3603_superset-sh-superset](reels/reel_3603_superset-sh-superset) |
