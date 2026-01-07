@@ -1,0 +1,24 @@
+{
+  "reel_number": 3597,
+  "recorded": "2026-01-07 20:23:14 UTC",
+  "repository": {
+    "full_name": "flamingrickpat/private-machine",
+    "url": "https://github.com/flamingrickpat/private-machine",
+    "clone_url": "https://github.com/flamingrickpat/private-machine.git",
+    "stars": 27,
+    "language": "Python",
+    "size_kb": 2085
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.712047
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 27 stars."
+  }
+}
