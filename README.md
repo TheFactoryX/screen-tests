@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3591 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-07 |
+| #3592 | [gruelbox/transaction-outbox](https://github.com/gruelbox/transaction-outbox) | Java · ⭐ 304 | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3657,3 +3657,4 @@ Or let GitHub Action run it automatically.
 | 3589 | 2026-01-07 16:28:31 | [PAIR-code/autonotes](https://github.com/PAIR-code/autonotes) | ✅ full (35⭐ TypeScript) | [reels/reel_3589_PAIR-code-autonotes](reels/reel_3589_PAIR-code-autonotes) |
 | 3590 | 2026-01-07 16:57:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104259⭐ TypeScript) | [reels/reel_3590_shadcn-ui-ui](reels/reel_3590_shadcn-ui-ui) |
 | 3591 | 2026-01-07 17:29:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267045⭐ None) | [reels/reel_3591_awesome-selfhosted-awesome-selfhosted](reels/reel_3591_awesome-selfhosted-awesome-selfhosted) |
+| 3592 | 2026-01-07 17:51:43 | [gruelbox/transaction-outbox](https://github.com/gruelbox/transaction-outbox) | ✅ full (304⭐ Java) | [reels/reel_3592_gruelbox-transaction-outbox](reels/reel_3592_gruelbox-transaction-outbox) |

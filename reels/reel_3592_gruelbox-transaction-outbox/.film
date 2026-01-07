@@ -1,0 +1,24 @@
+{
+  "reel_number": 3592,
+  "recorded": "2026-01-07 17:51:43 UTC",
+  "repository": {
+    "full_name": "gruelbox/transaction-outbox",
+    "url": "https://github.com/gruelbox/transaction-outbox",
+    "clone_url": "https://github.com/gruelbox/transaction-outbox.git",
+    "stars": 304,
+    "language": "Java",
+    "size_kb": 2211
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.339093
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 304 stars."
+  }
+}
