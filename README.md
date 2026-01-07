@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3586 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-07 |
+| #3587 | [JM-Lab/spring-ai-playground](https://github.com/JM-Lab/spring-ai-playground) | Java · ⭐ 170 | 2026-01-07 |
 ---
 
 ## 🎭 Selection Process
@@ -3652,3 +3652,4 @@ Or let GitHub Action run it automatically.
 | 3584 | 2026-01-07 13:56:43 | [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles) | ✅ full (209⭐ Shell) | [reels/reel_3584_stefanjudis-dotfiles](reels/reel_3584_stefanjudis-dotfiles) |
 | 3585 | 2026-01-07 14:26:42 | [RivelleDays/SillyTavern-AstraProjecta](https://github.com/RivelleDays/SillyTavern-AstraProjecta) | ✅ full (13⭐ JavaScript) | [reels/reel_3585_RivelleDays-SillyTavern-AstraProjecta](reels/reel_3585_RivelleDays-SillyTavern-AstraProjecta) |
 | 3586 | 2026-01-07 14:51:01 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100879⭐ Rust) | [reels/reel_3586_tauri-apps-tauri](reels/reel_3586_tauri-apps-tauri) |
+| 3587 | 2026-01-07 15:23:29 | [JM-Lab/spring-ai-playground](https://github.com/JM-Lab/spring-ai-playground) | ✅ full (170⭐ Java) | [reels/reel_3587_JM-Lab-spring-ai-playground](reels/reel_3587_JM-Lab-spring-ai-playground) |
