@@ -1,0 +1,24 @@
+{
+  "reel_number": 3596,
+  "recorded": "2026-01-07 19:50:50 UTC",
+  "repository": {
+    "full_name": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "clone_url": "https://github.com/practical-tutorials/project-based-learning.git",
+    "stars": 254915,
+    "language": null,
+    "size_kb": 438
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.150653
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 254915 stars."
+  }
+}
