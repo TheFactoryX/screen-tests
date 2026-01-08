@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3638 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-08 |
+| #3639 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3704,3 +3704,4 @@ Or let GitHub Action run it automatically.
 | 3636 | 2026-01-08 17:42:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109221⭐ Rust) | [reels/reel_3636_rust-lang-rust](reels/reel_3636_rust-lang-rust) |
 | 3637 | 2026-01-08 17:57:25 | [WildKernels/Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) | ✅ full (113⭐ None) | [reels/reel_3637_WildKernels-Sultan_KernelSU_SUSFS](reels/reel_3637_WildKernels-Sultan_KernelSU_SUSFS) |
 | 3638 | 2026-01-08 18:35:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108785⭐ TypeScript) | [reels/reel_3638_iptv-org-iptv](reels/reel_3638_iptv-org-iptv) |
+| 3639 | 2026-01-08 18:58:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267192⭐ None) | [reels/reel_3639_awesome-selfhosted-awesome-selfhosted](reels/reel_3639_awesome-selfhosted-awesome-selfhosted) |
