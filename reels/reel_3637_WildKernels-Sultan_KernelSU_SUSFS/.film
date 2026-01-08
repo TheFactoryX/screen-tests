@@ -1,0 +1,24 @@
+{
+  "reel_number": 3637,
+  "recorded": "2026-01-08 17:57:25 UTC",
+  "repository": {
+    "full_name": "WildKernels/Sultan_KernelSU_SUSFS",
+    "url": "https://github.com/WildKernels/Sultan_KernelSU_SUSFS",
+    "clone_url": "https://github.com/WildKernels/Sultan_KernelSU_SUSFS.git",
+    "stars": 113,
+    "language": null,
+    "size_kb": 164
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.233474
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 113 stars."
+  }
+}
