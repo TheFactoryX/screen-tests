@@ -1,0 +1,24 @@
+{
+  "reel_number": 3623,
+  "recorded": "2026-01-08 10:50:01 UTC",
+  "repository": {
+    "full_name": "nextcloud/groupfolders",
+    "url": "https://github.com/nextcloud/groupfolders",
+    "clone_url": "https://github.com/nextcloud/groupfolders.git",
+    "stars": 319,
+    "language": "PHP",
+    "size_kb": 26864
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 2.856299
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 319 stars."
+  }
+}
