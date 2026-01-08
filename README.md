@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3640 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-08 |
+| #3641 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3706,3 +3706,4 @@ Or let GitHub Action run it automatically.
 | 3638 | 2026-01-08 18:35:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108785⭐ TypeScript) | [reels/reel_3638_iptv-org-iptv](reels/reel_3638_iptv-org-iptv) |
 | 3639 | 2026-01-08 18:58:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267192⭐ None) | [reels/reel_3639_awesome-selfhosted-awesome-selfhosted](reels/reel_3639_awesome-selfhosted-awesome-selfhosted) |
 | 3640 | 2026-01-08 19:26:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143054⭐ Python) | [reels/reel_3640_langflow-ai-langflow](reels/reel_3640_langflow-ai-langflow) |
+| 3641 | 2026-01-08 19:41:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108788⭐ TypeScript) | [reels/reel_3641_iptv-org-iptv](reels/reel_3641_iptv-org-iptv) |
