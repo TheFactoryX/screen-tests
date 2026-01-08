@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3621 | [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) | Swift · ⭐ 314 | 2026-01-08 |
+| #3622 | [FluidTYPO3/flux](https://github.com/FluidTYPO3/flux) | PHP · ⭐ 146 | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3687,3 +3687,4 @@ Or let GitHub Action run it automatically.
 | 3619 | 2026-01-08 08:56:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141010⭐ Python) | [reels/reel_3619_yt-dlp-yt-dlp](reels/reel_3619_yt-dlp-yt-dlp) |
 | 3620 | 2026-01-08 09:30:04 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141015⭐ Python) | [reels/reel_3620_yt-dlp-yt-dlp](reels/reel_3620_yt-dlp-yt-dlp) |
 | 3621 | 2026-01-08 09:52:14 | [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) | ✅ full (314⭐ Swift) | [reels/reel_3621_orlandos-nl-Citadel](reels/reel_3621_orlandos-nl-Citadel) |
+| 3622 | 2026-01-08 10:22:43 | [FluidTYPO3/flux](https://github.com/FluidTYPO3/flux) | ✅ full (146⭐ PHP) | [reels/reel_3622_FluidTYPO3-flux](reels/reel_3622_FluidTYPO3-flux) |
