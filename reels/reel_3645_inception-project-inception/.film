@@ -1,0 +1,24 @@
+{
+  "reel_number": 3645,
+  "recorded": "2026-01-08 21:19:23 UTC",
+  "repository": {
+    "full_name": "inception-project/inception",
+    "url": "https://github.com/inception-project/inception",
+    "clone_url": "https://github.com/inception-project/inception.git",
+    "stars": 673,
+    "language": "Java",
+    "size_kb": 142824
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 139,
+    "duration_seconds": 2.448164
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 673 stars."
+  }
+}

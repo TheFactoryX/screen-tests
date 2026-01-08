@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3644 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-08 |
+| #3645 | [inception-project/inception](https://github.com/inception-project/inception) | Java · ⭐ 673 | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3710,3 +3710,4 @@ Or let GitHub Action run it automatically.
 | 3642 | 2026-01-08 19:51:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120031⭐ Svelte) | [reels/reel_3642_open-webui-open-webui](reels/reel_3642_open-webui-open-webui) |
 | 3643 | 2026-01-08 20:23:14 | [backstage/demo](https://github.com/backstage/demo) | ✅ full (164⭐ TypeScript) | [reels/reel_3643_backstage-demo](reels/reel_3643_backstage-demo) |
 | 3644 | 2026-01-08 20:46:15 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143058⭐ Python) | [reels/reel_3644_langflow-ai-langflow](reels/reel_3644_langflow-ai-langflow) |
+| 3645 | 2026-01-08 21:19:23 | [inception-project/inception](https://github.com/inception-project/inception) | ✅ shallow (673⭐ Java) | [reels/reel_3645_inception-project-inception](reels/reel_3645_inception-project-inception) |
