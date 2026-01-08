@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3618 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-08 |
+| #3619 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3684,3 +3684,4 @@ Or let GitHub Action run it automatically.
 | 3616 | 2026-01-08 07:35:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167321⭐ TypeScript) | [reels/reel_3616_n8n-io-n8n](reels/reel_3616_n8n-io-n8n) |
 | 3617 | 2026-01-08 07:51:50 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143025⭐ Python) | [reels/reel_3617_langflow-ai-langflow](reels/reel_3617_langflow-ai-langflow) |
 | 3618 | 2026-01-08 08:28:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267144⭐ None) | [reels/reel_3618_awesome-selfhosted-awesome-selfhosted](reels/reel_3618_awesome-selfhosted-awesome-selfhosted) |
+| 3619 | 2026-01-08 08:56:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141010⭐ Python) | [reels/reel_3619_yt-dlp-yt-dlp](reels/reel_3619_yt-dlp-yt-dlp) |
