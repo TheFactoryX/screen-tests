@@ -1,0 +1,24 @@
+{
+  "reel_number": 3621,
+  "recorded": "2026-01-08 09:52:14 UTC",
+  "repository": {
+    "full_name": "orlandos-nl/Citadel",
+    "url": "https://github.com/orlandos-nl/Citadel",
+    "clone_url": "https://github.com/orlandos-nl/Citadel.git",
+    "stars": 314,
+    "language": "Swift",
+    "size_kb": 656
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.584117
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 314 stars."
+  }
+}
