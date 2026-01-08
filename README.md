@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3625 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-08 |
+| #3626 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 120k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3691,3 +3691,4 @@ Or let GitHub Action run it automatically.
 | 3623 | 2026-01-08 10:50:01 | [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) | ✅ full (319⭐ PHP) | [reels/reel_3623_nextcloud-groupfolders](reels/reel_3623_nextcloud-groupfolders) |
 | 3624 | 2026-01-08 11:19:40 | [Universal-Team/db](https://github.com/Universal-Team/db) | ✅ shallow (172⭐ Python) | [reels/reel_3624_Universal-Team-db](reels/reel_3624_Universal-Team-db) |
 | 3625 | 2026-01-08 11:41:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180934⭐ Python) | [reels/reel_3625_Significant-Gravitas-AutoGPT](reels/reel_3625_Significant-Gravitas-AutoGPT) |
+| 3626 | 2026-01-08 11:52:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120017⭐ Svelte) | [reels/reel_3626_open-webui-open-webui](reels/reel_3626_open-webui-open-webui) |
