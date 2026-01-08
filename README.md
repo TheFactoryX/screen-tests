@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3651 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-08 |
+| #3652 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3717,3 +3717,4 @@ Or let GitHub Action run it automatically.
 | 3649 | 2026-01-08 22:45:59 | [kutsan/dotfiles](https://github.com/kutsan/dotfiles) | ✅ full (352⭐ Lua) | [reels/reel_3649_kutsan-dotfiles](reels/reel_3649_kutsan-dotfiles) |
 | 3650 | 2026-01-08 23:17:22 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123755⭐ Python) | [reels/reel_3650_langchain-ai-langchain](reels/reel_3650_langchain-ai-langchain) |
 | 3651 | 2026-01-08 23:39:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108799⭐ TypeScript) | [reels/reel_3651_iptv-org-iptv](reels/reel_3651_iptv-org-iptv) |
+| 3652 | 2026-01-08 23:50:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109220⭐ Rust) | [reels/reel_3652_rust-lang-rust](reels/reel_3652_rust-lang-rust) |
