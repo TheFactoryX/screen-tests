@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3634 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 390k | 2026-01-08 |
+| #3635 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3700,3 +3700,4 @@ Or let GitHub Action run it automatically.
 | 3632 | 2026-01-08 15:34:04 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143047⭐ Python) | [reels/reel_3632_langflow-ai-langflow](reels/reel_3632_langflow-ai-langflow) |
 | 3633 | 2026-01-08 15:57:33 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180938⭐ Python) | [reels/reel_3633_Significant-Gravitas-AutoGPT](reels/reel_3633_Significant-Gravitas-AutoGPT) |
 | 3634 | 2026-01-08 16:36:20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (390206⭐ Python) | [reels/reel_3634_public-apis-public-apis](reels/reel_3634_public-apis-public-apis) |
+| 3635 | 2026-01-08 17:02:37 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102182⭐ Shell) | [reels/reel_3635_papers-we-love-papers-we-love](reels/reel_3635_papers-we-love-papers-we-love) |
