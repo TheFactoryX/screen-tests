@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3608 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-08 |
+| #3609 | [Mafyuh/iac](https://github.com/Mafyuh/iac) | YAML · ⭐ 414 | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3674,3 +3674,4 @@ Or let GitHub Action run it automatically.
 | 3606 | 2026-01-07 23:41:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108727⭐ TypeScript) | [reels/reel_3606_iptv-org-iptv](reels/reel_3606_iptv-org-iptv) |
 | 3607 | 2026-01-07 23:51:50 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104275⭐ TypeScript) | [reels/reel_3607_shadcn-ui-ui](reels/reel_3607_shadcn-ui-ui) |
 | 3608 | 2026-01-08 01:39:14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104280⭐ TypeScript) | [reels/reel_3608_shadcn-ui-ui](reels/reel_3608_shadcn-ui-ui) |
+| 3609 | 2026-01-08 03:19:15 | [Mafyuh/iac](https://github.com/Mafyuh/iac) | ✅ full (414⭐ YAML) | [reels/reel_3609_Mafyuh-iac](reels/reel_3609_Mafyuh-iac) |

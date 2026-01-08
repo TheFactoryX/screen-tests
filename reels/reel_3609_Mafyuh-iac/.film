@@ -1,0 +1,24 @@
+{
+  "reel_number": 3609,
+  "recorded": "2026-01-08 03:19:15 UTC",
+  "repository": {
+    "full_name": "Mafyuh/iac",
+    "url": "https://github.com/Mafyuh/iac",
+    "clone_url": "https://github.com/Mafyuh/iac.git",
+    "stars": 414,
+    "language": "YAML",
+    "size_kb": 2666
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.307701
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "YAML",
+    "director_note": "A YAML repository. 414 stars."
+  }
+}
