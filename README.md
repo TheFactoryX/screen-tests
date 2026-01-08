@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3630 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-08 |
+| #3631 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3696,3 +3696,4 @@ Or let GitHub Action run it automatically.
 | 3628 | 2026-01-08 13:29:15 | [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) | ✅ full (132⭐ Python) | [reels/reel_3628_FennisRobert-EMerge](reels/reel_3628_FennisRobert-EMerge) |
 | 3629 | 2026-01-08 13:58:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (455030⭐ Markdown) | [reels/reel_3629_codecrafters-io-build-your-own-x](reels/reel_3629_codecrafters-io-build-your-own-x) |
 | 3630 | 2026-01-08 14:33:25 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100923⭐ Rust) | [reels/reel_3630_tauri-apps-tauri](reels/reel_3630_tauri-apps-tauri) |
+| 3631 | 2026-01-08 14:58:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109218⭐ Rust) | [reels/reel_3631_rust-lang-rust](reels/reel_3631_rust-lang-rust) |
