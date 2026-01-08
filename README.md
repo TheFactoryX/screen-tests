@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3615 | [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) | Shell · ⭐ 529 | 2026-01-08 |
+| #3616 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 167k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3681,3 +3681,4 @@ Or let GitHub Action run it automatically.
 | 3613 | 2026-01-08 05:48:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104301⭐ TypeScript) | [reels/reel_3613_shadcn-ui-ui](reels/reel_3613_shadcn-ui-ui) |
 | 3614 | 2026-01-08 06:32:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267127⭐ None) | [reels/reel_3614_awesome-selfhosted-awesome-selfhosted](reels/reel_3614_awesome-selfhosted-awesome-selfhosted) |
 | 3615 | 2026-01-08 07:01:35 | [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) | ✅ full (529⭐ Shell) | [reels/reel_3615_Scrut1ny-Hypervisor-Phantom](reels/reel_3615_Scrut1ny-Hypervisor-Phantom) |
+| 3616 | 2026-01-08 07:35:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167321⭐ TypeScript) | [reels/reel_3616_n8n-io-n8n](reels/reel_3616_n8n-io-n8n) |
