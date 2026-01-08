@@ -1,0 +1,24 @@
+{
+  "reel_number": 3615,
+  "recorded": "2026-01-08 07:01:35 UTC",
+  "repository": {
+    "full_name": "Scrut1ny/Hypervisor-Phantom",
+    "url": "https://github.com/Scrut1ny/Hypervisor-Phantom",
+    "clone_url": "https://github.com/Scrut1ny/Hypervisor-Phantom.git",
+    "stars": 529,
+    "language": "Shell",
+    "size_kb": 18648
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 0.653138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 529 stars."
+  }
+}
