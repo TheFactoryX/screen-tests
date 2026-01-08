@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3628 | [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) | Python · ⭐ 132 | 2026-01-08 |
+| #3629 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 455k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3694,3 +3694,4 @@ Or let GitHub Action run it automatically.
 | 3626 | 2026-01-08 11:52:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120017⭐ Svelte) | [reels/reel_3626_open-webui-open-webui](reels/reel_3626_open-webui-open-webui) |
 | 3627 | 2026-01-08 12:42:33 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100916⭐ Rust) | [reels/reel_3627_tauri-apps-tauri](reels/reel_3627_tauri-apps-tauri) |
 | 3628 | 2026-01-08 13:29:15 | [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) | ✅ full (132⭐ Python) | [reels/reel_3628_FennisRobert-EMerge](reels/reel_3628_FennisRobert-EMerge) |
+| 3629 | 2026-01-08 13:58:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (455030⭐ Markdown) | [reels/reel_3629_codecrafters-io-build-your-own-x](reels/reel_3629_codecrafters-io-build-your-own-x) |
