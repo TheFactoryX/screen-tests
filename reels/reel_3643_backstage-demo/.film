@@ -1,0 +1,24 @@
+{
+  "reel_number": 3643,
+  "recorded": "2026-01-08 20:23:14 UTC",
+  "repository": {
+    "full_name": "backstage/demo",
+    "url": "https://github.com/backstage/demo",
+    "clone_url": "https://github.com/backstage/demo.git",
+    "stars": 164,
+    "language": "TypeScript",
+    "size_kb": 77217
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 75,
+    "duration_seconds": 7.006523
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 164 stars."
+  }
+}

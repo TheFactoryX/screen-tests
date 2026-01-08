@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3642 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 120k | 2026-01-08 |
+| #3643 | [backstage/demo](https://github.com/backstage/demo) | TypeScript · ⭐ 164 | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3708,3 +3708,4 @@ Or let GitHub Action run it automatically.
 | 3640 | 2026-01-08 19:26:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143054⭐ Python) | [reels/reel_3640_langflow-ai-langflow](reels/reel_3640_langflow-ai-langflow) |
 | 3641 | 2026-01-08 19:41:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108788⭐ TypeScript) | [reels/reel_3641_iptv-org-iptv](reels/reel_3641_iptv-org-iptv) |
 | 3642 | 2026-01-08 19:51:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120031⭐ Svelte) | [reels/reel_3642_open-webui-open-webui](reels/reel_3642_open-webui-open-webui) |
+| 3643 | 2026-01-08 20:23:14 | [backstage/demo](https://github.com/backstage/demo) | ✅ full (164⭐ TypeScript) | [reels/reel_3643_backstage-demo](reels/reel_3643_backstage-demo) |
