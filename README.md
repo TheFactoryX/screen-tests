@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3627 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-08 |
+| #3628 | [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) | Python · ⭐ 132 | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3693,3 +3693,4 @@ Or let GitHub Action run it automatically.
 | 3625 | 2026-01-08 11:41:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180934⭐ Python) | [reels/reel_3625_Significant-Gravitas-AutoGPT](reels/reel_3625_Significant-Gravitas-AutoGPT) |
 | 3626 | 2026-01-08 11:52:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120017⭐ Svelte) | [reels/reel_3626_open-webui-open-webui](reels/reel_3626_open-webui-open-webui) |
 | 3627 | 2026-01-08 12:42:33 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100916⭐ Rust) | [reels/reel_3627_tauri-apps-tauri](reels/reel_3627_tauri-apps-tauri) |
+| 3628 | 2026-01-08 13:29:15 | [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) | ✅ full (132⭐ Python) | [reels/reel_3628_FennisRobert-EMerge](reels/reel_3628_FennisRobert-EMerge) |
