@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3610 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 104k | 2026-01-08 |
+| #3611 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3676,3 +3676,4 @@ Or let GitHub Action run it automatically.
 | 3608 | 2026-01-08 01:39:14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104280⭐ TypeScript) | [reels/reel_3608_shadcn-ui-ui](reels/reel_3608_shadcn-ui-ui) |
 | 3609 | 2026-01-08 03:19:15 | [Mafyuh/iac](https://github.com/Mafyuh/iac) | ✅ full (414⭐ YAML) | [reels/reel_3609_Mafyuh-iac](reels/reel_3609_Mafyuh-iac) |
 | 3610 | 2026-01-08 04:13:37 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104053⭐ None) | [reels/reel_3610_Hack-with-Github-Awesome-Hacking](reels/reel_3610_Hack-with-Github-Awesome-Hacking) |
+| 3611 | 2026-01-08 04:53:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109207⭐ Rust) | [reels/reel_3611_rust-lang-rust](reels/reel_3611_rust-lang-rust) |
