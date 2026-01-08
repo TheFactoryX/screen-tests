@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3637 | [WildKernels/Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) | None · ⭐ 113 | 2026-01-08 |
+| #3638 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3703,3 +3703,4 @@ Or let GitHub Action run it automatically.
 | 3635 | 2026-01-08 17:02:37 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102182⭐ Shell) | [reels/reel_3635_papers-we-love-papers-we-love](reels/reel_3635_papers-we-love-papers-we-love) |
 | 3636 | 2026-01-08 17:42:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109221⭐ Rust) | [reels/reel_3636_rust-lang-rust](reels/reel_3636_rust-lang-rust) |
 | 3637 | 2026-01-08 17:57:25 | [WildKernels/Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) | ✅ full (113⭐ None) | [reels/reel_3637_WildKernels-Sultan_KernelSU_SUSFS](reels/reel_3637_WildKernels-Sultan_KernelSU_SUSFS) |
+| 3638 | 2026-01-08 18:35:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108785⭐ TypeScript) | [reels/reel_3638_iptv-org-iptv](reels/reel_3638_iptv-org-iptv) |
