@@ -1,0 +1,24 @@
+{
+  "reel_number": 3649,
+  "recorded": "2026-01-08 22:45:59 UTC",
+  "repository": {
+    "full_name": "kutsan/dotfiles",
+    "url": "https://github.com/kutsan/dotfiles",
+    "clone_url": "https://github.com/kutsan/dotfiles.git",
+    "stars": 352,
+    "language": "Lua",
+    "size_kb": 9198
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.802484
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 352 stars."
+  }
+}
