@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3629 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 455k | 2026-01-08 |
+| #3630 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 100k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3695,3 +3695,4 @@ Or let GitHub Action run it automatically.
 | 3627 | 2026-01-08 12:42:33 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100916⭐ Rust) | [reels/reel_3627_tauri-apps-tauri](reels/reel_3627_tauri-apps-tauri) |
 | 3628 | 2026-01-08 13:29:15 | [FennisRobert/EMerge](https://github.com/FennisRobert/EMerge) | ✅ full (132⭐ Python) | [reels/reel_3628_FennisRobert-EMerge](reels/reel_3628_FennisRobert-EMerge) |
 | 3629 | 2026-01-08 13:58:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (455030⭐ Markdown) | [reels/reel_3629_codecrafters-io-build-your-own-x](reels/reel_3629_codecrafters-io-build-your-own-x) |
+| 3630 | 2026-01-08 14:33:25 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (100923⭐ Rust) | [reels/reel_3630_tauri-apps-tauri](reels/reel_3630_tauri-apps-tauri) |
