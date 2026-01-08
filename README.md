@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3623 | [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) | PHP · ⭐ 319 | 2026-01-08 |
+| #3624 | [Universal-Team/db](https://github.com/Universal-Team/db) | Python · ⭐ 172 | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3689,3 +3689,4 @@ Or let GitHub Action run it automatically.
 | 3621 | 2026-01-08 09:52:14 | [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) | ✅ full (314⭐ Swift) | [reels/reel_3621_orlandos-nl-Citadel](reels/reel_3621_orlandos-nl-Citadel) |
 | 3622 | 2026-01-08 10:22:43 | [FluidTYPO3/flux](https://github.com/FluidTYPO3/flux) | ✅ full (146⭐ PHP) | [reels/reel_3622_FluidTYPO3-flux](reels/reel_3622_FluidTYPO3-flux) |
 | 3623 | 2026-01-08 10:50:01 | [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) | ✅ full (319⭐ PHP) | [reels/reel_3623_nextcloud-groupfolders](reels/reel_3623_nextcloud-groupfolders) |
+| 3624 | 2026-01-08 11:19:40 | [Universal-Team/db](https://github.com/Universal-Team/db) | ✅ shallow (172⭐ Python) | [reels/reel_3624_Universal-Team-db](reels/reel_3624_Universal-Team-db) |
