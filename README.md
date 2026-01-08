@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3647 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-08 |
+| #3648 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-08 |
 ---
 
 ## 🎭 Selection Process
@@ -3713,3 +3713,4 @@ Or let GitHub Action run it automatically.
 | 3645 | 2026-01-08 21:19:23 | [inception-project/inception](https://github.com/inception-project/inception) | ✅ shallow (673⭐ Java) | [reels/reel_3645_inception-project-inception](reels/reel_3645_inception-project-inception) |
 | 3646 | 2026-01-08 21:42:32 | [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) | ✅ full (369⭐ Python) | [reels/reel_3646_agentic-community-mcp-gateway-registry](reels/reel_3646_agentic-community-mcp-gateway-registry) |
 | 3647 | 2026-01-08 21:53:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267218⭐ None) | [reels/reel_3647_awesome-selfhosted-awesome-selfhosted](reels/reel_3647_awesome-selfhosted-awesome-selfhosted) |
+| 3648 | 2026-01-08 22:19:42 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102184⭐ Shell) | [reels/reel_3648_papers-we-love-papers-we-love](reels/reel_3648_papers-we-love-papers-we-love) |
