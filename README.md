@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3668 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-09 |
+| #3669 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3734,3 +3734,4 @@ Or let GitHub Action run it automatically.
 | 3666 | 2026-01-09 09:51:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120062⭐ Svelte) | [reels/reel_3666_open-webui-open-webui](reels/reel_3666_open-webui-open-webui) |
 | 3667 | 2026-01-09 10:21:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108816⭐ TypeScript) | [reels/reel_3667_iptv-org-iptv](reels/reel_3667_iptv-org-iptv) |
 | 3668 | 2026-01-09 10:48:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108814⭐ TypeScript) | [reels/reel_3668_iptv-org-iptv](reels/reel_3668_iptv-org-iptv) |
+| 3669 | 2026-01-09 11:18:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123817⭐ Python) | [reels/reel_3669_langchain-ai-langchain](reels/reel_3669_langchain-ai-langchain) |
