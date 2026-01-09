@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3664 | [verekia/webgamedev](https://github.com/verekia/webgamedev) | MDX · ⭐ 166 | 2026-01-09 |
+| #3665 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3730,3 +3730,4 @@ Or let GitHub Action run it automatically.
 | 3662 | 2026-01-09 07:53:15 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139395⭐ Python) | [reels/reel_3662_ytdl-org-youtube-dl](reels/reel_3662_ytdl-org-youtube-dl) |
 | 3663 | 2026-01-09 08:28:15 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139394⭐ Python) | [reels/reel_3663_ytdl-org-youtube-dl](reels/reel_3663_ytdl-org-youtube-dl) |
 | 3664 | 2026-01-09 08:56:11 | [verekia/webgamedev](https://github.com/verekia/webgamedev) | ✅ full (166⭐ MDX) | [reels/reel_3664_verekia-webgamedev](reels/reel_3664_verekia-webgamedev) |
+| 3665 | 2026-01-09 09:28:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141120⭐ Python) | [reels/reel_3665_yt-dlp-yt-dlp](reels/reel_3665_yt-dlp-yt-dlp) |
