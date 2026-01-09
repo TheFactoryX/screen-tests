@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3695 | [SevenworksDev/proxy-list](https://github.com/SevenworksDev/proxy-list) | None · ⭐ 100 | 2026-01-09 |
+| #3696 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3761,3 +3761,4 @@ Or let GitHub Action run it automatically.
 | 3693 | 2026-01-09 22:19:26 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109231⭐ Rust) | [reels/reel_3693_rust-lang-rust](reels/reel_3693_rust-lang-rust) |
 | 3694 | 2026-01-09 22:44:50 | [Netatalk/netatalk](https://github.com/Netatalk/netatalk) | ✅ full (451⭐ C) | [reels/reel_3694_Netatalk-netatalk](reels/reel_3694_Netatalk-netatalk) |
 | 3695 | 2026-01-09 22:55:48 | [SevenworksDev/proxy-list](https://github.com/SevenworksDev/proxy-list) | ✅ readme_only (100⭐ None) | [reels/reel_3695_SevenworksDev-proxy-list](reels/reel_3695_SevenworksDev-proxy-list) |
+| 3696 | 2026-01-09 23:19:54 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104451⭐ TypeScript) | [reels/reel_3696_shadcn-ui-ui](reels/reel_3696_shadcn-ui-ui) |
