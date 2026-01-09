@@ -1,0 +1,24 @@
+{
+  "reel_number": 3695,
+  "recorded": "2026-01-09 22:55:48 UTC",
+  "repository": {
+    "full_name": "SevenworksDev/proxy-list",
+    "url": "https://github.com/SevenworksDev/proxy-list",
+    "clone_url": "https://github.com/SevenworksDev/proxy-list.git",
+    "stars": 100,
+    "language": null,
+    "size_kb": 59930852
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 58526,
+    "duration_seconds": 0.000149
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 100 stars."
+  }
+}
