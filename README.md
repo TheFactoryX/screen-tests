@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3681 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-09 |
+| #3682 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3747,3 +3747,4 @@ Or let GitHub Action run it automatically.
 | 3679 | 2026-01-09 16:25:54 | [linyinfeng/angrr](https://github.com/linyinfeng/angrr) | ✅ full (104⭐ Rust) | [reels/reel_3679_linyinfeng-angrr](reels/reel_3679_linyinfeng-angrr) |
 | 3680 | 2026-01-09 16:53:57 | [palantir/palantir-java-format](https://github.com/palantir/palantir-java-format) | ✅ full (728⭐ Java) | [reels/reel_3680_palantir-palantir-java-format](reels/reel_3680_palantir-palantir-java-format) |
 | 3681 | 2026-01-09 17:21:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267306⭐ None) | [reels/reel_3681_awesome-selfhosted-awesome-selfhosted](reels/reel_3681_awesome-selfhosted-awesome-selfhosted) |
+| 3682 | 2026-01-09 17:45:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108824⭐ TypeScript) | [reels/reel_3682_iptv-org-iptv](reels/reel_3682_iptv-org-iptv) |
