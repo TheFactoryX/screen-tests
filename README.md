@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3660 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 99k | 2026-01-09 |
+| #3661 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3726,3 +3726,4 @@ Or let GitHub Action run it automatically.
 | 3658 | 2026-01-09 05:51:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120050⭐ Svelte) | [reels/reel_3658_open-webui-open-webui](reels/reel_3658_open-webui-open-webui) |
 | 3659 | 2026-01-09 06:31:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180935⭐ Python) | [reels/reel_3659_Significant-Gravitas-AutoGPT](reels/reel_3659_Significant-Gravitas-AutoGPT) |
 | 3660 | 2026-01-09 07:02:26 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (99548⭐ Python) | [reels/reel_3660_Comfy-Org-ComfyUI](reels/reel_3660_Comfy-Org-ComfyUI) |
+| 3661 | 2026-01-09 07:37:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180937⭐ Python) | [reels/reel_3661_Significant-Gravitas-AutoGPT](reels/reel_3661_Significant-Gravitas-AutoGPT) |
