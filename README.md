@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3678 | [MJMcGuffin/muqcs.js](https://github.com/MJMcGuffin/muqcs.js) | HTML · ⭐ 17 | 2026-01-09 |
+| #3679 | [linyinfeng/angrr](https://github.com/linyinfeng/angrr) | Rust · ⭐ 104 | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3744,3 +3744,4 @@ Or let GitHub Action run it automatically.
 | 3676 | 2026-01-09 14:49:03 | [RocketGod-git/flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) | ✅ full (559⭐ C) | [reels/reel_3676_RocketGod-git-flipper-zero-rf-jammer](reels/reel_3676_RocketGod-git-flipper-zero-rf-jammer) |
 | 3677 | 2026-01-09 15:22:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104416⭐ TypeScript) | [reels/reel_3677_shadcn-ui-ui](reels/reel_3677_shadcn-ui-ui) |
 | 3678 | 2026-01-09 15:46:20 | [MJMcGuffin/muqcs.js](https://github.com/MJMcGuffin/muqcs.js) | ✅ full (17⭐ HTML) | [reels/reel_3678_MJMcGuffin-muqcs.js](reels/reel_3678_MJMcGuffin-muqcs.js) |
+| 3679 | 2026-01-09 16:25:54 | [linyinfeng/angrr](https://github.com/linyinfeng/angrr) | ✅ full (104⭐ Rust) | [reels/reel_3679_linyinfeng-angrr](reels/reel_3679_linyinfeng-angrr) |
