@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3654 | [andravin/spio](https://github.com/andravin/spio) | Python · ⭐ 46 | 2026-01-09 |
+| #3655 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3720,3 +3720,4 @@ Or let GitHub Action run it automatically.
 | 3652 | 2026-01-08 23:50:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109220⭐ Rust) | [reels/reel_3652_rust-lang-rust](reels/reel_3652_rust-lang-rust) |
 | 3653 | 2026-01-09 01:39:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104374⭐ TypeScript) | [reels/reel_3653_shadcn-ui-ui](reels/reel_3653_shadcn-ui-ui) |
 | 3654 | 2026-01-09 03:20:10 | [andravin/spio](https://github.com/andravin/spio) | ✅ full (46⭐ Python) | [reels/reel_3654_andravin-spio](reels/reel_3654_andravin-spio) |
+| 3655 | 2026-01-09 04:24:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180936⭐ Python) | [reels/reel_3655_Significant-Gravitas-AutoGPT](reels/reel_3655_Significant-Gravitas-AutoGPT) |
