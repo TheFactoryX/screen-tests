@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3670 | [chilek/lms](https://github.com/chilek/lms) | PHP · ⭐ 133 | 2026-01-09 |
+| #3671 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 120k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3736,3 +3736,4 @@ Or let GitHub Action run it automatically.
 | 3668 | 2026-01-09 10:48:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108814⭐ TypeScript) | [reels/reel_3668_iptv-org-iptv](reels/reel_3668_iptv-org-iptv) |
 | 3669 | 2026-01-09 11:18:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123817⭐ Python) | [reels/reel_3669_langchain-ai-langchain](reels/reel_3669_langchain-ai-langchain) |
 | 3670 | 2026-01-09 11:40:52 | [chilek/lms](https://github.com/chilek/lms) | ✅ full (133⭐ PHP) | [reels/reel_3670_chilek-lms](reels/reel_3670_chilek-lms) |
+| 3671 | 2026-01-09 11:51:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120071⭐ Svelte) | [reels/reel_3671_open-webui-open-webui](reels/reel_3671_open-webui-open-webui) |
