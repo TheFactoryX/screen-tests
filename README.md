@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3697 | [markjaquith/WordPress](https://github.com/markjaquith/WordPress) | PHP · ⭐ 227 | 2026-01-09 |
+| #3698 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3763,3 +3763,4 @@ Or let GitHub Action run it automatically.
 | 3695 | 2026-01-09 22:55:48 | [SevenworksDev/proxy-list](https://github.com/SevenworksDev/proxy-list) | ✅ readme_only (100⭐ None) | [reels/reel_3695_SevenworksDev-proxy-list](reels/reel_3695_SevenworksDev-proxy-list) |
 | 3696 | 2026-01-09 23:19:54 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104451⭐ TypeScript) | [reels/reel_3696_shadcn-ui-ui](reels/reel_3696_shadcn-ui-ui) |
 | 3697 | 2026-01-09 23:41:02 | [markjaquith/WordPress](https://github.com/markjaquith/WordPress) | ✅ shallow (227⭐ PHP) | [reels/reel_3697_markjaquith-WordPress](reels/reel_3697_markjaquith-WordPress) |
+| 3698 | 2026-01-09 23:51:35 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109232⭐ Rust) | [reels/reel_3698_rust-lang-rust](reels/reel_3698_rust-lang-rust) |
