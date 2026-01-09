@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3656 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-09 |
+| #3657 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3722,3 +3722,4 @@ Or let GitHub Action run it automatically.
 | 3654 | 2026-01-09 03:20:10 | [andravin/spio](https://github.com/andravin/spio) | ✅ full (46⭐ Python) | [reels/reel_3654_andravin-spio](reels/reel_3654_andravin-spio) |
 | 3655 | 2026-01-09 04:24:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180936⭐ Python) | [reels/reel_3655_Significant-Gravitas-AutoGPT](reels/reel_3655_Significant-Gravitas-AutoGPT) |
 | 3656 | 2026-01-09 04:57:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108811⭐ TypeScript) | [reels/reel_3656_iptv-org-iptv](reels/reel_3656_iptv-org-iptv) |
+| 3657 | 2026-01-09 05:30:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109221⭐ Rust) | [reels/reel_3657_rust-lang-rust](reels/reel_3657_rust-lang-rust) |
