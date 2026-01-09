@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3677 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-09 |
+| #3678 | [MJMcGuffin/muqcs.js](https://github.com/MJMcGuffin/muqcs.js) | HTML · ⭐ 17 | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3743,3 +3743,4 @@ Or let GitHub Action run it automatically.
 | 3675 | 2026-01-09 14:22:31 | [yassinmohamed1111/superxss](https://github.com/yassinmohamed1111/superxss) | ✅ full (121⭐ None) | [reels/reel_3675_yassinmohamed1111-superxss](reels/reel_3675_yassinmohamed1111-superxss) |
 | 3676 | 2026-01-09 14:49:03 | [RocketGod-git/flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) | ✅ full (559⭐ C) | [reels/reel_3676_RocketGod-git-flipper-zero-rf-jammer](reels/reel_3676_RocketGod-git-flipper-zero-rf-jammer) |
 | 3677 | 2026-01-09 15:22:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104416⭐ TypeScript) | [reels/reel_3677_shadcn-ui-ui](reels/reel_3677_shadcn-ui-ui) |
+| 3678 | 2026-01-09 15:46:20 | [MJMcGuffin/muqcs.js](https://github.com/MJMcGuffin/muqcs.js) | ✅ full (17⭐ HTML) | [reels/reel_3678_MJMcGuffin-muqcs.js](reels/reel_3678_MJMcGuffin-muqcs.js) |
