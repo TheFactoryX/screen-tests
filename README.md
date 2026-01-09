@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3690 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-09 |
+| #3691 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3756,3 +3756,4 @@ Or let GitHub Action run it automatically.
 | 3688 | 2026-01-09 20:22:30 | [fsspec/gcsfs](https://github.com/fsspec/gcsfs) | ✅ full (381⭐ Python) | [reels/reel_3688_fsspec-gcsfs](reels/reel_3688_fsspec-gcsfs) |
 | 3689 | 2026-01-09 20:45:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109229⭐ Rust) | [reels/reel_3689_rust-lang-rust](reels/reel_3689_rust-lang-rust) |
 | 3690 | 2026-01-09 21:19:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123831⭐ Python) | [reels/reel_3690_langchain-ai-langchain](reels/reel_3690_langchain-ai-langchain) |
+| 3691 | 2026-01-09 21:41:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104442⭐ TypeScript) | [reels/reel_3691_shadcn-ui-ui](reels/reel_3691_shadcn-ui-ui) |
