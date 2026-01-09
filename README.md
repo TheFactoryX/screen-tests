@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3684 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-09 |
+| #3685 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3750,3 +3750,4 @@ Or let GitHub Action run it automatically.
 | 3682 | 2026-01-09 17:45:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108824⭐ TypeScript) | [reels/reel_3682_iptv-org-iptv](reels/reel_3682_iptv-org-iptv) |
 | 3683 | 2026-01-09 18:29:53 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97203⭐ TypeScript) | [reels/reel_3683_ant-design-ant-design](reels/reel_3683_ant-design-ant-design) |
 | 3684 | 2026-01-09 18:56:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267317⭐ None) | [reels/reel_3684_awesome-selfhosted-awesome-selfhosted](reels/reel_3684_awesome-selfhosted-awesome-selfhosted) |
+| 3685 | 2026-01-09 19:21:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120103⭐ Python) | [reels/reel_3685_open-webui-open-webui](reels/reel_3685_open-webui-open-webui) |
