@@ -1,0 +1,24 @@
+{
+  "reel_number": 3676,
+  "recorded": "2026-01-09 14:49:03 UTC",
+  "repository": {
+    "full_name": "RocketGod-git/flipper-zero-rf-jammer",
+    "url": "https://github.com/RocketGod-git/flipper-zero-rf-jammer",
+    "clone_url": "https://github.com/RocketGod-git/flipper-zero-rf-jammer.git",
+    "stars": 559,
+    "language": "C",
+    "size_kb": 65
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.146458
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 559 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3675 | [yassinmohamed1111/superxss](https://github.com/yassinmohamed1111/superxss) | None · ⭐ 121 | 2026-01-09 |
+| #3676 | [RocketGod-git/flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) | C · ⭐ 559 | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3741,3 +3741,4 @@ Or let GitHub Action run it automatically.
 | 3673 | 2026-01-09 13:26:54 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104416⭐ TypeScript) | [reels/reel_3673_shadcn-ui-ui](reels/reel_3673_shadcn-ui-ui) |
 | 3674 | 2026-01-09 13:54:57 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180949⭐ Python) | [reels/reel_3674_Significant-Gravitas-AutoGPT](reels/reel_3674_Significant-Gravitas-AutoGPT) |
 | 3675 | 2026-01-09 14:22:31 | [yassinmohamed1111/superxss](https://github.com/yassinmohamed1111/superxss) | ✅ full (121⭐ None) | [reels/reel_3675_yassinmohamed1111-superxss](reels/reel_3675_yassinmohamed1111-superxss) |
+| 3676 | 2026-01-09 14:49:03 | [RocketGod-git/flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) | ✅ full (559⭐ C) | [reels/reel_3676_RocketGod-git-flipper-zero-rf-jammer](reels/reel_3676_RocketGod-git-flipper-zero-rf-jammer) |
