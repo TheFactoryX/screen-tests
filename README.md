@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3693 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-09 |
+| #3694 | [Netatalk/netatalk](https://github.com/Netatalk/netatalk) | C · ⭐ 451 | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3759,3 +3759,4 @@ Or let GitHub Action run it automatically.
 | 3691 | 2026-01-09 21:41:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104442⭐ TypeScript) | [reels/reel_3691_shadcn-ui-ui](reels/reel_3691_shadcn-ui-ui) |
 | 3692 | 2026-01-09 21:52:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (390326⭐ Python) | [reels/reel_3692_public-apis-public-apis](reels/reel_3692_public-apis-public-apis) |
 | 3693 | 2026-01-09 22:19:26 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109231⭐ Rust) | [reels/reel_3693_rust-lang-rust](reels/reel_3693_rust-lang-rust) |
+| 3694 | 2026-01-09 22:44:50 | [Netatalk/netatalk](https://github.com/Netatalk/netatalk) | ✅ full (451⭐ C) | [reels/reel_3694_Netatalk-netatalk](reels/reel_3694_Netatalk-netatalk) |

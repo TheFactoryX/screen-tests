@@ -1,0 +1,24 @@
+{
+  "reel_number": 3694,
+  "recorded": "2026-01-09 22:44:50 UTC",
+  "repository": {
+    "full_name": "Netatalk/netatalk",
+    "url": "https://github.com/Netatalk/netatalk",
+    "clone_url": "https://github.com/Netatalk/netatalk.git",
+    "stars": 451,
+    "language": "C",
+    "size_kb": 21451
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 2.262208
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 451 stars."
+  }
+}
