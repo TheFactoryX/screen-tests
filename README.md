@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3653 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-09 |
+| #3654 | [andravin/spio](https://github.com/andravin/spio) | Python · ⭐ 46 | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3719,3 +3719,4 @@ Or let GitHub Action run it automatically.
 | 3651 | 2026-01-08 23:39:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108799⭐ TypeScript) | [reels/reel_3651_iptv-org-iptv](reels/reel_3651_iptv-org-iptv) |
 | 3652 | 2026-01-08 23:50:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109220⭐ Rust) | [reels/reel_3652_rust-lang-rust](reels/reel_3652_rust-lang-rust) |
 | 3653 | 2026-01-09 01:39:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104374⭐ TypeScript) | [reels/reel_3653_shadcn-ui-ui](reels/reel_3653_shadcn-ui-ui) |
+| 3654 | 2026-01-09 03:20:10 | [andravin/spio](https://github.com/andravin/spio) | ✅ full (46⭐ Python) | [reels/reel_3654_andravin-spio](reels/reel_3654_andravin-spio) |

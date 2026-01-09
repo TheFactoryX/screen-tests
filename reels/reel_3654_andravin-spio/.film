@@ -1,0 +1,24 @@
+{
+  "reel_number": 3654,
+  "recorded": "2026-01-09 03:20:10 UTC",
+  "repository": {
+    "full_name": "andravin/spio",
+    "url": "https://github.com/andravin/spio",
+    "clone_url": "https://github.com/andravin/spio.git",
+    "stars": 46,
+    "language": "Python",
+    "size_kb": 1464
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.574691
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 46 stars."
+  }
+}
