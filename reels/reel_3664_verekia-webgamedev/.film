@@ -1,0 +1,24 @@
+{
+  "reel_number": 3664,
+  "recorded": "2026-01-09 08:56:11 UTC",
+  "repository": {
+    "full_name": "verekia/webgamedev",
+    "url": "https://github.com/verekia/webgamedev",
+    "clone_url": "https://github.com/verekia/webgamedev.git",
+    "stars": 166,
+    "language": "MDX",
+    "size_kb": 46152
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 45,
+    "duration_seconds": 1.496567
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 166 stars."
+  }
+}

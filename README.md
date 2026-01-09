@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3663 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-09 |
+| #3664 | [verekia/webgamedev](https://github.com/verekia/webgamedev) | MDX · ⭐ 166 | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3729,3 +3729,4 @@ Or let GitHub Action run it automatically.
 | 3661 | 2026-01-09 07:37:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180937⭐ Python) | [reels/reel_3661_Significant-Gravitas-AutoGPT](reels/reel_3661_Significant-Gravitas-AutoGPT) |
 | 3662 | 2026-01-09 07:53:15 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139395⭐ Python) | [reels/reel_3662_ytdl-org-youtube-dl](reels/reel_3662_ytdl-org-youtube-dl) |
 | 3663 | 2026-01-09 08:28:15 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139394⭐ Python) | [reels/reel_3663_ytdl-org-youtube-dl](reels/reel_3663_ytdl-org-youtube-dl) |
+| 3664 | 2026-01-09 08:56:11 | [verekia/webgamedev](https://github.com/verekia/webgamedev) | ✅ full (166⭐ MDX) | [reels/reel_3664_verekia-webgamedev](reels/reel_3664_verekia-webgamedev) |
