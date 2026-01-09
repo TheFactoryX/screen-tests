@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3691 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-09 |
+| #3692 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 390k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3757,3 +3757,4 @@ Or let GitHub Action run it automatically.
 | 3689 | 2026-01-09 20:45:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109229⭐ Rust) | [reels/reel_3689_rust-lang-rust](reels/reel_3689_rust-lang-rust) |
 | 3690 | 2026-01-09 21:19:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123831⭐ Python) | [reels/reel_3690_langchain-ai-langchain](reels/reel_3690_langchain-ai-langchain) |
 | 3691 | 2026-01-09 21:41:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104442⭐ TypeScript) | [reels/reel_3691_shadcn-ui-ui](reels/reel_3691_shadcn-ui-ui) |
+| 3692 | 2026-01-09 21:52:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (390326⭐ Python) | [reels/reel_3692_public-apis-public-apis](reels/reel_3692_public-apis-public-apis) |
