@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3667 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-09 |
+| #3668 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 108k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3733,3 +3733,4 @@ Or let GitHub Action run it automatically.
 | 3665 | 2026-01-09 09:28:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141120⭐ Python) | [reels/reel_3665_yt-dlp-yt-dlp](reels/reel_3665_yt-dlp-yt-dlp) |
 | 3666 | 2026-01-09 09:51:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120062⭐ Svelte) | [reels/reel_3666_open-webui-open-webui](reels/reel_3666_open-webui-open-webui) |
 | 3667 | 2026-01-09 10:21:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108816⭐ TypeScript) | [reels/reel_3667_iptv-org-iptv](reels/reel_3667_iptv-org-iptv) |
+| 3668 | 2026-01-09 10:48:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108814⭐ TypeScript) | [reels/reel_3668_iptv-org-iptv](reels/reel_3668_iptv-org-iptv) |
