@@ -1,0 +1,24 @@
+{
+  "reel_number": 3680,
+  "recorded": "2026-01-09 16:53:57 UTC",
+  "repository": {
+    "full_name": "palantir/palantir-java-format",
+    "url": "https://github.com/palantir/palantir-java-format",
+    "clone_url": "https://github.com/palantir/palantir-java-format.git",
+    "stars": 728,
+    "language": "Java",
+    "size_kb": 5183
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.87911
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 728 stars."
+  }
+}
