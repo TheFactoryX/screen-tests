@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3671 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 120k | 2026-01-09 |
+| #3672 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3737,3 +3737,4 @@ Or let GitHub Action run it automatically.
 | 3669 | 2026-01-09 11:18:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123817⭐ Python) | [reels/reel_3669_langchain-ai-langchain](reels/reel_3669_langchain-ai-langchain) |
 | 3670 | 2026-01-09 11:40:52 | [chilek/lms](https://github.com/chilek/lms) | ✅ full (133⭐ PHP) | [reels/reel_3670_chilek-lms](reels/reel_3670_chilek-lms) |
 | 3671 | 2026-01-09 11:51:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120071⭐ Svelte) | [reels/reel_3671_open-webui-open-webui](reels/reel_3671_open-webui-open-webui) |
+| 3672 | 2026-01-09 12:41:19 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109220⭐ Rust) | [reels/reel_3672_rust-lang-rust](reels/reel_3672_rust-lang-rust) |
