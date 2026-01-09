@@ -1,0 +1,24 @@
+{
+  "reel_number": 3675,
+  "recorded": "2026-01-09 14:22:31 UTC",
+  "repository": {
+    "full_name": "yassinmohamed1111/superxss",
+    "url": "https://github.com/yassinmohamed1111/superxss",
+    "clone_url": "https://github.com/yassinmohamed1111/superxss.git",
+    "stars": 121,
+    "language": null,
+    "size_kb": 67
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.463875
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 121 stars."
+  }
+}
