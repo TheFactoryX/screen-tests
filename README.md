@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3689 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-09 |
+| #3690 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-09 |
 ---
 
 ## 🎭 Selection Process
@@ -3755,3 +3755,4 @@ Or let GitHub Action run it automatically.
 | 3687 | 2026-01-09 19:50:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267320⭐ None) | [reels/reel_3687_awesome-selfhosted-awesome-selfhosted](reels/reel_3687_awesome-selfhosted-awesome-selfhosted) |
 | 3688 | 2026-01-09 20:22:30 | [fsspec/gcsfs](https://github.com/fsspec/gcsfs) | ✅ full (381⭐ Python) | [reels/reel_3688_fsspec-gcsfs](reels/reel_3688_fsspec-gcsfs) |
 | 3689 | 2026-01-09 20:45:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109229⭐ Rust) | [reels/reel_3689_rust-lang-rust](reels/reel_3689_rust-lang-rust) |
+| 3690 | 2026-01-09 21:19:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123831⭐ Python) | [reels/reel_3690_langchain-ai-langchain](reels/reel_3690_langchain-ai-langchain) |
