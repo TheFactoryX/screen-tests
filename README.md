@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3701 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-10 |
+| #3702 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3767,3 +3767,4 @@ Or let GitHub Action run it automatically.
 | 3699 | 2026-01-10 01:27:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (390344⭐ Python) | [reels/reel_3699_public-apis-public-apis](reels/reel_3699_public-apis-public-apis) |
 | 3700 | 2026-01-10 03:10:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143145⭐ Python) | [reels/reel_3700_langflow-ai-langflow](reels/reel_3700_langflow-ai-langflow) |
 | 3701 | 2026-01-10 04:03:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109237⭐ Rust) | [reels/reel_3701_rust-lang-rust](reels/reel_3701_rust-lang-rust) |
+| 3702 | 2026-01-10 04:47:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267372⭐ None) | [reels/reel_3702_awesome-selfhosted-awesome-selfhosted](reels/reel_3702_awesome-selfhosted-awesome-selfhosted) |
