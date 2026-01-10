@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3719 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 167k | 2026-01-10 |
+| #3720 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3785,3 +3785,4 @@ Or let GitHub Action run it automatically.
 | 3717 | 2026-01-10 10:43:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180973⭐ Python) | [reels/reel_3717_Significant-Gravitas-AutoGPT](reels/reel_3717_Significant-Gravitas-AutoGPT) |
 | 3718 | 2026-01-10 10:54:21 | [ricklove/rick-love-master](https://github.com/ricklove/rick-love-master) | ✅ shallow (28⭐ TypeScript) | [reels/reel_3718_ricklove-rick-love-master](reels/reel_3718_ricklove-rick-love-master) |
 | 3719 | 2026-01-10 11:16:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167825⭐ TypeScript) | [reels/reel_3719_n8n-io-n8n](reels/reel_3719_n8n-io-n8n) |
+| 3720 | 2026-01-10 11:37:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141233⭐ Python) | [reels/reel_3720_yt-dlp-yt-dlp](reels/reel_3720_yt-dlp-yt-dlp) |
