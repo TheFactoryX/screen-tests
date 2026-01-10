@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3726 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 167k | 2026-01-10 |
+| #3727 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3792,3 +3792,4 @@ Or let GitHub Action run it automatically.
 | 3724 | 2026-01-10 13:45:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143174⭐ Python) | [reels/reel_3724_langflow-ai-langflow](reels/reel_3724_langflow-ai-langflow) |
 | 3725 | 2026-01-10 14:17:35 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255222⭐ None) | [reels/reel_3725_practical-tutorials-project-based-learning](reels/reel_3725_practical-tutorials-project-based-learning) |
 | 3726 | 2026-01-10 14:42:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167886⭐ TypeScript) | [reels/reel_3726_n8n-io-n8n](reels/reel_3726_n8n-io-n8n) |
+| 3727 | 2026-01-10 14:52:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123883⭐ Python) | [reels/reel_3727_langchain-ai-langchain](reels/reel_3727_langchain-ai-langchain) |
