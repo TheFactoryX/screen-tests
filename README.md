@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3707 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 673 | 2026-01-10 |
+| #3708 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3773,3 +3773,4 @@ Or let GitHub Action run it automatically.
 | 3705 | 2026-01-10 05:53:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267375⭐ None) | [reels/reel_3705_awesome-selfhosted-awesome-selfhosted](reels/reel_3705_awesome-selfhosted-awesome-selfhosted) |
 | 3706 | 2026-01-10 06:28:29 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255183⭐ None) | [reels/reel_3706_practical-tutorials-project-based-learning](reels/reel_3706_practical-tutorials-project-based-learning) |
 | 3707 | 2026-01-10 06:57:00 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (673⭐ Tcl) | [reels/reel_3707_rust-lang-crates.io-index](reels/reel_3707_rust-lang-crates.io-index) |
+| 3708 | 2026-01-10 07:17:50 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101019⭐ Python) | [reels/reel_3708_deepseek-ai-DeepSeek-V3](reels/reel_3708_deepseek-ai-DeepSeek-V3) |
