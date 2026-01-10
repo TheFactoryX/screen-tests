@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3730 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-10 |
+| #3731 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 167k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3796,3 +3796,4 @@ Or let GitHub Action run it automatically.
 | 3728 | 2026-01-10 15:18:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (108934⭐ TypeScript) | [reels/reel_3728_iptv-org-iptv](reels/reel_3728_iptv-org-iptv) |
 | 3729 | 2026-01-10 15:40:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109255⭐ Rust) | [reels/reel_3729_rust-lang-rust](reels/reel_3729_rust-lang-rust) |
 | 3730 | 2026-01-10 15:50:21 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104512⭐ TypeScript) | [reels/reel_3730_shadcn-ui-ui](reels/reel_3730_shadcn-ui-ui) |
+| 3731 | 2026-01-10 16:22:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167920⭐ TypeScript) | [reels/reel_3731_n8n-io-n8n](reels/reel_3731_n8n-io-n8n) |
