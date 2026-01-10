@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3710 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 455k | 2026-01-10 |
+| #3711 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3776,3 +3776,4 @@ Or let GitHub Action run it automatically.
 | 3708 | 2026-01-10 07:17:50 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101019⭐ Python) | [reels/reel_3708_deepseek-ai-DeepSeek-V3](reels/reel_3708_deepseek-ai-DeepSeek-V3) |
 | 3709 | 2026-01-10 07:38:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120132⭐ Python) | [reels/reel_3709_open-webui-open-webui](reels/reel_3709_open-webui-open-webui) |
 | 3710 | 2026-01-10 07:50:05 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (455363⭐ Markdown) | [reels/reel_3710_codecrafters-io-build-your-own-x](reels/reel_3710_codecrafters-io-build-your-own-x) |
+| 3711 | 2026-01-10 08:24:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141223⭐ Python) | [reels/reel_3711_yt-dlp-yt-dlp](reels/reel_3711_yt-dlp-yt-dlp) |
