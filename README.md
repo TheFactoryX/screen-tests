@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3703 | [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) | Python · ⭐ 4k | 2026-01-10 |
+| #3704 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3769,3 +3769,4 @@ Or let GitHub Action run it automatically.
 | 3701 | 2026-01-10 04:03:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109237⭐ Rust) | [reels/reel_3701_rust-lang-rust](reels/reel_3701_rust-lang-rust) |
 | 3702 | 2026-01-10 04:47:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267372⭐ None) | [reels/reel_3702_awesome-selfhosted-awesome-selfhosted](reels/reel_3702_awesome-selfhosted-awesome-selfhosted) |
 | 3703 | 2026-01-10 05:19:41 | [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) | ✅ full (4834⭐ Python) | [reels/reel_3703_pluwen-awesome-testflight-link](reels/reel_3703_pluwen-awesome-testflight-link) |
+| 3704 | 2026-01-10 05:43:47 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97202⭐ TypeScript) | [reels/reel_3704_ant-design-ant-design](reels/reel_3704_ant-design-ant-design) |
