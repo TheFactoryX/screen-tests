@@ -1,0 +1,24 @@
+{
+  "reel_number": 3718,
+  "recorded": "2026-01-10 10:54:21 UTC",
+  "repository": {
+    "full_name": "ricklove/rick-love-master",
+    "url": "https://github.com/ricklove/rick-love-master",
+    "clone_url": "https://github.com/ricklove/rick-love-master.git",
+    "stars": 28,
+    "language": "TypeScript",
+    "size_kb": 362291
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 353,
+    "duration_seconds": 10.244091
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 28 stars."
+  }
+}
