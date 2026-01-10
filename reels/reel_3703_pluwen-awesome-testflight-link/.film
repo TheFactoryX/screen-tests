@@ -1,0 +1,24 @@
+{
+  "reel_number": 3703,
+  "recorded": "2026-01-10 05:19:41 UTC",
+  "repository": {
+    "full_name": "pluwen/awesome-testflight-link",
+    "url": "https://github.com/pluwen/awesome-testflight-link",
+    "clone_url": "https://github.com/pluwen/awesome-testflight-link.git",
+    "stars": 4834,
+    "language": "Python",
+    "size_kb": 3636
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.944467
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 4834 stars."
+  }
+}
