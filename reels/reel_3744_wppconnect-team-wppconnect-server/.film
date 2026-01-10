@@ -1,0 +1,24 @@
+{
+  "reel_number": 3744,
+  "recorded": "2026-01-10 20:53:13 UTC",
+  "repository": {
+    "full_name": "wppconnect-team/wppconnect-server",
+    "url": "https://github.com/wppconnect-team/wppconnect-server",
+    "clone_url": "https://github.com/wppconnect-team/wppconnect-server.git",
+    "stars": 982,
+    "language": "TypeScript",
+    "size_kb": 67326
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 65,
+    "duration_seconds": 4.003405
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 982 stars."
+  }
+}
