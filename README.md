@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3705 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-10 |
+| #3706 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 255k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3771,3 +3771,4 @@ Or let GitHub Action run it automatically.
 | 3703 | 2026-01-10 05:19:41 | [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) | ✅ full (4834⭐ Python) | [reels/reel_3703_pluwen-awesome-testflight-link](reels/reel_3703_pluwen-awesome-testflight-link) |
 | 3704 | 2026-01-10 05:43:47 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97202⭐ TypeScript) | [reels/reel_3704_ant-design-ant-design](reels/reel_3704_ant-design-ant-design) |
 | 3705 | 2026-01-10 05:53:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267375⭐ None) | [reels/reel_3705_awesome-selfhosted-awesome-selfhosted](reels/reel_3705_awesome-selfhosted-awesome-selfhosted) |
+| 3706 | 2026-01-10 06:28:29 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255183⭐ None) | [reels/reel_3706_practical-tutorials-project-based-learning](reels/reel_3706_practical-tutorials-project-based-learning) |
