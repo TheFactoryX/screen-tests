@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3749 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-10 |
+| #3750 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 409 | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3815,3 +3815,4 @@ Or let GitHub Action run it automatically.
 | 3747 | 2026-01-10 21:49:36 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267500⭐ None) | [reels/reel_3747_awesome-selfhosted-awesome-selfhosted](reels/reel_3747_awesome-selfhosted-awesome-selfhosted) |
 | 3748 | 2026-01-10 22:18:15 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139411⭐ Python) | [reels/reel_3748_ytdl-org-youtube-dl](reels/reel_3748_ytdl-org-youtube-dl) |
 | 3749 | 2026-01-10 22:42:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109256⭐ Rust) | [reels/reel_3749_rust-lang-rust](reels/reel_3749_rust-lang-rust) |
+| 3750 | 2026-01-10 22:52:47 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ shallow (409⭐ None) | [reels/reel_3750_zloi-user-hideip.me](reels/reel_3750_zloi-user-hideip.me) |
