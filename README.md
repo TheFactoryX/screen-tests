@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3724 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-10 |
+| #3725 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 255k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3790,3 +3790,4 @@ Or let GitHub Action run it automatically.
 | 3722 | 2026-01-10 12:37:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120151⭐ Python) | [reels/reel_3722_open-webui-open-webui](reels/reel_3722_open-webui-open-webui) |
 | 3723 | 2026-01-10 13:18:33 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104493⭐ TypeScript) | [reels/reel_3723_shadcn-ui-ui](reels/reel_3723_shadcn-ui-ui) |
 | 3724 | 2026-01-10 13:45:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143174⭐ Python) | [reels/reel_3724_langflow-ai-langflow](reels/reel_3724_langflow-ai-langflow) |
+| 3725 | 2026-01-10 14:17:35 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255222⭐ None) | [reels/reel_3725_practical-tutorials-project-based-learning](reels/reel_3725_practical-tutorials-project-based-learning) |
