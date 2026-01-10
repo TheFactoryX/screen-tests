@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3750 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 409 | 2026-01-10 |
+| #3751 | [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) | HCL · ⭐ 181 | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3816,3 +3816,4 @@ Or let GitHub Action run it automatically.
 | 3748 | 2026-01-10 22:18:15 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139411⭐ Python) | [reels/reel_3748_ytdl-org-youtube-dl](reels/reel_3748_ytdl-org-youtube-dl) |
 | 3749 | 2026-01-10 22:42:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109256⭐ Rust) | [reels/reel_3749_rust-lang-rust](reels/reel_3749_rust-lang-rust) |
 | 3750 | 2026-01-10 22:52:47 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ shallow (409⭐ None) | [reels/reel_3750_zloi-user-hideip.me](reels/reel_3750_zloi-user-hideip.me) |
+| 3751 | 2026-01-10 23:17:56 | [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) | ✅ full (181⭐ HCL) | [reels/reel_3751_angelnu-k8s-gitops](reels/reel_3751_angelnu-k8s-gitops) |

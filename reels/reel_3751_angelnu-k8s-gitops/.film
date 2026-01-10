@@ -1,0 +1,24 @@
+{
+  "reel_number": 3751,
+  "recorded": "2026-01-10 23:17:56 UTC",
+  "repository": {
+    "full_name": "angelnu/k8s-gitops",
+    "url": "https://github.com/angelnu/k8s-gitops",
+    "clone_url": "https://github.com/angelnu/k8s-gitops.git",
+    "stars": 181,
+    "language": "HCL",
+    "size_kb": 6979
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.810817
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HCL",
+    "director_note": "A HCL repository. 181 stars."
+  }
+}
