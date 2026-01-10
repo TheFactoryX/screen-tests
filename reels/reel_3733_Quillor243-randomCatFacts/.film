@@ -1,0 +1,24 @@
+{
+  "reel_number": 3733,
+  "recorded": "2026-01-10 17:16:16 UTC",
+  "repository": {
+    "full_name": "Quillor243/randomCatFacts",
+    "url": "https://github.com/Quillor243/randomCatFacts",
+    "clone_url": "https://github.com/Quillor243/randomCatFacts.git",
+    "stars": 23,
+    "language": null,
+    "size_kb": 304
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.236336
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 23 stars."
+  }
+}
