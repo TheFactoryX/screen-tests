@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3734 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-10 |
+| #3735 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3800,3 +3800,4 @@ Or let GitHub Action run it automatically.
 | 3732 | 2026-01-10 16:47:14 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101038⭐ Python) | [reels/reel_3732_deepseek-ai-DeepSeek-V3](reels/reel_3732_deepseek-ai-DeepSeek-V3) |
 | 3733 | 2026-01-10 17:16:16 | [Quillor243/randomCatFacts](https://github.com/Quillor243/randomCatFacts) | ✅ full (23⭐ None) | [reels/reel_3733_Quillor243-randomCatFacts](reels/reel_3733_Quillor243-randomCatFacts) |
 | 3734 | 2026-01-10 17:40:20 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101038⭐ Python) | [reels/reel_3734_deepseek-ai-DeepSeek-V3](reels/reel_3734_deepseek-ai-DeepSeek-V3) |
+| 3735 | 2026-01-10 17:50:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143196⭐ Python) | [reels/reel_3735_langflow-ai-langflow](reels/reel_3735_langflow-ai-langflow) |
