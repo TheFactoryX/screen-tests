@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3712 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-10 |
+| #3713 | [Edwardvaneechoud/Flowfile](https://github.com/Edwardvaneechoud/Flowfile) | Python · ⭐ 188 | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3778,3 +3778,4 @@ Or let GitHub Action run it automatically.
 | 3710 | 2026-01-10 07:50:05 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (455363⭐ Markdown) | [reels/reel_3710_codecrafters-io-build-your-own-x](reels/reel_3710_codecrafters-io-build-your-own-x) |
 | 3711 | 2026-01-10 08:24:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141223⭐ Python) | [reels/reel_3711_yt-dlp-yt-dlp](reels/reel_3711_yt-dlp-yt-dlp) |
 | 3712 | 2026-01-10 08:47:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109241⭐ Rust) | [reels/reel_3712_rust-lang-rust](reels/reel_3712_rust-lang-rust) |
+| 3713 | 2026-01-10 09:18:38 | [Edwardvaneechoud/Flowfile](https://github.com/Edwardvaneechoud/Flowfile) | ✅ full (188⭐ Python) | [reels/reel_3713_Edwardvaneechoud-Flowfile](reels/reel_3713_Edwardvaneechoud-Flowfile) |
