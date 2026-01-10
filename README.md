@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3708 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-10 |
+| #3709 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3774,3 +3774,4 @@ Or let GitHub Action run it automatically.
 | 3706 | 2026-01-10 06:28:29 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255183⭐ None) | [reels/reel_3706_practical-tutorials-project-based-learning](reels/reel_3706_practical-tutorials-project-based-learning) |
 | 3707 | 2026-01-10 06:57:00 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (673⭐ Tcl) | [reels/reel_3707_rust-lang-crates.io-index](reels/reel_3707_rust-lang-crates.io-index) |
 | 3708 | 2026-01-10 07:17:50 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101019⭐ Python) | [reels/reel_3708_deepseek-ai-DeepSeek-V3](reels/reel_3708_deepseek-ai-DeepSeek-V3) |
+| 3709 | 2026-01-10 07:38:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120132⭐ Python) | [reels/reel_3709_open-webui-open-webui](reels/reel_3709_open-webui-open-webui) |
