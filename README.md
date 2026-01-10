@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3699 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 390k | 2026-01-10 |
+| #3700 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3765,3 +3765,4 @@ Or let GitHub Action run it automatically.
 | 3697 | 2026-01-09 23:41:02 | [markjaquith/WordPress](https://github.com/markjaquith/WordPress) | ✅ shallow (227⭐ PHP) | [reels/reel_3697_markjaquith-WordPress](reels/reel_3697_markjaquith-WordPress) |
 | 3698 | 2026-01-09 23:51:35 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109232⭐ Rust) | [reels/reel_3698_rust-lang-rust](reels/reel_3698_rust-lang-rust) |
 | 3699 | 2026-01-10 01:27:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (390344⭐ Python) | [reels/reel_3699_public-apis-public-apis](reels/reel_3699_public-apis-public-apis) |
+| 3700 | 2026-01-10 03:10:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143145⭐ Python) | [reels/reel_3700_langflow-ai-langflow](reels/reel_3700_langflow-ai-langflow) |
