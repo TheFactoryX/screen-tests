@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3738 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-10 |
+| #3739 | [sameerasw/essentials](https://github.com/sameerasw/essentials) | Kotlin · ⭐ 576 | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3804,3 +3804,4 @@ Or let GitHub Action run it automatically.
 | 3736 | 2026-01-10 18:27:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141294⭐ Python) | [reels/reel_3736_yt-dlp-yt-dlp](reels/reel_3736_yt-dlp-yt-dlp) |
 | 3737 | 2026-01-10 18:51:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267483⭐ None) | [reels/reel_3737_awesome-selfhosted-awesome-selfhosted](reels/reel_3737_awesome-selfhosted-awesome-selfhosted) |
 | 3738 | 2026-01-10 19:14:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143201⭐ Python) | [reels/reel_3738_langflow-ai-langflow](reels/reel_3738_langflow-ai-langflow) |
+| 3739 | 2026-01-10 19:28:48 | [sameerasw/essentials](https://github.com/sameerasw/essentials) | ✅ full (576⭐ Kotlin) | [reels/reel_3739_sameerasw-essentials](reels/reel_3739_sameerasw-essentials) |

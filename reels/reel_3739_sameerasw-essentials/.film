@@ -1,0 +1,24 @@
+{
+  "reel_number": 3739,
+  "recorded": "2026-01-10 19:28:48 UTC",
+  "repository": {
+    "full_name": "sameerasw/essentials",
+    "url": "https://github.com/sameerasw/essentials",
+    "clone_url": "https://github.com/sameerasw/essentials.git",
+    "stars": 576,
+    "language": "Kotlin",
+    "size_kb": 4857
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.909549
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 576 stars."
+  }
+}
