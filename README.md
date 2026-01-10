@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3736 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-10 |
+| #3737 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3802,3 +3802,4 @@ Or let GitHub Action run it automatically.
 | 3734 | 2026-01-10 17:40:20 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101038⭐ Python) | [reels/reel_3734_deepseek-ai-DeepSeek-V3](reels/reel_3734_deepseek-ai-DeepSeek-V3) |
 | 3735 | 2026-01-10 17:50:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143196⭐ Python) | [reels/reel_3735_langflow-ai-langflow](reels/reel_3735_langflow-ai-langflow) |
 | 3736 | 2026-01-10 18:27:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141294⭐ Python) | [reels/reel_3736_yt-dlp-yt-dlp](reels/reel_3736_yt-dlp-yt-dlp) |
+| 3737 | 2026-01-10 18:51:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267483⭐ None) | [reels/reel_3737_awesome-selfhosted-awesome-selfhosted](reels/reel_3737_awesome-selfhosted-awesome-selfhosted) |
