@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3742 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 104k | 2026-01-10 |
+| #3743 | [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) | C# · ⭐ 5k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3808,3 +3808,4 @@ Or let GitHub Action run it automatically.
 | 3740 | 2026-01-10 19:40:52 | [I-am-Erk/CDDA-Tilesets](https://github.com/I-am-Erk/CDDA-Tilesets) | ✅ shallow (365⭐ Python) | [reels/reel_3740_I-am-Erk-CDDA-Tilesets](reels/reel_3740_I-am-Erk-CDDA-Tilesets) |
 | 3741 | 2026-01-10 19:50:16 | [5T33Z0/Thinkpad-T490-Hackintosh-OpenCore](https://github.com/5T33Z0/Thinkpad-T490-Hackintosh-OpenCore) | ✅ full (167⭐ None) | [reels/reel_3741_5T33Z0-Thinkpad-T490-Hackintosh-OpenCore](reels/reel_3741_5T33Z0-Thinkpad-T490-Hackintosh-OpenCore) |
 | 3742 | 2026-01-10 20:20:05 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104226⭐ None) | [reels/reel_3742_Hack-with-Github-Awesome-Hacking](reels/reel_3742_Hack-with-Github-Awesome-Hacking) |
+| 3743 | 2026-01-10 20:42:08 | [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) | ✅ shallow (5716⭐ C#) | [reels/reel_3743_kurrent-io-KurrentDB](reels/reel_3743_kurrent-io-KurrentDB) |

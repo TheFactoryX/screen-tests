@@ -1,0 +1,24 @@
+{
+  "reel_number": 3743,
+  "recorded": "2026-01-10 20:42:08 UTC",
+  "repository": {
+    "full_name": "kurrent-io/KurrentDB",
+    "url": "https://github.com/kurrent-io/KurrentDB",
+    "clone_url": "https://github.com/kurrent-io/KurrentDB.git",
+    "stars": 5716,
+    "language": "C#",
+    "size_kb": 344326
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 336,
+    "duration_seconds": 1.470873
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 5716 stars."
+  }
+}
