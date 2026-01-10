@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3739 | [sameerasw/essentials](https://github.com/sameerasw/essentials) | Kotlin · ⭐ 576 | 2026-01-10 |
+| #3740 | [I-am-Erk/CDDA-Tilesets](https://github.com/I-am-Erk/CDDA-Tilesets) | Python · ⭐ 365 | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3805,3 +3805,4 @@ Or let GitHub Action run it automatically.
 | 3737 | 2026-01-10 18:51:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267483⭐ None) | [reels/reel_3737_awesome-selfhosted-awesome-selfhosted](reels/reel_3737_awesome-selfhosted-awesome-selfhosted) |
 | 3738 | 2026-01-10 19:14:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143201⭐ Python) | [reels/reel_3738_langflow-ai-langflow](reels/reel_3738_langflow-ai-langflow) |
 | 3739 | 2026-01-10 19:28:48 | [sameerasw/essentials](https://github.com/sameerasw/essentials) | ✅ full (576⭐ Kotlin) | [reels/reel_3739_sameerasw-essentials](reels/reel_3739_sameerasw-essentials) |
+| 3740 | 2026-01-10 19:40:52 | [I-am-Erk/CDDA-Tilesets](https://github.com/I-am-Erk/CDDA-Tilesets) | ✅ shallow (365⭐ Python) | [reels/reel_3740_I-am-Erk-CDDA-Tilesets](reels/reel_3740_I-am-Erk-CDDA-Tilesets) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 3740,
+  "recorded": "2026-01-10 19:40:52 UTC",
+  "repository": {
+    "full_name": "I-am-Erk/CDDA-Tilesets",
+    "url": "https://github.com/I-am-Erk/CDDA-Tilesets",
+    "clone_url": "https://github.com/I-am-Erk/CDDA-Tilesets.git",
+    "stars": 365,
+    "language": "Python",
+    "size_kb": 270987
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 264,
+    "duration_seconds": 7.873156
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 365 stars."
+  }
+}
