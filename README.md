@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3744 | [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) | TypeScript · ⭐ 982 | 2026-01-10 |
+| #3745 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3810,3 +3810,4 @@ Or let GitHub Action run it automatically.
 | 3742 | 2026-01-10 20:20:05 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104226⭐ None) | [reels/reel_3742_Hack-with-Github-Awesome-Hacking](reels/reel_3742_Hack-with-Github-Awesome-Hacking) |
 | 3743 | 2026-01-10 20:42:08 | [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) | ✅ shallow (5716⭐ C#) | [reels/reel_3743_kurrent-io-KurrentDB](reels/reel_3743_kurrent-io-KurrentDB) |
 | 3744 | 2026-01-10 20:53:13 | [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) | ✅ full (982⭐ TypeScript) | [reels/reel_3744_wppconnect-team-wppconnect-server](reels/reel_3744_wppconnect-team-wppconnect-server) |
+| 3745 | 2026-01-10 21:16:53 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180990⭐ Python) | [reels/reel_3745_Significant-Gravitas-AutoGPT](reels/reel_3745_Significant-Gravitas-AutoGPT) |
