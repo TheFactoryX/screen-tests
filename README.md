@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3716 | [opencontainers/umoci](https://github.com/opencontainers/umoci) | Go · ⭐ 873 | 2026-01-10 |
+| #3717 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-10 |
 ---
 
 ## 🎭 Selection Process
@@ -3782,3 +3782,4 @@ Or let GitHub Action run it automatically.
 | 3714 | 2026-01-10 09:41:00 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (455386⭐ Markdown) | [reels/reel_3714_codecrafters-io-build-your-own-x](reels/reel_3714_codecrafters-io-build-your-own-x) |
 | 3715 | 2026-01-10 09:51:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (167805⭐ TypeScript) | [reels/reel_3715_n8n-io-n8n](reels/reel_3715_n8n-io-n8n) |
 | 3716 | 2026-01-10 10:18:51 | [opencontainers/umoci](https://github.com/opencontainers/umoci) | ✅ full (873⭐ Go) | [reels/reel_3716_opencontainers-umoci](reels/reel_3716_opencontainers-umoci) |
+| 3717 | 2026-01-10 10:43:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180973⭐ Python) | [reels/reel_3717_Significant-Gravitas-AutoGPT](reels/reel_3717_Significant-Gravitas-AutoGPT) |
