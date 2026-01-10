@@ -1,0 +1,24 @@
+{
+  "reel_number": 3741,
+  "recorded": "2026-01-10 19:50:16 UTC",
+  "repository": {
+    "full_name": "5T33Z0/Thinkpad-T490-Hackintosh-OpenCore",
+    "url": "https://github.com/5T33Z0/Thinkpad-T490-Hackintosh-OpenCore",
+    "clone_url": "https://github.com/5T33Z0/Thinkpad-T490-Hackintosh-OpenCore.git",
+    "stars": 167,
+    "language": null,
+    "size_kb": 32983
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 0.929304
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 167 stars."
+  }
+}
