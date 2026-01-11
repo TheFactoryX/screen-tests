@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3767 | [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup) | None · ⭐ 269 | 2026-01-11 |
+| #3768 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 255k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3833,3 +3833,4 @@ Or let GitHub Action run it automatically.
 | 3765 | 2026-01-11 08:48:00 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104259⭐ None) | [reels/reel_3765_Hack-with-Github-Awesome-Hacking](reels/reel_3765_Hack-with-Github-Awesome-Hacking) |
 | 3766 | 2026-01-11 09:19:21 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104557⭐ TypeScript) | [reels/reel_3766_shadcn-ui-ui](reels/reel_3766_shadcn-ui-ui) |
 | 3767 | 2026-01-11 09:41:51 | [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup) | ✅ full (269⭐ None) | [reels/reel_3767_AINativeLab-gptstore-data-backup](reels/reel_3767_AINativeLab-gptstore-data-backup) |
+| 3768 | 2026-01-11 09:51:11 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255339⭐ None) | [reels/reel_3768_practical-tutorials-project-based-learning](reels/reel_3768_practical-tutorials-project-based-learning) |
