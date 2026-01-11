@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3789 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 168k | 2026-01-11 |
+| #3790 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 390k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3855,3 +3855,4 @@ Or let GitHub Action run it automatically.
 | 3787 | 2026-01-11 17:40:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141403⭐ Python) | [reels/reel_3787_yt-dlp-yt-dlp](reels/reel_3787_yt-dlp-yt-dlp) |
 | 3788 | 2026-01-11 17:50:20 | [rimecraft-rs/rimecraft](https://github.com/rimecraft-rs/rimecraft) | ✅ full (47⭐ Rust) | [reels/reel_3788_rimecraft-rs-rimecraft](reels/reel_3788_rimecraft-rs-rimecraft) |
 | 3789 | 2026-01-11 18:27:18 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168140⭐ TypeScript) | [reels/reel_3789_n8n-io-n8n](reels/reel_3789_n8n-io-n8n) |
+| 3790 | 2026-01-11 18:51:26 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (390606⭐ Python) | [reels/reel_3790_public-apis-public-apis](reels/reel_3790_public-apis-public-apis) |
