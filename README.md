@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3796 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-11 |
+| #3797 | [sidor0912/FunPayCardinal](https://github.com/sidor0912/FunPayCardinal) | Python · ⭐ 263 | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3862,3 +3862,4 @@ Or let GitHub Action run it automatically.
 | 3794 | 2026-01-11 19:50:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267641⭐ None) | [reels/reel_3794_awesome-selfhosted-awesome-selfhosted](reels/reel_3794_awesome-selfhosted-awesome-selfhosted) |
 | 3795 | 2026-01-11 20:20:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143268⭐ Python) | [reels/reel_3795_langflow-ai-langflow](reels/reel_3795_langflow-ai-langflow) |
 | 3796 | 2026-01-11 20:43:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141416⭐ Python) | [reels/reel_3796_yt-dlp-yt-dlp](reels/reel_3796_yt-dlp-yt-dlp) |
+| 3797 | 2026-01-11 20:54:20 | [sidor0912/FunPayCardinal](https://github.com/sidor0912/FunPayCardinal) | ✅ full (263⭐ Python) | [reels/reel_3797_sidor0912-FunPayCardinal](reels/reel_3797_sidor0912-FunPayCardinal) |

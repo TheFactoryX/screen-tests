@@ -1,0 +1,24 @@
+{
+  "reel_number": 3797,
+  "recorded": "2026-01-11 20:54:20 UTC",
+  "repository": {
+    "full_name": "sidor0912/FunPayCardinal",
+    "url": "https://github.com/sidor0912/FunPayCardinal",
+    "clone_url": "https://github.com/sidor0912/FunPayCardinal.git",
+    "stars": 263,
+    "language": "Python",
+    "size_kb": 651
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.242176
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 263 stars."
+  }
+}
