@@ -1,0 +1,24 @@
+{
+  "reel_number": 3792,
+  "recorded": "2026-01-11 19:28:48 UTC",
+  "repository": {
+    "full_name": "Velaron/cs16-client",
+    "url": "https://github.com/Velaron/cs16-client",
+    "clone_url": "https://github.com/Velaron/cs16-client.git",
+    "stars": 270,
+    "language": "C++",
+    "size_kb": 20536
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 0.899385
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 270 stars."
+  }
+}
