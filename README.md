@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3770 | [backslashxx/mountify](https://github.com/backslashxx/mountify) | Shell · ⭐ 687 | 2026-01-11 |
+| #3771 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3836,3 +3836,4 @@ Or let GitHub Action run it automatically.
 | 3768 | 2026-01-11 09:51:11 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255339⭐ None) | [reels/reel_3768_practical-tutorials-project-based-learning](reels/reel_3768_practical-tutorials-project-based-learning) |
 | 3769 | 2026-01-11 10:19:43 | [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) | ✅ full (21⭐ None) | [reels/reel_3769_SagXD-awesome-stars](reels/reel_3769_SagXD-awesome-stars) |
 | 3770 | 2026-01-11 10:44:25 | [backslashxx/mountify](https://github.com/backslashxx/mountify) | ✅ full (687⭐ Shell) | [reels/reel_3770_backslashxx-mountify](reels/reel_3770_backslashxx-mountify) |
+| 3771 | 2026-01-11 10:54:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123925⭐ Python) | [reels/reel_3771_langchain-ai-langchain](reels/reel_3771_langchain-ai-langchain) |
