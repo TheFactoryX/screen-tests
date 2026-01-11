@@ -1,0 +1,24 @@
+{
+  "reel_number": 3754,
+  "recorded": "2026-01-11 01:47:24 UTC",
+  "repository": {
+    "full_name": "cool-japan/quantrs",
+    "url": "https://github.com/cool-japan/quantrs",
+    "clone_url": "https://github.com/cool-japan/quantrs.git",
+    "stars": 15,
+    "language": "Rust",
+    "size_kb": 10328
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 4.422187
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 15 stars."
+  }
+}
