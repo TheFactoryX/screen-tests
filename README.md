@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3758 | [DaleStudy/leetcode-study](https://github.com/DaleStudy/leetcode-study) | Python · ⭐ 132 | 2026-01-11 |
+| #3759 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3824,3 +3824,4 @@ Or let GitHub Action run it automatically.
 | 3756 | 2026-01-11 04:46:18 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104248⭐ None) | [reels/reel_3756_Hack-with-Github-Awesome-Hacking](reels/reel_3756_Hack-with-Github-Awesome-Hacking) |
 | 3757 | 2026-01-11 05:23:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109261⭐ Rust) | [reels/reel_3757_rust-lang-rust](reels/reel_3757_rust-lang-rust) |
 | 3758 | 2026-01-11 05:47:02 | [DaleStudy/leetcode-study](https://github.com/DaleStudy/leetcode-study) | ✅ full (132⭐ Python) | [reels/reel_3758_DaleStudy-leetcode-study](reels/reel_3758_DaleStudy-leetcode-study) |
+| 3759 | 2026-01-11 06:30:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104550⭐ TypeScript) | [reels/reel_3759_shadcn-ui-ui](reels/reel_3759_shadcn-ui-ui) |
