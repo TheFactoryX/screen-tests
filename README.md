@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3802 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 168k | 2026-01-11 |
+| #3803 | [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) | YAML · ⭐ 276 | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3868,3 +3868,4 @@ Or let GitHub Action run it automatically.
 | 3800 | 2026-01-11 21:50:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123944⭐ Python) | [reels/reel_3800_langchain-ai-langchain](reels/reel_3800_langchain-ai-langchain) |
 | 3801 | 2026-01-11 22:18:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168163⭐ TypeScript) | [reels/reel_3801_n8n-io-n8n](reels/reel_3801_n8n-io-n8n) |
 | 3802 | 2026-01-11 22:43:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168163⭐ TypeScript) | [reels/reel_3802_n8n-io-n8n](reels/reel_3802_n8n-io-n8n) |
+| 3803 | 2026-01-11 22:53:18 | [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) | ✅ full (276⭐ YAML) | [reels/reel_3803_szinn-k8s-homelab](reels/reel_3803_szinn-k8s-homelab) |

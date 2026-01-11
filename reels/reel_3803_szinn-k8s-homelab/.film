@@ -1,0 +1,24 @@
+{
+  "reel_number": 3803,
+  "recorded": "2026-01-11 22:53:18 UTC",
+  "repository": {
+    "full_name": "szinn/k8s-homelab",
+    "url": "https://github.com/szinn/k8s-homelab",
+    "clone_url": "https://github.com/szinn/k8s-homelab.git",
+    "stars": 276,
+    "language": "YAML",
+    "size_kb": 22207
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 1.526966
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "YAML",
+    "director_note": "A YAML repository. 276 stars."
+  }
+}
