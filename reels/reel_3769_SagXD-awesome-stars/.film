@@ -1,0 +1,24 @@
+{
+  "reel_number": 3769,
+  "recorded": "2026-01-11 10:19:43 UTC",
+  "repository": {
+    "full_name": "SagXD/awesome-stars",
+    "url": "https://github.com/SagXD/awesome-stars",
+    "clone_url": "https://github.com/SagXD/awesome-stars.git",
+    "stars": 21,
+    "language": null,
+    "size_kb": 16946
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 1.721748
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 21 stars."
+  }
+}
