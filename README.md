@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3787 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-11 |
+| #3788 | [rimecraft-rs/rimecraft](https://github.com/rimecraft-rs/rimecraft) | Rust · ⭐ 47 | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3853,3 +3853,4 @@ Or let GitHub Action run it automatically.
 | 3785 | 2026-01-11 16:47:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168121⭐ TypeScript) | [reels/reel_3785_n8n-io-n8n](reels/reel_3785_n8n-io-n8n) |
 | 3786 | 2026-01-11 17:15:53 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109104⭐ TypeScript) | [reels/reel_3786_iptv-org-iptv](reels/reel_3786_iptv-org-iptv) |
 | 3787 | 2026-01-11 17:40:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141403⭐ Python) | [reels/reel_3787_yt-dlp-yt-dlp](reels/reel_3787_yt-dlp-yt-dlp) |
+| 3788 | 2026-01-11 17:50:20 | [rimecraft-rs/rimecraft](https://github.com/rimecraft-rs/rimecraft) | ✅ full (47⭐ Rust) | [reels/reel_3788_rimecraft-rs-rimecraft](reels/reel_3788_rimecraft-rs-rimecraft) |
