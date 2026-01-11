@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3760 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-11 |
+| #3761 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3826,3 +3826,4 @@ Or let GitHub Action run it automatically.
 | 3758 | 2026-01-11 05:47:02 | [DaleStudy/leetcode-study](https://github.com/DaleStudy/leetcode-study) | ✅ full (132⭐ Python) | [reels/reel_3758_DaleStudy-leetcode-study](reels/reel_3758_DaleStudy-leetcode-study) |
 | 3759 | 2026-01-11 06:30:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104550⭐ TypeScript) | [reels/reel_3759_shadcn-ui-ui](reels/reel_3759_shadcn-ui-ui) |
 | 3760 | 2026-01-11 06:56:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141344⭐ Python) | [reels/reel_3760_yt-dlp-yt-dlp](reels/reel_3760_yt-dlp-yt-dlp) |
+| 3761 | 2026-01-11 07:21:18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141347⭐ Python) | [reels/reel_3761_yt-dlp-yt-dlp](reels/reel_3761_yt-dlp-yt-dlp) |
