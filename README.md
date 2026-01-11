@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3794 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-11 |
+| #3795 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3860,3 +3860,4 @@ Or let GitHub Action run it automatically.
 | 3792 | 2026-01-11 19:28:48 | [Velaron/cs16-client](https://github.com/Velaron/cs16-client) | ✅ full (270⭐ C++) | [reels/reel_3792_Velaron-cs16-client](reels/reel_3792_Velaron-cs16-client) |
 | 3793 | 2026-01-11 19:41:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120268⭐ Python) | [reels/reel_3793_open-webui-open-webui](reels/reel_3793_open-webui-open-webui) |
 | 3794 | 2026-01-11 19:50:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267641⭐ None) | [reels/reel_3794_awesome-selfhosted-awesome-selfhosted](reels/reel_3794_awesome-selfhosted-awesome-selfhosted) |
+| 3795 | 2026-01-11 20:20:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143268⭐ Python) | [reels/reel_3795_langflow-ai-langflow](reels/reel_3795_langflow-ai-langflow) |
