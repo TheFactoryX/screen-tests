@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3797 | [sidor0912/FunPayCardinal](https://github.com/sidor0912/FunPayCardinal) | Python · ⭐ 263 | 2026-01-11 |
+| #3798 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3863,3 +3863,4 @@ Or let GitHub Action run it automatically.
 | 3795 | 2026-01-11 20:20:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143268⭐ Python) | [reels/reel_3795_langflow-ai-langflow](reels/reel_3795_langflow-ai-langflow) |
 | 3796 | 2026-01-11 20:43:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141416⭐ Python) | [reels/reel_3796_yt-dlp-yt-dlp](reels/reel_3796_yt-dlp-yt-dlp) |
 | 3797 | 2026-01-11 20:54:20 | [sidor0912/FunPayCardinal](https://github.com/sidor0912/FunPayCardinal) | ✅ full (263⭐ Python) | [reels/reel_3797_sidor0912-FunPayCardinal](reels/reel_3797_sidor0912-FunPayCardinal) |
+| 3798 | 2026-01-11 21:17:11 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101047⭐ Python) | [reels/reel_3798_deepseek-ai-DeepSeek-V3](reels/reel_3798_deepseek-ai-DeepSeek-V3) |
