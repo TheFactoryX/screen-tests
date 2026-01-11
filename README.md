@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3756 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 104k | 2026-01-11 |
+| #3757 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3822,3 +3822,4 @@ Or let GitHub Action run it automatically.
 | 3754 | 2026-01-11 01:47:24 | [cool-japan/quantrs](https://github.com/cool-japan/quantrs) | ✅ full (15⭐ Rust) | [reels/reel_3754_cool-japan-quantrs](reels/reel_3754_cool-japan-quantrs) |
 | 3755 | 2026-01-11 03:48:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109260⭐ Rust) | [reels/reel_3755_rust-lang-rust](reels/reel_3755_rust-lang-rust) |
 | 3756 | 2026-01-11 04:46:18 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104248⭐ None) | [reels/reel_3756_Hack-with-Github-Awesome-Hacking](reels/reel_3756_Hack-with-Github-Awesome-Hacking) |
+| 3757 | 2026-01-11 05:23:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109261⭐ Rust) | [reels/reel_3757_rust-lang-rust](reels/reel_3757_rust-lang-rust) |
