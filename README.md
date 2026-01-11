@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3754 | [cool-japan/quantrs](https://github.com/cool-japan/quantrs) | Rust · ⭐ 15 | 2026-01-11 |
+| #3755 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3820,3 +3820,4 @@ Or let GitHub Action run it automatically.
 | 3752 | 2026-01-10 23:39:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109255⭐ Rust) | [reels/reel_3752_rust-lang-rust](reels/reel_3752_rust-lang-rust) |
 | 3753 | 2026-01-10 23:50:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267509⭐ None) | [reels/reel_3753_awesome-selfhosted-awesome-selfhosted](reels/reel_3753_awesome-selfhosted-awesome-selfhosted) |
 | 3754 | 2026-01-11 01:47:24 | [cool-japan/quantrs](https://github.com/cool-japan/quantrs) | ✅ full (15⭐ Rust) | [reels/reel_3754_cool-japan-quantrs](reels/reel_3754_cool-japan-quantrs) |
+| 3755 | 2026-01-11 03:48:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109260⭐ Rust) | [reels/reel_3755_rust-lang-rust](reels/reel_3755_rust-lang-rust) |
