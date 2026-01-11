@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3765 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 104k | 2026-01-11 |
+| #3766 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3831,3 +3831,4 @@ Or let GitHub Action run it automatically.
 | 3763 | 2026-01-11 07:50:29 | [AlibabaCloudDocs/aliyun_acp_learning](https://github.com/AlibabaCloudDocs/aliyun_acp_learning) | ✅ full (581⭐ Jupyter Notebook) | [reels/reel_3763_AlibabaCloudDocs-aliyun_acp_learning](reels/reel_3763_AlibabaCloudDocs-aliyun_acp_learning) |
 | 3764 | 2026-01-11 08:24:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180993⭐ Python) | [reels/reel_3764_Significant-Gravitas-AutoGPT](reels/reel_3764_Significant-Gravitas-AutoGPT) |
 | 3765 | 2026-01-11 08:48:00 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104259⭐ None) | [reels/reel_3765_Hack-with-Github-Awesome-Hacking](reels/reel_3765_Hack-with-Github-Awesome-Hacking) |
+| 3766 | 2026-01-11 09:19:21 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104557⭐ TypeScript) | [reels/reel_3766_shadcn-ui-ui](reels/reel_3766_shadcn-ui-ui) |
