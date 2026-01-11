@@ -1,0 +1,24 @@
+{
+  "reel_number": 3767,
+  "recorded": "2026-01-11 09:41:51 UTC",
+  "repository": {
+    "full_name": "AINativeLab/gptstore-data-backup",
+    "url": "https://github.com/AINativeLab/gptstore-data-backup",
+    "clone_url": "https://github.com/AINativeLab/gptstore-data-backup.git",
+    "stars": 269,
+    "language": null,
+    "size_kb": 81662
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 79,
+    "duration_seconds": 13.592672
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 269 stars."
+  }
+}
