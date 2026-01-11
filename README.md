@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3775 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 180k | 2026-01-11 |
+| #3776 | [team-mirai/mirai-gikai](https://github.com/team-mirai/mirai-gikai) | TypeScript · ⭐ 181 | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3841,3 +3841,4 @@ Or let GitHub Action run it automatically.
 | 3773 | 2026-01-11 11:38:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267583⭐ None) | [reels/reel_3773_awesome-selfhosted-awesome-selfhosted](reels/reel_3773_awesome-selfhosted-awesome-selfhosted) |
 | 3774 | 2026-01-11 11:50:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168074⭐ TypeScript) | [reels/reel_3774_n8n-io-n8n](reels/reel_3774_n8n-io-n8n) |
 | 3775 | 2026-01-11 12:37:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (180998⭐ Python) | [reels/reel_3775_Significant-Gravitas-AutoGPT](reels/reel_3775_Significant-Gravitas-AutoGPT) |
+| 3776 | 2026-01-11 13:19:03 | [team-mirai/mirai-gikai](https://github.com/team-mirai/mirai-gikai) | ✅ full (181⭐ TypeScript) | [reels/reel_3776_team-mirai-mirai-gikai](reels/reel_3776_team-mirai-mirai-gikai) |

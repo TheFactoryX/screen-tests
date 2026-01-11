@@ -1,0 +1,24 @@
+{
+  "reel_number": 3776,
+  "recorded": "2026-01-11 13:19:03 UTC",
+  "repository": {
+    "full_name": "team-mirai/mirai-gikai",
+    "url": "https://github.com/team-mirai/mirai-gikai",
+    "clone_url": "https://github.com/team-mirai/mirai-gikai.git",
+    "stars": 181,
+    "language": "TypeScript",
+    "size_kb": 4138
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.395605
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 181 stars."
+  }
+}
