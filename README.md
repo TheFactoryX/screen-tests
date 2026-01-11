@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3783 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-11 |
+| #3784 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3849,3 +3849,4 @@ Or let GitHub Action run it automatically.
 | 3781 | 2026-01-11 15:18:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109093⭐ TypeScript) | [reels/reel_3781_iptv-org-iptv](reels/reel_3781_iptv-org-iptv) |
 | 3782 | 2026-01-11 15:40:31 | [QYG2297248353/AMMDS-Docker](https://github.com/QYG2297248353/AMMDS-Docker) | ✅ full (172⭐ None) | [reels/reel_3782_QYG2297248353-AMMDS-Docker](reels/reel_3782_QYG2297248353-AMMDS-Docker) |
 | 3783 | 2026-01-11 15:50:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109270⭐ Rust) | [reels/reel_3783_rust-lang-rust](reels/reel_3783_rust-lang-rust) |
+| 3784 | 2026-01-11 16:22:13 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139413⭐ Python) | [reels/reel_3784_ytdl-org-youtube-dl](reels/reel_3784_ytdl-org-youtube-dl) |
