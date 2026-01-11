@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3799 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 455k | 2026-01-11 |
+| #3800 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 123k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3865,3 +3865,4 @@ Or let GitHub Action run it automatically.
 | 3797 | 2026-01-11 20:54:20 | [sidor0912/FunPayCardinal](https://github.com/sidor0912/FunPayCardinal) | ✅ full (263⭐ Python) | [reels/reel_3797_sidor0912-FunPayCardinal](reels/reel_3797_sidor0912-FunPayCardinal) |
 | 3798 | 2026-01-11 21:17:11 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101047⭐ Python) | [reels/reel_3798_deepseek-ai-DeepSeek-V3](reels/reel_3798_deepseek-ai-DeepSeek-V3) |
 | 3799 | 2026-01-11 21:38:54 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (455778⭐ Markdown) | [reels/reel_3799_codecrafters-io-build-your-own-x](reels/reel_3799_codecrafters-io-build-your-own-x) |
+| 3800 | 2026-01-11 21:50:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123944⭐ Python) | [reels/reel_3800_langchain-ai-langchain](reels/reel_3800_langchain-ai-langchain) |
