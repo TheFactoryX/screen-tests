@@ -1,0 +1,24 @@
+{
+  "reel_number": 3782,
+  "recorded": "2026-01-11 15:40:31 UTC",
+  "repository": {
+    "full_name": "QYG2297248353/AMMDS-Docker",
+    "url": "https://github.com/QYG2297248353/AMMDS-Docker",
+    "clone_url": "https://github.com/QYG2297248353/AMMDS-Docker.git",
+    "stars": 172,
+    "language": null,
+    "size_kb": 234
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.15254
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 172 stars."
+  }
+}
