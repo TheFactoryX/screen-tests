@@ -1,0 +1,24 @@
+{
+  "reel_number": 3762,
+  "recorded": "2026-01-11 07:40:31 UTC",
+  "repository": {
+    "full_name": "lexmin0412/dify-chat",
+    "url": "https://github.com/lexmin0412/dify-chat",
+    "clone_url": "https://github.com/lexmin0412/dify-chat.git",
+    "stars": 698,
+    "language": "TypeScript",
+    "size_kb": 20829
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 1.401472
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 698 stars."
+  }
+}

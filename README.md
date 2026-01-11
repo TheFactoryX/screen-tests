@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3761 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-11 |
+| #3762 | [lexmin0412/dify-chat](https://github.com/lexmin0412/dify-chat) | TypeScript · ⭐ 698 | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3827,3 +3827,4 @@ Or let GitHub Action run it automatically.
 | 3759 | 2026-01-11 06:30:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104550⭐ TypeScript) | [reels/reel_3759_shadcn-ui-ui](reels/reel_3759_shadcn-ui-ui) |
 | 3760 | 2026-01-11 06:56:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141344⭐ Python) | [reels/reel_3760_yt-dlp-yt-dlp](reels/reel_3760_yt-dlp-yt-dlp) |
 | 3761 | 2026-01-11 07:21:18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141347⭐ Python) | [reels/reel_3761_yt-dlp-yt-dlp](reels/reel_3761_yt-dlp-yt-dlp) |
+| 3762 | 2026-01-11 07:40:31 | [lexmin0412/dify-chat](https://github.com/lexmin0412/dify-chat) | ✅ full (698⭐ TypeScript) | [reels/reel_3762_lexmin0412-dify-chat](reels/reel_3762_lexmin0412-dify-chat) |
