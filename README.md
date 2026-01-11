@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3778 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-11 |
+| #3779 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-11 |
 ---
 
 ## 🎭 Selection Process
@@ -3844,3 +3844,4 @@ Or let GitHub Action run it automatically.
 | 3776 | 2026-01-11 13:19:03 | [team-mirai/mirai-gikai](https://github.com/team-mirai/mirai-gikai) | ✅ full (181⭐ TypeScript) | [reels/reel_3776_team-mirai-mirai-gikai](reels/reel_3776_team-mirai-mirai-gikai) |
 | 3777 | 2026-01-11 13:46:44 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143252⭐ Python) | [reels/reel_3777_langflow-ai-langflow](reels/reel_3777_langflow-ai-langflow) |
 | 3778 | 2026-01-11 14:17:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143254⭐ Python) | [reels/reel_3778_langflow-ai-langflow](reels/reel_3778_langflow-ai-langflow) |
+| 3779 | 2026-01-11 14:42:36 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101071⭐ Rust) | [reels/reel_3779_tauri-apps-tauri](reels/reel_3779_tauri-apps-tauri) |
