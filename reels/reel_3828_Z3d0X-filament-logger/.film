@@ -1,0 +1,24 @@
+{
+  "reel_number": 3828,
+  "recorded": "2026-01-12 15:24:12 UTC",
+  "repository": {
+    "full_name": "Z3d0X/filament-logger",
+    "url": "https://github.com/Z3d0X/filament-logger",
+    "clone_url": "https://github.com/Z3d0X/filament-logger.git",
+    "stars": 386,
+    "language": "PHP",
+    "size_kb": 587
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.301855
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 386 stars."
+  }
+}
