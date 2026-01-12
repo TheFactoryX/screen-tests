@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3834 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-12 |
+| #3835 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3900,3 +3900,4 @@ Or let GitHub Action run it automatically.
 | 3832 | 2026-01-12 17:22:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168437⭐ TypeScript) | [reels/reel_3832_n8n-io-n8n](reels/reel_3832_n8n-io-n8n) |
 | 3833 | 2026-01-12 17:44:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141545⭐ Python) | [reels/reel_3833_yt-dlp-yt-dlp](reels/reel_3833_yt-dlp-yt-dlp) |
 | 3834 | 2026-01-12 17:54:58 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97226⭐ TypeScript) | [reels/reel_3834_ant-design-ant-design](reels/reel_3834_ant-design-ant-design) |
+| 3835 | 2026-01-12 18:30:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143353⭐ Python) | [reels/reel_3835_langflow-ai-langflow](reels/reel_3835_langflow-ai-langflow) |
