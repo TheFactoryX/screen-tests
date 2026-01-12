@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3833 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-12 |
+| #3834 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3899,3 +3899,4 @@ Or let GitHub Action run it automatically.
 | 3831 | 2026-01-12 16:54:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101156⭐ Rust) | [reels/reel_3831_tauri-apps-tauri](reels/reel_3831_tauri-apps-tauri) |
 | 3832 | 2026-01-12 17:22:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168437⭐ TypeScript) | [reels/reel_3832_n8n-io-n8n](reels/reel_3832_n8n-io-n8n) |
 | 3833 | 2026-01-12 17:44:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141545⭐ Python) | [reels/reel_3833_yt-dlp-yt-dlp](reels/reel_3833_yt-dlp-yt-dlp) |
+| 3834 | 2026-01-12 17:54:58 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97226⭐ TypeScript) | [reels/reel_3834_ant-design-ant-design](reels/reel_3834_ant-design-ant-design) |
