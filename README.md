@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3840 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-12 |
+| #3841 | [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) | TypeScript · ⭐ 403 | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3906,3 +3906,4 @@ Or let GitHub Action run it automatically.
 | 3838 | 2026-01-12 19:50:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143356⭐ Python) | [reels/reel_3838_langflow-ai-langflow](reels/reel_3838_langflow-ai-langflow) |
 | 3839 | 2026-01-12 20:23:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101159⭐ Rust) | [reels/reel_3839_tauri-apps-tauri](reels/reel_3839_tauri-apps-tauri) |
 | 3840 | 2026-01-12 20:46:10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141566⭐ Python) | [reels/reel_3840_yt-dlp-yt-dlp](reels/reel_3840_yt-dlp-yt-dlp) |
+| 3841 | 2026-01-12 21:19:18 | [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) | ✅ full (403⭐ TypeScript) | [reels/reel_3841_davis7dotsh-better-context](reels/reel_3841_davis7dotsh-better-context) |

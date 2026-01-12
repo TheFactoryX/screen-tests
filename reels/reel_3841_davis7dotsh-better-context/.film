@@ -1,0 +1,24 @@
+{
+  "reel_number": 3841,
+  "recorded": "2026-01-12 21:19:18 UTC",
+  "repository": {
+    "full_name": "davis7dotsh/better-context",
+    "url": "https://github.com/davis7dotsh/better-context",
+    "clone_url": "https://github.com/davis7dotsh/better-context.git",
+    "stars": 403,
+    "language": "TypeScript",
+    "size_kb": 2426
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.503786
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 403 stars."
+  }
+}
