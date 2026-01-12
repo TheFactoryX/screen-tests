@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3809 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-12 |
+| #3810 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3875,3 +3875,4 @@ Or let GitHub Action run it automatically.
 | 3807 | 2026-01-12 01:43:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (123949⭐ Python) | [reels/reel_3807_langchain-ai-langchain](reels/reel_3807_langchain-ai-langchain) |
 | 3808 | 2026-01-12 03:27:24 | [deanxv/done-hub](https://github.com/deanxv/done-hub) | ✅ full (551⭐ Go) | [reels/reel_3808_deanxv-done-hub](reels/reel_3808_deanxv-done-hub) |
 | 3809 | 2026-01-12 04:36:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104616⭐ TypeScript) | [reels/reel_3809_shadcn-ui-ui](reels/reel_3809_shadcn-ui-ui) |
+| 3810 | 2026-01-12 05:18:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267723⭐ None) | [reels/reel_3810_awesome-selfhosted-awesome-selfhosted](reels/reel_3810_awesome-selfhosted-awesome-selfhosted) |
