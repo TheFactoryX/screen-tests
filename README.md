@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3814 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-12 |
+| #3815 | [codedex-io/projects](https://github.com/codedex-io/projects) | MDX · ⭐ 159 | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3880,3 +3880,4 @@ Or let GitHub Action run it automatically.
 | 3812 | 2026-01-12 06:34:33 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139421⭐ Python) | [reels/reel_3812_ytdl-org-youtube-dl](reels/reel_3812_ytdl-org-youtube-dl) |
 | 3813 | 2026-01-12 07:04:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141470⭐ Python) | [reels/reel_3813_yt-dlp-yt-dlp](reels/reel_3813_yt-dlp-yt-dlp) |
 | 3814 | 2026-01-12 07:40:06 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141474⭐ Python) | [reels/reel_3814_yt-dlp-yt-dlp](reels/reel_3814_yt-dlp-yt-dlp) |
+| 3815 | 2026-01-12 07:54:10 | [codedex-io/projects](https://github.com/codedex-io/projects) | ✅ readme_only (159⭐ MDX) | [reels/reel_3815_codedex-io-projects](reels/reel_3815_codedex-io-projects) |
