@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3817 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-12 |
+| #3818 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3883,3 +3883,4 @@ Or let GitHub Action run it automatically.
 | 3815 | 2026-01-12 07:54:10 | [codedex-io/projects](https://github.com/codedex-io/projects) | ✅ readme_only (159⭐ MDX) | [reels/reel_3815_codedex-io-projects](reels/reel_3815_codedex-io-projects) |
 | 3816 | 2026-01-12 08:30:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168307⭐ TypeScript) | [reels/reel_3816_n8n-io-n8n](reels/reel_3816_n8n-io-n8n) |
 | 3817 | 2026-01-12 09:02:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120337⭐ Python) | [reels/reel_3817_open-webui-open-webui](reels/reel_3817_open-webui-open-webui) |
+| 3818 | 2026-01-12 09:46:29 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109185⭐ TypeScript) | [reels/reel_3818_iptv-org-iptv](reels/reel_3818_iptv-org-iptv) |
