@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3828 | [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger) | PHP · ⭐ 386 | 2026-01-12 |
+| #3829 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3894,3 +3894,4 @@ Or let GitHub Action run it automatically.
 | 3826 | 2026-01-12 14:01:49 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168380⭐ TypeScript) | [reels/reel_3826_n8n-io-n8n](reels/reel_3826_n8n-io-n8n) |
 | 3827 | 2026-01-12 14:45:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267775⭐ None) | [reels/reel_3827_awesome-selfhosted-awesome-selfhosted](reels/reel_3827_awesome-selfhosted-awesome-selfhosted) |
 | 3828 | 2026-01-12 15:24:12 | [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger) | ✅ full (386⭐ PHP) | [reels/reel_3828_Z3d0X-filament-logger](reels/reel_3828_Z3d0X-filament-logger) |
+| 3829 | 2026-01-12 15:49:28 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101152⭐ Rust) | [reels/reel_3829_tauri-apps-tauri](reels/reel_3829_tauri-apps-tauri) |
