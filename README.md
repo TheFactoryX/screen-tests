@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3836 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-12 |
+| #3837 | [harini24/Life-folio](https://github.com/harini24/Life-folio) | TypeScript · ⭐ 26 | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3902,3 +3902,4 @@ Or let GitHub Action run it automatically.
 | 3834 | 2026-01-12 17:54:58 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97226⭐ TypeScript) | [reels/reel_3834_ant-design-ant-design](reels/reel_3834_ant-design-ant-design) |
 | 3835 | 2026-01-12 18:30:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143353⭐ Python) | [reels/reel_3835_langflow-ai-langflow](reels/reel_3835_langflow-ai-langflow) |
 | 3836 | 2026-01-12 19:01:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109309⭐ Rust) | [reels/reel_3836_rust-lang-rust](reels/reel_3836_rust-lang-rust) |
+| 3837 | 2026-01-12 19:30:54 | [harini24/Life-folio](https://github.com/harini24/Life-folio) | ✅ full (26⭐ TypeScript) | [reels/reel_3837_harini24-Life-folio](reels/reel_3837_harini24-Life-folio) |
