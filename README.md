@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3843 | [kepelrs/nestjs-prisma-crud](https://github.com/kepelrs/nestjs-prisma-crud) | TypeScript · ⭐ 162 | 2026-01-12 |
+| #3844 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 456k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3909,3 +3909,4 @@ Or let GitHub Action run it automatically.
 | 3841 | 2026-01-12 21:19:18 | [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) | ✅ full (403⭐ TypeScript) | [reels/reel_3841_davis7dotsh-better-context](reels/reel_3841_davis7dotsh-better-context) |
 | 3842 | 2026-01-12 21:42:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109318⭐ Rust) | [reels/reel_3842_rust-lang-rust](reels/reel_3842_rust-lang-rust) |
 | 3843 | 2026-01-12 21:52:52 | [kepelrs/nestjs-prisma-crud](https://github.com/kepelrs/nestjs-prisma-crud) | ✅ full (162⭐ TypeScript) | [reels/reel_3843_kepelrs-nestjs-prisma-crud](reels/reel_3843_kepelrs-nestjs-prisma-crud) |
+| 3844 | 2026-01-12 22:17:31 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (456013⭐ Markdown) | [reels/reel_3844_codecrafters-io-build-your-own-x](reels/reel_3844_codecrafters-io-build-your-own-x) |
