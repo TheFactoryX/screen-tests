@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3816 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 168k | 2026-01-12 |
+| #3817 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3882,3 +3882,4 @@ Or let GitHub Action run it automatically.
 | 3814 | 2026-01-12 07:40:06 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141474⭐ Python) | [reels/reel_3814_yt-dlp-yt-dlp](reels/reel_3814_yt-dlp-yt-dlp) |
 | 3815 | 2026-01-12 07:54:10 | [codedex-io/projects](https://github.com/codedex-io/projects) | ✅ readme_only (159⭐ MDX) | [reels/reel_3815_codedex-io-projects](reels/reel_3815_codedex-io-projects) |
 | 3816 | 2026-01-12 08:30:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168307⭐ TypeScript) | [reels/reel_3816_n8n-io-n8n](reels/reel_3816_n8n-io-n8n) |
+| 3817 | 2026-01-12 09:02:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120337⭐ Python) | [reels/reel_3817_open-webui-open-webui](reels/reel_3817_open-webui-open-webui) |
