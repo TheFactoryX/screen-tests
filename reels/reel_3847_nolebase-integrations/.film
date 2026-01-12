@@ -1,0 +1,24 @@
+{
+  "reel_number": 3847,
+  "recorded": "2026-01-12 23:15:39 UTC",
+  "repository": {
+    "full_name": "nolebase/integrations",
+    "url": "https://github.com/nolebase/integrations",
+    "clone_url": "https://github.com/nolebase/integrations.git",
+    "stars": 295,
+    "language": "TypeScript",
+    "size_kb": 83744
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 81,
+    "duration_seconds": 1.932923
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 295 stars."
+  }
+}
