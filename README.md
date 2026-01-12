@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3847 | [nolebase/integrations](https://github.com/nolebase/integrations) | TypeScript · ⭐ 295 | 2026-01-12 |
+| #3848 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 168k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3913,3 +3913,4 @@ Or let GitHub Action run it automatically.
 | 3845 | 2026-01-12 22:42:55 | [MicrosoftDocs/powerbi-docs](https://github.com/MicrosoftDocs/powerbi-docs) | ✅ readme_only (544⭐ None) | [reels/reel_3845_MicrosoftDocs-powerbi-docs](reels/reel_3845_MicrosoftDocs-powerbi-docs) |
 | 3846 | 2026-01-12 22:53:05 | [limitless-ai-inc/limitless-api-examples](https://github.com/limitless-ai-inc/limitless-api-examples) | ✅ full (133⭐ Jupyter Notebook) | [reels/reel_3846_limitless-ai-inc-limitless-api-examples](reels/reel_3846_limitless-ai-inc-limitless-api-examples) |
 | 3847 | 2026-01-12 23:15:39 | [nolebase/integrations](https://github.com/nolebase/integrations) | ✅ full (295⭐ TypeScript) | [reels/reel_3847_nolebase-integrations](reels/reel_3847_nolebase-integrations) |
+| 3848 | 2026-01-12 23:38:34 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168483⭐ TypeScript) | [reels/reel_3848_n8n-io-n8n](reels/reel_3848_n8n-io-n8n) |
