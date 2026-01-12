@@ -1,0 +1,24 @@
+{
+  "reel_number": 3843,
+  "recorded": "2026-01-12 21:52:52 UTC",
+  "repository": {
+    "full_name": "kepelrs/nestjs-prisma-crud",
+    "url": "https://github.com/kepelrs/nestjs-prisma-crud",
+    "clone_url": "https://github.com/kepelrs/nestjs-prisma-crud.git",
+    "stars": 162,
+    "language": "TypeScript",
+    "size_kb": 9297
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 1.545432
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 162 stars."
+  }
+}

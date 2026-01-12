@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3842 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-12 |
+| #3843 | [kepelrs/nestjs-prisma-crud](https://github.com/kepelrs/nestjs-prisma-crud) | TypeScript · ⭐ 162 | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3908,3 +3908,4 @@ Or let GitHub Action run it automatically.
 | 3840 | 2026-01-12 20:46:10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141566⭐ Python) | [reels/reel_3840_yt-dlp-yt-dlp](reels/reel_3840_yt-dlp-yt-dlp) |
 | 3841 | 2026-01-12 21:19:18 | [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) | ✅ full (403⭐ TypeScript) | [reels/reel_3841_davis7dotsh-better-context](reels/reel_3841_davis7dotsh-better-context) |
 | 3842 | 2026-01-12 21:42:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109318⭐ Rust) | [reels/reel_3842_rust-lang-rust](reels/reel_3842_rust-lang-rust) |
+| 3843 | 2026-01-12 21:52:52 | [kepelrs/nestjs-prisma-crud](https://github.com/kepelrs/nestjs-prisma-crud) | ✅ full (162⭐ TypeScript) | [reels/reel_3843_kepelrs-nestjs-prisma-crud](reels/reel_3843_kepelrs-nestjs-prisma-crud) |
