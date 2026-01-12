@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3845 | [MicrosoftDocs/powerbi-docs](https://github.com/MicrosoftDocs/powerbi-docs) | None · ⭐ 544 | 2026-01-12 |
+| #3846 | [limitless-ai-inc/limitless-api-examples](https://github.com/limitless-ai-inc/limitless-api-examples) | Jupyter Notebook · ⭐ 133 | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3911,3 +3911,4 @@ Or let GitHub Action run it automatically.
 | 3843 | 2026-01-12 21:52:52 | [kepelrs/nestjs-prisma-crud](https://github.com/kepelrs/nestjs-prisma-crud) | ✅ full (162⭐ TypeScript) | [reels/reel_3843_kepelrs-nestjs-prisma-crud](reels/reel_3843_kepelrs-nestjs-prisma-crud) |
 | 3844 | 2026-01-12 22:17:31 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (456013⭐ Markdown) | [reels/reel_3844_codecrafters-io-build-your-own-x](reels/reel_3844_codecrafters-io-build-your-own-x) |
 | 3845 | 2026-01-12 22:42:55 | [MicrosoftDocs/powerbi-docs](https://github.com/MicrosoftDocs/powerbi-docs) | ✅ readme_only (544⭐ None) | [reels/reel_3845_MicrosoftDocs-powerbi-docs](reels/reel_3845_MicrosoftDocs-powerbi-docs) |
+| 3846 | 2026-01-12 22:53:05 | [limitless-ai-inc/limitless-api-examples](https://github.com/limitless-ai-inc/limitless-api-examples) | ✅ full (133⭐ Jupyter Notebook) | [reels/reel_3846_limitless-ai-inc-limitless-api-examples](reels/reel_3846_limitless-ai-inc-limitless-api-examples) |

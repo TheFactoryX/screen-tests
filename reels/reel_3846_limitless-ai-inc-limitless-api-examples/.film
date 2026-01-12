@@ -1,0 +1,24 @@
+{
+  "reel_number": 3846,
+  "recorded": "2026-01-12 22:53:05 UTC",
+  "repository": {
+    "full_name": "limitless-ai-inc/limitless-api-examples",
+    "url": "https://github.com/limitless-ai-inc/limitless-api-examples",
+    "clone_url": "https://github.com/limitless-ai-inc/limitless-api-examples.git",
+    "stars": 133,
+    "language": "Jupyter Notebook",
+    "size_kb": 129
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.458507
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 133 stars."
+  }
+}
