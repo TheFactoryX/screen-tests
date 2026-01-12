@@ -1,0 +1,24 @@
+{
+  "reel_number": 3825,
+  "recorded": "2026-01-12 13:31:49 UTC",
+  "repository": {
+    "full_name": "neo4j/neo4j-jdbc",
+    "url": "https://github.com/neo4j/neo4j-jdbc",
+    "clone_url": "https://github.com/neo4j/neo4j-jdbc.git",
+    "stars": 152,
+    "language": "Java",
+    "size_kb": 9779
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.902043
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 152 stars."
+  }
+}
