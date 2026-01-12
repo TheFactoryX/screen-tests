@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3821 | [shotgun-sh/shotgun](https://github.com/shotgun-sh/shotgun) | Python · ⭐ 495 | 2026-01-12 |
+| #3822 | [software-mansion/react-native-enriched](https://github.com/software-mansion/react-native-enriched) | Objective-C++ · ⭐ 920 | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3887,3 +3887,4 @@ Or let GitHub Action run it automatically.
 | 3819 | 2026-01-12 10:23:47 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104632⭐ TypeScript) | [reels/reel_3819_shadcn-ui-ui](reels/reel_3819_shadcn-ui-ui) |
 | 3820 | 2026-01-12 10:50:05 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109190⭐ TypeScript) | [reels/reel_3820_iptv-org-iptv](reels/reel_3820_iptv-org-iptv) |
 | 3821 | 2026-01-12 11:19:29 | [shotgun-sh/shotgun](https://github.com/shotgun-sh/shotgun) | ✅ full (495⭐ Python) | [reels/reel_3821_shotgun-sh-shotgun](reels/reel_3821_shotgun-sh-shotgun) |
+| 3822 | 2026-01-12 11:42:08 | [software-mansion/react-native-enriched](https://github.com/software-mansion/react-native-enriched) | ✅ full (920⭐ Objective-C++) | [reels/reel_3822_software-mansion-react-native-enriched](reels/reel_3822_software-mansion-react-native-enriched) |
