@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3823 | [island-is/island.is](https://github.com/island-is/island.is) | TypeScript · ⭐ 416 | 2026-01-12 |
+| #3824 | [l2beat/l2beat](https://github.com/l2beat/l2beat) | TypeScript · ⭐ 644 | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3889,3 +3889,4 @@ Or let GitHub Action run it automatically.
 | 3821 | 2026-01-12 11:19:29 | [shotgun-sh/shotgun](https://github.com/shotgun-sh/shotgun) | ✅ full (495⭐ Python) | [reels/reel_3821_shotgun-sh-shotgun](reels/reel_3821_shotgun-sh-shotgun) |
 | 3822 | 2026-01-12 11:42:08 | [software-mansion/react-native-enriched](https://github.com/software-mansion/react-native-enriched) | ✅ full (920⭐ Objective-C++) | [reels/reel_3822_software-mansion-react-native-enriched](reels/reel_3822_software-mansion-react-native-enriched) |
 | 3823 | 2026-01-12 11:53:15 | [island-is/island.is](https://github.com/island-is/island.is) | ✅ shallow (416⭐ TypeScript) | [reels/reel_3823_island-is-island.is](reels/reel_3823_island-is-island.is) |
+| 3824 | 2026-01-12 12:43:30 | [l2beat/l2beat](https://github.com/l2beat/l2beat) | ✅ readme_only (644⭐ TypeScript) | [reels/reel_3824_l2beat-l2beat](reels/reel_3824_l2beat-l2beat) |

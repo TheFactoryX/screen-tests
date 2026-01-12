@@ -1,0 +1,24 @@
+{
+  "reel_number": 3824,
+  "recorded": "2026-01-12 12:43:30 UTC",
+  "repository": {
+    "full_name": "l2beat/l2beat",
+    "url": "https://github.com/l2beat/l2beat",
+    "clone_url": "https://github.com/l2beat/l2beat.git",
+    "stars": 644,
+    "language": "TypeScript",
+    "size_kb": 695803
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 679,
+    "duration_seconds": 0.000167
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 644 stars."
+  }
+}
