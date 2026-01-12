@@ -1,0 +1,24 @@
+{
+  "reel_number": 3845,
+  "recorded": "2026-01-12 22:42:55 UTC",
+  "repository": {
+    "full_name": "MicrosoftDocs/powerbi-docs",
+    "url": "https://github.com/MicrosoftDocs/powerbi-docs",
+    "clone_url": "https://github.com/MicrosoftDocs/powerbi-docs.git",
+    "stars": 544,
+    "language": null,
+    "size_kb": 2875070
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2807,
+    "duration_seconds": 0.000132
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 544 stars."
+  }
+}
