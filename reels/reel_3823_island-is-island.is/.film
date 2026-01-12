@@ -1,0 +1,24 @@
+{
+  "reel_number": 3823,
+  "recorded": "2026-01-12 11:53:15 UTC",
+  "repository": {
+    "full_name": "island-is/island.is",
+    "url": "https://github.com/island-is/island.is",
+    "clone_url": "https://github.com/island-is/island.is.git",
+    "stars": 416,
+    "language": "TypeScript",
+    "size_kb": 401762
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 392,
+    "duration_seconds": 5.157529
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 416 stars."
+  }
+}
