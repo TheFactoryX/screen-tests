@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3811 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-12 |
+| #3812 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-12 |
 ---
 
 ## 🎭 Selection Process
@@ -3877,3 +3877,4 @@ Or let GitHub Action run it automatically.
 | 3809 | 2026-01-12 04:36:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104616⭐ TypeScript) | [reels/reel_3809_shadcn-ui-ui](reels/reel_3809_shadcn-ui-ui) |
 | 3810 | 2026-01-12 05:18:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267723⭐ None) | [reels/reel_3810_awesome-selfhosted-awesome-selfhosted](reels/reel_3810_awesome-selfhosted-awesome-selfhosted) |
 | 3811 | 2026-01-12 05:51:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109291⭐ Rust) | [reels/reel_3811_rust-lang-rust](reels/reel_3811_rust-lang-rust) |
+| 3812 | 2026-01-12 06:34:33 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139421⭐ Python) | [reels/reel_3812_ytdl-org-youtube-dl](reels/reel_3812_ytdl-org-youtube-dl) |
