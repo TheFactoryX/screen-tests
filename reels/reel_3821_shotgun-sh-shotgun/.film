@@ -1,0 +1,24 @@
+{
+  "reel_number": 3821,
+  "recorded": "2026-01-12 11:19:29 UTC",
+  "repository": {
+    "full_name": "shotgun-sh/shotgun",
+    "url": "https://github.com/shotgun-sh/shotgun",
+    "clone_url": "https://github.com/shotgun-sh/shotgun.git",
+    "stars": 495,
+    "language": "Python",
+    "size_kb": 2856
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.927005
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 495 stars."
+  }
+}
