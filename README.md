@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3868 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-13 |
+| #3869 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3934,3 +3934,4 @@ Or let GitHub Action run it automatically.
 | 3866 | 2026-01-13 11:18:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101190⭐ Rust) | [reels/reel_3866_tauri-apps-tauri](reels/reel_3866_tauri-apps-tauri) |
 | 3867 | 2026-01-13 11:41:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120494⭐ Python) | [reels/reel_3867_open-webui-open-webui](reels/reel_3867_open-webui-open-webui) |
 | 3868 | 2026-01-13 11:52:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141628⭐ Python) | [reels/reel_3868_yt-dlp-yt-dlp](reels/reel_3868_yt-dlp-yt-dlp) |
+| 3869 | 2026-01-13 12:43:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267930⭐ None) | [reels/reel_3869_awesome-selfhosted-awesome-selfhosted](reels/reel_3869_awesome-selfhosted-awesome-selfhosted) |
