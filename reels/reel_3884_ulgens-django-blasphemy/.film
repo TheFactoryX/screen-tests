@@ -1,0 +1,24 @@
+{
+  "reel_number": 3884,
+  "recorded": "2026-01-13 19:51:13 UTC",
+  "repository": {
+    "full_name": "ulgens/django-blasphemy",
+    "url": "https://github.com/ulgens/django-blasphemy",
+    "clone_url": "https://github.com/ulgens/django-blasphemy.git",
+    "stars": 15,
+    "language": "Python",
+    "size_kb": 2299
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.665432
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 15 stars."
+  }
+}
