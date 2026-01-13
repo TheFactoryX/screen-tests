@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3875 | [vagmcs/Optimus](https://github.com/vagmcs/Optimus) | Scala · ⭐ 149 | 2026-01-13 |
+| #3876 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3941,3 +3941,4 @@ Or let GitHub Action run it automatically.
 | 3873 | 2026-01-13 15:01:19 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97230⭐ TypeScript) | [reels/reel_3873_ant-design-ant-design](reels/reel_3873_ant-design-ant-design) |
 | 3874 | 2026-01-13 15:41:24 | [hedgehogqa/fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | ✅ full (284⭐ F#) | [reels/reel_3874_hedgehogqa-fsharp-hedgehog](reels/reel_3874_hedgehogqa-fsharp-hedgehog) |
 | 3875 | 2026-01-13 15:58:46 | [vagmcs/Optimus](https://github.com/vagmcs/Optimus) | ✅ full (149⭐ Scala) | [reels/reel_3875_vagmcs-Optimus](reels/reel_3875_vagmcs-Optimus) |
+| 3876 | 2026-01-13 16:41:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109341⭐ Rust) | [reels/reel_3876_rust-lang-rust](reels/reel_3876_rust-lang-rust) |
