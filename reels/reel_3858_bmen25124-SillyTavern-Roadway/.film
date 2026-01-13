@@ -1,0 +1,24 @@
+{
+  "reel_number": 3858,
+  "recorded": "2026-01-13 07:35:51 UTC",
+  "repository": {
+    "full_name": "bmen25124/SillyTavern-Roadway",
+    "url": "https://github.com/bmen25124/SillyTavern-Roadway",
+    "clone_url": "https://github.com/bmen25124/SillyTavern-Roadway.git",
+    "stars": 55,
+    "language": "TypeScript",
+    "size_kb": 835
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.708443
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 55 stars."
+  }
+}
