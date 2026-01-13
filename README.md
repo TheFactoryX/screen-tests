@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3878 | [benkeen/generatedata](https://github.com/benkeen/generatedata) | TypeScript · ⭐ 2k | 2026-01-13 |
+| #3879 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3944,3 +3944,4 @@ Or let GitHub Action run it automatically.
 | 3876 | 2026-01-13 16:41:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109341⭐ Rust) | [reels/reel_3876_rust-lang-rust](reels/reel_3876_rust-lang-rust) |
 | 3877 | 2026-01-13 17:03:44 | [Grashjs/cmms](https://github.com/Grashjs/cmms) | ✅ full (481⭐ TypeScript) | [reels/reel_3877_Grashjs-cmms](reels/reel_3877_Grashjs-cmms) |
 | 3878 | 2026-01-13 17:43:41 | [benkeen/generatedata](https://github.com/benkeen/generatedata) | ✅ full (2272⭐ TypeScript) | [reels/reel_3878_benkeen-generatedata](reels/reel_3878_benkeen-generatedata) |
+| 3879 | 2026-01-13 17:58:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143428⭐ Python) | [reels/reel_3879_langflow-ai-langflow](reels/reel_3879_langflow-ai-langflow) |
