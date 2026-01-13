@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3871 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-13 |
+| #3872 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3937,3 +3937,4 @@ Or let GitHub Action run it automatically.
 | 3869 | 2026-01-13 12:43:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267930⭐ None) | [reels/reel_3869_awesome-selfhosted-awesome-selfhosted](reels/reel_3869_awesome-selfhosted-awesome-selfhosted) |
 | 3870 | 2026-01-13 13:30:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (456149⭐ Markdown) | [reels/reel_3870_codecrafters-io-build-your-own-x](reels/reel_3870_codecrafters-io-build-your-own-x) |
 | 3871 | 2026-01-13 14:01:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143418⭐ Python) | [reels/reel_3871_langflow-ai-langflow](reels/reel_3871_langflow-ai-langflow) |
+| 3872 | 2026-01-13 14:44:35 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120511⭐ Python) | [reels/reel_3872_open-webui-open-webui](reels/reel_3872_open-webui-open-webui) |
