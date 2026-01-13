@@ -1,0 +1,24 @@
+{
+  "reel_number": 3864,
+  "recorded": "2026-01-13 10:26:04 UTC",
+  "repository": {
+    "full_name": "nikgapps/config",
+    "url": "https://github.com/nikgapps/config",
+    "clone_url": "https://github.com/nikgapps/config.git",
+    "stars": 227,
+    "language": null,
+    "size_kb": 22553
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 22,
+    "duration_seconds": 2.781274
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 227 stars."
+  }
+}
