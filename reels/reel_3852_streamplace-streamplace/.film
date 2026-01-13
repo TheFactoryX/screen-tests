@@ -1,0 +1,24 @@
+{
+  "reel_number": 3852,
+  "recorded": "2026-01-13 04:24:18 UTC",
+  "repository": {
+    "full_name": "streamplace/streamplace",
+    "url": "https://github.com/streamplace/streamplace",
+    "clone_url": "https://github.com/streamplace/streamplace.git",
+    "stars": 172,
+    "language": "TypeScript",
+    "size_kb": 50177
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 49,
+    "duration_seconds": 2.328296
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 172 stars."
+  }
+}
