@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3885 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-13 |
+| #3886 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 267k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3951,3 +3951,4 @@ Or let GitHub Action run it automatically.
 | 3883 | 2026-01-13 19:40:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267989⭐ None) | [reels/reel_3883_awesome-selfhosted-awesome-selfhosted](reels/reel_3883_awesome-selfhosted-awesome-selfhosted) |
 | 3884 | 2026-01-13 19:51:13 | [ulgens/django-blasphemy](https://github.com/ulgens/django-blasphemy) | ✅ full (15⭐ Python) | [reels/reel_3884_ulgens-django-blasphemy](reels/reel_3884_ulgens-django-blasphemy) |
 | 3885 | 2026-01-13 20:23:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124110⭐ Python) | [reels/reel_3885_langchain-ai-langchain](reels/reel_3885_langchain-ai-langchain) |
+| 3886 | 2026-01-13 20:46:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267997⭐ None) | [reels/reel_3886_awesome-selfhosted-awesome-selfhosted](reels/reel_3886_awesome-selfhosted-awesome-selfhosted) |
