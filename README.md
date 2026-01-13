@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3889 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 412 | 2026-01-13 |
+| #3890 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3955,3 +3955,4 @@ Or let GitHub Action run it automatically.
 | 3887 | 2026-01-13 21:19:30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124110⭐ Python) | [reels/reel_3887_langchain-ai-langchain](reels/reel_3887_langchain-ai-langchain) |
 | 3888 | 2026-01-13 21:43:08 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139434⭐ Python) | [reels/reel_3888_ytdl-org-youtube-dl](reels/reel_3888_ytdl-org-youtube-dl) |
 | 3889 | 2026-01-13 21:54:11 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ shallow (412⭐ None) | [reels/reel_3889_zloi-user-hideip.me](reels/reel_3889_zloi-user-hideip.me) |
+| 3890 | 2026-01-13 22:20:13 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139434⭐ Python) | [reels/reel_3890_ytdl-org-youtube-dl](reels/reel_3890_ytdl-org-youtube-dl) |
