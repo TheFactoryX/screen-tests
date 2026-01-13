@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3862 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-13 |
+| #3863 | [DevExpress/testcafe-hammerhead](https://github.com/DevExpress/testcafe-hammerhead) | JavaScript · ⭐ 179 | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3928,3 +3928,4 @@ Or let GitHub Action run it automatically.
 | 3860 | 2026-01-13 08:28:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168589⭐ TypeScript) | [reels/reel_3860_n8n-io-n8n](reels/reel_3860_n8n-io-n8n) |
 | 3861 | 2026-01-13 08:57:11 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168600⭐ TypeScript) | [reels/reel_3861_n8n-io-n8n](reels/reel_3861_n8n-io-n8n) |
 | 3862 | 2026-01-13 09:32:05 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109501⭐ TypeScript) | [reels/reel_3862_iptv-org-iptv](reels/reel_3862_iptv-org-iptv) |
+| 3863 | 2026-01-13 09:56:13 | [DevExpress/testcafe-hammerhead](https://github.com/DevExpress/testcafe-hammerhead) | ✅ full (179⭐ JavaScript) | [reels/reel_3863_DevExpress-testcafe-hammerhead](reels/reel_3863_DevExpress-testcafe-hammerhead) |
