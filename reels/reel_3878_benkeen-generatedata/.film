@@ -1,0 +1,24 @@
+{
+  "reel_number": 3878,
+  "recorded": "2026-01-13 17:43:41 UTC",
+  "repository": {
+    "full_name": "benkeen/generatedata",
+    "url": "https://github.com/benkeen/generatedata",
+    "clone_url": "https://github.com/benkeen/generatedata.git",
+    "stars": 2272,
+    "language": "TypeScript",
+    "size_kb": 83844
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 81,
+    "duration_seconds": 4.479264
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 2272 stars."
+  }
+}
