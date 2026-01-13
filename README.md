@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3866 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-13 |
+| #3867 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3932,3 +3932,4 @@ Or let GitHub Action run it automatically.
 | 3864 | 2026-01-13 10:26:04 | [nikgapps/config](https://github.com/nikgapps/config) | ✅ full (227⭐ None) | [reels/reel_3864_nikgapps-config](reels/reel_3864_nikgapps-config) |
 | 3865 | 2026-01-13 10:50:32 | [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) | ✅ readme_only (1616⭐ TypeScript) | [reels/reel_3865_keldaanCommunity-pokemonAutoChess](reels/reel_3865_keldaanCommunity-pokemonAutoChess) |
 | 3866 | 2026-01-13 11:18:45 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101190⭐ Rust) | [reels/reel_3866_tauri-apps-tauri](reels/reel_3866_tauri-apps-tauri) |
+| 3867 | 2026-01-13 11:41:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120494⭐ Python) | [reels/reel_3867_open-webui-open-webui](reels/reel_3867_open-webui-open-webui) |
