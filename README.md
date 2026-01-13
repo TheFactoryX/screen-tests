@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3858 | [bmen25124/SillyTavern-Roadway](https://github.com/bmen25124/SillyTavern-Roadway) | TypeScript · ⭐ 55 | 2026-01-13 |
+| #3859 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3924,3 +3924,4 @@ Or let GitHub Action run it automatically.
 | 3856 | 2026-01-13 06:32:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (267891⭐ None) | [reels/reel_3856_awesome-selfhosted-awesome-selfhosted](reels/reel_3856_awesome-selfhosted-awesome-selfhosted) |
 | 3857 | 2026-01-13 07:02:38 | [alanrsoares/weirdle](https://github.com/alanrsoares/weirdle) | ✅ full (18⭐ TypeScript) | [reels/reel_3857_alanrsoares-weirdle](reels/reel_3857_alanrsoares-weirdle) |
 | 3858 | 2026-01-13 07:35:51 | [bmen25124/SillyTavern-Roadway](https://github.com/bmen25124/SillyTavern-Roadway) | ✅ full (55⭐ TypeScript) | [reels/reel_3858_bmen25124-SillyTavern-Roadway](reels/reel_3858_bmen25124-SillyTavern-Roadway) |
+| 3859 | 2026-01-13 07:52:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120471⭐ Python) | [reels/reel_3859_open-webui-open-webui](reels/reel_3859_open-webui-open-webui) |
