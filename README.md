@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3892 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 100k | 2026-01-13 |
+| #3893 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3958,3 +3958,4 @@ Or let GitHub Action run it automatically.
 | 3890 | 2026-01-13 22:20:13 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139434⭐ Python) | [reels/reel_3890_ytdl-org-youtube-dl](reels/reel_3890_ytdl-org-youtube-dl) |
 | 3891 | 2026-01-13 22:46:09 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104716⭐ TypeScript) | [reels/reel_3891_shadcn-ui-ui](reels/reel_3891_shadcn-ui-ui) |
 | 3892 | 2026-01-13 23:18:27 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (100073⭐ Python) | [reels/reel_3892_Comfy-Org-ComfyUI](reels/reel_3892_Comfy-Org-ComfyUI) |
+| 3893 | 2026-01-13 23:39:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124112⭐ Python) | [reels/reel_3893_langchain-ai-langchain](reels/reel_3893_langchain-ai-langchain) |
