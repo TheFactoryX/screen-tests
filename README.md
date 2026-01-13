@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3873 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-13 |
+| #3874 | [hedgehogqa/fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | F# · ⭐ 284 | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3939,3 +3939,4 @@ Or let GitHub Action run it automatically.
 | 3871 | 2026-01-13 14:01:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143418⭐ Python) | [reels/reel_3871_langflow-ai-langflow](reels/reel_3871_langflow-ai-langflow) |
 | 3872 | 2026-01-13 14:44:35 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120511⭐ Python) | [reels/reel_3872_open-webui-open-webui](reels/reel_3872_open-webui-open-webui) |
 | 3873 | 2026-01-13 15:01:19 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97230⭐ TypeScript) | [reels/reel_3873_ant-design-ant-design](reels/reel_3873_ant-design-ant-design) |
+| 3874 | 2026-01-13 15:41:24 | [hedgehogqa/fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | ✅ full (284⭐ F#) | [reels/reel_3874_hedgehogqa-fsharp-hedgehog](reels/reel_3874_hedgehogqa-fsharp-hedgehog) |
