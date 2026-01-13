@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3881 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-13 |
+| #3882 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3947,3 +3947,4 @@ Or let GitHub Action run it automatically.
 | 3879 | 2026-01-13 17:58:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143428⭐ Python) | [reels/reel_3879_langflow-ai-langflow](reels/reel_3879_langflow-ai-langflow) |
 | 3880 | 2026-01-13 18:39:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109544⭐ TypeScript) | [reels/reel_3880_iptv-org-iptv](reels/reel_3880_iptv-org-iptv) |
 | 3881 | 2026-01-13 19:00:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120536⭐ Python) | [reels/reel_3881_open-webui-open-webui](reels/reel_3881_open-webui-open-webui) |
+| 3882 | 2026-01-13 19:27:52 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101220⭐ Rust) | [reels/reel_3882_tauri-apps-tauri](reels/reel_3882_tauri-apps-tauri) |
