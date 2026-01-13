@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3876 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-13 |
+| #3877 | [Grashjs/cmms](https://github.com/Grashjs/cmms) | TypeScript · ⭐ 481 | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3942,3 +3942,4 @@ Or let GitHub Action run it automatically.
 | 3874 | 2026-01-13 15:41:24 | [hedgehogqa/fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | ✅ full (284⭐ F#) | [reels/reel_3874_hedgehogqa-fsharp-hedgehog](reels/reel_3874_hedgehogqa-fsharp-hedgehog) |
 | 3875 | 2026-01-13 15:58:46 | [vagmcs/Optimus](https://github.com/vagmcs/Optimus) | ✅ full (149⭐ Scala) | [reels/reel_3875_vagmcs-Optimus](reels/reel_3875_vagmcs-Optimus) |
 | 3876 | 2026-01-13 16:41:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109341⭐ Rust) | [reels/reel_3876_rust-lang-rust](reels/reel_3876_rust-lang-rust) |
+| 3877 | 2026-01-13 17:03:44 | [Grashjs/cmms](https://github.com/Grashjs/cmms) | ✅ full (481⭐ TypeScript) | [reels/reel_3877_Grashjs-cmms](reels/reel_3877_Grashjs-cmms) |

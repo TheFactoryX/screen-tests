@@ -1,0 +1,24 @@
+{
+  "reel_number": 3877,
+  "recorded": "2026-01-13 17:03:44 UTC",
+  "repository": {
+    "full_name": "Grashjs/cmms",
+    "url": "https://github.com/Grashjs/cmms",
+    "clone_url": "https://github.com/Grashjs/cmms.git",
+    "stars": 481,
+    "language": "TypeScript",
+    "size_kb": 72945
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 71,
+    "duration_seconds": 2.424009
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 481 stars."
+  }
+}
