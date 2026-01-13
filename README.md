@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3853 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-13 |
+| #3854 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-13 |
 ---
 
 ## 🎭 Selection Process
@@ -3919,3 +3919,4 @@ Or let GitHub Action run it automatically.
 | 3851 | 2026-01-13 03:15:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104671⭐ TypeScript) | [reels/reel_3851_shadcn-ui-ui](reels/reel_3851_shadcn-ui-ui) |
 | 3852 | 2026-01-13 04:24:18 | [streamplace/streamplace](https://github.com/streamplace/streamplace) | ✅ full (172⭐ TypeScript) | [reels/reel_3852_streamplace-streamplace](reels/reel_3852_streamplace-streamplace) |
 | 3853 | 2026-01-13 04:57:37 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104679⭐ TypeScript) | [reels/reel_3853_shadcn-ui-ui](reels/reel_3853_shadcn-ui-ui) |
+| 3854 | 2026-01-13 05:30:07 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181055⭐ Python) | [reels/reel_3854_Significant-Gravitas-AutoGPT](reels/reel_3854_Significant-Gravitas-AutoGPT) |
