@@ -1,0 +1,24 @@
+{
+  "reel_number": 3908,
+  "recorded": "2026-01-14 09:56:55 UTC",
+  "repository": {
+    "full_name": "hzy132/OpenEUICC_for_Magisk",
+    "url": "https://github.com/hzy132/OpenEUICC_for_Magisk",
+    "clone_url": "https://github.com/hzy132/OpenEUICC_for_Magisk.git",
+    "stars": 221,
+    "language": "Shell",
+    "size_kb": 278
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.525671
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 221 stars."
+  }
+}

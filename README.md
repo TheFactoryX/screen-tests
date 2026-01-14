@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3907 | [abenz1267/elephant](https://github.com/abenz1267/elephant) | Go · ⭐ 306 | 2026-01-14 |
+| #3908 | [hzy132/OpenEUICC_for_Magisk](https://github.com/hzy132/OpenEUICC_for_Magisk) | Shell · ⭐ 221 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3973,3 +3973,4 @@ Or let GitHub Action run it automatically.
 | 3905 | 2026-01-14 08:28:39 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (100127⭐ Python) | [reels/reel_3905_Comfy-Org-ComfyUI](reels/reel_3905_Comfy-Org-ComfyUI) |
 | 3906 | 2026-01-14 08:57:02 | [jaseci-labs/jaseci](https://github.com/jaseci-labs/jaseci) | ✅ full (383⭐ Python) | [reels/reel_3906_jaseci-labs-jaseci](reels/reel_3906_jaseci-labs-jaseci) |
 | 3907 | 2026-01-14 09:32:01 | [abenz1267/elephant](https://github.com/abenz1267/elephant) | ✅ full (306⭐ Go) | [reels/reel_3907_abenz1267-elephant](reels/reel_3907_abenz1267-elephant) |
+| 3908 | 2026-01-14 09:56:55 | [hzy132/OpenEUICC_for_Magisk](https://github.com/hzy132/OpenEUICC_for_Magisk) | ✅ full (221⭐ Shell) | [reels/reel_3908_hzy132-OpenEUICC_for_Magisk](reels/reel_3908_hzy132-OpenEUICC_for_Magisk) |
