@@ -1,0 +1,24 @@
+{
+  "reel_number": 3909,
+  "recorded": "2026-01-14 10:28:34 UTC",
+  "repository": {
+    "full_name": "ailyProject/aily-blockly",
+    "url": "https://github.com/ailyProject/aily-blockly",
+    "clone_url": "https://github.com/ailyProject/aily-blockly.git",
+    "stars": 163,
+    "language": "TypeScript",
+    "size_kb": 378937
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 370,
+    "duration_seconds": 2.978781
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 163 stars."
+  }
+}
