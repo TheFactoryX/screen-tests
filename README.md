@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3926 | [hiretimsf/Next.js-Blog-App](https://github.com/hiretimsf/Next.js-Blog-App) | TypeScript · ⭐ 458 | 2026-01-14 |
+| #3927 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3992,3 +3992,4 @@ Or let GitHub Action run it automatically.
 | 3924 | 2026-01-14 17:56:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268147⭐ None) | [reels/reel_3924_awesome-selfhosted-awesome-selfhosted](reels/reel_3924_awesome-selfhosted-awesome-selfhosted) |
 | 3925 | 2026-01-14 18:35:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104772⭐ TypeScript) | [reels/reel_3925_shadcn-ui-ui](reels/reel_3925_shadcn-ui-ui) |
 | 3926 | 2026-01-14 19:00:19 | [hiretimsf/Next.js-Blog-App](https://github.com/hiretimsf/Next.js-Blog-App) | ✅ full (458⭐ TypeScript) | [reels/reel_3926_hiretimsf-Next.js-Blog-App](reels/reel_3926_hiretimsf-Next.js-Blog-App) |
+| 3927 | 2026-01-14 19:31:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109621⭐ TypeScript) | [reels/reel_3927_iptv-org-iptv](reels/reel_3927_iptv-org-iptv) |
