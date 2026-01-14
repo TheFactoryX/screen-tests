@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3938 | [meta-pytorch/torchcomms](https://github.com/meta-pytorch/torchcomms) | C++ · ⭐ 321 | 2026-01-14 |
+| #3939 | [graymicrolab/Bacterial_Genetics_Course_Packet](https://github.com/graymicrolab/Bacterial_Genetics_Course_Packet) | None · ⭐ 67 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -4004,3 +4004,4 @@ Or let GitHub Action run it automatically.
 | 3936 | 2026-01-14 22:46:54 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101281⭐ Rust) | [reels/reel_3936_tauri-apps-tauri](reels/reel_3936_tauri-apps-tauri) |
 | 3937 | 2026-01-14 23:16:56 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102335⭐ Shell) | [reels/reel_3937_papers-we-love-papers-we-love](reels/reel_3937_papers-we-love-papers-we-love) |
 | 3938 | 2026-01-14 23:38:44 | [meta-pytorch/torchcomms](https://github.com/meta-pytorch/torchcomms) | ✅ full (321⭐ C++) | [reels/reel_3938_meta-pytorch-torchcomms](reels/reel_3938_meta-pytorch-torchcomms) |
+| 3939 | 2026-01-14 23:50:27 | [graymicrolab/Bacterial_Genetics_Course_Packet](https://github.com/graymicrolab/Bacterial_Genetics_Course_Packet) | ✅ shallow (67⭐ None) | [reels/reel_3939_graymicrolab-Bacterial_Genetics_Course_Packet](reels/reel_3939_graymicrolab-Bacterial_Genetics_Course_Packet) |
