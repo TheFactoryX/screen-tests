@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3895 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-14 |
+| #3896 | [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly) | TypeScript · ⭐ 734 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3961,3 +3961,4 @@ Or let GitHub Action run it automatically.
 | 3893 | 2026-01-13 23:39:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124112⭐ Python) | [reels/reel_3893_langchain-ai-langchain](reels/reel_3893_langchain-ai-langchain) |
 | 3894 | 2026-01-13 23:51:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141684⭐ Python) | [reels/reel_3894_yt-dlp-yt-dlp](reels/reel_3894_yt-dlp-yt-dlp) |
 | 3895 | 2026-01-14 01:47:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124121⭐ Python) | [reels/reel_3895_langchain-ai-langchain](reels/reel_3895_langchain-ai-langchain) |
+| 3896 | 2026-01-14 03:26:23 | [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly) | ✅ full (734⭐ TypeScript) | [reels/reel_3896_arianrhodsandlot-retroassembly](reels/reel_3896_arianrhodsandlot-retroassembly) |
