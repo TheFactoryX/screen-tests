@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3919 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 168k | 2026-01-14 |
+| #3920 | [RimSort/RimSort](https://github.com/RimSort/RimSort) | Python · ⭐ 899 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3985,3 +3985,4 @@ Or let GitHub Action run it automatically.
 | 3917 | 2026-01-14 14:33:55 | [mapbox/node-srs](https://github.com/mapbox/node-srs) | ✅ full (42⭐ JavaScript) | [reels/reel_3917_mapbox-node-srs](reels/reel_3917_mapbox-node-srs) |
 | 3918 | 2026-01-14 14:59:10 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101267⭐ Rust) | [reels/reel_3918_tauri-apps-tauri](reels/reel_3918_tauri-apps-tauri) |
 | 3919 | 2026-01-14 15:33:39 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168940⭐ TypeScript) | [reels/reel_3919_n8n-io-n8n](reels/reel_3919_n8n-io-n8n) |
+| 3920 | 2026-01-14 15:54:45 | [RimSort/RimSort](https://github.com/RimSort/RimSort) | ✅ full (899⭐ Python) | [reels/reel_3920_RimSort-RimSort](reels/reel_3920_RimSort-RimSort) |

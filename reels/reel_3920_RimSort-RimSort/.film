@@ -1,0 +1,24 @@
+{
+  "reel_number": 3920,
+  "recorded": "2026-01-14 15:54:45 UTC",
+  "repository": {
+    "full_name": "RimSort/RimSort",
+    "url": "https://github.com/RimSort/RimSort",
+    "clone_url": "https://github.com/RimSort/RimSort.git",
+    "stars": 899,
+    "language": "Python",
+    "size_kb": 49485
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 48,
+    "duration_seconds": 2.733361
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 899 stars."
+  }
+}
