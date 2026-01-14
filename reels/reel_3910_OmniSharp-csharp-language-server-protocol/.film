@@ -1,0 +1,24 @@
+{
+  "reel_number": 3910,
+  "recorded": "2026-01-14 10:52:56 UTC",
+  "repository": {
+    "full_name": "OmniSharp/csharp-language-server-protocol",
+    "url": "https://github.com/OmniSharp/csharp-language-server-protocol",
+    "clone_url": "https://github.com/OmniSharp/csharp-language-server-protocol.git",
+    "stars": 604,
+    "language": "C#",
+    "size_kb": 6264
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.823542
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 604 stars."
+  }
+}
