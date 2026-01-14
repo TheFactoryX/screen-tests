@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3930 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 168k | 2026-01-14 |
+| #3931 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 456k | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3996,3 +3996,4 @@ Or let GitHub Action run it automatically.
 | 3928 | 2026-01-14 19:50:16 | [nasa/trick](https://github.com/nasa/trick) | ✅ full (116⭐ C++) | [reels/reel_3928_nasa-trick](reels/reel_3928_nasa-trick) |
 | 3929 | 2026-01-14 20:19:52 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104775⭐ TypeScript) | [reels/reel_3929_shadcn-ui-ui](reels/reel_3929_shadcn-ui-ui) |
 | 3930 | 2026-01-14 20:44:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168971⭐ TypeScript) | [reels/reel_3930_n8n-io-n8n](reels/reel_3930_n8n-io-n8n) |
+| 3931 | 2026-01-14 20:56:20 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (456513⭐ Markdown) | [reels/reel_3931_codecrafters-io-build-your-own-x](reels/reel_3931_codecrafters-io-build-your-own-x) |
