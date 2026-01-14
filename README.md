@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3912 | [agregarr/agregarr](https://github.com/agregarr/agregarr) | TypeScript · ⭐ 762 | 2026-01-14 |
+| #3913 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3978,3 +3978,4 @@ Or let GitHub Action run it automatically.
 | 3910 | 2026-01-14 10:52:56 | [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) | ✅ full (604⭐ C#) | [reels/reel_3910_OmniSharp-csharp-language-server-protocol](reels/reel_3910_OmniSharp-csharp-language-server-protocol) |
 | 3911 | 2026-01-14 11:19:55 | [aagentah/nw_wrld](https://github.com/aagentah/nw_wrld) | ✅ full (1294⭐ JavaScript) | [reels/reel_3911_aagentah-nw_wrld](reels/reel_3911_aagentah-nw_wrld) |
 | 3912 | 2026-01-14 11:42:34 | [agregarr/agregarr](https://github.com/agregarr/agregarr) | ✅ full (762⭐ TypeScript) | [reels/reel_3912_agregarr-agregarr](reels/reel_3912_agregarr-agregarr) |
+| 3913 | 2026-01-14 11:53:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141750⭐ Python) | [reels/reel_3913_yt-dlp-yt-dlp](reels/reel_3913_yt-dlp-yt-dlp) |
