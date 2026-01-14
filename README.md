@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3905 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 100k | 2026-01-14 |
+| #3906 | [jaseci-labs/jaseci](https://github.com/jaseci-labs/jaseci) | Python · ⭐ 383 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3971,3 +3971,4 @@ Or let GitHub Action run it automatically.
 | 3903 | 2026-01-14 07:36:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124144⭐ Python) | [reels/reel_3903_langchain-ai-langchain](reels/reel_3903_langchain-ai-langchain) |
 | 3904 | 2026-01-14 07:52:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120596⭐ Python) | [reels/reel_3904_open-webui-open-webui](reels/reel_3904_open-webui-open-webui) |
 | 3905 | 2026-01-14 08:28:39 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (100127⭐ Python) | [reels/reel_3905_Comfy-Org-ComfyUI](reels/reel_3905_Comfy-Org-ComfyUI) |
+| 3906 | 2026-01-14 08:57:02 | [jaseci-labs/jaseci](https://github.com/jaseci-labs/jaseci) | ✅ full (383⭐ Python) | [reels/reel_3906_jaseci-labs-jaseci](reels/reel_3906_jaseci-labs-jaseci) |

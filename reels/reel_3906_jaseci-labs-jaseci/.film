@@ -1,0 +1,24 @@
+{
+  "reel_number": 3906,
+  "recorded": "2026-01-14 08:57:02 UTC",
+  "repository": {
+    "full_name": "jaseci-labs/jaseci",
+    "url": "https://github.com/jaseci-labs/jaseci",
+    "clone_url": "https://github.com/jaseci-labs/jaseci.git",
+    "stars": 383,
+    "language": "Python",
+    "size_kb": 19900
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 19,
+    "duration_seconds": 1.785833
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 383 stars."
+  }
+}
