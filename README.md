@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3916 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-14 |
+| #3917 | [mapbox/node-srs](https://github.com/mapbox/node-srs) | JavaScript · ⭐ 42 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3982,3 +3982,4 @@ Or let GitHub Action run it automatically.
 | 3914 | 2026-01-14 12:42:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168907⭐ TypeScript) | [reels/reel_3914_n8n-io-n8n](reels/reel_3914_n8n-io-n8n) |
 | 3915 | 2026-01-14 13:29:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104763⭐ TypeScript) | [reels/reel_3915_shadcn-ui-ui](reels/reel_3915_shadcn-ui-ui) |
 | 3916 | 2026-01-14 13:58:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143501⭐ Python) | [reels/reel_3916_langflow-ai-langflow](reels/reel_3916_langflow-ai-langflow) |
+| 3917 | 2026-01-14 14:33:55 | [mapbox/node-srs](https://github.com/mapbox/node-srs) | ✅ full (42⭐ JavaScript) | [reels/reel_3917_mapbox-node-srs](reels/reel_3917_mapbox-node-srs) |
