@@ -1,0 +1,24 @@
+{
+  "reel_number": 3911,
+  "recorded": "2026-01-14 11:19:55 UTC",
+  "repository": {
+    "full_name": "aagentah/nw_wrld",
+    "url": "https://github.com/aagentah/nw_wrld",
+    "clone_url": "https://github.com/aagentah/nw_wrld.git",
+    "stars": 1294,
+    "language": "JavaScript",
+    "size_kb": 24382
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 0.633669
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 1294 stars."
+  }
+}
