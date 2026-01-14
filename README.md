@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3898 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 100k | 2026-01-14 |
+| #3899 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3964,3 +3964,4 @@ Or let GitHub Action run it automatically.
 | 3896 | 2026-01-14 03:26:23 | [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly) | ✅ full (734⭐ TypeScript) | [reels/reel_3896_arianrhodsandlot-retroassembly](reels/reel_3896_arianrhodsandlot-retroassembly) |
 | 3897 | 2026-01-14 04:34:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168781⭐ TypeScript) | [reels/reel_3897_n8n-io-n8n](reels/reel_3897_n8n-io-n8n) |
 | 3898 | 2026-01-14 05:05:01 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (100106⭐ Python) | [reels/reel_3898_Comfy-Org-ComfyUI](reels/reel_3898_Comfy-Org-ComfyUI) |
+| 3899 | 2026-01-14 05:41:58 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139434⭐ Python) | [reels/reel_3899_ytdl-org-youtube-dl](reels/reel_3899_ytdl-org-youtube-dl) |
