@@ -1,0 +1,24 @@
+{
+  "reel_number": 3928,
+  "recorded": "2026-01-14 19:50:16 UTC",
+  "repository": {
+    "full_name": "nasa/trick",
+    "url": "https://github.com/nasa/trick",
+    "clone_url": "https://github.com/nasa/trick.git",
+    "stars": 116,
+    "language": "C++",
+    "size_kb": 85630
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 83,
+    "duration_seconds": 3.42194
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 116 stars."
+  }
+}

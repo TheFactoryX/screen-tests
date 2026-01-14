@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3927 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-14 |
+| #3928 | [nasa/trick](https://github.com/nasa/trick) | C++ · ⭐ 116 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3993,3 +3993,4 @@ Or let GitHub Action run it automatically.
 | 3925 | 2026-01-14 18:35:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104772⭐ TypeScript) | [reels/reel_3925_shadcn-ui-ui](reels/reel_3925_shadcn-ui-ui) |
 | 3926 | 2026-01-14 19:00:19 | [hiretimsf/Next.js-Blog-App](https://github.com/hiretimsf/Next.js-Blog-App) | ✅ full (458⭐ TypeScript) | [reels/reel_3926_hiretimsf-Next.js-Blog-App](reels/reel_3926_hiretimsf-Next.js-Blog-App) |
 | 3927 | 2026-01-14 19:31:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109621⭐ TypeScript) | [reels/reel_3927_iptv-org-iptv](reels/reel_3927_iptv-org-iptv) |
+| 3928 | 2026-01-14 19:50:16 | [nasa/trick](https://github.com/nasa/trick) | ✅ full (116⭐ C++) | [reels/reel_3928_nasa-trick](reels/reel_3928_nasa-trick) |
