@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3917 | [mapbox/node-srs](https://github.com/mapbox/node-srs) | JavaScript · ⭐ 42 | 2026-01-14 |
+| #3918 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3983,3 +3983,4 @@ Or let GitHub Action run it automatically.
 | 3915 | 2026-01-14 13:29:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104763⭐ TypeScript) | [reels/reel_3915_shadcn-ui-ui](reels/reel_3915_shadcn-ui-ui) |
 | 3916 | 2026-01-14 13:58:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143501⭐ Python) | [reels/reel_3916_langflow-ai-langflow](reels/reel_3916_langflow-ai-langflow) |
 | 3917 | 2026-01-14 14:33:55 | [mapbox/node-srs](https://github.com/mapbox/node-srs) | ✅ full (42⭐ JavaScript) | [reels/reel_3917_mapbox-node-srs](reels/reel_3917_mapbox-node-srs) |
+| 3918 | 2026-01-14 14:59:10 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101267⭐ Rust) | [reels/reel_3918_tauri-apps-tauri](reels/reel_3918_tauri-apps-tauri) |
