@@ -1,0 +1,24 @@
+{
+  "reel_number": 3912,
+  "recorded": "2026-01-14 11:42:34 UTC",
+  "repository": {
+    "full_name": "agregarr/agregarr",
+    "url": "https://github.com/agregarr/agregarr",
+    "clone_url": "https://github.com/agregarr/agregarr.git",
+    "stars": 762,
+    "language": "TypeScript",
+    "size_kb": 48342
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 47,
+    "duration_seconds": 2.323368
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 762 stars."
+  }
+}
