@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3902 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-14 |
+| #3903 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3968,3 +3968,4 @@ Or let GitHub Action run it automatically.
 | 3900 | 2026-01-14 05:55:39 | [ruffsl/CtrlAssist](https://github.com/ruffsl/CtrlAssist) | ✅ full (72⭐ Rust) | [reels/reel_3900_ruffsl-CtrlAssist](reels/reel_3900_ruffsl-CtrlAssist) |
 | 3901 | 2026-01-14 06:33:54 | [zeke/california-license-plates](https://github.com/zeke/california-license-plates) | ✅ full (25⭐ JavaScript) | [reels/reel_3901_zeke-california-license-plates](reels/reel_3901_zeke-california-license-plates) |
 | 3902 | 2026-01-14 07:01:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109577⭐ TypeScript) | [reels/reel_3902_iptv-org-iptv](reels/reel_3902_iptv-org-iptv) |
+| 3903 | 2026-01-14 07:36:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124144⭐ Python) | [reels/reel_3903_langchain-ai-langchain](reels/reel_3903_langchain-ai-langchain) |
