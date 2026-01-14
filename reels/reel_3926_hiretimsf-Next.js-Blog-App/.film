@@ -1,0 +1,24 @@
+{
+  "reel_number": 3926,
+  "recorded": "2026-01-14 19:00:19 UTC",
+  "repository": {
+    "full_name": "hiretimsf/Next.js-Blog-App",
+    "url": "https://github.com/hiretimsf/Next.js-Blog-App",
+    "clone_url": "https://github.com/hiretimsf/Next.js-Blog-App.git",
+    "stars": 458,
+    "language": "TypeScript",
+    "size_kb": 2727
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.615398
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 458 stars."
+  }
+}

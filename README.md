@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3925 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-14 |
+| #3926 | [hiretimsf/Next.js-Blog-App](https://github.com/hiretimsf/Next.js-Blog-App) | TypeScript · ⭐ 458 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3991,3 +3991,4 @@ Or let GitHub Action run it automatically.
 | 3923 | 2026-01-14 17:32:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124191⭐ Python) | [reels/reel_3923_langchain-ai-langchain](reels/reel_3923_langchain-ai-langchain) |
 | 3924 | 2026-01-14 17:56:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268147⭐ None) | [reels/reel_3924_awesome-selfhosted-awesome-selfhosted](reels/reel_3924_awesome-selfhosted-awesome-selfhosted) |
 | 3925 | 2026-01-14 18:35:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104772⭐ TypeScript) | [reels/reel_3925_shadcn-ui-ui](reels/reel_3925_shadcn-ui-ui) |
+| 3926 | 2026-01-14 19:00:19 | [hiretimsf/Next.js-Blog-App](https://github.com/hiretimsf/Next.js-Blog-App) | ✅ full (458⭐ TypeScript) | [reels/reel_3926_hiretimsf-Next.js-Blog-App](reels/reel_3926_hiretimsf-Next.js-Blog-App) |
