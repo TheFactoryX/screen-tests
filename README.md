@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3934 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-14 |
+| #3935 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -4000,3 +4000,4 @@ Or let GitHub Action run it automatically.
 | 3932 | 2026-01-14 21:23:20 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139441⭐ Python) | [reels/reel_3932_ytdl-org-youtube-dl](reels/reel_3932_ytdl-org-youtube-dl) |
 | 3933 | 2026-01-14 21:44:02 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101280⭐ Rust) | [reels/reel_3933_tauri-apps-tauri](reels/reel_3933_tauri-apps-tauri) |
 | 3934 | 2026-01-14 21:55:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109628⭐ TypeScript) | [reels/reel_3934_iptv-org-iptv](reels/reel_3934_iptv-org-iptv) |
+| 3935 | 2026-01-14 22:20:56 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101088⭐ Python) | [reels/reel_3935_deepseek-ai-DeepSeek-V3](reels/reel_3935_deepseek-ai-DeepSeek-V3) |
