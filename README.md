@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3936 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-14 |
+| #3937 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -4002,3 +4002,4 @@ Or let GitHub Action run it automatically.
 | 3934 | 2026-01-14 21:55:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109628⭐ TypeScript) | [reels/reel_3934_iptv-org-iptv](reels/reel_3934_iptv-org-iptv) |
 | 3935 | 2026-01-14 22:20:56 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101088⭐ Python) | [reels/reel_3935_deepseek-ai-DeepSeek-V3](reels/reel_3935_deepseek-ai-DeepSeek-V3) |
 | 3936 | 2026-01-14 22:46:54 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101281⭐ Rust) | [reels/reel_3936_tauri-apps-tauri](reels/reel_3936_tauri-apps-tauri) |
+| 3937 | 2026-01-14 23:16:56 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102335⭐ Shell) | [reels/reel_3937_papers-we-love-papers-we-love](reels/reel_3937_papers-we-love-papers-we-love) |
