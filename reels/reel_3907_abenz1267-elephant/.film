@@ -1,0 +1,24 @@
+{
+  "reel_number": 3907,
+  "recorded": "2026-01-14 09:32:01 UTC",
+  "repository": {
+    "full_name": "abenz1267/elephant",
+    "url": "https://github.com/abenz1267/elephant",
+    "clone_url": "https://github.com/abenz1267/elephant.git",
+    "stars": 306,
+    "language": "Go",
+    "size_kb": 22752
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 22,
+    "duration_seconds": 1.099204
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 306 stars."
+  }
+}
