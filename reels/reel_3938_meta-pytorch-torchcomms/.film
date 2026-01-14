@@ -1,0 +1,24 @@
+{
+  "reel_number": 3938,
+  "recorded": "2026-01-14 23:38:44 UTC",
+  "repository": {
+    "full_name": "meta-pytorch/torchcomms",
+    "url": "https://github.com/meta-pytorch/torchcomms",
+    "clone_url": "https://github.com/meta-pytorch/torchcomms.git",
+    "stars": 321,
+    "language": "C++",
+    "size_kb": 19441
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.402093
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 321 stars."
+  }
+}
