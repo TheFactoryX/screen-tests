@@ -1,0 +1,24 @@
+{
+  "reel_number": 3900,
+  "recorded": "2026-01-14 05:55:39 UTC",
+  "repository": {
+    "full_name": "ruffsl/CtrlAssist",
+    "url": "https://github.com/ruffsl/CtrlAssist",
+    "clone_url": "https://github.com/ruffsl/CtrlAssist.git",
+    "stars": 72,
+    "language": "Rust",
+    "size_kb": 208
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.755491
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 72 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3899 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-14 |
+| #3900 | [ruffsl/CtrlAssist](https://github.com/ruffsl/CtrlAssist) | Rust · ⭐ 72 | 2026-01-14 |
 ---
 
 ## 🎭 Selection Process
@@ -3965,3 +3965,4 @@ Or let GitHub Action run it automatically.
 | 3897 | 2026-01-14 04:34:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (168781⭐ TypeScript) | [reels/reel_3897_n8n-io-n8n](reels/reel_3897_n8n-io-n8n) |
 | 3898 | 2026-01-14 05:05:01 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (100106⭐ Python) | [reels/reel_3898_Comfy-Org-ComfyUI](reels/reel_3898_Comfy-Org-ComfyUI) |
 | 3899 | 2026-01-14 05:41:58 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139434⭐ Python) | [reels/reel_3899_ytdl-org-youtube-dl](reels/reel_3899_ytdl-org-youtube-dl) |
+| 3900 | 2026-01-14 05:55:39 | [ruffsl/CtrlAssist](https://github.com/ruffsl/CtrlAssist) | ✅ full (72⭐ Rust) | [reels/reel_3900_ruffsl-CtrlAssist](reels/reel_3900_ruffsl-CtrlAssist) |
