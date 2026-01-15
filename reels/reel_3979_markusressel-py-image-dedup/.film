@@ -1,0 +1,24 @@
+{
+  "reel_number": 3979,
+  "recorded": "2026-01-15 22:45:31 UTC",
+  "repository": {
+    "full_name": "markusressel/py-image-dedup",
+    "url": "https://github.com/markusressel/py-image-dedup",
+    "clone_url": "https://github.com/markusressel/py-image-dedup.git",
+    "stars": 169,
+    "language": "Python",
+    "size_kb": 18934
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 0.789526
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 169 stars."
+  }
+}

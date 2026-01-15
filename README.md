@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3978 | [Shubh2-0/EchoCharm](https://github.com/Shubh2-0/EchoCharm) | Python · ⭐ 11 | 2026-01-15 |
+| #3979 | [markusressel/py-image-dedup](https://github.com/markusressel/py-image-dedup) | Python · ⭐ 169 | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4044,3 +4044,4 @@ Or let GitHub Action run it automatically.
 | 3976 | 2026-01-15 21:42:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268334⭐ None) | [reels/reel_3976_awesome-selfhosted-awesome-selfhosted](reels/reel_3976_awesome-selfhosted-awesome-selfhosted) |
 | 3977 | 2026-01-15 21:53:19 | [amzn/emukit-playground](https://github.com/amzn/emukit-playground) | ✅ full (22⭐ JavaScript) | [reels/reel_3977_amzn-emukit-playground](reels/reel_3977_amzn-emukit-playground) |
 | 3978 | 2026-01-15 22:19:58 | [Shubh2-0/EchoCharm](https://github.com/Shubh2-0/EchoCharm) | ✅ full (11⭐ Python) | [reels/reel_3978_Shubh2-0-EchoCharm](reels/reel_3978_Shubh2-0-EchoCharm) |
+| 3979 | 2026-01-15 22:45:31 | [markusressel/py-image-dedup](https://github.com/markusressel/py-image-dedup) | ✅ full (169⭐ Python) | [reels/reel_3979_markusressel-py-image-dedup](reels/reel_3979_markusressel-py-image-dedup) |
