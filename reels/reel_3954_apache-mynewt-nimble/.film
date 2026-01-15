@@ -1,0 +1,24 @@
+{
+  "reel_number": 3954,
+  "recorded": "2026-01-15 10:23:05 UTC",
+  "repository": {
+    "full_name": "apache/mynewt-nimble",
+    "url": "https://github.com/apache/mynewt-nimble",
+    "clone_url": "https://github.com/apache/mynewt-nimble.git",
+    "stars": 843,
+    "language": "C",
+    "size_kb": 17641
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 2.200585
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 843 stars."
+  }
+}

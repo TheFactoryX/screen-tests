@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3953 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-15 |
+| #3954 | [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) | C · ⭐ 843 | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4019,3 +4019,4 @@ Or let GitHub Action run it automatically.
 | 3951 | 2026-01-15 08:56:26 | [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list) | ✅ full (152⭐ Go) | [reels/reel_3951_gfpcom-free-proxy-list](reels/reel_3951_gfpcom-free-proxy-list) |
 | 3952 | 2026-01-15 09:30:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109400⭐ Rust) | [reels/reel_3952_rust-lang-rust](reels/reel_3952_rust-lang-rust) |
 | 3953 | 2026-01-15 09:51:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143576⭐ Python) | [reels/reel_3953_langflow-ai-langflow](reels/reel_3953_langflow-ai-langflow) |
+| 3954 | 2026-01-15 10:23:05 | [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) | ✅ full (843⭐ C) | [reels/reel_3954_apache-mynewt-nimble](reels/reel_3954_apache-mynewt-nimble) |
