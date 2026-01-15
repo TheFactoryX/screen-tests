@@ -1,0 +1,24 @@
+{
+  "reel_number": 3944,
+  "recorded": "2026-01-15 05:32:55 UTC",
+  "repository": {
+    "full_name": "MhdiTaheri/V2rayCollector_Py",
+    "url": "https://github.com/MhdiTaheri/V2rayCollector_Py",
+    "clone_url": "https://github.com/MhdiTaheri/V2rayCollector_Py.git",
+    "stars": 173,
+    "language": "Python",
+    "size_kb": 27882
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 7.489104
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 173 stars."
+  }
+}
