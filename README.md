@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3956 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 456k | 2026-01-15 |
+| #3957 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4022,3 +4022,4 @@ Or let GitHub Action run it automatically.
 | 3954 | 2026-01-15 10:23:05 | [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) | ✅ full (843⭐ C) | [reels/reel_3954_apache-mynewt-nimble](reels/reel_3954_apache-mynewt-nimble) |
 | 3955 | 2026-01-15 10:49:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124249⭐ Python) | [reels/reel_3955_langchain-ai-langchain](reels/reel_3955_langchain-ai-langchain) |
 | 3956 | 2026-01-15 11:18:45 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (456785⭐ Markdown) | [reels/reel_3956_codecrafters-io-build-your-own-x](reels/reel_3956_codecrafters-io-build-your-own-x) |
+| 3957 | 2026-01-15 11:41:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143585⭐ Python) | [reels/reel_3957_langflow-ai-langflow](reels/reel_3957_langflow-ai-langflow) |
