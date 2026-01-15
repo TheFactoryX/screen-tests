@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3941 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-15 |
+| #3942 | [NSM-Barii/NetCracker](https://github.com/NSM-Barii/NetCracker) | Python · ⭐ 16 | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4007,3 +4007,4 @@ Or let GitHub Action run it automatically.
 | 3939 | 2026-01-14 23:50:27 | [graymicrolab/Bacterial_Genetics_Course_Packet](https://github.com/graymicrolab/Bacterial_Genetics_Course_Packet) | ✅ shallow (67⭐ None) | [reels/reel_3939_graymicrolab-Bacterial_Genetics_Course_Packet](reels/reel_3939_graymicrolab-Bacterial_Genetics_Course_Packet) |
 | 3940 | 2026-01-15 01:28:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181107⭐ Python) | [reels/reel_3940_Significant-Gravitas-AutoGPT](reels/reel_3940_Significant-Gravitas-AutoGPT) |
 | 3941 | 2026-01-15 03:19:07 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104789⭐ TypeScript) | [reels/reel_3941_shadcn-ui-ui](reels/reel_3941_shadcn-ui-ui) |
+| 3942 | 2026-01-15 04:26:20 | [NSM-Barii/NetCracker](https://github.com/NSM-Barii/NetCracker) | ✅ full (16⭐ Python) | [reels/reel_3942_NSM-Barii-NetCracker](reels/reel_3942_NSM-Barii-NetCracker) |
