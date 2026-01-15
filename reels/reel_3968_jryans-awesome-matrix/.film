@@ -1,0 +1,24 @@
+{
+  "reel_number": 3968,
+  "recorded": "2026-01-15 17:59:11 UTC",
+  "repository": {
+    "full_name": "jryans/awesome-matrix",
+    "url": "https://github.com/jryans/awesome-matrix",
+    "clone_url": "https://github.com/jryans/awesome-matrix.git",
+    "stars": 169,
+    "language": null,
+    "size_kb": 58
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.445596
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 169 stars."
+  }
+}

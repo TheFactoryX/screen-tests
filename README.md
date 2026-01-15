@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3967 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-15 |
+| #3968 | [jryans/awesome-matrix](https://github.com/jryans/awesome-matrix) | None · ⭐ 169 | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4033,3 +4033,4 @@ Or let GitHub Action run it automatically.
 | 3965 | 2026-01-15 16:02:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268293⭐ None) | [reels/reel_3965_awesome-selfhosted-awesome-selfhosted](reels/reel_3965_awesome-selfhosted-awesome-selfhosted) |
 | 3966 | 2026-01-15 16:53:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109411⭐ Rust) | [reels/reel_3966_rust-lang-rust](reels/reel_3966_rust-lang-rust) |
 | 3967 | 2026-01-15 17:30:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109663⭐ TypeScript) | [reels/reel_3967_iptv-org-iptv](reels/reel_3967_iptv-org-iptv) |
+| 3968 | 2026-01-15 17:59:11 | [jryans/awesome-matrix](https://github.com/jryans/awesome-matrix) | ✅ full (169⭐ None) | [reels/reel_3968_jryans-awesome-matrix](reels/reel_3968_jryans-awesome-matrix) |
