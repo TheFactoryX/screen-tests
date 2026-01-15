@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3976 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-15 |
+| #3977 | [amzn/emukit-playground](https://github.com/amzn/emukit-playground) | JavaScript · ⭐ 22 | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4042,3 +4042,4 @@ Or let GitHub Action run it automatically.
 | 3974 | 2026-01-15 20:49:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143613⭐ Python) | [reels/reel_3974_langflow-ai-langflow](reels/reel_3974_langflow-ai-langflow) |
 | 3975 | 2026-01-15 21:20:00 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109670⭐ TypeScript) | [reels/reel_3975_iptv-org-iptv](reels/reel_3975_iptv-org-iptv) |
 | 3976 | 2026-01-15 21:42:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268334⭐ None) | [reels/reel_3976_awesome-selfhosted-awesome-selfhosted](reels/reel_3976_awesome-selfhosted-awesome-selfhosted) |
+| 3977 | 2026-01-15 21:53:19 | [amzn/emukit-playground](https://github.com/amzn/emukit-playground) | ✅ full (22⭐ JavaScript) | [reels/reel_3977_amzn-emukit-playground](reels/reel_3977_amzn-emukit-playground) |
