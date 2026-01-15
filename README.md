@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3964 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 255k | 2026-01-15 |
+| #3965 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4030,3 +4030,4 @@ Or let GitHub Action run it automatically.
 | 3962 | 2026-01-15 14:31:02 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104695⭐ None) | [reels/reel_3962_Hack-with-Github-Awesome-Hacking](reels/reel_3962_Hack-with-Github-Awesome-Hacking) |
 | 3963 | 2026-01-15 14:57:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124268⭐ Python) | [reels/reel_3963_langchain-ai-langchain](reels/reel_3963_langchain-ai-langchain) |
 | 3964 | 2026-01-15 15:31:14 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255719⭐ None) | [reels/reel_3964_practical-tutorials-project-based-learning](reels/reel_3964_practical-tutorials-project-based-learning) |
+| 3965 | 2026-01-15 16:02:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268293⭐ None) | [reels/reel_3965_awesome-selfhosted-awesome-selfhosted](reels/reel_3965_awesome-selfhosted-awesome-selfhosted) |
