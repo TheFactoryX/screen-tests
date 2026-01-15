@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3942 | [NSM-Barii/NetCracker](https://github.com/NSM-Barii/NetCracker) | Python · ⭐ 16 | 2026-01-15 |
+| #3943 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4008,3 +4008,4 @@ Or let GitHub Action run it automatically.
 | 3940 | 2026-01-15 01:28:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181107⭐ Python) | [reels/reel_3940_Significant-Gravitas-AutoGPT](reels/reel_3940_Significant-Gravitas-AutoGPT) |
 | 3941 | 2026-01-15 03:19:07 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104789⭐ TypeScript) | [reels/reel_3941_shadcn-ui-ui](reels/reel_3941_shadcn-ui-ui) |
 | 3942 | 2026-01-15 04:26:20 | [NSM-Barii/NetCracker](https://github.com/NSM-Barii/NetCracker) | ✅ full (16⭐ Python) | [reels/reel_3942_NSM-Barii-NetCracker](reels/reel_3942_NSM-Barii-NetCracker) |
+| 3943 | 2026-01-15 04:58:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143558⭐ Python) | [reels/reel_3943_langflow-ai-langflow](reels/reel_3943_langflow-ai-langflow) |
