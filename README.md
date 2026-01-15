@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3972 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 104k | 2026-01-15 |
+| #3973 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4038,3 +4038,4 @@ Or let GitHub Action run it automatically.
 | 3970 | 2026-01-15 19:22:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124283⭐ Python) | [reels/reel_3970_langchain-ai-langchain](reels/reel_3970_langchain-ai-langchain) |
 | 3971 | 2026-01-15 19:44:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101342⭐ Rust) | [reels/reel_3971_tauri-apps-tauri](reels/reel_3971_tauri-apps-tauri) |
 | 3972 | 2026-01-15 19:56:47 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104711⭐ None) | [reels/reel_3972_Hack-with-Github-Awesome-Hacking](reels/reel_3972_Hack-with-Github-Awesome-Hacking) |
+| 3973 | 2026-01-15 20:28:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104858⭐ TypeScript) | [reels/reel_3973_shadcn-ui-ui](reels/reel_3973_shadcn-ui-ui) |
