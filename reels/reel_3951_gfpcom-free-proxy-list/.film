@@ -1,0 +1,24 @@
+{
+  "reel_number": 3951,
+  "recorded": "2026-01-15 08:56:26 UTC",
+  "repository": {
+    "full_name": "gfpcom/free-proxy-list",
+    "url": "https://github.com/gfpcom/free-proxy-list",
+    "clone_url": "https://github.com/gfpcom/free-proxy-list.git",
+    "stars": 152,
+    "language": "Go",
+    "size_kb": 35835
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 34,
+    "duration_seconds": 1.497543
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 152 stars."
+  }
+}
