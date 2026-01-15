@@ -1,0 +1,24 @@
+{
+  "reel_number": 3978,
+  "recorded": "2026-01-15 22:19:58 UTC",
+  "repository": {
+    "full_name": "Shubh2-0/EchoCharm",
+    "url": "https://github.com/Shubh2-0/EchoCharm",
+    "clone_url": "https://github.com/Shubh2-0/EchoCharm.git",
+    "stars": 11,
+    "language": "Python",
+    "size_kb": 3257
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.259452
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 11 stars."
+  }
+}
