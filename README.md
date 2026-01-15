@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3960 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-15 |
+| #3961 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4026,3 +4026,4 @@ Or let GitHub Action run it automatically.
 | 3958 | 2026-01-15 11:52:44 | [netxms/netxms](https://github.com/netxms/netxms) | ✅ shallow (312⭐ C++) | [reels/reel_3958_netxms-netxms](reels/reel_3958_netxms-netxms) |
 | 3959 | 2026-01-15 12:41:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109404⭐ Rust) | [reels/reel_3959_rust-lang-rust](reels/reel_3959_rust-lang-rust) |
 | 3960 | 2026-01-15 13:28:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268274⭐ None) | [reels/reel_3960_awesome-selfhosted-awesome-selfhosted](reels/reel_3960_awesome-selfhosted-awesome-selfhosted) |
+| 3961 | 2026-01-15 13:58:16 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101106⭐ Python) | [reels/reel_3961_deepseek-ai-DeepSeek-V3](reels/reel_3961_deepseek-ai-DeepSeek-V3) |
