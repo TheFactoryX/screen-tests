@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3951 | [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list) | Go · ⭐ 152 | 2026-01-15 |
+| #3952 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4017,3 +4017,4 @@ Or let GitHub Action run it automatically.
 | 3949 | 2026-01-15 07:52:40 | [mattjaybe/SillyTavern-EchoChamber](https://github.com/mattjaybe/SillyTavern-EchoChamber) | ✅ full (29⭐ JavaScript) | [reels/reel_3949_mattjaybe-SillyTavern-EchoChamber](reels/reel_3949_mattjaybe-SillyTavern-EchoChamber) |
 | 3950 | 2026-01-15 08:29:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120709⭐ Python) | [reels/reel_3950_open-webui-open-webui](reels/reel_3950_open-webui-open-webui) |
 | 3951 | 2026-01-15 08:56:26 | [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list) | ✅ full (152⭐ Go) | [reels/reel_3951_gfpcom-free-proxy-list](reels/reel_3951_gfpcom-free-proxy-list) |
+| 3952 | 2026-01-15 09:30:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109400⭐ Rust) | [reels/reel_3952_rust-lang-rust](reels/reel_3952_rust-lang-rust) |
