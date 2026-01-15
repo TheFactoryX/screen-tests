@@ -1,0 +1,24 @@
+{
+  "reel_number": 3949,
+  "recorded": "2026-01-15 07:52:40 UTC",
+  "repository": {
+    "full_name": "mattjaybe/SillyTavern-EchoChamber",
+    "url": "https://github.com/mattjaybe/SillyTavern-EchoChamber",
+    "clone_url": "https://github.com/mattjaybe/SillyTavern-EchoChamber.git",
+    "stars": 29,
+    "language": "JavaScript",
+    "size_kb": 258
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.175935
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 29 stars."
+  }
+}
