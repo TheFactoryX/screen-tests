@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3954 | [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) | C · ⭐ 843 | 2026-01-15 |
+| #3955 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4020,3 +4020,4 @@ Or let GitHub Action run it automatically.
 | 3952 | 2026-01-15 09:30:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109400⭐ Rust) | [reels/reel_3952_rust-lang-rust](reels/reel_3952_rust-lang-rust) |
 | 3953 | 2026-01-15 09:51:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143576⭐ Python) | [reels/reel_3953_langflow-ai-langflow](reels/reel_3953_langflow-ai-langflow) |
 | 3954 | 2026-01-15 10:23:05 | [apache/mynewt-nimble](https://github.com/apache/mynewt-nimble) | ✅ full (843⭐ C) | [reels/reel_3954_apache-mynewt-nimble](reels/reel_3954_apache-mynewt-nimble) |
+| 3955 | 2026-01-15 10:49:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124249⭐ Python) | [reels/reel_3955_langchain-ai-langchain](reels/reel_3955_langchain-ai-langchain) |
