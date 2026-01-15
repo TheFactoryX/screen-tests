@@ -1,0 +1,24 @@
+{
+  "reel_number": 3980,
+  "recorded": "2026-01-15 23:19:20 UTC",
+  "repository": {
+    "full_name": "Taliayaya/Project-86",
+    "url": "https://github.com/Taliayaya/Project-86",
+    "clone_url": "https://github.com/Taliayaya/Project-86.git",
+    "stars": 183,
+    "language": "C#",
+    "size_kb": 548217
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 535,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 183 stars."
+  }
+}
