@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3945 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | Shell · ⭐ 514 | 2026-01-15 |
+| #3946 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-15 |
 ---
 
 ## 🎭 Selection Process
@@ -4011,3 +4011,4 @@ Or let GitHub Action run it automatically.
 | 3943 | 2026-01-15 04:58:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143558⭐ Python) | [reels/reel_3943_langflow-ai-langflow](reels/reel_3943_langflow-ai-langflow) |
 | 3944 | 2026-01-15 05:32:55 | [MhdiTaheri/V2rayCollector_Py](https://github.com/MhdiTaheri/V2rayCollector_Py) | ✅ full (173⭐ Python) | [reels/reel_3944_MhdiTaheri-V2rayCollector_Py](reels/reel_3944_MhdiTaheri-V2rayCollector_Py) |
 | 3945 | 2026-01-15 05:54:45 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (514⭐ Shell) | [reels/reel_3945_Alvin9999-newpac-fanqiang](reels/reel_3945_Alvin9999-newpac-fanqiang) |
+| 3946 | 2026-01-15 06:31:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169073⭐ TypeScript) | [reels/reel_3946_n8n-io-n8n](reels/reel_3946_n8n-io-n8n) |
