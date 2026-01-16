@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4007 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-16 |
+| #4008 | [gabber235/Typewriter](https://github.com/gabber235/Typewriter) | Kotlin · ⭐ 403 | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4073,3 +4073,4 @@ Or let GitHub Action run it automatically.
 | 4005 | 2026-01-16 14:22:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104911⭐ TypeScript) | [reels/reel_4005_shadcn-ui-ui](reels/reel_4005_shadcn-ui-ui) |
 | 4006 | 2026-01-16 14:49:03 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (457183⭐ Markdown) | [reels/reel_4006_codecrafters-io-build-your-own-x](reels/reel_4006_codecrafters-io-build-your-own-x) |
 | 4007 | 2026-01-16 15:22:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169435⭐ TypeScript) | [reels/reel_4007_n8n-io-n8n](reels/reel_4007_n8n-io-n8n) |
+| 4008 | 2026-01-16 15:46:05 | [gabber235/Typewriter](https://github.com/gabber235/Typewriter) | ✅ readme_only (403⭐ Kotlin) | [reels/reel_4008_gabber235-Typewriter](reels/reel_4008_gabber235-Typewriter) |

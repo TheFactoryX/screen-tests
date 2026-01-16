@@ -1,0 +1,24 @@
+{
+  "reel_number": 4008,
+  "recorded": "2026-01-16 15:46:05 UTC",
+  "repository": {
+    "full_name": "gabber235/Typewriter",
+    "url": "https://github.com/gabber235/Typewriter",
+    "clone_url": "https://github.com/gabber235/Typewriter.git",
+    "stars": 403,
+    "language": "Kotlin",
+    "size_kb": 754149
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 736,
+    "duration_seconds": 0.000127
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 403 stars."
+  }
+}
