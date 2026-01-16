@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3997 | [ptthanhloi/awesome-hacker-engines](https://github.com/ptthanhloi/awesome-hacker-engines) | Python · ⭐ 11 | 2026-01-16 |
+| #3998 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4063,3 +4063,4 @@ Or let GitHub Action run it automatically.
 | 3995 | 2026-01-16 09:25:24 | [smyrgeorge/sqlx4k](https://github.com/smyrgeorge/sqlx4k) | ✅ full (269⭐ Kotlin) | [reels/reel_3995_smyrgeorge-sqlx4k](reels/reel_3995_smyrgeorge-sqlx4k) |
 | 3996 | 2026-01-16 09:48:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109693⭐ TypeScript) | [reels/reel_3996_iptv-org-iptv](reels/reel_3996_iptv-org-iptv) |
 | 3997 | 2026-01-16 10:21:54 | [ptthanhloi/awesome-hacker-engines](https://github.com/ptthanhloi/awesome-hacker-engines) | ✅ full (11⭐ Python) | [reels/reel_3997_ptthanhloi-awesome-hacker-engines](reels/reel_3997_ptthanhloi-awesome-hacker-engines) |
+| 3998 | 2026-01-16 10:48:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109440⭐ Rust) | [reels/reel_3998_rust-lang-rust](reels/reel_3998_rust-lang-rust) |
