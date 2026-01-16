@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4010 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-16 |
+| #4011 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 104k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4076,3 +4076,4 @@ Or let GitHub Action run it automatically.
 | 4008 | 2026-01-16 15:46:05 | [gabber235/Typewriter](https://github.com/gabber235/Typewriter) | ✅ readme_only (403⭐ Kotlin) | [reels/reel_4008_gabber235-Typewriter](reels/reel_4008_gabber235-Typewriter) |
 | 4009 | 2026-01-16 16:26:55 | [mlm-games/Mages](https://github.com/mlm-games/Mages) | ✅ full (39⭐ Kotlin) | [reels/reel_4009_mlm-games-Mages](reels/reel_4009_mlm-games-Mages) |
 | 4010 | 2026-01-16 16:54:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124345⭐ Python) | [reels/reel_4010_langchain-ai-langchain](reels/reel_4010_langchain-ai-langchain) |
+| 4011 | 2026-01-16 17:23:01 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104763⭐ None) | [reels/reel_4011_Hack-with-Github-Awesome-Hacking](reels/reel_4011_Hack-with-Github-Awesome-Hacking) |
