@@ -1,0 +1,24 @@
+{
+  "reel_number": 4020,
+  "recorded": "2026-01-16 20:55:06 UTC",
+  "repository": {
+    "full_name": "awslabs/aws-athena-query-federation",
+    "url": "https://github.com/awslabs/aws-athena-query-federation",
+    "clone_url": "https://github.com/awslabs/aws-athena-query-federation.git",
+    "stars": 601,
+    "language": "Java",
+    "size_kb": 92540
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 90,
+    "duration_seconds": 4.564455
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 601 stars."
+  }
+}

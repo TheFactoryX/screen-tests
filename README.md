@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4019 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-16 |
+| #4020 | [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation) | Java · ⭐ 601 | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4085,3 +4085,4 @@ Or let GitHub Action run it automatically.
 | 4017 | 2026-01-16 19:50:40 | [PAIR-code/lumi](https://github.com/PAIR-code/lumi) | ✅ full (167⭐ Python) | [reels/reel_4017_PAIR-code-lumi](reels/reel_4017_PAIR-code-lumi) |
 | 4018 | 2026-01-16 20:20:22 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255812⭐ None) | [reels/reel_4018_practical-tutorials-project-based-learning](reels/reel_4018_practical-tutorials-project-based-learning) |
 | 4019 | 2026-01-16 20:43:01 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102392⭐ Shell) | [reels/reel_4019_papers-we-love-papers-we-love](reels/reel_4019_papers-we-love-papers-we-love) |
+| 4020 | 2026-01-16 20:55:06 | [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation) | ✅ full (601⭐ Java) | [reels/reel_4020_awslabs-aws-athena-query-federation](reels/reel_4020_awslabs-aws-athena-query-federation) |
