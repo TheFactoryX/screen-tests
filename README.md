@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4021 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-16 |
+| #4022 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4087,3 +4087,4 @@ Or let GitHub Action run it automatically.
 | 4019 | 2026-01-16 20:43:01 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102392⭐ Shell) | [reels/reel_4019_papers-we-love-papers-we-love](reels/reel_4019_papers-we-love-papers-we-love) |
 | 4020 | 2026-01-16 20:55:06 | [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation) | ✅ full (601⭐ Java) | [reels/reel_4020_awslabs-aws-athena-query-federation](reels/reel_4020_awslabs-aws-athena-query-federation) |
 | 4021 | 2026-01-16 21:19:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104930⭐ TypeScript) | [reels/reel_4021_shadcn-ui-ui](reels/reel_4021_shadcn-ui-ui) |
+| 4022 | 2026-01-16 21:41:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109715⭐ TypeScript) | [reels/reel_4022_iptv-org-iptv](reels/reel_4022_iptv-org-iptv) |
