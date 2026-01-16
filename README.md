@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4017 | [PAIR-code/lumi](https://github.com/PAIR-code/lumi) | Python · ⭐ 167 | 2026-01-16 |
+| #4018 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 255k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4083,3 +4083,4 @@ Or let GitHub Action run it automatically.
 | 4015 | 2026-01-16 19:28:40 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109455⭐ Rust) | [reels/reel_4015_rust-lang-rust](reels/reel_4015_rust-lang-rust) |
 | 4016 | 2026-01-16 19:40:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124349⭐ Python) | [reels/reel_4016_langchain-ai-langchain](reels/reel_4016_langchain-ai-langchain) |
 | 4017 | 2026-01-16 19:50:40 | [PAIR-code/lumi](https://github.com/PAIR-code/lumi) | ✅ full (167⭐ Python) | [reels/reel_4017_PAIR-code-lumi](reels/reel_4017_PAIR-code-lumi) |
+| 4018 | 2026-01-16 20:20:22 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255812⭐ None) | [reels/reel_4018_practical-tutorials-project-based-learning](reels/reel_4018_practical-tutorials-project-based-learning) |
