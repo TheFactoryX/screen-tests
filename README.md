@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4000 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-16 |
+| #4001 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4066,3 +4066,4 @@ Or let GitHub Action run it automatically.
 | 3998 | 2026-01-16 10:48:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109440⭐ Rust) | [reels/reel_3998_rust-lang-rust](reels/reel_3998_rust-lang-rust) |
 | 3999 | 2026-01-16 11:18:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169394⭐ TypeScript) | [reels/reel_3999_n8n-io-n8n](reels/reel_3999_n8n-io-n8n) |
 | 4000 | 2026-01-16 11:41:39 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102377⭐ Shell) | [reels/reel_4000_papers-we-love-papers-we-love](reels/reel_4000_papers-we-love-papers-we-love) |
+| 4001 | 2026-01-16 11:52:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268425⭐ None) | [reels/reel_4001_awesome-selfhosted-awesome-selfhosted](reels/reel_4001_awesome-selfhosted-awesome-selfhosted) |
