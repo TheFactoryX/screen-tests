@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3985 | [khaphanspace/gonhanh.org](https://github.com/khaphanspace/gonhanh.org) | Rust · ⭐ 525 | 2026-01-16 |
+| #3986 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 141k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4051,3 +4051,4 @@ Or let GitHub Action run it automatically.
 | 3983 | 2026-01-16 01:39:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124290⭐ Python) | [reels/reel_3983_langchain-ai-langchain](reels/reel_3983_langchain-ai-langchain) |
 | 3984 | 2026-01-16 03:19:57 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (391246⭐ Python) | [reels/reel_3984_public-apis-public-apis](reels/reel_3984_public-apis-public-apis) |
 | 3985 | 2026-01-16 04:24:27 | [khaphanspace/gonhanh.org](https://github.com/khaphanspace/gonhanh.org) | ✅ full (525⭐ Rust) | [reels/reel_3985_khaphanspace-gonhanh.org](reels/reel_3985_khaphanspace-gonhanh.org) |
+| 3986 | 2026-01-16 04:56:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141930⭐ Python) | [reels/reel_3986_yt-dlp-yt-dlp](reels/reel_3986_yt-dlp-yt-dlp) |
