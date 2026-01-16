@@ -1,0 +1,24 @@
+{
+  "reel_number": 3990,
+  "recorded": "2026-01-16 07:01:41 UTC",
+  "repository": {
+    "full_name": "ondrej1024/carelink-python-client",
+    "url": "https://github.com/ondrej1024/carelink-python-client",
+    "clone_url": "https://github.com/ondrej1024/carelink-python-client.git",
+    "stars": 61,
+    "language": "Python",
+    "size_kb": 330
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.492544
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 61 stars."
+  }
+}
