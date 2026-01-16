@@ -1,0 +1,24 @@
+{
+  "reel_number": 4009,
+  "recorded": "2026-01-16 16:26:55 UTC",
+  "repository": {
+    "full_name": "mlm-games/Mages",
+    "url": "https://github.com/mlm-games/Mages",
+    "clone_url": "https://github.com/mlm-games/Mages.git",
+    "stars": 39,
+    "language": "Kotlin",
+    "size_kb": 3798
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.311403
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 39 stars."
+  }
+}
