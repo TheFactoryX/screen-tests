@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3982 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-15 |
+| #3983 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4048,3 +4048,4 @@ Or let GitHub Action run it automatically.
 | 3980 | 2026-01-15 23:19:20 | [Taliayaya/Project-86](https://github.com/Taliayaya/Project-86) | ✅ readme_only (183⭐ C#) | [reels/reel_3980_Taliayaya-Project-86](reels/reel_3980_Taliayaya-Project-86) |
 | 3981 | 2026-01-15 23:41:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181119⭐ Python) | [reels/reel_3981_Significant-Gravitas-AutoGPT](reels/reel_3981_Significant-Gravitas-AutoGPT) |
 | 3982 | 2026-01-15 23:51:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268351⭐ None) | [reels/reel_3982_awesome-selfhosted-awesome-selfhosted](reels/reel_3982_awesome-selfhosted-awesome-selfhosted) |
+| 3983 | 2026-01-16 01:39:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124290⭐ Python) | [reels/reel_3983_langchain-ai-langchain](reels/reel_3983_langchain-ai-langchain) |
