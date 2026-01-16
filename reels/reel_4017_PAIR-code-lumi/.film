@@ -1,0 +1,24 @@
+{
+  "reel_number": 4017,
+  "recorded": "2026-01-16 19:50:40 UTC",
+  "repository": {
+    "full_name": "PAIR-code/lumi",
+    "url": "https://github.com/PAIR-code/lumi",
+    "clone_url": "https://github.com/PAIR-code/lumi.git",
+    "stars": 167,
+    "language": "Python",
+    "size_kb": 9957
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.727801
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 167 stars."
+  }
+}
