@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4009 | [mlm-games/Mages](https://github.com/mlm-games/Mages) | Kotlin · ⭐ 39 | 2026-01-16 |
+| #4010 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4075,3 +4075,4 @@ Or let GitHub Action run it automatically.
 | 4007 | 2026-01-16 15:22:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169435⭐ TypeScript) | [reels/reel_4007_n8n-io-n8n](reels/reel_4007_n8n-io-n8n) |
 | 4008 | 2026-01-16 15:46:05 | [gabber235/Typewriter](https://github.com/gabber235/Typewriter) | ✅ readme_only (403⭐ Kotlin) | [reels/reel_4008_gabber235-Typewriter](reels/reel_4008_gabber235-Typewriter) |
 | 4009 | 2026-01-16 16:26:55 | [mlm-games/Mages](https://github.com/mlm-games/Mages) | ✅ full (39⭐ Kotlin) | [reels/reel_4009_mlm-games-Mages](reels/reel_4009_mlm-games-Mages) |
+| 4010 | 2026-01-16 16:54:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124345⭐ Python) | [reels/reel_4010_langchain-ai-langchain](reels/reel_4010_langchain-ai-langchain) |
