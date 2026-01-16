@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4002 | [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace) | TypeScript · ⭐ 137 | 2026-01-16 |
+| #4003 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4068,3 +4068,4 @@ Or let GitHub Action run it automatically.
 | 4000 | 2026-01-16 11:41:39 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102377⭐ Shell) | [reels/reel_4000_papers-we-love-papers-we-love](reels/reel_4000_papers-we-love-papers-we-love) |
 | 4001 | 2026-01-16 11:52:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268425⭐ None) | [reels/reel_4001_awesome-selfhosted-awesome-selfhosted](reels/reel_4001_awesome-selfhosted-awesome-selfhosted) |
 | 4002 | 2026-01-16 12:41:27 | [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace) | ✅ full (137⭐ TypeScript) | [reels/reel_4002_leochiu-a-slidev-workspace](reels/reel_4002_leochiu-a-slidev-workspace) |
+| 4003 | 2026-01-16 13:26:31 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143675⭐ Python) | [reels/reel_4003_langflow-ai-langflow](reels/reel_4003_langflow-ai-langflow) |
