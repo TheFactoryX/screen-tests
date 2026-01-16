@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4012 | [osy/XG_Mobile_Station](https://github.com/osy/XG_Mobile_Station) | C · ⭐ 608 | 2026-01-16 |
+| #4013 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4078,3 +4078,4 @@ Or let GitHub Action run it automatically.
 | 4010 | 2026-01-16 16:54:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124345⭐ Python) | [reels/reel_4010_langchain-ai-langchain](reels/reel_4010_langchain-ai-langchain) |
 | 4011 | 2026-01-16 17:23:01 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104763⭐ None) | [reels/reel_4011_Hack-with-Github-Awesome-Hacking](reels/reel_4011_Hack-with-Github-Awesome-Hacking) |
 | 4012 | 2026-01-16 17:47:17 | [osy/XG_Mobile_Station](https://github.com/osy/XG_Mobile_Station) | ✅ full (608⭐ C) | [reels/reel_4012_osy-XG_Mobile_Station](reels/reel_4012_osy-XG_Mobile_Station) |
+| 4013 | 2026-01-16 18:30:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143689⭐ Python) | [reels/reel_4013_langflow-ai-langflow](reels/reel_4013_langflow-ai-langflow) |
