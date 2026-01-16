@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4003 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-16 |
+| #4004 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4069,3 +4069,4 @@ Or let GitHub Action run it automatically.
 | 4001 | 2026-01-16 11:52:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268425⭐ None) | [reels/reel_4001_awesome-selfhosted-awesome-selfhosted](reels/reel_4001_awesome-selfhosted-awesome-selfhosted) |
 | 4002 | 2026-01-16 12:41:27 | [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace) | ✅ full (137⭐ TypeScript) | [reels/reel_4002_leochiu-a-slidev-workspace](reels/reel_4002_leochiu-a-slidev-workspace) |
 | 4003 | 2026-01-16 13:26:31 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143675⭐ Python) | [reels/reel_4003_langflow-ai-langflow](reels/reel_4003_langflow-ai-langflow) |
+| 4004 | 2026-01-16 13:55:18 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109443⭐ Rust) | [reels/reel_4004_rust-lang-rust](reels/reel_4004_rust-lang-rust) |
