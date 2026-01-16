@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3984 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 391k | 2026-01-16 |
+| #3985 | [khaphanspace/gonhanh.org](https://github.com/khaphanspace/gonhanh.org) | Rust · ⭐ 525 | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4050,3 +4050,4 @@ Or let GitHub Action run it automatically.
 | 3982 | 2026-01-15 23:51:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268351⭐ None) | [reels/reel_3982_awesome-selfhosted-awesome-selfhosted](reels/reel_3982_awesome-selfhosted-awesome-selfhosted) |
 | 3983 | 2026-01-16 01:39:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124290⭐ Python) | [reels/reel_3983_langchain-ai-langchain](reels/reel_3983_langchain-ai-langchain) |
 | 3984 | 2026-01-16 03:19:57 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (391246⭐ Python) | [reels/reel_3984_public-apis-public-apis](reels/reel_3984_public-apis-public-apis) |
+| 3985 | 2026-01-16 04:24:27 | [khaphanspace/gonhanh.org](https://github.com/khaphanspace/gonhanh.org) | ✅ full (525⭐ Rust) | [reels/reel_3985_khaphanspace-gonhanh.org](reels/reel_3985_khaphanspace-gonhanh.org) |
