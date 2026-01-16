@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4014 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-16 |
+| #4015 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4080,3 +4080,4 @@ Or let GitHub Action run it automatically.
 | 4012 | 2026-01-16 17:47:17 | [osy/XG_Mobile_Station](https://github.com/osy/XG_Mobile_Station) | ✅ full (608⭐ C) | [reels/reel_4012_osy-XG_Mobile_Station](reels/reel_4012_osy-XG_Mobile_Station) |
 | 4013 | 2026-01-16 18:30:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143689⭐ Python) | [reels/reel_4013_langflow-ai-langflow](reels/reel_4013_langflow-ai-langflow) |
 | 4014 | 2026-01-16 19:00:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268485⭐ None) | [reels/reel_4014_awesome-selfhosted-awesome-selfhosted](reels/reel_4014_awesome-selfhosted-awesome-selfhosted) |
+| 4015 | 2026-01-16 19:28:40 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109455⭐ Rust) | [reels/reel_4015_rust-lang-rust](reels/reel_4015_rust-lang-rust) |
