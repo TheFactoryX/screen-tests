@@ -1,0 +1,24 @@
+{
+  "reel_number": 3987,
+  "recorded": "2026-01-16 05:26:42 UTC",
+  "repository": {
+    "full_name": "marin-community/marin",
+    "url": "https://github.com/marin-community/marin",
+    "clone_url": "https://github.com/marin-community/marin.git",
+    "stars": 711,
+    "language": "HTML",
+    "size_kb": 71759
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 70,
+    "duration_seconds": 4.727541
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 711 stars."
+  }
+}
