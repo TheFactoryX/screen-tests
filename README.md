@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4023 | [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) | JavaScript · ⭐ 2k | 2026-01-16 |
+| #4024 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4089,3 +4089,4 @@ Or let GitHub Action run it automatically.
 | 4021 | 2026-01-16 21:19:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104930⭐ TypeScript) | [reels/reel_4021_shadcn-ui-ui](reels/reel_4021_shadcn-ui-ui) |
 | 4022 | 2026-01-16 21:41:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109715⭐ TypeScript) | [reels/reel_4022_iptv-org-iptv](reels/reel_4022_iptv-org-iptv) |
 | 4023 | 2026-01-16 21:52:38 | [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) | ✅ shallow (2841⭐ JavaScript) | [reels/reel_4023_phcode-dev-phoenix](reels/reel_4023_phcode-dev-phoenix) |
+| 4024 | 2026-01-16 22:19:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143698⭐ Python) | [reels/reel_4024_langflow-ai-langflow](reels/reel_4024_langflow-ai-langflow) |
