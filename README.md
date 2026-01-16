@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3998 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-16 |
+| #3999 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4064,3 +4064,4 @@ Or let GitHub Action run it automatically.
 | 3996 | 2026-01-16 09:48:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109693⭐ TypeScript) | [reels/reel_3996_iptv-org-iptv](reels/reel_3996_iptv-org-iptv) |
 | 3997 | 2026-01-16 10:21:54 | [ptthanhloi/awesome-hacker-engines](https://github.com/ptthanhloi/awesome-hacker-engines) | ✅ full (11⭐ Python) | [reels/reel_3997_ptthanhloi-awesome-hacker-engines](reels/reel_3997_ptthanhloi-awesome-hacker-engines) |
 | 3998 | 2026-01-16 10:48:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109440⭐ Rust) | [reels/reel_3998_rust-lang-rust](reels/reel_3998_rust-lang-rust) |
+| 3999 | 2026-01-16 11:18:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169394⭐ TypeScript) | [reels/reel_3999_n8n-io-n8n](reels/reel_3999_n8n-io-n8n) |
