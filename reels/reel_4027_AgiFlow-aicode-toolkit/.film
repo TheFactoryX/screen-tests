@@ -1,0 +1,24 @@
+{
+  "reel_number": 4027,
+  "recorded": "2026-01-16 23:19:49 UTC",
+  "repository": {
+    "full_name": "AgiFlow/aicode-toolkit",
+    "url": "https://github.com/AgiFlow/aicode-toolkit",
+    "clone_url": "https://github.com/AgiFlow/aicode-toolkit.git",
+    "stars": 122,
+    "language": "TypeScript",
+    "size_kb": 2576
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.554906
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 122 stars."
+  }
+}

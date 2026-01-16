@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4026 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-16 |
+| #4027 | [AgiFlow/aicode-toolkit](https://github.com/AgiFlow/aicode-toolkit) | TypeScript · ⭐ 122 | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4092,3 +4092,4 @@ Or let GitHub Action run it automatically.
 | 4024 | 2026-01-16 22:19:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143698⭐ Python) | [reels/reel_4024_langflow-ai-langflow](reels/reel_4024_langflow-ai-langflow) |
 | 4025 | 2026-01-16 22:45:07 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181156⭐ Python) | [reels/reel_4025_Significant-Gravitas-AutoGPT](reels/reel_4025_Significant-Gravitas-AutoGPT) |
 | 4026 | 2026-01-16 22:55:43 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124357⭐ Python) | [reels/reel_4026_langchain-ai-langchain](reels/reel_4026_langchain-ai-langchain) |
+| 4027 | 2026-01-16 23:19:49 | [AgiFlow/aicode-toolkit](https://github.com/AgiFlow/aicode-toolkit) | ✅ full (122⭐ TypeScript) | [reels/reel_4027_AgiFlow-aicode-toolkit](reels/reel_4027_AgiFlow-aicode-toolkit) |
