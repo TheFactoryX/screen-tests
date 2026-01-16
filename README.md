@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4006 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 457k | 2026-01-16 |
+| #4007 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4072,3 +4072,4 @@ Or let GitHub Action run it automatically.
 | 4004 | 2026-01-16 13:55:18 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109443⭐ Rust) | [reels/reel_4004_rust-lang-rust](reels/reel_4004_rust-lang-rust) |
 | 4005 | 2026-01-16 14:22:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104911⭐ TypeScript) | [reels/reel_4005_shadcn-ui-ui](reels/reel_4005_shadcn-ui-ui) |
 | 4006 | 2026-01-16 14:49:03 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (457183⭐ Markdown) | [reels/reel_4006_codecrafters-io-build-your-own-x](reels/reel_4006_codecrafters-io-build-your-own-x) |
+| 4007 | 2026-01-16 15:22:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169435⭐ TypeScript) | [reels/reel_4007_n8n-io-n8n](reels/reel_4007_n8n-io-n8n) |
