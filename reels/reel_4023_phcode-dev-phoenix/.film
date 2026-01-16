@@ -1,0 +1,24 @@
+{
+  "reel_number": 4023,
+  "recorded": "2026-01-16 21:52:38 UTC",
+  "repository": {
+    "full_name": "phcode-dev/phoenix",
+    "url": "https://github.com/phcode-dev/phoenix",
+    "clone_url": "https://github.com/phcode-dev/phoenix.git",
+    "stars": 2841,
+    "language": "JavaScript",
+    "size_kb": 202148
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 197,
+    "duration_seconds": 2.142159
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 2841 stars."
+  }
+}
