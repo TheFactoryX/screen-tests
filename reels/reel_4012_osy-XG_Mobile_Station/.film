@@ -1,0 +1,24 @@
+{
+  "reel_number": 4012,
+  "recorded": "2026-01-16 17:47:17 UTC",
+  "repository": {
+    "full_name": "osy/XG_Mobile_Station",
+    "url": "https://github.com/osy/XG_Mobile_Station",
+    "clone_url": "https://github.com/osy/XG_Mobile_Station.git",
+    "stars": 608,
+    "language": "C",
+    "size_kb": 50659
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 49,
+    "duration_seconds": 2.428495
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 608 stars."
+  }
+}
