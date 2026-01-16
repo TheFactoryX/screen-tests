@@ -1,0 +1,24 @@
+{
+  "reel_number": 3995,
+  "recorded": "2026-01-16 09:25:24 UTC",
+  "repository": {
+    "full_name": "smyrgeorge/sqlx4k",
+    "url": "https://github.com/smyrgeorge/sqlx4k",
+    "clone_url": "https://github.com/smyrgeorge/sqlx4k.git",
+    "stars": 269,
+    "language": "Kotlin",
+    "size_kb": 9621
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 1.279712
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 269 stars."
+  }
+}
