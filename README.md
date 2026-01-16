@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3990 | [ondrej1024/carelink-python-client](https://github.com/ondrej1024/carelink-python-client) | Python · ⭐ 61 | 2026-01-16 |
+| #3991 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4056,3 +4056,4 @@ Or let GitHub Action run it automatically.
 | 3988 | 2026-01-16 05:49:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268385⭐ None) | [reels/reel_3988_awesome-selfhosted-awesome-selfhosted](reels/reel_3988_awesome-selfhosted-awesome-selfhosted) |
 | 3989 | 2026-01-16 06:32:05 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (457075⭐ Markdown) | [reels/reel_3989_codecrafters-io-build-your-own-x](reels/reel_3989_codecrafters-io-build-your-own-x) |
 | 3990 | 2026-01-16 07:01:41 | [ondrej1024/carelink-python-client](https://github.com/ondrej1024/carelink-python-client) | ✅ full (61⭐ Python) | [reels/reel_3990_ondrej1024-carelink-python-client](reels/reel_3990_ondrej1024-carelink-python-client) |
+| 3991 | 2026-01-16 07:36:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104887⭐ TypeScript) | [reels/reel_3991_shadcn-ui-ui](reels/reel_3991_shadcn-ui-ui) |
