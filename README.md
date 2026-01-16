@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3983 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-16 |
+| #3984 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 391k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4049,3 +4049,4 @@ Or let GitHub Action run it automatically.
 | 3981 | 2026-01-15 23:41:29 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181119⭐ Python) | [reels/reel_3981_Significant-Gravitas-AutoGPT](reels/reel_3981_Significant-Gravitas-AutoGPT) |
 | 3982 | 2026-01-15 23:51:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268351⭐ None) | [reels/reel_3982_awesome-selfhosted-awesome-selfhosted](reels/reel_3982_awesome-selfhosted-awesome-selfhosted) |
 | 3983 | 2026-01-16 01:39:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124290⭐ Python) | [reels/reel_3983_langchain-ai-langchain](reels/reel_3983_langchain-ai-langchain) |
+| 3984 | 2026-01-16 03:19:57 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (391246⭐ Python) | [reels/reel_3984_public-apis-public-apis](reels/reel_3984_public-apis-public-apis) |
