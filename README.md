@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #3987 | [marin-community/marin](https://github.com/marin-community/marin) | HTML · ⭐ 711 | 2026-01-16 |
+| #3988 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-16 |
 ---
 
 ## 🎭 Selection Process
@@ -4053,3 +4053,4 @@ Or let GitHub Action run it automatically.
 | 3985 | 2026-01-16 04:24:27 | [khaphanspace/gonhanh.org](https://github.com/khaphanspace/gonhanh.org) | ✅ full (525⭐ Rust) | [reels/reel_3985_khaphanspace-gonhanh.org](reels/reel_3985_khaphanspace-gonhanh.org) |
 | 3986 | 2026-01-16 04:56:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (141930⭐ Python) | [reels/reel_3986_yt-dlp-yt-dlp](reels/reel_3986_yt-dlp-yt-dlp) |
 | 3987 | 2026-01-16 05:26:42 | [marin-community/marin](https://github.com/marin-community/marin) | ✅ full (711⭐ HTML) | [reels/reel_3987_marin-community-marin](reels/reel_3987_marin-community-marin) |
+| 3988 | 2026-01-16 05:49:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268385⭐ None) | [reels/reel_3988_awesome-selfhosted-awesome-selfhosted](reels/reel_3988_awesome-selfhosted-awesome-selfhosted) |
