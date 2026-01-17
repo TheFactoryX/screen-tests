@@ -1,0 +1,24 @@
+{
+  "reel_number": 4085,
+  "recorded": "2026-01-17 23:50:22 UTC",
+  "repository": {
+    "full_name": "microsoft/vscode-languagedetection",
+    "url": "https://github.com/microsoft/vscode-languagedetection",
+    "clone_url": "https://github.com/microsoft/vscode-languagedetection.git",
+    "stars": 159,
+    "language": "TypeScript",
+    "size_kb": 5309
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.371318
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 159 stars."
+  }
+}
