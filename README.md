@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4035 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-17 |
+| #4036 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4101,3 +4101,4 @@ Or let GitHub Action run it automatically.
 | 4033 | 2026-01-17 04:44:25 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268553⭐ None) | [reels/reel_4033_awesome-selfhosted-awesome-selfhosted](reels/reel_4033_awesome-selfhosted-awesome-selfhosted) |
 | 4034 | 2026-01-17 04:59:37 | [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) | ✅ full (44⭐ HTML) | [reels/reel_4034_dougdotcon-QubitSim](reels/reel_4034_dougdotcon-QubitSim) |
 | 4035 | 2026-01-17 05:29:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120920⭐ Python) | [reels/reel_4035_open-webui-open-webui](reels/reel_4035_open-webui-open-webui) |
+| 4036 | 2026-01-17 05:46:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109726⭐ TypeScript) | [reels/reel_4036_iptv-org-iptv](reels/reel_4036_iptv-org-iptv) |
