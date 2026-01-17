@@ -1,0 +1,24 @@
+{
+  "reel_number": 4039,
+  "recorded": "2026-01-17 07:18:07 UTC",
+  "repository": {
+    "full_name": "vertyco/vrt-cogs",
+    "url": "https://github.com/vertyco/vrt-cogs",
+    "clone_url": "https://github.com/vertyco/vrt-cogs.git",
+    "stars": 70,
+    "language": "Python",
+    "size_kb": 118413
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 115,
+    "duration_seconds": 0.964762
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 70 stars."
+  }
+}
