@@ -1,0 +1,24 @@
+{
+  "reel_number": 4084,
+  "recorded": "2026-01-17 23:39:37 UTC",
+  "repository": {
+    "full_name": "goodroot/hyprwhspr",
+    "url": "https://github.com/goodroot/hyprwhspr",
+    "clone_url": "https://github.com/goodroot/hyprwhspr.git",
+    "stars": 725,
+    "language": "Python",
+    "size_kb": 1165
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.500316
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 725 stars."
+  }
+}
