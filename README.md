@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4034 | [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) | HTML · ⭐ 44 | 2026-01-17 |
+| #4035 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 120k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4100,3 +4100,4 @@ Or let GitHub Action run it automatically.
 | 4032 | 2026-01-17 04:07:30 | [openresty/stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) | ✅ full (746⭐ C) | [reels/reel_4032_openresty-stream-lua-nginx-module](reels/reel_4032_openresty-stream-lua-nginx-module) |
 | 4033 | 2026-01-17 04:44:25 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268553⭐ None) | [reels/reel_4033_awesome-selfhosted-awesome-selfhosted](reels/reel_4033_awesome-selfhosted-awesome-selfhosted) |
 | 4034 | 2026-01-17 04:59:37 | [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) | ✅ full (44⭐ HTML) | [reels/reel_4034_dougdotcon-QubitSim](reels/reel_4034_dougdotcon-QubitSim) |
+| 4035 | 2026-01-17 05:29:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120920⭐ Python) | [reels/reel_4035_open-webui-open-webui](reels/reel_4035_open-webui-open-webui) |
