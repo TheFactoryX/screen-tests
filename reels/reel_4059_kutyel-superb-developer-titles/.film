@@ -1,0 +1,24 @@
+{
+  "reel_number": 4059,
+  "recorded": "2026-01-17 15:18:16 UTC",
+  "repository": {
+    "full_name": "kutyel/superb-developer-titles",
+    "url": "https://github.com/kutyel/superb-developer-titles",
+    "clone_url": "https://github.com/kutyel/superb-developer-titles.git",
+    "stars": 19,
+    "language": "JavaScript",
+    "size_kb": 130
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.243071
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 19 stars."
+  }
+}
