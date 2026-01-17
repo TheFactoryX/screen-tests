@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4071 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 142k | 2026-01-17 |
+| #4072 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 142k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4137,3 +4137,4 @@ Or let GitHub Action run it automatically.
 | 4069 | 2026-01-17 18:50:52 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101146⭐ Python) | [reels/reel_4069_deepseek-ai-DeepSeek-V3](reels/reel_4069_deepseek-ai-DeepSeek-V3) |
 | 4070 | 2026-01-17 19:14:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143785⭐ Python) | [reels/reel_4070_langflow-ai-langflow](reels/reel_4070_langflow-ai-langflow) |
 | 4071 | 2026-01-17 19:28:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142158⭐ Python) | [reels/reel_4071_yt-dlp-yt-dlp](reels/reel_4071_yt-dlp-yt-dlp) |
+| 4072 | 2026-01-17 19:39:58 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142159⭐ Python) | [reels/reel_4072_yt-dlp-yt-dlp](reels/reel_4072_yt-dlp-yt-dlp) |
