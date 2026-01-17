@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4064 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-17 |
+| #4065 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4130,3 +4130,4 @@ Or let GitHub Action run it automatically.
 | 4062 | 2026-01-17 16:21:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268637⭐ None) | [reels/reel_4062_awesome-selfhosted-awesome-selfhosted](reels/reel_4062_awesome-selfhosted-awesome-selfhosted) |
 | 4063 | 2026-01-17 16:45:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124415⭐ Python) | [reels/reel_4063_langchain-ai-langchain](reels/reel_4063_langchain-ai-langchain) |
 | 4064 | 2026-01-17 16:56:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109479⭐ Rust) | [reels/reel_4064_rust-lang-rust](reels/reel_4064_rust-lang-rust) |
+| 4065 | 2026-01-17 17:18:27 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104976⭐ TypeScript) | [reels/reel_4065_shadcn-ui-ui](reels/reel_4065_shadcn-ui-ui) |
