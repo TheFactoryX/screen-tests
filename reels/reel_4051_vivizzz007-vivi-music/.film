@@ -1,0 +1,24 @@
+{
+  "reel_number": 4051,
+  "recorded": "2026-01-17 11:37:47 UTC",
+  "repository": {
+    "full_name": "vivizzz007/vivi-music",
+    "url": "https://github.com/vivizzz007/vivi-music",
+    "clone_url": "https://github.com/vivizzz007/vivi-music.git",
+    "stars": 485,
+    "language": "Kotlin",
+    "size_kb": 95307
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 93,
+    "duration_seconds": 2.494306
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 485 stars."
+  }
+}
