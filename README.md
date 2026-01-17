@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4079 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-17 |
+| #4080 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4145,3 +4145,4 @@ Or let GitHub Action run it automatically.
 | 4077 | 2026-01-17 21:16:43 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (391462⭐ Python) | [reels/reel_4077_public-apis-public-apis](reels/reel_4077_public-apis-public-apis) |
 | 4078 | 2026-01-17 21:38:54 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (100526⭐ Python) | [reels/reel_4078_Comfy-Org-ComfyUI](reels/reel_4078_Comfy-Org-ComfyUI) |
 | 4079 | 2026-01-17 21:49:40 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109480⭐ Rust) | [reels/reel_4079_rust-lang-rust](reels/reel_4079_rust-lang-rust) |
+| 4080 | 2026-01-17 22:18:09 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143791⭐ Python) | [reels/reel_4080_langflow-ai-langflow](reels/reel_4080_langflow-ai-langflow) |
