@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4076 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-17 |
+| #4077 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 391k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4142,3 +4142,4 @@ Or let GitHub Action run it automatically.
 | 4074 | 2026-01-17 20:20:23 | [trezor/trezor-suite](https://github.com/trezor/trezor-suite) | ✅ readme_only (943⭐ TypeScript) | [reels/reel_4074_trezor-trezor-suite](reels/reel_4074_trezor-trezor-suite) |
 | 4075 | 2026-01-17 20:42:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169610⭐ TypeScript) | [reels/reel_4075_n8n-io-n8n](reels/reel_4075_n8n-io-n8n) |
 | 4076 | 2026-01-17 20:52:44 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109480⭐ Rust) | [reels/reel_4076_rust-lang-rust](reels/reel_4076_rust-lang-rust) |
+| 4077 | 2026-01-17 21:16:43 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (391462⭐ Python) | [reels/reel_4077_public-apis-public-apis](reels/reel_4077_public-apis-public-apis) |
