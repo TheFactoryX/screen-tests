@@ -1,0 +1,24 @@
+{
+  "reel_number": 4058,
+  "recorded": "2026-01-17 14:52:22 UTC",
+  "repository": {
+    "full_name": "yumata/lampa-source",
+    "url": "https://github.com/yumata/lampa-source",
+    "clone_url": "https://github.com/yumata/lampa-source.git",
+    "stars": 278,
+    "language": "JavaScript",
+    "size_kb": 13016
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.11127
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 278 stars."
+  }
+}
