@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4043 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-17 |
+| #4044 | [juev/awesome-stars](https://github.com/juev/awesome-stars) | None · ⭐ 28 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4109,3 +4109,4 @@ Or let GitHub Action run it automatically.
 | 4041 | 2026-01-17 07:49:35 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (206⭐ Python) | [reels/reel_4041_tom-doerr-repo_posts](reels/reel_4041_tom-doerr-repo_posts) |
 | 4042 | 2026-01-17 08:24:03 | [iiDk-the-actual/iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) | ✅ readme_only (180⭐ C#) | [reels/reel_4042_iiDk-the-actual-iis.Stupid.Menu](reels/reel_4042_iiDk-the-actual-iis.Stupid.Menu) |
 | 4043 | 2026-01-17 08:47:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124383⭐ Python) | [reels/reel_4043_langchain-ai-langchain](reels/reel_4043_langchain-ai-langchain) |
+| 4044 | 2026-01-17 09:18:35 | [juev/awesome-stars](https://github.com/juev/awesome-stars) | ✅ full (28⭐ None) | [reels/reel_4044_juev-awesome-stars](reels/reel_4044_juev-awesome-stars) |

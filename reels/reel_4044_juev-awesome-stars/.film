@@ -1,0 +1,24 @@
+{
+  "reel_number": 4044,
+  "recorded": "2026-01-17 09:18:35 UTC",
+  "repository": {
+    "full_name": "juev/awesome-stars",
+    "url": "https://github.com/juev/awesome-stars",
+    "clone_url": "https://github.com/juev/awesome-stars.git",
+    "stars": 28,
+    "language": null,
+    "size_kb": 5395
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.106172
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 28 stars."
+  }
+}
