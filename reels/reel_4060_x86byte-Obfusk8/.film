@@ -1,0 +1,24 @@
+{
+  "reel_number": 4060,
+  "recorded": "2026-01-17 15:40:29 UTC",
+  "repository": {
+    "full_name": "x86byte/Obfusk8",
+    "url": "https://github.com/x86byte/Obfusk8",
+    "clone_url": "https://github.com/x86byte/Obfusk8.git",
+    "stars": 542,
+    "language": "C++",
+    "size_kb": 179
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.134009
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 542 stars."
+  }
+}

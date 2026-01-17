@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4059 | [kutyel/superb-developer-titles](https://github.com/kutyel/superb-developer-titles) | JavaScript · ⭐ 19 | 2026-01-17 |
+| #4060 | [x86byte/Obfusk8](https://github.com/x86byte/Obfusk8) | C++ · ⭐ 542 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4125,3 +4125,4 @@ Or let GitHub Action run it automatically.
 | 4057 | 2026-01-17 14:42:00 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143755⭐ Python) | [reels/reel_4057_langflow-ai-langflow](reels/reel_4057_langflow-ai-langflow) |
 | 4058 | 2026-01-17 14:52:22 | [yumata/lampa-source](https://github.com/yumata/lampa-source) | ✅ full (278⭐ JavaScript) | [reels/reel_4058_yumata-lampa-source](reels/reel_4058_yumata-lampa-source) |
 | 4059 | 2026-01-17 15:18:16 | [kutyel/superb-developer-titles](https://github.com/kutyel/superb-developer-titles) | ✅ full (19⭐ JavaScript) | [reels/reel_4059_kutyel-superb-developer-titles](reels/reel_4059_kutyel-superb-developer-titles) |
+| 4060 | 2026-01-17 15:40:29 | [x86byte/Obfusk8](https://github.com/x86byte/Obfusk8) | ✅ full (542⭐ C++) | [reels/reel_4060_x86byte-Obfusk8](reels/reel_4060_x86byte-Obfusk8) |
