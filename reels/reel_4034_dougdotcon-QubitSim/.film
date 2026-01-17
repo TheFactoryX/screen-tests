@@ -1,0 +1,24 @@
+{
+  "reel_number": 4034,
+  "recorded": "2026-01-17 04:59:37 UTC",
+  "repository": {
+    "full_name": "dougdotcon/QubitSim",
+    "url": "https://github.com/dougdotcon/QubitSim",
+    "clone_url": "https://github.com/dougdotcon/QubitSim.git",
+    "stars": 44,
+    "language": "HTML",
+    "size_kb": 10155
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.557015
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 44 stars."
+  }
+}
