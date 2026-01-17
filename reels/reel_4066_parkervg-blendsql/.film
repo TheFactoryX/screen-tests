@@ -1,0 +1,24 @@
+{
+  "reel_number": 4066,
+  "recorded": "2026-01-17 17:39:34 UTC",
+  "repository": {
+    "full_name": "parkervg/blendsql",
+    "url": "https://github.com/parkervg/blendsql",
+    "clone_url": "https://github.com/parkervg/blendsql.git",
+    "stars": 155,
+    "language": "Python",
+    "size_kb": 20598
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 1.605367
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 155 stars."
+  }
+}

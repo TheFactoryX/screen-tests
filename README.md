@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4065 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 104k | 2026-01-17 |
+| #4066 | [parkervg/blendsql](https://github.com/parkervg/blendsql) | Python · ⭐ 155 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4131,3 +4131,4 @@ Or let GitHub Action run it automatically.
 | 4063 | 2026-01-17 16:45:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124415⭐ Python) | [reels/reel_4063_langchain-ai-langchain](reels/reel_4063_langchain-ai-langchain) |
 | 4064 | 2026-01-17 16:56:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109479⭐ Rust) | [reels/reel_4064_rust-lang-rust](reels/reel_4064_rust-lang-rust) |
 | 4065 | 2026-01-17 17:18:27 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104976⭐ TypeScript) | [reels/reel_4065_shadcn-ui-ui](reels/reel_4065_shadcn-ui-ui) |
+| 4066 | 2026-01-17 17:39:34 | [parkervg/blendsql](https://github.com/parkervg/blendsql) | ✅ full (155⭐ Python) | [reels/reel_4066_parkervg-blendsql](reels/reel_4066_parkervg-blendsql) |
