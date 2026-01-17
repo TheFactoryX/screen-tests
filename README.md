@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4044 | [juev/awesome-stars](https://github.com/juev/awesome-stars) | None · ⭐ 28 | 2026-01-17 |
+| #4045 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4110,3 +4110,4 @@ Or let GitHub Action run it automatically.
 | 4042 | 2026-01-17 08:24:03 | [iiDk-the-actual/iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) | ✅ readme_only (180⭐ C#) | [reels/reel_4042_iiDk-the-actual-iis.Stupid.Menu](reels/reel_4042_iiDk-the-actual-iis.Stupid.Menu) |
 | 4043 | 2026-01-17 08:47:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124383⭐ Python) | [reels/reel_4043_langchain-ai-langchain](reels/reel_4043_langchain-ai-langchain) |
 | 4044 | 2026-01-17 09:18:35 | [juev/awesome-stars](https://github.com/juev/awesome-stars) | ✅ full (28⭐ None) | [reels/reel_4044_juev-awesome-stars](reels/reel_4044_juev-awesome-stars) |
+| 4045 | 2026-01-17 09:40:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181168⭐ Python) | [reels/reel_4045_Significant-Gravitas-AutoGPT](reels/reel_4045_Significant-Gravitas-AutoGPT) |
