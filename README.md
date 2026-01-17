@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4036 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-17 |
+| #4037 | [NilsSlui/csv-worldmap](https://github.com/NilsSlui/csv-worldmap) | Python · ⭐ 42 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4102,3 +4102,4 @@ Or let GitHub Action run it automatically.
 | 4034 | 2026-01-17 04:59:37 | [dougdotcon/QubitSim](https://github.com/dougdotcon/QubitSim) | ✅ full (44⭐ HTML) | [reels/reel_4034_dougdotcon-QubitSim](reels/reel_4034_dougdotcon-QubitSim) |
 | 4035 | 2026-01-17 05:29:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120920⭐ Python) | [reels/reel_4035_open-webui-open-webui](reels/reel_4035_open-webui-open-webui) |
 | 4036 | 2026-01-17 05:46:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109726⭐ TypeScript) | [reels/reel_4036_iptv-org-iptv](reels/reel_4036_iptv-org-iptv) |
+| 4037 | 2026-01-17 06:28:43 | [NilsSlui/csv-worldmap](https://github.com/NilsSlui/csv-worldmap) | ✅ full (42⭐ Python) | [reels/reel_4037_NilsSlui-csv-worldmap](reels/reel_4037_NilsSlui-csv-worldmap) |

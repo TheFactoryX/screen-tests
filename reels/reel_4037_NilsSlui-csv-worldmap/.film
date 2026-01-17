@@ -1,0 +1,24 @@
+{
+  "reel_number": 4037,
+  "recorded": "2026-01-17 06:28:43 UTC",
+  "repository": {
+    "full_name": "NilsSlui/csv-worldmap",
+    "url": "https://github.com/NilsSlui/csv-worldmap",
+    "clone_url": "https://github.com/NilsSlui/csv-worldmap.git",
+    "stars": 42,
+    "language": "Python",
+    "size_kb": 302
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.997277
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 42 stars."
+  }
+}
