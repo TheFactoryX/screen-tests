@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4031 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-17 |
+| #4032 | [openresty/stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) | C · ⭐ 746 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4097,3 +4097,4 @@ Or let GitHub Action run it automatically.
 | 4029 | 2026-01-16 23:51:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268521⭐ None) | [reels/reel_4029_awesome-selfhosted-awesome-selfhosted](reels/reel_4029_awesome-selfhosted-awesome-selfhosted) |
 | 4030 | 2026-01-17 01:26:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169482⭐ TypeScript) | [reels/reel_4030_n8n-io-n8n](reels/reel_4030_n8n-io-n8n) |
 | 4031 | 2026-01-17 03:09:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109722⭐ TypeScript) | [reels/reel_4031_iptv-org-iptv](reels/reel_4031_iptv-org-iptv) |
+| 4032 | 2026-01-17 04:07:30 | [openresty/stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) | ✅ full (746⭐ C) | [reels/reel_4032_openresty-stream-lua-nginx-module](reels/reel_4032_openresty-stream-lua-nginx-module) |

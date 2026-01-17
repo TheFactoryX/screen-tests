@@ -1,0 +1,24 @@
+{
+  "reel_number": 4032,
+  "recorded": "2026-01-17 04:07:30 UTC",
+  "repository": {
+    "full_name": "openresty/stream-lua-nginx-module",
+    "url": "https://github.com/openresty/stream-lua-nginx-module",
+    "clone_url": "https://github.com/openresty/stream-lua-nginx-module.git",
+    "stars": 746,
+    "language": "C",
+    "size_kb": 1688
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.440836
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 746 stars."
+  }
+}
