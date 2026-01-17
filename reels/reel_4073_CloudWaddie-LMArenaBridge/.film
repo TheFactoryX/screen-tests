@@ -1,0 +1,24 @@
+{
+  "reel_number": 4073,
+  "recorded": "2026-01-17 19:49:41 UTC",
+  "repository": {
+    "full_name": "CloudWaddie/LMArenaBridge",
+    "url": "https://github.com/CloudWaddie/LMArenaBridge",
+    "clone_url": "https://github.com/CloudWaddie/LMArenaBridge.git",
+    "stars": 102,
+    "language": "Python",
+    "size_kb": 1890
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.583935
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 102 stars."
+  }
+}

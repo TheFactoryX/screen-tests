@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4072 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 142k | 2026-01-17 |
+| #4073 | [CloudWaddie/LMArenaBridge](https://github.com/CloudWaddie/LMArenaBridge) | Python · ⭐ 102 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4138,3 +4138,4 @@ Or let GitHub Action run it automatically.
 | 4070 | 2026-01-17 19:14:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143785⭐ Python) | [reels/reel_4070_langflow-ai-langflow](reels/reel_4070_langflow-ai-langflow) |
 | 4071 | 2026-01-17 19:28:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142158⭐ Python) | [reels/reel_4071_yt-dlp-yt-dlp](reels/reel_4071_yt-dlp-yt-dlp) |
 | 4072 | 2026-01-17 19:39:58 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142159⭐ Python) | [reels/reel_4072_yt-dlp-yt-dlp](reels/reel_4072_yt-dlp-yt-dlp) |
+| 4073 | 2026-01-17 19:49:41 | [CloudWaddie/LMArenaBridge](https://github.com/CloudWaddie/LMArenaBridge) | ✅ full (102⭐ Python) | [reels/reel_4073_CloudWaddie-LMArenaBridge](reels/reel_4073_CloudWaddie-LMArenaBridge) |
