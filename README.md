@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4047 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-17 |
+| #4048 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 142k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4113,3 +4113,4 @@ Or let GitHub Action run it automatically.
 | 4045 | 2026-01-17 09:40:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181168⭐ Python) | [reels/reel_4045_Significant-Gravitas-AutoGPT](reels/reel_4045_Significant-Gravitas-AutoGPT) |
 | 4046 | 2026-01-17 09:50:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268594⭐ None) | [reels/reel_4046_awesome-selfhosted-awesome-selfhosted](reels/reel_4046_awesome-selfhosted-awesome-selfhosted) |
 | 4047 | 2026-01-17 10:18:40 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97272⭐ TypeScript) | [reels/reel_4047_ant-design-ant-design](reels/reel_4047_ant-design-ant-design) |
+| 4048 | 2026-01-17 10:43:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142101⭐ Python) | [reels/reel_4048_yt-dlp-yt-dlp](reels/reel_4048_yt-dlp-yt-dlp) |
