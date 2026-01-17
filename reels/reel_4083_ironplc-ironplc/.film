@@ -1,0 +1,24 @@
+{
+  "reel_number": 4083,
+  "recorded": "2026-01-17 23:17:34 UTC",
+  "repository": {
+    "full_name": "ironplc/ironplc",
+    "url": "https://github.com/ironplc/ironplc",
+    "clone_url": "https://github.com/ironplc/ironplc.git",
+    "stars": 59,
+    "language": "Rust",
+    "size_kb": 5174
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.991201
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 59 stars."
+  }
+}
