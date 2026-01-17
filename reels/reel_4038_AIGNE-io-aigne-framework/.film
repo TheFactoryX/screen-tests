@@ -1,0 +1,24 @@
+{
+  "reel_number": 4038,
+  "recorded": "2026-01-17 06:53:59 UTC",
+  "repository": {
+    "full_name": "AIGNE-io/aigne-framework",
+    "url": "https://github.com/AIGNE-io/aigne-framework",
+    "clone_url": "https://github.com/AIGNE-io/aigne-framework.git",
+    "stars": 316,
+    "language": "TypeScript",
+    "size_kb": 49356
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 48,
+    "duration_seconds": 2.971091
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 316 stars."
+  }
+}

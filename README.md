@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4037 | [NilsSlui/csv-worldmap](https://github.com/NilsSlui/csv-worldmap) | Python · ⭐ 42 | 2026-01-17 |
+| #4038 | [AIGNE-io/aigne-framework](https://github.com/AIGNE-io/aigne-framework) | TypeScript · ⭐ 316 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4103,3 +4103,4 @@ Or let GitHub Action run it automatically.
 | 4035 | 2026-01-17 05:29:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (120920⭐ Python) | [reels/reel_4035_open-webui-open-webui](reels/reel_4035_open-webui-open-webui) |
 | 4036 | 2026-01-17 05:46:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109726⭐ TypeScript) | [reels/reel_4036_iptv-org-iptv](reels/reel_4036_iptv-org-iptv) |
 | 4037 | 2026-01-17 06:28:43 | [NilsSlui/csv-worldmap](https://github.com/NilsSlui/csv-worldmap) | ✅ full (42⭐ Python) | [reels/reel_4037_NilsSlui-csv-worldmap](reels/reel_4037_NilsSlui-csv-worldmap) |
+| 4038 | 2026-01-17 06:53:59 | [AIGNE-io/aigne-framework](https://github.com/AIGNE-io/aigne-framework) | ✅ full (316⭐ TypeScript) | [reels/reel_4038_AIGNE-io-aigne-framework](reels/reel_4038_AIGNE-io-aigne-framework) |
