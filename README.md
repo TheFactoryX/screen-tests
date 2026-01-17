@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4040 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-17 |
+| #4041 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | Python · ⭐ 206 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4106,3 +4106,4 @@ Or let GitHub Action run it automatically.
 | 4038 | 2026-01-17 06:53:59 | [AIGNE-io/aigne-framework](https://github.com/AIGNE-io/aigne-framework) | ✅ full (316⭐ TypeScript) | [reels/reel_4038_AIGNE-io-aigne-framework](reels/reel_4038_AIGNE-io-aigne-framework) |
 | 4039 | 2026-01-17 07:18:07 | [vertyco/vrt-cogs](https://github.com/vertyco/vrt-cogs) | ✅ shallow (70⭐ Python) | [reels/reel_4039_vertyco-vrt-cogs](reels/reel_4039_vertyco-vrt-cogs) |
 | 4040 | 2026-01-17 07:38:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268574⭐ None) | [reels/reel_4040_awesome-selfhosted-awesome-selfhosted](reels/reel_4040_awesome-selfhosted-awesome-selfhosted) |
+| 4041 | 2026-01-17 07:49:35 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (206⭐ Python) | [reels/reel_4041_tom-doerr-repo_posts](reels/reel_4041_tom-doerr-repo_posts) |
