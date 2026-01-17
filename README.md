@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4041 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | Python · ⭐ 206 | 2026-01-17 |
+| #4042 | [iiDk-the-actual/iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) | C# · ⭐ 180 | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4107,3 +4107,4 @@ Or let GitHub Action run it automatically.
 | 4039 | 2026-01-17 07:18:07 | [vertyco/vrt-cogs](https://github.com/vertyco/vrt-cogs) | ✅ shallow (70⭐ Python) | [reels/reel_4039_vertyco-vrt-cogs](reels/reel_4039_vertyco-vrt-cogs) |
 | 4040 | 2026-01-17 07:38:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268574⭐ None) | [reels/reel_4040_awesome-selfhosted-awesome-selfhosted](reels/reel_4040_awesome-selfhosted-awesome-selfhosted) |
 | 4041 | 2026-01-17 07:49:35 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (206⭐ Python) | [reels/reel_4041_tom-doerr-repo_posts](reels/reel_4041_tom-doerr-repo_posts) |
+| 4042 | 2026-01-17 08:24:03 | [iiDk-the-actual/iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) | ✅ readme_only (180⭐ C#) | [reels/reel_4042_iiDk-the-actual-iis.Stupid.Menu](reels/reel_4042_iiDk-the-actual-iis.Stupid.Menu) |

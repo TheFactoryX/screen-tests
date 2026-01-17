@@ -1,0 +1,24 @@
+{
+  "reel_number": 4042,
+  "recorded": "2026-01-17 08:24:03 UTC",
+  "repository": {
+    "full_name": "iiDk-the-actual/iis.Stupid.Menu",
+    "url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu",
+    "clone_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu.git",
+    "stars": 180,
+    "language": "C#",
+    "size_kb": 774852
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 756,
+    "duration_seconds": 0.000152
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 180 stars."
+  }
+}
