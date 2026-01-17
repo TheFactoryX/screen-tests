@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4051 | [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music) | Kotlin · ⭐ 485 | 2026-01-17 |
+| #4052 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4117,3 +4117,4 @@ Or let GitHub Action run it automatically.
 | 4049 | 2026-01-17 10:53:53 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (457445⭐ Markdown) | [reels/reel_4049_codecrafters-io-build-your-own-x](reels/reel_4049_codecrafters-io-build-your-own-x) |
 | 4050 | 2026-01-17 11:15:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143740⭐ Python) | [reels/reel_4050_langflow-ai-langflow](reels/reel_4050_langflow-ai-langflow) |
 | 4051 | 2026-01-17 11:37:47 | [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music) | ✅ full (485⭐ Kotlin) | [reels/reel_4051_vivizzz007-vivi-music](reels/reel_4051_vivizzz007-vivi-music) |
+| 4052 | 2026-01-17 11:50:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169553⭐ TypeScript) | [reels/reel_4052_n8n-io-n8n](reels/reel_4052_n8n-io-n8n) |
