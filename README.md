@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4039 | [vertyco/vrt-cogs](https://github.com/vertyco/vrt-cogs) | Python · ⭐ 70 | 2026-01-17 |
+| #4040 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4105,3 +4105,4 @@ Or let GitHub Action run it automatically.
 | 4037 | 2026-01-17 06:28:43 | [NilsSlui/csv-worldmap](https://github.com/NilsSlui/csv-worldmap) | ✅ full (42⭐ Python) | [reels/reel_4037_NilsSlui-csv-worldmap](reels/reel_4037_NilsSlui-csv-worldmap) |
 | 4038 | 2026-01-17 06:53:59 | [AIGNE-io/aigne-framework](https://github.com/AIGNE-io/aigne-framework) | ✅ full (316⭐ TypeScript) | [reels/reel_4038_AIGNE-io-aigne-framework](reels/reel_4038_AIGNE-io-aigne-framework) |
 | 4039 | 2026-01-17 07:18:07 | [vertyco/vrt-cogs](https://github.com/vertyco/vrt-cogs) | ✅ shallow (70⭐ Python) | [reels/reel_4039_vertyco-vrt-cogs](reels/reel_4039_vertyco-vrt-cogs) |
+| 4040 | 2026-01-17 07:38:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268574⭐ None) | [reels/reel_4040_awesome-selfhosted-awesome-selfhosted](reels/reel_4040_awesome-selfhosted-awesome-selfhosted) |
