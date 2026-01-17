@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4067 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-17 |
+| #4068 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-17 |
 ---
 
 ## 🎭 Selection Process
@@ -4133,3 +4133,4 @@ Or let GitHub Action run it automatically.
 | 4065 | 2026-01-17 17:18:27 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (104976⭐ TypeScript) | [reels/reel_4065_shadcn-ui-ui](reels/reel_4065_shadcn-ui-ui) |
 | 4066 | 2026-01-17 17:39:34 | [parkervg/blendsql](https://github.com/parkervg/blendsql) | ✅ full (155⭐ Python) | [reels/reel_4066_parkervg-blendsql](reels/reel_4066_parkervg-blendsql) |
 | 4067 | 2026-01-17 17:50:13 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139473⭐ Python) | [reels/reel_4067_ytdl-org-youtube-dl](reels/reel_4067_ytdl-org-youtube-dl) |
+| 4068 | 2026-01-17 18:26:44 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143780⭐ Python) | [reels/reel_4068_langflow-ai-langflow](reels/reel_4068_langflow-ai-langflow) |
