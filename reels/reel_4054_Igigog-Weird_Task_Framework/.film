@@ -1,0 +1,24 @@
+{
+  "reel_number": 4054,
+  "recorded": "2026-01-17 13:17:50 UTC",
+  "repository": {
+    "full_name": "Igigog/Weird_Task_Framework",
+    "url": "https://github.com/Igigog/Weird_Task_Framework",
+    "clone_url": "https://github.com/Igigog/Weird_Task_Framework.git",
+    "stars": 14,
+    "language": "Lua",
+    "size_kb": 901
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.324067
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 14 stars."
+  }
+}
