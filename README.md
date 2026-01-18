@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4107 | [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) | Python · ⭐ 716 | 2026-01-18 |
+| #4108 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4173,3 +4173,4 @@ Or let GitHub Action run it automatically.
 | 4105 | 2026-01-18 11:15:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121025⭐ Python) | [reels/reel_4105_open-webui-open-webui](reels/reel_4105_open-webui-open-webui) |
 | 4106 | 2026-01-18 11:37:22 | [kohonda/mppi_playground](https://github.com/kohonda/mppi_playground) | ✅ full (180⭐ Python) | [reels/reel_4106_kohonda-mppi_playground](reels/reel_4106_kohonda-mppi_playground) |
 | 4107 | 2026-01-18 11:49:51 | [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) | ✅ full (716⭐ Python) | [reels/reel_4107_aws-samples-aws2tf](reels/reel_4107_aws-samples-aws2tf) |
+| 4108 | 2026-01-18 12:36:59 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268775⭐ None) | [reels/reel_4108_awesome-selfhosted-awesome-selfhosted](reels/reel_4108_awesome-selfhosted-awesome-selfhosted) |
