@@ -1,0 +1,24 @@
+{
+  "reel_number": 4138,
+  "recorded": "2026-01-18 23:40:05 UTC",
+  "repository": {
+    "full_name": "0xc000022070/zen-browser-flake",
+    "url": "https://github.com/0xc000022070/zen-browser-flake",
+    "clone_url": "https://github.com/0xc000022070/zen-browser-flake.git",
+    "stars": 750,
+    "language": "Nix",
+    "size_kb": 571
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.778891
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 750 stars."
+  }
+}
