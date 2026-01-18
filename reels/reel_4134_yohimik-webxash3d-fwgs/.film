@@ -1,0 +1,24 @@
+{
+  "reel_number": 4134,
+  "recorded": "2026-01-18 22:18:11 UTC",
+  "repository": {
+    "full_name": "yohimik/webxash3d-fwgs",
+    "url": "https://github.com/yohimik/webxash3d-fwgs",
+    "clone_url": "https://github.com/yohimik/webxash3d-fwgs.git",
+    "stars": 158,
+    "language": "TypeScript",
+    "size_kb": 31046
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 1.191688
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 158 stars."
+  }
+}
