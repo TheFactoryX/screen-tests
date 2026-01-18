@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4096 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-18 |
+| #4097 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4162,3 +4162,4 @@ Or let GitHub Action run it automatically.
 | 4094 | 2026-01-18 07:19:00 | [2830897438/SillyTavern-Chloe](https://github.com/2830897438/SillyTavern-Chloe) | ✅ shallow (47⭐ JavaScript) | [reels/reel_4094_2830897438-SillyTavern-Chloe](reels/reel_4094_2830897438-SillyTavern-Chloe) |
 | 4095 | 2026-01-18 07:39:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102438⭐ Shell) | [reels/reel_4095_papers-we-love-papers-we-love](reels/reel_4095_papers-we-love-papers-we-love) |
 | 4096 | 2026-01-18 07:50:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181194⭐ Python) | [reels/reel_4096_Significant-Gravitas-AutoGPT](reels/reel_4096_Significant-Gravitas-AutoGPT) |
+| 4097 | 2026-01-18 08:24:44 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101152⭐ Python) | [reels/reel_4097_deepseek-ai-DeepSeek-V3](reels/reel_4097_deepseek-ai-DeepSeek-V3) |
