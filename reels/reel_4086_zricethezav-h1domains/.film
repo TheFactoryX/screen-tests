@@ -1,0 +1,24 @@
+{
+  "reel_number": 4086,
+  "recorded": "2026-01-18 01:46:04 UTC",
+  "repository": {
+    "full_name": "zricethezav/h1domains",
+    "url": "https://github.com/zricethezav/h1domains",
+    "clone_url": "https://github.com/zricethezav/h1domains.git",
+    "stars": 494,
+    "language": "Python",
+    "size_kb": 1082586
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1057,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 494 stars."
+  }
+}

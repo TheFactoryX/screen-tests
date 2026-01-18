@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4085 | [microsoft/vscode-languagedetection](https://github.com/microsoft/vscode-languagedetection) | TypeScript · ⭐ 159 | 2026-01-17 |
+| #4086 | [zricethezav/h1domains](https://github.com/zricethezav/h1domains) | Python · ⭐ 494 | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4151,3 +4151,4 @@ Or let GitHub Action run it automatically.
 | 4083 | 2026-01-17 23:17:34 | [ironplc/ironplc](https://github.com/ironplc/ironplc) | ✅ full (59⭐ Rust) | [reels/reel_4083_ironplc-ironplc](reels/reel_4083_ironplc-ironplc) |
 | 4084 | 2026-01-17 23:39:37 | [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) | ✅ full (725⭐ Python) | [reels/reel_4084_goodroot-hyprwhspr](reels/reel_4084_goodroot-hyprwhspr) |
 | 4085 | 2026-01-17 23:50:22 | [microsoft/vscode-languagedetection](https://github.com/microsoft/vscode-languagedetection) | ✅ full (159⭐ TypeScript) | [reels/reel_4085_microsoft-vscode-languagedetection](reels/reel_4085_microsoft-vscode-languagedetection) |
+| 4086 | 2026-01-18 01:46:04 | [zricethezav/h1domains](https://github.com/zricethezav/h1domains) | ✅ readme_only (494⭐ Python) | [reels/reel_4086_zricethezav-h1domains](reels/reel_4086_zricethezav-h1domains) |
