@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4132 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 268k | 2026-01-18 |
+| #4133 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4198,3 +4198,4 @@ Or let GitHub Action run it automatically.
 | 4130 | 2026-01-18 20:53:19 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181241⭐ Python) | [reels/reel_4130_Significant-Gravitas-AutoGPT](reels/reel_4130_Significant-Gravitas-AutoGPT) |
 | 4131 | 2026-01-18 21:16:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169788⭐ TypeScript) | [reels/reel_4131_n8n-io-n8n](reels/reel_4131_n8n-io-n8n) |
 | 4132 | 2026-01-18 21:38:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268836⭐ None) | [reels/reel_4132_awesome-selfhosted-awesome-selfhosted](reels/reel_4132_awesome-selfhosted-awesome-selfhosted) |
+| 4133 | 2026-01-18 21:49:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109499⭐ Rust) | [reels/reel_4133_rust-lang-rust](reels/reel_4133_rust-lang-rust) |
