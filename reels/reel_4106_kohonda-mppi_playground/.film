@@ -1,0 +1,24 @@
+{
+  "reel_number": 4106,
+  "recorded": "2026-01-18 11:37:22 UTC",
+  "repository": {
+    "full_name": "kohonda/mppi_playground",
+    "url": "https://github.com/kohonda/mppi_playground",
+    "clone_url": "https://github.com/kohonda/mppi_playground.git",
+    "stars": 180,
+    "language": "Python",
+    "size_kb": 14153
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 0.901583
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 180 stars."
+  }
+}
