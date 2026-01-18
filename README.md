@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4136 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 142k | 2026-01-18 |
+| #4137 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4202,3 +4202,4 @@ Or let GitHub Action run it automatically.
 | 4134 | 2026-01-18 22:18:11 | [yohimik/webxash3d-fwgs](https://github.com/yohimik/webxash3d-fwgs) | ✅ full (158⭐ TypeScript) | [reels/reel_4134_yohimik-webxash3d-fwgs](reels/reel_4134_yohimik-webxash3d-fwgs) |
 | 4135 | 2026-01-18 22:43:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109499⭐ Rust) | [reels/reel_4135_rust-lang-rust](reels/reel_4135_rust-lang-rust) |
 | 4136 | 2026-01-18 22:53:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142442⭐ Python) | [reels/reel_4136_yt-dlp-yt-dlp](reels/reel_4136_yt-dlp-yt-dlp) |
+| 4137 | 2026-01-18 23:18:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181243⭐ Python) | [reels/reel_4137_Significant-Gravitas-AutoGPT](reels/reel_4137_Significant-Gravitas-AutoGPT) |
