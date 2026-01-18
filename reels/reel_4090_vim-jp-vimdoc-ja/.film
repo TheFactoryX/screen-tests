@@ -1,0 +1,24 @@
+{
+  "reel_number": 4090,
+  "recorded": "2026-01-18 05:37:26 UTC",
+  "repository": {
+    "full_name": "vim-jp/vimdoc-ja",
+    "url": "https://github.com/vim-jp/vimdoc-ja",
+    "clone_url": "https://github.com/vim-jp/vimdoc-ja.git",
+    "stars": 347,
+    "language": "Vim Script",
+    "size_kb": 170325
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 166,
+    "duration_seconds": 1.130008
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vim Script",
+    "director_note": "A Vim Script repository. 347 stars."
+  }
+}

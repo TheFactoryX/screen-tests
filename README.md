@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4089 | [Wamphyre/macOS_Silverback-Debloater](https://github.com/Wamphyre/macOS_Silverback-Debloater) | Shell · ⭐ 51 | 2026-01-18 |
+| #4090 | [vim-jp/vimdoc-ja](https://github.com/vim-jp/vimdoc-ja) | Vim Script · ⭐ 347 | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4155,3 +4155,4 @@ Or let GitHub Action run it automatically.
 | 4087 | 2026-01-18 03:44:31 | [KDE/calligra](https://github.com/KDE/calligra) | ✅ readme_only (190⭐ C++) | [reels/reel_4087_KDE-calligra](reels/reel_4087_KDE-calligra) |
 | 4088 | 2026-01-18 04:31:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109487⭐ Rust) | [reels/reel_4088_rust-lang-rust](reels/reel_4088_rust-lang-rust) |
 | 4089 | 2026-01-18 05:01:28 | [Wamphyre/macOS_Silverback-Debloater](https://github.com/Wamphyre/macOS_Silverback-Debloater) | ✅ full (51⭐ Shell) | [reels/reel_4089_Wamphyre-macOS_Silverback-Debloater](reels/reel_4089_Wamphyre-macOS_Silverback-Debloater) |
+| 4090 | 2026-01-18 05:37:26 | [vim-jp/vimdoc-ja](https://github.com/vim-jp/vimdoc-ja) | ✅ shallow (347⭐ Vim Script) | [reels/reel_4090_vim-jp-vimdoc-ja](reels/reel_4090_vim-jp-vimdoc-ja) |
