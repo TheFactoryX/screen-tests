@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4112 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-18 |
+| #4113 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4178,3 +4178,4 @@ Or let GitHub Action run it automatically.
 | 4110 | 2026-01-18 13:45:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109793⭐ TypeScript) | [reels/reel_4110_iptv-org-iptv](reels/reel_4110_iptv-org-iptv) |
 | 4111 | 2026-01-18 14:17:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109494⭐ Rust) | [reels/reel_4111_rust-lang-rust](reels/reel_4111_rust-lang-rust) |
 | 4112 | 2026-01-18 14:41:21 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109793⭐ TypeScript) | [reels/reel_4112_iptv-org-iptv](reels/reel_4112_iptv-org-iptv) |
+| 4113 | 2026-01-18 14:51:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124489⭐ Python) | [reels/reel_4113_langchain-ai-langchain](reels/reel_4113_langchain-ai-langchain) |
