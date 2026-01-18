@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4134 | [yohimik/webxash3d-fwgs](https://github.com/yohimik/webxash3d-fwgs) | TypeScript · ⭐ 158 | 2026-01-18 |
+| #4135 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4200,3 +4200,4 @@ Or let GitHub Action run it automatically.
 | 4132 | 2026-01-18 21:38:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268836⭐ None) | [reels/reel_4132_awesome-selfhosted-awesome-selfhosted](reels/reel_4132_awesome-selfhosted-awesome-selfhosted) |
 | 4133 | 2026-01-18 21:49:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109499⭐ Rust) | [reels/reel_4133_rust-lang-rust](reels/reel_4133_rust-lang-rust) |
 | 4134 | 2026-01-18 22:18:11 | [yohimik/webxash3d-fwgs](https://github.com/yohimik/webxash3d-fwgs) | ✅ full (158⭐ TypeScript) | [reels/reel_4134_yohimik-webxash3d-fwgs](reels/reel_4134_yohimik-webxash3d-fwgs) |
+| 4135 | 2026-01-18 22:43:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109499⭐ Rust) | [reels/reel_4135_rust-lang-rust](reels/reel_4135_rust-lang-rust) |
