@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4101 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 255k | 2026-01-18 |
+| #4102 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4167,3 +4167,4 @@ Or let GitHub Action run it automatically.
 | 4099 | 2026-01-18 09:19:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181199⭐ Python) | [reels/reel_4099_Significant-Gravitas-AutoGPT](reels/reel_4099_Significant-Gravitas-AutoGPT) |
 | 4100 | 2026-01-18 09:41:18 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169701⭐ TypeScript) | [reels/reel_4100_n8n-io-n8n](reels/reel_4100_n8n-io-n8n) |
 | 4101 | 2026-01-18 09:51:48 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255921⭐ None) | [reels/reel_4101_practical-tutorials-project-based-learning](reels/reel_4101_practical-tutorials-project-based-learning) |
+| 4102 | 2026-01-18 10:19:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181207⭐ Python) | [reels/reel_4102_Significant-Gravitas-AutoGPT](reels/reel_4102_Significant-Gravitas-AutoGPT) |
