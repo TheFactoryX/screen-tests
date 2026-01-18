@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4117 | [Tonaedor/randomCatFacts](https://github.com/Tonaedor/randomCatFacts) | None · ⭐ 23 | 2026-01-18 |
+| #4118 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4183,3 +4183,4 @@ Or let GitHub Action run it automatically.
 | 4115 | 2026-01-18 15:40:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143863⭐ Python) | [reels/reel_4115_langflow-ai-langflow](reels/reel_4115_langflow-ai-langflow) |
 | 4116 | 2026-01-18 15:50:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268800⭐ None) | [reels/reel_4116_awesome-selfhosted-awesome-selfhosted](reels/reel_4116_awesome-selfhosted-awesome-selfhosted) |
 | 4117 | 2026-01-18 16:22:19 | [Tonaedor/randomCatFacts](https://github.com/Tonaedor/randomCatFacts) | ✅ full (23⭐ None) | [reels/reel_4117_Tonaedor-randomCatFacts](reels/reel_4117_Tonaedor-randomCatFacts) |
+| 4118 | 2026-01-18 16:46:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143864⭐ Python) | [reels/reel_4118_langflow-ai-langflow](reels/reel_4118_langflow-ai-langflow) |
