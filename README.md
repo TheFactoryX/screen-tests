@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4103 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-18 |
+| #4104 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 391k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4169,3 +4169,4 @@ Or let GitHub Action run it automatically.
 | 4101 | 2026-01-18 09:51:48 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255921⭐ None) | [reels/reel_4101_practical-tutorials-project-based-learning](reels/reel_4101_practical-tutorials-project-based-learning) |
 | 4102 | 2026-01-18 10:19:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181207⭐ Python) | [reels/reel_4102_Significant-Gravitas-AutoGPT](reels/reel_4102_Significant-Gravitas-AutoGPT) |
 | 4103 | 2026-01-18 10:44:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121021⭐ Python) | [reels/reel_4103_open-webui-open-webui](reels/reel_4103_open-webui-open-webui) |
+| 4104 | 2026-01-18 10:54:07 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (391525⭐ Python) | [reels/reel_4104_public-apis-public-apis](reels/reel_4104_public-apis-public-apis) |
