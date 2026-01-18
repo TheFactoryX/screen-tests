@@ -1,0 +1,24 @@
+{
+  "reel_number": 4087,
+  "recorded": "2026-01-18 03:44:31 UTC",
+  "repository": {
+    "full_name": "KDE/calligra",
+    "url": "https://github.com/KDE/calligra",
+    "clone_url": "https://github.com/KDE/calligra.git",
+    "stars": 190,
+    "language": "C++",
+    "size_kb": 1318397
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 1287,
+    "duration_seconds": 0.000133
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 190 stars."
+  }
+}
