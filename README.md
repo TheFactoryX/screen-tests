@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4128 | [alexeev-prog/theartoffun_C](https://github.com/alexeev-prog/theartoffun_C) | C · ⭐ 24 | 2026-01-18 |
+| #4129 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 142k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4194,3 +4194,4 @@ Or let GitHub Action run it automatically.
 | 4126 | 2026-01-18 19:40:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143869⭐ Python) | [reels/reel_4126_langflow-ai-langflow](reels/reel_4126_langflow-ai-langflow) |
 | 4127 | 2026-01-18 19:50:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109810⭐ TypeScript) | [reels/reel_4127_iptv-org-iptv](reels/reel_4127_iptv-org-iptv) |
 | 4128 | 2026-01-18 20:20:37 | [alexeev-prog/theartoffun_C](https://github.com/alexeev-prog/theartoffun_C) | ✅ full (24⭐ C) | [reels/reel_4128_alexeev-prog-theartoffun_C](reels/reel_4128_alexeev-prog-theartoffun_C) |
+| 4129 | 2026-01-18 20:42:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142418⭐ Python) | [reels/reel_4129_yt-dlp-yt-dlp](reels/reel_4129_yt-dlp-yt-dlp) |
