@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4094 | [2830897438/SillyTavern-Chloe](https://github.com/2830897438/SillyTavern-Chloe) | JavaScript · ⭐ 47 | 2026-01-18 |
+| #4095 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4160,3 +4160,4 @@ Or let GitHub Action run it automatically.
 | 4092 | 2026-01-18 06:29:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181192⭐ Python) | [reels/reel_4092_Significant-Gravitas-AutoGPT](reels/reel_4092_Significant-Gravitas-AutoGPT) |
 | 4093 | 2026-01-18 06:54:54 | [Bayselonarrend/OpenIntegrations](https://github.com/Bayselonarrend/OpenIntegrations) | ✅ readme_only (513⭐ 1C Enterprise) | [reels/reel_4093_Bayselonarrend-OpenIntegrations](reels/reel_4093_Bayselonarrend-OpenIntegrations) |
 | 4094 | 2026-01-18 07:19:00 | [2830897438/SillyTavern-Chloe](https://github.com/2830897438/SillyTavern-Chloe) | ✅ shallow (47⭐ JavaScript) | [reels/reel_4094_2830897438-SillyTavern-Chloe](reels/reel_4094_2830897438-SillyTavern-Chloe) |
+| 4095 | 2026-01-18 07:39:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102438⭐ Shell) | [reels/reel_4095_papers-we-love-papers-we-love](reels/reel_4095_papers-we-love-papers-we-love) |
