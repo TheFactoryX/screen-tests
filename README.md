@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4088 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-18 |
+| #4089 | [Wamphyre/macOS_Silverback-Debloater](https://github.com/Wamphyre/macOS_Silverback-Debloater) | Shell · ⭐ 51 | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4154,3 +4154,4 @@ Or let GitHub Action run it automatically.
 | 4086 | 2026-01-18 01:46:04 | [zricethezav/h1domains](https://github.com/zricethezav/h1domains) | ✅ readme_only (494⭐ Python) | [reels/reel_4086_zricethezav-h1domains](reels/reel_4086_zricethezav-h1domains) |
 | 4087 | 2026-01-18 03:44:31 | [KDE/calligra](https://github.com/KDE/calligra) | ✅ readme_only (190⭐ C++) | [reels/reel_4087_KDE-calligra](reels/reel_4087_KDE-calligra) |
 | 4088 | 2026-01-18 04:31:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109487⭐ Rust) | [reels/reel_4088_rust-lang-rust](reels/reel_4088_rust-lang-rust) |
+| 4089 | 2026-01-18 05:01:28 | [Wamphyre/macOS_Silverback-Debloater](https://github.com/Wamphyre/macOS_Silverback-Debloater) | ✅ full (51⭐ Shell) | [reels/reel_4089_Wamphyre-macOS_Silverback-Debloater](reels/reel_4089_Wamphyre-macOS_Silverback-Debloater) |
