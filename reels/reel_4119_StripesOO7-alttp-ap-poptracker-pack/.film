@@ -1,0 +1,24 @@
+{
+  "reel_number": 4119,
+  "recorded": "2026-01-18 17:15:59 UTC",
+  "repository": {
+    "full_name": "StripesOO7/alttp-ap-poptracker-pack",
+    "url": "https://github.com/StripesOO7/alttp-ap-poptracker-pack",
+    "clone_url": "https://github.com/StripesOO7/alttp-ap-poptracker-pack.git",
+    "stars": 18,
+    "language": "Lua",
+    "size_kb": 76996
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 75,
+    "duration_seconds": 3.03475
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 18 stars."
+  }
+}
