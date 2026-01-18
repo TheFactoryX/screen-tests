@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4106 | [kohonda/mppi_playground](https://github.com/kohonda/mppi_playground) | Python · ⭐ 180 | 2026-01-18 |
+| #4107 | [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) | Python · ⭐ 716 | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4172,3 +4172,4 @@ Or let GitHub Action run it automatically.
 | 4104 | 2026-01-18 10:54:07 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (391525⭐ Python) | [reels/reel_4104_public-apis-public-apis](reels/reel_4104_public-apis-public-apis) |
 | 4105 | 2026-01-18 11:15:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121025⭐ Python) | [reels/reel_4105_open-webui-open-webui](reels/reel_4105_open-webui-open-webui) |
 | 4106 | 2026-01-18 11:37:22 | [kohonda/mppi_playground](https://github.com/kohonda/mppi_playground) | ✅ full (180⭐ Python) | [reels/reel_4106_kohonda-mppi_playground](reels/reel_4106_kohonda-mppi_playground) |
+| 4107 | 2026-01-18 11:49:51 | [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) | ✅ full (716⭐ Python) | [reels/reel_4107_aws-samples-aws2tf](reels/reel_4107_aws-samples-aws2tf) |
