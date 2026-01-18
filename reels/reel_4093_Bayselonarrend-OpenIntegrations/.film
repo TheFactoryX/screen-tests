@@ -1,0 +1,24 @@
+{
+  "reel_number": 4093,
+  "recorded": "2026-01-18 06:54:54 UTC",
+  "repository": {
+    "full_name": "Bayselonarrend/OpenIntegrations",
+    "url": "https://github.com/Bayselonarrend/OpenIntegrations",
+    "clone_url": "https://github.com/Bayselonarrend/OpenIntegrations.git",
+    "stars": 513,
+    "language": "1C Enterprise",
+    "size_kb": 1902335
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1857,
+    "duration_seconds": 0.00014
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "1C Enterprise",
+    "director_note": "A 1C Enterprise repository. 513 stars."
+  }
+}

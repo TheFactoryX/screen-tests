@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4092 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-18 |
+| #4093 | [Bayselonarrend/OpenIntegrations](https://github.com/Bayselonarrend/OpenIntegrations) | 1C Enterprise · ⭐ 513 | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4158,3 +4158,4 @@ Or let GitHub Action run it automatically.
 | 4090 | 2026-01-18 05:37:26 | [vim-jp/vimdoc-ja](https://github.com/vim-jp/vimdoc-ja) | ✅ shallow (347⭐ Vim Script) | [reels/reel_4090_vim-jp-vimdoc-ja](reels/reel_4090_vim-jp-vimdoc-ja) |
 | 4091 | 2026-01-18 05:52:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142198⭐ Python) | [reels/reel_4091_yt-dlp-yt-dlp](reels/reel_4091_yt-dlp-yt-dlp) |
 | 4092 | 2026-01-18 06:29:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181192⭐ Python) | [reels/reel_4092_Significant-Gravitas-AutoGPT](reels/reel_4092_Significant-Gravitas-AutoGPT) |
+| 4093 | 2026-01-18 06:54:54 | [Bayselonarrend/OpenIntegrations](https://github.com/Bayselonarrend/OpenIntegrations) | ✅ readme_only (513⭐ 1C Enterprise) | [reels/reel_4093_Bayselonarrend-OpenIntegrations](reels/reel_4093_Bayselonarrend-OpenIntegrations) |
