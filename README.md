@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4119 | [StripesOO7/alttp-ap-poptracker-pack](https://github.com/StripesOO7/alttp-ap-poptracker-pack) | Lua · ⭐ 18 | 2026-01-18 |
+| #4120 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-18 |
 ---
 
 ## 🎭 Selection Process
@@ -4185,3 +4185,4 @@ Or let GitHub Action run it automatically.
 | 4117 | 2026-01-18 16:22:19 | [Tonaedor/randomCatFacts](https://github.com/Tonaedor/randomCatFacts) | ✅ full (23⭐ None) | [reels/reel_4117_Tonaedor-randomCatFacts](reels/reel_4117_Tonaedor-randomCatFacts) |
 | 4118 | 2026-01-18 16:46:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143864⭐ Python) | [reels/reel_4118_langflow-ai-langflow](reels/reel_4118_langflow-ai-langflow) |
 | 4119 | 2026-01-18 17:15:59 | [StripesOO7/alttp-ap-poptracker-pack](https://github.com/StripesOO7/alttp-ap-poptracker-pack) | ✅ full (18⭐ Lua) | [reels/reel_4119_StripesOO7-alttp-ap-poptracker-pack](reels/reel_4119_StripesOO7-alttp-ap-poptracker-pack) |
+| 4120 | 2026-01-18 17:41:11 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169764⭐ TypeScript) | [reels/reel_4120_n8n-io-n8n](reels/reel_4120_n8n-io-n8n) |
