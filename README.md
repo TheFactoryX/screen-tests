@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4175 | [mquintus/l33tcode-testcase-generator](https://github.com/mquintus/l33tcode-testcase-generator) | Python · ⭐ 188 | 2026-01-19 |
+| #4176 | [vehagn/homelab](https://github.com/vehagn/homelab) | HCL · ⭐ 371 | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4241,3 +4241,4 @@ Or let GitHub Action run it automatically.
 | 4173 | 2026-01-19 20:45:13 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104970⭐ None) | [reels/reel_4173_Hack-with-Github-Awesome-Hacking](reels/reel_4173_Hack-with-Github-Awesome-Hacking) |
 | 4174 | 2026-01-19 21:18:57 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102476⭐ Shell) | [reels/reel_4174_papers-we-love-papers-we-love](reels/reel_4174_papers-we-love-papers-we-love) |
 | 4175 | 2026-01-19 21:41:54 | [mquintus/l33tcode-testcase-generator](https://github.com/mquintus/l33tcode-testcase-generator) | ✅ full (188⭐ Python) | [reels/reel_4175_mquintus-l33tcode-testcase-generator](reels/reel_4175_mquintus-l33tcode-testcase-generator) |
+| 4176 | 2026-01-19 21:52:11 | [vehagn/homelab](https://github.com/vehagn/homelab) | ✅ full (371⭐ HCL) | [reels/reel_4176_vehagn-homelab](reels/reel_4176_vehagn-homelab) |
