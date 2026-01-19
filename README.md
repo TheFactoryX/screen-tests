@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4143 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-19 |
+| #4144 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4209,3 +4209,4 @@ Or let GitHub Action run it automatically.
 | 4141 | 2026-01-19 03:27:49 | [NimeshJohari02/BoxMaker](https://github.com/NimeshJohari02/BoxMaker) | ✅ full (11⭐ JavaScript) | [reels/reel_4141_NimeshJohari02-BoxMaker](reels/reel_4141_NimeshJohari02-BoxMaker) |
 | 4142 | 2026-01-19 04:38:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121082⭐ Python) | [reels/reel_4142_open-webui-open-webui](reels/reel_4142_open-webui-open-webui) |
 | 4143 | 2026-01-19 05:19:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124528⭐ Python) | [reels/reel_4143_langchain-ai-langchain](reels/reel_4143_langchain-ai-langchain) |
+| 4144 | 2026-01-19 05:53:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143902⭐ Python) | [reels/reel_4144_langflow-ai-langflow](reels/reel_4144_langflow-ai-langflow) |
