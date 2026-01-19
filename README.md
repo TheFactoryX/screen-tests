@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4157 | [Sauceke/LoveMachine](https://github.com/Sauceke/LoveMachine) | None · ⭐ 239 | 2026-01-19 |
+| #4158 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 142k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4223,3 +4223,4 @@ Or let GitHub Action run it automatically.
 | 4155 | 2026-01-19 11:43:47 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101525⭐ Rust) | [reels/reel_4155_tauri-apps-tauri](reels/reel_4155_tauri-apps-tauri) |
 | 4156 | 2026-01-19 11:55:25 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142723⭐ Python) | [reels/reel_4156_yt-dlp-yt-dlp](reels/reel_4156_yt-dlp-yt-dlp) |
 | 4157 | 2026-01-19 12:47:21 | [Sauceke/LoveMachine](https://github.com/Sauceke/LoveMachine) | ✅ full (239⭐ None) | [reels/reel_4157_Sauceke-LoveMachine](reels/reel_4157_Sauceke-LoveMachine) |
+| 4158 | 2026-01-19 13:43:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142729⭐ Python) | [reels/reel_4158_yt-dlp-yt-dlp](reels/reel_4158_yt-dlp-yt-dlp) |
