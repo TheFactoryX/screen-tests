@@ -1,0 +1,24 @@
+{
+  "reel_number": 4172,
+  "recorded": "2026-01-19 20:22:30 UTC",
+  "repository": {
+    "full_name": "gemwalletcom/core",
+    "url": "https://github.com/gemwalletcom/core",
+    "clone_url": "https://github.com/gemwalletcom/core.git",
+    "stars": 128,
+    "language": "Rust",
+    "size_kb": 11419
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 2.383997
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 128 stars."
+  }
+}
