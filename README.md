@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4180 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-19 |
+| #4181 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4246,3 +4246,4 @@ Or let GitHub Action run it automatically.
 | 4178 | 2026-01-19 22:45:22 | [plan4better/goat](https://github.com/plan4better/goat) | ✅ readme_only (120⭐ TypeScript) | [reels/reel_4178_plan4better-goat](reels/reel_4178_plan4better-goat) |
 | 4179 | 2026-01-19 23:18:59 | [lonerOrz/nyx-loner](https://github.com/lonerOrz/nyx-loner) | ✅ full (19⭐ Nix) | [reels/reel_4179_lonerOrz-nyx-loner](reels/reel_4179_lonerOrz-nyx-loner) |
 | 4180 | 2026-01-19 23:42:07 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124587⭐ Python) | [reels/reel_4180_langchain-ai-langchain](reels/reel_4180_langchain-ai-langchain) |
+| 4181 | 2026-01-19 23:53:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124587⭐ Python) | [reels/reel_4181_langchain-ai-langchain](reels/reel_4181_langchain-ai-langchain) |
