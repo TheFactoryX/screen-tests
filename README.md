@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4148 | [nuxt-modules/shopify](https://github.com/nuxt-modules/shopify) | TypeScript · ⭐ 137 | 2026-01-19 |
+| #4149 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4214,3 +4214,4 @@ Or let GitHub Action run it automatically.
 | 4146 | 2026-01-19 07:06:20 | [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) | ✅ shallow (111⭐ Python) | [reels/reel_4146_Vann-Dev-proxy-list](reels/reel_4146_Vann-Dev-proxy-list) |
 | 4147 | 2026-01-19 07:43:25 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101514⭐ Rust) | [reels/reel_4147_tauri-apps-tauri](reels/reel_4147_tauri-apps-tauri) |
 | 4148 | 2026-01-19 07:57:33 | [nuxt-modules/shopify](https://github.com/nuxt-modules/shopify) | ✅ full (137⭐ TypeScript) | [reels/reel_4148_nuxt-modules-shopify](reels/reel_4148_nuxt-modules-shopify) |
+| 4149 | 2026-01-19 08:39:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124546⭐ Python) | [reels/reel_4149_langchain-ai-langchain](reels/reel_4149_langchain-ai-langchain) |
