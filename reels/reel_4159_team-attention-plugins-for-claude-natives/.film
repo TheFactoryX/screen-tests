@@ -1,0 +1,24 @@
+{
+  "reel_number": 4159,
+  "recorded": "2026-01-19 14:04:33 UTC",
+  "repository": {
+    "full_name": "team-attention/plugins-for-claude-natives",
+    "url": "https://github.com/team-attention/plugins-for-claude-natives",
+    "clone_url": "https://github.com/team-attention/plugins-for-claude-natives.git",
+    "stars": 351,
+    "language": "Python",
+    "size_kb": 28023
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 1.987766
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 351 stars."
+  }
+}
