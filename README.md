@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4168 | [mlemgroup/mlem](https://github.com/mlemgroup/mlem) | Swift · ⭐ 225 | 2026-01-19 |
+| #4169 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4234,3 +4234,4 @@ Or let GitHub Action run it automatically.
 | 4166 | 2026-01-19 17:47:14 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109850⭐ TypeScript) | [reels/reel_4166_iptv-org-iptv](reels/reel_4166_iptv-org-iptv) |
 | 4167 | 2026-01-19 18:30:09 | [mbridak/not1mm](https://github.com/mbridak/not1mm) | ✅ shallow (156⭐ Python) | [reels/reel_4167_mbridak-not1mm](reels/reel_4167_mbridak-not1mm) |
 | 4168 | 2026-01-19 18:57:06 | [mlemgroup/mlem](https://github.com/mlemgroup/mlem) | ✅ full (225⭐ Swift) | [reels/reel_4168_mlemgroup-mlem](reels/reel_4168_mlemgroup-mlem) |
+| 4169 | 2026-01-19 19:21:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169997⭐ TypeScript) | [reels/reel_4169_n8n-io-n8n](reels/reel_4169_n8n-io-n8n) |
