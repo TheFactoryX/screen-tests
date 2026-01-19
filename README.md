@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4170 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 458k | 2026-01-19 |
+| #4171 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4236,3 +4236,4 @@ Or let GitHub Action run it automatically.
 | 4168 | 2026-01-19 18:57:06 | [mlemgroup/mlem](https://github.com/mlemgroup/mlem) | ✅ full (225⭐ Swift) | [reels/reel_4168_mlemgroup-mlem](reels/reel_4168_mlemgroup-mlem) |
 | 4169 | 2026-01-19 19:21:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169997⭐ TypeScript) | [reels/reel_4169_n8n-io-n8n](reels/reel_4169_n8n-io-n8n) |
 | 4170 | 2026-01-19 19:39:54 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (458438⭐ Markdown) | [reels/reel_4170_codecrafters-io-build-your-own-x](reels/reel_4170_codecrafters-io-build-your-own-x) |
+| 4171 | 2026-01-19 19:49:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181273⭐ Python) | [reels/reel_4171_Significant-Gravitas-AutoGPT](reels/reel_4171_Significant-Gravitas-AutoGPT) |
