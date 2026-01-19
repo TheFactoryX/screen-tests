@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4166 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-19 |
+| #4167 | [mbridak/not1mm](https://github.com/mbridak/not1mm) | Python · ⭐ 156 | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4232,3 +4232,4 @@ Or let GitHub Action run it automatically.
 | 4164 | 2026-01-19 16:56:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169976⭐ TypeScript) | [reels/reel_4164_n8n-io-n8n](reels/reel_4164_n8n-io-n8n) |
 | 4165 | 2026-01-19 17:24:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (268968⭐ None) | [reels/reel_4165_awesome-selfhosted-awesome-selfhosted](reels/reel_4165_awesome-selfhosted-awesome-selfhosted) |
 | 4166 | 2026-01-19 17:47:14 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109850⭐ TypeScript) | [reels/reel_4166_iptv-org-iptv](reels/reel_4166_iptv-org-iptv) |
+| 4167 | 2026-01-19 18:30:09 | [mbridak/not1mm](https://github.com/mbridak/not1mm) | ✅ shallow (156⭐ Python) | [reels/reel_4167_mbridak-not1mm](reels/reel_4167_mbridak-not1mm) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 4167,
+  "recorded": "2026-01-19 18:30:09 UTC",
+  "repository": {
+    "full_name": "mbridak/not1mm",
+    "url": "https://github.com/mbridak/not1mm",
+    "clone_url": "https://github.com/mbridak/not1mm.git",
+    "stars": 156,
+    "language": "Python",
+    "size_kb": 118429
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 115,
+    "duration_seconds": 2.708161
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 156 stars."
+  }
+}
