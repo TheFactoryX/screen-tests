@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4161 | [Senryoku/Deecy](https://github.com/Senryoku/Deecy) | Zig · ⭐ 165 | 2026-01-19 |
+| #4162 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4227,3 +4227,4 @@ Or let GitHub Action run it automatically.
 | 4159 | 2026-01-19 14:04:33 | [team-attention/plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives) | ✅ full (351⭐ Python) | [reels/reel_4159_team-attention-plugins-for-claude-natives](reels/reel_4159_team-attention-plugins-for-claude-natives) |
 | 4160 | 2026-01-19 14:46:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169954⭐ TypeScript) | [reels/reel_4160_n8n-io-n8n](reels/reel_4160_n8n-io-n8n) |
 | 4161 | 2026-01-19 15:24:15 | [Senryoku/Deecy](https://github.com/Senryoku/Deecy) | ✅ full (165⭐ Zig) | [reels/reel_4161_Senryoku-Deecy](reels/reel_4161_Senryoku-Deecy) |
+| 4162 | 2026-01-19 15:49:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169964⭐ TypeScript) | [reels/reel_4162_n8n-io-n8n](reels/reel_4162_n8n-io-n8n) |
