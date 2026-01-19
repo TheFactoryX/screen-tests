@@ -1,0 +1,24 @@
+{
+  "reel_number": 4146,
+  "recorded": "2026-01-19 07:06:20 UTC",
+  "repository": {
+    "full_name": "Vann-Dev/proxy-list",
+    "url": "https://github.com/Vann-Dev/proxy-list",
+    "clone_url": "https://github.com/Vann-Dev/proxy-list.git",
+    "stars": 111,
+    "language": "Python",
+    "size_kb": 462584
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 451,
+    "duration_seconds": 0.169646
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 111 stars."
+  }
+}

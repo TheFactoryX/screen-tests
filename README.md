@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4145 | [vxCrypt0r/Voidgate](https://github.com/vxCrypt0r/Voidgate) | C++ · ⭐ 590 | 2026-01-19 |
+| #4146 | [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) | Python · ⭐ 111 | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4211,3 +4211,4 @@ Or let GitHub Action run it automatically.
 | 4143 | 2026-01-19 05:19:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124528⭐ Python) | [reels/reel_4143_langchain-ai-langchain](reels/reel_4143_langchain-ai-langchain) |
 | 4144 | 2026-01-19 05:53:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143902⭐ Python) | [reels/reel_4144_langflow-ai-langflow](reels/reel_4144_langflow-ai-langflow) |
 | 4145 | 2026-01-19 06:36:10 | [vxCrypt0r/Voidgate](https://github.com/vxCrypt0r/Voidgate) | ✅ full (590⭐ C++) | [reels/reel_4145_vxCrypt0r-Voidgate](reels/reel_4145_vxCrypt0r-Voidgate) |
+| 4146 | 2026-01-19 07:06:20 | [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) | ✅ shallow (111⭐ Python) | [reels/reel_4146_Vann-Dev-proxy-list](reels/reel_4146_Vann-Dev-proxy-list) |
