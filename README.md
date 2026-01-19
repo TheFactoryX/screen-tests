@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4177 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-19 |
+| #4178 | [plan4better/goat](https://github.com/plan4better/goat) | TypeScript · ⭐ 120 | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4243,3 +4243,4 @@ Or let GitHub Action run it automatically.
 | 4175 | 2026-01-19 21:41:54 | [mquintus/l33tcode-testcase-generator](https://github.com/mquintus/l33tcode-testcase-generator) | ✅ full (188⭐ Python) | [reels/reel_4175_mquintus-l33tcode-testcase-generator](reels/reel_4175_mquintus-l33tcode-testcase-generator) |
 | 4176 | 2026-01-19 21:52:11 | [vehagn/homelab](https://github.com/vehagn/homelab) | ✅ full (371⭐ HCL) | [reels/reel_4176_vehagn-homelab](reels/reel_4176_vehagn-homelab) |
 | 4177 | 2026-01-19 22:19:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143958⭐ Python) | [reels/reel_4177_langflow-ai-langflow](reels/reel_4177_langflow-ai-langflow) |
+| 4178 | 2026-01-19 22:45:22 | [plan4better/goat](https://github.com/plan4better/goat) | ✅ readme_only (120⭐ TypeScript) | [reels/reel_4178_plan4better-goat](reels/reel_4178_plan4better-goat) |
