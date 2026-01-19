@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4172 | [gemwalletcom/core](https://github.com/gemwalletcom/core) | Rust · ⭐ 128 | 2026-01-19 |
+| #4173 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 104k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4238,3 +4238,4 @@ Or let GitHub Action run it automatically.
 | 4170 | 2026-01-19 19:39:54 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (458438⭐ Markdown) | [reels/reel_4170_codecrafters-io-build-your-own-x](reels/reel_4170_codecrafters-io-build-your-own-x) |
 | 4171 | 2026-01-19 19:49:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181273⭐ Python) | [reels/reel_4171_Significant-Gravitas-AutoGPT](reels/reel_4171_Significant-Gravitas-AutoGPT) |
 | 4172 | 2026-01-19 20:22:30 | [gemwalletcom/core](https://github.com/gemwalletcom/core) | ✅ full (128⭐ Rust) | [reels/reel_4172_gemwalletcom-core](reels/reel_4172_gemwalletcom-core) |
+| 4173 | 2026-01-19 20:45:13 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104970⭐ None) | [reels/reel_4173_Hack-with-Github-Awesome-Hacking](reels/reel_4173_Hack-with-Github-Awesome-Hacking) |
