@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4141 | [NimeshJohari02/BoxMaker](https://github.com/NimeshJohari02/BoxMaker) | JavaScript · ⭐ 11 | 2026-01-19 |
+| #4142 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4207,3 +4207,4 @@ Or let GitHub Action run it automatically.
 | 4139 | 2026-01-18 23:50:56 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (255972⭐ None) | [reels/reel_4139_practical-tutorials-project-based-learning](reels/reel_4139_practical-tutorials-project-based-learning) |
 | 4140 | 2026-01-19 01:44:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142500⭐ Python) | [reels/reel_4140_yt-dlp-yt-dlp](reels/reel_4140_yt-dlp-yt-dlp) |
 | 4141 | 2026-01-19 03:27:49 | [NimeshJohari02/BoxMaker](https://github.com/NimeshJohari02/BoxMaker) | ✅ full (11⭐ JavaScript) | [reels/reel_4141_NimeshJohari02-BoxMaker](reels/reel_4141_NimeshJohari02-BoxMaker) |
+| 4142 | 2026-01-19 04:38:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121082⭐ Python) | [reels/reel_4142_open-webui-open-webui](reels/reel_4142_open-webui-open-webui) |
