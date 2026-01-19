@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4152 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 104k | 2026-01-19 |
+| #4153 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4218,3 +4218,4 @@ Or let GitHub Action run it automatically.
 | 4150 | 2026-01-19 09:03:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109831⭐ TypeScript) | [reels/reel_4150_iptv-org-iptv](reels/reel_4150_iptv-org-iptv) |
 | 4151 | 2026-01-19 09:49:40 | [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue) | ✅ shallow (240⭐ Vue) | [reels/reel_4151_nextcloud-libraries-nextcloud-vue](reels/reel_4151_nextcloud-libraries-nextcloud-vue) |
 | 4152 | 2026-01-19 10:26:25 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (104945⭐ None) | [reels/reel_4152_Hack-with-Github-Awesome-Hacking](reels/reel_4152_Hack-with-Github-Awesome-Hacking) |
+| 4153 | 2026-01-19 10:54:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124555⭐ Python) | [reels/reel_4153_langchain-ai-langchain](reels/reel_4153_langchain-ai-langchain) |
