@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4150 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 109k | 2026-01-19 |
+| #4151 | [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue) | Vue · ⭐ 240 | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4216,3 +4216,4 @@ Or let GitHub Action run it automatically.
 | 4148 | 2026-01-19 07:57:33 | [nuxt-modules/shopify](https://github.com/nuxt-modules/shopify) | ✅ full (137⭐ TypeScript) | [reels/reel_4148_nuxt-modules-shopify](reels/reel_4148_nuxt-modules-shopify) |
 | 4149 | 2026-01-19 08:39:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124546⭐ Python) | [reels/reel_4149_langchain-ai-langchain](reels/reel_4149_langchain-ai-langchain) |
 | 4150 | 2026-01-19 09:03:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109831⭐ TypeScript) | [reels/reel_4150_iptv-org-iptv](reels/reel_4150_iptv-org-iptv) |
+| 4151 | 2026-01-19 09:49:40 | [nextcloud-libraries/nextcloud-vue](https://github.com/nextcloud-libraries/nextcloud-vue) | ✅ shallow (240⭐ Vue) | [reels/reel_4151_nextcloud-libraries-nextcloud-vue](reels/reel_4151_nextcloud-libraries-nextcloud-vue) |
