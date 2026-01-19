@@ -1,0 +1,24 @@
+{
+  "reel_number": 4175,
+  "recorded": "2026-01-19 21:41:54 UTC",
+  "repository": {
+    "full_name": "mquintus/l33tcode-testcase-generator",
+    "url": "https://github.com/mquintus/l33tcode-testcase-generator",
+    "clone_url": "https://github.com/mquintus/l33tcode-testcase-generator.git",
+    "stars": 188,
+    "language": "Python",
+    "size_kb": 39948
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 39,
+    "duration_seconds": 1.999771
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 188 stars."
+  }
+}
