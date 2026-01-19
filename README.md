@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4163 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-19 |
+| #4164 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 169k | 2026-01-19 |
 ---
 
 ## 🎭 Selection Process
@@ -4229,3 +4229,4 @@ Or let GitHub Action run it automatically.
 | 4161 | 2026-01-19 15:24:15 | [Senryoku/Deecy](https://github.com/Senryoku/Deecy) | ✅ full (165⭐ Zig) | [reels/reel_4161_Senryoku-Deecy](reels/reel_4161_Senryoku-Deecy) |
 | 4162 | 2026-01-19 15:49:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169964⭐ TypeScript) | [reels/reel_4162_n8n-io-n8n](reels/reel_4162_n8n-io-n8n) |
 | 4163 | 2026-01-19 16:27:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109524⭐ Rust) | [reels/reel_4163_rust-lang-rust](reels/reel_4163_rust-lang-rust) |
+| 4164 | 2026-01-19 16:56:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (169976⭐ TypeScript) | [reels/reel_4164_n8n-io-n8n](reels/reel_4164_n8n-io-n8n) |
