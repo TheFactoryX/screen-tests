@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4187 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-20 |
+| #4188 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-20 |
 ---
 
 ## 🎭 Selection Process
@@ -4253,3 +4253,4 @@ Or let GitHub Action run it automatically.
 | 4185 | 2026-01-20 05:06:05 | [KaiNorberg/PatchworkOS](https://github.com/KaiNorberg/PatchworkOS) | ✅ full (422⭐ C) | [reels/reel_4185_KaiNorberg-PatchworkOS](reels/reel_4185_KaiNorberg-PatchworkOS) |
 | 4186 | 2026-01-20 05:45:54 | [ClickHouse/pastila](https://github.com/ClickHouse/pastila) | ✅ full (81⭐ HTML) | [reels/reel_4186_ClickHouse-pastila](reels/reel_4186_ClickHouse-pastila) |
 | 4187 | 2026-01-20 06:34:08 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101197⭐ Python) | [reels/reel_4187_deepseek-ai-DeepSeek-V3](reels/reel_4187_deepseek-ai-DeepSeek-V3) |
+| 4188 | 2026-01-20 07:04:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121211⭐ Python) | [reels/reel_4188_open-webui-open-webui](reels/reel_4188_open-webui-open-webui) |
