@@ -1,0 +1,24 @@
+{
+  "reel_number": 4198,
+  "recorded": "2026-01-20 11:56:45 UTC",
+  "repository": {
+    "full_name": "kvesteri/wtforms-alchemy",
+    "url": "https://github.com/kvesteri/wtforms-alchemy",
+    "clone_url": "https://github.com/kvesteri/wtforms-alchemy.git",
+    "stars": 247,
+    "language": "Python",
+    "size_kb": 657
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.350255
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 247 stars."
+  }
+}
