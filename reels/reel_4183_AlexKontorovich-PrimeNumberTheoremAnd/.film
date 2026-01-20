@@ -1,0 +1,24 @@
+{
+  "reel_number": 4183,
+  "recorded": "2026-01-20 03:23:14 UTC",
+  "repository": {
+    "full_name": "AlexKontorovich/PrimeNumberTheoremAnd",
+    "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+    "clone_url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd.git",
+    "stars": 235,
+    "language": "Lean",
+    "size_kb": 4125
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.768416
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lean",
+    "director_note": "A Lean repository. 235 stars."
+  }
+}
