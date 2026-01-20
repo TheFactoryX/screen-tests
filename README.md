@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4183 | [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) | Lean · ⭐ 235 | 2026-01-20 |
+| #4184 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 143k | 2026-01-20 |
 ---
 
 ## 🎭 Selection Process
@@ -4249,3 +4249,4 @@ Or let GitHub Action run it automatically.
 | 4181 | 2026-01-19 23:53:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124587⭐ Python) | [reels/reel_4181_langchain-ai-langchain](reels/reel_4181_langchain-ai-langchain) |
 | 4182 | 2026-01-20 01:39:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143970⭐ Python) | [reels/reel_4182_langflow-ai-langflow](reels/reel_4182_langflow-ai-langflow) |
 | 4183 | 2026-01-20 03:23:14 | [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) | ✅ full (235⭐ Lean) | [reels/reel_4183_AlexKontorovich-PrimeNumberTheoremAnd](reels/reel_4183_AlexKontorovich-PrimeNumberTheoremAnd) |
+| 4184 | 2026-01-20 04:31:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (143984⭐ Python) | [reels/reel_4184_langflow-ai-langflow](reels/reel_4184_langflow-ai-langflow) |
