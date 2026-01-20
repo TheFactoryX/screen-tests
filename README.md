@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4191 | [fdciabdul/Google-Trends-Keywords-Scraper](https://github.com/fdciabdul/Google-Trends-Keywords-Scraper) | JavaScript · ⭐ 133 | 2026-01-20 |
+| #4192 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 142k | 2026-01-20 |
 ---
 
 ## 🎭 Selection Process
@@ -4257,3 +4257,4 @@ Or let GitHub Action run it automatically.
 | 4189 | 2026-01-20 07:41:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124624⭐ Python) | [reels/reel_4189_langchain-ai-langchain](reels/reel_4189_langchain-ai-langchain) |
 | 4190 | 2026-01-20 07:55:52 | [Shubh2-0/Video_Assignments_Topics](https://github.com/Shubh2-0/Video_Assignments_Topics) | ✅ full (14⭐ Java) | [reels/reel_4190_Shubh2-0-Video_Assignments_Topics](reels/reel_4190_Shubh2-0-Video_Assignments_Topics) |
 | 4191 | 2026-01-20 08:32:52 | [fdciabdul/Google-Trends-Keywords-Scraper](https://github.com/fdciabdul/Google-Trends-Keywords-Scraper) | ✅ readme_only (133⭐ JavaScript) | [reels/reel_4191_fdciabdul-Google-Trends-Keywords-Scraper](reels/reel_4191_fdciabdul-Google-Trends-Keywords-Scraper) |
+| 4192 | 2026-01-20 09:04:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142824⭐ Python) | [reels/reel_4192_yt-dlp-yt-dlp](reels/reel_4192_yt-dlp-yt-dlp) |
