@@ -1,0 +1,24 @@
+{
+  "reel_number": 4218,
+  "recorded": "2026-01-20 23:43:33 UTC",
+  "repository": {
+    "full_name": "pavel-kirienko/o1heap",
+    "url": "https://github.com/pavel-kirienko/o1heap",
+    "clone_url": "https://github.com/pavel-kirienko/o1heap.git",
+    "stars": 373,
+    "language": "C++",
+    "size_kb": 6711
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.412632
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 373 stars."
+  }
+}
