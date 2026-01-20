@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4201 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-20 |
+| #4202 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-20 |
 ---
 
 ## 🎭 Selection Process
@@ -4267,3 +4267,4 @@ Or let GitHub Action run it automatically.
 | 4199 | 2026-01-20 12:56:06 | [AI-Cultivation/cultivation-world-simulator](https://github.com/AI-Cultivation/cultivation-world-simulator) | ✅ shallow (137⭐ Python) | [reels/reel_4199_AI-Cultivation-cultivation-world-simulator](reels/reel_4199_AI-Cultivation-cultivation-world-simulator) |
 | 4200 | 2026-01-20 13:47:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144034⭐ Python) | [reels/reel_4200_langflow-ai-langflow](reels/reel_4200_langflow-ai-langflow) |
 | 4201 | 2026-01-20 14:29:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124654⭐ Python) | [reels/reel_4201_langchain-ai-langchain](reels/reel_4201_langchain-ai-langchain) |
+| 4202 | 2026-01-20 14:58:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124656⭐ Python) | [reels/reel_4202_langchain-ai-langchain](reels/reel_4202_langchain-ai-langchain) |
