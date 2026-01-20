@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4209 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-20 |
+| #4210 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-20 |
 ---
 
 ## 🎭 Selection Process
@@ -4275,3 +4275,4 @@ Or let GitHub Action run it automatically.
 | 4207 | 2026-01-20 17:54:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144057⭐ Python) | [reels/reel_4207_langflow-ai-langflow](reels/reel_4207_langflow-ai-langflow) |
 | 4208 | 2026-01-20 18:34:22 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139510⭐ Python) | [reels/reel_4208_ytdl-org-youtube-dl](reels/reel_4208_ytdl-org-youtube-dl) |
 | 4209 | 2026-01-20 19:54:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121289⭐ Python) | [reels/reel_4209_open-webui-open-webui](reels/reel_4209_open-webui-open-webui) |
+| 4210 | 2026-01-20 20:41:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144063⭐ Python) | [reels/reel_4210_langflow-ai-langflow](reels/reel_4210_langflow-ai-langflow) |
