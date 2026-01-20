@@ -1,0 +1,24 @@
+{
+  "reel_number": 4215,
+  "recorded": "2026-01-20 22:44:09 UTC",
+  "repository": {
+    "full_name": "ccamel/awesome-ccamel",
+    "url": "https://github.com/ccamel/awesome-ccamel",
+    "clone_url": "https://github.com/ccamel/awesome-ccamel.git",
+    "stars": 25,
+    "language": null,
+    "size_kb": 1983
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.658337
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 25 stars."
+  }
+}

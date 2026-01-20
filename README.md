@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4214 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-20 |
+| #4215 | [ccamel/awesome-ccamel](https://github.com/ccamel/awesome-ccamel) | None · ⭐ 25 | 2026-01-20 |
 ---
 
 ## 🎭 Selection Process
@@ -4280,3 +4280,4 @@ Or let GitHub Action run it automatically.
 | 4212 | 2026-01-20 21:34:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121295⭐ Python) | [reels/reel_4212_open-webui-open-webui](reels/reel_4212_open-webui-open-webui) |
 | 4213 | 2026-01-20 21:50:41 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102501⭐ Shell) | [reels/reel_4213_papers-we-love-papers-we-love](reels/reel_4213_papers-we-love-papers-we-love) |
 | 4214 | 2026-01-20 22:21:31 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101609⭐ Rust) | [reels/reel_4214_tauri-apps-tauri](reels/reel_4214_tauri-apps-tauri) |
+| 4215 | 2026-01-20 22:44:09 | [ccamel/awesome-ccamel](https://github.com/ccamel/awesome-ccamel) | ✅ full (25⭐ None) | [reels/reel_4215_ccamel-awesome-ccamel](reels/reel_4215_ccamel-awesome-ccamel) |
