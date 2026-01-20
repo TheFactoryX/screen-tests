@@ -1,0 +1,24 @@
+{
+  "reel_number": 4185,
+  "recorded": "2026-01-20 05:06:05 UTC",
+  "repository": {
+    "full_name": "KaiNorberg/PatchworkOS",
+    "url": "https://github.com/KaiNorberg/PatchworkOS",
+    "clone_url": "https://github.com/KaiNorberg/PatchworkOS.git",
+    "stars": 422,
+    "language": "C",
+    "size_kb": 28364
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 1.678981
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 422 stars."
+  }
+}
