@@ -1,0 +1,24 @@
+{
+  "reel_number": 4217,
+  "recorded": "2026-01-20 23:20:24 UTC",
+  "repository": {
+    "full_name": "tempoxyz/tempo-apps",
+    "url": "https://github.com/tempoxyz/tempo-apps",
+    "clone_url": "https://github.com/tempoxyz/tempo-apps.git",
+    "stars": 153,
+    "language": "TypeScript",
+    "size_kb": 24609
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 1.015962
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 153 stars."
+  }
+}
