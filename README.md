@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4204 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-20 |
+| #4205 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-20 |
 ---
 
 ## 🎭 Selection Process
@@ -4270,3 +4270,4 @@ Or let GitHub Action run it automatically.
 | 4202 | 2026-01-20 14:58:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124656⭐ Python) | [reels/reel_4202_langchain-ai-langchain](reels/reel_4202_langchain-ai-langchain) |
 | 4203 | 2026-01-20 15:39:14 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (675⭐ Tcl) | [reels/reel_4203_rust-lang-crates.io-index](reels/reel_4203_rust-lang-crates.io-index) |
 | 4204 | 2026-01-20 16:01:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181306⭐ Python) | [reels/reel_4204_Significant-Gravitas-AutoGPT](reels/reel_4204_Significant-Gravitas-AutoGPT) |
+| 4205 | 2026-01-20 16:51:08 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97309⭐ TypeScript) | [reels/reel_4205_ant-design-ant-design](reels/reel_4205_ant-design-ant-design) |
