@@ -1,0 +1,24 @@
+{
+  "reel_number": 4190,
+  "recorded": "2026-01-20 07:55:52 UTC",
+  "repository": {
+    "full_name": "Shubh2-0/Video_Assignments_Topics",
+    "url": "https://github.com/Shubh2-0/Video_Assignments_Topics",
+    "clone_url": "https://github.com/Shubh2-0/Video_Assignments_Topics.git",
+    "stars": 14,
+    "language": "Java",
+    "size_kb": 59
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.515309
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 14 stars."
+  }
+}
