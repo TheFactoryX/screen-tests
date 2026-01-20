@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4193 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 269k | 2026-01-20 |
+| #4194 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-20 |
 ---
 
 ## 🎭 Selection Process
@@ -4259,3 +4259,4 @@ Or let GitHub Action run it automatically.
 | 4191 | 2026-01-20 08:32:52 | [fdciabdul/Google-Trends-Keywords-Scraper](https://github.com/fdciabdul/Google-Trends-Keywords-Scraper) | ✅ readme_only (133⭐ JavaScript) | [reels/reel_4191_fdciabdul-Google-Trends-Keywords-Scraper](reels/reel_4191_fdciabdul-Google-Trends-Keywords-Scraper) |
 | 4192 | 2026-01-20 09:04:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (142824⭐ Python) | [reels/reel_4192_yt-dlp-yt-dlp](reels/reel_4192_yt-dlp-yt-dlp) |
 | 4193 | 2026-01-20 09:46:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269067⭐ None) | [reels/reel_4193_awesome-selfhosted-awesome-selfhosted](reels/reel_4193_awesome-selfhosted-awesome-selfhosted) |
+| 4194 | 2026-01-20 10:26:09 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97305⭐ TypeScript) | [reels/reel_4194_ant-design-ant-design](reels/reel_4194_ant-design-ant-design) |
