@@ -1,0 +1,24 @@
+{
+  "reel_number": 4199,
+  "recorded": "2026-01-20 12:56:06 UTC",
+  "repository": {
+    "full_name": "AI-Cultivation/cultivation-world-simulator",
+    "url": "https://github.com/AI-Cultivation/cultivation-world-simulator",
+    "clone_url": "https://github.com/AI-Cultivation/cultivation-world-simulator.git",
+    "stars": 137,
+    "language": "Python",
+    "size_kb": 153469
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 149,
+    "duration_seconds": 2.005035
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 137 stars."
+  }
+}
