@@ -1,0 +1,24 @@
+{
+  "reel_number": 4226,
+  "recorded": "2026-01-21 07:04:53 UTC",
+  "repository": {
+    "full_name": "AloisSeckar/demos-java",
+    "url": "https://github.com/AloisSeckar/demos-java",
+    "clone_url": "https://github.com/AloisSeckar/demos-java.git",
+    "stars": 23,
+    "language": "Java",
+    "size_kb": 1047
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.65176
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 23 stars."
+  }
+}
