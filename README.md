@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4238 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 269k | 2026-01-21 |
+| #4239 | [yhy0/ChYing](https://github.com/yhy0/ChYing) | Go · ⭐ 602 | 2026-01-21 |
 ---
 
 ## 🎭 Selection Process
@@ -4304,3 +4304,4 @@ Or let GitHub Action run it automatically.
 | 4236 | 2026-01-21 12:46:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144096⭐ Python) | [reels/reel_4236_langflow-ai-langflow](reels/reel_4236_langflow-ai-langflow) |
 | 4237 | 2026-01-21 13:43:55 | [opensearch-project/opensearch-dashboards-functional-test](https://github.com/opensearch-project/opensearch-dashboards-functional-test) | ✅ full (18⭐ JavaScript) | [reels/reel_4237_opensearch-project-opensearch-dashboards-functional-test](reels/reel_4237_opensearch-project-opensearch-dashboards-functional-test) |
 | 4238 | 2026-01-21 14:17:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269277⭐ None) | [reels/reel_4238_awesome-selfhosted-awesome-selfhosted](reels/reel_4238_awesome-selfhosted-awesome-selfhosted) |
+| 4239 | 2026-01-21 14:56:19 | [yhy0/ChYing](https://github.com/yhy0/ChYing) | ✅ full (602⭐ Go) | [reels/reel_4239_yhy0-ChYing](reels/reel_4239_yhy0-ChYing) |

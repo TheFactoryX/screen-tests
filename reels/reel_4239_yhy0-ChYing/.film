@@ -1,0 +1,24 @@
+{
+  "reel_number": 4239,
+  "recorded": "2026-01-21 14:56:19 UTC",
+  "repository": {
+    "full_name": "yhy0/ChYing",
+    "url": "https://github.com/yhy0/ChYing",
+    "clone_url": "https://github.com/yhy0/ChYing.git",
+    "stars": 602,
+    "language": "Go",
+    "size_kb": 14898
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 1.095756
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 602 stars."
+  }
+}
