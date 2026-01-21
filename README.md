@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4249 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-21 |
+| #4250 | [snarfed/granary](https://github.com/snarfed/granary) | Python · ⭐ 506 | 2026-01-21 |
 ---
 
 ## 🎭 Selection Process
@@ -4315,3 +4315,4 @@ Or let GitHub Action run it automatically.
 | 4247 | 2026-01-21 20:47:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109589⭐ Rust) | [reels/reel_4247_rust-lang-rust](reels/reel_4247_rust-lang-rust) |
 | 4248 | 2026-01-21 21:26:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181336⭐ Python) | [reels/reel_4248_Significant-Gravitas-AutoGPT](reels/reel_4248_Significant-Gravitas-AutoGPT) |
 | 4249 | 2026-01-21 21:51:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144104⭐ Python) | [reels/reel_4249_langflow-ai-langflow](reels/reel_4249_langflow-ai-langflow) |
+| 4250 | 2026-01-21 22:23:15 | [snarfed/granary](https://github.com/snarfed/granary) | ✅ full (506⭐ Python) | [reels/reel_4250_snarfed-granary](reels/reel_4250_snarfed-granary) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 4250,
+  "recorded": "2026-01-21 22:23:15 UTC",
+  "repository": {
+    "full_name": "snarfed/granary",
+    "url": "https://github.com/snarfed/granary",
+    "clone_url": "https://github.com/snarfed/granary.git",
+    "stars": 506,
+    "language": "Python",
+    "size_kb": 10569
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.913294
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 506 stars."
+  }
+}
