@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4235 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-21 |
+| #4236 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-21 |
 ---
 
 ## 🎭 Selection Process
@@ -4301,3 +4301,4 @@ Or let GitHub Action run it automatically.
 | 4233 | 2026-01-21 10:56:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143080⭐ Python) | [reels/reel_4233_yt-dlp-yt-dlp](reels/reel_4233_yt-dlp-yt-dlp) |
 | 4234 | 2026-01-21 11:24:42 | [vrnobody/V2RayGCon](https://github.com/vrnobody/V2RayGCon) | ✅ full (138⭐ C#) | [reels/reel_4234_vrnobody-V2RayGCon](reels/reel_4234_vrnobody-V2RayGCon) |
 | 4235 | 2026-01-21 11:45:36 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102520⭐ Shell) | [reels/reel_4235_papers-we-love-papers-we-love](reels/reel_4235_papers-we-love-papers-we-love) |
+| 4236 | 2026-01-21 12:46:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144096⭐ Python) | [reels/reel_4236_langflow-ai-langflow](reels/reel_4236_langflow-ai-langflow) |
