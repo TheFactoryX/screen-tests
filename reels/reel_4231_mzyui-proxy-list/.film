@@ -1,0 +1,24 @@
+{
+  "reel_number": 4231,
+  "recorded": "2026-01-21 09:46:43 UTC",
+  "repository": {
+    "full_name": "mzyui/proxy-list",
+    "url": "https://github.com/mzyui/proxy-list",
+    "clone_url": "https://github.com/mzyui/proxy-list.git",
+    "stars": 169,
+    "language": null,
+    "size_kb": 1422343
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1389,
+    "duration_seconds": 0.000142
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 169 stars."
+  }
+}
