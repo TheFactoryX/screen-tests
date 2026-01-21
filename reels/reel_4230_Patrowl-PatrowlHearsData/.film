@@ -1,0 +1,24 @@
+{
+  "reel_number": 4230,
+  "recorded": "2026-01-21 09:03:22 UTC",
+  "repository": {
+    "full_name": "Patrowl/PatrowlHearsData",
+    "url": "https://github.com/Patrowl/PatrowlHearsData",
+    "clone_url": "https://github.com/Patrowl/PatrowlHearsData.git",
+    "stars": 140,
+    "language": "Python",
+    "size_kb": 4579673
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 4472,
+    "duration_seconds": 0.000132
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 140 stars."
+  }
+}

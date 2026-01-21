@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4229 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-21 |
+| #4230 | [Patrowl/PatrowlHearsData](https://github.com/Patrowl/PatrowlHearsData) | Python · ⭐ 140 | 2026-01-21 |
 ---
 
 ## 🎭 Selection Process
@@ -4295,3 +4295,4 @@ Or let GitHub Action run it automatically.
 | 4227 | 2026-01-21 07:43:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105220⭐ TypeScript) | [reels/reel_4227_shadcn-ui-ui](reels/reel_4227_shadcn-ui-ui) |
 | 4228 | 2026-01-21 07:57:30 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102512⭐ Shell) | [reels/reel_4228_papers-we-love-papers-we-love](reels/reel_4228_papers-we-love-papers-we-love) |
 | 4229 | 2026-01-21 08:37:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181329⭐ Python) | [reels/reel_4229_Significant-Gravitas-AutoGPT](reels/reel_4229_Significant-Gravitas-AutoGPT) |
+| 4230 | 2026-01-21 09:03:22 | [Patrowl/PatrowlHearsData](https://github.com/Patrowl/PatrowlHearsData) | ✅ readme_only (140⭐ Python) | [reels/reel_4230_Patrowl-PatrowlHearsData](reels/reel_4230_Patrowl-PatrowlHearsData) |
