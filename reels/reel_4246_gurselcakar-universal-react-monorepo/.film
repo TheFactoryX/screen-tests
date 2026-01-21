@@ -1,0 +1,24 @@
+{
+  "reel_number": 4246,
+  "recorded": "2026-01-21 20:00:56 UTC",
+  "repository": {
+    "full_name": "gurselcakar/universal-react-monorepo",
+    "url": "https://github.com/gurselcakar/universal-react-monorepo",
+    "clone_url": "https://github.com/gurselcakar/universal-react-monorepo.git",
+    "stars": 163,
+    "language": "TypeScript",
+    "size_kb": 3887
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.282091
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 163 stars."
+  }
+}
