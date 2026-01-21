@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4220 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-21 |
+| #4221 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-21 |
 ---
 
 ## 🎭 Selection Process
@@ -4286,3 +4286,4 @@ Or let GitHub Action run it automatically.
 | 4218 | 2026-01-20 23:43:33 | [pavel-kirienko/o1heap](https://github.com/pavel-kirienko/o1heap) | ✅ full (373⭐ C++) | [reels/reel_4218_pavel-kirienko-o1heap](reels/reel_4218_pavel-kirienko-o1heap) |
 | 4219 | 2026-01-20 23:55:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (109907⭐ TypeScript) | [reels/reel_4219_iptv-org-iptv](reels/reel_4219_iptv-org-iptv) |
 | 4220 | 2026-01-21 01:43:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121304⭐ Python) | [reels/reel_4220_open-webui-open-webui](reels/reel_4220_open-webui-open-webui) |
+| 4221 | 2026-01-21 03:23:04 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102504⭐ Shell) | [reels/reel_4221_papers-we-love-papers-we-love](reels/reel_4221_papers-we-love-papers-we-love) |
