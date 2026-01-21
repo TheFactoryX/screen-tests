@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4248 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-21 |
+| #4249 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-21 |
 ---
 
 ## 🎭 Selection Process
@@ -4314,3 +4314,4 @@ Or let GitHub Action run it automatically.
 | 4246 | 2026-01-21 20:00:56 | [gurselcakar/universal-react-monorepo](https://github.com/gurselcakar/universal-react-monorepo) | ✅ full (163⭐ TypeScript) | [reels/reel_4246_gurselcakar-universal-react-monorepo](reels/reel_4246_gurselcakar-universal-react-monorepo) |
 | 4247 | 2026-01-21 20:47:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109589⭐ Rust) | [reels/reel_4247_rust-lang-rust](reels/reel_4247_rust-lang-rust) |
 | 4248 | 2026-01-21 21:26:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181336⭐ Python) | [reels/reel_4248_Significant-Gravitas-AutoGPT](reels/reel_4248_Significant-Gravitas-AutoGPT) |
+| 4249 | 2026-01-21 21:51:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144104⭐ Python) | [reels/reel_4249_langflow-ai-langflow](reels/reel_4249_langflow-ai-langflow) |
