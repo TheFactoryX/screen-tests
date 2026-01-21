@@ -1,0 +1,24 @@
+{
+  "reel_number": 4237,
+  "recorded": "2026-01-21 13:43:55 UTC",
+  "repository": {
+    "full_name": "opensearch-project/opensearch-dashboards-functional-test",
+    "url": "https://github.com/opensearch-project/opensearch-dashboards-functional-test",
+    "clone_url": "https://github.com/opensearch-project/opensearch-dashboards-functional-test.git",
+    "stars": 18,
+    "language": "JavaScript",
+    "size_kb": 95857
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 93,
+    "duration_seconds": 3.729459
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 18 stars."
+  }
+}
