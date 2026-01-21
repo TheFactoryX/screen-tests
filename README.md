@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4252 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-21 |
+| #4253 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-21 |
 ---
 
 ## 🎭 Selection Process
@@ -4318,3 +4318,4 @@ Or let GitHub Action run it automatically.
 | 4250 | 2026-01-21 22:23:15 | [snarfed/granary](https://github.com/snarfed/granary) | ✅ full (506⭐ Python) | [reels/reel_4250_snarfed-granary](reels/reel_4250_snarfed-granary) |
 | 4251 | 2026-01-21 22:52:26 | [eXist-db/exist](https://github.com/eXist-db/exist) | ✅ readme_only (458⭐ Java) | [reels/reel_4251_eXist-db-exist](reels/reel_4251_eXist-db-exist) |
 | 4252 | 2026-01-21 23:23:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124778⭐ Python) | [reels/reel_4252_langchain-ai-langchain](reels/reel_4252_langchain-ai-langchain) |
+| 4253 | 2026-01-21 23:50:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121426⭐ Python) | [reels/reel_4253_open-webui-open-webui](reels/reel_4253_open-webui-open-webui) |
