@@ -1,0 +1,24 @@
+{
+  "reel_number": 4251,
+  "recorded": "2026-01-21 22:52:26 UTC",
+  "repository": {
+    "full_name": "eXist-db/exist",
+    "url": "https://github.com/eXist-db/exist",
+    "clone_url": "https://github.com/eXist-db/exist.git",
+    "stars": 458,
+    "language": "Java",
+    "size_kb": 686074
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 669,
+    "duration_seconds": 0.000141
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 458 stars."
+  }
+}
