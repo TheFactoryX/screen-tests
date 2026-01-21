@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4240 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-21 |
+| #4241 | [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) | Python · ⭐ 680 | 2026-01-21 |
 ---
 
 ## 🎭 Selection Process
@@ -4306,3 +4306,4 @@ Or let GitHub Action run it automatically.
 | 4238 | 2026-01-21 14:17:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269277⭐ None) | [reels/reel_4238_awesome-selfhosted-awesome-selfhosted](reels/reel_4238_awesome-selfhosted-awesome-selfhosted) |
 | 4239 | 2026-01-21 14:56:19 | [yhy0/ChYing](https://github.com/yhy0/ChYing) | ✅ full (602⭐ Go) | [reels/reel_4239_yhy0-ChYing](reels/reel_4239_yhy0-ChYing) |
 | 4240 | 2026-01-21 15:33:57 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121397⭐ Python) | [reels/reel_4240_open-webui-open-webui](reels/reel_4240_open-webui-open-webui) |
+| 4241 | 2026-01-21 16:02:34 | [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio) | ✅ full (680⭐ Python) | [reels/reel_4241_lightly-ai-lightly-studio](reels/reel_4241_lightly-ai-lightly-studio) |
