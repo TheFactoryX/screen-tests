@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4273 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-22 |
+| #4274 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4339,3 +4339,4 @@ Or let GitHub Action run it automatically.
 | 4271 | 2026-01-22 12:56:31 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97336⭐ TypeScript) | [reels/reel_4271_ant-design-ant-design](reels/reel_4271_ant-design-ant-design) |
 | 4272 | 2026-01-22 13:49:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124844⭐ Python) | [reels/reel_4272_langchain-ai-langchain](reels/reel_4272_langchain-ai-langchain) |
 | 4273 | 2026-01-22 14:28:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101696⭐ Rust) | [reels/reel_4273_tauri-apps-tauri](reels/reel_4273_tauri-apps-tauri) |
+| 4274 | 2026-01-22 14:57:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110015⭐ TypeScript) | [reels/reel_4274_iptv-org-iptv](reels/reel_4274_iptv-org-iptv) |
