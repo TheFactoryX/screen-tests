@@ -1,0 +1,24 @@
+{
+  "reel_number": 4290,
+  "recorded": "2026-01-22 23:19:32 UTC",
+  "repository": {
+    "full_name": "whad-team/whad-client",
+    "url": "https://github.com/whad-team/whad-client",
+    "clone_url": "https://github.com/whad-team/whad-client.git",
+    "stars": 276,
+    "language": "Python",
+    "size_kb": 6126
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.57436
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 276 stars."
+  }
+}

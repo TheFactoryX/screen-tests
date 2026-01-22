@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4289 | [tinkerhub/useless_project_temp](https://github.com/tinkerhub/useless_project_temp) | None · ⭐ 14 | 2026-01-22 |
+| #4290 | [whad-team/whad-client](https://github.com/whad-team/whad-client) | Python · ⭐ 276 | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4354,3 +4354,4 @@ Or let GitHub Action run it automatically.
 | 4287 | 2026-01-22 21:45:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144126⭐ Python) | [reels/reel_4287_langflow-ai-langflow](reels/reel_4287_langflow-ai-langflow) |
 | 4288 | 2026-01-22 22:20:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269524⭐ None) | [reels/reel_4288_awesome-selfhosted-awesome-selfhosted](reels/reel_4288_awesome-selfhosted-awesome-selfhosted) |
 | 4289 | 2026-01-22 22:47:42 | [tinkerhub/useless_project_temp](https://github.com/tinkerhub/useless_project_temp) | ✅ full (14⭐ None) | [reels/reel_4289_tinkerhub-useless_project_temp](reels/reel_4289_tinkerhub-useless_project_temp) |
+| 4290 | 2026-01-22 23:19:32 | [whad-team/whad-client](https://github.com/whad-team/whad-client) | ✅ full (276⭐ Python) | [reels/reel_4290_whad-team-whad-client](reels/reel_4290_whad-team-whad-client) |
