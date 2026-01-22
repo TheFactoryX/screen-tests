@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4262 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-22 |
+| #4263 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 105k | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4328,3 +4328,4 @@ Or let GitHub Action run it automatically.
 | 4260 | 2026-01-22 07:03:49 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124812⭐ Python) | [reels/reel_4260_langchain-ai-langchain](reels/reel_4260_langchain-ai-langchain) |
 | 4261 | 2026-01-22 07:40:49 | [crowdin/crowdin-cli](https://github.com/crowdin/crowdin-cli) | ✅ full (294⭐ Java) | [reels/reel_4261_crowdin-crowdin-cli](reels/reel_4261_crowdin-crowdin-cli) |
 | 4262 | 2026-01-22 07:54:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181350⭐ Python) | [reels/reel_4262_Significant-Gravitas-AutoGPT](reels/reel_4262_Significant-Gravitas-AutoGPT) |
+| 4263 | 2026-01-22 08:30:35 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105125⭐ None) | [reels/reel_4263_Hack-with-Github-Awesome-Hacking](reels/reel_4263_Hack-with-Github-Awesome-Hacking) |
