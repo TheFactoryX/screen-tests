@@ -1,0 +1,24 @@
+{
+  "reel_number": 4261,
+  "recorded": "2026-01-22 07:40:49 UTC",
+  "repository": {
+    "full_name": "crowdin/crowdin-cli",
+    "url": "https://github.com/crowdin/crowdin-cli",
+    "clone_url": "https://github.com/crowdin/crowdin-cli.git",
+    "stars": 294,
+    "language": "Java",
+    "size_kb": 27756
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 1.539488
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 294 stars."
+  }
+}

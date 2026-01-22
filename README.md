@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4260 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-22 |
+| #4261 | [crowdin/crowdin-cli](https://github.com/crowdin/crowdin-cli) | Java · ⭐ 294 | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4326,3 +4326,4 @@ Or let GitHub Action run it automatically.
 | 4258 | 2026-01-22 05:52:06 | [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | ✅ full (106⭐ Lua) | [reels/reel_4258_tamton-aquib-stuff.nvim](reels/reel_4258_tamton-aquib-stuff.nvim) |
 | 4259 | 2026-01-22 06:33:02 | [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) | ✅ full (532⭐ Python) | [reels/reel_4259_PBH-BTN-BTN-Collected-Rules](reels/reel_4259_PBH-BTN-BTN-Collected-Rules) |
 | 4260 | 2026-01-22 07:03:49 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124812⭐ Python) | [reels/reel_4260_langchain-ai-langchain](reels/reel_4260_langchain-ai-langchain) |
+| 4261 | 2026-01-22 07:40:49 | [crowdin/crowdin-cli](https://github.com/crowdin/crowdin-cli) | ✅ full (294⭐ Java) | [reels/reel_4261_crowdin-crowdin-cli](reels/reel_4261_crowdin-crowdin-cli) |
