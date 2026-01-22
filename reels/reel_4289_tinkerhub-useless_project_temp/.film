@@ -1,0 +1,24 @@
+{
+  "reel_number": 4289,
+  "recorded": "2026-01-22 22:47:42 UTC",
+  "repository": {
+    "full_name": "tinkerhub/useless_project_temp",
+    "url": "https://github.com/tinkerhub/useless_project_temp",
+    "clone_url": "https://github.com/tinkerhub/useless_project_temp.git",
+    "stars": 14,
+    "language": null,
+    "size_kb": 9
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.394405
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 14 stars."
+  }
+}
