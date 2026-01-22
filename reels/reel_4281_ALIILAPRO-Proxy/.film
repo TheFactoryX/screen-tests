@@ -1,0 +1,24 @@
+{
+  "reel_number": 4281,
+  "recorded": "2026-01-22 19:03:45 UTC",
+  "repository": {
+    "full_name": "ALIILAPRO/Proxy",
+    "url": "https://github.com/ALIILAPRO/Proxy",
+    "clone_url": "https://github.com/ALIILAPRO/Proxy.git",
+    "stars": 170,
+    "language": "CSS",
+    "size_kb": 1574663
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1537,
+    "duration_seconds": 0.000136
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 170 stars."
+  }
+}
