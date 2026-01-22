@@ -1,0 +1,24 @@
+{
+  "reel_number": 4284,
+  "recorded": "2026-01-22 20:25:37 UTC",
+  "repository": {
+    "full_name": "DiseaseOntology/HumanDiseaseOntology",
+    "url": "https://github.com/DiseaseOntology/HumanDiseaseOntology",
+    "clone_url": "https://github.com/DiseaseOntology/HumanDiseaseOntology.git",
+    "stars": 384,
+    "language": "Makefile",
+    "size_kb": 1169357
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1141,
+    "duration_seconds": 0.000157
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Makefile",
+    "director_note": "A Makefile repository. 384 stars."
+  }
+}
