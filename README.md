@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4255 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 269k | 2026-01-22 |
+| #4256 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 170k | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4321,3 +4321,4 @@ Or let GitHub Action run it automatically.
 | 4253 | 2026-01-21 23:50:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121426⭐ Python) | [reels/reel_4253_open-webui-open-webui](reels/reel_4253_open-webui-open-webui) |
 | 4254 | 2026-01-22 01:42:37 | [StevenBlack/vocab](https://github.com/StevenBlack/vocab) | ✅ full (11⭐ Rust) | [reels/reel_4254_StevenBlack-vocab](reels/reel_4254_StevenBlack-vocab) |
 | 4255 | 2026-01-22 03:26:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269368⭐ None) | [reels/reel_4255_awesome-selfhosted-awesome-selfhosted](reels/reel_4255_awesome-selfhosted-awesome-selfhosted) |
+| 4256 | 2026-01-22 04:34:10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170538⭐ TypeScript) | [reels/reel_4256_n8n-io-n8n](reels/reel_4256_n8n-io-n8n) |
