@@ -1,0 +1,24 @@
+{
+  "reel_number": 4283,
+  "recorded": "2026-01-22 19:52:58 UTC",
+  "repository": {
+    "full_name": "Additional-Mods/additionaladditions",
+    "url": "https://github.com/Additional-Mods/additionaladditions",
+    "clone_url": "https://github.com/Additional-Mods/additionaladditions.git",
+    "stars": 41,
+    "language": "Java",
+    "size_kb": 10914
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.666138
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 41 stars."
+  }
+}
