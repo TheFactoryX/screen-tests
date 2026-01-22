@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4268 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-22 |
+| #4269 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4334,3 +4334,4 @@ Or let GitHub Action run it automatically.
 | 4266 | 2026-01-22 10:25:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144121⭐ Python) | [reels/reel_4266_langflow-ai-langflow](reels/reel_4266_langflow-ai-langflow) |
 | 4267 | 2026-01-22 10:53:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269427⭐ None) | [reels/reel_4267_awesome-selfhosted-awesome-selfhosted](reels/reel_4267_awesome-selfhosted-awesome-selfhosted) |
 | 4268 | 2026-01-22 11:21:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144121⭐ Python) | [reels/reel_4268_langflow-ai-langflow](reels/reel_4268_langflow-ai-langflow) |
+| 4269 | 2026-01-22 11:44:22 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124839⭐ Python) | [reels/reel_4269_langchain-ai-langchain](reels/reel_4269_langchain-ai-langchain) |
