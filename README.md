@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4276 | [CosmicScale/PSBBN-Definitive-English-Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) | Shell · ⭐ 606 | 2026-01-22 |
+| #4277 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 143k | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4342,3 +4342,4 @@ Or let GitHub Action run it automatically.
 | 4274 | 2026-01-22 14:57:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110015⭐ TypeScript) | [reels/reel_4274_iptv-org-iptv](reels/reel_4274_iptv-org-iptv) |
 | 4275 | 2026-01-22 15:36:32 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101699⭐ Rust) | [reels/reel_4275_tauri-apps-tauri](reels/reel_4275_tauri-apps-tauri) |
 | 4276 | 2026-01-22 16:00:49 | [CosmicScale/PSBBN-Definitive-English-Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) | ✅ full (606⭐ Shell) | [reels/reel_4276_CosmicScale-PSBBN-Definitive-English-Patch](reels/reel_4276_CosmicScale-PSBBN-Definitive-English-Patch) |
+| 4277 | 2026-01-22 16:51:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143460⭐ Python) | [reels/reel_4277_yt-dlp-yt-dlp](reels/reel_4277_yt-dlp-yt-dlp) |
