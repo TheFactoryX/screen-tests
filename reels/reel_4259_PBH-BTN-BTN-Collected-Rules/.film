@@ -1,0 +1,24 @@
+{
+  "reel_number": 4259,
+  "recorded": "2026-01-22 06:33:02 UTC",
+  "repository": {
+    "full_name": "PBH-BTN/BTN-Collected-Rules",
+    "url": "https://github.com/PBH-BTN/BTN-Collected-Rules",
+    "clone_url": "https://github.com/PBH-BTN/BTN-Collected-Rules.git",
+    "stars": 532,
+    "language": "Python",
+    "size_kb": 53767
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 52,
+    "duration_seconds": 7.222523
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 532 stars."
+  }
+}
