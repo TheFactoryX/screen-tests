@@ -1,0 +1,24 @@
+{
+  "reel_number": 4254,
+  "recorded": "2026-01-22 01:42:37 UTC",
+  "repository": {
+    "full_name": "StevenBlack/vocab",
+    "url": "https://github.com/StevenBlack/vocab",
+    "clone_url": "https://github.com/StevenBlack/vocab.git",
+    "stars": 11,
+    "language": "Rust",
+    "size_kb": 924
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.287007
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 11 stars."
+  }
+}

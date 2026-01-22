@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4253 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-21 |
+| #4254 | [StevenBlack/vocab](https://github.com/StevenBlack/vocab) | Rust · ⭐ 11 | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4319,3 +4319,4 @@ Or let GitHub Action run it automatically.
 | 4251 | 2026-01-21 22:52:26 | [eXist-db/exist](https://github.com/eXist-db/exist) | ✅ readme_only (458⭐ Java) | [reels/reel_4251_eXist-db-exist](reels/reel_4251_eXist-db-exist) |
 | 4252 | 2026-01-21 23:23:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124778⭐ Python) | [reels/reel_4252_langchain-ai-langchain](reels/reel_4252_langchain-ai-langchain) |
 | 4253 | 2026-01-21 23:50:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121426⭐ Python) | [reels/reel_4253_open-webui-open-webui](reels/reel_4253_open-webui-open-webui) |
+| 4254 | 2026-01-22 01:42:37 | [StevenBlack/vocab](https://github.com/StevenBlack/vocab) | ✅ full (11⭐ Rust) | [reels/reel_4254_StevenBlack-vocab](reels/reel_4254_StevenBlack-vocab) |
