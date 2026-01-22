@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4291 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-22 |
+| #4292 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 392k | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4356,3 +4356,4 @@ Or let GitHub Action run it automatically.
 | 4289 | 2026-01-22 22:47:42 | [tinkerhub/useless_project_temp](https://github.com/tinkerhub/useless_project_temp) | ✅ full (14⭐ None) | [reels/reel_4289_tinkerhub-useless_project_temp](reels/reel_4289_tinkerhub-useless_project_temp) |
 | 4290 | 2026-01-22 23:19:32 | [whad-team/whad-client](https://github.com/whad-team/whad-client) | ✅ full (276⭐ Python) | [reels/reel_4290_whad-team-whad-client](reels/reel_4290_whad-team-whad-client) |
 | 4291 | 2026-01-22 23:42:58 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101717⭐ Rust) | [reels/reel_4291_tauri-apps-tauri](reels/reel_4291_tauri-apps-tauri) |
+| 4292 | 2026-01-22 23:53:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (392923⭐ Python) | [reels/reel_4292_public-apis-public-apis](reels/reel_4292_public-apis-public-apis) |
