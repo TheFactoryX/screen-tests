@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4264 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 170k | 2026-01-22 |
+| #4265 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4330,3 +4330,4 @@ Or let GitHub Action run it automatically.
 | 4262 | 2026-01-22 07:54:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181350⭐ Python) | [reels/reel_4262_Significant-Gravitas-AutoGPT](reels/reel_4262_Significant-Gravitas-AutoGPT) |
 | 4263 | 2026-01-22 08:30:35 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105125⭐ None) | [reels/reel_4263_Hack-with-Github-Awesome-Hacking](reels/reel_4263_Hack-with-Github-Awesome-Hacking) |
 | 4264 | 2026-01-22 09:01:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170584⭐ TypeScript) | [reels/reel_4264_n8n-io-n8n](reels/reel_4264_n8n-io-n8n) |
+| 4265 | 2026-01-22 09:47:01 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181354⭐ Python) | [reels/reel_4265_Significant-Gravitas-AutoGPT](reels/reel_4265_Significant-Gravitas-AutoGPT) |
