@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4278 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-22 |
+| #4279 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4344,3 +4344,4 @@ Or let GitHub Action run it automatically.
 | 4276 | 2026-01-22 16:00:49 | [CosmicScale/PSBBN-Definitive-English-Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) | ✅ full (606⭐ Shell) | [reels/reel_4276_CosmicScale-PSBBN-Definitive-English-Patch](reels/reel_4276_CosmicScale-PSBBN-Definitive-English-Patch) |
 | 4277 | 2026-01-22 16:51:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143460⭐ Python) | [reels/reel_4277_yt-dlp-yt-dlp](reels/reel_4277_yt-dlp-yt-dlp) |
 | 4278 | 2026-01-22 17:26:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109609⭐ Rust) | [reels/reel_4278_rust-lang-rust](reels/reel_4278_rust-lang-rust) |
+| 4279 | 2026-01-22 17:54:16 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101707⭐ Rust) | [reels/reel_4279_tauri-apps-tauri](reels/reel_4279_tauri-apps-tauri) |
