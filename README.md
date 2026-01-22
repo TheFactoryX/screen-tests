@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4275 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-22 |
+| #4276 | [CosmicScale/PSBBN-Definitive-English-Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) | Shell · ⭐ 606 | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4341,3 +4341,4 @@ Or let GitHub Action run it automatically.
 | 4273 | 2026-01-22 14:28:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101696⭐ Rust) | [reels/reel_4273_tauri-apps-tauri](reels/reel_4273_tauri-apps-tauri) |
 | 4274 | 2026-01-22 14:57:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110015⭐ TypeScript) | [reels/reel_4274_iptv-org-iptv](reels/reel_4274_iptv-org-iptv) |
 | 4275 | 2026-01-22 15:36:32 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101699⭐ Rust) | [reels/reel_4275_tauri-apps-tauri](reels/reel_4275_tauri-apps-tauri) |
+| 4276 | 2026-01-22 16:00:49 | [CosmicScale/PSBBN-Definitive-English-Patch](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch) | ✅ full (606⭐ Shell) | [reels/reel_4276_CosmicScale-PSBBN-Definitive-English-Patch](reels/reel_4276_CosmicScale-PSBBN-Definitive-English-Patch) |

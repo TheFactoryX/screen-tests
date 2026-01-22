@@ -1,0 +1,24 @@
+{
+  "reel_number": 4276,
+  "recorded": "2026-01-22 16:00:49 UTC",
+  "repository": {
+    "full_name": "CosmicScale/PSBBN-Definitive-English-Patch",
+    "url": "https://github.com/CosmicScale/PSBBN-Definitive-English-Patch",
+    "clone_url": "https://github.com/CosmicScale/PSBBN-Definitive-English-Patch.git",
+    "stars": 606,
+    "language": "Shell",
+    "size_kb": 65687
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 64,
+    "duration_seconds": 2.021237
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 606 stars."
+  }
+}
