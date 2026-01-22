@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4284 | [DiseaseOntology/HumanDiseaseOntology](https://github.com/DiseaseOntology/HumanDiseaseOntology) | Makefile · ⭐ 384 | 2026-01-22 |
+| #4285 | [smithy-lang/smithy-typescript](https://github.com/smithy-lang/smithy-typescript) | TypeScript · ⭐ 303 | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4350,3 +4350,4 @@ Or let GitHub Action run it automatically.
 | 4282 | 2026-01-22 19:34:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181368⭐ Python) | [reels/reel_4282_Significant-Gravitas-AutoGPT](reels/reel_4282_Significant-Gravitas-AutoGPT) |
 | 4283 | 2026-01-22 19:52:58 | [Additional-Mods/additionaladditions](https://github.com/Additional-Mods/additionaladditions) | ✅ full (41⭐ Java) | [reels/reel_4283_Additional-Mods-additionaladditions](reels/reel_4283_Additional-Mods-additionaladditions) |
 | 4284 | 2026-01-22 20:25:37 | [DiseaseOntology/HumanDiseaseOntology](https://github.com/DiseaseOntology/HumanDiseaseOntology) | ✅ readme_only (384⭐ Makefile) | [reels/reel_4284_DiseaseOntology-HumanDiseaseOntology](reels/reel_4284_DiseaseOntology-HumanDiseaseOntology) |
+| 4285 | 2026-01-22 20:50:11 | [smithy-lang/smithy-typescript](https://github.com/smithy-lang/smithy-typescript) | ✅ full (303⭐ TypeScript) | [reels/reel_4285_smithy-lang-smithy-typescript](reels/reel_4285_smithy-lang-smithy-typescript) |
