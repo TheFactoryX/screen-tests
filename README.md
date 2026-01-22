@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4257 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-22 |
+| #4258 | [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Lua · ⭐ 106 | 2026-01-22 |
 ---
 
 ## 🎭 Selection Process
@@ -4323,3 +4323,4 @@ Or let GitHub Action run it automatically.
 | 4255 | 2026-01-22 03:26:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269368⭐ None) | [reels/reel_4255_awesome-selfhosted-awesome-selfhosted](reels/reel_4255_awesome-selfhosted-awesome-selfhosted) |
 | 4256 | 2026-01-22 04:34:10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170538⭐ TypeScript) | [reels/reel_4256_n8n-io-n8n](reels/reel_4256_n8n-io-n8n) |
 | 4257 | 2026-01-22 05:16:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121448⭐ Python) | [reels/reel_4257_open-webui-open-webui](reels/reel_4257_open-webui-open-webui) |
+| 4258 | 2026-01-22 05:52:06 | [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | ✅ full (106⭐ Lua) | [reels/reel_4258_tamton-aquib-stuff.nvim](reels/reel_4258_tamton-aquib-stuff.nvim) |

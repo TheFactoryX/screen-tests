@@ -1,0 +1,24 @@
+{
+  "reel_number": 4258,
+  "recorded": "2026-01-22 05:52:06 UTC",
+  "repository": {
+    "full_name": "tamton-aquib/stuff.nvim",
+    "url": "https://github.com/tamton-aquib/stuff.nvim",
+    "clone_url": "https://github.com/tamton-aquib/stuff.nvim.git",
+    "stars": 106,
+    "language": "Lua",
+    "size_kb": 48
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.230051
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 106 stars."
+  }
+}
