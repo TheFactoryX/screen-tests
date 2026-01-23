@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4317 | [rajadilipkolli/ai-playground](https://github.com/rajadilipkolli/ai-playground) | Java · ⭐ 18 | 2026-01-23 |
+| #4318 | [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) | TypeScript · ⭐ 428 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4382,3 +4382,4 @@ Or let GitHub Action run it automatically.
 | 4315 | 2026-01-23 14:43:44 | [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro) | ✅ shallow (887⭐ Go) | [reels/reel_4315_OffchainLabs-nitro](reels/reel_4315_OffchainLabs-nitro) |
 | 4316 | 2026-01-23 15:00:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144156⭐ Python) | [reels/reel_4316_langflow-ai-langflow](reels/reel_4316_langflow-ai-langflow) |
 | 4317 | 2026-01-23 15:41:12 | [rajadilipkolli/ai-playground](https://github.com/rajadilipkolli/ai-playground) | ✅ full (18⭐ Java) | [reels/reel_4317_rajadilipkolli-ai-playground](reels/reel_4317_rajadilipkolli-ai-playground) |
+| 4318 | 2026-01-23 15:58:24 | [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) | ✅ full (428⭐ TypeScript) | [reels/reel_4318_nuxt-modules-fontaine](reels/reel_4318_nuxt-modules-fontaine) |

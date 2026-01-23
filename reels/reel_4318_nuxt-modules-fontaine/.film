@@ -1,0 +1,24 @@
+{
+  "reel_number": 4318,
+  "recorded": "2026-01-23 15:58:24 UTC",
+  "repository": {
+    "full_name": "nuxt-modules/fontaine",
+    "url": "https://github.com/nuxt-modules/fontaine",
+    "clone_url": "https://github.com/nuxt-modules/fontaine.git",
+    "stars": 428,
+    "language": "TypeScript",
+    "size_kb": 3911
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.532413
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 428 stars."
+  }
+}
