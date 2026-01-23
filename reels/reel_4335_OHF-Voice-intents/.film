@@ -1,0 +1,24 @@
+{
+  "reel_number": 4335,
+  "recorded": "2026-01-23 23:19:37 UTC",
+  "repository": {
+    "full_name": "OHF-Voice/intents",
+    "url": "https://github.com/OHF-Voice/intents",
+    "clone_url": "https://github.com/OHF-Voice/intents.git",
+    "stars": 580,
+    "language": "Python",
+    "size_kb": 9887
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.887863
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 580 stars."
+  }
+}
