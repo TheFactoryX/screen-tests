@@ -1,0 +1,24 @@
+{
+  "reel_number": 4294,
+  "recorded": "2026-01-23 03:22:41 UTC",
+  "repository": {
+    "full_name": "Loki-Astari/ThorsAnvil",
+    "url": "https://github.com/Loki-Astari/ThorsAnvil",
+    "clone_url": "https://github.com/Loki-Astari/ThorsAnvil.git",
+    "stars": 319,
+    "language": "C++",
+    "size_kb": 6103
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.111117
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 319 stars."
+  }
+}

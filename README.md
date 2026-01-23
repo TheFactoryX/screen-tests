@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4293 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-23 |
+| #4294 | [Loki-Astari/ThorsAnvil](https://github.com/Loki-Astari/ThorsAnvil) | C++ · ⭐ 319 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4358,3 +4358,4 @@ Or let GitHub Action run it automatically.
 | 4291 | 2026-01-22 23:42:58 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101717⭐ Rust) | [reels/reel_4291_tauri-apps-tauri](reels/reel_4291_tauri-apps-tauri) |
 | 4292 | 2026-01-22 23:53:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (392923⭐ Python) | [reels/reel_4292_public-apis-public-apis](reels/reel_4292_public-apis-public-apis) |
 | 4293 | 2026-01-23 01:39:37 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101720⭐ Rust) | [reels/reel_4293_tauri-apps-tauri](reels/reel_4293_tauri-apps-tauri) |
+| 4294 | 2026-01-23 03:22:41 | [Loki-Astari/ThorsAnvil](https://github.com/Loki-Astari/ThorsAnvil) | ✅ full (319⭐ C++) | [reels/reel_4294_Loki-Astari-ThorsAnvil](reels/reel_4294_Loki-Astari-ThorsAnvil) |
