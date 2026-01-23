@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4305 | [athola/claude-night-market](https://github.com/athola/claude-night-market) | Python · ⭐ 127 | 2026-01-23 |
+| #4306 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 170k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4370,3 +4370,4 @@ Or let GitHub Action run it automatically.
 | 4303 | 2026-01-23 08:28:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101735⭐ Rust) | [reels/reel_4303_tauri-apps-tauri](reels/reel_4303_tauri-apps-tauri) |
 | 4304 | 2026-01-23 08:56:24 | [Cloufield/gwaslab](https://github.com/Cloufield/gwaslab) | ✅ readme_only (269⭐ Python) | [reels/reel_4304_Cloufield-gwaslab](reels/reel_4304_Cloufield-gwaslab) |
 | 4305 | 2026-01-23 09:32:05 | [athola/claude-night-market](https://github.com/athola/claude-night-market) | ✅ full (127⭐ Python) | [reels/reel_4305_athola-claude-night-market](reels/reel_4305_athola-claude-night-market) |
+| 4306 | 2026-01-23 09:56:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170805⭐ TypeScript) | [reels/reel_4306_n8n-io-n8n](reels/reel_4306_n8n-io-n8n) |
