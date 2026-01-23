@@ -1,0 +1,24 @@
+{
+  "reel_number": 4333,
+  "recorded": "2026-01-23 22:43:41 UTC",
+  "repository": {
+    "full_name": "mytv-android/China-TV-Live-M3U8",
+    "url": "https://github.com/mytv-android/China-TV-Live-M3U8",
+    "clone_url": "https://github.com/mytv-android/China-TV-Live-M3U8.git",
+    "stars": 206,
+    "language": null,
+    "size_kb": 22388
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 1.701153
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 206 stars."
+  }
+}
