@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4326 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-23 |
+| #4327 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 269k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4391,3 +4391,4 @@ Or let GitHub Action run it automatically.
 | 4324 | 2026-01-23 19:03:20 | [azooKey/AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) | ✅ full (130⭐ Swift) | [reels/reel_4324_azooKey-AzooKeyKanaKanjiConverter](reels/reel_4324_azooKey-AzooKeyKanaKanjiConverter) |
 | 4325 | 2026-01-23 19:33:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124959⭐ Python) | [reels/reel_4325_langchain-ai-langchain](reels/reel_4325_langchain-ai-langchain) |
 | 4326 | 2026-01-23 19:51:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181395⭐ Python) | [reels/reel_4326_Significant-Gravitas-AutoGPT](reels/reel_4326_Significant-Gravitas-AutoGPT) |
+| 4327 | 2026-01-23 20:23:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269674⭐ None) | [reels/reel_4327_awesome-selfhosted-awesome-selfhosted](reels/reel_4327_awesome-selfhosted-awesome-selfhosted) |
