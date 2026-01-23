@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4324 | [azooKey/AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) | Swift · ⭐ 130 | 2026-01-23 |
+| #4325 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4389,3 +4389,4 @@ Or let GitHub Action run it automatically.
 | 4322 | 2026-01-23 17:53:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121637⭐ Python) | [reels/reel_4322_open-webui-open-webui](reels/reel_4322_open-webui-open-webui) |
 | 4323 | 2026-01-23 18:31:33 | [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) | ✅ readme_only (357⭐ HTML) | [reels/reel_4323_department-of-veterans-affairs-va.gov-team](reels/reel_4323_department-of-veterans-affairs-va.gov-team) |
 | 4324 | 2026-01-23 19:03:20 | [azooKey/AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) | ✅ full (130⭐ Swift) | [reels/reel_4324_azooKey-AzooKeyKanaKanjiConverter](reels/reel_4324_azooKey-AzooKeyKanaKanjiConverter) |
+| 4325 | 2026-01-23 19:33:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124959⭐ Python) | [reels/reel_4325_langchain-ai-langchain](reels/reel_4325_langchain-ai-langchain) |
