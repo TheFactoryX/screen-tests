@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4322 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-23 |
+| #4323 | [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) | HTML · ⭐ 357 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4387,3 +4387,4 @@ Or let GitHub Action run it automatically.
 | 4320 | 2026-01-23 17:02:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109646⭐ Rust) | [reels/reel_4320_rust-lang-rust](reels/reel_4320_rust-lang-rust) |
 | 4321 | 2026-01-23 17:37:30 | [SeedSigner/seedsigner](https://github.com/SeedSigner/seedsigner) | ✅ full (1011⭐ Python) | [reels/reel_4321_SeedSigner-seedsigner](reels/reel_4321_SeedSigner-seedsigner) |
 | 4322 | 2026-01-23 17:53:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121637⭐ Python) | [reels/reel_4322_open-webui-open-webui](reels/reel_4322_open-webui-open-webui) |
+| 4323 | 2026-01-23 18:31:33 | [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) | ✅ readme_only (357⭐ HTML) | [reels/reel_4323_department-of-veterans-affairs-va.gov-team](reels/reel_4323_department-of-veterans-affairs-va.gov-team) |

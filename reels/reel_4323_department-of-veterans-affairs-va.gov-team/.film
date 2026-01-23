@@ -1,0 +1,24 @@
+{
+  "reel_number": 4323,
+  "recorded": "2026-01-23 18:31:33 UTC",
+  "repository": {
+    "full_name": "department-of-veterans-affairs/va.gov-team",
+    "url": "https://github.com/department-of-veterans-affairs/va.gov-team",
+    "clone_url": "https://github.com/department-of-veterans-affairs/va.gov-team.git",
+    "stars": 357,
+    "language": "HTML",
+    "size_kb": 11768082
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 11492,
+    "duration_seconds": 0.000161
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 357 stars."
+  }
+}
