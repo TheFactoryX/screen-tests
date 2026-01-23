@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4330 | [PeGasUsCHAkra/mevbot](https://github.com/PeGasUsCHAkra/mevbot) | JavaScript · ⭐ 211 | 2026-01-23 |
+| #4331 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4395,3 +4395,4 @@ Or let GitHub Action run it automatically.
 | 4328 | 2026-01-23 20:47:53 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181395⭐ Python) | [reels/reel_4328_Significant-Gravitas-AutoGPT](reels/reel_4328_Significant-Gravitas-AutoGPT) |
 | 4329 | 2026-01-23 21:19:58 | [google/heir](https://github.com/google/heir) | ✅ full (670⭐ C++) | [reels/reel_4329_google-heir](reels/reel_4329_google-heir) |
 | 4330 | 2026-01-23 21:42:39 | [PeGasUsCHAkra/mevbot](https://github.com/PeGasUsCHAkra/mevbot) | ✅ full (211⭐ JavaScript) | [reels/reel_4330_PeGasUsCHAkra-mevbot](reels/reel_4330_PeGasUsCHAkra-mevbot) |
+| 4331 | 2026-01-23 21:53:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109647⭐ Rust) | [reels/reel_4331_rust-lang-rust](reels/reel_4331_rust-lang-rust) |
