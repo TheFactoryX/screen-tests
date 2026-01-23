@@ -1,0 +1,24 @@
+{
+  "reel_number": 4321,
+  "recorded": "2026-01-23 17:37:30 UTC",
+  "repository": {
+    "full_name": "SeedSigner/seedsigner",
+    "url": "https://github.com/SeedSigner/seedsigner",
+    "clone_url": "https://github.com/SeedSigner/seedsigner.git",
+    "stars": 1011,
+    "language": "Python",
+    "size_kb": 71665
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 69,
+    "duration_seconds": 3.462567
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 1011 stars."
+  }
+}
