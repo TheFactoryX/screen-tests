@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4328 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-23 |
+| #4329 | [google/heir](https://github.com/google/heir) | C++ · ⭐ 670 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4393,3 +4393,4 @@ Or let GitHub Action run it automatically.
 | 4326 | 2026-01-23 19:51:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181395⭐ Python) | [reels/reel_4326_Significant-Gravitas-AutoGPT](reels/reel_4326_Significant-Gravitas-AutoGPT) |
 | 4327 | 2026-01-23 20:23:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269674⭐ None) | [reels/reel_4327_awesome-selfhosted-awesome-selfhosted](reels/reel_4327_awesome-selfhosted-awesome-selfhosted) |
 | 4328 | 2026-01-23 20:47:53 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181395⭐ Python) | [reels/reel_4328_Significant-Gravitas-AutoGPT](reels/reel_4328_Significant-Gravitas-AutoGPT) |
+| 4329 | 2026-01-23 21:19:58 | [google/heir](https://github.com/google/heir) | ✅ full (670⭐ C++) | [reels/reel_4329_google-heir](reels/reel_4329_google-heir) |
