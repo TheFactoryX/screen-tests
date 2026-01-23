@@ -1,0 +1,24 @@
+{
+  "reel_number": 4313,
+  "recorded": "2026-01-23 13:31:51 UTC",
+  "repository": {
+    "full_name": "kestra-io/docs",
+    "url": "https://github.com/kestra-io/docs",
+    "clone_url": "https://github.com/kestra-io/docs.git",
+    "stars": 133,
+    "language": "Vue",
+    "size_kb": 1952880
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1907,
+    "duration_seconds": 0.000134
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 133 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4312 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-23 |
+| #4313 | [kestra-io/docs](https://github.com/kestra-io/docs) | Vue · ⭐ 133 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4377,3 +4377,4 @@ Or let GitHub Action run it automatically.
 | 4310 | 2026-01-23 11:42:46 | [benjajaja/mdfried](https://github.com/benjajaja/mdfried) | ✅ full (246⭐ Rust) | [reels/reel_4310_benjajaja-mdfried](reels/reel_4310_benjajaja-mdfried) |
 | 4311 | 2026-01-23 11:54:47 | [kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos) | ✅ full (431⭐ Kotlin) | [reels/reel_4311_kaii-lb-LavenderPhotos](reels/reel_4311_kaii-lb-LavenderPhotos) |
 | 4312 | 2026-01-23 12:43:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105365⭐ TypeScript) | [reels/reel_4312_shadcn-ui-ui](reels/reel_4312_shadcn-ui-ui) |
+| 4313 | 2026-01-23 13:31:51 | [kestra-io/docs](https://github.com/kestra-io/docs) | ✅ readme_only (133⭐ Vue) | [reels/reel_4313_kestra-io-docs](reels/reel_4313_kestra-io-docs) |
