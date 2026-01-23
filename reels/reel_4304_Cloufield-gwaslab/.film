@@ -1,0 +1,24 @@
+{
+  "reel_number": 4304,
+  "recorded": "2026-01-23 08:56:24 UTC",
+  "repository": {
+    "full_name": "Cloufield/gwaslab",
+    "url": "https://github.com/Cloufield/gwaslab",
+    "clone_url": "https://github.com/Cloufield/gwaslab.git",
+    "stars": 269,
+    "language": "Python",
+    "size_kb": 1250454
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1221,
+    "duration_seconds": 0.00014
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 269 stars."
+  }
+}
