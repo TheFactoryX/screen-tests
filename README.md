@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4308 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-23 |
+| #4309 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4373,3 +4373,4 @@ Or let GitHub Action run it automatically.
 | 4306 | 2026-01-23 09:56:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170805⭐ TypeScript) | [reels/reel_4306_n8n-io-n8n](reels/reel_4306_n8n-io-n8n) |
 | 4307 | 2026-01-23 10:27:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143656⭐ Python) | [reels/reel_4307_yt-dlp-yt-dlp](reels/reel_4307_yt-dlp-yt-dlp) |
 | 4308 | 2026-01-23 10:52:35 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139544⭐ Python) | [reels/reel_4308_ytdl-org-youtube-dl](reels/reel_4308_ytdl-org-youtube-dl) |
+| 4309 | 2026-01-23 11:19:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124933⭐ Python) | [reels/reel_4309_langchain-ai-langchain](reels/reel_4309_langchain-ai-langchain) |
