@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4315 | [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro) | Go · ⭐ 887 | 2026-01-23 |
+| #4316 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4380,3 +4380,4 @@ Or let GitHub Action run it automatically.
 | 4313 | 2026-01-23 13:31:51 | [kestra-io/docs](https://github.com/kestra-io/docs) | ✅ readme_only (133⭐ Vue) | [reels/reel_4313_kestra-io-docs](reels/reel_4313_kestra-io-docs) |
 | 4314 | 2026-01-23 14:01:55 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110054⭐ TypeScript) | [reels/reel_4314_iptv-org-iptv](reels/reel_4314_iptv-org-iptv) |
 | 4315 | 2026-01-23 14:43:44 | [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro) | ✅ shallow (887⭐ Go) | [reels/reel_4315_OffchainLabs-nitro](reels/reel_4315_OffchainLabs-nitro) |
+| 4316 | 2026-01-23 15:00:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144156⭐ Python) | [reels/reel_4316_langflow-ai-langflow](reels/reel_4316_langflow-ai-langflow) |
