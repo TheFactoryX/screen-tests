@@ -1,0 +1,24 @@
+{
+  "reel_number": 4315,
+  "recorded": "2026-01-23 14:43:44 UTC",
+  "repository": {
+    "full_name": "OffchainLabs/nitro",
+    "url": "https://github.com/OffchainLabs/nitro",
+    "clone_url": "https://github.com/OffchainLabs/nitro.git",
+    "stars": 887,
+    "language": "Go",
+    "size_kb": 106860
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 104,
+    "duration_seconds": 1.035657
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 887 stars."
+  }
+}

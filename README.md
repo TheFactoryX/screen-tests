@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4314 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-01-23 |
+| #4315 | [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro) | Go · ⭐ 887 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4379,3 +4379,4 @@ Or let GitHub Action run it automatically.
 | 4312 | 2026-01-23 12:43:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105365⭐ TypeScript) | [reels/reel_4312_shadcn-ui-ui](reels/reel_4312_shadcn-ui-ui) |
 | 4313 | 2026-01-23 13:31:51 | [kestra-io/docs](https://github.com/kestra-io/docs) | ✅ readme_only (133⭐ Vue) | [reels/reel_4313_kestra-io-docs](reels/reel_4313_kestra-io-docs) |
 | 4314 | 2026-01-23 14:01:55 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110054⭐ TypeScript) | [reels/reel_4314_iptv-org-iptv](reels/reel_4314_iptv-org-iptv) |
+| 4315 | 2026-01-23 14:43:44 | [OffchainLabs/nitro](https://github.com/OffchainLabs/nitro) | ✅ shallow (887⭐ Go) | [reels/reel_4315_OffchainLabs-nitro](reels/reel_4315_OffchainLabs-nitro) |
