@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4325 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-23 |
+| #4326 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4390,3 +4390,4 @@ Or let GitHub Action run it automatically.
 | 4323 | 2026-01-23 18:31:33 | [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) | ✅ readme_only (357⭐ HTML) | [reels/reel_4323_department-of-veterans-affairs-va.gov-team](reels/reel_4323_department-of-veterans-affairs-va.gov-team) |
 | 4324 | 2026-01-23 19:03:20 | [azooKey/AzooKeyKanaKanjiConverter](https://github.com/azooKey/AzooKeyKanaKanjiConverter) | ✅ full (130⭐ Swift) | [reels/reel_4324_azooKey-AzooKeyKanaKanjiConverter](reels/reel_4324_azooKey-AzooKeyKanaKanjiConverter) |
 | 4325 | 2026-01-23 19:33:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124959⭐ Python) | [reels/reel_4325_langchain-ai-langchain](reels/reel_4325_langchain-ai-langchain) |
+| 4326 | 2026-01-23 19:51:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181395⭐ Python) | [reels/reel_4326_Significant-Gravitas-AutoGPT](reels/reel_4326_Significant-Gravitas-AutoGPT) |
