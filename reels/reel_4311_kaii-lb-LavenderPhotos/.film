@@ -1,0 +1,24 @@
+{
+  "reel_number": 4311,
+  "recorded": "2026-01-23 11:54:47 UTC",
+  "repository": {
+    "full_name": "kaii-lb/LavenderPhotos",
+    "url": "https://github.com/kaii-lb/LavenderPhotos",
+    "clone_url": "https://github.com/kaii-lb/LavenderPhotos.git",
+    "stars": 431,
+    "language": "Kotlin",
+    "size_kb": 54762
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 53,
+    "duration_seconds": 2.31524
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 431 stars."
+  }
+}

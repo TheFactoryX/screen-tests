@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4310 | [benjajaja/mdfried](https://github.com/benjajaja/mdfried) | Rust · ⭐ 246 | 2026-01-23 |
+| #4311 | [kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos) | Kotlin · ⭐ 431 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4375,3 +4375,4 @@ Or let GitHub Action run it automatically.
 | 4308 | 2026-01-23 10:52:35 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139544⭐ Python) | [reels/reel_4308_ytdl-org-youtube-dl](reels/reel_4308_ytdl-org-youtube-dl) |
 | 4309 | 2026-01-23 11:19:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124933⭐ Python) | [reels/reel_4309_langchain-ai-langchain](reels/reel_4309_langchain-ai-langchain) |
 | 4310 | 2026-01-23 11:42:46 | [benjajaja/mdfried](https://github.com/benjajaja/mdfried) | ✅ full (246⭐ Rust) | [reels/reel_4310_benjajaja-mdfried](reels/reel_4310_benjajaja-mdfried) |
+| 4311 | 2026-01-23 11:54:47 | [kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos) | ✅ full (431⭐ Kotlin) | [reels/reel_4311_kaii-lb-LavenderPhotos](reels/reel_4311_kaii-lb-LavenderPhotos) |
