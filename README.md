@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4321 | [SeedSigner/seedsigner](https://github.com/SeedSigner/seedsigner) | Python · ⭐ 1k | 2026-01-23 |
+| #4322 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4386,3 +4386,4 @@ Or let GitHub Action run it automatically.
 | 4319 | 2026-01-23 16:39:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144158⭐ Python) | [reels/reel_4319_langflow-ai-langflow](reels/reel_4319_langflow-ai-langflow) |
 | 4320 | 2026-01-23 17:02:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109646⭐ Rust) | [reels/reel_4320_rust-lang-rust](reels/reel_4320_rust-lang-rust) |
 | 4321 | 2026-01-23 17:37:30 | [SeedSigner/seedsigner](https://github.com/SeedSigner/seedsigner) | ✅ full (1011⭐ Python) | [reels/reel_4321_SeedSigner-seedsigner](reels/reel_4321_SeedSigner-seedsigner) |
+| 4322 | 2026-01-23 17:53:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121637⭐ Python) | [reels/reel_4322_open-webui-open-webui](reels/reel_4322_open-webui-open-webui) |
