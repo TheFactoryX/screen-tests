@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4302 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 170k | 2026-01-23 |
+| #4303 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4367,3 +4367,4 @@ Or let GitHub Action run it automatically.
 | 4300 | 2026-01-23 07:03:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269579⭐ None) | [reels/reel_4300_awesome-selfhosted-awesome-selfhosted](reels/reel_4300_awesome-selfhosted-awesome-selfhosted) |
 | 4301 | 2026-01-23 07:37:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181378⭐ Python) | [reels/reel_4301_Significant-Gravitas-AutoGPT](reels/reel_4301_Significant-Gravitas-AutoGPT) |
 | 4302 | 2026-01-23 07:53:02 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170774⭐ TypeScript) | [reels/reel_4302_n8n-io-n8n](reels/reel_4302_n8n-io-n8n) |
+| 4303 | 2026-01-23 08:28:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101735⭐ Rust) | [reels/reel_4303_tauri-apps-tauri](reels/reel_4303_tauri-apps-tauri) |
