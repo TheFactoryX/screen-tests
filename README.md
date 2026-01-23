@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4297 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-23 |
+| #4298 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4362,3 +4362,4 @@ Or let GitHub Action run it automatically.
 | 4295 | 2026-01-23 04:28:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170730⭐ TypeScript) | [reels/reel_4295_n8n-io-n8n](reels/reel_4295_n8n-io-n8n) |
 | 4296 | 2026-01-23 05:00:52 | [leanprover/cslib](https://github.com/leanprover/cslib) | ✅ full (246⭐ Lean) | [reels/reel_4296_leanprover-cslib](reels/reel_4296_leanprover-cslib) |
 | 4297 | 2026-01-23 05:44:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124899⭐ Python) | [reels/reel_4297_langchain-ai-langchain](reels/reel_4297_langchain-ai-langchain) |
+| 4298 | 2026-01-23 05:58:07 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102575⭐ Shell) | [reels/reel_4298_papers-we-love-papers-we-love](reels/reel_4298_papers-we-love-papers-we-love) |
