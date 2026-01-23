@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4331 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-23 |
+| #4332 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 143k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4396,3 +4396,4 @@ Or let GitHub Action run it automatically.
 | 4329 | 2026-01-23 21:19:58 | [google/heir](https://github.com/google/heir) | ✅ full (670⭐ C++) | [reels/reel_4329_google-heir](reels/reel_4329_google-heir) |
 | 4330 | 2026-01-23 21:42:39 | [PeGasUsCHAkra/mevbot](https://github.com/PeGasUsCHAkra/mevbot) | ✅ full (211⭐ JavaScript) | [reels/reel_4330_PeGasUsCHAkra-mevbot](reels/reel_4330_PeGasUsCHAkra-mevbot) |
 | 4331 | 2026-01-23 21:53:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109647⭐ Rust) | [reels/reel_4331_rust-lang-rust](reels/reel_4331_rust-lang-rust) |
+| 4332 | 2026-01-23 22:17:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143745⭐ Python) | [reels/reel_4332_yt-dlp-yt-dlp](reels/reel_4332_yt-dlp-yt-dlp) |
