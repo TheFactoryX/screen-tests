@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4306 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 170k | 2026-01-23 |
+| #4307 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 143k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4371,3 +4371,4 @@ Or let GitHub Action run it automatically.
 | 4304 | 2026-01-23 08:56:24 | [Cloufield/gwaslab](https://github.com/Cloufield/gwaslab) | ✅ readme_only (269⭐ Python) | [reels/reel_4304_Cloufield-gwaslab](reels/reel_4304_Cloufield-gwaslab) |
 | 4305 | 2026-01-23 09:32:05 | [athola/claude-night-market](https://github.com/athola/claude-night-market) | ✅ full (127⭐ Python) | [reels/reel_4305_athola-claude-night-market](reels/reel_4305_athola-claude-night-market) |
 | 4306 | 2026-01-23 09:56:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170805⭐ TypeScript) | [reels/reel_4306_n8n-io-n8n](reels/reel_4306_n8n-io-n8n) |
+| 4307 | 2026-01-23 10:27:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143656⭐ Python) | [reels/reel_4307_yt-dlp-yt-dlp](reels/reel_4307_yt-dlp-yt-dlp) |
