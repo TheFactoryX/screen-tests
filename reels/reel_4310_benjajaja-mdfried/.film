@@ -1,0 +1,24 @@
+{
+  "reel_number": 4310,
+  "recorded": "2026-01-23 11:42:46 UTC",
+  "repository": {
+    "full_name": "benjajaja/mdfried",
+    "url": "https://github.com/benjajaja/mdfried",
+    "clone_url": "https://github.com/benjajaja/mdfried.git",
+    "stars": 246,
+    "language": "Rust",
+    "size_kb": 17582
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 0.847438
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 246 stars."
+  }
+}
