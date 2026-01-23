@@ -1,0 +1,24 @@
+{
+  "reel_number": 4317,
+  "recorded": "2026-01-23 15:41:12 UTC",
+  "repository": {
+    "full_name": "rajadilipkolli/ai-playground",
+    "url": "https://github.com/rajadilipkolli/ai-playground",
+    "clone_url": "https://github.com/rajadilipkolli/ai-playground.git",
+    "stars": 18,
+    "language": "Java",
+    "size_kb": 1239
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.214194
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 18 stars."
+  }
+}
