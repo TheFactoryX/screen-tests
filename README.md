@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4335 | [OHF-Voice/intents](https://github.com/OHF-Voice/intents) | Python · ⭐ 580 | 2026-01-23 |
+| #4336 | [mathishouis/simple-skyblock](https://github.com/mathishouis/simple-skyblock) | Java · ⭐ 15 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4400,3 +4400,4 @@ Or let GitHub Action run it automatically.
 | 4333 | 2026-01-23 22:43:41 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (206⭐ None) | [reels/reel_4333_mytv-android-China-TV-Live-M3U8](reels/reel_4333_mytv-android-China-TV-Live-M3U8) |
 | 4334 | 2026-01-23 22:54:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170894⭐ TypeScript) | [reels/reel_4334_n8n-io-n8n](reels/reel_4334_n8n-io-n8n) |
 | 4335 | 2026-01-23 23:19:37 | [OHF-Voice/intents](https://github.com/OHF-Voice/intents) | ✅ full (580⭐ Python) | [reels/reel_4335_OHF-Voice-intents](reels/reel_4335_OHF-Voice-intents) |
+| 4336 | 2026-01-23 23:42:35 | [mathishouis/simple-skyblock](https://github.com/mathishouis/simple-skyblock) | ✅ full (15⭐ Java) | [reels/reel_4336_mathishouis-simple-skyblock](reels/reel_4336_mathishouis-simple-skyblock) |

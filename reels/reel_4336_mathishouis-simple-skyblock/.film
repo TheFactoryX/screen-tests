@@ -1,0 +1,24 @@
+{
+  "reel_number": 4336,
+  "recorded": "2026-01-23 23:42:35 UTC",
+  "repository": {
+    "full_name": "mathishouis/simple-skyblock",
+    "url": "https://github.com/mathishouis/simple-skyblock",
+    "clone_url": "https://github.com/mathishouis/simple-skyblock.git",
+    "stars": 15,
+    "language": "Java",
+    "size_kb": 88
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.259385
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 15 stars."
+  }
+}
