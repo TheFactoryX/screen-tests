@@ -1,0 +1,24 @@
+{
+  "reel_number": 4296,
+  "recorded": "2026-01-23 05:00:52 UTC",
+  "repository": {
+    "full_name": "leanprover/cslib",
+    "url": "https://github.com/leanprover/cslib",
+    "clone_url": "https://github.com/leanprover/cslib.git",
+    "stars": 246,
+    "language": "Lean",
+    "size_kb": 1108
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.602704
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lean",
+    "director_note": "A Lean repository. 246 stars."
+  }
+}

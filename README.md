@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4295 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 170k | 2026-01-23 |
+| #4296 | [leanprover/cslib](https://github.com/leanprover/cslib) | Lean · ⭐ 246 | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4360,3 +4360,4 @@ Or let GitHub Action run it automatically.
 | 4293 | 2026-01-23 01:39:37 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101720⭐ Rust) | [reels/reel_4293_tauri-apps-tauri](reels/reel_4293_tauri-apps-tauri) |
 | 4294 | 2026-01-23 03:22:41 | [Loki-Astari/ThorsAnvil](https://github.com/Loki-Astari/ThorsAnvil) | ✅ full (319⭐ C++) | [reels/reel_4294_Loki-Astari-ThorsAnvil](reels/reel_4294_Loki-Astari-ThorsAnvil) |
 | 4295 | 2026-01-23 04:28:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170730⭐ TypeScript) | [reels/reel_4295_n8n-io-n8n](reels/reel_4295_n8n-io-n8n) |
+| 4296 | 2026-01-23 05:00:52 | [leanprover/cslib](https://github.com/leanprover/cslib) | ✅ full (246⭐ Lean) | [reels/reel_4296_leanprover-cslib](reels/reel_4296_leanprover-cslib) |
