@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4301 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-23 |
+| #4302 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 170k | 2026-01-23 |
 ---
 
 ## 🎭 Selection Process
@@ -4366,3 +4366,4 @@ Or let GitHub Action run it automatically.
 | 4299 | 2026-01-23 06:43:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124906⭐ Python) | [reels/reel_4299_langchain-ai-langchain](reels/reel_4299_langchain-ai-langchain) |
 | 4300 | 2026-01-23 07:03:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269579⭐ None) | [reels/reel_4300_awesome-selfhosted-awesome-selfhosted](reels/reel_4300_awesome-selfhosted-awesome-selfhosted) |
 | 4301 | 2026-01-23 07:37:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181378⭐ Python) | [reels/reel_4301_Significant-Gravitas-AutoGPT](reels/reel_4301_Significant-Gravitas-AutoGPT) |
+| 4302 | 2026-01-23 07:53:02 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170774⭐ TypeScript) | [reels/reel_4302_n8n-io-n8n](reels/reel_4302_n8n-io-n8n) |
