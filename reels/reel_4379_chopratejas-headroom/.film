@@ -1,0 +1,24 @@
+{
+  "reel_number": 4379,
+  "recorded": "2026-01-24 19:50:03 UTC",
+  "repository": {
+    "full_name": "chopratejas/headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "clone_url": "https://github.com/chopratejas/headroom.git",
+    "stars": 341,
+    "language": "Python",
+    "size_kb": 6860
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.948704
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 341 stars."
+  }
+}

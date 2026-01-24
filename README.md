@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4378 | [h2oai/h2o-3](https://github.com/h2oai/h2o-3) | Jupyter Notebook · ⭐ 7k | 2026-01-24 |
+| #4379 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python · ⭐ 341 | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4443,3 +4443,4 @@ Or let GitHub Action run it automatically.
 | 4376 | 2026-01-24 18:53:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144182⭐ Python) | [reels/reel_4376_langflow-ai-langflow](reels/reel_4376_langflow-ai-langflow) |
 | 4377 | 2026-01-24 19:15:50 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102630⭐ Shell) | [reels/reel_4377_papers-we-love-papers-we-love](reels/reel_4377_papers-we-love-papers-we-love) |
 | 4378 | 2026-01-24 19:37:08 | [h2oai/h2o-3](https://github.com/h2oai/h2o-3) | ✅ readme_only (7492⭐ Jupyter Notebook) | [reels/reel_4378_h2oai-h2o-3](reels/reel_4378_h2oai-h2o-3) |
+| 4379 | 2026-01-24 19:50:03 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ✅ full (341⭐ Python) | [reels/reel_4379_chopratejas-headroom](reels/reel_4379_chopratejas-headroom) |
