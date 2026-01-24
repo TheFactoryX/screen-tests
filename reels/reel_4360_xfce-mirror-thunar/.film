@@ -1,0 +1,24 @@
+{
+  "reel_number": 4360,
+  "recorded": "2026-01-24 11:49:46 UTC",
+  "repository": {
+    "full_name": "xfce-mirror/thunar",
+    "url": "https://github.com/xfce-mirror/thunar",
+    "clone_url": "https://github.com/xfce-mirror/thunar.git",
+    "stars": 259,
+    "language": "C",
+    "size_kb": 130460
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 127,
+    "duration_seconds": 1.474239
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 259 stars."
+  }
+}
