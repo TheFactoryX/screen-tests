@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4377 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-24 |
+| #4378 | [h2oai/h2o-3](https://github.com/h2oai/h2o-3) | Jupyter Notebook · ⭐ 7k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4442,3 +4442,4 @@ Or let GitHub Action run it automatically.
 | 4375 | 2026-01-24 18:27:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181403⭐ Python) | [reels/reel_4375_Significant-Gravitas-AutoGPT](reels/reel_4375_Significant-Gravitas-AutoGPT) |
 | 4376 | 2026-01-24 18:53:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144182⭐ Python) | [reels/reel_4376_langflow-ai-langflow](reels/reel_4376_langflow-ai-langflow) |
 | 4377 | 2026-01-24 19:15:50 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102630⭐ Shell) | [reels/reel_4377_papers-we-love-papers-we-love](reels/reel_4377_papers-we-love-papers-we-love) |
+| 4378 | 2026-01-24 19:37:08 | [h2oai/h2o-3](https://github.com/h2oai/h2o-3) | ✅ readme_only (7492⭐ Jupyter Notebook) | [reels/reel_4378_h2oai-h2o-3](reels/reel_4378_h2oai-h2o-3) |
