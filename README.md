@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4372 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-24 |
+| #4373 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 171k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4437,3 +4437,4 @@ Or let GitHub Action run it automatically.
 | 4370 | 2026-01-24 16:22:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125018⭐ Python) | [reels/reel_4370_langchain-ai-langchain](reels/reel_4370_langchain-ai-langchain) |
 | 4371 | 2026-01-24 16:47:36 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109677⭐ Rust) | [reels/reel_4371_rust-lang-rust](reels/reel_4371_rust-lang-rust) |
 | 4372 | 2026-01-24 17:16:26 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97348⭐ TypeScript) | [reels/reel_4372_ant-design-ant-design](reels/reel_4372_ant-design-ant-design) |
+| 4373 | 2026-01-24 17:40:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171011⭐ TypeScript) | [reels/reel_4373_n8n-io-n8n](reels/reel_4373_n8n-io-n8n) |
