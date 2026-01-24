@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4381 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | PHP · ⭐ 422 | 2026-01-24 |
+| #4382 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4446,3 +4446,4 @@ Or let GitHub Action run it automatically.
 | 4379 | 2026-01-24 19:50:03 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | ✅ full (341⭐ Python) | [reels/reel_4379_chopratejas-headroom](reels/reel_4379_chopratejas-headroom) |
 | 4380 | 2026-01-24 20:20:05 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110143⭐ TypeScript) | [reels/reel_4380_iptv-org-iptv](reels/reel_4380_iptv-org-iptv) |
 | 4381 | 2026-01-24 20:42:16 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | ✅ full (422⭐ PHP) | [reels/reel_4381_awcodes-filament-curator](reels/reel_4381_awcodes-filament-curator) |
+| 4382 | 2026-01-24 20:53:05 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101294⭐ Python) | [reels/reel_4382_deepseek-ai-DeepSeek-V3](reels/reel_4382_deepseek-ai-DeepSeek-V3) |
