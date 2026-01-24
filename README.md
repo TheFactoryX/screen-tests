@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4344 | [OpenRouterTeam/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) | TypeScript · ⭐ 569 | 2026-01-24 |
+| #4345 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4409,3 +4409,4 @@ Or let GitHub Action run it automatically.
 | 4342 | 2026-01-24 05:20:19 | [CharlesPikachu/freeproxy](https://github.com/CharlesPikachu/freeproxy) | ✅ full (227⭐ Python) | [reels/reel_4342_CharlesPikachu-freeproxy](reels/reel_4342_CharlesPikachu-freeproxy) |
 | 4343 | 2026-01-24 05:44:17 | [nuxt-modules/og-image](https://github.com/nuxt-modules/og-image) | ✅ full (501⭐ TypeScript) | [reels/reel_4343_nuxt-modules-og-image](reels/reel_4343_nuxt-modules-og-image) |
 | 4344 | 2026-01-24 05:54:33 | [OpenRouterTeam/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) | ✅ full (569⭐ TypeScript) | [reels/reel_4344_OpenRouterTeam-ai-sdk-provider](reels/reel_4344_OpenRouterTeam-ai-sdk-provider) |
+| 4345 | 2026-01-24 06:29:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124987⭐ Python) | [reels/reel_4345_langchain-ai-langchain](reels/reel_4345_langchain-ai-langchain) |
