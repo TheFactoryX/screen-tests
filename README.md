@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4352 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-24 |
+| #4353 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 170k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4417,3 +4417,4 @@ Or let GitHub Action run it automatically.
 | 4350 | 2026-01-24 08:25:28 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105271⭐ None) | [reels/reel_4350_Hack-with-Github-Awesome-Hacking](reels/reel_4350_Hack-with-Github-Awesome-Hacking) |
 | 4351 | 2026-01-24 08:48:56 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (460113⭐ Markdown) | [reels/reel_4351_codecrafters-io-build-your-own-x](reels/reel_4351_codecrafters-io-build-your-own-x) |
 | 4352 | 2026-01-24 09:19:02 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139548⭐ Python) | [reels/reel_4352_ytdl-org-youtube-dl](reels/reel_4352_ytdl-org-youtube-dl) |
+| 4353 | 2026-01-24 09:41:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170948⭐ TypeScript) | [reels/reel_4353_n8n-io-n8n](reels/reel_4353_n8n-io-n8n) |
