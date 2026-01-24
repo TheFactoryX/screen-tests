@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4360 | [xfce-mirror/thunar](https://github.com/xfce-mirror/thunar) | C · ⭐ 259 | 2026-01-24 |
+| #4361 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 93k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4425,3 +4425,4 @@ Or let GitHub Action run it automatically.
 | 4358 | 2026-01-24 11:16:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170959⭐ TypeScript) | [reels/reel_4358_n8n-io-n8n](reels/reel_4358_n8n-io-n8n) |
 | 4359 | 2026-01-24 11:38:28 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101788⭐ Rust) | [reels/reel_4359_tauri-apps-tauri](reels/reel_4359_tauri-apps-tauri) |
 | 4360 | 2026-01-24 11:49:46 | [xfce-mirror/thunar](https://github.com/xfce-mirror/thunar) | ✅ shallow (259⭐ C) | [reels/reel_4360_xfce-mirror-thunar](reels/reel_4360_xfce-mirror-thunar) |
+| 4361 | 2026-01-24 12:37:53 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (93861⭐ TypeScript) | [reels/reel_4361_clash-verge-rev-clash-verge-rev](reels/reel_4361_clash-verge-rev-clash-verge-rev) |
