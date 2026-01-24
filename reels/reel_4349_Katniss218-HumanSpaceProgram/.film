@@ -1,0 +1,24 @@
+{
+  "reel_number": 4349,
+  "recorded": "2026-01-24 07:50:06 UTC",
+  "repository": {
+    "full_name": "Katniss218/HumanSpaceProgram",
+    "url": "https://github.com/Katniss218/HumanSpaceProgram",
+    "clone_url": "https://github.com/Katniss218/HumanSpaceProgram.git",
+    "stars": 17,
+    "language": "C#",
+    "size_kb": 1409257
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 1376,
+    "duration_seconds": 0.000133
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 17 stars."
+  }
+}
