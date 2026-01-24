@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4371 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-24 |
+| #4372 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4436,3 +4436,4 @@ Or let GitHub Action run it automatically.
 | 4369 | 2026-01-24 15:51:37 | [abshare/abshare.github.io](https://github.com/abshare/abshare.github.io) | ✅ full (871⭐ None) | [reels/reel_4369_abshare-abshare.github.io](reels/reel_4369_abshare-abshare.github.io) |
 | 4370 | 2026-01-24 16:22:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125018⭐ Python) | [reels/reel_4370_langchain-ai-langchain](reels/reel_4370_langchain-ai-langchain) |
 | 4371 | 2026-01-24 16:47:36 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109677⭐ Rust) | [reels/reel_4371_rust-lang-rust](reels/reel_4371_rust-lang-rust) |
+| 4372 | 2026-01-24 17:16:26 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97348⭐ TypeScript) | [reels/reel_4372_ant-design-ant-design](reels/reel_4372_ant-design-ant-design) |
