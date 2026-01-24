@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4355 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-24 |
+| #4356 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4420,3 +4420,4 @@ Or let GitHub Action run it automatically.
 | 4353 | 2026-01-24 09:41:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170948⭐ TypeScript) | [reels/reel_4353_n8n-io-n8n](reels/reel_4353_n8n-io-n8n) |
 | 4354 | 2026-01-24 09:51:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170949⭐ TypeScript) | [reels/reel_4354_n8n-io-n8n](reels/reel_4354_n8n-io-n8n) |
 | 4355 | 2026-01-24 10:19:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121688⭐ Python) | [reels/reel_4355_open-webui-open-webui](reels/reel_4355_open-webui-open-webui) |
+| 4356 | 2026-01-24 10:44:35 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109666⭐ Rust) | [reels/reel_4356_rust-lang-rust](reels/reel_4356_rust-lang-rust) |
