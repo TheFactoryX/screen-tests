@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4339 | [DabengBa/SillyTavern_World_Info_Optimizer](https://github.com/DabengBa/SillyTavern_World_Info_Optimizer) | JavaScript · ⭐ 16 | 2026-01-24 |
+| #4340 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4404,3 +4404,4 @@ Or let GitHub Action run it automatically.
 | 4337 | 2026-01-23 23:53:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109650⭐ Rust) | [reels/reel_4337_rust-lang-rust](reels/reel_4337_rust-lang-rust) |
 | 4338 | 2026-01-24 01:28:02 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109651⭐ Rust) | [reels/reel_4338_rust-lang-rust](reels/reel_4338_rust-lang-rust) |
 | 4339 | 2026-01-24 03:14:00 | [DabengBa/SillyTavern_World_Info_Optimizer](https://github.com/DabengBa/SillyTavern_World_Info_Optimizer) | ✅ full (16⭐ JavaScript) | [reels/reel_4339_DabengBa-SillyTavern_World_Info_Optimizer](reels/reel_4339_DabengBa-SillyTavern_World_Info_Optimizer) |
+| 4340 | 2026-01-24 04:07:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124981⭐ Python) | [reels/reel_4340_langchain-ai-langchain](reels/reel_4340_langchain-ai-langchain) |
