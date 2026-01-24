@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4342 | [CharlesPikachu/freeproxy](https://github.com/CharlesPikachu/freeproxy) | Python · ⭐ 227 | 2026-01-24 |
+| #4343 | [nuxt-modules/og-image](https://github.com/nuxt-modules/og-image) | TypeScript · ⭐ 501 | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4407,3 +4407,4 @@ Or let GitHub Action run it automatically.
 | 4340 | 2026-01-24 04:07:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124981⭐ Python) | [reels/reel_4340_langchain-ai-langchain](reels/reel_4340_langchain-ai-langchain) |
 | 4341 | 2026-01-24 04:48:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124983⭐ Python) | [reels/reel_4341_langchain-ai-langchain](reels/reel_4341_langchain-ai-langchain) |
 | 4342 | 2026-01-24 05:20:19 | [CharlesPikachu/freeproxy](https://github.com/CharlesPikachu/freeproxy) | ✅ full (227⭐ Python) | [reels/reel_4342_CharlesPikachu-freeproxy](reels/reel_4342_CharlesPikachu-freeproxy) |
+| 4343 | 2026-01-24 05:44:17 | [nuxt-modules/og-image](https://github.com/nuxt-modules/og-image) | ✅ full (501⭐ TypeScript) | [reels/reel_4343_nuxt-modules-og-image](reels/reel_4343_nuxt-modules-og-image) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 4343,
+  "recorded": "2026-01-24 05:44:17 UTC",
+  "repository": {
+    "full_name": "nuxt-modules/og-image",
+    "url": "https://github.com/nuxt-modules/og-image",
+    "clone_url": "https://github.com/nuxt-modules/og-image.git",
+    "stars": 501,
+    "language": "TypeScript",
+    "size_kb": 26907
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 1.42969
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 501 stars."
+  }
+}
