@@ -1,0 +1,24 @@
+{
+  "reel_number": 4391,
+  "recorded": "2026-01-24 23:50:42 UTC",
+  "repository": {
+    "full_name": "jelni/craiyon-bot",
+    "url": "https://github.com/jelni/craiyon-bot",
+    "clone_url": "https://github.com/jelni/craiyon-bot.git",
+    "stars": 48,
+    "language": "Rust",
+    "size_kb": 979
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.661711
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 48 stars."
+  }
+}
