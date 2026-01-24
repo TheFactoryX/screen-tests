@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4387 | [cbenge509/DataScienceCapstone_Oct2017](https://github.com/cbenge509/DataScienceCapstone_Oct2017) | Python · ⭐ 13 | 2026-01-24 |
+| #4388 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 125k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4452,3 +4452,4 @@ Or let GitHub Action run it automatically.
 | 4385 | 2026-01-24 21:50:00 | [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) | ✅ full (740⭐ Java) | [reels/reel_4385_IntellectualSites-FastAsyncWorldEdit](reels/reel_4385_IntellectualSites-FastAsyncWorldEdit) |
 | 4386 | 2026-01-24 22:18:16 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (93904⭐ TypeScript) | [reels/reel_4386_clash-verge-rev-clash-verge-rev](reels/reel_4386_clash-verge-rev-clash-verge-rev) |
 | 4387 | 2026-01-24 22:42:57 | [cbenge509/DataScienceCapstone_Oct2017](https://github.com/cbenge509/DataScienceCapstone_Oct2017) | ✅ full (13⭐ Python) | [reels/reel_4387_cbenge509-DataScienceCapstone_Oct2017](reels/reel_4387_cbenge509-DataScienceCapstone_Oct2017) |
+| 4388 | 2026-01-24 22:53:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125031⭐ Python) | [reels/reel_4388_langchain-ai-langchain](reels/reel_4388_langchain-ai-langchain) |
