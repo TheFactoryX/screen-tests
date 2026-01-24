@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4366 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 269k | 2026-01-24 |
+| #4367 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4431,3 +4431,4 @@ Or let GitHub Action run it automatically.
 | 4364 | 2026-01-24 14:18:06 | [prashant64bit/Temp-Cleaner](https://github.com/prashant64bit/Temp-Cleaner) | ✅ full (25⭐ Batchfile) | [reels/reel_4364_prashant64bit-Temp-Cleaner](reels/reel_4364_prashant64bit-Temp-Cleaner) |
 | 4365 | 2026-01-24 14:42:59 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105279⭐ None) | [reels/reel_4365_Hack-with-Github-Awesome-Hacking](reels/reel_4365_Hack-with-Github-Awesome-Hacking) |
 | 4366 | 2026-01-24 14:53:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269790⭐ None) | [reels/reel_4366_awesome-selfhosted-awesome-selfhosted](reels/reel_4366_awesome-selfhosted-awesome-selfhosted) |
+| 4367 | 2026-01-24 15:18:47 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101799⭐ Rust) | [reels/reel_4367_tauri-apps-tauri](reels/reel_4367_tauri-apps-tauri) |
