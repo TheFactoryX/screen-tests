@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4345 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 124k | 2026-01-24 |
+| #4346 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4410,3 +4410,4 @@ Or let GitHub Action run it automatically.
 | 4343 | 2026-01-24 05:44:17 | [nuxt-modules/og-image](https://github.com/nuxt-modules/og-image) | ✅ full (501⭐ TypeScript) | [reels/reel_4343_nuxt-modules-og-image](reels/reel_4343_nuxt-modules-og-image) |
 | 4344 | 2026-01-24 05:54:33 | [OpenRouterTeam/ai-sdk-provider](https://github.com/OpenRouterTeam/ai-sdk-provider) | ✅ full (569⭐ TypeScript) | [reels/reel_4344_OpenRouterTeam-ai-sdk-provider](reels/reel_4344_OpenRouterTeam-ai-sdk-provider) |
 | 4345 | 2026-01-24 06:29:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124987⭐ Python) | [reels/reel_4345_langchain-ai-langchain](reels/reel_4345_langchain-ai-langchain) |
+| 4346 | 2026-01-24 06:55:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121672⭐ Python) | [reels/reel_4346_open-webui-open-webui](reels/reel_4346_open-webui-open-webui) |
