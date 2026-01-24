@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4356 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-24 |
+| #4357 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4421,3 +4421,4 @@ Or let GitHub Action run it automatically.
 | 4354 | 2026-01-24 09:51:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (170949⭐ TypeScript) | [reels/reel_4354_n8n-io-n8n](reels/reel_4354_n8n-io-n8n) |
 | 4355 | 2026-01-24 10:19:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121688⭐ Python) | [reels/reel_4355_open-webui-open-webui](reels/reel_4355_open-webui-open-webui) |
 | 4356 | 2026-01-24 10:44:35 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109666⭐ Rust) | [reels/reel_4356_rust-lang-rust](reels/reel_4356_rust-lang-rust) |
+| 4357 | 2026-01-24 10:55:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105409⭐ TypeScript) | [reels/reel_4357_shadcn-ui-ui](reels/reel_4357_shadcn-ui-ui) |
