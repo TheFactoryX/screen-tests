@@ -1,0 +1,24 @@
+{
+  "reel_number": 4342,
+  "recorded": "2026-01-24 05:20:19 UTC",
+  "repository": {
+    "full_name": "CharlesPikachu/freeproxy",
+    "url": "https://github.com/CharlesPikachu/freeproxy",
+    "clone_url": "https://github.com/CharlesPikachu/freeproxy.git",
+    "stars": 227,
+    "language": "Python",
+    "size_kb": 31694
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 8.089977
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 227 stars."
+  }
+}
