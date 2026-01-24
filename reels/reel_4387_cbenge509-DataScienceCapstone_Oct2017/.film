@@ -1,0 +1,24 @@
+{
+  "reel_number": 4387,
+  "recorded": "2026-01-24 22:42:57 UTC",
+  "repository": {
+    "full_name": "cbenge509/DataScienceCapstone_Oct2017",
+    "url": "https://github.com/cbenge509/DataScienceCapstone_Oct2017",
+    "clone_url": "https://github.com/cbenge509/DataScienceCapstone_Oct2017.git",
+    "stars": 13,
+    "language": "Python",
+    "size_kb": 3055
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.418567
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 13 stars."
+  }
+}
