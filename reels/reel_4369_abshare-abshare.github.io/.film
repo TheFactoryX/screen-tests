@@ -1,0 +1,24 @@
+{
+  "reel_number": 4369,
+  "recorded": "2026-01-24 15:51:37 UTC",
+  "repository": {
+    "full_name": "abshare/abshare.github.io",
+    "url": "https://github.com/abshare/abshare.github.io",
+    "clone_url": "https://github.com/abshare/abshare.github.io.git",
+    "stars": 871,
+    "language": null,
+    "size_kb": 7865
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.039935
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 871 stars."
+  }
+}

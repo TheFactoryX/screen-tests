@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4368 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-24 |
+| #4369 | [abshare/abshare.github.io](https://github.com/abshare/abshare.github.io) | None · ⭐ 871 | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4433,3 +4433,4 @@ Or let GitHub Action run it automatically.
 | 4366 | 2026-01-24 14:53:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (269790⭐ None) | [reels/reel_4366_awesome-selfhosted-awesome-selfhosted](reels/reel_4366_awesome-selfhosted-awesome-selfhosted) |
 | 4367 | 2026-01-24 15:18:47 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101799⭐ Rust) | [reels/reel_4367_tauri-apps-tauri](reels/reel_4367_tauri-apps-tauri) |
 | 4368 | 2026-01-24 15:41:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121720⭐ Python) | [reels/reel_4368_open-webui-open-webui](reels/reel_4368_open-webui-open-webui) |
+| 4369 | 2026-01-24 15:51:37 | [abshare/abshare.github.io](https://github.com/abshare/abshare.github.io) | ✅ full (871⭐ None) | [reels/reel_4369_abshare-abshare.github.io](reels/reel_4369_abshare-abshare.github.io) |
