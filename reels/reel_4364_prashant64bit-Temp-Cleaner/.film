@@ -1,0 +1,24 @@
+{
+  "reel_number": 4364,
+  "recorded": "2026-01-24 14:18:06 UTC",
+  "repository": {
+    "full_name": "prashant64bit/Temp-Cleaner",
+    "url": "https://github.com/prashant64bit/Temp-Cleaner",
+    "clone_url": "https://github.com/prashant64bit/Temp-Cleaner.git",
+    "stars": 25,
+    "language": "Batchfile",
+    "size_kb": 122
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.176829
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Batchfile",
+    "director_note": "A Batchfile repository. 25 stars."
+  }
+}
