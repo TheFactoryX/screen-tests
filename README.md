@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4338 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-24 |
+| #4339 | [DabengBa/SillyTavern_World_Info_Optimizer](https://github.com/DabengBa/SillyTavern_World_Info_Optimizer) | JavaScript · ⭐ 16 | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4403,3 +4403,4 @@ Or let GitHub Action run it automatically.
 | 4336 | 2026-01-23 23:42:35 | [mathishouis/simple-skyblock](https://github.com/mathishouis/simple-skyblock) | ✅ full (15⭐ Java) | [reels/reel_4336_mathishouis-simple-skyblock](reels/reel_4336_mathishouis-simple-skyblock) |
 | 4337 | 2026-01-23 23:53:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109650⭐ Rust) | [reels/reel_4337_rust-lang-rust](reels/reel_4337_rust-lang-rust) |
 | 4338 | 2026-01-24 01:28:02 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109651⭐ Rust) | [reels/reel_4338_rust-lang-rust](reels/reel_4338_rust-lang-rust) |
+| 4339 | 2026-01-24 03:14:00 | [DabengBa/SillyTavern_World_Info_Optimizer](https://github.com/DabengBa/SillyTavern_World_Info_Optimizer) | ✅ full (16⭐ JavaScript) | [reels/reel_4339_DabengBa-SillyTavern_World_Info_Optimizer](reels/reel_4339_DabengBa-SillyTavern_World_Info_Optimizer) |
