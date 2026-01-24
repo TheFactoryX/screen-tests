@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4347 | [tolinkshare2/tolinkshare2.github.io](https://github.com/tolinkshare2/tolinkshare2.github.io) | None · ⭐ 344 | 2026-01-24 |
+| #4348 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4412,3 +4412,4 @@ Or let GitHub Action run it automatically.
 | 4345 | 2026-01-24 06:29:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (124987⭐ Python) | [reels/reel_4345_langchain-ai-langchain](reels/reel_4345_langchain-ai-langchain) |
 | 4346 | 2026-01-24 06:55:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121672⭐ Python) | [reels/reel_4346_open-webui-open-webui](reels/reel_4346_open-webui-open-webui) |
 | 4347 | 2026-01-24 07:19:16 | [tolinkshare2/tolinkshare2.github.io](https://github.com/tolinkshare2/tolinkshare2.github.io) | ✅ full (344⭐ None) | [reels/reel_4347_tolinkshare2-tolinkshare2.github.io](reels/reel_4347_tolinkshare2-tolinkshare2.github.io) |
+| 4348 | 2026-01-24 07:39:50 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121675⭐ Python) | [reels/reel_4348_open-webui-open-webui](reels/reel_4348_open-webui-open-webui) |
