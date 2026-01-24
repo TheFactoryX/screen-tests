@@ -1,0 +1,24 @@
+{
+  "reel_number": 4390,
+  "recorded": "2026-01-24 23:40:06 UTC",
+  "repository": {
+    "full_name": "Hack23/cia",
+    "url": "https://github.com/Hack23/cia",
+    "clone_url": "https://github.com/Hack23/cia.git",
+    "stars": 202,
+    "language": "Java",
+    "size_kb": 2643926
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2581,
+    "duration_seconds": 0.000149
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 202 stars."
+  }
+}
