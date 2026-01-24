@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4351 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 460k | 2026-01-24 |
+| #4352 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4416,3 +4416,4 @@ Or let GitHub Action run it automatically.
 | 4349 | 2026-01-24 07:50:06 | [Katniss218/HumanSpaceProgram](https://github.com/Katniss218/HumanSpaceProgram) | ✅ readme_only (17⭐ C#) | [reels/reel_4349_Katniss218-HumanSpaceProgram](reels/reel_4349_Katniss218-HumanSpaceProgram) |
 | 4350 | 2026-01-24 08:25:28 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105271⭐ None) | [reels/reel_4350_Hack-with-Github-Awesome-Hacking](reels/reel_4350_Hack-with-Github-Awesome-Hacking) |
 | 4351 | 2026-01-24 08:48:56 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (460113⭐ Markdown) | [reels/reel_4351_codecrafters-io-build-your-own-x](reels/reel_4351_codecrafters-io-build-your-own-x) |
+| 4352 | 2026-01-24 09:19:02 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139548⭐ Python) | [reels/reel_4352_ytdl-org-youtube-dl](reels/reel_4352_ytdl-org-youtube-dl) |
