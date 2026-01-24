@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4383 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-24 |
+| #4384 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 93k | 2026-01-24 |
 ---
 
 ## 🎭 Selection Process
@@ -4448,3 +4448,4 @@ Or let GitHub Action run it automatically.
 | 4381 | 2026-01-24 20:42:16 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | ✅ full (422⭐ PHP) | [reels/reel_4381_awcodes-filament-curator](reels/reel_4381_awcodes-filament-curator) |
 | 4382 | 2026-01-24 20:53:05 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101294⭐ Python) | [reels/reel_4382_deepseek-ai-DeepSeek-V3](reels/reel_4382_deepseek-ai-DeepSeek-V3) |
 | 4383 | 2026-01-24 21:16:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105435⭐ TypeScript) | [reels/reel_4383_shadcn-ui-ui](reels/reel_4383_shadcn-ui-ui) |
+| 4384 | 2026-01-24 21:38:56 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (93903⭐ TypeScript) | [reels/reel_4384_clash-verge-rev-clash-verge-rev](reels/reel_4384_clash-verge-rev-clash-verge-rev) |
