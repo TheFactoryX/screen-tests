@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4418 | [qr243vbi/nekobox](https://github.com/qr243vbi/nekobox) | C++ · ⭐ 114 | 2026-01-25 |
+| #4419 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4483,3 +4483,4 @@ Or let GitHub Action run it automatically.
 | 4416 | 2026-01-25 14:43:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171147⭐ TypeScript) | [reels/reel_4416_n8n-io-n8n](reels/reel_4416_n8n-io-n8n) |
 | 4417 | 2026-01-25 14:53:51 | [enrique-lozano/Monekin](https://github.com/enrique-lozano/Monekin) | ✅ shallow (208⭐ Dart) | [reels/reel_4417_enrique-lozano-Monekin](reels/reel_4417_enrique-lozano-Monekin) |
 | 4418 | 2026-01-25 15:18:59 | [qr243vbi/nekobox](https://github.com/qr243vbi/nekobox) | ✅ full (114⭐ C++) | [reels/reel_4418_qr243vbi-nekobox](reels/reel_4418_qr243vbi-nekobox) |
+| 4419 | 2026-01-25 15:41:33 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102660⭐ Shell) | [reels/reel_4419_papers-we-love-papers-we-love](reels/reel_4419_papers-we-love-papers-we-love) |
