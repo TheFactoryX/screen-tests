@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4412 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 256k | 2026-01-25 |
+| #4413 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 93k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4477,3 +4477,4 @@ Or let GitHub Action run it automatically.
 | 4410 | 2026-01-25 11:38:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181413⭐ Python) | [reels/reel_4410_Significant-Gravitas-AutoGPT](reels/reel_4410_Significant-Gravitas-AutoGPT) |
 | 4411 | 2026-01-25 11:50:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121802⭐ Python) | [reels/reel_4411_open-webui-open-webui](reels/reel_4411_open-webui-open-webui) |
 | 4412 | 2026-01-25 12:39:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (256565⭐ None) | [reels/reel_4412_practical-tutorials-project-based-learning](reels/reel_4412_practical-tutorials-project-based-learning) |
+| 4413 | 2026-01-25 13:21:08 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93710⭐ C++) | [reels/reel_4413_ggml-org-llama.cpp](reels/reel_4413_ggml-org-llama.cpp) |
