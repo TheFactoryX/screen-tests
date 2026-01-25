@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4433 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-01-25 |
+| #4434 | [penk/WeirdFlexButOk](https://github.com/penk/WeirdFlexButOk) | C · ⭐ 21 | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4498,3 +4498,4 @@ Or let GitHub Action run it automatically.
 | 4431 | 2026-01-25 20:22:18 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109706⭐ Rust) | [reels/reel_4431_rust-lang-rust](reels/reel_4431_rust-lang-rust) |
 | 4432 | 2026-01-25 20:44:52 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101304⭐ Python) | [reels/reel_4432_deepseek-ai-DeepSeek-V3](reels/reel_4432_deepseek-ai-DeepSeek-V3) |
 | 4433 | 2026-01-25 20:56:07 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101304⭐ Python) | [reels/reel_4433_deepseek-ai-DeepSeek-V3](reels/reel_4433_deepseek-ai-DeepSeek-V3) |
+| 4434 | 2026-01-25 21:19:48 | [penk/WeirdFlexButOk](https://github.com/penk/WeirdFlexButOk) | ✅ full (21⭐ C) | [reels/reel_4434_penk-WeirdFlexButOk](reels/reel_4434_penk-WeirdFlexButOk) |
