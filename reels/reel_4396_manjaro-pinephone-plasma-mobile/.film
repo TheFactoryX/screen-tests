@@ -1,0 +1,24 @@
+{
+  "reel_number": 4396,
+  "recorded": "2026-01-25 05:50:21 UTC",
+  "repository": {
+    "full_name": "manjaro-pinephone/plasma-mobile",
+    "url": "https://github.com/manjaro-pinephone/plasma-mobile",
+    "clone_url": "https://github.com/manjaro-pinephone/plasma-mobile.git",
+    "stars": 193,
+    "language": "HTML",
+    "size_kb": 6832
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.662063
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 193 stars."
+  }
+}
