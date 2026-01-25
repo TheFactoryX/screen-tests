@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4435 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 256k | 2026-01-25 |
+| #4436 | [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) | Java · ⭐ 883 | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4500,3 +4500,4 @@ Or let GitHub Action run it automatically.
 | 4433 | 2026-01-25 20:56:07 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101304⭐ Python) | [reels/reel_4433_deepseek-ai-DeepSeek-V3](reels/reel_4433_deepseek-ai-DeepSeek-V3) |
 | 4434 | 2026-01-25 21:19:48 | [penk/WeirdFlexButOk](https://github.com/penk/WeirdFlexButOk) | ✅ full (21⭐ C) | [reels/reel_4434_penk-WeirdFlexButOk](reels/reel_4434_penk-WeirdFlexButOk) |
 | 4435 | 2026-01-25 21:40:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (256605⭐ None) | [reels/reel_4435_practical-tutorials-project-based-learning](reels/reel_4435_practical-tutorials-project-based-learning) |
+| 4436 | 2026-01-25 21:50:35 | [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) | ✅ full (883⭐ Java) | [reels/reel_4436_Glitchfiend-BiomesOPlenty](reels/reel_4436_Glitchfiend-BiomesOPlenty) |

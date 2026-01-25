@@ -1,0 +1,24 @@
+{
+  "reel_number": 4436,
+  "recorded": "2026-01-25 21:50:35 UTC",
+  "repository": {
+    "full_name": "Glitchfiend/BiomesOPlenty",
+    "url": "https://github.com/Glitchfiend/BiomesOPlenty",
+    "clone_url": "https://github.com/Glitchfiend/BiomesOPlenty.git",
+    "stars": 883,
+    "language": "Java",
+    "size_kb": 59862
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 58,
+    "duration_seconds": 3.326977
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 883 stars."
+  }
+}
