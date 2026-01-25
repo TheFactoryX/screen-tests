@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4415 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 460k | 2026-01-25 |
+| #4416 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 171k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4480,3 +4480,4 @@ Or let GitHub Action run it automatically.
 | 4413 | 2026-01-25 13:21:08 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93710⭐ C++) | [reels/reel_4413_ggml-org-llama.cpp](reels/reel_4413_ggml-org-llama.cpp) |
 | 4414 | 2026-01-25 13:49:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (393345⭐ Python) | [reels/reel_4414_public-apis-public-apis](reels/reel_4414_public-apis-public-apis) |
 | 4415 | 2026-01-25 14:17:47 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (460492⭐ Markdown) | [reels/reel_4415_codecrafters-io-build-your-own-x](reels/reel_4415_codecrafters-io-build-your-own-x) |
+| 4416 | 2026-01-25 14:43:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171147⭐ TypeScript) | [reels/reel_4416_n8n-io-n8n](reels/reel_4416_n8n-io-n8n) |
