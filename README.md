@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4405 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-25 |
+| #4406 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 143k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4470,3 +4470,4 @@ Or let GitHub Action run it automatically.
 | 4403 | 2026-01-25 08:49:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143980⭐ Python) | [reels/reel_4403_yt-dlp-yt-dlp](reels/reel_4403_yt-dlp-yt-dlp) |
 | 4404 | 2026-01-25 09:20:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125050⭐ Python) | [reels/reel_4404_langchain-ai-langchain](reels/reel_4404_langchain-ai-langchain) |
 | 4405 | 2026-01-25 09:43:05 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139560⭐ Python) | [reels/reel_4405_ytdl-org-youtube-dl](reels/reel_4405_ytdl-org-youtube-dl) |
+| 4406 | 2026-01-25 09:53:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143993⭐ Python) | [reels/reel_4406_yt-dlp-yt-dlp](reels/reel_4406_yt-dlp-yt-dlp) |
