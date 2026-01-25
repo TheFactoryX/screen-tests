@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4414 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 393k | 2026-01-25 |
+| #4415 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 460k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4479,3 +4479,4 @@ Or let GitHub Action run it automatically.
 | 4412 | 2026-01-25 12:39:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (256565⭐ None) | [reels/reel_4412_practical-tutorials-project-based-learning](reels/reel_4412_practical-tutorials-project-based-learning) |
 | 4413 | 2026-01-25 13:21:08 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93710⭐ C++) | [reels/reel_4413_ggml-org-llama.cpp](reels/reel_4413_ggml-org-llama.cpp) |
 | 4414 | 2026-01-25 13:49:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (393345⭐ Python) | [reels/reel_4414_public-apis-public-apis](reels/reel_4414_public-apis-public-apis) |
+| 4415 | 2026-01-25 14:17:47 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (460492⭐ Markdown) | [reels/reel_4415_codecrafters-io-build-your-own-x](reels/reel_4415_codecrafters-io-build-your-own-x) |
