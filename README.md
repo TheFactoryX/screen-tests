@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4426 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-25 |
+| #4427 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4491,3 +4491,4 @@ Or let GitHub Action run it automatically.
 | 4424 | 2026-01-25 17:41:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110206⭐ TypeScript) | [reels/reel_4424_iptv-org-iptv](reels/reel_4424_iptv-org-iptv) |
 | 4425 | 2026-01-25 17:52:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101851⭐ Rust) | [reels/reel_4425_tauri-apps-tauri](reels/reel_4425_tauri-apps-tauri) |
 | 4426 | 2026-01-25 18:27:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121836⭐ Python) | [reels/reel_4426_open-webui-open-webui](reels/reel_4426_open-webui-open-webui) |
+| 4427 | 2026-01-25 18:53:04 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144204⭐ Python) | [reels/reel_4427_langflow-ai-langflow](reels/reel_4427_langflow-ai-langflow) |
