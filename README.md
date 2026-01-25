@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4396 | [manjaro-pinephone/plasma-mobile](https://github.com/manjaro-pinephone/plasma-mobile) | HTML · ⭐ 193 | 2026-01-25 |
+| #4397 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 143k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4461,3 +4461,4 @@ Or let GitHub Action run it automatically.
 | 4394 | 2026-01-25 04:51:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181410⭐ Python) | [reels/reel_4394_Significant-Gravitas-AutoGPT](reels/reel_4394_Significant-Gravitas-AutoGPT) |
 | 4395 | 2026-01-25 05:26:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125041⭐ Python) | [reels/reel_4395_langchain-ai-langchain](reels/reel_4395_langchain-ai-langchain) |
 | 4396 | 2026-01-25 05:50:21 | [manjaro-pinephone/plasma-mobile](https://github.com/manjaro-pinephone/plasma-mobile) | ✅ full (193⭐ HTML) | [reels/reel_4396_manjaro-pinephone-plasma-mobile](reels/reel_4396_manjaro-pinephone-plasma-mobile) |
+| 4397 | 2026-01-25 06:29:53 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143958⭐ Python) | [reels/reel_4397_yt-dlp-yt-dlp](reels/reel_4397_yt-dlp-yt-dlp) |
