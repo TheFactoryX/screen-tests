@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4441 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-25 |
+| #4442 | [aqariio/Fowl-Play](https://github.com/aqariio/Fowl-Play) | Java · ⭐ 13 | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4506,3 +4506,4 @@ Or let GitHub Action run it automatically.
 | 4439 | 2026-01-25 22:55:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110227⭐ TypeScript) | [reels/reel_4439_iptv-org-iptv](reels/reel_4439_iptv-org-iptv) |
 | 4440 | 2026-01-25 23:19:06 | [SensoriumEmbedded/TeensyROM](https://github.com/SensoriumEmbedded/TeensyROM) | ✅ shallow (212⭐ C) | [reels/reel_4440_SensoriumEmbedded-TeensyROM](reels/reel_4440_SensoriumEmbedded-TeensyROM) |
 | 4441 | 2026-01-25 23:41:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181427⭐ Python) | [reels/reel_4441_Significant-Gravitas-AutoGPT](reels/reel_4441_Significant-Gravitas-AutoGPT) |
+| 4442 | 2026-01-25 23:52:29 | [aqariio/Fowl-Play](https://github.com/aqariio/Fowl-Play) | ✅ full (13⭐ Java) | [reels/reel_4442_aqariio-Fowl-Play](reels/reel_4442_aqariio-Fowl-Play) |
