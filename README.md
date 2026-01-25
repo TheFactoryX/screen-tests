@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4425 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-25 |
+| #4426 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4490,3 +4490,4 @@ Or let GitHub Action run it automatically.
 | 4423 | 2026-01-25 17:16:28 | [dpangestuw/Free-Proxy](https://github.com/dpangestuw/Free-Proxy) | ✅ readme_only (100⭐ None) | [reels/reel_4423_dpangestuw-Free-Proxy](reels/reel_4423_dpangestuw-Free-Proxy) |
 | 4424 | 2026-01-25 17:41:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110206⭐ TypeScript) | [reels/reel_4424_iptv-org-iptv](reels/reel_4424_iptv-org-iptv) |
 | 4425 | 2026-01-25 17:52:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101851⭐ Rust) | [reels/reel_4425_tauri-apps-tauri](reels/reel_4425_tauri-apps-tauri) |
+| 4426 | 2026-01-25 18:27:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121836⭐ Python) | [reels/reel_4426_open-webui-open-webui](reels/reel_4426_open-webui-open-webui) |
