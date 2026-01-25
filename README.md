@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4421 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 171k | 2026-01-25 |
+| #4422 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4486,3 +4486,4 @@ Or let GitHub Action run it automatically.
 | 4419 | 2026-01-25 15:41:33 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102660⭐ Shell) | [reels/reel_4419_papers-we-love-papers-we-love](reels/reel_4419_papers-we-love-papers-we-love) |
 | 4420 | 2026-01-25 15:51:51 | [elliottzheng/NotebookLM2PPT](https://github.com/elliottzheng/NotebookLM2PPT) | ✅ full (145⭐ Python) | [reels/reel_4420_elliottzheng-NotebookLM2PPT](reels/reel_4420_elliottzheng-NotebookLM2PPT) |
 | 4421 | 2026-01-25 16:23:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171159⭐ TypeScript) | [reels/reel_4421_n8n-io-n8n](reels/reel_4421_n8n-io-n8n) |
+| 4422 | 2026-01-25 16:48:51 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109700⭐ Rust) | [reels/reel_4422_rust-lang-rust](reels/reel_4422_rust-lang-rust) |
