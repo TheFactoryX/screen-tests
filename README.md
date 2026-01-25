@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4439 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-01-25 |
+| #4440 | [SensoriumEmbedded/TeensyROM](https://github.com/SensoriumEmbedded/TeensyROM) | C · ⭐ 212 | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4504,3 +4504,4 @@ Or let GitHub Action run it automatically.
 | 4437 | 2026-01-25 22:18:39 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | ✅ readme_only (357⭐ HTML) | [reels/reel_4437_kakaxi-1-IPTV](reels/reel_4437_kakaxi-1-IPTV) |
 | 4438 | 2026-01-25 22:44:37 | [zacharee/LockscreenWidgets](https://github.com/zacharee/LockscreenWidgets) | ✅ full (407⭐ Kotlin) | [reels/reel_4438_zacharee-LockscreenWidgets](reels/reel_4438_zacharee-LockscreenWidgets) |
 | 4439 | 2026-01-25 22:55:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110227⭐ TypeScript) | [reels/reel_4439_iptv-org-iptv](reels/reel_4439_iptv-org-iptv) |
+| 4440 | 2026-01-25 23:19:06 | [SensoriumEmbedded/TeensyROM](https://github.com/SensoriumEmbedded/TeensyROM) | ✅ shallow (212⭐ C) | [reels/reel_4440_SensoriumEmbedded-TeensyROM](reels/reel_4440_SensoriumEmbedded-TeensyROM) |
