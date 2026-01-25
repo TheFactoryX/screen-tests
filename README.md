@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4401 | [oklahomer/go-sarah](https://github.com/oklahomer/go-sarah) | Go · ⭐ 266 | 2026-01-25 |
+| #4402 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 93k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4466,3 +4466,4 @@ Or let GitHub Action run it automatically.
 | 4399 | 2026-01-25 07:24:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144193⭐ Python) | [reels/reel_4399_langflow-ai-langflow](reels/reel_4399_langflow-ai-langflow) |
 | 4400 | 2026-01-25 07:41:05 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110169⭐ TypeScript) | [reels/reel_4400_iptv-org-iptv](reels/reel_4400_iptv-org-iptv) |
 | 4401 | 2026-01-25 07:51:18 | [oklahomer/go-sarah](https://github.com/oklahomer/go-sarah) | ✅ full (266⭐ Go) | [reels/reel_4401_oklahomer-go-sarah](reels/reel_4401_oklahomer-go-sarah) |
+| 4402 | 2026-01-25 08:25:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (93967⭐ TypeScript) | [reels/reel_4402_clash-verge-rev-clash-verge-rev](reels/reel_4402_clash-verge-rev-clash-verge-rev) |
