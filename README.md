@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4419 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-25 |
+| #4420 | [elliottzheng/NotebookLM2PPT](https://github.com/elliottzheng/NotebookLM2PPT) | Python · ⭐ 145 | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4484,3 +4484,4 @@ Or let GitHub Action run it automatically.
 | 4417 | 2026-01-25 14:53:51 | [enrique-lozano/Monekin](https://github.com/enrique-lozano/Monekin) | ✅ shallow (208⭐ Dart) | [reels/reel_4417_enrique-lozano-Monekin](reels/reel_4417_enrique-lozano-Monekin) |
 | 4418 | 2026-01-25 15:18:59 | [qr243vbi/nekobox](https://github.com/qr243vbi/nekobox) | ✅ full (114⭐ C++) | [reels/reel_4418_qr243vbi-nekobox](reels/reel_4418_qr243vbi-nekobox) |
 | 4419 | 2026-01-25 15:41:33 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102660⭐ Shell) | [reels/reel_4419_papers-we-love-papers-we-love](reels/reel_4419_papers-we-love-papers-we-love) |
+| 4420 | 2026-01-25 15:51:51 | [elliottzheng/NotebookLM2PPT](https://github.com/elliottzheng/NotebookLM2PPT) | ✅ full (145⭐ Python) | [reels/reel_4420_elliottzheng-NotebookLM2PPT](reels/reel_4420_elliottzheng-NotebookLM2PPT) |

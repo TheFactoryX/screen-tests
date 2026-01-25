@@ -1,0 +1,24 @@
+{
+  "reel_number": 4420,
+  "recorded": "2026-01-25 15:51:51 UTC",
+  "repository": {
+    "full_name": "elliottzheng/NotebookLM2PPT",
+    "url": "https://github.com/elliottzheng/NotebookLM2PPT",
+    "clone_url": "https://github.com/elliottzheng/NotebookLM2PPT.git",
+    "stars": 145,
+    "language": "Python",
+    "size_kb": 4480
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.427649
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 145 stars."
+  }
+}
