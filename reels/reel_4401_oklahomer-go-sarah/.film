@@ -1,0 +1,24 @@
+{
+  "reel_number": 4401,
+  "recorded": "2026-01-25 07:51:18 UTC",
+  "repository": {
+    "full_name": "oklahomer/go-sarah",
+    "url": "https://github.com/oklahomer/go-sarah",
+    "clone_url": "https://github.com/oklahomer/go-sarah.git",
+    "stars": 266,
+    "language": "Go",
+    "size_kb": 4997
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.532876
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 266 stars."
+  }
+}
