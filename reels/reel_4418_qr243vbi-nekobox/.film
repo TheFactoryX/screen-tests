@@ -1,0 +1,24 @@
+{
+  "reel_number": 4418,
+  "recorded": "2026-01-25 15:18:59 UTC",
+  "repository": {
+    "full_name": "qr243vbi/nekobox",
+    "url": "https://github.com/qr243vbi/nekobox",
+    "clone_url": "https://github.com/qr243vbi/nekobox.git",
+    "stars": 114,
+    "language": "C++",
+    "size_kb": 64685
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 2.437506
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 114 stars."
+  }
+}
