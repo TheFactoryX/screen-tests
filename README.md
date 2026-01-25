@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4398 | [sharebook-kr/pykrx](https://github.com/sharebook-kr/pykrx) | Python · ⭐ 861 | 2026-01-25 |
+| #4399 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4463,3 +4463,4 @@ Or let GitHub Action run it automatically.
 | 4396 | 2026-01-25 05:50:21 | [manjaro-pinephone/plasma-mobile](https://github.com/manjaro-pinephone/plasma-mobile) | ✅ full (193⭐ HTML) | [reels/reel_4396_manjaro-pinephone-plasma-mobile](reels/reel_4396_manjaro-pinephone-plasma-mobile) |
 | 4397 | 2026-01-25 06:29:53 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143958⭐ Python) | [reels/reel_4397_yt-dlp-yt-dlp](reels/reel_4397_yt-dlp-yt-dlp) |
 | 4398 | 2026-01-25 06:57:03 | [sharebook-kr/pykrx](https://github.com/sharebook-kr/pykrx) | ✅ full (861⭐ Python) | [reels/reel_4398_sharebook-kr-pykrx](reels/reel_4398_sharebook-kr-pykrx) |
+| 4399 | 2026-01-25 07:24:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144193⭐ Python) | [reels/reel_4399_langflow-ai-langflow](reels/reel_4399_langflow-ai-langflow) |
