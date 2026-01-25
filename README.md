@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4411 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-25 |
+| #4412 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 256k | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4476,3 +4476,4 @@ Or let GitHub Action run it automatically.
 | 4409 | 2026-01-25 11:16:37 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101298⭐ Python) | [reels/reel_4409_deepseek-ai-DeepSeek-V3](reels/reel_4409_deepseek-ai-DeepSeek-V3) |
 | 4410 | 2026-01-25 11:38:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181413⭐ Python) | [reels/reel_4410_Significant-Gravitas-AutoGPT](reels/reel_4410_Significant-Gravitas-AutoGPT) |
 | 4411 | 2026-01-25 11:50:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121802⭐ Python) | [reels/reel_4411_open-webui-open-webui](reels/reel_4411_open-webui-open-webui) |
+| 4412 | 2026-01-25 12:39:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (256565⭐ None) | [reels/reel_4412_practical-tutorials-project-based-learning](reels/reel_4412_practical-tutorials-project-based-learning) |
