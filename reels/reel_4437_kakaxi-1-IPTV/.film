@@ -1,0 +1,24 @@
+{
+  "reel_number": 4437,
+  "recorded": "2026-01-25 22:18:39 UTC",
+  "repository": {
+    "full_name": "kakaxi-1/IPTV",
+    "url": "https://github.com/kakaxi-1/IPTV",
+    "clone_url": "https://github.com/kakaxi-1/IPTV.git",
+    "stars": 357,
+    "language": "HTML",
+    "size_kb": 862155
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 841,
+    "duration_seconds": 0.000149
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 357 stars."
+  }
+}
