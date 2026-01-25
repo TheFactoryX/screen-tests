@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4397 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 143k | 2026-01-25 |
+| #4398 | [sharebook-kr/pykrx](https://github.com/sharebook-kr/pykrx) | Python · ⭐ 861 | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4462,3 +4462,4 @@ Or let GitHub Action run it automatically.
 | 4395 | 2026-01-25 05:26:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125041⭐ Python) | [reels/reel_4395_langchain-ai-langchain](reels/reel_4395_langchain-ai-langchain) |
 | 4396 | 2026-01-25 05:50:21 | [manjaro-pinephone/plasma-mobile](https://github.com/manjaro-pinephone/plasma-mobile) | ✅ full (193⭐ HTML) | [reels/reel_4396_manjaro-pinephone-plasma-mobile](reels/reel_4396_manjaro-pinephone-plasma-mobile) |
 | 4397 | 2026-01-25 06:29:53 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (143958⭐ Python) | [reels/reel_4397_yt-dlp-yt-dlp](reels/reel_4397_yt-dlp-yt-dlp) |
+| 4398 | 2026-01-25 06:57:03 | [sharebook-kr/pykrx](https://github.com/sharebook-kr/pykrx) | ✅ full (861⭐ Python) | [reels/reel_4398_sharebook-kr-pykrx](reels/reel_4398_sharebook-kr-pykrx) |

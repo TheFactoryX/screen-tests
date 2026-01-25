@@ -1,0 +1,24 @@
+{
+  "reel_number": 4398,
+  "recorded": "2026-01-25 06:57:03 UTC",
+  "repository": {
+    "full_name": "sharebook-kr/pykrx",
+    "url": "https://github.com/sharebook-kr/pykrx",
+    "clone_url": "https://github.com/sharebook-kr/pykrx.git",
+    "stars": 861,
+    "language": "Python",
+    "size_kb": 6164
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.824931
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 861 stars."
+  }
+}
