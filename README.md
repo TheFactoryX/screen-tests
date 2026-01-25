@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4422 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-25 |
+| #4423 | [dpangestuw/Free-Proxy](https://github.com/dpangestuw/Free-Proxy) | None · ⭐ 100 | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4487,3 +4487,4 @@ Or let GitHub Action run it automatically.
 | 4420 | 2026-01-25 15:51:51 | [elliottzheng/NotebookLM2PPT](https://github.com/elliottzheng/NotebookLM2PPT) | ✅ full (145⭐ Python) | [reels/reel_4420_elliottzheng-NotebookLM2PPT](reels/reel_4420_elliottzheng-NotebookLM2PPT) |
 | 4421 | 2026-01-25 16:23:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171159⭐ TypeScript) | [reels/reel_4421_n8n-io-n8n](reels/reel_4421_n8n-io-n8n) |
 | 4422 | 2026-01-25 16:48:51 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109700⭐ Rust) | [reels/reel_4422_rust-lang-rust](reels/reel_4422_rust-lang-rust) |
+| 4423 | 2026-01-25 17:16:28 | [dpangestuw/Free-Proxy](https://github.com/dpangestuw/Free-Proxy) | ✅ readme_only (100⭐ None) | [reels/reel_4423_dpangestuw-Free-Proxy](reels/reel_4423_dpangestuw-Free-Proxy) |
