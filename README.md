@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4437 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | HTML · ⭐ 357 | 2026-01-25 |
+| #4438 | [zacharee/LockscreenWidgets](https://github.com/zacharee/LockscreenWidgets) | Kotlin · ⭐ 407 | 2026-01-25 |
 ---
 
 ## 🎭 Selection Process
@@ -4502,3 +4502,4 @@ Or let GitHub Action run it automatically.
 | 4435 | 2026-01-25 21:40:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (256605⭐ None) | [reels/reel_4435_practical-tutorials-project-based-learning](reels/reel_4435_practical-tutorials-project-based-learning) |
 | 4436 | 2026-01-25 21:50:35 | [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty) | ✅ full (883⭐ Java) | [reels/reel_4436_Glitchfiend-BiomesOPlenty](reels/reel_4436_Glitchfiend-BiomesOPlenty) |
 | 4437 | 2026-01-25 22:18:39 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | ✅ readme_only (357⭐ HTML) | [reels/reel_4437_kakaxi-1-IPTV](reels/reel_4437_kakaxi-1-IPTV) |
+| 4438 | 2026-01-25 22:44:37 | [zacharee/LockscreenWidgets](https://github.com/zacharee/LockscreenWidgets) | ✅ full (407⭐ Kotlin) | [reels/reel_4438_zacharee-LockscreenWidgets](reels/reel_4438_zacharee-LockscreenWidgets) |
