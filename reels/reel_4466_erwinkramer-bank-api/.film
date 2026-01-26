@@ -1,0 +1,24 @@
+{
+  "reel_number": 4466,
+  "recorded": "2026-01-26 17:05:07 UTC",
+  "repository": {
+    "full_name": "erwinkramer/bank-api",
+    "url": "https://github.com/erwinkramer/bank-api",
+    "clone_url": "https://github.com/erwinkramer/bank-api.git",
+    "stars": 784,
+    "language": "C#",
+    "size_kb": 1469
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.492274
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 784 stars."
+  }
+}
