@@ -1,0 +1,24 @@
+{
+  "reel_number": 4477,
+  "recorded": "2026-01-26 22:47:18 UTC",
+  "repository": {
+    "full_name": "nushell/nushell.github.io",
+    "url": "https://github.com/nushell/nushell.github.io",
+    "clone_url": "https://github.com/nushell/nushell.github.io.git",
+    "stars": 242,
+    "language": "TypeScript",
+    "size_kb": 93088
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 90,
+    "duration_seconds": 2.401416
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 242 stars."
+  }
+}

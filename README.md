@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4476 | [mnemosyne-artificial-intelligence/doppelganger](https://github.com/mnemosyne-artificial-intelligence/doppelganger) | TypeScript · ⭐ 166 | 2026-01-26 |
+| #4477 | [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) | TypeScript · ⭐ 242 | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4541,3 +4541,4 @@ Or let GitHub Action run it automatically.
 | 4474 | 2026-01-26 21:22:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144255⭐ Python) | [reels/reel_4474_yt-dlp-yt-dlp](reels/reel_4474_yt-dlp-yt-dlp) |
 | 4475 | 2026-01-26 21:46:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181459⭐ Python) | [reels/reel_4475_Significant-Gravitas-AutoGPT](reels/reel_4475_Significant-Gravitas-AutoGPT) |
 | 4476 | 2026-01-26 22:20:06 | [mnemosyne-artificial-intelligence/doppelganger](https://github.com/mnemosyne-artificial-intelligence/doppelganger) | ✅ full (166⭐ TypeScript) | [reels/reel_4476_mnemosyne-artificial-intelligence-doppelganger](reels/reel_4476_mnemosyne-artificial-intelligence-doppelganger) |
+| 4477 | 2026-01-26 22:47:18 | [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) | ✅ full (242⭐ TypeScript) | [reels/reel_4477_nushell-nushell.github.io](reels/reel_4477_nushell-nushell.github.io) |
