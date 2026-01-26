@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4472 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-26 |
+| #4473 | [sorairolake/qrtool](https://github.com/sorairolake/qrtool) | Rust · ⭐ 250 | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4537,3 +4537,4 @@ Or let GitHub Action run it automatically.
 | 4470 | 2026-01-26 19:34:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121943⭐ Python) | [reels/reel_4470_open-webui-open-webui](reels/reel_4470_open-webui-open-webui) |
 | 4471 | 2026-01-26 19:53:26 | [pytorch/test-infra](https://github.com/pytorch/test-infra) | ✅ shallow (104⭐ TypeScript) | [reels/reel_4471_pytorch-test-infra](reels/reel_4471_pytorch-test-infra) |
 | 4472 | 2026-01-26 20:25:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144243⭐ Python) | [reels/reel_4472_langflow-ai-langflow](reels/reel_4472_langflow-ai-langflow) |
+| 4473 | 2026-01-26 20:50:01 | [sorairolake/qrtool](https://github.com/sorairolake/qrtool) | ✅ full (250⭐ Rust) | [reels/reel_4473_sorairolake-qrtool](reels/reel_4473_sorairolake-qrtool) |
