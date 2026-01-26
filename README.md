@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4469 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-26 |
+| #4470 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4534,3 +4534,4 @@ Or let GitHub Action run it automatically.
 | 4467 | 2026-01-26 17:45:53 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109746⭐ Rust) | [reels/reel_4467_rust-lang-rust](reels/reel_4467_rust-lang-rust) |
 | 4468 | 2026-01-26 18:33:15 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121943⭐ Python) | [reels/reel_4468_open-webui-open-webui](reels/reel_4468_open-webui-open-webui) |
 | 4469 | 2026-01-26 19:04:31 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102699⭐ Shell) | [reels/reel_4469_papers-we-love-papers-we-love](reels/reel_4469_papers-we-love-papers-we-love) |
+| 4470 | 2026-01-26 19:34:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121943⭐ Python) | [reels/reel_4470_open-webui-open-webui](reels/reel_4470_open-webui-open-webui) |
