@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4479 | [evgeni/ansible-wtf](https://github.com/evgeni/ansible-wtf) | Python · ⭐ 13 | 2026-01-26 |
+| #4480 | [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) | Python · ⭐ 1k | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4544,3 +4544,4 @@ Or let GitHub Action run it automatically.
 | 4477 | 2026-01-26 22:47:18 | [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) | ✅ full (242⭐ TypeScript) | [reels/reel_4477_nushell-nushell.github.io](reels/reel_4477_nushell-nushell.github.io) |
 | 4478 | 2026-01-26 23:20:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121955⭐ Python) | [reels/reel_4478_open-webui-open-webui](reels/reel_4478_open-webui-open-webui) |
 | 4479 | 2026-01-26 23:44:27 | [evgeni/ansible-wtf](https://github.com/evgeni/ansible-wtf) | ✅ full (13⭐ Python) | [reels/reel_4479_evgeni-ansible-wtf](reels/reel_4479_evgeni-ansible-wtf) |
+| 4480 | 2026-01-26 23:56:52 | [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) | ✅ full (1150⭐ Python) | [reels/reel_4480_ArchipelagoMW-Archipelago](reels/reel_4480_ArchipelagoMW-Archipelago) |

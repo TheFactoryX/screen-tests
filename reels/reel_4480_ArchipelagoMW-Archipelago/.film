@@ -1,0 +1,24 @@
+{
+  "reel_number": 4480,
+  "recorded": "2026-01-26 23:56:52 UTC",
+  "repository": {
+    "full_name": "ArchipelagoMW/Archipelago",
+    "url": "https://github.com/ArchipelagoMW/Archipelago",
+    "clone_url": "https://github.com/ArchipelagoMW/Archipelago.git",
+    "stars": 1150,
+    "language": "Python",
+    "size_kb": 83485
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 81,
+    "duration_seconds": 4.232888
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 1150 stars."
+  }
+}
