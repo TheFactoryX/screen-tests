@@ -1,0 +1,24 @@
+{
+  "reel_number": 4445,
+  "recorded": "2026-01-26 04:55:13 UTC",
+  "repository": {
+    "full_name": "soc221b/pinia-plugin-persistedstate-2",
+    "url": "https://github.com/soc221b/pinia-plugin-persistedstate-2",
+    "clone_url": "https://github.com/soc221b/pinia-plugin-persistedstate-2.git",
+    "stars": 115,
+    "language": "TypeScript",
+    "size_kb": 25197
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 2.055802
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 115 stars."
+  }
+}
