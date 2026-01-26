@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4466 | [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) | C# · ⭐ 784 | 2026-01-26 |
+| #4467 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4531,3 +4531,4 @@ Or let GitHub Action run it automatically.
 | 4464 | 2026-01-26 15:53:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181455⭐ Python) | [reels/reel_4464_Significant-Gravitas-AutoGPT](reels/reel_4464_Significant-Gravitas-AutoGPT) |
 | 4465 | 2026-01-26 16:32:22 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144239⭐ Python) | [reels/reel_4465_langflow-ai-langflow](reels/reel_4465_langflow-ai-langflow) |
 | 4466 | 2026-01-26 17:05:07 | [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) | ✅ full (784⭐ C#) | [reels/reel_4466_erwinkramer-bank-api](reels/reel_4466_erwinkramer-bank-api) |
+| 4467 | 2026-01-26 17:45:53 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109746⭐ Rust) | [reels/reel_4467_rust-lang-rust](reels/reel_4467_rust-lang-rust) |
