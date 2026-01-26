@@ -1,0 +1,24 @@
+{
+  "reel_number": 4479,
+  "recorded": "2026-01-26 23:44:27 UTC",
+  "repository": {
+    "full_name": "evgeni/ansible-wtf",
+    "url": "https://github.com/evgeni/ansible-wtf",
+    "clone_url": "https://github.com/evgeni/ansible-wtf.git",
+    "stars": 13,
+    "language": "Python",
+    "size_kb": 11
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.42561
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 13 stars."
+  }
+}
