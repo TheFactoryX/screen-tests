@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4459 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-26 |
+| #4460 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4524,3 +4524,4 @@ Or let GitHub Action run it automatically.
 | 4457 | 2026-01-26 11:42:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171317⭐ TypeScript) | [reels/reel_4457_n8n-io-n8n](reels/reel_4457_n8n-io-n8n) |
 | 4458 | 2026-01-26 11:53:21 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125140⭐ Python) | [reels/reel_4458_langchain-ai-langchain](reels/reel_4458_langchain-ai-langchain) |
 | 4459 | 2026-01-26 12:44:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109736⭐ Rust) | [reels/reel_4459_rust-lang-rust](reels/reel_4459_rust-lang-rust) |
+| 4460 | 2026-01-26 13:34:02 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139575⭐ Python) | [reels/reel_4460_ytdl-org-youtube-dl](reels/reel_4460_ytdl-org-youtube-dl) |
