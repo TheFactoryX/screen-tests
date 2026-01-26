@@ -1,0 +1,24 @@
+{
+  "reel_number": 4471,
+  "recorded": "2026-01-26 19:53:26 UTC",
+  "repository": {
+    "full_name": "pytorch/test-infra",
+    "url": "https://github.com/pytorch/test-infra",
+    "clone_url": "https://github.com/pytorch/test-infra.git",
+    "stars": 104,
+    "language": "TypeScript",
+    "size_kb": 393227
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 384,
+    "duration_seconds": 1.10269
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 104 stars."
+  }
+}
