@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4456 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 171k | 2026-01-26 |
+| #4457 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 171k | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4521,3 +4521,4 @@ Or let GitHub Action run it automatically.
 | 4454 | 2026-01-26 10:25:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270076⭐ None) | [reels/reel_4454_awesome-selfhosted-awesome-selfhosted](reels/reel_4454_awesome-selfhosted-awesome-selfhosted) |
 | 4455 | 2026-01-26 10:52:08 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101881⭐ Rust) | [reels/reel_4455_tauri-apps-tauri](reels/reel_4455_tauri-apps-tauri) |
 | 4456 | 2026-01-26 11:19:33 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171313⭐ TypeScript) | [reels/reel_4456_n8n-io-n8n](reels/reel_4456_n8n-io-n8n) |
+| 4457 | 2026-01-26 11:42:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171317⭐ TypeScript) | [reels/reel_4457_n8n-io-n8n](reels/reel_4457_n8n-io-n8n) |
