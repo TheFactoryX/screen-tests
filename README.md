@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4451 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-26 |
+| #4452 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4516,3 +4516,4 @@ Or let GitHub Action run it automatically.
 | 4449 | 2026-01-26 07:26:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181437⭐ Python) | [reels/reel_4449_Significant-Gravitas-AutoGPT](reels/reel_4449_Significant-Gravitas-AutoGPT) |
 | 4450 | 2026-01-26 07:48:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121892⭐ Python) | [reels/reel_4450_open-webui-open-webui](reels/reel_4450_open-webui-open-webui) |
 | 4451 | 2026-01-26 08:30:44 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101877⭐ Rust) | [reels/reel_4451_tauri-apps-tauri](reels/reel_4451_tauri-apps-tauri) |
+| 4452 | 2026-01-26 09:03:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270065⭐ None) | [reels/reel_4452_awesome-selfhosted-awesome-selfhosted](reels/reel_4452_awesome-selfhosted-awesome-selfhosted) |
