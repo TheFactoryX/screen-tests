@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4448 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-26 |
+| #4449 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4513,3 +4513,4 @@ Or let GitHub Action run it automatically.
 | 4446 | 2026-01-26 05:31:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109721⭐ Rust) | [reels/reel_4446_rust-lang-rust](reels/reel_4446_rust-lang-rust) |
 | 4447 | 2026-01-26 05:58:51 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105516⭐ TypeScript) | [reels/reel_4447_shadcn-ui-ui](reels/reel_4447_shadcn-ui-ui) |
 | 4448 | 2026-01-26 06:51:15 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144138⭐ Python) | [reels/reel_4448_yt-dlp-yt-dlp](reels/reel_4448_yt-dlp-yt-dlp) |
+| 4449 | 2026-01-26 07:26:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181437⭐ Python) | [reels/reel_4449_Significant-Gravitas-AutoGPT](reels/reel_4449_Significant-Gravitas-AutoGPT) |
