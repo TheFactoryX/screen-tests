@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4453 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 121k | 2026-01-26 |
+| #4454 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4518,3 +4518,4 @@ Or let GitHub Action run it automatically.
 | 4451 | 2026-01-26 08:30:44 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101877⭐ Rust) | [reels/reel_4451_tauri-apps-tauri](reels/reel_4451_tauri-apps-tauri) |
 | 4452 | 2026-01-26 09:03:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270065⭐ None) | [reels/reel_4452_awesome-selfhosted-awesome-selfhosted](reels/reel_4452_awesome-selfhosted-awesome-selfhosted) |
 | 4453 | 2026-01-26 09:48:32 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (121907⭐ Python) | [reels/reel_4453_open-webui-open-webui](reels/reel_4453_open-webui-open-webui) |
+| 4454 | 2026-01-26 10:25:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270076⭐ None) | [reels/reel_4454_awesome-selfhosted-awesome-selfhosted](reels/reel_4454_awesome-selfhosted-awesome-selfhosted) |
