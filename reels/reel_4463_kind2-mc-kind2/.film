@@ -1,0 +1,24 @@
+{
+  "reel_number": 4463,
+  "recorded": "2026-01-26 15:27:22 UTC",
+  "repository": {
+    "full_name": "kind2-mc/kind2",
+    "url": "https://github.com/kind2-mc/kind2",
+    "clone_url": "https://github.com/kind2-mc/kind2.git",
+    "stars": 116,
+    "language": "OCaml",
+    "size_kb": 26375
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 2.325178
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "OCaml",
+    "director_note": "A OCaml repository. 116 stars."
+  }
+}

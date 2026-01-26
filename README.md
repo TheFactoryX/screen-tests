@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4462 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-26 |
+| #4463 | [kind2-mc/kind2](https://github.com/kind2-mc/kind2) | OCaml · ⭐ 116 | 2026-01-26 |
 ---
 
 ## 🎭 Selection Process
@@ -4527,3 +4527,4 @@ Or let GitHub Action run it automatically.
 | 4460 | 2026-01-26 13:34:02 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139575⭐ Python) | [reels/reel_4460_ytdl-org-youtube-dl](reels/reel_4460_ytdl-org-youtube-dl) |
 | 4461 | 2026-01-26 14:03:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110343⭐ TypeScript) | [reels/reel_4461_iptv-org-iptv](reels/reel_4461_iptv-org-iptv) |
 | 4462 | 2026-01-26 14:47:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270104⭐ None) | [reels/reel_4462_awesome-selfhosted-awesome-selfhosted](reels/reel_4462_awesome-selfhosted-awesome-selfhosted) |
+| 4463 | 2026-01-26 15:27:22 | [kind2-mc/kind2](https://github.com/kind2-mc/kind2) | ✅ full (116⭐ OCaml) | [reels/reel_4463_kind2-mc-kind2](reels/reel_4463_kind2-mc-kind2) |
