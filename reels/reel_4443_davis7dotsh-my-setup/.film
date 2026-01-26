@@ -1,0 +1,24 @@
+{
+  "reel_number": 4443,
+  "recorded": "2026-01-26 01:48:32 UTC",
+  "repository": {
+    "full_name": "davis7dotsh/my-setup",
+    "url": "https://github.com/davis7dotsh/my-setup",
+    "clone_url": "https://github.com/davis7dotsh/my-setup.git",
+    "stars": 17,
+    "language": "Svelte",
+    "size_kb": 551
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.438316
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Svelte",
+    "director_note": "A Svelte repository. 17 stars."
+  }
+}
