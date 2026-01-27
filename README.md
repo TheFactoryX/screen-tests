@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4514 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-27 |
+| #4515 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4579,3 +4579,4 @@ Or let GitHub Action run it automatically.
 | 4512 | 2026-01-27 20:46:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109786⭐ Rust) | [reels/reel_4512_rust-lang-rust](reels/reel_4512_rust-lang-rust) |
 | 4513 | 2026-01-27 21:16:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144291⭐ Python) | [reels/reel_4513_langflow-ai-langflow](reels/reel_4513_langflow-ai-langflow) |
 | 4514 | 2026-01-27 21:42:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102735⭐ Shell) | [reels/reel_4514_papers-we-love-papers-we-love](reels/reel_4514_papers-we-love-papers-we-love) |
+| 4515 | 2026-01-27 21:53:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144416⭐ Python) | [reels/reel_4515_yt-dlp-yt-dlp](reels/reel_4515_yt-dlp-yt-dlp) |
