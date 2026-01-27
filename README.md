@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4516 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-27 |
+| #4517 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4581,3 +4581,4 @@ Or let GitHub Action run it automatically.
 | 4514 | 2026-01-27 21:42:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102735⭐ Shell) | [reels/reel_4514_papers-we-love-papers-we-love](reels/reel_4514_papers-we-love-papers-we-love) |
 | 4515 | 2026-01-27 21:53:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144416⭐ Python) | [reels/reel_4515_yt-dlp-yt-dlp](reels/reel_4515_yt-dlp-yt-dlp) |
 | 4516 | 2026-01-27 22:21:06 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144418⭐ Python) | [reels/reel_4516_yt-dlp-yt-dlp](reels/reel_4516_yt-dlp-yt-dlp) |
+| 4517 | 2026-01-27 22:45:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109791⭐ Rust) | [reels/reel_4517_rust-lang-rust](reels/reel_4517_rust-lang-rust) |
