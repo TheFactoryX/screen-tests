@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4519 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-27 |
+| #4520 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4584,3 +4584,4 @@ Or let GitHub Action run it automatically.
 | 4517 | 2026-01-27 22:45:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109791⭐ Rust) | [reels/reel_4517_rust-lang-rust](reels/reel_4517_rust-lang-rust) |
 | 4518 | 2026-01-27 23:20:13 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97364⭐ TypeScript) | [reels/reel_4518_ant-design-ant-design](reels/reel_4518_ant-design-ant-design) |
 | 4519 | 2026-01-27 23:43:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144423⭐ Python) | [reels/reel_4519_yt-dlp-yt-dlp](reels/reel_4519_yt-dlp-yt-dlp) |
+| 4520 | 2026-01-27 23:55:27 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110568⭐ TypeScript) | [reels/reel_4520_iptv-org-iptv](reels/reel_4520_iptv-org-iptv) |
