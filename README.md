@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4505 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-27 |
+| #4506 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 93k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4570,3 +4570,4 @@ Or let GitHub Action run it automatically.
 | 4503 | 2026-01-27 15:58:11 | [Rosuav/shed](https://github.com/Rosuav/shed) | ✅ full (14⭐ Pike) | [reels/reel_4503_Rosuav-shed](reels/reel_4503_Rosuav-shed) |
 | 4504 | 2026-01-27 16:37:47 | [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) | ✅ full (116⭐ None) | [reels/reel_4504_SoraEase-sora-prompt-zh](reels/reel_4504_SoraEase-sora-prompt-zh) |
 | 4505 | 2026-01-27 17:03:31 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97363⭐ TypeScript) | [reels/reel_4505_ant-design-ant-design](reels/reel_4505_ant-design-ant-design) |
+| 4506 | 2026-01-27 17:44:28 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93838⭐ C++) | [reels/reel_4506_ggml-org-llama.cpp](reels/reel_4506_ggml-org-llama.cpp) |
