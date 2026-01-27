@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4492 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 94k | 2026-01-27 |
+| #4493 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4557,3 +4557,4 @@ Or let GitHub Action run it automatically.
 | 4490 | 2026-01-27 08:31:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144339⭐ Python) | [reels/reel_4490_yt-dlp-yt-dlp](reels/reel_4490_yt-dlp-yt-dlp) |
 | 4491 | 2026-01-27 09:03:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (122006⭐ Python) | [reels/reel_4491_open-webui-open-webui](reels/reel_4491_open-webui-open-webui) |
 | 4492 | 2026-01-27 09:47:47 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (94401⭐ TypeScript) | [reels/reel_4492_clash-verge-rev-clash-verge-rev](reels/reel_4492_clash-verge-rev-clash-verge-rev) |
+| 4493 | 2026-01-27 10:26:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270260⭐ None) | [reels/reel_4493_awesome-selfhosted-awesome-selfhosted](reels/reel_4493_awesome-selfhosted-awesome-selfhosted) |
