@@ -1,0 +1,24 @@
+{
+  "reel_number": 4504,
+  "recorded": "2026-01-27 16:37:47 UTC",
+  "repository": {
+    "full_name": "SoraEase/sora-prompt-zh",
+    "url": "https://github.com/SoraEase/sora-prompt-zh",
+    "clone_url": "https://github.com/SoraEase/sora-prompt-zh.git",
+    "stars": 116,
+    "language": null,
+    "size_kb": 1221
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.616918
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 116 stars."
+  }
+}
