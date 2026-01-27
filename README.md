@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4497 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-27 |
+| #4498 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 94k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4562,3 +4562,4 @@ Or let GitHub Action run it automatically.
 | 4495 | 2026-01-27 11:21:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105623⭐ TypeScript) | [reels/reel_4495_shadcn-ui-ui](reels/reel_4495_shadcn-ui-ui) |
 | 4496 | 2026-01-27 11:44:39 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97363⭐ TypeScript) | [reels/reel_4496_ant-design-ant-design](reels/reel_4496_ant-design-ant-design) |
 | 4497 | 2026-01-27 11:57:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270273⭐ None) | [reels/reel_4497_awesome-selfhosted-awesome-selfhosted](reels/reel_4497_awesome-selfhosted-awesome-selfhosted) |
+| 4498 | 2026-01-27 12:59:11 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (94441⭐ TypeScript) | [reels/reel_4498_clash-verge-rev-clash-verge-rev](reels/reel_4498_clash-verge-rev-clash-verge-rev) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 4498,
+  "recorded": "2026-01-27 12:59:11 UTC",
+  "repository": {
+    "full_name": "clash-verge-rev/clash-verge-rev",
+    "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "clone_url": "https://github.com/clash-verge-rev/clash-verge-rev.git",
+    "stars": 94441,
+    "language": "TypeScript",
+    "size_kb": 73001
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 71,
+    "duration_seconds": 2.62431
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 94441 stars."
+  }
+}
