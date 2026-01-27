@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4513 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-27 |
+| #4514 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4578,3 +4578,4 @@ Or let GitHub Action run it automatically.
 | 4511 | 2026-01-27 20:21:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110550⭐ TypeScript) | [reels/reel_4511_iptv-org-iptv](reels/reel_4511_iptv-org-iptv) |
 | 4512 | 2026-01-27 20:46:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109786⭐ Rust) | [reels/reel_4512_rust-lang-rust](reels/reel_4512_rust-lang-rust) |
 | 4513 | 2026-01-27 21:16:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144291⭐ Python) | [reels/reel_4513_langflow-ai-langflow](reels/reel_4513_langflow-ai-langflow) |
+| 4514 | 2026-01-27 21:42:21 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102735⭐ Shell) | [reels/reel_4514_papers-we-love-papers-we-love](reels/reel_4514_papers-we-love-papers-we-love) |
