@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4511 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-01-27 |
+| #4512 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4576,3 +4576,4 @@ Or let GitHub Action run it automatically.
 | 4509 | 2026-01-27 19:28:57 | [gatling/gatling-maven-plugin-demo-scala](https://github.com/gatling/gatling-maven-plugin-demo-scala) | ✅ full (16⭐ Scala) | [reels/reel_4509_gatling-gatling-maven-plugin-demo-scala](reels/reel_4509_gatling-gatling-maven-plugin-demo-scala) |
 | 4510 | 2026-01-27 19:49:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270342⭐ None) | [reels/reel_4510_awesome-selfhosted-awesome-selfhosted](reels/reel_4510_awesome-selfhosted-awesome-selfhosted) |
 | 4511 | 2026-01-27 20:21:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110550⭐ TypeScript) | [reels/reel_4511_iptv-org-iptv](reels/reel_4511_iptv-org-iptv) |
+| 4512 | 2026-01-27 20:46:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109786⭐ Rust) | [reels/reel_4512_rust-lang-rust](reels/reel_4512_rust-lang-rust) |
