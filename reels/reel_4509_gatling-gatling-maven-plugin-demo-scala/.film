@@ -1,0 +1,24 @@
+{
+  "reel_number": 4509,
+  "recorded": "2026-01-27 19:28:57 UTC",
+  "repository": {
+    "full_name": "gatling/gatling-maven-plugin-demo-scala",
+    "url": "https://github.com/gatling/gatling-maven-plugin-demo-scala",
+    "clone_url": "https://github.com/gatling/gatling-maven-plugin-demo-scala.git",
+    "stars": 16,
+    "language": "Scala",
+    "size_kb": 89
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.190078
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Scala",
+    "director_note": "A Scala repository. 16 stars."
+  }
+}
