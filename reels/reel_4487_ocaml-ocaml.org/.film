@@ -1,0 +1,24 @@
+{
+  "reel_number": 4487,
+  "recorded": "2026-01-27 07:04:02 UTC",
+  "repository": {
+    "full_name": "ocaml/ocaml.org",
+    "url": "https://github.com/ocaml/ocaml.org",
+    "clone_url": "https://github.com/ocaml/ocaml.org.git",
+    "stars": 183,
+    "language": "Markdown",
+    "size_kb": 149664
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 146,
+    "duration_seconds": 2.330537
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Markdown",
+    "director_note": "A Markdown repository. 183 stars."
+  }
+}
