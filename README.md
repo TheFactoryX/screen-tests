@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4512 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-27 |
+| #4513 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4577,3 +4577,4 @@ Or let GitHub Action run it automatically.
 | 4510 | 2026-01-27 19:49:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270342⭐ None) | [reels/reel_4510_awesome-selfhosted-awesome-selfhosted](reels/reel_4510_awesome-selfhosted-awesome-selfhosted) |
 | 4511 | 2026-01-27 20:21:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110550⭐ TypeScript) | [reels/reel_4511_iptv-org-iptv](reels/reel_4511_iptv-org-iptv) |
 | 4512 | 2026-01-27 20:46:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109786⭐ Rust) | [reels/reel_4512_rust-lang-rust](reels/reel_4512_rust-lang-rust) |
+| 4513 | 2026-01-27 21:16:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144291⭐ Python) | [reels/reel_4513_langflow-ai-langflow](reels/reel_4513_langflow-ai-langflow) |
