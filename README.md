@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4487 | [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) | Markdown · ⭐ 183 | 2026-01-27 |
+| #4488 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 125k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4552,3 +4552,4 @@ Or let GitHub Action run it automatically.
 | 4485 | 2026-01-27 05:50:28 | [lukasroegner/homebridge-dyson-pure-cool](https://github.com/lukasroegner/homebridge-dyson-pure-cool) | ✅ full (331⭐ JavaScript) | [reels/reel_4485_lukasroegner-homebridge-dyson-pure-cool](reels/reel_4485_lukasroegner-homebridge-dyson-pure-cool) |
 | 4486 | 2026-01-27 06:33:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270217⭐ None) | [reels/reel_4486_awesome-selfhosted-awesome-selfhosted](reels/reel_4486_awesome-selfhosted-awesome-selfhosted) |
 | 4487 | 2026-01-27 07:04:02 | [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) | ✅ shallow (183⭐ Markdown) | [reels/reel_4487_ocaml-ocaml.org](reels/reel_4487_ocaml-ocaml.org) |
+| 4488 | 2026-01-27 07:40:57 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125206⭐ Python) | [reels/reel_4488_langchain-ai-langchain](reels/reel_4488_langchain-ai-langchain) |
