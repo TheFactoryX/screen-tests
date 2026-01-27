@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4509 | [gatling/gatling-maven-plugin-demo-scala](https://github.com/gatling/gatling-maven-plugin-demo-scala) | Scala · ⭐ 16 | 2026-01-27 |
+| #4510 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4574,3 +4574,4 @@ Or let GitHub Action run it automatically.
 | 4507 | 2026-01-27 18:00:29 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97365⭐ TypeScript) | [reels/reel_4507_ant-design-ant-design](reels/reel_4507_ant-design-ant-design) |
 | 4508 | 2026-01-27 18:57:06 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139589⭐ Python) | [reels/reel_4508_ytdl-org-youtube-dl](reels/reel_4508_ytdl-org-youtube-dl) |
 | 4509 | 2026-01-27 19:28:57 | [gatling/gatling-maven-plugin-demo-scala](https://github.com/gatling/gatling-maven-plugin-demo-scala) | ✅ full (16⭐ Scala) | [reels/reel_4509_gatling-gatling-maven-plugin-demo-scala](reels/reel_4509_gatling-gatling-maven-plugin-demo-scala) |
+| 4510 | 2026-01-27 19:49:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270342⭐ None) | [reels/reel_4510_awesome-selfhosted-awesome-selfhosted](reels/reel_4510_awesome-selfhosted-awesome-selfhosted) |
