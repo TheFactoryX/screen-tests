@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4481 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-01-27 |
+| #4482 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4546,3 +4546,4 @@ Or let GitHub Action run it automatically.
 | 4479 | 2026-01-26 23:44:27 | [evgeni/ansible-wtf](https://github.com/evgeni/ansible-wtf) | ✅ full (13⭐ Python) | [reels/reel_4479_evgeni-ansible-wtf](reels/reel_4479_evgeni-ansible-wtf) |
 | 4480 | 2026-01-26 23:56:52 | [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) | ✅ full (1150⭐ Python) | [reels/reel_4480_ArchipelagoMW-Archipelago](reels/reel_4480_ArchipelagoMW-Archipelago) |
 | 4481 | 2026-01-27 01:59:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110418⭐ TypeScript) | [reels/reel_4481_iptv-org-iptv](reels/reel_4481_iptv-org-iptv) |
+| 4482 | 2026-01-27 03:52:36 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102710⭐ Shell) | [reels/reel_4482_papers-we-love-papers-we-love](reels/reel_4482_papers-we-love-papers-we-love) |
