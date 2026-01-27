@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4500 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-27 |
+| #4501 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4565,3 +4565,4 @@ Or let GitHub Action run it automatically.
 | 4498 | 2026-01-27 12:59:11 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (94441⭐ TypeScript) | [reels/reel_4498_clash-verge-rev-clash-verge-rev](reels/reel_4498_clash-verge-rev-clash-verge-rev) |
 | 4499 | 2026-01-27 13:52:44 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97363⭐ TypeScript) | [reels/reel_4499_ant-design-ant-design](reels/reel_4499_ant-design-ant-design) |
 | 4500 | 2026-01-27 14:28:14 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102731⭐ Shell) | [reels/reel_4500_papers-we-love-papers-we-love](reels/reel_4500_papers-we-love-papers-we-love) |
+| 4501 | 2026-01-27 14:59:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144379⭐ Python) | [reels/reel_4501_yt-dlp-yt-dlp](reels/reel_4501_yt-dlp-yt-dlp) |
