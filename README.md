@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4495 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-27 |
+| #4496 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4560,3 +4560,4 @@ Or let GitHub Action run it automatically.
 | 4493 | 2026-01-27 10:26:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270260⭐ None) | [reels/reel_4493_awesome-selfhosted-awesome-selfhosted](reels/reel_4493_awesome-selfhosted-awesome-selfhosted) |
 | 4494 | 2026-01-27 10:55:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109773⭐ Rust) | [reels/reel_4494_rust-lang-rust](reels/reel_4494_rust-lang-rust) |
 | 4495 | 2026-01-27 11:21:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105623⭐ TypeScript) | [reels/reel_4495_shadcn-ui-ui](reels/reel_4495_shadcn-ui-ui) |
+| 4496 | 2026-01-27 11:44:39 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97363⭐ TypeScript) | [reels/reel_4496_ant-design-ant-design](reels/reel_4496_ant-design-ant-design) |
