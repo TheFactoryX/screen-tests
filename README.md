@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4494 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-27 |
+| #4495 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4559,3 +4559,4 @@ Or let GitHub Action run it automatically.
 | 4492 | 2026-01-27 09:47:47 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (94401⭐ TypeScript) | [reels/reel_4492_clash-verge-rev-clash-verge-rev](reels/reel_4492_clash-verge-rev-clash-verge-rev) |
 | 4493 | 2026-01-27 10:26:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270260⭐ None) | [reels/reel_4493_awesome-selfhosted-awesome-selfhosted](reels/reel_4493_awesome-selfhosted-awesome-selfhosted) |
 | 4494 | 2026-01-27 10:55:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109773⭐ Rust) | [reels/reel_4494_rust-lang-rust](reels/reel_4494_rust-lang-rust) |
+| 4495 | 2026-01-27 11:21:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105623⭐ TypeScript) | [reels/reel_4495_shadcn-ui-ui](reels/reel_4495_shadcn-ui-ui) |
