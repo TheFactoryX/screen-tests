@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4501 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-27 |
+| #4502 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4566,3 +4566,4 @@ Or let GitHub Action run it automatically.
 | 4499 | 2026-01-27 13:52:44 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97363⭐ TypeScript) | [reels/reel_4499_ant-design-ant-design](reels/reel_4499_ant-design-ant-design) |
 | 4500 | 2026-01-27 14:28:14 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102731⭐ Shell) | [reels/reel_4500_papers-we-love-papers-we-love](reels/reel_4500_papers-we-love-papers-we-love) |
 | 4501 | 2026-01-27 14:59:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144379⭐ Python) | [reels/reel_4501_yt-dlp-yt-dlp](reels/reel_4501_yt-dlp-yt-dlp) |
+| 4502 | 2026-01-27 15:38:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181493⭐ Python) | [reels/reel_4502_Significant-Gravitas-AutoGPT](reels/reel_4502_Significant-Gravitas-AutoGPT) |
