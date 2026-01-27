@@ -1,0 +1,24 @@
+{
+  "reel_number": 4503,
+  "recorded": "2026-01-27 15:58:11 UTC",
+  "repository": {
+    "full_name": "Rosuav/shed",
+    "url": "https://github.com/Rosuav/shed",
+    "clone_url": "https://github.com/Rosuav/shed.git",
+    "stars": 14,
+    "language": "Pike",
+    "size_kb": 19368
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.341327
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Pike",
+    "director_note": "A Pike repository. 14 stars."
+  }
+}

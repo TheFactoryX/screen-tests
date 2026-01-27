@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4502 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-27 |
+| #4503 | [Rosuav/shed](https://github.com/Rosuav/shed) | Pike · ⭐ 14 | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4567,3 +4567,4 @@ Or let GitHub Action run it automatically.
 | 4500 | 2026-01-27 14:28:14 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102731⭐ Shell) | [reels/reel_4500_papers-we-love-papers-we-love](reels/reel_4500_papers-we-love-papers-we-love) |
 | 4501 | 2026-01-27 14:59:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144379⭐ Python) | [reels/reel_4501_yt-dlp-yt-dlp](reels/reel_4501_yt-dlp-yt-dlp) |
 | 4502 | 2026-01-27 15:38:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181493⭐ Python) | [reels/reel_4502_Significant-Gravitas-AutoGPT](reels/reel_4502_Significant-Gravitas-AutoGPT) |
+| 4503 | 2026-01-27 15:58:11 | [Rosuav/shed](https://github.com/Rosuav/shed) | ✅ full (14⭐ Pike) | [reels/reel_4503_Rosuav-shed](reels/reel_4503_Rosuav-shed) |
