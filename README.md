@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4518 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-27 |
+| #4519 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-27 |
 ---
 
 ## 🎭 Selection Process
@@ -4583,3 +4583,4 @@ Or let GitHub Action run it automatically.
 | 4516 | 2026-01-27 22:21:06 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144418⭐ Python) | [reels/reel_4516_yt-dlp-yt-dlp](reels/reel_4516_yt-dlp-yt-dlp) |
 | 4517 | 2026-01-27 22:45:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109791⭐ Rust) | [reels/reel_4517_rust-lang-rust](reels/reel_4517_rust-lang-rust) |
 | 4518 | 2026-01-27 23:20:13 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97364⭐ TypeScript) | [reels/reel_4518_ant-design-ant-design](reels/reel_4518_ant-design-ant-design) |
+| 4519 | 2026-01-27 23:43:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144423⭐ Python) | [reels/reel_4519_yt-dlp-yt-dlp](reels/reel_4519_yt-dlp-yt-dlp) |
