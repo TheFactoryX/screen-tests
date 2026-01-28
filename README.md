@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4542 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-28 |
+| #4543 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4607,3 +4607,4 @@ Or let GitHub Action run it automatically.
 | 4540 | 2026-01-28 14:28:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171779⭐ TypeScript) | [reels/reel_4540_n8n-io-n8n](reels/reel_4540_n8n-io-n8n) |
 | 4541 | 2026-01-28 14:58:24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110632⭐ TypeScript) | [reels/reel_4541_iptv-org-iptv](reels/reel_4541_iptv-org-iptv) |
 | 4542 | 2026-01-28 15:40:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105708⭐ TypeScript) | [reels/reel_4542_shadcn-ui-ui](reels/reel_4542_shadcn-ui-ui) |
+| 4543 | 2026-01-28 16:03:46 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109809⭐ Rust) | [reels/reel_4543_rust-lang-rust](reels/reel_4543_rust-lang-rust) |
