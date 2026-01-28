@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4535 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-28 |
+| #4536 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4600,3 +4600,4 @@ Or let GitHub Action run it automatically.
 | 4533 | 2026-01-28 10:26:44 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93887⭐ C++) | [reels/reel_4533_ggml-org-llama.cpp](reels/reel_4533_ggml-org-llama.cpp) |
 | 4534 | 2026-01-28 10:55:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181511⭐ Python) | [reels/reel_4534_Significant-Gravitas-AutoGPT](reels/reel_4534_Significant-Gravitas-AutoGPT) |
 | 4535 | 2026-01-28 11:21:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101988⭐ Rust) | [reels/reel_4535_tauri-apps-tauri](reels/reel_4535_tauri-apps-tauri) |
+| 4536 | 2026-01-28 11:44:04 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144516⭐ Python) | [reels/reel_4536_yt-dlp-yt-dlp](reels/reel_4536_yt-dlp-yt-dlp) |
