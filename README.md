@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4534 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-28 |
+| #4535 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 101k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4599,3 +4599,4 @@ Or let GitHub Action run it automatically.
 | 4532 | 2026-01-28 09:48:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105688⭐ TypeScript) | [reels/reel_4532_shadcn-ui-ui](reels/reel_4532_shadcn-ui-ui) |
 | 4533 | 2026-01-28 10:26:44 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93887⭐ C++) | [reels/reel_4533_ggml-org-llama.cpp](reels/reel_4533_ggml-org-llama.cpp) |
 | 4534 | 2026-01-28 10:55:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181511⭐ Python) | [reels/reel_4534_Significant-Gravitas-AutoGPT](reels/reel_4534_Significant-Gravitas-AutoGPT) |
+| 4535 | 2026-01-28 11:21:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (101988⭐ Rust) | [reels/reel_4535_tauri-apps-tauri](reels/reel_4535_tauri-apps-tauri) |
