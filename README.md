@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4521 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 125k | 2026-01-28 |
+| #4522 | [jaseci-labs/jaseci](https://github.com/jaseci-labs/jaseci) | Jac · ⭐ 386 | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4586,3 +4586,4 @@ Or let GitHub Action run it automatically.
 | 4519 | 2026-01-27 23:43:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144423⭐ Python) | [reels/reel_4519_yt-dlp-yt-dlp](reels/reel_4519_yt-dlp-yt-dlp) |
 | 4520 | 2026-01-27 23:55:27 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110568⭐ TypeScript) | [reels/reel_4520_iptv-org-iptv](reels/reel_4520_iptv-org-iptv) |
 | 4521 | 2026-01-28 01:45:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125266⭐ Python) | [reels/reel_4521_langchain-ai-langchain](reels/reel_4521_langchain-ai-langchain) |
+| 4522 | 2026-01-28 03:43:34 | [jaseci-labs/jaseci](https://github.com/jaseci-labs/jaseci) | ✅ full (386⭐ Jac) | [reels/reel_4522_jaseci-labs-jaseci](reels/reel_4522_jaseci-labs-jaseci) |
