@@ -1,0 +1,24 @@
+{
+  "reel_number": 4546,
+  "recorded": "2026-01-28 18:00:19 UTC",
+  "repository": {
+    "full_name": "5e-bits/5e-database",
+    "url": "https://github.com/5e-bits/5e-database",
+    "clone_url": "https://github.com/5e-bits/5e-database.git",
+    "stars": 850,
+    "language": "TypeScript",
+    "size_kb": 7154
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.999776
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 850 stars."
+  }
+}
