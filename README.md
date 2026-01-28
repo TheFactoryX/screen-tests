@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4547 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-28 |
+| #4548 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4612,3 +4612,4 @@ Or let GitHub Action run it automatically.
 | 4545 | 2026-01-28 17:34:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105710⭐ TypeScript) | [reels/reel_4545_shadcn-ui-ui](reels/reel_4545_shadcn-ui-ui) |
 | 4546 | 2026-01-28 18:00:19 | [5e-bits/5e-database](https://github.com/5e-bits/5e-database) | ✅ full (850⭐ TypeScript) | [reels/reel_4546_5e-bits-5e-database](reels/reel_4546_5e-bits-5e-database) |
 | 4547 | 2026-01-28 18:53:16 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102765⭐ Shell) | [reels/reel_4547_papers-we-love-papers-we-love](reels/reel_4547_papers-we-love-papers-we-love) |
+| 4548 | 2026-01-28 19:27:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181524⭐ Python) | [reels/reel_4548_Significant-Gravitas-AutoGPT](reels/reel_4548_Significant-Gravitas-AutoGPT) |
