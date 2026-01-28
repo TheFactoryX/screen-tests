@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4551 | [manjaro-cutefish/download](https://github.com/manjaro-cutefish/download) | HTML · ⭐ 349 | 2026-01-28 |
+| #4552 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4616,3 +4616,4 @@ Or let GitHub Action run it automatically.
 | 4549 | 2026-01-28 19:51:36 | [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) | ✅ shallow (382⭐ C#) | [reels/reel_4549_fmbot-discord-fmbot](reels/reel_4549_fmbot-discord-fmbot) |
 | 4550 | 2026-01-28 20:29:08 | [weloytty/QuirkyPSFunctions](https://github.com/weloytty/QuirkyPSFunctions) | ✅ full (12⭐ PowerShell) | [reels/reel_4550_weloytty-QuirkyPSFunctions](reels/reel_4550_weloytty-QuirkyPSFunctions) |
 | 4551 | 2026-01-28 20:58:29 | [manjaro-cutefish/download](https://github.com/manjaro-cutefish/download) | ✅ full (349⭐ HTML) | [reels/reel_4551_manjaro-cutefish-download](reels/reel_4551_manjaro-cutefish-download) |
+| 4552 | 2026-01-28 21:36:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105719⭐ TypeScript) | [reels/reel_4552_shadcn-ui-ui](reels/reel_4552_shadcn-ui-ui) |
