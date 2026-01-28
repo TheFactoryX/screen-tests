@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4548 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-28 |
+| #4549 | [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) | C# · ⭐ 382 | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4613,3 +4613,4 @@ Or let GitHub Action run it automatically.
 | 4546 | 2026-01-28 18:00:19 | [5e-bits/5e-database](https://github.com/5e-bits/5e-database) | ✅ full (850⭐ TypeScript) | [reels/reel_4546_5e-bits-5e-database](reels/reel_4546_5e-bits-5e-database) |
 | 4547 | 2026-01-28 18:53:16 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102765⭐ Shell) | [reels/reel_4547_papers-we-love-papers-we-love](reels/reel_4547_papers-we-love-papers-we-love) |
 | 4548 | 2026-01-28 19:27:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181524⭐ Python) | [reels/reel_4548_Significant-Gravitas-AutoGPT](reels/reel_4548_Significant-Gravitas-AutoGPT) |
+| 4549 | 2026-01-28 19:51:36 | [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) | ✅ shallow (382⭐ C#) | [reels/reel_4549_fmbot-discord-fmbot](reels/reel_4549_fmbot-discord-fmbot) |
