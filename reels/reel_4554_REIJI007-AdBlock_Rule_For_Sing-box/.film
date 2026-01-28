@@ -1,0 +1,24 @@
+{
+  "reel_number": 4554,
+  "recorded": "2026-01-28 22:37:08 UTC",
+  "repository": {
+    "full_name": "REIJI007/AdBlock_Rule_For_Sing-box",
+    "url": "https://github.com/REIJI007/AdBlock_Rule_For_Sing-box",
+    "clone_url": "https://github.com/REIJI007/AdBlock_Rule_For_Sing-box.git",
+    "stars": 127,
+    "language": "PowerShell",
+    "size_kb": 231324
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 225,
+    "duration_seconds": 1.082307
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 127 stars."
+  }
+}
