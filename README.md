@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4544 | [zeld/psa-update](https://github.com/zeld/psa-update) | Rust · ⭐ 186 | 2026-01-28 |
+| #4545 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4609,3 +4609,4 @@ Or let GitHub Action run it automatically.
 | 4542 | 2026-01-28 15:40:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105708⭐ TypeScript) | [reels/reel_4542_shadcn-ui-ui](reels/reel_4542_shadcn-ui-ui) |
 | 4543 | 2026-01-28 16:03:46 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109809⭐ Rust) | [reels/reel_4543_rust-lang-rust](reels/reel_4543_rust-lang-rust) |
 | 4544 | 2026-01-28 16:57:02 | [zeld/psa-update](https://github.com/zeld/psa-update) | ✅ full (186⭐ Rust) | [reels/reel_4544_zeld-psa-update](reels/reel_4544_zeld-psa-update) |
+| 4545 | 2026-01-28 17:34:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105710⭐ TypeScript) | [reels/reel_4545_shadcn-ui-ui](reels/reel_4545_shadcn-ui-ui) |
