@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4532 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-28 |
+| #4533 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 93k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4597,3 +4597,4 @@ Or let GitHub Action run it automatically.
 | 4530 | 2026-01-28 08:29:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144311⭐ Python) | [reels/reel_4530_langflow-ai-langflow](reels/reel_4530_langflow-ai-langflow) |
 | 4531 | 2026-01-28 09:01:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144490⭐ Python) | [reels/reel_4531_yt-dlp-yt-dlp](reels/reel_4531_yt-dlp-yt-dlp) |
 | 4532 | 2026-01-28 09:48:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105688⭐ TypeScript) | [reels/reel_4532_shadcn-ui-ui](reels/reel_4532_shadcn-ui-ui) |
+| 4533 | 2026-01-28 10:26:44 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93887⭐ C++) | [reels/reel_4533_ggml-org-llama.cpp](reels/reel_4533_ggml-org-llama.cpp) |
