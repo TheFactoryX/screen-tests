@@ -1,0 +1,24 @@
+{
+  "reel_number": 4551,
+  "recorded": "2026-01-28 20:58:29 UTC",
+  "repository": {
+    "full_name": "manjaro-cutefish/download",
+    "url": "https://github.com/manjaro-cutefish/download",
+    "clone_url": "https://github.com/manjaro-cutefish/download.git",
+    "stars": 349,
+    "language": "HTML",
+    "size_kb": 4099
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.457349
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 349 stars."
+  }
+}

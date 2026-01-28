@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4550 | [weloytty/QuirkyPSFunctions](https://github.com/weloytty/QuirkyPSFunctions) | PowerShell · ⭐ 12 | 2026-01-28 |
+| #4551 | [manjaro-cutefish/download](https://github.com/manjaro-cutefish/download) | HTML · ⭐ 349 | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4615,3 +4615,4 @@ Or let GitHub Action run it automatically.
 | 4548 | 2026-01-28 19:27:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181524⭐ Python) | [reels/reel_4548_Significant-Gravitas-AutoGPT](reels/reel_4548_Significant-Gravitas-AutoGPT) |
 | 4549 | 2026-01-28 19:51:36 | [fmbot-discord/fmbot](https://github.com/fmbot-discord/fmbot) | ✅ shallow (382⭐ C#) | [reels/reel_4549_fmbot-discord-fmbot](reels/reel_4549_fmbot-discord-fmbot) |
 | 4550 | 2026-01-28 20:29:08 | [weloytty/QuirkyPSFunctions](https://github.com/weloytty/QuirkyPSFunctions) | ✅ full (12⭐ PowerShell) | [reels/reel_4550_weloytty-QuirkyPSFunctions](reels/reel_4550_weloytty-QuirkyPSFunctions) |
+| 4551 | 2026-01-28 20:58:29 | [manjaro-cutefish/download](https://github.com/manjaro-cutefish/download) | ✅ full (349⭐ HTML) | [reels/reel_4551_manjaro-cutefish-download](reels/reel_4551_manjaro-cutefish-download) |
