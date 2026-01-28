@@ -1,0 +1,24 @@
+{
+  "reel_number": 4550,
+  "recorded": "2026-01-28 20:29:08 UTC",
+  "repository": {
+    "full_name": "weloytty/QuirkyPSFunctions",
+    "url": "https://github.com/weloytty/QuirkyPSFunctions",
+    "clone_url": "https://github.com/weloytty/QuirkyPSFunctions.git",
+    "stars": 12,
+    "language": "PowerShell",
+    "size_kb": 262
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.152334
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 12 stars."
+  }
+}
