@@ -1,0 +1,24 @@
+{
+  "reel_number": 4544,
+  "recorded": "2026-01-28 16:57:02 UTC",
+  "repository": {
+    "full_name": "zeld/psa-update",
+    "url": "https://github.com/zeld/psa-update",
+    "clone_url": "https://github.com/zeld/psa-update.git",
+    "stars": 186,
+    "language": "Rust",
+    "size_kb": 651
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.261226
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 186 stars."
+  }
+}
