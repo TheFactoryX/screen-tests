@@ -1,0 +1,24 @@
+{
+  "reel_number": 4555,
+  "recorded": "2026-01-28 23:00:01 UTC",
+  "repository": {
+    "full_name": "udecode/better-convex",
+    "url": "https://github.com/udecode/better-convex",
+    "clone_url": "https://github.com/udecode/better-convex.git",
+    "stars": 318,
+    "language": "TypeScript",
+    "size_kb": 31026
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 1.921433
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 318 stars."
+  }
+}

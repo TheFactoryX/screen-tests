@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4554 | [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box) | PowerShell · ⭐ 127 | 2026-01-28 |
+| #4555 | [udecode/better-convex](https://github.com/udecode/better-convex) | TypeScript · ⭐ 318 | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4619,3 +4619,4 @@ Or let GitHub Action run it automatically.
 | 4552 | 2026-01-28 21:36:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105719⭐ TypeScript) | [reels/reel_4552_shadcn-ui-ui](reels/reel_4552_shadcn-ui-ui) |
 | 4553 | 2026-01-28 21:59:09 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270520⭐ None) | [reels/reel_4553_awesome-selfhosted-awesome-selfhosted](reels/reel_4553_awesome-selfhosted-awesome-selfhosted) |
 | 4554 | 2026-01-28 22:37:08 | [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box) | ✅ shallow (127⭐ PowerShell) | [reels/reel_4554_REIJI007-AdBlock_Rule_For_Sing-box](reels/reel_4554_REIJI007-AdBlock_Rule_For_Sing-box) |
+| 4555 | 2026-01-28 23:00:01 | [udecode/better-convex](https://github.com/udecode/better-convex) | ✅ full (318⭐ TypeScript) | [reels/reel_4555_udecode-better-convex](reels/reel_4555_udecode-better-convex) |
