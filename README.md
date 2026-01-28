@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4524 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-28 |
+| #4525 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 171k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4589,3 +4589,4 @@ Or let GitHub Action run it automatically.
 | 4522 | 2026-01-28 03:43:34 | [jaseci-labs/jaseci](https://github.com/jaseci-labs/jaseci) | ✅ full (386⭐ Jac) | [reels/reel_4522_jaseci-labs-jaseci](reels/reel_4522_jaseci-labs-jaseci) |
 | 4523 | 2026-01-28 04:34:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181501⭐ Python) | [reels/reel_4523_Significant-Gravitas-AutoGPT](reels/reel_4523_Significant-Gravitas-AutoGPT) |
 | 4524 | 2026-01-28 05:05:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270396⭐ None) | [reels/reel_4524_awesome-selfhosted-awesome-selfhosted](reels/reel_4524_awesome-selfhosted-awesome-selfhosted) |
+| 4525 | 2026-01-28 05:45:15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171695⭐ TypeScript) | [reels/reel_4525_n8n-io-n8n](reels/reel_4525_n8n-io-n8n) |
