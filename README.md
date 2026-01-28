@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4546 | [5e-bits/5e-database](https://github.com/5e-bits/5e-database) | TypeScript · ⭐ 850 | 2026-01-28 |
+| #4547 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4611,3 +4611,4 @@ Or let GitHub Action run it automatically.
 | 4544 | 2026-01-28 16:57:02 | [zeld/psa-update](https://github.com/zeld/psa-update) | ✅ full (186⭐ Rust) | [reels/reel_4544_zeld-psa-update](reels/reel_4544_zeld-psa-update) |
 | 4545 | 2026-01-28 17:34:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105710⭐ TypeScript) | [reels/reel_4545_shadcn-ui-ui](reels/reel_4545_shadcn-ui-ui) |
 | 4546 | 2026-01-28 18:00:19 | [5e-bits/5e-database](https://github.com/5e-bits/5e-database) | ✅ full (850⭐ TypeScript) | [reels/reel_4546_5e-bits-5e-database](reels/reel_4546_5e-bits-5e-database) |
+| 4547 | 2026-01-28 18:53:16 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102765⭐ Shell) | [reels/reel_4547_papers-we-love-papers-we-love](reels/reel_4547_papers-we-love-papers-we-love) |
