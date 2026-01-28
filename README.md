@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4540 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 171k | 2026-01-28 |
+| #4541 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-01-28 |
 ---
 
 ## 🎭 Selection Process
@@ -4605,3 +4605,4 @@ Or let GitHub Action run it automatically.
 | 4538 | 2026-01-28 12:53:30 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (215⭐ Python) | [reels/reel_4538_tom-doerr-repo_posts](reels/reel_4538_tom-doerr-repo_posts) |
 | 4539 | 2026-01-28 13:47:03 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105542⭐ None) | [reels/reel_4539_Hack-with-Github-Awesome-Hacking](reels/reel_4539_Hack-with-Github-Awesome-Hacking) |
 | 4540 | 2026-01-28 14:28:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (171779⭐ TypeScript) | [reels/reel_4540_n8n-io-n8n](reels/reel_4540_n8n-io-n8n) |
+| 4541 | 2026-01-28 14:58:24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110632⭐ TypeScript) | [reels/reel_4541_iptv-org-iptv](reels/reel_4541_iptv-org-iptv) |
