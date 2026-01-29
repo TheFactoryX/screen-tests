@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4583 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 122k | 2026-01-29 |
+| #4584 | [dolthub/dolt-workbench](https://github.com/dolthub/dolt-workbench) | TypeScript · ⭐ 198 | 2026-01-29 |
 ---
 
 ## 🎭 Selection Process
@@ -4648,3 +4648,4 @@ Or let GitHub Action run it automatically.
 | 4581 | 2026-01-29 20:54:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181548⭐ Python) | [reels/reel_4581_Significant-Gravitas-AutoGPT](reels/reel_4581_Significant-Gravitas-AutoGPT) |
 | 4582 | 2026-01-29 21:25:02 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125421⭐ Python) | [reels/reel_4582_langchain-ai-langchain](reels/reel_4582_langchain-ai-langchain) |
 | 4583 | 2026-01-29 21:50:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (122325⭐ Python) | [reels/reel_4583_open-webui-open-webui](reels/reel_4583_open-webui-open-webui) |
+| 4584 | 2026-01-29 22:25:56 | [dolthub/dolt-workbench](https://github.com/dolthub/dolt-workbench) | ✅ full (198⭐ TypeScript) | [reels/reel_4584_dolthub-dolt-workbench](reels/reel_4584_dolthub-dolt-workbench) |

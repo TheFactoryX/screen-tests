@@ -1,0 +1,24 @@
+{
+  "reel_number": 4584,
+  "recorded": "2026-01-29 22:25:56 UTC",
+  "repository": {
+    "full_name": "dolthub/dolt-workbench",
+    "url": "https://github.com/dolthub/dolt-workbench",
+    "clone_url": "https://github.com/dolthub/dolt-workbench.git",
+    "stars": 198,
+    "language": "TypeScript",
+    "size_kb": 22263
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 1.676531
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 198 stars."
+  }
+}
