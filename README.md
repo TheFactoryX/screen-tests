@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4578 | [MicrosoftDocs/powerapps-docs](https://github.com/MicrosoftDocs/powerapps-docs) | None · ⭐ 559 | 2026-01-29 |
+| #4579 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-29 |
 ---
 
 ## 🎭 Selection Process
@@ -4643,3 +4643,4 @@ Or let GitHub Action run it automatically.
 | 4576 | 2026-01-29 17:54:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144802⭐ Python) | [reels/reel_4576_yt-dlp-yt-dlp](reels/reel_4576_yt-dlp-yt-dlp) |
 | 4577 | 2026-01-29 18:42:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181546⭐ Python) | [reels/reel_4577_Significant-Gravitas-AutoGPT](reels/reel_4577_Significant-Gravitas-AutoGPT) |
 | 4578 | 2026-01-29 19:20:06 | [MicrosoftDocs/powerapps-docs](https://github.com/MicrosoftDocs/powerapps-docs) | ✅ readme_only (559⭐ None) | [reels/reel_4578_MicrosoftDocs-powerapps-docs](reels/reel_4578_MicrosoftDocs-powerapps-docs) |
+| 4579 | 2026-01-29 19:50:34 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144368⭐ Python) | [reels/reel_4579_langflow-ai-langflow](reels/reel_4579_langflow-ai-langflow) |
