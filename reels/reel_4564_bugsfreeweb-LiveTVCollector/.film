@@ -1,0 +1,24 @@
+{
+  "reel_number": 4564,
+  "recorded": "2026-01-29 08:37:13 UTC",
+  "repository": {
+    "full_name": "bugsfreeweb/LiveTVCollector",
+    "url": "https://github.com/bugsfreeweb/LiveTVCollector",
+    "clone_url": "https://github.com/bugsfreeweb/LiveTVCollector.git",
+    "stars": 115,
+    "language": "Python",
+    "size_kb": 1692202
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1652,
+    "duration_seconds": 0.000158
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 115 stars."
+  }
+}

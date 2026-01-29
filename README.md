@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4563 | [wtfutil/wtfdocs](https://github.com/wtfutil/wtfdocs) | HTML · ⭐ 37 | 2026-01-29 |
+| #4564 | [bugsfreeweb/LiveTVCollector](https://github.com/bugsfreeweb/LiveTVCollector) | Python · ⭐ 115 | 2026-01-29 |
 ---
 
 ## 🎭 Selection Process
@@ -4628,3 +4628,4 @@ Or let GitHub Action run it automatically.
 | 4561 | 2026-01-29 06:00:18 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93930⭐ C++) | [reels/reel_4561_ggml-org-llama.cpp](reels/reel_4561_ggml-org-llama.cpp) |
 | 4562 | 2026-01-29 07:06:17 | [akirk/playground-step-library](https://github.com/akirk/playground-step-library) | ✅ full (21⭐ TypeScript) | [reels/reel_4562_akirk-playground-step-library](reels/reel_4562_akirk-playground-step-library) |
 | 4563 | 2026-01-29 07:54:25 | [wtfutil/wtfdocs](https://github.com/wtfutil/wtfdocs) | ✅ full (37⭐ HTML) | [reels/reel_4563_wtfutil-wtfdocs](reels/reel_4563_wtfutil-wtfdocs) |
+| 4564 | 2026-01-29 08:37:13 | [bugsfreeweb/LiveTVCollector](https://github.com/bugsfreeweb/LiveTVCollector) | ✅ readme_only (115⭐ Python) | [reels/reel_4564_bugsfreeweb-LiveTVCollector](reels/reel_4564_bugsfreeweb-LiveTVCollector) |
