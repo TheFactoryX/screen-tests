@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4561 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 93k | 2026-01-29 |
+| #4562 | [akirk/playground-step-library](https://github.com/akirk/playground-step-library) | TypeScript · ⭐ 21 | 2026-01-29 |
 ---
 
 ## 🎭 Selection Process
@@ -4626,3 +4626,4 @@ Or let GitHub Action run it automatically.
 | 4559 | 2026-01-29 04:14:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144335⭐ Python) | [reels/reel_4559_langflow-ai-langflow](reels/reel_4559_langflow-ai-langflow) |
 | 4560 | 2026-01-29 05:13:52 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (122242⭐ Python) | [reels/reel_4560_open-webui-open-webui](reels/reel_4560_open-webui-open-webui) |
 | 4561 | 2026-01-29 06:00:18 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (93930⭐ C++) | [reels/reel_4561_ggml-org-llama.cpp](reels/reel_4561_ggml-org-llama.cpp) |
+| 4562 | 2026-01-29 07:06:17 | [akirk/playground-step-library](https://github.com/akirk/playground-step-library) | ✅ full (21⭐ TypeScript) | [reels/reel_4562_akirk-playground-step-library](reels/reel_4562_akirk-playground-step-library) |

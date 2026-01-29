@@ -1,0 +1,24 @@
+{
+  "reel_number": 4562,
+  "recorded": "2026-01-29 07:06:17 UTC",
+  "repository": {
+    "full_name": "akirk/playground-step-library",
+    "url": "https://github.com/akirk/playground-step-library",
+    "clone_url": "https://github.com/akirk/playground-step-library.git",
+    "stars": 21,
+    "language": "TypeScript",
+    "size_kb": 4874
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.946426
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 21 stars."
+  }
+}
