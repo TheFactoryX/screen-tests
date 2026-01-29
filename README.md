@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4557 | [gogpu/gogpu](https://github.com/gogpu/gogpu) | Go · ⭐ 134 | 2026-01-28 |
+| #4558 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-29 |
 ---
 
 ## 🎭 Selection Process
@@ -4622,3 +4622,4 @@ Or let GitHub Action run it automatically.
 | 4555 | 2026-01-28 23:00:01 | [udecode/better-convex](https://github.com/udecode/better-convex) | ✅ full (318⭐ TypeScript) | [reels/reel_4555_udecode-better-convex](reels/reel_4555_udecode-better-convex) |
 | 4556 | 2026-01-28 23:35:07 | [v5tech/bing-wallpaper](https://github.com/v5tech/bing-wallpaper) | ✅ full (109⭐ Java) | [reels/reel_4556_v5tech-bing-wallpaper](reels/reel_4556_v5tech-bing-wallpaper) |
 | 4557 | 2026-01-28 23:56:38 | [gogpu/gogpu](https://github.com/gogpu/gogpu) | ✅ full (134⭐ Go) | [reels/reel_4557_gogpu-gogpu](reels/reel_4557_gogpu-gogpu) |
+| 4558 | 2026-01-29 02:11:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109821⭐ Rust) | [reels/reel_4558_rust-lang-rust](reels/reel_4558_rust-lang-rust) |
