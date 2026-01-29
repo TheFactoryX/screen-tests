@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4558 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 109k | 2026-01-29 |
+| #4559 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-29 |
 ---
 
 ## 🎭 Selection Process
@@ -4623,3 +4623,4 @@ Or let GitHub Action run it automatically.
 | 4556 | 2026-01-28 23:35:07 | [v5tech/bing-wallpaper](https://github.com/v5tech/bing-wallpaper) | ✅ full (109⭐ Java) | [reels/reel_4556_v5tech-bing-wallpaper](reels/reel_4556_v5tech-bing-wallpaper) |
 | 4557 | 2026-01-28 23:56:38 | [gogpu/gogpu](https://github.com/gogpu/gogpu) | ✅ full (134⭐ Go) | [reels/reel_4557_gogpu-gogpu](reels/reel_4557_gogpu-gogpu) |
 | 4558 | 2026-01-29 02:11:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109821⭐ Rust) | [reels/reel_4558_rust-lang-rust](reels/reel_4558_rust-lang-rust) |
+| 4559 | 2026-01-29 04:14:33 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144335⭐ Python) | [reels/reel_4559_langflow-ai-langflow](reels/reel_4559_langflow-ai-langflow) |
