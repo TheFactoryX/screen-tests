@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4564 | [bugsfreeweb/LiveTVCollector](https://github.com/bugsfreeweb/LiveTVCollector) | Python · ⭐ 115 | 2026-01-29 |
+| #4565 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 394k | 2026-01-29 |
 ---
 
 ## 🎭 Selection Process
@@ -4629,3 +4629,4 @@ Or let GitHub Action run it automatically.
 | 4562 | 2026-01-29 07:06:17 | [akirk/playground-step-library](https://github.com/akirk/playground-step-library) | ✅ full (21⭐ TypeScript) | [reels/reel_4562_akirk-playground-step-library](reels/reel_4562_akirk-playground-step-library) |
 | 4563 | 2026-01-29 07:54:25 | [wtfutil/wtfdocs](https://github.com/wtfutil/wtfdocs) | ✅ full (37⭐ HTML) | [reels/reel_4563_wtfutil-wtfdocs](reels/reel_4563_wtfutil-wtfdocs) |
 | 4564 | 2026-01-29 08:37:13 | [bugsfreeweb/LiveTVCollector](https://github.com/bugsfreeweb/LiveTVCollector) | ✅ readme_only (115⭐ Python) | [reels/reel_4564_bugsfreeweb-LiveTVCollector](reels/reel_4564_bugsfreeweb-LiveTVCollector) |
+| 4565 | 2026-01-29 09:24:40 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (394125⭐ Python) | [reels/reel_4565_public-apis-public-apis](reels/reel_4565_public-apis-public-apis) |
