@@ -1,0 +1,24 @@
+{
+  "reel_number": 4587,
+  "recorded": "2026-01-29 23:48:47 UTC",
+  "repository": {
+    "full_name": "Hazrat-Ali9/JavaScript-Problem-Solving",
+    "url": "https://github.com/Hazrat-Ali9/JavaScript-Problem-Solving",
+    "clone_url": "https://github.com/Hazrat-Ali9/JavaScript-Problem-Solving.git",
+    "stars": 56,
+    "language": "JavaScript",
+    "size_kb": 518
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.567815
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 56 stars."
+  }
+}
