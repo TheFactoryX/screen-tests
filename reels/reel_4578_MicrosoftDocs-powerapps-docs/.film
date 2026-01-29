@@ -1,0 +1,24 @@
+{
+  "reel_number": 4578,
+  "recorded": "2026-01-29 19:20:06 UTC",
+  "repository": {
+    "full_name": "MicrosoftDocs/powerapps-docs",
+    "url": "https://github.com/MicrosoftDocs/powerapps-docs",
+    "clone_url": "https://github.com/MicrosoftDocs/powerapps-docs.git",
+    "stars": 559,
+    "language": null,
+    "size_kb": 1891790
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1847,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 559 stars."
+  }
+}
