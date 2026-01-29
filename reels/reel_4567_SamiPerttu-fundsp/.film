@@ -1,0 +1,24 @@
+{
+  "reel_number": 4567,
+  "recorded": "2026-01-29 10:57:44 UTC",
+  "repository": {
+    "full_name": "SamiPerttu/fundsp",
+    "url": "https://github.com/SamiPerttu/fundsp",
+    "clone_url": "https://github.com/SamiPerttu/fundsp.git",
+    "stars": 1073,
+    "language": "Rust",
+    "size_kb": 2803
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.44924
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 1073 stars."
+  }
+}

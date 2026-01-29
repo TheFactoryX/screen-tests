@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4566 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 105k | 2026-01-29 |
+| #4567 | [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) | Rust · ⭐ 1k | 2026-01-29 |
 ---
 
 ## 🎭 Selection Process
@@ -4631,3 +4631,4 @@ Or let GitHub Action run it automatically.
 | 4564 | 2026-01-29 08:37:13 | [bugsfreeweb/LiveTVCollector](https://github.com/bugsfreeweb/LiveTVCollector) | ✅ readme_only (115⭐ Python) | [reels/reel_4564_bugsfreeweb-LiveTVCollector](reels/reel_4564_bugsfreeweb-LiveTVCollector) |
 | 4565 | 2026-01-29 09:24:40 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (394125⭐ Python) | [reels/reel_4565_public-apis-public-apis](reels/reel_4565_public-apis-public-apis) |
 | 4566 | 2026-01-29 10:04:23 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105596⭐ None) | [reels/reel_4566_Hack-with-Github-Awesome-Hacking](reels/reel_4566_Hack-with-Github-Awesome-Hacking) |
+| 4567 | 2026-01-29 10:57:44 | [SamiPerttu/fundsp](https://github.com/SamiPerttu/fundsp) | ✅ full (1073⭐ Rust) | [reels/reel_4567_SamiPerttu-fundsp](reels/reel_4567_SamiPerttu-fundsp) |
