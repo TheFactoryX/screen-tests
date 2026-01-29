@@ -1,0 +1,24 @@
+{
+  "reel_number": 4580,
+  "recorded": "2026-01-29 20:28:15 UTC",
+  "repository": {
+    "full_name": "swc-project/swc-playground",
+    "url": "https://github.com/swc-project/swc-playground",
+    "clone_url": "https://github.com/swc-project/swc-playground.git",
+    "stars": 137,
+    "language": "TypeScript",
+    "size_kb": 750
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.338753
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 137 stars."
+  }
+}
