@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4592 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-30 |
+| #4593 | [moonbitlang/x](https://github.com/moonbitlang/x) | MoonBit · ⭐ 51 | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4657,3 +4657,4 @@ Or let GitHub Action run it automatically.
 | 4590 | 2026-01-30 05:14:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172071⭐ TypeScript) | [reels/reel_4590_n8n-io-n8n](reels/reel_4590_n8n-io-n8n) |
 | 4591 | 2026-01-30 06:03:09 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (94952⭐ TypeScript) | [reels/reel_4591_clash-verge-rev-clash-verge-rev](reels/reel_4591_clash-verge-rev-clash-verge-rev) |
 | 4592 | 2026-01-30 07:07:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105790⭐ TypeScript) | [reels/reel_4592_shadcn-ui-ui](reels/reel_4592_shadcn-ui-ui) |
+| 4593 | 2026-01-30 07:54:06 | [moonbitlang/x](https://github.com/moonbitlang/x) | ✅ full (51⭐ MoonBit) | [reels/reel_4593_moonbitlang-x](reels/reel_4593_moonbitlang-x) |
