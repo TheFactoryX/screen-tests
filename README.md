@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4602 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-30 |
+| #4603 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4667,3 +4667,4 @@ Or let GitHub Action run it automatically.
 | 4600 | 2026-01-30 12:52:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270749⭐ None) | [reels/reel_4600_awesome-selfhosted-awesome-selfhosted](reels/reel_4600_awesome-selfhosted-awesome-selfhosted) |
 | 4601 | 2026-01-30 13:55:08 | [hiddenSymmetries/simsopt](https://github.com/hiddenSymmetries/simsopt) | ✅ shallow (136⭐ Python) | [reels/reel_4601_hiddenSymmetries-simsopt](reels/reel_4601_hiddenSymmetries-simsopt) |
 | 4602 | 2026-01-30 14:34:53 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102809⭐ Shell) | [reels/reel_4602_papers-we-love-papers-we-love](reels/reel_4602_papers-we-love-papers-we-love) |
+| 4603 | 2026-01-30 15:17:59 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144963⭐ Python) | [reels/reel_4603_yt-dlp-yt-dlp](reels/reel_4603_yt-dlp-yt-dlp) |
