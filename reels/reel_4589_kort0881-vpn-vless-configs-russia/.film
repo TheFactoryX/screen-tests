@@ -1,0 +1,24 @@
+{
+  "reel_number": 4589,
+  "recorded": "2026-01-30 04:08:11 UTC",
+  "repository": {
+    "full_name": "kort0881/vpn-vless-configs-russia",
+    "url": "https://github.com/kort0881/vpn-vless-configs-russia",
+    "clone_url": "https://github.com/kort0881/vpn-vless-configs-russia.git",
+    "stars": 103,
+    "language": "Python",
+    "size_kb": 1264429
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1234,
+    "duration_seconds": 0.000136
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 103 stars."
+  }
+}

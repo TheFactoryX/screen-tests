@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4588 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-30 |
+| #4589 | [kort0881/vpn-vless-configs-russia](https://github.com/kort0881/vpn-vless-configs-russia) | Python · ⭐ 103 | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4653,3 +4653,4 @@ Or let GitHub Action run it automatically.
 | 4586 | 2026-01-29 23:24:33 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101382⭐ Python) | [reels/reel_4586_deepseek-ai-DeepSeek-V3](reels/reel_4586_deepseek-ai-DeepSeek-V3) |
 | 4587 | 2026-01-29 23:48:47 | [Hazrat-Ali9/JavaScript-Problem-Solving](https://github.com/Hazrat-Ali9/JavaScript-Problem-Solving) | ✅ full (56⭐ JavaScript) | [reels/reel_4587_Hazrat-Ali9-JavaScript-Problem-Solving](reels/reel_4587_Hazrat-Ali9-JavaScript-Problem-Solving) |
 | 4588 | 2026-01-30 01:54:42 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97380⭐ TypeScript) | [reels/reel_4588_ant-design-ant-design](reels/reel_4588_ant-design-ant-design) |
+| 4589 | 2026-01-30 04:08:11 | [kort0881/vpn-vless-configs-russia](https://github.com/kort0881/vpn-vless-configs-russia) | ✅ readme_only (103⭐ Python) | [reels/reel_4589_kort0881-vpn-vless-configs-russia](reels/reel_4589_kort0881-vpn-vless-configs-russia) |
