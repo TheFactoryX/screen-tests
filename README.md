@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4613 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 172k | 2026-01-30 |
+| #4614 | [f/prompts.chat](https://github.com/f/prompts.chat) | TypeScript · ⭐ 144k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4678,3 +4678,4 @@ Or let GitHub Action run it automatically.
 | 4611 | 2026-01-30 20:56:15 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97384⭐ TypeScript) | [reels/reel_4611_ant-design-ant-design](reels/reel_4611_ant-design-ant-design) |
 | 4612 | 2026-01-30 21:28:17 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (101982⭐ Python) | [reels/reel_4612_Comfy-Org-ComfyUI](reels/reel_4612_Comfy-Org-ComfyUI) |
 | 4613 | 2026-01-30 21:49:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172186⭐ TypeScript) | [reels/reel_4613_n8n-io-n8n](reels/reel_4613_n8n-io-n8n) |
+| 4614 | 2026-01-30 22:23:56 | [f/prompts.chat](https://github.com/f/prompts.chat) | ✅ full (144091⭐ TypeScript) | [reels/reel_4614_f-prompts.chat](reels/reel_4614_f-prompts.chat) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 4614,
+  "recorded": "2026-01-30 22:23:56 UTC",
+  "repository": {
+    "full_name": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "clone_url": "https://github.com/f/prompts.chat.git",
+    "stars": 144091,
+    "language": "TypeScript",
+    "size_kb": 91547
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 89,
+    "duration_seconds": 6.5519
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 144091 stars."
+  }
+}
