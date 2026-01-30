@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4596 | [megumiss/NIKKEAutoScript](https://github.com/megumiss/NIKKEAutoScript) | Python · ⭐ 273 | 2026-01-30 |
+| #4597 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 122k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4661,3 +4661,4 @@ Or let GitHub Action run it automatically.
 | 4594 | 2026-01-30 08:35:57 | [kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026](https://github.com/kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026) | ✅ full (11⭐ Python) | [reels/reel_4594_kyunghyuncho-CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026](reels/reel_4594_kyunghyuncho-CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026) |
 | 4595 | 2026-01-30 09:22:05 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | ✅ shallow (110107⭐ TypeScript) | [reels/reel_4595_openclaw-openclaw](reels/reel_4595_openclaw-openclaw) |
 | 4596 | 2026-01-30 10:01:28 | [megumiss/NIKKEAutoScript](https://github.com/megumiss/NIKKEAutoScript) | ✅ shallow (273⭐ Python) | [reels/reel_4596_megumiss-NIKKEAutoScript](reels/reel_4596_megumiss-NIKKEAutoScript) |
+| 4597 | 2026-01-30 10:54:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (122383⭐ Python) | [reels/reel_4597_open-webui-open-webui](reels/reel_4597_open-webui-open-webui) |
