@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4594 | [kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026](https://github.com/kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026) | Python · ⭐ 11 | 2026-01-30 |
+| #4595 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript · ⭐ 110k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4659,3 +4659,4 @@ Or let GitHub Action run it automatically.
 | 4592 | 2026-01-30 07:07:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105790⭐ TypeScript) | [reels/reel_4592_shadcn-ui-ui](reels/reel_4592_shadcn-ui-ui) |
 | 4593 | 2026-01-30 07:54:06 | [moonbitlang/x](https://github.com/moonbitlang/x) | ✅ full (51⭐ MoonBit) | [reels/reel_4593_moonbitlang-x](reels/reel_4593_moonbitlang-x) |
 | 4594 | 2026-01-30 08:35:57 | [kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026](https://github.com/kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026) | ✅ full (11⭐ Python) | [reels/reel_4594_kyunghyuncho-CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026](reels/reel_4594_kyunghyuncho-CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026) |
+| 4595 | 2026-01-30 09:22:05 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | ✅ shallow (110107⭐ TypeScript) | [reels/reel_4595_openclaw-openclaw](reels/reel_4595_openclaw-openclaw) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 4595,
+  "recorded": "2026-01-30 09:22:05 UTC",
+  "repository": {
+    "full_name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "clone_url": "https://github.com/openclaw/openclaw.git",
+    "stars": 110107,
+    "language": "TypeScript",
+    "size_kb": 154996
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 151,
+    "duration_seconds": 1.398225
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 110107 stars."
+  }
+}
