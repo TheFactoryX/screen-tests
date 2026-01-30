@@ -1,0 +1,24 @@
+{
+  "reel_number": 4616,
+  "recorded": "2026-01-30 23:23:42 UTC",
+  "repository": {
+    "full_name": "siderolabs/awesome-talos",
+    "url": "https://github.com/siderolabs/awesome-talos",
+    "clone_url": "https://github.com/siderolabs/awesome-talos.git",
+    "stars": 231,
+    "language": null,
+    "size_kb": 89
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.300142
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 231 stars."
+  }
+}
