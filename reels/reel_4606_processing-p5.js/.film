@@ -1,0 +1,24 @@
+{
+  "reel_number": 4606,
+  "recorded": "2026-01-30 17:31:59 UTC",
+  "repository": {
+    "full_name": "processing/p5.js",
+    "url": "https://github.com/processing/p5.js",
+    "clone_url": "https://github.com/processing/p5.js.git",
+    "stars": 23380,
+    "language": "JavaScript",
+    "size_kb": 115659
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 112,
+    "duration_seconds": 0.901134
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 23380 stars."
+  }
+}
