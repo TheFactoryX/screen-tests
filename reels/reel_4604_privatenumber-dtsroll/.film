@@ -1,0 +1,24 @@
+{
+  "reel_number": 4604,
+  "recorded": "2026-01-30 15:57:42 UTC",
+  "repository": {
+    "full_name": "privatenumber/dtsroll",
+    "url": "https://github.com/privatenumber/dtsroll",
+    "clone_url": "https://github.com/privatenumber/dtsroll.git",
+    "stars": 144,
+    "language": "TypeScript",
+    "size_kb": 1662
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.233425
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 144 stars."
+  }
+}

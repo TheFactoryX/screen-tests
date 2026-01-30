@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4603 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 144k | 2026-01-30 |
+| #4604 | [privatenumber/dtsroll](https://github.com/privatenumber/dtsroll) | TypeScript · ⭐ 144 | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4668,3 +4668,4 @@ Or let GitHub Action run it automatically.
 | 4601 | 2026-01-30 13:55:08 | [hiddenSymmetries/simsopt](https://github.com/hiddenSymmetries/simsopt) | ✅ shallow (136⭐ Python) | [reels/reel_4601_hiddenSymmetries-simsopt](reels/reel_4601_hiddenSymmetries-simsopt) |
 | 4602 | 2026-01-30 14:34:53 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102809⭐ Shell) | [reels/reel_4602_papers-we-love-papers-we-love](reels/reel_4602_papers-we-love-papers-we-love) |
 | 4603 | 2026-01-30 15:17:59 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144963⭐ Python) | [reels/reel_4603_yt-dlp-yt-dlp](reels/reel_4603_yt-dlp-yt-dlp) |
+| 4604 | 2026-01-30 15:57:42 | [privatenumber/dtsroll](https://github.com/privatenumber/dtsroll) | ✅ full (144⭐ TypeScript) | [reels/reel_4604_privatenumber-dtsroll](reels/reel_4604_privatenumber-dtsroll) |
