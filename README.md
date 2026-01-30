@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4587 | [Hazrat-Ali9/JavaScript-Problem-Solving](https://github.com/Hazrat-Ali9/JavaScript-Problem-Solving) | JavaScript · ⭐ 56 | 2026-01-29 |
+| #4588 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4652,3 +4652,4 @@ Or let GitHub Action run it automatically.
 | 4585 | 2026-01-29 22:54:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172026⭐ TypeScript) | [reels/reel_4585_n8n-io-n8n](reels/reel_4585_n8n-io-n8n) |
 | 4586 | 2026-01-29 23:24:33 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101382⭐ Python) | [reels/reel_4586_deepseek-ai-DeepSeek-V3](reels/reel_4586_deepseek-ai-DeepSeek-V3) |
 | 4587 | 2026-01-29 23:48:47 | [Hazrat-Ali9/JavaScript-Problem-Solving](https://github.com/Hazrat-Ali9/JavaScript-Problem-Solving) | ✅ full (56⭐ JavaScript) | [reels/reel_4587_Hazrat-Ali9-JavaScript-Problem-Solving](reels/reel_4587_Hazrat-Ali9-JavaScript-Problem-Solving) |
+| 4588 | 2026-01-30 01:54:42 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97380⭐ TypeScript) | [reels/reel_4588_ant-design-ant-design](reels/reel_4588_ant-design-ant-design) |
