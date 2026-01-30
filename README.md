@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4614 | [f/prompts.chat](https://github.com/f/prompts.chat) | TypeScript · ⭐ 144k | 2026-01-30 |
+| #4615 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4679,3 +4679,4 @@ Or let GitHub Action run it automatically.
 | 4612 | 2026-01-30 21:28:17 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (101982⭐ Python) | [reels/reel_4612_Comfy-Org-ComfyUI](reels/reel_4612_Comfy-Org-ComfyUI) |
 | 4613 | 2026-01-30 21:49:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172186⭐ TypeScript) | [reels/reel_4613_n8n-io-n8n](reels/reel_4613_n8n-io-n8n) |
 | 4614 | 2026-01-30 22:23:56 | [f/prompts.chat](https://github.com/f/prompts.chat) | ✅ full (144091⭐ TypeScript) | [reels/reel_4614_f-prompts.chat](reels/reel_4614_f-prompts.chat) |
+| 4615 | 2026-01-30 22:52:57 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270822⭐ None) | [reels/reel_4615_awesome-selfhosted-awesome-selfhosted](reels/reel_4615_awesome-selfhosted-awesome-selfhosted) |
