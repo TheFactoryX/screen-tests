@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4601 | [hiddenSymmetries/simsopt](https://github.com/hiddenSymmetries/simsopt) | Python · ⭐ 136 | 2026-01-30 |
+| #4602 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4666,3 +4666,4 @@ Or let GitHub Action run it automatically.
 | 4599 | 2026-01-30 11:50:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110748⭐ TypeScript) | [reels/reel_4599_iptv-org-iptv](reels/reel_4599_iptv-org-iptv) |
 | 4600 | 2026-01-30 12:52:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270749⭐ None) | [reels/reel_4600_awesome-selfhosted-awesome-selfhosted](reels/reel_4600_awesome-selfhosted-awesome-selfhosted) |
 | 4601 | 2026-01-30 13:55:08 | [hiddenSymmetries/simsopt](https://github.com/hiddenSymmetries/simsopt) | ✅ shallow (136⭐ Python) | [reels/reel_4601_hiddenSymmetries-simsopt](reels/reel_4601_hiddenSymmetries-simsopt) |
+| 4602 | 2026-01-30 14:34:53 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102809⭐ Shell) | [reels/reel_4602_papers-we-love-papers-we-love](reels/reel_4602_papers-we-love-papers-we-love) |
