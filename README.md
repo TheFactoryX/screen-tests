@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4590 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 172k | 2026-01-30 |
+| #4591 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 94k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4655,3 +4655,4 @@ Or let GitHub Action run it automatically.
 | 4588 | 2026-01-30 01:54:42 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97380⭐ TypeScript) | [reels/reel_4588_ant-design-ant-design](reels/reel_4588_ant-design-ant-design) |
 | 4589 | 2026-01-30 04:08:11 | [kort0881/vpn-vless-configs-russia](https://github.com/kort0881/vpn-vless-configs-russia) | ✅ readme_only (103⭐ Python) | [reels/reel_4589_kort0881-vpn-vless-configs-russia](reels/reel_4589_kort0881-vpn-vless-configs-russia) |
 | 4590 | 2026-01-30 05:14:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172071⭐ TypeScript) | [reels/reel_4590_n8n-io-n8n](reels/reel_4590_n8n-io-n8n) |
+| 4591 | 2026-01-30 06:03:09 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (94952⭐ TypeScript) | [reels/reel_4591_clash-verge-rev-clash-verge-rev](reels/reel_4591_clash-verge-rev-clash-verge-rev) |
