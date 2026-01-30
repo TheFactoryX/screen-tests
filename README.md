@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4609 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 394k | 2026-01-30 |
+| #4610 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4674,3 +4674,4 @@ Or let GitHub Action run it automatically.
 | 4607 | 2026-01-30 18:03:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172165⭐ TypeScript) | [reels/reel_4607_n8n-io-n8n](reels/reel_4607_n8n-io-n8n) |
 | 4608 | 2026-01-30 19:01:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270791⭐ None) | [reels/reel_4608_awesome-selfhosted-awesome-selfhosted](reels/reel_4608_awesome-selfhosted-awesome-selfhosted) |
 | 4609 | 2026-01-30 19:45:46 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (394350⭐ Python) | [reels/reel_4609_public-apis-public-apis](reels/reel_4609_public-apis-public-apis) |
+| 4610 | 2026-01-30 20:27:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105831⭐ TypeScript) | [reels/reel_4610_shadcn-ui-ui](reels/reel_4610_shadcn-ui-ui) |
