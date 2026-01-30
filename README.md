@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4604 | [privatenumber/dtsroll](https://github.com/privatenumber/dtsroll) | TypeScript · ⭐ 144 | 2026-01-30 |
+| #4605 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 105k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4669,3 +4669,4 @@ Or let GitHub Action run it automatically.
 | 4602 | 2026-01-30 14:34:53 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102809⭐ Shell) | [reels/reel_4602_papers-we-love-papers-we-love](reels/reel_4602_papers-we-love-papers-we-love) |
 | 4603 | 2026-01-30 15:17:59 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (144963⭐ Python) | [reels/reel_4603_yt-dlp-yt-dlp](reels/reel_4603_yt-dlp-yt-dlp) |
 | 4604 | 2026-01-30 15:57:42 | [privatenumber/dtsroll](https://github.com/privatenumber/dtsroll) | ✅ full (144⭐ TypeScript) | [reels/reel_4604_privatenumber-dtsroll](reels/reel_4604_privatenumber-dtsroll) |
+| 4605 | 2026-01-30 16:46:40 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105821⭐ TypeScript) | [reels/reel_4605_shadcn-ui-ui](reels/reel_4605_shadcn-ui-ui) |
