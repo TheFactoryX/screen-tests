@@ -1,0 +1,24 @@
+{
+  "reel_number": 4601,
+  "recorded": "2026-01-30 13:55:08 UTC",
+  "repository": {
+    "full_name": "hiddenSymmetries/simsopt",
+    "url": "https://github.com/hiddenSymmetries/simsopt",
+    "clone_url": "https://github.com/hiddenSymmetries/simsopt.git",
+    "stars": 136,
+    "language": "Python",
+    "size_kb": 507228
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 495,
+    "duration_seconds": 2.4278
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 136 stars."
+  }
+}
