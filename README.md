@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4616 | [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) | None · ⭐ 231 | 2026-01-30 |
+| #4617 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4681,3 +4681,4 @@ Or let GitHub Action run it automatically.
 | 4614 | 2026-01-30 22:23:56 | [f/prompts.chat](https://github.com/f/prompts.chat) | ✅ full (144091⭐ TypeScript) | [reels/reel_4614_f-prompts.chat](reels/reel_4614_f-prompts.chat) |
 | 4615 | 2026-01-30 22:52:57 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270822⭐ None) | [reels/reel_4615_awesome-selfhosted-awesome-selfhosted](reels/reel_4615_awesome-selfhosted-awesome-selfhosted) |
 | 4616 | 2026-01-30 23:23:42 | [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) | ✅ full (231⭐ None) | [reels/reel_4616_siderolabs-awesome-talos](reels/reel_4616_siderolabs-awesome-talos) |
+| 4617 | 2026-01-30 23:47:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270830⭐ None) | [reels/reel_4617_awesome-selfhosted-awesome-selfhosted](reels/reel_4617_awesome-selfhosted-awesome-selfhosted) |
