@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4593 | [moonbitlang/x](https://github.com/moonbitlang/x) | MoonBit · ⭐ 51 | 2026-01-30 |
+| #4594 | [kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026](https://github.com/kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026) | Python · ⭐ 11 | 2026-01-30 |
 ---
 
 ## 🎭 Selection Process
@@ -4658,3 +4658,4 @@ Or let GitHub Action run it automatically.
 | 4591 | 2026-01-30 06:03:09 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (94952⭐ TypeScript) | [reels/reel_4591_clash-verge-rev-clash-verge-rev](reels/reel_4591_clash-verge-rev-clash-verge-rev) |
 | 4592 | 2026-01-30 07:07:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (105790⭐ TypeScript) | [reels/reel_4592_shadcn-ui-ui](reels/reel_4592_shadcn-ui-ui) |
 | 4593 | 2026-01-30 07:54:06 | [moonbitlang/x](https://github.com/moonbitlang/x) | ✅ full (51⭐ MoonBit) | [reels/reel_4593_moonbitlang-x](reels/reel_4593_moonbitlang-x) |
+| 4594 | 2026-01-30 08:35:57 | [kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026](https://github.com/kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026) | ✅ full (11⭐ Python) | [reels/reel_4594_kyunghyuncho-CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026](reels/reel_4594_kyunghyuncho-CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026) |

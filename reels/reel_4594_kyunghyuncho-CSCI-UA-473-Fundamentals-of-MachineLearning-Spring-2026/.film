@@ -1,0 +1,24 @@
+{
+  "reel_number": 4594,
+  "recorded": "2026-01-30 08:35:57 UTC",
+  "repository": {
+    "full_name": "kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026",
+    "url": "https://github.com/kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026",
+    "clone_url": "https://github.com/kyunghyuncho/CSCI-UA-473-Fundamentals-of-MachineLearning-Spring-2026.git",
+    "stars": 11,
+    "language": "Python",
+    "size_kb": 7431
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.695596
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 11 stars."
+  }
+}
