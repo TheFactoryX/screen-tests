@@ -1,0 +1,24 @@
+{
+  "reel_number": 4623,
+  "recorded": "2026-01-31 07:16:25 UTC",
+  "repository": {
+    "full_name": "Olshansk/rss-feeds",
+    "url": "https://github.com/Olshansk/rss-feeds",
+    "clone_url": "https://github.com/Olshansk/rss-feeds.git",
+    "stars": 268,
+    "language": "Python",
+    "size_kb": 15964
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 6.281455
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 268 stars."
+  }
+}

@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4622 | [tom2almighty/hugo-narrow](https://github.com/tom2almighty/hugo-narrow) | HTML · ⭐ 168 | 2026-01-31 |
+| #4623 | [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) | Python · ⭐ 268 | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4687,3 +4687,4 @@ Or let GitHub Action run it automatically.
 | 4620 | 2026-01-31 05:08:32 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109895⭐ Rust) | [reels/reel_4620_rust-lang-rust](reels/reel_4620_rust-lang-rust) |
 | 4621 | 2026-01-31 05:53:20 | [yury/cidre](https://github.com/yury/cidre) | ✅ full (186⭐ Rust) | [reels/reel_4621_yury-cidre](reels/reel_4621_yury-cidre) |
 | 4622 | 2026-01-31 06:36:11 | [tom2almighty/hugo-narrow](https://github.com/tom2almighty/hugo-narrow) | ✅ full (168⭐ HTML) | [reels/reel_4622_tom2almighty-hugo-narrow](reels/reel_4622_tom2almighty-hugo-narrow) |
+| 4623 | 2026-01-31 07:16:25 | [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) | ✅ full (268⭐ Python) | [reels/reel_4623_Olshansk-rss-feeds](reels/reel_4623_Olshansk-rss-feeds) |
