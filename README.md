@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4648 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-31 |
+| #4649 | [juspay/neurolink](https://github.com/juspay/neurolink) | TypeScript · ⭐ 102 | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4713,3 +4713,4 @@ Or let GitHub Action run it automatically.
 | 4646 | 2026-01-31 18:57:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109916⭐ Rust) | [reels/reel_4646_rust-lang-rust](reels/reel_4646_rust-lang-rust) |
 | 4647 | 2026-01-31 19:26:15 | [AlphaFox000/WTF-Solidity](https://github.com/AlphaFox000/WTF-Solidity) | ✅ shallow (13⭐ None) | [reels/reel_4647_AlphaFox000-WTF-Solidity](reels/reel_4647_AlphaFox000-WTF-Solidity) |
 | 4648 | 2026-01-31 19:42:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270947⭐ None) | [reels/reel_4648_awesome-selfhosted-awesome-selfhosted](reels/reel_4648_awesome-selfhosted-awesome-selfhosted) |
+| 4649 | 2026-01-31 19:53:18 | [juspay/neurolink](https://github.com/juspay/neurolink) | ✅ shallow (102⭐ TypeScript) | [reels/reel_4649_juspay-neurolink](reels/reel_4649_juspay-neurolink) |
