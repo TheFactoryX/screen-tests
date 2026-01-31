@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4618 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-31 |
+| #4619 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4683,3 +4683,4 @@ Or let GitHub Action run it automatically.
 | 4616 | 2026-01-30 23:23:42 | [siderolabs/awesome-talos](https://github.com/siderolabs/awesome-talos) | ✅ full (231⭐ None) | [reels/reel_4616_siderolabs-awesome-talos](reels/reel_4616_siderolabs-awesome-talos) |
 | 4617 | 2026-01-30 23:47:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270830⭐ None) | [reels/reel_4617_awesome-selfhosted-awesome-selfhosted](reels/reel_4617_awesome-selfhosted-awesome-selfhosted) |
 | 4618 | 2026-01-31 01:50:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270843⭐ None) | [reels/reel_4618_awesome-selfhosted-awesome-selfhosted](reels/reel_4618_awesome-selfhosted-awesome-selfhosted) |
+| 4619 | 2026-01-31 04:04:13 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102830⭐ Shell) | [reels/reel_4619_papers-we-love-papers-we-love](reels/reel_4619_papers-we-love-papers-we-love) |
