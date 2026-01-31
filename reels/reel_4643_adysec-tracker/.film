@@ -1,0 +1,24 @@
+{
+  "reel_number": 4643,
+  "recorded": "2026-01-31 17:22:05 UTC",
+  "repository": {
+    "full_name": "adysec/tracker",
+    "url": "https://github.com/adysec/tracker",
+    "clone_url": "https://github.com/adysec/tracker.git",
+    "stars": 990,
+    "language": "Shell",
+    "size_kb": 1721
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 1.147134
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 990 stars."
+  }
+}

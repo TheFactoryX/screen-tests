@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4642 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-31 |
+| #4643 | [adysec/tracker](https://github.com/adysec/tracker) | Shell · ⭐ 990 | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4707,3 +4707,4 @@ Or let GitHub Action run it automatically.
 | 4640 | 2026-01-31 15:55:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270925⭐ None) | [reels/reel_4640_awesome-selfhosted-awesome-selfhosted](reels/reel_4640_awesome-selfhosted-awesome-selfhosted) |
 | 4641 | 2026-01-31 16:26:37 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (394500⭐ Python) | [reels/reel_4641_public-apis-public-apis](reels/reel_4641_public-apis-public-apis) |
 | 4642 | 2026-01-31 16:54:20 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181586⭐ Python) | [reels/reel_4642_Significant-Gravitas-AutoGPT](reels/reel_4642_Significant-Gravitas-AutoGPT) |
+| 4643 | 2026-01-31 17:22:05 | [adysec/tracker](https://github.com/adysec/tracker) | ✅ full (990⭐ Shell) | [reels/reel_4643_adysec-tracker](reels/reel_4643_adysec-tracker) |
