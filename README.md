@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4633 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-01-31 |
+| #4634 | [kaldigo/SillyTavern-Tracker](https://github.com/kaldigo/SillyTavern-Tracker) | JavaScript · ⭐ 83 | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4698,3 +4698,4 @@ Or let GitHub Action run it automatically.
 | 4631 | 2026-01-31 11:18:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144429⭐ Python) | [reels/reel_4631_langflow-ai-langflow](reels/reel_4631_langflow-ai-langflow) |
 | 4632 | 2026-01-31 11:42:43 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101403⭐ Python) | [reels/reel_4632_deepseek-ai-DeepSeek-V3](reels/reel_4632_deepseek-ai-DeepSeek-V3) |
 | 4633 | 2026-01-31 11:54:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144430⭐ Python) | [reels/reel_4633_langflow-ai-langflow](reels/reel_4633_langflow-ai-langflow) |
+| 4634 | 2026-01-31 12:43:05 | [kaldigo/SillyTavern-Tracker](https://github.com/kaldigo/SillyTavern-Tracker) | ✅ full (83⭐ JavaScript) | [reels/reel_4634_kaldigo-SillyTavern-Tracker](reels/reel_4634_kaldigo-SillyTavern-Tracker) |
