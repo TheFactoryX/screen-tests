@@ -1,0 +1,24 @@
+{
+  "reel_number": 4645,
+  "recorded": "2026-01-31 18:30:01 UTC",
+  "repository": {
+    "full_name": "galaxyproject/galaxy-hub",
+    "url": "https://github.com/galaxyproject/galaxy-hub",
+    "clone_url": "https://github.com/galaxyproject/galaxy-hub.git",
+    "stars": 122,
+    "language": "HTML",
+    "size_kb": 2058689
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2010,
+    "duration_seconds": 0.000176
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 122 stars."
+  }
+}
