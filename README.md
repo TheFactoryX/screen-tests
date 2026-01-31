@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4640 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-31 |
+| #4641 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 394k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4705,3 +4705,4 @@ Or let GitHub Action run it automatically.
 | 4638 | 2026-01-31 14:58:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172294⭐ TypeScript) | [reels/reel_4638_n8n-io-n8n](reels/reel_4638_n8n-io-n8n) |
 | 4639 | 2026-01-31 15:31:12 | [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) | ✅ full (332⭐ JavaScript) | [reels/reel_4639_vmactions-freebsd-vm](reels/reel_4639_vmactions-freebsd-vm) |
 | 4640 | 2026-01-31 15:55:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270925⭐ None) | [reels/reel_4640_awesome-selfhosted-awesome-selfhosted](reels/reel_4640_awesome-selfhosted-awesome-selfhosted) |
+| 4641 | 2026-01-31 16:26:37 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (394500⭐ Python) | [reels/reel_4641_public-apis-public-apis](reels/reel_4641_public-apis-public-apis) |
