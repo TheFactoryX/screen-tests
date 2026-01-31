@@ -1,0 +1,24 @@
+{
+  "reel_number": 4657,
+  "recorded": "2026-01-31 23:20:11 UTC",
+  "repository": {
+    "full_name": "ethereum/ERCs",
+    "url": "https://github.com/ethereum/ERCs",
+    "clone_url": "https://github.com/ethereum/ERCs.git",
+    "stars": 645,
+    "language": "Solidity",
+    "size_kb": 80020
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 78,
+    "duration_seconds": 2.735947
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Solidity",
+    "director_note": "A Solidity repository. 645 stars."
+  }
+}
