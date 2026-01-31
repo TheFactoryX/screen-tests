@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4639 | [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) | JavaScript · ⭐ 332 | 2026-01-31 |
+| #4640 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4704,3 +4704,4 @@ Or let GitHub Action run it automatically.
 | 4637 | 2026-01-31 14:42:09 | [katafrakt/palaver](https://github.com/katafrakt/palaver) | ✅ full (36⭐ Ruby) | [reels/reel_4637_katafrakt-palaver](reels/reel_4637_katafrakt-palaver) |
 | 4638 | 2026-01-31 14:58:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172294⭐ TypeScript) | [reels/reel_4638_n8n-io-n8n](reels/reel_4638_n8n-io-n8n) |
 | 4639 | 2026-01-31 15:31:12 | [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) | ✅ full (332⭐ JavaScript) | [reels/reel_4639_vmactions-freebsd-vm](reels/reel_4639_vmactions-freebsd-vm) |
+| 4640 | 2026-01-31 15:55:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270925⭐ None) | [reels/reel_4640_awesome-selfhosted-awesome-selfhosted](reels/reel_4640_awesome-selfhosted-awesome-selfhosted) |
