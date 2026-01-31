@@ -1,0 +1,24 @@
+{
+  "reel_number": 4630,
+  "recorded": "2026-01-31 10:50:30 UTC",
+  "repository": {
+    "full_name": "stelf/en2bg4term",
+    "url": "https://github.com/stelf/en2bg4term",
+    "clone_url": "https://github.com/stelf/en2bg4term.git",
+    "stars": 213,
+    "language": null,
+    "size_kb": 5700
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.551205
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 213 stars."
+  }
+}

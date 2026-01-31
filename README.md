@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4629 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-31 |
+| #4630 | [stelf/en2bg4term](https://github.com/stelf/en2bg4term) | None · ⭐ 213 | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4694,3 +4694,4 @@ Or let GitHub Action run it automatically.
 | 4627 | 2026-01-31 09:27:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270880⭐ None) | [reels/reel_4627_awesome-selfhosted-awesome-selfhosted](reels/reel_4627_awesome-selfhosted-awesome-selfhosted) |
 | 4628 | 2026-01-31 09:52:02 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102028⭐ Python) | [reels/reel_4628_Comfy-Org-ComfyUI](reels/reel_4628_Comfy-Org-ComfyUI) |
 | 4629 | 2026-01-31 10:22:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270884⭐ None) | [reels/reel_4629_awesome-selfhosted-awesome-selfhosted](reels/reel_4629_awesome-selfhosted-awesome-selfhosted) |
+| 4630 | 2026-01-31 10:50:30 | [stelf/en2bg4term](https://github.com/stelf/en2bg4term) | ✅ full (213⭐ None) | [reels/reel_4630_stelf-en2bg4term](reels/reel_4630_stelf-en2bg4term) |
