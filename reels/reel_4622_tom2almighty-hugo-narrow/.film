@@ -1,0 +1,24 @@
+{
+  "reel_number": 4622,
+  "recorded": "2026-01-31 06:36:11 UTC",
+  "repository": {
+    "full_name": "tom2almighty/hugo-narrow",
+    "url": "https://github.com/tom2almighty/hugo-narrow",
+    "clone_url": "https://github.com/tom2almighty/hugo-narrow.git",
+    "stars": 168,
+    "language": "HTML",
+    "size_kb": 7948
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.607903
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 168 stars."
+  }
+}
