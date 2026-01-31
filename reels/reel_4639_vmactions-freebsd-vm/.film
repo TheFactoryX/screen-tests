@@ -1,0 +1,24 @@
+{
+  "reel_number": 4639,
+  "recorded": "2026-01-31 15:31:12 UTC",
+  "repository": {
+    "full_name": "vmactions/freebsd-vm",
+    "url": "https://github.com/vmactions/freebsd-vm",
+    "clone_url": "https://github.com/vmactions/freebsd-vm.git",
+    "stars": 332,
+    "language": "JavaScript",
+    "size_kb": 3899
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.680341
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 332 stars."
+  }
+}
