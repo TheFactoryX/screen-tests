@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4626 | [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) | TypeScript · ⭐ 480 | 2026-01-31 |
+| #4627 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4691,3 +4691,4 @@ Or let GitHub Action run it automatically.
 | 4624 | 2026-01-31 07:48:01 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (257191⭐ None) | [reels/reel_4624_practical-tutorials-project-based-learning](reels/reel_4624_practical-tutorials-project-based-learning) |
 | 4625 | 2026-01-31 08:28:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145063⭐ Python) | [reels/reel_4625_yt-dlp-yt-dlp](reels/reel_4625_yt-dlp-yt-dlp) |
 | 4626 | 2026-01-31 08:55:48 | [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) | ✅ full (480⭐ TypeScript) | [reels/reel_4626_Rel1cx-eslint-react](reels/reel_4626_Rel1cx-eslint-react) |
+| 4627 | 2026-01-31 09:27:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270880⭐ None) | [reels/reel_4627_awesome-selfhosted-awesome-selfhosted](reels/reel_4627_awesome-selfhosted-awesome-selfhosted) |

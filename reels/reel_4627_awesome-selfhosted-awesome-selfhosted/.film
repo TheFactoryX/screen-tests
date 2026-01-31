@@ -1,0 +1,24 @@
+{
+  "reel_number": 4627,
+  "recorded": "2026-01-31 09:27:48 UTC",
+  "repository": {
+    "full_name": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "clone_url": "https://github.com/awesome-selfhosted/awesome-selfhosted.git",
+    "stars": 270880,
+    "language": null,
+    "size_kb": 16693
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 2.451962
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 270880 stars."
+  }
+}
