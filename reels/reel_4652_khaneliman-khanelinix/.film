@@ -1,0 +1,24 @@
+{
+  "reel_number": 4652,
+  "recorded": "2026-01-31 21:19:55 UTC",
+  "repository": {
+    "full_name": "khaneliman/khanelinix",
+    "url": "https://github.com/khaneliman/khanelinix",
+    "clone_url": "https://github.com/khaneliman/khanelinix.git",
+    "stars": 306,
+    "language": "Nix",
+    "size_kb": 171152
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 167,
+    "duration_seconds": 4.324212
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 306 stars."
+  }
+}

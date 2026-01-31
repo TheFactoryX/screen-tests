@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4651 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-01-31 |
+| #4652 | [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) | Nix · ⭐ 306 | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4716,3 +4716,4 @@ Or let GitHub Action run it automatically.
 | 4649 | 2026-01-31 19:53:18 | [juspay/neurolink](https://github.com/juspay/neurolink) | ✅ shallow (102⭐ TypeScript) | [reels/reel_4649_juspay-neurolink](reels/reel_4649_juspay-neurolink) |
 | 4650 | 2026-01-31 20:23:44 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110813⭐ TypeScript) | [reels/reel_4650_iptv-org-iptv](reels/reel_4650_iptv-org-iptv) |
 | 4651 | 2026-01-31 20:48:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110815⭐ TypeScript) | [reels/reel_4651_iptv-org-iptv](reels/reel_4651_iptv-org-iptv) |
+| 4652 | 2026-01-31 21:19:55 | [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) | ✅ shallow (306⭐ Nix) | [reels/reel_4652_khaneliman-khanelinix](reels/reel_4652_khaneliman-khanelinix) |
