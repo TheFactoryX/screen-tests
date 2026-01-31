@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4653 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 105k | 2026-01-31 |
+| #4654 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4718,3 +4718,4 @@ Or let GitHub Action run it automatically.
 | 4651 | 2026-01-31 20:48:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110815⭐ TypeScript) | [reels/reel_4651_iptv-org-iptv](reels/reel_4651_iptv-org-iptv) |
 | 4652 | 2026-01-31 21:19:55 | [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) | ✅ shallow (306⭐ Nix) | [reels/reel_4652_khaneliman-khanelinix](reels/reel_4652_khaneliman-khanelinix) |
 | 4653 | 2026-01-31 21:43:52 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105737⭐ None) | [reels/reel_4653_Hack-with-Github-Awesome-Hacking](reels/reel_4653_Hack-with-Github-Awesome-Hacking) |
+| 4654 | 2026-01-31 21:55:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181590⭐ Python) | [reels/reel_4654_Significant-Gravitas-AutoGPT](reels/reel_4654_Significant-Gravitas-AutoGPT) |
