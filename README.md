@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4637 | [katafrakt/palaver](https://github.com/katafrakt/palaver) | Ruby · ⭐ 36 | 2026-01-31 |
+| #4638 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 172k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4702,3 +4702,4 @@ Or let GitHub Action run it automatically.
 | 4635 | 2026-01-31 13:30:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125538⭐ Python) | [reels/reel_4635_langchain-ai-langchain](reels/reel_4635_langchain-ai-langchain) |
 | 4636 | 2026-01-31 14:01:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270912⭐ None) | [reels/reel_4636_awesome-selfhosted-awesome-selfhosted](reels/reel_4636_awesome-selfhosted-awesome-selfhosted) |
 | 4637 | 2026-01-31 14:42:09 | [katafrakt/palaver](https://github.com/katafrakt/palaver) | ✅ full (36⭐ Ruby) | [reels/reel_4637_katafrakt-palaver](reels/reel_4637_katafrakt-palaver) |
+| 4638 | 2026-01-31 14:58:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172294⭐ TypeScript) | [reels/reel_4638_n8n-io-n8n](reels/reel_4638_n8n-io-n8n) |
