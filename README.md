@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4634 | [kaldigo/SillyTavern-Tracker](https://github.com/kaldigo/SillyTavern-Tracker) | JavaScript · ⭐ 83 | 2026-01-31 |
+| #4635 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 125k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4699,3 +4699,4 @@ Or let GitHub Action run it automatically.
 | 4632 | 2026-01-31 11:42:43 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101403⭐ Python) | [reels/reel_4632_deepseek-ai-DeepSeek-V3](reels/reel_4632_deepseek-ai-DeepSeek-V3) |
 | 4633 | 2026-01-31 11:54:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144430⭐ Python) | [reels/reel_4633_langflow-ai-langflow](reels/reel_4633_langflow-ai-langflow) |
 | 4634 | 2026-01-31 12:43:05 | [kaldigo/SillyTavern-Tracker](https://github.com/kaldigo/SillyTavern-Tracker) | ✅ full (83⭐ JavaScript) | [reels/reel_4634_kaldigo-SillyTavern-Tracker](reels/reel_4634_kaldigo-SillyTavern-Tracker) |
+| 4635 | 2026-01-31 13:30:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125538⭐ Python) | [reels/reel_4635_langchain-ai-langchain](reels/reel_4635_langchain-ai-langchain) |
