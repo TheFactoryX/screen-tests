@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4647 | [AlphaFox000/WTF-Solidity](https://github.com/AlphaFox000/WTF-Solidity) | None · ⭐ 13 | 2026-01-31 |
+| #4648 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 270k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4712,3 +4712,4 @@ Or let GitHub Action run it automatically.
 | 4645 | 2026-01-31 18:30:01 | [galaxyproject/galaxy-hub](https://github.com/galaxyproject/galaxy-hub) | ✅ readme_only (122⭐ HTML) | [reels/reel_4645_galaxyproject-galaxy-hub](reels/reel_4645_galaxyproject-galaxy-hub) |
 | 4646 | 2026-01-31 18:57:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (109916⭐ Rust) | [reels/reel_4646_rust-lang-rust](reels/reel_4646_rust-lang-rust) |
 | 4647 | 2026-01-31 19:26:15 | [AlphaFox000/WTF-Solidity](https://github.com/AlphaFox000/WTF-Solidity) | ✅ shallow (13⭐ None) | [reels/reel_4647_AlphaFox000-WTF-Solidity](reels/reel_4647_AlphaFox000-WTF-Solidity) |
+| 4648 | 2026-01-31 19:42:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (270947⭐ None) | [reels/reel_4648_awesome-selfhosted-awesome-selfhosted](reels/reel_4648_awesome-selfhosted-awesome-selfhosted) |
