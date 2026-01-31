@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4658 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-01-31 |
+| #4659 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-01-31 |
 ---
 
 ## 🎭 Selection Process
@@ -4723,3 +4723,4 @@ Or let GitHub Action run it automatically.
 | 4656 | 2026-01-31 22:48:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172352⭐ TypeScript) | [reels/reel_4656_n8n-io-n8n](reels/reel_4656_n8n-io-n8n) |
 | 4657 | 2026-01-31 23:20:11 | [ethereum/ERCs](https://github.com/ethereum/ERCs) | ✅ full (645⭐ Solidity) | [reels/reel_4657_ethereum-ERCs](reels/reel_4657_ethereum-ERCs) |
 | 4658 | 2026-01-31 23:44:46 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139635⭐ Python) | [reels/reel_4658_ytdl-org-youtube-dl](reels/reel_4658_ytdl-org-youtube-dl) |
+| 4659 | 2026-01-31 23:57:54 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102117⭐ Rust) | [reels/reel_4659_tauri-apps-tauri](reels/reel_4659_tauri-apps-tauri) |
