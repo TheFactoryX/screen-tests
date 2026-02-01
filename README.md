@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4671 | [indilib/indi-3rdparty](https://github.com/indilib/indi-3rdparty) | C++ · ⭐ 148 | 2026-02-01 |
+| #4672 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 257k | 2026-02-01 |
 ---
 
 ## 🎭 Selection Process
@@ -4760,3 +4760,4 @@ If you need permission, you're thinking too much.
 | 4669 | 2026-02-01 10:33:46 | [gkjohnson/closed-chain-ik-js](https://github.com/gkjohnson/closed-chain-ik-js) | ✅ full (246⭐ JavaScript) | [reels/reel_4669_gkjohnson-closed-chain-ik-js](reels/reel_4669_gkjohnson-closed-chain-ik-js) |
 | 4670 | 2026-02-01 10:59:08 | [yeahhe365/All-Model-Chat](https://github.com/yeahhe365/All-Model-Chat) | ✅ full (720⭐ TypeScript) | [reels/reel_4670_yeahhe365-All-Model-Chat](reels/reel_4670_yeahhe365-All-Model-Chat) |
 | 4671 | 2026-02-01 11:29:25 | [indilib/indi-3rdparty](https://github.com/indilib/indi-3rdparty) | ✅ readme_only (148⭐ C++) | [reels/reel_4671_indilib-indi-3rdparty](reels/reel_4671_indilib-indi-3rdparty) |
+| 4672 | 2026-02-01 11:46:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (257298⭐ None) | [reels/reel_4672_practical-tutorials-project-based-learning](reels/reel_4672_practical-tutorials-project-based-learning) |
