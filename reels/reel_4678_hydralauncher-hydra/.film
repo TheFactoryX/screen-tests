@@ -1,0 +1,24 @@
+{
+  "reel_number": 4678,
+  "recorded": "2026-02-01 15:40:04 UTC",
+  "repository": {
+    "full_name": "hydralauncher/hydra",
+    "url": "https://github.com/hydralauncher/hydra",
+    "clone_url": "https://github.com/hydralauncher/hydra.git",
+    "stars": 15075,
+    "language": "TypeScript",
+    "size_kb": 121204
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 118,
+    "duration_seconds": 1.582319
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 15075 stars."
+  }
+}
