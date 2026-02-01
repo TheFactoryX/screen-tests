@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4660 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-02-01 |
+| #4661 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 145k | 2026-02-01 |
 ---
 
 ## 🎭 Selection Process
@@ -4725,3 +4725,4 @@ Or let GitHub Action run it automatically.
 | 4658 | 2026-01-31 23:44:46 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139635⭐ Python) | [reels/reel_4658_ytdl-org-youtube-dl](reels/reel_4658_ytdl-org-youtube-dl) |
 | 4659 | 2026-01-31 23:57:54 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102117⭐ Rust) | [reels/reel_4659_tauri-apps-tauri](reels/reel_4659_tauri-apps-tauri) |
 | 4660 | 2026-02-01 02:53:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110826⭐ TypeScript) | [reels/reel_4660_iptv-org-iptv](reels/reel_4660_iptv-org-iptv) |
+| 4661 | 2026-02-01 04:59:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145191⭐ Python) | [reels/reel_4661_yt-dlp-yt-dlp](reels/reel_4661_yt-dlp-yt-dlp) |
