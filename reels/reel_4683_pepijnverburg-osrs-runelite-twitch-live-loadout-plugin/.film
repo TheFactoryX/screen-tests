@@ -1,0 +1,24 @@
+{
+  "reel_number": 4683,
+  "recorded": "2026-02-01 18:02:14 UTC",
+  "repository": {
+    "full_name": "pepijnverburg/osrs-runelite-twitch-live-loadout-plugin",
+    "url": "https://github.com/pepijnverburg/osrs-runelite-twitch-live-loadout-plugin",
+    "clone_url": "https://github.com/pepijnverburg/osrs-runelite-twitch-live-loadout-plugin.git",
+    "stars": 16,
+    "language": "Java",
+    "size_kb": 68484
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 66,
+    "duration_seconds": 1.462236
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 16 stars."
+  }
+}
