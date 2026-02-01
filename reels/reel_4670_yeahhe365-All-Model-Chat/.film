@@ -1,0 +1,24 @@
+{
+  "reel_number": 4670,
+  "recorded": "2026-02-01 10:59:08 UTC",
+  "repository": {
+    "full_name": "yeahhe365/All-Model-Chat",
+    "url": "https://github.com/yeahhe365/All-Model-Chat",
+    "clone_url": "https://github.com/yeahhe365/All-Model-Chat.git",
+    "stars": 720,
+    "language": "TypeScript",
+    "size_kb": 2783
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.493809
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 720 stars."
+  }
+}
