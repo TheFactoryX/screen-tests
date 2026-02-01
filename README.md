@@ -1,5 +1,11 @@
 # 🎬 Screen Tests
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![Machine Status](https://img.shields.io/github/actions/workflow/status/TheFactoryX/screen-tests/camera0-switch.yml?style=flat-square&label=camera)](https://github.com/TheFactoryX/screen-tests/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/screen-tests?style=flat-square&logo=github)](https://github.com/TheFactoryX/screen-tests/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/screen-tests?style=flat-square)](https://github.com/TheFactoryX/screen-tests/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **Film Studio**
 Est. 2025 · Every 15 Minutes
 
@@ -58,6 +64,12 @@ Or let GitHub Action run it automatically.
 > _"Everyone will be world-famous for 15 minutes."_
 >
 > — Andy Warhol 🎬
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/screen-tests&type=Date)](https://star-history.com/#TheFactoryX/screen-tests&Date)
 
 ---
 
