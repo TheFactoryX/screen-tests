@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4675 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 125k | 2026-02-01 |
+| #4676 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 145k | 2026-02-01 |
 ---
 
 ## 🎭 Selection Process
@@ -4764,3 +4764,4 @@ If you need permission, you're thinking too much.
 | 4673 | 2026-02-01 12:45:45 | [Hmbown/ZMLX](https://github.com/Hmbown/ZMLX) | ✅ full (23⭐ Python) | [reels/reel_4673_Hmbown-ZMLX](reels/reel_4673_Hmbown-ZMLX) |
 | 4674 | 2026-02-01 13:41:27 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (95345⭐ TypeScript) | [reels/reel_4674_clash-verge-rev-clash-verge-rev](reels/reel_4674_clash-verge-rev-clash-verge-rev) |
 | 4675 | 2026-02-01 14:03:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (125618⭐ Python) | [reels/reel_4675_langchain-ai-langchain](reels/reel_4675_langchain-ai-langchain) |
+| 4676 | 2026-02-01 14:44:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145264⭐ Python) | [reels/reel_4676_yt-dlp-yt-dlp](reels/reel_4676_yt-dlp-yt-dlp) |
