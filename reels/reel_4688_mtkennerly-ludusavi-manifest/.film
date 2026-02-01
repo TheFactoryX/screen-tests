@@ -1,0 +1,24 @@
+{
+  "reel_number": 4688,
+  "recorded": "2026-02-01 20:24:37 UTC",
+  "repository": {
+    "full_name": "mtkennerly/ludusavi-manifest",
+    "url": "https://github.com/mtkennerly/ludusavi-manifest",
+    "clone_url": "https://github.com/mtkennerly/ludusavi-manifest.git",
+    "stars": 135,
+    "language": "Rust",
+    "size_kb": 746912
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 729,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 135 stars."
+  }
+}
