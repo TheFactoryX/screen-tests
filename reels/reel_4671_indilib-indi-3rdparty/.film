@@ -1,0 +1,24 @@
+{
+  "reel_number": 4671,
+  "recorded": "2026-02-01 11:29:25 UTC",
+  "repository": {
+    "full_name": "indilib/indi-3rdparty",
+    "url": "https://github.com/indilib/indi-3rdparty",
+    "clone_url": "https://github.com/indilib/indi-3rdparty.git",
+    "stars": 148,
+    "language": "C++",
+    "size_kb": 3002765
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2932,
+    "duration_seconds": 0.00014
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 148 stars."
+  }
+}
