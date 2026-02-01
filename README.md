@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4676 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 145k | 2026-02-01 |
+| #4677 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 172k | 2026-02-01 |
 ---
 
 ## 🎭 Selection Process
@@ -4765,3 +4765,4 @@ If you need permission, you're thinking too much.
 | 4674 | 2026-02-01 13:41:27 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (95345⭐ TypeScript) | [reels/reel_4674_clash-verge-rev-clash-verge-rev](reels/reel_4674_clash-verge-rev-clash-verge-rev) |
 | 4675 | 2026-02-01 14:03:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (125618⭐ Python) | [reels/reel_4675_langchain-ai-langchain](reels/reel_4675_langchain-ai-langchain) |
 | 4676 | 2026-02-01 14:44:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145264⭐ Python) | [reels/reel_4676_yt-dlp-yt-dlp](reels/reel_4676_yt-dlp-yt-dlp) |
+| 4677 | 2026-02-01 15:00:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172438⭐ TypeScript) | [reels/reel_4677_n8n-io-n8n](reels/reel_4677_n8n-io-n8n) |

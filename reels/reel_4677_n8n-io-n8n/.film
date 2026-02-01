@@ -1,0 +1,24 @@
+{
+  "reel_number": 4677,
+  "recorded": "2026-02-01 15:00:13 UTC",
+  "repository": {
+    "full_name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "clone_url": "https://github.com/n8n-io/n8n.git",
+    "stars": 172438,
+    "language": "TypeScript",
+    "size_kb": 360971
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 352,
+    "duration_seconds": 3.312122
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 172438 stars."
+  }
+}
