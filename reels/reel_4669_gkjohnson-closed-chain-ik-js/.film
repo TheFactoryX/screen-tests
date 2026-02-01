@@ -1,0 +1,24 @@
+{
+  "reel_number": 4669,
+  "recorded": "2026-02-01 10:33:46 UTC",
+  "repository": {
+    "full_name": "gkjohnson/closed-chain-ik-js",
+    "url": "https://github.com/gkjohnson/closed-chain-ik-js",
+    "clone_url": "https://github.com/gkjohnson/closed-chain-ik-js.git",
+    "stars": 246,
+    "language": "JavaScript",
+    "size_kb": 5971
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.501794
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 246 stars."
+  }
+}
