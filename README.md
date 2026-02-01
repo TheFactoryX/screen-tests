@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4680 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-01 |
+| #4681 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-01 |
 ---
 
 ## 🎭 Selection Process
@@ -4769,3 +4769,4 @@ If you need permission, you're thinking too much.
 | 4678 | 2026-02-01 15:40:04 | [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | ✅ shallow (15075⭐ TypeScript) | [reels/reel_4678_hydralauncher-hydra](reels/reel_4678_hydralauncher-hydra) |
 | 4679 | 2026-02-01 15:56:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181608⭐ Python) | [reels/reel_4679_Significant-Gravitas-AutoGPT](reels/reel_4679_Significant-Gravitas-AutoGPT) |
 | 4680 | 2026-02-01 16:32:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144447⭐ Python) | [reels/reel_4680_langflow-ai-langflow](reels/reel_4680_langflow-ai-langflow) |
+| 4681 | 2026-02-01 17:01:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144448⭐ Python) | [reels/reel_4681_langflow-ai-langflow](reels/reel_4681_langflow-ai-langflow) |
