@@ -19,7 +19,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4663 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 172k | 2026-02-01 |
+| #4664 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 125k | 2026-02-01 |
 ---
 
 ## 🎭 Selection Process
@@ -4728,3 +4728,4 @@ Or let GitHub Action run it automatically.
 | 4661 | 2026-02-01 04:59:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145191⭐ Python) | [reels/reel_4661_yt-dlp-yt-dlp](reels/reel_4661_yt-dlp-yt-dlp) |
 | 4662 | 2026-02-01 06:02:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (122526⭐ Python) | [reels/reel_4662_open-webui-open-webui](reels/reel_4662_open-webui-open-webui) |
 | 4663 | 2026-02-01 07:05:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172397⭐ TypeScript) | [reels/reel_4663_n8n-io-n8n](reels/reel_4663_n8n-io-n8n) |
+| 4664 | 2026-02-01 07:48:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (125595⭐ Python) | [reels/reel_4664_langchain-ai-langchain](reels/reel_4664_langchain-ai-langchain) |
