@@ -1,0 +1,24 @@
+{
+  "reel_number": 4693,
+  "recorded": "2026-02-01 22:51:05 UTC",
+  "repository": {
+    "full_name": "joelazar/nvim-config",
+    "url": "https://github.com/joelazar/nvim-config",
+    "clone_url": "https://github.com/joelazar/nvim-config.git",
+    "stars": 126,
+    "language": "Lua",
+    "size_kb": 3668
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.433754
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 126 stars."
+  }
+}
