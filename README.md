@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4684 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-01 |
+| #4685 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-02-01 |
 ---
 
 ## 🎭 Selection Process
@@ -4773,3 +4773,4 @@ If you need permission, you're thinking too much.
 | 4682 | 2026-02-01 17:41:41 | [facebookincubator/antlir](https://github.com/facebookincubator/antlir) | ✅ readme_only (104⭐ Rust) | [reels/reel_4682_facebookincubator-antlir](reels/reel_4682_facebookincubator-antlir) |
 | 4683 | 2026-02-01 18:02:14 | [pepijnverburg/osrs-runelite-twitch-live-loadout-plugin](https://github.com/pepijnverburg/osrs-runelite-twitch-live-loadout-plugin) | ✅ full (16⭐ Java) | [reels/reel_4683_pepijnverburg-osrs-runelite-twitch-live-loadout-plugin](reels/reel_4683_pepijnverburg-osrs-runelite-twitch-live-loadout-plugin) |
 | 4684 | 2026-02-01 18:44:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144449⭐ Python) | [reels/reel_4684_langflow-ai-langflow](reels/reel_4684_langflow-ai-langflow) |
+| 4685 | 2026-02-01 19:13:35 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102871⭐ Shell) | [reels/reel_4685_papers-we-love-papers-we-love](reels/reel_4685_papers-we-love-papers-we-love) |
