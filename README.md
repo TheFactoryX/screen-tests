@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4688 | [mtkennerly/ludusavi-manifest](https://github.com/mtkennerly/ludusavi-manifest) | Rust · ⭐ 135 | 2026-02-01 |
+| #4689 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 110k | 2026-02-01 |
 ---
 
 ## 🎭 Selection Process
@@ -4777,3 +4777,4 @@ If you need permission, you're thinking too much.
 | 4686 | 2026-02-01 19:38:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172462⭐ TypeScript) | [reels/reel_4686_n8n-io-n8n](reels/reel_4686_n8n-io-n8n) |
 | 4687 | 2026-02-01 19:54:30 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110868⭐ TypeScript) | [reels/reel_4687_iptv-org-iptv](reels/reel_4687_iptv-org-iptv) |
 | 4688 | 2026-02-01 20:24:37 | [mtkennerly/ludusavi-manifest](https://github.com/mtkennerly/ludusavi-manifest) | ✅ readme_only (135⭐ Rust) | [reels/reel_4688_mtkennerly-ludusavi-manifest](reels/reel_4688_mtkennerly-ludusavi-manifest) |
+| 4689 | 2026-02-01 20:49:55 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110869⭐ TypeScript) | [reels/reel_4689_iptv-org-iptv](reels/reel_4689_iptv-org-iptv) |
