@@ -1,0 +1,24 @@
+{
+  "reel_number": 4708,
+  "recorded": "2026-02-02 15:00:16 UTC",
+  "repository": {
+    "full_name": "konradbartecki/Podatki.wtf.OpenSource",
+    "url": "https://github.com/konradbartecki/Podatki.wtf.OpenSource",
+    "clone_url": "https://github.com/konradbartecki/Podatki.wtf.OpenSource.git",
+    "stars": 33,
+    "language": null,
+    "size_kb": 140
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.280298
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 33 stars."
+  }
+}
