@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4710 | [pumPCin/HMAL](https://github.com/pumPCin/HMAL) | Kotlin · ⭐ 598 | 2026-02-02 |
+| #4711 | [wesm/msgvault](https://github.com/wesm/msgvault) | Go · ⭐ 102 | 2026-02-02 |
 ---
 
 ## 🎭 Selection Process
@@ -4799,3 +4799,4 @@ If you need permission, you're thinking too much.
 | 4708 | 2026-02-02 15:00:16 | [konradbartecki/Podatki.wtf.OpenSource](https://github.com/konradbartecki/Podatki.wtf.OpenSource) | ✅ full (33⭐ None) | [reels/reel_4708_konradbartecki-Podatki.wtf.OpenSource](reels/reel_4708_konradbartecki-Podatki.wtf.OpenSource) |
 | 4709 | 2026-02-02 15:46:42 | [BelledonneCommunications/linphone-iphone](https://github.com/BelledonneCommunications/linphone-iphone) | ✅ shallow (632⭐ Swift) | [reels/reel_4709_BelledonneCommunications-linphone-iphone](reels/reel_4709_BelledonneCommunications-linphone-iphone) |
 | 4710 | 2026-02-02 16:37:53 | [pumPCin/HMAL](https://github.com/pumPCin/HMAL) | ✅ full (598⭐ Kotlin) | [reels/reel_4710_pumPCin-HMAL](reels/reel_4710_pumPCin-HMAL) |
+| 4711 | 2026-02-02 17:24:00 | [wesm/msgvault](https://github.com/wesm/msgvault) | ✅ full (102⭐ Go) | [reels/reel_4711_wesm-msgvault](reels/reel_4711_wesm-msgvault) |
