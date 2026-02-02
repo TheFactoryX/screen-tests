@@ -1,0 +1,24 @@
+{
+  "reel_number": 4710,
+  "recorded": "2026-02-02 16:37:53 UTC",
+  "repository": {
+    "full_name": "pumPCin/HMAL",
+    "url": "https://github.com/pumPCin/HMAL",
+    "clone_url": "https://github.com/pumPCin/HMAL.git",
+    "stars": 598,
+    "language": "Kotlin",
+    "size_kb": 862
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.535966
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 598 stars."
+  }
+}
