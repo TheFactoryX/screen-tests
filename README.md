@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4700 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-02 |
+| #4701 | [volodya-lombrozo/jsmith](https://github.com/volodya-lombrozo/jsmith) | Java · ⭐ 15 | 2026-02-02 |
 ---
 
 ## 🎭 Selection Process
@@ -4789,3 +4789,4 @@ If you need permission, you're thinking too much.
 | 4698 | 2026-02-02 05:50:47 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181619⭐ Python) | [reels/reel_4698_Significant-Gravitas-AutoGPT](reels/reel_4698_Significant-Gravitas-AutoGPT) |
 | 4699 | 2026-02-02 07:00:18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145374⭐ Python) | [reels/reel_4699_yt-dlp-yt-dlp](reels/reel_4699_yt-dlp-yt-dlp) |
 | 4700 | 2026-02-02 07:56:58 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97401⭐ TypeScript) | [reels/reel_4700_ant-design-ant-design](reels/reel_4700_ant-design-ant-design) |
+| 4701 | 2026-02-02 08:49:42 | [volodya-lombrozo/jsmith](https://github.com/volodya-lombrozo/jsmith) | ✅ full (15⭐ Java) | [reels/reel_4701_volodya-lombrozo-jsmith](reels/reel_4701_volodya-lombrozo-jsmith) |

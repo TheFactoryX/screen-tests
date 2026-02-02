@@ -1,0 +1,24 @@
+{
+  "reel_number": 4701,
+  "recorded": "2026-02-02 08:49:42 UTC",
+  "repository": {
+    "full_name": "volodya-lombrozo/jsmith",
+    "url": "https://github.com/volodya-lombrozo/jsmith",
+    "clone_url": "https://github.com/volodya-lombrozo/jsmith.git",
+    "stars": 15,
+    "language": "Java",
+    "size_kb": 1380
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.302731
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 15 stars."
+  }
+}
