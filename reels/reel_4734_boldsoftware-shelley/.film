@@ -1,0 +1,24 @@
+{
+  "reel_number": 4734,
+  "recorded": "2026-02-03 19:52:51 UTC",
+  "repository": {
+    "full_name": "boldsoftware/shelley",
+    "url": "https://github.com/boldsoftware/shelley",
+    "clone_url": "https://github.com/boldsoftware/shelley.git",
+    "stars": 154,
+    "language": "Go",
+    "size_kb": 1159
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.395095
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 154 stars."
+  }
+}
