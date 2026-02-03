@@ -1,0 +1,24 @@
+{
+  "reel_number": 4740,
+  "recorded": "2026-02-03 23:42:29 UTC",
+  "repository": {
+    "full_name": "llama-farm/llamafarm",
+    "url": "https://github.com/llama-farm/llamafarm",
+    "clone_url": "https://github.com/llama-farm/llamafarm.git",
+    "stars": 831,
+    "language": "Python",
+    "size_kb": 193226
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 188,
+    "duration_seconds": 2.435168
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 831 stars."
+  }
+}
