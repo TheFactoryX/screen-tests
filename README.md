@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4738 | [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) | C++ · ⭐ 868 | 2026-02-03 |
+| #4739 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4827,3 +4827,4 @@ If you need permission, you're thinking too much.
 | 4736 | 2026-02-03 21:18:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106034⭐ TypeScript) | [reels/reel_4736_shadcn-ui-ui](reels/reel_4736_shadcn-ui-ui) |
 | 4737 | 2026-02-03 21:56:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172853⭐ TypeScript) | [reels/reel_4737_n8n-io-n8n](reels/reel_4737_n8n-io-n8n) |
 | 4738 | 2026-02-03 22:33:01 | [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) | ✅ full (868⭐ C++) | [reels/reel_4738_ai-dynamo-nixl](reels/reel_4738_ai-dynamo-nixl) |
+| 4739 | 2026-02-03 23:02:39 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106036⭐ TypeScript) | [reels/reel_4739_shadcn-ui-ui](reels/reel_4739_shadcn-ui-ui) |
