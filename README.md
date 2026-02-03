@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4729 | [netlify/build](https://github.com/netlify/build) | JavaScript · ⭐ 251 | 2026-02-03 |
+| #4730 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4818,3 +4818,4 @@ If you need permission, you're thinking too much.
 | 4727 | 2026-02-03 13:05:11 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172763⭐ TypeScript) | [reels/reel_4727_n8n-io-n8n](reels/reel_4727_n8n-io-n8n) |
 | 4728 | 2026-02-03 14:10:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145586⭐ Python) | [reels/reel_4728_yt-dlp-yt-dlp](reels/reel_4728_yt-dlp-yt-dlp) |
 | 4729 | 2026-02-03 15:02:12 | [netlify/build](https://github.com/netlify/build) | ✅ shallow (251⭐ JavaScript) | [reels/reel_4729_netlify-build](reels/reel_4729_netlify-build) |
+| 4730 | 2026-02-03 16:04:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144518⭐ Python) | [reels/reel_4730_langflow-ai-langflow](reels/reel_4730_langflow-ai-langflow) |
