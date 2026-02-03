@@ -1,0 +1,24 @@
+{
+  "reel_number": 4726,
+  "recorded": "2026-02-03 11:56:31 UTC",
+  "repository": {
+    "full_name": "nokia-eda/playground",
+    "url": "https://github.com/nokia-eda/playground",
+    "clone_url": "https://github.com/nokia-eda/playground.git",
+    "stars": 16,
+    "language": "Makefile",
+    "size_kb": 216
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.208392
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Makefile",
+    "director_note": "A Makefile repository. 16 stars."
+  }
+}

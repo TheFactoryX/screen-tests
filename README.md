@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4725 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-03 |
+| #4726 | [nokia-eda/playground](https://github.com/nokia-eda/playground) | Makefile · ⭐ 16 | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4814,3 +4814,4 @@ If you need permission, you're thinking too much.
 | 4723 | 2026-02-03 09:49:23 | [fuego-wtf/graphyn-code](https://github.com/fuego-wtf/graphyn-code) | ✅ full (12⭐ TypeScript) | [reels/reel_4723_fuego-wtf-graphyn-code](reels/reel_4723_fuego-wtf-graphyn-code) |
 | 4724 | 2026-02-03 10:37:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144512⭐ Python) | [reels/reel_4724_langflow-ai-langflow](reels/reel_4724_langflow-ai-langflow) |
 | 4725 | 2026-02-03 11:21:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106016⭐ TypeScript) | [reels/reel_4725_shadcn-ui-ui](reels/reel_4725_shadcn-ui-ui) |
+| 4726 | 2026-02-03 11:56:31 | [nokia-eda/playground](https://github.com/nokia-eda/playground) | ✅ full (16⭐ Makefile) | [reels/reel_4726_nokia-eda-playground](reels/reel_4726_nokia-eda-playground) |
