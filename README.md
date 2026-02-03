@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4723 | [fuego-wtf/graphyn-code](https://github.com/fuego-wtf/graphyn-code) | TypeScript · ⭐ 12 | 2026-02-03 |
+| #4724 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4812,3 +4812,4 @@ If you need permission, you're thinking too much.
 | 4721 | 2026-02-03 08:05:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271371⭐ None) | [reels/reel_4721_awesome-selfhosted-awesome-selfhosted](reels/reel_4721_awesome-selfhosted-awesome-selfhosted) |
 | 4722 | 2026-02-03 08:57:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125785⭐ Python) | [reels/reel_4722_langchain-ai-langchain](reels/reel_4722_langchain-ai-langchain) |
 | 4723 | 2026-02-03 09:49:23 | [fuego-wtf/graphyn-code](https://github.com/fuego-wtf/graphyn-code) | ✅ full (12⭐ TypeScript) | [reels/reel_4723_fuego-wtf-graphyn-code](reels/reel_4723_fuego-wtf-graphyn-code) |
+| 4724 | 2026-02-03 10:37:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144512⭐ Python) | [reels/reel_4724_langflow-ai-langflow](reels/reel_4724_langflow-ai-langflow) |
