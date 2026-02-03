@@ -1,0 +1,24 @@
+{
+  "reel_number": 4715,
+  "recorded": "2026-02-03 00:00:56 UTC",
+  "repository": {
+    "full_name": "BigBang1112/gbx-net",
+    "url": "https://github.com/BigBang1112/gbx-net",
+    "clone_url": "https://github.com/BigBang1112/gbx-net.git",
+    "stars": 111,
+    "language": "C#",
+    "size_kb": 52006
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 50,
+    "duration_seconds": 1.682957
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 111 stars."
+  }
+}
