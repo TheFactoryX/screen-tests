@@ -1,0 +1,24 @@
+{
+  "reel_number": 4738,
+  "recorded": "2026-02-03 22:33:01 UTC",
+  "repository": {
+    "full_name": "ai-dynamo/nixl",
+    "url": "https://github.com/ai-dynamo/nixl",
+    "clone_url": "https://github.com/ai-dynamo/nixl.git",
+    "stars": 868,
+    "language": "C++",
+    "size_kb": 10418
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.250238
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 868 stars."
+  }
+}
