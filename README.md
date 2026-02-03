@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4736 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-03 |
+| #4737 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 172k | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4825,3 +4825,4 @@ If you need permission, you're thinking too much.
 | 4734 | 2026-02-03 19:52:51 | [boldsoftware/shelley](https://github.com/boldsoftware/shelley) | ✅ full (154⭐ Go) | [reels/reel_4734_boldsoftware-shelley](reels/reel_4734_boldsoftware-shelley) |
 | 4735 | 2026-02-03 20:33:51 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (105908⭐ None) | [reels/reel_4735_Hack-with-Github-Awesome-Hacking](reels/reel_4735_Hack-with-Github-Awesome-Hacking) |
 | 4736 | 2026-02-03 21:18:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106034⭐ TypeScript) | [reels/reel_4736_shadcn-ui-ui](reels/reel_4736_shadcn-ui-ui) |
+| 4737 | 2026-02-03 21:56:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172853⭐ TypeScript) | [reels/reel_4737_n8n-io-n8n](reels/reel_4737_n8n-io-n8n) |
