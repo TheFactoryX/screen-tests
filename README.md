@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4717 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 271k | 2026-02-03 |
+| #4718 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 95k | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4806,3 +4806,4 @@ If you need permission, you're thinking too much.
 | 4715 | 2026-02-03 00:00:56 | [BigBang1112/gbx-net](https://github.com/BigBang1112/gbx-net) | ✅ full (111⭐ C#) | [reels/reel_4715_BigBang1112-gbx-net](reels/reel_4715_BigBang1112-gbx-net) |
 | 4716 | 2026-02-03 03:11:58 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (110962⭐ TypeScript) | [reels/reel_4716_iptv-org-iptv](reels/reel_4716_iptv-org-iptv) |
 | 4717 | 2026-02-03 04:57:50 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271350⭐ None) | [reels/reel_4717_awesome-selfhosted-awesome-selfhosted](reels/reel_4717_awesome-selfhosted-awesome-selfhosted) |
+| 4718 | 2026-02-03 05:54:56 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (95603⭐ TypeScript) | [reels/reel_4718_clash-verge-rev-clash-verge-rev](reels/reel_4718_clash-verge-rev-clash-verge-rev) |
