@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4720 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 271k | 2026-02-03 |
+| #4721 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 271k | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4809,3 +4809,4 @@ If you need permission, you're thinking too much.
 | 4718 | 2026-02-03 05:54:56 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (95603⭐ TypeScript) | [reels/reel_4718_clash-verge-rev-clash-verge-rev](reels/reel_4718_clash-verge-rev-clash-verge-rev) |
 | 4719 | 2026-02-03 06:49:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144499⭐ Python) | [reels/reel_4719_langflow-ai-langflow](reels/reel_4719_langflow-ai-langflow) |
 | 4720 | 2026-02-03 07:41:08 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271368⭐ None) | [reels/reel_4720_awesome-selfhosted-awesome-selfhosted](reels/reel_4720_awesome-selfhosted-awesome-selfhosted) |
+| 4721 | 2026-02-03 08:05:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271371⭐ None) | [reels/reel_4721_awesome-selfhosted-awesome-selfhosted](reels/reel_4721_awesome-selfhosted-awesome-selfhosted) |
