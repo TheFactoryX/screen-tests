@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4727 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 172k | 2026-02-03 |
+| #4728 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 145k | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4816,3 +4816,4 @@ If you need permission, you're thinking too much.
 | 4725 | 2026-02-03 11:21:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106016⭐ TypeScript) | [reels/reel_4725_shadcn-ui-ui](reels/reel_4725_shadcn-ui-ui) |
 | 4726 | 2026-02-03 11:56:31 | [nokia-eda/playground](https://github.com/nokia-eda/playground) | ✅ full (16⭐ Makefile) | [reels/reel_4726_nokia-eda-playground](reels/reel_4726_nokia-eda-playground) |
 | 4727 | 2026-02-03 13:05:11 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172763⭐ TypeScript) | [reels/reel_4727_n8n-io-n8n](reels/reel_4727_n8n-io-n8n) |
+| 4728 | 2026-02-03 14:10:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145586⭐ Python) | [reels/reel_4728_yt-dlp-yt-dlp](reels/reel_4728_yt-dlp-yt-dlp) |
