@@ -1,0 +1,24 @@
+{
+  "reel_number": 4729,
+  "recorded": "2026-02-03 15:02:12 UTC",
+  "repository": {
+    "full_name": "netlify/build",
+    "url": "https://github.com/netlify/build",
+    "clone_url": "https://github.com/netlify/build.git",
+    "stars": 251,
+    "language": "JavaScript",
+    "size_kb": 173251
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 169,
+    "duration_seconds": 0.995249
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 251 stars."
+  }
+}
