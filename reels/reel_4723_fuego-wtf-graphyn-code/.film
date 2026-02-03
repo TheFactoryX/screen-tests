@@ -1,0 +1,24 @@
+{
+  "reel_number": 4723,
+  "recorded": "2026-02-03 09:49:23 UTC",
+  "repository": {
+    "full_name": "fuego-wtf/graphyn-code",
+    "url": "https://github.com/fuego-wtf/graphyn-code",
+    "clone_url": "https://github.com/fuego-wtf/graphyn-code.git",
+    "stars": 12,
+    "language": "TypeScript",
+    "size_kb": 2499
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.809689
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 12 stars."
+  }
+}
