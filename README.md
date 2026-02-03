@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4740 | [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) | Python · ⭐ 831 | 2026-02-03 |
+| #4741 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-03 |
 ---
 
 ## 🎭 Selection Process
@@ -4829,3 +4829,4 @@ If you need permission, you're thinking too much.
 | 4738 | 2026-02-03 22:33:01 | [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) | ✅ full (868⭐ C++) | [reels/reel_4738_ai-dynamo-nixl](reels/reel_4738_ai-dynamo-nixl) |
 | 4739 | 2026-02-03 23:02:39 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106036⭐ TypeScript) | [reels/reel_4739_shadcn-ui-ui](reels/reel_4739_shadcn-ui-ui) |
 | 4740 | 2026-02-03 23:42:29 | [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm) | ✅ shallow (831⭐ Python) | [reels/reel_4740_llama-farm-llamafarm](reels/reel_4740_llama-farm-llamafarm) |
+| 4741 | 2026-02-03 23:59:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110016⭐ Rust) | [reels/reel_4741_rust-lang-rust](reels/reel_4741_rust-lang-rust) |
