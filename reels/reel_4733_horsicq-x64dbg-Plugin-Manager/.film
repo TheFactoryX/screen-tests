@@ -1,0 +1,24 @@
+{
+  "reel_number": 4733,
+  "recorded": "2026-02-03 19:13:10 UTC",
+  "repository": {
+    "full_name": "horsicq/x64dbg-Plugin-Manager",
+    "url": "https://github.com/horsicq/x64dbg-Plugin-Manager",
+    "clone_url": "https://github.com/horsicq/x64dbg-Plugin-Manager.git",
+    "stars": 919,
+    "language": "C++",
+    "size_kb": 3431
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.76358
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 919 stars."
+  }
+}
