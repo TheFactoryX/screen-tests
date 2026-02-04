@@ -1,0 +1,24 @@
+{
+  "reel_number": 4762,
+  "recorded": "2026-02-04 21:05:02 UTC",
+  "repository": {
+    "full_name": "ColonolNutty/Sims4CommunityLibrary",
+    "url": "https://github.com/ColonolNutty/Sims4CommunityLibrary",
+    "clone_url": "https://github.com/ColonolNutty/Sims4CommunityLibrary.git",
+    "stars": 238,
+    "language": "Python",
+    "size_kb": 18470
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.119464
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 238 stars."
+  }
+}

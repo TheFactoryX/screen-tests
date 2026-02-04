@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4761 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-04 |
+| #4762 | [ColonolNutty/Sims4CommunityLibrary](https://github.com/ColonolNutty/Sims4CommunityLibrary) | Python · ⭐ 238 | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4850,3 +4850,4 @@ If you need permission, you're thinking too much.
 | 4759 | 2026-02-04 19:23:27 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106089⭐ TypeScript) | [reels/reel_4759_shadcn-ui-ui](reels/reel_4759_shadcn-ui-ui) |
 | 4760 | 2026-02-04 19:56:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173011⭐ TypeScript) | [reels/reel_4760_n8n-io-n8n](reels/reel_4760_n8n-io-n8n) |
 | 4761 | 2026-02-04 20:36:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106090⭐ TypeScript) | [reels/reel_4761_shadcn-ui-ui](reels/reel_4761_shadcn-ui-ui) |
+| 4762 | 2026-02-04 21:05:02 | [ColonolNutty/Sims4CommunityLibrary](https://github.com/ColonolNutty/Sims4CommunityLibrary) | ✅ full (238⭐ Python) | [reels/reel_4762_ColonolNutty-Sims4CommunityLibrary](reels/reel_4762_ColonolNutty-Sims4CommunityLibrary) |
