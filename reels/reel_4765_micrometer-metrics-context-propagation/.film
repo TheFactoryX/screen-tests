@@ -1,0 +1,24 @@
+{
+  "reel_number": 4765,
+  "recorded": "2026-02-04 22:52:30 UTC",
+  "repository": {
+    "full_name": "micrometer-metrics/context-propagation",
+    "url": "https://github.com/micrometer-metrics/context-propagation",
+    "clone_url": "https://github.com/micrometer-metrics/context-propagation.git",
+    "stars": 112,
+    "language": "Java",
+    "size_kb": 1301
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.225027
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 112 stars."
+  }
+}

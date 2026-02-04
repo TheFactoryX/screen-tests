@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4764 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-04 |
+| #4765 | [micrometer-metrics/context-propagation](https://github.com/micrometer-metrics/context-propagation) | Java · ⭐ 112 | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4853,3 +4853,4 @@ If you need permission, you're thinking too much.
 | 4762 | 2026-02-04 21:05:02 | [ColonolNutty/Sims4CommunityLibrary](https://github.com/ColonolNutty/Sims4CommunityLibrary) | ✅ full (238⭐ Python) | [reels/reel_4762_ColonolNutty-Sims4CommunityLibrary](reels/reel_4762_ColonolNutty-Sims4CommunityLibrary) |
 | 4763 | 2026-02-04 21:47:11 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125942⭐ Python) | [reels/reel_4763_langchain-ai-langchain](reels/reel_4763_langchain-ai-langchain) |
 | 4764 | 2026-02-04 22:26:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181684⭐ Python) | [reels/reel_4764_Significant-Gravitas-AutoGPT](reels/reel_4764_Significant-Gravitas-AutoGPT) |
+| 4765 | 2026-02-04 22:52:30 | [micrometer-metrics/context-propagation](https://github.com/micrometer-metrics/context-propagation) | ✅ full (112⭐ Java) | [reels/reel_4765_micrometer-metrics-context-propagation](reels/reel_4765_micrometer-metrics-context-propagation) |
