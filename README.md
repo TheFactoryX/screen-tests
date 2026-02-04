@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4752 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-04 |
+| #4753 | [agentem-ai/izwi-audio](https://github.com/agentem-ai/izwi-audio) | Rust · ⭐ 13 | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4841,3 +4841,4 @@ If you need permission, you're thinking too much.
 | 4750 | 2026-02-04 11:00:41 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (395161⭐ Python) | [reels/reel_4750_public-apis-public-apis](reels/reel_4750_public-apis-public-apis) |
 | 4751 | 2026-02-04 11:47:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181690⭐ Python) | [reels/reel_4751_Significant-Gravitas-AutoGPT](reels/reel_4751_Significant-Gravitas-AutoGPT) |
 | 4752 | 2026-02-04 12:56:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181688⭐ Python) | [reels/reel_4752_Significant-Gravitas-AutoGPT](reels/reel_4752_Significant-Gravitas-AutoGPT) |
+| 4753 | 2026-02-04 14:02:48 | [agentem-ai/izwi-audio](https://github.com/agentem-ai/izwi-audio) | ✅ full (13⭐ Rust) | [reels/reel_4753_agentem-ai-izwi-audio](reels/reel_4753_agentem-ai-izwi-audio) |

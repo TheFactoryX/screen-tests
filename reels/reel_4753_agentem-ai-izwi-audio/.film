@@ -1,0 +1,24 @@
+{
+  "reel_number": 4753,
+  "recorded": "2026-02-04 14:02:48 UTC",
+  "repository": {
+    "full_name": "agentem-ai/izwi-audio",
+    "url": "https://github.com/agentem-ai/izwi-audio",
+    "clone_url": "https://github.com/agentem-ai/izwi-audio.git",
+    "stars": 13,
+    "language": "Rust",
+    "size_kb": 580
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.391933
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 13 stars."
+  }
+}
