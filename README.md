@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4750 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 395k | 2026-02-04 |
+| #4751 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4839,3 +4839,4 @@ If you need permission, you're thinking too much.
 | 4748 | 2026-02-04 09:00:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271552⭐ None) | [reels/reel_4748_awesome-selfhosted-awesome-selfhosted](reels/reel_4748_awesome-selfhosted-awesome-selfhosted) |
 | 4749 | 2026-02-04 10:01:22 | [aliyun/alibabacloud-python-sdk](https://github.com/aliyun/alibabacloud-python-sdk) | ✅ readme_only (119⭐ Python) | [reels/reel_4749_aliyun-alibabacloud-python-sdk](reels/reel_4749_aliyun-alibabacloud-python-sdk) |
 | 4750 | 2026-02-04 11:00:41 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (395161⭐ Python) | [reels/reel_4750_public-apis-public-apis](reels/reel_4750_public-apis-public-apis) |
+| 4751 | 2026-02-04 11:47:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181690⭐ Python) | [reels/reel_4751_Significant-Gravitas-AutoGPT](reels/reel_4751_Significant-Gravitas-AutoGPT) |
