@@ -1,0 +1,24 @@
+{
+  "reel_number": 4766,
+  "recorded": "2026-02-04 23:26:01 UTC",
+  "repository": {
+    "full_name": "23blocks-OS/ai-maestro",
+    "url": "https://github.com/23blocks-OS/ai-maestro",
+    "clone_url": "https://github.com/23blocks-OS/ai-maestro.git",
+    "stars": 220,
+    "language": "TypeScript",
+    "size_kb": 312377
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 305,
+    "duration_seconds": 7.517069
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 220 stars."
+  }
+}
