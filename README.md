@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4758 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-04 |
+| #4759 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4847,3 +4847,4 @@ If you need permission, you're thinking too much.
 | 4756 | 2026-02-04 16:44:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172995⭐ TypeScript) | [reels/reel_4756_n8n-io-n8n](reels/reel_4756_n8n-io-n8n) |
 | 4757 | 2026-02-04 17:32:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125931⭐ Python) | [reels/reel_4757_langchain-ai-langchain](reels/reel_4757_langchain-ai-langchain) |
 | 4758 | 2026-02-04 18:27:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144561⭐ Python) | [reels/reel_4758_langflow-ai-langflow](reels/reel_4758_langflow-ai-langflow) |
+| 4759 | 2026-02-04 19:23:27 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106089⭐ TypeScript) | [reels/reel_4759_shadcn-ui-ui](reels/reel_4759_shadcn-ui-ui) |
