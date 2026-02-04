@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4756 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 172k | 2026-02-04 |
+| #4757 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 125k | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4845,3 +4845,4 @@ If you need permission, you're thinking too much.
 | 4754 | 2026-02-04 14:59:45 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ✅ shallow (97297⭐ TypeScript) | [reels/reel_4754_anomalyco-opencode](reels/reel_4754_anomalyco-opencode) |
 | 4755 | 2026-02-04 15:54:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (122888⭐ Python) | [reels/reel_4755_open-webui-open-webui](reels/reel_4755_open-webui-open-webui) |
 | 4756 | 2026-02-04 16:44:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172995⭐ TypeScript) | [reels/reel_4756_n8n-io-n8n](reels/reel_4756_n8n-io-n8n) |
+| 4757 | 2026-02-04 17:32:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125931⭐ Python) | [reels/reel_4757_langchain-ai-langchain](reels/reel_4757_langchain-ai-langchain) |
