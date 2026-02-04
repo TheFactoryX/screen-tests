@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4763 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 125k | 2026-02-04 |
+| #4764 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4852,3 +4852,4 @@ If you need permission, you're thinking too much.
 | 4761 | 2026-02-04 20:36:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106090⭐ TypeScript) | [reels/reel_4761_shadcn-ui-ui](reels/reel_4761_shadcn-ui-ui) |
 | 4762 | 2026-02-04 21:05:02 | [ColonolNutty/Sims4CommunityLibrary](https://github.com/ColonolNutty/Sims4CommunityLibrary) | ✅ full (238⭐ Python) | [reels/reel_4762_ColonolNutty-Sims4CommunityLibrary](reels/reel_4762_ColonolNutty-Sims4CommunityLibrary) |
 | 4763 | 2026-02-04 21:47:11 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125942⭐ Python) | [reels/reel_4763_langchain-ai-langchain](reels/reel_4763_langchain-ai-langchain) |
+| 4764 | 2026-02-04 22:26:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181684⭐ Python) | [reels/reel_4764_Significant-Gravitas-AutoGPT](reels/reel_4764_Significant-Gravitas-AutoGPT) |
