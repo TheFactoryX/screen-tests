@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4766 | [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) | TypeScript · ⭐ 220 | 2026-02-04 |
+| #4767 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 271k | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4855,3 +4855,4 @@ If you need permission, you're thinking too much.
 | 4764 | 2026-02-04 22:26:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181684⭐ Python) | [reels/reel_4764_Significant-Gravitas-AutoGPT](reels/reel_4764_Significant-Gravitas-AutoGPT) |
 | 4765 | 2026-02-04 22:52:30 | [micrometer-metrics/context-propagation](https://github.com/micrometer-metrics/context-propagation) | ✅ full (112⭐ Java) | [reels/reel_4765_micrometer-metrics-context-propagation](reels/reel_4765_micrometer-metrics-context-propagation) |
 | 4766 | 2026-02-04 23:26:01 | [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) | ✅ shallow (220⭐ TypeScript) | [reels/reel_4766_23blocks-OS-ai-maestro](reels/reel_4766_23blocks-OS-ai-maestro) |
+| 4767 | 2026-02-04 23:51:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271651⭐ None) | [reels/reel_4767_awesome-selfhosted-awesome-selfhosted](reels/reel_4767_awesome-selfhosted-awesome-selfhosted) |
