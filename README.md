@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4744 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 122k | 2026-02-04 |
+| #4745 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4833,3 +4833,4 @@ If you need permission, you're thinking too much.
 | 4742 | 2026-02-04 02:45:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ shallow (125842⭐ Python) | [reels/reel_4742_langchain-ai-langchain](reels/reel_4742_langchain-ai-langchain) |
 | 4743 | 2026-02-04 04:27:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (172892⭐ TypeScript) | [reels/reel_4743_n8n-io-n8n](reels/reel_4743_n8n-io-n8n) |
 | 4744 | 2026-02-04 05:32:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (122832⭐ Python) | [reels/reel_4744_open-webui-open-webui](reels/reel_4744_open-webui-open-webui) |
+| 4745 | 2026-02-04 06:31:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111029⭐ TypeScript) | [reels/reel_4745_iptv-org-iptv](reels/reel_4745_iptv-org-iptv) |
