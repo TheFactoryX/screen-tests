@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4754 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript · ⭐ 97k | 2026-02-04 |
+| #4755 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 122k | 2026-02-04 |
 ---
 
 ## 🎭 Selection Process
@@ -4843,3 +4843,4 @@ If you need permission, you're thinking too much.
 | 4752 | 2026-02-04 12:56:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181688⭐ Python) | [reels/reel_4752_Significant-Gravitas-AutoGPT](reels/reel_4752_Significant-Gravitas-AutoGPT) |
 | 4753 | 2026-02-04 14:02:48 | [agentem-ai/izwi-audio](https://github.com/agentem-ai/izwi-audio) | ✅ full (13⭐ Rust) | [reels/reel_4753_agentem-ai-izwi-audio](reels/reel_4753_agentem-ai-izwi-audio) |
 | 4754 | 2026-02-04 14:59:45 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | ✅ shallow (97297⭐ TypeScript) | [reels/reel_4754_anomalyco-opencode](reels/reel_4754_anomalyco-opencode) |
+| 4755 | 2026-02-04 15:54:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (122888⭐ Python) | [reels/reel_4755_open-webui-open-webui](reels/reel_4755_open-webui-open-webui) |
