@@ -1,0 +1,24 @@
+{
+  "reel_number": 4771,
+  "recorded": "2026-02-05 06:37:27 UTC",
+  "repository": {
+    "full_name": "erweixin/langshift.dev",
+    "url": "https://github.com/erweixin/langshift.dev",
+    "clone_url": "https://github.com/erweixin/langshift.dev.git",
+    "stars": 970,
+    "language": "MDX",
+    "size_kb": 4936
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.838389
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 970 stars."
+  }
+}
