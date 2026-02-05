@@ -1,0 +1,24 @@
+{
+  "reel_number": 4785,
+  "recorded": "2026-02-05 19:28:51 UTC",
+  "repository": {
+    "full_name": "sourcenetwork/defradb",
+    "url": "https://github.com/sourcenetwork/defradb",
+    "clone_url": "https://github.com/sourcenetwork/defradb.git",
+    "stars": 836,
+    "language": "Go",
+    "size_kb": 73058
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 71,
+    "duration_seconds": 8.381765
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 836 stars."
+  }
+}

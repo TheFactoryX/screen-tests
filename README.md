@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4784 | [nextcloud/contacts](https://github.com/nextcloud/contacts) | JavaScript · ⭐ 613 | 2026-02-05 |
+| #4785 | [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) | Go · ⭐ 836 | 2026-02-05 |
 ---
 
 ## 🎭 Selection Process
@@ -4873,3 +4873,4 @@ If you need permission, you're thinking too much.
 | 4782 | 2026-02-05 16:54:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181703⭐ Python) | [reels/reel_4782_Significant-Gravitas-AutoGPT](reels/reel_4782_Significant-Gravitas-AutoGPT) |
 | 4783 | 2026-02-05 17:45:31 | [tinacms/tina.io](https://github.com/tinacms/tina.io) | ✅ shallow (291⭐ MDX) | [reels/reel_4783_tinacms-tina.io](reels/reel_4783_tinacms-tina.io) |
 | 4784 | 2026-02-05 18:45:05 | [nextcloud/contacts](https://github.com/nextcloud/contacts) | ✅ full (613⭐ JavaScript) | [reels/reel_4784_nextcloud-contacts](reels/reel_4784_nextcloud-contacts) |
+| 4785 | 2026-02-05 19:28:51 | [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) | ✅ full (836⭐ Go) | [reels/reel_4785_sourcenetwork-defradb](reels/reel_4785_sourcenetwork-defradb) |
