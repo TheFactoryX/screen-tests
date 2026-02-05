@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4786 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 106k | 2026-02-05 |
+| #4787 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-05 |
 ---
 
 ## 🎭 Selection Process
@@ -4875,3 +4875,4 @@ If you need permission, you're thinking too much.
 | 4784 | 2026-02-05 18:45:05 | [nextcloud/contacts](https://github.com/nextcloud/contacts) | ✅ full (613⭐ JavaScript) | [reels/reel_4784_nextcloud-contacts](reels/reel_4784_nextcloud-contacts) |
 | 4785 | 2026-02-05 19:28:51 | [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) | ✅ full (836⭐ Go) | [reels/reel_4785_sourcenetwork-defradb](reels/reel_4785_sourcenetwork-defradb) |
 | 4786 | 2026-02-05 19:59:35 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106030⭐ None) | [reels/reel_4786_Hack-with-Github-Awesome-Hacking](reels/reel_4786_Hack-with-Github-Awesome-Hacking) |
+| 4787 | 2026-02-05 20:44:45 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97450⭐ TypeScript) | [reels/reel_4787_ant-design-ant-design](reels/reel_4787_ant-design-ant-design) |
