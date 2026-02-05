@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4777 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 96k | 2026-02-05 |
+| #4778 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 395k | 2026-02-05 |
 ---
 
 ## 🎭 Selection Process
@@ -4866,3 +4866,4 @@ If you need permission, you're thinking too much.
 | 4775 | 2026-02-05 10:01:09 | [thomluther/ha-anker-solix](https://github.com/thomluther/ha-anker-solix) | ✅ full (832⭐ Python) | [reels/reel_4775_thomluther-ha-anker-solix](reels/reel_4775_thomluther-ha-anker-solix) |
 | 4776 | 2026-02-05 11:02:23 | [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs) | ✅ readme_only (167⭐ Jupyter Notebook) | [reels/reel_4776_langfuse-langfuse-docs](reels/reel_4776_langfuse-langfuse-docs) |
 | 4777 | 2026-02-05 11:49:44 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (96026⭐ TypeScript) | [reels/reel_4777_clash-verge-rev-clash-verge-rev](reels/reel_4777_clash-verge-rev-clash-verge-rev) |
+| 4778 | 2026-02-05 12:58:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (395339⭐ Python) | [reels/reel_4778_public-apis-public-apis](reels/reel_4778_public-apis-public-apis) |
