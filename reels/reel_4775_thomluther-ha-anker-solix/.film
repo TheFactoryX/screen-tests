@@ -1,0 +1,24 @@
+{
+  "reel_number": 4775,
+  "recorded": "2026-02-05 10:01:09 UTC",
+  "repository": {
+    "full_name": "thomluther/ha-anker-solix",
+    "url": "https://github.com/thomluther/ha-anker-solix",
+    "clone_url": "https://github.com/thomluther/ha-anker-solix.git",
+    "stars": 832,
+    "language": "Python",
+    "size_kb": 7581
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.028768
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 832 stars."
+  }
+}

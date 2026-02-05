@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4774 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-05 |
+| #4775 | [thomluther/ha-anker-solix](https://github.com/thomluther/ha-anker-solix) | Python · ⭐ 832 | 2026-02-05 |
 ---
 
 ## 🎭 Selection Process
@@ -4863,3 +4863,4 @@ If you need permission, you're thinking too much.
 | 4772 | 2026-02-05 07:37:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271702⭐ None) | [reels/reel_4772_awesome-selfhosted-awesome-selfhosted](reels/reel_4772_awesome-selfhosted-awesome-selfhosted) |
 | 4773 | 2026-02-05 08:24:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111066⭐ TypeScript) | [reels/reel_4773_iptv-org-iptv](reels/reel_4773_iptv-org-iptv) |
 | 4774 | 2026-02-05 09:08:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144596⭐ Python) | [reels/reel_4774_langflow-ai-langflow](reels/reel_4774_langflow-ai-langflow) |
+| 4775 | 2026-02-05 10:01:09 | [thomluther/ha-anker-solix](https://github.com/thomluther/ha-anker-solix) | ✅ full (832⭐ Python) | [reels/reel_4775_thomluther-ha-anker-solix](reels/reel_4775_thomluther-ha-anker-solix) |
