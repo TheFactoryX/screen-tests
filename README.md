@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4787 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-05 |
+| #4788 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 257k | 2026-02-05 |
 ---
 
 ## 🎭 Selection Process
@@ -4876,3 +4876,4 @@ If you need permission, you're thinking too much.
 | 4785 | 2026-02-05 19:28:51 | [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) | ✅ full (836⭐ Go) | [reels/reel_4785_sourcenetwork-defradb](reels/reel_4785_sourcenetwork-defradb) |
 | 4786 | 2026-02-05 19:59:35 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106030⭐ None) | [reels/reel_4786_Hack-with-Github-Awesome-Hacking](reels/reel_4786_Hack-with-Github-Awesome-Hacking) |
 | 4787 | 2026-02-05 20:44:45 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97450⭐ TypeScript) | [reels/reel_4787_ant-design-ant-design](reels/reel_4787_ant-design-ant-design) |
+| 4788 | 2026-02-05 21:14:02 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (257683⭐ None) | [reels/reel_4788_practical-tutorials-project-based-learning](reels/reel_4788_practical-tutorials-project-based-learning) |
