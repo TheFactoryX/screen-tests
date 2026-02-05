@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4789 | [standardebooks/web](https://github.com/standardebooks/web) | PHP · ⭐ 280 | 2026-02-05 |
+| #4790 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-02-05 |
 ---
 
 ## 🎭 Selection Process
@@ -4878,3 +4878,4 @@ If you need permission, you're thinking too much.
 | 4787 | 2026-02-05 20:44:45 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97450⭐ TypeScript) | [reels/reel_4787_ant-design-ant-design](reels/reel_4787_ant-design-ant-design) |
 | 4788 | 2026-02-05 21:14:02 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (257683⭐ None) | [reels/reel_4788_practical-tutorials-project-based-learning](reels/reel_4788_practical-tutorials-project-based-learning) |
 | 4789 | 2026-02-05 21:46:55 | [standardebooks/web](https://github.com/standardebooks/web) | ✅ full (280⭐ PHP) | [reels/reel_4789_standardebooks-web](reels/reel_4789_standardebooks-web) |
+| 4790 | 2026-02-05 22:25:23 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102991⭐ Shell) | [reels/reel_4790_papers-we-love-papers-we-love](reels/reel_4790_papers-we-love-papers-we-love) |
