@@ -1,0 +1,24 @@
+{
+  "reel_number": 4783,
+  "recorded": "2026-02-05 17:45:31 UTC",
+  "repository": {
+    "full_name": "tinacms/tina.io",
+    "url": "https://github.com/tinacms/tina.io",
+    "clone_url": "https://github.com/tinacms/tina.io.git",
+    "stars": 291,
+    "language": "MDX",
+    "size_kb": 468593
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 457,
+    "duration_seconds": 5.295483
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 291 stars."
+  }
+}
