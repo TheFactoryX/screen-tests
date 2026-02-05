@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4772 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 271k | 2026-02-05 |
+| #4773 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-05 |
 ---
 
 ## 🎭 Selection Process
@@ -4861,3 +4861,4 @@ If you need permission, you're thinking too much.
 | 4770 | 2026-02-05 05:36:28 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102977⭐ Shell) | [reels/reel_4770_papers-we-love-papers-we-love](reels/reel_4770_papers-we-love-papers-we-love) |
 | 4771 | 2026-02-05 06:37:27 | [erweixin/langshift.dev](https://github.com/erweixin/langshift.dev) | ✅ full (970⭐ MDX) | [reels/reel_4771_erweixin-langshift.dev](reels/reel_4771_erweixin-langshift.dev) |
 | 4772 | 2026-02-05 07:37:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271702⭐ None) | [reels/reel_4772_awesome-selfhosted-awesome-selfhosted](reels/reel_4772_awesome-selfhosted-awesome-selfhosted) |
+| 4773 | 2026-02-05 08:24:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111066⭐ TypeScript) | [reels/reel_4773_iptv-org-iptv](reels/reel_4773_iptv-org-iptv) |
