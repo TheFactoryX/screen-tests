@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4769 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-05 |
+| #4770 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 102k | 2026-02-05 |
 ---
 
 ## 🎭 Selection Process
@@ -4858,3 +4858,4 @@ If you need permission, you're thinking too much.
 | 4767 | 2026-02-04 23:51:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271651⭐ None) | [reels/reel_4767_awesome-selfhosted-awesome-selfhosted](reels/reel_4767_awesome-selfhosted-awesome-selfhosted) |
 | 4768 | 2026-02-05 01:57:29 | [hydromatic/morel](https://github.com/hydromatic/morel) | ✅ full (360⭐ Java) | [reels/reel_4768_hydromatic-morel](reels/reel_4768_hydromatic-morel) |
 | 4769 | 2026-02-05 04:18:51 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106098⭐ TypeScript) | [reels/reel_4769_shadcn-ui-ui](reels/reel_4769_shadcn-ui-ui) |
+| 4770 | 2026-02-05 05:36:28 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (102977⭐ Shell) | [reels/reel_4770_papers-we-love-papers-we-love](reels/reel_4770_papers-we-love-papers-we-love) |
