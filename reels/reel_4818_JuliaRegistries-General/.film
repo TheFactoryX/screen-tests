@@ -1,0 +1,24 @@
+{
+  "reel_number": 4818,
+  "recorded": "2026-02-06 22:58:08 UTC",
+  "repository": {
+    "full_name": "JuliaRegistries/General",
+    "url": "https://github.com/JuliaRegistries/General",
+    "clone_url": "https://github.com/JuliaRegistries/General.git",
+    "stars": 689,
+    "language": "Julia",
+    "size_kb": 422407
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 412,
+    "duration_seconds": 4.285639
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Julia",
+    "director_note": "A Julia repository. 689 stars."
+  }
+}

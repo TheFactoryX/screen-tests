@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4817 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | Rust · ⭐ 79 | 2026-02-06 |
+| #4818 | [JuliaRegistries/General](https://github.com/JuliaRegistries/General) | Julia · ⭐ 689 | 2026-02-06 |
 ---
 
 ## 🎭 Selection Process
@@ -4906,3 +4906,4 @@ If you need permission, you're thinking too much.
 | 4815 | 2026-02-06 21:45:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126110⭐ Python) | [reels/reel_4815_langchain-ai-langchain](reels/reel_4815_langchain-ai-langchain) |
 | 4816 | 2026-02-06 21:58:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111133⭐ TypeScript) | [reels/reel_4816_iptv-org-iptv](reels/reel_4816_iptv-org-iptv) |
 | 4817 | 2026-02-06 22:34:20 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | ✅ full (79⭐ Rust) | [reels/reel_4817_anima-engine-anima-engine](reels/reel_4817_anima-engine-anima-engine) |
+| 4818 | 2026-02-06 22:58:08 | [JuliaRegistries/General](https://github.com/JuliaRegistries/General) | ✅ shallow (689⭐ Julia) | [reels/reel_4818_JuliaRegistries-General](reels/reel_4818_JuliaRegistries-General) |
