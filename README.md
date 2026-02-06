@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4813 | [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) | Go · ⭐ 617 | 2026-02-06 |
+| #4814 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 271k | 2026-02-06 |
 ---
 
 ## 🎭 Selection Process
@@ -4902,3 +4902,4 @@ If you need permission, you're thinking too much.
 | 4811 | 2026-02-06 19:07:24 | [ublue-os/toolboxes](https://github.com/ublue-os/toolboxes) | ✅ full (147⭐ PowerShell) | [reels/reel_4811_ublue-os-toolboxes](reels/reel_4811_ublue-os-toolboxes) |
 | 4812 | 2026-02-06 19:49:19 | [asHOH/Tom-and-jerry-chase-wiki](https://github.com/asHOH/Tom-and-jerry-chase-wiki) | ✅ full (22⭐ TypeScript) | [reels/reel_4812_asHOH-Tom-and-jerry-chase-wiki](reels/reel_4812_asHOH-Tom-and-jerry-chase-wiki) |
 | 4813 | 2026-02-06 20:31:45 | [flanglet/kanzi-go](https://github.com/flanglet/kanzi-go) | ✅ full (617⭐ Go) | [reels/reel_4813_flanglet-kanzi-go](reels/reel_4813_flanglet-kanzi-go) |
+| 4814 | 2026-02-06 21:03:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271946⭐ None) | [reels/reel_4814_awesome-selfhosted-awesome-selfhosted](reels/reel_4814_awesome-selfhosted-awesome-selfhosted) |
