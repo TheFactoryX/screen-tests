@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4800 | [codee-com/open-catalog](https://github.com/codee-com/open-catalog) | Fortran · ⭐ 103 | 2026-02-06 |
+| #4801 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-06 |
 ---
 
 ## 🎭 Selection Process
@@ -4889,3 +4889,4 @@ If you need permission, you're thinking too much.
 | 4798 | 2026-02-06 07:35:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (145985⭐ Python) | [reels/reel_4798_yt-dlp-yt-dlp](reels/reel_4798_yt-dlp-yt-dlp) |
 | 4799 | 2026-02-06 08:23:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144587⭐ Python) | [reels/reel_4799_langflow-ai-langflow](reels/reel_4799_langflow-ai-langflow) |
 | 4800 | 2026-02-06 09:08:16 | [codee-com/open-catalog](https://github.com/codee-com/open-catalog) | ✅ full (103⭐ Fortran) | [reels/reel_4800_codee-com-open-catalog](reels/reel_4800_codee-com-open-catalog) |
+| 4801 | 2026-02-06 10:00:32 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123105⭐ Python) | [reels/reel_4801_open-webui-open-webui](reels/reel_4801_open-webui-open-webui) |
