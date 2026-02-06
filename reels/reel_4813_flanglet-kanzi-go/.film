@@ -1,0 +1,24 @@
+{
+  "reel_number": 4813,
+  "recorded": "2026-02-06 20:31:45 UTC",
+  "repository": {
+    "full_name": "flanglet/kanzi-go",
+    "url": "https://github.com/flanglet/kanzi-go",
+    "clone_url": "https://github.com/flanglet/kanzi-go.git",
+    "stars": 617,
+    "language": "Go",
+    "size_kb": 5285
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.494523
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 617 stars."
+  }
+}
