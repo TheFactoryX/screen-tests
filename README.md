@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4819 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-06 |
+| #4820 | [AgentAlphaAGI/Idea2Paper](https://github.com/AgentAlphaAGI/Idea2Paper) | Python · ⭐ 712 | 2026-02-06 |
 ---
 
 ## 🎭 Selection Process
@@ -4908,3 +4908,4 @@ If you need permission, you're thinking too much.
 | 4817 | 2026-02-06 22:34:20 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | ✅ full (79⭐ Rust) | [reels/reel_4817_anima-engine-anima-engine](reels/reel_4817_anima-engine-anima-engine) |
 | 4818 | 2026-02-06 22:58:08 | [JuliaRegistries/General](https://github.com/JuliaRegistries/General) | ✅ shallow (689⭐ Julia) | [reels/reel_4818_JuliaRegistries-General](reels/reel_4818_JuliaRegistries-General) |
 | 4819 | 2026-02-06 23:32:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111133⭐ TypeScript) | [reels/reel_4819_iptv-org-iptv](reels/reel_4819_iptv-org-iptv) |
+| 4820 | 2026-02-06 23:57:25 | [AgentAlphaAGI/Idea2Paper](https://github.com/AgentAlphaAGI/Idea2Paper) | ✅ shallow (712⭐ Python) | [reels/reel_4820_AgentAlphaAGI-Idea2Paper](reels/reel_4820_AgentAlphaAGI-Idea2Paper) |

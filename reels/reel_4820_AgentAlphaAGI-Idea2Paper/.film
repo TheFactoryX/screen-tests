@@ -1,0 +1,24 @@
+{
+  "reel_number": 4820,
+  "recorded": "2026-02-06 23:57:25 UTC",
+  "repository": {
+    "full_name": "AgentAlphaAGI/Idea2Paper",
+    "url": "https://github.com/AgentAlphaAGI/Idea2Paper",
+    "clone_url": "https://github.com/AgentAlphaAGI/Idea2Paper.git",
+    "stars": 712,
+    "language": "Python",
+    "size_kb": 108528
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 105,
+    "duration_seconds": 3.888698
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 712 stars."
+  }
+}
