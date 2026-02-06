@@ -1,0 +1,24 @@
+{
+  "reel_number": 4812,
+  "recorded": "2026-02-06 19:49:19 UTC",
+  "repository": {
+    "full_name": "asHOH/Tom-and-jerry-chase-wiki",
+    "url": "https://github.com/asHOH/Tom-and-jerry-chase-wiki",
+    "clone_url": "https://github.com/asHOH/Tom-and-jerry-chase-wiki.git",
+    "stars": 22,
+    "language": "TypeScript",
+    "size_kb": 86979
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 84,
+    "duration_seconds": 4.015724
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 22 stars."
+  }
+}
