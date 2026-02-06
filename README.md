@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4795 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-06 |
+| #4796 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-06 |
 ---
 
 ## 🎭 Selection Process
@@ -4884,3 +4884,4 @@ If you need permission, you're thinking too much.
 | 4793 | 2026-02-05 23:48:23 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102554⭐ Python) | [reels/reel_4793_Comfy-Org-ComfyUI](reels/reel_4793_Comfy-Org-ComfyUI) |
 | 4794 | 2026-02-06 01:56:20 | [Azanaia/randomCatFacts](https://github.com/Azanaia/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_4794_Azanaia-randomCatFacts](reels/reel_4794_Azanaia-randomCatFacts) |
 | 4795 | 2026-02-06 04:16:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111109⭐ TypeScript) | [reels/reel_4795_iptv-org-iptv](reels/reel_4795_iptv-org-iptv) |
+| 4796 | 2026-02-06 05:35:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110071⭐ Rust) | [reels/reel_4796_rust-lang-rust](reels/reel_4796_rust-lang-rust) |
