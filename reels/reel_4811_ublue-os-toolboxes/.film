@@ -1,0 +1,24 @@
+{
+  "reel_number": 4811,
+  "recorded": "2026-02-06 19:07:24 UTC",
+  "repository": {
+    "full_name": "ublue-os/toolboxes",
+    "url": "https://github.com/ublue-os/toolboxes",
+    "clone_url": "https://github.com/ublue-os/toolboxes.git",
+    "stars": 147,
+    "language": "PowerShell",
+    "size_kb": 1259
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.381454
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 147 stars."
+  }
+}

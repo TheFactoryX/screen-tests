@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4810 | [OCA/l10n-brazil](https://github.com/OCA/l10n-brazil) | Python · ⭐ 320 | 2026-02-06 |
+| #4811 | [ublue-os/toolboxes](https://github.com/ublue-os/toolboxes) | PowerShell · ⭐ 147 | 2026-02-06 |
 ---
 
 ## 🎭 Selection Process
@@ -4899,3 +4899,4 @@ If you need permission, you're thinking too much.
 | 4808 | 2026-02-06 16:41:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181678⭐ Python) | [reels/reel_4808_Significant-Gravitas-AutoGPT](reels/reel_4808_Significant-Gravitas-AutoGPT) |
 | 4809 | 2026-02-06 17:27:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (271922⭐ None) | [reels/reel_4809_awesome-selfhosted-awesome-selfhosted](reels/reel_4809_awesome-selfhosted-awesome-selfhosted) |
 | 4810 | 2026-02-06 18:06:43 | [OCA/l10n-brazil](https://github.com/OCA/l10n-brazil) | ✅ shallow (320⭐ Python) | [reels/reel_4810_OCA-l10n-brazil](reels/reel_4810_OCA-l10n-brazil) |
+| 4811 | 2026-02-06 19:07:24 | [ublue-os/toolboxes](https://github.com/ublue-os/toolboxes) | ✅ full (147⭐ PowerShell) | [reels/reel_4811_ublue-os-toolboxes](reels/reel_4811_ublue-os-toolboxes) |
