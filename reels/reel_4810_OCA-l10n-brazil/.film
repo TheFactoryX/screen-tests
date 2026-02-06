@@ -1,0 +1,24 @@
+{
+  "reel_number": 4810,
+  "recorded": "2026-02-06 18:06:43 UTC",
+  "repository": {
+    "full_name": "OCA/l10n-brazil",
+    "url": "https://github.com/OCA/l10n-brazil",
+    "clone_url": "https://github.com/OCA/l10n-brazil.git",
+    "stars": 320,
+    "language": "Python",
+    "size_kb": 135242
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 132,
+    "duration_seconds": 1.331035
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 320 stars."
+  }
+}
