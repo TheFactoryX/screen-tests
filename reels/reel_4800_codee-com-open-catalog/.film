@@ -1,0 +1,24 @@
+{
+  "reel_number": 4800,
+  "recorded": "2026-02-06 09:08:16 UTC",
+  "repository": {
+    "full_name": "codee-com/open-catalog",
+    "url": "https://github.com/codee-com/open-catalog",
+    "clone_url": "https://github.com/codee-com/open-catalog.git",
+    "stars": 103,
+    "language": "Fortran",
+    "size_kb": 2338
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.017409
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Fortran",
+    "director_note": "A Fortran repository. 103 stars."
+  }
+}
