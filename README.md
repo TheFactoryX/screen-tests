@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4804 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-02-06 |
+| #4805 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-06 |
 ---
 
 ## 🎭 Selection Process
@@ -4893,3 +4893,4 @@ If you need permission, you're thinking too much.
 | 4802 | 2026-02-06 11:00:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102354⭐ Rust) | [reels/reel_4802_tauri-apps-tauri](reels/reel_4802_tauri-apps-tauri) |
 | 4803 | 2026-02-06 11:48:01 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106068⭐ None) | [reels/reel_4803_Hack-with-Github-Awesome-Hacking](reels/reel_4803_Hack-with-Github-Awesome-Hacking) |
 | 4804 | 2026-02-06 12:55:53 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101465⭐ Python) | [reels/reel_4804_deepseek-ai-DeepSeek-V3](reels/reel_4804_deepseek-ai-DeepSeek-V3) |
+| 4805 | 2026-02-06 14:01:44 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126091⭐ Python) | [reels/reel_4805_langchain-ai-langchain](reels/reel_4805_langchain-ai-langchain) |
