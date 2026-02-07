@@ -1,0 +1,24 @@
+{
+  "reel_number": 4840,
+  "recorded": "2026-02-07 15:23:37 UTC",
+  "repository": {
+    "full_name": "os-autoinst/openQA",
+    "url": "https://github.com/os-autoinst/openQA",
+    "clone_url": "https://github.com/os-autoinst/openQA.git",
+    "stars": 359,
+    "language": "Perl",
+    "size_kb": 79755
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 77,
+    "duration_seconds": 8.088101
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Perl",
+    "director_note": "A Perl repository. 359 stars."
+  }
+}
