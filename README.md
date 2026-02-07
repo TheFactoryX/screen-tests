@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4830 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-07 |
+| #4831 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 173k | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4919,3 +4919,4 @@ If you need permission, you're thinking too much.
 | 4828 | 2026-02-07 08:42:10 | [akshay2211/PixImagePicker](https://github.com/akshay2211/PixImagePicker) | ✅ full (872⭐ Kotlin) | [reels/reel_4828_akshay2211-PixImagePicker](reels/reel_4828_akshay2211-PixImagePicker) |
 | 4829 | 2026-02-07 09:03:20 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110092⭐ Rust) | [reels/reel_4829_rust-lang-rust](reels/reel_4829_rust-lang-rust) |
 | 4830 | 2026-02-07 09:45:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126143⭐ Python) | [reels/reel_4830_langchain-ai-langchain](reels/reel_4830_langchain-ai-langchain) |
+| 4831 | 2026-02-07 10:23:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173417⭐ TypeScript) | [reels/reel_4831_n8n-io-n8n](reels/reel_4831_n8n-io-n8n) |
