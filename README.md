@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4850 | [wellshrcn/GameToysTool](https://github.com/wellshrcn/GameToysTool) | C# · ⭐ 115 | 2026-02-07 |
+| #4851 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4939,3 +4939,4 @@ If you need permission, you're thinking too much.
 | 4848 | 2026-02-07 19:35:16 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (813⭐ Shell) | [reels/reel_4848_Alvin9999-newpac-fanqiang](reels/reel_4848_Alvin9999-newpac-fanqiang) |
 | 4849 | 2026-02-07 19:54:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181705⭐ Python) | [reels/reel_4849_Significant-Gravitas-AutoGPT](reels/reel_4849_Significant-Gravitas-AutoGPT) |
 | 4850 | 2026-02-07 20:25:01 | [wellshrcn/GameToysTool](https://github.com/wellshrcn/GameToysTool) | ✅ full (115⭐ C#) | [reels/reel_4850_wellshrcn-GameToysTool](reels/reel_4850_wellshrcn-GameToysTool) |
+| 4851 | 2026-02-07 20:51:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123235⭐ Python) | [reels/reel_4851_open-webui-open-webui](reels/reel_4851_open-webui-open-webui) |
