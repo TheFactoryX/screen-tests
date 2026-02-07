@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4842 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-07 |
+| #4843 | [Dstack-TEE/dstack](https://github.com/Dstack-TEE/dstack) | Rust · ⭐ 433 | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4931,3 +4931,4 @@ If you need permission, you're thinking too much.
 | 4840 | 2026-02-07 15:23:37 | [os-autoinst/openQA](https://github.com/os-autoinst/openQA) | ✅ full (359⭐ Perl) | [reels/reel_4840_os-autoinst-openQA](reels/reel_4840_os-autoinst-openQA) |
 | 4841 | 2026-02-07 15:47:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173452⭐ TypeScript) | [reels/reel_4841_n8n-io-n8n](reels/reel_4841_n8n-io-n8n) |
 | 4842 | 2026-02-07 16:27:49 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139630⭐ Python) | [reels/reel_4842_ytdl-org-youtube-dl](reels/reel_4842_ytdl-org-youtube-dl) |
+| 4843 | 2026-02-07 16:57:10 | [Dstack-TEE/dstack](https://github.com/Dstack-TEE/dstack) | ✅ full (433⭐ Rust) | [reels/reel_4843_Dstack-TEE-dstack](reels/reel_4843_Dstack-TEE-dstack) |
