@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4821 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 102k | 2026-02-07 |
+| #4822 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 146k | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4910,3 +4910,4 @@ If you need permission, you're thinking too much.
 | 4819 | 2026-02-06 23:32:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111133⭐ TypeScript) | [reels/reel_4819_iptv-org-iptv](reels/reel_4819_iptv-org-iptv) |
 | 4820 | 2026-02-06 23:57:25 | [AgentAlphaAGI/Idea2Paper](https://github.com/AgentAlphaAGI/Idea2Paper) | ✅ shallow (712⭐ Python) | [reels/reel_4820_AgentAlphaAGI-Idea2Paper](reels/reel_4820_AgentAlphaAGI-Idea2Paper) |
 | 4821 | 2026-02-07 02:26:26 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102642⭐ Python) | [reels/reel_4821_Comfy-Org-ComfyUI](reels/reel_4821_Comfy-Org-ComfyUI) |
+| 4822 | 2026-02-07 04:18:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146064⭐ Python) | [reels/reel_4822_yt-dlp-yt-dlp](reels/reel_4822_yt-dlp-yt-dlp) |
