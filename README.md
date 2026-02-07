@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4823 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-07 |
+| #4824 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4912,3 +4912,4 @@ If you need permission, you're thinking too much.
 | 4821 | 2026-02-07 02:26:26 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102642⭐ Python) | [reels/reel_4821_Comfy-Org-ComfyUI](reels/reel_4821_Comfy-Org-ComfyUI) |
 | 4822 | 2026-02-07 04:18:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146064⭐ Python) | [reels/reel_4822_yt-dlp-yt-dlp](reels/reel_4822_yt-dlp-yt-dlp) |
 | 4823 | 2026-02-07 05:26:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110090⭐ Rust) | [reels/reel_4823_rust-lang-rust](reels/reel_4823_rust-lang-rust) |
+| 4824 | 2026-02-07 06:02:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106221⭐ TypeScript) | [reels/reel_4824_shadcn-ui-ui](reels/reel_4824_shadcn-ui-ui) |
