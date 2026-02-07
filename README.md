@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4852 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-07 |
+| #4853 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4941,3 +4941,4 @@ If you need permission, you're thinking too much.
 | 4850 | 2026-02-07 20:25:01 | [wellshrcn/GameToysTool](https://github.com/wellshrcn/GameToysTool) | ✅ full (115⭐ C#) | [reels/reel_4850_wellshrcn-GameToysTool](reels/reel_4850_wellshrcn-GameToysTool) |
 | 4851 | 2026-02-07 20:51:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123235⭐ Python) | [reels/reel_4851_open-webui-open-webui](reels/reel_4851_open-webui-open-webui) |
 | 4852 | 2026-02-07 21:24:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110105⭐ Rust) | [reels/reel_4852_rust-lang-rust](reels/reel_4852_rust-lang-rust) |
+| 4853 | 2026-02-07 21:49:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111185⭐ TypeScript) | [reels/reel_4853_iptv-org-iptv](reels/reel_4853_iptv-org-iptv) |
