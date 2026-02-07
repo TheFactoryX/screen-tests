@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4847 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-07 |
+| #4848 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | Shell · ⭐ 813 | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4936,3 +4936,4 @@ If you need permission, you're thinking too much.
 | 4845 | 2026-02-07 17:53:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123226⭐ Python) | [reels/reel_4845_open-webui-open-webui](reels/reel_4845_open-webui-open-webui) |
 | 4846 | 2026-02-07 18:33:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144624⭐ Python) | [reels/reel_4846_langflow-ai-langflow](reels/reel_4846_langflow-ai-langflow) |
 | 4847 | 2026-02-07 19:04:15 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123230⭐ Python) | [reels/reel_4847_open-webui-open-webui](reels/reel_4847_open-webui-open-webui) |
+| 4848 | 2026-02-07 19:35:16 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (813⭐ Shell) | [reels/reel_4848_Alvin9999-newpac-fanqiang](reels/reel_4848_Alvin9999-newpac-fanqiang) |
