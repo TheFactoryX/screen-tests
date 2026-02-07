@@ -1,0 +1,24 @@
+{
+  "reel_number": 4828,
+  "recorded": "2026-02-07 08:42:10 UTC",
+  "repository": {
+    "full_name": "akshay2211/PixImagePicker",
+    "url": "https://github.com/akshay2211/PixImagePicker",
+    "clone_url": "https://github.com/akshay2211/PixImagePicker.git",
+    "stars": 872,
+    "language": "Kotlin",
+    "size_kb": 16933
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 0.464805
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 872 stars."
+  }
+}
