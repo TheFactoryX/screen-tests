@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4837 | [fiosman/App-Academy](https://github.com/fiosman/App-Academy) | Ruby · ⭐ 93 | 2026-02-07 |
+| #4838 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 103k | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4926,3 +4926,4 @@ If you need permission, you're thinking too much.
 | 4835 | 2026-02-07 11:57:03 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144619⭐ Python) | [reels/reel_4835_langflow-ai-langflow](reels/reel_4835_langflow-ai-langflow) |
 | 4836 | 2026-02-07 12:56:40 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181693⭐ Python) | [reels/reel_4836_Significant-Gravitas-AutoGPT](reels/reel_4836_Significant-Gravitas-AutoGPT) |
 | 4837 | 2026-02-07 13:45:46 | [fiosman/App-Academy](https://github.com/fiosman/App-Academy) | ✅ full (93⭐ Ruby) | [reels/reel_4837_fiosman-App-Academy](reels/reel_4837_fiosman-App-Academy) |
+| 4838 | 2026-02-07 14:24:38 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103052⭐ Shell) | [reels/reel_4838_papers-we-love-papers-we-love](reels/reel_4838_papers-we-love-papers-we-love) |
