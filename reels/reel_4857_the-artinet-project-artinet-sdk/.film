@@ -1,0 +1,24 @@
+{
+  "reel_number": 4857,
+  "recorded": "2026-02-07 23:56:56 UTC",
+  "repository": {
+    "full_name": "the-artinet-project/artinet-sdk",
+    "url": "https://github.com/the-artinet-project/artinet-sdk",
+    "clone_url": "https://github.com/the-artinet-project/artinet-sdk.git",
+    "stars": 38,
+    "language": "TypeScript",
+    "size_kb": 1343
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 1.05607
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 38 stars."
+  }
+}

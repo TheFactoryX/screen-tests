@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4856 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 464k | 2026-02-07 |
+| #4857 | [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) | TypeScript · ⭐ 38 | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4945,3 +4945,4 @@ If you need permission, you're thinking too much.
 | 4854 | 2026-02-07 22:23:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (272118⭐ None) | [reels/reel_4854_awesome-selfhosted-awesome-selfhosted](reels/reel_4854_awesome-selfhosted-awesome-selfhosted) |
 | 4855 | 2026-02-07 22:53:30 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173492⭐ TypeScript) | [reels/reel_4855_n8n-io-n8n](reels/reel_4855_n8n-io-n8n) |
 | 4856 | 2026-02-07 23:27:39 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (464381⭐ Markdown) | [reels/reel_4856_codecrafters-io-build-your-own-x](reels/reel_4856_codecrafters-io-build-your-own-x) |
+| 4857 | 2026-02-07 23:56:56 | [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) | ✅ full (38⭐ TypeScript) | [reels/reel_4857_the-artinet-project-artinet-sdk](reels/reel_4857_the-artinet-project-artinet-sdk) |
