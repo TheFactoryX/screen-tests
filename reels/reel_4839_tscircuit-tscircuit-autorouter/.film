@@ -1,0 +1,24 @@
+{
+  "reel_number": 4839,
+  "recorded": "2026-02-07 14:51:33 UTC",
+  "repository": {
+    "full_name": "tscircuit/tscircuit-autorouter",
+    "url": "https://github.com/tscircuit/tscircuit-autorouter",
+    "clone_url": "https://github.com/tscircuit/tscircuit-autorouter.git",
+    "stars": 24,
+    "language": "TypeScript",
+    "size_kb": 30547
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 29,
+    "duration_seconds": 3.742948
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 24 stars."
+  }
+}
