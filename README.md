@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4829 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-07 |
+| #4830 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4918,3 +4918,4 @@ If you need permission, you're thinking too much.
 | 4827 | 2026-02-07 07:59:25 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101470⭐ Python) | [reels/reel_4827_deepseek-ai-DeepSeek-V3](reels/reel_4827_deepseek-ai-DeepSeek-V3) |
 | 4828 | 2026-02-07 08:42:10 | [akshay2211/PixImagePicker](https://github.com/akshay2211/PixImagePicker) | ✅ full (872⭐ Kotlin) | [reels/reel_4828_akshay2211-PixImagePicker](reels/reel_4828_akshay2211-PixImagePicker) |
 | 4829 | 2026-02-07 09:03:20 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110092⭐ Rust) | [reels/reel_4829_rust-lang-rust](reels/reel_4829_rust-lang-rust) |
+| 4830 | 2026-02-07 09:45:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126143⭐ Python) | [reels/reel_4830_langchain-ai-langchain](reels/reel_4830_langchain-ai-langchain) |
