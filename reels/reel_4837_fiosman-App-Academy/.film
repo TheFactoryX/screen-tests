@@ -1,0 +1,24 @@
+{
+  "reel_number": 4837,
+  "recorded": "2026-02-07 13:45:46 UTC",
+  "repository": {
+    "full_name": "fiosman/App-Academy",
+    "url": "https://github.com/fiosman/App-Academy",
+    "clone_url": "https://github.com/fiosman/App-Academy.git",
+    "stars": 93,
+    "language": "Ruby",
+    "size_kb": 54014
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 52,
+    "duration_seconds": 3.914921
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 93 stars."
+  }
+}
