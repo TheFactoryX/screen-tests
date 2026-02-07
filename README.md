@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4841 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 173k | 2026-02-07 |
+| #4842 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-07 |
 ---
 
 ## 🎭 Selection Process
@@ -4930,3 +4930,4 @@ If you need permission, you're thinking too much.
 | 4839 | 2026-02-07 14:51:33 | [tscircuit/tscircuit-autorouter](https://github.com/tscircuit/tscircuit-autorouter) | ✅ full (24⭐ TypeScript) | [reels/reel_4839_tscircuit-tscircuit-autorouter](reels/reel_4839_tscircuit-tscircuit-autorouter) |
 | 4840 | 2026-02-07 15:23:37 | [os-autoinst/openQA](https://github.com/os-autoinst/openQA) | ✅ full (359⭐ Perl) | [reels/reel_4840_os-autoinst-openQA](reels/reel_4840_os-autoinst-openQA) |
 | 4841 | 2026-02-07 15:47:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173452⭐ TypeScript) | [reels/reel_4841_n8n-io-n8n](reels/reel_4841_n8n-io-n8n) |
+| 4842 | 2026-02-07 16:27:49 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139630⭐ Python) | [reels/reel_4842_ytdl-org-youtube-dl](reels/reel_4842_ytdl-org-youtube-dl) |
