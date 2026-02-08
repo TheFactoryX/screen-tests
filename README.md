@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4885 | [wtfloris/hestia](https://github.com/wtfloris/hestia) | Python · ⭐ 223 | 2026-02-08 |
+| #4886 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4974,3 +4974,4 @@ If you need permission, you're thinking too much.
 | 4883 | 2026-02-08 19:45:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173602⭐ TypeScript) | [reels/reel_4883_n8n-io-n8n](reels/reel_4883_n8n-io-n8n) |
 | 4884 | 2026-02-08 20:25:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (272280⭐ None) | [reels/reel_4884_awesome-selfhosted-awesome-selfhosted](reels/reel_4884_awesome-selfhosted-awesome-selfhosted) |
 | 4885 | 2026-02-08 20:51:36 | [wtfloris/hestia](https://github.com/wtfloris/hestia) | ✅ full (223⭐ Python) | [reels/reel_4885_wtfloris-hestia](reels/reel_4885_wtfloris-hestia) |
+| 4886 | 2026-02-08 21:24:49 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102449⭐ Rust) | [reels/reel_4886_tauri-apps-tauri](reels/reel_4886_tauri-apps-tauri) |
