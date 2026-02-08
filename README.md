@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4876 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-08 |
+| #4877 | [huggingface/diffusers](https://github.com/huggingface/diffusers) | Python · ⭐ 32k | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4965,3 +4965,4 @@ If you need permission, you're thinking too much.
 | 4874 | 2026-02-08 14:48:35 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173570⭐ TypeScript) | [reels/reel_4874_n8n-io-n8n](reels/reel_4874_n8n-io-n8n) |
 | 4875 | 2026-02-08 15:24:35 | [replicate/quirky](https://github.com/replicate/quirky) | ✅ full (223⭐ JavaScript) | [reels/reel_4875_replicate-quirky](reels/reel_4875_replicate-quirky) |
 | 4876 | 2026-02-08 15:49:31 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110122⭐ Rust) | [reels/reel_4876_rust-lang-rust](reels/reel_4876_rust-lang-rust) |
+| 4877 | 2026-02-08 16:28:37 | [huggingface/diffusers](https://github.com/huggingface/diffusers) | ✅ full (32720⭐ Python) | [reels/reel_4877_huggingface-diffusers](reels/reel_4877_huggingface-diffusers) |

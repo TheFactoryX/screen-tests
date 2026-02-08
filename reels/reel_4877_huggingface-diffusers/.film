@@ -1,0 +1,24 @@
+{
+  "reel_number": 4877,
+  "recorded": "2026-02-08 16:28:37 UTC",
+  "repository": {
+    "full_name": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "clone_url": "https://github.com/huggingface/diffusers.git",
+    "stars": 32720,
+    "language": "Python",
+    "size_kb": 96593
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 94,
+    "duration_seconds": 6.146333
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 32720 stars."
+  }
+}
