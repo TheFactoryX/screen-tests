@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4864 | [lichunqiang/composer-ignore-plugin](https://github.com/lichunqiang/composer-ignore-plugin) | PHP · ⭐ 21 | 2026-02-08 |
+| #4865 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4953,3 +4953,4 @@ If you need permission, you're thinking too much.
 | 4862 | 2026-02-08 07:50:07 | [thofma/Hecke.jl](https://github.com/thofma/Hecke.jl) | ✅ shallow (288⭐ Julia) | [reels/reel_4862_thofma-Hecke.jl](reels/reel_4862_thofma-Hecke.jl) |
 | 4863 | 2026-02-08 08:31:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173534⭐ TypeScript) | [reels/reel_4863_n8n-io-n8n](reels/reel_4863_n8n-io-n8n) |
 | 4864 | 2026-02-08 09:02:53 | [lichunqiang/composer-ignore-plugin](https://github.com/lichunqiang/composer-ignore-plugin) | ✅ full (21⭐ PHP) | [reels/reel_4864_lichunqiang-composer-ignore-plugin](reels/reel_4864_lichunqiang-composer-ignore-plugin) |
+| 4865 | 2026-02-08 09:44:51 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102429⭐ Rust) | [reels/reel_4865_tauri-apps-tauri](reels/reel_4865_tauri-apps-tauri) |
