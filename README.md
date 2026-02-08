@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4871 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-08 |
+| #4872 | [ibra-kdbra/CodeConjurer](https://github.com/ibra-kdbra/CodeConjurer) | C++ · ⭐ 18 | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4960,3 +4960,4 @@ If you need permission, you're thinking too much.
 | 4869 | 2026-02-08 11:35:28 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (96412⭐ TypeScript) | [reels/reel_4869_clash-verge-rev-clash-verge-rev](reels/reel_4869_clash-verge-rev-clash-verge-rev) |
 | 4870 | 2026-02-08 11:54:00 | [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) | ✅ full (450⭐ C++) | [reels/reel_4870_ReMinecraftPE-mcpe](reels/reel_4870_ReMinecraftPE-mcpe) |
 | 4871 | 2026-02-08 12:46:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102437⭐ Rust) | [reels/reel_4871_tauri-apps-tauri](reels/reel_4871_tauri-apps-tauri) |
+| 4872 | 2026-02-08 13:43:05 | [ibra-kdbra/CodeConjurer](https://github.com/ibra-kdbra/CodeConjurer) | ✅ shallow (18⭐ C++) | [reels/reel_4872_ibra-kdbra-CodeConjurer](reels/reel_4872_ibra-kdbra-CodeConjurer) |
