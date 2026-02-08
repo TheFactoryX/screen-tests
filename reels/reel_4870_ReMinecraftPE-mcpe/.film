@@ -1,0 +1,24 @@
+{
+  "reel_number": 4870,
+  "recorded": "2026-02-08 11:54:00 UTC",
+  "repository": {
+    "full_name": "ReMinecraftPE/mcpe",
+    "url": "https://github.com/ReMinecraftPE/mcpe",
+    "clone_url": "https://github.com/ReMinecraftPE/mcpe.git",
+    "stars": 450,
+    "language": "C++",
+    "size_kb": 11149
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.965245
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 450 stars."
+  }
+}

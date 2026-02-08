@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4869 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 96k | 2026-02-08 |
+| #4870 | [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) | C++ · ⭐ 450 | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4958,3 +4958,4 @@ If you need permission, you're thinking too much.
 | 4867 | 2026-02-08 10:38:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110117⭐ Rust) | [reels/reel_4867_rust-lang-rust](reels/reel_4867_rust-lang-rust) |
 | 4868 | 2026-02-08 11:00:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144639⭐ Python) | [reels/reel_4868_langflow-ai-langflow](reels/reel_4868_langflow-ai-langflow) |
 | 4869 | 2026-02-08 11:35:28 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (96412⭐ TypeScript) | [reels/reel_4869_clash-verge-rev-clash-verge-rev](reels/reel_4869_clash-verge-rev-clash-verge-rev) |
+| 4870 | 2026-02-08 11:54:00 | [ReMinecraftPE/mcpe](https://github.com/ReMinecraftPE/mcpe) | ✅ full (450⭐ C++) | [reels/reel_4870_ReMinecraftPE-mcpe](reels/reel_4870_ReMinecraftPE-mcpe) |
