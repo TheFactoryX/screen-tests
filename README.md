@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4873 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-08 |
+| #4874 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 173k | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4962,3 +4962,4 @@ If you need permission, you're thinking too much.
 | 4871 | 2026-02-08 12:46:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102437⭐ Rust) | [reels/reel_4871_tauri-apps-tauri](reels/reel_4871_tauri-apps-tauri) |
 | 4872 | 2026-02-08 13:43:05 | [ibra-kdbra/CodeConjurer](https://github.com/ibra-kdbra/CodeConjurer) | ✅ shallow (18⭐ C++) | [reels/reel_4872_ibra-kdbra-CodeConjurer](reels/reel_4872_ibra-kdbra-CodeConjurer) |
 | 4873 | 2026-02-08 14:14:20 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111223⭐ TypeScript) | [reels/reel_4873_iptv-org-iptv](reels/reel_4873_iptv-org-iptv) |
+| 4874 | 2026-02-08 14:48:35 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173570⭐ TypeScript) | [reels/reel_4874_n8n-io-n8n](reels/reel_4874_n8n-io-n8n) |
