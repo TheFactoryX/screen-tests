@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4867 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-08 |
+| #4868 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4956,3 +4956,4 @@ If you need permission, you're thinking too much.
 | 4865 | 2026-02-08 09:44:51 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102429⭐ Rust) | [reels/reel_4865_tauri-apps-tauri](reels/reel_4865_tauri-apps-tauri) |
 | 4866 | 2026-02-08 09:59:44 | [uclaacm/lactf-archive](https://github.com/uclaacm/lactf-archive) | ✅ shallow (147⭐ HTML) | [reels/reel_4866_uclaacm-lactf-archive](reels/reel_4866_uclaacm-lactf-archive) |
 | 4867 | 2026-02-08 10:38:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110117⭐ Rust) | [reels/reel_4867_rust-lang-rust](reels/reel_4867_rust-lang-rust) |
+| 4868 | 2026-02-08 11:00:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144639⭐ Python) | [reels/reel_4868_langflow-ai-langflow](reels/reel_4868_langflow-ai-langflow) |
