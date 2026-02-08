@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4882 | [tetrismegistus/GenArt](https://github.com/tetrismegistus/GenArt) | Java · ⭐ 33 | 2026-02-08 |
+| #4883 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 173k | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4971,3 +4971,4 @@ If you need permission, you're thinking too much.
 | 4880 | 2026-02-08 17:58:04 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126230⭐ Python) | [reels/reel_4880_langchain-ai-langchain](reels/reel_4880_langchain-ai-langchain) |
 | 4881 | 2026-02-08 18:47:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181723⭐ Python) | [reels/reel_4881_Significant-Gravitas-AutoGPT](reels/reel_4881_Significant-Gravitas-AutoGPT) |
 | 4882 | 2026-02-08 19:23:32 | [tetrismegistus/GenArt](https://github.com/tetrismegistus/GenArt) | ✅ readme_only (33⭐ Java) | [reels/reel_4882_tetrismegistus-GenArt](reels/reel_4882_tetrismegistus-GenArt) |
+| 4883 | 2026-02-08 19:45:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173602⭐ TypeScript) | [reels/reel_4883_n8n-io-n8n](reels/reel_4883_n8n-io-n8n) |
