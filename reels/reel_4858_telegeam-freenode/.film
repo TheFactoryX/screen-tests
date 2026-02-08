@@ -1,0 +1,24 @@
+{
+  "reel_number": 4858,
+  "recorded": "2026-02-08 02:47:30 UTC",
+  "repository": {
+    "full_name": "telegeam/freenode",
+    "url": "https://github.com/telegeam/freenode",
+    "clone_url": "https://github.com/telegeam/freenode.git",
+    "stars": 319,
+    "language": "Shell",
+    "size_kb": 4032
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.981957
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 319 stars."
+  }
+}
