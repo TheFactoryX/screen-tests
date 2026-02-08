@@ -1,0 +1,24 @@
+{
+  "reel_number": 4890,
+  "recorded": "2026-02-08 23:31:06 UTC",
+  "repository": {
+    "full_name": "Wirili/IPTV",
+    "url": "https://github.com/Wirili/IPTV",
+    "clone_url": "https://github.com/Wirili/IPTV.git",
+    "stars": 127,
+    "language": "Python",
+    "size_kb": 908270
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 886,
+    "duration_seconds": 0.00014
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 127 stars."
+  }
+}
