@@ -1,0 +1,24 @@
+{
+  "reel_number": 4878,
+  "recorded": "2026-02-08 16:58:17 UTC",
+  "repository": {
+    "full_name": "StressOzz/Zapret-Manager",
+    "url": "https://github.com/StressOzz/Zapret-Manager",
+    "clone_url": "https://github.com/StressOzz/Zapret-Manager.git",
+    "stars": 534,
+    "language": "Shell",
+    "size_kb": 995
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.626309
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 534 stars."
+  }
+}
