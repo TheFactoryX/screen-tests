@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4859 | [ykqmain/Config](https://github.com/ykqmain/Config) | Shell · ⭐ 315 | 2026-02-08 |
+| #4860 | [ace411/bingo-functional](https://github.com/ace411/bingo-functional) | PHP · ⭐ 69 | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4948,3 +4948,4 @@ If you need permission, you're thinking too much.
 | 4857 | 2026-02-07 23:56:56 | [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) | ✅ full (38⭐ TypeScript) | [reels/reel_4857_the-artinet-project-artinet-sdk](reels/reel_4857_the-artinet-project-artinet-sdk) |
 | 4858 | 2026-02-08 02:47:30 | [telegeam/freenode](https://github.com/telegeam/freenode) | ✅ full (319⭐ Shell) | [reels/reel_4858_telegeam-freenode](reels/reel_4858_telegeam-freenode) |
 | 4859 | 2026-02-08 05:01:43 | [ykqmain/Config](https://github.com/ykqmain/Config) | ✅ readme_only (315⭐ Shell) | [reels/reel_4859_ykqmain-Config](reels/reel_4859_ykqmain-Config) |
+| 4860 | 2026-02-08 06:06:37 | [ace411/bingo-functional](https://github.com/ace411/bingo-functional) | ✅ full (69⭐ PHP) | [reels/reel_4860_ace411-bingo-functional](reels/reel_4860_ace411-bingo-functional) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 4860,
+  "recorded": "2026-02-08 06:06:37 UTC",
+  "repository": {
+    "full_name": "ace411/bingo-functional",
+    "url": "https://github.com/ace411/bingo-functional",
+    "clone_url": "https://github.com/ace411/bingo-functional.git",
+    "stars": 69,
+    "language": "PHP",
+    "size_kb": 2454
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.01715
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 69 stars."
+  }
+}
