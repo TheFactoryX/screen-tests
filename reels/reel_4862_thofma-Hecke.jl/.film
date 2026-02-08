@@ -1,0 +1,24 @@
+{
+  "reel_number": 4862,
+  "recorded": "2026-02-08 07:50:07 UTC",
+  "repository": {
+    "full_name": "thofma/Hecke.jl",
+    "url": "https://github.com/thofma/Hecke.jl",
+    "clone_url": "https://github.com/thofma/Hecke.jl.git",
+    "stars": 288,
+    "language": "Julia",
+    "size_kb": 161581
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 157,
+    "duration_seconds": 1.165782
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Julia",
+    "director_note": "A Julia repository. 288 stars."
+  }
+}
