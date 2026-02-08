@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4890 | [Wirili/IPTV](https://github.com/Wirili/IPTV) | Python · ⭐ 127 | 2026-02-08 |
+| #4891 | [jobright-ai/2026-Data-Analysis-New-Grad](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | None · ⭐ 130 | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4979,3 +4979,4 @@ If you need permission, you're thinking too much.
 | 4888 | 2026-02-08 22:24:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111256⭐ TypeScript) | [reels/reel_4888_iptv-org-iptv](reels/reel_4888_iptv-org-iptv) |
 | 4889 | 2026-02-08 22:55:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111256⭐ TypeScript) | [reels/reel_4889_iptv-org-iptv](reels/reel_4889_iptv-org-iptv) |
 | 4890 | 2026-02-08 23:31:06 | [Wirili/IPTV](https://github.com/Wirili/IPTV) | ✅ readme_only (127⭐ Python) | [reels/reel_4890_Wirili-IPTV](reels/reel_4890_Wirili-IPTV) |
+| 4891 | 2026-02-08 23:58:36 | [jobright-ai/2026-Data-Analysis-New-Grad](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | ✅ full (130⭐ None) | [reels/reel_4891_jobright-ai-2026-Data-Analysis-New-Grad](reels/reel_4891_jobright-ai-2026-Data-Analysis-New-Grad) |
