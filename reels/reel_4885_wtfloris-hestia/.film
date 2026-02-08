@@ -1,0 +1,24 @@
+{
+  "reel_number": 4885,
+  "recorded": "2026-02-08 20:51:36 UTC",
+  "repository": {
+    "full_name": "wtfloris/hestia",
+    "url": "https://github.com/wtfloris/hestia",
+    "clone_url": "https://github.com/wtfloris/hestia.git",
+    "stars": 223,
+    "language": "Python",
+    "size_kb": 252
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.135673
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 223 stars."
+  }
+}

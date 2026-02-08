@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4884 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 272k | 2026-02-08 |
+| #4885 | [wtfloris/hestia](https://github.com/wtfloris/hestia) | Python · ⭐ 223 | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4973,3 +4973,4 @@ If you need permission, you're thinking too much.
 | 4882 | 2026-02-08 19:23:32 | [tetrismegistus/GenArt](https://github.com/tetrismegistus/GenArt) | ✅ readme_only (33⭐ Java) | [reels/reel_4882_tetrismegistus-GenArt](reels/reel_4882_tetrismegistus-GenArt) |
 | 4883 | 2026-02-08 19:45:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173602⭐ TypeScript) | [reels/reel_4883_n8n-io-n8n](reels/reel_4883_n8n-io-n8n) |
 | 4884 | 2026-02-08 20:25:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (272280⭐ None) | [reels/reel_4884_awesome-selfhosted-awesome-selfhosted](reels/reel_4884_awesome-selfhosted-awesome-selfhosted) |
+| 4885 | 2026-02-08 20:51:36 | [wtfloris/hestia](https://github.com/wtfloris/hestia) | ✅ full (223⭐ Python) | [reels/reel_4885_wtfloris-hestia](reels/reel_4885_wtfloris-hestia) |
