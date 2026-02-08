@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4888 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-08 |
+| #4889 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4977,3 +4977,4 @@ If you need permission, you're thinking too much.
 | 4886 | 2026-02-08 21:24:49 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102449⭐ Rust) | [reels/reel_4886_tauri-apps-tauri](reels/reel_4886_tauri-apps-tauri) |
 | 4887 | 2026-02-08 21:50:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181726⭐ Python) | [reels/reel_4887_Significant-Gravitas-AutoGPT](reels/reel_4887_Significant-Gravitas-AutoGPT) |
 | 4888 | 2026-02-08 22:24:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111256⭐ TypeScript) | [reels/reel_4888_iptv-org-iptv](reels/reel_4888_iptv-org-iptv) |
+| 4889 | 2026-02-08 22:55:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111256⭐ TypeScript) | [reels/reel_4889_iptv-org-iptv](reels/reel_4889_iptv-org-iptv) |
