@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4862 | [thofma/Hecke.jl](https://github.com/thofma/Hecke.jl) | Julia · ⭐ 288 | 2026-02-08 |
+| #4863 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 173k | 2026-02-08 |
 ---
 
 ## 🎭 Selection Process
@@ -4951,3 +4951,4 @@ If you need permission, you're thinking too much.
 | 4860 | 2026-02-08 06:06:37 | [ace411/bingo-functional](https://github.com/ace411/bingo-functional) | ✅ full (69⭐ PHP) | [reels/reel_4860_ace411-bingo-functional](reels/reel_4860_ace411-bingo-functional) |
 | 4861 | 2026-02-08 07:06:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173525⭐ TypeScript) | [reels/reel_4861_n8n-io-n8n](reels/reel_4861_n8n-io-n8n) |
 | 4862 | 2026-02-08 07:50:07 | [thofma/Hecke.jl](https://github.com/thofma/Hecke.jl) | ✅ shallow (288⭐ Julia) | [reels/reel_4862_thofma-Hecke.jl](reels/reel_4862_thofma-Hecke.jl) |
+| 4863 | 2026-02-08 08:31:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173534⭐ TypeScript) | [reels/reel_4863_n8n-io-n8n](reels/reel_4863_n8n-io-n8n) |
