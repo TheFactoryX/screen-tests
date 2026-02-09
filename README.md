@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4897 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-09 |
+| #4898 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 102k | 2026-02-09 |
 ---
 
 ## 🎭 Selection Process
@@ -4986,3 +4986,4 @@ If you need permission, you're thinking too much.
 | 4895 | 2026-02-09 07:20:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111286⭐ TypeScript) | [reels/reel_4895_iptv-org-iptv](reels/reel_4895_iptv-org-iptv) |
 | 4896 | 2026-02-09 08:06:41 | [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) | ✅ full (20⭐ JavaScript) | [reels/reel_4896_jbwharris-scrobblerad.io](reels/reel_4896_jbwharris-scrobblerad.io) |
 | 4897 | 2026-02-09 09:10:02 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126300⭐ Python) | [reels/reel_4897_langchain-ai-langchain](reels/reel_4897_langchain-ai-langchain) |
+| 4898 | 2026-02-09 10:15:51 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102810⭐ Python) | [reels/reel_4898_Comfy-Org-ComfyUI](reels/reel_4898_Comfy-Org-ComfyUI) |
