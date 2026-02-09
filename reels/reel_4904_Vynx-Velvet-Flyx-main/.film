@@ -1,0 +1,24 @@
+{
+  "reel_number": 4904,
+  "recorded": "2026-02-09 17:51:26 UTC",
+  "repository": {
+    "full_name": "Vynx-Velvet/Flyx-main",
+    "url": "https://github.com/Vynx-Velvet/Flyx-main",
+    "clone_url": "https://github.com/Vynx-Velvet/Flyx-main.git",
+    "stars": 192,
+    "language": "TypeScript",
+    "size_kb": 33975
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 2.054848
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 192 stars."
+  }
+}
