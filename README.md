@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4907 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-09 |
+| #4908 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-09 |
 ---
 
 ## 🎭 Selection Process
@@ -4996,3 +4996,4 @@ If you need permission, you're thinking too much.
 | 4905 | 2026-02-09 20:02:23 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173769⭐ TypeScript) | [reels/reel_4905_n8n-io-n8n](reels/reel_4905_n8n-io-n8n) |
 | 4906 | 2026-02-09 20:57:49 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101496⭐ Python) | [reels/reel_4906_deepseek-ai-DeepSeek-V3](reels/reel_4906_deepseek-ai-DeepSeek-V3) |
 | 4907 | 2026-02-09 21:42:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123410⭐ Python) | [reels/reel_4907_open-webui-open-webui](reels/reel_4907_open-webui-open-webui) |
+| 4908 | 2026-02-09 22:20:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126329⭐ Python) | [reels/reel_4908_langchain-ai-langchain](reels/reel_4908_langchain-ai-langchain) |
