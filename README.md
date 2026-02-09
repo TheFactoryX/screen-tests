@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4894 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 146k | 2026-02-09 |
+| #4895 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-09 |
 ---
 
 ## 🎭 Selection Process
@@ -4983,3 +4983,4 @@ If you need permission, you're thinking too much.
 | 4892 | 2026-02-09 02:52:28 | [fenix31415/UselessFenixUtils](https://github.com/fenix31415/UselessFenixUtils) | ✅ full (12⭐ C++) | [reels/reel_4892_fenix31415-UselessFenixUtils](reels/reel_4892_fenix31415-UselessFenixUtils) |
 | 4893 | 2026-02-09 04:58:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146378⭐ Python) | [reels/reel_4893_yt-dlp-yt-dlp](reels/reel_4893_yt-dlp-yt-dlp) |
 | 4894 | 2026-02-09 06:10:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146384⭐ Python) | [reels/reel_4894_yt-dlp-yt-dlp](reels/reel_4894_yt-dlp-yt-dlp) |
+| 4895 | 2026-02-09 07:20:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111286⭐ TypeScript) | [reels/reel_4895_iptv-org-iptv](reels/reel_4895_iptv-org-iptv) |
