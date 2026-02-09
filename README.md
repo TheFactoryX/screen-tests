@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4898 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 102k | 2026-02-09 |
+| #4899 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-09 |
 ---
 
 ## 🎭 Selection Process
@@ -4987,3 +4987,4 @@ If you need permission, you're thinking too much.
 | 4896 | 2026-02-09 08:06:41 | [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) | ✅ full (20⭐ JavaScript) | [reels/reel_4896_jbwharris-scrobblerad.io](reels/reel_4896_jbwharris-scrobblerad.io) |
 | 4897 | 2026-02-09 09:10:02 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126300⭐ Python) | [reels/reel_4897_langchain-ai-langchain](reels/reel_4897_langchain-ai-langchain) |
 | 4898 | 2026-02-09 10:15:51 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102810⭐ Python) | [reels/reel_4898_Comfy-Org-ComfyUI](reels/reel_4898_Comfy-Org-ComfyUI) |
+| 4899 | 2026-02-09 11:24:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123370⭐ Python) | [reels/reel_4899_open-webui-open-webui](reels/reel_4899_open-webui-open-webui) |
