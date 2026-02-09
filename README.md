@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4895 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-09 |
+| #4896 | [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) | JavaScript · ⭐ 20 | 2026-02-09 |
 ---
 
 ## 🎭 Selection Process
@@ -4984,3 +4984,4 @@ If you need permission, you're thinking too much.
 | 4893 | 2026-02-09 04:58:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146378⭐ Python) | [reels/reel_4893_yt-dlp-yt-dlp](reels/reel_4893_yt-dlp-yt-dlp) |
 | 4894 | 2026-02-09 06:10:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146384⭐ Python) | [reels/reel_4894_yt-dlp-yt-dlp](reels/reel_4894_yt-dlp-yt-dlp) |
 | 4895 | 2026-02-09 07:20:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111286⭐ TypeScript) | [reels/reel_4895_iptv-org-iptv](reels/reel_4895_iptv-org-iptv) |
+| 4896 | 2026-02-09 08:06:41 | [jbwharris/scrobblerad.io](https://github.com/jbwharris/scrobblerad.io) | ✅ full (20⭐ JavaScript) | [reels/reel_4896_jbwharris-scrobblerad.io](reels/reel_4896_jbwharris-scrobblerad.io) |
