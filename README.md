@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4904 | [Vynx-Velvet/Flyx-main](https://github.com/Vynx-Velvet/Flyx-main) | TypeScript · ⭐ 192 | 2026-02-09 |
+| #4905 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 173k | 2026-02-09 |
 ---
 
 ## 🎭 Selection Process
@@ -4993,3 +4993,4 @@ If you need permission, you're thinking too much.
 | 4902 | 2026-02-09 14:50:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106273⭐ None) | [reels/reel_4902_Hack-with-Github-Awesome-Hacking](reels/reel_4902_Hack-with-Github-Awesome-Hacking) |
 | 4903 | 2026-02-09 15:54:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111297⭐ TypeScript) | [reels/reel_4903_iptv-org-iptv](reels/reel_4903_iptv-org-iptv) |
 | 4904 | 2026-02-09 17:51:26 | [Vynx-Velvet/Flyx-main](https://github.com/Vynx-Velvet/Flyx-main) | ✅ full (192⭐ TypeScript) | [reels/reel_4904_Vynx-Velvet-Flyx-main](reels/reel_4904_Vynx-Velvet-Flyx-main) |
+| 4905 | 2026-02-09 20:02:23 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (173769⭐ TypeScript) | [reels/reel_4905_n8n-io-n8n](reels/reel_4905_n8n-io-n8n) |
