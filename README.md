@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4925 | [samuelclay/hackersmacker](https://github.com/samuelclay/hackersmacker) | HTML · ⭐ 112 | 2026-02-10 |
+| #4926 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5014,3 +5014,4 @@ If you need permission, you're thinking too much.
 | 4923 | 2026-02-10 17:18:22 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146602⭐ Python) | [reels/reel_4923_yt-dlp-yt-dlp](reels/reel_4923_yt-dlp-yt-dlp) |
 | 4924 | 2026-02-10 18:35:02 | [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks) | ✅ shallow (788⭐ JavaScript) | [reels/reel_4924_sugarlabs-musicblocks](reels/reel_4924_sugarlabs-musicblocks) |
 | 4925 | 2026-02-10 19:44:45 | [samuelclay/hackersmacker](https://github.com/samuelclay/hackersmacker) | ✅ full (112⭐ HTML) | [reels/reel_4925_samuelclay-hackersmacker](reels/reel_4925_samuelclay-hackersmacker) |
+| 4926 | 2026-02-10 20:27:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106413⭐ TypeScript) | [reels/reel_4926_shadcn-ui-ui](reels/reel_4926_shadcn-ui-ui) |
