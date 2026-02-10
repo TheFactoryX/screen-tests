@@ -1,0 +1,24 @@
+{
+  "reel_number": 4925,
+  "recorded": "2026-02-10 19:44:45 UTC",
+  "repository": {
+    "full_name": "samuelclay/hackersmacker",
+    "url": "https://github.com/samuelclay/hackersmacker",
+    "clone_url": "https://github.com/samuelclay/hackersmacker.git",
+    "stars": 112,
+    "language": "HTML",
+    "size_kb": 8303
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.442898
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 112 stars."
+  }
+}
