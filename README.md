@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4919 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 146k | 2026-02-10 |
+| #4920 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5008,3 +5008,4 @@ If you need permission, you're thinking too much.
 | 4917 | 2026-02-10 10:11:59 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102893⭐ Python) | [reels/reel_4917_Comfy-Org-ComfyUI](reels/reel_4917_Comfy-Org-ComfyUI) |
 | 4918 | 2026-02-10 11:12:52 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106393⭐ TypeScript) | [reels/reel_4918_shadcn-ui-ui](reels/reel_4918_shadcn-ui-ui) |
 | 4919 | 2026-02-10 12:00:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146553⭐ Python) | [reels/reel_4919_yt-dlp-yt-dlp](reels/reel_4919_yt-dlp-yt-dlp) |
+| 4920 | 2026-02-10 13:45:54 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111335⭐ TypeScript) | [reels/reel_4920_iptv-org-iptv](reels/reel_4920_iptv-org-iptv) |
