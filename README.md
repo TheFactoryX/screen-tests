@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4927 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 102k | 2026-02-10 |
+| #4928 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5016,3 +5016,4 @@ If you need permission, you're thinking too much.
 | 4925 | 2026-02-10 19:44:45 | [samuelclay/hackersmacker](https://github.com/samuelclay/hackersmacker) | ✅ full (112⭐ HTML) | [reels/reel_4925_samuelclay-hackersmacker](reels/reel_4925_samuelclay-hackersmacker) |
 | 4926 | 2026-02-10 20:27:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106413⭐ TypeScript) | [reels/reel_4926_shadcn-ui-ui](reels/reel_4926_shadcn-ui-ui) |
 | 4927 | 2026-02-10 21:11:31 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102935⭐ Python) | [reels/reel_4927_Comfy-Org-ComfyUI](reels/reel_4927_Comfy-Org-ComfyUI) |
+| 4928 | 2026-02-10 22:00:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144708⭐ Python) | [reels/reel_4928_langflow-ai-langflow](reels/reel_4928_langflow-ai-langflow) |
