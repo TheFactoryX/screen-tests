@@ -1,0 +1,24 @@
+{
+  "reel_number": 4911,
+  "recorded": "2026-02-10 02:13:42 UTC",
+  "repository": {
+    "full_name": "Maximization/nodejs-toolbox-catalog",
+    "url": "https://github.com/Maximization/nodejs-toolbox-catalog",
+    "clone_url": "https://github.com/Maximization/nodejs-toolbox-catalog.git",
+    "stars": 263,
+    "language": "JavaScript",
+    "size_kb": 1427
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.240719
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 263 stars."
+  }
+}
