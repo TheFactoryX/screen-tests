@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4912 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-10 |
+| #4913 | [deepgram-devs/nextjs-live-transcription](https://github.com/deepgram-devs/nextjs-live-transcription) | TypeScript · ⭐ 262 | 2026-02-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5001,3 +5001,4 @@ If you need permission, you're thinking too much.
 | 4910 | 2026-02-09 23:53:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146485⭐ Python) | [reels/reel_4910_yt-dlp-yt-dlp](reels/reel_4910_yt-dlp-yt-dlp) |
 | 4911 | 2026-02-10 02:13:42 | [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog) | ✅ full (263⭐ JavaScript) | [reels/reel_4911_Maximization-nodejs-toolbox-catalog](reels/reel_4911_Maximization-nodejs-toolbox-catalog) |
 | 4912 | 2026-02-10 04:39:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110161⭐ Rust) | [reels/reel_4912_rust-lang-rust](reels/reel_4912_rust-lang-rust) |
+| 4913 | 2026-02-10 06:02:00 | [deepgram-devs/nextjs-live-transcription](https://github.com/deepgram-devs/nextjs-live-transcription) | ✅ full (262⭐ TypeScript) | [reels/reel_4913_deepgram-devs-nextjs-live-transcription](reels/reel_4913_deepgram-devs-nextjs-live-transcription) |

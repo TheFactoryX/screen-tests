@@ -1,0 +1,24 @@
+{
+  "reel_number": 4913,
+  "recorded": "2026-02-10 06:02:00 UTC",
+  "repository": {
+    "full_name": "deepgram-devs/nextjs-live-transcription",
+    "url": "https://github.com/deepgram-devs/nextjs-live-transcription",
+    "clone_url": "https://github.com/deepgram-devs/nextjs-live-transcription.git",
+    "stars": 262,
+    "language": "TypeScript",
+    "size_kb": 276
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.222128
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 262 stars."
+  }
+}
