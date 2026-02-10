@@ -1,0 +1,24 @@
+{
+  "reel_number": 4930,
+  "recorded": "2026-02-10 23:49:30 UTC",
+  "repository": {
+    "full_name": "sevcator/5ubscrpt10n",
+    "url": "https://github.com/sevcator/5ubscrpt10n",
+    "clone_url": "https://github.com/sevcator/5ubscrpt10n.git",
+    "stars": 102,
+    "language": "JavaScript",
+    "size_kb": 57836179
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 56480,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 102 stars."
+  }
+}

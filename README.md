@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4929 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 102k | 2026-02-10 |
+| #4930 | [sevcator/5ubscrpt10n](https://github.com/sevcator/5ubscrpt10n) | JavaScript · ⭐ 102 | 2026-02-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5018,3 +5018,4 @@ If you need permission, you're thinking too much.
 | 4927 | 2026-02-10 21:11:31 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102935⭐ Python) | [reels/reel_4927_Comfy-Org-ComfyUI](reels/reel_4927_Comfy-Org-ComfyUI) |
 | 4928 | 2026-02-10 22:00:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144708⭐ Python) | [reels/reel_4928_langflow-ai-langflow](reels/reel_4928_langflow-ai-langflow) |
 | 4929 | 2026-02-10 23:00:22 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102937⭐ Python) | [reels/reel_4929_Comfy-Org-ComfyUI](reels/reel_4929_Comfy-Org-ComfyUI) |
+| 4930 | 2026-02-10 23:49:30 | [sevcator/5ubscrpt10n](https://github.com/sevcator/5ubscrpt10n) | ✅ readme_only (102⭐ JavaScript) | [reels/reel_4930_sevcator-5ubscrpt10n](reels/reel_4930_sevcator-5ubscrpt10n) |
