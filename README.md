@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4951 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 103k | 2026-02-11 |
+| #4952 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5040,3 +5040,4 @@ If you need permission, you're thinking too much.
 | 4949 | 2026-02-11 21:48:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (272788⭐ None) | [reels/reel_4949_awesome-selfhosted-awesome-selfhosted](reels/reel_4949_awesome-selfhosted-awesome-selfhosted) |
 | 4950 | 2026-02-11 22:30:53 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111404⭐ TypeScript) | [reels/reel_4950_iptv-org-iptv](reels/reel_4950_iptv-org-iptv) |
 | 4951 | 2026-02-11 23:04:20 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103207⭐ Shell) | [reels/reel_4951_papers-we-love-papers-we-love](reels/reel_4951_papers-we-love-papers-we-love) |
+| 4952 | 2026-02-11 23:46:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123617⭐ Python) | [reels/reel_4952_open-webui-open-webui](reels/reel_4952_open-webui-open-webui) |
