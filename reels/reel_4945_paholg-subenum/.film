@@ -1,0 +1,24 @@
+{
+  "reel_number": 4945,
+  "recorded": "2026-02-11 18:39:11 UTC",
+  "repository": {
+    "full_name": "paholg/subenum",
+    "url": "https://github.com/paholg/subenum",
+    "clone_url": "https://github.com/paholg/subenum.git",
+    "stars": 131,
+    "language": "Rust",
+    "size_kb": 55
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.508852
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 131 stars."
+  }
+}

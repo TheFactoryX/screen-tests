@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4944 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-11 |
+| #4945 | [paholg/subenum](https://github.com/paholg/subenum) | Rust · ⭐ 131 | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5033,3 +5033,4 @@ If you need permission, you're thinking too much.
 | 4942 | 2026-02-11 15:39:25 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146715⭐ Python) | [reels/reel_4942_yt-dlp-yt-dlp](reels/reel_4942_yt-dlp-yt-dlp) |
 | 4943 | 2026-02-11 16:42:25 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102569⭐ Rust) | [reels/reel_4943_tauri-apps-tauri](reels/reel_4943_tauri-apps-tauri) |
 | 4944 | 2026-02-11 17:41:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102570⭐ Rust) | [reels/reel_4944_tauri-apps-tauri](reels/reel_4944_tauri-apps-tauri) |
+| 4945 | 2026-02-11 18:39:11 | [paholg/subenum](https://github.com/paholg/subenum) | ✅ full (131⭐ Rust) | [reels/reel_4945_paholg-subenum](reels/reel_4945_paholg-subenum) |
