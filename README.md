@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4936 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-11 |
+| #4937 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5025,3 +5025,4 @@ If you need permission, you're thinking too much.
 | 4934 | 2026-02-11 07:10:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144725⭐ Python) | [reels/reel_4934_langflow-ai-langflow](reels/reel_4934_langflow-ai-langflow) |
 | 4935 | 2026-02-11 08:00:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181783⭐ Python) | [reels/reel_4935_Significant-Gravitas-AutoGPT](reels/reel_4935_Significant-Gravitas-AutoGPT) |
 | 4936 | 2026-02-11 09:07:39 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102553⭐ Rust) | [reels/reel_4936_tauri-apps-tauri](reels/reel_4936_tauri-apps-tauri) |
+| 4937 | 2026-02-11 10:09:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123578⭐ Python) | [reels/reel_4937_open-webui-open-webui](reels/reel_4937_open-webui-open-webui) |
