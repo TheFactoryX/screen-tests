@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4942 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 146k | 2026-02-11 |
+| #4943 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5031,3 +5031,4 @@ If you need permission, you're thinking too much.
 | 4940 | 2026-02-11 13:20:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106459⭐ TypeScript) | [reels/reel_4940_shadcn-ui-ui](reels/reel_4940_shadcn-ui-ui) |
 | 4941 | 2026-02-11 14:35:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110203⭐ Rust) | [reels/reel_4941_rust-lang-rust](reels/reel_4941_rust-lang-rust) |
 | 4942 | 2026-02-11 15:39:25 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146715⭐ Python) | [reels/reel_4942_yt-dlp-yt-dlp](reels/reel_4942_yt-dlp-yt-dlp) |
+| 4943 | 2026-02-11 16:42:25 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102569⭐ Rust) | [reels/reel_4943_tauri-apps-tauri](reels/reel_4943_tauri-apps-tauri) |
