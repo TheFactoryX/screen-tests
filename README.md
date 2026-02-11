@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4932 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 106k | 2026-02-11 |
+| #4933 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 102k | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5021,3 +5021,4 @@ If you need permission, you're thinking too much.
 | 4930 | 2026-02-10 23:49:30 | [sevcator/5ubscrpt10n](https://github.com/sevcator/5ubscrpt10n) | ✅ readme_only (102⭐ JavaScript) | [reels/reel_4930_sevcator-5ubscrpt10n](reels/reel_4930_sevcator-5ubscrpt10n) |
 | 4931 | 2026-02-11 02:09:58 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111358⭐ TypeScript) | [reels/reel_4931_iptv-org-iptv](reels/reel_4931_iptv-org-iptv) |
 | 4932 | 2026-02-11 04:37:13 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106361⭐ None) | [reels/reel_4932_Hack-with-Github-Awesome-Hacking](reels/reel_4932_Hack-with-Github-Awesome-Hacking) |
+| 4933 | 2026-02-11 05:58:03 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (102955⭐ Python) | [reels/reel_4933_Comfy-Org-ComfyUI](reels/reel_4933_Comfy-Org-ComfyUI) |
