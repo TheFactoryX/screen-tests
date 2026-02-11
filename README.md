@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4937 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-11 |
+| #4938 | [toy/image_optim_pack](https://github.com/toy/image_optim_pack) | Ruby · ⭐ 77 | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5026,3 +5026,4 @@ If you need permission, you're thinking too much.
 | 4935 | 2026-02-11 08:00:58 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181783⭐ Python) | [reels/reel_4935_Significant-Gravitas-AutoGPT](reels/reel_4935_Significant-Gravitas-AutoGPT) |
 | 4936 | 2026-02-11 09:07:39 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102553⭐ Rust) | [reels/reel_4936_tauri-apps-tauri](reels/reel_4936_tauri-apps-tauri) |
 | 4937 | 2026-02-11 10:09:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123578⭐ Python) | [reels/reel_4937_open-webui-open-webui](reels/reel_4937_open-webui-open-webui) |
+| 4938 | 2026-02-11 11:09:26 | [toy/image_optim_pack](https://github.com/toy/image_optim_pack) | ✅ full (77⭐ Ruby) | [reels/reel_4938_toy-image_optim_pack](reels/reel_4938_toy-image_optim_pack) |
