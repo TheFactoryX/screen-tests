@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4940 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-11 |
+| #4941 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5029,3 +5029,4 @@ If you need permission, you're thinking too much.
 | 4938 | 2026-02-11 11:09:26 | [toy/image_optim_pack](https://github.com/toy/image_optim_pack) | ✅ full (77⭐ Ruby) | [reels/reel_4938_toy-image_optim_pack](reels/reel_4938_toy-image_optim_pack) |
 | 4939 | 2026-02-11 11:57:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174063⭐ TypeScript) | [reels/reel_4939_n8n-io-n8n](reels/reel_4939_n8n-io-n8n) |
 | 4940 | 2026-02-11 13:20:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106459⭐ TypeScript) | [reels/reel_4940_shadcn-ui-ui](reels/reel_4940_shadcn-ui-ui) |
+| 4941 | 2026-02-11 14:35:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110203⭐ Rust) | [reels/reel_4941_rust-lang-rust](reels/reel_4941_rust-lang-rust) |
