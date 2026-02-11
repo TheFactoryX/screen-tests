@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4947 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-11 |
+| #4948 | [Logicalshift/flo_draw](https://github.com/Logicalshift/flo_draw) | Rust · ⭐ 126 | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5036,3 +5036,4 @@ If you need permission, you're thinking too much.
 | 4945 | 2026-02-11 18:39:11 | [paholg/subenum](https://github.com/paholg/subenum) | ✅ full (131⭐ Rust) | [reels/reel_4945_paholg-subenum](reels/reel_4945_paholg-subenum) |
 | 4946 | 2026-02-11 19:41:29 | [damianofalcioni/js-functions-orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator) | ✅ full (34⭐ JavaScript) | [reels/reel_4946_damianofalcioni-js-functions-orchestrator](reels/reel_4946_damianofalcioni-js-functions-orchestrator) |
 | 4947 | 2026-02-11 20:20:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106477⭐ TypeScript) | [reels/reel_4947_shadcn-ui-ui](reels/reel_4947_shadcn-ui-ui) |
+| 4948 | 2026-02-11 21:02:28 | [Logicalshift/flo_draw](https://github.com/Logicalshift/flo_draw) | ✅ full (126⭐ Rust) | [reels/reel_4948_Logicalshift-flo_draw](reels/reel_4948_Logicalshift-flo_draw) |
