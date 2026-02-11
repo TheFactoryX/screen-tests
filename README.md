@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4948 | [Logicalshift/flo_draw](https://github.com/Logicalshift/flo_draw) | Rust · ⭐ 126 | 2026-02-11 |
+| #4949 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 272k | 2026-02-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5037,3 +5037,4 @@ If you need permission, you're thinking too much.
 | 4946 | 2026-02-11 19:41:29 | [damianofalcioni/js-functions-orchestrator](https://github.com/damianofalcioni/js-functions-orchestrator) | ✅ full (34⭐ JavaScript) | [reels/reel_4946_damianofalcioni-js-functions-orchestrator](reels/reel_4946_damianofalcioni-js-functions-orchestrator) |
 | 4947 | 2026-02-11 20:20:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106477⭐ TypeScript) | [reels/reel_4947_shadcn-ui-ui](reels/reel_4947_shadcn-ui-ui) |
 | 4948 | 2026-02-11 21:02:28 | [Logicalshift/flo_draw](https://github.com/Logicalshift/flo_draw) | ✅ full (126⭐ Rust) | [reels/reel_4948_Logicalshift-flo_draw](reels/reel_4948_Logicalshift-flo_draw) |
+| 4949 | 2026-02-11 21:48:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (272788⭐ None) | [reels/reel_4949_awesome-selfhosted-awesome-selfhosted](reels/reel_4949_awesome-selfhosted-awesome-selfhosted) |
