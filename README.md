@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4970 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-12 |
+| #4971 | [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) | Shell · ⭐ 990 | 2026-02-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5059,3 +5059,4 @@ If you need permission, you're thinking too much.
 | 4968 | 2026-02-12 18:38:41 | [MysteryPancake/Houdini-Fun](https://github.com/MysteryPancake/Houdini-Fun) | ✅ shallow (161⭐ HTML) | [reels/reel_4968_MysteryPancake-Houdini-Fun](reels/reel_4968_MysteryPancake-Houdini-Fun) |
 | 4969 | 2026-02-12 19:38:23 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258179⭐ None) | [reels/reel_4969_practical-tutorials-project-based-learning](reels/reel_4969_practical-tutorials-project-based-learning) |
 | 4970 | 2026-02-12 20:02:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123716⭐ Python) | [reels/reel_4970_open-webui-open-webui](reels/reel_4970_open-webui-open-webui) |
+| 4971 | 2026-02-12 20:51:11 | [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) | ✅ full (990⭐ Shell) | [reels/reel_4971_lord-alfred-ipranges](reels/reel_4971_lord-alfred-ipranges) |

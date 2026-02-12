@@ -1,0 +1,24 @@
+{
+  "reel_number": 4971,
+  "recorded": "2026-02-12 20:51:11 UTC",
+  "repository": {
+    "full_name": "lord-alfred/ipranges",
+    "url": "https://github.com/lord-alfred/ipranges",
+    "clone_url": "https://github.com/lord-alfred/ipranges.git",
+    "stars": 990,
+    "language": "Shell",
+    "size_kb": 34275
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 9.677286
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 990 stars."
+  }
+}
