@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4957 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 103k | 2026-02-12 |
+| #4958 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5046,3 +5046,4 @@ If you need permission, you're thinking too much.
 | 4955 | 2026-02-12 05:50:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181789⭐ Python) | [reels/reel_4955_Significant-Gravitas-AutoGPT](reels/reel_4955_Significant-Gravitas-AutoGPT) |
 | 4956 | 2026-02-12 06:59:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146787⭐ Python) | [reels/reel_4956_yt-dlp-yt-dlp](reels/reel_4956_yt-dlp-yt-dlp) |
 | 4957 | 2026-02-12 07:56:19 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103047⭐ Python) | [reels/reel_4957_Comfy-Org-ComfyUI](reels/reel_4957_Comfy-Org-ComfyUI) |
+| 4958 | 2026-02-12 08:50:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123660⭐ Python) | [reels/reel_4958_open-webui-open-webui](reels/reel_4958_open-webui-open-webui) |
