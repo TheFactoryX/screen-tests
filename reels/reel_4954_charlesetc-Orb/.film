@@ -1,0 +1,24 @@
+{
+  "reel_number": 4954,
+  "recorded": "2026-02-12 04:32:26 UTC",
+  "repository": {
+    "full_name": "charlesetc/Orb",
+    "url": "https://github.com/charlesetc/Orb",
+    "clone_url": "https://github.com/charlesetc/Orb.git",
+    "stars": 17,
+    "language": "OCaml",
+    "size_kb": 38
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.422225
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "OCaml",
+    "director_note": "A OCaml repository. 17 stars."
+  }
+}
