@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4974 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 679 | 2026-02-12 |
+| #4975 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 272k | 2026-02-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5063,3 +5063,4 @@ If you need permission, you're thinking too much.
 | 4972 | 2026-02-12 21:31:54 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101573⭐ Python) | [reels/reel_4972_deepseek-ai-DeepSeek-V3](reels/reel_4972_deepseek-ai-DeepSeek-V3) |
 | 4973 | 2026-02-12 22:02:07 | [bbuck/dragon-mud](https://github.com/bbuck/dragon-mud) | ✅ full (123⭐ Go) | [reels/reel_4973_bbuck-dragon-mud](reels/reel_4973_bbuck-dragon-mud) |
 | 4974 | 2026-02-12 22:51:44 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (679⭐ Tcl) | [reels/reel_4974_rust-lang-crates.io-index](reels/reel_4974_rust-lang-crates.io-index) |
+| 4975 | 2026-02-12 23:27:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (272989⭐ None) | [reels/reel_4975_awesome-selfhosted-awesome-selfhosted](reels/reel_4975_awesome-selfhosted-awesome-selfhosted) |
