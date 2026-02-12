@@ -1,0 +1,24 @@
+{
+  "reel_number": 4953,
+  "recorded": "2026-02-12 02:03:32 UTC",
+  "repository": {
+    "full_name": "jobright-ai/2026-Data-Analysis-New-Grad",
+    "url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad",
+    "clone_url": "https://github.com/jobright-ai/2026-Data-Analysis-New-Grad.git",
+    "stars": 130,
+    "language": null,
+    "size_kb": 5525
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.834116
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 130 stars."
+  }
+}
