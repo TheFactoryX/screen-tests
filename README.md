@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4972 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-02-12 |
+| #4973 | [bbuck/dragon-mud](https://github.com/bbuck/dragon-mud) | Go · ⭐ 123 | 2026-02-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5061,3 +5061,4 @@ If you need permission, you're thinking too much.
 | 4970 | 2026-02-12 20:02:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123716⭐ Python) | [reels/reel_4970_open-webui-open-webui](reels/reel_4970_open-webui-open-webui) |
 | 4971 | 2026-02-12 20:51:11 | [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) | ✅ full (990⭐ Shell) | [reels/reel_4971_lord-alfred-ipranges](reels/reel_4971_lord-alfred-ipranges) |
 | 4972 | 2026-02-12 21:31:54 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101573⭐ Python) | [reels/reel_4972_deepseek-ai-DeepSeek-V3](reels/reel_4972_deepseek-ai-DeepSeek-V3) |
+| 4973 | 2026-02-12 22:02:07 | [bbuck/dragon-mud](https://github.com/bbuck/dragon-mud) | ✅ full (123⭐ Go) | [reels/reel_4973_bbuck-dragon-mud](reels/reel_4973_bbuck-dragon-mud) |

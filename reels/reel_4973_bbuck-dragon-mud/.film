@@ -1,0 +1,24 @@
+{
+  "reel_number": 4973,
+  "recorded": "2026-02-12 22:02:07 UTC",
+  "repository": {
+    "full_name": "bbuck/dragon-mud",
+    "url": "https://github.com/bbuck/dragon-mud",
+    "clone_url": "https://github.com/bbuck/dragon-mud.git",
+    "stars": 123,
+    "language": "Go",
+    "size_kb": 4491
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.294333
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 123 stars."
+  }
+}
