@@ -1,0 +1,24 @@
+{
+  "reel_number": 4968,
+  "recorded": "2026-02-12 18:38:41 UTC",
+  "repository": {
+    "full_name": "MysteryPancake/Houdini-Fun",
+    "url": "https://github.com/MysteryPancake/Houdini-Fun",
+    "clone_url": "https://github.com/MysteryPancake/Houdini-Fun.git",
+    "stars": 161,
+    "language": "HTML",
+    "size_kb": 379332
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 370,
+    "duration_seconds": 9.698287
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 161 stars."
+  }
+}
