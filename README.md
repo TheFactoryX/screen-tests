@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4964 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-12 |
+| #4965 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5053,3 +5053,4 @@ If you need permission, you're thinking too much.
 | 4962 | 2026-02-12 12:02:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144757⭐ Python) | [reels/reel_4962_langflow-ai-langflow](reels/reel_4962_langflow-ai-langflow) |
 | 4963 | 2026-02-12 13:43:52 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123690⭐ Python) | [reels/reel_4963_open-webui-open-webui](reels/reel_4963_open-webui-open-webui) |
 | 4964 | 2026-02-12 14:37:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126547⭐ Python) | [reels/reel_4964_langchain-ai-langchain](reels/reel_4964_langchain-ai-langchain) |
+| 4965 | 2026-02-12 15:33:47 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111444⭐ TypeScript) | [reels/reel_4965_iptv-org-iptv](reels/reel_4965_iptv-org-iptv) |
