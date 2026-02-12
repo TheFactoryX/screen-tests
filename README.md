@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4965 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-12 |
+| #4966 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 465k | 2026-02-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5054,3 +5054,4 @@ If you need permission, you're thinking too much.
 | 4963 | 2026-02-12 13:43:52 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123690⭐ Python) | [reels/reel_4963_open-webui-open-webui](reels/reel_4963_open-webui-open-webui) |
 | 4964 | 2026-02-12 14:37:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126547⭐ Python) | [reels/reel_4964_langchain-ai-langchain](reels/reel_4964_langchain-ai-langchain) |
 | 4965 | 2026-02-12 15:33:47 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111444⭐ TypeScript) | [reels/reel_4965_iptv-org-iptv](reels/reel_4965_iptv-org-iptv) |
+| 4966 | 2026-02-12 16:39:34 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (465422⭐ Markdown) | [reels/reel_4966_codecrafters-io-build-your-own-x](reels/reel_4966_codecrafters-io-build-your-own-x) |
