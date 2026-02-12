@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4954 | [charlesetc/Orb](https://github.com/charlesetc/Orb) | OCaml · ⭐ 17 | 2026-02-12 |
+| #4955 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5043,3 +5043,4 @@ If you need permission, you're thinking too much.
 | 4952 | 2026-02-11 23:46:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123617⭐ Python) | [reels/reel_4952_open-webui-open-webui](reels/reel_4952_open-webui-open-webui) |
 | 4953 | 2026-02-12 02:03:32 | [jobright-ai/2026-Data-Analysis-New-Grad](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | ✅ full (130⭐ None) | [reels/reel_4953_jobright-ai-2026-Data-Analysis-New-Grad](reels/reel_4953_jobright-ai-2026-Data-Analysis-New-Grad) |
 | 4954 | 2026-02-12 04:32:26 | [charlesetc/Orb](https://github.com/charlesetc/Orb) | ✅ full (17⭐ OCaml) | [reels/reel_4954_charlesetc-Orb](reels/reel_4954_charlesetc-Orb) |
+| 4955 | 2026-02-12 05:50:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181789⭐ Python) | [reels/reel_4955_Significant-Gravitas-AutoGPT](reels/reel_4955_Significant-Gravitas-AutoGPT) |
