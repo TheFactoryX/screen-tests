@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4968 | [MysteryPancake/Houdini-Fun](https://github.com/MysteryPancake/Houdini-Fun) | HTML · ⭐ 161 | 2026-02-12 |
+| #4969 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 258k | 2026-02-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5057,3 +5057,4 @@ If you need permission, you're thinking too much.
 | 4966 | 2026-02-12 16:39:34 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (465422⭐ Markdown) | [reels/reel_4966_codecrafters-io-build-your-own-x](reels/reel_4966_codecrafters-io-build-your-own-x) |
 | 4967 | 2026-02-12 17:43:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181809⭐ Python) | [reels/reel_4967_Significant-Gravitas-AutoGPT](reels/reel_4967_Significant-Gravitas-AutoGPT) |
 | 4968 | 2026-02-12 18:38:41 | [MysteryPancake/Houdini-Fun](https://github.com/MysteryPancake/Houdini-Fun) | ✅ shallow (161⭐ HTML) | [reels/reel_4968_MysteryPancake-Houdini-Fun](reels/reel_4968_MysteryPancake-Houdini-Fun) |
+| 4969 | 2026-02-12 19:38:23 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258179⭐ None) | [reels/reel_4969_practical-tutorials-project-based-learning](reels/reel_4969_practical-tutorials-project-based-learning) |
