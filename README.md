@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4981 | [Enclave0775/Intiface_Central-Sillytavern-plugin](https://github.com/Enclave0775/Intiface_Central-Sillytavern-plugin) | JavaScript · ⭐ 24 | 2026-02-13 |
+| #4982 | [ishaanbuildsthings/leetcode](https://github.com/ishaanbuildsthings/leetcode) | Python · ⭐ 239 | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5070,3 +5070,4 @@ If you need permission, you're thinking too much.
 | 4979 | 2026-02-13 05:44:18 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106490⭐ None) | [reels/reel_4979_Hack-with-Github-Awesome-Hacking](reels/reel_4979_Hack-with-Github-Awesome-Hacking) |
 | 4980 | 2026-02-13 06:41:08 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174334⭐ TypeScript) | [reels/reel_4980_n8n-io-n8n](reels/reel_4980_n8n-io-n8n) |
 | 4981 | 2026-02-13 07:38:08 | [Enclave0775/Intiface_Central-Sillytavern-plugin](https://github.com/Enclave0775/Intiface_Central-Sillytavern-plugin) | ✅ full (24⭐ JavaScript) | [reels/reel_4981_Enclave0775-Intiface_Central-Sillytavern-plugin](reels/reel_4981_Enclave0775-Intiface_Central-Sillytavern-plugin) |
+| 4982 | 2026-02-13 08:26:37 | [ishaanbuildsthings/leetcode](https://github.com/ishaanbuildsthings/leetcode) | ✅ full (239⭐ Python) | [reels/reel_4982_ishaanbuildsthings-leetcode](reels/reel_4982_ishaanbuildsthings-leetcode) |
