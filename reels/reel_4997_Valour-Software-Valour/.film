@@ -1,0 +1,24 @@
+{
+  "reel_number": 4997,
+  "recorded": "2026-02-13 21:19:51 UTC",
+  "repository": {
+    "full_name": "Valour-Software/Valour",
+    "url": "https://github.com/Valour-Software/Valour",
+    "clone_url": "https://github.com/Valour-Software/Valour.git",
+    "stars": 270,
+    "language": "C#",
+    "size_kb": 48203
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 47,
+    "duration_seconds": 2.329707
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 270 stars."
+  }
+}
