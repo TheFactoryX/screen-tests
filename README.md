@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4989 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-13 |
+| #4990 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 146k | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5078,3 +5078,4 @@ If you need permission, you're thinking too much.
 | 4987 | 2026-02-13 12:55:54 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103242⭐ Shell) | [reels/reel_4987_papers-we-love-papers-we-love](reels/reel_4987_papers-we-love-papers-we-love) |
 | 4988 | 2026-02-13 14:02:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174353⭐ TypeScript) | [reels/reel_4988_n8n-io-n8n](reels/reel_4988_n8n-io-n8n) |
 | 4989 | 2026-02-13 15:00:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181772⭐ Python) | [reels/reel_4989_Significant-Gravitas-AutoGPT](reels/reel_4989_Significant-Gravitas-AutoGPT) |
+| 4990 | 2026-02-13 15:59:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146959⭐ Python) | [reels/reel_4990_yt-dlp-yt-dlp](reels/reel_4990_yt-dlp-yt-dlp) |
