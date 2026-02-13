@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4997 | [Valour-Software/Valour](https://github.com/Valour-Software/Valour) | C# · ⭐ 270 | 2026-02-13 |
+| #4998 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 97k | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5086,3 +5086,4 @@ If you need permission, you're thinking too much.
 | 4995 | 2026-02-13 19:56:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111488⭐ TypeScript) | [reels/reel_4995_iptv-org-iptv](reels/reel_4995_iptv-org-iptv) |
 | 4996 | 2026-02-13 20:41:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174409⭐ TypeScript) | [reels/reel_4996_n8n-io-n8n](reels/reel_4996_n8n-io-n8n) |
 | 4997 | 2026-02-13 21:19:51 | [Valour-Software/Valour](https://github.com/Valour-Software/Valour) | ✅ full (270⭐ C#) | [reels/reel_4997_Valour-Software-Valour](reels/reel_4997_Valour-Software-Valour) |
+| 4998 | 2026-02-13 21:58:35 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (97167⭐ TypeScript) | [reels/reel_4998_clash-verge-rev-clash-verge-rev](reels/reel_4998_clash-verge-rev-clash-verge-rev) |
