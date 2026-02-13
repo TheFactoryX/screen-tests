@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4990 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 146k | 2026-02-13 |
+| #4991 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 106k | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5079,3 +5079,4 @@ If you need permission, you're thinking too much.
 | 4988 | 2026-02-13 14:02:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174353⭐ TypeScript) | [reels/reel_4988_n8n-io-n8n](reels/reel_4988_n8n-io-n8n) |
 | 4989 | 2026-02-13 15:00:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181772⭐ Python) | [reels/reel_4989_Significant-Gravitas-AutoGPT](reels/reel_4989_Significant-Gravitas-AutoGPT) |
 | 4990 | 2026-02-13 15:59:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146959⭐ Python) | [reels/reel_4990_yt-dlp-yt-dlp](reels/reel_4990_yt-dlp-yt-dlp) |
+| 4991 | 2026-02-13 16:59:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106506⭐ None) | [reels/reel_4991_Hack-with-Github-Awesome-Hacking](reels/reel_4991_Hack-with-Github-Awesome-Hacking) |
