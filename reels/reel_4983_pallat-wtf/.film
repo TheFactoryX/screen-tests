@@ -1,0 +1,24 @@
+{
+  "reel_number": 4983,
+  "recorded": "2026-02-13 09:10:26 UTC",
+  "repository": {
+    "full_name": "pallat/wtf",
+    "url": "https://github.com/pallat/wtf",
+    "clone_url": "https://github.com/pallat/wtf.git",
+    "stars": 38,
+    "language": "Go",
+    "size_kb": 64
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.552415
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 38 stars."
+  }
+}

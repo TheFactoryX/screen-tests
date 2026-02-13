@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4982 | [ishaanbuildsthings/leetcode](https://github.com/ishaanbuildsthings/leetcode) | Python · ⭐ 239 | 2026-02-13 |
+| #4983 | [pallat/wtf](https://github.com/pallat/wtf) | Go · ⭐ 38 | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5071,3 +5071,4 @@ If you need permission, you're thinking too much.
 | 4980 | 2026-02-13 06:41:08 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174334⭐ TypeScript) | [reels/reel_4980_n8n-io-n8n](reels/reel_4980_n8n-io-n8n) |
 | 4981 | 2026-02-13 07:38:08 | [Enclave0775/Intiface_Central-Sillytavern-plugin](https://github.com/Enclave0775/Intiface_Central-Sillytavern-plugin) | ✅ full (24⭐ JavaScript) | [reels/reel_4981_Enclave0775-Intiface_Central-Sillytavern-plugin](reels/reel_4981_Enclave0775-Intiface_Central-Sillytavern-plugin) |
 | 4982 | 2026-02-13 08:26:37 | [ishaanbuildsthings/leetcode](https://github.com/ishaanbuildsthings/leetcode) | ✅ full (239⭐ Python) | [reels/reel_4982_ishaanbuildsthings-leetcode](reels/reel_4982_ishaanbuildsthings-leetcode) |
+| 4983 | 2026-02-13 09:10:26 | [pallat/wtf](https://github.com/pallat/wtf) | ✅ full (38⭐ Go) | [reels/reel_4983_pallat-wtf](reels/reel_4983_pallat-wtf) |
