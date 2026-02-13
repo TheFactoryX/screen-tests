@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4976 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-12 |
+| #4977 | [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer) | Game Maker Language · ⭐ 1k | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5065,3 +5065,4 @@ If you need permission, you're thinking too much.
 | 4974 | 2026-02-12 22:51:44 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (679⭐ Tcl) | [reels/reel_4974_rust-lang-crates.io-index](reels/reel_4974_rust-lang-crates.io-index) |
 | 4975 | 2026-02-12 23:27:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (272989⭐ None) | [reels/reel_4975_awesome-selfhosted-awesome-selfhosted](reels/reel_4975_awesome-selfhosted-awesome-selfhosted) |
 | 4976 | 2026-02-12 23:54:50 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106545⭐ TypeScript) | [reels/reel_4976_shadcn-ui-ui](reels/reel_4976_shadcn-ui-ui) |
+| 4977 | 2026-02-13 02:06:25 | [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer) | ✅ readme_only (1111⭐ Game Maker Language) | [reels/reel_4977_Ttanasart-pt-Pixel-Composer](reels/reel_4977_Ttanasart-pt-Pixel-Composer) |

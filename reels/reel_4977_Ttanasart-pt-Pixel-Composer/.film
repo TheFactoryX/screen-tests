@@ -1,0 +1,24 @@
+{
+  "reel_number": 4977,
+  "recorded": "2026-02-13 02:06:25 UTC",
+  "repository": {
+    "full_name": "Ttanasart-pt/Pixel-Composer",
+    "url": "https://github.com/Ttanasart-pt/Pixel-Composer",
+    "clone_url": "https://github.com/Ttanasart-pt/Pixel-Composer.git",
+    "stars": 1111,
+    "language": "Game Maker Language",
+    "size_kb": 827874
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 808,
+    "duration_seconds": 0.000134
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Game Maker Language",
+    "director_note": "A Game Maker Language repository. 1111 stars."
+  }
+}
