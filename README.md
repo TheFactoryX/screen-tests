@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4985 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 174k | 2026-02-13 |
+| #4986 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5074,3 +5074,4 @@ If you need permission, you're thinking too much.
 | 4983 | 2026-02-13 09:10:26 | [pallat/wtf](https://github.com/pallat/wtf) | ✅ full (38⭐ Go) | [reels/reel_4983_pallat-wtf](reels/reel_4983_pallat-wtf) |
 | 4984 | 2026-02-13 10:01:10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174359⭐ TypeScript) | [reels/reel_4984_n8n-io-n8n](reels/reel_4984_n8n-io-n8n) |
 | 4985 | 2026-02-13 11:01:16 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174368⭐ TypeScript) | [reels/reel_4985_n8n-io-n8n](reels/reel_4985_n8n-io-n8n) |
+| 4986 | 2026-02-13 11:45:47 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111485⭐ TypeScript) | [reels/reel_4986_iptv-org-iptv](reels/reel_4986_iptv-org-iptv) |
