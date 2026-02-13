@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4980 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 174k | 2026-02-13 |
+| #4981 | [Enclave0775/Intiface_Central-Sillytavern-plugin](https://github.com/Enclave0775/Intiface_Central-Sillytavern-plugin) | JavaScript · ⭐ 24 | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5069,3 +5069,4 @@ If you need permission, you're thinking too much.
 | 4978 | 2026-02-13 04:29:05 | [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) | ✅ full (208⭐ Nix) | [reels/reel_4978_colonelpanic8-dotfiles](reels/reel_4978_colonelpanic8-dotfiles) |
 | 4979 | 2026-02-13 05:44:18 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106490⭐ None) | [reels/reel_4979_Hack-with-Github-Awesome-Hacking](reels/reel_4979_Hack-with-Github-Awesome-Hacking) |
 | 4980 | 2026-02-13 06:41:08 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174334⭐ TypeScript) | [reels/reel_4980_n8n-io-n8n](reels/reel_4980_n8n-io-n8n) |
+| 4981 | 2026-02-13 07:38:08 | [Enclave0775/Intiface_Central-Sillytavern-plugin](https://github.com/Enclave0775/Intiface_Central-Sillytavern-plugin) | ✅ full (24⭐ JavaScript) | [reels/reel_4981_Enclave0775-Intiface_Central-Sillytavern-plugin](reels/reel_4981_Enclave0775-Intiface_Central-Sillytavern-plugin) |
