@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #4993 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 398k | 2026-02-13 |
+| #4994 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 146k | 2026-02-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5082,3 +5082,4 @@ If you need permission, you're thinking too much.
 | 4991 | 2026-02-13 16:59:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106506⭐ None) | [reels/reel_4991_Hack-with-Github-Awesome-Hacking](reels/reel_4991_Hack-with-Github-Awesome-Hacking) |
 | 4992 | 2026-02-13 17:44:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174389⭐ TypeScript) | [reels/reel_4992_n8n-io-n8n](reels/reel_4992_n8n-io-n8n) |
 | 4993 | 2026-02-13 18:26:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (398236⭐ Python) | [reels/reel_4993_public-apis-public-apis](reels/reel_4993_public-apis-public-apis) |
+| 4994 | 2026-02-13 19:23:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146971⭐ Python) | [reels/reel_4994_yt-dlp-yt-dlp](reels/reel_4994_yt-dlp-yt-dlp) |
