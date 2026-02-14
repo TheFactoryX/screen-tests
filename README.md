@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5008 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-14 |
+| #5009 | [Bush2021/edge_installer](https://github.com/Bush2021/edge_installer) | Python · ⭐ 244 | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5097,3 +5097,4 @@ If you need permission, you're thinking too much.
 | 5006 | 2026-02-14 06:25:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144782⭐ Python) | [reels/reel_5006_langflow-ai-langflow](reels/reel_5006_langflow-ai-langflow) |
 | 5007 | 2026-02-14 07:09:49 | [amina-liaquat/LeetCode](https://github.com/amina-liaquat/LeetCode) | ✅ full (24⭐ Python) | [reels/reel_5007_amina-liaquat-LeetCode](reels/reel_5007_amina-liaquat-LeetCode) |
 | 5008 | 2026-02-14 07:47:58 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147020⭐ Python) | [reels/reel_5008_yt-dlp-yt-dlp](reels/reel_5008_yt-dlp-yt-dlp) |
+| 5009 | 2026-02-14 08:30:26 | [Bush2021/edge_installer](https://github.com/Bush2021/edge_installer) | ✅ full (244⭐ Python) | [reels/reel_5009_Bush2021-edge_installer](reels/reel_5009_Bush2021-edge_installer) |

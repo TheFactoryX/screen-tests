@@ -1,0 +1,24 @@
+{
+  "reel_number": 5009,
+  "recorded": "2026-02-14 08:30:26 UTC",
+  "repository": {
+    "full_name": "Bush2021/edge_installer",
+    "url": "https://github.com/Bush2021/edge_installer",
+    "clone_url": "https://github.com/Bush2021/edge_installer.git",
+    "stars": 244,
+    "language": "Python",
+    "size_kb": 11184
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.188408
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 244 stars."
+  }
+}
