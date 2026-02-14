@@ -1,0 +1,24 @@
+{
+  "reel_number": 5007,
+  "recorded": "2026-02-14 07:09:49 UTC",
+  "repository": {
+    "full_name": "amina-liaquat/LeetCode",
+    "url": "https://github.com/amina-liaquat/LeetCode",
+    "clone_url": "https://github.com/amina-liaquat/LeetCode.git",
+    "stars": 24,
+    "language": "Python",
+    "size_kb": 694
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.590469
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 24 stars."
+  }
+}
