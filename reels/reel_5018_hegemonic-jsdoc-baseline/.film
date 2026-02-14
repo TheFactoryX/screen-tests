@@ -1,0 +1,24 @@
+{
+  "reel_number": 5018,
+  "recorded": "2026-02-14 13:49:44 UTC",
+  "repository": {
+    "full_name": "hegemonic/jsdoc-baseline",
+    "url": "https://github.com/hegemonic/jsdoc-baseline",
+    "clone_url": "https://github.com/hegemonic/jsdoc-baseline.git",
+    "stars": 61,
+    "language": "JavaScript",
+    "size_kb": 5330
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.225775
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 61 stars."
+  }
+}
