@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5011 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-14 |
+| #5012 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 106k | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5100,3 +5100,4 @@ If you need permission, you're thinking too much.
 | 5009 | 2026-02-14 08:30:26 | [Bush2021/edge_installer](https://github.com/Bush2021/edge_installer) | ✅ full (244⭐ Python) | [reels/reel_5009_Bush2021-edge_installer](reels/reel_5009_Bush2021-edge_installer) |
 | 5010 | 2026-02-14 09:03:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174466⭐ TypeScript) | [reels/reel_5010_n8n-io-n8n](reels/reel_5010_n8n-io-n8n) |
 | 5011 | 2026-02-14 09:45:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110263⭐ Rust) | [reels/reel_5011_rust-lang-rust](reels/reel_5011_rust-lang-rust) |
+| 5012 | 2026-02-14 10:24:30 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106543⭐ None) | [reels/reel_5012_Hack-with-Github-Awesome-Hacking](reels/reel_5012_Hack-with-Github-Awesome-Hacking) |
