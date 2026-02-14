@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5020 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-14 |
+| #5021 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5109,3 +5109,4 @@ If you need permission, you're thinking too much.
 | 5018 | 2026-02-14 13:49:44 | [hegemonic/jsdoc-baseline](https://github.com/hegemonic/jsdoc-baseline) | ✅ full (61⭐ JavaScript) | [reels/reel_5018_hegemonic-jsdoc-baseline](reels/reel_5018_hegemonic-jsdoc-baseline) |
 | 5019 | 2026-02-14 14:25:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111516⭐ TypeScript) | [reels/reel_5019_iptv-org-iptv](reels/reel_5019_iptv-org-iptv) |
 | 5020 | 2026-02-14 14:52:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144783⭐ Python) | [reels/reel_5020_langflow-ai-langflow](reels/reel_5020_langflow-ai-langflow) |
+| 5021 | 2026-02-14 15:23:54 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106601⭐ TypeScript) | [reels/reel_5021_shadcn-ui-ui](reels/reel_5021_shadcn-ui-ui) |
