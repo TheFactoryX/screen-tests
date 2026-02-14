@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5032 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 258k | 2026-02-14 |
+| #5033 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | Shell · ⭐ 137 | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5121,3 +5121,4 @@ If you need permission, you're thinking too much.
 | 5030 | 2026-02-14 19:54:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273238⭐ None) | [reels/reel_5030_awesome-selfhosted-awesome-selfhosted](reels/reel_5030_awesome-selfhosted-awesome-selfhosted) |
 | 5031 | 2026-02-14 20:23:59 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (97277⭐ TypeScript) | [reels/reel_5031_clash-verge-rev-clash-verge-rev](reels/reel_5031_clash-verge-rev-clash-verge-rev) |
 | 5032 | 2026-02-14 20:50:06 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258291⭐ None) | [reels/reel_5032_practical-tutorials-project-based-learning](reels/reel_5032_practical-tutorials-project-based-learning) |
+| 5033 | 2026-02-14 21:22:16 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | ✅ shallow (137⭐ Shell) | [reels/reel_5033_jvm-repo-rebuild-reproducible-central](reels/reel_5033_jvm-repo-rebuild-reproducible-central) |
