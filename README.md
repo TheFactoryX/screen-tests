@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5016 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 174k | 2026-02-14 |
+| #5017 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 103k | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5105,3 +5105,4 @@ If you need permission, you're thinking too much.
 | 5014 | 2026-02-14 11:20:43 | [OpenSauce/rustortion](https://github.com/OpenSauce/rustortion) | ✅ full (131⭐ Rust) | [reels/reel_5014_OpenSauce-rustortion](reels/reel_5014_OpenSauce-rustortion) |
 | 5015 | 2026-02-14 11:44:28 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97510⭐ TypeScript) | [reels/reel_5015_ant-design-ant-design](reels/reel_5015_ant-design-ant-design) |
 | 5016 | 2026-02-14 11:57:30 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174485⭐ TypeScript) | [reels/reel_5016_n8n-io-n8n](reels/reel_5016_n8n-io-n8n) |
+| 5017 | 2026-02-14 12:58:52 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103205⭐ Python) | [reels/reel_5017_Comfy-Org-ComfyUI](reels/reel_5017_Comfy-Org-ComfyUI) |
