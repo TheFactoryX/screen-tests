@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5029 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-14 |
+| #5030 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 273k | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5118,3 +5118,4 @@ If you need permission, you're thinking too much.
 | 5027 | 2026-02-14 18:32:12 | [gabrielsroka/gabrielsroka.github.io](https://github.com/gabrielsroka/gabrielsroka.github.io) | ✅ full (115⭐ JavaScript) | [reels/reel_5027_gabrielsroka-gabrielsroka.github.io](reels/reel_5027_gabrielsroka-gabrielsroka.github.io) |
 | 5028 | 2026-02-14 19:04:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111529⭐ TypeScript) | [reels/reel_5028_iptv-org-iptv](reels/reel_5028_iptv-org-iptv) |
 | 5029 | 2026-02-14 19:35:32 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97516⭐ TypeScript) | [reels/reel_5029_ant-design-ant-design](reels/reel_5029_ant-design-ant-design) |
+| 5030 | 2026-02-14 19:54:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273238⭐ None) | [reels/reel_5030_awesome-selfhosted-awesome-selfhosted](reels/reel_5030_awesome-selfhosted-awesome-selfhosted) |
