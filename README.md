@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5005 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 123k | 2026-02-14 |
+| #5006 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5094,3 +5094,4 @@ If you need permission, you're thinking too much.
 | 5003 | 2026-02-14 03:07:05 | [nexi-lab/nexus](https://github.com/nexi-lab/nexus) | ✅ shallow (300⭐ Python) | [reels/reel_5003_nexi-lab-nexus](reels/reel_5003_nexi-lab-nexus) |
 | 5004 | 2026-02-14 04:51:34 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126626⭐ Python) | [reels/reel_5004_langchain-ai-langchain](reels/reel_5004_langchain-ai-langchain) |
 | 5005 | 2026-02-14 05:42:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123861⭐ Python) | [reels/reel_5005_open-webui-open-webui](reels/reel_5005_open-webui-open-webui) |
+| 5006 | 2026-02-14 06:25:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144782⭐ Python) | [reels/reel_5006_langflow-ai-langflow](reels/reel_5006_langflow-ai-langflow) |
