@@ -1,0 +1,24 @@
+{
+  "reel_number": 5003,
+  "recorded": "2026-02-14 03:07:05 UTC",
+  "repository": {
+    "full_name": "nexi-lab/nexus",
+    "url": "https://github.com/nexi-lab/nexus",
+    "clone_url": "https://github.com/nexi-lab/nexus.git",
+    "stars": 300,
+    "language": "Python",
+    "size_kb": 208890
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 203,
+    "duration_seconds": 1.858266
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 300 stars."
+  }
+}

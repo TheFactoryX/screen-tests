@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5002 | [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) | Rust · ⭐ 7k | 2026-02-14 |
+| #5003 | [nexi-lab/nexus](https://github.com/nexi-lab/nexus) | Python · ⭐ 300 | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5091,3 +5091,4 @@ If you need permission, you're thinking too much.
 | 5000 | 2026-02-13 23:04:53 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97509⭐ TypeScript) | [reels/reel_5000_ant-design-ant-design](reels/reel_5000_ant-design-ant-design) |
 | 5001 | 2026-02-13 23:44:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (146982⭐ Python) | [reels/reel_5001_yt-dlp-yt-dlp](reels/reel_5001_yt-dlp-yt-dlp) |
 | 5002 | 2026-02-14 00:02:10 | [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) | ✅ full (7180⭐ Rust) | [reels/reel_5002_erikgrinaker-toydb](reels/reel_5002_erikgrinaker-toydb) |
+| 5003 | 2026-02-14 03:07:05 | [nexi-lab/nexus](https://github.com/nexi-lab/nexus) | ✅ shallow (300⭐ Python) | [reels/reel_5003_nexi-lab-nexus](reels/reel_5003_nexi-lab-nexus) |
