@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5034 | [pivovarit/articles](https://github.com/pivovarit/articles) | JavaScript · ⭐ 131 | 2026-02-14 |
+| #5035 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 103k | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5123,3 +5123,4 @@ If you need permission, you're thinking too much.
 | 5032 | 2026-02-14 20:50:06 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258291⭐ None) | [reels/reel_5032_practical-tutorials-project-based-learning](reels/reel_5032_practical-tutorials-project-based-learning) |
 | 5033 | 2026-02-14 21:22:16 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | ✅ shallow (137⭐ Shell) | [reels/reel_5033_jvm-repo-rebuild-reproducible-central](reels/reel_5033_jvm-repo-rebuild-reproducible-central) |
 | 5034 | 2026-02-14 21:46:31 | [pivovarit/articles](https://github.com/pivovarit/articles) | ✅ full (131⭐ JavaScript) | [reels/reel_5034_pivovarit-articles](reels/reel_5034_pivovarit-articles) |
+| 5035 | 2026-02-14 22:21:29 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103222⭐ Python) | [reels/reel_5035_Comfy-Org-ComfyUI](reels/reel_5035_Comfy-Org-ComfyUI) |
