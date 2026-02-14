@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5036 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-14 |
+| #5037 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5125,3 +5125,4 @@ If you need permission, you're thinking too much.
 | 5034 | 2026-02-14 21:46:31 | [pivovarit/articles](https://github.com/pivovarit/articles) | ✅ full (131⭐ JavaScript) | [reels/reel_5034_pivovarit-articles](reels/reel_5034_pivovarit-articles) |
 | 5035 | 2026-02-14 22:21:29 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103222⭐ Python) | [reels/reel_5035_Comfy-Org-ComfyUI](reels/reel_5035_Comfy-Org-ComfyUI) |
 | 5036 | 2026-02-14 22:49:57 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126663⭐ Python) | [reels/reel_5036_langchain-ai-langchain](reels/reel_5036_langchain-ai-langchain) |
+| 5037 | 2026-02-14 23:22:29 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101583⭐ Python) | [reels/reel_5037_deepseek-ai-DeepSeek-V3](reels/reel_5037_deepseek-ai-DeepSeek-V3) |
