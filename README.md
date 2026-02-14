@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5013 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-14 |
+| #5014 | [OpenSauce/rustortion](https://github.com/OpenSauce/rustortion) | Rust · ⭐ 131 | 2026-02-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5102,3 +5102,4 @@ If you need permission, you're thinking too much.
 | 5011 | 2026-02-14 09:45:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110263⭐ Rust) | [reels/reel_5011_rust-lang-rust](reels/reel_5011_rust-lang-rust) |
 | 5012 | 2026-02-14 10:24:30 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106543⭐ None) | [reels/reel_5012_Hack-with-Github-Awesome-Hacking](reels/reel_5012_Hack-with-Github-Awesome-Hacking) |
 | 5013 | 2026-02-14 10:53:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181791⭐ Python) | [reels/reel_5013_Significant-Gravitas-AutoGPT](reels/reel_5013_Significant-Gravitas-AutoGPT) |
+| 5014 | 2026-02-14 11:20:43 | [OpenSauce/rustortion](https://github.com/OpenSauce/rustortion) | ✅ full (131⭐ Rust) | [reels/reel_5014_OpenSauce-rustortion](reels/reel_5014_OpenSauce-rustortion) |
