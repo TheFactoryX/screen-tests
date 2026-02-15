@@ -1,0 +1,24 @@
+{
+  "reel_number": 5073,
+  "recorded": "2026-02-15 23:24:37 UTC",
+  "repository": {
+    "full_name": "HazelChat/hazel",
+    "url": "https://github.com/HazelChat/hazel",
+    "clone_url": "https://github.com/HazelChat/hazel.git",
+    "stars": 572,
+    "language": "TypeScript",
+    "size_kb": 160491
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 156,
+    "duration_seconds": 2.053662
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 572 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5072 | [PlatformNetwork/platform](https://github.com/PlatformNetwork/platform) | Rust · ⭐ 78 | 2026-02-15 |
+| #5073 | [HazelChat/hazel](https://github.com/HazelChat/hazel) | TypeScript · ⭐ 572 | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5161,3 +5161,4 @@ If you need permission, you're thinking too much.
 | 5070 | 2026-02-15 21:47:45 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (858⭐ Shell) | [reels/reel_5070_Alvin9999-newpac-fanqiang](reels/reel_5070_Alvin9999-newpac-fanqiang) |
 | 5071 | 2026-02-15 22:22:10 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | ✅ full (305⭐ Emacs Lisp) | [reels/reel_5071_eval-exec-neomacs](reels/reel_5071_eval-exec-neomacs) |
 | 5072 | 2026-02-15 22:51:18 | [PlatformNetwork/platform](https://github.com/PlatformNetwork/platform) | ✅ full (78⭐ Rust) | [reels/reel_5072_PlatformNetwork-platform](reels/reel_5072_PlatformNetwork-platform) |
+| 5073 | 2026-02-15 23:24:37 | [HazelChat/hazel](https://github.com/HazelChat/hazel) | ✅ shallow (572⭐ TypeScript) | [reels/reel_5073_HazelChat-hazel](reels/reel_5073_HazelChat-hazel) |
