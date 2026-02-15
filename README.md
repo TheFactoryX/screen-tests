@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5043 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-15 |
+| #5044 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5132,3 +5132,4 @@ If you need permission, you're thinking too much.
 | 5041 | 2026-02-15 05:40:18 | [bmen25124/SillyTavern-WeatherPack](https://github.com/bmen25124/SillyTavern-WeatherPack) | ✅ full (32⭐ TypeScript) | [reels/reel_5041_bmen25124-SillyTavern-WeatherPack](reels/reel_5041_bmen25124-SillyTavern-WeatherPack) |
 | 5042 | 2026-02-15 06:31:52 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110290⭐ Rust) | [reels/reel_5042_rust-lang-rust](reels/reel_5042_rust-lang-rust) |
 | 5043 | 2026-02-15 07:27:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111549⭐ TypeScript) | [reels/reel_5043_iptv-org-iptv](reels/reel_5043_iptv-org-iptv) |
+| 5044 | 2026-02-15 07:56:27 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110292⭐ Rust) | [reels/reel_5044_rust-lang-rust](reels/reel_5044_rust-lang-rust) |
