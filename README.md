@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5053 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 323 | 2026-02-15 |
+| #5054 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5142,3 +5142,4 @@ If you need permission, you're thinking too much.
 | 5051 | 2026-02-15 11:44:31 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110300⭐ Rust) | [reels/reel_5051_rust-lang-rust](reels/reel_5051_rust-lang-rust) |
 | 5052 | 2026-02-15 11:57:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273331⭐ None) | [reels/reel_5052_awesome-selfhosted-awesome-selfhosted](reels/reel_5052_awesome-selfhosted-awesome-selfhosted) |
 | 5053 | 2026-02-15 13:01:55 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (323⭐ None) | [reels/reel_5053_hello-world-1989-cn-news](reels/reel_5053_hello-world-1989-cn-news) |
+| 5054 | 2026-02-15 13:52:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147203⭐ Python) | [reels/reel_5054_yt-dlp-yt-dlp](reels/reel_5054_yt-dlp-yt-dlp) |
