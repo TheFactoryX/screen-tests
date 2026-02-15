@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5051 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-15 |
+| #5052 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 273k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5140,3 +5140,4 @@ If you need permission, you're thinking too much.
 | 5049 | 2026-02-15 10:53:13 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101589⭐ Python) | [reels/reel_5049_deepseek-ai-DeepSeek-V3](reels/reel_5049_deepseek-ai-DeepSeek-V3) |
 | 5050 | 2026-02-15 11:20:37 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106624⭐ None) | [reels/reel_5050_Hack-with-Github-Awesome-Hacking](reels/reel_5050_Hack-with-Github-Awesome-Hacking) |
 | 5051 | 2026-02-15 11:44:31 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110300⭐ Rust) | [reels/reel_5051_rust-lang-rust](reels/reel_5051_rust-lang-rust) |
+| 5052 | 2026-02-15 11:57:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273331⭐ None) | [reels/reel_5052_awesome-selfhosted-awesome-selfhosted](reels/reel_5052_awesome-selfhosted-awesome-selfhosted) |
