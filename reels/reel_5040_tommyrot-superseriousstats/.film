@@ -1,0 +1,24 @@
+{
+  "reel_number": 5040,
+  "recorded": "2026-02-15 04:30:01 UTC",
+  "repository": {
+    "full_name": "tommyrot/superseriousstats",
+    "url": "https://github.com/tommyrot/superseriousstats",
+    "clone_url": "https://github.com/tommyrot/superseriousstats.git",
+    "stars": 102,
+    "language": "PHP",
+    "size_kb": 2919
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.39306
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 102 stars."
+  }
+}
