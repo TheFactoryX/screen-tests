@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5049 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-02-15 |
+| #5050 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 106k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5138,3 +5138,4 @@ If you need permission, you're thinking too much.
 | 5047 | 2026-02-15 09:46:15 | [GrapheneOS/grapheneos.org](https://github.com/GrapheneOS/grapheneos.org) | ✅ full (611⭐ HTML) | [reels/reel_5047_GrapheneOS-grapheneos.org](reels/reel_5047_GrapheneOS-grapheneos.org) |
 | 5048 | 2026-02-15 10:24:18 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181818⭐ Python) | [reels/reel_5048_Significant-Gravitas-AutoGPT](reels/reel_5048_Significant-Gravitas-AutoGPT) |
 | 5049 | 2026-02-15 10:53:13 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101589⭐ Python) | [reels/reel_5049_deepseek-ai-DeepSeek-V3](reels/reel_5049_deepseek-ai-DeepSeek-V3) |
+| 5050 | 2026-02-15 11:20:37 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (106624⭐ None) | [reels/reel_5050_Hack-with-Github-Awesome-Hacking](reels/reel_5050_Hack-with-Github-Awesome-Hacking) |
