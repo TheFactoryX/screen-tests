@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5067 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-15 |
+| #5068 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5156,3 +5156,4 @@ If you need permission, you're thinking too much.
 | 5065 | 2026-02-15 19:40:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123999⭐ Python) | [reels/reel_5065_open-webui-open-webui](reels/reel_5065_open-webui-open-webui) |
 | 5066 | 2026-02-15 19:54:36 | [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine) | ✅ readme_only (2899⭐ C++) | [reels/reel_5066_PanosK92-SpartanEngine](reels/reel_5066_PanosK92-SpartanEngine) |
 | 5067 | 2026-02-15 20:24:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144813⭐ Python) | [reels/reel_5067_langflow-ai-langflow](reels/reel_5067_langflow-ai-langflow) |
+| 5068 | 2026-02-15 20:50:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110316⭐ Rust) | [reels/reel_5068_rust-lang-rust](reels/reel_5068_rust-lang-rust) |
