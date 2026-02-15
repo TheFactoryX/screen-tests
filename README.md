@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5046 | [KindXiaoming/physics_of_skill_learning](https://github.com/KindXiaoming/physics_of_skill_learning) | Jupyter Notebook · ⭐ 31 | 2026-02-15 |
+| #5047 | [GrapheneOS/grapheneos.org](https://github.com/GrapheneOS/grapheneos.org) | HTML · ⭐ 611 | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5135,3 +5135,4 @@ If you need permission, you're thinking too much.
 | 5044 | 2026-02-15 07:56:27 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110292⭐ Rust) | [reels/reel_5044_rust-lang-rust](reels/reel_5044_rust-lang-rust) |
 | 5045 | 2026-02-15 08:35:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126679⭐ Python) | [reels/reel_5045_langchain-ai-langchain](reels/reel_5045_langchain-ai-langchain) |
 | 5046 | 2026-02-15 09:03:46 | [KindXiaoming/physics_of_skill_learning](https://github.com/KindXiaoming/physics_of_skill_learning) | ✅ full (31⭐ Jupyter Notebook) | [reels/reel_5046_KindXiaoming-physics_of_skill_learning](reels/reel_5046_KindXiaoming-physics_of_skill_learning) |
+| 5047 | 2026-02-15 09:46:15 | [GrapheneOS/grapheneos.org](https://github.com/GrapheneOS/grapheneos.org) | ✅ full (611⭐ HTML) | [reels/reel_5047_GrapheneOS-grapheneos.org](reels/reel_5047_GrapheneOS-grapheneos.org) |

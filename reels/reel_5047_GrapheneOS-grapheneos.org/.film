@@ -1,0 +1,24 @@
+{
+  "reel_number": 5047,
+  "recorded": "2026-02-15 09:46:15 UTC",
+  "repository": {
+    "full_name": "GrapheneOS/grapheneos.org",
+    "url": "https://github.com/GrapheneOS/grapheneos.org",
+    "clone_url": "https://github.com/GrapheneOS/grapheneos.org.git",
+    "stars": 611,
+    "language": "HTML",
+    "size_kb": 10540
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 4.989678
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 611 stars."
+  }
+}
