@@ -1,0 +1,24 @@
+{
+  "reel_number": 5041,
+  "recorded": "2026-02-15 05:40:18 UTC",
+  "repository": {
+    "full_name": "bmen25124/SillyTavern-WeatherPack",
+    "url": "https://github.com/bmen25124/SillyTavern-WeatherPack",
+    "clone_url": "https://github.com/bmen25124/SillyTavern-WeatherPack.git",
+    "stars": 32,
+    "language": "TypeScript",
+    "size_kb": 274
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.276414
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 32 stars."
+  }
+}
