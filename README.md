@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5070 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | Shell · ⭐ 858 | 2026-02-15 |
+| #5071 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | Emacs Lisp · ⭐ 305 | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5159,3 +5159,4 @@ If you need permission, you're thinking too much.
 | 5068 | 2026-02-15 20:50:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110316⭐ Rust) | [reels/reel_5068_rust-lang-rust](reels/reel_5068_rust-lang-rust) |
 | 5069 | 2026-02-15 21:22:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181822⭐ Python) | [reels/reel_5069_Significant-Gravitas-AutoGPT](reels/reel_5069_Significant-Gravitas-AutoGPT) |
 | 5070 | 2026-02-15 21:47:45 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (858⭐ Shell) | [reels/reel_5070_Alvin9999-newpac-fanqiang](reels/reel_5070_Alvin9999-newpac-fanqiang) |
+| 5071 | 2026-02-15 22:22:10 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | ✅ full (305⭐ Emacs Lisp) | [reels/reel_5071_eval-exec-neomacs](reels/reel_5071_eval-exec-neomacs) |
