@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5047 | [GrapheneOS/grapheneos.org](https://github.com/GrapheneOS/grapheneos.org) | HTML · ⭐ 611 | 2026-02-15 |
+| #5048 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5136,3 +5136,4 @@ If you need permission, you're thinking too much.
 | 5045 | 2026-02-15 08:35:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126679⭐ Python) | [reels/reel_5045_langchain-ai-langchain](reels/reel_5045_langchain-ai-langchain) |
 | 5046 | 2026-02-15 09:03:46 | [KindXiaoming/physics_of_skill_learning](https://github.com/KindXiaoming/physics_of_skill_learning) | ✅ full (31⭐ Jupyter Notebook) | [reels/reel_5046_KindXiaoming-physics_of_skill_learning](reels/reel_5046_KindXiaoming-physics_of_skill_learning) |
 | 5047 | 2026-02-15 09:46:15 | [GrapheneOS/grapheneos.org](https://github.com/GrapheneOS/grapheneos.org) | ✅ full (611⭐ HTML) | [reels/reel_5047_GrapheneOS-grapheneos.org](reels/reel_5047_GrapheneOS-grapheneos.org) |
+| 5048 | 2026-02-15 10:24:18 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181818⭐ Python) | [reels/reel_5048_Significant-Gravitas-AutoGPT](reels/reel_5048_Significant-Gravitas-AutoGPT) |
