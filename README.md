@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5062 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-15 |
+| #5063 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5151,3 +5151,4 @@ If you need permission, you're thinking too much.
 | 5060 | 2026-02-15 16:57:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174643⭐ TypeScript) | [reels/reel_5060_n8n-io-n8n](reels/reel_5060_n8n-io-n8n) |
 | 5061 | 2026-02-15 17:30:38 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (123993⭐ Python) | [reels/reel_5061_open-webui-open-webui](reels/reel_5061_open-webui-open-webui) |
 | 5062 | 2026-02-15 17:57:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126705⭐ Python) | [reels/reel_5062_langchain-ai-langchain](reels/reel_5062_langchain-ai-langchain) |
+| 5063 | 2026-02-15 18:42:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106655⭐ TypeScript) | [reels/reel_5063_shadcn-ui-ui](reels/reel_5063_shadcn-ui-ui) |
