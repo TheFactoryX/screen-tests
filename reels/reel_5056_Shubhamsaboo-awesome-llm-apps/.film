@@ -1,0 +1,24 @@
+{
+  "reel_number": 5056,
+  "recorded": "2026-02-15 14:54:18 UTC",
+  "repository": {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "clone_url": "https://github.com/Shubhamsaboo/awesome-llm-apps.git",
+    "stars": 95147,
+    "language": "Python",
+    "size_kb": 196517
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 191,
+    "duration_seconds": 3.437512
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 95147 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5055 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-15 |
+| #5056 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python · ⭐ 95k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5144,3 +5144,4 @@ If you need permission, you're thinking too much.
 | 5053 | 2026-02-15 13:01:55 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (323⭐ None) | [reels/reel_5053_hello-world-1989-cn-news](reels/reel_5053_hello-world-1989-cn-news) |
 | 5054 | 2026-02-15 13:52:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147203⭐ Python) | [reels/reel_5054_yt-dlp-yt-dlp](reels/reel_5054_yt-dlp-yt-dlp) |
 | 5055 | 2026-02-15 14:26:00 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111577⭐ TypeScript) | [reels/reel_5055_iptv-org-iptv](reels/reel_5055_iptv-org-iptv) |
+| 5056 | 2026-02-15 14:54:18 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | ✅ shallow (95147⭐ Python) | [reels/reel_5056_Shubhamsaboo-awesome-llm-apps](reels/reel_5056_Shubhamsaboo-awesome-llm-apps) |
