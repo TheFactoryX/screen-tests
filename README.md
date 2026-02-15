@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5038 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 174k | 2026-02-14 |
+| #5039 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5127,3 +5127,4 @@ If you need permission, you're thinking too much.
 | 5036 | 2026-02-14 22:49:57 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126663⭐ Python) | [reels/reel_5036_langchain-ai-langchain](reels/reel_5036_langchain-ai-langchain) |
 | 5037 | 2026-02-14 23:22:29 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101583⭐ Python) | [reels/reel_5037_deepseek-ai-DeepSeek-V3](reels/reel_5037_deepseek-ai-DeepSeek-V3) |
 | 5038 | 2026-02-14 23:46:56 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174544⭐ TypeScript) | [reels/reel_5038_n8n-io-n8n](reels/reel_5038_n8n-io-n8n) |
+| 5039 | 2026-02-15 02:05:44 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97519⭐ TypeScript) | [reels/reel_5039_ant-design-ant-design](reels/reel_5039_ant-design-ant-design) |
