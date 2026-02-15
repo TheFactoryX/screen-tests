@@ -1,0 +1,24 @@
+{
+  "reel_number": 5066,
+  "recorded": "2026-02-15 19:54:36 UTC",
+  "repository": {
+    "full_name": "PanosK92/SpartanEngine",
+    "url": "https://github.com/PanosK92/SpartanEngine",
+    "clone_url": "https://github.com/PanosK92/SpartanEngine.git",
+    "stars": 2899,
+    "language": "C++",
+    "size_kb": 673105
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 657,
+    "duration_seconds": 0.00015
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 2899 stars."
+  }
+}
