@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5075 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 174k | 2026-02-16 |
+| #5076 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5164,3 +5164,4 @@ If you need permission, you're thinking too much.
 | 5073 | 2026-02-15 23:24:37 | [HazelChat/hazel](https://github.com/HazelChat/hazel) | ✅ shallow (572⭐ TypeScript) | [reels/reel_5073_HazelChat-hazel](reels/reel_5073_HazelChat-hazel) |
 | 5074 | 2026-02-15 23:50:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144817⭐ Python) | [reels/reel_5074_langflow-ai-langflow](reels/reel_5074_langflow-ai-langflow) |
 | 5075 | 2026-02-16 02:01:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (174692⭐ TypeScript) | [reels/reel_5075_n8n-io-n8n](reels/reel_5075_n8n-io-n8n) |
+| 5076 | 2026-02-16 04:34:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147299⭐ Python) | [reels/reel_5076_yt-dlp-yt-dlp](reels/reel_5076_yt-dlp-yt-dlp) |
