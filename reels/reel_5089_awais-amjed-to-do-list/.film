@@ -1,0 +1,24 @@
+{
+  "reel_number": 5089,
+  "recorded": "2026-02-16 17:36:25 UTC",
+  "repository": {
+    "full_name": "awais-amjed/to-do-list",
+    "url": "https://github.com/awais-amjed/to-do-list",
+    "clone_url": "https://github.com/awais-amjed/to-do-list.git",
+    "stars": 19,
+    "language": "JavaScript",
+    "size_kb": 459
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.309939
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 19 stars."
+  }
+}
