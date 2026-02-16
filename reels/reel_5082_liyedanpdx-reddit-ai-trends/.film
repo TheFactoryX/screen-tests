@@ -1,0 +1,24 @@
+{
+  "reel_number": 5082,
+  "recorded": "2026-02-16 11:07:13 UTC",
+  "repository": {
+    "full_name": "liyedanpdx/reddit-ai-trends",
+    "url": "https://github.com/liyedanpdx/reddit-ai-trends",
+    "clone_url": "https://github.com/liyedanpdx/reddit-ai-trends.git",
+    "stars": 793,
+    "language": "Python",
+    "size_kb": 3432
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.779672
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 793 stars."
+  }
+}

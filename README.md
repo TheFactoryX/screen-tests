@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5081 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-16 |
+| #5082 | [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends) | Python · ⭐ 793 | 2026-02-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5170,3 +5170,4 @@ If you need permission, you're thinking too much.
 | 5079 | 2026-02-16 08:00:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147316⭐ Python) | [reels/reel_5079_yt-dlp-yt-dlp](reels/reel_5079_yt-dlp-yt-dlp) |
 | 5080 | 2026-02-16 09:06:27 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181831⭐ Python) | [reels/reel_5080_Significant-Gravitas-AutoGPT](reels/reel_5080_Significant-Gravitas-AutoGPT) |
 | 5081 | 2026-02-16 10:10:40 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181832⭐ Python) | [reels/reel_5081_Significant-Gravitas-AutoGPT](reels/reel_5081_Significant-Gravitas-AutoGPT) |
+| 5082 | 2026-02-16 11:07:13 | [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends) | ✅ full (793⭐ Python) | [reels/reel_5082_liyedanpdx-reddit-ai-trends](reels/reel_5082_liyedanpdx-reddit-ai-trends) |
