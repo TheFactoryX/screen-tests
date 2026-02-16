@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5087 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 124k | 2026-02-16 |
+| #5088 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5176,3 +5176,4 @@ If you need permission, you're thinking too much.
 | 5085 | 2026-02-16 14:08:21 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106694⭐ TypeScript) | [reels/reel_5085_shadcn-ui-ui](reels/reel_5085_shadcn-ui-ui) |
 | 5086 | 2026-02-16 15:00:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126732⭐ Python) | [reels/reel_5086_langchain-ai-langchain](reels/reel_5086_langchain-ai-langchain) |
 | 5087 | 2026-02-16 15:56:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124071⭐ Python) | [reels/reel_5087_open-webui-open-webui](reels/reel_5087_open-webui-open-webui) |
+| 5088 | 2026-02-16 16:50:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144827⭐ Python) | [reels/reel_5088_langflow-ai-langflow](reels/reel_5088_langflow-ai-langflow) |
