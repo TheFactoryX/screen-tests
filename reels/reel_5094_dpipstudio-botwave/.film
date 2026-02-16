@@ -1,0 +1,24 @@
+{
+  "reel_number": 5094,
+  "recorded": "2026-02-16 20:57:35 UTC",
+  "repository": {
+    "full_name": "dpipstudio/botwave",
+    "url": "https://github.com/dpipstudio/botwave",
+    "clone_url": "https://github.com/dpipstudio/botwave.git",
+    "stars": 120,
+    "language": "Python",
+    "size_kb": 2325
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.226903
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 120 stars."
+  }
+}
