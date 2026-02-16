@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5078 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 97k | 2026-02-16 |
+| #5079 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5167,3 +5167,4 @@ If you need permission, you're thinking too much.
 | 5076 | 2026-02-16 04:34:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147299⭐ Python) | [reels/reel_5076_yt-dlp-yt-dlp](reels/reel_5076_yt-dlp-yt-dlp) |
 | 5077 | 2026-02-16 05:54:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110327⭐ Rust) | [reels/reel_5077_rust-lang-rust](reels/reel_5077_rust-lang-rust) |
 | 5078 | 2026-02-16 07:01:06 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (97446⭐ TypeScript) | [reels/reel_5078_clash-verge-rev-clash-verge-rev](reels/reel_5078_clash-verge-rev-clash-verge-rev) |
+| 5079 | 2026-02-16 08:00:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147316⭐ Python) | [reels/reel_5079_yt-dlp-yt-dlp](reels/reel_5079_yt-dlp-yt-dlp) |
