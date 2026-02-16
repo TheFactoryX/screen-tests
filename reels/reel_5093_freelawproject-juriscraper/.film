@@ -1,0 +1,24 @@
+{
+  "reel_number": 5093,
+  "recorded": "2026-02-16 20:28:46 UTC",
+  "repository": {
+    "full_name": "freelawproject/juriscraper",
+    "url": "https://github.com/freelawproject/juriscraper",
+    "clone_url": "https://github.com/freelawproject/juriscraper.git",
+    "stars": 539,
+    "language": "HTML",
+    "size_kb": 65888
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 64,
+    "duration_seconds": 5.384389
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 539 stars."
+  }
+}
