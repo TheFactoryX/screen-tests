@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5095 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-16 |
+| #5096 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 103k | 2026-02-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5184,3 +5184,4 @@ If you need permission, you're thinking too much.
 | 5093 | 2026-02-16 20:28:46 | [freelawproject/juriscraper](https://github.com/freelawproject/juriscraper) | ✅ full (539⭐ HTML) | [reels/reel_5093_freelawproject-juriscraper](reels/reel_5093_freelawproject-juriscraper) |
 | 5094 | 2026-02-16 20:57:35 | [dpipstudio/botwave](https://github.com/dpipstudio/botwave) | ✅ full (120⭐ Python) | [reels/reel_5094_dpipstudio-botwave](reels/reel_5094_dpipstudio-botwave) |
 | 5095 | 2026-02-16 21:33:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126754⭐ Python) | [reels/reel_5095_langchain-ai-langchain](reels/reel_5095_langchain-ai-langchain) |
+| 5096 | 2026-02-16 21:58:25 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103347⭐ Python) | [reels/reel_5096_Comfy-Org-ComfyUI](reels/reel_5096_Comfy-Org-ComfyUI) |
