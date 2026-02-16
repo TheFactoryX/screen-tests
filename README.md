@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5085 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-16 |
+| #5086 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5174,3 +5174,4 @@ If you need permission, you're thinking too much.
 | 5083 | 2026-02-16 11:54:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111631⭐ TypeScript) | [reels/reel_5083_iptv-org-iptv](reels/reel_5083_iptv-org-iptv) |
 | 5084 | 2026-02-16 12:59:26 | [deltacv/PaperVision](https://github.com/deltacv/PaperVision) | ✅ full (389⭐ Kotlin) | [reels/reel_5084_deltacv-PaperVision](reels/reel_5084_deltacv-PaperVision) |
 | 5085 | 2026-02-16 14:08:21 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106694⭐ TypeScript) | [reels/reel_5085_shadcn-ui-ui](reels/reel_5085_shadcn-ui-ui) |
+| 5086 | 2026-02-16 15:00:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126732⭐ Python) | [reels/reel_5086_langchain-ai-langchain](reels/reel_5086_langchain-ai-langchain) |
