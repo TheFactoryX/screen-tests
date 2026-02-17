@@ -1,0 +1,24 @@
+{
+  "reel_number": 5109,
+  "recorded": "2026-02-17 11:54:06 UTC",
+  "repository": {
+    "full_name": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "clone_url": "https://github.com/Comfy-Org/ComfyUI.git",
+    "stars": 103388,
+    "language": "Python",
+    "size_kb": 79999
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 78,
+    "duration_seconds": 3.795569
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 103388 stars."
+  }
+}
