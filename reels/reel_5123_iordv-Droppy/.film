@@ -1,0 +1,24 @@
+{
+  "reel_number": 5123,
+  "recorded": "2026-02-17 23:38:14 UTC",
+  "repository": {
+    "full_name": "iordv/Droppy",
+    "url": "https://github.com/iordv/Droppy",
+    "clone_url": "https://github.com/iordv/Droppy.git",
+    "stars": 812,
+    "language": "Swift",
+    "size_kb": 2140066
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2089,
+    "duration_seconds": 0.000176
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 812 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5122 | [SakanaAI/ShinkaEvolve](https://github.com/SakanaAI/ShinkaEvolve) | Python · ⭐ 836 | 2026-02-17 |
+| #5123 | [iordv/Droppy](https://github.com/iordv/Droppy) | Swift · ⭐ 812 | 2026-02-17 |
 ---
 
 ## 🎭 Selection Process
@@ -5211,3 +5211,4 @@ If you need permission, you're thinking too much.
 | 5120 | 2026-02-17 21:54:28 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106759⭐ TypeScript) | [reels/reel_5120_shadcn-ui-ui](reels/reel_5120_shadcn-ui-ui) |
 | 5121 | 2026-02-17 22:29:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110400⭐ Rust) | [reels/reel_5121_rust-lang-rust](reels/reel_5121_rust-lang-rust) |
 | 5122 | 2026-02-17 22:59:11 | [SakanaAI/ShinkaEvolve](https://github.com/SakanaAI/ShinkaEvolve) | ✅ full (836⭐ Python) | [reels/reel_5122_SakanaAI-ShinkaEvolve](reels/reel_5122_SakanaAI-ShinkaEvolve) |
+| 5123 | 2026-02-17 23:38:14 | [iordv/Droppy](https://github.com/iordv/Droppy) | ✅ readme_only (812⭐ Swift) | [reels/reel_5123_iordv-Droppy](reels/reel_5123_iordv-Droppy) |
