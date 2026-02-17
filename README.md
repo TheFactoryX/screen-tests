@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5111 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 97k | 2026-02-17 |
+| #5112 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | CSS · ⭐ 10k | 2026-02-17 |
 ---
 
 ## 🎭 Selection Process
@@ -5200,3 +5200,4 @@ If you need permission, you're thinking too much.
 | 5109 | 2026-02-17 11:54:06 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103388⭐ Python) | [reels/reel_5109_Comfy-Org-ComfyUI](reels/reel_5109_Comfy-Org-ComfyUI) |
 | 5110 | 2026-02-17 12:59:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273655⭐ None) | [reels/reel_5110_awesome-selfhosted-awesome-selfhosted](reels/reel_5110_awesome-selfhosted-awesome-selfhosted) |
 | 5111 | 2026-02-17 14:10:21 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (97534⭐ TypeScript) | [reels/reel_5111_clash-verge-rev-clash-verge-rev](reels/reel_5111_clash-verge-rev-clash-verge-rev) |
+| 5112 | 2026-02-17 15:05:47 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | ✅ readme_only (10874⭐ CSS) | [reels/reel_5112_HackTricks-wiki-hacktricks](reels/reel_5112_HackTricks-wiki-hacktricks) |
