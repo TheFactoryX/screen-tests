@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5113 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-17 |
+| #5114 | [p2r3/convert](https://github.com/p2r3/convert) | TypeScript · ⭐ 878 | 2026-02-17 |
 ---
 
 ## 🎭 Selection Process
@@ -5202,3 +5202,4 @@ If you need permission, you're thinking too much.
 | 5111 | 2026-02-17 14:10:21 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (97534⭐ TypeScript) | [reels/reel_5111_clash-verge-rev-clash-verge-rev](reels/reel_5111_clash-verge-rev-clash-verge-rev) |
 | 5112 | 2026-02-17 15:05:47 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | ✅ readme_only (10874⭐ CSS) | [reels/reel_5112_HackTricks-wiki-hacktricks](reels/reel_5112_HackTricks-wiki-hacktricks) |
 | 5113 | 2026-02-17 16:08:11 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126806⭐ Python) | [reels/reel_5113_langchain-ai-langchain](reels/reel_5113_langchain-ai-langchain) |
+| 5114 | 2026-02-17 17:15:19 | [p2r3/convert](https://github.com/p2r3/convert) | ✅ full (878⭐ TypeScript) | [reels/reel_5114_p2r3-convert](reels/reel_5114_p2r3-convert) |
