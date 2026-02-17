@@ -1,0 +1,24 @@
+{
+  "reel_number": 5104,
+  "recorded": "2026-02-17 07:15:04 UTC",
+  "repository": {
+    "full_name": "TopChina/proxy-list",
+    "url": "https://github.com/TopChina/proxy-list",
+    "clone_url": "https://github.com/TopChina/proxy-list.git",
+    "stars": 256,
+    "language": null,
+    "size_kb": 37025
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 36,
+    "duration_seconds": 2.879514
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 256 stars."
+  }
+}
