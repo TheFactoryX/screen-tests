@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5117 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-17 |
+| #5118 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-17 |
 ---
 
 ## 🎭 Selection Process
@@ -5206,3 +5206,4 @@ If you need permission, you're thinking too much.
 | 5115 | 2026-02-17 18:11:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181844⭐ Python) | [reels/reel_5115_Significant-Gravitas-AutoGPT](reels/reel_5115_Significant-Gravitas-AutoGPT) |
 | 5116 | 2026-02-17 19:15:00 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111697⭐ TypeScript) | [reels/reel_5116_iptv-org-iptv](reels/reel_5116_iptv-org-iptv) |
 | 5117 | 2026-02-17 19:53:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126816⭐ Python) | [reels/reel_5117_langchain-ai-langchain](reels/reel_5117_langchain-ai-langchain) |
+| 5118 | 2026-02-17 20:35:23 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110399⭐ Rust) | [reels/reel_5118_rust-lang-rust](reels/reel_5118_rust-lang-rust) |
