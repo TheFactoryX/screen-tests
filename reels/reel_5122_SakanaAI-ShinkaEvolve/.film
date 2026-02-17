@@ -1,0 +1,24 @@
+{
+  "reel_number": 5122,
+  "recorded": "2026-02-17 22:59:11 UTC",
+  "repository": {
+    "full_name": "SakanaAI/ShinkaEvolve",
+    "url": "https://github.com/SakanaAI/ShinkaEvolve",
+    "clone_url": "https://github.com/SakanaAI/ShinkaEvolve.git",
+    "stars": 836,
+    "language": "Python",
+    "size_kb": 5837
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.57029
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 836 stars."
+  }
+}
