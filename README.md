@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5119 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-17 |
+| #5120 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-17 |
 ---
 
 ## 🎭 Selection Process
@@ -5208,3 +5208,4 @@ If you need permission, you're thinking too much.
 | 5117 | 2026-02-17 19:53:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126816⭐ Python) | [reels/reel_5117_langchain-ai-langchain](reels/reel_5117_langchain-ai-langchain) |
 | 5118 | 2026-02-17 20:35:23 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110399⭐ Rust) | [reels/reel_5118_rust-lang-rust](reels/reel_5118_rust-lang-rust) |
 | 5119 | 2026-02-17 21:18:46 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110400⭐ Rust) | [reels/reel_5119_rust-lang-rust](reels/reel_5119_rust-lang-rust) |
+| 5120 | 2026-02-17 21:54:28 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106759⭐ TypeScript) | [reels/reel_5120_shadcn-ui-ui](reels/reel_5120_shadcn-ui-ui) |
