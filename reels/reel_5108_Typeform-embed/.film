@@ -1,0 +1,24 @@
+{
+  "reel_number": 5108,
+  "recorded": "2026-02-17 11:06:43 UTC",
+  "repository": {
+    "full_name": "Typeform/embed",
+    "url": "https://github.com/Typeform/embed",
+    "clone_url": "https://github.com/Typeform/embed.git",
+    "stars": 314,
+    "language": "TypeScript",
+    "size_kb": 6247
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.973827
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 314 stars."
+  }
+}

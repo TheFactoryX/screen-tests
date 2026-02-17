@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5107 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-17 |
+| #5108 | [Typeform/embed](https://github.com/Typeform/embed) | TypeScript · ⭐ 314 | 2026-02-17 |
 ---
 
 ## 🎭 Selection Process
@@ -5196,3 +5196,4 @@ If you need permission, you're thinking too much.
 | 5105 | 2026-02-17 08:00:32 | [aaron9000/c-game-resources](https://github.com/aaron9000/c-game-resources) | ✅ full (168⭐ None) | [reels/reel_5105_aaron9000-c-game-resources](reels/reel_5105_aaron9000-c-game-resources) |
 | 5106 | 2026-02-17 09:04:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106722⭐ TypeScript) | [reels/reel_5106_shadcn-ui-ui](reels/reel_5106_shadcn-ui-ui) |
 | 5107 | 2026-02-17 10:06:07 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126787⭐ Python) | [reels/reel_5107_langchain-ai-langchain](reels/reel_5107_langchain-ai-langchain) |
+| 5108 | 2026-02-17 11:06:43 | [Typeform/embed](https://github.com/Typeform/embed) | ✅ full (314⭐ TypeScript) | [reels/reel_5108_Typeform-embed](reels/reel_5108_Typeform-embed) |
