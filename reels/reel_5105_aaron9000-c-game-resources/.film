@@ -1,0 +1,24 @@
+{
+  "reel_number": 5105,
+  "recorded": "2026-02-17 08:00:32 UTC",
+  "repository": {
+    "full_name": "aaron9000/c-game-resources",
+    "url": "https://github.com/aaron9000/c-game-resources",
+    "clone_url": "https://github.com/aaron9000/c-game-resources.git",
+    "stars": 168,
+    "language": null,
+    "size_kb": 37
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.415966
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 168 stars."
+  }
+}
