@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5100 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-17 |
+| #5101 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-17 |
 ---
 
 ## 🎭 Selection Process
@@ -5189,3 +5189,4 @@ If you need permission, you're thinking too much.
 | 5098 | 2026-02-16 23:02:24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111671⭐ TypeScript) | [reels/reel_5098_iptv-org-iptv](reels/reel_5098_iptv-org-iptv) |
 | 5099 | 2026-02-16 23:44:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111672⭐ TypeScript) | [reels/reel_5099_iptv-org-iptv](reels/reel_5099_iptv-org-iptv) |
 | 5100 | 2026-02-17 00:01:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102763⭐ Rust) | [reels/reel_5100_tauri-apps-tauri](reels/reel_5100_tauri-apps-tauri) |
+| 5101 | 2026-02-17 03:13:21 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126772⭐ Python) | [reels/reel_5101_langchain-ai-langchain](reels/reel_5101_langchain-ai-langchain) |
