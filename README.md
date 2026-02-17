@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5102 | [Spuckwaffel/dumpspace](https://github.com/Spuckwaffel/dumpspace) | JavaScript · ⭐ 106 | 2026-02-17 |
+| #5103 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-17 |
 ---
 
 ## 🎭 Selection Process
@@ -5191,3 +5191,4 @@ If you need permission, you're thinking too much.
 | 5100 | 2026-02-17 00:01:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (102763⭐ Rust) | [reels/reel_5100_tauri-apps-tauri](reels/reel_5100_tauri-apps-tauri) |
 | 5101 | 2026-02-17 03:13:21 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126772⭐ Python) | [reels/reel_5101_langchain-ai-langchain](reels/reel_5101_langchain-ai-langchain) |
 | 5102 | 2026-02-17 05:03:39 | [Spuckwaffel/dumpspace](https://github.com/Spuckwaffel/dumpspace) | ✅ readme_only (106⭐ JavaScript) | [reels/reel_5102_Spuckwaffel-dumpspace](reels/reel_5102_Spuckwaffel-dumpspace) |
+| 5103 | 2026-02-17 06:10:08 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111685⭐ TypeScript) | [reels/reel_5103_iptv-org-iptv](reels/reel_5103_iptv-org-iptv) |
