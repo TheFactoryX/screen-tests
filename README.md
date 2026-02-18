@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5129 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 273k | 2026-02-18 |
+| #5130 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5218,3 +5218,4 @@ If you need permission, you're thinking too much.
 | 5127 | 2026-02-18 05:59:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124203⭐ Python) | [reels/reel_5127_open-webui-open-webui](reels/reel_5127_open-webui-open-webui) |
 | 5128 | 2026-02-18 07:12:16 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258547⭐ None) | [reels/reel_5128_practical-tutorials-project-based-learning](reels/reel_5128_practical-tutorials-project-based-learning) |
 | 5129 | 2026-02-18 07:58:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273792⭐ None) | [reels/reel_5129_awesome-selfhosted-awesome-selfhosted](reels/reel_5129_awesome-selfhosted-awesome-selfhosted) |
+| 5130 | 2026-02-18 08:57:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147528⭐ Python) | [reels/reel_5130_yt-dlp-yt-dlp](reels/reel_5130_yt-dlp-yt-dlp) |
