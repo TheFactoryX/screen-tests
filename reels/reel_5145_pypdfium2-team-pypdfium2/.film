@@ -1,0 +1,24 @@
+{
+  "reel_number": 5145,
+  "recorded": "2026-02-18 22:30:34 UTC",
+  "repository": {
+    "full_name": "pypdfium2-team/pypdfium2",
+    "url": "https://github.com/pypdfium2-team/pypdfium2",
+    "clone_url": "https://github.com/pypdfium2-team/pypdfium2.git",
+    "stars": 726,
+    "language": "Python",
+    "size_kb": 3664
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.239908
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 726 stars."
+  }
+}
