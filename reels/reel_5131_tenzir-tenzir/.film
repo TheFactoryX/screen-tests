@@ -1,0 +1,24 @@
+{
+  "reel_number": 5131,
+  "recorded": "2026-02-18 09:53:08 UTC",
+  "repository": {
+    "full_name": "tenzir/tenzir",
+    "url": "https://github.com/tenzir/tenzir",
+    "clone_url": "https://github.com/tenzir/tenzir.git",
+    "stars": 720,
+    "language": "C++",
+    "size_kb": 2295423
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2241,
+    "duration_seconds": 0.000145
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 720 stars."
+  }
+}
