@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5133 | [Ialalendd/randomCatFacts](https://github.com/Ialalendd/randomCatFacts) | None · ⭐ 25 | 2026-02-18 |
+| #5134 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 258k | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5222,3 +5222,4 @@ If you need permission, you're thinking too much.
 | 5131 | 2026-02-18 09:53:08 | [tenzir/tenzir](https://github.com/tenzir/tenzir) | ✅ readme_only (720⭐ C++) | [reels/reel_5131_tenzir-tenzir](reels/reel_5131_tenzir-tenzir) |
 | 5132 | 2026-02-18 10:42:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147536⭐ Python) | [reels/reel_5132_yt-dlp-yt-dlp](reels/reel_5132_yt-dlp-yt-dlp) |
 | 5133 | 2026-02-18 11:26:44 | [Ialalendd/randomCatFacts](https://github.com/Ialalendd/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_5133_Ialalendd-randomCatFacts](reels/reel_5133_Ialalendd-randomCatFacts) |
+| 5134 | 2026-02-18 12:00:59 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258555⭐ None) | [reels/reel_5134_practical-tutorials-project-based-learning](reels/reel_5134_practical-tutorials-project-based-learning) |
