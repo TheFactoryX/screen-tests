@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5127 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 124k | 2026-02-18 |
+| #5128 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 258k | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5216,3 +5216,4 @@ If you need permission, you're thinking too much.
 | 5125 | 2026-02-18 02:54:29 | [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data) | ✅ shallow (418⭐ None) | [reels/reel_5125_davidmegginson-ourairports-data](reels/reel_5125_davidmegginson-ourairports-data) |
 | 5126 | 2026-02-18 04:51:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124200⭐ Python) | [reels/reel_5126_open-webui-open-webui](reels/reel_5126_open-webui-open-webui) |
 | 5127 | 2026-02-18 05:59:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124203⭐ Python) | [reels/reel_5127_open-webui-open-webui](reels/reel_5127_open-webui-open-webui) |
+| 5128 | 2026-02-18 07:12:16 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258547⭐ None) | [reels/reel_5128_practical-tutorials-project-based-learning](reels/reel_5128_practical-tutorials-project-based-learning) |
