@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5139 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 273k | 2026-02-18 |
+| #5140 | [termux-pacman/termux-packages](https://github.com/termux-pacman/termux-packages) | Shell · ⭐ 147 | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5228,3 +5228,4 @@ If you need permission, you're thinking too much.
 | 5137 | 2026-02-18 15:35:22 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144870⭐ Python) | [reels/reel_5137_langflow-ai-langflow](reels/reel_5137_langflow-ai-langflow) |
 | 5138 | 2026-02-18 16:43:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111721⭐ TypeScript) | [reels/reel_5138_iptv-org-iptv](reels/reel_5138_iptv-org-iptv) |
 | 5139 | 2026-02-18 17:42:24 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273877⭐ None) | [reels/reel_5139_awesome-selfhosted-awesome-selfhosted](reels/reel_5139_awesome-selfhosted-awesome-selfhosted) |
+| 5140 | 2026-02-18 18:30:55 | [termux-pacman/termux-packages](https://github.com/termux-pacman/termux-packages) | ✅ full (147⭐ Shell) | [reels/reel_5140_termux-pacman-termux-packages](reels/reel_5140_termux-pacman-termux-packages) |
