@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5143 | [ksamirdev/schedy](https://github.com/ksamirdev/schedy) | Go · ⭐ 50 | 2026-02-18 |
+| #5144 | [Doraku/DefaultDocumentation](https://github.com/Doraku/DefaultDocumentation) | C# · ⭐ 163 | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5232,3 +5232,4 @@ If you need permission, you're thinking too much.
 | 5141 | 2026-02-18 19:34:36 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97565⭐ TypeScript) | [reels/reel_5141_ant-design-ant-design](reels/reel_5141_ant-design-ant-design) |
 | 5142 | 2026-02-18 20:20:36 | [Martin521/Runfs](https://github.com/Martin521/Runfs) | ✅ full (17⭐ F#) | [reels/reel_5142_Martin521-Runfs](reels/reel_5142_Martin521-Runfs) |
 | 5143 | 2026-02-18 21:03:50 | [ksamirdev/schedy](https://github.com/ksamirdev/schedy) | ✅ full (50⭐ Go) | [reels/reel_5143_ksamirdev-schedy](reels/reel_5143_ksamirdev-schedy) |
+| 5144 | 2026-02-18 21:49:06 | [Doraku/DefaultDocumentation](https://github.com/Doraku/DefaultDocumentation) | ✅ full (163⭐ C#) | [reels/reel_5144_Doraku-DefaultDocumentation](reels/reel_5144_Doraku-DefaultDocumentation) |

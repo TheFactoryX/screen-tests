@@ -1,0 +1,24 @@
+{
+  "reel_number": 5144,
+  "recorded": "2026-02-18 21:49:06 UTC",
+  "repository": {
+    "full_name": "Doraku/DefaultDocumentation",
+    "url": "https://github.com/Doraku/DefaultDocumentation",
+    "clone_url": "https://github.com/Doraku/DefaultDocumentation.git",
+    "stars": 163,
+    "language": "C#",
+    "size_kb": 1317
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.320144
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 163 stars."
+  }
+}
