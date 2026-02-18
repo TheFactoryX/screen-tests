@@ -1,0 +1,24 @@
+{
+  "reel_number": 5125,
+  "recorded": "2026-02-18 02:54:29 UTC",
+  "repository": {
+    "full_name": "davidmegginson/ourairports-data",
+    "url": "https://github.com/davidmegginson/ourairports-data",
+    "clone_url": "https://github.com/davidmegginson/ourairports-data.git",
+    "stars": 418,
+    "language": null,
+    "size_kb": 412907
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 403,
+    "duration_seconds": 1.949689
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 418 stars."
+  }
+}

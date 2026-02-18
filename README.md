@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5124 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 97k | 2026-02-18 |
+| #5125 | [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data) | None · ⭐ 418 | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5213,3 +5213,4 @@ If you need permission, you're thinking too much.
 | 5122 | 2026-02-17 22:59:11 | [SakanaAI/ShinkaEvolve](https://github.com/SakanaAI/ShinkaEvolve) | ✅ full (836⭐ Python) | [reels/reel_5122_SakanaAI-ShinkaEvolve](reels/reel_5122_SakanaAI-ShinkaEvolve) |
 | 5123 | 2026-02-17 23:38:14 | [iordv/Droppy](https://github.com/iordv/Droppy) | ✅ readme_only (812⭐ Swift) | [reels/reel_5123_iordv-Droppy](reels/reel_5123_iordv-Droppy) |
 | 5124 | 2026-02-18 00:00:05 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (97545⭐ TypeScript) | [reels/reel_5124_clash-verge-rev-clash-verge-rev](reels/reel_5124_clash-verge-rev-clash-verge-rev) |
+| 5125 | 2026-02-18 02:54:29 | [davidmegginson/ourairports-data](https://github.com/davidmegginson/ourairports-data) | ✅ shallow (418⭐ None) | [reels/reel_5125_davidmegginson-ourairports-data](reels/reel_5125_davidmegginson-ourairports-data) |
