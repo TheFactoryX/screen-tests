@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5131 | [tenzir/tenzir](https://github.com/tenzir/tenzir) | C++ · ⭐ 720 | 2026-02-18 |
+| #5132 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5220,3 +5220,4 @@ If you need permission, you're thinking too much.
 | 5129 | 2026-02-18 07:58:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273792⭐ None) | [reels/reel_5129_awesome-selfhosted-awesome-selfhosted](reels/reel_5129_awesome-selfhosted-awesome-selfhosted) |
 | 5130 | 2026-02-18 08:57:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147528⭐ Python) | [reels/reel_5130_yt-dlp-yt-dlp](reels/reel_5130_yt-dlp-yt-dlp) |
 | 5131 | 2026-02-18 09:53:08 | [tenzir/tenzir](https://github.com/tenzir/tenzir) | ✅ readme_only (720⭐ C++) | [reels/reel_5131_tenzir-tenzir](reels/reel_5131_tenzir-tenzir) |
+| 5132 | 2026-02-18 10:42:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147536⭐ Python) | [reels/reel_5132_yt-dlp-yt-dlp](reels/reel_5132_yt-dlp-yt-dlp) |
