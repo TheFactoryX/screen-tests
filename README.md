@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5134 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 258k | 2026-02-18 |
+| #5135 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5223,3 +5223,4 @@ If you need permission, you're thinking too much.
 | 5132 | 2026-02-18 10:42:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147536⭐ Python) | [reels/reel_5132_yt-dlp-yt-dlp](reels/reel_5132_yt-dlp-yt-dlp) |
 | 5133 | 2026-02-18 11:26:44 | [Ialalendd/randomCatFacts](https://github.com/Ialalendd/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_5133_Ialalendd-randomCatFacts](reels/reel_5133_Ialalendd-randomCatFacts) |
 | 5134 | 2026-02-18 12:00:59 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258555⭐ None) | [reels/reel_5134_practical-tutorials-project-based-learning](reels/reel_5134_practical-tutorials-project-based-learning) |
+| 5135 | 2026-02-18 13:40:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126852⭐ Python) | [reels/reel_5135_langchain-ai-langchain](reels/reel_5135_langchain-ai-langchain) |
