@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5146 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 97k | 2026-02-18 |
+| #5147 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 273k | 2026-02-18 |
 ---
 
 ## 🎭 Selection Process
@@ -5235,3 +5235,4 @@ If you need permission, you're thinking too much.
 | 5144 | 2026-02-18 21:49:06 | [Doraku/DefaultDocumentation](https://github.com/Doraku/DefaultDocumentation) | ✅ full (163⭐ C#) | [reels/reel_5144_Doraku-DefaultDocumentation](reels/reel_5144_Doraku-DefaultDocumentation) |
 | 5145 | 2026-02-18 22:30:34 | [pypdfium2-team/pypdfium2](https://github.com/pypdfium2-team/pypdfium2) | ✅ full (726⭐ Python) | [reels/reel_5145_pypdfium2-team-pypdfium2](reels/reel_5145_pypdfium2-team-pypdfium2) |
 | 5146 | 2026-02-18 23:04:26 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (97602⭐ TypeScript) | [reels/reel_5146_clash-verge-rev-clash-verge-rev](reels/reel_5146_clash-verge-rev-clash-verge-rev) |
+| 5147 | 2026-02-18 23:44:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273922⭐ None) | [reels/reel_5147_awesome-selfhosted-awesome-selfhosted](reels/reel_5147_awesome-selfhosted-awesome-selfhosted) |
