@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5148 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-19 |
+| #5149 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 124k | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5237,3 +5237,4 @@ If you need permission, you're thinking too much.
 | 5146 | 2026-02-18 23:04:26 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (97602⭐ TypeScript) | [reels/reel_5146_clash-verge-rev-clash-verge-rev](reels/reel_5146_clash-verge-rev-clash-verge-rev) |
 | 5147 | 2026-02-18 23:44:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (273922⭐ None) | [reels/reel_5147_awesome-selfhosted-awesome-selfhosted](reels/reel_5147_awesome-selfhosted-awesome-selfhosted) |
 | 5148 | 2026-02-19 00:02:38 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139674⭐ Python) | [reels/reel_5148_ytdl-org-youtube-dl](reels/reel_5148_ytdl-org-youtube-dl) |
+| 5149 | 2026-02-19 03:15:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124286⭐ Python) | [reels/reel_5149_open-webui-open-webui](reels/reel_5149_open-webui-open-webui) |
