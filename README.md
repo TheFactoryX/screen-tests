@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5159 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-19 |
+| #5160 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 399k | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5248,3 +5248,4 @@ If you need permission, you're thinking too much.
 | 5157 | 2026-02-19 11:54:05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181874⭐ Python) | [reels/reel_5157_Significant-Gravitas-AutoGPT](reels/reel_5157_Significant-Gravitas-AutoGPT) |
 | 5158 | 2026-02-19 13:01:57 | [treasunew/SillyLib](https://github.com/treasunew/SillyLib) | ✅ full (88⭐ JavaScript) | [reels/reel_5158_treasunew-SillyLib](reels/reel_5158_treasunew-SillyLib) |
 | 5159 | 2026-02-19 14:14:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147652⭐ Python) | [reels/reel_5159_yt-dlp-yt-dlp](reels/reel_5159_yt-dlp-yt-dlp) |
+| 5160 | 2026-02-19 15:08:43 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399133⭐ Python) | [reels/reel_5160_public-apis-public-apis](reels/reel_5160_public-apis-public-apis) |
