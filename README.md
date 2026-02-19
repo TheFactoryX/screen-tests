@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5155 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 467k | 2026-02-19 |
+| #5156 | [crossplane-contrib/function-extra-resources](https://github.com/crossplane-contrib/function-extra-resources) | Go · ⭐ 30 | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5244,3 +5244,4 @@ If you need permission, you're thinking too much.
 | 5153 | 2026-02-19 08:02:37 | [m00natic/m00natic.github.com](https://github.com/m00natic/m00natic.github.com) | ✅ full (12⭐ CSS) | [reels/reel_5153_m00natic-m00natic.github.com](reels/reel_5153_m00natic-m00natic.github.com) |
 | 5154 | 2026-02-19 09:04:02 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (102901⭐ Rust) | [reels/reel_5154_tauri-apps-tauri](reels/reel_5154_tauri-apps-tauri) |
 | 5155 | 2026-02-19 10:05:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (467064⭐ Markdown) | [reels/reel_5155_codecrafters-io-build-your-own-x](reels/reel_5155_codecrafters-io-build-your-own-x) |
+| 5156 | 2026-02-19 11:06:20 | [crossplane-contrib/function-extra-resources](https://github.com/crossplane-contrib/function-extra-resources) | ✅ full (30⭐ Go) | [reels/reel_5156_crossplane-contrib-function-extra-resources](reels/reel_5156_crossplane-contrib-function-extra-resources) |
