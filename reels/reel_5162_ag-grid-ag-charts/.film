@@ -1,0 +1,24 @@
+{
+  "reel_number": 5162,
+  "recorded": "2026-02-19 17:13:06 UTC",
+  "repository": {
+    "full_name": "ag-grid/ag-charts",
+    "url": "https://github.com/ag-grid/ag-charts",
+    "clone_url": "https://github.com/ag-grid/ag-charts.git",
+    "stars": 442,
+    "language": "TypeScript",
+    "size_kb": 1816782
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1774,
+    "duration_seconds": 0.000157
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 442 stars."
+  }
+}

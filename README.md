@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5161 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 126k | 2026-02-19 |
+| #5162 | [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) | TypeScript · ⭐ 442 | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5250,3 +5250,4 @@ If you need permission, you're thinking too much.
 | 5159 | 2026-02-19 14:14:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147652⭐ Python) | [reels/reel_5159_yt-dlp-yt-dlp](reels/reel_5159_yt-dlp-yt-dlp) |
 | 5160 | 2026-02-19 15:08:43 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399133⭐ Python) | [reels/reel_5160_public-apis-public-apis](reels/reel_5160_public-apis-public-apis) |
 | 5161 | 2026-02-19 16:03:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126985⭐ Python) | [reels/reel_5161_langchain-ai-langchain](reels/reel_5161_langchain-ai-langchain) |
+| 5162 | 2026-02-19 17:13:06 | [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) | ✅ readme_only (442⭐ TypeScript) | [reels/reel_5162_ag-grid-ag-charts](reels/reel_5162_ag-grid-ag-charts) |
