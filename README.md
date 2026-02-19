@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5164 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 274k | 2026-02-19 |
+| #5165 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 124k | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5253,3 +5253,4 @@ If you need permission, you're thinking too much.
 | 5162 | 2026-02-19 17:13:06 | [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) | ✅ readme_only (442⭐ TypeScript) | [reels/reel_5162_ag-grid-ag-charts](reels/reel_5162_ag-grid-ag-charts) |
 | 5163 | 2026-02-19 18:06:08 | [DiamonWoo/Laosheng.top](https://github.com/DiamonWoo/Laosheng.top) | ✅ full (139⭐ HTML) | [reels/reel_5163_DiamonWoo-Laosheng.top](reels/reel_5163_DiamonWoo-Laosheng.top) |
 | 5164 | 2026-02-19 19:09:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274103⭐ None) | [reels/reel_5164_awesome-selfhosted-awesome-selfhosted](reels/reel_5164_awesome-selfhosted-awesome-selfhosted) |
+| 5165 | 2026-02-19 19:50:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124345⭐ Python) | [reels/reel_5165_open-webui-open-webui](reels/reel_5165_open-webui-open-webui) |
