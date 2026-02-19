@@ -1,0 +1,24 @@
+{
+  "reel_number": 5168,
+  "recorded": "2026-02-19 21:48:33 UTC",
+  "repository": {
+    "full_name": "IndieHub25/GroqTales",
+    "url": "https://github.com/IndieHub25/GroqTales",
+    "clone_url": "https://github.com/IndieHub25/GroqTales.git",
+    "stars": 23,
+    "language": "TypeScript",
+    "size_kb": 29195
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 2.366875
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 23 stars."
+  }
+}

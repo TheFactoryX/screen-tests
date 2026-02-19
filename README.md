@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5167 | [fyodorio/awesome-metaframeworks](https://github.com/fyodorio/awesome-metaframeworks) | None · ⭐ 28 | 2026-02-19 |
+| #5168 | [IndieHub25/GroqTales](https://github.com/IndieHub25/GroqTales) | TypeScript · ⭐ 23 | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5256,3 +5256,4 @@ If you need permission, you're thinking too much.
 | 5165 | 2026-02-19 19:50:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124345⭐ Python) | [reels/reel_5165_open-webui-open-webui](reels/reel_5165_open-webui-open-webui) |
 | 5166 | 2026-02-19 20:30:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111764⭐ TypeScript) | [reels/reel_5166_iptv-org-iptv](reels/reel_5166_iptv-org-iptv) |
 | 5167 | 2026-02-19 21:04:13 | [fyodorio/awesome-metaframeworks](https://github.com/fyodorio/awesome-metaframeworks) | ✅ full (28⭐ None) | [reels/reel_5167_fyodorio-awesome-metaframeworks](reels/reel_5167_fyodorio-awesome-metaframeworks) |
+| 5168 | 2026-02-19 21:48:33 | [IndieHub25/GroqTales](https://github.com/IndieHub25/GroqTales) | ✅ full (23⭐ TypeScript) | [reels/reel_5168_IndieHub25-GroqTales](reels/reel_5168_IndieHub25-GroqTales) |
