@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5151 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 103k | 2026-02-19 |
+| #5152 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 103k | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5240,3 +5240,4 @@ If you need permission, you're thinking too much.
 | 5149 | 2026-02-19 03:15:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124286⭐ Python) | [reels/reel_5149_open-webui-open-webui](reels/reel_5149_open-webui-open-webui) |
 | 5150 | 2026-02-19 05:08:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110471⭐ Rust) | [reels/reel_5150_rust-lang-rust](reels/reel_5150_rust-lang-rust) |
 | 5151 | 2026-02-19 06:14:02 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103544⭐ Python) | [reels/reel_5151_Comfy-Org-ComfyUI](reels/reel_5151_Comfy-Org-ComfyUI) |
+| 5152 | 2026-02-19 07:17:04 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103392⭐ Shell) | [reels/reel_5152_papers-we-love-papers-we-love](reels/reel_5152_papers-we-love-papers-we-love) |
