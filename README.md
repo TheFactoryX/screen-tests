@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5168 | [IndieHub25/GroqTales](https://github.com/IndieHub25/GroqTales) | TypeScript · ⭐ 23 | 2026-02-19 |
+| #5169 | [astronomer/astro-cli](https://github.com/astronomer/astro-cli) | Go · ⭐ 439 | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5257,3 +5257,4 @@ If you need permission, you're thinking too much.
 | 5166 | 2026-02-19 20:30:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111764⭐ TypeScript) | [reels/reel_5166_iptv-org-iptv](reels/reel_5166_iptv-org-iptv) |
 | 5167 | 2026-02-19 21:04:13 | [fyodorio/awesome-metaframeworks](https://github.com/fyodorio/awesome-metaframeworks) | ✅ full (28⭐ None) | [reels/reel_5167_fyodorio-awesome-metaframeworks](reels/reel_5167_fyodorio-awesome-metaframeworks) |
 | 5168 | 2026-02-19 21:48:33 | [IndieHub25/GroqTales](https://github.com/IndieHub25/GroqTales) | ✅ full (23⭐ TypeScript) | [reels/reel_5168_IndieHub25-GroqTales](reels/reel_5168_IndieHub25-GroqTales) |
+| 5169 | 2026-02-19 22:29:00 | [astronomer/astro-cli](https://github.com/astronomer/astro-cli) | ✅ full (439⭐ Go) | [reels/reel_5169_astronomer-astro-cli](reels/reel_5169_astronomer-astro-cli) |

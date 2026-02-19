@@ -1,0 +1,24 @@
+{
+  "reel_number": 5169,
+  "recorded": "2026-02-19 22:29:00 UTC",
+  "repository": {
+    "full_name": "astronomer/astro-cli",
+    "url": "https://github.com/astronomer/astro-cli",
+    "clone_url": "https://github.com/astronomer/astro-cli.git",
+    "stars": 439,
+    "language": "Go",
+    "size_kb": 17911
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 2.155455
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 439 stars."
+  }
+}
