@@ -1,0 +1,24 @@
+{
+  "reel_number": 5153,
+  "recorded": "2026-02-19 08:02:37 UTC",
+  "repository": {
+    "full_name": "m00natic/m00natic.github.com",
+    "url": "https://github.com/m00natic/m00natic.github.com",
+    "clone_url": "https://github.com/m00natic/m00natic.github.com.git",
+    "stars": 12,
+    "language": "CSS",
+    "size_kb": 2086
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.360642
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 12 stars."
+  }
+}
