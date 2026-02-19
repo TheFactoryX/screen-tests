@@ -1,0 +1,24 @@
+{
+  "reel_number": 5167,
+  "recorded": "2026-02-19 21:04:13 UTC",
+  "repository": {
+    "full_name": "fyodorio/awesome-metaframeworks",
+    "url": "https://github.com/fyodorio/awesome-metaframeworks",
+    "clone_url": "https://github.com/fyodorio/awesome-metaframeworks.git",
+    "stars": 28,
+    "language": null,
+    "size_kb": 185
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.212949
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 28 stars."
+  }
+}
