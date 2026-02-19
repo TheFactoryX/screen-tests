@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5170 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-19 |
+| #5171 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 399k | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5259,3 +5259,4 @@ If you need permission, you're thinking too much.
 | 5168 | 2026-02-19 21:48:33 | [IndieHub25/GroqTales](https://github.com/IndieHub25/GroqTales) | ✅ full (23⭐ TypeScript) | [reels/reel_5168_IndieHub25-GroqTales](reels/reel_5168_IndieHub25-GroqTales) |
 | 5169 | 2026-02-19 22:29:00 | [astronomer/astro-cli](https://github.com/astronomer/astro-cli) | ✅ full (439⭐ Go) | [reels/reel_5169_astronomer-astro-cli](reels/reel_5169_astronomer-astro-cli) |
 | 5170 | 2026-02-19 23:01:01 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139677⭐ Python) | [reels/reel_5170_ytdl-org-youtube-dl](reels/reel_5170_ytdl-org-youtube-dl) |
+| 5171 | 2026-02-19 23:45:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399178⭐ Python) | [reels/reel_5171_public-apis-public-apis](reels/reel_5171_public-apis-public-apis) |
