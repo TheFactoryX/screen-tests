@@ -1,0 +1,24 @@
+{
+  "reel_number": 5163,
+  "recorded": "2026-02-19 18:06:08 UTC",
+  "repository": {
+    "full_name": "DiamonWoo/Laosheng.top",
+    "url": "https://github.com/DiamonWoo/Laosheng.top",
+    "clone_url": "https://github.com/DiamonWoo/Laosheng.top.git",
+    "stars": 139,
+    "language": "HTML",
+    "size_kb": 29154
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 1.818353
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 139 stars."
+  }
+}

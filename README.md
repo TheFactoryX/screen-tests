@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5162 | [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) | TypeScript · ⭐ 442 | 2026-02-19 |
+| #5163 | [DiamonWoo/Laosheng.top](https://github.com/DiamonWoo/Laosheng.top) | HTML · ⭐ 139 | 2026-02-19 |
 ---
 
 ## 🎭 Selection Process
@@ -5251,3 +5251,4 @@ If you need permission, you're thinking too much.
 | 5160 | 2026-02-19 15:08:43 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399133⭐ Python) | [reels/reel_5160_public-apis-public-apis](reels/reel_5160_public-apis-public-apis) |
 | 5161 | 2026-02-19 16:03:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (126985⭐ Python) | [reels/reel_5161_langchain-ai-langchain](reels/reel_5161_langchain-ai-langchain) |
 | 5162 | 2026-02-19 17:13:06 | [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) | ✅ readme_only (442⭐ TypeScript) | [reels/reel_5162_ag-grid-ag-charts](reels/reel_5162_ag-grid-ag-charts) |
+| 5163 | 2026-02-19 18:06:08 | [DiamonWoo/Laosheng.top](https://github.com/DiamonWoo/Laosheng.top) | ✅ full (139⭐ HTML) | [reels/reel_5163_DiamonWoo-Laosheng.top](reels/reel_5163_DiamonWoo-Laosheng.top) |
