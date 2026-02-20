@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5197 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 124k | 2026-02-20 |
+| #5198 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | None · ⭐ 240 | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5286,3 +5286,4 @@ If you need permission, you're thinking too much.
 | 5195 | 2026-02-20 21:24:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124445⭐ Python) | [reels/reel_5195_open-webui-open-webui](reels/reel_5195_open-webui-open-webui) |
 | 5196 | 2026-02-20 21:49:16 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144931⭐ Python) | [reels/reel_5196_langflow-ai-langflow](reels/reel_5196_langflow-ai-langflow) |
 | 5197 | 2026-02-20 22:23:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124446⭐ Python) | [reels/reel_5197_open-webui-open-webui](reels/reel_5197_open-webui-open-webui) |
+| 5198 | 2026-02-20 22:54:00 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (240⭐ None) | [reels/reel_5198_mytv-android-China-TV-Live-M3U8](reels/reel_5198_mytv-android-China-TV-Live-M3U8) |
