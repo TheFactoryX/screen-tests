@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5171 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 399k | 2026-02-19 |
+| #5172 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5260,3 +5260,4 @@ If you need permission, you're thinking too much.
 | 5169 | 2026-02-19 22:29:00 | [astronomer/astro-cli](https://github.com/astronomer/astro-cli) | ✅ full (439⭐ Go) | [reels/reel_5169_astronomer-astro-cli](reels/reel_5169_astronomer-astro-cli) |
 | 5170 | 2026-02-19 23:01:01 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139677⭐ Python) | [reels/reel_5170_ytdl-org-youtube-dl](reels/reel_5170_ytdl-org-youtube-dl) |
 | 5171 | 2026-02-19 23:45:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399178⭐ Python) | [reels/reel_5171_public-apis-public-apis](reels/reel_5171_public-apis-public-apis) |
+| 5172 | 2026-02-20 00:02:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181885⭐ Python) | [reels/reel_5172_Significant-Gravitas-AutoGPT](reels/reel_5172_Significant-Gravitas-AutoGPT) |
