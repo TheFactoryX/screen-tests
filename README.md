@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5186 | [depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win) | Python · ⭐ 109 | 2026-02-20 |
+| #5187 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5275,3 +5275,4 @@ If you need permission, you're thinking too much.
 | 5184 | 2026-02-20 13:33:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106967⭐ TypeScript) | [reels/reel_5184_shadcn-ui-ui](reels/reel_5184_shadcn-ui-ui) |
 | 5185 | 2026-02-20 14:25:22 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103689⭐ Python) | [reels/reel_5185_Comfy-Org-ComfyUI](reels/reel_5185_Comfy-Org-ComfyUI) |
 | 5186 | 2026-02-20 15:06:30 | [depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win) | ✅ full (109⭐ Python) | [reels/reel_5186_depalmar-ai_for_the_win](reels/reel_5186_depalmar-ai_for_the_win) |
+| 5187 | 2026-02-20 15:52:25 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97625⭐ TypeScript) | [reels/reel_5187_ant-design-ant-design](reels/reel_5187_ant-design-ant-design) |
