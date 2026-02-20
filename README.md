@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5176 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-20 |
+| #5177 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5265,3 +5265,4 @@ If you need permission, you're thinking too much.
 | 5174 | 2026-02-20 04:57:24 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (95410⭐ C++) | [reels/reel_5174_ggml-org-llama.cpp](reels/reel_5174_ggml-org-llama.cpp) |
 | 5175 | 2026-02-20 05:56:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147715⭐ Python) | [reels/reel_5175_yt-dlp-yt-dlp](reels/reel_5175_yt-dlp-yt-dlp) |
 | 5176 | 2026-02-20 06:58:02 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139681⭐ Python) | [reels/reel_5176_ytdl-org-youtube-dl](reels/reel_5176_ytdl-org-youtube-dl) |
+| 5177 | 2026-02-20 07:50:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144909⭐ Python) | [reels/reel_5177_langflow-ai-langflow](reels/reel_5177_langflow-ai-langflow) |
