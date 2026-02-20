@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5175 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-20 |
+| #5176 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5264,3 +5264,4 @@ If you need permission, you're thinking too much.
 | 5173 | 2026-02-20 03:10:29 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (102983⭐ Rust) | [reels/reel_5173_tauri-apps-tauri](reels/reel_5173_tauri-apps-tauri) |
 | 5174 | 2026-02-20 04:57:24 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (95410⭐ C++) | [reels/reel_5174_ggml-org-llama.cpp](reels/reel_5174_ggml-org-llama.cpp) |
 | 5175 | 2026-02-20 05:56:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147715⭐ Python) | [reels/reel_5175_yt-dlp-yt-dlp](reels/reel_5175_yt-dlp-yt-dlp) |
+| 5176 | 2026-02-20 06:58:02 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139681⭐ Python) | [reels/reel_5176_ytdl-org-youtube-dl](reels/reel_5176_ytdl-org-youtube-dl) |
