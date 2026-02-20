@@ -1,0 +1,24 @@
+{
+  "reel_number": 5199,
+  "recorded": "2026-02-20 23:27:20 UTC",
+  "repository": {
+    "full_name": "onflow/flow-go-sdk",
+    "url": "https://github.com/onflow/flow-go-sdk",
+    "clone_url": "https://github.com/onflow/flow-go-sdk.git",
+    "stars": 212,
+    "language": "Go",
+    "size_kb": 24724
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 1.051414
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 212 stars."
+  }
+}
