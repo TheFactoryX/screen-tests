@@ -1,0 +1,24 @@
+{
+  "reel_number": 5186,
+  "recorded": "2026-02-20 15:06:30 UTC",
+  "repository": {
+    "full_name": "depalmar/ai_for_the_win",
+    "url": "https://github.com/depalmar/ai_for_the_win",
+    "clone_url": "https://github.com/depalmar/ai_for_the_win.git",
+    "stars": 109,
+    "language": "Python",
+    "size_kb": 5353
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.014319
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 109 stars."
+  }
+}
