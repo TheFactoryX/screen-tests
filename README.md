@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5173 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-20 |
+| #5174 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 95k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5262,3 +5262,4 @@ If you need permission, you're thinking too much.
 | 5171 | 2026-02-19 23:45:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399178⭐ Python) | [reels/reel_5171_public-apis-public-apis](reels/reel_5171_public-apis-public-apis) |
 | 5172 | 2026-02-20 00:02:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181885⭐ Python) | [reels/reel_5172_Significant-Gravitas-AutoGPT](reels/reel_5172_Significant-Gravitas-AutoGPT) |
 | 5173 | 2026-02-20 03:10:29 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (102983⭐ Rust) | [reels/reel_5173_tauri-apps-tauri](reels/reel_5173_tauri-apps-tauri) |
+| 5174 | 2026-02-20 04:57:24 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (95410⭐ C++) | [reels/reel_5174_ggml-org-llama.cpp](reels/reel_5174_ggml-org-llama.cpp) |
