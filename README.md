@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5195 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 124k | 2026-02-20 |
+| #5196 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5284,3 +5284,4 @@ If you need permission, you're thinking too much.
 | 5193 | 2026-02-20 20:28:57 | [happo/happo](https://github.com/happo/happo) | ✅ full (510⭐ TypeScript) | [reels/reel_5193_happo-happo](reels/reel_5193_happo-happo) |
 | 5194 | 2026-02-20 20:55:46 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101637⭐ Python) | [reels/reel_5194_deepseek-ai-DeepSeek-V3](reels/reel_5194_deepseek-ai-DeepSeek-V3) |
 | 5195 | 2026-02-20 21:24:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124445⭐ Python) | [reels/reel_5195_open-webui-open-webui](reels/reel_5195_open-webui-open-webui) |
+| 5196 | 2026-02-20 21:49:16 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144931⭐ Python) | [reels/reel_5196_langflow-ai-langflow](reels/reel_5196_langflow-ai-langflow) |
