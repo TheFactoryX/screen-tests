@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5172 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-20 |
+| #5173 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 102k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5261,3 +5261,4 @@ If you need permission, you're thinking too much.
 | 5170 | 2026-02-19 23:01:01 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139677⭐ Python) | [reels/reel_5170_ytdl-org-youtube-dl](reels/reel_5170_ytdl-org-youtube-dl) |
 | 5171 | 2026-02-19 23:45:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399178⭐ Python) | [reels/reel_5171_public-apis-public-apis](reels/reel_5171_public-apis-public-apis) |
 | 5172 | 2026-02-20 00:02:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181885⭐ Python) | [reels/reel_5172_Significant-Gravitas-AutoGPT](reels/reel_5172_Significant-Gravitas-AutoGPT) |
+| 5173 | 2026-02-20 03:10:29 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (102983⭐ Rust) | [reels/reel_5173_tauri-apps-tauri](reels/reel_5173_tauri-apps-tauri) |
