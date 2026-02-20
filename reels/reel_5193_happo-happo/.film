@@ -1,0 +1,24 @@
+{
+  "reel_number": 5193,
+  "recorded": "2026-02-20 20:28:57 UTC",
+  "repository": {
+    "full_name": "happo/happo",
+    "url": "https://github.com/happo/happo",
+    "clone_url": "https://github.com/happo/happo.git",
+    "stars": 510,
+    "language": "TypeScript",
+    "size_kb": 17071
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 0.622308
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 510 stars."
+  }
+}
