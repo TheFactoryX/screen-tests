@@ -1,0 +1,24 @@
+{
+  "reel_number": 5182,
+  "recorded": "2026-02-20 11:36:26 UTC",
+  "repository": {
+    "full_name": "tphakala/birdnet-go",
+    "url": "https://github.com/tphakala/birdnet-go",
+    "clone_url": "https://github.com/tphakala/birdnet-go.git",
+    "stars": 834,
+    "language": "Go",
+    "size_kb": 208307
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 203,
+    "duration_seconds": 5.889183
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 834 stars."
+  }
+}

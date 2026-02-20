@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5181 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-20 |
+| #5182 | [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) | Go · ⭐ 834 | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5270,3 +5270,4 @@ If you need permission, you're thinking too much.
 | 5179 | 2026-02-20 09:24:51 | [nextorders/food](https://github.com/nextorders/food) | ✅ full (54⭐ TypeScript) | [reels/reel_5179_nextorders-food](reels/reel_5179_nextorders-food) |
 | 5180 | 2026-02-20 10:04:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147730⭐ Python) | [reels/reel_5180_yt-dlp-yt-dlp](reels/reel_5180_yt-dlp-yt-dlp) |
 | 5181 | 2026-02-20 10:57:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110538⭐ Rust) | [reels/reel_5181_rust-lang-rust](reels/reel_5181_rust-lang-rust) |
+| 5182 | 2026-02-20 11:36:26 | [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) | ✅ shallow (834⭐ Go) | [reels/reel_5182_tphakala-birdnet-go](reels/reel_5182_tphakala-birdnet-go) |
