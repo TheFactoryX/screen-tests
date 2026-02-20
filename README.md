@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5193 | [happo/happo](https://github.com/happo/happo) | TypeScript · ⭐ 510 | 2026-02-20 |
+| #5194 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5282,3 +5282,4 @@ If you need permission, you're thinking too much.
 | 5191 | 2026-02-20 19:05:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274286⭐ None) | [reels/reel_5191_awesome-selfhosted-awesome-selfhosted](reels/reel_5191_awesome-selfhosted-awesome-selfhosted) |
 | 5192 | 2026-02-20 19:47:49 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103712⭐ Python) | [reels/reel_5192_Comfy-Org-ComfyUI](reels/reel_5192_Comfy-Org-ComfyUI) |
 | 5193 | 2026-02-20 20:28:57 | [happo/happo](https://github.com/happo/happo) | ✅ full (510⭐ TypeScript) | [reels/reel_5193_happo-happo](reels/reel_5193_happo-happo) |
+| 5194 | 2026-02-20 20:55:46 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101637⭐ Python) | [reels/reel_5194_deepseek-ai-DeepSeek-V3](reels/reel_5194_deepseek-ai-DeepSeek-V3) |
