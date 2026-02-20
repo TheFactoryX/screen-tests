@@ -1,0 +1,24 @@
+{
+  "reel_number": 5179,
+  "recorded": "2026-02-20 09:24:51 UTC",
+  "repository": {
+    "full_name": "nextorders/food",
+    "url": "https://github.com/nextorders/food",
+    "clone_url": "https://github.com/nextorders/food.git",
+    "stars": 54,
+    "language": "TypeScript",
+    "size_kb": 11359
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 0.583072
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 54 stars."
+  }
+}
