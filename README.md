@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5184 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-20 |
+| #5185 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 103k | 2026-02-20 |
 ---
 
 ## 🎭 Selection Process
@@ -5273,3 +5273,4 @@ If you need permission, you're thinking too much.
 | 5182 | 2026-02-20 11:36:26 | [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) | ✅ shallow (834⭐ Go) | [reels/reel_5182_tphakala-birdnet-go](reels/reel_5182_tphakala-birdnet-go) |
 | 5183 | 2026-02-20 12:00:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111790⭐ TypeScript) | [reels/reel_5183_iptv-org-iptv](reels/reel_5183_iptv-org-iptv) |
 | 5184 | 2026-02-20 13:33:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106967⭐ TypeScript) | [reels/reel_5184_shadcn-ui-ui](reels/reel_5184_shadcn-ui-ui) |
+| 5185 | 2026-02-20 14:25:22 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (103689⭐ Python) | [reels/reel_5185_Comfy-Org-ComfyUI](reels/reel_5185_Comfy-Org-ComfyUI) |
