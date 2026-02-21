@@ -1,0 +1,24 @@
+{
+  "reel_number": 5226,
+  "recorded": "2026-02-21 17:57:48 UTC",
+  "repository": {
+    "full_name": "torlando-tech/columba",
+    "url": "https://github.com/torlando-tech/columba",
+    "clone_url": "https://github.com/torlando-tech/columba.git",
+    "stars": 160,
+    "language": "Kotlin",
+    "size_kb": 18391
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.379477
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 160 stars."
+  }
+}
