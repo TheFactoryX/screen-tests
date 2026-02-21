@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5207 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-21 |
+| #5208 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 124k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5296,3 +5296,4 @@ If you need permission, you're thinking too much.
 | 5205 | 2026-02-21 06:42:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147826⭐ Python) | [reels/reel_5205_yt-dlp-yt-dlp](reels/reel_5205_yt-dlp-yt-dlp) |
 | 5206 | 2026-02-21 07:20:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106994⭐ TypeScript) | [reels/reel_5206_shadcn-ui-ui](reels/reel_5206_shadcn-ui-ui) |
 | 5207 | 2026-02-21 07:51:06 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139688⭐ Python) | [reels/reel_5207_ytdl-org-youtube-dl](reels/reel_5207_ytdl-org-youtube-dl) |
+| 5208 | 2026-02-21 08:28:29 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124471⭐ Python) | [reels/reel_5208_open-webui-open-webui](reels/reel_5208_open-webui-open-webui) |
