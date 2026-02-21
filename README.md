@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5228 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 175k | 2026-02-21 |
+| #5229 | [benmatselby/sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) | Python · ⭐ 815 | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5317,3 +5317,4 @@ If you need permission, you're thinking too much.
 | 5226 | 2026-02-21 17:57:48 | [torlando-tech/columba](https://github.com/torlando-tech/columba) | ✅ full (160⭐ Kotlin) | [reels/reel_5226_torlando-tech-columba](reels/reel_5226_torlando-tech-columba) |
 | 5227 | 2026-02-21 18:43:01 | [Esposter/Esposter](https://github.com/Esposter/Esposter) | ✅ full (21⭐ TypeScript) | [reels/reel_5227_Esposter-Esposter](reels/reel_5227_Esposter-Esposter) |
 | 5228 | 2026-02-21 19:12:24 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175656⭐ TypeScript) | [reels/reel_5228_n8n-io-n8n](reels/reel_5228_n8n-io-n8n) |
+| 5229 | 2026-02-21 19:37:30 | [benmatselby/sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) | ✅ full (815⭐ Python) | [reels/reel_5229_benmatselby-sublime-phpcs](reels/reel_5229_benmatselby-sublime-phpcs) |
