@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5234 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-02-21 |
+| #5235 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 258k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5323,3 +5323,4 @@ If you need permission, you're thinking too much.
 | 5232 | 2026-02-21 20:48:24 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175668⭐ TypeScript) | [reels/reel_5232_n8n-io-n8n](reels/reel_5232_n8n-io-n8n) |
 | 5233 | 2026-02-21 21:21:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139694⭐ Python) | [reels/reel_5233_ytdl-org-youtube-dl](reels/reel_5233_ytdl-org-youtube-dl) |
 | 5234 | 2026-02-21 21:45:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107015⭐ TypeScript) | [reels/reel_5234_shadcn-ui-ui](reels/reel_5234_shadcn-ui-ui) |
+| 5235 | 2026-02-21 22:21:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258838⭐ None) | [reels/reel_5235_practical-tutorials-project-based-learning](reels/reel_5235_practical-tutorials-project-based-learning) |
