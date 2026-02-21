@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5227 | [Esposter/Esposter](https://github.com/Esposter/Esposter) | TypeScript · ⭐ 21 | 2026-02-21 |
+| #5228 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 175k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5316,3 +5316,4 @@ If you need permission, you're thinking too much.
 | 5225 | 2026-02-21 17:41:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144943⭐ Python) | [reels/reel_5225_langflow-ai-langflow](reels/reel_5225_langflow-ai-langflow) |
 | 5226 | 2026-02-21 17:57:48 | [torlando-tech/columba](https://github.com/torlando-tech/columba) | ✅ full (160⭐ Kotlin) | [reels/reel_5226_torlando-tech-columba](reels/reel_5226_torlando-tech-columba) |
 | 5227 | 2026-02-21 18:43:01 | [Esposter/Esposter](https://github.com/Esposter/Esposter) | ✅ full (21⭐ TypeScript) | [reels/reel_5227_Esposter-Esposter](reels/reel_5227_Esposter-Esposter) |
+| 5228 | 2026-02-21 19:12:24 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175656⭐ TypeScript) | [reels/reel_5228_n8n-io-n8n](reels/reel_5228_n8n-io-n8n) |
