@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5202 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-02-21 |
+| #5203 | [Weird-Sheep-Labs/django-azure-auth](https://github.com/Weird-Sheep-Labs/django-azure-auth) | Python · ⭐ 39 | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5291,3 +5291,4 @@ If you need permission, you're thinking too much.
 | 5200 | 2026-02-20 23:53:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181902⭐ Python) | [reels/reel_5200_Significant-Gravitas-AutoGPT](reels/reel_5200_Significant-Gravitas-AutoGPT) |
 | 5201 | 2026-02-21 01:52:38 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139683⭐ Python) | [reels/reel_5201_ytdl-org-youtube-dl](reels/reel_5201_ytdl-org-youtube-dl) |
 | 5202 | 2026-02-21 04:05:57 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101639⭐ Python) | [reels/reel_5202_deepseek-ai-DeepSeek-V3](reels/reel_5202_deepseek-ai-DeepSeek-V3) |
+| 5203 | 2026-02-21 05:11:45 | [Weird-Sheep-Labs/django-azure-auth](https://github.com/Weird-Sheep-Labs/django-azure-auth) | ✅ full (39⭐ Python) | [reels/reel_5203_Weird-Sheep-Labs-django-azure-auth](reels/reel_5203_Weird-Sheep-Labs-django-azure-auth) |

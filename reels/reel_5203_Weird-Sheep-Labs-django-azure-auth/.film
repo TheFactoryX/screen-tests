@@ -1,0 +1,24 @@
+{
+  "reel_number": 5203,
+  "recorded": "2026-02-21 05:11:45 UTC",
+  "repository": {
+    "full_name": "Weird-Sheep-Labs/django-azure-auth",
+    "url": "https://github.com/Weird-Sheep-Labs/django-azure-auth",
+    "clone_url": "https://github.com/Weird-Sheep-Labs/django-azure-auth.git",
+    "stars": 39,
+    "language": "Python",
+    "size_kb": 298
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.310853
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 39 stars."
+  }
+}
