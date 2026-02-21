@@ -1,0 +1,24 @@
+{
+  "reel_number": 5237,
+  "recorded": "2026-02-21 23:22:22 UTC",
+  "repository": {
+    "full_name": "rabits/ha-ef-ble",
+    "url": "https://github.com/rabits/ha-ef-ble",
+    "clone_url": "https://github.com/rabits/ha-ef-ble.git",
+    "stars": 214,
+    "language": "Python",
+    "size_kb": 571
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.625048
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 214 stars."
+  }
+}
