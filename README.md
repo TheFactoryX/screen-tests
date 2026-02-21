@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5203 | [Weird-Sheep-Labs/django-azure-auth](https://github.com/Weird-Sheep-Labs/django-azure-auth) | Python · ⭐ 39 | 2026-02-21 |
+| #5204 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 144k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5292,3 +5292,4 @@ If you need permission, you're thinking too much.
 | 5201 | 2026-02-21 01:52:38 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139683⭐ Python) | [reels/reel_5201_ytdl-org-youtube-dl](reels/reel_5201_ytdl-org-youtube-dl) |
 | 5202 | 2026-02-21 04:05:57 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101639⭐ Python) | [reels/reel_5202_deepseek-ai-DeepSeek-V3](reels/reel_5202_deepseek-ai-DeepSeek-V3) |
 | 5203 | 2026-02-21 05:11:45 | [Weird-Sheep-Labs/django-azure-auth](https://github.com/Weird-Sheep-Labs/django-azure-auth) | ✅ full (39⭐ Python) | [reels/reel_5203_Weird-Sheep-Labs-django-azure-auth](reels/reel_5203_Weird-Sheep-Labs-django-azure-auth) |
+| 5204 | 2026-02-21 05:56:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144935⭐ Python) | [reels/reel_5204_langflow-ai-langflow](reels/reel_5204_langflow-ai-langflow) |
