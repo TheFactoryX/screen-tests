@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5233 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-21 |
+| #5234 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5322,3 +5322,4 @@ If you need permission, you're thinking too much.
 | 5231 | 2026-02-21 20:22:37 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274426⭐ None) | [reels/reel_5231_awesome-selfhosted-awesome-selfhosted](reels/reel_5231_awesome-selfhosted-awesome-selfhosted) |
 | 5232 | 2026-02-21 20:48:24 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175668⭐ TypeScript) | [reels/reel_5232_n8n-io-n8n](reels/reel_5232_n8n-io-n8n) |
 | 5233 | 2026-02-21 21:21:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139694⭐ Python) | [reels/reel_5233_ytdl-org-youtube-dl](reels/reel_5233_ytdl-org-youtube-dl) |
+| 5234 | 2026-02-21 21:45:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107015⭐ TypeScript) | [reels/reel_5234_shadcn-ui-ui](reels/reel_5234_shadcn-ui-ui) |
