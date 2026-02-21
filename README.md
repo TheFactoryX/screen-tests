@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5215 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 111k | 2026-02-21 |
+| #5216 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5304,3 +5304,4 @@ If you need permission, you're thinking too much.
 | 5213 | 2026-02-21 10:59:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181910⭐ Python) | [reels/reel_5213_Significant-Gravitas-AutoGPT](reels/reel_5213_Significant-Gravitas-AutoGPT) |
 | 5214 | 2026-02-21 11:29:47 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111824⭐ TypeScript) | [reels/reel_5214_iptv-org-iptv](reels/reel_5214_iptv-org-iptv) |
 | 5215 | 2026-02-21 11:47:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111824⭐ TypeScript) | [reels/reel_5215_iptv-org-iptv](reels/reel_5215_iptv-org-iptv) |
+| 5216 | 2026-02-21 12:42:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107002⭐ TypeScript) | [reels/reel_5216_shadcn-ui-ui](reels/reel_5216_shadcn-ui-ui) |
