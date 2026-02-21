@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5212 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-21 |
+| #5213 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5301,3 +5301,4 @@ If you need permission, you're thinking too much.
 | 5210 | 2026-02-21 09:34:27 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (467572⭐ Markdown) | [reels/reel_5210_codecrafters-io-build-your-own-x](reels/reel_5210_codecrafters-io-build-your-own-x) |
 | 5211 | 2026-02-21 09:57:43 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139688⭐ Python) | [reels/reel_5211_ytdl-org-youtube-dl](reels/reel_5211_ytdl-org-youtube-dl) |
 | 5212 | 2026-02-21 10:32:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147849⭐ Python) | [reels/reel_5212_yt-dlp-yt-dlp](reels/reel_5212_yt-dlp-yt-dlp) |
+| 5213 | 2026-02-21 10:59:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181910⭐ Python) | [reels/reel_5213_Significant-Gravitas-AutoGPT](reels/reel_5213_Significant-Gravitas-AutoGPT) |
