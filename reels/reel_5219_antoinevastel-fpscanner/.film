@@ -1,0 +1,24 @@
+{
+  "reel_number": 5219,
+  "recorded": "2026-02-21 14:43:48 UTC",
+  "repository": {
+    "full_name": "antoinevastel/fpscanner",
+    "url": "https://github.com/antoinevastel/fpscanner",
+    "clone_url": "https://github.com/antoinevastel/fpscanner.git",
+    "stars": 623,
+    "language": "TypeScript",
+    "size_kb": 512
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.282697
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 623 stars."
+  }
+}

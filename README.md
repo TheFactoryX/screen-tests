@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5218 | [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI) | JavaScript · ⭐ 548 | 2026-02-21 |
+| #5219 | [antoinevastel/fpscanner](https://github.com/antoinevastel/fpscanner) | TypeScript · ⭐ 623 | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5307,3 +5307,4 @@ If you need permission, you're thinking too much.
 | 5216 | 2026-02-21 12:42:53 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107002⭐ TypeScript) | [reels/reel_5216_shadcn-ui-ui](reels/reel_5216_shadcn-ui-ui) |
 | 5217 | 2026-02-21 13:31:29 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147875⭐ Python) | [reels/reel_5217_yt-dlp-yt-dlp](reels/reel_5217_yt-dlp-yt-dlp) |
 | 5218 | 2026-02-21 14:02:25 | [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI) | ✅ full (548⭐ JavaScript) | [reels/reel_5218_iBUHub-AIStudioToAPI](reels/reel_5218_iBUHub-AIStudioToAPI) |
+| 5219 | 2026-02-21 14:43:48 | [antoinevastel/fpscanner](https://github.com/antoinevastel/fpscanner) | ✅ full (623⭐ TypeScript) | [reels/reel_5219_antoinevastel-fpscanner](reels/reel_5219_antoinevastel-fpscanner) |
