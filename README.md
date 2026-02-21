@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5206 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 106k | 2026-02-21 |
+| #5207 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5295,3 +5295,4 @@ If you need permission, you're thinking too much.
 | 5204 | 2026-02-21 05:56:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (144935⭐ Python) | [reels/reel_5204_langflow-ai-langflow](reels/reel_5204_langflow-ai-langflow) |
 | 5205 | 2026-02-21 06:42:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147826⭐ Python) | [reels/reel_5205_yt-dlp-yt-dlp](reels/reel_5205_yt-dlp-yt-dlp) |
 | 5206 | 2026-02-21 07:20:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (106994⭐ TypeScript) | [reels/reel_5206_shadcn-ui-ui](reels/reel_5206_shadcn-ui-ui) |
+| 5207 | 2026-02-21 07:51:06 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139688⭐ Python) | [reels/reel_5207_ytdl-org-youtube-dl](reels/reel_5207_ytdl-org-youtube-dl) |
