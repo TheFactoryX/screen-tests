@@ -1,0 +1,24 @@
+{
+  "reel_number": 5227,
+  "recorded": "2026-02-21 18:43:01 UTC",
+  "repository": {
+    "full_name": "Esposter/Esposter",
+    "url": "https://github.com/Esposter/Esposter",
+    "clone_url": "https://github.com/Esposter/Esposter.git",
+    "stars": 21,
+    "language": "TypeScript",
+    "size_kb": 99186
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 96,
+    "duration_seconds": 8.008464
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 21 stars."
+  }
+}
