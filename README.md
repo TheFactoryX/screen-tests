@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5230 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 175k | 2026-02-21 |
+| #5231 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 274k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5319,3 +5319,4 @@ If you need permission, you're thinking too much.
 | 5228 | 2026-02-21 19:12:24 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175656⭐ TypeScript) | [reels/reel_5228_n8n-io-n8n](reels/reel_5228_n8n-io-n8n) |
 | 5229 | 2026-02-21 19:37:30 | [benmatselby/sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) | ✅ full (815⭐ Python) | [reels/reel_5229_benmatselby-sublime-phpcs](reels/reel_5229_benmatselby-sublime-phpcs) |
 | 5230 | 2026-02-21 19:54:32 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175662⭐ TypeScript) | [reels/reel_5230_n8n-io-n8n](reels/reel_5230_n8n-io-n8n) |
+| 5231 | 2026-02-21 20:22:37 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274426⭐ None) | [reels/reel_5231_awesome-selfhosted-awesome-selfhosted](reels/reel_5231_awesome-selfhosted-awesome-selfhosted) |
