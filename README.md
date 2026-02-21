@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5211 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-21 |
+| #5212 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 147k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5300,3 +5300,4 @@ If you need permission, you're thinking too much.
 | 5209 | 2026-02-21 08:57:26 | [vectorstorm/vectorstorm](https://github.com/vectorstorm/vectorstorm) | ✅ full (37⭐ C++) | [reels/reel_5209_vectorstorm-vectorstorm](reels/reel_5209_vectorstorm-vectorstorm) |
 | 5210 | 2026-02-21 09:34:27 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (467572⭐ Markdown) | [reels/reel_5210_codecrafters-io-build-your-own-x](reels/reel_5210_codecrafters-io-build-your-own-x) |
 | 5211 | 2026-02-21 09:57:43 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139688⭐ Python) | [reels/reel_5211_ytdl-org-youtube-dl](reels/reel_5211_ytdl-org-youtube-dl) |
+| 5212 | 2026-02-21 10:32:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147849⭐ Python) | [reels/reel_5212_yt-dlp-yt-dlp](reels/reel_5212_yt-dlp-yt-dlp) |
