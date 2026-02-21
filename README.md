@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5201 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-21 |
+| #5202 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5290,3 +5290,4 @@ If you need permission, you're thinking too much.
 | 5199 | 2026-02-20 23:27:20 | [onflow/flow-go-sdk](https://github.com/onflow/flow-go-sdk) | ✅ full (212⭐ Go) | [reels/reel_5199_onflow-flow-go-sdk](reels/reel_5199_onflow-flow-go-sdk) |
 | 5200 | 2026-02-20 23:53:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181902⭐ Python) | [reels/reel_5200_Significant-Gravitas-AutoGPT](reels/reel_5200_Significant-Gravitas-AutoGPT) |
 | 5201 | 2026-02-21 01:52:38 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139683⭐ Python) | [reels/reel_5201_ytdl-org-youtube-dl](reels/reel_5201_ytdl-org-youtube-dl) |
+| 5202 | 2026-02-21 04:05:57 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101639⭐ Python) | [reels/reel_5202_deepseek-ai-DeepSeek-V3](reels/reel_5202_deepseek-ai-DeepSeek-V3) |
