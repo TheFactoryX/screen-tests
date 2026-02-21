@@ -1,0 +1,24 @@
+{
+  "reel_number": 5218,
+  "recorded": "2026-02-21 14:02:25 UTC",
+  "repository": {
+    "full_name": "iBUHub/AIStudioToAPI",
+    "url": "https://github.com/iBUHub/AIStudioToAPI",
+    "clone_url": "https://github.com/iBUHub/AIStudioToAPI.git",
+    "stars": 548,
+    "language": "JavaScript",
+    "size_kb": 829
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.286086
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 548 stars."
+  }
+}
