@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5221 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 258k | 2026-02-21 |
+| #5222 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 103k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5310,3 +5310,4 @@ If you need permission, you're thinking too much.
 | 5219 | 2026-02-21 14:43:48 | [antoinevastel/fpscanner](https://github.com/antoinevastel/fpscanner) | ✅ full (623⭐ TypeScript) | [reels/reel_5219_antoinevastel-fpscanner](reels/reel_5219_antoinevastel-fpscanner) |
 | 5220 | 2026-02-21 15:00:34 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274394⭐ None) | [reels/reel_5220_awesome-selfhosted-awesome-selfhosted](reels/reel_5220_awesome-selfhosted-awesome-selfhosted) |
 | 5221 | 2026-02-21 15:39:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258819⭐ None) | [reels/reel_5221_practical-tutorials-project-based-learning](reels/reel_5221_practical-tutorials-project-based-learning) |
+| 5222 | 2026-02-21 15:56:49 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103461⭐ Shell) | [reels/reel_5222_papers-we-love-papers-we-love](reels/reel_5222_papers-we-love-papers-we-love) |
