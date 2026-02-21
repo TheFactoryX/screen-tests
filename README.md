@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5223 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 175k | 2026-02-21 |
+| #5224 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 467k | 2026-02-21 |
 ---
 
 ## 🎭 Selection Process
@@ -5312,3 +5312,4 @@ If you need permission, you're thinking too much.
 | 5221 | 2026-02-21 15:39:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258819⭐ None) | [reels/reel_5221_practical-tutorials-project-based-learning](reels/reel_5221_practical-tutorials-project-based-learning) |
 | 5222 | 2026-02-21 15:56:49 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103461⭐ Shell) | [reels/reel_5222_papers-we-love-papers-we-love](reels/reel_5222_papers-we-love-papers-we-love) |
 | 5223 | 2026-02-21 16:33:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175639⭐ TypeScript) | [reels/reel_5223_n8n-io-n8n](reels/reel_5223_n8n-io-n8n) |
+| 5224 | 2026-02-21 17:00:52 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (467692⭐ Markdown) | [reels/reel_5224_codecrafters-io-build-your-own-x](reels/reel_5224_codecrafters-io-build-your-own-x) |

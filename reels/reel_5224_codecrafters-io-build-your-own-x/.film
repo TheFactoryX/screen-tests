@@ -1,0 +1,24 @@
+{
+  "reel_number": 5224,
+  "recorded": "2026-02-21 17:00:52 UTC",
+  "repository": {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "clone_url": "https://github.com/codecrafters-io/build-your-own-x.git",
+    "stars": 467692,
+    "language": "Markdown",
+    "size_kb": 1201
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.42394
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Markdown",
+    "director_note": "A Markdown repository. 467692 stars."
+  }
+}
