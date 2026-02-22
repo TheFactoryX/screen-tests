@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5262 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-02-22 |
+| #5263 | [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) | Dart · ⭐ 138 | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5351,3 +5351,4 @@ If you need permission, you're thinking too much.
 | 5260 | 2026-02-22 16:39:12 | [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy) | ✅ shallow (1106⭐ Python) | [reels/reel_5260_pymc-labs-CausalPy](reels/reel_5260_pymc-labs-CausalPy) |
 | 5261 | 2026-02-22 17:01:47 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399544⭐ Python) | [reels/reel_5261_public-apis-public-apis](reels/reel_5261_public-apis-public-apis) |
 | 5262 | 2026-02-22 17:41:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127160⭐ Python) | [reels/reel_5262_langchain-ai-langchain](reels/reel_5262_langchain-ai-langchain) |
+| 5263 | 2026-02-22 17:58:33 | [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) | ✅ full (138⭐ Dart) | [reels/reel_5263_zzzwannasleep-LinPlayer](reels/reel_5263_zzzwannasleep-LinPlayer) |
