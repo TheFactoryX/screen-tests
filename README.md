@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5260 | [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy) | Python · ⭐ 1k | 2026-02-22 |
+| #5261 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 399k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5349,3 +5349,4 @@ If you need permission, you're thinking too much.
 | 5258 | 2026-02-22 15:41:28 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124587⭐ Python) | [reels/reel_5258_open-webui-open-webui](reels/reel_5258_open-webui-open-webui) |
 | 5259 | 2026-02-22 15:58:27 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139703⭐ Python) | [reels/reel_5259_ytdl-org-youtube-dl](reels/reel_5259_ytdl-org-youtube-dl) |
 | 5260 | 2026-02-22 16:39:12 | [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy) | ✅ shallow (1106⭐ Python) | [reels/reel_5260_pymc-labs-CausalPy](reels/reel_5260_pymc-labs-CausalPy) |
+| 5261 | 2026-02-22 17:01:47 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399544⭐ Python) | [reels/reel_5261_public-apis-public-apis](reels/reel_5261_public-apis-public-apis) |
