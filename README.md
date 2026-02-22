@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5239 | [darold/pgFormatter](https://github.com/darold/pgFormatter) | PLpgSQL · ⭐ 1k | 2026-02-22 |
+| #5240 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5328,3 +5328,4 @@ If you need permission, you're thinking too much.
 | 5237 | 2026-02-21 23:22:22 | [rabits/ha-ef-ble](https://github.com/rabits/ha-ef-ble) | ✅ full (214⭐ Python) | [reels/reel_5237_rabits-ha-ef-ble](reels/reel_5237_rabits-ha-ef-ble) |
 | 5238 | 2026-02-21 23:46:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103057⭐ Rust) | [reels/reel_5238_tauri-apps-tauri](reels/reel_5238_tauri-apps-tauri) |
 | 5239 | 2026-02-22 02:01:03 | [darold/pgFormatter](https://github.com/darold/pgFormatter) | ✅ full (1903⭐ PLpgSQL) | [reels/reel_5239_darold-pgFormatter](reels/reel_5239_darold-pgFormatter) |
+| 5240 | 2026-02-22 04:25:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127130⭐ Python) | [reels/reel_5240_langchain-ai-langchain](reels/reel_5240_langchain-ai-langchain) |
