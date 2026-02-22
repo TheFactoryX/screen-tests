@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5257 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 95k | 2026-02-22 |
+| #5258 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 124k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5346,3 +5346,4 @@ If you need permission, you're thinking too much.
 | 5255 | 2026-02-22 14:04:07 | [minetest-texture-packs/Good-Morning-Craft](https://github.com/minetest-texture-packs/Good-Morning-Craft) | ✅ full (13⭐ None) | [reels/reel_5255_minetest-texture-packs-Good-Morning-Craft](reels/reel_5255_minetest-texture-packs-Good-Morning-Craft) |
 | 5256 | 2026-02-22 14:44:31 | [mosaico-labs/mosaico](https://github.com/mosaico-labs/mosaico) | ✅ full (562⭐ Python) | [reels/reel_5256_mosaico-labs-mosaico](reels/reel_5256_mosaico-labs-mosaico) |
 | 5257 | 2026-02-22 15:01:08 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (95604⭐ C++) | [reels/reel_5257_ggml-org-llama.cpp](reels/reel_5257_ggml-org-llama.cpp) |
+| 5258 | 2026-02-22 15:41:28 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124587⭐ Python) | [reels/reel_5258_open-webui-open-webui](reels/reel_5258_open-webui-open-webui) |
