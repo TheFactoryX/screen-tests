@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5254 | [Official-MoonDao/MoonDAO](https://github.com/Official-MoonDao/MoonDAO) | TypeScript · ⭐ 18 | 2026-02-22 |
+| #5255 | [minetest-texture-packs/Good-Morning-Craft](https://github.com/minetest-texture-packs/Good-Morning-Craft) | None · ⭐ 13 | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5343,3 +5343,4 @@ If you need permission, you're thinking too much.
 | 5252 | 2026-02-22 11:46:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111867⭐ TypeScript) | [reels/reel_5252_iptv-org-iptv](reels/reel_5252_iptv-org-iptv) |
 | 5253 | 2026-02-22 12:46:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103084⭐ Rust) | [reels/reel_5253_tauri-apps-tauri](reels/reel_5253_tauri-apps-tauri) |
 | 5254 | 2026-02-22 13:42:01 | [Official-MoonDao/MoonDAO](https://github.com/Official-MoonDao/MoonDAO) | ✅ shallow (18⭐ TypeScript) | [reels/reel_5254_Official-MoonDao-MoonDAO](reels/reel_5254_Official-MoonDao-MoonDAO) |
+| 5255 | 2026-02-22 14:04:07 | [minetest-texture-packs/Good-Morning-Craft](https://github.com/minetest-texture-packs/Good-Morning-Craft) | ✅ full (13⭐ None) | [reels/reel_5255_minetest-texture-packs-Good-Morning-Craft](reels/reel_5255_minetest-texture-packs-Good-Morning-Craft) |
