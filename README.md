@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5265 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | HTML · ⭐ 376 | 2026-02-22 |
+| #5266 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 103k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5354,3 +5354,4 @@ If you need permission, you're thinking too much.
 | 5263 | 2026-02-22 17:58:33 | [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) | ✅ full (138⭐ Dart) | [reels/reel_5263_zzzwannasleep-LinPlayer](reels/reel_5263_zzzwannasleep-LinPlayer) |
 | 5264 | 2026-02-22 18:47:30 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (95612⭐ C++) | [reels/reel_5264_ggml-org-llama.cpp](reels/reel_5264_ggml-org-llama.cpp) |
 | 5265 | 2026-02-22 19:23:08 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | ✅ readme_only (376⭐ HTML) | [reels/reel_5265_kakaxi-1-IPTV](reels/reel_5265_kakaxi-1-IPTV) |
+| 5266 | 2026-02-22 19:45:07 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103509⭐ Shell) | [reels/reel_5266_papers-we-love-papers-we-love](reels/reel_5266_papers-we-love-papers-we-love) |
