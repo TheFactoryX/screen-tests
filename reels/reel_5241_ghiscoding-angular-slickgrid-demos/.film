@@ -1,0 +1,24 @@
+{
+  "reel_number": 5241,
+  "recorded": "2026-02-22 05:34:25 UTC",
+  "repository": {
+    "full_name": "ghiscoding/angular-slickgrid-demos",
+    "url": "https://github.com/ghiscoding/angular-slickgrid-demos",
+    "clone_url": "https://github.com/ghiscoding/angular-slickgrid-demos.git",
+    "stars": 11,
+    "language": "TypeScript",
+    "size_kb": 236851
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 231,
+    "duration_seconds": 0.349331
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 11 stars."
+  }
+}
