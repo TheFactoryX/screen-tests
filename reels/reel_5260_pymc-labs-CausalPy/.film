@@ -1,0 +1,24 @@
+{
+  "reel_number": 5260,
+  "recorded": "2026-02-22 16:39:12 UTC",
+  "repository": {
+    "full_name": "pymc-labs/CausalPy",
+    "url": "https://github.com/pymc-labs/CausalPy",
+    "clone_url": "https://github.com/pymc-labs/CausalPy.git",
+    "stars": 1106,
+    "language": "Python",
+    "size_kb": 368247
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 359,
+    "duration_seconds": 2.700918
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 1106 stars."
+  }
+}

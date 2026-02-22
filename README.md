@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5259 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-22 |
+| #5260 | [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy) | Python · ⭐ 1k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5348,3 +5348,4 @@ If you need permission, you're thinking too much.
 | 5257 | 2026-02-22 15:01:08 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (95604⭐ C++) | [reels/reel_5257_ggml-org-llama.cpp](reels/reel_5257_ggml-org-llama.cpp) |
 | 5258 | 2026-02-22 15:41:28 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124587⭐ Python) | [reels/reel_5258_open-webui-open-webui](reels/reel_5258_open-webui-open-webui) |
 | 5259 | 2026-02-22 15:58:27 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139703⭐ Python) | [reels/reel_5259_ytdl-org-youtube-dl](reels/reel_5259_ytdl-org-youtube-dl) |
+| 5260 | 2026-02-22 16:39:12 | [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy) | ✅ shallow (1106⭐ Python) | [reels/reel_5260_pymc-labs-CausalPy](reels/reel_5260_pymc-labs-CausalPy) |
