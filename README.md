@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5268 | [pallets-eco/wtforms-sqlalchemy](https://github.com/pallets-eco/wtforms-sqlalchemy) | Python · ⭐ 104 | 2026-02-22 |
+| #5269 | [haide-D/SillyTavern-GPT-SoVITS](https://github.com/haide-D/SillyTavern-GPT-SoVITS) | Python · ⭐ 95 | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5357,3 +5357,4 @@ If you need permission, you're thinking too much.
 | 5266 | 2026-02-22 19:45:07 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103509⭐ Shell) | [reels/reel_5266_papers-we-love-papers-we-love](reels/reel_5266_papers-we-love-papers-we-love) |
 | 5267 | 2026-02-22 19:57:03 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97639⭐ TypeScript) | [reels/reel_5267_ant-design-ant-design](reels/reel_5267_ant-design-ant-design) |
 | 5268 | 2026-02-22 20:31:17 | [pallets-eco/wtforms-sqlalchemy](https://github.com/pallets-eco/wtforms-sqlalchemy) | ✅ full (104⭐ Python) | [reels/reel_5268_pallets-eco-wtforms-sqlalchemy](reels/reel_5268_pallets-eco-wtforms-sqlalchemy) |
+| 5269 | 2026-02-22 20:58:16 | [haide-D/SillyTavern-GPT-SoVITS](https://github.com/haide-D/SillyTavern-GPT-SoVITS) | ✅ full (95⭐ Python) | [reels/reel_5269_haide-D-SillyTavern-GPT-SoVITS](reels/reel_5269_haide-D-SillyTavern-GPT-SoVITS) |

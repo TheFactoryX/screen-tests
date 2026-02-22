@@ -1,0 +1,24 @@
+{
+  "reel_number": 5269,
+  "recorded": "2026-02-22 20:58:16 UTC",
+  "repository": {
+    "full_name": "haide-D/SillyTavern-GPT-SoVITS",
+    "url": "https://github.com/haide-D/SillyTavern-GPT-SoVITS",
+    "clone_url": "https://github.com/haide-D/SillyTavern-GPT-SoVITS.git",
+    "stars": 95,
+    "language": "Python",
+    "size_kb": 18364
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.233012
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 95 stars."
+  }
+}
