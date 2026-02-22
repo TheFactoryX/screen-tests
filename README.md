@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5274 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 98k | 2026-02-22 |
+| #5275 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5363,3 +5363,4 @@ If you need permission, you're thinking too much.
 | 5272 | 2026-02-22 22:25:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (258927⭐ None) | [reels/reel_5272_practical-tutorials-project-based-learning](reels/reel_5272_practical-tutorials-project-based-learning) |
 | 5273 | 2026-02-22 22:51:07 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139707⭐ Python) | [reels/reel_5273_ytdl-org-youtube-dl](reels/reel_5273_ytdl-org-youtube-dl) |
 | 5274 | 2026-02-22 23:23:41 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (98042⭐ TypeScript) | [reels/reel_5274_clash-verge-rev-clash-verge-rev](reels/reel_5274_clash-verge-rev-clash-verge-rev) |
+| 5275 | 2026-02-22 23:48:34 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97638⭐ TypeScript) | [reels/reel_5275_ant-design-ant-design](reels/reel_5275_ant-design-ant-design) |
