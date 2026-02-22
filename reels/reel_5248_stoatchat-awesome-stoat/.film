@@ -1,0 +1,24 @@
+{
+  "reel_number": 5248,
+  "recorded": "2026-02-22 09:58:11 UTC",
+  "repository": {
+    "full_name": "stoatchat/awesome-stoat",
+    "url": "https://github.com/stoatchat/awesome-stoat",
+    "clone_url": "https://github.com/stoatchat/awesome-stoat.git",
+    "stars": 489,
+    "language": null,
+    "size_kb": 133
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.154103
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 489 stars."
+  }
+}
