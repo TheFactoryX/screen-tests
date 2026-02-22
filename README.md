@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5249 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 175k | 2026-02-22 |
+| #5250 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5338,3 +5338,4 @@ If you need permission, you're thinking too much.
 | 5247 | 2026-02-22 09:39:42 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124560⭐ Python) | [reels/reel_5247_open-webui-open-webui](reels/reel_5247_open-webui-open-webui) |
 | 5248 | 2026-02-22 09:58:11 | [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) | ✅ full (489⭐ None) | [reels/reel_5248_stoatchat-awesome-stoat](reels/reel_5248_stoatchat-awesome-stoat) |
 | 5249 | 2026-02-22 10:32:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175749⭐ TypeScript) | [reels/reel_5249_n8n-io-n8n](reels/reel_5249_n8n-io-n8n) |
+| 5250 | 2026-02-22 10:58:38 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139698⭐ Python) | [reels/reel_5250_ytdl-org-youtube-dl](reels/reel_5250_ytdl-org-youtube-dl) |
