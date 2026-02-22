@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5263 | [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) | Dart · ⭐ 138 | 2026-02-22 |
+| #5264 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 95k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5352,3 +5352,4 @@ If you need permission, you're thinking too much.
 | 5261 | 2026-02-22 17:01:47 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (399544⭐ Python) | [reels/reel_5261_public-apis-public-apis](reels/reel_5261_public-apis-public-apis) |
 | 5262 | 2026-02-22 17:41:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127160⭐ Python) | [reels/reel_5262_langchain-ai-langchain](reels/reel_5262_langchain-ai-langchain) |
 | 5263 | 2026-02-22 17:58:33 | [zzzwannasleep/LinPlayer](https://github.com/zzzwannasleep/LinPlayer) | ✅ full (138⭐ Dart) | [reels/reel_5263_zzzwannasleep-LinPlayer](reels/reel_5263_zzzwannasleep-LinPlayer) |
+| 5264 | 2026-02-22 18:47:30 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (95612⭐ C++) | [reels/reel_5264_ggml-org-llama.cpp](reels/reel_5264_ggml-org-llama.cpp) |
