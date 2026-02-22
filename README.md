@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5238 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-02-21 |
+| #5239 | [darold/pgFormatter](https://github.com/darold/pgFormatter) | PLpgSQL · ⭐ 1k | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5327,3 +5327,4 @@ If you need permission, you're thinking too much.
 | 5236 | 2026-02-21 22:50:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (147930⭐ Python) | [reels/reel_5236_yt-dlp-yt-dlp](reels/reel_5236_yt-dlp-yt-dlp) |
 | 5237 | 2026-02-21 23:22:22 | [rabits/ha-ef-ble](https://github.com/rabits/ha-ef-ble) | ✅ full (214⭐ Python) | [reels/reel_5237_rabits-ha-ef-ble](reels/reel_5237_rabits-ha-ef-ble) |
 | 5238 | 2026-02-21 23:46:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103057⭐ Rust) | [reels/reel_5238_tauri-apps-tauri](reels/reel_5238_tauri-apps-tauri) |
+| 5239 | 2026-02-22 02:01:03 | [darold/pgFormatter](https://github.com/darold/pgFormatter) | ✅ full (1903⭐ PLpgSQL) | [reels/reel_5239_darold-pgFormatter](reels/reel_5239_darold-pgFormatter) |
