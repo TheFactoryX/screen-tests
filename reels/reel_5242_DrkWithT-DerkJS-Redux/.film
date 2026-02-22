@@ -1,0 +1,24 @@
+{
+  "reel_number": 5242,
+  "recorded": "2026-02-22 06:27:56 UTC",
+  "repository": {
+    "full_name": "DrkWithT/DerkJS-Redux",
+    "url": "https://github.com/DrkWithT/DerkJS-Redux",
+    "clone_url": "https://github.com/DrkWithT/DerkJS-Redux.git",
+    "stars": 15,
+    "language": "C++",
+    "size_kb": 968
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.224503
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 15 stars."
+  }
+}

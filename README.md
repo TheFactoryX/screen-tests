@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5241 | [ghiscoding/angular-slickgrid-demos](https://github.com/ghiscoding/angular-slickgrid-demos) | TypeScript · ⭐ 11 | 2026-02-22 |
+| #5242 | [DrkWithT/DerkJS-Redux](https://github.com/DrkWithT/DerkJS-Redux) | C++ · ⭐ 15 | 2026-02-22 |
 ---
 
 ## 🎭 Selection Process
@@ -5330,3 +5330,4 @@ If you need permission, you're thinking too much.
 | 5239 | 2026-02-22 02:01:03 | [darold/pgFormatter](https://github.com/darold/pgFormatter) | ✅ full (1903⭐ PLpgSQL) | [reels/reel_5239_darold-pgFormatter](reels/reel_5239_darold-pgFormatter) |
 | 5240 | 2026-02-22 04:25:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127130⭐ Python) | [reels/reel_5240_langchain-ai-langchain](reels/reel_5240_langchain-ai-langchain) |
 | 5241 | 2026-02-22 05:34:25 | [ghiscoding/angular-slickgrid-demos](https://github.com/ghiscoding/angular-slickgrid-demos) | ✅ shallow (11⭐ TypeScript) | [reels/reel_5241_ghiscoding-angular-slickgrid-demos](reels/reel_5241_ghiscoding-angular-slickgrid-demos) |
+| 5242 | 2026-02-22 06:27:56 | [DrkWithT/DerkJS-Redux](https://github.com/DrkWithT/DerkJS-Redux) | ✅ full (15⭐ C++) | [reels/reel_5242_DrkWithT-DerkJS-Redux](reels/reel_5242_DrkWithT-DerkJS-Redux) |
