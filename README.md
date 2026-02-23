@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5279 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 181k | 2026-02-23 |
+| #5280 | [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) | C# · ⭐ 1k | 2026-02-23 |
 ---
 
 ## 🎭 Selection Process
@@ -5368,3 +5368,4 @@ If you need permission, you're thinking too much.
 | 5277 | 2026-02-23 04:32:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (175869⭐ TypeScript) | [reels/reel_5277_n8n-io-n8n](reels/reel_5277_n8n-io-n8n) |
 | 5278 | 2026-02-23 05:52:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124634⭐ Python) | [reels/reel_5278_open-webui-open-webui](reels/reel_5278_open-webui-open-webui) |
 | 5279 | 2026-02-23 07:02:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181939⭐ Python) | [reels/reel_5279_Significant-Gravitas-AutoGPT](reels/reel_5279_Significant-Gravitas-AutoGPT) |
+| 5280 | 2026-02-23 08:01:38 | [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) | ✅ readme_only (1868⭐ C#) | [reels/reel_5280_microsoft-WhatTheHack](reels/reel_5280_microsoft-WhatTheHack) |

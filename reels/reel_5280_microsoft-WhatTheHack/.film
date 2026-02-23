@@ -1,0 +1,24 @@
+{
+  "reel_number": 5280,
+  "recorded": "2026-02-23 08:01:38 UTC",
+  "repository": {
+    "full_name": "microsoft/WhatTheHack",
+    "url": "https://github.com/microsoft/WhatTheHack",
+    "clone_url": "https://github.com/microsoft/WhatTheHack.git",
+    "stars": 1868,
+    "language": "C#",
+    "size_kb": 1687307
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 1647,
+    "duration_seconds": 0.000104
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 1868 stars."
+  }
+}
