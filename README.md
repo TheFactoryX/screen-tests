@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5289 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-02-23 |
+| #5290 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-23 |
 ---
 
 ## 🎭 Selection Process
@@ -5378,3 +5378,4 @@ If you need permission, you're thinking too much.
 | 5287 | 2026-02-23 15:07:33 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110635⭐ Rust) | [reels/reel_5287_rust-lang-rust](reels/reel_5287_rust-lang-rust) |
 | 5288 | 2026-02-23 16:02:39 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (124681⭐ Python) | [reels/reel_5288_open-webui-open-webui](reels/reel_5288_open-webui-open-webui) |
 | 5289 | 2026-02-23 17:18:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103140⭐ Rust) | [reels/reel_5289_tauri-apps-tauri](reels/reel_5289_tauri-apps-tauri) |
+| 5290 | 2026-02-23 18:33:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110643⭐ Rust) | [reels/reel_5290_rust-lang-rust](reels/reel_5290_rust-lang-rust) |
