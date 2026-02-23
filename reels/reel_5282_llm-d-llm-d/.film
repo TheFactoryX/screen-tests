@@ -1,0 +1,24 @@
+{
+  "reel_number": 5282,
+  "recorded": "2026-02-23 10:11:36 UTC",
+  "repository": {
+    "full_name": "llm-d/llm-d",
+    "url": "https://github.com/llm-d/llm-d",
+    "clone_url": "https://github.com/llm-d/llm-d.git",
+    "stars": 2520,
+    "language": "Shell",
+    "size_kb": 21909
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 0.770494
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 2520 stars."
+  }
+}

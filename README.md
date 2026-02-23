@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5281 | [lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto) | Shell · ⭐ 233 | 2026-02-23 |
+| #5282 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | Shell · ⭐ 2k | 2026-02-23 |
 ---
 
 ## 🎭 Selection Process
@@ -5370,3 +5370,4 @@ If you need permission, you're thinking too much.
 | 5279 | 2026-02-23 07:02:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181939⭐ Python) | [reels/reel_5279_Significant-Gravitas-AutoGPT](reels/reel_5279_Significant-Gravitas-AutoGPT) |
 | 5280 | 2026-02-23 08:01:38 | [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) | ✅ readme_only (1868⭐ C#) | [reels/reel_5280_microsoft-WhatTheHack](reels/reel_5280_microsoft-WhatTheHack) |
 | 5281 | 2026-02-23 09:06:56 | [lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto) | ✅ full (233⭐ Shell) | [reels/reel_5281_lingeringsound-adblock_auto](reels/reel_5281_lingeringsound-adblock_auto) |
+| 5282 | 2026-02-23 10:11:36 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | ✅ full (2520⭐ Shell) | [reels/reel_5282_llm-d-llm-d](reels/reel_5282_llm-d-llm-d) |
