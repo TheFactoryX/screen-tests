@@ -1,0 +1,24 @@
+{
+  "reel_number": 5292,
+  "recorded": "2026-02-23 20:26:27 UTC",
+  "repository": {
+    "full_name": "tess1o/geopulse",
+    "url": "https://github.com/tess1o/geopulse",
+    "clone_url": "https://github.com/tess1o/geopulse.git",
+    "stars": 599,
+    "language": "Java",
+    "size_kb": 26439
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 1.358073
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 599 stars."
+  }
+}
