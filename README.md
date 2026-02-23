@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5292 | [tess1o/geopulse](https://github.com/tess1o/geopulse) | Java · ⭐ 599 | 2026-02-23 |
+| #5293 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-02-23 |
 ---
 
 ## 🎭 Selection Process
@@ -5381,3 +5381,4 @@ If you need permission, you're thinking too much.
 | 5290 | 2026-02-23 18:33:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110643⭐ Rust) | [reels/reel_5290_rust-lang-rust](reels/reel_5290_rust-lang-rust) |
 | 5291 | 2026-02-23 19:43:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127225⭐ Python) | [reels/reel_5291_langchain-ai-langchain](reels/reel_5291_langchain-ai-langchain) |
 | 5292 | 2026-02-23 20:26:27 | [tess1o/geopulse](https://github.com/tess1o/geopulse) | ✅ full (599⭐ Java) | [reels/reel_5292_tess1o-geopulse](reels/reel_5292_tess1o-geopulse) |
+| 5293 | 2026-02-23 21:09:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127231⭐ Python) | [reels/reel_5293_langchain-ai-langchain](reels/reel_5293_langchain-ai-langchain) |
