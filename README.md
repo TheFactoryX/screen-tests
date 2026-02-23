@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5275 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-22 |
+| #5276 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-02-23 |
 ---
 
 ## 🎭 Selection Process
@@ -5364,3 +5364,4 @@ If you need permission, you're thinking too much.
 | 5273 | 2026-02-22 22:51:07 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139707⭐ Python) | [reels/reel_5273_ytdl-org-youtube-dl](reels/reel_5273_ytdl-org-youtube-dl) |
 | 5274 | 2026-02-22 23:23:41 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (98042⭐ TypeScript) | [reels/reel_5274_clash-verge-rev-clash-verge-rev](reels/reel_5274_clash-verge-rev-clash-verge-rev) |
 | 5275 | 2026-02-22 23:48:34 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97638⭐ TypeScript) | [reels/reel_5275_ant-design-ant-design](reels/reel_5275_ant-design-ant-design) |
+| 5276 | 2026-02-23 02:02:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127177⭐ Python) | [reels/reel_5276_langchain-ai-langchain](reels/reel_5276_langchain-ai-langchain) |
