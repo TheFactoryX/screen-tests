@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5318 | [leil-io/saunafs](https://github.com/leil-io/saunafs) | C++ · ⭐ 110 | 2026-02-24 |
+| #5319 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 95k | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5407,3 +5407,4 @@ If you need permission, you're thinking too much.
 | 5316 | 2026-02-24 21:34:01 | [sinavm/SVM](https://github.com/sinavm/SVM) | ✅ shallow (337⭐ PHP) | [reels/reel_5316_sinavm-SVM](reels/reel_5316_sinavm-SVM) |
 | 5317 | 2026-02-24 22:03:52 | [ROCm/rocm-libraries](https://github.com/ROCm/rocm-libraries) | ✅ readme_only (259⭐ Assembly) | [reels/reel_5317_ROCm-rocm-libraries](reels/reel_5317_ROCm-rocm-libraries) |
 | 5318 | 2026-02-24 22:52:31 | [leil-io/saunafs](https://github.com/leil-io/saunafs) | ✅ full (110⭐ C++) | [reels/reel_5318_leil-io-saunafs](reels/reel_5318_leil-io-saunafs) |
+| 5319 | 2026-02-24 23:29:41 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (95557⭐ TypeScript) | [reels/reel_5319_google-gemini-gemini-cli](reels/reel_5319_google-gemini-gemini-cli) |
