@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5313 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-02-24 |
+| #5314 | [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) | HTML · ⭐ 360 | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5402,3 +5402,4 @@ If you need permission, you're thinking too much.
 | 5311 | 2026-02-24 17:44:04 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139723⭐ Python) | [reels/reel_5311_ytdl-org-youtube-dl](reels/reel_5311_ytdl-org-youtube-dl) |
 | 5312 | 2026-02-24 18:39:29 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139724⭐ Python) | [reels/reel_5312_ytdl-org-youtube-dl](reels/reel_5312_ytdl-org-youtube-dl) |
 | 5313 | 2026-02-24 19:38:45 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97656⭐ TypeScript) | [reels/reel_5313_ant-design-ant-design](reels/reel_5313_ant-design-ant-design) |
+| 5314 | 2026-02-24 20:04:09 | [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) | ✅ readme_only (360⭐ HTML) | [reels/reel_5314_department-of-veterans-affairs-va.gov-team](reels/reel_5314_department-of-veterans-affairs-va.gov-team) |
