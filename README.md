@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5298 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-24 |
+| #5299 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5387,3 +5387,4 @@ If you need permission, you're thinking too much.
 | 5296 | 2026-02-23 23:46:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274784⭐ None) | [reels/reel_5296_awesome-selfhosted-awesome-selfhosted](reels/reel_5296_awesome-selfhosted-awesome-selfhosted) |
 | 5297 | 2026-02-24 01:58:55 | [intel/confidential-computing-zoo](https://github.com/intel/confidential-computing-zoo) | ✅ full (350⭐ C++) | [reels/reel_5297_intel-confidential-computing-zoo](reels/reel_5297_intel-confidential-computing-zoo) |
 | 5298 | 2026-02-24 04:24:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110648⭐ Rust) | [reels/reel_5298_rust-lang-rust](reels/reel_5298_rust-lang-rust) |
+| 5299 | 2026-02-24 05:40:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127262⭐ Python) | [reels/reel_5299_langchain-ai-langchain](reels/reel_5299_langchain-ai-langchain) |
