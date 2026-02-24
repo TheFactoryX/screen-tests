@@ -1,0 +1,24 @@
+{
+  "reel_number": 5317,
+  "recorded": "2026-02-24 22:03:52 UTC",
+  "repository": {
+    "full_name": "ROCm/rocm-libraries",
+    "url": "https://github.com/ROCm/rocm-libraries",
+    "clone_url": "https://github.com/ROCm/rocm-libraries.git",
+    "stars": 259,
+    "language": "Assembly",
+    "size_kb": 4369837
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 4267,
+    "duration_seconds": 0.00013
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Assembly",
+    "director_note": "A Assembly repository. 259 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5316 | [sinavm/SVM](https://github.com/sinavm/SVM) | PHP · ⭐ 337 | 2026-02-24 |
+| #5317 | [ROCm/rocm-libraries](https://github.com/ROCm/rocm-libraries) | Assembly · ⭐ 259 | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5405,3 +5405,4 @@ If you need permission, you're thinking too much.
 | 5314 | 2026-02-24 20:04:09 | [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) | ✅ readme_only (360⭐ HTML) | [reels/reel_5314_department-of-veterans-affairs-va.gov-team](reels/reel_5314_department-of-veterans-affairs-va.gov-team) |
 | 5315 | 2026-02-24 20:55:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274926⭐ None) | [reels/reel_5315_awesome-selfhosted-awesome-selfhosted](reels/reel_5315_awesome-selfhosted-awesome-selfhosted) |
 | 5316 | 2026-02-24 21:34:01 | [sinavm/SVM](https://github.com/sinavm/SVM) | ✅ shallow (337⭐ PHP) | [reels/reel_5316_sinavm-SVM](reels/reel_5316_sinavm-SVM) |
+| 5317 | 2026-02-24 22:03:52 | [ROCm/rocm-libraries](https://github.com/ROCm/rocm-libraries) | ✅ readme_only (259⭐ Assembly) | [reels/reel_5317_ROCm-rocm-libraries](reels/reel_5317_ROCm-rocm-libraries) |
