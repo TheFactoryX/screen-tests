@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5301 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 148k | 2026-02-24 |
+| #5302 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 259k | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5390,3 +5390,4 @@ If you need permission, you're thinking too much.
 | 5299 | 2026-02-24 05:40:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127262⭐ Python) | [reels/reel_5299_langchain-ai-langchain](reels/reel_5299_langchain-ai-langchain) |
 | 5300 | 2026-02-24 06:39:37 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (98381⭐ TypeScript) | [reels/reel_5300_clash-verge-rev-clash-verge-rev](reels/reel_5300_clash-verge-rev-clash-verge-rev) |
 | 5301 | 2026-02-24 07:37:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (148299⭐ Python) | [reels/reel_5301_yt-dlp-yt-dlp](reels/reel_5301_yt-dlp-yt-dlp) |
+| 5302 | 2026-02-24 08:27:27 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (259079⭐ None) | [reels/reel_5302_practical-tutorials-project-based-learning](reels/reel_5302_practical-tutorials-project-based-learning) |
