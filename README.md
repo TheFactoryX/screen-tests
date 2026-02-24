@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5306 | [newrelic/docs-website](https://github.com/newrelic/docs-website) | MDX · ⭐ 195 | 2026-02-24 |
+| #5307 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 468k | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5395,3 +5395,4 @@ If you need permission, you're thinking too much.
 | 5304 | 2026-02-24 10:26:51 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110659⭐ Rust) | [reels/reel_5304_rust-lang-rust](reels/reel_5304_rust-lang-rust) |
 | 5305 | 2026-02-24 11:12:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181983⭐ Python) | [reels/reel_5305_Significant-Gravitas-AutoGPT](reels/reel_5305_Significant-Gravitas-AutoGPT) |
 | 5306 | 2026-02-24 11:56:11 | [newrelic/docs-website](https://github.com/newrelic/docs-website) | ✅ readme_only (195⭐ MDX) | [reels/reel_5306_newrelic-docs-website](reels/reel_5306_newrelic-docs-website) |
+| 5307 | 2026-02-24 13:08:35 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (468561⭐ Markdown) | [reels/reel_5307_codecrafters-io-build-your-own-x](reels/reel_5307_codecrafters-io-build-your-own-x) |
