@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5315 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 274k | 2026-02-24 |
+| #5316 | [sinavm/SVM](https://github.com/sinavm/SVM) | PHP · ⭐ 337 | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5404,3 +5404,4 @@ If you need permission, you're thinking too much.
 | 5313 | 2026-02-24 19:38:45 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97656⭐ TypeScript) | [reels/reel_5313_ant-design-ant-design](reels/reel_5313_ant-design-ant-design) |
 | 5314 | 2026-02-24 20:04:09 | [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) | ✅ readme_only (360⭐ HTML) | [reels/reel_5314_department-of-veterans-affairs-va.gov-team](reels/reel_5314_department-of-veterans-affairs-va.gov-team) |
 | 5315 | 2026-02-24 20:55:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274926⭐ None) | [reels/reel_5315_awesome-selfhosted-awesome-selfhosted](reels/reel_5315_awesome-selfhosted-awesome-selfhosted) |
+| 5316 | 2026-02-24 21:34:01 | [sinavm/SVM](https://github.com/sinavm/SVM) | ✅ shallow (337⭐ PHP) | [reels/reel_5316_sinavm-SVM](reels/reel_5316_sinavm-SVM) |
