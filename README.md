@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5309 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 468k | 2026-02-24 |
+| #5310 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5398,3 +5398,4 @@ If you need permission, you're thinking too much.
 | 5307 | 2026-02-24 13:08:35 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (468561⭐ Markdown) | [reels/reel_5307_codecrafters-io-build-your-own-x](reels/reel_5307_codecrafters-io-build-your-own-x) |
 | 5308 | 2026-02-24 14:16:10 | [altunenes/cuneus](https://github.com/altunenes/cuneus) | ✅ full (144⭐ Rust) | [reels/reel_5308_altunenes-cuneus](reels/reel_5308_altunenes-cuneus) |
 | 5309 | 2026-02-24 15:30:28 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (468600⭐ Markdown) | [reels/reel_5309_codecrafters-io-build-your-own-x](reels/reel_5309_codecrafters-io-build-your-own-x) |
+| 5310 | 2026-02-24 16:45:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107210⭐ TypeScript) | [reels/reel_5310_shadcn-ui-ui](reels/reel_5310_shadcn-ui-ui) |
