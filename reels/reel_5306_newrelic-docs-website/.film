@@ -1,0 +1,24 @@
+{
+  "reel_number": 5306,
+  "recorded": "2026-02-24 11:56:11 UTC",
+  "repository": {
+    "full_name": "newrelic/docs-website",
+    "url": "https://github.com/newrelic/docs-website",
+    "clone_url": "https://github.com/newrelic/docs-website.git",
+    "stars": 195,
+    "language": "MDX",
+    "size_kb": 2884317
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2816,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 195 stars."
+  }
+}
