@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5296 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 274k | 2026-02-23 |
+| #5297 | [intel/confidential-computing-zoo](https://github.com/intel/confidential-computing-zoo) | C++ · ⭐ 350 | 2026-02-24 |
 ---
 
 ## 🎭 Selection Process
@@ -5385,3 +5385,4 @@ If you need permission, you're thinking too much.
 | 5294 | 2026-02-23 22:01:57 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (181955⭐ Python) | [reels/reel_5294_Significant-Gravitas-AutoGPT](reels/reel_5294_Significant-Gravitas-AutoGPT) |
 | 5295 | 2026-02-23 23:00:18 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139716⭐ Python) | [reels/reel_5295_ytdl-org-youtube-dl](reels/reel_5295_ytdl-org-youtube-dl) |
 | 5296 | 2026-02-23 23:46:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (274784⭐ None) | [reels/reel_5296_awesome-selfhosted-awesome-selfhosted](reels/reel_5296_awesome-selfhosted-awesome-selfhosted) |
+| 5297 | 2026-02-24 01:58:55 | [intel/confidential-computing-zoo](https://github.com/intel/confidential-computing-zoo) | ✅ full (350⭐ C++) | [reels/reel_5297_intel-confidential-computing-zoo](reels/reel_5297_intel-confidential-computing-zoo) |

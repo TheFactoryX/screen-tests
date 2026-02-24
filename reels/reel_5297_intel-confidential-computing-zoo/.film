@@ -1,0 +1,24 @@
+{
+  "reel_number": 5297,
+  "recorded": "2026-02-24 01:58:55 UTC",
+  "repository": {
+    "full_name": "intel/confidential-computing-zoo",
+    "url": "https://github.com/intel/confidential-computing-zoo",
+    "clone_url": "https://github.com/intel/confidential-computing-zoo.git",
+    "stars": 350,
+    "language": "C++",
+    "size_kb": 98834
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 96,
+    "duration_seconds": 2.816622
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 350 stars."
+  }
+}
