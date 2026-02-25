@@ -1,0 +1,24 @@
+{
+  "reel_number": 5328,
+  "recorded": "2026-02-25 11:08:34 UTC",
+  "repository": {
+    "full_name": "SuperteamDAO/earn",
+    "url": "https://github.com/SuperteamDAO/earn",
+    "clone_url": "https://github.com/SuperteamDAO/earn.git",
+    "stars": 221,
+    "language": "TypeScript",
+    "size_kb": 181141
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 176,
+    "duration_seconds": 1.100053
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 221 stars."
+  }
+}
