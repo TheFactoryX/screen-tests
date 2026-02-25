@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5341 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 176k | 2026-02-25 |
+| #5342 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 400k | 2026-02-25 |
 ---
 
 ## 🎭 Selection Process
@@ -5430,3 +5430,4 @@ If you need permission, you're thinking too much.
 | 5339 | 2026-02-25 21:33:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110698⭐ Rust) | [reels/reel_5339_rust-lang-rust](reels/reel_5339_rust-lang-rust) |
 | 5340 | 2026-02-25 22:01:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110700⭐ Rust) | [reels/reel_5340_rust-lang-rust](reels/reel_5340_rust-lang-rust) |
 | 5341 | 2026-02-25 22:51:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176363⭐ TypeScript) | [reels/reel_5341_n8n-io-n8n](reels/reel_5341_n8n-io-n8n) |
+| 5342 | 2026-02-25 23:26:28 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (400258⭐ Python) | [reels/reel_5342_public-apis-public-apis](reels/reel_5342_public-apis-public-apis) |
