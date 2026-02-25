@@ -1,0 +1,24 @@
+{
+  "reel_number": 5331,
+  "recorded": "2026-02-25 14:14:39 UTC",
+  "repository": {
+    "full_name": "BonsaiDen/JavaScript-Garden",
+    "url": "https://github.com/BonsaiDen/JavaScript-Garden",
+    "clone_url": "https://github.com/BonsaiDen/JavaScript-Garden.git",
+    "stars": 3447,
+    "language": "CSS",
+    "size_kb": 2212
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.296845
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 3447 stars."
+  }
+}

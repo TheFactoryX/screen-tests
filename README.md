@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5330 | [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) | Rust · ⭐ 148 | 2026-02-25 |
+| #5331 | [BonsaiDen/JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) | CSS · ⭐ 3k | 2026-02-25 |
 ---
 
 ## 🎭 Selection Process
@@ -5419,3 +5419,4 @@ If you need permission, you're thinking too much.
 | 5328 | 2026-02-25 11:08:34 | [SuperteamDAO/earn](https://github.com/SuperteamDAO/earn) | ✅ shallow (221⭐ TypeScript) | [reels/reel_5328_SuperteamDAO-earn](reels/reel_5328_SuperteamDAO-earn) |
 | 5329 | 2026-02-25 11:53:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110685⭐ Rust) | [reels/reel_5329_rust-lang-rust](reels/reel_5329_rust-lang-rust) |
 | 5330 | 2026-02-25 13:00:59 | [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) | ✅ full (148⭐ Rust) | [reels/reel_5330_h3poteto-megalodon-rs](reels/reel_5330_h3poteto-megalodon-rs) |
+| 5331 | 2026-02-25 14:14:39 | [BonsaiDen/JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) | ✅ full (3447⭐ CSS) | [reels/reel_5331_BonsaiDen-JavaScript-Garden](reels/reel_5331_BonsaiDen-JavaScript-Garden) |
