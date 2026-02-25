@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5324 | [Cloudflare-Mining/Cloudflare-Datamining](https://github.com/Cloudflare-Mining/Cloudflare-Datamining) | HTML · ⭐ 190 | 2026-02-25 |
+| #5325 | [ToxSam/open-source-3D-assets](https://github.com/ToxSam/open-source-3D-assets) | None · ⭐ 102 | 2026-02-25 |
 ---
 
 ## 🎭 Selection Process
@@ -5413,3 +5413,4 @@ If you need permission, you're thinking too much.
 | 5322 | 2026-02-25 04:32:47 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182003⭐ Python) | [reels/reel_5322_Significant-Gravitas-AutoGPT](reels/reel_5322_Significant-Gravitas-AutoGPT) |
 | 5323 | 2026-02-25 05:46:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (111990⭐ TypeScript) | [reels/reel_5323_iptv-org-iptv](reels/reel_5323_iptv-org-iptv) |
 | 5324 | 2026-02-25 07:00:15 | [Cloudflare-Mining/Cloudflare-Datamining](https://github.com/Cloudflare-Mining/Cloudflare-Datamining) | ✅ readme_only (190⭐ HTML) | [reels/reel_5324_Cloudflare-Mining-Cloudflare-Datamining](reels/reel_5324_Cloudflare-Mining-Cloudflare-Datamining) |
+| 5325 | 2026-02-25 08:00:02 | [ToxSam/open-source-3D-assets](https://github.com/ToxSam/open-source-3D-assets) | ✅ full (102⭐ None) | [reels/reel_5325_ToxSam-open-source-3D-assets](reels/reel_5325_ToxSam-open-source-3D-assets) |
