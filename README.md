@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5328 | [SuperteamDAO/earn](https://github.com/SuperteamDAO/earn) | TypeScript · ⭐ 221 | 2026-02-25 |
+| #5329 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-25 |
 ---
 
 ## 🎭 Selection Process
@@ -5417,3 +5417,4 @@ If you need permission, you're thinking too much.
 | 5326 | 2026-02-25 09:00:49 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182009⭐ Python) | [reels/reel_5326_Significant-Gravitas-AutoGPT](reels/reel_5326_Significant-Gravitas-AutoGPT) |
 | 5327 | 2026-02-25 10:10:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110685⭐ Rust) | [reels/reel_5327_rust-lang-rust](reels/reel_5327_rust-lang-rust) |
 | 5328 | 2026-02-25 11:08:34 | [SuperteamDAO/earn](https://github.com/SuperteamDAO/earn) | ✅ shallow (221⭐ TypeScript) | [reels/reel_5328_SuperteamDAO-earn](reels/reel_5328_SuperteamDAO-earn) |
+| 5329 | 2026-02-25 11:53:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110685⭐ Rust) | [reels/reel_5329_rust-lang-rust](reels/reel_5329_rust-lang-rust) |
