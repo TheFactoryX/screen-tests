@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5335 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-25 |
+| #5336 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 104k | 2026-02-25 |
 ---
 
 ## 🎭 Selection Process
@@ -5424,3 +5424,4 @@ If you need permission, you're thinking too much.
 | 5333 | 2026-02-25 16:20:26 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (400218⭐ Python) | [reels/reel_5333_public-apis-public-apis](reels/reel_5333_public-apis-public-apis) |
 | 5334 | 2026-02-25 17:33:56 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176324⭐ TypeScript) | [reels/reel_5334_n8n-io-n8n](reels/reel_5334_n8n-io-n8n) |
 | 5335 | 2026-02-25 18:40:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110694⭐ Rust) | [reels/reel_5335_rust-lang-rust](reels/reel_5335_rust-lang-rust) |
+| 5336 | 2026-02-25 19:39:16 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (104181⭐ Python) | [reels/reel_5336_Comfy-Org-ComfyUI](reels/reel_5336_Comfy-Org-ComfyUI) |
