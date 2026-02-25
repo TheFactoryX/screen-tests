@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5332 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-02-25 |
+| #5333 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 400k | 2026-02-25 |
 ---
 
 ## 🎭 Selection Process
@@ -5421,3 +5421,4 @@ If you need permission, you're thinking too much.
 | 5330 | 2026-02-25 13:00:59 | [h3poteto/megalodon-rs](https://github.com/h3poteto/megalodon-rs) | ✅ full (148⭐ Rust) | [reels/reel_5330_h3poteto-megalodon-rs](reels/reel_5330_h3poteto-megalodon-rs) |
 | 5331 | 2026-02-25 14:14:39 | [BonsaiDen/JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) | ✅ full (3447⭐ CSS) | [reels/reel_5331_BonsaiDen-JavaScript-Garden](reels/reel_5331_BonsaiDen-JavaScript-Garden) |
 | 5332 | 2026-02-25 15:11:27 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112004⭐ TypeScript) | [reels/reel_5332_iptv-org-iptv](reels/reel_5332_iptv-org-iptv) |
+| 5333 | 2026-02-25 16:20:26 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (400218⭐ Python) | [reels/reel_5333_public-apis-public-apis](reels/reel_5333_public-apis-public-apis) |
