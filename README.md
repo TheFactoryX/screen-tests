@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5338 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-25 |
+| #5339 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-25 |
 ---
 
 ## 🎭 Selection Process
@@ -5427,3 +5427,4 @@ If you need permission, you're thinking too much.
 | 5336 | 2026-02-25 19:39:16 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (104181⭐ Python) | [reels/reel_5336_Comfy-Org-ComfyUI](reels/reel_5336_Comfy-Org-ComfyUI) |
 | 5337 | 2026-02-25 20:04:20 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101733⭐ Python) | [reels/reel_5337_deepseek-ai-DeepSeek-V3](reels/reel_5337_deepseek-ai-DeepSeek-V3) |
 | 5338 | 2026-02-25 20:54:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139730⭐ Python) | [reels/reel_5338_ytdl-org-youtube-dl](reels/reel_5338_ytdl-org-youtube-dl) |
+| 5339 | 2026-02-25 21:33:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110698⭐ Rust) | [reels/reel_5339_rust-lang-rust](reels/reel_5339_rust-lang-rust) |
