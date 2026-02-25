@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5340 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-25 |
+| #5341 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 176k | 2026-02-25 |
 ---
 
 ## 🎭 Selection Process
@@ -5429,3 +5429,4 @@ If you need permission, you're thinking too much.
 | 5338 | 2026-02-25 20:54:30 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139730⭐ Python) | [reels/reel_5338_ytdl-org-youtube-dl](reels/reel_5338_ytdl-org-youtube-dl) |
 | 5339 | 2026-02-25 21:33:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110698⭐ Rust) | [reels/reel_5339_rust-lang-rust](reels/reel_5339_rust-lang-rust) |
 | 5340 | 2026-02-25 22:01:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110700⭐ Rust) | [reels/reel_5340_rust-lang-rust](reels/reel_5340_rust-lang-rust) |
+| 5341 | 2026-02-25 22:51:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176363⭐ TypeScript) | [reels/reel_5341_n8n-io-n8n](reels/reel_5341_n8n-io-n8n) |
