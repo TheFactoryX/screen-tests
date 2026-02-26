@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5365 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-02-26 |
+| #5366 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 469k | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5454,3 +5454,4 @@ If you need permission, you're thinking too much.
 | 5363 | 2026-02-26 21:18:39 | [jtmx22/awesome-hacker-engines](https://github.com/jtmx22/awesome-hacker-engines) | ✅ full (14⭐ Python) | [reels/reel_5363_jtmx22-awesome-hacker-engines](reels/reel_5363_jtmx22-awesome-hacker-engines) |
 | 5364 | 2026-02-26 21:53:29 | [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) | ✅ full (356⭐ Swift) | [reels/reel_5364_IronsideXXVI-Hacker-News](reels/reel_5364_IronsideXXVI-Hacker-News) |
 | 5365 | 2026-02-26 22:31:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182041⭐ Python) | [reels/reel_5365_Significant-Gravitas-AutoGPT](reels/reel_5365_Significant-Gravitas-AutoGPT) |
+| 5366 | 2026-02-26 23:04:02 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469534⭐ Markdown) | [reels/reel_5366_codecrafters-io-build-your-own-x](reels/reel_5366_codecrafters-io-build-your-own-x) |
