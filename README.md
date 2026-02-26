@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5347 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-02-26 |
+| #5348 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 98k | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5436,3 +5436,4 @@ If you need permission, you're thinking too much.
 | 5345 | 2026-02-26 04:19:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176409⭐ TypeScript) | [reels/reel_5345_n8n-io-n8n](reels/reel_5345_n8n-io-n8n) |
 | 5346 | 2026-02-26 05:39:01 | [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) | ✅ full (262⭐ Go) | [reels/reel_5346_openshift-cluster-monitoring-operator](reels/reel_5346_openshift-cluster-monitoring-operator) |
 | 5347 | 2026-02-26 06:38:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112033⭐ TypeScript) | [reels/reel_5347_iptv-org-iptv](reels/reel_5347_iptv-org-iptv) |
+| 5348 | 2026-02-26 07:38:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (98846⭐ TypeScript) | [reels/reel_5348_clash-verge-rev-clash-verge-rev](reels/reel_5348_clash-verge-rev-clash-verge-rev) |
