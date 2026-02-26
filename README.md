@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5359 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-02-26 |
+| #5360 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5448,3 +5448,4 @@ If you need permission, you're thinking too much.
 | 5357 | 2026-02-26 16:06:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110729⭐ Rust) | [reels/reel_5357_rust-lang-rust](reels/reel_5357_rust-lang-rust) |
 | 5358 | 2026-02-26 17:17:28 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107336⭐ TypeScript) | [reels/reel_5358_shadcn-ui-ui](reels/reel_5358_shadcn-ui-ui) |
 | 5359 | 2026-02-26 18:08:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125015⭐ Python) | [reels/reel_5359_open-webui-open-webui](reels/reel_5359_open-webui-open-webui) |
+| 5360 | 2026-02-26 19:09:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145089⭐ Python) | [reels/reel_5360_langflow-ai-langflow](reels/reel_5360_langflow-ai-langflow) |
