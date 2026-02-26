@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5356 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-02-26 |
+| #5357 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5445,3 +5445,4 @@ If you need permission, you're thinking too much.
 | 5354 | 2026-02-26 13:02:16 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (325⭐ None) | [reels/reel_5354_hello-world-1989-cn-news](reels/reel_5354_hello-world-1989-cn-news) |
 | 5355 | 2026-02-26 14:14:16 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469448⭐ Markdown) | [reels/reel_5355_codecrafters-io-build-your-own-x](reels/reel_5355_codecrafters-io-build-your-own-x) |
 | 5356 | 2026-02-26 15:07:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112051⭐ TypeScript) | [reels/reel_5356_iptv-org-iptv](reels/reel_5356_iptv-org-iptv) |
+| 5357 | 2026-02-26 16:06:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110729⭐ Rust) | [reels/reel_5357_rust-lang-rust](reels/reel_5357_rust-lang-rust) |
