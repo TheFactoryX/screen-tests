@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5354 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 325 | 2026-02-26 |
+| #5355 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 469k | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5443,3 +5443,4 @@ If you need permission, you're thinking too much.
 | 5352 | 2026-02-26 11:06:35 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (95760⭐ TypeScript) | [reels/reel_5352_google-gemini-gemini-cli](reels/reel_5352_google-gemini-gemini-cli) |
 | 5353 | 2026-02-26 11:54:34 | [Teahouse-Studios/akari-bot](https://github.com/Teahouse-Studios/akari-bot) | ✅ shallow (223⭐ Python) | [reels/reel_5353_Teahouse-Studios-akari-bot](reels/reel_5353_Teahouse-Studios-akari-bot) |
 | 5354 | 2026-02-26 13:02:16 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (325⭐ None) | [reels/reel_5354_hello-world-1989-cn-news](reels/reel_5354_hello-world-1989-cn-news) |
+| 5355 | 2026-02-26 14:14:16 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469448⭐ Markdown) | [reels/reel_5355_codecrafters-io-build-your-own-x](reels/reel_5355_codecrafters-io-build-your-own-x) |
