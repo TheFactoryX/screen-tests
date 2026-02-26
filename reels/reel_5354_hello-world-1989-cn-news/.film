@@ -1,0 +1,24 @@
+{
+  "reel_number": 5354,
+  "recorded": "2026-02-26 13:02:16 UTC",
+  "repository": {
+    "full_name": "hello-world-1989/cn-news",
+    "url": "https://github.com/hello-world-1989/cn-news",
+    "clone_url": "https://github.com/hello-world-1989/cn-news.git",
+    "stars": 325,
+    "language": null,
+    "size_kb": 3643
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 3.24817
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 325 stars."
+  }
+}
