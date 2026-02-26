@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5358 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-02-26 |
+| #5359 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5447,3 +5447,4 @@ If you need permission, you're thinking too much.
 | 5356 | 2026-02-26 15:07:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112051⭐ TypeScript) | [reels/reel_5356_iptv-org-iptv](reels/reel_5356_iptv-org-iptv) |
 | 5357 | 2026-02-26 16:06:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110729⭐ Rust) | [reels/reel_5357_rust-lang-rust](reels/reel_5357_rust-lang-rust) |
 | 5358 | 2026-02-26 17:17:28 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107336⭐ TypeScript) | [reels/reel_5358_shadcn-ui-ui](reels/reel_5358_shadcn-ui-ui) |
+| 5359 | 2026-02-26 18:08:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125015⭐ Python) | [reels/reel_5359_open-webui-open-webui](reels/reel_5359_open-webui-open-webui) |
