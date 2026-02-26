@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5364 | [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) | Swift · ⭐ 356 | 2026-02-26 |
+| #5365 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5453,3 +5453,4 @@ If you need permission, you're thinking too much.
 | 5362 | 2026-02-26 20:35:31 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107348⭐ TypeScript) | [reels/reel_5362_shadcn-ui-ui](reels/reel_5362_shadcn-ui-ui) |
 | 5363 | 2026-02-26 21:18:39 | [jtmx22/awesome-hacker-engines](https://github.com/jtmx22/awesome-hacker-engines) | ✅ full (14⭐ Python) | [reels/reel_5363_jtmx22-awesome-hacker-engines](reels/reel_5363_jtmx22-awesome-hacker-engines) |
 | 5364 | 2026-02-26 21:53:29 | [IronsideXXVI/Hacker-News](https://github.com/IronsideXXVI/Hacker-News) | ✅ full (356⭐ Swift) | [reels/reel_5364_IronsideXXVI-Hacker-News](reels/reel_5364_IronsideXXVI-Hacker-News) |
+| 5365 | 2026-02-26 22:31:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182041⭐ Python) | [reels/reel_5365_Significant-Gravitas-AutoGPT](reels/reel_5365_Significant-Gravitas-AutoGPT) |
