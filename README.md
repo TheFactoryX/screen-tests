@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5348 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 98k | 2026-02-26 |
+| #5349 | [wujun728/jun_java_plugin](https://github.com/wujun728/jun_java_plugin) | Java · ⭐ 240 | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5437,3 +5437,4 @@ If you need permission, you're thinking too much.
 | 5346 | 2026-02-26 05:39:01 | [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) | ✅ full (262⭐ Go) | [reels/reel_5346_openshift-cluster-monitoring-operator](reels/reel_5346_openshift-cluster-monitoring-operator) |
 | 5347 | 2026-02-26 06:38:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112033⭐ TypeScript) | [reels/reel_5347_iptv-org-iptv](reels/reel_5347_iptv-org-iptv) |
 | 5348 | 2026-02-26 07:38:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (98846⭐ TypeScript) | [reels/reel_5348_clash-verge-rev-clash-verge-rev](reels/reel_5348_clash-verge-rev-clash-verge-rev) |
+| 5349 | 2026-02-26 08:27:05 | [wujun728/jun_java_plugin](https://github.com/wujun728/jun_java_plugin) | ✅ shallow (240⭐ Java) | [reels/reel_5349_wujun728-jun_java_plugin](reels/reel_5349_wujun728-jun_java_plugin) |
