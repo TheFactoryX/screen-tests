@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5352 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 95k | 2026-02-26 |
+| #5353 | [Teahouse-Studios/akari-bot](https://github.com/Teahouse-Studios/akari-bot) | Python · ⭐ 223 | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5441,3 +5441,4 @@ If you need permission, you're thinking too much.
 | 5350 | 2026-02-26 09:12:54 | [armin-reichert/pacman-javafx](https://github.com/armin-reichert/pacman-javafx) | ✅ shallow (116⭐ Java) | [reels/reel_5350_armin-reichert-pacman-javafx](reels/reel_5350_armin-reichert-pacman-javafx) |
 | 5351 | 2026-02-26 10:08:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (107376⭐ None) | [reels/reel_5351_Hack-with-Github-Awesome-Hacking](reels/reel_5351_Hack-with-Github-Awesome-Hacking) |
 | 5352 | 2026-02-26 11:06:35 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (95760⭐ TypeScript) | [reels/reel_5352_google-gemini-gemini-cli](reels/reel_5352_google-gemini-gemini-cli) |
+| 5353 | 2026-02-26 11:54:34 | [Teahouse-Studios/akari-bot](https://github.com/Teahouse-Studios/akari-bot) | ✅ shallow (223⭐ Python) | [reels/reel_5353_Teahouse-Studios-akari-bot](reels/reel_5353_Teahouse-Studios-akari-bot) |
