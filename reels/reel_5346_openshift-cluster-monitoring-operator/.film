@@ -1,0 +1,24 @@
+{
+  "reel_number": 5346,
+  "recorded": "2026-02-26 05:39:01 UTC",
+  "repository": {
+    "full_name": "openshift/cluster-monitoring-operator",
+    "url": "https://github.com/openshift/cluster-monitoring-operator",
+    "clone_url": "https://github.com/openshift/cluster-monitoring-operator.git",
+    "stars": 262,
+    "language": "Go",
+    "size_kb": 93024
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 90,
+    "duration_seconds": 7.804876
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 262 stars."
+  }
+}
