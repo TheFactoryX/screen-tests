@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5362 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-02-26 |
+| #5363 | [jtmx22/awesome-hacker-engines](https://github.com/jtmx22/awesome-hacker-engines) | Python · ⭐ 14 | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5451,3 +5451,4 @@ If you need permission, you're thinking too much.
 | 5360 | 2026-02-26 19:09:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145089⭐ Python) | [reels/reel_5360_langflow-ai-langflow](reels/reel_5360_langflow-ai-langflow) |
 | 5361 | 2026-02-26 19:54:08 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101752⭐ Python) | [reels/reel_5361_deepseek-ai-DeepSeek-V3](reels/reel_5361_deepseek-ai-DeepSeek-V3) |
 | 5362 | 2026-02-26 20:35:31 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107348⭐ TypeScript) | [reels/reel_5362_shadcn-ui-ui](reels/reel_5362_shadcn-ui-ui) |
+| 5363 | 2026-02-26 21:18:39 | [jtmx22/awesome-hacker-engines](https://github.com/jtmx22/awesome-hacker-engines) | ✅ full (14⭐ Python) | [reels/reel_5363_jtmx22-awesome-hacker-engines](reels/reel_5363_jtmx22-awesome-hacker-engines) |

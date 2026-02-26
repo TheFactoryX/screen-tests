@@ -1,0 +1,24 @@
+{
+  "reel_number": 5363,
+  "recorded": "2026-02-26 21:18:39 UTC",
+  "repository": {
+    "full_name": "jtmx22/awesome-hacker-engines",
+    "url": "https://github.com/jtmx22/awesome-hacker-engines",
+    "clone_url": "https://github.com/jtmx22/awesome-hacker-engines.git",
+    "stars": 14,
+    "language": "Python",
+    "size_kb": 3082
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.321806
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 14 stars."
+  }
+}
