@@ -1,0 +1,24 @@
+{
+  "reel_number": 5350,
+  "recorded": "2026-02-26 09:12:54 UTC",
+  "repository": {
+    "full_name": "armin-reichert/pacman-javafx",
+    "url": "https://github.com/armin-reichert/pacman-javafx",
+    "clone_url": "https://github.com/armin-reichert/pacman-javafx.git",
+    "stars": 116,
+    "language": "Java",
+    "size_kb": 180378
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 176,
+    "duration_seconds": 1.397668
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 116 stars."
+  }
+}

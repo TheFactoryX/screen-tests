@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5349 | [wujun728/jun_java_plugin](https://github.com/wujun728/jun_java_plugin) | Java · ⭐ 240 | 2026-02-26 |
+| #5350 | [armin-reichert/pacman-javafx](https://github.com/armin-reichert/pacman-javafx) | Java · ⭐ 116 | 2026-02-26 |
 ---
 
 ## 🎭 Selection Process
@@ -5438,3 +5438,4 @@ If you need permission, you're thinking too much.
 | 5347 | 2026-02-26 06:38:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112033⭐ TypeScript) | [reels/reel_5347_iptv-org-iptv](reels/reel_5347_iptv-org-iptv) |
 | 5348 | 2026-02-26 07:38:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (98846⭐ TypeScript) | [reels/reel_5348_clash-verge-rev-clash-verge-rev](reels/reel_5348_clash-verge-rev-clash-verge-rev) |
 | 5349 | 2026-02-26 08:27:05 | [wujun728/jun_java_plugin](https://github.com/wujun728/jun_java_plugin) | ✅ shallow (240⭐ Java) | [reels/reel_5349_wujun728-jun_java_plugin](reels/reel_5349_wujun728-jun_java_plugin) |
+| 5350 | 2026-02-26 09:12:54 | [armin-reichert/pacman-javafx](https://github.com/armin-reichert/pacman-javafx) | ✅ shallow (116⭐ Java) | [reels/reel_5350_armin-reichert-pacman-javafx](reels/reel_5350_armin-reichert-pacman-javafx) |
