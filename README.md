@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5392 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 469k | 2026-02-27 |
+| #5393 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 275k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5481,3 +5481,4 @@ If you need permission, you're thinking too much.
 | 5390 | 2026-02-27 20:25:54 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (99214⭐ TypeScript) | [reels/reel_5390_clash-verge-rev-clash-verge-rev](reels/reel_5390_clash-verge-rev-clash-verge-rev) |
 | 5391 | 2026-02-27 20:53:02 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469837⭐ Markdown) | [reels/reel_5391_codecrafters-io-build-your-own-x](reels/reel_5391_codecrafters-io-build-your-own-x) |
 | 5392 | 2026-02-27 21:27:51 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469841⭐ Markdown) | [reels/reel_5392_codecrafters-io-build-your-own-x](reels/reel_5392_codecrafters-io-build-your-own-x) |
+| 5393 | 2026-02-27 21:52:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (275680⭐ None) | [reels/reel_5393_awesome-selfhosted-awesome-selfhosted](reels/reel_5393_awesome-selfhosted-awesome-selfhosted) |
