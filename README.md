@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5383 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | Shell · ⭐ 946 | 2026-02-27 |
+| #5384 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5472,3 +5472,4 @@ If you need permission, you're thinking too much.
 | 5381 | 2026-02-27 14:08:18 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182074⭐ Python) | [reels/reel_5381_Significant-Gravitas-AutoGPT](reels/reel_5381_Significant-Gravitas-AutoGPT) |
 | 5382 | 2026-02-27 14:58:23 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139742⭐ Python) | [reels/reel_5382_ytdl-org-youtube-dl](reels/reel_5382_ytdl-org-youtube-dl) |
 | 5383 | 2026-02-27 15:42:56 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (946⭐ Shell) | [reels/reel_5383_Alvin9999-newpac-fanqiang](reels/reel_5383_Alvin9999-newpac-fanqiang) |
+| 5384 | 2026-02-27 16:20:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110764⭐ Rust) | [reels/reel_5384_rust-lang-rust](reels/reel_5384_rust-lang-rust) |
