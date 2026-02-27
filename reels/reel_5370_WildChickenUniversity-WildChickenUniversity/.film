@@ -1,0 +1,24 @@
+{
+  "reel_number": 5370,
+  "recorded": "2026-02-27 04:55:52 UTC",
+  "repository": {
+    "full_name": "WildChickenUniversity/WildChickenUniversity",
+    "url": "https://github.com/WildChickenUniversity/WildChickenUniversity",
+    "clone_url": "https://github.com/WildChickenUniversity/WildChickenUniversity.git",
+    "stars": 123,
+    "language": "TypeScript",
+    "size_kb": 14995
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 0.619318
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 123 stars."
+  }
+}
