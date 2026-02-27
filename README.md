@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5370 | [WildChickenUniversity/WildChickenUniversity](https://github.com/WildChickenUniversity/WildChickenUniversity) | TypeScript · ⭐ 123 | 2026-02-27 |
+| #5371 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 96k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5459,3 +5459,4 @@ If you need permission, you're thinking too much.
 | 5368 | 2026-02-27 00:01:53 | [appstore-discounts/appstore-discounts](https://github.com/appstore-discounts/appstore-discounts) | ✅ readme_only (390⭐ TypeScript) | [reels/reel_5368_appstore-discounts-appstore-discounts](reels/reel_5368_appstore-discounts-appstore-discounts) |
 | 5369 | 2026-02-27 03:08:09 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469598⭐ Markdown) | [reels/reel_5369_codecrafters-io-build-your-own-x](reels/reel_5369_codecrafters-io-build-your-own-x) |
 | 5370 | 2026-02-27 04:55:52 | [WildChickenUniversity/WildChickenUniversity](https://github.com/WildChickenUniversity/WildChickenUniversity) | ✅ full (123⭐ TypeScript) | [reels/reel_5370_WildChickenUniversity-WildChickenUniversity](reels/reel_5370_WildChickenUniversity-WildChickenUniversity) |
+| 5371 | 2026-02-27 05:52:10 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (96006⭐ C++) | [reels/reel_5371_ggml-org-llama.cpp](reels/reel_5371_ggml-org-llama.cpp) |
