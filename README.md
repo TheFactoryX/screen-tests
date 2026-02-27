@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5396 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-02-27 |
+| #5397 | [gatling/gatling-sbt-plugin-demo](https://github.com/gatling/gatling-sbt-plugin-demo) | Scala · ⭐ 151 | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5485,3 +5485,4 @@ If you need permission, you're thinking too much.
 | 5394 | 2026-02-27 22:20:28 | [nteract/commuter](https://github.com/nteract/commuter) | ✅ full (503⭐ JavaScript) | [reels/reel_5394_nteract-commuter](reels/reel_5394_nteract-commuter) |
 | 5395 | 2026-02-27 22:50:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (275689⭐ None) | [reels/reel_5395_awesome-selfhosted-awesome-selfhosted](reels/reel_5395_awesome-selfhosted-awesome-selfhosted) |
 | 5396 | 2026-02-27 23:23:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125161⭐ Python) | [reels/reel_5396_open-webui-open-webui](reels/reel_5396_open-webui-open-webui) |
+| 5397 | 2026-02-27 23:46:27 | [gatling/gatling-sbt-plugin-demo](https://github.com/gatling/gatling-sbt-plugin-demo) | ✅ full (151⭐ Scala) | [reels/reel_5397_gatling-gatling-sbt-plugin-demo](reels/reel_5397_gatling-gatling-sbt-plugin-demo) |

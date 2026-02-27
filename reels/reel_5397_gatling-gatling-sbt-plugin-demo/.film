@@ -1,0 +1,24 @@
+{
+  "reel_number": 5397,
+  "recorded": "2026-02-27 23:46:27 UTC",
+  "repository": {
+    "full_name": "gatling/gatling-sbt-plugin-demo",
+    "url": "https://github.com/gatling/gatling-sbt-plugin-demo",
+    "clone_url": "https://github.com/gatling/gatling-sbt-plugin-demo.git",
+    "stars": 151,
+    "language": "Scala",
+    "size_kb": 108
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.578575
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Scala",
+    "director_note": "A Scala repository. 151 stars."
+  }
+}
