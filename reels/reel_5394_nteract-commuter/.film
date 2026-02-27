@@ -1,0 +1,24 @@
+{
+  "reel_number": 5394,
+  "recorded": "2026-02-27 22:20:28 UTC",
+  "repository": {
+    "full_name": "nteract/commuter",
+    "url": "https://github.com/nteract/commuter",
+    "clone_url": "https://github.com/nteract/commuter.git",
+    "stars": 503,
+    "language": "JavaScript",
+    "size_kb": 2750
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.336075
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 503 stars."
+  }
+}
