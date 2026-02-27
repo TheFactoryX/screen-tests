@@ -1,0 +1,24 @@
+{
+  "reel_number": 5368,
+  "recorded": "2026-02-27 00:01:53 UTC",
+  "repository": {
+    "full_name": "appstore-discounts/appstore-discounts",
+    "url": "https://github.com/appstore-discounts/appstore-discounts",
+    "clone_url": "https://github.com/appstore-discounts/appstore-discounts.git",
+    "stars": 390,
+    "language": "TypeScript",
+    "size_kb": 1810517
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1768,
+    "duration_seconds": 0.000156
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 390 stars."
+  }
+}
