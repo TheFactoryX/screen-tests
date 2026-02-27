@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5374 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python · ⭐ 784 | 2026-02-27 |
+| #5375 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5463,3 +5463,4 @@ If you need permission, you're thinking too much.
 | 5372 | 2026-02-27 06:52:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (400658⭐ Python) | [reels/reel_5372_public-apis-public-apis](reels/reel_5372_public-apis-public-apis) |
 | 5373 | 2026-02-27 07:44:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125098⭐ Python) | [reels/reel_5373_open-webui-open-webui](reels/reel_5373_open-webui-open-webui) |
 | 5374 | 2026-02-27 08:24:55 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ✅ full (784⭐ Python) | [reels/reel_5374_NousResearch-hermes-agent](reels/reel_5374_NousResearch-hermes-agent) |
+| 5375 | 2026-02-27 09:06:10 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103357⭐ Rust) | [reels/reel_5375_tauri-apps-tauri](reels/reel_5375_tauri-apps-tauri) |
