@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5389 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-02-27 |
+| #5390 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 99k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5478,3 +5478,4 @@ If you need permission, you're thinking too much.
 | 5387 | 2026-02-27 18:40:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127663⭐ Python) | [reels/reel_5387_langchain-ai-langchain](reels/reel_5387_langchain-ai-langchain) |
 | 5388 | 2026-02-27 19:21:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (400854⭐ Python) | [reels/reel_5388_public-apis-public-apis](reels/reel_5388_public-apis-public-apis) |
 | 5389 | 2026-02-27 19:53:00 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107424⭐ TypeScript) | [reels/reel_5389_shadcn-ui-ui](reels/reel_5389_shadcn-ui-ui) |
+| 5390 | 2026-02-27 20:25:54 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (99214⭐ TypeScript) | [reels/reel_5390_clash-verge-rev-clash-verge-rev](reels/reel_5390_clash-verge-rev-clash-verge-rev) |
