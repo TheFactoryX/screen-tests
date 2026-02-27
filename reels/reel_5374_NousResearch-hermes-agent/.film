@@ -1,0 +1,24 @@
+{
+  "reel_number": 5374,
+  "recorded": "2026-02-27 08:24:55 UTC",
+  "repository": {
+    "full_name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "clone_url": "https://github.com/NousResearch/hermes-agent.git",
+    "stars": 784,
+    "language": "Python",
+    "size_kb": 87295
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 85,
+    "duration_seconds": 2.581776
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 784 stars."
+  }
+}
