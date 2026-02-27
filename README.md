@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5368 | [appstore-discounts/appstore-discounts](https://github.com/appstore-discounts/appstore-discounts) | TypeScript · ⭐ 390 | 2026-02-27 |
+| #5369 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 469k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5457,3 +5457,4 @@ If you need permission, you're thinking too much.
 | 5366 | 2026-02-26 23:04:02 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469534⭐ Markdown) | [reels/reel_5366_codecrafters-io-build-your-own-x](reels/reel_5366_codecrafters-io-build-your-own-x) |
 | 5367 | 2026-02-26 23:44:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107356⭐ TypeScript) | [reels/reel_5367_shadcn-ui-ui](reels/reel_5367_shadcn-ui-ui) |
 | 5368 | 2026-02-27 00:01:53 | [appstore-discounts/appstore-discounts](https://github.com/appstore-discounts/appstore-discounts) | ✅ readme_only (390⭐ TypeScript) | [reels/reel_5368_appstore-discounts-appstore-discounts](reels/reel_5368_appstore-discounts-appstore-discounts) |
+| 5369 | 2026-02-27 03:08:09 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469598⭐ Markdown) | [reels/reel_5369_codecrafters-io-build-your-own-x](reels/reel_5369_codecrafters-io-build-your-own-x) |
