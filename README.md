@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5385 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 469k | 2026-02-27 |
+| #5386 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 176k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5474,3 +5474,4 @@ If you need permission, you're thinking too much.
 | 5383 | 2026-02-27 15:42:56 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (946⭐ Shell) | [reels/reel_5383_Alvin9999-newpac-fanqiang](reels/reel_5383_Alvin9999-newpac-fanqiang) |
 | 5384 | 2026-02-27 16:20:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110764⭐ Rust) | [reels/reel_5384_rust-lang-rust](reels/reel_5384_rust-lang-rust) |
 | 5385 | 2026-02-27 17:02:53 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469790⭐ Markdown) | [reels/reel_5385_codecrafters-io-build-your-own-x](reels/reel_5385_codecrafters-io-build-your-own-x) |
+| 5386 | 2026-02-27 17:53:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176697⭐ TypeScript) | [reels/reel_5386_n8n-io-n8n](reels/reel_5386_n8n-io-n8n) |
