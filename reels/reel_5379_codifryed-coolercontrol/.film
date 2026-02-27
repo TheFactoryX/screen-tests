@@ -1,0 +1,24 @@
+{
+  "reel_number": 5379,
+  "recorded": "2026-02-27 11:59:50 UTC",
+  "repository": {
+    "full_name": "codifryed/coolercontrol",
+    "url": "https://github.com/codifryed/coolercontrol",
+    "clone_url": "https://github.com/codifryed/coolercontrol.git",
+    "stars": 235,
+    "language": "Rust",
+    "size_kb": 142801
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 139,
+    "duration_seconds": 1.015148
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 235 stars."
+  }
+}

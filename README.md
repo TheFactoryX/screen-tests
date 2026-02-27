@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5378 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-02-27 |
+| #5379 | [codifryed/coolercontrol](https://github.com/codifryed/coolercontrol) | Rust · ⭐ 235 | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5467,3 +5467,4 @@ If you need permission, you're thinking too much.
 | 5376 | 2026-02-27 09:59:01 | [mikeymiked/fart-stack](https://github.com/mikeymiked/fart-stack) | ✅ full (37⭐ HTML) | [reels/reel_5376_mikeymiked-fart-stack](reels/reel_5376_mikeymiked-fart-stack) |
 | 5377 | 2026-02-27 10:50:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145114⭐ Python) | [reels/reel_5377_langflow-ai-langflow](reels/reel_5377_langflow-ai-langflow) |
 | 5378 | 2026-02-27 11:30:37 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103369⭐ Rust) | [reels/reel_5378_tauri-apps-tauri](reels/reel_5378_tauri-apps-tauri) |
+| 5379 | 2026-02-27 11:59:50 | [codifryed/coolercontrol](https://github.com/codifryed/coolercontrol) | ✅ shallow (235⭐ Rust) | [reels/reel_5379_codifryed-coolercontrol](reels/reel_5379_codifryed-coolercontrol) |
