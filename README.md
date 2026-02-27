@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5387 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-02-27 |
+| #5388 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 400k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5476,3 +5476,4 @@ If you need permission, you're thinking too much.
 | 5385 | 2026-02-27 17:02:53 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469790⭐ Markdown) | [reels/reel_5385_codecrafters-io-build-your-own-x](reels/reel_5385_codecrafters-io-build-your-own-x) |
 | 5386 | 2026-02-27 17:53:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176697⭐ TypeScript) | [reels/reel_5386_n8n-io-n8n](reels/reel_5386_n8n-io-n8n) |
 | 5387 | 2026-02-27 18:40:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127663⭐ Python) | [reels/reel_5387_langchain-ai-langchain](reels/reel_5387_langchain-ai-langchain) |
+| 5388 | 2026-02-27 19:21:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (400854⭐ Python) | [reels/reel_5388_public-apis-public-apis](reels/reel_5388_public-apis-public-apis) |
