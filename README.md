@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5384 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-27 |
+| #5385 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 469k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5473,3 +5473,4 @@ If you need permission, you're thinking too much.
 | 5382 | 2026-02-27 14:58:23 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139742⭐ Python) | [reels/reel_5382_ytdl-org-youtube-dl](reels/reel_5382_ytdl-org-youtube-dl) |
 | 5383 | 2026-02-27 15:42:56 | [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) | ✅ full (946⭐ Shell) | [reels/reel_5383_Alvin9999-newpac-fanqiang](reels/reel_5383_Alvin9999-newpac-fanqiang) |
 | 5384 | 2026-02-27 16:20:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110764⭐ Rust) | [reels/reel_5384_rust-lang-rust](reels/reel_5384_rust-lang-rust) |
+| 5385 | 2026-02-27 17:02:53 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (469790⭐ Markdown) | [reels/reel_5385_codecrafters-io-build-your-own-x](reels/reel_5385_codecrafters-io-build-your-own-x) |
