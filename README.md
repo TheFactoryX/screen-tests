@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5395 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 275k | 2026-02-27 |
+| #5396 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5484,3 +5484,4 @@ If you need permission, you're thinking too much.
 | 5393 | 2026-02-27 21:52:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (275680⭐ None) | [reels/reel_5393_awesome-selfhosted-awesome-selfhosted](reels/reel_5393_awesome-selfhosted-awesome-selfhosted) |
 | 5394 | 2026-02-27 22:20:28 | [nteract/commuter](https://github.com/nteract/commuter) | ✅ full (503⭐ JavaScript) | [reels/reel_5394_nteract-commuter](reels/reel_5394_nteract-commuter) |
 | 5395 | 2026-02-27 22:50:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (275689⭐ None) | [reels/reel_5395_awesome-selfhosted-awesome-selfhosted](reels/reel_5395_awesome-selfhosted-awesome-selfhosted) |
+| 5396 | 2026-02-27 23:23:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125161⭐ Python) | [reels/reel_5396_open-webui-open-webui](reels/reel_5396_open-webui-open-webui) |
