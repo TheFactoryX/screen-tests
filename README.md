@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5381 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-02-27 |
+| #5382 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-02-27 |
 ---
 
 ## 🎭 Selection Process
@@ -5470,3 +5470,4 @@ If you need permission, you're thinking too much.
 | 5379 | 2026-02-27 11:59:50 | [codifryed/coolercontrol](https://github.com/codifryed/coolercontrol) | ✅ shallow (235⭐ Rust) | [reels/reel_5379_codifryed-coolercontrol](reels/reel_5379_codifryed-coolercontrol) |
 | 5380 | 2026-02-27 13:18:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145117⭐ Python) | [reels/reel_5380_langflow-ai-langflow](reels/reel_5380_langflow-ai-langflow) |
 | 5381 | 2026-02-27 14:08:18 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182074⭐ Python) | [reels/reel_5381_Significant-Gravitas-AutoGPT](reels/reel_5381_Significant-Gravitas-AutoGPT) |
+| 5382 | 2026-02-27 14:58:23 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139742⭐ Python) | [reels/reel_5382_ytdl-org-youtube-dl](reels/reel_5382_ytdl-org-youtube-dl) |
