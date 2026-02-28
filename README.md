@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5403 | [opencomputeproject/SAI-Challenger](https://github.com/opencomputeproject/SAI-Challenger) | Python · ⭐ 21 | 2026-02-28 |
+| #5404 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 103k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5492,3 +5492,4 @@ If you need permission, you're thinking too much.
 | 5401 | 2026-02-28 05:31:44 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97636⭐ TypeScript) | [reels/reel_5401_ant-design-ant-design](reels/reel_5401_ant-design-ant-design) |
 | 5402 | 2026-02-28 06:00:13 | [ledermann/docker-rails-base](https://github.com/ledermann/docker-rails-base) | ✅ full (311⭐ Dockerfile) | [reels/reel_5402_ledermann-docker-rails-base](reels/reel_5402_ledermann-docker-rails-base) |
 | 5403 | 2026-02-28 06:53:03 | [opencomputeproject/SAI-Challenger](https://github.com/opencomputeproject/SAI-Challenger) | ✅ full (21⭐ Python) | [reels/reel_5403_opencomputeproject-SAI-Challenger](reels/reel_5403_opencomputeproject-SAI-Challenger) |
+| 5404 | 2026-02-28 07:25:33 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103683⭐ Shell) | [reels/reel_5404_papers-we-love-papers-we-love](reels/reel_5404_papers-we-love-papers-we-love) |
