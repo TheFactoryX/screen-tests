@@ -1,0 +1,24 @@
+{
+  "reel_number": 5402,
+  "recorded": "2026-02-28 06:00:13 UTC",
+  "repository": {
+    "full_name": "ledermann/docker-rails-base",
+    "url": "https://github.com/ledermann/docker-rails-base",
+    "clone_url": "https://github.com/ledermann/docker-rails-base.git",
+    "stars": 311,
+    "language": "Dockerfile",
+    "size_kb": 12898
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.224533
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dockerfile",
+    "director_note": "A Dockerfile repository. 311 stars."
+  }
+}
