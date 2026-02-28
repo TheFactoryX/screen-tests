@@ -1,0 +1,24 @@
+{
+  "reel_number": 5437,
+  "recorded": "2026-02-28 22:20:51 UTC",
+  "repository": {
+    "full_name": "bitwire-it/ipblocklist",
+    "url": "https://github.com/bitwire-it/ipblocklist",
+    "clone_url": "https://github.com/bitwire-it/ipblocklist.git",
+    "stars": 209,
+    "language": "Python",
+    "size_kb": 4382761
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 4280,
+    "duration_seconds": 0.00014
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 209 stars."
+  }
+}
