@@ -1,0 +1,24 @@
+{
+  "reel_number": 5431,
+  "recorded": "2026-02-28 19:51:28 UTC",
+  "repository": {
+    "full_name": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "clone_url": "https://github.com/open-webui/open-webui.git",
+    "stars": 125254,
+    "language": "Python",
+    "size_kb": 329234
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 321,
+    "duration_seconds": 2.237177
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 125254 stars."
+  }
+}
