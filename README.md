@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5425 | [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | Zig · ⭐ 3k | 2026-02-28 |
+| #5426 | [PresPres/randomCatFacts](https://github.com/PresPres/randomCatFacts) | None · ⭐ 25 | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5514,3 +5514,4 @@ If you need permission, you're thinking too much.
 | 5423 | 2026-02-28 16:29:14 | [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) | ✅ full (698⭐ TypeScript) | [reels/reel_5423_cnpm-cnpmcore](reels/reel_5423_cnpm-cnpmcore) |
 | 5424 | 2026-02-28 16:50:58 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (148995⭐ Python) | [reels/reel_5424_yt-dlp-yt-dlp](reels/reel_5424_yt-dlp-yt-dlp) |
 | 5425 | 2026-02-28 17:18:40 | [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | ✅ shallow (3272⭐ Zig) | [reels/reel_5425_PixelGuys-Cubyz](reels/reel_5425_PixelGuys-Cubyz) |
+| 5426 | 2026-02-28 17:43:46 | [PresPres/randomCatFacts](https://github.com/PresPres/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_5426_PresPres-randomCatFacts](reels/reel_5426_PresPres-randomCatFacts) |
