@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5421 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-28 |
+| #5422 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 104k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5510,3 +5510,4 @@ If you need permission, you're thinking too much.
 | 5419 | 2026-02-28 14:46:53 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (95999⭐ TypeScript) | [reels/reel_5419_google-gemini-gemini-cli](reels/reel_5419_google-gemini-gemini-cli) |
 | 5420 | 2026-02-28 15:20:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (148981⭐ Python) | [reels/reel_5420_yt-dlp-yt-dlp](reels/reel_5420_yt-dlp-yt-dlp) |
 | 5421 | 2026-02-28 15:44:07 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110779⭐ Rust) | [reels/reel_5421_rust-lang-rust](reels/reel_5421_rust-lang-rust) |
+| 5422 | 2026-02-28 15:56:38 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (104484⭐ Python) | [reels/reel_5422_Comfy-Org-ComfyUI](reels/reel_5422_Comfy-Org-ComfyUI) |
