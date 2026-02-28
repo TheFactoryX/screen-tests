@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5411 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | Go · ⭐ 696 | 2026-02-28 |
+| #5412 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5500,3 +5500,4 @@ If you need permission, you're thinking too much.
 | 5409 | 2026-02-28 09:46:54 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125214⭐ Python) | [reels/reel_5409_open-webui-open-webui](reels/reel_5409_open-webui-open-webui) |
 | 5410 | 2026-02-28 10:20:59 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103687⭐ Shell) | [reels/reel_5410_papers-we-love-papers-we-love](reels/reel_5410_papers-we-love-papers-we-love) |
 | 5411 | 2026-02-28 10:46:54 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | ✅ shallow (696⭐ Go) | [reels/reel_5411_superplanehq-superplane](reels/reel_5411_superplanehq-superplane) |
+| 5412 | 2026-02-28 11:17:33 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110777⭐ Rust) | [reels/reel_5412_rust-lang-rust](reels/reel_5412_rust-lang-rust) |
