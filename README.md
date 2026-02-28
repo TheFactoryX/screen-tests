@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5413 | [mind-inria/mri-nufft](https://github.com/mind-inria/mri-nufft) | Python · ⭐ 110 | 2026-02-28 |
+| #5414 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 148k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5502,3 +5502,4 @@ If you need permission, you're thinking too much.
 | 5411 | 2026-02-28 10:46:54 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | ✅ shallow (696⭐ Go) | [reels/reel_5411_superplanehq-superplane](reels/reel_5411_superplanehq-superplane) |
 | 5412 | 2026-02-28 11:17:33 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110777⭐ Rust) | [reels/reel_5412_rust-lang-rust](reels/reel_5412_rust-lang-rust) |
 | 5413 | 2026-02-28 11:41:05 | [mind-inria/mri-nufft](https://github.com/mind-inria/mri-nufft) | ✅ full (110⭐ Python) | [reels/reel_5413_mind-inria-mri-nufft](reels/reel_5413_mind-inria-mri-nufft) |
+| 5414 | 2026-02-28 11:52:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (148953⭐ Python) | [reels/reel_5414_yt-dlp-yt-dlp](reels/reel_5414_yt-dlp-yt-dlp) |
