@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5404 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 103k | 2026-02-28 |
+| #5405 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5493,3 +5493,4 @@ If you need permission, you're thinking too much.
 | 5402 | 2026-02-28 06:00:13 | [ledermann/docker-rails-base](https://github.com/ledermann/docker-rails-base) | ✅ full (311⭐ Dockerfile) | [reels/reel_5402_ledermann-docker-rails-base](reels/reel_5402_ledermann-docker-rails-base) |
 | 5403 | 2026-02-28 06:53:03 | [opencomputeproject/SAI-Challenger](https://github.com/opencomputeproject/SAI-Challenger) | ✅ full (21⭐ Python) | [reels/reel_5403_opencomputeproject-SAI-Challenger](reels/reel_5403_opencomputeproject-SAI-Challenger) |
 | 5404 | 2026-02-28 07:25:33 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103683⭐ Shell) | [reels/reel_5404_papers-we-love-papers-we-love](reels/reel_5404_papers-we-love-papers-we-love) |
+| 5405 | 2026-02-28 07:46:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145144⭐ Python) | [reels/reel_5405_langflow-ai-langflow](reels/reel_5405_langflow-ai-langflow) |
