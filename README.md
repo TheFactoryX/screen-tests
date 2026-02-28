@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5415 | [warp-specke/solana-trading-bot](https://github.com/warp-specke/solana-trading-bot) | TypeScript · ⭐ 689 | 2026-02-28 |
+| #5416 | [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | GDScript · ⭐ 9k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5504,3 +5504,4 @@ If you need permission, you're thinking too much.
 | 5413 | 2026-02-28 11:41:05 | [mind-inria/mri-nufft](https://github.com/mind-inria/mri-nufft) | ✅ full (110⭐ Python) | [reels/reel_5413_mind-inria-mri-nufft](reels/reel_5413_mind-inria-mri-nufft) |
 | 5414 | 2026-02-28 11:52:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (148953⭐ Python) | [reels/reel_5414_yt-dlp-yt-dlp](reels/reel_5414_yt-dlp-yt-dlp) |
 | 5415 | 2026-02-28 12:41:29 | [warp-specke/solana-trading-bot](https://github.com/warp-specke/solana-trading-bot) | ✅ full (689⭐ TypeScript) | [reels/reel_5415_warp-specke-solana-trading-bot](reels/reel_5415_warp-specke-solana-trading-bot) |
+| 5416 | 2026-02-28 13:25:29 | [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | ✅ full (9188⭐ GDScript) | [reels/reel_5416_Orama-Interactive-Pixelorama](reels/reel_5416_Orama-Interactive-Pixelorama) |
