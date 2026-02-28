@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5440 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-02-28 |
+| #5441 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 104k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5529,3 +5529,4 @@ If you need permission, you're thinking too much.
 | 5438 | 2026-02-28 22:46:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176889⭐ TypeScript) | [reels/reel_5438_n8n-io-n8n](reels/reel_5438_n8n-io-n8n) |
 | 5439 | 2026-02-28 23:19:30 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112222⭐ TypeScript) | [reels/reel_5439_iptv-org-iptv](reels/reel_5439_iptv-org-iptv) |
 | 5440 | 2026-02-28 23:43:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145149⭐ Python) | [reels/reel_5440_langflow-ai-langflow](reels/reel_5440_langflow-ai-langflow) |
+| 5441 | 2026-02-28 23:55:50 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (104504⭐ Python) | [reels/reel_5441_Comfy-Org-ComfyUI](reels/reel_5441_Comfy-Org-ComfyUI) |
