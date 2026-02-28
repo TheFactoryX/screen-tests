@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5417 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-02-28 |
+| #5418 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5506,3 +5506,4 @@ If you need permission, you're thinking too much.
 | 5415 | 2026-02-28 12:41:29 | [warp-specke/solana-trading-bot](https://github.com/warp-specke/solana-trading-bot) | ✅ full (689⭐ TypeScript) | [reels/reel_5415_warp-specke-solana-trading-bot](reels/reel_5415_warp-specke-solana-trading-bot) |
 | 5416 | 2026-02-28 13:25:29 | [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | ✅ full (9188⭐ GDScript) | [reels/reel_5416_Orama-Interactive-Pixelorama](reels/reel_5416_Orama-Interactive-Pixelorama) |
 | 5417 | 2026-02-28 13:53:02 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127747⭐ Python) | [reels/reel_5417_langchain-ai-langchain](reels/reel_5417_langchain-ai-langchain) |
+| 5418 | 2026-02-28 14:20:19 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182099⭐ Python) | [reels/reel_5418_Significant-Gravitas-AutoGPT](reels/reel_5418_Significant-Gravitas-AutoGPT) |
