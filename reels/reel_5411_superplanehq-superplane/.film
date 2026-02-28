@@ -1,0 +1,24 @@
+{
+  "reel_number": 5411,
+  "recorded": "2026-02-28 10:46:54 UTC",
+  "repository": {
+    "full_name": "superplanehq/superplane",
+    "url": "https://github.com/superplanehq/superplane",
+    "clone_url": "https://github.com/superplanehq/superplane.git",
+    "stars": 696,
+    "language": "Go",
+    "size_kb": 211077
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 206,
+    "duration_seconds": 0.933274
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 696 stars."
+  }
+}
