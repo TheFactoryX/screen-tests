@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5409 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-02-28 |
+| #5410 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 103k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5498,3 +5498,4 @@ If you need permission, you're thinking too much.
 | 5407 | 2026-02-28 08:52:39 | [nrslib/takt](https://github.com/nrslib/takt) | ✅ full (514⭐ TypeScript) | [reels/reel_5407_nrslib-takt](reels/reel_5407_nrslib-takt) |
 | 5408 | 2026-02-28 09:24:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145143⭐ Python) | [reels/reel_5408_langflow-ai-langflow](reels/reel_5408_langflow-ai-langflow) |
 | 5409 | 2026-02-28 09:46:54 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125214⭐ Python) | [reels/reel_5409_open-webui-open-webui](reels/reel_5409_open-webui-open-webui) |
+| 5410 | 2026-02-28 10:20:59 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (103687⭐ Shell) | [reels/reel_5410_papers-we-love-papers-we-love](reels/reel_5410_papers-we-love-papers-we-love) |
