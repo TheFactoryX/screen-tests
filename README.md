@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5439 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-02-28 |
+| #5440 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5528,3 +5528,4 @@ If you need permission, you're thinking too much.
 | 5437 | 2026-02-28 22:20:51 | [bitwire-it/ipblocklist](https://github.com/bitwire-it/ipblocklist) | ✅ readme_only (209⭐ Python) | [reels/reel_5437_bitwire-it-ipblocklist](reels/reel_5437_bitwire-it-ipblocklist) |
 | 5438 | 2026-02-28 22:46:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176889⭐ TypeScript) | [reels/reel_5438_n8n-io-n8n](reels/reel_5438_n8n-io-n8n) |
 | 5439 | 2026-02-28 23:19:30 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112222⭐ TypeScript) | [reels/reel_5439_iptv-org-iptv](reels/reel_5439_iptv-org-iptv) |
+| 5440 | 2026-02-28 23:43:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145149⭐ Python) | [reels/reel_5440_langflow-ai-langflow](reels/reel_5440_langflow-ai-langflow) |
