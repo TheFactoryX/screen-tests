@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5437 | [bitwire-it/ipblocklist](https://github.com/bitwire-it/ipblocklist) | Python · ⭐ 209 | 2026-02-28 |
+| #5438 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 176k | 2026-02-28 |
 ---
 
 ## 🎭 Selection Process
@@ -5526,3 +5526,4 @@ If you need permission, you're thinking too much.
 | 5435 | 2026-02-28 21:42:54 | [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) | ✅ full (507⭐ TypeScript) | [reels/reel_5435_G4brym-R2-Explorer](reels/reel_5435_G4brym-R2-Explorer) |
 | 5436 | 2026-02-28 21:54:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176882⭐ TypeScript) | [reels/reel_5436_n8n-io-n8n](reels/reel_5436_n8n-io-n8n) |
 | 5437 | 2026-02-28 22:20:51 | [bitwire-it/ipblocklist](https://github.com/bitwire-it/ipblocklist) | ✅ readme_only (209⭐ Python) | [reels/reel_5437_bitwire-it-ipblocklist](reels/reel_5437_bitwire-it-ipblocklist) |
+| 5438 | 2026-02-28 22:46:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (176889⭐ TypeScript) | [reels/reel_5438_n8n-io-n8n](reels/reel_5438_n8n-io-n8n) |
