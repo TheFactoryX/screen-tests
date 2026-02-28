@@ -1,0 +1,24 @@
+{
+  "reel_number": 5415,
+  "recorded": "2026-02-28 12:41:29 UTC",
+  "repository": {
+    "full_name": "warp-specke/solana-trading-bot",
+    "url": "https://github.com/warp-specke/solana-trading-bot",
+    "clone_url": "https://github.com/warp-specke/solana-trading-bot.git",
+    "stars": 689,
+    "language": "TypeScript",
+    "size_kb": 217
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.255048
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 689 stars."
+  }
+}
