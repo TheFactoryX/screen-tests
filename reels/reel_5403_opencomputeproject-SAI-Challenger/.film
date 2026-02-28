@@ -1,0 +1,24 @@
+{
+  "reel_number": 5403,
+  "recorded": "2026-02-28 06:53:03 UTC",
+  "repository": {
+    "full_name": "opencomputeproject/SAI-Challenger",
+    "url": "https://github.com/opencomputeproject/SAI-Challenger",
+    "clone_url": "https://github.com/opencomputeproject/SAI-Challenger.git",
+    "stars": 21,
+    "language": "Python",
+    "size_kb": 6356
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.169086
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 21 stars."
+  }
+}
