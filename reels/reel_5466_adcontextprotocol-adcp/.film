@@ -1,0 +1,24 @@
+{
+  "reel_number": 5466,
+  "recorded": "2026-03-01 17:20:49 UTC",
+  "repository": {
+    "full_name": "adcontextprotocol/adcp",
+    "url": "https://github.com/adcontextprotocol/adcp",
+    "clone_url": "https://github.com/adcontextprotocol/adcp.git",
+    "stars": 180,
+    "language": "TypeScript",
+    "size_kb": 26252
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 4.19882
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 180 stars."
+  }
+}
