@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5458 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-03-01 |
+| #5459 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5547,3 +5547,4 @@ If you need permission, you're thinking too much.
 | 5456 | 2026-03-01 11:53:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112252⭐ TypeScript) | [reels/reel_5456_iptv-org-iptv](reels/reel_5456_iptv-org-iptv) |
 | 5457 | 2026-03-01 12:44:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110797⭐ Rust) | [reels/reel_5457_rust-lang-rust](reels/reel_5457_rust-lang-rust) |
 | 5458 | 2026-03-01 13:28:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127814⭐ Python) | [reels/reel_5458_langchain-ai-langchain](reels/reel_5458_langchain-ai-langchain) |
+| 5459 | 2026-03-01 13:56:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149105⭐ Python) | [reels/reel_5459_yt-dlp-yt-dlp](reels/reel_5459_yt-dlp-yt-dlp) |
