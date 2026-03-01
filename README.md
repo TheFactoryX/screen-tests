@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5444 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 96k | 2026-03-01 |
+| #5445 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 99k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5533,3 +5533,4 @@ If you need permission, you're thinking too much.
 | 5442 | 2026-03-01 02:22:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182106⭐ Python) | [reels/reel_5442_Significant-Gravitas-AutoGPT](reels/reel_5442_Significant-Gravitas-AutoGPT) |
 | 5443 | 2026-03-01 04:32:50 | [zimingttkx/AI-Practices](https://github.com/zimingttkx/AI-Practices) | ✅ readme_only (353⭐ Jupyter Notebook) | [reels/reel_5443_zimingttkx-AI-Practices](reels/reel_5443_zimingttkx-AI-Practices) |
 | 5444 | 2026-03-01 05:40:06 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (96193⭐ C++) | [reels/reel_5444_ggml-org-llama.cpp](reels/reel_5444_ggml-org-llama.cpp) |
+| 5445 | 2026-03-01 06:27:39 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (99507⭐ TypeScript) | [reels/reel_5445_clash-verge-rev-clash-verge-rev](reels/reel_5445_clash-verge-rev-clash-verge-rev) |
