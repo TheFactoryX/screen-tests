@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5467 | [schwa/PiApp](https://github.com/schwa/PiApp) | Swift · ⭐ 11 | 2026-03-01 |
+| #5468 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5556,3 +5556,4 @@ If you need permission, you're thinking too much.
 | 5465 | 2026-03-01 16:50:27 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110803⭐ Rust) | [reels/reel_5465_rust-lang-rust](reels/reel_5465_rust-lang-rust) |
 | 5466 | 2026-03-01 17:20:49 | [adcontextprotocol/adcp](https://github.com/adcontextprotocol/adcp) | ✅ full (180⭐ TypeScript) | [reels/reel_5466_adcontextprotocol-adcp](reels/reel_5466_adcontextprotocol-adcp) |
 | 5467 | 2026-03-01 17:46:30 | [schwa/PiApp](https://github.com/schwa/PiApp) | ✅ full (11⭐ Swift) | [reels/reel_5467_schwa-PiApp](reels/reel_5467_schwa-PiApp) |
+| 5468 | 2026-03-01 18:31:14 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110805⭐ Rust) | [reels/reel_5468_rust-lang-rust](reels/reel_5468_rust-lang-rust) |
