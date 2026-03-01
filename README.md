@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5472 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-03-01 |
+| #5473 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 275k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5561,3 +5561,4 @@ If you need permission, you're thinking too much.
 | 5470 | 2026-03-01 19:33:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (275955⭐ None) | [reels/reel_5470_awesome-selfhosted-awesome-selfhosted](reels/reel_5470_awesome-selfhosted-awesome-selfhosted) |
 | 5471 | 2026-03-01 19:53:16 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182124⭐ Python) | [reels/reel_5471_Significant-Gravitas-AutoGPT](reels/reel_5471_Significant-Gravitas-AutoGPT) |
 | 5472 | 2026-03-01 20:24:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127841⭐ Python) | [reels/reel_5472_langchain-ai-langchain](reels/reel_5472_langchain-ai-langchain) |
+| 5473 | 2026-03-01 20:48:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (275974⭐ None) | [reels/reel_5473_awesome-selfhosted-awesome-selfhosted](reels/reel_5473_awesome-selfhosted-awesome-selfhosted) |
