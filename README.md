@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5464 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-03-01 |
+| #5465 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5553,3 +5553,4 @@ If you need permission, you're thinking too much.
 | 5462 | 2026-03-01 15:21:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149112⭐ Python) | [reels/reel_5462_yt-dlp-yt-dlp](reels/reel_5462_yt-dlp-yt-dlp) |
 | 5463 | 2026-03-01 15:45:16 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145170⭐ Python) | [reels/reel_5463_langflow-ai-langflow](reels/reel_5463_langflow-ai-langflow) |
 | 5464 | 2026-03-01 16:25:27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103456⭐ Rust) | [reels/reel_5464_tauri-apps-tauri](reels/reel_5464_tauri-apps-tauri) |
+| 5465 | 2026-03-01 16:50:27 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110803⭐ Rust) | [reels/reel_5465_rust-lang-rust](reels/reel_5465_rust-lang-rust) |
