@@ -1,0 +1,24 @@
+{
+  "reel_number": 5460,
+  "recorded": "2026-03-01 14:26:31 UTC",
+  "repository": {
+    "full_name": "tailuge/billiards",
+    "url": "https://github.com/tailuge/billiards",
+    "clone_url": "https://github.com/tailuge/billiards.git",
+    "stars": 196,
+    "language": "TypeScript",
+    "size_kb": 22542
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 22,
+    "duration_seconds": 2.343612
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 196 stars."
+  }
+}
