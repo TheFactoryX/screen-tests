@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5446 | [erikdarlingdata/DarlingData](https://github.com/erikdarlingdata/DarlingData) | TSQL · ⭐ 656 | 2026-03-01 |
+| #5447 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5535,3 +5535,4 @@ If you need permission, you're thinking too much.
 | 5444 | 2026-03-01 05:40:06 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (96193⭐ C++) | [reels/reel_5444_ggml-org-llama.cpp](reels/reel_5444_ggml-org-llama.cpp) |
 | 5445 | 2026-03-01 06:27:39 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (99507⭐ TypeScript) | [reels/reel_5445_clash-verge-rev-clash-verge-rev](reels/reel_5445_clash-verge-rev-clash-verge-rev) |
 | 5446 | 2026-03-01 07:09:30 | [erikdarlingdata/DarlingData](https://github.com/erikdarlingdata/DarlingData) | ✅ full (656⭐ TSQL) | [reels/reel_5446_erikdarlingdata-DarlingData](reels/reel_5446_erikdarlingdata-DarlingData) |
+| 5447 | 2026-03-01 07:46:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112242⭐ TypeScript) | [reels/reel_5447_iptv-org-iptv](reels/reel_5447_iptv-org-iptv) |
