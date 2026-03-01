@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5442 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-01 |
+| #5443 | [zimingttkx/AI-Practices](https://github.com/zimingttkx/AI-Practices) | Jupyter Notebook · ⭐ 353 | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5531,3 +5531,4 @@ If you need permission, you're thinking too much.
 | 5440 | 2026-02-28 23:43:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145149⭐ Python) | [reels/reel_5440_langflow-ai-langflow](reels/reel_5440_langflow-ai-langflow) |
 | 5441 | 2026-02-28 23:55:50 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (104504⭐ Python) | [reels/reel_5441_Comfy-Org-ComfyUI](reels/reel_5441_Comfy-Org-ComfyUI) |
 | 5442 | 2026-03-01 02:22:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182106⭐ Python) | [reels/reel_5442_Significant-Gravitas-AutoGPT](reels/reel_5442_Significant-Gravitas-AutoGPT) |
+| 5443 | 2026-03-01 04:32:50 | [zimingttkx/AI-Practices](https://github.com/zimingttkx/AI-Practices) | ✅ readme_only (353⭐ Jupyter Notebook) | [reels/reel_5443_zimingttkx-AI-Practices](reels/reel_5443_zimingttkx-AI-Practices) |
