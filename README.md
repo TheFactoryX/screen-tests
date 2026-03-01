@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5471 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-01 |
+| #5472 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5560,3 +5560,4 @@ If you need permission, you're thinking too much.
 | 5469 | 2026-03-01 19:01:53 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145172⭐ Python) | [reels/reel_5469_langflow-ai-langflow](reels/reel_5469_langflow-ai-langflow) |
 | 5470 | 2026-03-01 19:33:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (275955⭐ None) | [reels/reel_5470_awesome-selfhosted-awesome-selfhosted](reels/reel_5470_awesome-selfhosted-awesome-selfhosted) |
 | 5471 | 2026-03-01 19:53:16 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182124⭐ Python) | [reels/reel_5471_Significant-Gravitas-AutoGPT](reels/reel_5471_Significant-Gravitas-AutoGPT) |
+| 5472 | 2026-03-01 20:24:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127841⭐ Python) | [reels/reel_5472_langchain-ai-langchain](reels/reel_5472_langchain-ai-langchain) |
