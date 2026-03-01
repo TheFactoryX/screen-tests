@@ -1,0 +1,24 @@
+{
+  "reel_number": 5452,
+  "recorded": "2026-03-01 10:28:42 UTC",
+  "repository": {
+    "full_name": "scikit-hep/particle",
+    "url": "https://github.com/scikit-hep/particle",
+    "clone_url": "https://github.com/scikit-hep/particle.git",
+    "stars": 161,
+    "language": "Python",
+    "size_kb": 2002
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.530052
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 161 stars."
+  }
+}
