@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5453 | [polymathrobotics/ros2_behavior_tree_example](https://github.com/polymathrobotics/ros2_behavior_tree_example) | C++ · ⭐ 39 | 2026-03-01 |
+| #5454 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5542,3 +5542,4 @@ If you need permission, you're thinking too much.
 | 5451 | 2026-03-01 09:56:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (275891⭐ None) | [reels/reel_5451_awesome-selfhosted-awesome-selfhosted](reels/reel_5451_awesome-selfhosted-awesome-selfhosted) |
 | 5452 | 2026-03-01 10:28:42 | [scikit-hep/particle](https://github.com/scikit-hep/particle) | ✅ full (161⭐ Python) | [reels/reel_5452_scikit-hep-particle](reels/reel_5452_scikit-hep-particle) |
 | 5453 | 2026-03-01 10:52:08 | [polymathrobotics/ros2_behavior_tree_example](https://github.com/polymathrobotics/ros2_behavior_tree_example) | ✅ full (39⭐ C++) | [reels/reel_5453_polymathrobotics-ros2_behavior_tree_example](reels/reel_5453_polymathrobotics-ros2_behavior_tree_example) |
+| 5454 | 2026-03-01 11:18:44 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127803⭐ Python) | [reels/reel_5454_langchain-ai-langchain](reels/reel_5454_langchain-ai-langchain) |
