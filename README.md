@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5449 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-03-01 |
+| #5450 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-03-01 |
 ---
 
 ## 🎭 Selection Process
@@ -5538,3 +5538,4 @@ If you need permission, you're thinking too much.
 | 5447 | 2026-03-01 07:46:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112242⭐ TypeScript) | [reels/reel_5447_iptv-org-iptv](reels/reel_5447_iptv-org-iptv) |
 | 5448 | 2026-03-01 08:29:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112243⭐ TypeScript) | [reels/reel_5448_iptv-org-iptv](reels/reel_5448_iptv-org-iptv) |
 | 5449 | 2026-03-01 08:56:13 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101808⭐ Python) | [reels/reel_5449_deepseek-ai-DeepSeek-V3](reels/reel_5449_deepseek-ai-DeepSeek-V3) |
+| 5450 | 2026-03-01 09:31:30 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97639⭐ TypeScript) | [reels/reel_5450_ant-design-ant-design](reels/reel_5450_ant-design-ant-design) |
