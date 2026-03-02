@@ -1,0 +1,24 @@
+{
+  "reel_number": 5505,
+  "recorded": "2026-03-02 23:24:19 UTC",
+  "repository": {
+    "full_name": "groonga/groonga",
+    "url": "https://github.com/groonga/groonga",
+    "clone_url": "https://github.com/groonga/groonga.git",
+    "stars": 844,
+    "language": "C",
+    "size_kb": 109558
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 106,
+    "duration_seconds": 9.738584
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 844 stars."
+  }
+}

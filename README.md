@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5504 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-03-02 |
+| #5505 | [groonga/groonga](https://github.com/groonga/groonga) | C · ⭐ 844 | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5593,3 +5593,4 @@ If you need permission, you're thinking too much.
 | 5502 | 2026-03-02 21:31:54 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (96364⭐ C++) | [reels/reel_5502_ggml-org-llama.cpp](reels/reel_5502_ggml-org-llama.cpp) |
 | 5503 | 2026-03-02 22:02:00 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101831⭐ Python) | [reels/reel_5503_deepseek-ai-DeepSeek-V3](reels/reel_5503_deepseek-ai-DeepSeek-V3) |
 | 5504 | 2026-03-02 22:46:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125483⭐ Python) | [reels/reel_5504_open-webui-open-webui](reels/reel_5504_open-webui-open-webui) |
+| 5505 | 2026-03-02 23:24:19 | [groonga/groonga](https://github.com/groonga/groonga) | ✅ shallow (844⭐ C) | [reels/reel_5505_groonga-groonga](reels/reel_5505_groonga-groonga) |
