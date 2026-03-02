@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5502 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 96k | 2026-03-02 |
+| #5503 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5591,3 +5591,4 @@ If you need permission, you're thinking too much.
 | 5500 | 2026-03-02 20:02:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127965⭐ Python) | [reels/reel_5500_langchain-ai-langchain](reels/reel_5500_langchain-ai-langchain) |
 | 5501 | 2026-03-02 20:51:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177231⭐ TypeScript) | [reels/reel_5501_n8n-io-n8n](reels/reel_5501_n8n-io-n8n) |
 | 5502 | 2026-03-02 21:31:54 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (96364⭐ C++) | [reels/reel_5502_ggml-org-llama.cpp](reels/reel_5502_ggml-org-llama.cpp) |
+| 5503 | 2026-03-02 22:02:00 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101831⭐ Python) | [reels/reel_5503_deepseek-ai-DeepSeek-V3](reels/reel_5503_deepseek-ai-DeepSeek-V3) |
