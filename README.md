@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5500 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-03-02 |
+| #5501 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 177k | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5589,3 +5589,4 @@ If you need permission, you're thinking too much.
 | 5498 | 2026-03-02 19:00:11 | [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) | ✅ full (967⭐ Dockerfile) | [reels/reel_5498_linuxserver-docker-bookstack](reels/reel_5498_linuxserver-docker-bookstack) |
 | 5499 | 2026-03-02 19:41:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127964⭐ Python) | [reels/reel_5499_langchain-ai-langchain](reels/reel_5499_langchain-ai-langchain) |
 | 5500 | 2026-03-02 20:02:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127965⭐ Python) | [reels/reel_5500_langchain-ai-langchain](reels/reel_5500_langchain-ai-langchain) |
+| 5501 | 2026-03-02 20:51:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177231⭐ TypeScript) | [reels/reel_5501_n8n-io-n8n](reels/reel_5501_n8n-io-n8n) |
