@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5496 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 96k | 2026-03-02 |
+| #5497 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 276k | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5585,3 +5585,4 @@ If you need permission, you're thinking too much.
 | 5494 | 2026-03-02 15:39:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127950⭐ Python) | [reels/reel_5494_langchain-ai-langchain](reels/reel_5494_langchain-ai-langchain) |
 | 5495 | 2026-03-02 16:23:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125442⭐ Python) | [reels/reel_5495_open-webui-open-webui](reels/reel_5495_open-webui-open-webui) |
 | 5496 | 2026-03-02 17:11:24 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (96225⭐ TypeScript) | [reels/reel_5496_google-gemini-gemini-cli](reels/reel_5496_google-gemini-gemini-cli) |
+| 5497 | 2026-03-02 17:59:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (276129⭐ None) | [reels/reel_5497_awesome-selfhosted-awesome-selfhosted](reels/reel_5497_awesome-selfhosted-awesome-selfhosted) |
