@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5480 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-03-01 |
+| #5481 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 96k | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5569,3 +5569,4 @@ If you need permission, you're thinking too much.
 | 5478 | 2026-03-01 22:50:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110806⭐ Rust) | [reels/reel_5478_rust-lang-rust](reels/reel_5478_rust-lang-rust) |
 | 5479 | 2026-03-01 23:21:47 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125343⭐ Python) | [reels/reel_5479_open-webui-open-webui](reels/reel_5479_open-webui-open-webui) |
 | 5480 | 2026-03-01 23:45:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110805⭐ Rust) | [reels/reel_5480_rust-lang-rust](reels/reel_5480_rust-lang-rust) |
+| 5481 | 2026-03-02 01:59:12 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (96254⭐ C++) | [reels/reel_5481_ggml-org-llama.cpp](reels/reel_5481_ggml-org-llama.cpp) |
