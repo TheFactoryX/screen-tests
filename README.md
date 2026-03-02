@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5493 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 276k | 2026-03-02 |
+| #5494 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5582,3 +5582,4 @@ If you need permission, you're thinking too much.
 | 5491 | 2026-03-02 12:55:24 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (104666⭐ Python) | [reels/reel_5491_Comfy-Org-ComfyUI](reels/reel_5491_Comfy-Org-ComfyUI) |
 | 5492 | 2026-03-02 13:59:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107554⭐ TypeScript) | [reels/reel_5492_shadcn-ui-ui](reels/reel_5492_shadcn-ui-ui) |
 | 5493 | 2026-03-02 14:53:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (276114⭐ None) | [reels/reel_5493_awesome-selfhosted-awesome-selfhosted](reels/reel_5493_awesome-selfhosted-awesome-selfhosted) |
+| 5494 | 2026-03-02 15:39:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127950⭐ Python) | [reels/reel_5494_langchain-ai-langchain](reels/reel_5494_langchain-ai-langchain) |
