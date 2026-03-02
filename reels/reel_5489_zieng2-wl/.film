@@ -1,0 +1,24 @@
+{
+  "reel_number": 5489,
+  "recorded": "2026-03-02 11:02:09 UTC",
+  "repository": {
+    "full_name": "zieng2/wl",
+    "url": "https://github.com/zieng2/wl",
+    "clone_url": "https://github.com/zieng2/wl.git",
+    "stars": 456,
+    "language": null,
+    "size_kb": 51724
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 50,
+    "duration_seconds": 3.291367
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 456 stars."
+  }
+}
