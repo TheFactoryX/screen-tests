@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5484 | [lovit/KR-WordRank](https://github.com/lovit/KR-WordRank) | Python · ⭐ 353 | 2026-03-02 |
+| #5485 | [CoolProp/CoolProp](https://github.com/CoolProp/CoolProp) | C++ · ⭐ 962 | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5573,3 +5573,4 @@ If you need permission, you're thinking too much.
 | 5482 | 2026-03-02 04:20:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182138⭐ Python) | [reels/reel_5482_Significant-Gravitas-AutoGPT](reels/reel_5482_Significant-Gravitas-AutoGPT) |
 | 5483 | 2026-03-02 05:34:19 | [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) | ✅ full (653⭐ JavaScript) | [reels/reel_5483_Haleclipse-CodexDesktop-Rebuild](reels/reel_5483_Haleclipse-CodexDesktop-Rebuild) |
 | 5484 | 2026-03-02 06:37:04 | [lovit/KR-WordRank](https://github.com/lovit/KR-WordRank) | ✅ full (353⭐ Python) | [reels/reel_5484_lovit-KR-WordRank](reels/reel_5484_lovit-KR-WordRank) |
+| 5485 | 2026-03-02 07:37:19 | [CoolProp/CoolProp](https://github.com/CoolProp/CoolProp) | ✅ full (962⭐ C++) | [reels/reel_5485_CoolProp-CoolProp](reels/reel_5485_CoolProp-CoolProp) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 5485,
+  "recorded": "2026-03-02 07:37:19 UTC",
+  "repository": {
+    "full_name": "CoolProp/CoolProp",
+    "url": "https://github.com/CoolProp/CoolProp",
+    "clone_url": "https://github.com/CoolProp/CoolProp.git",
+    "stars": 962,
+    "language": "C++",
+    "size_kb": 35867
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 2.836207
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 962 stars."
+  }
+}
