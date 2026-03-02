@@ -1,0 +1,24 @@
+{
+  "reel_number": 5486,
+  "recorded": "2026-03-02 08:25:01 UTC",
+  "repository": {
+    "full_name": "home-assistant/addons-example",
+    "url": "https://github.com/home-assistant/addons-example",
+    "clone_url": "https://github.com/home-assistant/addons-example.git",
+    "stars": 172,
+    "language": "Dockerfile",
+    "size_kb": 313
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.373032
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dockerfile",
+    "director_note": "A Dockerfile repository. 172 stars."
+  }
+}
