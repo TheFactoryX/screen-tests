@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5482 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-02 |
+| #5483 | [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) | JavaScript · ⭐ 653 | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5571,3 +5571,4 @@ If you need permission, you're thinking too much.
 | 5480 | 2026-03-01 23:45:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110805⭐ Rust) | [reels/reel_5480_rust-lang-rust](reels/reel_5480_rust-lang-rust) |
 | 5481 | 2026-03-02 01:59:12 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (96254⭐ C++) | [reels/reel_5481_ggml-org-llama.cpp](reels/reel_5481_ggml-org-llama.cpp) |
 | 5482 | 2026-03-02 04:20:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182138⭐ Python) | [reels/reel_5482_Significant-Gravitas-AutoGPT](reels/reel_5482_Significant-Gravitas-AutoGPT) |
+| 5483 | 2026-03-02 05:34:19 | [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) | ✅ full (653⭐ JavaScript) | [reels/reel_5483_Haleclipse-CodexDesktop-Rebuild](reels/reel_5483_Haleclipse-CodexDesktop-Rebuild) |
