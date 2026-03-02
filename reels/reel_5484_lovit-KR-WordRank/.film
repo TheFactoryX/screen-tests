@@ -1,0 +1,24 @@
+{
+  "reel_number": 5484,
+  "recorded": "2026-03-02 06:37:04 UTC",
+  "repository": {
+    "full_name": "lovit/KR-WordRank",
+    "url": "https://github.com/lovit/KR-WordRank",
+    "clone_url": "https://github.com/lovit/KR-WordRank.git",
+    "stars": 353,
+    "language": "Python",
+    "size_kb": 4830
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.638693
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 353 stars."
+  }
+}
