@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5489 | [zieng2/wl](https://github.com/zieng2/wl) | None · ⭐ 456 | 2026-03-02 |
+| #5490 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-02 |
 ---
 
 ## 🎭 Selection Process
@@ -5578,3 +5578,4 @@ If you need permission, you're thinking too much.
 | 5487 | 2026-03-02 09:06:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127921⭐ Python) | [reels/reel_5487_langchain-ai-langchain](reels/reel_5487_langchain-ai-langchain) |
 | 5488 | 2026-03-02 10:05:33 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110810⭐ Rust) | [reels/reel_5488_rust-lang-rust](reels/reel_5488_rust-lang-rust) |
 | 5489 | 2026-03-02 11:02:09 | [zieng2/wl](https://github.com/zieng2/wl) | ✅ full (456⭐ None) | [reels/reel_5489_zieng2-wl](reels/reel_5489_zieng2-wl) |
+| 5490 | 2026-03-02 11:45:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149220⭐ Python) | [reels/reel_5490_yt-dlp-yt-dlp](reels/reel_5490_yt-dlp-yt-dlp) |
