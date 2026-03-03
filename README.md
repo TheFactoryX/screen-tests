@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5530 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-03-03 |
+| #5531 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5619,3 +5619,4 @@ If you need permission, you're thinking too much.
 | 5528 | 2026-03-03 21:47:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149443⭐ Python) | [reels/reel_5528_yt-dlp-yt-dlp](reels/reel_5528_yt-dlp-yt-dlp) |
 | 5529 | 2026-03-03 22:26:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128079⭐ Python) | [reels/reel_5529_langchain-ai-langchain](reels/reel_5529_langchain-ai-langchain) |
 | 5530 | 2026-03-03 22:54:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139772⭐ Python) | [reels/reel_5530_ytdl-org-youtube-dl](reels/reel_5530_ytdl-org-youtube-dl) |
+| 5531 | 2026-03-03 23:25:35 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103554⭐ Rust) | [reels/reel_5531_tauri-apps-tauri](reels/reel_5531_tauri-apps-tauri) |
