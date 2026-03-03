@@ -1,0 +1,24 @@
+{
+  "reel_number": 5525,
+  "recorded": "2026-03-03 19:50:25 UTC",
+  "repository": {
+    "full_name": "cpvalente/ontime",
+    "url": "https://github.com/cpvalente/ontime",
+    "clone_url": "https://github.com/cpvalente/ontime.git",
+    "stars": 842,
+    "language": "TypeScript",
+    "size_kb": 16190
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 1.564173
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 842 stars."
+  }
+}
