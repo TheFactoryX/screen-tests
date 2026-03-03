@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5507 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 127k | 2026-03-03 |
+| #5508 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5596,3 +5596,4 @@ If you need permission, you're thinking too much.
 | 5505 | 2026-03-02 23:24:19 | [groonga/groonga](https://github.com/groonga/groonga) | ✅ shallow (844⭐ C) | [reels/reel_5505_groonga-groonga](reels/reel_5505_groonga-groonga) |
 | 5506 | 2026-03-02 23:49:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112313⭐ TypeScript) | [reels/reel_5506_iptv-org-iptv](reels/reel_5506_iptv-org-iptv) |
 | 5507 | 2026-03-03 02:00:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127953⭐ Python) | [reels/reel_5507_langchain-ai-langchain](reels/reel_5507_langchain-ai-langchain) |
+| 5508 | 2026-03-03 04:22:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145207⭐ Python) | [reels/reel_5508_langflow-ai-langflow](reels/reel_5508_langflow-ai-langflow) |
