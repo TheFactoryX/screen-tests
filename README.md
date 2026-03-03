@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5516 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-03 |
+| #5517 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 276k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5605,3 +5605,4 @@ If you need permission, you're thinking too much.
 | 5514 | 2026-03-03 09:55:12 | [karmab/kcli](https://github.com/karmab/kcli) | ✅ full (630⭐ Python) | [reels/reel_5514_karmab-kcli](reels/reel_5514_karmab-kcli) |
 | 5515 | 2026-03-03 10:37:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182178⭐ Python) | [reels/reel_5515_Significant-Gravitas-AutoGPT](reels/reel_5515_Significant-Gravitas-AutoGPT) |
 | 5516 | 2026-03-03 11:19:04 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149369⭐ Python) | [reels/reel_5516_yt-dlp-yt-dlp](reels/reel_5516_yt-dlp-yt-dlp) |
+| 5517 | 2026-03-03 11:53:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (276252⭐ None) | [reels/reel_5517_awesome-selfhosted-awesome-selfhosted](reels/reel_5517_awesome-selfhosted-awesome-selfhosted) |
