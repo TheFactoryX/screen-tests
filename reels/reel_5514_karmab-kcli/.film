@@ -1,0 +1,24 @@
+{
+  "reel_number": 5514,
+  "recorded": "2026-03-03 09:55:12 UTC",
+  "repository": {
+    "full_name": "karmab/kcli",
+    "url": "https://github.com/karmab/kcli",
+    "clone_url": "https://github.com/karmab/kcli.git",
+    "stars": 630,
+    "language": "Python",
+    "size_kb": 16380
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 5.127769
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 630 stars."
+  }
+}
