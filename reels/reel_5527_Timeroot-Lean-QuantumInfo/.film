@@ -1,0 +1,24 @@
+{
+  "reel_number": 5527,
+  "recorded": "2026-03-03 21:03:18 UTC",
+  "repository": {
+    "full_name": "Timeroot/Lean-QuantumInfo",
+    "url": "https://github.com/Timeroot/Lean-QuantumInfo",
+    "clone_url": "https://github.com/Timeroot/Lean-QuantumInfo.git",
+    "stars": 105,
+    "language": "Lean",
+    "size_kb": 2150
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.442728
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lean",
+    "director_note": "A Lean repository. 105 stars."
+  }
+}
