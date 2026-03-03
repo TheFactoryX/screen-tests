@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5523 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-03-03 |
+| #5524 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 471k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5612,3 +5612,4 @@ If you need permission, you're thinking too much.
 | 5521 | 2026-03-03 15:44:45 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149401⭐ Python) | [reels/reel_5521_yt-dlp-yt-dlp](reels/reel_5521_yt-dlp-yt-dlp) |
 | 5522 | 2026-03-03 16:31:36 | [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) | ✅ full (209⭐ Rust) | [reels/reel_5522_moyangzhan-mango-finder](reels/reel_5522_moyangzhan-mango-finder) |
 | 5523 | 2026-03-03 17:24:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103548⭐ Rust) | [reels/reel_5523_tauri-apps-tauri](reels/reel_5523_tauri-apps-tauri) |
+| 5524 | 2026-03-03 18:04:24 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (471673⭐ Markdown) | [reels/reel_5524_codecrafters-io-build-your-own-x](reels/reel_5524_codecrafters-io-build-your-own-x) |
