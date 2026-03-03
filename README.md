@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5527 | [Timeroot/Lean-QuantumInfo](https://github.com/Timeroot/Lean-QuantumInfo) | Lean · ⭐ 105 | 2026-03-03 |
+| #5528 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5616,3 +5616,4 @@ If you need permission, you're thinking too much.
 | 5525 | 2026-03-03 19:50:25 | [cpvalente/ontime](https://github.com/cpvalente/ontime) | ✅ full (842⭐ TypeScript) | [reels/reel_5525_cpvalente-ontime](reels/reel_5525_cpvalente-ontime) |
 | 5526 | 2026-03-03 20:30:25 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125610⭐ Python) | [reels/reel_5526_open-webui-open-webui](reels/reel_5526_open-webui-open-webui) |
 | 5527 | 2026-03-03 21:03:18 | [Timeroot/Lean-QuantumInfo](https://github.com/Timeroot/Lean-QuantumInfo) | ✅ full (105⭐ Lean) | [reels/reel_5527_Timeroot-Lean-QuantumInfo](reels/reel_5527_Timeroot-Lean-QuantumInfo) |
+| 5528 | 2026-03-03 21:47:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149443⭐ Python) | [reels/reel_5528_yt-dlp-yt-dlp](reels/reel_5528_yt-dlp-yt-dlp) |
