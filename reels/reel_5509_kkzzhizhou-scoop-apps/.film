@@ -1,0 +1,24 @@
+{
+  "reel_number": 5509,
+  "recorded": "2026-03-03 05:32:28 UTC",
+  "repository": {
+    "full_name": "kkzzhizhou/scoop-apps",
+    "url": "https://github.com/kkzzhizhou/scoop-apps",
+    "clone_url": "https://github.com/kkzzhizhou/scoop-apps.git",
+    "stars": 529,
+    "language": "templ",
+    "size_kb": 134375
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 131,
+    "duration_seconds": 2.677564
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "templ",
+    "director_note": "A templ repository. 529 stars."
+  }
+}
