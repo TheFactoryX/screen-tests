@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5514 | [karmab/kcli](https://github.com/karmab/kcli) | Python · ⭐ 630 | 2026-03-03 |
+| #5515 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5603,3 +5603,4 @@ If you need permission, you're thinking too much.
 | 5512 | 2026-03-03 08:02:44 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128010⭐ Python) | [reels/reel_5512_langchain-ai-langchain](reels/reel_5512_langchain-ai-langchain) |
 | 5513 | 2026-03-03 08:59:24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112328⭐ TypeScript) | [reels/reel_5513_iptv-org-iptv](reels/reel_5513_iptv-org-iptv) |
 | 5514 | 2026-03-03 09:55:12 | [karmab/kcli](https://github.com/karmab/kcli) | ✅ full (630⭐ Python) | [reels/reel_5514_karmab-kcli](reels/reel_5514_karmab-kcli) |
+| 5515 | 2026-03-03 10:37:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182178⭐ Python) | [reels/reel_5515_Significant-Gravitas-AutoGPT](reels/reel_5515_Significant-Gravitas-AutoGPT) |
