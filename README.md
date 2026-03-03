@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5519 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 259k | 2026-03-03 |
+| #5520 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5608,3 +5608,4 @@ If you need permission, you're thinking too much.
 | 5517 | 2026-03-03 11:53:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (276252⭐ None) | [reels/reel_5517_awesome-selfhosted-awesome-selfhosted](reels/reel_5517_awesome-selfhosted-awesome-selfhosted) |
 | 5518 | 2026-03-03 12:54:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125558⭐ Python) | [reels/reel_5518_open-webui-open-webui](reels/reel_5518_open-webui-open-webui) |
 | 5519 | 2026-03-03 13:58:55 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (259924⭐ None) | [reels/reel_5519_practical-tutorials-project-based-learning](reels/reel_5519_practical-tutorials-project-based-learning) |
+| 5520 | 2026-03-03 14:54:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145216⭐ Python) | [reels/reel_5520_langflow-ai-langflow](reels/reel_5520_langflow-ai-langflow) |
