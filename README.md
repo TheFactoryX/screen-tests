@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5528 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-03 |
+| #5529 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 128k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5617,3 +5617,4 @@ If you need permission, you're thinking too much.
 | 5526 | 2026-03-03 20:30:25 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125610⭐ Python) | [reels/reel_5526_open-webui-open-webui](reels/reel_5526_open-webui-open-webui) |
 | 5527 | 2026-03-03 21:03:18 | [Timeroot/Lean-QuantumInfo](https://github.com/Timeroot/Lean-QuantumInfo) | ✅ full (105⭐ Lean) | [reels/reel_5527_Timeroot-Lean-QuantumInfo](reels/reel_5527_Timeroot-Lean-QuantumInfo) |
 | 5528 | 2026-03-03 21:47:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149443⭐ Python) | [reels/reel_5528_yt-dlp-yt-dlp](reels/reel_5528_yt-dlp-yt-dlp) |
+| 5529 | 2026-03-03 22:26:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128079⭐ Python) | [reels/reel_5529_langchain-ai-langchain](reels/reel_5529_langchain-ai-langchain) |
