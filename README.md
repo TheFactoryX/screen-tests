@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5525 | [cpvalente/ontime](https://github.com/cpvalente/ontime) | TypeScript · ⭐ 842 | 2026-03-03 |
+| #5526 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5614,3 +5614,4 @@ If you need permission, you're thinking too much.
 | 5523 | 2026-03-03 17:24:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103548⭐ Rust) | [reels/reel_5523_tauri-apps-tauri](reels/reel_5523_tauri-apps-tauri) |
 | 5524 | 2026-03-03 18:04:24 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (471673⭐ Markdown) | [reels/reel_5524_codecrafters-io-build-your-own-x](reels/reel_5524_codecrafters-io-build-your-own-x) |
 | 5525 | 2026-03-03 19:50:25 | [cpvalente/ontime](https://github.com/cpvalente/ontime) | ✅ full (842⭐ TypeScript) | [reels/reel_5525_cpvalente-ontime](reels/reel_5525_cpvalente-ontime) |
+| 5526 | 2026-03-03 20:30:25 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125610⭐ Python) | [reels/reel_5526_open-webui-open-webui](reels/reel_5526_open-webui-open-webui) |
