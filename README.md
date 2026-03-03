@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5522 | [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) | Rust · ⭐ 209 | 2026-03-03 |
+| #5523 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5611,3 +5611,4 @@ If you need permission, you're thinking too much.
 | 5520 | 2026-03-03 14:54:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145216⭐ Python) | [reels/reel_5520_langflow-ai-langflow](reels/reel_5520_langflow-ai-langflow) |
 | 5521 | 2026-03-03 15:44:45 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149401⭐ Python) | [reels/reel_5521_yt-dlp-yt-dlp](reels/reel_5521_yt-dlp-yt-dlp) |
 | 5522 | 2026-03-03 16:31:36 | [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) | ✅ full (209⭐ Rust) | [reels/reel_5522_moyangzhan-mango-finder](reels/reel_5522_moyangzhan-mango-finder) |
+| 5523 | 2026-03-03 17:24:07 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103548⭐ Rust) | [reels/reel_5523_tauri-apps-tauri](reels/reel_5523_tauri-apps-tauri) |
