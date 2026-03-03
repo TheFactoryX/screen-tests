@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5509 | [kkzzhizhou/scoop-apps](https://github.com/kkzzhizhou/scoop-apps) | templ · ⭐ 529 | 2026-03-03 |
+| #5510 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5598,3 +5598,4 @@ If you need permission, you're thinking too much.
 | 5507 | 2026-03-03 02:00:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (127953⭐ Python) | [reels/reel_5507_langchain-ai-langchain](reels/reel_5507_langchain-ai-langchain) |
 | 5508 | 2026-03-03 04:22:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145207⭐ Python) | [reels/reel_5508_langflow-ai-langflow](reels/reel_5508_langflow-ai-langflow) |
 | 5509 | 2026-03-03 05:32:28 | [kkzzhizhou/scoop-apps](https://github.com/kkzzhizhou/scoop-apps) | ✅ shallow (529⭐ templ) | [reels/reel_5509_kkzzhizhou-scoop-apps](reels/reel_5509_kkzzhizhou-scoop-apps) |
+| 5510 | 2026-03-03 06:31:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112320⭐ TypeScript) | [reels/reel_5510_iptv-org-iptv](reels/reel_5510_iptv-org-iptv) |
