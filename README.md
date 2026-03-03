@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5521 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-03 |
+| #5522 | [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) | Rust · ⭐ 209 | 2026-03-03 |
 ---
 
 ## 🎭 Selection Process
@@ -5610,3 +5610,4 @@ If you need permission, you're thinking too much.
 | 5519 | 2026-03-03 13:58:55 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (259924⭐ None) | [reels/reel_5519_practical-tutorials-project-based-learning](reels/reel_5519_practical-tutorials-project-based-learning) |
 | 5520 | 2026-03-03 14:54:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145216⭐ Python) | [reels/reel_5520_langflow-ai-langflow](reels/reel_5520_langflow-ai-langflow) |
 | 5521 | 2026-03-03 15:44:45 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149401⭐ Python) | [reels/reel_5521_yt-dlp-yt-dlp](reels/reel_5521_yt-dlp-yt-dlp) |
+| 5522 | 2026-03-03 16:31:36 | [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) | ✅ full (209⭐ Rust) | [reels/reel_5522_moyangzhan-mango-finder](reels/reel_5522_moyangzhan-mango-finder) |

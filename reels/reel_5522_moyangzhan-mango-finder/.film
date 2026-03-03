@@ -1,0 +1,24 @@
+{
+  "reel_number": 5522,
+  "recorded": "2026-03-03 16:31:36 UTC",
+  "repository": {
+    "full_name": "moyangzhan/mango-finder",
+    "url": "https://github.com/moyangzhan/mango-finder",
+    "clone_url": "https://github.com/moyangzhan/mango-finder.git",
+    "stars": 209,
+    "language": "Rust",
+    "size_kb": 85405
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 83,
+    "duration_seconds": 142.893009
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 209 stars."
+  }
+}
