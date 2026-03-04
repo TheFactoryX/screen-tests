@@ -1,0 +1,24 @@
+{
+  "reel_number": 5558,
+  "recorded": "2026-03-04 22:49:52 UTC",
+  "repository": {
+    "full_name": "publicsamples/Shapey",
+    "url": "https://github.com/publicsamples/Shapey",
+    "clone_url": "https://github.com/publicsamples/Shapey.git",
+    "stars": 17,
+    "language": "Faust",
+    "size_kb": 446799
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 436,
+    "duration_seconds": 11.755741
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Faust",
+    "director_note": "A Faust repository. 17 stars."
+  }
+}
