@@ -1,0 +1,24 @@
+{
+  "reel_number": 5557,
+  "recorded": "2026-03-04 22:02:02 UTC",
+  "repository": {
+    "full_name": "0lvin/heretic2",
+    "url": "https://github.com/0lvin/heretic2",
+    "clone_url": "https://github.com/0lvin/heretic2.git",
+    "stars": 24,
+    "language": "C",
+    "size_kb": 51785
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 50,
+    "duration_seconds": 4.655314
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 24 stars."
+  }
+}

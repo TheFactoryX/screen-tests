@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5556 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-04 |
+| #5557 | [0lvin/heretic2](https://github.com/0lvin/heretic2) | C · ⭐ 24 | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5645,3 +5645,4 @@ If you need permission, you're thinking too much.
 | 5554 | 2026-03-04 20:03:06 | [apache/royale-compiler](https://github.com/apache/royale-compiler) | ✅ full (107⭐ Java) | [reels/reel_5554_apache-royale-compiler](reels/reel_5554_apache-royale-compiler) |
 | 5555 | 2026-03-04 20:48:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110880⭐ Rust) | [reels/reel_5555_rust-lang-rust](reels/reel_5555_rust-lang-rust) |
 | 5556 | 2026-03-04 21:32:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112399⭐ TypeScript) | [reels/reel_5556_iptv-org-iptv](reels/reel_5556_iptv-org-iptv) |
+| 5557 | 2026-03-04 22:02:02 | [0lvin/heretic2](https://github.com/0lvin/heretic2) | ✅ full (24⭐ C) | [reels/reel_5557_0lvin-heretic2](reels/reel_5557_0lvin-heretic2) |
