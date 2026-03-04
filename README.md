@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5551 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 276k | 2026-03-04 |
+| #5552 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5640,3 +5640,4 @@ If you need permission, you're thinking too much.
 | 5549 | 2026-03-04 16:25:06 | [google/orbax](https://github.com/google/orbax) | ✅ full (485⭐ Python) | [reels/reel_5549_google-orbax](reels/reel_5549_google-orbax) |
 | 5550 | 2026-03-04 17:07:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112398⭐ TypeScript) | [reels/reel_5550_iptv-org-iptv](reels/reel_5550_iptv-org-iptv) |
 | 5551 | 2026-03-04 17:57:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (276525⭐ None) | [reels/reel_5551_awesome-selfhosted-awesome-selfhosted](reels/reel_5551_awesome-selfhosted-awesome-selfhosted) |
+| 5552 | 2026-03-04 18:56:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149568⭐ Python) | [reels/reel_5552_yt-dlp-yt-dlp](reels/reel_5552_yt-dlp-yt-dlp) |
