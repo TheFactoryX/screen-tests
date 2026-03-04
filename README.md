@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5549 | [google/orbax](https://github.com/google/orbax) | Python · ⭐ 485 | 2026-03-04 |
+| #5550 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5638,3 +5638,4 @@ If you need permission, you're thinking too much.
 | 5547 | 2026-03-04 14:56:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182190⭐ Python) | [reels/reel_5547_Significant-Gravitas-AutoGPT](reels/reel_5547_Significant-Gravitas-AutoGPT) |
 | 5548 | 2026-03-04 15:42:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128193⭐ Python) | [reels/reel_5548_langchain-ai-langchain](reels/reel_5548_langchain-ai-langchain) |
 | 5549 | 2026-03-04 16:25:06 | [google/orbax](https://github.com/google/orbax) | ✅ full (485⭐ Python) | [reels/reel_5549_google-orbax](reels/reel_5549_google-orbax) |
+| 5550 | 2026-03-04 17:07:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112398⭐ TypeScript) | [reels/reel_5550_iptv-org-iptv](reels/reel_5550_iptv-org-iptv) |
