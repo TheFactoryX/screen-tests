@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5537 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 276k | 2026-03-04 |
+| #5538 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 128k | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5626,3 +5626,4 @@ If you need permission, you're thinking too much.
 | 5535 | 2026-03-04 05:13:41 | [nestjs/passport](https://github.com/nestjs/passport) | ✅ full (549⭐ TypeScript) | [reels/reel_5535_nestjs-passport](reels/reel_5535_nestjs-passport) |
 | 5536 | 2026-03-04 05:59:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128104⭐ Python) | [reels/reel_5536_langchain-ai-langchain](reels/reel_5536_langchain-ai-langchain) |
 | 5537 | 2026-03-04 07:01:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (276392⭐ None) | [reels/reel_5537_awesome-selfhosted-awesome-selfhosted](reels/reel_5537_awesome-selfhosted-awesome-selfhosted) |
+| 5538 | 2026-03-04 07:52:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128128⭐ Python) | [reels/reel_5538_langchain-ai-langchain](reels/reel_5538_langchain-ai-langchain) |
