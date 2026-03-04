@@ -1,0 +1,24 @@
+{
+  "reel_number": 5549,
+  "recorded": "2026-03-04 16:25:06 UTC",
+  "repository": {
+    "full_name": "google/orbax",
+    "url": "https://github.com/google/orbax",
+    "clone_url": "https://github.com/google/orbax.git",
+    "stars": 485,
+    "language": "Python",
+    "size_kb": 7685
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.547668
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 485 stars."
+  }
+}

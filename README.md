@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5548 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 128k | 2026-03-04 |
+| #5549 | [google/orbax](https://github.com/google/orbax) | Python · ⭐ 485 | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5637,3 +5637,4 @@ If you need permission, you're thinking too much.
 | 5546 | 2026-03-04 14:03:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145246⭐ Python) | [reels/reel_5546_langflow-ai-langflow](reels/reel_5546_langflow-ai-langflow) |
 | 5547 | 2026-03-04 14:56:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182190⭐ Python) | [reels/reel_5547_Significant-Gravitas-AutoGPT](reels/reel_5547_Significant-Gravitas-AutoGPT) |
 | 5548 | 2026-03-04 15:42:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128193⭐ Python) | [reels/reel_5548_langchain-ai-langchain](reels/reel_5548_langchain-ai-langchain) |
+| 5549 | 2026-03-04 16:25:06 | [google/orbax](https://github.com/google/orbax) | ✅ full (485⭐ Python) | [reels/reel_5549_google-orbax](reels/reel_5549_google-orbax) |
