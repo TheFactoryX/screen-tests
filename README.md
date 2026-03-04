@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5546 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-04 |
+| #5547 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5635,3 +5635,4 @@ If you need permission, you're thinking too much.
 | 5544 | 2026-03-04 11:58:22 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107664⭐ TypeScript) | [reels/reel_5544_shadcn-ui-ui](reels/reel_5544_shadcn-ui-ui) |
 | 5545 | 2026-03-04 13:11:30 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107668⭐ TypeScript) | [reels/reel_5545_shadcn-ui-ui](reels/reel_5545_shadcn-ui-ui) |
 | 5546 | 2026-03-04 14:03:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145246⭐ Python) | [reels/reel_5546_langflow-ai-langflow](reels/reel_5546_langflow-ai-langflow) |
+| 5547 | 2026-03-04 14:56:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182190⭐ Python) | [reels/reel_5547_Significant-Gravitas-AutoGPT](reels/reel_5547_Significant-Gravitas-AutoGPT) |
