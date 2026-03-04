@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5559 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-04 |
+| #5560 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5648,3 +5648,4 @@ If you need permission, you're thinking too much.
 | 5557 | 2026-03-04 22:02:02 | [0lvin/heretic2](https://github.com/0lvin/heretic2) | ✅ full (24⭐ C) | [reels/reel_5557_0lvin-heretic2](reels/reel_5557_0lvin-heretic2) |
 | 5558 | 2026-03-04 22:49:52 | [publicsamples/Shapey](https://github.com/publicsamples/Shapey) | ✅ shallow (17⭐ Faust) | [reels/reel_5558_publicsamples-Shapey](reels/reel_5558_publicsamples-Shapey) |
 | 5559 | 2026-03-04 23:28:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112401⭐ TypeScript) | [reels/reel_5559_iptv-org-iptv](reels/reel_5559_iptv-org-iptv) |
+| 5560 | 2026-03-04 23:53:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145254⭐ Python) | [reels/reel_5560_langflow-ai-langflow](reels/reel_5560_langflow-ai-langflow) |
