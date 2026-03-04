@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5554 | [apache/royale-compiler](https://github.com/apache/royale-compiler) | Java · ⭐ 107 | 2026-03-04 |
+| #5555 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5643,3 +5643,4 @@ If you need permission, you're thinking too much.
 | 5552 | 2026-03-04 18:56:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149568⭐ Python) | [reels/reel_5552_yt-dlp-yt-dlp](reels/reel_5552_yt-dlp-yt-dlp) |
 | 5553 | 2026-03-04 19:38:49 | [Assios/chessguessr](https://github.com/Assios/chessguessr) | ✅ full (102⭐ TypeScript) | [reels/reel_5553_Assios-chessguessr](reels/reel_5553_Assios-chessguessr) |
 | 5554 | 2026-03-04 20:03:06 | [apache/royale-compiler](https://github.com/apache/royale-compiler) | ✅ full (107⭐ Java) | [reels/reel_5554_apache-royale-compiler](reels/reel_5554_apache-royale-compiler) |
+| 5555 | 2026-03-04 20:48:34 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110880⭐ Rust) | [reels/reel_5555_rust-lang-rust](reels/reel_5555_rust-lang-rust) |
