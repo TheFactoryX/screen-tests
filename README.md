@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5542 | [frappe/mail](https://github.com/frappe/mail) | Python · ⭐ 187 | 2026-03-04 |
+| #5543 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 177k | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5631,3 +5631,4 @@ If you need permission, you're thinking too much.
 | 5540 | 2026-03-04 09:23:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125672⭐ Python) | [reels/reel_5540_open-webui-open-webui](reels/reel_5540_open-webui-open-webui) |
 | 5541 | 2026-03-04 10:03:14 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (471933⭐ Markdown) | [reels/reel_5541_codecrafters-io-build-your-own-x](reels/reel_5541_codecrafters-io-build-your-own-x) |
 | 5542 | 2026-03-04 10:56:34 | [frappe/mail](https://github.com/frappe/mail) | ✅ full (187⭐ Python) | [reels/reel_5542_frappe-mail](reels/reel_5542_frappe-mail) |
+| 5543 | 2026-03-04 11:31:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177484⭐ TypeScript) | [reels/reel_5543_n8n-io-n8n](reels/reel_5543_n8n-io-n8n) |
