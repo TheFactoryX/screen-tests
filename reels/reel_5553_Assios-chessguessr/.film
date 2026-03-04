@@ -1,0 +1,24 @@
+{
+  "reel_number": 5553,
+  "recorded": "2026-03-04 19:38:49 UTC",
+  "repository": {
+    "full_name": "Assios/chessguessr",
+    "url": "https://github.com/Assios/chessguessr",
+    "clone_url": "https://github.com/Assios/chessguessr.git",
+    "stars": 102,
+    "language": "TypeScript",
+    "size_kb": 2933
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.868832
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 102 stars."
+  }
+}
