@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5532 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-03-03 |
+| #5533 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5621,3 +5621,4 @@ If you need permission, you're thinking too much.
 | 5530 | 2026-03-03 22:54:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139772⭐ Python) | [reels/reel_5530_ytdl-org-youtube-dl](reels/reel_5530_ytdl-org-youtube-dl) |
 | 5531 | 2026-03-03 23:25:35 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103554⭐ Rust) | [reels/reel_5531_tauri-apps-tauri](reels/reel_5531_tauri-apps-tauri) |
 | 5532 | 2026-03-03 23:49:51 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110823⭐ Rust) | [reels/reel_5532_rust-lang-rust](reels/reel_5532_rust-lang-rust) |
+| 5533 | 2026-03-04 01:55:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112362⭐ TypeScript) | [reels/reel_5533_iptv-org-iptv](reels/reel_5533_iptv-org-iptv) |
