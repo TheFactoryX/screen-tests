@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5534 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-04 |
+| #5535 | [nestjs/passport](https://github.com/nestjs/passport) | TypeScript · ⭐ 549 | 2026-03-04 |
 ---
 
 ## 🎭 Selection Process
@@ -5623,3 +5623,4 @@ If you need permission, you're thinking too much.
 | 5532 | 2026-03-03 23:49:51 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110823⭐ Rust) | [reels/reel_5532_rust-lang-rust](reels/reel_5532_rust-lang-rust) |
 | 5533 | 2026-03-04 01:55:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112362⭐ TypeScript) | [reels/reel_5533_iptv-org-iptv](reels/reel_5533_iptv-org-iptv) |
 | 5534 | 2026-03-04 04:07:47 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149476⭐ Python) | [reels/reel_5534_yt-dlp-yt-dlp](reels/reel_5534_yt-dlp-yt-dlp) |
+| 5535 | 2026-03-04 05:13:41 | [nestjs/passport](https://github.com/nestjs/passport) | ✅ full (549⭐ TypeScript) | [reels/reel_5535_nestjs-passport](reels/reel_5535_nestjs-passport) |
