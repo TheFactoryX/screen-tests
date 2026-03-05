@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5571 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 128k | 2026-03-05 |
+| #5572 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-05 |
 ---
 
 ## 🎭 Selection Process
@@ -5660,3 +5660,4 @@ If you need permission, you're thinking too much.
 | 5569 | 2026-03-05 10:41:02 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101889⭐ Python) | [reels/reel_5569_deepseek-ai-DeepSeek-V3](reels/reel_5569_deepseek-ai-DeepSeek-V3) |
 | 5570 | 2026-03-05 11:21:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (260220⭐ None) | [reels/reel_5570_practical-tutorials-project-based-learning](reels/reel_5570_practical-tutorials-project-based-learning) |
 | 5571 | 2026-03-05 11:54:34 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128330⭐ Python) | [reels/reel_5571_langchain-ai-langchain](reels/reel_5571_langchain-ai-langchain) |
+| 5572 | 2026-03-05 12:56:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145272⭐ Python) | [reels/reel_5572_langflow-ai-langflow](reels/reel_5572_langflow-ai-langflow) |
