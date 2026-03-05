@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5575 | [higress-group/hiclaw](https://github.com/higress-group/hiclaw) | Shell · ⭐ 296 | 2026-03-05 |
+| #5576 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-05 |
 ---
 
 ## 🎭 Selection Process
@@ -5664,3 +5664,4 @@ If you need permission, you're thinking too much.
 | 5573 | 2026-03-05 14:02:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (277242⭐ None) | [reels/reel_5573_awesome-selfhosted-awesome-selfhosted](reels/reel_5573_awesome-selfhosted-awesome-selfhosted) |
 | 5574 | 2026-03-05 15:04:44 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125842⭐ Python) | [reels/reel_5574_open-webui-open-webui](reels/reel_5574_open-webui-open-webui) |
 | 5575 | 2026-03-05 16:02:42 | [higress-group/hiclaw](https://github.com/higress-group/hiclaw) | ✅ full (296⭐ Shell) | [reels/reel_5575_higress-group-hiclaw](reels/reel_5575_higress-group-hiclaw) |
+| 5576 | 2026-03-05 18:20:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182199⭐ Python) | [reels/reel_5576_Significant-Gravitas-AutoGPT](reels/reel_5576_Significant-Gravitas-AutoGPT) |
