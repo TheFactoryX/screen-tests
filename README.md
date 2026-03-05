@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5569 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-03-05 |
+| #5570 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 260k | 2026-03-05 |
 ---
 
 ## 🎭 Selection Process
@@ -5658,3 +5658,4 @@ If you need permission, you're thinking too much.
 | 5567 | 2026-03-05 09:00:07 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (472370⭐ Markdown) | [reels/reel_5567_codecrafters-io-build-your-own-x](reels/reel_5567_codecrafters-io-build-your-own-x) |
 | 5568 | 2026-03-05 09:56:30 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177642⭐ TypeScript) | [reels/reel_5568_n8n-io-n8n](reels/reel_5568_n8n-io-n8n) |
 | 5569 | 2026-03-05 10:41:02 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101889⭐ Python) | [reels/reel_5569_deepseek-ai-DeepSeek-V3](reels/reel_5569_deepseek-ai-DeepSeek-V3) |
+| 5570 | 2026-03-05 11:21:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (260220⭐ None) | [reels/reel_5570_practical-tutorials-project-based-learning](reels/reel_5570_practical-tutorials-project-based-learning) |
