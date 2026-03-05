@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5580 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-05 |
+| #5581 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-03-05 |
 ---
 
 ## 🎭 Selection Process
@@ -5669,3 +5669,4 @@ If you need permission, you're thinking too much.
 | 5578 | 2026-03-05 20:21:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182199⭐ Python) | [reels/reel_5578_Significant-Gravitas-AutoGPT](reels/reel_5578_Significant-Gravitas-AutoGPT) |
 | 5579 | 2026-03-05 21:00:39 | [ZLKong/Awesome-Collection-Token-Reduction](https://github.com/ZLKong/Awesome-Collection-Token-Reduction) | ✅ full (340⭐ None) | [reels/reel_5579_ZLKong-Awesome-Collection-Token-Reduction](reels/reel_5579_ZLKong-Awesome-Collection-Token-Reduction) |
 | 5580 | 2026-03-05 21:49:57 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149749⭐ Python) | [reels/reel_5580_yt-dlp-yt-dlp](reels/reel_5580_yt-dlp-yt-dlp) |
+| 5581 | 2026-03-05 22:29:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110920⭐ Rust) | [reels/reel_5581_rust-lang-rust](reels/reel_5581_rust-lang-rust) |
