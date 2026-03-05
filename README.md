@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5573 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 277k | 2026-03-05 |
+| #5574 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-03-05 |
 ---
 
 ## 🎭 Selection Process
@@ -5662,3 +5662,4 @@ If you need permission, you're thinking too much.
 | 5571 | 2026-03-05 11:54:34 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128330⭐ Python) | [reels/reel_5571_langchain-ai-langchain](reels/reel_5571_langchain-ai-langchain) |
 | 5572 | 2026-03-05 12:56:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145272⭐ Python) | [reels/reel_5572_langflow-ai-langflow](reels/reel_5572_langflow-ai-langflow) |
 | 5573 | 2026-03-05 14:02:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (277242⭐ None) | [reels/reel_5573_awesome-selfhosted-awesome-selfhosted](reels/reel_5573_awesome-selfhosted-awesome-selfhosted) |
+| 5574 | 2026-03-05 15:04:44 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125842⭐ Python) | [reels/reel_5574_open-webui-open-webui](reels/reel_5574_open-webui-open-webui) |
