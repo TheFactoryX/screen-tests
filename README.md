@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5565 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 177k | 2026-03-05 |
+| #5566 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 125k | 2026-03-05 |
 ---
 
 ## 🎭 Selection Process
@@ -5654,3 +5654,4 @@ If you need permission, you're thinking too much.
 | 5563 | 2026-03-05 05:31:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177615⭐ TypeScript) | [reels/reel_5563_n8n-io-n8n](reels/reel_5563_n8n-io-n8n) |
 | 5564 | 2026-03-05 06:30:34 | [i-novus-llc/n2o-framework](https://github.com/i-novus-llc/n2o-framework) | ✅ shallow (50⭐ Java) | [reels/reel_5564_i-novus-llc-n2o-framework](reels/reel_5564_i-novus-llc-n2o-framework) |
 | 5565 | 2026-03-05 07:29:34 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177631⭐ TypeScript) | [reels/reel_5565_n8n-io-n8n](reels/reel_5565_n8n-io-n8n) |
+| 5566 | 2026-03-05 08:01:55 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (125793⭐ Python) | [reels/reel_5566_open-webui-open-webui](reels/reel_5566_open-webui-open-webui) |
