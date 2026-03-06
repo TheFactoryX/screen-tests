@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5586 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 149k | 2026-03-06 |
+| #5587 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-06 |
 ---
 
 ## 🎭 Selection Process
@@ -5675,3 +5675,4 @@ If you need permission, you're thinking too much.
 | 5584 | 2026-03-06 03:29:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110933⭐ Rust) | [reels/reel_5584_rust-lang-rust](reels/reel_5584_rust-lang-rust) |
 | 5585 | 2026-03-06 04:57:24 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139802⭐ Python) | [reels/reel_5585_ytdl-org-youtube-dl](reels/reel_5585_ytdl-org-youtube-dl) |
 | 5586 | 2026-03-06 05:49:10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149816⭐ Python) | [reels/reel_5586_yt-dlp-yt-dlp](reels/reel_5586_yt-dlp-yt-dlp) |
+| 5587 | 2026-03-06 06:44:41 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182203⭐ Python) | [reels/reel_5587_Significant-Gravitas-AutoGPT](reels/reel_5587_Significant-Gravitas-AutoGPT) |
