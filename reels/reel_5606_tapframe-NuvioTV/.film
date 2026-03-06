@@ -1,0 +1,24 @@
+{
+  "reel_number": 5606,
+  "recorded": "2026-03-06 20:29:27 UTC",
+  "repository": {
+    "full_name": "tapframe/NuvioTV",
+    "url": "https://github.com/tapframe/NuvioTV",
+    "clone_url": "https://github.com/tapframe/NuvioTV.git",
+    "stars": 518,
+    "language": "Kotlin",
+    "size_kb": 55288
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 53,
+    "duration_seconds": 2.422684
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 518 stars."
+  }
+}

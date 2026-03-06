@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5605 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-06 |
+| #5606 | [tapframe/NuvioTV](https://github.com/tapframe/NuvioTV) | Kotlin · ⭐ 518 | 2026-03-06 |
 ---
 
 ## 🎭 Selection Process
@@ -5694,3 +5694,4 @@ If you need permission, you're thinking too much.
 | 5603 | 2026-03-06 18:04:55 | [Ludovicus-Maior/WoW-Pro-Guides](https://github.com/Ludovicus-Maior/WoW-Pro-Guides) | ✅ full (141⭐ Lua) | [reels/reel_5603_Ludovicus-Maior-WoW-Pro-Guides](reels/reel_5603_Ludovicus-Maior-WoW-Pro-Guides) |
 | 5604 | 2026-03-06 19:02:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128471⭐ Python) | [reels/reel_5604_langchain-ai-langchain](reels/reel_5604_langchain-ai-langchain) |
 | 5605 | 2026-03-06 19:47:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112489⭐ TypeScript) | [reels/reel_5605_iptv-org-iptv](reels/reel_5605_iptv-org-iptv) |
+| 5606 | 2026-03-06 20:29:27 | [tapframe/NuvioTV](https://github.com/tapframe/NuvioTV) | ✅ full (518⭐ Kotlin) | [reels/reel_5606_tapframe-NuvioTV](reels/reel_5606_tapframe-NuvioTV) |
