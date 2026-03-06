@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5606 | [tapframe/NuvioTV](https://github.com/tapframe/NuvioTV) | Kotlin · ⭐ 518 | 2026-03-06 |
+| #5607 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-06 |
 ---
 
 ## 🎭 Selection Process
@@ -5695,3 +5695,4 @@ If you need permission, you're thinking too much.
 | 5604 | 2026-03-06 19:02:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128471⭐ Python) | [reels/reel_5604_langchain-ai-langchain](reels/reel_5604_langchain-ai-langchain) |
 | 5605 | 2026-03-06 19:47:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112489⭐ TypeScript) | [reels/reel_5605_iptv-org-iptv](reels/reel_5605_iptv-org-iptv) |
 | 5606 | 2026-03-06 20:29:27 | [tapframe/NuvioTV](https://github.com/tapframe/NuvioTV) | ✅ full (518⭐ Kotlin) | [reels/reel_5606_tapframe-NuvioTV](reels/reel_5606_tapframe-NuvioTV) |
+| 5607 | 2026-03-06 20:57:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182225⭐ Python) | [reels/reel_5607_Significant-Gravitas-AutoGPT](reels/reel_5607_Significant-Gravitas-AutoGPT) |
