@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5592 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-06 |
+| #5593 | [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) | Python · ⭐ 382 | 2026-03-06 |
 ---
 
 ## 🎭 Selection Process
@@ -5681,3 +5681,4 @@ If you need permission, you're thinking too much.
 | 5590 | 2026-03-06 08:50:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110946⭐ Rust) | [reels/reel_5590_rust-lang-rust](reels/reel_5590_rust-lang-rust) |
 | 5591 | 2026-03-06 09:36:09 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97675⭐ TypeScript) | [reels/reel_5591_ant-design-ant-design](reels/reel_5591_ant-design-ant-design) |
 | 5592 | 2026-03-06 10:05:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182214⭐ Python) | [reels/reel_5592_Significant-Gravitas-AutoGPT](reels/reel_5592_Significant-Gravitas-AutoGPT) |
+| 5593 | 2026-03-06 10:55:31 | [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) | ✅ full (382⭐ Python) | [reels/reel_5593_thebrowsercompany-swift-build](reels/reel_5593_thebrowsercompany-swift-build) |
