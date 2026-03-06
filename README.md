@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5602 | [Adityakishore0/ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI) | TypeScript · ⭐ 272 | 2026-03-06 |
+| #5603 | [Ludovicus-Maior/WoW-Pro-Guides](https://github.com/Ludovicus-Maior/WoW-Pro-Guides) | Lua · ⭐ 141 | 2026-03-06 |
 ---
 
 ## 🎭 Selection Process
@@ -5691,3 +5691,4 @@ If you need permission, you're thinking too much.
 | 5600 | 2026-03-06 15:59:24 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (472838⭐ Markdown) | [reels/reel_5600_codecrafters-io-build-your-own-x](reels/reel_5600_codecrafters-io-build-your-own-x) |
 | 5601 | 2026-03-06 16:54:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182219⭐ Python) | [reels/reel_5601_Significant-Gravitas-AutoGPT](reels/reel_5601_Significant-Gravitas-AutoGPT) |
 | 5602 | 2026-03-06 17:34:08 | [Adityakishore0/ScrollX-UI](https://github.com/Adityakishore0/ScrollX-UI) | ✅ shallow (272⭐ TypeScript) | [reels/reel_5602_Adityakishore0-ScrollX-UI](reels/reel_5602_Adityakishore0-ScrollX-UI) |
+| 5603 | 2026-03-06 18:04:55 | [Ludovicus-Maior/WoW-Pro-Guides](https://github.com/Ludovicus-Maior/WoW-Pro-Guides) | ✅ full (141⭐ Lua) | [reels/reel_5603_Ludovicus-Maior-WoW-Pro-Guides](reels/reel_5603_Ludovicus-Maior-WoW-Pro-Guides) |
