@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5609 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-06 |
+| #5610 | [artis-mcrt/artis](https://github.com/artis-mcrt/artis) | C++ · ⭐ 21 | 2026-03-06 |
 ---
 
 ## 🎭 Selection Process
@@ -5698,3 +5698,4 @@ If you need permission, you're thinking too much.
 | 5607 | 2026-03-06 20:57:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182225⭐ Python) | [reels/reel_5607_Significant-Gravitas-AutoGPT](reels/reel_5607_Significant-Gravitas-AutoGPT) |
 | 5608 | 2026-03-06 21:33:39 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (96695⭐ TypeScript) | [reels/reel_5608_google-gemini-gemini-cli](reels/reel_5608_google-gemini-gemini-cli) |
 | 5609 | 2026-03-06 21:57:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182227⭐ Python) | [reels/reel_5609_Significant-Gravitas-AutoGPT](reels/reel_5609_Significant-Gravitas-AutoGPT) |
+| 5610 | 2026-03-06 22:34:33 | [artis-mcrt/artis](https://github.com/artis-mcrt/artis) | ✅ full (21⭐ C++) | [reels/reel_5610_artis-mcrt-artis](reels/reel_5610_artis-mcrt-artis) |
