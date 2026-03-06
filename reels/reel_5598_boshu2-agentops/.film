@@ -1,0 +1,24 @@
+{
+  "reel_number": 5598,
+  "recorded": "2026-03-06 14:36:22 UTC",
+  "repository": {
+    "full_name": "boshu2/agentops",
+    "url": "https://github.com/boshu2/agentops",
+    "clone_url": "https://github.com/boshu2/agentops.git",
+    "stars": 193,
+    "language": "Go",
+    "size_kb": 36427
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 1.907886
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 193 stars."
+  }
+}
