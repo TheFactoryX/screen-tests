@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5611 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-06 |
+| #5612 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 177k | 2026-03-06 |
 ---
 
 ## 🎭 Selection Process
@@ -5700,3 +5700,4 @@ If you need permission, you're thinking too much.
 | 5609 | 2026-03-06 21:57:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182227⭐ Python) | [reels/reel_5609_Significant-Gravitas-AutoGPT](reels/reel_5609_Significant-Gravitas-AutoGPT) |
 | 5610 | 2026-03-06 22:34:33 | [artis-mcrt/artis](https://github.com/artis-mcrt/artis) | ✅ full (21⭐ C++) | [reels/reel_5610_artis-mcrt-artis](reels/reel_5610_artis-mcrt-artis) |
 | 5611 | 2026-03-06 23:01:07 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182227⭐ Python) | [reels/reel_5611_Significant-Gravitas-AutoGPT](reels/reel_5611_Significant-Gravitas-AutoGPT) |
+| 5612 | 2026-03-06 23:41:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177922⭐ TypeScript) | [reels/reel_5612_n8n-io-n8n](reels/reel_5612_n8n-io-n8n) |
