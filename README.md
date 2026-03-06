@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5596 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-06 |
+| #5597 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 96k | 2026-03-06 |
 ---
 
 ## 🎭 Selection Process
@@ -5685,3 +5685,4 @@ If you need permission, you're thinking too much.
 | 5594 | 2026-03-06 11:27:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (149857⭐ Python) | [reels/reel_5594_yt-dlp-yt-dlp](reels/reel_5594_yt-dlp-yt-dlp) |
 | 5595 | 2026-03-06 11:52:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182214⭐ Python) | [reels/reel_5595_Significant-Gravitas-AutoGPT](reels/reel_5595_Significant-Gravitas-AutoGPT) |
 | 5596 | 2026-03-06 12:52:36 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145310⭐ Python) | [reels/reel_5596_langflow-ai-langflow](reels/reel_5596_langflow-ai-langflow) |
+| 5597 | 2026-03-06 13:54:18 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (96919⭐ C++) | [reels/reel_5597_ggml-org-llama.cpp](reels/reel_5597_ggml-org-llama.cpp) |
