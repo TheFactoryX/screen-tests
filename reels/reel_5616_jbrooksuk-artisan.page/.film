@@ -1,0 +1,24 @@
+{
+  "reel_number": 5616,
+  "recorded": "2026-03-07 05:08:01 UTC",
+  "repository": {
+    "full_name": "jbrooksuk/artisan.page",
+    "url": "https://github.com/jbrooksuk/artisan.page",
+    "clone_url": "https://github.com/jbrooksuk/artisan.page.git",
+    "stars": 403,
+    "language": "Vue",
+    "size_kb": 4055
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.994986
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Vue",
+    "director_note": "A Vue repository. 403 stars."
+  }
+}
