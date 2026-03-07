@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5632 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 150k | 2026-03-07 |
+| #5633 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 177k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5721,3 +5721,4 @@ If you need permission, you're thinking too much.
 | 5630 | 2026-03-07 12:42:43 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (96771⭐ TypeScript) | [reels/reel_5630_google-gemini-gemini-cli](reels/reel_5630_google-gemini-gemini-cli) |
 | 5631 | 2026-03-07 13:28:00 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128536⭐ Python) | [reels/reel_5631_langchain-ai-langchain](reels/reel_5631_langchain-ai-langchain) |
 | 5632 | 2026-03-07 13:55:24 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150007⭐ Python) | [reels/reel_5632_yt-dlp-yt-dlp](reels/reel_5632_yt-dlp-yt-dlp) |
+| 5633 | 2026-03-07 14:22:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177985⭐ TypeScript) | [reels/reel_5633_n8n-io-n8n](reels/reel_5633_n8n-io-n8n) |
