@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5622 | [constellation-daq/Constellation](https://github.com/constellation-daq/Constellation) | C++ · ⭐ 52 | 2026-03-07 |
+| #5623 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5711,3 +5711,4 @@ If you need permission, you're thinking too much.
 | 5620 | 2026-03-07 07:47:44 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (107882⭐ None) | [reels/reel_5620_Hack-with-Github-Awesome-Hacking](reels/reel_5620_Hack-with-Github-Awesome-Hacking) |
 | 5621 | 2026-03-07 08:29:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112510⭐ TypeScript) | [reels/reel_5621_iptv-org-iptv](reels/reel_5621_iptv-org-iptv) |
 | 5622 | 2026-03-07 08:56:17 | [constellation-daq/Constellation](https://github.com/constellation-daq/Constellation) | ✅ full (52⭐ C++) | [reels/reel_5622_constellation-daq-Constellation](reels/reel_5622_constellation-daq-Constellation) |
+| 5623 | 2026-03-07 09:30:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126048⭐ Python) | [reels/reel_5623_open-webui-open-webui](reels/reel_5623_open-webui-open-webui) |
