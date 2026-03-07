@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5641 | [doceazedo/sprinkles](https://github.com/doceazedo/sprinkles) | Rust · ⭐ 103 | 2026-03-07 |
+| #5642 | [onomojo/i18n-country-translations](https://github.com/onomojo/i18n-country-translations) | Ruby · ⭐ 164 | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5730,3 +5730,4 @@ If you need permission, you're thinking too much.
 | 5639 | 2026-03-07 16:57:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (473126⭐ Markdown) | [reels/reel_5639_codecrafters-io-build-your-own-x](reels/reel_5639_codecrafters-io-build-your-own-x) |
 | 5640 | 2026-03-07 17:26:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126082⭐ Python) | [reels/reel_5640_open-webui-open-webui](reels/reel_5640_open-webui-open-webui) |
 | 5641 | 2026-03-07 17:46:17 | [doceazedo/sprinkles](https://github.com/doceazedo/sprinkles) | ✅ full (103⭐ Rust) | [reels/reel_5641_doceazedo-sprinkles](reels/reel_5641_doceazedo-sprinkles) |
+| 5642 | 2026-03-07 18:31:19 | [onomojo/i18n-country-translations](https://github.com/onomojo/i18n-country-translations) | ✅ full (164⭐ Ruby) | [reels/reel_5642_onomojo-i18n-country-translations](reels/reel_5642_onomojo-i18n-country-translations) |

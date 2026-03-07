@@ -1,0 +1,24 @@
+{
+  "reel_number": 5642,
+  "recorded": "2026-03-07 18:31:19 UTC",
+  "repository": {
+    "full_name": "onomojo/i18n-country-translations",
+    "url": "https://github.com/onomojo/i18n-country-translations",
+    "clone_url": "https://github.com/onomojo/i18n-country-translations.git",
+    "stars": 164,
+    "language": "Ruby",
+    "size_kb": 1959
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.3852
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 164 stars."
+  }
+}
