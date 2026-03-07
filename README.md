@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5614 | [saugatp/DynamicOasis](https://github.com/saugatp/DynamicOasis) | Kotlin · ⭐ 11 | 2026-03-07 |
+| #5615 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5703,3 +5703,4 @@ If you need permission, you're thinking too much.
 | 5612 | 2026-03-06 23:41:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177922⭐ TypeScript) | [reels/reel_5612_n8n-io-n8n](reels/reel_5612_n8n-io-n8n) |
 | 5613 | 2026-03-06 23:57:51 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (260390⭐ None) | [reels/reel_5613_practical-tutorials-project-based-learning](reels/reel_5613_practical-tutorials-project-based-learning) |
 | 5614 | 2026-03-07 02:26:49 | [saugatp/DynamicOasis](https://github.com/saugatp/DynamicOasis) | ✅ full (11⭐ Kotlin) | [reels/reel_5614_saugatp-DynamicOasis](reels/reel_5614_saugatp-DynamicOasis) |
+| 5615 | 2026-03-07 04:11:00 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107879⭐ TypeScript) | [reels/reel_5615_shadcn-ui-ui](reels/reel_5615_shadcn-ui-ui) |
