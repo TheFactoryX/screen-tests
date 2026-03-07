@@ -1,0 +1,24 @@
+{
+  "reel_number": 5624,
+  "recorded": "2026-03-07 09:52:25 UTC",
+  "repository": {
+    "full_name": "edward-playground/aidefense-framework",
+    "url": "https://github.com/edward-playground/aidefense-framework",
+    "clone_url": "https://github.com/edward-playground/aidefense-framework.git",
+    "stars": 136,
+    "language": "JavaScript",
+    "size_kb": 4246
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.515553
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 136 stars."
+  }
+}
