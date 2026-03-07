@@ -1,0 +1,24 @@
+{
+  "reel_number": 5654,
+  "recorded": "2026-03-07 23:44:22 UTC",
+  "repository": {
+    "full_name": "twack/Quirky-Connect",
+    "url": "https://github.com/twack/Quirky-Connect",
+    "clone_url": "https://github.com/twack/Quirky-Connect.git",
+    "stars": 14,
+    "language": "Groovy",
+    "size_kb": 656
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.200218
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Groovy",
+    "director_note": "A Groovy repository. 14 stars."
+  }
+}
