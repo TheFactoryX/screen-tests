@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5620 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 107k | 2026-03-07 |
+| #5621 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5709,3 +5709,4 @@ If you need permission, you're thinking too much.
 | 5618 | 2026-03-07 06:38:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128502⭐ Python) | [reels/reel_5618_langchain-ai-langchain](reels/reel_5618_langchain-ai-langchain) |
 | 5619 | 2026-03-07 07:16:34 | [demos-europe/demosplan-core](https://github.com/demos-europe/demosplan-core) | ✅ full (11⭐ PHP) | [reels/reel_5619_demos-europe-demosplan-core](reels/reel_5619_demos-europe-demosplan-core) |
 | 5620 | 2026-03-07 07:47:44 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (107882⭐ None) | [reels/reel_5620_Hack-with-Github-Awesome-Hacking](reels/reel_5620_Hack-with-Github-Awesome-Hacking) |
+| 5621 | 2026-03-07 08:29:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112510⭐ TypeScript) | [reels/reel_5621_iptv-org-iptv](reels/reel_5621_iptv-org-iptv) |
