@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5613 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 260k | 2026-03-06 |
+| #5614 | [saugatp/DynamicOasis](https://github.com/saugatp/DynamicOasis) | Kotlin · ⭐ 11 | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5702,3 +5702,4 @@ If you need permission, you're thinking too much.
 | 5611 | 2026-03-06 23:01:07 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182227⭐ Python) | [reels/reel_5611_Significant-Gravitas-AutoGPT](reels/reel_5611_Significant-Gravitas-AutoGPT) |
 | 5612 | 2026-03-06 23:41:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177922⭐ TypeScript) | [reels/reel_5612_n8n-io-n8n](reels/reel_5612_n8n-io-n8n) |
 | 5613 | 2026-03-06 23:57:51 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (260390⭐ None) | [reels/reel_5613_practical-tutorials-project-based-learning](reels/reel_5613_practical-tutorials-project-based-learning) |
+| 5614 | 2026-03-07 02:26:49 | [saugatp/DynamicOasis](https://github.com/saugatp/DynamicOasis) | ✅ full (11⭐ Kotlin) | [reels/reel_5614_saugatp-DynamicOasis](reels/reel_5614_saugatp-DynamicOasis) |
