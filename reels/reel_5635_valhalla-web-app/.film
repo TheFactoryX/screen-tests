@@ -1,0 +1,24 @@
+{
+  "reel_number": 5635,
+  "recorded": "2026-03-07 15:20:54 UTC",
+  "repository": {
+    "full_name": "valhalla/web-app",
+    "url": "https://github.com/valhalla/web-app",
+    "clone_url": "https://github.com/valhalla/web-app.git",
+    "stars": 235,
+    "language": "TypeScript",
+    "size_kb": 1175
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.48418
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 235 stars."
+  }
+}
