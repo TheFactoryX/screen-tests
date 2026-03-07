@@ -1,0 +1,24 @@
+{
+  "reel_number": 5645,
+  "recorded": "2026-03-07 19:52:36 UTC",
+  "repository": {
+    "full_name": "TaurusTLS-Developers/TaurusTLS",
+    "url": "https://github.com/TaurusTLS-Developers/TaurusTLS",
+    "clone_url": "https://github.com/TaurusTLS-Developers/TaurusTLS.git",
+    "stars": 109,
+    "language": "Pascal",
+    "size_kb": 129954
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 126,
+    "duration_seconds": 1.049259
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Pascal",
+    "director_note": "A Pascal repository. 109 stars."
+  }
+}
