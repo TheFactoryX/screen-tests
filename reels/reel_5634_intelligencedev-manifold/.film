@@ -1,0 +1,24 @@
+{
+  "reel_number": 5634,
+  "recorded": "2026-03-07 14:48:59 UTC",
+  "repository": {
+    "full_name": "intelligencedev/manifold",
+    "url": "https://github.com/intelligencedev/manifold",
+    "clone_url": "https://github.com/intelligencedev/manifold.git",
+    "stars": 483,
+    "language": "Go",
+    "size_kb": 117772
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 115,
+    "duration_seconds": 0.825475
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 483 stars."
+  }
+}
