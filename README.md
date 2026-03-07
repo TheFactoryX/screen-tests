@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5628 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 404k | 2026-03-07 |
+| #5629 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 96k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5717,3 +5717,4 @@ If you need permission, you're thinking too much.
 | 5626 | 2026-03-07 10:48:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110994⭐ Rust) | [reels/reel_5626_rust-lang-rust](reels/reel_5626_rust-lang-rust) |
 | 5627 | 2026-03-07 11:18:32 | [chengenzhao/fxcity](https://github.com/chengenzhao/fxcity) | ✅ full (62⭐ Java) | [reels/reel_5627_chengenzhao-fxcity](reels/reel_5627_chengenzhao-fxcity) |
 | 5628 | 2026-03-07 11:41:59 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (404924⭐ Python) | [reels/reel_5628_public-apis-public-apis](reels/reel_5628_public-apis-public-apis) |
+| 5629 | 2026-03-07 11:54:01 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (96769⭐ TypeScript) | [reels/reel_5629_google-gemini-gemini-cli](reels/reel_5629_google-gemini-gemini-cli) |

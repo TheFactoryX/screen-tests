@@ -1,0 +1,24 @@
+{
+  "reel_number": 5629,
+  "recorded": "2026-03-07 11:54:01 UTC",
+  "repository": {
+    "full_name": "google-gemini/gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "clone_url": "https://github.com/google-gemini/gemini-cli.git",
+    "stars": 96769,
+    "language": "TypeScript",
+    "size_kb": 52924
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 51,
+    "duration_seconds": 4.811979
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 96769 stars."
+  }
+}
