@@ -1,0 +1,24 @@
+{
+  "reel_number": 5646,
+  "recorded": "2026-03-07 20:23:29 UTC",
+  "repository": {
+    "full_name": "naver/fixture-monkey",
+    "url": "https://github.com/naver/fixture-monkey",
+    "clone_url": "https://github.com/naver/fixture-monkey.git",
+    "stars": 690,
+    "language": "Java",
+    "size_kb": 52885
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 51,
+    "duration_seconds": 4.601444
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 690 stars."
+  }
+}
