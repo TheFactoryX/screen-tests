@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5649 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 107k | 2026-03-07 |
+| #5650 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5738,3 +5738,4 @@ If you need permission, you're thinking too much.
 | 5647 | 2026-03-07 20:47:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112540⭐ TypeScript) | [reels/reel_5647_iptv-org-iptv](reels/reel_5647_iptv-org-iptv) |
 | 5648 | 2026-03-07 21:19:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126102⭐ Python) | [reels/reel_5648_open-webui-open-webui](reels/reel_5648_open-webui-open-webui) |
 | 5649 | 2026-03-07 21:42:49 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (107913⭐ None) | [reels/reel_5649_Hack-with-Github-Awesome-Hacking](reels/reel_5649_Hack-with-Github-Awesome-Hacking) |
+| 5650 | 2026-03-07 21:54:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145339⭐ Python) | [reels/reel_5650_langflow-ai-langflow](reels/reel_5650_langflow-ai-langflow) |
