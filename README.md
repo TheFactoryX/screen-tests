@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5626 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-03-07 |
+| #5627 | [chengenzhao/fxcity](https://github.com/chengenzhao/fxcity) | Java · ⭐ 62 | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5715,3 +5715,4 @@ If you need permission, you're thinking too much.
 | 5624 | 2026-03-07 09:52:25 | [edward-playground/aidefense-framework](https://github.com/edward-playground/aidefense-framework) | ✅ full (136⭐ JavaScript) | [reels/reel_5624_edward-playground-aidefense-framework](reels/reel_5624_edward-playground-aidefense-framework) |
 | 5625 | 2026-03-07 10:21:48 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107899⭐ TypeScript) | [reels/reel_5625_shadcn-ui-ui](reels/reel_5625_shadcn-ui-ui) |
 | 5626 | 2026-03-07 10:48:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110994⭐ Rust) | [reels/reel_5626_rust-lang-rust](reels/reel_5626_rust-lang-rust) |
+| 5627 | 2026-03-07 11:18:32 | [chengenzhao/fxcity](https://github.com/chengenzhao/fxcity) | ✅ full (62⭐ Java) | [reels/reel_5627_chengenzhao-fxcity](reels/reel_5627_chengenzhao-fxcity) |

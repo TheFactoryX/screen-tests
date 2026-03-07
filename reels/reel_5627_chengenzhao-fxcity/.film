@@ -1,0 +1,24 @@
+{
+  "reel_number": 5627,
+  "recorded": "2026-03-07 11:18:32 UTC",
+  "repository": {
+    "full_name": "chengenzhao/fxcity",
+    "url": "https://github.com/chengenzhao/fxcity",
+    "clone_url": "https://github.com/chengenzhao/fxcity.git",
+    "stars": 62,
+    "language": "Java",
+    "size_kb": 1658
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.305437
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 62 stars."
+  }
+}
