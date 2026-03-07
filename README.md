@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5625 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 107k | 2026-03-07 |
+| #5626 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 110k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5714,3 +5714,4 @@ If you need permission, you're thinking too much.
 | 5623 | 2026-03-07 09:30:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126048⭐ Python) | [reels/reel_5623_open-webui-open-webui](reels/reel_5623_open-webui-open-webui) |
 | 5624 | 2026-03-07 09:52:25 | [edward-playground/aidefense-framework](https://github.com/edward-playground/aidefense-framework) | ✅ full (136⭐ JavaScript) | [reels/reel_5624_edward-playground-aidefense-framework](reels/reel_5624_edward-playground-aidefense-framework) |
 | 5625 | 2026-03-07 10:21:48 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107899⭐ TypeScript) | [reels/reel_5625_shadcn-ui-ui](reels/reel_5625_shadcn-ui-ui) |
+| 5626 | 2026-03-07 10:48:11 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (110994⭐ Rust) | [reels/reel_5626_rust-lang-rust](reels/reel_5626_rust-lang-rust) |
