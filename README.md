@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5637 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-07 |
+| #5638 | [OHF-Voice/linux-voice-assistant](https://github.com/OHF-Voice/linux-voice-assistant) | Python · ⭐ 302 | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5726,3 +5726,4 @@ If you need permission, you're thinking too much.
 | 5635 | 2026-03-07 15:20:54 | [valhalla/web-app](https://github.com/valhalla/web-app) | ✅ full (235⭐ TypeScript) | [reels/reel_5635_valhalla-web-app](reels/reel_5635_valhalla-web-app) |
 | 5636 | 2026-03-07 15:44:56 | [scott-griffiths/bitstring](https://github.com/scott-griffiths/bitstring) | ✅ full (445⭐ Python) | [reels/reel_5636_scott-griffiths-bitstring](reels/reel_5636_scott-griffiths-bitstring) |
 | 5637 | 2026-03-07 15:58:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112528⭐ TypeScript) | [reels/reel_5637_iptv-org-iptv](reels/reel_5637_iptv-org-iptv) |
+| 5638 | 2026-03-07 16:35:41 | [OHF-Voice/linux-voice-assistant](https://github.com/OHF-Voice/linux-voice-assistant) | ✅ full (302⭐ Python) | [reels/reel_5638_OHF-Voice-linux-voice-assistant](reels/reel_5638_OHF-Voice-linux-voice-assistant) |

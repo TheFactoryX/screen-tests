@@ -1,0 +1,24 @@
+{
+  "reel_number": 5638,
+  "recorded": "2026-03-07 16:35:41 UTC",
+  "repository": {
+    "full_name": "OHF-Voice/linux-voice-assistant",
+    "url": "https://github.com/OHF-Voice/linux-voice-assistant",
+    "clone_url": "https://github.com/OHF-Voice/linux-voice-assistant.git",
+    "stars": 302,
+    "language": "Python",
+    "size_kb": 9370
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.599316
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 302 stars."
+  }
+}
