@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5646 | [naver/fixture-monkey](https://github.com/naver/fixture-monkey) | Java · ⭐ 690 | 2026-03-07 |
+| #5647 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5735,3 +5735,4 @@ If you need permission, you're thinking too much.
 | 5644 | 2026-03-07 19:32:42 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178015⭐ TypeScript) | [reels/reel_5644_n8n-io-n8n](reels/reel_5644_n8n-io-n8n) |
 | 5645 | 2026-03-07 19:52:36 | [TaurusTLS-Developers/TaurusTLS](https://github.com/TaurusTLS-Developers/TaurusTLS) | ✅ shallow (109⭐ Pascal) | [reels/reel_5645_TaurusTLS-Developers-TaurusTLS](reels/reel_5645_TaurusTLS-Developers-TaurusTLS) |
 | 5646 | 2026-03-07 20:23:29 | [naver/fixture-monkey](https://github.com/naver/fixture-monkey) | ✅ full (690⭐ Java) | [reels/reel_5646_naver-fixture-monkey](reels/reel_5646_naver-fixture-monkey) |
+| 5647 | 2026-03-07 20:47:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112540⭐ TypeScript) | [reels/reel_5647_iptv-org-iptv](reels/reel_5647_iptv-org-iptv) |
