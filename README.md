@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5616 | [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) | Vue · ⭐ 403 | 2026-03-07 |
+| #5617 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5705,3 +5705,4 @@ If you need permission, you're thinking too much.
 | 5614 | 2026-03-07 02:26:49 | [saugatp/DynamicOasis](https://github.com/saugatp/DynamicOasis) | ✅ full (11⭐ Kotlin) | [reels/reel_5614_saugatp-DynamicOasis](reels/reel_5614_saugatp-DynamicOasis) |
 | 5615 | 2026-03-07 04:11:00 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (107879⭐ TypeScript) | [reels/reel_5615_shadcn-ui-ui](reels/reel_5615_shadcn-ui-ui) |
 | 5616 | 2026-03-07 05:08:01 | [jbrooksuk/artisan.page](https://github.com/jbrooksuk/artisan.page) | ✅ full (403⭐ Vue) | [reels/reel_5616_jbrooksuk-artisan.page](reels/reel_5616_jbrooksuk-artisan.page) |
+| 5617 | 2026-03-07 05:51:21 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101923⭐ Python) | [reels/reel_5617_deepseek-ai-DeepSeek-V3](reels/reel_5617_deepseek-ai-DeepSeek-V3) |
