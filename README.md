@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5654 | [twack/Quirky-Connect](https://github.com/twack/Quirky-Connect) | Groovy · ⭐ 14 | 2026-03-07 |
+| #5655 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 278k | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5743,3 +5743,4 @@ If you need permission, you're thinking too much.
 | 5652 | 2026-03-07 22:47:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182250⭐ Python) | [reels/reel_5652_Significant-Gravitas-AutoGPT](reels/reel_5652_Significant-Gravitas-AutoGPT) |
 | 5653 | 2026-03-07 23:20:38 | [opensearch-project/opensearch-java](https://github.com/opensearch-project/opensearch-java) | ✅ full (157⭐ Java) | [reels/reel_5653_opensearch-project-opensearch-java](reels/reel_5653_opensearch-project-opensearch-java) |
 | 5654 | 2026-03-07 23:44:22 | [twack/Quirky-Connect](https://github.com/twack/Quirky-Connect) | ✅ full (14⭐ Groovy) | [reels/reel_5654_twack-Quirky-Connect](reels/reel_5654_twack-Quirky-Connect) |
+| 5655 | 2026-03-07 23:56:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278366⭐ None) | [reels/reel_5655_awesome-selfhosted-awesome-selfhosted](reels/reel_5655_awesome-selfhosted-awesome-selfhosted) |
