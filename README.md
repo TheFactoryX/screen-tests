@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5635 | [valhalla/web-app](https://github.com/valhalla/web-app) | TypeScript · ⭐ 235 | 2026-03-07 |
+| #5636 | [scott-griffiths/bitstring](https://github.com/scott-griffiths/bitstring) | Python · ⭐ 445 | 2026-03-07 |
 ---
 
 ## 🎭 Selection Process
@@ -5724,3 +5724,4 @@ If you need permission, you're thinking too much.
 | 5633 | 2026-03-07 14:22:45 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (177985⭐ TypeScript) | [reels/reel_5633_n8n-io-n8n](reels/reel_5633_n8n-io-n8n) |
 | 5634 | 2026-03-07 14:48:59 | [intelligencedev/manifold](https://github.com/intelligencedev/manifold) | ✅ shallow (483⭐ Go) | [reels/reel_5634_intelligencedev-manifold](reels/reel_5634_intelligencedev-manifold) |
 | 5635 | 2026-03-07 15:20:54 | [valhalla/web-app](https://github.com/valhalla/web-app) | ✅ full (235⭐ TypeScript) | [reels/reel_5635_valhalla-web-app](reels/reel_5635_valhalla-web-app) |
+| 5636 | 2026-03-07 15:44:56 | [scott-griffiths/bitstring](https://github.com/scott-griffiths/bitstring) | ✅ full (445⭐ Python) | [reels/reel_5636_scott-griffiths-bitstring](reels/reel_5636_scott-griffiths-bitstring) |
