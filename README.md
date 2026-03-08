@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5689 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 108k | 2026-03-08 |
+| #5690 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 128k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5778,3 +5778,4 @@ If you need permission, you're thinking too much.
 | 5687 | 2026-03-08 20:24:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145351⭐ Python) | [reels/reel_5687_langflow-ai-langflow](reels/reel_5687_langflow-ai-langflow) |
 | 5688 | 2026-03-08 20:48:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (108587⭐ TypeScript) | [reels/reel_5688_shadcn-ui-ui](reels/reel_5688_shadcn-ui-ui) |
 | 5689 | 2026-03-08 21:21:43 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (108599⭐ TypeScript) | [reels/reel_5689_shadcn-ui-ui](reels/reel_5689_shadcn-ui-ui) |
+| 5690 | 2026-03-08 21:45:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128644⭐ Python) | [reels/reel_5690_langchain-ai-langchain](reels/reel_5690_langchain-ai-langchain) |
