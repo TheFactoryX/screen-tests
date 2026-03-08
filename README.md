@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5684 | [layer-3/nitrolite](https://github.com/layer-3/nitrolite) | Go · ⭐ 30 | 2026-03-08 |
+| #5685 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5773,3 +5773,4 @@ If you need permission, you're thinking too much.
 | 5682 | 2026-03-08 17:47:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111040⭐ Rust) | [reels/reel_5682_rust-lang-rust](reels/reel_5682_rust-lang-rust) |
 | 5683 | 2026-03-08 18:31:48 | [apigee/apigeelint](https://github.com/apigee/apigeelint) | ✅ full (104⭐ JavaScript) | [reels/reel_5683_apigee-apigeelint](reels/reel_5683_apigee-apigeelint) |
 | 5684 | 2026-03-08 19:02:45 | [layer-3/nitrolite](https://github.com/layer-3/nitrolite) | ✅ full (30⭐ Go) | [reels/reel_5684_layer-3-nitrolite](reels/reel_5684_layer-3-nitrolite) |
+| 5685 | 2026-03-08 19:34:17 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97686⭐ TypeScript) | [reels/reel_5685_ant-design-ant-design](reels/reel_5685_ant-design-ant-design) |
