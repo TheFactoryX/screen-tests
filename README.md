@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5691 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-08 |
+| #5692 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 473k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5780,3 +5780,4 @@ If you need permission, you're thinking too much.
 | 5689 | 2026-03-08 21:21:43 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (108599⭐ TypeScript) | [reels/reel_5689_shadcn-ui-ui](reels/reel_5689_shadcn-ui-ui) |
 | 5690 | 2026-03-08 21:45:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128644⭐ Python) | [reels/reel_5690_langchain-ai-langchain](reels/reel_5690_langchain-ai-langchain) |
 | 5691 | 2026-03-08 22:21:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145354⭐ Python) | [reels/reel_5691_langflow-ai-langflow](reels/reel_5691_langflow-ai-langflow) |
+| 5692 | 2026-03-08 22:48:27 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (473383⭐ Markdown) | [reels/reel_5692_codecrafters-io-build-your-own-x](reels/reel_5692_codecrafters-io-build-your-own-x) |
