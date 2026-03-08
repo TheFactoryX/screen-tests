@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5687 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-08 |
+| #5688 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 108k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5776,3 +5776,4 @@ If you need permission, you're thinking too much.
 | 5685 | 2026-03-08 19:34:17 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97686⭐ TypeScript) | [reels/reel_5685_ant-design-ant-design](reels/reel_5685_ant-design-ant-design) |
 | 5686 | 2026-03-08 19:53:54 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (260532⭐ None) | [reels/reel_5686_practical-tutorials-project-based-learning](reels/reel_5686_practical-tutorials-project-based-learning) |
 | 5687 | 2026-03-08 20:24:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145351⭐ Python) | [reels/reel_5687_langflow-ai-langflow](reels/reel_5687_langflow-ai-langflow) |
+| 5688 | 2026-03-08 20:48:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (108587⭐ TypeScript) | [reels/reel_5688_shadcn-ui-ui](reels/reel_5688_shadcn-ui-ui) |
