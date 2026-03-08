@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5659 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-08 |
+| #5660 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5748,3 +5748,4 @@ If you need permission, you're thinking too much.
 | 5657 | 2026-03-08 04:23:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128572⭐ Python) | [reels/reel_5657_langchain-ai-langchain](reels/reel_5657_langchain-ai-langchain) |
 | 5658 | 2026-03-08 05:28:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278459⭐ None) | [reels/reel_5658_awesome-selfhosted-awesome-selfhosted](reels/reel_5658_awesome-selfhosted-awesome-selfhosted) |
 | 5659 | 2026-03-08 06:03:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111023⭐ Rust) | [reels/reel_5659_rust-lang-rust](reels/reel_5659_rust-lang-rust) |
+| 5660 | 2026-03-08 07:00:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112557⭐ TypeScript) | [reels/reel_5660_iptv-org-iptv](reels/reel_5660_iptv-org-iptv) |
