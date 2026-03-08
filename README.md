@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5679 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 101k | 2026-03-08 |
+| #5680 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5768,3 +5768,4 @@ If you need permission, you're thinking too much.
 | 5677 | 2026-03-08 15:28:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (108473⭐ TypeScript) | [reels/reel_5677_shadcn-ui-ui](reels/reel_5677_shadcn-ui-ui) |
 | 5678 | 2026-03-08 15:48:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145345⭐ Python) | [reels/reel_5678_langflow-ai-langflow](reels/reel_5678_langflow-ai-langflow) |
 | 5679 | 2026-03-08 16:26:31 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (101212⭐ TypeScript) | [reels/reel_5679_clash-verge-rev-clash-verge-rev](reels/reel_5679_clash-verge-rev-clash-verge-rev) |
+| 5680 | 2026-03-08 16:52:27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103793⭐ Rust) | [reels/reel_5680_tauri-apps-tauri](reels/reel_5680_tauri-apps-tauri) |
