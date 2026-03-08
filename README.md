@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5664 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-08 |
+| #5665 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 278k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5753,3 +5753,4 @@ If you need permission, you're thinking too much.
 | 5662 | 2026-03-08 07:58:39 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (97126⭐ C++) | [reels/reel_5662_ggml-org-llama.cpp](reels/reel_5662_ggml-org-llama.cpp) |
 | 5663 | 2026-03-08 08:40:21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126156⭐ Python) | [reels/reel_5663_open-webui-open-webui](reels/reel_5663_open-webui-open-webui) |
 | 5664 | 2026-03-08 09:01:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126156⭐ Python) | [reels/reel_5664_open-webui-open-webui](reels/reel_5664_open-webui-open-webui) |
+| 5665 | 2026-03-08 09:44:08 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278514⭐ None) | [reels/reel_5665_awesome-selfhosted-awesome-selfhosted](reels/reel_5665_awesome-selfhosted-awesome-selfhosted) |
