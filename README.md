@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5682 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-08 |
+| #5683 | [apigee/apigeelint](https://github.com/apigee/apigeelint) | JavaScript · ⭐ 104 | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5771,3 +5771,4 @@ If you need permission, you're thinking too much.
 | 5680 | 2026-03-08 16:52:27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103793⭐ Rust) | [reels/reel_5680_tauri-apps-tauri](reels/reel_5680_tauri-apps-tauri) |
 | 5681 | 2026-03-08 17:21:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150175⭐ Python) | [reels/reel_5681_yt-dlp-yt-dlp](reels/reel_5681_yt-dlp-yt-dlp) |
 | 5682 | 2026-03-08 17:47:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111040⭐ Rust) | [reels/reel_5682_rust-lang-rust](reels/reel_5682_rust-lang-rust) |
+| 5683 | 2026-03-08 18:31:48 | [apigee/apigeelint](https://github.com/apigee/apigeelint) | ✅ full (104⭐ JavaScript) | [reels/reel_5683_apigee-apigeelint](reels/reel_5683_apigee-apigeelint) |
