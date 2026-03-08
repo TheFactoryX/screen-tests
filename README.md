@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5662 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 97k | 2026-03-08 |
+| #5663 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5751,3 +5751,4 @@ If you need permission, you're thinking too much.
 | 5660 | 2026-03-08 07:00:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112557⭐ TypeScript) | [reels/reel_5660_iptv-org-iptv](reels/reel_5660_iptv-org-iptv) |
 | 5661 | 2026-03-08 07:44:04 | [Shlomob/ocmonitor-share](https://github.com/Shlomob/ocmonitor-share) | ✅ full (151⭐ Python) | [reels/reel_5661_Shlomob-ocmonitor-share](reels/reel_5661_Shlomob-ocmonitor-share) |
 | 5662 | 2026-03-08 07:58:39 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (97126⭐ C++) | [reels/reel_5662_ggml-org-llama.cpp](reels/reel_5662_ggml-org-llama.cpp) |
+| 5663 | 2026-03-08 08:40:21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126156⭐ Python) | [reels/reel_5663_open-webui-open-webui](reels/reel_5663_open-webui-open-webui) |
