@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5686 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 260k | 2026-03-08 |
+| #5687 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5775,3 +5775,4 @@ If you need permission, you're thinking too much.
 | 5684 | 2026-03-08 19:02:45 | [layer-3/nitrolite](https://github.com/layer-3/nitrolite) | ✅ full (30⭐ Go) | [reels/reel_5684_layer-3-nitrolite](reels/reel_5684_layer-3-nitrolite) |
 | 5685 | 2026-03-08 19:34:17 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97686⭐ TypeScript) | [reels/reel_5685_ant-design-ant-design](reels/reel_5685_ant-design-ant-design) |
 | 5686 | 2026-03-08 19:53:54 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (260532⭐ None) | [reels/reel_5686_practical-tutorials-project-based-learning](reels/reel_5686_practical-tutorials-project-based-learning) |
+| 5687 | 2026-03-08 20:24:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145351⭐ Python) | [reels/reel_5687_langflow-ai-langflow](reels/reel_5687_langflow-ai-langflow) |
