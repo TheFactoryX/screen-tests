@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5670 | [awais-amjed/to-do-list](https://github.com/awais-amjed/to-do-list) | JavaScript · ⭐ 19 | 2026-03-08 |
+| #5671 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 150k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5759,3 +5759,4 @@ If you need permission, you're thinking too much.
 | 5668 | 2026-03-08 10:57:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (108368⭐ TypeScript) | [reels/reel_5668_shadcn-ui-ui](reels/reel_5668_shadcn-ui-ui) |
 | 5669 | 2026-03-08 11:25:24 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278532⭐ None) | [reels/reel_5669_awesome-selfhosted-awesome-selfhosted](reels/reel_5669_awesome-selfhosted-awesome-selfhosted) |
 | 5670 | 2026-03-08 11:43:16 | [awais-amjed/to-do-list](https://github.com/awais-amjed/to-do-list) | ✅ full (19⭐ JavaScript) | [reels/reel_5670_awais-amjed-to-do-list](reels/reel_5670_awais-amjed-to-do-list) |
+| 5671 | 2026-03-08 11:56:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150140⭐ Python) | [reels/reel_5671_yt-dlp-yt-dlp](reels/reel_5671_yt-dlp-yt-dlp) |
