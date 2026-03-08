@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5681 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 150k | 2026-03-08 |
+| #5682 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5770,3 +5770,4 @@ If you need permission, you're thinking too much.
 | 5679 | 2026-03-08 16:26:31 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (101212⭐ TypeScript) | [reels/reel_5679_clash-verge-rev-clash-verge-rev](reels/reel_5679_clash-verge-rev-clash-verge-rev) |
 | 5680 | 2026-03-08 16:52:27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103793⭐ Rust) | [reels/reel_5680_tauri-apps-tauri](reels/reel_5680_tauri-apps-tauri) |
 | 5681 | 2026-03-08 17:21:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150175⭐ Python) | [reels/reel_5681_yt-dlp-yt-dlp](reels/reel_5681_yt-dlp-yt-dlp) |
+| 5682 | 2026-03-08 17:47:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111040⭐ Rust) | [reels/reel_5682_rust-lang-rust](reels/reel_5682_rust-lang-rust) |
