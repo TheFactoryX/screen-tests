@@ -1,0 +1,24 @@
+{
+  "reel_number": 5661,
+  "recorded": "2026-03-08 07:44:04 UTC",
+  "repository": {
+    "full_name": "Shlomob/ocmonitor-share",
+    "url": "https://github.com/Shlomob/ocmonitor-share",
+    "clone_url": "https://github.com/Shlomob/ocmonitor-share.git",
+    "stars": 151,
+    "language": "Python",
+    "size_kb": 2653
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.199753
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 151 stars."
+  }
+}
