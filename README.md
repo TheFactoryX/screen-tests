@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5672 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-08 |
+| #5673 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 96k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5761,3 +5761,4 @@ If you need permission, you're thinking too much.
 | 5670 | 2026-03-08 11:43:16 | [awais-amjed/to-do-list](https://github.com/awais-amjed/to-do-list) | ✅ full (19⭐ JavaScript) | [reels/reel_5670_awais-amjed-to-do-list](reels/reel_5670_awais-amjed-to-do-list) |
 | 5671 | 2026-03-08 11:56:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150140⭐ Python) | [reels/reel_5671_yt-dlp-yt-dlp](reels/reel_5671_yt-dlp-yt-dlp) |
 | 5672 | 2026-03-08 12:50:05 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111033⭐ Rust) | [reels/reel_5672_rust-lang-rust](reels/reel_5672_rust-lang-rust) |
+| 5673 | 2026-03-08 13:38:22 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (96872⭐ TypeScript) | [reels/reel_5673_google-gemini-gemini-cli](reels/reel_5673_google-gemini-gemini-cli) |
