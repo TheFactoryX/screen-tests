@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5692 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 473k | 2026-03-08 |
+| #5693 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5781,3 +5781,4 @@ If you need permission, you're thinking too much.
 | 5690 | 2026-03-08 21:45:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (128644⭐ Python) | [reels/reel_5690_langchain-ai-langchain](reels/reel_5690_langchain-ai-langchain) |
 | 5691 | 2026-03-08 22:21:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145354⭐ Python) | [reels/reel_5691_langflow-ai-langflow](reels/reel_5691_langflow-ai-langflow) |
 | 5692 | 2026-03-08 22:48:27 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (473383⭐ Markdown) | [reels/reel_5692_codecrafters-io-build-your-own-x](reels/reel_5692_codecrafters-io-build-your-own-x) |
+| 5693 | 2026-03-08 23:21:58 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97689⭐ TypeScript) | [reels/reel_5693_ant-design-ant-design](reels/reel_5693_ant-design-ant-design) |
