@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5667 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 278k | 2026-03-08 |
+| #5668 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 108k | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5756,3 +5756,4 @@ If you need permission, you're thinking too much.
 | 5665 | 2026-03-08 09:44:08 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278514⭐ None) | [reels/reel_5665_awesome-selfhosted-awesome-selfhosted](reels/reel_5665_awesome-selfhosted-awesome-selfhosted) |
 | 5666 | 2026-03-08 09:59:16 | [progval/Limnoria](https://github.com/progval/Limnoria) | ✅ full (655⭐ Python) | [reels/reel_5666_progval-Limnoria](reels/reel_5666_progval-Limnoria) |
 | 5667 | 2026-03-08 10:34:52 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278523⭐ None) | [reels/reel_5667_awesome-selfhosted-awesome-selfhosted](reels/reel_5667_awesome-selfhosted-awesome-selfhosted) |
+| 5668 | 2026-03-08 10:57:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (108368⭐ TypeScript) | [reels/reel_5668_shadcn-ui-ui](reels/reel_5668_shadcn-ui-ui) |
