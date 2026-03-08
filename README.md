@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5665 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 278k | 2026-03-08 |
+| #5666 | [progval/Limnoria](https://github.com/progval/Limnoria) | Python · ⭐ 655 | 2026-03-08 |
 ---
 
 ## 🎭 Selection Process
@@ -5754,3 +5754,4 @@ If you need permission, you're thinking too much.
 | 5663 | 2026-03-08 08:40:21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126156⭐ Python) | [reels/reel_5663_open-webui-open-webui](reels/reel_5663_open-webui-open-webui) |
 | 5664 | 2026-03-08 09:01:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126156⭐ Python) | [reels/reel_5664_open-webui-open-webui](reels/reel_5664_open-webui-open-webui) |
 | 5665 | 2026-03-08 09:44:08 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278514⭐ None) | [reels/reel_5665_awesome-selfhosted-awesome-selfhosted](reels/reel_5665_awesome-selfhosted-awesome-selfhosted) |
+| 5666 | 2026-03-08 09:59:16 | [progval/Limnoria](https://github.com/progval/Limnoria) | ✅ full (655⭐ Python) | [reels/reel_5666_progval-Limnoria](reels/reel_5666_progval-Limnoria) |
