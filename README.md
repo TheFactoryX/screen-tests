@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5714 | [MicrosoftDocs/SupportArticles-docs](https://github.com/MicrosoftDocs/SupportArticles-docs) | None · ⭐ 219 | 2026-03-09 |
+| #5715 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 105k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5803,3 +5803,4 @@ If you need permission, you're thinking too much.
 | 5712 | 2026-03-09 19:51:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150351⭐ Python) | [reels/reel_5712_yt-dlp-yt-dlp](reels/reel_5712_yt-dlp-yt-dlp) |
 | 5713 | 2026-03-09 20:32:27 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145427⭐ Python) | [reels/reel_5713_langflow-ai-langflow](reels/reel_5713_langflow-ai-langflow) |
 | 5714 | 2026-03-09 21:03:48 | [MicrosoftDocs/SupportArticles-docs](https://github.com/MicrosoftDocs/SupportArticles-docs) | ✅ readme_only (219⭐ None) | [reels/reel_5714_MicrosoftDocs-SupportArticles-docs](reels/reel_5714_MicrosoftDocs-SupportArticles-docs) |
+| 5715 | 2026-03-09 21:46:19 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (105380⭐ Python) | [reels/reel_5715_Comfy-Org-ComfyUI](reels/reel_5715_Comfy-Org-ComfyUI) |
