@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5703 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 278k | 2026-03-09 |
+| #5704 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5792,3 +5792,4 @@ If you need permission, you're thinking too much.
 | 5701 | 2026-03-09 09:07:34 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278795⭐ None) | [reels/reel_5701_awesome-selfhosted-awesome-selfhosted](reels/reel_5701_awesome-selfhosted-awesome-selfhosted) |
 | 5702 | 2026-03-09 10:06:11 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (260591⭐ None) | [reels/reel_5702_practical-tutorials-project-based-learning](reels/reel_5702_practical-tutorials-project-based-learning) |
 | 5703 | 2026-03-09 11:03:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278816⭐ None) | [reels/reel_5703_awesome-selfhosted-awesome-selfhosted](reels/reel_5703_awesome-selfhosted-awesome-selfhosted) |
+| 5704 | 2026-03-09 11:49:08 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97687⭐ TypeScript) | [reels/reel_5704_ant-design-ant-design](reels/reel_5704_ant-design-ant-design) |
