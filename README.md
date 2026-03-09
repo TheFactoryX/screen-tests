@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5717 | [rive-app/rive-unity](https://github.com/rive-app/rive-unity) | C# · ⭐ 193 | 2026-03-09 |
+| #5718 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 178k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5806,3 +5806,4 @@ If you need permission, you're thinking too much.
 | 5715 | 2026-03-09 21:46:19 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (105380⭐ Python) | [reels/reel_5715_Comfy-Org-ComfyUI](reels/reel_5715_Comfy-Org-ComfyUI) |
 | 5716 | 2026-03-09 22:26:28 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182306⭐ Python) | [reels/reel_5716_Significant-Gravitas-AutoGPT](reels/reel_5716_Significant-Gravitas-AutoGPT) |
 | 5717 | 2026-03-09 22:54:40 | [rive-app/rive-unity](https://github.com/rive-app/rive-unity) | ✅ readme_only (193⭐ C#) | [reels/reel_5717_rive-app-rive-unity](reels/reel_5717_rive-app-rive-unity) |
+| 5718 | 2026-03-09 23:26:39 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178371⭐ TypeScript) | [reels/reel_5718_n8n-io-n8n](reels/reel_5718_n8n-io-n8n) |
