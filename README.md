@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5694 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 101k | 2026-03-08 |
+| #5695 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5783,3 +5783,4 @@ If you need permission, you're thinking too much.
 | 5692 | 2026-03-08 22:48:27 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (473383⭐ Markdown) | [reels/reel_5692_codecrafters-io-build-your-own-x](reels/reel_5692_codecrafters-io-build-your-own-x) |
 | 5693 | 2026-03-08 23:21:58 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97689⭐ TypeScript) | [reels/reel_5693_ant-design-ant-design](reels/reel_5693_ant-design-ant-design) |
 | 5694 | 2026-03-08 23:46:08 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101937⭐ Python) | [reels/reel_5694_deepseek-ai-DeepSeek-V3](reels/reel_5694_deepseek-ai-DeepSeek-V3) |
+| 5695 | 2026-03-09 02:00:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112605⭐ TypeScript) | [reels/reel_5695_iptv-org-iptv](reels/reel_5695_iptv-org-iptv) |
