@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5697 | [sethyuan/awesome-orcanote](https://github.com/sethyuan/awesome-orcanote) | JavaScript · ⭐ 15 | 2026-03-09 |
+| #5698 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5786,3 +5786,4 @@ If you need permission, you're thinking too much.
 | 5695 | 2026-03-09 02:00:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112605⭐ TypeScript) | [reels/reel_5695_iptv-org-iptv](reels/reel_5695_iptv-org-iptv) |
 | 5696 | 2026-03-09 04:25:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111054⭐ Rust) | [reels/reel_5696_rust-lang-rust](reels/reel_5696_rust-lang-rust) |
 | 5697 | 2026-03-09 05:39:27 | [sethyuan/awesome-orcanote](https://github.com/sethyuan/awesome-orcanote) | ✅ full (15⭐ JavaScript) | [reels/reel_5697_sethyuan-awesome-orcanote](reels/reel_5697_sethyuan-awesome-orcanote) |
+| 5698 | 2026-03-09 06:40:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111058⭐ Rust) | [reels/reel_5698_rust-lang-rust](reels/reel_5698_rust-lang-rust) |
