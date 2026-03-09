@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5715 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 105k | 2026-03-09 |
+| #5716 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5804,3 +5804,4 @@ If you need permission, you're thinking too much.
 | 5713 | 2026-03-09 20:32:27 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145427⭐ Python) | [reels/reel_5713_langflow-ai-langflow](reels/reel_5713_langflow-ai-langflow) |
 | 5714 | 2026-03-09 21:03:48 | [MicrosoftDocs/SupportArticles-docs](https://github.com/MicrosoftDocs/SupportArticles-docs) | ✅ readme_only (219⭐ None) | [reels/reel_5714_MicrosoftDocs-SupportArticles-docs](reels/reel_5714_MicrosoftDocs-SupportArticles-docs) |
 | 5715 | 2026-03-09 21:46:19 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (105380⭐ Python) | [reels/reel_5715_Comfy-Org-ComfyUI](reels/reel_5715_Comfy-Org-ComfyUI) |
+| 5716 | 2026-03-09 22:26:28 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182306⭐ Python) | [reels/reel_5716_Significant-Gravitas-AutoGPT](reels/reel_5716_Significant-Gravitas-AutoGPT) |
