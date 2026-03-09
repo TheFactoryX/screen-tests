@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5710 | [JuliaHomotopyContinuation/HomotopyContinuation.jl](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl) | Julia · ⭐ 209 | 2026-03-09 |
+| #5711 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5799,3 +5799,4 @@ If you need permission, you're thinking too much.
 | 5708 | 2026-03-09 16:12:42 | [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) | ✅ shallow (275⭐ Python) | [reels/reel_5708_ARM-software-Tool-Solutions](reels/reel_5708_ARM-software-Tool-Solutions) |
 | 5709 | 2026-03-09 17:10:02 | [dbsystel/trivy-vulnerability-explorer](https://github.com/dbsystel/trivy-vulnerability-explorer) | ✅ full (169⭐ Vue) | [reels/reel_5709_dbsystel-trivy-vulnerability-explorer](reels/reel_5709_dbsystel-trivy-vulnerability-explorer) |
 | 5710 | 2026-03-09 18:00:14 | [JuliaHomotopyContinuation/HomotopyContinuation.jl](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl) | ✅ full (209⭐ Julia) | [reels/reel_5710_JuliaHomotopyContinuation-HomotopyContinuation.jl](reels/reel_5710_JuliaHomotopyContinuation-HomotopyContinuation.jl) |
+| 5711 | 2026-03-09 19:04:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126409⭐ Python) | [reels/reel_5711_open-webui-open-webui](reels/reel_5711_open-webui-open-webui) |
