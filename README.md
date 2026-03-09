@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5708 | [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) | Python · ⭐ 275 | 2026-03-09 |
+| #5709 | [dbsystel/trivy-vulnerability-explorer](https://github.com/dbsystel/trivy-vulnerability-explorer) | Vue · ⭐ 169 | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5797,3 +5797,4 @@ If you need permission, you're thinking too much.
 | 5706 | 2026-03-09 14:10:13 | [port-labs/ocean](https://github.com/port-labs/ocean) | ✅ full (169⭐ Python) | [reels/reel_5706_port-labs-ocean](reels/reel_5706_port-labs-ocean) |
 | 5707 | 2026-03-09 15:10:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112634⭐ TypeScript) | [reels/reel_5707_iptv-org-iptv](reels/reel_5707_iptv-org-iptv) |
 | 5708 | 2026-03-09 16:12:42 | [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) | ✅ shallow (275⭐ Python) | [reels/reel_5708_ARM-software-Tool-Solutions](reels/reel_5708_ARM-software-Tool-Solutions) |
+| 5709 | 2026-03-09 17:10:02 | [dbsystel/trivy-vulnerability-explorer](https://github.com/dbsystel/trivy-vulnerability-explorer) | ✅ full (169⭐ Vue) | [reels/reel_5709_dbsystel-trivy-vulnerability-explorer](reels/reel_5709_dbsystel-trivy-vulnerability-explorer) |
