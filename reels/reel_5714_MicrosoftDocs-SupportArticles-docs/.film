@@ -1,0 +1,24 @@
+{
+  "reel_number": 5714,
+  "recorded": "2026-03-09 21:03:48 UTC",
+  "repository": {
+    "full_name": "MicrosoftDocs/SupportArticles-docs",
+    "url": "https://github.com/MicrosoftDocs/SupportArticles-docs",
+    "clone_url": "https://github.com/MicrosoftDocs/SupportArticles-docs.git",
+    "stars": 219,
+    "language": null,
+    "size_kb": 1161243
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 1134,
+    "duration_seconds": 0.000147
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 219 stars."
+  }
+}
