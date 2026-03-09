@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5695 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-09 |
+| #5696 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5784,3 +5784,4 @@ If you need permission, you're thinking too much.
 | 5693 | 2026-03-08 23:21:58 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97689⭐ TypeScript) | [reels/reel_5693_ant-design-ant-design](reels/reel_5693_ant-design-ant-design) |
 | 5694 | 2026-03-08 23:46:08 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (101937⭐ Python) | [reels/reel_5694_deepseek-ai-DeepSeek-V3](reels/reel_5694_deepseek-ai-DeepSeek-V3) |
 | 5695 | 2026-03-09 02:00:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112605⭐ TypeScript) | [reels/reel_5695_iptv-org-iptv](reels/reel_5695_iptv-org-iptv) |
+| 5696 | 2026-03-09 04:25:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111054⭐ Rust) | [reels/reel_5696_rust-lang-rust](reels/reel_5696_rust-lang-rust) |
