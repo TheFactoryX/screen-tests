@@ -1,0 +1,24 @@
+{
+  "reel_number": 5708,
+  "recorded": "2026-03-09 16:12:42 UTC",
+  "repository": {
+    "full_name": "ARM-software/Tool-Solutions",
+    "url": "https://github.com/ARM-software/Tool-Solutions",
+    "clone_url": "https://github.com/ARM-software/Tool-Solutions.git",
+    "stars": 275,
+    "language": "Python",
+    "size_kb": 135193
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 132,
+    "duration_seconds": 0.825328
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 275 stars."
+  }
+}
