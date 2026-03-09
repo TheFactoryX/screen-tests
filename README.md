@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5711 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-09 |
+| #5712 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 150k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5800,3 +5800,4 @@ If you need permission, you're thinking too much.
 | 5709 | 2026-03-09 17:10:02 | [dbsystel/trivy-vulnerability-explorer](https://github.com/dbsystel/trivy-vulnerability-explorer) | ✅ full (169⭐ Vue) | [reels/reel_5709_dbsystel-trivy-vulnerability-explorer](reels/reel_5709_dbsystel-trivy-vulnerability-explorer) |
 | 5710 | 2026-03-09 18:00:14 | [JuliaHomotopyContinuation/HomotopyContinuation.jl](https://github.com/JuliaHomotopyContinuation/HomotopyContinuation.jl) | ✅ full (209⭐ Julia) | [reels/reel_5710_JuliaHomotopyContinuation-HomotopyContinuation.jl](reels/reel_5710_JuliaHomotopyContinuation-HomotopyContinuation.jl) |
 | 5711 | 2026-03-09 19:04:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126409⭐ Python) | [reels/reel_5711_open-webui-open-webui](reels/reel_5711_open-webui-open-webui) |
+| 5712 | 2026-03-09 19:51:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150351⭐ Python) | [reels/reel_5712_yt-dlp-yt-dlp](reels/reel_5712_yt-dlp-yt-dlp) |
