@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5705 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-09 |
+| #5706 | [port-labs/ocean](https://github.com/port-labs/ocean) | Python · ⭐ 169 | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5794,3 +5794,4 @@ If you need permission, you're thinking too much.
 | 5703 | 2026-03-09 11:03:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (278816⭐ None) | [reels/reel_5703_awesome-selfhosted-awesome-selfhosted](reels/reel_5703_awesome-selfhosted-awesome-selfhosted) |
 | 5704 | 2026-03-09 11:49:08 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97687⭐ TypeScript) | [reels/reel_5704_ant-design-ant-design](reels/reel_5704_ant-design-ant-design) |
 | 5705 | 2026-03-09 12:59:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126342⭐ Python) | [reels/reel_5705_open-webui-open-webui](reels/reel_5705_open-webui-open-webui) |
+| 5706 | 2026-03-09 14:10:13 | [port-labs/ocean](https://github.com/port-labs/ocean) | ✅ full (169⭐ Python) | [reels/reel_5706_port-labs-ocean](reels/reel_5706_port-labs-ocean) |

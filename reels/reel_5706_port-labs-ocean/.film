@@ -1,0 +1,24 @@
+{
+  "reel_number": 5706,
+  "recorded": "2026-03-09 14:10:13 UTC",
+  "repository": {
+    "full_name": "port-labs/ocean",
+    "url": "https://github.com/port-labs/ocean",
+    "clone_url": "https://github.com/port-labs/ocean.git",
+    "stars": 169,
+    "language": "Python",
+    "size_kb": 81354
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 79,
+    "duration_seconds": 5.591415
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 169 stars."
+  }
+}
