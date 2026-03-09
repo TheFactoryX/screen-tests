@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5698 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-09 |
+| #5699 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 178k | 2026-03-09 |
 ---
 
 ## 🎭 Selection Process
@@ -5787,3 +5787,4 @@ If you need permission, you're thinking too much.
 | 5696 | 2026-03-09 04:25:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111054⭐ Rust) | [reels/reel_5696_rust-lang-rust](reels/reel_5696_rust-lang-rust) |
 | 5697 | 2026-03-09 05:39:27 | [sethyuan/awesome-orcanote](https://github.com/sethyuan/awesome-orcanote) | ✅ full (15⭐ JavaScript) | [reels/reel_5697_sethyuan-awesome-orcanote](reels/reel_5697_sethyuan-awesome-orcanote) |
 | 5698 | 2026-03-09 06:40:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111058⭐ Rust) | [reels/reel_5698_rust-lang-rust](reels/reel_5698_rust-lang-rust) |
+| 5699 | 2026-03-09 07:38:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178209⭐ TypeScript) | [reels/reel_5699_n8n-io-n8n](reels/reel_5699_n8n-io-n8n) |
