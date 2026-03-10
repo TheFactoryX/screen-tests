@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5742 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-10 |
+| #5743 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | Python · ⭐ 242 | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5831,3 +5831,4 @@ If you need permission, you're thinking too much.
 | 5740 | 2026-03-10 21:03:28 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112729⭐ TypeScript) | [reels/reel_5740_iptv-org-iptv](reels/reel_5740_iptv-org-iptv) |
 | 5741 | 2026-03-10 21:41:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145500⭐ Python) | [reels/reel_5741_langflow-ai-langflow](reels/reel_5741_langflow-ai-langflow) |
 | 5742 | 2026-03-10 21:57:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182337⭐ Python) | [reels/reel_5742_Significant-Gravitas-AutoGPT](reels/reel_5742_Significant-Gravitas-AutoGPT) |
+| 5743 | 2026-03-10 22:33:16 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (242⭐ Python) | [reels/reel_5743_tom-doerr-repo_posts](reels/reel_5743_tom-doerr-repo_posts) |
