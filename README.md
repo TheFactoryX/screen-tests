@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5729 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-10 |
+| #5730 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5818,3 +5818,4 @@ If you need permission, you're thinking too much.
 | 5727 | 2026-03-10 09:27:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112692⭐ TypeScript) | [reels/reel_5727_iptv-org-iptv](reels/reel_5727_iptv-org-iptv) |
 | 5728 | 2026-03-10 10:07:04 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103930⭐ Rust) | [reels/reel_5728_tauri-apps-tauri](reels/reel_5728_tauri-apps-tauri) |
 | 5729 | 2026-03-10 11:00:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145483⭐ Python) | [reels/reel_5729_langflow-ai-langflow](reels/reel_5729_langflow-ai-langflow) |
+| 5730 | 2026-03-10 11:47:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112696⭐ TypeScript) | [reels/reel_5730_iptv-org-iptv](reels/reel_5730_iptv-org-iptv) |
