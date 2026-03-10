@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5720 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 105k | 2026-03-10 |
+| #5721 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5809,3 +5809,4 @@ If you need permission, you're thinking too much.
 | 5718 | 2026-03-09 23:26:39 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178371⭐ TypeScript) | [reels/reel_5718_n8n-io-n8n](reels/reel_5718_n8n-io-n8n) |
 | 5719 | 2026-03-09 23:50:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145438⭐ Python) | [reels/reel_5719_langflow-ai-langflow](reels/reel_5719_langflow-ai-langflow) |
 | 5720 | 2026-03-10 01:52:59 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (105412⭐ Python) | [reels/reel_5720_Comfy-Org-ComfyUI](reels/reel_5720_Comfy-Org-ComfyUI) |
+| 5721 | 2026-03-10 04:08:06 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109104⭐ TypeScript) | [reels/reel_5721_shadcn-ui-ui](reels/reel_5721_shadcn-ui-ui) |
