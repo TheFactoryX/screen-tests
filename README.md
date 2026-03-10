@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5727 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-10 |
+| #5728 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5816,3 +5816,4 @@ If you need permission, you're thinking too much.
 | 5725 | 2026-03-10 07:54:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178430⭐ TypeScript) | [reels/reel_5725_n8n-io-n8n](reels/reel_5725_n8n-io-n8n) |
 | 5726 | 2026-03-10 08:39:17 | [clashv2ray-hub/v2rayfree](https://github.com/clashv2ray-hub/v2rayfree) | ✅ full (212⭐ Shell) | [reels/reel_5726_clashv2ray-hub-v2rayfree](reels/reel_5726_clashv2ray-hub-v2rayfree) |
 | 5727 | 2026-03-10 09:27:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112692⭐ TypeScript) | [reels/reel_5727_iptv-org-iptv](reels/reel_5727_iptv-org-iptv) |
+| 5728 | 2026-03-10 10:07:04 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103930⭐ Rust) | [reels/reel_5728_tauri-apps-tauri](reels/reel_5728_tauri-apps-tauri) |
