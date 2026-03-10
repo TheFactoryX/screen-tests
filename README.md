@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5744 | [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) | C# · ⭐ 885 | 2026-03-10 |
+| #5745 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5833,3 +5833,4 @@ If you need permission, you're thinking too much.
 | 5742 | 2026-03-10 21:57:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182337⭐ Python) | [reels/reel_5742_Significant-Gravitas-AutoGPT](reels/reel_5742_Significant-Gravitas-AutoGPT) |
 | 5743 | 2026-03-10 22:33:16 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (242⭐ Python) | [reels/reel_5743_tom-doerr-repo_posts](reels/reel_5743_tom-doerr-repo_posts) |
 | 5744 | 2026-03-10 23:00:28 | [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) | ✅ full (885⭐ C#) | [reels/reel_5744_nzbdav-dev-nzbdav](reels/reel_5744_nzbdav-dev-nzbdav) |
+| 5745 | 2026-03-10 23:41:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129026⭐ Python) | [reels/reel_5745_langchain-ai-langchain](reels/reel_5745_langchain-ai-langchain) |
