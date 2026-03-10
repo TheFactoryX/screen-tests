@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5741 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-10 |
+| #5742 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5830,3 +5830,4 @@ If you need permission, you're thinking too much.
 | 5739 | 2026-03-10 20:31:51 | [scientist-labs/red-candle](https://github.com/scientist-labs/red-candle) | ✅ full (191⭐ Rust) | [reels/reel_5739_scientist-labs-red-candle](reels/reel_5739_scientist-labs-red-candle) |
 | 5740 | 2026-03-10 21:03:28 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112729⭐ TypeScript) | [reels/reel_5740_iptv-org-iptv](reels/reel_5740_iptv-org-iptv) |
 | 5741 | 2026-03-10 21:41:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145500⭐ Python) | [reels/reel_5741_langflow-ai-langflow](reels/reel_5741_langflow-ai-langflow) |
+| 5742 | 2026-03-10 21:57:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182337⭐ Python) | [reels/reel_5742_Significant-Gravitas-AutoGPT](reels/reel_5742_Significant-Gravitas-AutoGPT) |
