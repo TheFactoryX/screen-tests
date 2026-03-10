@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5724 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 103k | 2026-03-10 |
+| #5725 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 178k | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5813,3 +5813,4 @@ If you need permission, you're thinking too much.
 | 5722 | 2026-03-10 05:14:57 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109108⭐ TypeScript) | [reels/reel_5722_shadcn-ui-ui](reels/reel_5722_shadcn-ui-ui) |
 | 5723 | 2026-03-10 06:01:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126481⭐ Python) | [reels/reel_5723_open-webui-open-webui](reels/reel_5723_open-webui-open-webui) |
 | 5724 | 2026-03-10 07:08:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (103925⭐ Rust) | [reels/reel_5724_tauri-apps-tauri](reels/reel_5724_tauri-apps-tauri) |
+| 5725 | 2026-03-10 07:54:20 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178430⭐ TypeScript) | [reels/reel_5725_n8n-io-n8n](reels/reel_5725_n8n-io-n8n) |
