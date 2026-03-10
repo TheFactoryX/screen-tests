@@ -1,0 +1,24 @@
+{
+  "reel_number": 5739,
+  "recorded": "2026-03-10 20:31:51 UTC",
+  "repository": {
+    "full_name": "scientist-labs/red-candle",
+    "url": "https://github.com/scientist-labs/red-candle",
+    "clone_url": "https://github.com/scientist-labs/red-candle.git",
+    "stars": 191,
+    "language": "Rust",
+    "size_kb": 2485
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.626721
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 191 stars."
+  }
+}

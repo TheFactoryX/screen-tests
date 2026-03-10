@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5738 | [Chameleon-company/MOP-Code](https://github.com/Chameleon-company/MOP-Code) | Jupyter Notebook · ⭐ 15 | 2026-03-10 |
+| #5739 | [scientist-labs/red-candle](https://github.com/scientist-labs/red-candle) | Rust · ⭐ 191 | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5827,3 +5827,4 @@ If you need permission, you're thinking too much.
 | 5736 | 2026-03-10 18:00:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178519⭐ TypeScript) | [reels/reel_5736_n8n-io-n8n](reels/reel_5736_n8n-io-n8n) |
 | 5737 | 2026-03-10 19:02:53 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (97160⭐ TypeScript) | [reels/reel_5737_google-gemini-gemini-cli](reels/reel_5737_google-gemini-gemini-cli) |
 | 5738 | 2026-03-10 19:51:15 | [Chameleon-company/MOP-Code](https://github.com/Chameleon-company/MOP-Code) | ✅ readme_only (15⭐ Jupyter Notebook) | [reels/reel_5738_Chameleon-company-MOP-Code](reels/reel_5738_Chameleon-company-MOP-Code) |
+| 5739 | 2026-03-10 20:31:51 | [scientist-labs/red-candle](https://github.com/scientist-labs/red-candle) | ✅ full (191⭐ Rust) | [reels/reel_5739_scientist-labs-red-candle](reels/reel_5739_scientist-labs-red-candle) |
