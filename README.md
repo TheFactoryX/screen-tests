@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5736 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 178k | 2026-03-10 |
+| #5737 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 97k | 2026-03-10 |
 ---
 
 ## 🎭 Selection Process
@@ -5825,3 +5825,4 @@ If you need permission, you're thinking too much.
 | 5734 | 2026-03-10 16:13:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182331⭐ Python) | [reels/reel_5734_Significant-Gravitas-AutoGPT](reels/reel_5734_Significant-Gravitas-AutoGPT) |
 | 5735 | 2026-03-10 17:08:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111179⭐ Rust) | [reels/reel_5735_rust-lang-rust](reels/reel_5735_rust-lang-rust) |
 | 5736 | 2026-03-10 18:00:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178519⭐ TypeScript) | [reels/reel_5736_n8n-io-n8n](reels/reel_5736_n8n-io-n8n) |
+| 5737 | 2026-03-10 19:02:53 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (97160⭐ TypeScript) | [reels/reel_5737_google-gemini-gemini-cli](reels/reel_5737_google-gemini-gemini-cli) |
