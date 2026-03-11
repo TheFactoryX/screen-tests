@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5765 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-11 |
+| #5766 | [dallaylaen/ski-interpreter](https://github.com/dallaylaen/ski-interpreter) | JavaScript · ⭐ 12 | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5854,3 +5854,4 @@ If you need permission, you're thinking too much.
 | 5763 | 2026-03-11 18:03:31 | [tailscale/github-action](https://github.com/tailscale/github-action) | ✅ full (873⭐ TypeScript) | [reels/reel_5763_tailscale-github-action](reels/reel_5763_tailscale-github-action) |
 | 5764 | 2026-03-11 19:10:24 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126747⭐ Python) | [reels/reel_5764_open-webui-open-webui](reels/reel_5764_open-webui-open-webui) |
 | 5765 | 2026-03-11 19:51:14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109289⭐ TypeScript) | [reels/reel_5765_shadcn-ui-ui](reels/reel_5765_shadcn-ui-ui) |
+| 5766 | 2026-03-11 20:31:51 | [dallaylaen/ski-interpreter](https://github.com/dallaylaen/ski-interpreter) | ✅ full (12⭐ JavaScript) | [reels/reel_5766_dallaylaen-ski-interpreter](reels/reel_5766_dallaylaen-ski-interpreter) |
