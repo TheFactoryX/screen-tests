@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5767 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-11 |
+| #5768 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5856,3 +5856,4 @@ If you need permission, you're thinking too much.
 | 5765 | 2026-03-11 19:51:14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109289⭐ TypeScript) | [reels/reel_5765_shadcn-ui-ui](reels/reel_5765_shadcn-ui-ui) |
 | 5766 | 2026-03-11 20:31:51 | [dallaylaen/ski-interpreter](https://github.com/dallaylaen/ski-interpreter) | ✅ full (12⭐ JavaScript) | [reels/reel_5766_dallaylaen-ski-interpreter](reels/reel_5766_dallaylaen-ski-interpreter) |
 | 5767 | 2026-03-11 21:03:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109294⭐ TypeScript) | [reels/reel_5767_shadcn-ui-ui](reels/reel_5767_shadcn-ui-ui) |
+| 5768 | 2026-03-11 21:47:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126761⭐ Python) | [reels/reel_5768_open-webui-open-webui](reels/reel_5768_open-webui-open-webui) |
