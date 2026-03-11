@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5768 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-11 |
+| #5769 | [nicolastakashi/prom-analytics-proxy](https://github.com/nicolastakashi/prom-analytics-proxy) | Go · ⭐ 146 | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5857,3 +5857,4 @@ If you need permission, you're thinking too much.
 | 5766 | 2026-03-11 20:31:51 | [dallaylaen/ski-interpreter](https://github.com/dallaylaen/ski-interpreter) | ✅ full (12⭐ JavaScript) | [reels/reel_5766_dallaylaen-ski-interpreter](reels/reel_5766_dallaylaen-ski-interpreter) |
 | 5767 | 2026-03-11 21:03:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109294⭐ TypeScript) | [reels/reel_5767_shadcn-ui-ui](reels/reel_5767_shadcn-ui-ui) |
 | 5768 | 2026-03-11 21:47:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126761⭐ Python) | [reels/reel_5768_open-webui-open-webui](reels/reel_5768_open-webui-open-webui) |
+| 5769 | 2026-03-11 22:25:12 | [nicolastakashi/prom-analytics-proxy](https://github.com/nicolastakashi/prom-analytics-proxy) | ✅ full (146⭐ Go) | [reels/reel_5769_nicolastakashi-prom-analytics-proxy](reels/reel_5769_nicolastakashi-prom-analytics-proxy) |
