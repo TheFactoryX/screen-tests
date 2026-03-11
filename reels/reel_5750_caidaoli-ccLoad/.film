@@ -1,0 +1,24 @@
+{
+  "reel_number": 5750,
+  "recorded": "2026-03-11 06:32:10 UTC",
+  "repository": {
+    "full_name": "caidaoli/ccLoad",
+    "url": "https://github.com/caidaoli/ccLoad",
+    "clone_url": "https://github.com/caidaoli/ccLoad.git",
+    "stars": 204,
+    "language": "Go",
+    "size_kb": 4826
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 1.467598
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 204 stars."
+  }
+}
