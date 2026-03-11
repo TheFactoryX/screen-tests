@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5747 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-11 |
+| #5748 | [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) | C++ · ⭐ 1k | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5836,3 +5836,4 @@ If you need permission, you're thinking too much.
 | 5745 | 2026-03-10 23:41:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129026⭐ Python) | [reels/reel_5745_langchain-ai-langchain](reels/reel_5745_langchain-ai-langchain) |
 | 5746 | 2026-03-10 23:57:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150508⭐ Python) | [reels/reel_5746_yt-dlp-yt-dlp](reels/reel_5746_yt-dlp-yt-dlp) |
 | 5747 | 2026-03-11 02:26:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109188⭐ TypeScript) | [reels/reel_5747_shadcn-ui-ui](reels/reel_5747_shadcn-ui-ui) |
+| 5748 | 2026-03-11 04:20:50 | [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) | ✅ shallow (1332⭐ C++) | [reels/reel_5748_vengi-voxel-vengi](reels/reel_5748_vengi-voxel-vengi) |
