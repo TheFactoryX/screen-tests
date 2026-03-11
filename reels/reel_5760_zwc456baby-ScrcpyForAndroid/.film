@@ -1,0 +1,24 @@
+{
+  "reel_number": 5760,
+  "recorded": "2026-03-11 15:04:14 UTC",
+  "repository": {
+    "full_name": "zwc456baby/ScrcpyForAndroid",
+    "url": "https://github.com/zwc456baby/ScrcpyForAndroid",
+    "clone_url": "https://github.com/zwc456baby/ScrcpyForAndroid.git",
+    "stars": 617,
+    "language": "Java",
+    "size_kb": 15065
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 0.837666
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 617 stars."
+  }
+}
