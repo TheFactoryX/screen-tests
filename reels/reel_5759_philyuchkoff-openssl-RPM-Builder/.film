@@ -1,0 +1,24 @@
+{
+  "reel_number": 5759,
+  "recorded": "2026-03-11 14:05:57 UTC",
+  "repository": {
+    "full_name": "philyuchkoff/openssl-RPM-Builder",
+    "url": "https://github.com/philyuchkoff/openssl-RPM-Builder",
+    "clone_url": "https://github.com/philyuchkoff/openssl-RPM-Builder.git",
+    "stars": 133,
+    "language": "Shell",
+    "size_kb": 5113
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.694118
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 133 stars."
+  }
+}

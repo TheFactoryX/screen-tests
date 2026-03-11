@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5758 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-11 |
+| #5759 | [philyuchkoff/openssl-RPM-Builder](https://github.com/philyuchkoff/openssl-RPM-Builder) | Shell · ⭐ 133 | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5847,3 +5847,4 @@ If you need permission, you're thinking too much.
 | 5756 | 2026-03-11 11:20:13 | [elastic/elasticsearch-specification](https://github.com/elastic/elasticsearch-specification) | ✅ readme_only (152⭐ TypeScript) | [reels/reel_5756_elastic-elasticsearch-specification](reels/reel_5756_elastic-elasticsearch-specification) |
 | 5757 | 2026-03-11 11:53:56 | [oviung/android-debloat-script](https://github.com/oviung/android-debloat-script) | ✅ full (32⭐ Shell) | [reels/reel_5757_oviung-android-debloat-script](reels/reel_5757_oviung-android-debloat-script) |
 | 5758 | 2026-03-11 12:56:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126705⭐ Python) | [reels/reel_5758_open-webui-open-webui](reels/reel_5758_open-webui-open-webui) |
+| 5759 | 2026-03-11 14:05:57 | [philyuchkoff/openssl-RPM-Builder](https://github.com/philyuchkoff/openssl-RPM-Builder) | ✅ full (133⭐ Shell) | [reels/reel_5759_philyuchkoff-openssl-RPM-Builder](reels/reel_5759_philyuchkoff-openssl-RPM-Builder) |
