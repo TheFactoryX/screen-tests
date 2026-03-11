@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5755 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 279k | 2026-03-11 |
+| #5756 | [elastic/elasticsearch-specification](https://github.com/elastic/elasticsearch-specification) | TypeScript · ⭐ 152 | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5844,3 +5844,4 @@ If you need permission, you're thinking too much.
 | 5753 | 2026-03-11 08:59:47 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109226⭐ TypeScript) | [reels/reel_5753_shadcn-ui-ui](reels/reel_5753_shadcn-ui-ui) |
 | 5754 | 2026-03-11 09:55:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182354⭐ Python) | [reels/reel_5754_Significant-Gravitas-AutoGPT](reels/reel_5754_Significant-Gravitas-AutoGPT) |
 | 5755 | 2026-03-11 10:37:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (279325⭐ None) | [reels/reel_5755_awesome-selfhosted-awesome-selfhosted](reels/reel_5755_awesome-selfhosted-awesome-selfhosted) |
+| 5756 | 2026-03-11 11:20:13 | [elastic/elasticsearch-specification](https://github.com/elastic/elasticsearch-specification) | ✅ readme_only (152⭐ TypeScript) | [reels/reel_5756_elastic-elasticsearch-specification](reels/reel_5756_elastic-elasticsearch-specification) |

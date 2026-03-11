@@ -1,0 +1,24 @@
+{
+  "reel_number": 5756,
+  "recorded": "2026-03-11 11:20:13 UTC",
+  "repository": {
+    "full_name": "elastic/elasticsearch-specification",
+    "url": "https://github.com/elastic/elasticsearch-specification",
+    "clone_url": "https://github.com/elastic/elasticsearch-specification.git",
+    "stars": 152,
+    "language": "TypeScript",
+    "size_kb": 1273655
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1243,
+    "duration_seconds": 0.000143
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 152 stars."
+  }
+}
