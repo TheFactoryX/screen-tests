@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5752 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 279k | 2026-03-11 |
+| #5753 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5841,3 +5841,4 @@ If you need permission, you're thinking too much.
 | 5750 | 2026-03-11 06:32:10 | [caidaoli/ccLoad](https://github.com/caidaoli/ccLoad) | ✅ full (204⭐ Go) | [reels/reel_5750_caidaoli-ccLoad](reels/reel_5750_caidaoli-ccLoad) |
 | 5751 | 2026-03-11 07:31:27 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112752⭐ TypeScript) | [reels/reel_5751_iptv-org-iptv](reels/reel_5751_iptv-org-iptv) |
 | 5752 | 2026-03-11 08:05:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (279307⭐ None) | [reels/reel_5752_awesome-selfhosted-awesome-selfhosted](reels/reel_5752_awesome-selfhosted-awesome-selfhosted) |
+| 5753 | 2026-03-11 08:59:47 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109226⭐ TypeScript) | [reels/reel_5753_shadcn-ui-ui](reels/reel_5753_shadcn-ui-ui) |
