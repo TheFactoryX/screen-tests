@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5760 | [zwc456baby/ScrcpyForAndroid](https://github.com/zwc456baby/ScrcpyForAndroid) | Java · ⭐ 617 | 2026-03-11 |
+| #5761 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5849,3 +5849,4 @@ If you need permission, you're thinking too much.
 | 5758 | 2026-03-11 12:56:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126705⭐ Python) | [reels/reel_5758_open-webui-open-webui](reels/reel_5758_open-webui-open-webui) |
 | 5759 | 2026-03-11 14:05:57 | [philyuchkoff/openssl-RPM-Builder](https://github.com/philyuchkoff/openssl-RPM-Builder) | ✅ full (133⭐ Shell) | [reels/reel_5759_philyuchkoff-openssl-RPM-Builder](reels/reel_5759_philyuchkoff-openssl-RPM-Builder) |
 | 5760 | 2026-03-11 15:04:14 | [zwc456baby/ScrcpyForAndroid](https://github.com/zwc456baby/ScrcpyForAndroid) | ✅ full (617⭐ Java) | [reels/reel_5760_zwc456baby-ScrcpyForAndroid](reels/reel_5760_zwc456baby-ScrcpyForAndroid) |
+| 5761 | 2026-03-11 16:01:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145533⭐ Python) | [reels/reel_5761_langflow-ai-langflow](reels/reel_5761_langflow-ai-langflow) |
