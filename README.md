@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5762 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-11 |
+| #5763 | [tailscale/github-action](https://github.com/tailscale/github-action) | TypeScript · ⭐ 873 | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5851,3 +5851,4 @@ If you need permission, you're thinking too much.
 | 5760 | 2026-03-11 15:04:14 | [zwc456baby/ScrcpyForAndroid](https://github.com/zwc456baby/ScrcpyForAndroid) | ✅ full (617⭐ Java) | [reels/reel_5760_zwc456baby-ScrcpyForAndroid](reels/reel_5760_zwc456baby-ScrcpyForAndroid) |
 | 5761 | 2026-03-11 16:01:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145533⭐ Python) | [reels/reel_5761_langflow-ai-langflow](reels/reel_5761_langflow-ai-langflow) |
 | 5762 | 2026-03-11 17:09:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111202⭐ Rust) | [reels/reel_5762_rust-lang-rust](reels/reel_5762_rust-lang-rust) |
+| 5763 | 2026-03-11 18:03:31 | [tailscale/github-action](https://github.com/tailscale/github-action) | ✅ full (873⭐ TypeScript) | [reels/reel_5763_tailscale-github-action](reels/reel_5763_tailscale-github-action) |

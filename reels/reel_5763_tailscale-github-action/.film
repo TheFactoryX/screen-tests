@@ -1,0 +1,24 @@
+{
+  "reel_number": 5763,
+  "recorded": "2026-03-11 18:03:31 UTC",
+  "repository": {
+    "full_name": "tailscale/github-action",
+    "url": "https://github.com/tailscale/github-action",
+    "clone_url": "https://github.com/tailscale/github-action.git",
+    "stars": 873,
+    "language": "TypeScript",
+    "size_kb": 2645
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.910786
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 873 stars."
+  }
+}
