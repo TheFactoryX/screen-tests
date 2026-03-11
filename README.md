@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5771 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | TypeScript · ⭐ 23k | 2026-03-11 |
+| #5772 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 689 | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5860,3 +5860,4 @@ If you need permission, you're thinking too much.
 | 5769 | 2026-03-11 22:25:12 | [nicolastakashi/prom-analytics-proxy](https://github.com/nicolastakashi/prom-analytics-proxy) | ✅ full (146⭐ Go) | [reels/reel_5769_nicolastakashi-prom-analytics-proxy](reels/reel_5769_nicolastakashi-prom-analytics-proxy) |
 | 5770 | 2026-03-11 22:49:16 | [sylwekkominek/SpectrumAnalyzer](https://github.com/sylwekkominek/SpectrumAnalyzer) | ✅ full (30⭐ C++) | [reels/reel_5770_sylwekkominek-SpectrumAnalyzer](reels/reel_5770_sylwekkominek-SpectrumAnalyzer) |
 | 5771 | 2026-03-11 23:24:28 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | ✅ full (23023⭐ TypeScript) | [reels/reel_5771_langfuse-langfuse](reels/reel_5771_langfuse-langfuse) |
+| 5772 | 2026-03-11 23:49:00 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (689⭐ Tcl) | [reels/reel_5772_rust-lang-crates.io-index](reels/reel_5772_rust-lang-crates.io-index) |
