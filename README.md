@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5748 | [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) | C++ · ⭐ 1k | 2026-03-11 |
+| #5749 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-11 |
 ---
 
 ## 🎭 Selection Process
@@ -5837,3 +5837,4 @@ If you need permission, you're thinking too much.
 | 5746 | 2026-03-10 23:57:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (150508⭐ Python) | [reels/reel_5746_yt-dlp-yt-dlp](reels/reel_5746_yt-dlp-yt-dlp) |
 | 5747 | 2026-03-11 02:26:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109188⭐ TypeScript) | [reels/reel_5747_shadcn-ui-ui](reels/reel_5747_shadcn-ui-ui) |
 | 5748 | 2026-03-11 04:20:50 | [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) | ✅ shallow (1332⭐ C++) | [reels/reel_5748_vengi-voxel-vengi](reels/reel_5748_vengi-voxel-vengi) |
+| 5749 | 2026-03-11 05:31:21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126640⭐ Python) | [reels/reel_5749_open-webui-open-webui](reels/reel_5749_open-webui-open-webui) |
