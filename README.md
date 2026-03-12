@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5775 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-12 |
+| #5776 | [skarnet/skalibs](https://github.com/skarnet/skalibs) | C · ⭐ 116 | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5864,3 +5864,4 @@ If you need permission, you're thinking too much.
 | 5773 | 2026-03-12 01:58:34 | [PagerDuty/terraform-provider-pagerduty](https://github.com/PagerDuty/terraform-provider-pagerduty) | ✅ full (216⭐ Go) | [reels/reel_5773_PagerDuty-terraform-provider-pagerduty](reels/reel_5773_PagerDuty-terraform-provider-pagerduty) |
 | 5774 | 2026-03-12 04:19:19 | [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets) | ✅ full (645⭐ Python) | [reels/reel_5774_tonkeeper-ton-assets](reels/reel_5774_tonkeeper-ton-assets) |
 | 5775 | 2026-03-12 05:33:38 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126811⭐ Python) | [reels/reel_5775_open-webui-open-webui](reels/reel_5775_open-webui-open-webui) |
+| 5776 | 2026-03-12 06:34:09 | [skarnet/skalibs](https://github.com/skarnet/skalibs) | ✅ full (116⭐ C) | [reels/reel_5776_skarnet-skalibs](reels/reel_5776_skarnet-skalibs) |

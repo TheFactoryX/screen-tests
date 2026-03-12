@@ -1,0 +1,24 @@
+{
+  "reel_number": 5776,
+  "recorded": "2026-03-12 06:34:09 UTC",
+  "repository": {
+    "full_name": "skarnet/skalibs",
+    "url": "https://github.com/skarnet/skalibs",
+    "clone_url": "https://github.com/skarnet/skalibs.git",
+    "stars": 116,
+    "language": "C",
+    "size_kb": 1872
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.383395
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 116 stars."
+  }
+}
