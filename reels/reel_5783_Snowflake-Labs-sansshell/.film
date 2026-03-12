@@ -1,0 +1,24 @@
+{
+  "reel_number": 5783,
+  "recorded": "2026-03-12 11:58:19 UTC",
+  "repository": {
+    "full_name": "Snowflake-Labs/sansshell",
+    "url": "https://github.com/Snowflake-Labs/sansshell",
+    "clone_url": "https://github.com/Snowflake-Labs/sansshell.git",
+    "stars": 122,
+    "language": "Go",
+    "size_kb": 21767
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 1.061536
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 122 stars."
+  }
+}
