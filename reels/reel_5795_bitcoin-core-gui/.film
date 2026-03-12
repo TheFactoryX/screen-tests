@@ -1,0 +1,24 @@
+{
+  "reel_number": 5795,
+  "recorded": "2026-03-12 22:24:04 UTC",
+  "repository": {
+    "full_name": "bitcoin-core/gui",
+    "url": "https://github.com/bitcoin-core/gui",
+    "clone_url": "https://github.com/bitcoin-core/gui.git",
+    "stars": 706,
+    "language": "C++",
+    "size_kb": 186567
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 182,
+    "duration_seconds": 1.471258
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 706 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5794 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-12 |
+| #5795 | [bitcoin-core/gui](https://github.com/bitcoin-core/gui) | C++ · ⭐ 706 | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5883,3 +5883,4 @@ If you need permission, you're thinking too much.
 | 5792 | 2026-03-12 20:32:40 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109424⭐ TypeScript) | [reels/reel_5792_shadcn-ui-ui](reels/reel_5792_shadcn-ui-ui) |
 | 5793 | 2026-03-12 21:05:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126919⭐ Python) | [reels/reel_5793_open-webui-open-webui](reels/reel_5793_open-webui-open-webui) |
 | 5794 | 2026-03-12 21:47:52 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126922⭐ Python) | [reels/reel_5794_open-webui-open-webui](reels/reel_5794_open-webui-open-webui) |
+| 5795 | 2026-03-12 22:24:04 | [bitcoin-core/gui](https://github.com/bitcoin-core/gui) | ✅ shallow (706⭐ C++) | [reels/reel_5795_bitcoin-core-gui](reels/reel_5795_bitcoin-core-gui) |
