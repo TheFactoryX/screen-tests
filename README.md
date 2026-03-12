@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5777 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-12 |
+| #5778 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5866,3 +5866,4 @@ If you need permission, you're thinking too much.
 | 5775 | 2026-03-12 05:33:38 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126811⭐ Python) | [reels/reel_5775_open-webui-open-webui](reels/reel_5775_open-webui-open-webui) |
 | 5776 | 2026-03-12 06:34:09 | [skarnet/skalibs](https://github.com/skarnet/skalibs) | ✅ full (116⭐ C) | [reels/reel_5776_skarnet-skalibs](reels/reel_5776_skarnet-skalibs) |
 | 5777 | 2026-03-12 07:34:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145557⭐ Python) | [reels/reel_5777_langflow-ai-langflow](reels/reel_5777_langflow-ai-langflow) |
+| 5778 | 2026-03-12 08:23:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126836⭐ Python) | [reels/reel_5778_open-webui-open-webui](reels/reel_5778_open-webui-open-webui) |
