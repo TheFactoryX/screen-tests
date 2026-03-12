@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5787 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 104k | 2026-03-12 |
+| #5788 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5876,3 +5876,4 @@ If you need permission, you're thinking too much.
 | 5785 | 2026-03-12 14:13:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112808⭐ TypeScript) | [reels/reel_5785_iptv-org-iptv](reels/reel_5785_iptv-org-iptv) |
 | 5786 | 2026-03-12 15:10:29 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139851⭐ Python) | [reels/reel_5786_ytdl-org-youtube-dl](reels/reel_5786_ytdl-org-youtube-dl) |
 | 5787 | 2026-03-12 16:15:08 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (104023⭐ Shell) | [reels/reel_5787_papers-we-love-papers-we-love](reels/reel_5787_papers-we-love-papers-we-love) |
+| 5788 | 2026-03-12 17:12:33 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109413⭐ TypeScript) | [reels/reel_5788_shadcn-ui-ui](reels/reel_5788_shadcn-ui-ui) |
