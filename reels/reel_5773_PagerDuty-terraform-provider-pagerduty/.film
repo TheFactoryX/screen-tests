@@ -1,0 +1,24 @@
+{
+  "reel_number": 5773,
+  "recorded": "2026-03-12 01:58:34 UTC",
+  "repository": {
+    "full_name": "PagerDuty/terraform-provider-pagerduty",
+    "url": "https://github.com/PagerDuty/terraform-provider-pagerduty",
+    "clone_url": "https://github.com/PagerDuty/terraform-provider-pagerduty.git",
+    "stars": 216,
+    "language": "Go",
+    "size_kb": 22382
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 1.559043
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 216 stars."
+  }
+}
