@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5795 | [bitcoin-core/gui](https://github.com/bitcoin-core/gui) | C++ · ⭐ 706 | 2026-03-12 |
+| #5796 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5884,3 +5884,4 @@ If you need permission, you're thinking too much.
 | 5793 | 2026-03-12 21:05:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126919⭐ Python) | [reels/reel_5793_open-webui-open-webui](reels/reel_5793_open-webui-open-webui) |
 | 5794 | 2026-03-12 21:47:52 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126922⭐ Python) | [reels/reel_5794_open-webui-open-webui](reels/reel_5794_open-webui-open-webui) |
 | 5795 | 2026-03-12 22:24:04 | [bitcoin-core/gui](https://github.com/bitcoin-core/gui) | ✅ shallow (706⭐ C++) | [reels/reel_5795_bitcoin-core-gui](reels/reel_5795_bitcoin-core-gui) |
+| 5796 | 2026-03-12 22:52:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111209⭐ Rust) | [reels/reel_5796_rust-lang-rust](reels/reel_5796_rust-lang-rust) |
