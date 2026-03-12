@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5797 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-12 |
+| #5798 | [ooyinet/WeClone](https://github.com/ooyinet/WeClone) | Python · ⭐ 122 | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5886,3 +5886,4 @@ If you need permission, you're thinking too much.
 | 5795 | 2026-03-12 22:24:04 | [bitcoin-core/gui](https://github.com/bitcoin-core/gui) | ✅ shallow (706⭐ C++) | [reels/reel_5795_bitcoin-core-gui](reels/reel_5795_bitcoin-core-gui) |
 | 5796 | 2026-03-12 22:52:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111209⭐ Rust) | [reels/reel_5796_rust-lang-rust](reels/reel_5796_rust-lang-rust) |
 | 5797 | 2026-03-12 23:26:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182403⭐ Python) | [reels/reel_5797_Significant-Gravitas-AutoGPT](reels/reel_5797_Significant-Gravitas-AutoGPT) |
+| 5798 | 2026-03-12 23:50:30 | [ooyinet/WeClone](https://github.com/ooyinet/WeClone) | ✅ full (122⭐ Python) | [reels/reel_5798_ooyinet-WeClone](reels/reel_5798_ooyinet-WeClone) |

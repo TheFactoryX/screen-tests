@@ -1,0 +1,24 @@
+{
+  "reel_number": 5798,
+  "recorded": "2026-03-12 23:50:30 UTC",
+  "repository": {
+    "full_name": "ooyinet/WeClone",
+    "url": "https://github.com/ooyinet/WeClone",
+    "clone_url": "https://github.com/ooyinet/WeClone.git",
+    "stars": 122,
+    "language": "Python",
+    "size_kb": 2450
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.316369
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 122 stars."
+  }
+}
