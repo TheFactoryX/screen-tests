@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5773 | [PagerDuty/terraform-provider-pagerduty](https://github.com/PagerDuty/terraform-provider-pagerduty) | Go · ⭐ 216 | 2026-03-12 |
+| #5774 | [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets) | Python · ⭐ 645 | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5862,3 +5862,4 @@ If you need permission, you're thinking too much.
 | 5771 | 2026-03-11 23:24:28 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | ✅ full (23023⭐ TypeScript) | [reels/reel_5771_langfuse-langfuse](reels/reel_5771_langfuse-langfuse) |
 | 5772 | 2026-03-11 23:49:00 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (689⭐ Tcl) | [reels/reel_5772_rust-lang-crates.io-index](reels/reel_5772_rust-lang-crates.io-index) |
 | 5773 | 2026-03-12 01:58:34 | [PagerDuty/terraform-provider-pagerduty](https://github.com/PagerDuty/terraform-provider-pagerduty) | ✅ full (216⭐ Go) | [reels/reel_5773_PagerDuty-terraform-provider-pagerduty](reels/reel_5773_PagerDuty-terraform-provider-pagerduty) |
+| 5774 | 2026-03-12 04:19:19 | [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets) | ✅ full (645⭐ Python) | [reels/reel_5774_tonkeeper-ton-assets](reels/reel_5774_tonkeeper-ton-assets) |

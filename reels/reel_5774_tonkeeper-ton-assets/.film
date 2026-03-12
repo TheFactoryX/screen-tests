@@ -1,0 +1,24 @@
+{
+  "reel_number": 5774,
+  "recorded": "2026-03-12 04:19:19 UTC",
+  "repository": {
+    "full_name": "tonkeeper/ton-assets",
+    "url": "https://github.com/tonkeeper/ton-assets",
+    "clone_url": "https://github.com/tonkeeper/ton-assets.git",
+    "stars": 645,
+    "language": "Python",
+    "size_kb": 13509
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 1.35261
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 645 stars."
+  }
+}
