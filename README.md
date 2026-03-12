@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5781 | [Dicklesworthstone/frankensqlite](https://github.com/Dicklesworthstone/frankensqlite) | Rust · ⭐ 128 | 2026-03-12 |
+| #5782 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5870,3 +5870,4 @@ If you need permission, you're thinking too much.
 | 5779 | 2026-03-12 09:07:49 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129232⭐ Python) | [reels/reel_5779_langchain-ai-langchain](reels/reel_5779_langchain-ai-langchain) |
 | 5780 | 2026-03-12 10:00:18 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (108206⭐ None) | [reels/reel_5780_Hack-with-Github-Awesome-Hacking](reels/reel_5780_Hack-with-Github-Awesome-Hacking) |
 | 5781 | 2026-03-12 10:59:48 | [Dicklesworthstone/frankensqlite](https://github.com/Dicklesworthstone/frankensqlite) | ✅ full (128⭐ Rust) | [reels/reel_5781_Dicklesworthstone-frankensqlite](reels/reel_5781_Dicklesworthstone-frankensqlite) |
+| 5782 | 2026-03-12 11:37:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182386⭐ Python) | [reels/reel_5782_Significant-Gravitas-AutoGPT](reels/reel_5782_Significant-Gravitas-AutoGPT) |
