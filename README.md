@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5789 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-03-12 |
+| #5790 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5878,3 +5878,4 @@ If you need permission, you're thinking too much.
 | 5787 | 2026-03-12 16:15:08 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (104023⭐ Shell) | [reels/reel_5787_papers-we-love-papers-we-love](reels/reel_5787_papers-we-love-papers-we-love) |
 | 5788 | 2026-03-12 17:12:33 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109413⭐ TypeScript) | [reels/reel_5788_shadcn-ui-ui](reels/reel_5788_shadcn-ui-ui) |
 | 5789 | 2026-03-12 18:02:51 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97758⭐ TypeScript) | [reels/reel_5789_ant-design-ant-design](reels/reel_5789_ant-design-ant-design) |
+| 5790 | 2026-03-12 19:11:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126914⭐ Python) | [reels/reel_5790_open-webui-open-webui](reels/reel_5790_open-webui-open-webui) |
