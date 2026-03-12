@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5792 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-12 |
+| #5793 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 126k | 2026-03-12 |
 ---
 
 ## 🎭 Selection Process
@@ -5881,3 +5881,4 @@ If you need permission, you're thinking too much.
 | 5790 | 2026-03-12 19:11:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126914⭐ Python) | [reels/reel_5790_open-webui-open-webui](reels/reel_5790_open-webui-open-webui) |
 | 5791 | 2026-03-12 19:52:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129293⭐ Python) | [reels/reel_5791_langchain-ai-langchain](reels/reel_5791_langchain-ai-langchain) |
 | 5792 | 2026-03-12 20:32:40 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109424⭐ TypeScript) | [reels/reel_5792_shadcn-ui-ui](reels/reel_5792_shadcn-ui-ui) |
+| 5793 | 2026-03-12 21:05:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (126919⭐ Python) | [reels/reel_5793_open-webui-open-webui](reels/reel_5793_open-webui-open-webui) |
