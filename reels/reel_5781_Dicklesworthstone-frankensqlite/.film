@@ -1,0 +1,24 @@
+{
+  "reel_number": 5781,
+  "recorded": "2026-03-12 10:59:48 UTC",
+  "repository": {
+    "full_name": "Dicklesworthstone/frankensqlite",
+    "url": "https://github.com/Dicklesworthstone/frankensqlite",
+    "clone_url": "https://github.com/Dicklesworthstone/frankensqlite.git",
+    "stars": 128,
+    "language": "Rust",
+    "size_kb": 49221
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 48,
+    "duration_seconds": 13.527606
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 128 stars."
+  }
+}
