@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5803 | [lydavid/MusicSearch](https://github.com/lydavid/MusicSearch) | Kotlin · ⭐ 122 | 2026-03-13 |
+| #5804 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5892,3 +5892,4 @@ If you need permission, you're thinking too much.
 | 5801 | 2026-03-13 05:18:54 | [opengeos/geospatial-data-catalogs](https://github.com/opengeos/geospatial-data-catalogs) | ✅ shallow (627⭐ Python) | [reels/reel_5801_opengeos-geospatial-data-catalogs](reels/reel_5801_opengeos-geospatial-data-catalogs) |
 | 5802 | 2026-03-13 06:08:28 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112829⭐ TypeScript) | [reels/reel_5802_iptv-org-iptv](reels/reel_5802_iptv-org-iptv) |
 | 5803 | 2026-03-13 07:12:14 | [lydavid/MusicSearch](https://github.com/lydavid/MusicSearch) | ✅ full (122⭐ Kotlin) | [reels/reel_5803_lydavid-MusicSearch](reels/reel_5803_lydavid-MusicSearch) |
+| 5804 | 2026-03-13 07:56:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182418⭐ Python) | [reels/reel_5804_Significant-Gravitas-AutoGPT](reels/reel_5804_Significant-Gravitas-AutoGPT) |
