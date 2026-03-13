@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5820 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 178k | 2026-03-13 |
+| #5821 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5909,3 +5909,4 @@ If you need permission, you're thinking too much.
 | 5818 | 2026-03-13 19:00:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112846⭐ TypeScript) | [reels/reel_5818_iptv-org-iptv](reels/reel_5818_iptv-org-iptv) |
 | 5819 | 2026-03-13 19:46:47 | [TissueImageAnalytics/tiatoolbox](https://github.com/TissueImageAnalytics/tiatoolbox) | ✅ readme_only (513⭐ Python) | [reels/reel_5819_TissueImageAnalytics-tiatoolbox](reels/reel_5819_TissueImageAnalytics-tiatoolbox) |
 | 5820 | 2026-03-13 20:32:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178984⭐ TypeScript) | [reels/reel_5820_n8n-io-n8n](reels/reel_5820_n8n-io-n8n) |
+| 5821 | 2026-03-13 21:05:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182437⭐ Python) | [reels/reel_5821_Significant-Gravitas-AutoGPT](reels/reel_5821_Significant-Gravitas-AutoGPT) |
