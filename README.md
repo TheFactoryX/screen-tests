@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5822 | [anettrolikova/Crypto](https://github.com/anettrolikova/Crypto) | None · ⭐ 101 | 2026-03-13 |
+| #5823 | [dammafra/drysland](https://github.com/dammafra/drysland) | JavaScript · ⭐ 56 | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5911,3 +5911,4 @@ If you need permission, you're thinking too much.
 | 5820 | 2026-03-13 20:32:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (178984⭐ TypeScript) | [reels/reel_5820_n8n-io-n8n](reels/reel_5820_n8n-io-n8n) |
 | 5821 | 2026-03-13 21:05:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182437⭐ Python) | [reels/reel_5821_Significant-Gravitas-AutoGPT](reels/reel_5821_Significant-Gravitas-AutoGPT) |
 | 5822 | 2026-03-13 21:47:56 | [anettrolikova/Crypto](https://github.com/anettrolikova/Crypto) | ✅ full (101⭐ None) | [reels/reel_5822_anettrolikova-Crypto](reels/reel_5822_anettrolikova-Crypto) |
+| 5823 | 2026-03-13 22:26:13 | [dammafra/drysland](https://github.com/dammafra/drysland) | ✅ full (56⭐ JavaScript) | [reels/reel_5823_dammafra-drysland](reels/reel_5823_dammafra-drysland) |
