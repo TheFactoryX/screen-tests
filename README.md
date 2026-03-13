@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5816 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-13 |
+| #5817 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 474k | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5905,3 +5905,4 @@ If you need permission, you're thinking too much.
 | 5814 | 2026-03-13 15:57:12 | [Rito-w/awesome-openclaw-skills-zh](https://github.com/Rito-w/awesome-openclaw-skills-zh) | ✅ full (46⭐ Python) | [reels/reel_5814_Rito-w-awesome-openclaw-skills-zh](reels/reel_5814_Rito-w-awesome-openclaw-skills-zh) |
 | 5815 | 2026-03-13 16:45:36 | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | ✅ full (958⭐ TypeScript) | [reels/reel_5815_mongodb-js-mongodb-mcp-server](reels/reel_5815_mongodb-js-mongodb-mcp-server) |
 | 5816 | 2026-03-13 17:33:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129354⭐ Python) | [reels/reel_5816_langchain-ai-langchain](reels/reel_5816_langchain-ai-langchain) |
+| 5817 | 2026-03-13 18:04:22 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (474773⭐ Markdown) | [reels/reel_5817_codecrafters-io-build-your-own-x](reels/reel_5817_codecrafters-io-build-your-own-x) |
