@@ -1,0 +1,24 @@
+{
+  "reel_number": 5815,
+  "recorded": "2026-03-13 16:45:36 UTC",
+  "repository": {
+    "full_name": "mongodb-js/mongodb-mcp-server",
+    "url": "https://github.com/mongodb-js/mongodb-mcp-server",
+    "clone_url": "https://github.com/mongodb-js/mongodb-mcp-server.git",
+    "stars": 958,
+    "language": "TypeScript",
+    "size_kb": 7106
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.31137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 958 stars."
+  }
+}
