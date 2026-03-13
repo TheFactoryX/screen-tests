@@ -1,0 +1,24 @@
+{
+  "reel_number": 5803,
+  "recorded": "2026-03-13 07:12:14 UTC",
+  "repository": {
+    "full_name": "lydavid/MusicSearch",
+    "url": "https://github.com/lydavid/MusicSearch",
+    "clone_url": "https://github.com/lydavid/MusicSearch.git",
+    "stars": 122,
+    "language": "Kotlin",
+    "size_kb": 90532
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 88,
+    "duration_seconds": 13.183864
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 122 stars."
+  }
+}
