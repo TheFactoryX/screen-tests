@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5800 | [aparrish/bezmerizing](https://github.com/aparrish/bezmerizing) | Jupyter Notebook · ⭐ 17 | 2026-03-13 |
+| #5801 | [opengeos/geospatial-data-catalogs](https://github.com/opengeos/geospatial-data-catalogs) | Python · ⭐ 627 | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5889,3 +5889,4 @@ If you need permission, you're thinking too much.
 | 5798 | 2026-03-12 23:50:30 | [ooyinet/WeClone](https://github.com/ooyinet/WeClone) | ✅ full (122⭐ Python) | [reels/reel_5798_ooyinet-WeClone](reels/reel_5798_ooyinet-WeClone) |
 | 5799 | 2026-03-13 01:56:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145588⭐ Python) | [reels/reel_5799_langflow-ai-langflow](reels/reel_5799_langflow-ai-langflow) |
 | 5800 | 2026-03-13 04:14:04 | [aparrish/bezmerizing](https://github.com/aparrish/bezmerizing) | ✅ full (17⭐ Jupyter Notebook) | [reels/reel_5800_aparrish-bezmerizing](reels/reel_5800_aparrish-bezmerizing) |
+| 5801 | 2026-03-13 05:18:54 | [opengeos/geospatial-data-catalogs](https://github.com/opengeos/geospatial-data-catalogs) | ✅ shallow (627⭐ Python) | [reels/reel_5801_opengeos-geospatial-data-catalogs](reels/reel_5801_opengeos-geospatial-data-catalogs) |

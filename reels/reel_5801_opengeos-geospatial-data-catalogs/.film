@@ -1,0 +1,24 @@
+{
+  "reel_number": 5801,
+  "recorded": "2026-03-13 05:18:54 UTC",
+  "repository": {
+    "full_name": "opengeos/geospatial-data-catalogs",
+    "url": "https://github.com/opengeos/geospatial-data-catalogs",
+    "clone_url": "https://github.com/opengeos/geospatial-data-catalogs.git",
+    "stars": 627,
+    "language": "Python",
+    "size_kb": 436906
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 426,
+    "duration_seconds": 4.684402
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 627 stars."
+  }
+}
