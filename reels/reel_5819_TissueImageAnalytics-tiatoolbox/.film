@@ -1,0 +1,24 @@
+{
+  "reel_number": 5819,
+  "recorded": "2026-03-13 19:46:47 UTC",
+  "repository": {
+    "full_name": "TissueImageAnalytics/tiatoolbox",
+    "url": "https://github.com/TissueImageAnalytics/tiatoolbox",
+    "clone_url": "https://github.com/TissueImageAnalytics/tiatoolbox.git",
+    "stars": 513,
+    "language": "Python",
+    "size_kb": 719610
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 702,
+    "duration_seconds": 0.00016
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 513 stars."
+  }
+}
