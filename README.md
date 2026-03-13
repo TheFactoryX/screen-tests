@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5823 | [dammafra/drysland](https://github.com/dammafra/drysland) | JavaScript · ⭐ 56 | 2026-03-13 |
+| #5824 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5912,3 +5912,4 @@ If you need permission, you're thinking too much.
 | 5821 | 2026-03-13 21:05:23 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182437⭐ Python) | [reels/reel_5821_Significant-Gravitas-AutoGPT](reels/reel_5821_Significant-Gravitas-AutoGPT) |
 | 5822 | 2026-03-13 21:47:56 | [anettrolikova/Crypto](https://github.com/anettrolikova/Crypto) | ✅ full (101⭐ None) | [reels/reel_5822_anettrolikova-Crypto](reels/reel_5822_anettrolikova-Crypto) |
 | 5823 | 2026-03-13 22:26:13 | [dammafra/drysland](https://github.com/dammafra/drysland) | ✅ full (56⭐ JavaScript) | [reels/reel_5823_dammafra-drysland](reels/reel_5823_dammafra-drysland) |
+| 5824 | 2026-03-13 22:52:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129367⭐ Python) | [reels/reel_5824_langchain-ai-langchain](reels/reel_5824_langchain-ai-langchain) |
