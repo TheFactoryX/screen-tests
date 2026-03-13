@@ -1,0 +1,24 @@
+{
+  "reel_number": 5822,
+  "recorded": "2026-03-13 21:47:56 UTC",
+  "repository": {
+    "full_name": "anettrolikova/Crypto",
+    "url": "https://github.com/anettrolikova/Crypto",
+    "clone_url": "https://github.com/anettrolikova/Crypto.git",
+    "stars": 101,
+    "language": null,
+    "size_kb": 708
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.28463
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 101 stars."
+  }
+}
