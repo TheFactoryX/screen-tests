@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5798 | [ooyinet/WeClone](https://github.com/ooyinet/WeClone) | Python · ⭐ 122 | 2026-03-12 |
+| #5799 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5887,3 +5887,4 @@ If you need permission, you're thinking too much.
 | 5796 | 2026-03-12 22:52:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111209⭐ Rust) | [reels/reel_5796_rust-lang-rust](reels/reel_5796_rust-lang-rust) |
 | 5797 | 2026-03-12 23:26:48 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182403⭐ Python) | [reels/reel_5797_Significant-Gravitas-AutoGPT](reels/reel_5797_Significant-Gravitas-AutoGPT) |
 | 5798 | 2026-03-12 23:50:30 | [ooyinet/WeClone](https://github.com/ooyinet/WeClone) | ✅ full (122⭐ Python) | [reels/reel_5798_ooyinet-WeClone](reels/reel_5798_ooyinet-WeClone) |
+| 5799 | 2026-03-13 01:56:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145588⭐ Python) | [reels/reel_5799_langflow-ai-langflow](reels/reel_5799_langflow-ai-langflow) |
