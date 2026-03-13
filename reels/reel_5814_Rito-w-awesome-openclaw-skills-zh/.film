@@ -1,0 +1,24 @@
+{
+  "reel_number": 5814,
+  "recorded": "2026-03-13 15:57:12 UTC",
+  "repository": {
+    "full_name": "Rito-w/awesome-openclaw-skills-zh",
+    "url": "https://github.com/Rito-w/awesome-openclaw-skills-zh",
+    "clone_url": "https://github.com/Rito-w/awesome-openclaw-skills-zh.git",
+    "stars": 46,
+    "language": "Python",
+    "size_kb": 3979
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.63604
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 46 stars."
+  }
+}
