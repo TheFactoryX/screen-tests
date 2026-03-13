@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5805 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-13 |
+| #5806 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5894,3 +5894,4 @@ If you need permission, you're thinking too much.
 | 5803 | 2026-03-13 07:12:14 | [lydavid/MusicSearch](https://github.com/lydavid/MusicSearch) | ✅ full (122⭐ Kotlin) | [reels/reel_5803_lydavid-MusicSearch](reels/reel_5803_lydavid-MusicSearch) |
 | 5804 | 2026-03-13 07:56:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182418⭐ Python) | [reels/reel_5804_Significant-Gravitas-AutoGPT](reels/reel_5804_Significant-Gravitas-AutoGPT) |
 | 5805 | 2026-03-13 08:40:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109466⭐ TypeScript) | [reels/reel_5805_shadcn-ui-ui](reels/reel_5805_shadcn-ui-ui) |
+| 5806 | 2026-03-13 09:23:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111222⭐ Rust) | [reels/reel_5806_rust-lang-rust](reels/reel_5806_rust-lang-rust) |
