@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5810 | [FlameFlag/nixcord](https://github.com/FlameFlag/nixcord) | TypeScript · ⭐ 256 | 2026-03-13 |
+| #5811 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5899,3 +5899,4 @@ If you need permission, you're thinking too much.
 | 5808 | 2026-03-13 10:56:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127004⭐ Python) | [reels/reel_5808_open-webui-open-webui](reels/reel_5808_open-webui-open-webui) |
 | 5809 | 2026-03-13 11:33:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145604⭐ Python) | [reels/reel_5809_langflow-ai-langflow](reels/reel_5809_langflow-ai-langflow) |
 | 5810 | 2026-03-13 12:00:02 | [FlameFlag/nixcord](https://github.com/FlameFlag/nixcord) | ✅ full (256⭐ TypeScript) | [reels/reel_5810_FlameFlag-nixcord](reels/reel_5810_FlameFlag-nixcord) |
+| 5811 | 2026-03-13 13:19:11 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129402⭐ Python) | [reels/reel_5811_langchain-ai-langchain](reels/reel_5811_langchain-ai-langchain) |
