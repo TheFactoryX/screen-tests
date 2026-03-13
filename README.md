@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5815 | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | TypeScript · ⭐ 958 | 2026-03-13 |
+| #5816 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-13 |
 ---
 
 ## 🎭 Selection Process
@@ -5904,3 +5904,4 @@ If you need permission, you're thinking too much.
 | 5813 | 2026-03-13 15:01:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129344⭐ Python) | [reels/reel_5813_langchain-ai-langchain](reels/reel_5813_langchain-ai-langchain) |
 | 5814 | 2026-03-13 15:57:12 | [Rito-w/awesome-openclaw-skills-zh](https://github.com/Rito-w/awesome-openclaw-skills-zh) | ✅ full (46⭐ Python) | [reels/reel_5814_Rito-w-awesome-openclaw-skills-zh](reels/reel_5814_Rito-w-awesome-openclaw-skills-zh) |
 | 5815 | 2026-03-13 16:45:36 | [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | ✅ full (958⭐ TypeScript) | [reels/reel_5815_mongodb-js-mongodb-mcp-server](reels/reel_5815_mongodb-js-mongodb-mcp-server) |
+| 5816 | 2026-03-13 17:33:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129354⭐ Python) | [reels/reel_5816_langchain-ai-langchain](reels/reel_5816_langchain-ai-langchain) |
