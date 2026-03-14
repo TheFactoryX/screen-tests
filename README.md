@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5840 | [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) | HTML · ⭐ 422 | 2026-03-14 |
+| #5841 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 127k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5929,3 +5929,4 @@ If you need permission, you're thinking too much.
 | 5838 | 2026-03-14 11:22:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109477⭐ TypeScript) | [reels/reel_5838_shadcn-ui-ui](reels/reel_5838_shadcn-ui-ui) |
 | 5839 | 2026-03-14 11:46:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129436⭐ Python) | [reels/reel_5839_langchain-ai-langchain](reels/reel_5839_langchain-ai-langchain) |
 | 5840 | 2026-03-14 12:48:05 | [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) | ✅ shallow (422⭐ HTML) | [reels/reel_5840_DivinumOfficium-divinum-officium](reels/reel_5840_DivinumOfficium-divinum-officium) |
+| 5841 | 2026-03-14 13:43:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127139⭐ Python) | [reels/reel_5841_open-webui-open-webui](reels/reel_5841_open-webui-open-webui) |
