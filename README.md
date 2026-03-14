@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5846 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-03-14 |
+| #5847 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 151k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5935,3 +5935,4 @@ If you need permission, you're thinking too much.
 | 5844 | 2026-03-14 15:26:07 | [ChiSheng9/iptv](https://github.com/ChiSheng9/iptv) | ✅ full (172⭐ None) | [reels/reel_5844_ChiSheng9-iptv](reels/reel_5844_ChiSheng9-iptv) |
 | 5845 | 2026-03-14 15:51:11 | [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) | ✅ full (206⭐ YAML) | [reels/reel_5845_waifulabs-infrastructure](reels/reel_5845_waifulabs-infrastructure) |
 | 5846 | 2026-03-14 16:29:03 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102141⭐ Python) | [reels/reel_5846_deepseek-ai-DeepSeek-V3](reels/reel_5846_deepseek-ai-DeepSeek-V3) |
+| 5847 | 2026-03-14 16:58:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151157⭐ Python) | [reels/reel_5847_yt-dlp-yt-dlp](reels/reel_5847_yt-dlp-yt-dlp) |
