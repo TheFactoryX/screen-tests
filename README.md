@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5833 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-14 |
+| #5834 | [tardis-dev/tardis-node](https://github.com/tardis-dev/tardis-node) | TypeScript · ⭐ 347 | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5922,3 +5922,4 @@ If you need permission, you're thinking too much.
 | 5831 | 2026-03-14 07:05:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145628⭐ Python) | [reels/reel_5831_langflow-ai-langflow](reels/reel_5831_langflow-ai-langflow) |
 | 5832 | 2026-03-14 07:49:33 | [timweiland/GaussianMarkovRandomFields.jl](https://github.com/timweiland/GaussianMarkovRandomFields.jl) | ✅ full (12⭐ Julia) | [reels/reel_5832_timweiland-GaussianMarkovRandomFields.jl](reels/reel_5832_timweiland-GaussianMarkovRandomFields.jl) |
 | 5833 | 2026-03-14 08:33:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145628⭐ Python) | [reels/reel_5833_langflow-ai-langflow](reels/reel_5833_langflow-ai-langflow) |
+| 5834 | 2026-03-14 09:04:58 | [tardis-dev/tardis-node](https://github.com/tardis-dev/tardis-node) | ✅ full (347⭐ TypeScript) | [reels/reel_5834_tardis-dev-tardis-node](reels/reel_5834_tardis-dev-tardis-node) |
