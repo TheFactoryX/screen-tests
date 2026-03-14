@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5845 | [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) | YAML · ⭐ 206 | 2026-03-14 |
+| #5846 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5934,3 +5934,4 @@ If you need permission, you're thinking too much.
 | 5843 | 2026-03-14 14:49:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (179088⭐ TypeScript) | [reels/reel_5843_n8n-io-n8n](reels/reel_5843_n8n-io-n8n) |
 | 5844 | 2026-03-14 15:26:07 | [ChiSheng9/iptv](https://github.com/ChiSheng9/iptv) | ✅ full (172⭐ None) | [reels/reel_5844_ChiSheng9-iptv](reels/reel_5844_ChiSheng9-iptv) |
 | 5845 | 2026-03-14 15:51:11 | [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) | ✅ full (206⭐ YAML) | [reels/reel_5845_waifulabs-infrastructure](reels/reel_5845_waifulabs-infrastructure) |
+| 5846 | 2026-03-14 16:29:03 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102141⭐ Python) | [reels/reel_5846_deepseek-ai-DeepSeek-V3](reels/reel_5846_deepseek-ai-DeepSeek-V3) |
