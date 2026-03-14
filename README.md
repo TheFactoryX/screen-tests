@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5848 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-14 |
+| #5849 | [vitaut/zmij](https://github.com/vitaut/zmij) | C++ · ⭐ 310 | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5937,3 +5937,4 @@ If you need permission, you're thinking too much.
 | 5846 | 2026-03-14 16:29:03 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102141⭐ Python) | [reels/reel_5846_deepseek-ai-DeepSeek-V3](reels/reel_5846_deepseek-ai-DeepSeek-V3) |
 | 5847 | 2026-03-14 16:58:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151157⭐ Python) | [reels/reel_5847_yt-dlp-yt-dlp](reels/reel_5847_yt-dlp-yt-dlp) |
 | 5848 | 2026-03-14 17:33:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111197⭐ Rust) | [reels/reel_5848_rust-lang-rust](reels/reel_5848_rust-lang-rust) |
+| 5849 | 2026-03-14 17:57:57 | [vitaut/zmij](https://github.com/vitaut/zmij) | ✅ full (310⭐ C++) | [reels/reel_5849_vitaut-zmij](reels/reel_5849_vitaut-zmij) |

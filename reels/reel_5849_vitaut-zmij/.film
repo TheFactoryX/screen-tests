@@ -1,0 +1,24 @@
+{
+  "reel_number": 5849,
+  "recorded": "2026-03-14 17:57:57 UTC",
+  "repository": {
+    "full_name": "vitaut/zmij",
+    "url": "https://github.com/vitaut/zmij",
+    "clone_url": "https://github.com/vitaut/zmij.git",
+    "stars": 310,
+    "language": "C++",
+    "size_kb": 1084
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.759943
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 310 stars."
+  }
+}
