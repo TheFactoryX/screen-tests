@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5857 | [whtsky/kindle-sdr-cleaner](https://github.com/whtsky/kindle-sdr-cleaner) | Python · ⭐ 16 | 2026-03-14 |
+| #5858 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 475k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5946,3 +5946,4 @@ If you need permission, you're thinking too much.
 | 5855 | 2026-03-14 21:25:29 | [kirkluokun/awesome-a-stock-openclawskills](https://github.com/kirkluokun/awesome-a-stock-openclawskills) | ✅ full (13⭐ Python) | [reels/reel_5855_kirkluokun-awesome-a-stock-openclawskills](reels/reel_5855_kirkluokun-awesome-a-stock-openclawskills) |
 | 5856 | 2026-03-14 21:49:27 | [meziantou/Meziantou.Framework](https://github.com/meziantou/Meziantou.Framework) | ✅ full (801⭐ C#) | [reels/reel_5856_meziantou-Meziantou.Framework](reels/reel_5856_meziantou-Meziantou.Framework) |
 | 5857 | 2026-03-14 22:23:42 | [whtsky/kindle-sdr-cleaner](https://github.com/whtsky/kindle-sdr-cleaner) | ✅ full (16⭐ Python) | [reels/reel_5857_whtsky-kindle-sdr-cleaner](reels/reel_5857_whtsky-kindle-sdr-cleaner) |
+| 5858 | 2026-03-14 22:52:13 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (475149⭐ Markdown) | [reels/reel_5858_codecrafters-io-build-your-own-x](reels/reel_5858_codecrafters-io-build-your-own-x) |
