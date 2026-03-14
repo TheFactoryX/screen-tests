@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5838 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-14 |
+| #5839 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5927,3 +5927,4 @@ If you need permission, you're thinking too much.
 | 5836 | 2026-03-14 10:26:50 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (409908⭐ Python) | [reels/reel_5836_public-apis-public-apis](reels/reel_5836_public-apis-public-apis) |
 | 5837 | 2026-03-14 10:54:19 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (108326⭐ None) | [reels/reel_5837_Hack-with-Github-Awesome-Hacking](reels/reel_5837_Hack-with-Github-Awesome-Hacking) |
 | 5838 | 2026-03-14 11:22:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109477⭐ TypeScript) | [reels/reel_5838_shadcn-ui-ui](reels/reel_5838_shadcn-ui-ui) |
+| 5839 | 2026-03-14 11:46:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129436⭐ Python) | [reels/reel_5839_langchain-ai-langchain](reels/reel_5839_langchain-ai-langchain) |
