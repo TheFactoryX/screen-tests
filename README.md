@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5852 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-14 |
+| #5853 | [kreuzberg-dev/tree-sitter-language-pack](https://github.com/kreuzberg-dev/tree-sitter-language-pack) | Elixir · ⭐ 257 | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5941,3 +5941,4 @@ If you need permission, you're thinking too much.
 | 5850 | 2026-03-14 18:48:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129476⭐ Python) | [reels/reel_5850_langchain-ai-langchain](reels/reel_5850_langchain-ai-langchain) |
 | 5851 | 2026-03-14 19:25:10 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (475111⭐ Markdown) | [reels/reel_5851_codecrafters-io-build-your-own-x](reels/reel_5851_codecrafters-io-build-your-own-x) |
 | 5852 | 2026-03-14 19:47:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111199⭐ Rust) | [reels/reel_5852_rust-lang-rust](reels/reel_5852_rust-lang-rust) |
+| 5853 | 2026-03-14 20:26:22 | [kreuzberg-dev/tree-sitter-language-pack](https://github.com/kreuzberg-dev/tree-sitter-language-pack) | ✅ full (257⭐ Elixir) | [reels/reel_5853_kreuzberg-dev-tree-sitter-language-pack](reels/reel_5853_kreuzberg-dev-tree-sitter-language-pack) |

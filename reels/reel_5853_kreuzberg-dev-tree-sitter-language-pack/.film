@@ -1,0 +1,24 @@
+{
+  "reel_number": 5853,
+  "recorded": "2026-03-14 20:26:22 UTC",
+  "repository": {
+    "full_name": "kreuzberg-dev/tree-sitter-language-pack",
+    "url": "https://github.com/kreuzberg-dev/tree-sitter-language-pack",
+    "clone_url": "https://github.com/kreuzberg-dev/tree-sitter-language-pack.git",
+    "stars": 257,
+    "language": "Elixir",
+    "size_kb": 14428
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 0.732233
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Elixir",
+    "director_note": "A Elixir repository. 257 stars."
+  }
+}
