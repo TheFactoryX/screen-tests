@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5843 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 179k | 2026-03-14 |
+| #5844 | [ChiSheng9/iptv](https://github.com/ChiSheng9/iptv) | None · ⭐ 172 | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5932,3 +5932,4 @@ If you need permission, you're thinking too much.
 | 5841 | 2026-03-14 13:43:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127139⭐ Python) | [reels/reel_5841_open-webui-open-webui](reels/reel_5841_open-webui-open-webui) |
 | 5842 | 2026-03-14 14:14:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (102706⭐ TypeScript) | [reels/reel_5842_clash-verge-rev-clash-verge-rev](reels/reel_5842_clash-verge-rev-clash-verge-rev) |
 | 5843 | 2026-03-14 14:49:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (179088⭐ TypeScript) | [reels/reel_5843_n8n-io-n8n](reels/reel_5843_n8n-io-n8n) |
+| 5844 | 2026-03-14 15:26:07 | [ChiSheng9/iptv](https://github.com/ChiSheng9/iptv) | ✅ full (172⭐ None) | [reels/reel_5844_ChiSheng9-iptv](reels/reel_5844_ChiSheng9-iptv) |
