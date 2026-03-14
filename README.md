@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5859 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-14 |
+| #5860 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5948,3 +5948,4 @@ If you need permission, you're thinking too much.
 | 5857 | 2026-03-14 22:23:42 | [whtsky/kindle-sdr-cleaner](https://github.com/whtsky/kindle-sdr-cleaner) | ✅ full (16⭐ Python) | [reels/reel_5857_whtsky-kindle-sdr-cleaner](reels/reel_5857_whtsky-kindle-sdr-cleaner) |
 | 5858 | 2026-03-14 22:52:13 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (475149⭐ Markdown) | [reels/reel_5858_codecrafters-io-build-your-own-x](reels/reel_5858_codecrafters-io-build-your-own-x) |
 | 5859 | 2026-03-14 23:25:49 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182454⭐ Python) | [reels/reel_5859_Significant-Gravitas-AutoGPT](reels/reel_5859_Significant-Gravitas-AutoGPT) |
+| 5860 | 2026-03-14 23:50:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111209⭐ Rust) | [reels/reel_5860_rust-lang-rust](reels/reel_5860_rust-lang-rust) |
