@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5835 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 179k | 2026-03-14 |
+| #5836 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 409k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5924,3 +5924,4 @@ If you need permission, you're thinking too much.
 | 5833 | 2026-03-14 08:33:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145628⭐ Python) | [reels/reel_5833_langflow-ai-langflow](reels/reel_5833_langflow-ai-langflow) |
 | 5834 | 2026-03-14 09:04:58 | [tardis-dev/tardis-node](https://github.com/tardis-dev/tardis-node) | ✅ full (347⭐ TypeScript) | [reels/reel_5834_tardis-dev-tardis-node](reels/reel_5834_tardis-dev-tardis-node) |
 | 5835 | 2026-03-14 09:48:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (179054⭐ TypeScript) | [reels/reel_5835_n8n-io-n8n](reels/reel_5835_n8n-io-n8n) |
+| 5836 | 2026-03-14 10:26:50 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (409908⭐ Python) | [reels/reel_5836_public-apis-public-apis](reels/reel_5836_public-apis-public-apis) |
