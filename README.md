@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5831 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-14 |
+| #5832 | [timweiland/GaussianMarkovRandomFields.jl](https://github.com/timweiland/GaussianMarkovRandomFields.jl) | Julia · ⭐ 12 | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5920,3 +5920,4 @@ If you need permission, you're thinking too much.
 | 5829 | 2026-03-14 05:15:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112852⭐ TypeScript) | [reels/reel_5829_iptv-org-iptv](reels/reel_5829_iptv-org-iptv) |
 | 5830 | 2026-03-14 06:05:07 | [JoshAtticus/Compressor](https://github.com/JoshAtticus/Compressor) | ✅ full (332⭐ Kotlin) | [reels/reel_5830_JoshAtticus-Compressor](reels/reel_5830_JoshAtticus-Compressor) |
 | 5831 | 2026-03-14 07:05:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145628⭐ Python) | [reels/reel_5831_langflow-ai-langflow](reels/reel_5831_langflow-ai-langflow) |
+| 5832 | 2026-03-14 07:49:33 | [timweiland/GaussianMarkovRandomFields.jl](https://github.com/timweiland/GaussianMarkovRandomFields.jl) | ✅ full (12⭐ Julia) | [reels/reel_5832_timweiland-GaussianMarkovRandomFields.jl](reels/reel_5832_timweiland-GaussianMarkovRandomFields.jl) |

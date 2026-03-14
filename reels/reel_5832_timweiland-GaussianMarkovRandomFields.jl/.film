@@ -1,0 +1,24 @@
+{
+  "reel_number": 5832,
+  "recorded": "2026-03-14 07:49:33 UTC",
+  "repository": {
+    "full_name": "timweiland/GaussianMarkovRandomFields.jl",
+    "url": "https://github.com/timweiland/GaussianMarkovRandomFields.jl",
+    "clone_url": "https://github.com/timweiland/GaussianMarkovRandomFields.jl.git",
+    "stars": 12,
+    "language": "Julia",
+    "size_kb": 80685
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 78,
+    "duration_seconds": 3.866126
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Julia",
+    "director_note": "A Julia repository. 12 stars."
+  }
+}
