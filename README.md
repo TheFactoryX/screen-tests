@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5842 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 102k | 2026-03-14 |
+| #5843 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 179k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5931,3 +5931,4 @@ If you need permission, you're thinking too much.
 | 5840 | 2026-03-14 12:48:05 | [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) | ✅ shallow (422⭐ HTML) | [reels/reel_5840_DivinumOfficium-divinum-officium](reels/reel_5840_DivinumOfficium-divinum-officium) |
 | 5841 | 2026-03-14 13:43:49 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127139⭐ Python) | [reels/reel_5841_open-webui-open-webui](reels/reel_5841_open-webui-open-webui) |
 | 5842 | 2026-03-14 14:14:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (102706⭐ TypeScript) | [reels/reel_5842_clash-verge-rev-clash-verge-rev](reels/reel_5842_clash-verge-rev-clash-verge-rev) |
+| 5843 | 2026-03-14 14:49:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (179088⭐ TypeScript) | [reels/reel_5843_n8n-io-n8n](reels/reel_5843_n8n-io-n8n) |
