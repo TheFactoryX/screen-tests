@@ -1,0 +1,24 @@
+{
+  "reel_number": 5840,
+  "recorded": "2026-03-14 12:48:05 UTC",
+  "repository": {
+    "full_name": "DivinumOfficium/divinum-officium",
+    "url": "https://github.com/DivinumOfficium/divinum-officium",
+    "clone_url": "https://github.com/DivinumOfficium/divinum-officium.git",
+    "stars": 422,
+    "language": "HTML",
+    "size_kb": 332061
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 324,
+    "duration_seconds": 9.483661
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 422 stars."
+  }
+}
