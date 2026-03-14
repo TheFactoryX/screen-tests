@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5850 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-14 |
+| #5851 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 475k | 2026-03-14 |
 ---
 
 ## 🎭 Selection Process
@@ -5939,3 +5939,4 @@ If you need permission, you're thinking too much.
 | 5848 | 2026-03-14 17:33:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111197⭐ Rust) | [reels/reel_5848_rust-lang-rust](reels/reel_5848_rust-lang-rust) |
 | 5849 | 2026-03-14 17:57:57 | [vitaut/zmij](https://github.com/vitaut/zmij) | ✅ full (310⭐ C++) | [reels/reel_5849_vitaut-zmij](reels/reel_5849_vitaut-zmij) |
 | 5850 | 2026-03-14 18:48:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129476⭐ Python) | [reels/reel_5850_langchain-ai-langchain](reels/reel_5850_langchain-ai-langchain) |
+| 5851 | 2026-03-14 19:25:10 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (475111⭐ Markdown) | [reels/reel_5851_codecrafters-io-build-your-own-x](reels/reel_5851_codecrafters-io-build-your-own-x) |
