@@ -1,0 +1,24 @@
+{
+  "reel_number": 5854,
+  "recorded": "2026-03-14 20:52:42 UTC",
+  "repository": {
+    "full_name": "OWASP/Nest",
+    "url": "https://github.com/OWASP/Nest",
+    "clone_url": "https://github.com/OWASP/Nest.git",
+    "stars": 399,
+    "language": "Python",
+    "size_kb": 698220
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 681,
+    "duration_seconds": 0.000142
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 399 stars."
+  }
+}
