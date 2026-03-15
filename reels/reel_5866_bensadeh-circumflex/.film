@@ -1,0 +1,24 @@
+{
+  "reel_number": 5866,
+  "recorded": "2026-03-15 08:20:58 UTC",
+  "repository": {
+    "full_name": "bensadeh/circumflex",
+    "url": "https://github.com/bensadeh/circumflex",
+    "clone_url": "https://github.com/bensadeh/circumflex.git",
+    "stars": 1897,
+    "language": "Go",
+    "size_kb": 43094
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 1.335137
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 1897 stars."
+  }
+}
