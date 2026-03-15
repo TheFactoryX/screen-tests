@@ -1,0 +1,24 @@
+{
+  "reel_number": 5873,
+  "recorded": "2026-03-15 12:55:36 UTC",
+  "repository": {
+    "full_name": "c3rb3ru5d3d53c/binlex",
+    "url": "https://github.com/c3rb3ru5d3d53c/binlex",
+    "clone_url": "https://github.com/c3rb3ru5d3d53c/binlex.git",
+    "stars": 524,
+    "language": "Rust",
+    "size_kb": 19368
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.528111
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 524 stars."
+  }
+}

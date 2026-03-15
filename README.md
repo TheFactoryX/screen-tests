@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5872 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-15 |
+| #5873 | [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex) | Rust · ⭐ 524 | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5961,3 +5961,4 @@ If you need permission, you're thinking too much.
 | 5870 | 2026-03-15 10:57:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129524⭐ Python) | [reels/reel_5870_langchain-ai-langchain](reels/reel_5870_langchain-ai-langchain) |
 | 5871 | 2026-03-15 11:30:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109548⭐ TypeScript) | [reels/reel_5871_shadcn-ui-ui](reels/reel_5871_shadcn-ui-ui) |
 | 5872 | 2026-03-15 11:56:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111209⭐ Rust) | [reels/reel_5872_rust-lang-rust](reels/reel_5872_rust-lang-rust) |
+| 5873 | 2026-03-15 12:55:36 | [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex) | ✅ full (524⭐ Rust) | [reels/reel_5873_c3rb3ru5d3d53c-binlex](reels/reel_5873_c3rb3ru5d3d53c-binlex) |
