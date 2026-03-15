@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5866 | [bensadeh/circumflex](https://github.com/bensadeh/circumflex) | Go · ⭐ 1k | 2026-03-15 |
+| #5867 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 151k | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5955,3 +5955,4 @@ If you need permission, you're thinking too much.
 | 5864 | 2026-03-15 06:56:12 | [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) | ✅ full (33⭐ Rust) | [reels/reel_5864_douglasmakey-shelldon](reels/reel_5864_douglasmakey-shelldon) |
 | 5865 | 2026-03-15 07:45:10 | [Bowen12137/Awesome-World-Models](https://github.com/Bowen12137/Awesome-World-Models) | ✅ full (54⭐ None) | [reels/reel_5865_Bowen12137-Awesome-World-Models](reels/reel_5865_Bowen12137-Awesome-World-Models) |
 | 5866 | 2026-03-15 08:20:58 | [bensadeh/circumflex](https://github.com/bensadeh/circumflex) | ✅ full (1897⭐ Go) | [reels/reel_5866_bensadeh-circumflex](reels/reel_5866_bensadeh-circumflex) |
+| 5867 | 2026-03-15 09:00:42 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151239⭐ Python) | [reels/reel_5867_yt-dlp-yt-dlp](reels/reel_5867_yt-dlp-yt-dlp) |
