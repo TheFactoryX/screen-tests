@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5871 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-15 |
+| #5872 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5960,3 +5960,4 @@ If you need permission, you're thinking too much.
 | 5869 | 2026-03-15 10:27:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280038⭐ None) | [reels/reel_5869_awesome-selfhosted-awesome-selfhosted](reels/reel_5869_awesome-selfhosted-awesome-selfhosted) |
 | 5870 | 2026-03-15 10:57:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129524⭐ Python) | [reels/reel_5870_langchain-ai-langchain](reels/reel_5870_langchain-ai-langchain) |
 | 5871 | 2026-03-15 11:30:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109548⭐ TypeScript) | [reels/reel_5871_shadcn-ui-ui](reels/reel_5871_shadcn-ui-ui) |
+| 5872 | 2026-03-15 11:56:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111209⭐ Rust) | [reels/reel_5872_rust-lang-rust](reels/reel_5872_rust-lang-rust) |
