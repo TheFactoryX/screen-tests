@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5876 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-15 |
+| #5877 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5965,3 +5965,4 @@ If you need permission, you're thinking too much.
 | 5874 | 2026-03-15 13:47:32 | [kriuchkov/tock](https://github.com/kriuchkov/tock) | ✅ full (378⭐ Go) | [reels/reel_5874_kriuchkov-tock](reels/reel_5874_kriuchkov-tock) |
 | 5875 | 2026-03-15 14:28:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127279⭐ Python) | [reels/reel_5875_open-webui-open-webui](reels/reel_5875_open-webui-open-webui) |
 | 5876 | 2026-03-15 14:57:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182482⭐ Python) | [reels/reel_5876_Significant-Gravitas-AutoGPT](reels/reel_5876_Significant-Gravitas-AutoGPT) |
+| 5877 | 2026-03-15 15:32:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112912⭐ TypeScript) | [reels/reel_5877_iptv-org-iptv](reels/reel_5877_iptv-org-iptv) |
