@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5861 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 127k | 2026-03-15 |
+| #5862 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5950,3 +5950,4 @@ If you need permission, you're thinking too much.
 | 5859 | 2026-03-14 23:25:49 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182454⭐ Python) | [reels/reel_5859_Significant-Gravitas-AutoGPT](reels/reel_5859_Significant-Gravitas-AutoGPT) |
 | 5860 | 2026-03-14 23:50:45 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111209⭐ Rust) | [reels/reel_5860_rust-lang-rust](reels/reel_5860_rust-lang-rust) |
 | 5861 | 2026-03-15 02:11:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127209⭐ Python) | [reels/reel_5861_open-webui-open-webui](reels/reel_5861_open-webui-open-webui) |
+| 5862 | 2026-03-15 04:40:37 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109533⭐ TypeScript) | [reels/reel_5862_shadcn-ui-ui](reels/reel_5862_shadcn-ui-ui) |
