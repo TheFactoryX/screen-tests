@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5870 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-15 |
+| #5871 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5959,3 +5959,4 @@ If you need permission, you're thinking too much.
 | 5868 | 2026-03-15 09:49:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112899⭐ TypeScript) | [reels/reel_5868_iptv-org-iptv](reels/reel_5868_iptv-org-iptv) |
 | 5869 | 2026-03-15 10:27:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280038⭐ None) | [reels/reel_5869_awesome-selfhosted-awesome-selfhosted](reels/reel_5869_awesome-selfhosted-awesome-selfhosted) |
 | 5870 | 2026-03-15 10:57:42 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129524⭐ Python) | [reels/reel_5870_langchain-ai-langchain](reels/reel_5870_langchain-ai-langchain) |
+| 5871 | 2026-03-15 11:30:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109548⭐ TypeScript) | [reels/reel_5871_shadcn-ui-ui](reels/reel_5871_shadcn-ui-ui) |
