@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5889 | [KolbyML/Manatan](https://github.com/KolbyML/Manatan) | Rust · ⭐ 254 | 2026-03-15 |
+| #5890 | [gentoo-mirror/gentoo](https://github.com/gentoo-mirror/gentoo) | Shell · ⭐ 186 | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5978,3 +5978,4 @@ If you need permission, you're thinking too much.
 | 5887 | 2026-03-15 21:00:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151352⭐ Python) | [reels/reel_5887_yt-dlp-yt-dlp](reels/reel_5887_yt-dlp-yt-dlp) |
 | 5888 | 2026-03-15 21:42:39 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ full (104136⭐ Rust) | [reels/reel_5888_tauri-apps-tauri](reels/reel_5888_tauri-apps-tauri) |
 | 5889 | 2026-03-15 21:58:45 | [KolbyML/Manatan](https://github.com/KolbyML/Manatan) | ✅ full (254⭐ Rust) | [reels/reel_5889_KolbyML-Manatan](reels/reel_5889_KolbyML-Manatan) |
+| 5890 | 2026-03-15 22:36:43 | [gentoo-mirror/gentoo](https://github.com/gentoo-mirror/gentoo) | ✅ readme_only (186⭐ Shell) | [reels/reel_5890_gentoo-mirror-gentoo](reels/reel_5890_gentoo-mirror-gentoo) |
