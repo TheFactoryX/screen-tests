@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5880 | [groupoid/henk](https://github.com/groupoid/henk) | Elixir · ⭐ 147 | 2026-03-15 |
+| #5881 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 105k | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5969,3 +5969,4 @@ If you need permission, you're thinking too much.
 | 5878 | 2026-03-15 15:59:07 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102152⭐ Python) | [reels/reel_5878_deepseek-ai-DeepSeek-V3](reels/reel_5878_deepseek-ai-DeepSeek-V3) |
 | 5879 | 2026-03-15 16:42:41 | [openshift/release](https://github.com/openshift/release) | ✅ readme_only (313⭐ Shell) | [reels/reel_5879_openshift-release](reels/reel_5879_openshift-release) |
 | 5880 | 2026-03-15 17:03:03 | [groupoid/henk](https://github.com/groupoid/henk) | ✅ full (147⭐ Elixir) | [reels/reel_5880_groupoid-henk](reels/reel_5880_groupoid-henk) |
+| 5881 | 2026-03-15 17:44:40 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (105915⭐ Python) | [reels/reel_5881_Comfy-Org-ComfyUI](reels/reel_5881_Comfy-Org-ComfyUI) |
