@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5867 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 151k | 2026-03-15 |
+| #5868 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 112k | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5956,3 +5956,4 @@ If you need permission, you're thinking too much.
 | 5865 | 2026-03-15 07:45:10 | [Bowen12137/Awesome-World-Models](https://github.com/Bowen12137/Awesome-World-Models) | ✅ full (54⭐ None) | [reels/reel_5865_Bowen12137-Awesome-World-Models](reels/reel_5865_Bowen12137-Awesome-World-Models) |
 | 5866 | 2026-03-15 08:20:58 | [bensadeh/circumflex](https://github.com/bensadeh/circumflex) | ✅ full (1897⭐ Go) | [reels/reel_5866_bensadeh-circumflex](reels/reel_5866_bensadeh-circumflex) |
 | 5867 | 2026-03-15 09:00:42 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151239⭐ Python) | [reels/reel_5867_yt-dlp-yt-dlp](reels/reel_5867_yt-dlp-yt-dlp) |
+| 5868 | 2026-03-15 09:49:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112899⭐ TypeScript) | [reels/reel_5868_iptv-org-iptv](reels/reel_5868_iptv-org-iptv) |
