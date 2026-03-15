@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5864 | [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) | Rust · ⭐ 33 | 2026-03-15 |
+| #5865 | [Bowen12137/Awesome-World-Models](https://github.com/Bowen12137/Awesome-World-Models) | None · ⭐ 54 | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5953,3 +5953,4 @@ If you need permission, you're thinking too much.
 | 5862 | 2026-03-15 04:40:37 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109533⭐ TypeScript) | [reels/reel_5862_shadcn-ui-ui](reels/reel_5862_shadcn-ui-ui) |
 | 5863 | 2026-03-15 05:55:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145674⭐ Python) | [reels/reel_5863_langflow-ai-langflow](reels/reel_5863_langflow-ai-langflow) |
 | 5864 | 2026-03-15 06:56:12 | [douglasmakey/shelldon](https://github.com/douglasmakey/shelldon) | ✅ full (33⭐ Rust) | [reels/reel_5864_douglasmakey-shelldon](reels/reel_5864_douglasmakey-shelldon) |
+| 5865 | 2026-03-15 07:45:10 | [Bowen12137/Awesome-World-Models](https://github.com/Bowen12137/Awesome-World-Models) | ✅ full (54⭐ None) | [reels/reel_5865_Bowen12137-Awesome-World-Models](reels/reel_5865_Bowen12137-Awesome-World-Models) |
