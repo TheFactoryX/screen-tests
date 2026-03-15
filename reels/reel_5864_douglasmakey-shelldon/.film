@@ -1,0 +1,24 @@
+{
+  "reel_number": 5864,
+  "recorded": "2026-03-15 06:56:12 UTC",
+  "repository": {
+    "full_name": "douglasmakey/shelldon",
+    "url": "https://github.com/douglasmakey/shelldon",
+    "clone_url": "https://github.com/douglasmakey/shelldon.git",
+    "stars": 33,
+    "language": "Rust",
+    "size_kb": 1053
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.677396
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 33 stars."
+  }
+}
