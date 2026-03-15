@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5874 | [kriuchkov/tock](https://github.com/kriuchkov/tock) | Go · ⭐ 378 | 2026-03-15 |
+| #5875 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 127k | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5963,3 +5963,4 @@ If you need permission, you're thinking too much.
 | 5872 | 2026-03-15 11:56:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111209⭐ Rust) | [reels/reel_5872_rust-lang-rust](reels/reel_5872_rust-lang-rust) |
 | 5873 | 2026-03-15 12:55:36 | [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex) | ✅ full (524⭐ Rust) | [reels/reel_5873_c3rb3ru5d3d53c-binlex](reels/reel_5873_c3rb3ru5d3d53c-binlex) |
 | 5874 | 2026-03-15 13:47:32 | [kriuchkov/tock](https://github.com/kriuchkov/tock) | ✅ full (378⭐ Go) | [reels/reel_5874_kriuchkov-tock](reels/reel_5874_kriuchkov-tock) |
+| 5875 | 2026-03-15 14:28:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127279⭐ Python) | [reels/reel_5875_open-webui-open-webui](reels/reel_5875_open-webui-open-webui) |
