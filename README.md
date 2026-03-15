@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5882 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 280k | 2026-03-15 |
+| #5883 | [LukkasVN/LVN-Gameplay-Programming-Showcase](https://github.com/LukkasVN/LVN-Gameplay-Programming-Showcase) | C++ · ⭐ 50 | 2026-03-15 |
 ---
 
 ## 🎭 Selection Process
@@ -5971,3 +5971,4 @@ If you need permission, you're thinking too much.
 | 5880 | 2026-03-15 17:03:03 | [groupoid/henk](https://github.com/groupoid/henk) | ✅ full (147⭐ Elixir) | [reels/reel_5880_groupoid-henk](reels/reel_5880_groupoid-henk) |
 | 5881 | 2026-03-15 17:44:40 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (105915⭐ Python) | [reels/reel_5881_Comfy-Org-ComfyUI](reels/reel_5881_Comfy-Org-ComfyUI) |
 | 5882 | 2026-03-15 18:01:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280119⭐ None) | [reels/reel_5882_awesome-selfhosted-awesome-selfhosted](reels/reel_5882_awesome-selfhosted-awesome-selfhosted) |
+| 5883 | 2026-03-15 18:58:18 | [LukkasVN/LVN-Gameplay-Programming-Showcase](https://github.com/LukkasVN/LVN-Gameplay-Programming-Showcase) | ✅ shallow (50⭐ C++) | [reels/reel_5883_LukkasVN-LVN-Gameplay-Programming-Showcase](reels/reel_5883_LukkasVN-LVN-Gameplay-Programming-Showcase) |

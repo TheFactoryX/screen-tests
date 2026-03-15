@@ -1,0 +1,24 @@
+{
+  "reel_number": 5883,
+  "recorded": "2026-03-15 18:58:18 UTC",
+  "repository": {
+    "full_name": "LukkasVN/LVN-Gameplay-Programming-Showcase",
+    "url": "https://github.com/LukkasVN/LVN-Gameplay-Programming-Showcase",
+    "clone_url": "https://github.com/LukkasVN/LVN-Gameplay-Programming-Showcase.git",
+    "stars": 50,
+    "language": "C++",
+    "size_kb": 111061
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 108,
+    "duration_seconds": 4.718883
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 50 stars."
+  }
+}
