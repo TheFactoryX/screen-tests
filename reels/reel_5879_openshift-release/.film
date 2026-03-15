@@ -1,0 +1,24 @@
+{
+  "reel_number": 5879,
+  "recorded": "2026-03-15 16:42:41 UTC",
+  "repository": {
+    "full_name": "openshift/release",
+    "url": "https://github.com/openshift/release",
+    "clone_url": "https://github.com/openshift/release.git",
+    "stars": 313,
+    "language": "Shell",
+    "size_kb": 861293
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 841,
+    "duration_seconds": 0.000147
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 313 stars."
+  }
+}
