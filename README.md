@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5905 | [pkgxdev/pantry](https://github.com/pkgxdev/pantry) | C · ⭐ 189 | 2026-03-16 |
+| #5906 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 151k | 2026-03-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5994,3 +5994,4 @@ If you need permission, you're thinking too much.
 | 5903 | 2026-03-16 14:57:41 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280338⭐ None) | [reels/reel_5903_awesome-selfhosted-awesome-selfhosted](reels/reel_5903_awesome-selfhosted-awesome-selfhosted) |
 | 5904 | 2026-03-16 16:09:21 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139882⭐ Python) | [reels/reel_5904_ytdl-org-youtube-dl](reels/reel_5904_ytdl-org-youtube-dl) |
 | 5905 | 2026-03-16 17:16:49 | [pkgxdev/pantry](https://github.com/pkgxdev/pantry) | ✅ full (189⭐ C) | [reels/reel_5905_pkgxdev-pantry](reels/reel_5905_pkgxdev-pantry) |
+| 5906 | 2026-03-16 18:13:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151556⭐ Python) | [reels/reel_5906_yt-dlp-yt-dlp](reels/reel_5906_yt-dlp-yt-dlp) |
