@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5898 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-16 |
+| #5899 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 690 | 2026-03-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5987,3 +5987,4 @@ If you need permission, you're thinking too much.
 | 5896 | 2026-03-16 06:59:36 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139880⭐ Python) | [reels/reel_5896_ytdl-org-youtube-dl](reels/reel_5896_ytdl-org-youtube-dl) |
 | 5897 | 2026-03-16 08:11:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129680⭐ Python) | [reels/reel_5897_langchain-ai-langchain](reels/reel_5897_langchain-ai-langchain) |
 | 5898 | 2026-03-16 09:13:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145711⭐ Python) | [reels/reel_5898_langflow-ai-langflow](reels/reel_5898_langflow-ai-langflow) |
+| 5899 | 2026-03-16 10:16:13 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (690⭐ Tcl) | [reels/reel_5899_rust-lang-crates.io-index](reels/reel_5899_rust-lang-crates.io-index) |
