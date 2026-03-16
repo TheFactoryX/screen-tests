@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5901 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 179k | 2026-03-16 |
+| #5902 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 98k | 2026-03-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5990,3 +5990,4 @@ If you need permission, you're thinking too much.
 | 5899 | 2026-03-16 10:16:13 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (690⭐ Tcl) | [reels/reel_5899_rust-lang-crates.io-index](reels/reel_5899_rust-lang-crates.io-index) |
 | 5900 | 2026-03-16 11:26:06 | [SIMARSINGHRAYAT/WALCHAND-IMAGINE-CUP-2026](https://github.com/SIMARSINGHRAYAT/WALCHAND-IMAGINE-CUP-2026) | ✅ shallow (51⭐ Python) | [reels/reel_5900_SIMARSINGHRAYAT-WALCHAND-IMAGINE-CUP-2026](reels/reel_5900_SIMARSINGHRAYAT-WALCHAND-IMAGINE-CUP-2026) |
 | 5901 | 2026-03-16 12:03:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (179385⭐ TypeScript) | [reels/reel_5901_n8n-io-n8n](reels/reel_5901_n8n-io-n8n) |
+| 5902 | 2026-03-16 13:53:38 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (98160⭐ C++) | [reels/reel_5902_ggml-org-llama.cpp](reels/reel_5902_ggml-org-llama.cpp) |
