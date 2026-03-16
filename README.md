@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5897 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-16 |
+| #5898 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5986,3 +5986,4 @@ If you need permission, you're thinking too much.
 | 5895 | 2026-03-16 05:32:14 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (97873⭐ TypeScript) | [reels/reel_5895_google-gemini-gemini-cli](reels/reel_5895_google-gemini-gemini-cli) |
 | 5896 | 2026-03-16 06:59:36 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139880⭐ Python) | [reels/reel_5896_ytdl-org-youtube-dl](reels/reel_5896_ytdl-org-youtube-dl) |
 | 5897 | 2026-03-16 08:11:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129680⭐ Python) | [reels/reel_5897_langchain-ai-langchain](reels/reel_5897_langchain-ai-langchain) |
+| 5898 | 2026-03-16 09:13:41 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145711⭐ Python) | [reels/reel_5898_langflow-ai-langflow](reels/reel_5898_langflow-ai-langflow) |
