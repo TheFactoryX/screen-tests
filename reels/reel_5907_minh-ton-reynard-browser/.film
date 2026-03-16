@@ -1,0 +1,24 @@
+{
+  "reel_number": 5907,
+  "recorded": "2026-03-16 19:29:32 UTC",
+  "repository": {
+    "full_name": "minh-ton/reynard-browser",
+    "url": "https://github.com/minh-ton/reynard-browser",
+    "clone_url": "https://github.com/minh-ton/reynard-browser.git",
+    "stars": 47,
+    "language": "Swift",
+    "size_kb": 5328
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.448688
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 47 stars."
+  }
+}
