@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5892 | [Vitannare/randomCatFacts](https://github.com/Vitannare/randomCatFacts) | None · ⭐ 25 | 2026-03-15 |
+| #5893 | [aarsaputra/ppmap-proto-pollution](https://github.com/aarsaputra/ppmap-proto-pollution) | Python · ⭐ 27 | 2026-03-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5981,3 +5981,4 @@ If you need permission, you're thinking too much.
 | 5890 | 2026-03-15 22:36:43 | [gentoo-mirror/gentoo](https://github.com/gentoo-mirror/gentoo) | ✅ readme_only (186⭐ Shell) | [reels/reel_5890_gentoo-mirror-gentoo](reels/reel_5890_gentoo-mirror-gentoo) |
 | 5891 | 2026-03-15 23:01:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145694⭐ Python) | [reels/reel_5891_langflow-ai-langflow](reels/reel_5891_langflow-ai-langflow) |
 | 5892 | 2026-03-15 23:43:50 | [Vitannare/randomCatFacts](https://github.com/Vitannare/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_5892_Vitannare-randomCatFacts](reels/reel_5892_Vitannare-randomCatFacts) |
+| 5893 | 2026-03-16 00:01:33 | [aarsaputra/ppmap-proto-pollution](https://github.com/aarsaputra/ppmap-proto-pollution) | ✅ full (27⭐ Python) | [reels/reel_5893_aarsaputra-ppmap-proto-pollution](reels/reel_5893_aarsaputra-ppmap-proto-pollution) |
