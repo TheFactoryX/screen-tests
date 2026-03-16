@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5896 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-03-16 |
+| #5897 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 129k | 2026-03-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5985,3 +5985,4 @@ If you need permission, you're thinking too much.
 | 5894 | 2026-03-16 03:33:07 | [Dreaming381/lsss-wip](https://github.com/Dreaming381/lsss-wip) | ✅ shallow (233⭐ C#) | [reels/reel_5894_Dreaming381-lsss-wip](reels/reel_5894_Dreaming381-lsss-wip) |
 | 5895 | 2026-03-16 05:32:14 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (97873⭐ TypeScript) | [reels/reel_5895_google-gemini-gemini-cli](reels/reel_5895_google-gemini-gemini-cli) |
 | 5896 | 2026-03-16 06:59:36 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139880⭐ Python) | [reels/reel_5896_ytdl-org-youtube-dl](reels/reel_5896_ytdl-org-youtube-dl) |
+| 5897 | 2026-03-16 08:11:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (129680⭐ Python) | [reels/reel_5897_langchain-ai-langchain](reels/reel_5897_langchain-ai-langchain) |
