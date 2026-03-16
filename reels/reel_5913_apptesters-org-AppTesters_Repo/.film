@@ -1,0 +1,24 @@
+{
+  "reel_number": 5913,
+  "recorded": "2026-03-16 23:32:28 UTC",
+  "repository": {
+    "full_name": "apptesters-org/AppTesters_Repo",
+    "url": "https://github.com/apptesters-org/AppTesters_Repo",
+    "clone_url": "https://github.com/apptesters-org/AppTesters_Repo.git",
+    "stars": 111,
+    "language": "HTML",
+    "size_kb": 280363
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 273,
+    "duration_seconds": 3.154511
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 111 stars."
+  }
+}
