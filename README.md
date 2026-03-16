@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5909 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-16 |
+| #5910 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 280k | 2026-03-16 |
 ---
 
 ## 🎭 Selection Process
@@ -5998,3 +5998,4 @@ If you need permission, you're thinking too much.
 | 5907 | 2026-03-16 19:29:32 | [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) | ✅ full (47⭐ Swift) | [reels/reel_5907_minh-ton-reynard-browser](reels/reel_5907_minh-ton-reynard-browser) |
 | 5908 | 2026-03-16 20:01:25 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139881⭐ Python) | [reels/reel_5908_ytdl-org-youtube-dl](reels/reel_5908_ytdl-org-youtube-dl) |
 | 5909 | 2026-03-16 20:57:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182520⭐ Python) | [reels/reel_5909_Significant-Gravitas-AutoGPT](reels/reel_5909_Significant-Gravitas-AutoGPT) |
+| 5910 | 2026-03-16 21:44:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280416⭐ None) | [reels/reel_5910_awesome-selfhosted-awesome-selfhosted](reels/reel_5910_awesome-selfhosted-awesome-selfhosted) |
