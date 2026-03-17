@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5921 | [firebase/firebase-functions](https://github.com/firebase/firebase-functions) | TypeScript · ⭐ 1k | 2026-03-17 |
+| #5922 | [go-playground/validator](https://github.com/go-playground/validator) | Go · ⭐ 19k | 2026-03-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6010,3 +6010,4 @@ If you need permission, you're thinking too much.
 | 5919 | 2026-03-17 08:01:40 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (244⭐ Python) | [reels/reel_5919_tom-doerr-repo_posts](reels/reel_5919_tom-doerr-repo_posts) |
 | 5920 | 2026-03-17 09:07:48 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145756⭐ Python) | [reels/reel_5920_langflow-ai-langflow](reels/reel_5920_langflow-ai-langflow) |
 | 5921 | 2026-03-17 10:08:35 | [firebase/firebase-functions](https://github.com/firebase/firebase-functions) | ✅ full (1058⭐ TypeScript) | [reels/reel_5921_firebase-firebase-functions](reels/reel_5921_firebase-firebase-functions) |
+| 5922 | 2026-03-17 11:08:18 | [go-playground/validator](https://github.com/go-playground/validator) | ✅ full (19799⭐ Go) | [reels/reel_5922_go-playground-validator](reels/reel_5922_go-playground-validator) |
