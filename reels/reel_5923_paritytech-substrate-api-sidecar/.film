@@ -1,0 +1,24 @@
+{
+  "reel_number": 5923,
+  "recorded": "2026-03-17 11:55:01 UTC",
+  "repository": {
+    "full_name": "paritytech/substrate-api-sidecar",
+    "url": "https://github.com/paritytech/substrate-api-sidecar",
+    "clone_url": "https://github.com/paritytech/substrate-api-sidecar.git",
+    "stars": 267,
+    "language": "TypeScript",
+    "size_kb": 48741
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 47,
+    "duration_seconds": 5.185567
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 267 stars."
+  }
+}
