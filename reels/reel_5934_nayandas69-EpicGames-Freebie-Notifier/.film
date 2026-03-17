@@ -1,0 +1,24 @@
+{
+  "reel_number": 5934,
+  "recorded": "2026-03-17 22:52:13 UTC",
+  "repository": {
+    "full_name": "nayandas69/EpicGames-Freebie-Notifier",
+    "url": "https://github.com/nayandas69/EpicGames-Freebie-Notifier",
+    "clone_url": "https://github.com/nayandas69/EpicGames-Freebie-Notifier.git",
+    "stars": 15,
+    "language": "Python",
+    "size_kb": 222
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.760505
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 15 stars."
+  }
+}

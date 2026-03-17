@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5933 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 280k | 2026-03-17 |
+| #5934 | [nayandas69/EpicGames-Freebie-Notifier](https://github.com/nayandas69/EpicGames-Freebie-Notifier) | Python · ⭐ 15 | 2026-03-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6022,3 +6022,4 @@ If you need permission, you're thinking too much.
 | 5931 | 2026-03-17 20:43:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (112998⭐ TypeScript) | [reels/reel_5931_iptv-org-iptv](reels/reel_5931_iptv-org-iptv) |
 | 5932 | 2026-03-17 21:26:23 | [soundshader/soundshader.github.io](https://github.com/soundshader/soundshader.github.io) | ✅ shallow (352⭐ JavaScript) | [reels/reel_5932_soundshader-soundshader.github.io](reels/reel_5932_soundshader-soundshader.github.io) |
 | 5933 | 2026-03-17 22:00:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280591⭐ None) | [reels/reel_5933_awesome-selfhosted-awesome-selfhosted](reels/reel_5933_awesome-selfhosted-awesome-selfhosted) |
+| 5934 | 2026-03-17 22:52:13 | [nayandas69/EpicGames-Freebie-Notifier](https://github.com/nayandas69/EpicGames-Freebie-Notifier) | ✅ full (15⭐ Python) | [reels/reel_5934_nayandas69-EpicGames-Freebie-Notifier](reels/reel_5934_nayandas69-EpicGames-Freebie-Notifier) |
