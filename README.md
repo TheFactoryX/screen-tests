@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5924 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 127k | 2026-03-17 |
+| #5925 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 98k | 2026-03-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6013,3 +6013,4 @@ If you need permission, you're thinking too much.
 | 5922 | 2026-03-17 11:08:18 | [go-playground/validator](https://github.com/go-playground/validator) | ✅ full (19799⭐ Go) | [reels/reel_5922_go-playground-validator](reels/reel_5922_go-playground-validator) |
 | 5923 | 2026-03-17 11:55:01 | [paritytech/substrate-api-sidecar](https://github.com/paritytech/substrate-api-sidecar) | ✅ full (267⭐ TypeScript) | [reels/reel_5923_paritytech-substrate-api-sidecar](reels/reel_5923_paritytech-substrate-api-sidecar) |
 | 5924 | 2026-03-17 13:08:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127534⭐ Python) | [reels/reel_5924_open-webui-open-webui](reels/reel_5924_open-webui-open-webui) |
+| 5925 | 2026-03-17 14:35:05 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (98078⭐ TypeScript) | [reels/reel_5925_google-gemini-gemini-cli](reels/reel_5925_google-gemini-gemini-cli) |
