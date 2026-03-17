@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5927 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-17 |
+| #5928 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 106k | 2026-03-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6016,3 +6016,4 @@ If you need permission, you're thinking too much.
 | 5925 | 2026-03-17 14:35:05 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (98078⭐ TypeScript) | [reels/reel_5925_google-gemini-gemini-cli](reels/reel_5925_google-gemini-gemini-cli) |
 | 5926 | 2026-03-17 15:43:54 | [basis-company/nats.php](https://github.com/basis-company/nats.php) | ✅ full (198⭐ PHP) | [reels/reel_5926_basis-company-nats.php](reels/reel_5926_basis-company-nats.php) |
 | 5927 | 2026-03-17 16:45:53 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145771⭐ Python) | [reels/reel_5927_langflow-ai-langflow](reels/reel_5927_langflow-ai-langflow) |
+| 5928 | 2026-03-17 17:56:44 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (106157⭐ Python) | [reels/reel_5928_Comfy-Org-ComfyUI](reels/reel_5928_Comfy-Org-ComfyUI) |
