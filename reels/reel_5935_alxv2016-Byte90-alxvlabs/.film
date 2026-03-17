@@ -1,0 +1,24 @@
+{
+  "reel_number": 5935,
+  "recorded": "2026-03-17 23:30:51 UTC",
+  "repository": {
+    "full_name": "alxv2016/Byte90-alxvlabs",
+    "url": "https://github.com/alxv2016/Byte90-alxvlabs",
+    "clone_url": "https://github.com/alxv2016/Byte90-alxvlabs.git",
+    "stars": 53,
+    "language": "C++",
+    "size_kb": 1255
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.748118
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 53 stars."
+  }
+}
