@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5914 | [bXi/luminoveau](https://github.com/bXi/luminoveau) | C++ · ⭐ 13 | 2026-03-16 |
+| #5915 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6003,3 +6003,4 @@ If you need permission, you're thinking too much.
 | 5912 | 2026-03-16 22:56:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182520⭐ Python) | [reels/reel_5912_Significant-Gravitas-AutoGPT](reels/reel_5912_Significant-Gravitas-AutoGPT) |
 | 5913 | 2026-03-16 23:32:28 | [apptesters-org/AppTesters_Repo](https://github.com/apptesters-org/AppTesters_Repo) | ✅ shallow (111⭐ HTML) | [reels/reel_5913_apptesters-org-AppTesters_Repo](reels/reel_5913_apptesters-org-AppTesters_Repo) |
 | 5914 | 2026-03-16 23:59:04 | [bXi/luminoveau](https://github.com/bXi/luminoveau) | ✅ full (13⭐ C++) | [reels/reel_5914_bXi-luminoveau](reels/reel_5914_bXi-luminoveau) |
+| 5915 | 2026-03-17 02:49:19 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111277⭐ Rust) | [reels/reel_5915_rust-lang-rust](reels/reel_5915_rust-lang-rust) |
