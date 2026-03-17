@@ -1,0 +1,24 @@
+{
+  "reel_number": 5921,
+  "recorded": "2026-03-17 10:08:35 UTC",
+  "repository": {
+    "full_name": "firebase/firebase-functions",
+    "url": "https://github.com/firebase/firebase-functions",
+    "clone_url": "https://github.com/firebase/firebase-functions.git",
+    "stars": 1058,
+    "language": "TypeScript",
+    "size_kb": 6704
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.811662
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 1058 stars."
+  }
+}
