@@ -1,0 +1,24 @@
+{
+  "reel_number": 5926,
+  "recorded": "2026-03-17 15:43:54 UTC",
+  "repository": {
+    "full_name": "basis-company/nats.php",
+    "url": "https://github.com/basis-company/nats.php",
+    "clone_url": "https://github.com/basis-company/nats.php.git",
+    "stars": 198,
+    "language": "PHP",
+    "size_kb": 234
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.343362
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 198 stars."
+  }
+}
