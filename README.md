@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5951 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-18 |
+| #5952 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 151k | 2026-03-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6040,3 +6040,4 @@ If you need permission, you're thinking too much.
 | 5949 | 2026-03-18 17:48:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182582⭐ Python) | [reels/reel_5949_Significant-Gravitas-AutoGPT](reels/reel_5949_Significant-Gravitas-AutoGPT) |
 | 5950 | 2026-03-18 18:56:59 | [xsscx/fuzz](https://github.com/xsscx/fuzz) | ✅ full (406⭐ HTML) | [reels/reel_5950_xsscx-fuzz](reels/reel_5950_xsscx-fuzz) |
 | 5951 | 2026-03-18 19:49:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145837⭐ Python) | [reels/reel_5951_langflow-ai-langflow](reels/reel_5951_langflow-ai-langflow) |
+| 5952 | 2026-03-18 20:33:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151911⭐ Python) | [reels/reel_5952_yt-dlp-yt-dlp](reels/reel_5952_yt-dlp-yt-dlp) |
