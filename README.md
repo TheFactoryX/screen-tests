@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5950 | [xsscx/fuzz](https://github.com/xsscx/fuzz) | HTML · ⭐ 406 | 2026-03-18 |
+| #5951 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6039,3 +6039,4 @@ If you need permission, you're thinking too much.
 | 5948 | 2026-03-18 16:42:14 | [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) | ✅ full (221⭐ Rust) | [reels/reel_5948_mytechnotalent-Hacking-Rust](reels/reel_5948_mytechnotalent-Hacking-Rust) |
 | 5949 | 2026-03-18 17:48:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182582⭐ Python) | [reels/reel_5949_Significant-Gravitas-AutoGPT](reels/reel_5949_Significant-Gravitas-AutoGPT) |
 | 5950 | 2026-03-18 18:56:59 | [xsscx/fuzz](https://github.com/xsscx/fuzz) | ✅ full (406⭐ HTML) | [reels/reel_5950_xsscx-fuzz](reels/reel_5950_xsscx-fuzz) |
+| 5951 | 2026-03-18 19:49:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145837⭐ Python) | [reels/reel_5951_langflow-ai-langflow](reels/reel_5951_langflow-ai-langflow) |
