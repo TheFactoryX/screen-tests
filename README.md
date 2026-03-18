@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5947 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 106k | 2026-03-18 |
+| #5948 | [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) | Rust · ⭐ 221 | 2026-03-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6036,3 +6036,4 @@ If you need permission, you're thinking too much.
 | 5945 | 2026-03-18 12:34:22 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (104251⭐ Rust) | [reels/reel_5945_tauri-apps-tauri](reels/reel_5945_tauri-apps-tauri) |
 | 5946 | 2026-03-18 14:06:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127683⭐ Python) | [reels/reel_5946_open-webui-open-webui](reels/reel_5946_open-webui-open-webui) |
 | 5947 | 2026-03-18 15:37:31 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (106222⭐ Python) | [reels/reel_5947_Comfy-Org-ComfyUI](reels/reel_5947_Comfy-Org-ComfyUI) |
+| 5948 | 2026-03-18 16:42:14 | [mytechnotalent/Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) | ✅ full (221⭐ Rust) | [reels/reel_5948_mytechnotalent-Hacking-Rust](reels/reel_5948_mytechnotalent-Hacking-Rust) |

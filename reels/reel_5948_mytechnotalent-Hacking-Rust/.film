@@ -1,0 +1,24 @@
+{
+  "reel_number": 5948,
+  "recorded": "2026-03-18 16:42:14 UTC",
+  "repository": {
+    "full_name": "mytechnotalent/Hacking-Rust",
+    "url": "https://github.com/mytechnotalent/Hacking-Rust",
+    "clone_url": "https://github.com/mytechnotalent/Hacking-Rust.git",
+    "stars": 221,
+    "language": "Rust",
+    "size_kb": 4698
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.635691
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 221 stars."
+  }
+}
