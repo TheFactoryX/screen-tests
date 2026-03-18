@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5945 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 104k | 2026-03-18 |
+| #5946 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 127k | 2026-03-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6034,3 +6034,4 @@ If you need permission, you're thinking too much.
 | 5943 | 2026-03-18 10:30:17 | [aws-samples/amazon-sagemaker-generativeai](https://github.com/aws-samples/amazon-sagemaker-generativeai) | ✅ shallow (203⭐ Jupyter Notebook) | [reels/reel_5943_aws-samples-amazon-sagemaker-generativeai](reels/reel_5943_aws-samples-amazon-sagemaker-generativeai) |
 | 5944 | 2026-03-18 11:31:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280684⭐ None) | [reels/reel_5944_awesome-selfhosted-awesome-selfhosted](reels/reel_5944_awesome-selfhosted-awesome-selfhosted) |
 | 5945 | 2026-03-18 12:34:22 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (104251⭐ Rust) | [reels/reel_5945_tauri-apps-tauri](reels/reel_5945_tauri-apps-tauri) |
+| 5946 | 2026-03-18 14:06:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127683⭐ Python) | [reels/reel_5946_open-webui-open-webui](reels/reel_5946_open-webui-open-webui) |
