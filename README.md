@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5943 | [aws-samples/amazon-sagemaker-generativeai](https://github.com/aws-samples/amazon-sagemaker-generativeai) | Jupyter Notebook · ⭐ 203 | 2026-03-18 |
+| #5944 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 280k | 2026-03-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6032,3 +6032,4 @@ If you need permission, you're thinking too much.
 | 5941 | 2026-03-18 08:28:41 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182559⭐ Python) | [reels/reel_5941_Significant-Gravitas-AutoGPT](reels/reel_5941_Significant-Gravitas-AutoGPT) |
 | 5942 | 2026-03-18 09:29:28 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111306⭐ Rust) | [reels/reel_5942_rust-lang-rust](reels/reel_5942_rust-lang-rust) |
 | 5943 | 2026-03-18 10:30:17 | [aws-samples/amazon-sagemaker-generativeai](https://github.com/aws-samples/amazon-sagemaker-generativeai) | ✅ shallow (203⭐ Jupyter Notebook) | [reels/reel_5943_aws-samples-amazon-sagemaker-generativeai](reels/reel_5943_aws-samples-amazon-sagemaker-generativeai) |
+| 5944 | 2026-03-18 11:31:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280684⭐ None) | [reels/reel_5944_awesome-selfhosted-awesome-selfhosted](reels/reel_5944_awesome-selfhosted-awesome-selfhosted) |
