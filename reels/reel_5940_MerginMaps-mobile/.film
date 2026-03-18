@@ -1,0 +1,24 @@
+{
+  "reel_number": 5940,
+  "recorded": "2026-03-18 07:30:55 UTC",
+  "repository": {
+    "full_name": "MerginMaps/mobile",
+    "url": "https://github.com/MerginMaps/mobile",
+    "clone_url": "https://github.com/MerginMaps/mobile.git",
+    "stars": 367,
+    "language": "C++",
+    "size_kb": 50543
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 49,
+    "duration_seconds": 3.404068
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 367 stars."
+  }
+}
