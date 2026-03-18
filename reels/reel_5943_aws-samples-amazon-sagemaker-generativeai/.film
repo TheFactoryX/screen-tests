@@ -1,0 +1,24 @@
+{
+  "reel_number": 5943,
+  "recorded": "2026-03-18 10:30:17 UTC",
+  "repository": {
+    "full_name": "aws-samples/amazon-sagemaker-generativeai",
+    "url": "https://github.com/aws-samples/amazon-sagemaker-generativeai",
+    "clone_url": "https://github.com/aws-samples/amazon-sagemaker-generativeai.git",
+    "stars": 203,
+    "language": "Jupyter Notebook",
+    "size_kb": 208127
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 203,
+    "duration_seconds": 2.152319
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 203 stars."
+  }
+}
