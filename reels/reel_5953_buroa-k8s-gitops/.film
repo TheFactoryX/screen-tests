@@ -1,0 +1,24 @@
+{
+  "reel_number": 5953,
+  "recorded": "2026-03-18 21:19:54 UTC",
+  "repository": {
+    "full_name": "buroa/k8s-gitops",
+    "url": "https://github.com/buroa/k8s-gitops",
+    "clone_url": "https://github.com/buroa/k8s-gitops.git",
+    "stars": 359,
+    "language": "YAML",
+    "size_kb": 48316
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 47,
+    "duration_seconds": 44.469132
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "YAML",
+    "director_note": "A YAML repository. 359 stars."
+  }
+}
