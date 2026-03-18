@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5936 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 109k | 2026-03-18 |
+| #5937 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 261k | 2026-03-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6025,3 +6025,4 @@ If you need permission, you're thinking too much.
 | 5934 | 2026-03-17 22:52:13 | [nayandas69/EpicGames-Freebie-Notifier](https://github.com/nayandas69/EpicGames-Freebie-Notifier) | ✅ full (15⭐ Python) | [reels/reel_5934_nayandas69-EpicGames-Freebie-Notifier](reels/reel_5934_nayandas69-EpicGames-Freebie-Notifier) |
 | 5935 | 2026-03-17 23:30:51 | [alxv2016/Byte90-alxvlabs](https://github.com/alxv2016/Byte90-alxvlabs) | ✅ full (53⭐ C++) | [reels/reel_5935_alxv2016-Byte90-alxvlabs](reels/reel_5935_alxv2016-Byte90-alxvlabs) |
 | 5936 | 2026-03-18 00:01:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109836⭐ TypeScript) | [reels/reel_5936_shadcn-ui-ui](reels/reel_5936_shadcn-ui-ui) |
+| 5937 | 2026-03-18 03:19:48 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (261162⭐ None) | [reels/reel_5937_practical-tutorials-project-based-learning](reels/reel_5937_practical-tutorials-project-based-learning) |
