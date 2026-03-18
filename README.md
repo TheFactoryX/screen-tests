@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5953 | [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) | YAML · ⭐ 359 | 2026-03-18 |
+| #5954 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | TypeScript · ⭐ 97k | 2026-03-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6042,3 +6042,4 @@ If you need permission, you're thinking too much.
 | 5951 | 2026-03-18 19:49:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145837⭐ Python) | [reels/reel_5951_langflow-ai-langflow](reels/reel_5951_langflow-ai-langflow) |
 | 5952 | 2026-03-18 20:33:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151911⭐ Python) | [reels/reel_5952_yt-dlp-yt-dlp](reels/reel_5952_yt-dlp-yt-dlp) |
 | 5953 | 2026-03-18 21:19:54 | [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) | ✅ full (359⭐ YAML) | [reels/reel_5953_buroa-k8s-gitops](reels/reel_5953_buroa-k8s-gitops) |
+| 5954 | 2026-03-18 21:57:30 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | ✅ shallow (97729⭐ TypeScript) | [reels/reel_5954_ant-design-ant-design](reels/reel_5954_ant-design-ant-design) |
