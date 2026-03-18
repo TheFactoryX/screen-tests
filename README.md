@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5938 | [emulator-wtf/run-tests](https://github.com/emulator-wtf/run-tests) | None · ⭐ 14 | 2026-03-18 |
+| #5939 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 179k | 2026-03-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6027,3 +6027,4 @@ If you need permission, you're thinking too much.
 | 5936 | 2026-03-18 00:01:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (109836⭐ TypeScript) | [reels/reel_5936_shadcn-ui-ui](reels/reel_5936_shadcn-ui-ui) |
 | 5937 | 2026-03-18 03:19:48 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (261162⭐ None) | [reels/reel_5937_practical-tutorials-project-based-learning](reels/reel_5937_practical-tutorials-project-based-learning) |
 | 5938 | 2026-03-18 05:12:37 | [emulator-wtf/run-tests](https://github.com/emulator-wtf/run-tests) | ✅ full (14⭐ None) | [reels/reel_5938_emulator-wtf-run-tests](reels/reel_5938_emulator-wtf-run-tests) |
+| 5939 | 2026-03-18 06:14:25 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (179713⭐ TypeScript) | [reels/reel_5939_n8n-io-n8n](reels/reel_5939_n8n-io-n8n) |
