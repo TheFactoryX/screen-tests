@@ -1,0 +1,24 @@
+{
+  "reel_number": 5981,
+  "recorded": "2026-03-19 22:56:28 UTC",
+  "repository": {
+    "full_name": "paoloap/zaread",
+    "url": "https://github.com/paoloap/zaread",
+    "clone_url": "https://github.com/paoloap/zaread.git",
+    "stars": 231,
+    "language": "Shell",
+    "size_kb": 103
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.484275
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 231 stars."
+  }
+}
