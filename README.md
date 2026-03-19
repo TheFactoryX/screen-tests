@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5982 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-19 |
+| #5983 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 412k | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6071,3 +6071,4 @@ If you need permission, you're thinking too much.
 | 5980 | 2026-03-19 22:26:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113056⭐ TypeScript) | [reels/reel_5980_iptv-org-iptv](reels/reel_5980_iptv-org-iptv) |
 | 5981 | 2026-03-19 22:56:28 | [paoloap/zaread](https://github.com/paoloap/zaread) | ✅ full (231⭐ Shell) | [reels/reel_5981_paoloap-zaread](reels/reel_5981_paoloap-zaread) |
 | 5982 | 2026-03-19 23:31:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145904⭐ Python) | [reels/reel_5982_langflow-ai-langflow](reels/reel_5982_langflow-ai-langflow) |
+| 5983 | 2026-03-19 23:58:41 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412351⭐ Python) | [reels/reel_5983_public-apis-public-apis](reels/reel_5983_public-apis-public-apis) |
