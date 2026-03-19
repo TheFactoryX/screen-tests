@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5979 | [Overworldai/owl-vaes](https://github.com/Overworldai/owl-vaes) | Python · ⭐ 24 | 2026-03-19 |
+| #5980 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 113k | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6068,3 +6068,4 @@ If you need permission, you're thinking too much.
 | 5977 | 2026-03-19 20:35:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130246⭐ Python) | [reels/reel_5977_langchain-ai-langchain](reels/reel_5977_langchain-ai-langchain) |
 | 5978 | 2026-03-19 21:19:06 | [GPSBabel/gpsbabel](https://github.com/GPSBabel/gpsbabel) | ✅ full (532⭐ C++) | [reels/reel_5978_GPSBabel-gpsbabel](reels/reel_5978_GPSBabel-gpsbabel) |
 | 5979 | 2026-03-19 21:53:58 | [Overworldai/owl-vaes](https://github.com/Overworldai/owl-vaes) | ✅ full (24⭐ Python) | [reels/reel_5979_Overworldai-owl-vaes](reels/reel_5979_Overworldai-owl-vaes) |
+| 5980 | 2026-03-19 22:26:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113056⭐ TypeScript) | [reels/reel_5980_iptv-org-iptv](reels/reel_5980_iptv-org-iptv) |
