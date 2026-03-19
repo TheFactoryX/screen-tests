@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5981 | [paoloap/zaread](https://github.com/paoloap/zaread) | Shell · ⭐ 231 | 2026-03-19 |
+| #5982 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6070,3 +6070,4 @@ If you need permission, you're thinking too much.
 | 5979 | 2026-03-19 21:53:58 | [Overworldai/owl-vaes](https://github.com/Overworldai/owl-vaes) | ✅ full (24⭐ Python) | [reels/reel_5979_Overworldai-owl-vaes](reels/reel_5979_Overworldai-owl-vaes) |
 | 5980 | 2026-03-19 22:26:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113056⭐ TypeScript) | [reels/reel_5980_iptv-org-iptv](reels/reel_5980_iptv-org-iptv) |
 | 5981 | 2026-03-19 22:56:28 | [paoloap/zaread](https://github.com/paoloap/zaread) | ✅ full (231⭐ Shell) | [reels/reel_5981_paoloap-zaread](reels/reel_5981_paoloap-zaread) |
+| 5982 | 2026-03-19 23:31:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145904⭐ Python) | [reels/reel_5982_langflow-ai-langflow](reels/reel_5982_langflow-ai-langflow) |
