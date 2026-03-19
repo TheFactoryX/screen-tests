@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5963 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 151k | 2026-03-19 |
+| #5964 | [kast-lang/kast](https://github.com/kast-lang/kast) | OCaml · ⭐ 98 | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6052,3 +6052,4 @@ If you need permission, you're thinking too much.
 | 5961 | 2026-03-19 06:10:17 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (261214⭐ None) | [reels/reel_5961_practical-tutorials-project-based-learning](reels/reel_5961_practical-tutorials-project-based-learning) |
 | 5962 | 2026-03-19 07:13:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151993⭐ Python) | [reels/reel_5962_yt-dlp-yt-dlp](reels/reel_5962_yt-dlp-yt-dlp) |
 | 5963 | 2026-03-19 07:56:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (151997⭐ Python) | [reels/reel_5963_yt-dlp-yt-dlp](reels/reel_5963_yt-dlp-yt-dlp) |
+| 5964 | 2026-03-19 08:45:04 | [kast-lang/kast](https://github.com/kast-lang/kast) | ✅ shallow (98⭐ OCaml) | [reels/reel_5964_kast-lang-kast](reels/reel_5964_kast-lang-kast) |
