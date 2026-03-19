@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5969 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 280k | 2026-03-19 |
+| #5970 | [pokeghosst/pokebook](https://github.com/pokeghosst/pokebook) | TypeScript · ⭐ 26 | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6058,3 +6058,4 @@ If you need permission, you're thinking too much.
 | 5967 | 2026-03-19 11:01:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127823⭐ Python) | [reels/reel_5967_open-webui-open-webui](reels/reel_5967_open-webui-open-webui) |
 | 5968 | 2026-03-19 11:49:52 | [RetroAchievements/RAWeb](https://github.com/RetroAchievements/RAWeb) | ✅ full (376⭐ PHP) | [reels/reel_5968_RetroAchievements-RAWeb](reels/reel_5968_RetroAchievements-RAWeb) |
 | 5969 | 2026-03-19 13:01:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280925⭐ None) | [reels/reel_5969_awesome-selfhosted-awesome-selfhosted](reels/reel_5969_awesome-selfhosted-awesome-selfhosted) |
+| 5970 | 2026-03-19 14:12:22 | [pokeghosst/pokebook](https://github.com/pokeghosst/pokebook) | ✅ full (26⭐ TypeScript) | [reels/reel_5970_pokeghosst-pokebook](reels/reel_5970_pokeghosst-pokebook) |

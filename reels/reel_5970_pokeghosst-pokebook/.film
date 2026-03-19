@@ -1,0 +1,24 @@
+{
+  "reel_number": 5970,
+  "recorded": "2026-03-19 14:12:22 UTC",
+  "repository": {
+    "full_name": "pokeghosst/pokebook",
+    "url": "https://github.com/pokeghosst/pokebook",
+    "clone_url": "https://github.com/pokeghosst/pokebook.git",
+    "stars": 26,
+    "language": "TypeScript",
+    "size_kb": 29088
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 3.544865
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 26 stars."
+  }
+}
