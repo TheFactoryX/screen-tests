@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5959 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-19 |
+| #5960 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | None · ⭐ 385 | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6048,3 +6048,4 @@ If you need permission, you're thinking too much.
 | 5957 | 2026-03-18 23:41:49 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102217⭐ Python) | [reels/reel_5957_deepseek-ai-DeepSeek-V3](reels/reel_5957_deepseek-ai-DeepSeek-V3) |
 | 5958 | 2026-03-19 00:00:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280819⭐ None) | [reels/reel_5958_awesome-selfhosted-awesome-selfhosted](reels/reel_5958_awesome-selfhosted-awesome-selfhosted) |
 | 5959 | 2026-03-19 03:14:40 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111318⭐ Rust) | [reels/reel_5959_rust-lang-rust](reels/reel_5959_rust-lang-rust) |
+| 5960 | 2026-03-19 05:04:22 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | ✅ full (385⭐ None) | [reels/reel_5960_ljagiello-ctf-skills](reels/reel_5960_ljagiello-ctf-skills) |
