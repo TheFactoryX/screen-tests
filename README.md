@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5960 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | None · ⭐ 385 | 2026-03-19 |
+| #5961 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 261k | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6049,3 +6049,4 @@ If you need permission, you're thinking too much.
 | 5958 | 2026-03-19 00:00:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280819⭐ None) | [reels/reel_5958_awesome-selfhosted-awesome-selfhosted](reels/reel_5958_awesome-selfhosted-awesome-selfhosted) |
 | 5959 | 2026-03-19 03:14:40 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111318⭐ Rust) | [reels/reel_5959_rust-lang-rust](reels/reel_5959_rust-lang-rust) |
 | 5960 | 2026-03-19 05:04:22 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | ✅ full (385⭐ None) | [reels/reel_5960_ljagiello-ctf-skills](reels/reel_5960_ljagiello-ctf-skills) |
+| 5961 | 2026-03-19 06:10:17 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (261214⭐ None) | [reels/reel_5961_practical-tutorials-project-based-learning](reels/reel_5961_practical-tutorials-project-based-learning) |
