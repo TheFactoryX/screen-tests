@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5977 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-19 |
+| #5978 | [GPSBabel/gpsbabel](https://github.com/GPSBabel/gpsbabel) | C++ · ⭐ 532 | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6066,3 +6066,4 @@ If you need permission, you're thinking too much.
 | 5975 | 2026-03-19 19:14:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127893⭐ Python) | [reels/reel_5975_open-webui-open-webui](reels/reel_5975_open-webui-open-webui) |
 | 5976 | 2026-03-19 19:53:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127894⭐ Python) | [reels/reel_5976_open-webui-open-webui](reels/reel_5976_open-webui-open-webui) |
 | 5977 | 2026-03-19 20:35:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130246⭐ Python) | [reels/reel_5977_langchain-ai-langchain](reels/reel_5977_langchain-ai-langchain) |
+| 5978 | 2026-03-19 21:19:06 | [GPSBabel/gpsbabel](https://github.com/GPSBabel/gpsbabel) | ✅ full (532⭐ C++) | [reels/reel_5978_GPSBabel-gpsbabel](reels/reel_5978_GPSBabel-gpsbabel) |

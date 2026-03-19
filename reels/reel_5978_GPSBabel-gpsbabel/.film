@@ -1,0 +1,24 @@
+{
+  "reel_number": 5978,
+  "recorded": "2026-03-19 21:19:06 UTC",
+  "repository": {
+    "full_name": "GPSBabel/gpsbabel",
+    "url": "https://github.com/GPSBabel/gpsbabel",
+    "clone_url": "https://github.com/GPSBabel/gpsbabel.git",
+    "stars": 532,
+    "language": "C++",
+    "size_kb": 66460
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 64,
+    "duration_seconds": 3.912935
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 532 stars."
+  }
+}
