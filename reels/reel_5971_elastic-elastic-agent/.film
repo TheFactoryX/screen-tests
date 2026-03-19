@@ -1,0 +1,24 @@
+{
+  "reel_number": 5971,
+  "recorded": "2026-03-19 15:06:34 UTC",
+  "repository": {
+    "full_name": "elastic/elastic-agent",
+    "url": "https://github.com/elastic/elastic-agent",
+    "clone_url": "https://github.com/elastic/elastic-agent.git",
+    "stars": 238,
+    "language": "Go",
+    "size_kb": 441590
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 431,
+    "duration_seconds": 1.566689
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 238 stars."
+  }
+}

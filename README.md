@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5970 | [pokeghosst/pokebook](https://github.com/pokeghosst/pokebook) | TypeScript · ⭐ 26 | 2026-03-19 |
+| #5971 | [elastic/elastic-agent](https://github.com/elastic/elastic-agent) | Go · ⭐ 238 | 2026-03-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6059,3 +6059,4 @@ If you need permission, you're thinking too much.
 | 5968 | 2026-03-19 11:49:52 | [RetroAchievements/RAWeb](https://github.com/RetroAchievements/RAWeb) | ✅ full (376⭐ PHP) | [reels/reel_5968_RetroAchievements-RAWeb](reels/reel_5968_RetroAchievements-RAWeb) |
 | 5969 | 2026-03-19 13:01:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (280925⭐ None) | [reels/reel_5969_awesome-selfhosted-awesome-selfhosted](reels/reel_5969_awesome-selfhosted-awesome-selfhosted) |
 | 5970 | 2026-03-19 14:12:22 | [pokeghosst/pokebook](https://github.com/pokeghosst/pokebook) | ✅ full (26⭐ TypeScript) | [reels/reel_5970_pokeghosst-pokebook](reels/reel_5970_pokeghosst-pokebook) |
+| 5971 | 2026-03-19 15:06:34 | [elastic/elastic-agent](https://github.com/elastic/elastic-agent) | ✅ shallow (238⭐ Go) | [reels/reel_5971_elastic-elastic-agent](reels/reel_5971_elastic-elastic-agent) |
