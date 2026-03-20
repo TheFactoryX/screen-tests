@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5985 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 127k | 2026-03-20 |
+| #5986 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6074,3 +6074,4 @@ If you need permission, you're thinking too much.
 | 5983 | 2026-03-19 23:58:41 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412351⭐ Python) | [reels/reel_5983_public-apis-public-apis](reels/reel_5983_public-apis-public-apis) |
 | 5984 | 2026-03-20 02:45:20 | [heestand-xyz/AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) | ✅ full (411⭐ Swift) | [reels/reel_5984_heestand-xyz-AsyncGraphics](reels/reel_5984_heestand-xyz-AsyncGraphics) |
 | 5985 | 2026-03-20 04:44:46 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127928⭐ Python) | [reels/reel_5985_open-webui-open-webui](reels/reel_5985_open-webui-open-webui) |
+| 5986 | 2026-03-20 05:40:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182621⭐ Python) | [reels/reel_5986_Significant-Gravitas-AutoGPT](reels/reel_5986_Significant-Gravitas-AutoGPT) |
