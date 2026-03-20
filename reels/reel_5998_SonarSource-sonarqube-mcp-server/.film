@@ -1,0 +1,24 @@
+{
+  "reel_number": 5998,
+  "recorded": "2026-03-20 15:58:05 UTC",
+  "repository": {
+    "full_name": "SonarSource/sonarqube-mcp-server",
+    "url": "https://github.com/SonarSource/sonarqube-mcp-server",
+    "clone_url": "https://github.com/SonarSource/sonarqube-mcp-server.git",
+    "stars": 435,
+    "language": "Java",
+    "size_kb": 1747
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.864995
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 435 stars."
+  }
+}

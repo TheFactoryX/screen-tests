@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5997 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 412k | 2026-03-20 |
+| #5998 | [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) | Java · ⭐ 435 | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6086,3 +6086,4 @@ If you need permission, you're thinking too much.
 | 5995 | 2026-03-20 12:56:23 | [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) | ✅ full (480⭐ Python) | [reels/reel_5995_BlessedRebuS-Krawl](reels/reel_5995_BlessedRebuS-Krawl) |
 | 5996 | 2026-03-20 14:01:27 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412591⭐ Python) | [reels/reel_5996_public-apis-public-apis](reels/reel_5996_public-apis-public-apis) |
 | 5997 | 2026-03-20 15:01:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412605⭐ Python) | [reels/reel_5997_public-apis-public-apis](reels/reel_5997_public-apis-public-apis) |
+| 5998 | 2026-03-20 15:58:05 | [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) | ✅ full (435⭐ Java) | [reels/reel_5998_SonarSource-sonarqube-mcp-server](reels/reel_5998_SonarSource-sonarqube-mcp-server) |
