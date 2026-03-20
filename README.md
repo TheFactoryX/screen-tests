@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5999 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 412k | 2026-03-20 |
+| #6000 | [anthropics/skills](https://github.com/anthropics/skills) | Python · ⭐ 98k | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6088,3 +6088,4 @@ If you need permission, you're thinking too much.
 | 5997 | 2026-03-20 15:01:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412605⭐ Python) | [reels/reel_5997_public-apis-public-apis](reels/reel_5997_public-apis-public-apis) |
 | 5998 | 2026-03-20 15:58:05 | [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) | ✅ full (435⭐ Java) | [reels/reel_5998_SonarSource-sonarqube-mcp-server](reels/reel_5998_SonarSource-sonarqube-mcp-server) |
 | 5999 | 2026-03-20 16:53:03 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412633⭐ Python) | [reels/reel_5999_public-apis-public-apis](reels/reel_5999_public-apis-public-apis) |
+| 6000 | 2026-03-20 17:34:13 | [anthropics/skills](https://github.com/anthropics/skills) | ✅ full (98523⭐ Python) | [reels/reel_6000_anthropics-skills](reels/reel_6000_anthropics-skills) |
