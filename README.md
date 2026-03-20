@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6004 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 145k | 2026-03-20 |
+| #6005 | [Joe-Development/Headbag](https://github.com/Joe-Development/Headbag) | Lua · ⭐ 21 | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6093,3 +6093,4 @@ If you need permission, you're thinking too much.
 | 6002 | 2026-03-20 19:06:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110194⭐ TypeScript) | [reels/reel_6002_shadcn-ui-ui](reels/reel_6002_shadcn-ui-ui) |
 | 6003 | 2026-03-20 19:49:02 | [richonguzman/LoRa_APRS_iGate](https://github.com/richonguzman/LoRa_APRS_iGate) | ✅ full (463⭐ Python) | [reels/reel_6003_richonguzman-LoRa_APRS_iGate](reels/reel_6003_richonguzman-LoRa_APRS_iGate) |
 | 6004 | 2026-03-20 20:30:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145954⭐ Python) | [reels/reel_6004_langflow-ai-langflow](reels/reel_6004_langflow-ai-langflow) |
+| 6005 | 2026-03-20 21:02:49 | [Joe-Development/Headbag](https://github.com/Joe-Development/Headbag) | ✅ full (21⭐ Lua) | [reels/reel_6005_Joe-Development-Headbag](reels/reel_6005_Joe-Development-Headbag) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 6005,
+  "recorded": "2026-03-20 21:02:49 UTC",
+  "repository": {
+    "full_name": "Joe-Development/Headbag",
+    "url": "https://github.com/Joe-Development/Headbag",
+    "clone_url": "https://github.com/Joe-Development/Headbag.git",
+    "stars": 21,
+    "language": "Lua",
+    "size_kb": 752
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.617303
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 21 stars."
+  }
+}
