@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6007 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-20 |
+| #6008 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 481k | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6096,3 +6096,4 @@ If you need permission, you're thinking too much.
 | 6005 | 2026-03-20 21:02:49 | [Joe-Development/Headbag](https://github.com/Joe-Development/Headbag) | ✅ full (21⭐ Lua) | [reels/reel_6005_Joe-Development-Headbag](reels/reel_6005_Joe-Development-Headbag) |
 | 6006 | 2026-03-20 21:44:03 | [weacast/weacast-app](https://github.com/weacast/weacast-app) | ✅ full (62⭐ JavaScript) | [reels/reel_6006_weacast-weacast-app](reels/reel_6006_weacast-weacast-app) |
 | 6007 | 2026-03-20 22:00:22 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110200⭐ TypeScript) | [reels/reel_6007_shadcn-ui-ui](reels/reel_6007_shadcn-ui-ui) |
+| 6008 | 2026-03-20 22:47:21 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (481745⭐ Markdown) | [reels/reel_6008_codecrafters-io-build-your-own-x](reels/reel_6008_codecrafters-io-build-your-own-x) |
