@@ -1,0 +1,24 @@
+{
+  "reel_number": 5984,
+  "recorded": "2026-03-20 02:45:20 UTC",
+  "repository": {
+    "full_name": "heestand-xyz/AsyncGraphics",
+    "url": "https://github.com/heestand-xyz/AsyncGraphics",
+    "clone_url": "https://github.com/heestand-xyz/AsyncGraphics.git",
+    "stars": 411,
+    "language": "Swift",
+    "size_kb": 6936
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.562919
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 411 stars."
+  }
+}
