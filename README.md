@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6005 | [Joe-Development/Headbag](https://github.com/Joe-Development/Headbag) | Lua · ⭐ 21 | 2026-03-20 |
+| #6006 | [weacast/weacast-app](https://github.com/weacast/weacast-app) | JavaScript · ⭐ 62 | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6094,3 +6094,4 @@ If you need permission, you're thinking too much.
 | 6003 | 2026-03-20 19:49:02 | [richonguzman/LoRa_APRS_iGate](https://github.com/richonguzman/LoRa_APRS_iGate) | ✅ full (463⭐ Python) | [reels/reel_6003_richonguzman-LoRa_APRS_iGate](reels/reel_6003_richonguzman-LoRa_APRS_iGate) |
 | 6004 | 2026-03-20 20:30:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145954⭐ Python) | [reels/reel_6004_langflow-ai-langflow](reels/reel_6004_langflow-ai-langflow) |
 | 6005 | 2026-03-20 21:02:49 | [Joe-Development/Headbag](https://github.com/Joe-Development/Headbag) | ✅ full (21⭐ Lua) | [reels/reel_6005_Joe-Development-Headbag](reels/reel_6005_Joe-Development-Headbag) |
+| 6006 | 2026-03-20 21:44:03 | [weacast/weacast-app](https://github.com/weacast/weacast-app) | ✅ full (62⭐ JavaScript) | [reels/reel_6006_weacast-weacast-app](reels/reel_6006_weacast-weacast-app) |

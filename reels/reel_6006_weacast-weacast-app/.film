@@ -1,0 +1,24 @@
+{
+  "reel_number": 6006,
+  "recorded": "2026-03-20 21:44:03 UTC",
+  "repository": {
+    "full_name": "weacast/weacast-app",
+    "url": "https://github.com/weacast/weacast-app",
+    "clone_url": "https://github.com/weacast/weacast-app.git",
+    "stars": 62,
+    "language": "JavaScript",
+    "size_kb": 2565
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.464774
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 62 stars."
+  }
+}
