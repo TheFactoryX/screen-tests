@@ -1,0 +1,24 @@
+{
+  "reel_number": 5995,
+  "recorded": "2026-03-20 12:56:23 UTC",
+  "repository": {
+    "full_name": "BlessedRebuS/Krawl",
+    "url": "https://github.com/BlessedRebuS/Krawl",
+    "clone_url": "https://github.com/BlessedRebuS/Krawl.git",
+    "stars": 480,
+    "language": "Python",
+    "size_kb": 6558
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.339898
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 480 stars."
+  }
+}
