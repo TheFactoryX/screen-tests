@@ -1,0 +1,24 @@
+{
+  "reel_number": 6003,
+  "recorded": "2026-03-20 19:49:02 UTC",
+  "repository": {
+    "full_name": "richonguzman/LoRa_APRS_iGate",
+    "url": "https://github.com/richonguzman/LoRa_APRS_iGate",
+    "clone_url": "https://github.com/richonguzman/LoRa_APRS_iGate.git",
+    "stars": 463,
+    "language": "Python",
+    "size_kb": 18638
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 0.898281
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 463 stars."
+  }
+}
