@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6001 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 152k | 2026-03-20 |
+| #6002 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6090,3 +6090,4 @@ If you need permission, you're thinking too much.
 | 5999 | 2026-03-20 16:53:03 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412633⭐ Python) | [reels/reel_5999_public-apis-public-apis](reels/reel_5999_public-apis-public-apis) |
 | 6000 | 2026-03-20 17:34:13 | [anthropics/skills](https://github.com/anthropics/skills) | ✅ full (98523⭐ Python) | [reels/reel_6000_anthropics-skills](reels/reel_6000_anthropics-skills) |
 | 6001 | 2026-03-20 18:06:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152261⭐ Python) | [reels/reel_6001_yt-dlp-yt-dlp](reels/reel_6001_yt-dlp-yt-dlp) |
+| 6002 | 2026-03-20 19:06:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110194⭐ TypeScript) | [reels/reel_6002_shadcn-ui-ui](reels/reel_6002_shadcn-ui-ui) |
