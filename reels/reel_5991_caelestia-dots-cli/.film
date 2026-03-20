@@ -1,0 +1,24 @@
+{
+  "reel_number": 5991,
+  "recorded": "2026-03-20 09:57:48 UTC",
+  "repository": {
+    "full_name": "caelestia-dots/cli",
+    "url": "https://github.com/caelestia-dots/cli",
+    "clone_url": "https://github.com/caelestia-dots/cli.git",
+    "stars": 131,
+    "language": "Python",
+    "size_kb": 762
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.203862
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 131 stars."
+  }
+}

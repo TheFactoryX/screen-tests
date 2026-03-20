@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5990 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 180k | 2026-03-20 |
+| #5991 | [caelestia-dots/cli](https://github.com/caelestia-dots/cli) | Python · ⭐ 131 | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6079,3 +6079,4 @@ If you need permission, you're thinking too much.
 | 5988 | 2026-03-20 07:34:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182622⭐ Python) | [reels/reel_5988_Significant-Gravitas-AutoGPT](reels/reel_5988_Significant-Gravitas-AutoGPT) |
 | 5989 | 2026-03-20 08:22:25 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (145931⭐ Python) | [reels/reel_5989_langflow-ai-langflow](reels/reel_5989_langflow-ai-langflow) |
 | 5990 | 2026-03-20 09:04:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180131⭐ TypeScript) | [reels/reel_5990_n8n-io-n8n](reels/reel_5990_n8n-io-n8n) |
+| 5991 | 2026-03-20 09:57:48 | [caelestia-dots/cli](https://github.com/caelestia-dots/cli) | ✅ full (131⭐ Python) | [reels/reel_5991_caelestia-dots-cli](reels/reel_5991_caelestia-dots-cli) |
