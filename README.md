@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #5992 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-20 |
+| #5993 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 127k | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6081,3 +6081,4 @@ If you need permission, you're thinking too much.
 | 5990 | 2026-03-20 09:04:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180131⭐ TypeScript) | [reels/reel_5990_n8n-io-n8n](reels/reel_5990_n8n-io-n8n) |
 | 5991 | 2026-03-20 09:57:48 | [caelestia-dots/cli](https://github.com/caelestia-dots/cli) | ✅ full (131⭐ Python) | [reels/reel_5991_caelestia-dots-cli](reels/reel_5991_caelestia-dots-cli) |
 | 5992 | 2026-03-20 10:44:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281086⭐ None) | [reels/reel_5992_awesome-selfhosted-awesome-selfhosted](reels/reel_5992_awesome-selfhosted-awesome-selfhosted) |
+| 5993 | 2026-03-20 11:19:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (127970⭐ Python) | [reels/reel_5993_open-webui-open-webui](reels/reel_5993_open-webui-open-webui) |
