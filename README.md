@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6009 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-20 |
+| #6010 | [docker-hardened-images/catalog](https://github.com/docker-hardened-images/catalog) | Shell · ⭐ 187 | 2026-03-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6098,3 +6098,4 @@ If you need permission, you're thinking too much.
 | 6007 | 2026-03-20 22:00:22 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110200⭐ TypeScript) | [reels/reel_6007_shadcn-ui-ui](reels/reel_6007_shadcn-ui-ui) |
 | 6008 | 2026-03-20 22:47:21 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (481745⭐ Markdown) | [reels/reel_6008_codecrafters-io-build-your-own-x](reels/reel_6008_codecrafters-io-build-your-own-x) |
 | 6009 | 2026-03-20 23:26:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111376⭐ Rust) | [reels/reel_6009_rust-lang-rust](reels/reel_6009_rust-lang-rust) |
+| 6010 | 2026-03-20 23:52:07 | [docker-hardened-images/catalog](https://github.com/docker-hardened-images/catalog) | ✅ full (187⭐ Shell) | [reels/reel_6010_docker-hardened-images-catalog](reels/reel_6010_docker-hardened-images-catalog) |
