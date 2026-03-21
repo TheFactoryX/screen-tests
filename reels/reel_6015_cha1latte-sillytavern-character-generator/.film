@@ -1,0 +1,24 @@
+{
+  "reel_number": 6015,
+  "recorded": "2026-03-21 06:40:10 UTC",
+  "repository": {
+    "full_name": "cha1latte/sillytavern-character-generator",
+    "url": "https://github.com/cha1latte/sillytavern-character-generator",
+    "clone_url": "https://github.com/cha1latte/sillytavern-character-generator.git",
+    "stars": 25,
+    "language": null,
+    "size_kb": 14
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.118217
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 25 stars."
+  }
+}
