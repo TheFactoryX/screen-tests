@@ -1,0 +1,24 @@
+{
+  "reel_number": 6011,
+  "recorded": "2026-03-21 01:52:42 UTC",
+  "repository": {
+    "full_name": "moritz-h/satisfactory-3d-map",
+    "url": "https://github.com/moritz-h/satisfactory-3d-map",
+    "clone_url": "https://github.com/moritz-h/satisfactory-3d-map.git",
+    "stars": 45,
+    "language": "C++",
+    "size_kb": 60655
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 59,
+    "duration_seconds": 1.389798
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 45 stars."
+  }
+}

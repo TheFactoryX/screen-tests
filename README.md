@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6010 | [docker-hardened-images/catalog](https://github.com/docker-hardened-images/catalog) | Shell · ⭐ 187 | 2026-03-20 |
+| #6011 | [moritz-h/satisfactory-3d-map](https://github.com/moritz-h/satisfactory-3d-map) | C++ · ⭐ 45 | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6099,3 +6099,4 @@ If you need permission, you're thinking too much.
 | 6008 | 2026-03-20 22:47:21 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (481745⭐ Markdown) | [reels/reel_6008_codecrafters-io-build-your-own-x](reels/reel_6008_codecrafters-io-build-your-own-x) |
 | 6009 | 2026-03-20 23:26:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111376⭐ Rust) | [reels/reel_6009_rust-lang-rust](reels/reel_6009_rust-lang-rust) |
 | 6010 | 2026-03-20 23:52:07 | [docker-hardened-images/catalog](https://github.com/docker-hardened-images/catalog) | ✅ full (187⭐ Shell) | [reels/reel_6010_docker-hardened-images-catalog](reels/reel_6010_docker-hardened-images-catalog) |
+| 6011 | 2026-03-21 01:52:42 | [moritz-h/satisfactory-3d-map](https://github.com/moritz-h/satisfactory-3d-map) | ✅ full (45⭐ C++) | [reels/reel_6011_moritz-h-satisfactory-3d-map](reels/reel_6011_moritz-h-satisfactory-3d-map) |
