@@ -1,0 +1,24 @@
+{
+  "reel_number": 6041,
+  "recorded": "2026-03-21 20:50:26 UTC",
+  "repository": {
+    "full_name": "Jezza34000/homeassistant_petkit",
+    "url": "https://github.com/Jezza34000/homeassistant_petkit",
+    "clone_url": "https://github.com/Jezza34000/homeassistant_petkit.git",
+    "stars": 197,
+    "language": "Python",
+    "size_kb": 5992
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.463122
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 197 stars."
+  }
+}

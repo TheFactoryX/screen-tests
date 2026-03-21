@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6040 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | Python · ⭐ 246 | 2026-03-21 |
+| #6041 | [Jezza34000/homeassistant_petkit](https://github.com/Jezza34000/homeassistant_petkit) | Python · ⭐ 197 | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6129,3 +6129,4 @@ If you need permission, you're thinking too much.
 | 6038 | 2026-03-21 19:35:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130490⭐ Python) | [reels/reel_6038_langchain-ai-langchain](reels/reel_6038_langchain-ai-langchain) |
 | 6039 | 2026-03-21 19:54:41 | [pion/sctp](https://github.com/pion/sctp) | ✅ full (254⭐ Go) | [reels/reel_6039_pion-sctp](reels/reel_6039_pion-sctp) |
 | 6040 | 2026-03-21 20:24:41 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (246⭐ Python) | [reels/reel_6040_tom-doerr-repo_posts](reels/reel_6040_tom-doerr-repo_posts) |
+| 6041 | 2026-03-21 20:50:26 | [Jezza34000/homeassistant_petkit](https://github.com/Jezza34000/homeassistant_petkit) | ✅ full (197⭐ Python) | [reels/reel_6041_Jezza34000-homeassistant_petkit](reels/reel_6041_Jezza34000-homeassistant_petkit) |
