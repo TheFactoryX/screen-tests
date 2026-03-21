@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6027 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-21 |
+| #6028 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6116,3 +6116,4 @@ If you need permission, you're thinking too much.
 | 6025 | 2026-03-21 11:58:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130456⭐ Python) | [reels/reel_6025_langchain-ai-langchain](reels/reel_6025_langchain-ai-langchain) |
 | 6026 | 2026-03-21 13:03:50 | [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) | ✅ full (205⭐ HTML) | [reels/reel_6026_pkgforge-dev-Termux-Packages](reels/reel_6026_pkgforge-dev-Termux-Packages) |
 | 6027 | 2026-03-21 13:51:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111405⭐ Rust) | [reels/reel_6027_rust-lang-rust](reels/reel_6027_rust-lang-rust) |
+| 6028 | 2026-03-21 14:25:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281262⭐ None) | [reels/reel_6028_awesome-selfhosted-awesome-selfhosted](reels/reel_6028_awesome-selfhosted-awesome-selfhosted) |
