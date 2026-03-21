@@ -1,0 +1,24 @@
+{
+  "reel_number": 6042,
+  "recorded": "2026-03-21 21:23:16 UTC",
+  "repository": {
+    "full_name": "stashapp/CommunityScrapers",
+    "url": "https://github.com/stashapp/CommunityScrapers",
+    "clone_url": "https://github.com/stashapp/CommunityScrapers.git",
+    "stars": 801,
+    "language": "YAML",
+    "size_kb": 6358
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.153188
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "YAML",
+    "director_note": "A YAML repository. 801 stars."
+  }
+}
