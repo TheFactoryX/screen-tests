@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6038 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-21 |
+| #6039 | [pion/sctp](https://github.com/pion/sctp) | Go · ⭐ 254 | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6127,3 +6127,4 @@ If you need permission, you're thinking too much.
 | 6036 | 2026-03-21 18:34:16 | [ThioJoe/ThioJoe-AHK-Scripts](https://github.com/ThioJoe/ThioJoe-AHK-Scripts) | ✅ full (331⭐ AutoHotkey) | [reels/reel_6036_ThioJoe-ThioJoe-AHK-Scripts](reels/reel_6036_ThioJoe-ThioJoe-AHK-Scripts) |
 | 6037 | 2026-03-21 19:03:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111410⭐ Rust) | [reels/reel_6037_rust-lang-rust](reels/reel_6037_rust-lang-rust) |
 | 6038 | 2026-03-21 19:35:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130490⭐ Python) | [reels/reel_6038_langchain-ai-langchain](reels/reel_6038_langchain-ai-langchain) |
+| 6039 | 2026-03-21 19:54:41 | [pion/sctp](https://github.com/pion/sctp) | ✅ full (254⭐ Go) | [reels/reel_6039_pion-sctp](reels/reel_6039_pion-sctp) |

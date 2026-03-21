@@ -1,0 +1,24 @@
+{
+  "reel_number": 6039,
+  "recorded": "2026-03-21 19:54:41 UTC",
+  "repository": {
+    "full_name": "pion/sctp",
+    "url": "https://github.com/pion/sctp",
+    "clone_url": "https://github.com/pion/sctp.git",
+    "stars": 254,
+    "language": "Go",
+    "size_kb": 867
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.638194
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 254 stars."
+  }
+}
