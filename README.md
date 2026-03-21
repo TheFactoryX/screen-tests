@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6015 | [cha1latte/sillytavern-character-generator](https://github.com/cha1latte/sillytavern-character-generator) | None · ⭐ 25 | 2026-03-21 |
+| #6016 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6104,3 +6104,4 @@ If you need permission, you're thinking too much.
 | 6013 | 2026-03-21 05:11:44 | [argonaut-io/argonaut](https://github.com/argonaut-io/argonaut) | ✅ full (544⭐ Scala) | [reels/reel_6013_argonaut-io-argonaut](reels/reel_6013_argonaut-io-argonaut) |
 | 6014 | 2026-03-21 05:54:36 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281210⭐ None) | [reels/reel_6014_awesome-selfhosted-awesome-selfhosted](reels/reel_6014_awesome-selfhosted-awesome-selfhosted) |
 | 6015 | 2026-03-21 06:40:10 | [cha1latte/sillytavern-character-generator](https://github.com/cha1latte/sillytavern-character-generator) | ✅ full (25⭐ None) | [reels/reel_6015_cha1latte-sillytavern-character-generator](reels/reel_6015_cha1latte-sillytavern-character-generator) |
+| 6016 | 2026-03-21 07:21:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281217⭐ None) | [reels/reel_6016_awesome-selfhosted-awesome-selfhosted](reels/reel_6016_awesome-selfhosted-awesome-selfhosted) |
