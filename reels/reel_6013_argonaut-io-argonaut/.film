@@ -1,0 +1,24 @@
+{
+  "reel_number": 6013,
+  "recorded": "2026-03-21 05:11:44 UTC",
+  "repository": {
+    "full_name": "argonaut-io/argonaut",
+    "url": "https://github.com/argonaut-io/argonaut",
+    "clone_url": "https://github.com/argonaut-io/argonaut.git",
+    "stars": 544,
+    "language": "Scala",
+    "size_kb": 13810
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 0.807514
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Scala",
+    "director_note": "A Scala repository. 544 stars."
+  }
+}
