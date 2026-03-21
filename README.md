@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6017 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-21 |
+| #6018 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 412k | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6106,3 +6106,4 @@ If you need permission, you're thinking too much.
 | 6015 | 2026-03-21 06:40:10 | [cha1latte/sillytavern-character-generator](https://github.com/cha1latte/sillytavern-character-generator) | ✅ full (25⭐ None) | [reels/reel_6015_cha1latte-sillytavern-character-generator](reels/reel_6015_cha1latte-sillytavern-character-generator) |
 | 6016 | 2026-03-21 07:21:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281217⭐ None) | [reels/reel_6016_awesome-selfhosted-awesome-selfhosted](reels/reel_6016_awesome-selfhosted-awesome-selfhosted) |
 | 6017 | 2026-03-21 07:51:21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128059⭐ Python) | [reels/reel_6017_open-webui-open-webui](reels/reel_6017_open-webui-open-webui) |
+| 6018 | 2026-03-21 08:31:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412830⭐ Python) | [reels/reel_6018_public-apis-public-apis](reels/reel_6018_public-apis-public-apis) |
