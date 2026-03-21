@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6044 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-21 |
+| #6045 | [eaton-lab/toytree](https://github.com/eaton-lab/toytree) | Jupyter Notebook · ⭐ 191 | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6133,3 +6133,4 @@ If you need permission, you're thinking too much.
 | 6042 | 2026-03-21 21:23:16 | [stashapp/CommunityScrapers](https://github.com/stashapp/CommunityScrapers) | ✅ full (801⭐ YAML) | [reels/reel_6042_stashapp-CommunityScrapers](reels/reel_6042_stashapp-CommunityScrapers) |
 | 6043 | 2026-03-21 21:47:05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182669⭐ Python) | [reels/reel_6043_Significant-Gravitas-AutoGPT](reels/reel_6043_Significant-Gravitas-AutoGPT) |
 | 6044 | 2026-03-21 22:22:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182670⭐ Python) | [reels/reel_6044_Significant-Gravitas-AutoGPT](reels/reel_6044_Significant-Gravitas-AutoGPT) |
+| 6045 | 2026-03-21 22:49:44 | [eaton-lab/toytree](https://github.com/eaton-lab/toytree) | ✅ full (191⭐ Jupyter Notebook) | [reels/reel_6045_eaton-lab-toytree](reels/reel_6045_eaton-lab-toytree) |
