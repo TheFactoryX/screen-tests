@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6039 | [pion/sctp](https://github.com/pion/sctp) | Go · ⭐ 254 | 2026-03-21 |
+| #6040 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | Python · ⭐ 246 | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6128,3 +6128,4 @@ If you need permission, you're thinking too much.
 | 6037 | 2026-03-21 19:03:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111410⭐ Rust) | [reels/reel_6037_rust-lang-rust](reels/reel_6037_rust-lang-rust) |
 | 6038 | 2026-03-21 19:35:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130490⭐ Python) | [reels/reel_6038_langchain-ai-langchain](reels/reel_6038_langchain-ai-langchain) |
 | 6039 | 2026-03-21 19:54:41 | [pion/sctp](https://github.com/pion/sctp) | ✅ full (254⭐ Go) | [reels/reel_6039_pion-sctp](reels/reel_6039_pion-sctp) |
+| 6040 | 2026-03-21 20:24:41 | [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) | ✅ readme_only (246⭐ Python) | [reels/reel_6040_tom-doerr-repo_posts](reels/reel_6040_tom-doerr-repo_posts) |
