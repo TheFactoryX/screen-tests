@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6032 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-21 |
+| #6033 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 180k | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6121,3 +6121,4 @@ If you need permission, you're thinking too much.
 | 6030 | 2026-03-21 15:24:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (412926⭐ Python) | [reels/reel_6030_public-apis-public-apis](reels/reel_6030_public-apis-public-apis) |
 | 6031 | 2026-03-21 15:47:42 | [WoWAnalyzer/WoWAnalyzer](https://github.com/WoWAnalyzer/WoWAnalyzer) | ✅ shallow (569⭐ TypeScript) | [reels/reel_6031_WoWAnalyzer-WoWAnalyzer](reels/reel_6031_WoWAnalyzer-WoWAnalyzer) |
 | 6032 | 2026-03-21 16:27:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281280⭐ None) | [reels/reel_6032_awesome-selfhosted-awesome-selfhosted](reels/reel_6032_awesome-selfhosted-awesome-selfhosted) |
+| 6033 | 2026-03-21 16:55:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180321⭐ TypeScript) | [reels/reel_6033_n8n-io-n8n](reels/reel_6033_n8n-io-n8n) |
