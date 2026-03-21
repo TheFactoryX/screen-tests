@@ -1,0 +1,24 @@
+{
+  "reel_number": 6026,
+  "recorded": "2026-03-21 13:03:50 UTC",
+  "repository": {
+    "full_name": "pkgforge-dev/Termux-Packages",
+    "url": "https://github.com/pkgforge-dev/Termux-Packages",
+    "clone_url": "https://github.com/pkgforge-dev/Termux-Packages.git",
+    "stars": 205,
+    "language": "HTML",
+    "size_kb": 3890
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 4.351629
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 205 stars."
+  }
+}
