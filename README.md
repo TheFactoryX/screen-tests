@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6034 | [NetHack/NetHack](https://github.com/NetHack/NetHack) | C · ⭐ 3k | 2026-03-21 |
+| #6035 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 152k | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6123,3 +6123,4 @@ If you need permission, you're thinking too much.
 | 6032 | 2026-03-21 16:27:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281280⭐ None) | [reels/reel_6032_awesome-selfhosted-awesome-selfhosted](reels/reel_6032_awesome-selfhosted-awesome-selfhosted) |
 | 6033 | 2026-03-21 16:55:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180321⭐ TypeScript) | [reels/reel_6033_n8n-io-n8n](reels/reel_6033_n8n-io-n8n) |
 | 6034 | 2026-03-21 17:24:07 | [NetHack/NetHack](https://github.com/NetHack/NetHack) | ✅ shallow (3514⭐ C) | [reels/reel_6034_NetHack-NetHack](reels/reel_6034_NetHack-NetHack) |
+| 6035 | 2026-03-21 17:50:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152402⭐ Python) | [reels/reel_6035_yt-dlp-yt-dlp](reels/reel_6035_yt-dlp-yt-dlp) |
