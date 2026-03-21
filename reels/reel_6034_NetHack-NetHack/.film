@@ -1,0 +1,24 @@
+{
+  "reel_number": 6034,
+  "recorded": "2026-03-21 17:24:07 UTC",
+  "repository": {
+    "full_name": "NetHack/NetHack",
+    "url": "https://github.com/NetHack/NetHack",
+    "clone_url": "https://github.com/NetHack/NetHack.git",
+    "stars": 3514,
+    "language": "C",
+    "size_kb": 162393
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 158,
+    "duration_seconds": 1.741328
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 3514 stars."
+  }
+}
