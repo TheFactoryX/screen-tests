@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6022 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 180k | 2026-03-21 |
+| #6023 | [intoolswetrust/jsignpdf](https://github.com/intoolswetrust/jsignpdf) | Java · ⭐ 388 | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6111,3 +6111,4 @@ If you need permission, you're thinking too much.
 | 6020 | 2026-03-21 09:45:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128065⭐ Python) | [reels/reel_6020_open-webui-open-webui](reels/reel_6020_open-webui-open-webui) |
 | 6021 | 2026-03-21 10:24:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182649⭐ Python) | [reels/reel_6021_Significant-Gravitas-AutoGPT](reels/reel_6021_Significant-Gravitas-AutoGPT) |
 | 6022 | 2026-03-21 10:52:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180265⭐ TypeScript) | [reels/reel_6022_n8n-io-n8n](reels/reel_6022_n8n-io-n8n) |
+| 6023 | 2026-03-21 11:21:11 | [intoolswetrust/jsignpdf](https://github.com/intoolswetrust/jsignpdf) | ✅ shallow (388⭐ Java) | [reels/reel_6023_intoolswetrust-jsignpdf](reels/reel_6023_intoolswetrust-jsignpdf) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 6023,
+  "recorded": "2026-03-21 11:21:11 UTC",
+  "repository": {
+    "full_name": "intoolswetrust/jsignpdf",
+    "url": "https://github.com/intoolswetrust/jsignpdf",
+    "clone_url": "https://github.com/intoolswetrust/jsignpdf.git",
+    "stars": 388,
+    "language": "Java",
+    "size_kb": 205933
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 201,
+    "duration_seconds": 1.086467
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 388 stars."
+  }
+}
