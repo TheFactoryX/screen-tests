@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6036 | [ThioJoe/ThioJoe-AHK-Scripts](https://github.com/ThioJoe/ThioJoe-AHK-Scripts) | AutoHotkey · ⭐ 331 | 2026-03-21 |
+| #6037 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6125,3 +6125,4 @@ If you need permission, you're thinking too much.
 | 6034 | 2026-03-21 17:24:07 | [NetHack/NetHack](https://github.com/NetHack/NetHack) | ✅ shallow (3514⭐ C) | [reels/reel_6034_NetHack-NetHack](reels/reel_6034_NetHack-NetHack) |
 | 6035 | 2026-03-21 17:50:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152402⭐ Python) | [reels/reel_6035_yt-dlp-yt-dlp](reels/reel_6035_yt-dlp-yt-dlp) |
 | 6036 | 2026-03-21 18:34:16 | [ThioJoe/ThioJoe-AHK-Scripts](https://github.com/ThioJoe/ThioJoe-AHK-Scripts) | ✅ full (331⭐ AutoHotkey) | [reels/reel_6036_ThioJoe-ThioJoe-AHK-Scripts](reels/reel_6036_ThioJoe-ThioJoe-AHK-Scripts) |
+| 6037 | 2026-03-21 19:03:43 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111410⭐ Rust) | [reels/reel_6037_rust-lang-rust](reels/reel_6037_rust-lang-rust) |
