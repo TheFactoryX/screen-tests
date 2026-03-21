@@ -1,0 +1,24 @@
+{
+  "reel_number": 6036,
+  "recorded": "2026-03-21 18:34:16 UTC",
+  "repository": {
+    "full_name": "ThioJoe/ThioJoe-AHK-Scripts",
+    "url": "https://github.com/ThioJoe/ThioJoe-AHK-Scripts",
+    "clone_url": "https://github.com/ThioJoe/ThioJoe-AHK-Scripts.git",
+    "stars": 331,
+    "language": "AutoHotkey",
+    "size_kb": 371
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.220253
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "AutoHotkey",
+    "director_note": "A AutoHotkey repository. 331 stars."
+  }
+}
