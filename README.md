@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6072 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-03-22 |
+| #6073 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6161,3 +6161,4 @@ If you need permission, you're thinking too much.
 | 6070 | 2026-03-22 17:51:18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152602⭐ Python) | [reels/reel_6070_yt-dlp-yt-dlp](reels/reel_6070_yt-dlp-yt-dlp) |
 | 6071 | 2026-03-22 18:35:19 | [Visual1mpact/Paradox_AntiCheat](https://github.com/Visual1mpact/Paradox_AntiCheat) | ✅ full (38⭐ TypeScript) | [reels/reel_6071_Visual1mpact-Paradox_AntiCheat](reels/reel_6071_Visual1mpact-Paradox_AntiCheat) |
 | 6072 | 2026-03-22 19:05:16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139930⭐ Python) | [reels/reel_6072_ytdl-org-youtube-dl](reels/reel_6072_ytdl-org-youtube-dl) |
+| 6073 | 2026-03-22 19:37:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281482⭐ None) | [reels/reel_6073_awesome-selfhosted-awesome-selfhosted](reels/reel_6073_awesome-selfhosted-awesome-selfhosted) |
