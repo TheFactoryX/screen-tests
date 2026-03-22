@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6066 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-22 |
+| #6067 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 104k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6155,3 +6155,4 @@ If you need permission, you're thinking too much.
 | 6064 | 2026-03-22 14:45:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146045⭐ Python) | [reels/reel_6064_langflow-ai-langflow](reels/reel_6064_langflow-ai-langflow) |
 | 6065 | 2026-03-22 15:24:24 | [itsreimau/gaxtawu](https://github.com/itsreimau/gaxtawu) | ✅ full (147⭐ JavaScript) | [reels/reel_6065_itsreimau-gaxtawu](reels/reel_6065_itsreimau-gaxtawu) |
 | 6066 | 2026-03-22 15:48:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281444⭐ None) | [reels/reel_6066_awesome-selfhosted-awesome-selfhosted](reels/reel_6066_awesome-selfhosted-awesome-selfhosted) |
+| 6067 | 2026-03-22 16:28:30 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (104590⭐ TypeScript) | [reels/reel_6067_clash-verge-rev-clash-verge-rev](reels/reel_6067_clash-verge-rev-clash-verge-rev) |
