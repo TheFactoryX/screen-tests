@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6051 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 349 | 2026-03-22 |
+| #6052 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6140,3 +6140,4 @@ If you need permission, you're thinking too much.
 | 6049 | 2026-03-22 04:27:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152477⭐ Python) | [reels/reel_6049_yt-dlp-yt-dlp](reels/reel_6049_yt-dlp-yt-dlp) |
 | 6050 | 2026-03-22 05:38:01 | [aaravmaloo/apm](https://github.com/aaravmaloo/apm) | ✅ full (25⭐ Go) | [reels/reel_6050_aaravmaloo-apm](reels/reel_6050_aaravmaloo-apm) |
 | 6051 | 2026-03-22 06:31:37 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (349⭐ None) | [reels/reel_6051_hello-world-1989-cn-news](reels/reel_6051_hello-world-1989-cn-news) |
+| 6052 | 2026-03-22 07:26:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281384⭐ None) | [reels/reel_6052_awesome-selfhosted-awesome-selfhosted](reels/reel_6052_awesome-selfhosted-awesome-selfhosted) |
