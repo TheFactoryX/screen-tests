@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6065 | [itsreimau/gaxtawu](https://github.com/itsreimau/gaxtawu) | JavaScript · ⭐ 147 | 2026-03-22 |
+| #6066 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6154,3 +6154,4 @@ If you need permission, you're thinking too much.
 | 6063 | 2026-03-22 14:04:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152569⭐ Python) | [reels/reel_6063_yt-dlp-yt-dlp](reels/reel_6063_yt-dlp-yt-dlp) |
 | 6064 | 2026-03-22 14:45:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146045⭐ Python) | [reels/reel_6064_langflow-ai-langflow](reels/reel_6064_langflow-ai-langflow) |
 | 6065 | 2026-03-22 15:24:24 | [itsreimau/gaxtawu](https://github.com/itsreimau/gaxtawu) | ✅ full (147⭐ JavaScript) | [reels/reel_6065_itsreimau-gaxtawu](reels/reel_6065_itsreimau-gaxtawu) |
+| 6066 | 2026-03-22 15:48:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281444⭐ None) | [reels/reel_6066_awesome-selfhosted-awesome-selfhosted](reels/reel_6066_awesome-selfhosted-awesome-selfhosted) |
