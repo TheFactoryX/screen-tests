@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6048 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 413k | 2026-03-22 |
+| #6049 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 152k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6137,3 +6137,4 @@ If you need permission, you're thinking too much.
 | 6046 | 2026-03-21 23:23:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281322⭐ None) | [reels/reel_6046_awesome-selfhosted-awesome-selfhosted](reels/reel_6046_awesome-selfhosted-awesome-selfhosted) |
 | 6047 | 2026-03-21 23:47:38 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180366⭐ TypeScript) | [reels/reel_6047_n8n-io-n8n](reels/reel_6047_n8n-io-n8n) |
 | 6048 | 2026-03-22 02:05:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (413097⭐ Python) | [reels/reel_6048_public-apis-public-apis](reels/reel_6048_public-apis-public-apis) |
+| 6049 | 2026-03-22 04:27:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152477⭐ Python) | [reels/reel_6049_yt-dlp-yt-dlp](reels/reel_6049_yt-dlp-yt-dlp) |
