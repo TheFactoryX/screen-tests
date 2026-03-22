@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6076 | [mogura-rs/mogura](https://github.com/mogura-rs/mogura) | Rust · ⭐ 11 | 2026-03-22 |
+| #6077 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6165,3 +6165,4 @@ If you need permission, you're thinking too much.
 | 6074 | 2026-03-22 19:54:58 | [AyeeMinerva/SillyTavern-Extension-ChatBridge](https://github.com/AyeeMinerva/SillyTavern-Extension-ChatBridge) | ✅ full (45⭐ Python) | [reels/reel_6074_AyeeMinerva-SillyTavern-Extension-ChatBridge](reels/reel_6074_AyeeMinerva-SillyTavern-Extension-ChatBridge) |
 | 6075 | 2026-03-22 20:25:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111430⭐ Rust) | [reels/reel_6075_rust-lang-rust](reels/reel_6075_rust-lang-rust) |
 | 6076 | 2026-03-22 20:51:57 | [mogura-rs/mogura](https://github.com/mogura-rs/mogura) | ✅ full (11⭐ Rust) | [reels/reel_6076_mogura-rs-mogura](reels/reel_6076_mogura-rs-mogura) |
+| 6077 | 2026-03-22 21:24:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130601⭐ Python) | [reels/reel_6077_langchain-ai-langchain](reels/reel_6077_langchain-ai-langchain) |
