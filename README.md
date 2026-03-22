@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6077 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-22 |
+| #6078 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 261k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6166,3 +6166,4 @@ If you need permission, you're thinking too much.
 | 6075 | 2026-03-22 20:25:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111430⭐ Rust) | [reels/reel_6075_rust-lang-rust](reels/reel_6075_rust-lang-rust) |
 | 6076 | 2026-03-22 20:51:57 | [mogura-rs/mogura](https://github.com/mogura-rs/mogura) | ✅ full (11⭐ Rust) | [reels/reel_6076_mogura-rs-mogura](reels/reel_6076_mogura-rs-mogura) |
 | 6077 | 2026-03-22 21:24:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130601⭐ Python) | [reels/reel_6077_langchain-ai-langchain](reels/reel_6077_langchain-ai-langchain) |
+| 6078 | 2026-03-22 21:48:52 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (261472⭐ None) | [reels/reel_6078_practical-tutorials-project-based-learning](reels/reel_6078_practical-tutorials-project-based-learning) |
