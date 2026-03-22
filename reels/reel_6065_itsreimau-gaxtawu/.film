@@ -1,0 +1,24 @@
+{
+  "reel_number": 6065,
+  "recorded": "2026-03-22 15:24:24 UTC",
+  "repository": {
+    "full_name": "itsreimau/gaxtawu",
+    "url": "https://github.com/itsreimau/gaxtawu",
+    "clone_url": "https://github.com/itsreimau/gaxtawu.git",
+    "stars": 147,
+    "language": "JavaScript",
+    "size_kb": 4632
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.612594
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 147 stars."
+  }
+}
