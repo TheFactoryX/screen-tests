@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6058 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 113k | 2026-03-22 |
+| #6059 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 98k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6147,3 +6147,4 @@ If you need permission, you're thinking too much.
 | 6056 | 2026-03-22 09:47:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146030⭐ Python) | [reels/reel_6056_langflow-ai-langflow](reels/reel_6056_langflow-ai-langflow) |
 | 6057 | 2026-03-22 10:25:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113252⭐ TypeScript) | [reels/reel_6057_iptv-org-iptv](reels/reel_6057_iptv-org-iptv) |
 | 6058 | 2026-03-22 10:53:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113255⭐ TypeScript) | [reels/reel_6058_iptv-org-iptv](reels/reel_6058_iptv-org-iptv) |
+| 6059 | 2026-03-22 11:22:04 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (98911⭐ C++) | [reels/reel_6059_ggml-org-llama.cpp](reels/reel_6059_ggml-org-llama.cpp) |
