@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6056 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-03-22 |
+| #6057 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 113k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6145,3 +6145,4 @@ If you need permission, you're thinking too much.
 | 6054 | 2026-03-22 08:36:54 | [jjuran/metamage_1](https://github.com/jjuran/metamage_1) | ✅ full (322⭐ C++) | [reels/reel_6054_jjuran-metamage_1](reels/reel_6054_jjuran-metamage_1) |
 | 6055 | 2026-03-22 09:03:58 | [funbiscuit/embedded-cli-rs](https://github.com/funbiscuit/embedded-cli-rs) | ✅ full (107⭐ Rust) | [reels/reel_6055_funbiscuit-embedded-cli-rs](reels/reel_6055_funbiscuit-embedded-cli-rs) |
 | 6056 | 2026-03-22 09:47:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146030⭐ Python) | [reels/reel_6056_langflow-ai-langflow](reels/reel_6056_langflow-ai-langflow) |
+| 6057 | 2026-03-22 10:25:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113252⭐ TypeScript) | [reels/reel_6057_iptv-org-iptv](reels/reel_6057_iptv-org-iptv) |
