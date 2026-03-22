@@ -1,0 +1,24 @@
+{
+  "reel_number": 6054,
+  "recorded": "2026-03-22 08:36:54 UTC",
+  "repository": {
+    "full_name": "jjuran/metamage_1",
+    "url": "https://github.com/jjuran/metamage_1",
+    "clone_url": "https://github.com/jjuran/metamage_1.git",
+    "stars": 322,
+    "language": "C++",
+    "size_kb": 31929
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 31,
+    "duration_seconds": 3.361225
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 322 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6053 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-22 |
+| #6054 | [jjuran/metamage_1](https://github.com/jjuran/metamage_1) | C++ · ⭐ 322 | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6142,3 +6142,4 @@ If you need permission, you're thinking too much.
 | 6051 | 2026-03-22 06:31:37 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (349⭐ None) | [reels/reel_6051_hello-world-1989-cn-news](reels/reel_6051_hello-world-1989-cn-news) |
 | 6052 | 2026-03-22 07:26:54 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281384⭐ None) | [reels/reel_6052_awesome-selfhosted-awesome-selfhosted](reels/reel_6052_awesome-selfhosted-awesome-selfhosted) |
 | 6053 | 2026-03-22 07:56:24 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128190⭐ Python) | [reels/reel_6053_open-webui-open-webui](reels/reel_6053_open-webui-open-webui) |
+| 6054 | 2026-03-22 08:36:54 | [jjuran/metamage_1](https://github.com/jjuran/metamage_1) | ✅ full (322⭐ C++) | [reels/reel_6054_jjuran-metamage_1](reels/reel_6054_jjuran-metamage_1) |
