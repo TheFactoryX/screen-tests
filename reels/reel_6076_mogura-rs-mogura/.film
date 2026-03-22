@@ -1,0 +1,24 @@
+{
+  "reel_number": 6076,
+  "recorded": "2026-03-22 20:51:57 UTC",
+  "repository": {
+    "full_name": "mogura-rs/mogura",
+    "url": "https://github.com/mogura-rs/mogura",
+    "clone_url": "https://github.com/mogura-rs/mogura.git",
+    "stars": 11,
+    "language": "Rust",
+    "size_kb": 33239
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 1.261209
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 11 stars."
+  }
+}
