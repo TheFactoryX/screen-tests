@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6078 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 261k | 2026-03-22 |
+| #6079 | [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) | TypeScript · ⭐ 472 | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6167,3 +6167,4 @@ If you need permission, you're thinking too much.
 | 6076 | 2026-03-22 20:51:57 | [mogura-rs/mogura](https://github.com/mogura-rs/mogura) | ✅ full (11⭐ Rust) | [reels/reel_6076_mogura-rs-mogura](reels/reel_6076_mogura-rs-mogura) |
 | 6077 | 2026-03-22 21:24:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130601⭐ Python) | [reels/reel_6077_langchain-ai-langchain](reels/reel_6077_langchain-ai-langchain) |
 | 6078 | 2026-03-22 21:48:52 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (261472⭐ None) | [reels/reel_6078_practical-tutorials-project-based-learning](reels/reel_6078_practical-tutorials-project-based-learning) |
+| 6079 | 2026-03-22 22:23:48 | [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) | ✅ full (472⭐ TypeScript) | [reels/reel_6079_first-fluke-oh-my-agent](reels/reel_6079_first-fluke-oh-my-agent) |
