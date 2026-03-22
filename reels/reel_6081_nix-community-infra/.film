@@ -1,0 +1,24 @@
+{
+  "reel_number": 6081,
+  "recorded": "2026-03-22 23:25:54 UTC",
+  "repository": {
+    "full_name": "nix-community/infra",
+    "url": "https://github.com/nix-community/infra",
+    "clone_url": "https://github.com/nix-community/infra.git",
+    "stars": 163,
+    "language": "Nix",
+    "size_kb": 3565
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.349242
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 163 stars."
+  }
+}
