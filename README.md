@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6061 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-22 |
+| #6062 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 108k | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6150,3 +6150,4 @@ If you need permission, you're thinking too much.
 | 6059 | 2026-03-22 11:22:04 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (98911⭐ C++) | [reels/reel_6059_ggml-org-llama.cpp](reels/reel_6059_ggml-org-llama.cpp) |
 | 6060 | 2026-03-22 11:45:41 | [skorokithakis/stavrobot](https://github.com/skorokithakis/stavrobot) | ✅ full (166⭐ TypeScript) | [reels/reel_6060_skorokithakis-stavrobot](reels/reel_6060_skorokithakis-stavrobot) |
 | 6061 | 2026-03-22 12:47:56 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130561⭐ Python) | [reels/reel_6061_langchain-ai-langchain](reels/reel_6061_langchain-ai-langchain) |
+| 6062 | 2026-03-22 13:42:20 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (108866⭐ None) | [reels/reel_6062_Hack-with-Github-Awesome-Hacking](reels/reel_6062_Hack-with-Github-Awesome-Hacking) |
