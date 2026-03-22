@@ -1,0 +1,24 @@
+{
+  "reel_number": 6055,
+  "recorded": "2026-03-22 09:03:58 UTC",
+  "repository": {
+    "full_name": "funbiscuit/embedded-cli-rs",
+    "url": "https://github.com/funbiscuit/embedded-cli-rs",
+    "clone_url": "https://github.com/funbiscuit/embedded-cli-rs.git",
+    "stars": 107,
+    "language": "Rust",
+    "size_kb": 5484
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.277079
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 107 stars."
+  }
+}
