@@ -1,0 +1,24 @@
+{
+  "reel_number": 6060,
+  "recorded": "2026-03-22 11:45:41 UTC",
+  "repository": {
+    "full_name": "skorokithakis/stavrobot",
+    "url": "https://github.com/skorokithakis/stavrobot",
+    "clone_url": "https://github.com/skorokithakis/stavrobot.git",
+    "stars": 166,
+    "language": "TypeScript",
+    "size_kb": 1198
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.755589
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 166 stars."
+  }
+}

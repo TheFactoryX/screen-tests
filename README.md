@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6059 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 98k | 2026-03-22 |
+| #6060 | [skorokithakis/stavrobot](https://github.com/skorokithakis/stavrobot) | TypeScript · ⭐ 166 | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6148,3 +6148,4 @@ If you need permission, you're thinking too much.
 | 6057 | 2026-03-22 10:25:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113252⭐ TypeScript) | [reels/reel_6057_iptv-org-iptv](reels/reel_6057_iptv-org-iptv) |
 | 6058 | 2026-03-22 10:53:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113255⭐ TypeScript) | [reels/reel_6058_iptv-org-iptv](reels/reel_6058_iptv-org-iptv) |
 | 6059 | 2026-03-22 11:22:04 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (98911⭐ C++) | [reels/reel_6059_ggml-org-llama.cpp](reels/reel_6059_ggml-org-llama.cpp) |
+| 6060 | 2026-03-22 11:45:41 | [skorokithakis/stavrobot](https://github.com/skorokithakis/stavrobot) | ✅ full (166⭐ TypeScript) | [reels/reel_6060_skorokithakis-stavrobot](reels/reel_6060_skorokithakis-stavrobot) |
