@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6070 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 152k | 2026-03-22 |
+| #6071 | [Visual1mpact/Paradox_AntiCheat](https://github.com/Visual1mpact/Paradox_AntiCheat) | TypeScript · ⭐ 38 | 2026-03-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6159,3 +6159,4 @@ If you need permission, you're thinking too much.
 | 6068 | 2026-03-22 16:56:19 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152589⭐ Python) | [reels/reel_6068_yt-dlp-yt-dlp](reels/reel_6068_yt-dlp-yt-dlp) |
 | 6069 | 2026-03-22 17:26:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281459⭐ None) | [reels/reel_6069_awesome-selfhosted-awesome-selfhosted](reels/reel_6069_awesome-selfhosted-awesome-selfhosted) |
 | 6070 | 2026-03-22 17:51:18 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152602⭐ Python) | [reels/reel_6070_yt-dlp-yt-dlp](reels/reel_6070_yt-dlp-yt-dlp) |
+| 6071 | 2026-03-22 18:35:19 | [Visual1mpact/Paradox_AntiCheat](https://github.com/Visual1mpact/Paradox_AntiCheat) | ✅ full (38⭐ TypeScript) | [reels/reel_6071_Visual1mpact-Paradox_AntiCheat](reels/reel_6071_Visual1mpact-Paradox_AntiCheat) |

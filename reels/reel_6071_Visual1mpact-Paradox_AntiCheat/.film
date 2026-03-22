@@ -1,0 +1,24 @@
+{
+  "reel_number": 6071,
+  "recorded": "2026-03-22 18:35:19 UTC",
+  "repository": {
+    "full_name": "Visual1mpact/Paradox_AntiCheat",
+    "url": "https://github.com/Visual1mpact/Paradox_AntiCheat",
+    "clone_url": "https://github.com/Visual1mpact/Paradox_AntiCheat.git",
+    "stars": 38,
+    "language": "TypeScript",
+    "size_kb": 30377
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 29,
+    "duration_seconds": 1.705469
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 38 stars."
+  }
+}
