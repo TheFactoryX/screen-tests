@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6098 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-23 |
+| #6099 | [active-group/funar](https://github.com/active-group/funar) | Haskell · ⭐ 12 | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6187,3 +6187,4 @@ If you need permission, you're thinking too much.
 | 6096 | 2026-03-23 17:36:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110523⭐ TypeScript) | [reels/reel_6096_shadcn-ui-ui](reels/reel_6096_shadcn-ui-ui) |
 | 6097 | 2026-03-23 18:32:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111461⭐ Rust) | [reels/reel_6097_rust-lang-rust](reels/reel_6097_rust-lang-rust) |
 | 6098 | 2026-03-23 19:35:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110531⭐ TypeScript) | [reels/reel_6098_shadcn-ui-ui](reels/reel_6098_shadcn-ui-ui) |
+| 6099 | 2026-03-23 20:23:15 | [active-group/funar](https://github.com/active-group/funar) | ✅ full (12⭐ Haskell) | [reels/reel_6099_active-group-funar](reels/reel_6099_active-group-funar) |
