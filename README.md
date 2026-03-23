@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6089 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-23 |
+| #6090 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6178,3 +6178,4 @@ If you need permission, you're thinking too much.
 | 6087 | 2026-03-23 08:12:12 | [obra/superpowers](https://github.com/obra/superpowers) | ✅ full (106199⭐ Shell) | [reels/reel_6087_obra-superpowers](reels/reel_6087_obra-superpowers) |
 | 6088 | 2026-03-23 09:13:33 | [nrennie/tidytuesday](https://github.com/nrennie/tidytuesday) | ✅ readme_only (268⭐ R) | [reels/reel_6088_nrennie-tidytuesday](reels/reel_6088_nrennie-tidytuesday) |
 | 6089 | 2026-03-23 10:15:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128344⭐ Python) | [reels/reel_6089_open-webui-open-webui](reels/reel_6089_open-webui-open-webui) |
+| 6090 | 2026-03-23 11:10:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281613⭐ None) | [reels/reel_6090_awesome-selfhosted-awesome-selfhosted](reels/reel_6090_awesome-selfhosted-awesome-selfhosted) |
