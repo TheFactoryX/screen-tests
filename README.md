@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6103 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-23 |
+| #6104 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6192,3 +6192,4 @@ If you need permission, you're thinking too much.
 | 6101 | 2026-03-23 21:50:16 | [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | ✅ full (316⭐ Blade) | [reels/reel_6101_NativePHP-nativephp.com](reels/reel_6101_NativePHP-nativephp.com) |
 | 6102 | 2026-03-23 22:30:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110534⭐ TypeScript) | [reels/reel_6102_shadcn-ui-ui](reels/reel_6102_shadcn-ui-ui) |
 | 6103 | 2026-03-23 23:04:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130767⭐ Python) | [reels/reel_6103_langchain-ai-langchain](reels/reel_6103_langchain-ai-langchain) |
+| 6104 | 2026-03-23 23:46:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281721⭐ None) | [reels/reel_6104_awesome-selfhosted-awesome-selfhosted](reels/reel_6104_awesome-selfhosted-awesome-selfhosted) |
