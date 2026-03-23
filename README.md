@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6096 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-23 |
+| #6097 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6185,3 +6185,4 @@ If you need permission, you're thinking too much.
 | 6094 | 2026-03-23 15:34:52 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (98801⭐ TypeScript) | [reels/reel_6094_google-gemini-gemini-cli](reels/reel_6094_google-gemini-gemini-cli) |
 | 6095 | 2026-03-23 16:35:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130744⭐ Python) | [reels/reel_6095_langchain-ai-langchain](reels/reel_6095_langchain-ai-langchain) |
 | 6096 | 2026-03-23 17:36:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110523⭐ TypeScript) | [reels/reel_6096_shadcn-ui-ui](reels/reel_6096_shadcn-ui-ui) |
+| 6097 | 2026-03-23 18:32:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111461⭐ Rust) | [reels/reel_6097_rust-lang-rust](reels/reel_6097_rust-lang-rust) |
