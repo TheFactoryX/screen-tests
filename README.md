@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6087 | [obra/superpowers](https://github.com/obra/superpowers) | Shell · ⭐ 106k | 2026-03-23 |
+| #6088 | [nrennie/tidytuesday](https://github.com/nrennie/tidytuesday) | R · ⭐ 268 | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6176,3 +6176,4 @@ If you need permission, you're thinking too much.
 | 6085 | 2026-03-23 06:00:01 | [siemens/meta-iot2050](https://github.com/siemens/meta-iot2050) | ✅ full (152⭐ Python) | [reels/reel_6085_siemens-meta-iot2050](reels/reel_6085_siemens-meta-iot2050) |
 | 6086 | 2026-03-23 07:24:20 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (99368⭐ JavaScript) | [reels/reel_6086_affaan-m-everything-claude-code](reels/reel_6086_affaan-m-everything-claude-code) |
 | 6087 | 2026-03-23 08:12:12 | [obra/superpowers](https://github.com/obra/superpowers) | ✅ full (106199⭐ Shell) | [reels/reel_6087_obra-superpowers](reels/reel_6087_obra-superpowers) |
+| 6088 | 2026-03-23 09:13:33 | [nrennie/tidytuesday](https://github.com/nrennie/tidytuesday) | ✅ readme_only (268⭐ R) | [reels/reel_6088_nrennie-tidytuesday](reels/reel_6088_nrennie-tidytuesday) |

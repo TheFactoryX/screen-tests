@@ -1,0 +1,24 @@
+{
+  "reel_number": 6088,
+  "recorded": "2026-03-23 09:13:33 UTC",
+  "repository": {
+    "full_name": "nrennie/tidytuesday",
+    "url": "https://github.com/nrennie/tidytuesday",
+    "clone_url": "https://github.com/nrennie/tidytuesday.git",
+    "stars": 268,
+    "language": "R",
+    "size_kb": 605658
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 591,
+    "duration_seconds": 0.000154
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "R",
+    "director_note": "A R repository. 268 stars."
+  }
+}
