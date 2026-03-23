@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6088 | [nrennie/tidytuesday](https://github.com/nrennie/tidytuesday) | R · ⭐ 268 | 2026-03-23 |
+| #6089 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6177,3 +6177,4 @@ If you need permission, you're thinking too much.
 | 6086 | 2026-03-23 07:24:20 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (99368⭐ JavaScript) | [reels/reel_6086_affaan-m-everything-claude-code](reels/reel_6086_affaan-m-everything-claude-code) |
 | 6087 | 2026-03-23 08:12:12 | [obra/superpowers](https://github.com/obra/superpowers) | ✅ full (106199⭐ Shell) | [reels/reel_6087_obra-superpowers](reels/reel_6087_obra-superpowers) |
 | 6088 | 2026-03-23 09:13:33 | [nrennie/tidytuesday](https://github.com/nrennie/tidytuesday) | ✅ readme_only (268⭐ R) | [reels/reel_6088_nrennie-tidytuesday](reels/reel_6088_nrennie-tidytuesday) |
+| 6089 | 2026-03-23 10:15:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128344⭐ Python) | [reels/reel_6089_open-webui-open-webui](reels/reel_6089_open-webui-open-webui) |
