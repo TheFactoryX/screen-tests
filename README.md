@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6100 | [OfficeDev/office-js-docs-pr](https://github.com/OfficeDev/office-js-docs-pr) | None · ⭐ 459 | 2026-03-23 |
+| #6101 | [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | Blade · ⭐ 316 | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6189,3 +6189,4 @@ If you need permission, you're thinking too much.
 | 6098 | 2026-03-23 19:35:41 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110531⭐ TypeScript) | [reels/reel_6098_shadcn-ui-ui](reels/reel_6098_shadcn-ui-ui) |
 | 6099 | 2026-03-23 20:23:15 | [active-group/funar](https://github.com/active-group/funar) | ✅ full (12⭐ Haskell) | [reels/reel_6099_active-group-funar](reels/reel_6099_active-group-funar) |
 | 6100 | 2026-03-23 21:01:28 | [OfficeDev/office-js-docs-pr](https://github.com/OfficeDev/office-js-docs-pr) | ✅ full (459⭐ None) | [reels/reel_6100_OfficeDev-office-js-docs-pr](reels/reel_6100_OfficeDev-office-js-docs-pr) |
+| 6101 | 2026-03-23 21:50:16 | [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | ✅ full (316⭐ Blade) | [reels/reel_6101_NativePHP-nativephp.com](reels/reel_6101_NativePHP-nativephp.com) |
