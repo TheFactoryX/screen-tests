@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6084 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 152k | 2026-03-23 |
+| #6085 | [siemens/meta-iot2050](https://github.com/siemens/meta-iot2050) | Python · ⭐ 152 | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6173,3 +6173,4 @@ If you need permission, you're thinking too much.
 | 6082 | 2026-03-22 23:51:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113315⭐ TypeScript) | [reels/reel_6082_iptv-org-iptv](reels/reel_6082_iptv-org-iptv) |
 | 6083 | 2026-03-23 02:05:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113319⭐ TypeScript) | [reels/reel_6083_iptv-org-iptv](reels/reel_6083_iptv-org-iptv) |
 | 6084 | 2026-03-23 04:37:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152667⭐ Python) | [reels/reel_6084_yt-dlp-yt-dlp](reels/reel_6084_yt-dlp-yt-dlp) |
+| 6085 | 2026-03-23 06:00:01 | [siemens/meta-iot2050](https://github.com/siemens/meta-iot2050) | ✅ full (152⭐ Python) | [reels/reel_6085_siemens-meta-iot2050](reels/reel_6085_siemens-meta-iot2050) |
