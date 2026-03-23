@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6094 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 98k | 2026-03-23 |
+| #6095 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6183,3 +6183,4 @@ If you need permission, you're thinking too much.
 | 6092 | 2026-03-23 13:03:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128352⭐ Python) | [reels/reel_6092_open-webui-open-webui](reels/reel_6092_open-webui-open-webui) |
 | 6093 | 2026-03-23 14:20:20 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (104398⭐ Shell) | [reels/reel_6093_papers-we-love-papers-we-love](reels/reel_6093_papers-we-love-papers-we-love) |
 | 6094 | 2026-03-23 15:34:52 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (98801⭐ TypeScript) | [reels/reel_6094_google-gemini-gemini-cli](reels/reel_6094_google-gemini-gemini-cli) |
+| 6095 | 2026-03-23 16:35:09 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130744⭐ Python) | [reels/reel_6095_langchain-ai-langchain](reels/reel_6095_langchain-ai-langchain) |
