@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6125 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 104k | 2026-03-24 |
+| #6126 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 180k | 2026-03-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6214,3 +6214,4 @@ If you need permission, you're thinking too much.
 | 6123 | 2026-03-24 21:52:30 | [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) | ✅ full (633⭐ Rust) | [reels/reel_6123_smithy-lang-smithy-rs](reels/reel_6123_smithy-lang-smithy-rs) |
 | 6124 | 2026-03-24 22:28:38 | [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) | ✅ full (244⭐ Rust) | [reels/reel_6124_MercuryTechnologies-nix-your-shell](reels/reel_6124_MercuryTechnologies-nix-your-shell) |
 | 6125 | 2026-03-24 23:00:20 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (104775⭐ JavaScript) | [reels/reel_6125_affaan-m-everything-claude-code](reels/reel_6125_affaan-m-everything-claude-code) |
+| 6126 | 2026-03-24 23:45:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180880⭐ TypeScript) | [reels/reel_6126_n8n-io-n8n](reels/reel_6126_n8n-io-n8n) |
