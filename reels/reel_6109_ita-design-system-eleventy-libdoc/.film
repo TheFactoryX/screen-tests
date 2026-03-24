@@ -1,0 +1,24 @@
+{
+  "reel_number": 6109,
+  "recorded": "2026-03-24 07:41:51 UTC",
+  "repository": {
+    "full_name": "ita-design-system/eleventy-libdoc",
+    "url": "https://github.com/ita-design-system/eleventy-libdoc",
+    "clone_url": "https://github.com/ita-design-system/eleventy-libdoc.git",
+    "stars": 170,
+    "language": "CSS",
+    "size_kb": 8838
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.139614
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 170 stars."
+  }
+}
