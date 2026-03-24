@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6111 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 152k | 2026-03-24 |
+| #6112 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6200,3 +6200,4 @@ If you need permission, you're thinking too much.
 | 6109 | 2026-03-24 07:41:51 | [ita-design-system/eleventy-libdoc](https://github.com/ita-design-system/eleventy-libdoc) | ✅ full (170⭐ CSS) | [reels/reel_6109_ita-design-system-eleventy-libdoc](reels/reel_6109_ita-design-system-eleventy-libdoc) |
 | 6110 | 2026-03-24 08:31:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152979⭐ Python) | [reels/reel_6110_yt-dlp-yt-dlp](reels/reel_6110_yt-dlp-yt-dlp) |
 | 6111 | 2026-03-24 09:38:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152997⭐ Python) | [reels/reel_6111_yt-dlp-yt-dlp](reels/reel_6111_yt-dlp-yt-dlp) |
+| 6112 | 2026-03-24 10:34:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110574⭐ TypeScript) | [reels/reel_6112_shadcn-ui-ui](reels/reel_6112_shadcn-ui-ui) |
