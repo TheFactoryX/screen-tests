@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6106 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 152k | 2026-03-24 |
+| #6107 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 180k | 2026-03-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6195,3 +6195,4 @@ If you need permission, you're thinking too much.
 | 6104 | 2026-03-23 23:46:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281721⭐ None) | [reels/reel_6104_awesome-selfhosted-awesome-selfhosted](reels/reel_6104_awesome-selfhosted-awesome-selfhosted) |
 | 6105 | 2026-03-24 01:57:29 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (98828⭐ TypeScript) | [reels/reel_6105_google-gemini-gemini-cli](reels/reel_6105_google-gemini-gemini-cli) |
 | 6106 | 2026-03-24 04:22:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152940⭐ Python) | [reels/reel_6106_yt-dlp-yt-dlp](reels/reel_6106_yt-dlp-yt-dlp) |
+| 6107 | 2026-03-24 05:41:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180741⭐ TypeScript) | [reels/reel_6107_n8n-io-n8n](reels/reel_6107_n8n-io-n8n) |
