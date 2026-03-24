@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6123 | [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) | Rust · ⭐ 633 | 2026-03-24 |
+| #6124 | [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) | Rust · ⭐ 244 | 2026-03-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6212,3 +6212,4 @@ If you need permission, you're thinking too much.
 | 6121 | 2026-03-24 20:23:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110622⭐ TypeScript) | [reels/reel_6121_shadcn-ui-ui](reels/reel_6121_shadcn-ui-ui) |
 | 6122 | 2026-03-24 21:03:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128523⭐ Python) | [reels/reel_6122_open-webui-open-webui](reels/reel_6122_open-webui-open-webui) |
 | 6123 | 2026-03-24 21:52:30 | [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) | ✅ full (633⭐ Rust) | [reels/reel_6123_smithy-lang-smithy-rs](reels/reel_6123_smithy-lang-smithy-rs) |
+| 6124 | 2026-03-24 22:28:38 | [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) | ✅ full (244⭐ Rust) | [reels/reel_6124_MercuryTechnologies-nix-your-shell](reels/reel_6124_MercuryTechnologies-nix-your-shell) |
