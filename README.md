@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6116 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 415k | 2026-03-24 |
+| #6117 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6205,3 +6205,4 @@ If you need permission, you're thinking too much.
 | 6114 | 2026-03-24 12:33:44 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128475⭐ Python) | [reels/reel_6114_open-webui-open-webui](reels/reel_6114_open-webui-open-webui) |
 | 6115 | 2026-03-24 14:04:13 | [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) | ✅ full (172⭐ Rust) | [reels/reel_6115_varun29ankuS-shodh-memory](reels/reel_6115_varun29ankuS-shodh-memory) |
 | 6116 | 2026-03-24 15:18:59 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (415546⭐ Python) | [reels/reel_6116_public-apis-public-apis](reels/reel_6116_public-apis-public-apis) |
+| 6117 | 2026-03-24 16:35:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281828⭐ None) | [reels/reel_6117_awesome-selfhosted-awesome-selfhosted](reels/reel_6117_awesome-selfhosted-awesome-selfhosted) |
