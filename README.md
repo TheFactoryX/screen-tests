@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6107 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 180k | 2026-03-24 |
+| #6108 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 113k | 2026-03-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6196,3 +6196,4 @@ If you need permission, you're thinking too much.
 | 6105 | 2026-03-24 01:57:29 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (98828⭐ TypeScript) | [reels/reel_6105_google-gemini-gemini-cli](reels/reel_6105_google-gemini-gemini-cli) |
 | 6106 | 2026-03-24 04:22:51 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152940⭐ Python) | [reels/reel_6106_yt-dlp-yt-dlp](reels/reel_6106_yt-dlp-yt-dlp) |
 | 6107 | 2026-03-24 05:41:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180741⭐ TypeScript) | [reels/reel_6107_n8n-io-n8n](reels/reel_6107_n8n-io-n8n) |
+| 6108 | 2026-03-24 06:43:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113709⭐ TypeScript) | [reels/reel_6108_iptv-org-iptv](reels/reel_6108_iptv-org-iptv) |
