@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6119 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-24 |
+| #6120 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 130k | 2026-03-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6208,3 +6208,4 @@ If you need permission, you're thinking too much.
 | 6117 | 2026-03-24 16:35:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281828⭐ None) | [reels/reel_6117_awesome-selfhosted-awesome-selfhosted](reels/reel_6117_awesome-selfhosted-awesome-selfhosted) |
 | 6118 | 2026-03-24 17:38:00 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (415632⭐ Python) | [reels/reel_6118_public-apis-public-apis](reels/reel_6118_public-apis-public-apis) |
 | 6119 | 2026-03-24 18:38:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130904⭐ Python) | [reels/reel_6119_langchain-ai-langchain](reels/reel_6119_langchain-ai-langchain) |
+| 6120 | 2026-03-24 19:40:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (130908⭐ Python) | [reels/reel_6120_langchain-ai-langchain](reels/reel_6120_langchain-ai-langchain) |
