@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6109 | [ita-design-system/eleventy-libdoc](https://github.com/ita-design-system/eleventy-libdoc) | CSS · ⭐ 170 | 2026-03-24 |
+| #6110 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 152k | 2026-03-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6198,3 +6198,4 @@ If you need permission, you're thinking too much.
 | 6107 | 2026-03-24 05:41:58 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180741⭐ TypeScript) | [reels/reel_6107_n8n-io-n8n](reels/reel_6107_n8n-io-n8n) |
 | 6108 | 2026-03-24 06:43:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113709⭐ TypeScript) | [reels/reel_6108_iptv-org-iptv](reels/reel_6108_iptv-org-iptv) |
 | 6109 | 2026-03-24 07:41:51 | [ita-design-system/eleventy-libdoc](https://github.com/ita-design-system/eleventy-libdoc) | ✅ full (170⭐ CSS) | [reels/reel_6109_ita-design-system-eleventy-libdoc](reels/reel_6109_ita-design-system-eleventy-libdoc) |
+| 6110 | 2026-03-24 08:31:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (152979⭐ Python) | [reels/reel_6110_yt-dlp-yt-dlp](reels/reel_6110_yt-dlp-yt-dlp) |
