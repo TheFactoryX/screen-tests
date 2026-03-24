@@ -1,0 +1,24 @@
+{
+  "reel_number": 6123,
+  "recorded": "2026-03-24 21:52:30 UTC",
+  "repository": {
+    "full_name": "smithy-lang/smithy-rs",
+    "url": "https://github.com/smithy-lang/smithy-rs",
+    "clone_url": "https://github.com/smithy-lang/smithy-rs.git",
+    "stars": 633,
+    "language": "Rust",
+    "size_kb": 96039
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 93,
+    "duration_seconds": 7.020126
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 633 stars."
+  }
+}
