@@ -1,0 +1,24 @@
+{
+  "reel_number": 6144,
+  "recorded": "2026-03-25 20:36:25 UTC",
+  "repository": {
+    "full_name": "tuanchris/dune-weaver",
+    "url": "https://github.com/tuanchris/dune-weaver",
+    "clone_url": "https://github.com/tuanchris/dune-weaver.git",
+    "stars": 301,
+    "language": "Python",
+    "size_kb": 129747
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 126,
+    "duration_seconds": 1.164843
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 301 stars."
+  }
+}
