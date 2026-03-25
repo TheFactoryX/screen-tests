@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6144 | [tuanchris/dune-weaver](https://github.com/tuanchris/dune-weaver) | Python · ⭐ 301 | 2026-03-25 |
+| #6145 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6233,3 +6233,4 @@ If you need permission, you're thinking too much.
 | 6142 | 2026-03-25 19:12:20 | [nflverse/nflfastR](https://github.com/nflverse/nflfastR) | ✅ readme_only (514⭐ R) | [reels/reel_6142_nflverse-nflfastR](reels/reel_6142_nflverse-nflfastR) |
 | 6143 | 2026-03-25 19:54:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131082⭐ Python) | [reels/reel_6143_langchain-ai-langchain](reels/reel_6143_langchain-ai-langchain) |
 | 6144 | 2026-03-25 20:36:25 | [tuanchris/dune-weaver](https://github.com/tuanchris/dune-weaver) | ✅ shallow (301⭐ Python) | [reels/reel_6144_tuanchris-dune-weaver](reels/reel_6144_tuanchris-dune-weaver) |
+| 6145 | 2026-03-25 21:20:32 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128680⭐ Python) | [reels/reel_6145_open-webui-open-webui](reels/reel_6145_open-webui-open-webui) |
