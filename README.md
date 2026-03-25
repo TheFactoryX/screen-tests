@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6140 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 106k | 2026-03-25 |
+| #6141 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6229,3 +6229,4 @@ If you need permission, you're thinking too much.
 | 6138 | 2026-03-25 14:57:13 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153228⭐ Python) | [reels/reel_6138_yt-dlp-yt-dlp](reels/reel_6138_yt-dlp-yt-dlp) |
 | 6139 | 2026-03-25 16:12:46 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (105357⭐ TypeScript) | [reels/reel_6139_clash-verge-rev-clash-verge-rev](reels/reel_6139_clash-verge-rev-clash-verge-rev) |
 | 6140 | 2026-03-25 17:17:47 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (106930⭐ Python) | [reels/reel_6140_Comfy-Org-ComfyUI](reels/reel_6140_Comfy-Org-ComfyUI) |
+| 6141 | 2026-03-25 18:13:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111490⭐ Rust) | [reels/reel_6141_rust-lang-rust](reels/reel_6141_rust-lang-rust) |
