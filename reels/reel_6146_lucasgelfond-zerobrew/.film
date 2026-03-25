@@ -1,0 +1,24 @@
+{
+  "reel_number": 6146,
+  "recorded": "2026-03-25 22:01:00 UTC",
+  "repository": {
+    "full_name": "lucasgelfond/zerobrew",
+    "url": "https://github.com/lucasgelfond/zerobrew",
+    "clone_url": "https://github.com/lucasgelfond/zerobrew.git",
+    "stars": 6974,
+    "language": "Rust",
+    "size_kb": 3263
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.385817
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 6974 stars."
+  }
+}

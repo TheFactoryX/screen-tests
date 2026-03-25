@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6145 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-25 |
+| #6146 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | Rust · ⭐ 6k | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6234,3 +6234,4 @@ If you need permission, you're thinking too much.
 | 6143 | 2026-03-25 19:54:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131082⭐ Python) | [reels/reel_6143_langchain-ai-langchain](reels/reel_6143_langchain-ai-langchain) |
 | 6144 | 2026-03-25 20:36:25 | [tuanchris/dune-weaver](https://github.com/tuanchris/dune-weaver) | ✅ shallow (301⭐ Python) | [reels/reel_6144_tuanchris-dune-weaver](reels/reel_6144_tuanchris-dune-weaver) |
 | 6145 | 2026-03-25 21:20:32 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128680⭐ Python) | [reels/reel_6145_open-webui-open-webui](reels/reel_6145_open-webui-open-webui) |
+| 6146 | 2026-03-25 22:01:00 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | ✅ full (6974⭐ Rust) | [reels/reel_6146_lucasgelfond-zerobrew](reels/reel_6146_lucasgelfond-zerobrew) |
