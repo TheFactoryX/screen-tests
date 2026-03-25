@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6136 | [RARgames/4gaBoards](https://github.com/RARgames/4gaBoards) | JavaScript · ⭐ 469 | 2026-03-25 |
+| #6137 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6225,3 +6225,4 @@ If you need permission, you're thinking too much.
 | 6134 | 2026-03-25 10:32:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281960⭐ None) | [reels/reel_6134_awesome-selfhosted-awesome-selfhosted](reels/reel_6134_awesome-selfhosted-awesome-selfhosted) |
 | 6135 | 2026-03-25 11:27:23 | [Ember2819/Random-People-Coding-Stuff](https://github.com/Ember2819/Random-People-Coding-Stuff) | ✅ full (17⭐ C) | [reels/reel_6135_Ember2819-Random-People-Coding-Stuff](reels/reel_6135_Ember2819-Random-People-Coding-Stuff) |
 | 6136 | 2026-03-25 12:03:22 | [RARgames/4gaBoards](https://github.com/RARgames/4gaBoards) | ✅ full (469⭐ JavaScript) | [reels/reel_6136_RARgames-4gaBoards](reels/reel_6136_RARgames-4gaBoards) |
+| 6137 | 2026-03-25 13:49:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110698⭐ TypeScript) | [reels/reel_6137_shadcn-ui-ui](reels/reel_6137_shadcn-ui-ui) |
