@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6134 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 281k | 2026-03-25 |
+| #6135 | [Ember2819/Random-People-Coding-Stuff](https://github.com/Ember2819/Random-People-Coding-Stuff) | C · ⭐ 17 | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6223,3 +6223,4 @@ If you need permission, you're thinking too much.
 | 6132 | 2026-03-25 08:30:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111479⭐ Rust) | [reels/reel_6132_rust-lang-rust](reels/reel_6132_rust-lang-rust) |
 | 6133 | 2026-03-25 09:35:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111481⭐ Rust) | [reels/reel_6133_rust-lang-rust](reels/reel_6133_rust-lang-rust) |
 | 6134 | 2026-03-25 10:32:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (281960⭐ None) | [reels/reel_6134_awesome-selfhosted-awesome-selfhosted](reels/reel_6134_awesome-selfhosted-awesome-selfhosted) |
+| 6135 | 2026-03-25 11:27:23 | [Ember2819/Random-People-Coding-Stuff](https://github.com/Ember2819/Random-People-Coding-Stuff) | ✅ full (17⭐ C) | [reels/reel_6135_Ember2819-Random-People-Coding-Stuff](reels/reel_6135_Ember2819-Random-People-Coding-Stuff) |

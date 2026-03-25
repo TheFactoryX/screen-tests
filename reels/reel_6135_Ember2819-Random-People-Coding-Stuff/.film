@@ -1,0 +1,24 @@
+{
+  "reel_number": 6135,
+  "recorded": "2026-03-25 11:27:23 UTC",
+  "repository": {
+    "full_name": "Ember2819/Random-People-Coding-Stuff",
+    "url": "https://github.com/Ember2819/Random-People-Coding-Stuff",
+    "clone_url": "https://github.com/Ember2819/Random-People-Coding-Stuff.git",
+    "stars": 17,
+    "language": "C",
+    "size_kb": 421
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.562646
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 17 stars."
+  }
+}
