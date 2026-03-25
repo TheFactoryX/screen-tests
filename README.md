@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6141 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-25 |
+| #6142 | [nflverse/nflfastR](https://github.com/nflverse/nflfastR) | R · ⭐ 514 | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6230,3 +6230,4 @@ If you need permission, you're thinking too much.
 | 6139 | 2026-03-25 16:12:46 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (105357⭐ TypeScript) | [reels/reel_6139_clash-verge-rev-clash-verge-rev](reels/reel_6139_clash-verge-rev-clash-verge-rev) |
 | 6140 | 2026-03-25 17:17:47 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (106930⭐ Python) | [reels/reel_6140_Comfy-Org-ComfyUI](reels/reel_6140_Comfy-Org-ComfyUI) |
 | 6141 | 2026-03-25 18:13:21 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111490⭐ Rust) | [reels/reel_6141_rust-lang-rust](reels/reel_6141_rust-lang-rust) |
+| 6142 | 2026-03-25 19:12:20 | [nflverse/nflfastR](https://github.com/nflverse/nflfastR) | ✅ readme_only (514⭐ R) | [reels/reel_6142_nflverse-nflfastR](reels/reel_6142_nflverse-nflfastR) |
