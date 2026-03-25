@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6128 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-25 |
+| #6129 | [MadAppGang/claudish](https://github.com/MadAppGang/claudish) | TypeScript · ⭐ 674 | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6217,3 +6217,4 @@ If you need permission, you're thinking too much.
 | 6126 | 2026-03-24 23:45:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180880⭐ TypeScript) | [reels/reel_6126_n8n-io-n8n](reels/reel_6126_n8n-io-n8n) |
 | 6127 | 2026-03-25 02:03:20 | [edoardottt/secfiles](https://github.com/edoardottt/secfiles) | ✅ shallow (200⭐ Shell) | [reels/reel_6127_edoardottt-secfiles](reels/reel_6127_edoardottt-secfiles) |
 | 6128 | 2026-03-25 04:28:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128555⭐ Python) | [reels/reel_6128_open-webui-open-webui](reels/reel_6128_open-webui-open-webui) |
+| 6129 | 2026-03-25 05:43:46 | [MadAppGang/claudish](https://github.com/MadAppGang/claudish) | ✅ full (674⭐ TypeScript) | [reels/reel_6129_MadAppGang-claudish](reels/reel_6129_MadAppGang-claudish) |
