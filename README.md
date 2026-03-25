@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6127 | [edoardottt/secfiles](https://github.com/edoardottt/secfiles) | Shell · ⭐ 200 | 2026-03-25 |
+| #6128 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6216,3 +6216,4 @@ If you need permission, you're thinking too much.
 | 6125 | 2026-03-24 23:00:20 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (104775⭐ JavaScript) | [reels/reel_6125_affaan-m-everything-claude-code](reels/reel_6125_affaan-m-everything-claude-code) |
 | 6126 | 2026-03-24 23:45:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (180880⭐ TypeScript) | [reels/reel_6126_n8n-io-n8n](reels/reel_6126_n8n-io-n8n) |
 | 6127 | 2026-03-25 02:03:20 | [edoardottt/secfiles](https://github.com/edoardottt/secfiles) | ✅ shallow (200⭐ Shell) | [reels/reel_6127_edoardottt-secfiles](reels/reel_6127_edoardottt-secfiles) |
+| 6128 | 2026-03-25 04:28:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128555⭐ Python) | [reels/reel_6128_open-webui-open-webui](reels/reel_6128_open-webui-open-webui) |
