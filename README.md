@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6131 | [justnullname/QuickView](https://github.com/justnullname/QuickView) | C++ · ⭐ 197 | 2026-03-25 |
+| #6132 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6220,3 +6220,4 @@ If you need permission, you're thinking too much.
 | 6129 | 2026-03-25 05:43:46 | [MadAppGang/claudish](https://github.com/MadAppGang/claudish) | ✅ full (674⭐ TypeScript) | [reels/reel_6129_MadAppGang-claudish](reels/reel_6129_MadAppGang-claudish) |
 | 6130 | 2026-03-25 06:44:00 | [pac4j/spring-webmvc-pac4j](https://github.com/pac4j/spring-webmvc-pac4j) | ✅ full (137⭐ Java) | [reels/reel_6130_pac4j-spring-webmvc-pac4j](reels/reel_6130_pac4j-spring-webmvc-pac4j) |
 | 6131 | 2026-03-25 07:41:32 | [justnullname/QuickView](https://github.com/justnullname/QuickView) | ✅ full (197⭐ C++) | [reels/reel_6131_justnullname-QuickView](reels/reel_6131_justnullname-QuickView) |
+| 6132 | 2026-03-25 08:30:37 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111479⭐ Rust) | [reels/reel_6132_rust-lang-rust](reels/reel_6132_rust-lang-rust) |
