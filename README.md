@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6130 | [pac4j/spring-webmvc-pac4j](https://github.com/pac4j/spring-webmvc-pac4j) | Java · ⭐ 137 | 2026-03-25 |
+| #6131 | [justnullname/QuickView](https://github.com/justnullname/QuickView) | C++ · ⭐ 197 | 2026-03-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6219,3 +6219,4 @@ If you need permission, you're thinking too much.
 | 6128 | 2026-03-25 04:28:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128555⭐ Python) | [reels/reel_6128_open-webui-open-webui](reels/reel_6128_open-webui-open-webui) |
 | 6129 | 2026-03-25 05:43:46 | [MadAppGang/claudish](https://github.com/MadAppGang/claudish) | ✅ full (674⭐ TypeScript) | [reels/reel_6129_MadAppGang-claudish](reels/reel_6129_MadAppGang-claudish) |
 | 6130 | 2026-03-25 06:44:00 | [pac4j/spring-webmvc-pac4j](https://github.com/pac4j/spring-webmvc-pac4j) | ✅ full (137⭐ Java) | [reels/reel_6130_pac4j-spring-webmvc-pac4j](reels/reel_6130_pac4j-spring-webmvc-pac4j) |
+| 6131 | 2026-03-25 07:41:32 | [justnullname/QuickView](https://github.com/justnullname/QuickView) | ✅ full (197⭐ C++) | [reels/reel_6131_justnullname-QuickView](reels/reel_6131_justnullname-QuickView) |

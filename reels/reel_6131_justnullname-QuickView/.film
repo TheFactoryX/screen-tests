@@ -1,0 +1,24 @@
+{
+  "reel_number": 6131,
+  "recorded": "2026-03-25 07:41:32 UTC",
+  "repository": {
+    "full_name": "justnullname/QuickView",
+    "url": "https://github.com/justnullname/QuickView",
+    "clone_url": "https://github.com/justnullname/QuickView.git",
+    "stars": 197,
+    "language": "C++",
+    "size_kb": 60624
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 59,
+    "duration_seconds": 1.887799
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 197 stars."
+  }
+}
