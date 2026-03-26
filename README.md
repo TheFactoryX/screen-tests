@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6153 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 416k | 2026-03-26 |
+| #6154 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 181k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6242,3 +6242,4 @@ If you need permission, you're thinking too much.
 | 6151 | 2026-03-26 05:21:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111507⭐ Rust) | [reels/reel_6151_rust-lang-rust](reels/reel_6151_rust-lang-rust) |
 | 6152 | 2026-03-26 06:43:57 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110750⭐ TypeScript) | [reels/reel_6152_shadcn-ui-ui](reels/reel_6152_shadcn-ui-ui) |
 | 6153 | 2026-03-26 07:47:28 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (416205⭐ Python) | [reels/reel_6153_public-apis-public-apis](reels/reel_6153_public-apis-public-apis) |
+| 6154 | 2026-03-26 08:53:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (181134⭐ TypeScript) | [reels/reel_6154_n8n-io-n8n](reels/reel_6154_n8n-io-n8n) |
