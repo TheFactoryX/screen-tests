@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6148 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 282k | 2026-03-25 |
+| #6149 | [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) | TypeScript · ⭐ 301 | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6237,3 +6237,4 @@ If you need permission, you're thinking too much.
 | 6146 | 2026-03-25 22:01:00 | [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) | ✅ full (6974⭐ Rust) | [reels/reel_6146_lucasgelfond-zerobrew](reels/reel_6146_lucasgelfond-zerobrew) |
 | 6147 | 2026-03-25 22:56:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (181067⭐ TypeScript) | [reels/reel_6147_n8n-io-n8n](reels/reel_6147_n8n-io-n8n) |
 | 6148 | 2026-03-25 23:36:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282070⭐ None) | [reels/reel_6148_awesome-selfhosted-awesome-selfhosted](reels/reel_6148_awesome-selfhosted-awesome-selfhosted) |
+| 6149 | 2026-03-26 00:03:58 | [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) | ✅ shallow (301⭐ TypeScript) | [reels/reel_6149_desplega-ai-agent-swarm](reels/reel_6149_desplega-ai-agent-swarm) |

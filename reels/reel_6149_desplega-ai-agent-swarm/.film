@@ -1,0 +1,24 @@
+{
+  "reel_number": 6149,
+  "recorded": "2026-03-26 00:03:58 UTC",
+  "repository": {
+    "full_name": "desplega-ai/agent-swarm",
+    "url": "https://github.com/desplega-ai/agent-swarm",
+    "clone_url": "https://github.com/desplega-ai/agent-swarm.git",
+    "stars": 301,
+    "language": "TypeScript",
+    "size_kb": 118512
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 115,
+    "duration_seconds": 0.736214
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 301 stars."
+  }
+}
