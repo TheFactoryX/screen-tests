@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6161 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 131k | 2026-03-26 |
+| #6162 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6250,3 +6250,4 @@ If you need permission, you're thinking too much.
 | 6159 | 2026-03-26 15:02:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111514⭐ Rust) | [reels/reel_6159_rust-lang-rust](reels/reel_6159_rust-lang-rust) |
 | 6160 | 2026-03-26 16:21:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110794⭐ TypeScript) | [reels/reel_6160_shadcn-ui-ui](reels/reel_6160_shadcn-ui-ui) |
 | 6161 | 2026-03-26 17:34:30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131210⭐ Python) | [reels/reel_6161_langchain-ai-langchain](reels/reel_6161_langchain-ai-langchain) |
+| 6162 | 2026-03-26 18:39:25 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102397⭐ Python) | [reels/reel_6162_deepseek-ai-DeepSeek-V3](reels/reel_6162_deepseek-ai-DeepSeek-V3) |
