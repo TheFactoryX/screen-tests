@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6164 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 110k | 2026-03-26 |
+| #6165 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6253,3 +6253,4 @@ If you need permission, you're thinking too much.
 | 6162 | 2026-03-26 18:39:25 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102397⭐ Python) | [reels/reel_6162_deepseek-ai-DeepSeek-V3](reels/reel_6162_deepseek-ai-DeepSeek-V3) |
 | 6163 | 2026-03-26 19:42:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128833⭐ Python) | [reels/reel_6163_open-webui-open-webui](reels/reel_6163_open-webui-open-webui) |
 | 6164 | 2026-03-26 20:19:00 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (110052⭐ JavaScript) | [reels/reel_6164_affaan-m-everything-claude-code](reels/reel_6164_affaan-m-everything-claude-code) |
+| 6165 | 2026-03-26 20:58:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128838⭐ Python) | [reels/reel_6165_open-webui-open-webui](reels/reel_6165_open-webui-open-webui) |
