@@ -1,0 +1,24 @@
+{
+  "reel_number": 6166,
+  "recorded": "2026-03-26 21:37:33 UTC",
+  "repository": {
+    "full_name": "justjavac/weibo-trending-hot-search",
+    "url": "https://github.com/justjavac/weibo-trending-hot-search",
+    "clone_url": "https://github.com/justjavac/weibo-trending-hot-search.git",
+    "stars": 738,
+    "language": "TypeScript",
+    "size_kb": 180776
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 176,
+    "duration_seconds": 24.920754
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 738 stars."
+  }
+}
