@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6169 | [ShareX/XerahS](https://github.com/ShareX/XerahS) | C# · ⭐ 214 | 2026-03-26 |
+| #6170 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 282k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6258,3 +6258,4 @@ If you need permission, you're thinking too much.
 | 6167 | 2026-03-26 21:58:33 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (181229⭐ TypeScript) | [reels/reel_6167_n8n-io-n8n](reels/reel_6167_n8n-io-n8n) |
 | 6168 | 2026-03-26 22:38:28 | [vortex-data/vortex](https://github.com/vortex-data/vortex) | ✅ full (2814⭐ Rust) | [reels/reel_6168_vortex-data-vortex](reels/reel_6168_vortex-data-vortex) |
 | 6169 | 2026-03-26 23:01:37 | [ShareX/XerahS](https://github.com/ShareX/XerahS) | ✅ full (214⭐ C#) | [reels/reel_6169_ShareX-XerahS](reels/reel_6169_ShareX-XerahS) |
+| 6170 | 2026-03-26 23:46:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282302⭐ None) | [reels/reel_6170_awesome-selfhosted-awesome-selfhosted](reels/reel_6170_awesome-selfhosted-awesome-selfhosted) |
