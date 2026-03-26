@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6168 | [vortex-data/vortex](https://github.com/vortex-data/vortex) | Rust · ⭐ 2k | 2026-03-26 |
+| #6169 | [ShareX/XerahS](https://github.com/ShareX/XerahS) | C# · ⭐ 214 | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6257,3 +6257,4 @@ If you need permission, you're thinking too much.
 | 6166 | 2026-03-26 21:37:33 | [justjavac/weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search) | ✅ shallow (738⭐ TypeScript) | [reels/reel_6166_justjavac-weibo-trending-hot-search](reels/reel_6166_justjavac-weibo-trending-hot-search) |
 | 6167 | 2026-03-26 21:58:33 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (181229⭐ TypeScript) | [reels/reel_6167_n8n-io-n8n](reels/reel_6167_n8n-io-n8n) |
 | 6168 | 2026-03-26 22:38:28 | [vortex-data/vortex](https://github.com/vortex-data/vortex) | ✅ full (2814⭐ Rust) | [reels/reel_6168_vortex-data-vortex](reels/reel_6168_vortex-data-vortex) |
+| 6169 | 2026-03-26 23:01:37 | [ShareX/XerahS](https://github.com/ShareX/XerahS) | ✅ full (214⭐ C#) | [reels/reel_6169_ShareX-XerahS](reels/reel_6169_ShareX-XerahS) |
