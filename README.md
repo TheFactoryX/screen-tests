@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6151 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-26 |
+| #6152 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6240,3 +6240,4 @@ If you need permission, you're thinking too much.
 | 6149 | 2026-03-26 00:03:58 | [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) | ✅ shallow (301⭐ TypeScript) | [reels/reel_6149_desplega-ai-agent-swarm](reels/reel_6149_desplega-ai-agent-swarm) |
 | 6150 | 2026-03-26 03:26:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182833⭐ Python) | [reels/reel_6150_Significant-Gravitas-AutoGPT](reels/reel_6150_Significant-Gravitas-AutoGPT) |
 | 6151 | 2026-03-26 05:21:01 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111507⭐ Rust) | [reels/reel_6151_rust-lang-rust](reels/reel_6151_rust-lang-rust) |
+| 6152 | 2026-03-26 06:43:57 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110750⭐ TypeScript) | [reels/reel_6152_shadcn-ui-ui](reels/reel_6152_shadcn-ui-ui) |
