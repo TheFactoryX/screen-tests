@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6160 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-26 |
+| #6161 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 131k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6249,3 +6249,4 @@ If you need permission, you're thinking too much.
 | 6158 | 2026-03-26 13:48:11 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (105569⭐ TypeScript) | [reels/reel_6158_clash-verge-rev-clash-verge-rev](reels/reel_6158_clash-verge-rev-clash-verge-rev) |
 | 6159 | 2026-03-26 15:02:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111514⭐ Rust) | [reels/reel_6159_rust-lang-rust](reels/reel_6159_rust-lang-rust) |
 | 6160 | 2026-03-26 16:21:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110794⭐ TypeScript) | [reels/reel_6160_shadcn-ui-ui](reels/reel_6160_shadcn-ui-ui) |
+| 6161 | 2026-03-26 17:34:30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131210⭐ Python) | [reels/reel_6161_langchain-ai-langchain](reels/reel_6161_langchain-ai-langchain) |
