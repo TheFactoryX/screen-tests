@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6149 | [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) | TypeScript · ⭐ 301 | 2026-03-26 |
+| #6150 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6238,3 +6238,4 @@ If you need permission, you're thinking too much.
 | 6147 | 2026-03-25 22:56:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (181067⭐ TypeScript) | [reels/reel_6147_n8n-io-n8n](reels/reel_6147_n8n-io-n8n) |
 | 6148 | 2026-03-25 23:36:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282070⭐ None) | [reels/reel_6148_awesome-selfhosted-awesome-selfhosted](reels/reel_6148_awesome-selfhosted-awesome-selfhosted) |
 | 6149 | 2026-03-26 00:03:58 | [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) | ✅ shallow (301⭐ TypeScript) | [reels/reel_6149_desplega-ai-agent-swarm](reels/reel_6149_desplega-ai-agent-swarm) |
+| 6150 | 2026-03-26 03:26:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182833⭐ Python) | [reels/reel_6150_Significant-Gravitas-AutoGPT](reels/reel_6150_Significant-Gravitas-AutoGPT) |
