@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6162 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-03-26 |
+| #6163 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 128k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6251,3 +6251,4 @@ If you need permission, you're thinking too much.
 | 6160 | 2026-03-26 16:21:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110794⭐ TypeScript) | [reels/reel_6160_shadcn-ui-ui](reels/reel_6160_shadcn-ui-ui) |
 | 6161 | 2026-03-26 17:34:30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131210⭐ Python) | [reels/reel_6161_langchain-ai-langchain](reels/reel_6161_langchain-ai-langchain) |
 | 6162 | 2026-03-26 18:39:25 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102397⭐ Python) | [reels/reel_6162_deepseek-ai-DeepSeek-V3](reels/reel_6162_deepseek-ai-DeepSeek-V3) |
+| 6163 | 2026-03-26 19:42:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128833⭐ Python) | [reels/reel_6163_open-webui-open-webui](reels/reel_6163_open-webui-open-webui) |
