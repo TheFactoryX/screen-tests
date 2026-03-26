@@ -1,0 +1,24 @@
+{
+  "reel_number": 6168,
+  "recorded": "2026-03-26 22:38:28 UTC",
+  "repository": {
+    "full_name": "vortex-data/vortex",
+    "url": "https://github.com/vortex-data/vortex",
+    "clone_url": "https://github.com/vortex-data/vortex.git",
+    "stars": 2814,
+    "language": "Rust",
+    "size_kb": 49268
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 48,
+    "duration_seconds": 4.576077
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 2814 stars."
+  }
+}
