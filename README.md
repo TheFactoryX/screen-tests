@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6158 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 105k | 2026-03-26 |
+| #6159 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6247,3 +6247,4 @@ If you need permission, you're thinking too much.
 | 6156 | 2026-03-26 11:03:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182844⭐ Python) | [reels/reel_6156_Significant-Gravitas-AutoGPT](reels/reel_6156_Significant-Gravitas-AutoGPT) |
 | 6157 | 2026-03-26 11:58:54 | [rwepa/DataDemo](https://github.com/rwepa/DataDemo) | ✅ readme_only (21⭐ Jupyter Notebook) | [reels/reel_6157_rwepa-DataDemo](reels/reel_6157_rwepa-DataDemo) |
 | 6158 | 2026-03-26 13:48:11 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (105569⭐ TypeScript) | [reels/reel_6158_clash-verge-rev-clash-verge-rev](reels/reel_6158_clash-verge-rev-clash-verge-rev) |
+| 6159 | 2026-03-26 15:02:03 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111514⭐ Rust) | [reels/reel_6159_rust-lang-rust](reels/reel_6159_rust-lang-rust) |
