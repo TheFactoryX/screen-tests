@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6157 | [rwepa/DataDemo](https://github.com/rwepa/DataDemo) | Jupyter Notebook · ⭐ 21 | 2026-03-26 |
+| #6158 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 105k | 2026-03-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6246,3 +6246,4 @@ If you need permission, you're thinking too much.
 | 6155 | 2026-03-26 09:59:37 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146250⭐ Python) | [reels/reel_6155_langflow-ai-langflow](reels/reel_6155_langflow-ai-langflow) |
 | 6156 | 2026-03-26 11:03:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182844⭐ Python) | [reels/reel_6156_Significant-Gravitas-AutoGPT](reels/reel_6156_Significant-Gravitas-AutoGPT) |
 | 6157 | 2026-03-26 11:58:54 | [rwepa/DataDemo](https://github.com/rwepa/DataDemo) | ✅ readme_only (21⭐ Jupyter Notebook) | [reels/reel_6157_rwepa-DataDemo](reels/reel_6157_rwepa-DataDemo) |
+| 6158 | 2026-03-26 13:48:11 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (105569⭐ TypeScript) | [reels/reel_6158_clash-verge-rev-clash-verge-rev](reels/reel_6158_clash-verge-rev-clash-verge-rev) |
