@@ -1,0 +1,24 @@
+{
+  "reel_number": 6190,
+  "recorded": "2026-03-27 21:56:44 UTC",
+  "repository": {
+    "full_name": "targed/Awesome-Plugins",
+    "url": "https://github.com/targed/Awesome-Plugins",
+    "clone_url": "https://github.com/targed/Awesome-Plugins.git",
+    "stars": 147,
+    "language": "JSON",
+    "size_kb": 15809869
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 15439,
+    "duration_seconds": 0.000135
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JSON",
+    "director_note": "A JSON repository. 147 stars."
+  }
+}
