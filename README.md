@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6178 | [alphagov/govuk-infrastructure](https://github.com/alphagov/govuk-infrastructure) | HCL · ⭐ 188 | 2026-03-27 |
+| #6179 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 113k | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6267,3 +6267,4 @@ If you need permission, you're thinking too much.
 | 6176 | 2026-03-27 09:29:48 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110855⭐ TypeScript) | [reels/reel_6176_shadcn-ui-ui](reels/reel_6176_shadcn-ui-ui) |
 | 6177 | 2026-03-27 10:25:18 | [mchestr/home-cluster](https://github.com/mchestr/home-cluster) | ✅ full (158⭐ Shell) | [reels/reel_6177_mchestr-home-cluster](reels/reel_6177_mchestr-home-cluster) |
 | 6178 | 2026-03-27 11:12:19 | [alphagov/govuk-infrastructure](https://github.com/alphagov/govuk-infrastructure) | ✅ full (188⭐ HCL) | [reels/reel_6178_alphagov-govuk-infrastructure](reels/reel_6178_alphagov-govuk-infrastructure) |
+| 6179 | 2026-03-27 11:56:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113916⭐ TypeScript) | [reels/reel_6179_iptv-org-iptv](reels/reel_6179_iptv-org-iptv) |
