@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6179 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 113k | 2026-03-27 |
+| #6180 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6268,3 +6268,4 @@ If you need permission, you're thinking too much.
 | 6177 | 2026-03-27 10:25:18 | [mchestr/home-cluster](https://github.com/mchestr/home-cluster) | ✅ full (158⭐ Shell) | [reels/reel_6177_mchestr-home-cluster](reels/reel_6177_mchestr-home-cluster) |
 | 6178 | 2026-03-27 11:12:19 | [alphagov/govuk-infrastructure](https://github.com/alphagov/govuk-infrastructure) | ✅ full (188⭐ HCL) | [reels/reel_6178_alphagov-govuk-infrastructure](reels/reel_6178_alphagov-govuk-infrastructure) |
 | 6179 | 2026-03-27 11:56:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113916⭐ TypeScript) | [reels/reel_6179_iptv-org-iptv](reels/reel_6179_iptv-org-iptv) |
+| 6180 | 2026-03-27 13:12:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139958⭐ Python) | [reels/reel_6180_ytdl-org-youtube-dl](reels/reel_6180_ytdl-org-youtube-dl) |
