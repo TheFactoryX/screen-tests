@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6176 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-27 |
+| #6177 | [mchestr/home-cluster](https://github.com/mchestr/home-cluster) | Shell · ⭐ 158 | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6265,3 +6265,4 @@ If you need permission, you're thinking too much.
 | 6174 | 2026-03-27 07:34:44 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146290⭐ Python) | [reels/reel_6174_langflow-ai-langflow](reels/reel_6174_langflow-ai-langflow) |
 | 6175 | 2026-03-27 08:29:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131283⭐ Python) | [reels/reel_6175_langchain-ai-langchain](reels/reel_6175_langchain-ai-langchain) |
 | 6176 | 2026-03-27 09:29:48 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110855⭐ TypeScript) | [reels/reel_6176_shadcn-ui-ui](reels/reel_6176_shadcn-ui-ui) |
+| 6177 | 2026-03-27 10:25:18 | [mchestr/home-cluster](https://github.com/mchestr/home-cluster) | ✅ full (158⭐ Shell) | [reels/reel_6177_mchestr-home-cluster](reels/reel_6177_mchestr-home-cluster) |

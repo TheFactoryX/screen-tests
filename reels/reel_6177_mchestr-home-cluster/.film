@@ -1,0 +1,24 @@
+{
+  "reel_number": 6177,
+  "recorded": "2026-03-27 10:25:18 UTC",
+  "repository": {
+    "full_name": "mchestr/home-cluster",
+    "url": "https://github.com/mchestr/home-cluster",
+    "clone_url": "https://github.com/mchestr/home-cluster.git",
+    "stars": 158,
+    "language": "Shell",
+    "size_kb": 20418
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 19,
+    "duration_seconds": 1.390143
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 158 stars."
+  }
+}
