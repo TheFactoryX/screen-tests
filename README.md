@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6173 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-03-27 |
+| #6174 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6262,3 +6262,4 @@ If you need permission, you're thinking too much.
 | 6171 | 2026-03-27 02:10:35 | [iboxz/free-v2ray-collector](https://github.com/iboxz/free-v2ray-collector) | ✅ full (111⭐ CSS) | [reels/reel_6171_iboxz-free-v2ray-collector](reels/reel_6171_iboxz-free-v2ray-collector) |
 | 6172 | 2026-03-27 04:41:36 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109138⭐ None) | [reels/reel_6172_Hack-with-Github-Awesome-Hacking](reels/reel_6172_Hack-with-Github-Awesome-Hacking) |
 | 6173 | 2026-03-27 06:02:13 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102399⭐ Python) | [reels/reel_6173_deepseek-ai-DeepSeek-V3](reels/reel_6173_deepseek-ai-DeepSeek-V3) |
+| 6174 | 2026-03-27 07:34:44 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146290⭐ Python) | [reels/reel_6174_langflow-ai-langflow](reels/reel_6174_langflow-ai-langflow) |
