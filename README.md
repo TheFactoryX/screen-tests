@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6172 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 109k | 2026-03-27 |
+| #6173 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6261,3 +6261,4 @@ If you need permission, you're thinking too much.
 | 6170 | 2026-03-26 23:46:58 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282302⭐ None) | [reels/reel_6170_awesome-selfhosted-awesome-selfhosted](reels/reel_6170_awesome-selfhosted-awesome-selfhosted) |
 | 6171 | 2026-03-27 02:10:35 | [iboxz/free-v2ray-collector](https://github.com/iboxz/free-v2ray-collector) | ✅ full (111⭐ CSS) | [reels/reel_6171_iboxz-free-v2ray-collector](reels/reel_6171_iboxz-free-v2ray-collector) |
 | 6172 | 2026-03-27 04:41:36 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109138⭐ None) | [reels/reel_6172_Hack-with-Github-Awesome-Hacking](reels/reel_6172_Hack-with-Github-Awesome-Hacking) |
+| 6173 | 2026-03-27 06:02:13 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102399⭐ Python) | [reels/reel_6173_deepseek-ai-DeepSeek-V3](reels/reel_6173_deepseek-ai-DeepSeek-V3) |
