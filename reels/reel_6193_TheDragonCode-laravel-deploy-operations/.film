@@ -1,0 +1,24 @@
+{
+  "reel_number": 6193,
+  "recorded": "2026-03-27 23:45:58 UTC",
+  "repository": {
+    "full_name": "TheDragonCode/laravel-deploy-operations",
+    "url": "https://github.com/TheDragonCode/laravel-deploy-operations",
+    "clone_url": "https://github.com/TheDragonCode/laravel-deploy-operations.git",
+    "stars": 240,
+    "language": "PHP",
+    "size_kb": 4555
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.794329
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 240 stars."
+  }
+}

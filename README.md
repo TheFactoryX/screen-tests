@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6192 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-27 |
+| #6193 | [TheDragonCode/laravel-deploy-operations](https://github.com/TheDragonCode/laravel-deploy-operations) | PHP · ⭐ 240 | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6281,3 +6281,4 @@ If you need permission, you're thinking too much.
 | 6190 | 2026-03-27 21:56:44 | [targed/Awesome-Plugins](https://github.com/targed/Awesome-Plugins) | ✅ readme_only (147⭐ JSON) | [reels/reel_6190_targed-Awesome-Plugins](reels/reel_6190_targed-Awesome-Plugins) |
 | 6191 | 2026-03-27 22:35:04 | [dotnet/razor](https://github.com/dotnet/razor) | ✅ shallow (706⭐ C#) | [reels/reel_6191_dotnet-razor](reels/reel_6191_dotnet-razor) |
 | 6192 | 2026-03-27 23:05:21 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110893⭐ TypeScript) | [reels/reel_6192_shadcn-ui-ui](reels/reel_6192_shadcn-ui-ui) |
+| 6193 | 2026-03-27 23:45:58 | [TheDragonCode/laravel-deploy-operations](https://github.com/TheDragonCode/laravel-deploy-operations) | ✅ full (240⭐ PHP) | [reels/reel_6193_TheDragonCode-laravel-deploy-operations](reels/reel_6193_TheDragonCode-laravel-deploy-operations) |
