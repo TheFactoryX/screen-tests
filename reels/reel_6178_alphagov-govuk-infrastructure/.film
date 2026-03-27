@@ -1,0 +1,24 @@
+{
+  "reel_number": 6178,
+  "recorded": "2026-03-27 11:12:19 UTC",
+  "repository": {
+    "full_name": "alphagov/govuk-infrastructure",
+    "url": "https://github.com/alphagov/govuk-infrastructure",
+    "clone_url": "https://github.com/alphagov/govuk-infrastructure.git",
+    "stars": 188,
+    "language": "HCL",
+    "size_kb": 16804
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 2.092319
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HCL",
+    "director_note": "A HCL repository. 188 stars."
+  }
+}
