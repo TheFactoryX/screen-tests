@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6190 | [targed/Awesome-Plugins](https://github.com/targed/Awesome-Plugins) | JSON · ⭐ 147 | 2026-03-27 |
+| #6191 | [dotnet/razor](https://github.com/dotnet/razor) | C# · ⭐ 706 | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6279,3 +6279,4 @@ If you need permission, you're thinking too much.
 | 6188 | 2026-03-27 20:36:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131335⭐ Python) | [reels/reel_6188_langchain-ai-langchain](reels/reel_6188_langchain-ai-langchain) |
 | 6189 | 2026-03-27 21:19:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (128982⭐ Python) | [reels/reel_6189_open-webui-open-webui](reels/reel_6189_open-webui-open-webui) |
 | 6190 | 2026-03-27 21:56:44 | [targed/Awesome-Plugins](https://github.com/targed/Awesome-Plugins) | ✅ readme_only (147⭐ JSON) | [reels/reel_6190_targed-Awesome-Plugins](reels/reel_6190_targed-Awesome-Plugins) |
+| 6191 | 2026-03-27 22:35:04 | [dotnet/razor](https://github.com/dotnet/razor) | ✅ shallow (706⭐ C#) | [reels/reel_6191_dotnet-razor](reels/reel_6191_dotnet-razor) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 6191,
+  "recorded": "2026-03-27 22:35:04 UTC",
+  "repository": {
+    "full_name": "dotnet/razor",
+    "url": "https://github.com/dotnet/razor",
+    "clone_url": "https://github.com/dotnet/razor.git",
+    "stars": 706,
+    "language": "C#",
+    "size_kb": 102623
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 100,
+    "duration_seconds": 2.182282
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 706 stars."
+  }
+}
