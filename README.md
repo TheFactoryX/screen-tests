@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6183 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-27 |
+| #6184 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6272,3 +6272,4 @@ If you need permission, you're thinking too much.
 | 6181 | 2026-03-27 14:16:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146303⭐ Python) | [reels/reel_6181_langflow-ai-langflow](reels/reel_6181_langflow-ai-langflow) |
 | 6182 | 2026-03-27 15:24:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111549⭐ Rust) | [reels/reel_6182_rust-lang-rust](reels/reel_6182_rust-lang-rust) |
 | 6183 | 2026-03-27 16:12:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110874⭐ TypeScript) | [reels/reel_6183_shadcn-ui-ui](reels/reel_6183_shadcn-ui-ui) |
+| 6184 | 2026-03-27 17:11:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146310⭐ Python) | [reels/reel_6184_langflow-ai-langflow](reels/reel_6184_langflow-ai-langflow) |
