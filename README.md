@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6184 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-03-27 |
+| #6185 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 282k | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6273,3 +6273,4 @@ If you need permission, you're thinking too much.
 | 6182 | 2026-03-27 15:24:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111549⭐ Rust) | [reels/reel_6182_rust-lang-rust](reels/reel_6182_rust-lang-rust) |
 | 6183 | 2026-03-27 16:12:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110874⭐ TypeScript) | [reels/reel_6183_shadcn-ui-ui](reels/reel_6183_shadcn-ui-ui) |
 | 6184 | 2026-03-27 17:11:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146310⭐ Python) | [reels/reel_6184_langflow-ai-langflow](reels/reel_6184_langflow-ai-langflow) |
+| 6185 | 2026-03-27 18:04:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282421⭐ None) | [reels/reel_6185_awesome-selfhosted-awesome-selfhosted](reels/reel_6185_awesome-selfhosted-awesome-selfhosted) |
