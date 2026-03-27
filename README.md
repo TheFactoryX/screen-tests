@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6187 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 107k | 2026-03-27 |
+| #6188 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 131k | 2026-03-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6276,3 +6276,4 @@ If you need permission, you're thinking too much.
 | 6185 | 2026-03-27 18:04:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282421⭐ None) | [reels/reel_6185_awesome-selfhosted-awesome-selfhosted](reels/reel_6185_awesome-selfhosted-awesome-selfhosted) |
 | 6186 | 2026-03-27 19:11:34 | [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) | ✅ full (17⭐ None) | [reels/reel_6186_awesome-sora-awesome-sora-zh](reels/reel_6186_awesome-sora-awesome-sora-zh) |
 | 6187 | 2026-03-27 19:51:54 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (107146⭐ Python) | [reels/reel_6187_Comfy-Org-ComfyUI](reels/reel_6187_Comfy-Org-ComfyUI) |
+| 6188 | 2026-03-27 20:36:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131335⭐ Python) | [reels/reel_6188_langchain-ai-langchain](reels/reel_6188_langchain-ai-langchain) |
