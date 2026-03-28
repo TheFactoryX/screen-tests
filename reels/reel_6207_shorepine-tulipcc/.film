@@ -1,0 +1,24 @@
+{
+  "reel_number": 6207,
+  "recorded": "2026-03-28 13:57:06 UTC",
+  "repository": {
+    "full_name": "shorepine/tulipcc",
+    "url": "https://github.com/shorepine/tulipcc",
+    "clone_url": "https://github.com/shorepine/tulipcc.git",
+    "stars": 858,
+    "language": "C",
+    "size_kb": 428482
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 418,
+    "duration_seconds": 7.553272
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 858 stars."
+  }
+}
