@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6205 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 110k | 2026-03-28 |
+| #6206 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 153k | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6294,3 +6294,4 @@ If you need permission, you're thinking too much.
 | 6203 | 2026-03-28 11:03:34 | [sudoevolve/EUI](https://github.com/sudoevolve/EUI) | ✅ full (225⭐ C++) | [reels/reel_6203_sudoevolve-EUI](reels/reel_6203_sudoevolve-EUI) |
 | 6204 | 2026-03-28 11:40:32 | [HANCORE-linux/waybar-themes](https://github.com/HANCORE-linux/waybar-themes) | ✅ full (266⭐ CSS) | [reels/reel_6204_HANCORE-linux-waybar-themes](reels/reel_6204_HANCORE-linux-waybar-themes) |
 | 6205 | 2026-03-28 11:58:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110919⭐ TypeScript) | [reels/reel_6205_shadcn-ui-ui](reels/reel_6205_shadcn-ui-ui) |
+| 6206 | 2026-03-28 13:07:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153671⭐ Python) | [reels/reel_6206_yt-dlp-yt-dlp](reels/reel_6206_yt-dlp-yt-dlp) |
