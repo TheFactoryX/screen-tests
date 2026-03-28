@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6215 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 113k | 2026-03-28 |
+| #6216 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 181k | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6304,3 +6304,4 @@ If you need permission, you're thinking too much.
 | 6213 | 2026-03-28 17:46:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182910⭐ Python) | [reels/reel_6213_Significant-Gravitas-AutoGPT](reels/reel_6213_Significant-Gravitas-AutoGPT) |
 | 6214 | 2026-03-28 18:38:27 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182912⭐ Python) | [reels/reel_6214_Significant-Gravitas-AutoGPT](reels/reel_6214_Significant-Gravitas-AutoGPT) |
 | 6215 | 2026-03-28 19:18:07 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113959⭐ TypeScript) | [reels/reel_6215_iptv-org-iptv](reels/reel_6215_iptv-org-iptv) |
+| 6216 | 2026-03-28 19:51:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (181485⭐ TypeScript) | [reels/reel_6216_n8n-io-n8n](reels/reel_6216_n8n-io-n8n) |
