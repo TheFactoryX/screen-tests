@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6196 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 153k | 2026-03-28 |
+| #6197 | [mpv-easy/mpv-easy](https://github.com/mpv-easy/mpv-easy) | TypeScript · ⭐ 111 | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6285,3 +6285,4 @@ If you need permission, you're thinking too much.
 | 6194 | 2026-03-28 02:01:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282443⭐ None) | [reels/reel_6194_awesome-selfhosted-awesome-selfhosted](reels/reel_6194_awesome-selfhosted-awesome-selfhosted) |
 | 6195 | 2026-03-28 04:28:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131330⭐ Python) | [reels/reel_6195_langchain-ai-langchain](reels/reel_6195_langchain-ai-langchain) |
 | 6196 | 2026-03-28 05:40:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153615⭐ Python) | [reels/reel_6196_yt-dlp-yt-dlp](reels/reel_6196_yt-dlp-yt-dlp) |
+| 6197 | 2026-03-28 06:38:05 | [mpv-easy/mpv-easy](https://github.com/mpv-easy/mpv-easy) | ✅ full (111⭐ TypeScript) | [reels/reel_6197_mpv-easy-mpv-easy](reels/reel_6197_mpv-easy-mpv-easy) |

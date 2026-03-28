@@ -1,0 +1,24 @@
+{
+  "reel_number": 6197,
+  "recorded": "2026-03-28 06:38:05 UTC",
+  "repository": {
+    "full_name": "mpv-easy/mpv-easy",
+    "url": "https://github.com/mpv-easy/mpv-easy",
+    "clone_url": "https://github.com/mpv-easy/mpv-easy.git",
+    "stars": 111,
+    "language": "TypeScript",
+    "size_kb": 27069
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 1.307657
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 111 stars."
+  }
+}
