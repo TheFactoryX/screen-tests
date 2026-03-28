@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6197 | [mpv-easy/mpv-easy](https://github.com/mpv-easy/mpv-easy) | TypeScript · ⭐ 111 | 2026-03-28 |
+| #6198 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 104k | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6286,3 +6286,4 @@ If you need permission, you're thinking too much.
 | 6195 | 2026-03-28 04:28:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131330⭐ Python) | [reels/reel_6195_langchain-ai-langchain](reels/reel_6195_langchain-ai-langchain) |
 | 6196 | 2026-03-28 05:40:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153615⭐ Python) | [reels/reel_6196_yt-dlp-yt-dlp](reels/reel_6196_yt-dlp-yt-dlp) |
 | 6197 | 2026-03-28 06:38:05 | [mpv-easy/mpv-easy](https://github.com/mpv-easy/mpv-easy) | ✅ full (111⭐ TypeScript) | [reels/reel_6197_mpv-easy-mpv-easy](reels/reel_6197_mpv-easy-mpv-easy) |
+| 6198 | 2026-03-28 07:33:46 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (104691⭐ Rust) | [reels/reel_6198_tauri-apps-tauri](reels/reel_6198_tauri-apps-tauri) |
