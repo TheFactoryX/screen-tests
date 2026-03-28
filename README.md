@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6203 | [sudoevolve/EUI](https://github.com/sudoevolve/EUI) | C++ · ⭐ 225 | 2026-03-28 |
+| #6204 | [HANCORE-linux/waybar-themes](https://github.com/HANCORE-linux/waybar-themes) | CSS · ⭐ 266 | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6292,3 +6292,4 @@ If you need permission, you're thinking too much.
 | 6201 | 2026-03-28 09:52:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182895⭐ Python) | [reels/reel_6201_Significant-Gravitas-AutoGPT](reels/reel_6201_Significant-Gravitas-AutoGPT) |
 | 6202 | 2026-03-28 10:30:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131354⭐ Python) | [reels/reel_6202_langchain-ai-langchain](reels/reel_6202_langchain-ai-langchain) |
 | 6203 | 2026-03-28 11:03:34 | [sudoevolve/EUI](https://github.com/sudoevolve/EUI) | ✅ full (225⭐ C++) | [reels/reel_6203_sudoevolve-EUI](reels/reel_6203_sudoevolve-EUI) |
+| 6204 | 2026-03-28 11:40:32 | [HANCORE-linux/waybar-themes](https://github.com/HANCORE-linux/waybar-themes) | ✅ full (266⭐ CSS) | [reels/reel_6204_HANCORE-linux-waybar-themes](reels/reel_6204_HANCORE-linux-waybar-themes) |
