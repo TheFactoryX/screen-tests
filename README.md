@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6218 | [april-cools/april-cools.github.io](https://github.com/april-cools/april-cools.github.io) | HTML · ⭐ 19 | 2026-03-28 |
+| #6219 | [zapplyjobs/New-Grad-Jobs-2026](https://github.com/zapplyjobs/New-Grad-Jobs-2026) | HTML · ⭐ 102 | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6307,3 +6307,4 @@ If you need permission, you're thinking too much.
 | 6216 | 2026-03-28 19:51:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (181485⭐ TypeScript) | [reels/reel_6216_n8n-io-n8n](reels/reel_6216_n8n-io-n8n) |
 | 6217 | 2026-03-28 20:27:59 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109228⭐ None) | [reels/reel_6217_Hack-with-Github-Awesome-Hacking](reels/reel_6217_Hack-with-Github-Awesome-Hacking) |
 | 6218 | 2026-03-28 20:57:03 | [april-cools/april-cools.github.io](https://github.com/april-cools/april-cools.github.io) | ✅ full (19⭐ HTML) | [reels/reel_6218_april-cools-april-cools.github.io](reels/reel_6218_april-cools-april-cools.github.io) |
+| 6219 | 2026-03-28 21:33:13 | [zapplyjobs/New-Grad-Jobs-2026](https://github.com/zapplyjobs/New-Grad-Jobs-2026) | ✅ readme_only (102⭐ HTML) | [reels/reel_6219_zapplyjobs-New-Grad-Jobs-2026](reels/reel_6219_zapplyjobs-New-Grad-Jobs-2026) |
