@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6211 | [AumGupta/abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) | CSS · ⭐ 195 | 2026-03-28 |
+| #6212 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 693 | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6300,3 +6300,4 @@ If you need permission, you're thinking too much.
 | 6209 | 2026-03-28 15:03:03 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129047⭐ Python) | [reels/reel_6209_open-webui-open-webui](reels/reel_6209_open-webui-open-webui) |
 | 6210 | 2026-03-28 15:46:13 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109215⭐ None) | [reels/reel_6210_Hack-with-Github-Awesome-Hacking](reels/reel_6210_Hack-with-Github-Awesome-Hacking) |
 | 6211 | 2026-03-28 16:32:15 | [AumGupta/abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) | ✅ shallow (195⭐ CSS) | [reels/reel_6211_AumGupta-abyss-jellyfin](reels/reel_6211_AumGupta-abyss-jellyfin) |
+| 6212 | 2026-03-28 17:06:21 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (693⭐ Tcl) | [reels/reel_6212_rust-lang-crates.io-index](reels/reel_6212_rust-lang-crates.io-index) |
