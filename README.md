@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6222 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 153k | 2026-03-28 |
+| #6223 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 417k | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6311,3 +6311,4 @@ If you need permission, you're thinking too much.
 | 6220 | 2026-03-28 21:58:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110943⭐ TypeScript) | [reels/reel_6220_shadcn-ui-ui](reels/reel_6220_shadcn-ui-ui) |
 | 6221 | 2026-03-28 22:38:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282583⭐ None) | [reels/reel_6221_awesome-selfhosted-awesome-selfhosted](reels/reel_6221_awesome-selfhosted-awesome-selfhosted) |
 | 6222 | 2026-03-28 23:02:04 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153729⭐ Python) | [reels/reel_6222_yt-dlp-yt-dlp](reels/reel_6222_yt-dlp-yt-dlp) |
+| 6223 | 2026-03-28 23:45:20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (417054⭐ Python) | [reels/reel_6223_public-apis-public-apis](reels/reel_6223_public-apis-public-apis) |
