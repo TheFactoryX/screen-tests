@@ -1,0 +1,24 @@
+{
+  "reel_number": 6200,
+  "recorded": "2026-03-28 09:03:31 UTC",
+  "repository": {
+    "full_name": "ludenio/SuperWEIRDGameKit",
+    "url": "https://github.com/ludenio/SuperWEIRDGameKit",
+    "clone_url": "https://github.com/ludenio/SuperWEIRDGameKit.git",
+    "stars": 82,
+    "language": "Lua",
+    "size_kb": 20936
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 0.897536
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 82 stars."
+  }
+}

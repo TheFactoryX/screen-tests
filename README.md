@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6199 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-28 |
+| #6200 | [ludenio/SuperWEIRDGameKit](https://github.com/ludenio/SuperWEIRDGameKit) | Lua · ⭐ 82 | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6288,3 +6288,4 @@ If you need permission, you're thinking too much.
 | 6197 | 2026-03-28 06:38:05 | [mpv-easy/mpv-easy](https://github.com/mpv-easy/mpv-easy) | ✅ full (111⭐ TypeScript) | [reels/reel_6197_mpv-easy-mpv-easy](reels/reel_6197_mpv-easy-mpv-easy) |
 | 6198 | 2026-03-28 07:33:46 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (104691⭐ Rust) | [reels/reel_6198_tauri-apps-tauri](reels/reel_6198_tauri-apps-tauri) |
 | 6199 | 2026-03-28 08:21:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182891⭐ Python) | [reels/reel_6199_Significant-Gravitas-AutoGPT](reels/reel_6199_Significant-Gravitas-AutoGPT) |
+| 6200 | 2026-03-28 09:03:31 | [ludenio/SuperWEIRDGameKit](https://github.com/ludenio/SuperWEIRDGameKit) | ✅ full (82⭐ Lua) | [reels/reel_6200_ludenio-SuperWEIRDGameKit](reels/reel_6200_ludenio-SuperWEIRDGameKit) |
