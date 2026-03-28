@@ -1,0 +1,24 @@
+{
+  "reel_number": 6218,
+  "recorded": "2026-03-28 20:57:03 UTC",
+  "repository": {
+    "full_name": "april-cools/april-cools.github.io",
+    "url": "https://github.com/april-cools/april-cools.github.io",
+    "clone_url": "https://github.com/april-cools/april-cools.github.io.git",
+    "stars": 19,
+    "language": "HTML",
+    "size_kb": 364
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.609746
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 19 stars."
+  }
+}
