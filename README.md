@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6208 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 107k | 2026-03-28 |
+| #6209 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 129k | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6297,3 +6297,4 @@ If you need permission, you're thinking too much.
 | 6206 | 2026-03-28 13:07:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153671⭐ Python) | [reels/reel_6206_yt-dlp-yt-dlp](reels/reel_6206_yt-dlp-yt-dlp) |
 | 6207 | 2026-03-28 13:57:06 | [shorepine/tulipcc](https://github.com/shorepine/tulipcc) | ✅ shallow (858⭐ C) | [reels/reel_6207_shorepine-tulipcc](reels/reel_6207_shorepine-tulipcc) |
 | 6208 | 2026-03-28 14:34:53 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (107174⭐ Python) | [reels/reel_6208_Comfy-Org-ComfyUI](reels/reel_6208_Comfy-Org-ComfyUI) |
+| 6209 | 2026-03-28 15:03:03 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129047⭐ Python) | [reels/reel_6209_open-webui-open-webui](reels/reel_6209_open-webui-open-webui) |
