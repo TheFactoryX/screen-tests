@@ -1,0 +1,24 @@
+{
+  "reel_number": 6203,
+  "recorded": "2026-03-28 11:03:34 UTC",
+  "repository": {
+    "full_name": "sudoevolve/EUI",
+    "url": "https://github.com/sudoevolve/EUI",
+    "clone_url": "https://github.com/sudoevolve/EUI.git",
+    "stars": 225,
+    "language": "C++",
+    "size_kb": 6543
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.315395
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 225 stars."
+  }
+}
