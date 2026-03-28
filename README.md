@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6195 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 131k | 2026-03-28 |
+| #6196 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 153k | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6284,3 +6284,4 @@ If you need permission, you're thinking too much.
 | 6193 | 2026-03-27 23:45:58 | [TheDragonCode/laravel-deploy-operations](https://github.com/TheDragonCode/laravel-deploy-operations) | ✅ full (240⭐ PHP) | [reels/reel_6193_TheDragonCode-laravel-deploy-operations](reels/reel_6193_TheDragonCode-laravel-deploy-operations) |
 | 6194 | 2026-03-28 02:01:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282443⭐ None) | [reels/reel_6194_awesome-selfhosted-awesome-selfhosted](reels/reel_6194_awesome-selfhosted-awesome-selfhosted) |
 | 6195 | 2026-03-28 04:28:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131330⭐ Python) | [reels/reel_6195_langchain-ai-langchain](reels/reel_6195_langchain-ai-langchain) |
+| 6196 | 2026-03-28 05:40:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153615⭐ Python) | [reels/reel_6196_yt-dlp-yt-dlp](reels/reel_6196_yt-dlp-yt-dlp) |
