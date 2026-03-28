@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6207 | [shorepine/tulipcc](https://github.com/shorepine/tulipcc) | C · ⭐ 858 | 2026-03-28 |
+| #6208 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 107k | 2026-03-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6296,3 +6296,4 @@ If you need permission, you're thinking too much.
 | 6205 | 2026-03-28 11:58:03 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (110919⭐ TypeScript) | [reels/reel_6205_shadcn-ui-ui](reels/reel_6205_shadcn-ui-ui) |
 | 6206 | 2026-03-28 13:07:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153671⭐ Python) | [reels/reel_6206_yt-dlp-yt-dlp](reels/reel_6206_yt-dlp-yt-dlp) |
 | 6207 | 2026-03-28 13:57:06 | [shorepine/tulipcc](https://github.com/shorepine/tulipcc) | ✅ shallow (858⭐ C) | [reels/reel_6207_shorepine-tulipcc](reels/reel_6207_shorepine-tulipcc) |
+| 6208 | 2026-03-28 14:34:53 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (107174⭐ Python) | [reels/reel_6208_Comfy-Org-ComfyUI](reels/reel_6208_Comfy-Org-ComfyUI) |
