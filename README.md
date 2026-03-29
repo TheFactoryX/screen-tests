@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6238 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 115k | 2026-03-29 |
+| #6239 | [julien-nc/phonetrack](https://github.com/julien-nc/phonetrack) | JavaScript · ⭐ 151 | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6327,3 +6327,4 @@ If you need permission, you're thinking too much.
 | 6236 | 2026-03-29 14:04:14 | [anonvector/SlipNet](https://github.com/anonvector/SlipNet) | ✅ shallow (577⭐ C) | [reels/reel_6236_anonvector-SlipNet](reels/reel_6236_anonvector-SlipNet) |
 | 6237 | 2026-03-29 14:52:23 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282695⭐ None) | [reels/reel_6237_awesome-selfhosted-awesome-selfhosted](reels/reel_6237_awesome-selfhosted-awesome-selfhosted) |
 | 6238 | 2026-03-29 15:29:47 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (115996⭐ JavaScript) | [reels/reel_6238_affaan-m-everything-claude-code](reels/reel_6238_affaan-m-everything-claude-code) |
+| 6239 | 2026-03-29 15:56:57 | [julien-nc/phonetrack](https://github.com/julien-nc/phonetrack) | ✅ full (151⭐ JavaScript) | [reels/reel_6239_julien-nc-phonetrack](reels/reel_6239_julien-nc-phonetrack) |
