@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6240 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-29 |
+| #6241 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 282k | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6329,3 +6329,4 @@ If you need permission, you're thinking too much.
 | 6238 | 2026-03-29 15:29:47 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (115996⭐ JavaScript) | [reels/reel_6238_affaan-m-everything-claude-code](reels/reel_6238_affaan-m-everything-claude-code) |
 | 6239 | 2026-03-29 15:56:57 | [julien-nc/phonetrack](https://github.com/julien-nc/phonetrack) | ✅ full (151⭐ JavaScript) | [reels/reel_6239_julien-nc-phonetrack](reels/reel_6239_julien-nc-phonetrack) |
 | 6240 | 2026-03-29 16:38:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182930⭐ Python) | [reels/reel_6240_Significant-Gravitas-AutoGPT](reels/reel_6240_Significant-Gravitas-AutoGPT) |
+| 6241 | 2026-03-29 17:05:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282713⭐ None) | [reels/reel_6241_awesome-selfhosted-awesome-selfhosted](reels/reel_6241_awesome-selfhosted-awesome-selfhosted) |
