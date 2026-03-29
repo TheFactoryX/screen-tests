@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6242 | [noahm/DDRCardDraw](https://github.com/noahm/DDRCardDraw) | TypeScript · ⭐ 42 | 2026-03-29 |
+| #6243 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 282k | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6331,3 +6331,4 @@ If you need permission, you're thinking too much.
 | 6240 | 2026-03-29 16:38:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182930⭐ Python) | [reels/reel_6240_Significant-Gravitas-AutoGPT](reels/reel_6240_Significant-Gravitas-AutoGPT) |
 | 6241 | 2026-03-29 17:05:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282713⭐ None) | [reels/reel_6241_awesome-selfhosted-awesome-selfhosted](reels/reel_6241_awesome-selfhosted-awesome-selfhosted) |
 | 6242 | 2026-03-29 17:48:06 | [noahm/DDRCardDraw](https://github.com/noahm/DDRCardDraw) | ✅ shallow (42⭐ TypeScript) | [reels/reel_6242_noahm-DDRCardDraw](reels/reel_6242_noahm-DDRCardDraw) |
+| 6243 | 2026-03-29 18:40:04 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282734⭐ None) | [reels/reel_6243_awesome-selfhosted-awesome-selfhosted](reels/reel_6243_awesome-selfhosted-awesome-selfhosted) |
