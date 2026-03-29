@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6229 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 131k | 2026-03-29 |
+| #6230 | [LaurenzV/hayro](https://github.com/LaurenzV/hayro) | Rust · ⭐ 622 | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6318,3 +6318,4 @@ If you need permission, you're thinking too much.
 | 6227 | 2026-03-29 07:19:00 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139959⭐ Python) | [reels/reel_6227_ytdl-org-youtube-dl](reels/reel_6227_ytdl-org-youtube-dl) |
 | 6228 | 2026-03-29 08:01:46 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (115304⭐ JavaScript) | [reels/reel_6228_affaan-m-everything-claude-code](reels/reel_6228_affaan-m-everything-claude-code) |
 | 6229 | 2026-03-29 08:58:14 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131446⭐ Python) | [reels/reel_6229_langchain-ai-langchain](reels/reel_6229_langchain-ai-langchain) |
+| 6230 | 2026-03-29 09:45:47 | [LaurenzV/hayro](https://github.com/LaurenzV/hayro) | ✅ full (622⭐ Rust) | [reels/reel_6230_LaurenzV-hayro](reels/reel_6230_LaurenzV-hayro) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 6230,
+  "recorded": "2026-03-29 09:45:47 UTC",
+  "repository": {
+    "full_name": "LaurenzV/hayro",
+    "url": "https://github.com/LaurenzV/hayro",
+    "clone_url": "https://github.com/LaurenzV/hayro.git",
+    "stars": 622,
+    "language": "Rust",
+    "size_kb": 66101
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 64,
+    "duration_seconds": 2.889698
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 622 stars."
+  }
+}
