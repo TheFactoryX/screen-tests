@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6247 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 99k | 2026-03-29 |
+| #6248 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6336,3 +6336,4 @@ If you need permission, you're thinking too much.
 | 6245 | 2026-03-29 19:54:04 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102412⭐ Python) | [reels/reel_6245_deepseek-ai-DeepSeek-V3](reels/reel_6245_deepseek-ai-DeepSeek-V3) |
 | 6246 | 2026-03-29 20:29:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113984⭐ TypeScript) | [reels/reel_6246_iptv-org-iptv](reels/reel_6246_iptv-org-iptv) |
 | 6247 | 2026-03-29 20:59:34 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (99881⭐ C++) | [reels/reel_6247_ggml-org-llama.cpp](reels/reel_6247_ggml-org-llama.cpp) |
+| 6248 | 2026-03-29 21:40:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182932⭐ Python) | [reels/reel_6248_Significant-Gravitas-AutoGPT](reels/reel_6248_Significant-Gravitas-AutoGPT) |
