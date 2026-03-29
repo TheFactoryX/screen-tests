@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6234 | [livekit/client-sdk-flutter](https://github.com/livekit/client-sdk-flutter) | Dart · ⭐ 382 | 2026-03-29 |
+| #6235 | [koel/player](https://github.com/koel/player) | Dart · ⭐ 543 | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6323,3 +6323,4 @@ If you need permission, you're thinking too much.
 | 6232 | 2026-03-29 11:04:25 | [kjannette/koin_ping_0.2.0](https://github.com/kjannette/koin_ping_0.2.0) | ✅ full (164⭐ Go) | [reels/reel_6232_kjannette-koin_ping_0.2.0](reels/reel_6232_kjannette-koin_ping_0.2.0) |
 | 6233 | 2026-03-29 11:43:03 | [SapiensAnatis/Dawnshard](https://github.com/SapiensAnatis/Dawnshard) | ✅ full (140⭐ C#) | [reels/reel_6233_SapiensAnatis-Dawnshard](reels/reel_6233_SapiensAnatis-Dawnshard) |
 | 6234 | 2026-03-29 12:00:37 | [livekit/client-sdk-flutter](https://github.com/livekit/client-sdk-flutter) | ✅ full (382⭐ Dart) | [reels/reel_6234_livekit-client-sdk-flutter](reels/reel_6234_livekit-client-sdk-flutter) |
+| 6235 | 2026-03-29 13:19:23 | [koel/player](https://github.com/koel/player) | ✅ full (543⭐ Dart) | [reels/reel_6235_koel-player](reels/reel_6235_koel-player) |

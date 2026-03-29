@@ -1,0 +1,24 @@
+{
+  "reel_number": 6235,
+  "recorded": "2026-03-29 13:19:23 UTC",
+  "repository": {
+    "full_name": "koel/player",
+    "url": "https://github.com/koel/player",
+    "clone_url": "https://github.com/koel/player.git",
+    "stars": 543,
+    "language": "Dart",
+    "size_kb": 2588
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.269459
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 543 stars."
+  }
+}
