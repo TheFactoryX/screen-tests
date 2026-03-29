@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6250 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 99k | 2026-03-29 |
+| #6251 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 131k | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6339,3 +6339,4 @@ If you need permission, you're thinking too much.
 | 6248 | 2026-03-29 21:40:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182932⭐ Python) | [reels/reel_6248_Significant-Gravitas-AutoGPT](reels/reel_6248_Significant-Gravitas-AutoGPT) |
 | 6249 | 2026-03-29 22:00:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282767⭐ None) | [reels/reel_6249_awesome-selfhosted-awesome-selfhosted](reels/reel_6249_awesome-selfhosted-awesome-selfhosted) |
 | 6250 | 2026-03-29 22:50:43 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (99460⭐ TypeScript) | [reels/reel_6250_google-gemini-gemini-cli](reels/reel_6250_google-gemini-gemini-cli) |
+| 6251 | 2026-03-29 23:30:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131516⭐ Python) | [reels/reel_6251_langchain-ai-langchain](reels/reel_6251_langchain-ai-langchain) |
