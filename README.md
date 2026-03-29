@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6231 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 261k | 2026-03-29 |
+| #6232 | [kjannette/koin_ping_0.2.0](https://github.com/kjannette/koin_ping_0.2.0) | Go · ⭐ 164 | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6320,3 +6320,4 @@ If you need permission, you're thinking too much.
 | 6229 | 2026-03-29 08:58:14 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131446⭐ Python) | [reels/reel_6229_langchain-ai-langchain](reels/reel_6229_langchain-ai-langchain) |
 | 6230 | 2026-03-29 09:45:47 | [LaurenzV/hayro](https://github.com/LaurenzV/hayro) | ✅ full (622⭐ Rust) | [reels/reel_6230_LaurenzV-hayro](reels/reel_6230_LaurenzV-hayro) |
 | 6231 | 2026-03-29 10:31:14 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (261927⭐ None) | [reels/reel_6231_practical-tutorials-project-based-learning](reels/reel_6231_practical-tutorials-project-based-learning) |
+| 6232 | 2026-03-29 11:04:25 | [kjannette/koin_ping_0.2.0](https://github.com/kjannette/koin_ping_0.2.0) | ✅ full (164⭐ Go) | [reels/reel_6232_kjannette-koin_ping_0.2.0](reels/reel_6232_kjannette-koin_ping_0.2.0) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 6232,
+  "recorded": "2026-03-29 11:04:25 UTC",
+  "repository": {
+    "full_name": "kjannette/koin_ping_0.2.0",
+    "url": "https://github.com/kjannette/koin_ping_0.2.0",
+    "clone_url": "https://github.com/kjannette/koin_ping_0.2.0.git",
+    "stars": 164,
+    "language": "Go",
+    "size_kb": 90957
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 88,
+    "duration_seconds": 2.948175
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 164 stars."
+  }
+}
