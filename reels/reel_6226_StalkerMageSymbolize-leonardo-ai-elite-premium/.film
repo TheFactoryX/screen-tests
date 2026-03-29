@@ -1,0 +1,24 @@
+{
+  "reel_number": 6226,
+  "recorded": "2026-03-29 06:10:25 UTC",
+  "repository": {
+    "full_name": "StalkerMageSymbolize/leonardo-ai-elite-premium",
+    "url": "https://github.com/StalkerMageSymbolize/leonardo-ai-elite-premium",
+    "clone_url": "https://github.com/StalkerMageSymbolize/leonardo-ai-elite-premium.git",
+    "stars": 110,
+    "language": null,
+    "size_kb": 2
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.334205
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 110 stars."
+  }
+}

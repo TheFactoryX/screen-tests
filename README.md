@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6225 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 106k | 2026-03-29 |
+| #6226 | [StalkerMageSymbolize/leonardo-ai-elite-premium](https://github.com/StalkerMageSymbolize/leonardo-ai-elite-premium) | None · ⭐ 110 | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6314,3 +6314,4 @@ If you need permission, you're thinking too much.
 | 6223 | 2026-03-28 23:45:20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (417054⭐ Python) | [reels/reel_6223_public-apis-public-apis](reels/reel_6223_public-apis-public-apis) |
 | 6224 | 2026-03-29 02:13:09 | [BeeStation/BeeStation-Hornet](https://github.com/BeeStation/BeeStation-Hornet) | ✅ readme_only (212⭐ DM) | [reels/reel_6224_BeeStation-BeeStation-Hornet](reels/reel_6224_BeeStation-BeeStation-Hornet) |
 | 6225 | 2026-03-29 04:45:32 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (106039⭐ TypeScript) | [reels/reel_6225_clash-verge-rev-clash-verge-rev](reels/reel_6225_clash-verge-rev-clash-verge-rev) |
+| 6226 | 2026-03-29 06:10:25 | [StalkerMageSymbolize/leonardo-ai-elite-premium](https://github.com/StalkerMageSymbolize/leonardo-ai-elite-premium) | ✅ full (110⭐ None) | [reels/reel_6226_StalkerMageSymbolize-leonardo-ai-elite-premium](reels/reel_6226_StalkerMageSymbolize-leonardo-ai-elite-premium) |
