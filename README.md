@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6245 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-03-29 |
+| #6246 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 113k | 2026-03-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6334,3 +6334,4 @@ If you need permission, you're thinking too much.
 | 6243 | 2026-03-29 18:40:04 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282734⭐ None) | [reels/reel_6243_awesome-selfhosted-awesome-selfhosted](reels/reel_6243_awesome-selfhosted-awesome-selfhosted) |
 | 6244 | 2026-03-29 19:20:59 | [DasAmpharos/EonTimer](https://github.com/DasAmpharos/EonTimer) | ✅ full (102⭐ TypeScript) | [reels/reel_6244_DasAmpharos-EonTimer](reels/reel_6244_DasAmpharos-EonTimer) |
 | 6245 | 2026-03-29 19:54:04 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102412⭐ Python) | [reels/reel_6245_deepseek-ai-DeepSeek-V3](reels/reel_6245_deepseek-ai-DeepSeek-V3) |
+| 6246 | 2026-03-29 20:29:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (113984⭐ TypeScript) | [reels/reel_6246_iptv-org-iptv](reels/reel_6246_iptv-org-iptv) |
