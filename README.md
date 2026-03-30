@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6252 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 106k | 2026-03-30 |
+| #6253 | [wunderwuzzi23/scratch](https://github.com/wunderwuzzi23/scratch) | Go · ⭐ 203 | 2026-03-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6341,3 +6341,4 @@ If you need permission, you're thinking too much.
 | 6250 | 2026-03-29 22:50:43 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (99460⭐ TypeScript) | [reels/reel_6250_google-gemini-gemini-cli](reels/reel_6250_google-gemini-gemini-cli) |
 | 6251 | 2026-03-29 23:30:29 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131516⭐ Python) | [reels/reel_6251_langchain-ai-langchain](reels/reel_6251_langchain-ai-langchain) |
 | 6252 | 2026-03-30 00:03:06 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (106197⭐ TypeScript) | [reels/reel_6252_clash-verge-rev-clash-verge-rev](reels/reel_6252_clash-verge-rev-clash-verge-rev) |
+| 6253 | 2026-03-30 03:41:07 | [wunderwuzzi23/scratch](https://github.com/wunderwuzzi23/scratch) | ✅ full (203⭐ Go) | [reels/reel_6253_wunderwuzzi23-scratch](reels/reel_6253_wunderwuzzi23-scratch) |
