@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6256 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-03-30 |
+| #6257 | [nirholas/pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | Rust · ⭐ 71 | 2026-03-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6345,3 +6345,4 @@ If you need permission, you're thinking too much.
 | 6254 | 2026-03-30 05:50:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (181654⭐ TypeScript) | [reels/reel_6254_n8n-io-n8n](reels/reel_6254_n8n-io-n8n) |
 | 6255 | 2026-03-30 07:25:12 | [minlearn/inst](https://github.com/minlearn/inst) | ✅ shallow (366⭐ Shell) | [reels/reel_6255_minlearn-inst](reels/reel_6255_minlearn-inst) |
 | 6256 | 2026-03-30 08:54:08 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114005⭐ TypeScript) | [reels/reel_6256_iptv-org-iptv](reels/reel_6256_iptv-org-iptv) |
+| 6257 | 2026-03-30 10:15:10 | [nirholas/pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | ✅ full (71⭐ Rust) | [reels/reel_6257_nirholas-pump-fun-sdk](reels/reel_6257_nirholas-pump-fun-sdk) |

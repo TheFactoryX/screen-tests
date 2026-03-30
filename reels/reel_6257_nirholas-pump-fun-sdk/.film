@@ -1,0 +1,24 @@
+{
+  "reel_number": 6257,
+  "recorded": "2026-03-30 10:15:10 UTC",
+  "repository": {
+    "full_name": "nirholas/pump-fun-sdk",
+    "url": "https://github.com/nirholas/pump-fun-sdk",
+    "clone_url": "https://github.com/nirholas/pump-fun-sdk.git",
+    "stars": 71,
+    "language": "Rust",
+    "size_kb": 77787
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 75,
+    "duration_seconds": 2.482957
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 71 stars."
+  }
+}
