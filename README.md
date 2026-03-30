@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6258 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 182k | 2026-03-30 |
+| #6259 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-03-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6347,3 +6347,4 @@ If you need permission, you're thinking too much.
 | 6256 | 2026-03-30 08:54:08 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114005⭐ TypeScript) | [reels/reel_6256_iptv-org-iptv](reels/reel_6256_iptv-org-iptv) |
 | 6257 | 2026-03-30 10:15:10 | [nirholas/pump-fun-sdk](https://github.com/nirholas/pump-fun-sdk) | ✅ full (71⭐ Rust) | [reels/reel_6257_nirholas-pump-fun-sdk](reels/reel_6257_nirholas-pump-fun-sdk) |
 | 6258 | 2026-03-30 11:29:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182942⭐ Python) | [reels/reel_6258_Significant-Gravitas-AutoGPT](reels/reel_6258_Significant-Gravitas-AutoGPT) |
+| 6259 | 2026-03-30 12:09:15 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111577⭐ Rust) | [reels/reel_6259_rust-lang-rust](reels/reel_6259_rust-lang-rust) |
