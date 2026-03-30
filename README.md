@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6270 | [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container) | Shell · ⭐ 163 | 2026-03-30 |
+| #6271 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 282k | 2026-03-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6359,3 +6359,4 @@ If you need permission, you're thinking too much.
 | 6268 | 2026-03-30 21:56:51 | [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS) | ✅ full (115⭐ Zig) | [reels/reel_6268_CascadeOS-CascadeOS](reels/reel_6268_CascadeOS-CascadeOS) |
 | 6269 | 2026-03-30 22:39:34 | [amirotin/telemt_panel](https://github.com/amirotin/telemt_panel) | ✅ full (176⭐ TypeScript) | [reels/reel_6269_amirotin-telemt_panel](reels/reel_6269_amirotin-telemt_panel) |
 | 6270 | 2026-03-30 23:20:09 | [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container) | ✅ full (163⭐ Shell) | [reels/reel_6270_NVIDIA-gpu-driver-container](reels/reel_6270_NVIDIA-gpu-driver-container) |
+| 6271 | 2026-03-30 23:58:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282999⭐ None) | [reels/reel_6271_awesome-selfhosted-awesome-selfhosted](reels/reel_6271_awesome-selfhosted-awesome-selfhosted) |
