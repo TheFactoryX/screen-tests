@@ -1,0 +1,24 @@
+{
+  "reel_number": 6270,
+  "recorded": "2026-03-30 23:20:09 UTC",
+  "repository": {
+    "full_name": "NVIDIA/gpu-driver-container",
+    "url": "https://github.com/NVIDIA/gpu-driver-container",
+    "clone_url": "https://github.com/NVIDIA/gpu-driver-container.git",
+    "stars": 163,
+    "language": "Shell",
+    "size_kb": 7277
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.013946
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 163 stars."
+  }
+}
