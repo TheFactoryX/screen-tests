@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6266 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 282k | 2026-03-30 |
+| #6267 | [layer-3/nitrolite](https://github.com/layer-3/nitrolite) | Go · ⭐ 30 | 2026-03-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6355,3 +6355,4 @@ If you need permission, you're thinking too much.
 | 6264 | 2026-03-30 18:38:23 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (118700⭐ JavaScript) | [reels/reel_6264_affaan-m-everything-claude-code](reels/reel_6264_affaan-m-everything-claude-code) |
 | 6265 | 2026-03-30 19:40:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (153994⭐ Python) | [reels/reel_6265_yt-dlp-yt-dlp](reels/reel_6265_yt-dlp-yt-dlp) |
 | 6266 | 2026-03-30 20:26:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (282970⭐ None) | [reels/reel_6266_awesome-selfhosted-awesome-selfhosted](reels/reel_6266_awesome-selfhosted-awesome-selfhosted) |
+| 6267 | 2026-03-30 21:08:07 | [layer-3/nitrolite](https://github.com/layer-3/nitrolite) | ✅ full (30⭐ Go) | [reels/reel_6267_layer-3-nitrolite](reels/reel_6267_layer-3-nitrolite) |
