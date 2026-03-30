@@ -1,0 +1,24 @@
+{
+  "reel_number": 6268,
+  "recorded": "2026-03-30 21:56:51 UTC",
+  "repository": {
+    "full_name": "CascadeOS/CascadeOS",
+    "url": "https://github.com/CascadeOS/CascadeOS",
+    "clone_url": "https://github.com/CascadeOS/CascadeOS.git",
+    "stars": 115,
+    "language": "Zig",
+    "size_kb": 6661
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.728813
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Zig",
+    "director_note": "A Zig repository. 115 stars."
+  }
+}
