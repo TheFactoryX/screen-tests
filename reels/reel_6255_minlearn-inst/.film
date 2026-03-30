@@ -1,0 +1,24 @@
+{
+  "reel_number": 6255,
+  "recorded": "2026-03-30 07:25:12 UTC",
+  "repository": {
+    "full_name": "minlearn/inst",
+    "url": "https://github.com/minlearn/inst",
+    "clone_url": "https://github.com/minlearn/inst.git",
+    "stars": 366,
+    "language": "Shell",
+    "size_kb": 277864
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 271,
+    "duration_seconds": 2.891413
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 366 stars."
+  }
+}
