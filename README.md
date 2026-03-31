@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6282 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 131k | 2026-03-31 |
+| #6283 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 154k | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6371,3 +6371,4 @@ If you need permission, you're thinking too much.
 | 6280 | 2026-03-31 14:14:04 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (104680⭐ Shell) | [reels/reel_6280_papers-we-love-papers-we-love](reels/reel_6280_papers-we-love-papers-we-love) |
 | 6281 | 2026-03-31 15:37:40 | [abitofhelp/functional](https://github.com/abitofhelp/functional) | ✅ full (12⭐ Ada) | [reels/reel_6281_abitofhelp-functional](reels/reel_6281_abitofhelp-functional) |
 | 6282 | 2026-03-31 16:39:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131788⭐ Python) | [reels/reel_6282_langchain-ai-langchain](reels/reel_6282_langchain-ai-langchain) |
+| 6283 | 2026-03-31 17:39:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154144⭐ Python) | [reels/reel_6283_yt-dlp-yt-dlp](reels/reel_6283_yt-dlp-yt-dlp) |
