@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6288 | [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) | Python · ⭐ 1k | 2026-03-31 |
+| #6289 | [Project-Pandora-Game/pandora](https://github.com/Project-Pandora-Game/pandora) | TypeScript · ⭐ 14 | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6377,3 +6377,4 @@ If you need permission, you're thinking too much.
 | 6286 | 2026-03-31 20:25:24 | [opensearch-project/security](https://github.com/opensearch-project/security) | ✅ full (239⭐ Java) | [reels/reel_6286_opensearch-project-security](reels/reel_6286_opensearch-project-security) |
 | 6287 | 2026-03-31 21:02:27 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262079⭐ None) | [reels/reel_6287_practical-tutorials-project-based-learning](reels/reel_6287_practical-tutorials-project-based-learning) |
 | 6288 | 2026-03-31 21:54:33 | [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) | ✅ full (1790⭐ Python) | [reels/reel_6288_pirxthepilot-wtfis](reels/reel_6288_pirxthepilot-wtfis) |
+| 6289 | 2026-03-31 22:33:10 | [Project-Pandora-Game/pandora](https://github.com/Project-Pandora-Game/pandora) | ✅ full (14⭐ TypeScript) | [reels/reel_6289_Project-Pandora-Game-pandora](reels/reel_6289_Project-Pandora-Game-pandora) |
