@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6286 | [opensearch-project/security](https://github.com/opensearch-project/security) | Java · ⭐ 239 | 2026-03-31 |
+| #6287 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 262k | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6375,3 +6375,4 @@ If you need permission, you're thinking too much.
 | 6284 | 2026-03-31 18:37:48 | [OpenC3/cosmos](https://github.com/OpenC3/cosmos) | ✅ readme_only (214⭐ Ruby) | [reels/reel_6284_OpenC3-cosmos](reels/reel_6284_OpenC3-cosmos) |
 | 6285 | 2026-03-31 19:40:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146436⭐ Python) | [reels/reel_6285_langflow-ai-langflow](reels/reel_6285_langflow-ai-langflow) |
 | 6286 | 2026-03-31 20:25:24 | [opensearch-project/security](https://github.com/opensearch-project/security) | ✅ full (239⭐ Java) | [reels/reel_6286_opensearch-project-security](reels/reel_6286_opensearch-project-security) |
+| 6287 | 2026-03-31 21:02:27 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262079⭐ None) | [reels/reel_6287_practical-tutorials-project-based-learning](reels/reel_6287_practical-tutorials-project-based-learning) |
