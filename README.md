@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6278 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 111k | 2026-03-31 |
+| #6279 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 129k | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6367,3 +6367,4 @@ If you need permission, you're thinking too much.
 | 6276 | 2026-03-31 09:16:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182978⭐ Python) | [reels/reel_6276_Significant-Gravitas-AutoGPT](reels/reel_6276_Significant-Gravitas-AutoGPT) |
 | 6277 | 2026-03-31 10:33:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154094⭐ Python) | [reels/reel_6277_yt-dlp-yt-dlp](reels/reel_6277_yt-dlp-yt-dlp) |
 | 6278 | 2026-03-31 11:34:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111117⭐ TypeScript) | [reels/reel_6278_shadcn-ui-ui](reels/reel_6278_shadcn-ui-ui) |
+| 6279 | 2026-03-31 12:39:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129397⭐ Python) | [reels/reel_6279_open-webui-open-webui](reels/reel_6279_open-webui-open-webui) |
