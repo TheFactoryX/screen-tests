@@ -1,0 +1,24 @@
+{
+  "reel_number": 6286,
+  "recorded": "2026-03-31 20:25:24 UTC",
+  "repository": {
+    "full_name": "opensearch-project/security",
+    "url": "https://github.com/opensearch-project/security",
+    "clone_url": "https://github.com/opensearch-project/security.git",
+    "stars": 239,
+    "language": "Java",
+    "size_kb": 96389
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 94,
+    "duration_seconds": 3.621583
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 239 stars."
+  }
+}

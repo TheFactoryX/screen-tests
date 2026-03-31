@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6285 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-03-31 |
+| #6286 | [opensearch-project/security](https://github.com/opensearch-project/security) | Java · ⭐ 239 | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6374,3 +6374,4 @@ If you need permission, you're thinking too much.
 | 6283 | 2026-03-31 17:39:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154144⭐ Python) | [reels/reel_6283_yt-dlp-yt-dlp](reels/reel_6283_yt-dlp-yt-dlp) |
 | 6284 | 2026-03-31 18:37:48 | [OpenC3/cosmos](https://github.com/OpenC3/cosmos) | ✅ readme_only (214⭐ Ruby) | [reels/reel_6284_OpenC3-cosmos](reels/reel_6284_OpenC3-cosmos) |
 | 6285 | 2026-03-31 19:40:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146436⭐ Python) | [reels/reel_6285_langflow-ai-langflow](reels/reel_6285_langflow-ai-langflow) |
+| 6286 | 2026-03-31 20:25:24 | [opensearch-project/security](https://github.com/opensearch-project/security) | ✅ full (239⭐ Java) | [reels/reel_6286_opensearch-project-security](reels/reel_6286_opensearch-project-security) |
