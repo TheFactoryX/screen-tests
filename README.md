@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6283 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 154k | 2026-03-31 |
+| #6284 | [OpenC3/cosmos](https://github.com/OpenC3/cosmos) | Ruby · ⭐ 214 | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6372,3 +6372,4 @@ If you need permission, you're thinking too much.
 | 6281 | 2026-03-31 15:37:40 | [abitofhelp/functional](https://github.com/abitofhelp/functional) | ✅ full (12⭐ Ada) | [reels/reel_6281_abitofhelp-functional](reels/reel_6281_abitofhelp-functional) |
 | 6282 | 2026-03-31 16:39:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131788⭐ Python) | [reels/reel_6282_langchain-ai-langchain](reels/reel_6282_langchain-ai-langchain) |
 | 6283 | 2026-03-31 17:39:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154144⭐ Python) | [reels/reel_6283_yt-dlp-yt-dlp](reels/reel_6283_yt-dlp-yt-dlp) |
+| 6284 | 2026-03-31 18:37:48 | [OpenC3/cosmos](https://github.com/OpenC3/cosmos) | ✅ readme_only (214⭐ Ruby) | [reels/reel_6284_OpenC3-cosmos](reels/reel_6284_OpenC3-cosmos) |

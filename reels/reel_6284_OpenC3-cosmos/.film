@@ -1,0 +1,24 @@
+{
+  "reel_number": 6284,
+  "recorded": "2026-03-31 18:37:48 UTC",
+  "repository": {
+    "full_name": "OpenC3/cosmos",
+    "url": "https://github.com/OpenC3/cosmos",
+    "clone_url": "https://github.com/OpenC3/cosmos.git",
+    "stars": 214,
+    "language": "Ruby",
+    "size_kb": 878747
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 858,
+    "duration_seconds": 0.000142
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 214 stars."
+  }
+}
