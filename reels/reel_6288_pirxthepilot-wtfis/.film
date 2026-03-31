@@ -1,0 +1,24 @@
+{
+  "reel_number": 6288,
+  "recorded": "2026-03-31 21:54:33 UTC",
+  "repository": {
+    "full_name": "pirxthepilot/wtfis",
+    "url": "https://github.com/pirxthepilot/wtfis",
+    "clone_url": "https://github.com/pirxthepilot/wtfis.git",
+    "stars": 1790,
+    "language": "Python",
+    "size_kb": 2056
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.464479
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 1790 stars."
+  }
+}
