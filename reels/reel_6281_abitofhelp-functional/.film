@@ -1,0 +1,24 @@
+{
+  "reel_number": 6281,
+  "recorded": "2026-03-31 15:37:40 UTC",
+  "repository": {
+    "full_name": "abitofhelp/functional",
+    "url": "https://github.com/abitofhelp/functional",
+    "clone_url": "https://github.com/abitofhelp/functional.git",
+    "stars": 12,
+    "language": "Ada",
+    "size_kb": 24984
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 2.117793
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ada",
+    "director_note": "A Ada repository. 12 stars."
+  }
+}

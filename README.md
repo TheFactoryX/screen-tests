@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6280 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 104k | 2026-03-31 |
+| #6281 | [abitofhelp/functional](https://github.com/abitofhelp/functional) | Ada · ⭐ 12 | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6369,3 +6369,4 @@ If you need permission, you're thinking too much.
 | 6278 | 2026-03-31 11:34:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111117⭐ TypeScript) | [reels/reel_6278_shadcn-ui-ui](reels/reel_6278_shadcn-ui-ui) |
 | 6279 | 2026-03-31 12:39:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129397⭐ Python) | [reels/reel_6279_open-webui-open-webui](reels/reel_6279_open-webui-open-webui) |
 | 6280 | 2026-03-31 14:14:04 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (104680⭐ Shell) | [reels/reel_6280_papers-we-love-papers-we-love](reels/reel_6280_papers-we-love-papers-we-love) |
+| 6281 | 2026-03-31 15:37:40 | [abitofhelp/functional](https://github.com/abitofhelp/functional) | ✅ full (12⭐ Ada) | [reels/reel_6281_abitofhelp-functional](reels/reel_6281_abitofhelp-functional) |
