@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6277 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 154k | 2026-03-31 |
+| #6278 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 111k | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6366,3 +6366,4 @@ If you need permission, you're thinking too much.
 | 6275 | 2026-03-31 08:07:08 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (121721⭐ JavaScript) | [reels/reel_6275_affaan-m-everything-claude-code](reels/reel_6275_affaan-m-everything-claude-code) |
 | 6276 | 2026-03-31 09:16:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (182978⭐ Python) | [reels/reel_6276_Significant-Gravitas-AutoGPT](reels/reel_6276_Significant-Gravitas-AutoGPT) |
 | 6277 | 2026-03-31 10:33:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154094⭐ Python) | [reels/reel_6277_yt-dlp-yt-dlp](reels/reel_6277_yt-dlp-yt-dlp) |
+| 6278 | 2026-03-31 11:34:18 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111117⭐ TypeScript) | [reels/reel_6278_shadcn-ui-ui](reels/reel_6278_shadcn-ui-ui) |
