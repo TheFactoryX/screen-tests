@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6284 | [OpenC3/cosmos](https://github.com/OpenC3/cosmos) | Ruby · ⭐ 214 | 2026-03-31 |
+| #6285 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-03-31 |
 ---
 
 ## 🎭 Selection Process
@@ -6373,3 +6373,4 @@ If you need permission, you're thinking too much.
 | 6282 | 2026-03-31 16:39:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (131788⭐ Python) | [reels/reel_6282_langchain-ai-langchain](reels/reel_6282_langchain-ai-langchain) |
 | 6283 | 2026-03-31 17:39:28 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154144⭐ Python) | [reels/reel_6283_yt-dlp-yt-dlp](reels/reel_6283_yt-dlp-yt-dlp) |
 | 6284 | 2026-03-31 18:37:48 | [OpenC3/cosmos](https://github.com/OpenC3/cosmos) | ✅ readme_only (214⭐ Ruby) | [reels/reel_6284_OpenC3-cosmos](reels/reel_6284_OpenC3-cosmos) |
+| 6285 | 2026-03-31 19:40:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146436⭐ Python) | [reels/reel_6285_langflow-ai-langflow](reels/reel_6285_langflow-ai-langflow) |
