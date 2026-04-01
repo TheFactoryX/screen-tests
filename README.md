@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6292 | [EricRhysTaylor/Radial-Timeline](https://github.com/EricRhysTaylor/Radial-Timeline) | TypeScript · ⭐ 42 | 2026-04-01 |
+| #6293 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 129k | 2026-04-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6381,3 +6381,4 @@ If you need permission, you're thinking too much.
 | 6290 | 2026-03-31 23:04:55 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (99721⭐ TypeScript) | [reels/reel_6290_google-gemini-gemini-cli](reels/reel_6290_google-gemini-gemini-cli) |
 | 6291 | 2026-03-31 23:48:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (283193⭐ None) | [reels/reel_6291_awesome-selfhosted-awesome-selfhosted](reels/reel_6291_awesome-selfhosted-awesome-selfhosted) |
 | 6292 | 2026-04-01 02:28:05 | [EricRhysTaylor/Radial-Timeline](https://github.com/EricRhysTaylor/Radial-Timeline) | ✅ full (42⭐ TypeScript) | [reels/reel_6292_EricRhysTaylor-Radial-Timeline](reels/reel_6292_EricRhysTaylor-Radial-Timeline) |
+| 6293 | 2026-04-01 05:11:55 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129487⭐ Python) | [reels/reel_6293_open-webui-open-webui](reels/reel_6293_open-webui-open-webui) |
