@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6308 | [shpongledsummer/atmospheric-weather-card](https://github.com/shpongledsummer/atmospheric-weather-card) | JavaScript · ⭐ 144 | 2026-04-01 |
+| #6309 | [instructkr/claw-code](https://github.com/instructkr/claw-code) | Rust · ⭐ 118k | 2026-04-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6397,3 +6397,4 @@ If you need permission, you're thinking too much.
 | 6306 | 2026-04-01 20:56:10 | [mightycow/Sluggish](https://github.com/mightycow/Sluggish) | ✅ full (180⭐ C) | [reels/reel_6306_mightycow-Sluggish](reels/reel_6306_mightycow-Sluggish) |
 | 6307 | 2026-04-01 21:42:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154324⭐ Python) | [reels/reel_6307_yt-dlp-yt-dlp](reels/reel_6307_yt-dlp-yt-dlp) |
 | 6308 | 2026-04-01 22:20:51 | [shpongledsummer/atmospheric-weather-card](https://github.com/shpongledsummer/atmospheric-weather-card) | ✅ full (144⭐ JavaScript) | [reels/reel_6308_shpongledsummer-atmospheric-weather-card](reels/reel_6308_shpongledsummer-atmospheric-weather-card) |
+| 6309 | 2026-04-01 23:04:17 | [instructkr/claw-code](https://github.com/instructkr/claw-code) | ✅ full (118102⭐ Rust) | [reels/reel_6309_instructkr-claw-code](reels/reel_6309_instructkr-claw-code) |
