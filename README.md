@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6301 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 129k | 2026-04-01 |
+| #6302 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 154k | 2026-04-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6390,3 +6390,4 @@ If you need permission, you're thinking too much.
 | 6299 | 2026-04-01 12:42:04 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139963⭐ Python) | [reels/reel_6299_ytdl-org-youtube-dl](reels/reel_6299_ytdl-org-youtube-dl) |
 | 6300 | 2026-04-01 14:17:33 | [AztecProtocol/aztec-packages](https://github.com/AztecProtocol/aztec-packages) | ✅ readme_only (436⭐ C++) | [reels/reel_6300_AztecProtocol-aztec-packages](reels/reel_6300_AztecProtocol-aztec-packages) |
 | 6301 | 2026-04-01 15:51:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129534⭐ Python) | [reels/reel_6301_open-webui-open-webui](reels/reel_6301_open-webui-open-webui) |
+| 6302 | 2026-04-01 16:52:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154295⭐ Python) | [reels/reel_6302_yt-dlp-yt-dlp](reels/reel_6302_yt-dlp-yt-dlp) |
