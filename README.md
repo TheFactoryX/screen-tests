@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6295 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 128k | 2026-04-01 |
+| #6296 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 100k | 2026-04-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6384,3 +6384,4 @@ If you need permission, you're thinking too much.
 | 6293 | 2026-04-01 05:11:55 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129487⭐ Python) | [reels/reel_6293_open-webui-open-webui](reels/reel_6293_open-webui-open-webui) |
 | 6294 | 2026-04-01 06:54:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114093⭐ TypeScript) | [reels/reel_6294_iptv-org-iptv](reels/reel_6294_iptv-org-iptv) |
 | 6295 | 2026-04-01 08:14:33 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (128804⭐ JavaScript) | [reels/reel_6295_affaan-m-everything-claude-code](reels/reel_6295_affaan-m-everything-claude-code) |
+| 6296 | 2026-04-01 09:37:21 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (100502⭐ C++) | [reels/reel_6296_ggml-org-llama.cpp](reels/reel_6296_ggml-org-llama.cpp) |
