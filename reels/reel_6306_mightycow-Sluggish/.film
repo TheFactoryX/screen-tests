@@ -1,0 +1,24 @@
+{
+  "reel_number": 6306,
+  "recorded": "2026-04-01 20:56:10 UTC",
+  "repository": {
+    "full_name": "mightycow/Sluggish",
+    "url": "https://github.com/mightycow/Sluggish",
+    "clone_url": "https://github.com/mightycow/Sluggish.git",
+    "stars": 180,
+    "language": "C",
+    "size_kb": 2327
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.295702
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 180 stars."
+  }
+}
