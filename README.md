@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6307 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 154k | 2026-04-01 |
+| #6308 | [shpongledsummer/atmospheric-weather-card](https://github.com/shpongledsummer/atmospheric-weather-card) | JavaScript · ⭐ 144 | 2026-04-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6396,3 +6396,4 @@ If you need permission, you're thinking too much.
 | 6305 | 2026-04-01 19:59:49 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (100575⭐ C++) | [reels/reel_6305_ggml-org-llama.cpp](reels/reel_6305_ggml-org-llama.cpp) |
 | 6306 | 2026-04-01 20:56:10 | [mightycow/Sluggish](https://github.com/mightycow/Sluggish) | ✅ full (180⭐ C) | [reels/reel_6306_mightycow-Sluggish](reels/reel_6306_mightycow-Sluggish) |
 | 6307 | 2026-04-01 21:42:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154324⭐ Python) | [reels/reel_6307_yt-dlp-yt-dlp](reels/reel_6307_yt-dlp-yt-dlp) |
+| 6308 | 2026-04-01 22:20:51 | [shpongledsummer/atmospheric-weather-card](https://github.com/shpongledsummer/atmospheric-weather-card) | ✅ full (144⭐ JavaScript) | [reels/reel_6308_shpongledsummer-atmospheric-weather-card](reels/reel_6308_shpongledsummer-atmospheric-weather-card) |
