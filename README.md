@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6298 | [eddelbuettel/littler](https://github.com/eddelbuettel/littler) | R · ⭐ 329 | 2026-04-01 |
+| #6299 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-04-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6387,3 +6387,4 @@ If you need permission, you're thinking too much.
 | 6296 | 2026-04-01 09:37:21 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (100502⭐ C++) | [reels/reel_6296_ggml-org-llama.cpp](reels/reel_6296_ggml-org-llama.cpp) |
 | 6297 | 2026-04-01 10:39:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146453⭐ Python) | [reels/reel_6297_langflow-ai-langflow](reels/reel_6297_langflow-ai-langflow) |
 | 6298 | 2026-04-01 11:36:27 | [eddelbuettel/littler](https://github.com/eddelbuettel/littler) | ✅ full (329⭐ R) | [reels/reel_6298_eddelbuettel-littler](reels/reel_6298_eddelbuettel-littler) |
+| 6299 | 2026-04-01 12:42:04 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139963⭐ Python) | [reels/reel_6299_ytdl-org-youtube-dl](reels/reel_6299_ytdl-org-youtube-dl) |
