@@ -1,0 +1,24 @@
+{
+  "reel_number": 6292,
+  "recorded": "2026-04-01 02:28:05 UTC",
+  "repository": {
+    "full_name": "EricRhysTaylor/Radial-Timeline",
+    "url": "https://github.com/EricRhysTaylor/Radial-Timeline",
+    "clone_url": "https://github.com/EricRhysTaylor/Radial-Timeline.git",
+    "stars": 42,
+    "language": "TypeScript",
+    "size_kb": 67389
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 65,
+    "duration_seconds": 2.669901
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 42 stars."
+  }
+}
