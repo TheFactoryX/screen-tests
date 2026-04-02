@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6330 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 133k | 2026-04-02 |
+| #6331 | [mikavilpas/tui-sandbox](https://github.com/mikavilpas/tui-sandbox) | TypeScript · ⭐ 12 | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6419,3 +6419,4 @@ If you need permission, you're thinking too much.
 | 6328 | 2026-04-02 22:00:16 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100021⭐ TypeScript) | [reels/reel_6328_google-gemini-gemini-cli](reels/reel_6328_google-gemini-gemini-cli) |
 | 6329 | 2026-04-02 22:41:59 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183067⭐ Python) | [reels/reel_6329_Significant-Gravitas-AutoGPT](reels/reel_6329_Significant-Gravitas-AutoGPT) |
 | 6330 | 2026-04-02 23:16:58 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (133518⭐ JavaScript) | [reels/reel_6330_affaan-m-everything-claude-code](reels/reel_6330_affaan-m-everything-claude-code) |
+| 6331 | 2026-04-02 23:57:13 | [mikavilpas/tui-sandbox](https://github.com/mikavilpas/tui-sandbox) | ✅ full (12⭐ TypeScript) | [reels/reel_6331_mikavilpas-tui-sandbox](reels/reel_6331_mikavilpas-tui-sandbox) |

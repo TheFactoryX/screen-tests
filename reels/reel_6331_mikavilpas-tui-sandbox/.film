@@ -1,0 +1,24 @@
+{
+  "reel_number": 6331,
+  "recorded": "2026-04-02 23:57:13 UTC",
+  "repository": {
+    "full_name": "mikavilpas/tui-sandbox",
+    "url": "https://github.com/mikavilpas/tui-sandbox",
+    "clone_url": "https://github.com/mikavilpas/tui-sandbox.git",
+    "stars": 12,
+    "language": "TypeScript",
+    "size_kb": 5494
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.549097
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 12 stars."
+  }
+}
