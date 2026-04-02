@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6326 | [v1r3n/dinesh-gilfoyle](https://github.com/v1r3n/dinesh-gilfoyle) | HTML · ⭐ 156 | 2026-04-02 |
+| #6327 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | Shell · ⭐ 139 | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6415,3 +6415,4 @@ If you need permission, you're thinking too much.
 | 6324 | 2026-04-02 18:00:16 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (283539⭐ None) | [reels/reel_6324_awesome-selfhosted-awesome-selfhosted](reels/reel_6324_awesome-selfhosted-awesome-selfhosted) |
 | 6325 | 2026-04-02 19:56:19 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102459⭐ Python) | [reels/reel_6325_deepseek-ai-DeepSeek-V3](reels/reel_6325_deepseek-ai-DeepSeek-V3) |
 | 6326 | 2026-04-02 20:36:37 | [v1r3n/dinesh-gilfoyle](https://github.com/v1r3n/dinesh-gilfoyle) | ✅ full (156⭐ HTML) | [reels/reel_6326_v1r3n-dinesh-gilfoyle](reels/reel_6326_v1r3n-dinesh-gilfoyle) |
+| 6327 | 2026-04-02 21:20:04 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | ✅ shallow (139⭐ Shell) | [reels/reel_6327_jvm-repo-rebuild-reproducible-central](reels/reel_6327_jvm-repo-rebuild-reproducible-central) |
