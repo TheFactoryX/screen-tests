@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6315 | [ingamedeo/orangepi3-h6-mainline](https://github.com/ingamedeo/orangepi3-h6-mainline) | None · ⭐ 25 | 2026-04-02 |
+| #6316 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 109k | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6404,3 +6404,4 @@ If you need permission, you're thinking too much.
 | 6313 | 2026-04-02 06:01:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114117⭐ TypeScript) | [reels/reel_6313_iptv-org-iptv](reels/reel_6313_iptv-org-iptv) |
 | 6314 | 2026-04-02 07:40:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111625⭐ Rust) | [reels/reel_6314_rust-lang-rust](reels/reel_6314_rust-lang-rust) |
 | 6315 | 2026-04-02 08:38:23 | [ingamedeo/orangepi3-h6-mainline](https://github.com/ingamedeo/orangepi3-h6-mainline) | ✅ shallow (25⭐ None) | [reels/reel_6315_ingamedeo-orangepi3-h6-mainline](reels/reel_6315_ingamedeo-orangepi3-h6-mainline) |
+| 6316 | 2026-04-02 09:43:18 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109480⭐ None) | [reels/reel_6316_Hack-with-Github-Awesome-Hacking](reels/reel_6316_Hack-with-Github-Awesome-Hacking) |
