@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6322 | [stippi/code-assistant](https://github.com/stippi/code-assistant) | Rust · ⭐ 159 | 2026-04-02 |
+| #6323 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 182k | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6411,3 +6411,4 @@ If you need permission, you're thinking too much.
 | 6320 | 2026-04-02 14:07:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146501⭐ Python) | [reels/reel_6320_langflow-ai-langflow](reels/reel_6320_langflow-ai-langflow) |
 | 6321 | 2026-04-02 15:15:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111634⭐ Rust) | [reels/reel_6321_rust-lang-rust](reels/reel_6321_rust-lang-rust) |
 | 6322 | 2026-04-02 16:12:54 | [stippi/code-assistant](https://github.com/stippi/code-assistant) | ✅ full (159⭐ Rust) | [reels/reel_6322_stippi-code-assistant](reels/reel_6322_stippi-code-assistant) |
+| 6323 | 2026-04-02 17:10:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182188⭐ TypeScript) | [reels/reel_6323_n8n-io-n8n](reels/reel_6323_n8n-io-n8n) |
