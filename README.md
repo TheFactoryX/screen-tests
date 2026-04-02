@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6320 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-04-02 |
+| #6321 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6409,3 +6409,4 @@ If you need permission, you're thinking too much.
 | 6318 | 2026-04-02 11:32:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111304⭐ TypeScript) | [reels/reel_6318_shadcn-ui-ui](reels/reel_6318_shadcn-ui-ui) |
 | 6319 | 2026-04-02 12:37:42 | [Techopolis/Perspective-Server](https://github.com/Techopolis/Perspective-Server) | ✅ full (171⭐ Swift) | [reels/reel_6319_Techopolis-Perspective-Server](reels/reel_6319_Techopolis-Perspective-Server) |
 | 6320 | 2026-04-02 14:07:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146501⭐ Python) | [reels/reel_6320_langflow-ai-langflow](reels/reel_6320_langflow-ai-langflow) |
+| 6321 | 2026-04-02 15:15:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111634⭐ Rust) | [reels/reel_6321_rust-lang-rust](reels/reel_6321_rust-lang-rust) |
