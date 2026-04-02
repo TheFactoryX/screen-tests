@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6324 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 283k | 2026-04-02 |
+| #6325 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6413,3 +6413,4 @@ If you need permission, you're thinking too much.
 | 6322 | 2026-04-02 16:12:54 | [stippi/code-assistant](https://github.com/stippi/code-assistant) | ✅ full (159⭐ Rust) | [reels/reel_6322_stippi-code-assistant](reels/reel_6322_stippi-code-assistant) |
 | 6323 | 2026-04-02 17:10:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182188⭐ TypeScript) | [reels/reel_6323_n8n-io-n8n](reels/reel_6323_n8n-io-n8n) |
 | 6324 | 2026-04-02 18:00:16 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (283539⭐ None) | [reels/reel_6324_awesome-selfhosted-awesome-selfhosted](reels/reel_6324_awesome-selfhosted-awesome-selfhosted) |
+| 6325 | 2026-04-02 19:56:19 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102459⭐ Python) | [reels/reel_6325_deepseek-ai-DeepSeek-V3](reels/reel_6325_deepseek-ai-DeepSeek-V3) |
