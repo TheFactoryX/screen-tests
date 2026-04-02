@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6310 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 130k | 2026-04-01 |
+| #6311 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 129k | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6399,3 +6399,4 @@ If you need permission, you're thinking too much.
 | 6308 | 2026-04-01 22:20:51 | [shpongledsummer/atmospheric-weather-card](https://github.com/shpongledsummer/atmospheric-weather-card) | ✅ full (144⭐ JavaScript) | [reels/reel_6308_shpongledsummer-atmospheric-weather-card](reels/reel_6308_shpongledsummer-atmospheric-weather-card) |
 | 6309 | 2026-04-01 23:04:17 | [instructkr/claw-code](https://github.com/instructkr/claw-code) | ✅ full (118102⭐ Rust) | [reels/reel_6309_instructkr-claw-code](reels/reel_6309_instructkr-claw-code) |
 | 6310 | 2026-04-01 23:49:53 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (130912⭐ JavaScript) | [reels/reel_6310_affaan-m-everything-claude-code](reels/reel_6310_affaan-m-everything-claude-code) |
+| 6311 | 2026-04-02 02:07:25 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129577⭐ Python) | [reels/reel_6311_open-webui-open-webui](reels/reel_6311_open-webui-open-webui) |
