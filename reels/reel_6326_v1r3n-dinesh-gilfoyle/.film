@@ -1,0 +1,24 @@
+{
+  "reel_number": 6326,
+  "recorded": "2026-04-02 20:36:37 UTC",
+  "repository": {
+    "full_name": "v1r3n/dinesh-gilfoyle",
+    "url": "https://github.com/v1r3n/dinesh-gilfoyle",
+    "clone_url": "https://github.com/v1r3n/dinesh-gilfoyle.git",
+    "stars": 156,
+    "language": "HTML",
+    "size_kb": 76
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.150585
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 156 stars."
+  }
+}

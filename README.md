@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6325 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-04-02 |
+| #6326 | [v1r3n/dinesh-gilfoyle](https://github.com/v1r3n/dinesh-gilfoyle) | HTML · ⭐ 156 | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6414,3 +6414,4 @@ If you need permission, you're thinking too much.
 | 6323 | 2026-04-02 17:10:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182188⭐ TypeScript) | [reels/reel_6323_n8n-io-n8n](reels/reel_6323_n8n-io-n8n) |
 | 6324 | 2026-04-02 18:00:16 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (283539⭐ None) | [reels/reel_6324_awesome-selfhosted-awesome-selfhosted](reels/reel_6324_awesome-selfhosted-awesome-selfhosted) |
 | 6325 | 2026-04-02 19:56:19 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102459⭐ Python) | [reels/reel_6325_deepseek-ai-DeepSeek-V3](reels/reel_6325_deepseek-ai-DeepSeek-V3) |
+| 6326 | 2026-04-02 20:36:37 | [v1r3n/dinesh-gilfoyle](https://github.com/v1r3n/dinesh-gilfoyle) | ✅ full (156⭐ HTML) | [reels/reel_6326_v1r3n-dinesh-gilfoyle](reels/reel_6326_v1r3n-dinesh-gilfoyle) |
