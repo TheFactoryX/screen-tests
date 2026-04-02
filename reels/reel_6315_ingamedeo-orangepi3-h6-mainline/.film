@@ -1,0 +1,24 @@
+{
+  "reel_number": 6315,
+  "recorded": "2026-04-02 08:38:23 UTC",
+  "repository": {
+    "full_name": "ingamedeo/orangepi3-h6-mainline",
+    "url": "https://github.com/ingamedeo/orangepi3-h6-mainline",
+    "clone_url": "https://github.com/ingamedeo/orangepi3-h6-mainline.git",
+    "stars": 25,
+    "language": null,
+    "size_kb": 214161
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 209,
+    "duration_seconds": 16.42423
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 25 stars."
+  }
+}
