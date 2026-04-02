@@ -1,0 +1,24 @@
+{
+  "reel_number": 6319,
+  "recorded": "2026-04-02 12:37:42 UTC",
+  "repository": {
+    "full_name": "Techopolis/Perspective-Server",
+    "url": "https://github.com/Techopolis/Perspective-Server",
+    "clone_url": "https://github.com/Techopolis/Perspective-Server.git",
+    "stars": 171,
+    "language": "Swift",
+    "size_kb": 4240
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.555148
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 171 stars."
+  }
+}

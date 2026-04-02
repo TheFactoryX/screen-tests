@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6318 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 111k | 2026-04-02 |
+| #6319 | [Techopolis/Perspective-Server](https://github.com/Techopolis/Perspective-Server) | Swift · ⭐ 171 | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6407,3 +6407,4 @@ If you need permission, you're thinking too much.
 | 6316 | 2026-04-02 09:43:18 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109480⭐ None) | [reels/reel_6316_Hack-with-Github-Awesome-Hacking](reels/reel_6316_Hack-with-Github-Awesome-Hacking) |
 | 6317 | 2026-04-02 10:37:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129622⭐ Python) | [reels/reel_6317_open-webui-open-webui](reels/reel_6317_open-webui-open-webui) |
 | 6318 | 2026-04-02 11:32:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111304⭐ TypeScript) | [reels/reel_6318_shadcn-ui-ui](reels/reel_6318_shadcn-ui-ui) |
+| 6319 | 2026-04-02 12:37:42 | [Techopolis/Perspective-Server](https://github.com/Techopolis/Perspective-Server) | ✅ full (171⭐ Swift) | [reels/reel_6319_Techopolis-Perspective-Server](reels/reel_6319_Techopolis-Perspective-Server) |
