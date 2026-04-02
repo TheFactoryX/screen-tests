@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6328 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 100k | 2026-04-02 |
+| #6329 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6417,3 +6417,4 @@ If you need permission, you're thinking too much.
 | 6326 | 2026-04-02 20:36:37 | [v1r3n/dinesh-gilfoyle](https://github.com/v1r3n/dinesh-gilfoyle) | ✅ full (156⭐ HTML) | [reels/reel_6326_v1r3n-dinesh-gilfoyle](reels/reel_6326_v1r3n-dinesh-gilfoyle) |
 | 6327 | 2026-04-02 21:20:04 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | ✅ shallow (139⭐ Shell) | [reels/reel_6327_jvm-repo-rebuild-reproducible-central](reels/reel_6327_jvm-repo-rebuild-reproducible-central) |
 | 6328 | 2026-04-02 22:00:16 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100021⭐ TypeScript) | [reels/reel_6328_google-gemini-gemini-cli](reels/reel_6328_google-gemini-gemini-cli) |
+| 6329 | 2026-04-02 22:41:59 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183067⭐ Python) | [reels/reel_6329_Significant-Gravitas-AutoGPT](reels/reel_6329_Significant-Gravitas-AutoGPT) |
