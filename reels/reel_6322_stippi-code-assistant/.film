@@ -1,0 +1,24 @@
+{
+  "reel_number": 6322,
+  "recorded": "2026-04-02 16:12:54 UTC",
+  "repository": {
+    "full_name": "stippi/code-assistant",
+    "url": "https://github.com/stippi/code-assistant",
+    "clone_url": "https://github.com/stippi/code-assistant.git",
+    "stars": 159,
+    "language": "Rust",
+    "size_kb": 3070
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.56686
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 159 stars."
+  }
+}
