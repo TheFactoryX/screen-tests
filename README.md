@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6317 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 129k | 2026-04-02 |
+| #6318 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 111k | 2026-04-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6406,3 +6406,4 @@ If you need permission, you're thinking too much.
 | 6315 | 2026-04-02 08:38:23 | [ingamedeo/orangepi3-h6-mainline](https://github.com/ingamedeo/orangepi3-h6-mainline) | ✅ shallow (25⭐ None) | [reels/reel_6315_ingamedeo-orangepi3-h6-mainline](reels/reel_6315_ingamedeo-orangepi3-h6-mainline) |
 | 6316 | 2026-04-02 09:43:18 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109480⭐ None) | [reels/reel_6316_Hack-with-Github-Awesome-Hacking](reels/reel_6316_Hack-with-Github-Awesome-Hacking) |
 | 6317 | 2026-04-02 10:37:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129622⭐ Python) | [reels/reel_6317_open-webui-open-webui](reels/reel_6317_open-webui-open-webui) |
+| 6318 | 2026-04-02 11:32:16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111304⭐ TypeScript) | [reels/reel_6318_shadcn-ui-ui](reels/reel_6318_shadcn-ui-ui) |
