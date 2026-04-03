@@ -1,0 +1,24 @@
+{
+  "reel_number": 6342,
+  "recorded": "2026-04-03 15:01:08 UTC",
+  "repository": {
+    "full_name": "ZhixiangLuo/10xProductivity",
+    "url": "https://github.com/ZhixiangLuo/10xProductivity",
+    "clone_url": "https://github.com/ZhixiangLuo/10xProductivity.git",
+    "stars": 120,
+    "language": "Python",
+    "size_kb": 404
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.177778
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 120 stars."
+  }
+}
