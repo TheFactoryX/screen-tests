@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6350 | [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | Shell · ⭐ 128 | 2026-04-03 |
+| #6351 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 182k | 2026-04-03 |
 ---
 
 ## 🎭 Selection Process
@@ -6439,3 +6439,4 @@ If you need permission, you're thinking too much.
 | 6348 | 2026-04-03 19:45:27 | [bym-refitted/bymr-desktop-launcher](https://github.com/bym-refitted/bymr-desktop-launcher) | ✅ full (14⭐ Svelte) | [reels/reel_6348_bym-refitted-bymr-desktop-launcher](reels/reel_6348_bym-refitted-bymr-desktop-launcher) |
 | 6349 | 2026-04-03 20:34:10 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262285⭐ None) | [reels/reel_6349_practical-tutorials-project-based-learning](reels/reel_6349_practical-tutorials-project-based-learning) |
 | 6350 | 2026-04-03 21:06:13 | [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | ✅ full (128⭐ Shell) | [reels/reel_6350_marcusquinn-aidevops](reels/reel_6350_marcusquinn-aidevops) |
+| 6351 | 2026-04-03 21:49:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182366⭐ TypeScript) | [reels/reel_6351_n8n-io-n8n](reels/reel_6351_n8n-io-n8n) |
