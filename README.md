@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6344 | [pass-culture/pass-culture-main](https://github.com/pass-culture/pass-culture-main) | Python · ⭐ 177 | 2026-04-03 |
+| #6345 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 129k | 2026-04-03 |
 ---
 
 ## 🎭 Selection Process
@@ -6433,3 +6433,4 @@ If you need permission, you're thinking too much.
 | 6342 | 2026-04-03 15:01:08 | [ZhixiangLuo/10xProductivity](https://github.com/ZhixiangLuo/10xProductivity) | ✅ full (120⭐ Python) | [reels/reel_6342_ZhixiangLuo-10xProductivity](reels/reel_6342_ZhixiangLuo-10xProductivity) |
 | 6343 | 2026-04-03 15:53:49 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183114⭐ Python) | [reels/reel_6343_Significant-Gravitas-AutoGPT](reels/reel_6343_Significant-Gravitas-AutoGPT) |
 | 6344 | 2026-04-03 16:37:47 | [pass-culture/pass-culture-main](https://github.com/pass-culture/pass-culture-main) | ✅ readme_only (177⭐ Python) | [reels/reel_6344_pass-culture-pass-culture-main](reels/reel_6344_pass-culture-pass-culture-main) |
+| 6345 | 2026-04-03 17:18:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129876⭐ Python) | [reels/reel_6345_open-webui-open-webui](reels/reel_6345_open-webui-open-webui) |
