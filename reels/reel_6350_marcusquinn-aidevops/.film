@@ -1,0 +1,24 @@
+{
+  "reel_number": 6350,
+  "recorded": "2026-04-03 21:06:13 UTC",
+  "repository": {
+    "full_name": "marcusquinn/aidevops",
+    "url": "https://github.com/marcusquinn/aidevops",
+    "clone_url": "https://github.com/marcusquinn/aidevops.git",
+    "stars": 128,
+    "language": "Shell",
+    "size_kb": 55138
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 53,
+    "duration_seconds": 5.302184
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 128 stars."
+  }
+}
