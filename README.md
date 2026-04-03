@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6348 | [bym-refitted/bymr-desktop-launcher](https://github.com/bym-refitted/bymr-desktop-launcher) | Svelte · ⭐ 14 | 2026-04-03 |
+| #6349 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 262k | 2026-04-03 |
 ---
 
 ## 🎭 Selection Process
@@ -6437,3 +6437,4 @@ If you need permission, you're thinking too much.
 | 6346 | 2026-04-03 17:59:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132240⭐ Python) | [reels/reel_6346_langchain-ai-langchain](reels/reel_6346_langchain-ai-langchain) |
 | 6347 | 2026-04-03 18:59:56 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (104835⭐ Shell) | [reels/reel_6347_papers-we-love-papers-we-love](reels/reel_6347_papers-we-love-papers-we-love) |
 | 6348 | 2026-04-03 19:45:27 | [bym-refitted/bymr-desktop-launcher](https://github.com/bym-refitted/bymr-desktop-launcher) | ✅ full (14⭐ Svelte) | [reels/reel_6348_bym-refitted-bymr-desktop-launcher](reels/reel_6348_bym-refitted-bymr-desktop-launcher) |
+| 6349 | 2026-04-03 20:34:10 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262285⭐ None) | [reels/reel_6349_practical-tutorials-project-based-learning](reels/reel_6349_practical-tutorials-project-based-learning) |
