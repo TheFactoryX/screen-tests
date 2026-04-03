@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6352 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 100k | 2026-04-03 |
+| #6353 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-03 |
 ---
 
 ## 🎭 Selection Process
@@ -6441,3 +6441,4 @@ If you need permission, you're thinking too much.
 | 6350 | 2026-04-03 21:06:13 | [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | ✅ full (128⭐ Shell) | [reels/reel_6350_marcusquinn-aidevops](reels/reel_6350_marcusquinn-aidevops) |
 | 6351 | 2026-04-03 21:49:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182366⭐ TypeScript) | [reels/reel_6351_n8n-io-n8n](reels/reel_6351_n8n-io-n8n) |
 | 6352 | 2026-04-03 22:31:21 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100125⭐ TypeScript) | [reels/reel_6352_google-gemini-gemini-cli](reels/reel_6352_google-gemini-gemini-cli) |
+| 6353 | 2026-04-03 23:05:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111683⭐ Rust) | [reels/reel_6353_rust-lang-rust](reels/reel_6353_rust-lang-rust) |
