@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6345 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 129k | 2026-04-03 |
+| #6346 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 132k | 2026-04-03 |
 ---
 
 ## 🎭 Selection Process
@@ -6434,3 +6434,4 @@ If you need permission, you're thinking too much.
 | 6343 | 2026-04-03 15:53:49 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183114⭐ Python) | [reels/reel_6343_Significant-Gravitas-AutoGPT](reels/reel_6343_Significant-Gravitas-AutoGPT) |
 | 6344 | 2026-04-03 16:37:47 | [pass-culture/pass-culture-main](https://github.com/pass-culture/pass-culture-main) | ✅ readme_only (177⭐ Python) | [reels/reel_6344_pass-culture-pass-culture-main](reels/reel_6344_pass-culture-pass-culture-main) |
 | 6345 | 2026-04-03 17:18:51 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (129876⭐ Python) | [reels/reel_6345_open-webui-open-webui](reels/reel_6345_open-webui-open-webui) |
+| 6346 | 2026-04-03 17:59:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132240⭐ Python) | [reels/reel_6346_langchain-ai-langchain](reels/reel_6346_langchain-ai-langchain) |
