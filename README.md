@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6353 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-03 |
+| #6354 | [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) | Rust · ⭐ 843 | 2026-04-03 |
 ---
 
 ## 🎭 Selection Process
@@ -6442,3 +6442,4 @@ If you need permission, you're thinking too much.
 | 6351 | 2026-04-03 21:49:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182366⭐ TypeScript) | [reels/reel_6351_n8n-io-n8n](reels/reel_6351_n8n-io-n8n) |
 | 6352 | 2026-04-03 22:31:21 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100125⭐ TypeScript) | [reels/reel_6352_google-gemini-gemini-cli](reels/reel_6352_google-gemini-gemini-cli) |
 | 6353 | 2026-04-03 23:05:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111683⭐ Rust) | [reels/reel_6353_rust-lang-rust](reels/reel_6353_rust-lang-rust) |
+| 6354 | 2026-04-03 23:48:45 | [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) | ✅ full (843⭐ Rust) | [reels/reel_6354_RustCrypto-elliptic-curves](reels/reel_6354_RustCrypto-elliptic-curves) |
