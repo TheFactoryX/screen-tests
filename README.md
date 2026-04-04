@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6379 | [alkem-io/client-web](https://github.com/alkem-io/client-web) | TypeScript · ⭐ 23 | 2026-04-04 |
+| #6380 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 284k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6468,3 +6468,4 @@ If you need permission, you're thinking too much.
 | 6377 | 2026-04-04 20:28:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154798⭐ Python) | [reels/reel_6377_yt-dlp-yt-dlp](reels/reel_6377_yt-dlp-yt-dlp) |
 | 6378 | 2026-04-04 20:59:00 | [aquasecurity/vuln-list](https://github.com/aquasecurity/vuln-list) | ✅ readme_only (454⭐ None) | [reels/reel_6378_aquasecurity-vuln-list](reels/reel_6378_aquasecurity-vuln-list) |
 | 6379 | 2026-04-04 21:39:33 | [alkem-io/client-web](https://github.com/alkem-io/client-web) | ✅ full (23⭐ TypeScript) | [reels/reel_6379_alkem-io-client-web](reels/reel_6379_alkem-io-client-web) |
+| 6380 | 2026-04-04 21:59:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (284039⭐ None) | [reels/reel_6380_awesome-selfhosted-awesome-selfhosted](reels/reel_6380_awesome-selfhosted-awesome-selfhosted) |
