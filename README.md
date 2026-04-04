@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6358 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 136k | 2026-04-04 |
+| #6359 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell · ⭐ 108k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6447,3 +6447,4 @@ If you need permission, you're thinking too much.
 | 6356 | 2026-04-04 05:39:10 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (107722⭐ Python) | [reels/reel_6356_Comfy-Org-ComfyUI](reels/reel_6356_Comfy-Org-ComfyUI) |
 | 6357 | 2026-04-04 06:39:33 | [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) | ✅ full (497⭐ Python) | [reels/reel_6357_lichess-org-chess-openings](reels/reel_6357_lichess-org-chess-openings) |
 | 6358 | 2026-04-04 07:36:28 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (136543⭐ JavaScript) | [reels/reel_6358_affaan-m-everything-claude-code](reels/reel_6358_affaan-m-everything-claude-code) |
+| 6359 | 2026-04-04 08:22:46 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | ✅ full (108361⭐ Shell) | [reels/reel_6359_anthropics-claude-code](reels/reel_6359_anthropics-claude-code) |

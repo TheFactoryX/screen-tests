@@ -1,0 +1,24 @@
+{
+  "reel_number": 6359,
+  "recorded": "2026-04-04 08:22:46 UTC",
+  "repository": {
+    "full_name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "clone_url": "https://github.com/anthropics/claude-code.git",
+    "stars": 108361,
+    "language": "Shell",
+    "size_kb": 27469
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 0.805199
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 108361 stars."
+  }
+}
