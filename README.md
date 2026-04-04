@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6365 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-04-04 |
+| #6366 | [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy) | Python · ⭐ 1k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6454,3 +6454,4 @@ If you need permission, you're thinking too much.
 | 6363 | 2026-04-04 11:04:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154729⭐ Python) | [reels/reel_6363_yt-dlp-yt-dlp](reels/reel_6363_yt-dlp-yt-dlp) |
 | 6364 | 2026-04-04 11:42:59 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183109⭐ Python) | [reels/reel_6364_Significant-Gravitas-AutoGPT](reels/reel_6364_Significant-Gravitas-AutoGPT) |
 | 6365 | 2026-04-04 12:00:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146565⭐ Python) | [reels/reel_6365_langflow-ai-langflow](reels/reel_6365_langflow-ai-langflow) |
+| 6366 | 2026-04-04 13:19:51 | [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy) | ✅ shallow (1131⭐ Python) | [reels/reel_6366_pymc-labs-CausalPy](reels/reel_6366_pymc-labs-CausalPy) |
