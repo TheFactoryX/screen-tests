@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6354 | [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) | Rust · ⭐ 843 | 2026-04-03 |
+| #6355 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 182k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6443,3 +6443,4 @@ If you need permission, you're thinking too much.
 | 6352 | 2026-04-03 22:31:21 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100125⭐ TypeScript) | [reels/reel_6352_google-gemini-gemini-cli](reels/reel_6352_google-gemini-gemini-cli) |
 | 6353 | 2026-04-03 23:05:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111683⭐ Rust) | [reels/reel_6353_rust-lang-rust](reels/reel_6353_rust-lang-rust) |
 | 6354 | 2026-04-03 23:48:45 | [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) | ✅ full (843⭐ Rust) | [reels/reel_6354_RustCrypto-elliptic-curves](reels/reel_6354_RustCrypto-elliptic-curves) |
+| 6355 | 2026-04-04 04:25:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182372⭐ TypeScript) | [reels/reel_6355_n8n-io-n8n](reels/reel_6355_n8n-io-n8n) |
