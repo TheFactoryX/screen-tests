@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6377 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 154k | 2026-04-04 |
+| #6378 | [aquasecurity/vuln-list](https://github.com/aquasecurity/vuln-list) | None · ⭐ 454 | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6466,3 +6466,4 @@ If you need permission, you're thinking too much.
 | 6375 | 2026-04-04 19:19:56 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109663⭐ None) | [reels/reel_6375_Hack-with-Github-Awesome-Hacking](reels/reel_6375_Hack-with-Github-Awesome-Hacking) |
 | 6376 | 2026-04-04 19:53:33 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109663⭐ None) | [reels/reel_6376_Hack-with-Github-Awesome-Hacking](reels/reel_6376_Hack-with-Github-Awesome-Hacking) |
 | 6377 | 2026-04-04 20:28:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154798⭐ Python) | [reels/reel_6377_yt-dlp-yt-dlp](reels/reel_6377_yt-dlp-yt-dlp) |
+| 6378 | 2026-04-04 20:59:00 | [aquasecurity/vuln-list](https://github.com/aquasecurity/vuln-list) | ✅ readme_only (454⭐ None) | [reels/reel_6378_aquasecurity-vuln-list](reels/reel_6378_aquasecurity-vuln-list) |

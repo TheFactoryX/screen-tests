@@ -1,0 +1,24 @@
+{
+  "reel_number": 6378,
+  "recorded": "2026-04-04 20:59:00 UTC",
+  "repository": {
+    "full_name": "aquasecurity/vuln-list",
+    "url": "https://github.com/aquasecurity/vuln-list",
+    "clone_url": "https://github.com/aquasecurity/vuln-list.git",
+    "stars": 454,
+    "language": null,
+    "size_kb": 1118249
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1092,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 454 stars."
+  }
+}
