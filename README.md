@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6362 | [RayBreeze/SysMood](https://github.com/RayBreeze/SysMood) | C++ · ⭐ 14 | 2026-04-04 |
+| #6363 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 154k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6451,3 +6451,4 @@ If you need permission, you're thinking too much.
 | 6360 | 2026-04-04 09:05:20 | [EvotecIT/PSWriteOffice](https://github.com/EvotecIT/PSWriteOffice) | ✅ full (144⭐ C#) | [reels/reel_6360_EvotecIT-PSWriteOffice](reels/reel_6360_EvotecIT-PSWriteOffice) |
 | 6361 | 2026-04-04 09:53:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114180⭐ TypeScript) | [reels/reel_6361_iptv-org-iptv](reels/reel_6361_iptv-org-iptv) |
 | 6362 | 2026-04-04 10:31:40 | [RayBreeze/SysMood](https://github.com/RayBreeze/SysMood) | ✅ full (14⭐ C++) | [reels/reel_6362_RayBreeze-SysMood](reels/reel_6362_RayBreeze-SysMood) |
+| 6363 | 2026-04-04 11:04:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154729⭐ Python) | [reels/reel_6363_yt-dlp-yt-dlp](reels/reel_6363_yt-dlp-yt-dlp) |
