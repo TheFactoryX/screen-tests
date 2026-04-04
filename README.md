@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6382 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 137k | 2026-04-04 |
+| #6383 | [chenin-wang/awesome_ai_paper](https://github.com/chenin-wang/awesome_ai_paper) | Python · ⭐ 58 | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6471,3 +6471,4 @@ If you need permission, you're thinking too much.
 | 6380 | 2026-04-04 21:59:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (284039⭐ None) | [reels/reel_6380_awesome-selfhosted-awesome-selfhosted](reels/reel_6380_awesome-selfhosted-awesome-selfhosted) |
 | 6381 | 2026-04-04 22:40:16 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (104867⭐ Shell) | [reels/reel_6381_papers-we-love-papers-we-love](reels/reel_6381_papers-we-love-papers-we-love) |
 | 6382 | 2026-04-04 23:02:55 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (137787⭐ JavaScript) | [reels/reel_6382_affaan-m-everything-claude-code](reels/reel_6382_affaan-m-everything-claude-code) |
+| 6383 | 2026-04-04 23:45:58 | [chenin-wang/awesome_ai_paper](https://github.com/chenin-wang/awesome_ai_paper) | ✅ full (58⭐ Python) | [reels/reel_6383_chenin-wang-awesome_ai_paper](reels/reel_6383_chenin-wang-awesome_ai_paper) |
