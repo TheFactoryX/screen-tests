@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6370 | [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) | None · ⭐ 181 | 2026-04-04 |
+| #6371 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust · ⭐ 165k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6459,3 +6459,4 @@ If you need permission, you're thinking too much.
 | 6368 | 2026-04-04 14:51:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182410⭐ TypeScript) | [reels/reel_6368_n8n-io-n8n](reels/reel_6368_n8n-io-n8n) |
 | 6369 | 2026-04-04 15:29:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182417⭐ TypeScript) | [reels/reel_6369_n8n-io-n8n](reels/reel_6369_n8n-io-n8n) |
 | 6370 | 2026-04-04 15:56:40 | [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) | ✅ full (181⭐ None) | [reels/reel_6370_spmedia-Threat-Actor-Usernames-Scrape](reels/reel_6370_spmedia-Threat-Actor-Usernames-Scrape) |
+| 6371 | 2026-04-04 16:38:10 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | ✅ full (165919⭐ Rust) | [reels/reel_6371_ultraworkers-claw-code](reels/reel_6371_ultraworkers-claw-code) |
