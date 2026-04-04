@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6364 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-04 |
+| #6365 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6453,3 +6453,4 @@ If you need permission, you're thinking too much.
 | 6362 | 2026-04-04 10:31:40 | [RayBreeze/SysMood](https://github.com/RayBreeze/SysMood) | ✅ full (14⭐ C++) | [reels/reel_6362_RayBreeze-SysMood](reels/reel_6362_RayBreeze-SysMood) |
 | 6363 | 2026-04-04 11:04:12 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (154729⭐ Python) | [reels/reel_6363_yt-dlp-yt-dlp](reels/reel_6363_yt-dlp-yt-dlp) |
 | 6364 | 2026-04-04 11:42:59 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183109⭐ Python) | [reels/reel_6364_Significant-Gravitas-AutoGPT](reels/reel_6364_Significant-Gravitas-AutoGPT) |
+| 6365 | 2026-04-04 12:00:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146565⭐ Python) | [reels/reel_6365_langflow-ai-langflow](reels/reel_6365_langflow-ai-langflow) |
