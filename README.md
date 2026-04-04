@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6375 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 109k | 2026-04-04 |
+| #6376 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 109k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6464,3 +6464,4 @@ If you need permission, you're thinking too much.
 | 6373 | 2026-04-04 17:47:39 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (486093⭐ Markdown) | [reels/reel_6373_codecrafters-io-build-your-own-x](reels/reel_6373_codecrafters-io-build-your-own-x) |
 | 6374 | 2026-04-04 18:40:01 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262342⭐ None) | [reels/reel_6374_practical-tutorials-project-based-learning](reels/reel_6374_practical-tutorials-project-based-learning) |
 | 6375 | 2026-04-04 19:19:56 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109663⭐ None) | [reels/reel_6375_Hack-with-Github-Awesome-Hacking](reels/reel_6375_Hack-with-Github-Awesome-Hacking) |
+| 6376 | 2026-04-04 19:53:33 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (109663⭐ None) | [reels/reel_6376_Hack-with-Github-Awesome-Hacking](reels/reel_6376_Hack-with-Github-Awesome-Hacking) |
