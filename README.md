@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6372 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 182k | 2026-04-04 |
+| #6373 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 486k | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6461,3 +6461,4 @@ If you need permission, you're thinking too much.
 | 6370 | 2026-04-04 15:56:40 | [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) | ✅ full (181⭐ None) | [reels/reel_6370_spmedia-Threat-Actor-Usernames-Scrape](reels/reel_6370_spmedia-Threat-Actor-Usernames-Scrape) |
 | 6371 | 2026-04-04 16:38:10 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | ✅ full (165919⭐ Rust) | [reels/reel_6371_ultraworkers-claw-code](reels/reel_6371_ultraworkers-claw-code) |
 | 6372 | 2026-04-04 17:05:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182426⭐ TypeScript) | [reels/reel_6372_n8n-io-n8n](reels/reel_6372_n8n-io-n8n) |
+| 6373 | 2026-04-04 17:47:39 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (486093⭐ Markdown) | [reels/reel_6373_codecrafters-io-build-your-own-x](reels/reel_6373_codecrafters-io-build-your-own-x) |
