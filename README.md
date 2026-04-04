@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6356 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 107k | 2026-04-04 |
+| #6357 | [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) | Python · ⭐ 497 | 2026-04-04 |
 ---
 
 ## 🎭 Selection Process
@@ -6445,3 +6445,4 @@ If you need permission, you're thinking too much.
 | 6354 | 2026-04-03 23:48:45 | [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) | ✅ full (843⭐ Rust) | [reels/reel_6354_RustCrypto-elliptic-curves](reels/reel_6354_RustCrypto-elliptic-curves) |
 | 6355 | 2026-04-04 04:25:01 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182372⭐ TypeScript) | [reels/reel_6355_n8n-io-n8n](reels/reel_6355_n8n-io-n8n) |
 | 6356 | 2026-04-04 05:39:10 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (107722⭐ Python) | [reels/reel_6356_Comfy-Org-ComfyUI](reels/reel_6356_Comfy-Org-ComfyUI) |
+| 6357 | 2026-04-04 06:39:33 | [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) | ✅ full (497⭐ Python) | [reels/reel_6357_lichess-org-chess-openings](reels/reel_6357_lichess-org-chess-openings) |

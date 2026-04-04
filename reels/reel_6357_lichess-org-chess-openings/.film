@@ -1,0 +1,24 @@
+{
+  "reel_number": 6357,
+  "recorded": "2026-04-04 06:39:33 UTC",
+  "repository": {
+    "full_name": "lichess-org/chess-openings",
+    "url": "https://github.com/lichess-org/chess-openings",
+    "clone_url": "https://github.com/lichess-org/chess-openings.git",
+    "stars": 497,
+    "language": "Python",
+    "size_kb": 1853
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.376926
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 497 stars."
+  }
+}
