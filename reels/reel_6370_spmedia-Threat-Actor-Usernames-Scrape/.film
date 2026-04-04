@@ -1,0 +1,24 @@
+{
+  "reel_number": 6370,
+  "recorded": "2026-04-04 15:56:40 UTC",
+  "repository": {
+    "full_name": "spmedia/Threat-Actor-Usernames-Scrape",
+    "url": "https://github.com/spmedia/Threat-Actor-Usernames-Scrape",
+    "clone_url": "https://github.com/spmedia/Threat-Actor-Usernames-Scrape.git",
+    "stars": 181,
+    "language": null,
+    "size_kb": 16164
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 2.0012
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 181 stars."
+  }
+}
