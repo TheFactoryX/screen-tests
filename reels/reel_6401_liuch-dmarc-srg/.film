@@ -1,0 +1,24 @@
+{
+  "reel_number": 6401,
+  "recorded": "2026-04-05 17:28:48 UTC",
+  "repository": {
+    "full_name": "liuch/dmarc-srg",
+    "url": "https://github.com/liuch/dmarc-srg",
+    "clone_url": "https://github.com/liuch/dmarc-srg.git",
+    "stars": 290,
+    "language": "PHP",
+    "size_kb": 2411
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.478558
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 290 stars."
+  }
+}
