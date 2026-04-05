@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6402 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript · ⭐ 104k | 2026-04-05 |
+| #6403 | [bootgly/bootgly](https://github.com/bootgly/bootgly) | PHP · ⭐ 216 | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6491,3 +6491,4 @@ If you need permission, you're thinking too much.
 | 6400 | 2026-04-05 16:54:01 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100293⭐ TypeScript) | [reels/reel_6400_google-gemini-gemini-cli](reels/reel_6400_google-gemini-gemini-cli) |
 | 6401 | 2026-04-05 17:28:48 | [liuch/dmarc-srg](https://github.com/liuch/dmarc-srg) | ✅ full (290⭐ PHP) | [reels/reel_6401_liuch-dmarc-srg](reels/reel_6401_liuch-dmarc-srg) |
 | 6402 | 2026-04-05 17:58:51 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | ✅ full (104470⭐ TypeScript) | [reels/reel_6402_firecrawl-firecrawl](reels/reel_6402_firecrawl-firecrawl) |
+| 6403 | 2026-04-05 18:57:26 | [bootgly/bootgly](https://github.com/bootgly/bootgly) | ✅ full (216⭐ PHP) | [reels/reel_6403_bootgly-bootgly](reels/reel_6403_bootgly-bootgly) |
