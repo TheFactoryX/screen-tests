@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6392 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 182k | 2026-04-05 |
+| #6393 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6481,3 +6481,4 @@ If you need permission, you're thinking too much.
 | 6390 | 2026-04-05 09:55:11 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102486⭐ Python) | [reels/reel_6390_deepseek-ai-DeepSeek-V3](reels/reel_6390_deepseek-ai-DeepSeek-V3) |
 | 6391 | 2026-04-05 10:31:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111710⭐ Rust) | [reels/reel_6391_rust-lang-rust](reels/reel_6391_rust-lang-rust) |
 | 6392 | 2026-04-05 11:05:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182516⭐ TypeScript) | [reels/reel_6392_n8n-io-n8n](reels/reel_6392_n8n-io-n8n) |
+| 6393 | 2026-04-05 11:44:47 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183142⭐ Python) | [reels/reel_6393_Significant-Gravitas-AutoGPT](reels/reel_6393_Significant-Gravitas-AutoGPT) |
