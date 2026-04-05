@@ -1,0 +1,24 @@
+{
+  "reel_number": 6404,
+  "recorded": "2026-04-05 19:36:33 UTC",
+  "repository": {
+    "full_name": "psalm/psalm-plugin-laravel",
+    "url": "https://github.com/psalm/psalm-plugin-laravel",
+    "clone_url": "https://github.com/psalm/psalm-plugin-laravel.git",
+    "stars": 327,
+    "language": "PHP",
+    "size_kb": 2354
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.646131
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 327 stars."
+  }
+}
