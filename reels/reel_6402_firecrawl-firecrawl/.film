@@ -1,0 +1,24 @@
+{
+  "reel_number": 6402,
+  "recorded": "2026-04-05 17:58:51 UTC",
+  "repository": {
+    "full_name": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "clone_url": "https://github.com/firecrawl/firecrawl.git",
+    "stars": 104470,
+    "language": "TypeScript",
+    "size_kb": 85637
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 83,
+    "duration_seconds": 2.868479
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 104470 stars."
+  }
+}
