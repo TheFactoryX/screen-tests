@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6389 | [generative-design/Code-Package-p5.js](https://github.com/generative-design/Code-Package-p5.js) | JavaScript · ⭐ 994 | 2026-04-05 |
+| #6390 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6478,3 +6478,4 @@ If you need permission, you're thinking too much.
 | 6387 | 2026-04-05 07:36:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183139⭐ Python) | [reels/reel_6387_Significant-Gravitas-AutoGPT](reels/reel_6387_Significant-Gravitas-AutoGPT) |
 | 6388 | 2026-04-05 08:22:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111706⭐ Rust) | [reels/reel_6388_rust-lang-rust](reels/reel_6388_rust-lang-rust) |
 | 6389 | 2026-04-05 09:06:13 | [generative-design/Code-Package-p5.js](https://github.com/generative-design/Code-Package-p5.js) | ✅ shallow (994⭐ JavaScript) | [reels/reel_6389_generative-design-Code-Package-p5.js](reels/reel_6389_generative-design-Code-Package-p5.js) |
+| 6390 | 2026-04-05 09:55:11 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102486⭐ Python) | [reels/reel_6390_deepseek-ai-DeepSeek-V3](reels/reel_6390_deepseek-ai-DeepSeek-V3) |
