@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6394 | [codecrafters-io/build-your-own-claude-code](https://github.com/codecrafters-io/build-your-own-claude-code) | Shell · ⭐ 16 | 2026-04-05 |
+| #6395 | [talesofai/neta-skills](https://github.com/talesofai/neta-skills) | TypeScript · ⭐ 1k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6483,3 +6483,4 @@ If you need permission, you're thinking too much.
 | 6392 | 2026-04-05 11:05:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182516⭐ TypeScript) | [reels/reel_6392_n8n-io-n8n](reels/reel_6392_n8n-io-n8n) |
 | 6393 | 2026-04-05 11:44:47 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183142⭐ Python) | [reels/reel_6393_Significant-Gravitas-AutoGPT](reels/reel_6393_Significant-Gravitas-AutoGPT) |
 | 6394 | 2026-04-05 12:01:34 | [codecrafters-io/build-your-own-claude-code](https://github.com/codecrafters-io/build-your-own-claude-code) | ✅ full (16⭐ Shell) | [reels/reel_6394_codecrafters-io-build-your-own-claude-code](reels/reel_6394_codecrafters-io-build-your-own-claude-code) |
+| 6395 | 2026-04-05 13:21:01 | [talesofai/neta-skills](https://github.com/talesofai/neta-skills) | ✅ full (1174⭐ TypeScript) | [reels/reel_6395_talesofai-neta-skills](reels/reel_6395_talesofai-neta-skills) |

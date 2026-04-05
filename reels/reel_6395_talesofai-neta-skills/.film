@@ -1,0 +1,24 @@
+{
+  "reel_number": 6395,
+  "recorded": "2026-04-05 13:21:01 UTC",
+  "repository": {
+    "full_name": "talesofai/neta-skills",
+    "url": "https://github.com/talesofai/neta-skills",
+    "clone_url": "https://github.com/talesofai/neta-skills.git",
+    "stars": 1174,
+    "language": "TypeScript",
+    "size_kb": 1065
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.647099
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 1174 stars."
+  }
+}
