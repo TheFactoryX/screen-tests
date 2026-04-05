@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6388 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-05 |
+| #6389 | [generative-design/Code-Package-p5.js](https://github.com/generative-design/Code-Package-p5.js) | JavaScript · ⭐ 994 | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6477,3 +6477,4 @@ If you need permission, you're thinking too much.
 | 6386 | 2026-04-05 06:16:32 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (419168⭐ Python) | [reels/reel_6386_public-apis-public-apis](reels/reel_6386_public-apis-public-apis) |
 | 6387 | 2026-04-05 07:36:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183139⭐ Python) | [reels/reel_6387_Significant-Gravitas-AutoGPT](reels/reel_6387_Significant-Gravitas-AutoGPT) |
 | 6388 | 2026-04-05 08:22:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111706⭐ Rust) | [reels/reel_6388_rust-lang-rust](reels/reel_6388_rust-lang-rust) |
+| 6389 | 2026-04-05 09:06:13 | [generative-design/Code-Package-p5.js](https://github.com/generative-design/Code-Package-p5.js) | ✅ shallow (994⭐ JavaScript) | [reels/reel_6389_generative-design-Code-Package-p5.js](reels/reel_6389_generative-design-Code-Package-p5.js) |
