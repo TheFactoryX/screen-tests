@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6405 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 182k | 2026-04-05 |
+| #6406 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 132k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6494,3 +6494,4 @@ If you need permission, you're thinking too much.
 | 6403 | 2026-04-05 18:57:26 | [bootgly/bootgly](https://github.com/bootgly/bootgly) | ✅ full (216⭐ PHP) | [reels/reel_6403_bootgly-bootgly](reels/reel_6403_bootgly-bootgly) |
 | 6404 | 2026-04-05 19:36:33 | [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) | ✅ full (327⭐ PHP) | [reels/reel_6404_psalm-psalm-plugin-laravel](reels/reel_6404_psalm-psalm-plugin-laravel) |
 | 6405 | 2026-04-05 20:00:12 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182577⭐ TypeScript) | [reels/reel_6405_n8n-io-n8n](reels/reel_6405_n8n-io-n8n) |
+| 6406 | 2026-04-05 20:45:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132448⭐ Python) | [reels/reel_6406_langchain-ai-langchain](reels/reel_6406_langchain-ai-langchain) |
