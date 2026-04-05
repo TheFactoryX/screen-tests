@@ -1,0 +1,24 @@
+{
+  "reel_number": 6407,
+  "recorded": "2026-04-05 21:29:33 UTC",
+  "repository": {
+    "full_name": "C-B-U/algorithm_challenge",
+    "url": "https://github.com/C-B-U/algorithm_challenge",
+    "clone_url": "https://github.com/C-B-U/algorithm_challenge.git",
+    "stars": 16,
+    "language": "Java",
+    "size_kb": 2672
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.797436
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 16 stars."
+  }
+}

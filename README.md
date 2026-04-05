@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6406 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 132k | 2026-04-05 |
+| #6407 | [C-B-U/algorithm_challenge](https://github.com/C-B-U/algorithm_challenge) | Java · ⭐ 16 | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6495,3 +6495,4 @@ If you need permission, you're thinking too much.
 | 6404 | 2026-04-05 19:36:33 | [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) | ✅ full (327⭐ PHP) | [reels/reel_6404_psalm-psalm-plugin-laravel](reels/reel_6404_psalm-psalm-plugin-laravel) |
 | 6405 | 2026-04-05 20:00:12 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182577⭐ TypeScript) | [reels/reel_6405_n8n-io-n8n](reels/reel_6405_n8n-io-n8n) |
 | 6406 | 2026-04-05 20:45:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132448⭐ Python) | [reels/reel_6406_langchain-ai-langchain](reels/reel_6406_langchain-ai-langchain) |
+| 6407 | 2026-04-05 21:29:33 | [C-B-U/algorithm_challenge](https://github.com/C-B-U/algorithm_challenge) | ✅ full (16⭐ Java) | [reels/reel_6407_C-B-U-algorithm_challenge](reels/reel_6407_C-B-U-algorithm_challenge) |
