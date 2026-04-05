@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6408 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-04-05 |
+| #6409 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6497,3 +6497,4 @@ If you need permission, you're thinking too much.
 | 6406 | 2026-04-05 20:45:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132448⭐ Python) | [reels/reel_6406_langchain-ai-langchain](reels/reel_6406_langchain-ai-langchain) |
 | 6407 | 2026-04-05 21:29:33 | [C-B-U/algorithm_challenge](https://github.com/C-B-U/algorithm_challenge) | ✅ full (16⭐ Java) | [reels/reel_6407_C-B-U-algorithm_challenge](reels/reel_6407_C-B-U-algorithm_challenge) |
 | 6408 | 2026-04-05 21:56:25 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102492⭐ Python) | [reels/reel_6408_deepseek-ai-DeepSeek-V3](reels/reel_6408_deepseek-ai-DeepSeek-V3) |
+| 6409 | 2026-04-05 22:33:12 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111721⭐ Rust) | [reels/reel_6409_rust-lang-rust](reels/reel_6409_rust-lang-rust) |
