@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6384 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 139k | 2026-04-05 |
+| #6385 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6473,3 +6473,4 @@ If you need permission, you're thinking too much.
 | 6382 | 2026-04-04 23:02:55 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (137787⭐ JavaScript) | [reels/reel_6382_affaan-m-everything-claude-code](reels/reel_6382_affaan-m-everything-claude-code) |
 | 6383 | 2026-04-04 23:45:58 | [chenin-wang/awesome_ai_paper](https://github.com/chenin-wang/awesome_ai_paper) | ✅ full (58⭐ Python) | [reels/reel_6383_chenin-wang-awesome_ai_paper](reels/reel_6383_chenin-wang-awesome_ai_paper) |
 | 6384 | 2026-04-05 02:22:51 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (139978⭐ Python) | [reels/reel_6384_ytdl-org-youtube-dl](reels/reel_6384_ytdl-org-youtube-dl) |
+| 6385 | 2026-04-05 04:59:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146577⭐ Python) | [reels/reel_6385_langflow-ai-langflow](reels/reel_6385_langflow-ai-langflow) |
