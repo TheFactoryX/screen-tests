@@ -1,0 +1,24 @@
+{
+  "reel_number": 6398,
+  "recorded": "2026-04-05 15:30:26 UTC",
+  "repository": {
+    "full_name": "zhubonan/airsspy",
+    "url": "https://github.com/zhubonan/airsspy",
+    "clone_url": "https://github.com/zhubonan/airsspy.git",
+    "stars": 19,
+    "language": "Python",
+    "size_kb": 803
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.927623
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 19 stars."
+  }
+}
