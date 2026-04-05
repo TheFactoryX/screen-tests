@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6399 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-04-05 |
+| #6400 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 100k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6488,3 +6488,4 @@ If you need permission, you're thinking too much.
 | 6397 | 2026-04-05 14:53:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114236⭐ TypeScript) | [reels/reel_6397_iptv-org-iptv](reels/reel_6397_iptv-org-iptv) |
 | 6398 | 2026-04-05 15:30:26 | [zhubonan/airsspy](https://github.com/zhubonan/airsspy) | ✅ full (19⭐ Python) | [reels/reel_6398_zhubonan-airsspy](reels/reel_6398_zhubonan-airsspy) |
 | 6399 | 2026-04-05 16:03:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146596⭐ Python) | [reels/reel_6399_langflow-ai-langflow](reels/reel_6399_langflow-ai-langflow) |
+| 6400 | 2026-04-05 16:54:01 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100293⭐ TypeScript) | [reels/reel_6400_google-gemini-gemini-cli](reels/reel_6400_google-gemini-gemini-cli) |
