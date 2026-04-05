@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6410 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 284k | 2026-04-05 |
+| #6411 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6499,3 +6499,4 @@ If you need permission, you're thinking too much.
 | 6408 | 2026-04-05 21:56:25 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102492⭐ Python) | [reels/reel_6408_deepseek-ai-DeepSeek-V3](reels/reel_6408_deepseek-ai-DeepSeek-V3) |
 | 6409 | 2026-04-05 22:33:12 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111721⭐ Rust) | [reels/reel_6409_rust-lang-rust](reels/reel_6409_rust-lang-rust) |
 | 6410 | 2026-04-05 23:04:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (284281⭐ None) | [reels/reel_6410_awesome-selfhosted-awesome-selfhosted](reels/reel_6410_awesome-selfhosted-awesome-selfhosted) |
+| 6411 | 2026-04-05 23:49:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114249⭐ TypeScript) | [reels/reel_6411_iptv-org-iptv](reels/reel_6411_iptv-org-iptv) |
