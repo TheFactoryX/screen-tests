@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6396 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 486k | 2026-04-05 |
+| #6397 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6485,3 +6485,4 @@ If you need permission, you're thinking too much.
 | 6394 | 2026-04-05 12:01:34 | [codecrafters-io/build-your-own-claude-code](https://github.com/codecrafters-io/build-your-own-claude-code) | ✅ full (16⭐ Shell) | [reels/reel_6394_codecrafters-io-build-your-own-claude-code](reels/reel_6394_codecrafters-io-build-your-own-claude-code) |
 | 6395 | 2026-04-05 13:21:01 | [talesofai/neta-skills](https://github.com/talesofai/neta-skills) | ✅ full (1174⭐ TypeScript) | [reels/reel_6395_talesofai-neta-skills](reels/reel_6395_talesofai-neta-skills) |
 | 6396 | 2026-04-05 14:04:50 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (486297⭐ Markdown) | [reels/reel_6396_codecrafters-io-build-your-own-x](reels/reel_6396_codecrafters-io-build-your-own-x) |
+| 6397 | 2026-04-05 14:53:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114236⭐ TypeScript) | [reels/reel_6397_iptv-org-iptv](reels/reel_6397_iptv-org-iptv) |
