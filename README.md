@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6387 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-05 |
+| #6388 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-05 |
 ---
 
 ## 🎭 Selection Process
@@ -6476,3 +6476,4 @@ If you need permission, you're thinking too much.
 | 6385 | 2026-04-05 04:59:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146577⭐ Python) | [reels/reel_6385_langflow-ai-langflow](reels/reel_6385_langflow-ai-langflow) |
 | 6386 | 2026-04-05 06:16:32 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (419168⭐ Python) | [reels/reel_6386_public-apis-public-apis](reels/reel_6386_public-apis-public-apis) |
 | 6387 | 2026-04-05 07:36:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183139⭐ Python) | [reels/reel_6387_Significant-Gravitas-AutoGPT](reels/reel_6387_Significant-Gravitas-AutoGPT) |
+| 6388 | 2026-04-05 08:22:54 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111706⭐ Rust) | [reels/reel_6388_rust-lang-rust](reels/reel_6388_rust-lang-rust) |
