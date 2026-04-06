@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6412 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 130k | 2026-04-06 |
+| #6413 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | None · ⭐ 1k | 2026-04-06 |
 ---
 
 ## 🎭 Selection Process
@@ -6501,3 +6501,4 @@ If you need permission, you're thinking too much.
 | 6410 | 2026-04-05 23:04:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (284281⭐ None) | [reels/reel_6410_awesome-selfhosted-awesome-selfhosted](reels/reel_6410_awesome-selfhosted-awesome-selfhosted) |
 | 6411 | 2026-04-05 23:49:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114249⭐ TypeScript) | [reels/reel_6411_iptv-org-iptv](reels/reel_6411_iptv-org-iptv) |
 | 6412 | 2026-04-06 02:24:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (130212⭐ Python) | [reels/reel_6412_open-webui-open-webui](reels/reel_6412_open-webui-open-webui) |
+| 6413 | 2026-04-06 05:09:33 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | ✅ full (1220⭐ None) | [reels/reel_6413_liliu-avril-Awesome-Segment-Anything](reels/reel_6413_liliu-avril-Awesome-Segment-Anything) |
