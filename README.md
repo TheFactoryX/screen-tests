@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6426 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 142k | 2026-04-06 |
+| #6427 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 262k | 2026-04-06 |
 ---
 
 ## 🎭 Selection Process
@@ -6515,3 +6515,4 @@ If you need permission, you're thinking too much.
 | 6424 | 2026-04-06 18:04:12 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111745⭐ Rust) | [reels/reel_6424_rust-lang-rust](reels/reel_6424_rust-lang-rust) |
 | 6425 | 2026-04-06 19:19:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (182711⭐ TypeScript) | [reels/reel_6425_n8n-io-n8n](reels/reel_6425_n8n-io-n8n) |
 | 6426 | 2026-04-06 20:03:59 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (142471⭐ JavaScript) | [reels/reel_6426_affaan-m-everything-claude-code](reels/reel_6426_affaan-m-everything-claude-code) |
+| 6427 | 2026-04-06 20:55:22 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262475⭐ None) | [reels/reel_6427_practical-tutorials-project-based-learning](reels/reel_6427_practical-tutorials-project-based-learning) |
