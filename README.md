@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6416 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 141k | 2026-04-06 |
+| #6417 | [ShadowOne333/Metroid-Zero-Mission-Redux](https://github.com/ShadowOne333/Metroid-Zero-Mission-Redux) | Assembly · ⭐ 17 | 2026-04-06 |
 ---
 
 ## 🎭 Selection Process
@@ -6505,3 +6505,4 @@ If you need permission, you're thinking too much.
 | 6414 | 2026-04-06 07:01:58 | [nightroman/FarNet](https://github.com/nightroman/FarNet) | ✅ full (146⭐ C#) | [reels/reel_6414_nightroman-FarNet](reels/reel_6414_nightroman-FarNet) |
 | 6415 | 2026-04-06 08:45:49 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102499⭐ Python) | [reels/reel_6415_deepseek-ai-DeepSeek-V3](reels/reel_6415_deepseek-ai-DeepSeek-V3) |
 | 6416 | 2026-04-06 10:07:17 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (141401⭐ JavaScript) | [reels/reel_6416_affaan-m-everything-claude-code](reels/reel_6416_affaan-m-everything-claude-code) |
+| 6417 | 2026-04-06 11:12:19 | [ShadowOne333/Metroid-Zero-Mission-Redux](https://github.com/ShadowOne333/Metroid-Zero-Mission-Redux) | ✅ full (17⭐ Assembly) | [reels/reel_6417_ShadowOne333-Metroid-Zero-Mission-Redux](reels/reel_6417_ShadowOne333-Metroid-Zero-Mission-Redux) |
