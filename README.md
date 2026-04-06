@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6414 | [nightroman/FarNet](https://github.com/nightroman/FarNet) | C# · ⭐ 146 | 2026-04-06 |
+| #6415 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-04-06 |
 ---
 
 ## 🎭 Selection Process
@@ -6503,3 +6503,4 @@ If you need permission, you're thinking too much.
 | 6412 | 2026-04-06 02:24:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (130212⭐ Python) | [reels/reel_6412_open-webui-open-webui](reels/reel_6412_open-webui-open-webui) |
 | 6413 | 2026-04-06 05:09:33 | [liliu-avril/Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) | ✅ full (1220⭐ None) | [reels/reel_6413_liliu-avril-Awesome-Segment-Anything](reels/reel_6413_liliu-avril-Awesome-Segment-Anything) |
 | 6414 | 2026-04-06 07:01:58 | [nightroman/FarNet](https://github.com/nightroman/FarNet) | ✅ full (146⭐ C#) | [reels/reel_6414_nightroman-FarNet](reels/reel_6414_nightroman-FarNet) |
+| 6415 | 2026-04-06 08:45:49 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102499⭐ Python) | [reels/reel_6415_deepseek-ai-DeepSeek-V3](reels/reel_6415_deepseek-ai-DeepSeek-V3) |
