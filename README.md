@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6417 | [ShadowOne333/Metroid-Zero-Mission-Redux](https://github.com/ShadowOne333/Metroid-Zero-Mission-Redux) | Assembly · ⭐ 17 | 2026-04-06 |
+| #6418 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-06 |
 ---
 
 ## 🎭 Selection Process
@@ -6506,3 +6506,4 @@ If you need permission, you're thinking too much.
 | 6415 | 2026-04-06 08:45:49 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102499⭐ Python) | [reels/reel_6415_deepseek-ai-DeepSeek-V3](reels/reel_6415_deepseek-ai-DeepSeek-V3) |
 | 6416 | 2026-04-06 10:07:17 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (141401⭐ JavaScript) | [reels/reel_6416_affaan-m-everything-claude-code](reels/reel_6416_affaan-m-everything-claude-code) |
 | 6417 | 2026-04-06 11:12:19 | [ShadowOne333/Metroid-Zero-Mission-Redux](https://github.com/ShadowOne333/Metroid-Zero-Mission-Redux) | ✅ full (17⭐ Assembly) | [reels/reel_6417_ShadowOne333-Metroid-Zero-Mission-Redux](reels/reel_6417_ShadowOne333-Metroid-Zero-Mission-Redux) |
+| 6418 | 2026-04-06 11:58:32 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114268⭐ TypeScript) | [reels/reel_6418_iptv-org-iptv](reels/reel_6418_iptv-org-iptv) |
