@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6419 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-06 |
+| #6420 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 155k | 2026-04-06 |
 ---
 
 ## 🎭 Selection Process
@@ -6508,3 +6508,4 @@ If you need permission, you're thinking too much.
 | 6417 | 2026-04-06 11:12:19 | [ShadowOne333/Metroid-Zero-Mission-Redux](https://github.com/ShadowOne333/Metroid-Zero-Mission-Redux) | ✅ full (17⭐ Assembly) | [reels/reel_6417_ShadowOne333-Metroid-Zero-Mission-Redux](reels/reel_6417_ShadowOne333-Metroid-Zero-Mission-Redux) |
 | 6418 | 2026-04-06 11:58:32 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114268⭐ TypeScript) | [reels/reel_6418_iptv-org-iptv](reels/reel_6418_iptv-org-iptv) |
 | 6419 | 2026-04-06 13:26:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183177⭐ Python) | [reels/reel_6419_Significant-Gravitas-AutoGPT](reels/reel_6419_Significant-Gravitas-AutoGPT) |
+| 6420 | 2026-04-06 14:30:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (155126⭐ Python) | [reels/reel_6420_yt-dlp-yt-dlp](reels/reel_6420_yt-dlp-yt-dlp) |
