@@ -1,0 +1,24 @@
+{
+  "reel_number": 6414,
+  "recorded": "2026-04-06 07:01:58 UTC",
+  "repository": {
+    "full_name": "nightroman/FarNet",
+    "url": "https://github.com/nightroman/FarNet",
+    "clone_url": "https://github.com/nightroman/FarNet.git",
+    "stars": 146,
+    "language": "C#",
+    "size_kb": 10687
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 2.050074
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 146 stars."
+  }
+}
