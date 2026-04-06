@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6421 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 130k | 2026-04-06 |
+| #6422 | [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) | Python · ⭐ 124 | 2026-04-06 |
 ---
 
 ## 🎭 Selection Process
@@ -6510,3 +6510,4 @@ If you need permission, you're thinking too much.
 | 6419 | 2026-04-06 13:26:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183177⭐ Python) | [reels/reel_6419_Significant-Gravitas-AutoGPT](reels/reel_6419_Significant-Gravitas-AutoGPT) |
 | 6420 | 2026-04-06 14:30:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (155126⭐ Python) | [reels/reel_6420_yt-dlp-yt-dlp](reels/reel_6420_yt-dlp-yt-dlp) |
 | 6421 | 2026-04-06 15:26:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (130305⭐ Python) | [reels/reel_6421_open-webui-open-webui](reels/reel_6421_open-webui-open-webui) |
+| 6422 | 2026-04-06 16:08:30 | [Vann-Dev/proxy-list](https://github.com/Vann-Dev/proxy-list) | ✅ shallow (124⭐ Python) | [reels/reel_6422_Vann-Dev-proxy-list](reels/reel_6422_Vann-Dev-proxy-list) |
