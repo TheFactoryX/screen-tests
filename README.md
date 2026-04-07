@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6432 | [Argh94/Proxy-List](https://github.com/Argh94/Proxy-List) | None · ⭐ 127 | 2026-04-07 |
+| #6433 | [hackclub/hackatime](https://github.com/hackclub/hackatime) | Ruby · ⭐ 118 | 2026-04-07 |
 ---
 
 ## 🎭 Selection Process
@@ -6521,3 +6521,4 @@ If you need permission, you're thinking too much.
 | 6430 | 2026-04-06 22:56:19 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111658⭐ TypeScript) | [reels/reel_6430_shadcn-ui-ui](reels/reel_6430_shadcn-ui-ui) |
 | 6431 | 2026-04-06 23:37:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111658⭐ TypeScript) | [reels/reel_6431_shadcn-ui-ui](reels/reel_6431_shadcn-ui-ui) |
 | 6432 | 2026-04-07 00:05:22 | [Argh94/Proxy-List](https://github.com/Argh94/Proxy-List) | ✅ shallow (127⭐ None) | [reels/reel_6432_Argh94-Proxy-List](reels/reel_6432_Argh94-Proxy-List) |
+| 6433 | 2026-04-07 03:30:28 | [hackclub/hackatime](https://github.com/hackclub/hackatime) | ✅ full (118⭐ Ruby) | [reels/reel_6433_hackclub-hackatime](reels/reel_6433_hackclub-hackatime) |
