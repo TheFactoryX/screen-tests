@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6444 | [IHA089/Drana-Infinity](https://github.com/IHA089/Drana-Infinity) | JavaScript · ⭐ 182 | 2026-04-07 |
+| #6445 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 705 | 2026-04-07 |
 ---
 
 ## 🎭 Selection Process
@@ -6533,3 +6533,4 @@ If you need permission, you're thinking too much.
 | 6442 | 2026-04-07 15:54:01 | [flux-framework/flux-core](https://github.com/flux-framework/flux-core) | ✅ full (199⭐ C) | [reels/reel_6442_flux-framework-flux-core](reels/reel_6442_flux-framework-flux-core) |
 | 6443 | 2026-04-07 16:56:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (130489⭐ Python) | [reels/reel_6443_open-webui-open-webui](reels/reel_6443_open-webui-open-webui) |
 | 6444 | 2026-04-07 17:58:27 | [IHA089/Drana-Infinity](https://github.com/IHA089/Drana-Infinity) | ✅ full (182⭐ JavaScript) | [reels/reel_6444_IHA089-Drana-Infinity](reels/reel_6444_IHA089-Drana-Infinity) |
+| 6445 | 2026-04-07 19:14:34 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (705⭐ Tcl) | [reels/reel_6445_rust-lang-crates.io-index](reels/reel_6445_rust-lang-crates.io-index) |
