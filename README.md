@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6435 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-07 |
+| #6436 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-07 |
 ---
 
 ## 🎭 Selection Process
@@ -6524,3 +6524,4 @@ If you need permission, you're thinking too much.
 | 6433 | 2026-04-07 03:30:28 | [hackclub/hackatime](https://github.com/hackclub/hackatime) | ✅ full (118⭐ Ruby) | [reels/reel_6433_hackclub-hackatime](reels/reel_6433_hackclub-hackatime) |
 | 6434 | 2026-04-07 05:29:09 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | ✅ shallow (624⭐ Emacs Lisp) | [reels/reel_6434_eval-exec-neomacs](reels/reel_6434_eval-exec-neomacs) |
 | 6435 | 2026-04-07 06:54:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114288⭐ TypeScript) | [reels/reel_6435_iptv-org-iptv](reels/reel_6435_iptv-org-iptv) |
+| 6436 | 2026-04-07 08:11:19 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111773⭐ Rust) | [reels/reel_6436_rust-lang-rust](reels/reel_6436_rust-lang-rust) |
