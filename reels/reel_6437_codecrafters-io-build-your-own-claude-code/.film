@@ -1,0 +1,24 @@
+{
+  "reel_number": 6437,
+  "recorded": "2026-04-07 09:19:44 UTC",
+  "repository": {
+    "full_name": "codecrafters-io/build-your-own-claude-code",
+    "url": "https://github.com/codecrafters-io/build-your-own-claude-code",
+    "clone_url": "https://github.com/codecrafters-io/build-your-own-claude-code.git",
+    "stars": 17,
+    "language": "Shell",
+    "size_kb": 590
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.677902
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 17 stars."
+  }
+}
