@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6441 | [BlockBuilder57/LSIIC](https://github.com/BlockBuilder57/LSIIC) | C# · ⭐ 11 | 2026-04-07 |
+| #6442 | [flux-framework/flux-core](https://github.com/flux-framework/flux-core) | C · ⭐ 199 | 2026-04-07 |
 ---
 
 ## 🎭 Selection Process
@@ -6530,3 +6530,4 @@ If you need permission, you're thinking too much.
 | 6439 | 2026-04-07 11:37:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111778⭐ Rust) | [reels/reel_6439_rust-lang-rust](reels/reel_6439_rust-lang-rust) |
 | 6440 | 2026-04-07 12:42:49 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (144027⭐ JavaScript) | [reels/reel_6440_affaan-m-everything-claude-code](reels/reel_6440_affaan-m-everything-claude-code) |
 | 6441 | 2026-04-07 14:16:15 | [BlockBuilder57/LSIIC](https://github.com/BlockBuilder57/LSIIC) | ✅ full (11⭐ C#) | [reels/reel_6441_BlockBuilder57-LSIIC](reels/reel_6441_BlockBuilder57-LSIIC) |
+| 6442 | 2026-04-07 15:54:01 | [flux-framework/flux-core](https://github.com/flux-framework/flux-core) | ✅ full (199⭐ C) | [reels/reel_6442_flux-framework-flux-core](reels/reel_6442_flux-framework-flux-core) |

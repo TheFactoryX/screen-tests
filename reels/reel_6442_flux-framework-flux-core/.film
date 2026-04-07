@@ -1,0 +1,24 @@
+{
+  "reel_number": 6442,
+  "recorded": "2026-04-07 15:54:01 UTC",
+  "repository": {
+    "full_name": "flux-framework/flux-core",
+    "url": "https://github.com/flux-framework/flux-core",
+    "clone_url": "https://github.com/flux-framework/flux-core.git",
+    "stars": 199,
+    "language": "C",
+    "size_kb": 56798
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 4.537797
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 199 stars."
+  }
+}
