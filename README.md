@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6438 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 284k | 2026-04-07 |
+| #6439 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-07 |
 ---
 
 ## 🎭 Selection Process
@@ -6527,3 +6527,4 @@ If you need permission, you're thinking too much.
 | 6436 | 2026-04-07 08:11:19 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111773⭐ Rust) | [reels/reel_6436_rust-lang-rust](reels/reel_6436_rust-lang-rust) |
 | 6437 | 2026-04-07 09:19:44 | [codecrafters-io/build-your-own-claude-code](https://github.com/codecrafters-io/build-your-own-claude-code) | ✅ full (17⭐ Shell) | [reels/reel_6437_codecrafters-io-build-your-own-claude-code](reels/reel_6437_codecrafters-io-build-your-own-claude-code) |
 | 6438 | 2026-04-07 10:33:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (284610⭐ None) | [reels/reel_6438_awesome-selfhosted-awesome-selfhosted](reels/reel_6438_awesome-selfhosted-awesome-selfhosted) |
+| 6439 | 2026-04-07 11:37:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111778⭐ Rust) | [reels/reel_6439_rust-lang-rust](reels/reel_6439_rust-lang-rust) |
