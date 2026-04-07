@@ -1,0 +1,24 @@
+{
+  "reel_number": 6432,
+  "recorded": "2026-04-07 00:05:22 UTC",
+  "repository": {
+    "full_name": "Argh94/Proxy-List",
+    "url": "https://github.com/Argh94/Proxy-List",
+    "clone_url": "https://github.com/Argh94/Proxy-List.git",
+    "stars": 127,
+    "language": null,
+    "size_kb": 129644
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 126,
+    "duration_seconds": 0.204717
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 127 stars."
+  }
+}
