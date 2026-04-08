@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6458 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 132k | 2026-04-08 |
+| #6459 | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | Python · ⭐ 100 | 2026-04-08 |
 ---
 
 ## 🎭 Selection Process
@@ -6547,3 +6547,4 @@ If you need permission, you're thinking too much.
 | 6456 | 2026-04-08 09:43:32 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132775⭐ Python) | [reels/reel_6456_langchain-ai-langchain](reels/reel_6456_langchain-ai-langchain) |
 | 6457 | 2026-04-08 10:44:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114331⭐ TypeScript) | [reels/reel_6457_iptv-org-iptv](reels/reel_6457_iptv-org-iptv) |
 | 6458 | 2026-04-08 11:40:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132787⭐ Python) | [reels/reel_6458_langchain-ai-langchain](reels/reel_6458_langchain-ai-langchain) |
+| 6459 | 2026-04-08 12:43:12 | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | ✅ shallow (100⭐ Python) | [reels/reel_6459_REIJI007-Adblock-Rule-Collection](reels/reel_6459_REIJI007-Adblock-Rule-Collection) |

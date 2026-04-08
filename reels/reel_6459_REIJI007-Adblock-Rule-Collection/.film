@@ -1,0 +1,24 @@
+{
+  "reel_number": 6459,
+  "recorded": "2026-04-08 12:43:12 UTC",
+  "repository": {
+    "full_name": "REIJI007/Adblock-Rule-Collection",
+    "url": "https://github.com/REIJI007/Adblock-Rule-Collection",
+    "clone_url": "https://github.com/REIJI007/Adblock-Rule-Collection.git",
+    "stars": 100,
+    "language": "Python",
+    "size_kb": 278984
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 272,
+    "duration_seconds": 25.578577
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 100 stars."
+  }
+}
