@@ -1,0 +1,24 @@
+{
+  "reel_number": 6453,
+  "recorded": "2026-04-08 05:30:44 UTC",
+  "repository": {
+    "full_name": "albertinopadin/ToyFlightSimulator",
+    "url": "https://github.com/albertinopadin/ToyFlightSimulator",
+    "clone_url": "https://github.com/albertinopadin/ToyFlightSimulator.git",
+    "stars": 12,
+    "language": "Swift",
+    "size_kb": 264242
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 258,
+    "duration_seconds": 5.833319
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 12 stars."
+  }
+}
