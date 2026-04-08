@@ -1,0 +1,24 @@
+{
+  "reel_number": 6460,
+  "recorded": "2026-04-08 14:19:01 UTC",
+  "repository": {
+    "full_name": "Soneso/stellar-ios-mac-sdk",
+    "url": "https://github.com/Soneso/stellar-ios-mac-sdk",
+    "clone_url": "https://github.com/Soneso/stellar-ios-mac-sdk.git",
+    "stars": 129,
+    "language": "Swift",
+    "size_kb": 130336
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 127,
+    "duration_seconds": 0.99543
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 129 stars."
+  }
+}
