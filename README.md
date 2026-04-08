@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6450 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-07 |
+| #6451 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 111k | 2026-04-08 |
 ---
 
 ## 🎭 Selection Process
@@ -6539,3 +6539,4 @@ If you need permission, you're thinking too much.
 | 6448 | 2026-04-07 21:57:57 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (144668⭐ JavaScript) | [reels/reel_6448_affaan-m-everything-claude-code](reels/reel_6448_affaan-m-everything-claude-code) |
 | 6449 | 2026-04-07 22:45:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111801⭐ Rust) | [reels/reel_6449_rust-lang-rust](reels/reel_6449_rust-lang-rust) |
 | 6450 | 2026-04-07 23:24:25 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111799⭐ Rust) | [reels/reel_6450_rust-lang-rust](reels/reel_6450_rust-lang-rust) |
+| 6451 | 2026-04-08 00:01:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111741⭐ TypeScript) | [reels/reel_6451_shadcn-ui-ui](reels/reel_6451_shadcn-ui-ui) |
