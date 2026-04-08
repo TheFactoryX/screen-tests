@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6467 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-04-08 |
+| #6468 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 155k | 2026-04-08 |
 ---
 
 ## 🎭 Selection Process
@@ -6556,3 +6556,4 @@ If you need permission, you're thinking too much.
 | 6465 | 2026-04-08 20:40:18 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140004⭐ Python) | [reels/reel_6465_ytdl-org-youtube-dl](reels/reel_6465_ytdl-org-youtube-dl) |
 | 6466 | 2026-04-08 21:28:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146691⭐ Python) | [reels/reel_6466_langflow-ai-langflow](reels/reel_6466_langflow-ai-langflow) |
 | 6467 | 2026-04-08 22:08:42 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102530⭐ Python) | [reels/reel_6467_deepseek-ai-DeepSeek-V3](reels/reel_6467_deepseek-ai-DeepSeek-V3) |
+| 6468 | 2026-04-08 23:00:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (155526⭐ Python) | [reels/reel_6468_yt-dlp-yt-dlp](reels/reel_6468_yt-dlp-yt-dlp) |
