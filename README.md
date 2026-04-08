@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6453 | [albertinopadin/ToyFlightSimulator](https://github.com/albertinopadin/ToyFlightSimulator) | Swift · ⭐ 12 | 2026-04-08 |
+| #6454 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 132k | 2026-04-08 |
 ---
 
 ## 🎭 Selection Process
@@ -6542,3 +6542,4 @@ If you need permission, you're thinking too much.
 | 6451 | 2026-04-08 00:01:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (111741⭐ TypeScript) | [reels/reel_6451_shadcn-ui-ui](reels/reel_6451_shadcn-ui-ui) |
 | 6452 | 2026-04-08 03:32:16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (155400⭐ Python) | [reels/reel_6452_yt-dlp-yt-dlp](reels/reel_6452_yt-dlp-yt-dlp) |
 | 6453 | 2026-04-08 05:30:44 | [albertinopadin/ToyFlightSimulator](https://github.com/albertinopadin/ToyFlightSimulator) | ✅ shallow (12⭐ Swift) | [reels/reel_6453_albertinopadin-ToyFlightSimulator](reels/reel_6453_albertinopadin-ToyFlightSimulator) |
+| 6454 | 2026-04-08 07:00:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132742⭐ Python) | [reels/reel_6454_langchain-ai-langchain](reels/reel_6454_langchain-ai-langchain) |
