@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6461 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-08 |
+| #6462 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 146k | 2026-04-08 |
 ---
 
 ## 🎭 Selection Process
@@ -6550,3 +6550,4 @@ If you need permission, you're thinking too much.
 | 6459 | 2026-04-08 12:43:12 | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | ✅ shallow (100⭐ Python) | [reels/reel_6459_REIJI007-Adblock-Rule-Collection](reels/reel_6459_REIJI007-Adblock-Rule-Collection) |
 | 6460 | 2026-04-08 14:19:01 | [Soneso/stellar-ios-mac-sdk](https://github.com/Soneso/stellar-ios-mac-sdk) | ✅ shallow (129⭐ Swift) | [reels/reel_6460_Soneso-stellar-ios-mac-sdk](reels/reel_6460_Soneso-stellar-ios-mac-sdk) |
 | 6461 | 2026-04-08 15:55:46 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111827⭐ Rust) | [reels/reel_6461_rust-lang-rust](reels/reel_6461_rust-lang-rust) |
+| 6462 | 2026-04-08 17:01:10 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (146490⭐ JavaScript) | [reels/reel_6462_affaan-m-everything-claude-code](reels/reel_6462_affaan-m-everything-claude-code) |
