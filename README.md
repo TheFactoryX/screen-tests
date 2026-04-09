@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6482 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 420k | 2026-04-09 |
+| #6483 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 155k | 2026-04-09 |
 ---
 
 ## 🎭 Selection Process
@@ -6571,3 +6571,4 @@ If you need permission, you're thinking too much.
 | 6480 | 2026-04-09 17:35:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114381⭐ TypeScript) | [reels/reel_6480_iptv-org-iptv](reels/reel_6480_iptv-org-iptv) |
 | 6481 | 2026-04-09 18:38:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183269⭐ Python) | [reels/reel_6481_Significant-Gravitas-AutoGPT](reels/reel_6481_Significant-Gravitas-AutoGPT) |
 | 6482 | 2026-04-09 19:49:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (420462⭐ Python) | [reels/reel_6482_public-apis-public-apis](reels/reel_6482_public-apis-public-apis) |
+| 6483 | 2026-04-09 20:49:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (155751⭐ Python) | [reels/reel_6483_yt-dlp-yt-dlp](reels/reel_6483_yt-dlp-yt-dlp) |
