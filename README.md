@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6475 | [JustKappaMan/Steam-Key-Generator](https://github.com/JustKappaMan/Steam-Key-Generator) | C · ⭐ 11 | 2026-04-09 |
+| #6476 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 130k | 2026-04-09 |
 ---
 
 ## 🎭 Selection Process
@@ -6564,3 +6564,4 @@ If you need permission, you're thinking too much.
 | 6473 | 2026-04-09 07:54:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114369⭐ TypeScript) | [reels/reel_6473_iptv-org-iptv](reels/reel_6473_iptv-org-iptv) |
 | 6474 | 2026-04-09 09:05:06 | [think41/extrasuite](https://github.com/think41/extrasuite) | ✅ full (135⭐ Python) | [reels/reel_6474_think41-extrasuite](reels/reel_6474_think41-extrasuite) |
 | 6475 | 2026-04-09 10:34:10 | [JustKappaMan/Steam-Key-Generator](https://github.com/JustKappaMan/Steam-Key-Generator) | ✅ full (11⭐ C) | [reels/reel_6475_JustKappaMan-Steam-Key-Generator](reels/reel_6475_JustKappaMan-Steam-Key-Generator) |
+| 6476 | 2026-04-09 11:36:39 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (130850⭐ Python) | [reels/reel_6476_open-webui-open-webui](reels/reel_6476_open-webui-open-webui) |
