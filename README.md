@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6478 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-09 |
+| #6479 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 148k | 2026-04-09 |
 ---
 
 ## 🎭 Selection Process
@@ -6567,3 +6567,4 @@ If you need permission, you're thinking too much.
 | 6476 | 2026-04-09 11:36:39 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (130850⭐ Python) | [reels/reel_6476_open-webui-open-webui](reels/reel_6476_open-webui-open-webui) |
 | 6477 | 2026-04-09 12:45:52 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (132908⭐ Python) | [reels/reel_6477_langchain-ai-langchain](reels/reel_6477_langchain-ai-langchain) |
 | 6478 | 2026-04-09 14:52:30 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114376⭐ TypeScript) | [reels/reel_6478_iptv-org-iptv](reels/reel_6478_iptv-org-iptv) |
+| 6479 | 2026-04-09 16:16:23 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (148275⭐ JavaScript) | [reels/reel_6479_affaan-m-everything-claude-code](reels/reel_6479_affaan-m-everything-claude-code) |
