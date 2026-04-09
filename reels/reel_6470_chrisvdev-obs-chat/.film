@@ -1,0 +1,24 @@
+{
+  "reel_number": 6470,
+  "recorded": "2026-04-09 02:05:49 UTC",
+  "repository": {
+    "full_name": "chrisvdev/obs-chat",
+    "url": "https://github.com/chrisvdev/obs-chat",
+    "clone_url": "https://github.com/chrisvdev/obs-chat.git",
+    "stars": 31,
+    "language": "JavaScript",
+    "size_kb": 10348
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.11017
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 31 stars."
+  }
+}

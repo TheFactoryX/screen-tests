@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6469 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 146k | 2026-04-08 |
+| #6470 | [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) | JavaScript · ⭐ 31 | 2026-04-09 |
 ---
 
 ## 🎭 Selection Process
@@ -6558,3 +6558,4 @@ If you need permission, you're thinking too much.
 | 6467 | 2026-04-08 22:08:42 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102530⭐ Python) | [reels/reel_6467_deepseek-ai-DeepSeek-V3](reels/reel_6467_deepseek-ai-DeepSeek-V3) |
 | 6468 | 2026-04-08 23:00:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (155526⭐ Python) | [reels/reel_6468_yt-dlp-yt-dlp](reels/reel_6468_yt-dlp-yt-dlp) |
 | 6469 | 2026-04-08 23:52:12 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (146809⭐ JavaScript) | [reels/reel_6469_affaan-m-everything-claude-code](reels/reel_6469_affaan-m-everything-claude-code) |
+| 6470 | 2026-04-09 02:05:49 | [chrisvdev/obs-chat](https://github.com/chrisvdev/obs-chat) | ✅ full (31⭐ JavaScript) | [reels/reel_6470_chrisvdev-obs-chat](reels/reel_6470_chrisvdev-obs-chat) |
