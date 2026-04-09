@@ -1,0 +1,24 @@
+{
+  "reel_number": 6472,
+  "recorded": "2026-04-09 06:10:07 UTC",
+  "repository": {
+    "full_name": "SeattleDevs/letsencrypt-cloudflare-hook",
+    "url": "https://github.com/SeattleDevs/letsencrypt-cloudflare-hook",
+    "clone_url": "https://github.com/SeattleDevs/letsencrypt-cloudflare-hook.git",
+    "stars": 30,
+    "language": "Python",
+    "size_kb": 109
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 1.155589
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 30 stars."
+  }
+}
