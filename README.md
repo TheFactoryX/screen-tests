@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6484 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 285k | 2026-04-09 |
+| #6485 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-09 |
 ---
 
 ## 🎭 Selection Process
@@ -6573,3 +6573,4 @@ If you need permission, you're thinking too much.
 | 6482 | 2026-04-09 19:49:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (420462⭐ Python) | [reels/reel_6482_public-apis-public-apis](reels/reel_6482_public-apis-public-apis) |
 | 6483 | 2026-04-09 20:49:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (155751⭐ Python) | [reels/reel_6483_yt-dlp-yt-dlp](reels/reel_6483_yt-dlp-yt-dlp) |
 | 6484 | 2026-04-09 21:43:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (285066⭐ None) | [reels/reel_6484_awesome-selfhosted-awesome-selfhosted](reels/reel_6484_awesome-selfhosted-awesome-selfhosted) |
+| 6485 | 2026-04-09 22:25:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111871⭐ Rust) | [reels/reel_6485_rust-lang-rust](reels/reel_6485_rust-lang-rust) |
