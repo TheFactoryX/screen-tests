@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6489 | [egh/zotxt](https://github.com/egh/zotxt) | JavaScript · ⭐ 376 | 2026-04-10 |
+| #6490 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-10 |
 ---
 
 ## 🎭 Selection Process
@@ -6578,3 +6578,4 @@ If you need permission, you're thinking too much.
 | 6487 | 2026-04-09 23:53:12 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (105078⭐ Shell) | [reels/reel_6487_papers-we-love-papers-we-love](reels/reel_6487_papers-we-love-papers-we-love) |
 | 6488 | 2026-04-10 02:25:46 | [Azure-Samples/functions-markdown-agent](https://github.com/Azure-Samples/functions-markdown-agent) | ✅ full (27⭐ Python) | [reels/reel_6488_Azure-Samples-functions-markdown-agent](reels/reel_6488_Azure-Samples-functions-markdown-agent) |
 | 6489 | 2026-04-10 05:11:30 | [egh/zotxt](https://github.com/egh/zotxt) | ✅ full (376⭐ JavaScript) | [reels/reel_6489_egh-zotxt](reels/reel_6489_egh-zotxt) |
+| 6490 | 2026-04-10 07:00:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114386⭐ TypeScript) | [reels/reel_6490_iptv-org-iptv](reels/reel_6490_iptv-org-iptv) |
