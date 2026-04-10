@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6496 | [knative/client](https://github.com/knative/client) | Go · ⭐ 381 | 2026-04-10 |
+| #6497 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 112k | 2026-04-10 |
 ---
 
 ## 🎭 Selection Process
@@ -6585,3 +6585,4 @@ If you need permission, you're thinking too much.
 | 6494 | 2026-04-10 11:59:53 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100794⭐ TypeScript) | [reels/reel_6494_google-gemini-gemini-cli](reels/reel_6494_google-gemini-gemini-cli) |
 | 6495 | 2026-04-10 13:41:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111896⭐ Rust) | [reels/reel_6495_rust-lang-rust](reels/reel_6495_rust-lang-rust) |
 | 6496 | 2026-04-10 14:37:13 | [knative/client](https://github.com/knative/client) | ✅ full (381⭐ Go) | [reels/reel_6496_knative-client](reels/reel_6496_knative-client) |
+| 6497 | 2026-04-10 15:32:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112009⭐ TypeScript) | [reels/reel_6497_shadcn-ui-ui](reels/reel_6497_shadcn-ui-ui) |
