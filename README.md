@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6499 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 285k | 2026-04-10 |
+| #6500 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-04-10 |
 ---
 
 ## 🎭 Selection Process
@@ -6588,3 +6588,4 @@ If you need permission, you're thinking too much.
 | 6497 | 2026-04-10 15:32:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112009⭐ TypeScript) | [reels/reel_6497_shadcn-ui-ui](reels/reel_6497_shadcn-ui-ui) |
 | 6498 | 2026-04-10 16:34:47 | [Barma-lej/landroid-card](https://github.com/Barma-lej/landroid-card) | ✅ full (129⭐ JavaScript) | [reels/reel_6498_Barma-lej-landroid-card](reels/reel_6498_Barma-lej-landroid-card) |
 | 6499 | 2026-04-10 17:34:37 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (285206⭐ None) | [reels/reel_6499_awesome-selfhosted-awesome-selfhosted](reels/reel_6499_awesome-selfhosted-awesome-selfhosted) |
+| 6500 | 2026-04-10 18:33:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146778⭐ Python) | [reels/reel_6500_langflow-ai-langflow](reels/reel_6500_langflow-ai-langflow) |
