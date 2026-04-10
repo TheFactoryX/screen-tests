@@ -1,0 +1,24 @@
+{
+  "reel_number": 6507,
+  "recorded": "2026-04-10 23:58:51 UTC",
+  "repository": {
+    "full_name": "jovibor/HexCtrl",
+    "url": "https://github.com/jovibor/HexCtrl",
+    "clone_url": "https://github.com/jovibor/HexCtrl.git",
+    "stars": 212,
+    "language": "C++",
+    "size_kb": 8228
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 2.329438
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 212 stars."
+  }
+}
