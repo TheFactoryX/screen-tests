@@ -1,0 +1,24 @@
+{
+  "reel_number": 6488,
+  "recorded": "2026-04-10 02:25:46 UTC",
+  "repository": {
+    "full_name": "Azure-Samples/functions-markdown-agent",
+    "url": "https://github.com/Azure-Samples/functions-markdown-agent",
+    "clone_url": "https://github.com/Azure-Samples/functions-markdown-agent.git",
+    "stars": 27,
+    "language": "Python",
+    "size_kb": 421
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.198575
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 27 stars."
+  }
+}
