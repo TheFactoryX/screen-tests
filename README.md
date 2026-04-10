@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6493 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 285k | 2026-04-10 |
+| #6494 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 100k | 2026-04-10 |
 ---
 
 ## 🎭 Selection Process
@@ -6582,3 +6582,4 @@ If you need permission, you're thinking too much.
 | 6491 | 2026-04-10 08:46:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183287⭐ Python) | [reels/reel_6491_Significant-Gravitas-AutoGPT](reels/reel_6491_Significant-Gravitas-AutoGPT) |
 | 6492 | 2026-04-10 10:06:47 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (149414⭐ JavaScript) | [reels/reel_6492_affaan-m-everything-claude-code](reels/reel_6492_affaan-m-everything-claude-code) |
 | 6493 | 2026-04-10 11:11:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (285188⭐ None) | [reels/reel_6493_awesome-selfhosted-awesome-selfhosted](reels/reel_6493_awesome-selfhosted-awesome-selfhosted) |
+| 6494 | 2026-04-10 11:59:53 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (100794⭐ TypeScript) | [reels/reel_6494_google-gemini-gemini-cli](reels/reel_6494_google-gemini-gemini-cli) |
