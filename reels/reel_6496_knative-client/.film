@@ -1,0 +1,24 @@
+{
+  "reel_number": 6496,
+  "recorded": "2026-04-10 14:37:13 UTC",
+  "repository": {
+    "full_name": "knative/client",
+    "url": "https://github.com/knative/client",
+    "clone_url": "https://github.com/knative/client.git",
+    "stars": 381,
+    "language": "Go",
+    "size_kb": 42080
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 41,
+    "duration_seconds": 2.863934
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 381 stars."
+  }
+}
