@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6505 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 285k | 2026-04-10 |
+| #6506 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 112k | 2026-04-10 |
 ---
 
 ## 🎭 Selection Process
@@ -6594,3 +6594,4 @@ If you need permission, you're thinking too much.
 | 6503 | 2026-04-10 21:02:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (183455⭐ TypeScript) | [reels/reel_6503_n8n-io-n8n](reels/reel_6503_n8n-io-n8n) |
 | 6504 | 2026-04-10 21:53:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146786⭐ Python) | [reels/reel_6504_langflow-ai-langflow](reels/reel_6504_langflow-ai-langflow) |
 | 6505 | 2026-04-10 22:35:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (285232⭐ None) | [reels/reel_6505_awesome-selfhosted-awesome-selfhosted](reels/reel_6505_awesome-selfhosted-awesome-selfhosted) |
+| 6506 | 2026-04-10 23:19:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112028⭐ TypeScript) | [reels/reel_6506_shadcn-ui-ui](reels/reel_6506_shadcn-ui-ui) |
