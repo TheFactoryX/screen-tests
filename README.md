@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6511 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 108k | 2026-04-11 |
+| #6512 | [vsedov/PoloVim](https://github.com/vsedov/PoloVim) | Lua · ⭐ 86 | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6600,3 +6600,4 @@ If you need permission, you're thinking too much.
 | 6509 | 2026-04-11 04:53:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133108⭐ Python) | [reels/reel_6509_langchain-ai-langchain](reels/reel_6509_langchain-ai-langchain) |
 | 6510 | 2026-04-11 05:58:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114449⭐ TypeScript) | [reels/reel_6510_iptv-org-iptv](reels/reel_6510_iptv-org-iptv) |
 | 6511 | 2026-04-11 07:12:37 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (108391⭐ Python) | [reels/reel_6511_Comfy-Org-ComfyUI](reels/reel_6511_Comfy-Org-ComfyUI) |
+| 6512 | 2026-04-11 07:57:37 | [vsedov/PoloVim](https://github.com/vsedov/PoloVim) | ✅ full (86⭐ Lua) | [reels/reel_6512_vsedov-PoloVim](reels/reel_6512_vsedov-PoloVim) |
