@@ -1,0 +1,24 @@
+{
+  "reel_number": 6531,
+  "recorded": "2026-04-11 22:01:17 UTC",
+  "repository": {
+    "full_name": "Makisuo/maple",
+    "url": "https://github.com/Makisuo/maple",
+    "clone_url": "https://github.com/Makisuo/maple.git",
+    "stars": 258,
+    "language": "TypeScript",
+    "size_kb": 9998
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 1.308532
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 258 stars."
+  }
+}
