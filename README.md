@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6532 | [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) | TypeScript · ⭐ 54 | 2026-04-11 |
+| #6533 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6621,3 +6621,4 @@ If you need permission, you're thinking too much.
 | 6530 | 2026-04-11 21:31:01 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (105142⭐ Shell) | [reels/reel_6530_papers-we-love-papers-we-love](reels/reel_6530_papers-we-love-papers-we-love) |
 | 6531 | 2026-04-11 22:01:17 | [Makisuo/maple](https://github.com/Makisuo/maple) | ✅ full (258⭐ TypeScript) | [reels/reel_6531_Makisuo-maple](reels/reel_6531_Makisuo-maple) |
 | 6532 | 2026-04-11 22:51:29 | [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) | ✅ full (54⭐ TypeScript) | [reels/reel_6532_mickadesign-fluid-functionalism](reels/reel_6532_mickadesign-fluid-functionalism) |
+| 6533 | 2026-04-11 23:31:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114500⭐ TypeScript) | [reels/reel_6533_iptv-org-iptv](reels/reel_6533_iptv-org-iptv) |
