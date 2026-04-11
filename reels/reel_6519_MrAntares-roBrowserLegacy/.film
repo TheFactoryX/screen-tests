@@ -1,0 +1,24 @@
+{
+  "reel_number": 6519,
+  "recorded": "2026-04-11 13:30:19 UTC",
+  "repository": {
+    "full_name": "MrAntares/roBrowserLegacy",
+    "url": "https://github.com/MrAntares/roBrowserLegacy",
+    "clone_url": "https://github.com/MrAntares/roBrowserLegacy.git",
+    "stars": 294,
+    "language": "JavaScript",
+    "size_kb": 30765
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 2.070077
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 294 stars."
+  }
+}
