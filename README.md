@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6514 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 150k | 2026-04-11 |
+| #6515 | [zTomma/WeirdcoreHUD](https://github.com/zTomma/WeirdcoreHUD) | ReScript · ⭐ 11 | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6603,3 +6603,4 @@ If you need permission, you're thinking too much.
 | 6512 | 2026-04-11 07:57:37 | [vsedov/PoloVim](https://github.com/vsedov/PoloVim) | ✅ full (86⭐ Lua) | [reels/reel_6512_vsedov-PoloVim](reels/reel_6512_vsedov-PoloVim) |
 | 6513 | 2026-04-11 08:52:06 | [siutsin/otaru](https://github.com/siutsin/otaru) | ✅ full (12⭐ HCL) | [reels/reel_6513_siutsin-otaru](reels/reel_6513_siutsin-otaru) |
 | 6514 | 2026-04-11 09:37:49 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (150625⭐ JavaScript) | [reels/reel_6514_affaan-m-everything-claude-code](reels/reel_6514_affaan-m-everything-claude-code) |
+| 6515 | 2026-04-11 10:18:10 | [zTomma/WeirdcoreHUD](https://github.com/zTomma/WeirdcoreHUD) | ✅ readme_only (11⭐ ReScript) | [reels/reel_6515_zTomma-WeirdcoreHUD](reels/reel_6515_zTomma-WeirdcoreHUD) |
