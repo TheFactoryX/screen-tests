@@ -1,0 +1,24 @@
+{
+  "reel_number": 6520,
+  "recorded": "2026-04-11 14:21:03 UTC",
+  "repository": {
+    "full_name": "SimonMarquis/Android-Playground",
+    "url": "https://github.com/SimonMarquis/Android-Playground",
+    "clone_url": "https://github.com/SimonMarquis/Android-Playground.git",
+    "stars": 16,
+    "language": "Kotlin",
+    "size_kb": 3472
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.625188
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 16 stars."
+  }
+}

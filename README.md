@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6519 | [MrAntares/roBrowserLegacy](https://github.com/MrAntares/roBrowserLegacy) | JavaScript · ⭐ 294 | 2026-04-11 |
+| #6520 | [SimonMarquis/Android-Playground](https://github.com/SimonMarquis/Android-Playground) | Kotlin · ⭐ 16 | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6608,3 +6608,4 @@ If you need permission, you're thinking too much.
 | 6517 | 2026-04-11 11:45:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146800⭐ Python) | [reels/reel_6517_langflow-ai-langflow](reels/reel_6517_langflow-ai-langflow) |
 | 6518 | 2026-04-11 12:02:53 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183310⭐ Python) | [reels/reel_6518_Significant-Gravitas-AutoGPT](reels/reel_6518_Significant-Gravitas-AutoGPT) |
 | 6519 | 2026-04-11 13:30:19 | [MrAntares/roBrowserLegacy](https://github.com/MrAntares/roBrowserLegacy) | ✅ full (294⭐ JavaScript) | [reels/reel_6519_MrAntares-roBrowserLegacy](reels/reel_6519_MrAntares-roBrowserLegacy) |
+| 6520 | 2026-04-11 14:21:03 | [SimonMarquis/Android-Playground](https://github.com/SimonMarquis/Android-Playground) | ✅ full (16⭐ Kotlin) | [reels/reel_6520_SimonMarquis-Android-Playground](reels/reel_6520_SimonMarquis-Android-Playground) |
