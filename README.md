@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6510 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-11 |
+| #6511 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 108k | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6599,3 +6599,4 @@ If you need permission, you're thinking too much.
 | 6508 | 2026-04-11 02:54:42 | [databay-labs/free-proxy-list](https://github.com/databay-labs/free-proxy-list) | ✅ shallow (102⭐ None) | [reels/reel_6508_databay-labs-free-proxy-list](reels/reel_6508_databay-labs-free-proxy-list) |
 | 6509 | 2026-04-11 04:53:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133108⭐ Python) | [reels/reel_6509_langchain-ai-langchain](reels/reel_6509_langchain-ai-langchain) |
 | 6510 | 2026-04-11 05:58:59 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114449⭐ TypeScript) | [reels/reel_6510_iptv-org-iptv](reels/reel_6510_iptv-org-iptv) |
+| 6511 | 2026-04-11 07:12:37 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (108391⭐ Python) | [reels/reel_6511_Comfy-Org-ComfyUI](reels/reel_6511_Comfy-Org-ComfyUI) |
