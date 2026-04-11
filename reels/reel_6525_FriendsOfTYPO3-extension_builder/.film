@@ -1,0 +1,24 @@
+{
+  "reel_number": 6525,
+  "recorded": "2026-04-11 17:56:45 UTC",
+  "repository": {
+    "full_name": "FriendsOfTYPO3/extension_builder",
+    "url": "https://github.com/FriendsOfTYPO3/extension_builder",
+    "clone_url": "https://github.com/FriendsOfTYPO3/extension_builder.git",
+    "stars": 112,
+    "language": "PHP",
+    "size_kb": 13170
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 0.995529
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 112 stars."
+  }
+}

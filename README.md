@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6524 | [MaxLeiter/maxleiter.com](https://github.com/MaxLeiter/maxleiter.com) | JavaScript · ⭐ 233 | 2026-04-11 |
+| #6525 | [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) | PHP · ⭐ 112 | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6613,3 +6613,4 @@ If you need permission, you're thinking too much.
 | 6522 | 2026-04-11 15:47:34 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262826⭐ None) | [reels/reel_6522_practical-tutorials-project-based-learning](reels/reel_6522_practical-tutorials-project-based-learning) |
 | 6523 | 2026-04-11 16:35:29 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111912⭐ Rust) | [reels/reel_6523_rust-lang-rust](reels/reel_6523_rust-lang-rust) |
 | 6524 | 2026-04-11 17:17:08 | [MaxLeiter/maxleiter.com](https://github.com/MaxLeiter/maxleiter.com) | ✅ full (233⭐ JavaScript) | [reels/reel_6524_MaxLeiter-maxleiter.com](reels/reel_6524_MaxLeiter-maxleiter.com) |
+| 6525 | 2026-04-11 17:56:45 | [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) | ✅ full (112⭐ PHP) | [reels/reel_6525_FriendsOfTYPO3-extension_builder](reels/reel_6525_FriendsOfTYPO3-extension_builder) |
