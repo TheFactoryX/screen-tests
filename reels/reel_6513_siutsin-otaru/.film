@@ -1,0 +1,24 @@
+{
+  "reel_number": 6513,
+  "recorded": "2026-04-11 08:52:06 UTC",
+  "repository": {
+    "full_name": "siutsin/otaru",
+    "url": "https://github.com/siutsin/otaru",
+    "clone_url": "https://github.com/siutsin/otaru.git",
+    "stars": 12,
+    "language": "HCL",
+    "size_kb": 11878
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 0.482918
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HCL",
+    "director_note": "A HCL repository. 12 stars."
+  }
+}
