@@ -1,0 +1,24 @@
+{
+  "reel_number": 6508,
+  "recorded": "2026-04-11 02:54:42 UTC",
+  "repository": {
+    "full_name": "databay-labs/free-proxy-list",
+    "url": "https://github.com/databay-labs/free-proxy-list",
+    "clone_url": "https://github.com/databay-labs/free-proxy-list.git",
+    "stars": 102,
+    "language": null,
+    "size_kb": 215669
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 210,
+    "duration_seconds": 0.120573
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 102 stars."
+  }
+}

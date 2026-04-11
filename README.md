@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6507 | [jovibor/HexCtrl](https://github.com/jovibor/HexCtrl) | C++ · ⭐ 212 | 2026-04-10 |
+| #6508 | [databay-labs/free-proxy-list](https://github.com/databay-labs/free-proxy-list) | None · ⭐ 102 | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6596,3 +6596,4 @@ If you need permission, you're thinking too much.
 | 6505 | 2026-04-10 22:35:13 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (285232⭐ None) | [reels/reel_6505_awesome-selfhosted-awesome-selfhosted](reels/reel_6505_awesome-selfhosted-awesome-selfhosted) |
 | 6506 | 2026-04-10 23:19:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112028⭐ TypeScript) | [reels/reel_6506_shadcn-ui-ui](reels/reel_6506_shadcn-ui-ui) |
 | 6507 | 2026-04-10 23:58:51 | [jovibor/HexCtrl](https://github.com/jovibor/HexCtrl) | ✅ full (212⭐ C++) | [reels/reel_6507_jovibor-HexCtrl](reels/reel_6507_jovibor-HexCtrl) |
+| 6508 | 2026-04-11 02:54:42 | [databay-labs/free-proxy-list](https://github.com/databay-labs/free-proxy-list) | ✅ shallow (102⭐ None) | [reels/reel_6508_databay-labs-free-proxy-list](reels/reel_6508_databay-labs-free-proxy-list) |
