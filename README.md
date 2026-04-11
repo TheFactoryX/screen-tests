@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6529 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 131k | 2026-04-11 |
+| #6530 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 105k | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6618,3 +6618,4 @@ If you need permission, you're thinking too much.
 | 6527 | 2026-04-11 19:33:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (285391⭐ None) | [reels/reel_6527_awesome-selfhosted-awesome-selfhosted](reels/reel_6527_awesome-selfhosted-awesome-selfhosted) |
 | 6528 | 2026-04-11 20:00:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (488988⭐ Markdown) | [reels/reel_6528_codecrafters-io-build-your-own-x](reels/reel_6528_codecrafters-io-build-your-own-x) |
 | 6529 | 2026-04-11 20:50:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (131292⭐ Python) | [reels/reel_6529_open-webui-open-webui](reels/reel_6529_open-webui-open-webui) |
+| 6530 | 2026-04-11 21:31:01 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (105142⭐ Shell) | [reels/reel_6530_papers-we-love-papers-we-love](reels/reel_6530_papers-we-love-papers-we-love) |
