@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6522 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 262k | 2026-04-11 |
+| #6523 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6611,3 +6611,4 @@ If you need permission, you're thinking too much.
 | 6520 | 2026-04-11 14:21:03 | [SimonMarquis/Android-Playground](https://github.com/SimonMarquis/Android-Playground) | ✅ full (16⭐ Kotlin) | [reels/reel_6520_SimonMarquis-Android-Playground](reels/reel_6520_SimonMarquis-Android-Playground) |
 | 6521 | 2026-04-11 15:01:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114479⭐ TypeScript) | [reels/reel_6521_iptv-org-iptv](reels/reel_6521_iptv-org-iptv) |
 | 6522 | 2026-04-11 15:47:34 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262826⭐ None) | [reels/reel_6522_practical-tutorials-project-based-learning](reels/reel_6522_practical-tutorials-project-based-learning) |
+| 6523 | 2026-04-11 16:35:29 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111912⭐ Rust) | [reels/reel_6523_rust-lang-rust](reels/reel_6523_rust-lang-rust) |
