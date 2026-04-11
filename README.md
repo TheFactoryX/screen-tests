@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6527 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 285k | 2026-04-11 |
+| #6528 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 488k | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6616,3 +6616,4 @@ If you need permission, you're thinking too much.
 | 6525 | 2026-04-11 17:56:45 | [FriendsOfTYPO3/extension_builder](https://github.com/FriendsOfTYPO3/extension_builder) | ✅ full (112⭐ PHP) | [reels/reel_6525_FriendsOfTYPO3-extension_builder](reels/reel_6525_FriendsOfTYPO3-extension_builder) |
 | 6526 | 2026-04-11 18:49:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112112⭐ TypeScript) | [reels/reel_6526_shadcn-ui-ui](reels/reel_6526_shadcn-ui-ui) |
 | 6527 | 2026-04-11 19:33:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (285391⭐ None) | [reels/reel_6527_awesome-selfhosted-awesome-selfhosted](reels/reel_6527_awesome-selfhosted-awesome-selfhosted) |
+| 6528 | 2026-04-11 20:00:43 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (488988⭐ Markdown) | [reels/reel_6528_codecrafters-io-build-your-own-x](reels/reel_6528_codecrafters-io-build-your-own-x) |
