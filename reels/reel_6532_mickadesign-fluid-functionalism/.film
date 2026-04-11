@@ -1,0 +1,24 @@
+{
+  "reel_number": 6532,
+  "recorded": "2026-04-11 22:51:29 UTC",
+  "repository": {
+    "full_name": "mickadesign/fluid-functionalism",
+    "url": "https://github.com/mickadesign/fluid-functionalism",
+    "clone_url": "https://github.com/mickadesign/fluid-functionalism.git",
+    "stars": 54,
+    "language": "TypeScript",
+    "size_kb": 1137
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.706496
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 54 stars."
+  }
+}

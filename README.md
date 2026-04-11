@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6531 | [Makisuo/maple](https://github.com/Makisuo/maple) | TypeScript · ⭐ 258 | 2026-04-11 |
+| #6532 | [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) | TypeScript · ⭐ 54 | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6620,3 +6620,4 @@ If you need permission, you're thinking too much.
 | 6529 | 2026-04-11 20:50:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (131292⭐ Python) | [reels/reel_6529_open-webui-open-webui](reels/reel_6529_open-webui-open-webui) |
 | 6530 | 2026-04-11 21:31:01 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (105142⭐ Shell) | [reels/reel_6530_papers-we-love-papers-we-love](reels/reel_6530_papers-we-love-papers-we-love) |
 | 6531 | 2026-04-11 22:01:17 | [Makisuo/maple](https://github.com/Makisuo/maple) | ✅ full (258⭐ TypeScript) | [reels/reel_6531_Makisuo-maple](reels/reel_6531_Makisuo-maple) |
+| 6532 | 2026-04-11 22:51:29 | [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism) | ✅ full (54⭐ TypeScript) | [reels/reel_6532_mickadesign-fluid-functionalism](reels/reel_6532_mickadesign-fluid-functionalism) |
