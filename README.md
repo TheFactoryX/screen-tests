@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6517 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-04-11 |
+| #6518 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6606,3 +6606,4 @@ If you need permission, you're thinking too much.
 | 6515 | 2026-04-11 10:18:10 | [zTomma/WeirdcoreHUD](https://github.com/zTomma/WeirdcoreHUD) | ✅ readme_only (11⭐ ReScript) | [reels/reel_6515_zTomma-WeirdcoreHUD](reels/reel_6515_zTomma-WeirdcoreHUD) |
 | 6516 | 2026-04-11 11:01:29 | [watchttvv/free-proxy-list](https://github.com/watchttvv/free-proxy-list) | ✅ full (126⭐ Python) | [reels/reel_6516_watchttvv-free-proxy-list](reels/reel_6516_watchttvv-free-proxy-list) |
 | 6517 | 2026-04-11 11:45:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146800⭐ Python) | [reels/reel_6517_langflow-ai-langflow](reels/reel_6517_langflow-ai-langflow) |
+| 6518 | 2026-04-11 12:02:53 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183310⭐ Python) | [reels/reel_6518_Significant-Gravitas-AutoGPT](reels/reel_6518_Significant-Gravitas-AutoGPT) |
