@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6521 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-11 |
+| #6522 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 262k | 2026-04-11 |
 ---
 
 ## 🎭 Selection Process
@@ -6610,3 +6610,4 @@ If you need permission, you're thinking too much.
 | 6519 | 2026-04-11 13:30:19 | [MrAntares/roBrowserLegacy](https://github.com/MrAntares/roBrowserLegacy) | ✅ full (294⭐ JavaScript) | [reels/reel_6519_MrAntares-roBrowserLegacy](reels/reel_6519_MrAntares-roBrowserLegacy) |
 | 6520 | 2026-04-11 14:21:03 | [SimonMarquis/Android-Playground](https://github.com/SimonMarquis/Android-Playground) | ✅ full (16⭐ Kotlin) | [reels/reel_6520_SimonMarquis-Android-Playground](reels/reel_6520_SimonMarquis-Android-Playground) |
 | 6521 | 2026-04-11 15:01:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114479⭐ TypeScript) | [reels/reel_6521_iptv-org-iptv](reels/reel_6521_iptv-org-iptv) |
+| 6522 | 2026-04-11 15:47:34 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (262826⭐ None) | [reels/reel_6522_practical-tutorials-project-based-learning](reels/reel_6522_practical-tutorials-project-based-learning) |
