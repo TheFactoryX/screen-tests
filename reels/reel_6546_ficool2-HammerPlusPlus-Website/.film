@@ -1,0 +1,24 @@
+{
+  "reel_number": 6546,
+  "recorded": "2026-04-12 15:03:40 UTC",
+  "repository": {
+    "full_name": "ficool2/HammerPlusPlus-Website",
+    "url": "https://github.com/ficool2/HammerPlusPlus-Website",
+    "clone_url": "https://github.com/ficool2/HammerPlusPlus-Website.git",
+    "stars": 116,
+    "language": "HTML",
+    "size_kb": 52102
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 50,
+    "duration_seconds": 2.068476
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 116 stars."
+  }
+}
