@@ -1,0 +1,24 @@
+{
+  "reel_number": 6549,
+  "recorded": "2026-04-12 17:19:26 UTC",
+  "repository": {
+    "full_name": "CelestoAI/SmolVM",
+    "url": "https://github.com/CelestoAI/SmolVM",
+    "clone_url": "https://github.com/CelestoAI/SmolVM.git",
+    "stars": 235,
+    "language": "Python",
+    "size_kb": 950
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 1.027871
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 235 stars."
+  }
+}
