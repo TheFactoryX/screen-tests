@@ -1,0 +1,24 @@
+{
+  "reel_number": 6539,
+  "recorded": "2026-04-12 09:04:30 UTC",
+  "repository": {
+    "full_name": "drevops/git-artifact",
+    "url": "https://github.com/drevops/git-artifact",
+    "clone_url": "https://github.com/drevops/git-artifact.git",
+    "stars": 21,
+    "language": "PHP",
+    "size_kb": 554
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.640305
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 21 stars."
+  }
+}
