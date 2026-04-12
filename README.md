@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6535 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 112k | 2026-04-12 |
+| #6536 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 146k | 2026-04-12 |
 ---
 
 ## 🎭 Selection Process
@@ -6624,3 +6624,4 @@ If you need permission, you're thinking too much.
 | 6533 | 2026-04-11 23:31:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114500⭐ TypeScript) | [reels/reel_6533_iptv-org-iptv](reels/reel_6533_iptv-org-iptv) |
 | 6534 | 2026-04-12 00:03:52 | [fuzz/clod](https://github.com/fuzz/clod) | ✅ full (37⭐ Haskell) | [reels/reel_6534_fuzz-clod](reels/reel_6534_fuzz-clod) |
 | 6535 | 2026-04-12 03:45:44 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112132⭐ TypeScript) | [reels/reel_6535_shadcn-ui-ui](reels/reel_6535_shadcn-ui-ui) |
+| 6536 | 2026-04-12 05:52:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146826⭐ Python) | [reels/reel_6536_langflow-ai-langflow](reels/reel_6536_langflow-ai-langflow) |
