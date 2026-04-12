@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6554 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 489k | 2026-04-12 |
+| #6555 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 152k | 2026-04-12 |
 ---
 
 ## 🎭 Selection Process
@@ -6643,3 +6643,4 @@ If you need permission, you're thinking too much.
 | 6552 | 2026-04-12 19:51:52 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (110024⭐ TypeScript) | [reels/reel_6552_clash-verge-rev-clash-verge-rev](reels/reel_6552_clash-verge-rev-clash-verge-rev) |
 | 6553 | 2026-04-12 20:33:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (146861⭐ Python) | [reels/reel_6553_langflow-ai-langflow](reels/reel_6553_langflow-ai-langflow) |
 | 6554 | 2026-04-12 21:16:49 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (489449⭐ Markdown) | [reels/reel_6554_codecrafters-io-build-your-own-x](reels/reel_6554_codecrafters-io-build-your-own-x) |
+| 6555 | 2026-04-12 21:57:10 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (152547⭐ JavaScript) | [reels/reel_6555_affaan-m-everything-claude-code](reels/reel_6555_affaan-m-everything-claude-code) |
