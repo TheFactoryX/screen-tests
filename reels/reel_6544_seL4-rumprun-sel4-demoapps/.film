@@ -1,0 +1,24 @@
+{
+  "reel_number": 6544,
+  "recorded": "2026-04-12 13:33:58 UTC",
+  "repository": {
+    "full_name": "seL4/rumprun-sel4-demoapps",
+    "url": "https://github.com/seL4/rumprun-sel4-demoapps",
+    "clone_url": "https://github.com/seL4/rumprun-sel4-demoapps.git",
+    "stars": 33,
+    "language": "C",
+    "size_kb": 786
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.740722
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 33 stars."
+  }
+}
