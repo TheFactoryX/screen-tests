@@ -1,0 +1,24 @@
+{
+  "reel_number": 6570,
+  "recorded": "2026-04-13 20:53:34 UTC",
+  "repository": {
+    "full_name": "lf-edge/eve",
+    "url": "https://github.com/lf-edge/eve",
+    "clone_url": "https://github.com/lf-edge/eve.git",
+    "stars": 541,
+    "language": "Go",
+    "size_kb": 424201
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 414,
+    "duration_seconds": 7.849743
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 541 stars."
+  }
+}
