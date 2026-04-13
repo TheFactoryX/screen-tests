@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6566 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python · ⭐ 106k | 2026-04-13 |
+| #6567 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-13 |
 ---
 
 ## 🎭 Selection Process
@@ -6655,3 +6655,4 @@ If you need permission, you're thinking too much.
 | 6564 | 2026-04-13 12:45:53 | [bazel-contrib/rules_img](https://github.com/bazel-contrib/rules_img) | ✅ full (111⭐ Go) | [reels/reel_6564_bazel-contrib-rules_img](reels/reel_6564_bazel-contrib-rules_img) |
 | 6565 | 2026-04-13 14:46:24 | [hikalium/wasabi](https://github.com/hikalium/wasabi) | ✅ full (308⭐ Rust) | [reels/reel_6565_hikalium-wasabi](reels/reel_6565_hikalium-wasabi) |
 | 6566 | 2026-04-13 16:10:42 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | ✅ full (106557⭐ Python) | [reels/reel_6566_microsoft-markitdown](reels/reel_6566_microsoft-markitdown) |
+| 6567 | 2026-04-13 17:19:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183385⭐ Python) | [reels/reel_6567_Significant-Gravitas-AutoGPT](reels/reel_6567_Significant-Gravitas-AutoGPT) |
