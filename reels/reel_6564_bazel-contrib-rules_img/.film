@@ -1,0 +1,24 @@
+{
+  "reel_number": 6564,
+  "recorded": "2026-04-13 12:45:53 UTC",
+  "repository": {
+    "full_name": "bazel-contrib/rules_img",
+    "url": "https://github.com/bazel-contrib/rules_img",
+    "clone_url": "https://github.com/bazel-contrib/rules_img.git",
+    "stars": 111,
+    "language": "Go",
+    "size_kb": 4742
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.941974
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 111 stars."
+  }
+}

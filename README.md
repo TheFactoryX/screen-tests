@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6563 | [suitenumerique/people](https://github.com/suitenumerique/people) | Python · ⭐ 131 | 2026-04-13 |
+| #6564 | [bazel-contrib/rules_img](https://github.com/bazel-contrib/rules_img) | Go · ⭐ 111 | 2026-04-13 |
 ---
 
 ## 🎭 Selection Process
@@ -6652,3 +6652,4 @@ If you need permission, you're thinking too much.
 | 6561 | 2026-04-13 08:22:39 | [CS-SI/eodag](https://github.com/CS-SI/eodag) | ✅ shallow (407⭐ Python) | [reels/reel_6561_CS-SI-eodag](reels/reel_6561_CS-SI-eodag) |
 | 6562 | 2026-04-13 10:12:00 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (285717⭐ None) | [reels/reel_6562_awesome-selfhosted-awesome-selfhosted](reels/reel_6562_awesome-selfhosted-awesome-selfhosted) |
 | 6563 | 2026-04-13 11:40:51 | [suitenumerique/people](https://github.com/suitenumerique/people) | ✅ full (131⭐ Python) | [reels/reel_6563_suitenumerique-people](reels/reel_6563_suitenumerique-people) |
+| 6564 | 2026-04-13 12:45:53 | [bazel-contrib/rules_img](https://github.com/bazel-contrib/rules_img) | ✅ full (111⭐ Go) | [reels/reel_6564_bazel-contrib-rules_img](reels/reel_6564_bazel-contrib-rules_img) |
