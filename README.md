@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6565 | [hikalium/wasabi](https://github.com/hikalium/wasabi) | Rust · ⭐ 308 | 2026-04-13 |
+| #6566 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python · ⭐ 106k | 2026-04-13 |
 ---
 
 ## 🎭 Selection Process
@@ -6654,3 +6654,4 @@ If you need permission, you're thinking too much.
 | 6563 | 2026-04-13 11:40:51 | [suitenumerique/people](https://github.com/suitenumerique/people) | ✅ full (131⭐ Python) | [reels/reel_6563_suitenumerique-people](reels/reel_6563_suitenumerique-people) |
 | 6564 | 2026-04-13 12:45:53 | [bazel-contrib/rules_img](https://github.com/bazel-contrib/rules_img) | ✅ full (111⭐ Go) | [reels/reel_6564_bazel-contrib-rules_img](reels/reel_6564_bazel-contrib-rules_img) |
 | 6565 | 2026-04-13 14:46:24 | [hikalium/wasabi](https://github.com/hikalium/wasabi) | ✅ full (308⭐ Rust) | [reels/reel_6565_hikalium-wasabi](reels/reel_6565_hikalium-wasabi) |
+| 6566 | 2026-04-13 16:10:42 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | ✅ full (106557⭐ Python) | [reels/reel_6566_microsoft-markitdown](reels/reel_6566_microsoft-markitdown) |
