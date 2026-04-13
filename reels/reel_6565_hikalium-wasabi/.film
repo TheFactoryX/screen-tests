@@ -1,0 +1,24 @@
+{
+  "reel_number": 6565,
+  "recorded": "2026-04-13 14:46:24 UTC",
+  "repository": {
+    "full_name": "hikalium/wasabi",
+    "url": "https://github.com/hikalium/wasabi",
+    "clone_url": "https://github.com/hikalium/wasabi.git",
+    "stars": 308,
+    "language": "Rust",
+    "size_kb": 5273
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.111174
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 308 stars."
+  }
+}
