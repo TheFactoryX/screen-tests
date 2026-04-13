@@ -1,0 +1,24 @@
+{
+  "reel_number": 6561,
+  "recorded": "2026-04-13 08:22:39 UTC",
+  "repository": {
+    "full_name": "CS-SI/eodag",
+    "url": "https://github.com/CS-SI/eodag",
+    "clone_url": "https://github.com/CS-SI/eodag.git",
+    "stars": 407,
+    "language": "Python",
+    "size_kb": 112140
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 109,
+    "duration_seconds": 2.52497
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 407 stars."
+  }
+}
