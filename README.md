@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6571 | [GAME-OVER-op/ZDT-D](https://github.com/GAME-OVER-op/ZDT-D) | Kotlin · ⭐ 144 | 2026-04-13 |
+| #6572 | [Argh94/V2RayAutoConfig](https://github.com/Argh94/V2RayAutoConfig) | Python · ⭐ 204 | 2026-04-13 |
 ---
 
 ## 🎭 Selection Process
@@ -6660,3 +6660,4 @@ If you need permission, you're thinking too much.
 | 6569 | 2026-04-13 19:53:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114570⭐ TypeScript) | [reels/reel_6569_iptv-org-iptv](reels/reel_6569_iptv-org-iptv) |
 | 6570 | 2026-04-13 20:53:34 | [lf-edge/eve](https://github.com/lf-edge/eve) | ✅ shallow (541⭐ Go) | [reels/reel_6570_lf-edge-eve](reels/reel_6570_lf-edge-eve) |
 | 6571 | 2026-04-13 21:47:02 | [GAME-OVER-op/ZDT-D](https://github.com/GAME-OVER-op/ZDT-D) | ✅ full (144⭐ Kotlin) | [reels/reel_6571_GAME-OVER-op-ZDT-D](reels/reel_6571_GAME-OVER-op-ZDT-D) |
+| 6572 | 2026-04-13 22:40:55 | [Argh94/V2RayAutoConfig](https://github.com/Argh94/V2RayAutoConfig) | ✅ readme_only (204⭐ Python) | [reels/reel_6572_Argh94-V2RayAutoConfig](reels/reel_6572_Argh94-V2RayAutoConfig) |

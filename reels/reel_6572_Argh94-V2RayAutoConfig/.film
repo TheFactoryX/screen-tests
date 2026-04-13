@@ -1,0 +1,24 @@
+{
+  "reel_number": 6572,
+  "recorded": "2026-04-13 22:40:55 UTC",
+  "repository": {
+    "full_name": "Argh94/V2RayAutoConfig",
+    "url": "https://github.com/Argh94/V2RayAutoConfig",
+    "clone_url": "https://github.com/Argh94/V2RayAutoConfig.git",
+    "stars": 204,
+    "language": "Python",
+    "size_kb": 10204376
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 9965,
+    "duration_seconds": 0.000133
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 204 stars."
+  }
+}
