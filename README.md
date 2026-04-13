@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6568 | [mczub/wtfdig](https://github.com/mczub/wtfdig) | TypeScript · ⭐ 19 | 2026-04-13 |
+| #6569 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-13 |
 ---
 
 ## 🎭 Selection Process
@@ -6657,3 +6657,4 @@ If you need permission, you're thinking too much.
 | 6566 | 2026-04-13 16:10:42 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | ✅ full (106557⭐ Python) | [reels/reel_6566_microsoft-markitdown](reels/reel_6566_microsoft-markitdown) |
 | 6567 | 2026-04-13 17:19:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183385⭐ Python) | [reels/reel_6567_Significant-Gravitas-AutoGPT](reels/reel_6567_Significant-Gravitas-AutoGPT) |
 | 6568 | 2026-04-13 18:44:43 | [mczub/wtfdig](https://github.com/mczub/wtfdig) | ✅ shallow (19⭐ TypeScript) | [reels/reel_6568_mczub-wtfdig](reels/reel_6568_mczub-wtfdig) |
+| 6569 | 2026-04-13 19:53:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114570⭐ TypeScript) | [reels/reel_6569_iptv-org-iptv](reels/reel_6569_iptv-org-iptv) |
