@@ -1,0 +1,24 @@
+{
+  "reel_number": 6571,
+  "recorded": "2026-04-13 21:47:02 UTC",
+  "repository": {
+    "full_name": "GAME-OVER-op/ZDT-D",
+    "url": "https://github.com/GAME-OVER-op/ZDT-D",
+    "clone_url": "https://github.com/GAME-OVER-op/ZDT-D.git",
+    "stars": 144,
+    "language": "Kotlin",
+    "size_kb": 58796
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 57,
+    "duration_seconds": 3.85048
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 144 stars."
+  }
+}
