@@ -1,0 +1,24 @@
+{
+  "reel_number": 6578,
+  "recorded": "2026-04-14 09:03:59 UTC",
+  "repository": {
+    "full_name": "Ristann/randomCatFacts",
+    "url": "https://github.com/Ristann/randomCatFacts",
+    "clone_url": "https://github.com/Ristann/randomCatFacts.git",
+    "stars": 25,
+    "language": null,
+    "size_kb": 581
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.593465
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 25 stars."
+  }
+}
