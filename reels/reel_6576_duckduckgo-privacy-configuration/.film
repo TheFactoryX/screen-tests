@@ -1,0 +1,24 @@
+{
+  "reel_number": 6576,
+  "recorded": "2026-04-14 05:50:30 UTC",
+  "repository": {
+    "full_name": "duckduckgo/privacy-configuration",
+    "url": "https://github.com/duckduckgo/privacy-configuration",
+    "clone_url": "https://github.com/duckduckgo/privacy-configuration.git",
+    "stars": 203,
+    "language": "JavaScript",
+    "size_kb": 212507
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 207,
+    "duration_seconds": 0.24627
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 203 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6575 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 112k | 2026-04-14 |
+| #6576 | [duckduckgo/privacy-configuration](https://github.com/duckduckgo/privacy-configuration) | JavaScript · ⭐ 203 | 2026-04-14 |
 ---
 
 ## 🎭 Selection Process
@@ -6664,3 +6664,4 @@ If you need permission, you're thinking too much.
 | 6573 | 2026-04-13 23:28:57 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (131653⭐ Python) | [reels/reel_6573_open-webui-open-webui](reels/reel_6573_open-webui-open-webui) |
 | 6574 | 2026-04-14 00:08:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111998⭐ Rust) | [reels/reel_6574_rust-lang-rust](reels/reel_6574_rust-lang-rust) |
 | 6575 | 2026-04-14 03:41:44 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112001⭐ Rust) | [reels/reel_6575_rust-lang-rust](reels/reel_6575_rust-lang-rust) |
+| 6576 | 2026-04-14 05:50:30 | [duckduckgo/privacy-configuration](https://github.com/duckduckgo/privacy-configuration) | ✅ shallow (203⭐ JavaScript) | [reels/reel_6576_duckduckgo-privacy-configuration](reels/reel_6576_duckduckgo-privacy-configuration) |
