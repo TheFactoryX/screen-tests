@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6581 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 112k | 2026-04-14 |
+| #6582 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-14 |
 ---
 
 ## 🎭 Selection Process
@@ -6670,3 +6670,4 @@ If you need permission, you're thinking too much.
 | 6579 | 2026-04-14 10:40:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112011⭐ Rust) | [reels/reel_6579_rust-lang-rust](reels/reel_6579_rust-lang-rust) |
 | 6580 | 2026-04-14 11:42:26 | [kata-containers/community](https://github.com/kata-containers/community) | ✅ full (223⭐ Python) | [reels/reel_6580_kata-containers-community](reels/reel_6580_kata-containers-community) |
 | 6581 | 2026-04-14 12:46:49 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112012⭐ Rust) | [reels/reel_6581_rust-lang-rust](reels/reel_6581_rust-lang-rust) |
+| 6582 | 2026-04-14 14:49:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114592⭐ TypeScript) | [reels/reel_6582_iptv-org-iptv](reels/reel_6582_iptv-org-iptv) |
