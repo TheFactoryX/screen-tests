@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6588 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-14 |
+| #6589 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-14 |
 ---
 
 ## 🎭 Selection Process
@@ -6677,3 +6677,4 @@ If you need permission, you're thinking too much.
 | 6586 | 2026-04-14 20:04:06 | [endoflife-date/release-data](https://github.com/endoflife-date/release-data) | ✅ full (203⭐ Python) | [reels/reel_6586_endoflife-date-release-data](reels/reel_6586_endoflife-date-release-data) |
 | 6587 | 2026-04-14 21:06:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (156852⭐ Python) | [reels/reel_6587_yt-dlp-yt-dlp](reels/reel_6587_yt-dlp-yt-dlp) |
 | 6588 | 2026-04-14 22:04:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114599⭐ TypeScript) | [reels/reel_6588_iptv-org-iptv](reels/reel_6588_iptv-org-iptv) |
+| 6589 | 2026-04-14 23:03:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184051⭐ TypeScript) | [reels/reel_6589_n8n-io-n8n](reels/reel_6589_n8n-io-n8n) |
