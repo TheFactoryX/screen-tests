@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6573 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 131k | 2026-04-13 |
+| #6574 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 111k | 2026-04-14 |
 ---
 
 ## 🎭 Selection Process
@@ -6662,3 +6662,4 @@ If you need permission, you're thinking too much.
 | 6571 | 2026-04-13 21:47:02 | [GAME-OVER-op/ZDT-D](https://github.com/GAME-OVER-op/ZDT-D) | ✅ full (144⭐ Kotlin) | [reels/reel_6571_GAME-OVER-op-ZDT-D](reels/reel_6571_GAME-OVER-op-ZDT-D) |
 | 6572 | 2026-04-13 22:40:55 | [Argh94/V2RayAutoConfig](https://github.com/Argh94/V2RayAutoConfig) | ✅ readme_only (204⭐ Python) | [reels/reel_6572_Argh94-V2RayAutoConfig](reels/reel_6572_Argh94-V2RayAutoConfig) |
 | 6573 | 2026-04-13 23:28:57 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (131653⭐ Python) | [reels/reel_6573_open-webui-open-webui](reels/reel_6573_open-webui-open-webui) |
+| 6574 | 2026-04-14 00:08:58 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (111998⭐ Rust) | [reels/reel_6574_rust-lang-rust](reels/reel_6574_rust-lang-rust) |
