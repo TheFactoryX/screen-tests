@@ -1,0 +1,24 @@
+{
+  "reel_number": 6586,
+  "recorded": "2026-04-14 20:04:06 UTC",
+  "repository": {
+    "full_name": "endoflife-date/release-data",
+    "url": "https://github.com/endoflife-date/release-data",
+    "clone_url": "https://github.com/endoflife-date/release-data.git",
+    "stars": 203,
+    "language": "Python",
+    "size_kb": 23825
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 3.382086
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 203 stars."
+  }
+}
