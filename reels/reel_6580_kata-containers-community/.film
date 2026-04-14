@@ -1,0 +1,24 @@
+{
+  "reel_number": 6580,
+  "recorded": "2026-04-14 11:42:26 UTC",
+  "repository": {
+    "full_name": "kata-containers/community",
+    "url": "https://github.com/kata-containers/community",
+    "clone_url": "https://github.com/kata-containers/community.git",
+    "stars": 223,
+    "language": "Python",
+    "size_kb": 596
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 1.117118
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 223 stars."
+  }
+}
