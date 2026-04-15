@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6593 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 133k | 2026-04-15 |
+| #6594 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 156k | 2026-04-15 |
 ---
 
 ## 🎭 Selection Process
@@ -6682,3 +6682,4 @@ If you need permission, you're thinking too much.
 | 6591 | 2026-04-15 03:30:10 | [storycraft/asdf-overlay](https://github.com/storycraft/asdf-overlay) | ✅ full (169⭐ Rust) | [reels/reel_6591_storycraft-asdf-overlay](reels/reel_6591_storycraft-asdf-overlay) |
 | 6592 | 2026-04-15 05:37:16 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112028⭐ Rust) | [reels/reel_6592_rust-lang-rust](reels/reel_6592_rust-lang-rust) |
 | 6593 | 2026-04-15 07:11:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133596⭐ Python) | [reels/reel_6593_langchain-ai-langchain](reels/reel_6593_langchain-ai-langchain) |
+| 6594 | 2026-04-15 08:54:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (156952⭐ Python) | [reels/reel_6594_yt-dlp-yt-dlp](reels/reel_6594_yt-dlp-yt-dlp) |
