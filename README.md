@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6597 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 105k | 2026-04-15 |
+| #6598 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-15 |
 ---
 
 ## 🎭 Selection Process
@@ -6686,3 +6686,4 @@ If you need permission, you're thinking too much.
 | 6595 | 2026-04-15 10:15:22 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (156729⭐ JavaScript) | [reels/reel_6595_affaan-m-everything-claude-code](reels/reel_6595_affaan-m-everything-claude-code) |
 | 6596 | 2026-04-15 11:33:04 | [legiz-ru/my-remnawave](https://github.com/legiz-ru/my-remnawave) | ✅ full (313⭐ HTML) | [reels/reel_6596_legiz-ru-my-remnawave](reels/reel_6596_legiz-ru-my-remnawave) |
 | 6597 | 2026-04-15 12:44:19 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (105478⭐ Rust) | [reels/reel_6597_tauri-apps-tauri](reels/reel_6597_tauri-apps-tauri) |
+| 6598 | 2026-04-15 14:16:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184169⭐ TypeScript) | [reels/reel_6598_n8n-io-n8n](reels/reel_6598_n8n-io-n8n) |
