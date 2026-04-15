@@ -1,0 +1,24 @@
+{
+  "reel_number": 6595,
+  "recorded": "2026-04-15 10:15:22 UTC",
+  "repository": {
+    "full_name": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "clone_url": "https://github.com/affaan-m/everything-claude-code.git",
+    "stars": 156729,
+    "language": "JavaScript",
+    "size_kb": 30165
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 29,
+    "duration_seconds": 2.084665
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 156729 stars."
+  }
+}
