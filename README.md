@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6600 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-15 |
+| #6601 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 132k | 2026-04-15 |
 ---
 
 ## 🎭 Selection Process
@@ -6689,3 +6689,4 @@ If you need permission, you're thinking too much.
 | 6598 | 2026-04-15 14:16:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184169⭐ TypeScript) | [reels/reel_6598_n8n-io-n8n](reels/reel_6598_n8n-io-n8n) |
 | 6599 | 2026-04-15 15:45:42 | [alantang1977/iptv_api](https://github.com/alantang1977/iptv_api) | ✅ shallow (63⭐ Python) | [reels/reel_6599_alantang1977-iptv_api](reels/reel_6599_alantang1977-iptv_api) |
 | 6600 | 2026-04-15 17:01:32 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184187⭐ TypeScript) | [reels/reel_6600_n8n-io-n8n](reels/reel_6600_n8n-io-n8n) |
+| 6601 | 2026-04-15 18:15:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132032⭐ Python) | [reels/reel_6601_open-webui-open-webui](reels/reel_6601_open-webui-open-webui) |
