@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6603 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 110k | 2026-04-15 |
+| #6604 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 157k | 2026-04-15 |
 ---
 
 ## 🎭 Selection Process
@@ -6692,3 +6692,4 @@ If you need permission, you're thinking too much.
 | 6601 | 2026-04-15 18:15:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132032⭐ Python) | [reels/reel_6601_open-webui-open-webui](reels/reel_6601_open-webui-open-webui) |
 | 6602 | 2026-04-15 19:44:45 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ shallow (183456⭐ Python) | [reels/reel_6602_Significant-Gravitas-AutoGPT](reels/reel_6602_Significant-Gravitas-AutoGPT) |
 | 6603 | 2026-04-15 20:31:02 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (110312⭐ None) | [reels/reel_6603_Hack-with-Github-Awesome-Hacking](reels/reel_6603_Hack-with-Github-Awesome-Hacking) |
+| 6604 | 2026-04-15 21:35:36 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (157311⭐ JavaScript) | [reels/reel_6604_affaan-m-everything-claude-code](reels/reel_6604_affaan-m-everything-claude-code) |
