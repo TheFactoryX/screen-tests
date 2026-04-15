@@ -1,0 +1,24 @@
+{
+  "reel_number": 6599,
+  "recorded": "2026-04-15 15:45:42 UTC",
+  "repository": {
+    "full_name": "alantang1977/iptv_api",
+    "url": "https://github.com/alantang1977/iptv_api",
+    "clone_url": "https://github.com/alantang1977/iptv_api.git",
+    "stars": 63,
+    "language": "Python",
+    "size_kb": 151983
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 148,
+    "duration_seconds": 1.906446
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 63 stars."
+  }
+}
