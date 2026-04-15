@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6595 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 156k | 2026-04-15 |
+| #6596 | [legiz-ru/my-remnawave](https://github.com/legiz-ru/my-remnawave) | HTML · ⭐ 313 | 2026-04-15 |
 ---
 
 ## 🎭 Selection Process
@@ -6684,3 +6684,4 @@ If you need permission, you're thinking too much.
 | 6593 | 2026-04-15 07:11:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133596⭐ Python) | [reels/reel_6593_langchain-ai-langchain](reels/reel_6593_langchain-ai-langchain) |
 | 6594 | 2026-04-15 08:54:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (156952⭐ Python) | [reels/reel_6594_yt-dlp-yt-dlp](reels/reel_6594_yt-dlp-yt-dlp) |
 | 6595 | 2026-04-15 10:15:22 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (156729⭐ JavaScript) | [reels/reel_6595_affaan-m-everything-claude-code](reels/reel_6595_affaan-m-everything-claude-code) |
+| 6596 | 2026-04-15 11:33:04 | [legiz-ru/my-remnawave](https://github.com/legiz-ru/my-remnawave) | ✅ full (313⭐ HTML) | [reels/reel_6596_legiz-ru-my-remnawave](reels/reel_6596_legiz-ru-my-remnawave) |

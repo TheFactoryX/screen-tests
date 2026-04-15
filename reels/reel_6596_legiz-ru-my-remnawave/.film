@@ -1,0 +1,24 @@
+{
+  "reel_number": 6596,
+  "recorded": "2026-04-15 11:33:04 UTC",
+  "repository": {
+    "full_name": "legiz-ru/my-remnawave",
+    "url": "https://github.com/legiz-ru/my-remnawave",
+    "clone_url": "https://github.com/legiz-ru/my-remnawave.git",
+    "stars": 313,
+    "language": "HTML",
+    "size_kb": 1313
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.283401
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 313 stars."
+  }
+}
