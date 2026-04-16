@@ -1,0 +1,24 @@
+{
+  "reel_number": 6613,
+  "recorded": "2026-04-16 11:41:44 UTC",
+  "repository": {
+    "full_name": "feos7c5/Linx",
+    "url": "https://github.com/feos7c5/Linx",
+    "clone_url": "https://github.com/feos7c5/Linx.git",
+    "stars": 111,
+    "language": "Python",
+    "size_kb": 603
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.402645
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 111 stars."
+  }
+}
