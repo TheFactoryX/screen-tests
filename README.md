@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6607 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 133k | 2026-04-15 |
+| #6608 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 157k | 2026-04-16 |
 ---
 
 ## 🎭 Selection Process
@@ -6696,3 +6696,4 @@ If you need permission, you're thinking too much.
 | 6605 | 2026-04-15 22:26:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132055⭐ Python) | [reels/reel_6605_open-webui-open-webui](reels/reel_6605_open-webui-open-webui) |
 | 6606 | 2026-04-15 23:09:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133683⭐ Python) | [reels/reel_6606_langchain-ai-langchain](reels/reel_6606_langchain-ai-langchain) |
 | 6607 | 2026-04-15 23:59:07 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133683⭐ Python) | [reels/reel_6607_langchain-ai-langchain](reels/reel_6607_langchain-ai-langchain) |
+| 6608 | 2026-04-16 03:39:01 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (157641⭐ JavaScript) | [reels/reel_6608_affaan-m-everything-claude-code](reels/reel_6608_affaan-m-everything-claude-code) |
