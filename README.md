@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6621 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | Rust · ⭐ 80 | 2026-04-16 |
+| #6622 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-16 |
 ---
 
 ## 🎭 Selection Process
@@ -6710,3 +6710,4 @@ If you need permission, you're thinking too much.
 | 6619 | 2026-04-16 20:05:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132227⭐ Python) | [reels/reel_6619_open-webui-open-webui](reels/reel_6619_open-webui-open-webui) |
 | 6620 | 2026-04-16 21:03:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133786⭐ Python) | [reels/reel_6620_langchain-ai-langchain](reels/reel_6620_langchain-ai-langchain) |
 | 6621 | 2026-04-16 21:58:47 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | ✅ full (80⭐ Rust) | [reels/reel_6621_anima-engine-anima-engine](reels/reel_6621_anima-engine-anima-engine) |
+| 6622 | 2026-04-16 22:53:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184349⭐ TypeScript) | [reels/reel_6622_n8n-io-n8n](reels/reel_6622_n8n-io-n8n) |
