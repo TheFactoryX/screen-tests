@@ -1,0 +1,24 @@
+{
+  "reel_number": 6614,
+  "recorded": "2026-04-16 12:49:00 UTC",
+  "repository": {
+    "full_name": "htcondor/htcondor",
+    "url": "https://github.com/htcondor/htcondor",
+    "clone_url": "https://github.com/htcondor/htcondor.git",
+    "stars": 313,
+    "language": "C++",
+    "size_kb": 286099
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 279,
+    "duration_seconds": 2.586055
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 313 stars."
+  }
+}
