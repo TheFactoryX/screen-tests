@@ -1,0 +1,24 @@
+{
+  "reel_number": 6611,
+  "recorded": "2026-04-16 09:05:20 UTC",
+  "repository": {
+    "full_name": "graphql-hive/console",
+    "url": "https://github.com/graphql-hive/console",
+    "clone_url": "https://github.com/graphql-hive/console.git",
+    "stars": 478,
+    "language": "TypeScript",
+    "size_kb": 388328
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 379,
+    "duration_seconds": 1.16798
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 478 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6610 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 423k | 2026-04-16 |
+| #6611 | [graphql-hive/console](https://github.com/graphql-hive/console) | TypeScript · ⭐ 478 | 2026-04-16 |
 ---
 
 ## 🎭 Selection Process
@@ -6699,3 +6699,4 @@ If you need permission, you're thinking too much.
 | 6608 | 2026-04-16 03:39:01 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (157641⭐ JavaScript) | [reels/reel_6608_affaan-m-everything-claude-code](reels/reel_6608_affaan-m-everything-claude-code) |
 | 6609 | 2026-04-16 05:51:25 | [alibaba/ROCK](https://github.com/alibaba/ROCK) | ✅ full (416⭐ Python) | [reels/reel_6609_alibaba-ROCK](reels/reel_6609_alibaba-ROCK) |
 | 6610 | 2026-04-16 07:42:50 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (423784⭐ Python) | [reels/reel_6610_public-apis-public-apis](reels/reel_6610_public-apis-public-apis) |
+| 6611 | 2026-04-16 09:05:20 | [graphql-hive/console](https://github.com/graphql-hive/console) | ✅ shallow (478⭐ TypeScript) | [reels/reel_6611_graphql-hive-console](reels/reel_6611_graphql-hive-console) |
