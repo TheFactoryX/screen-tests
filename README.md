@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6619 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 132k | 2026-04-16 |
+| #6620 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 133k | 2026-04-16 |
 ---
 
 ## 🎭 Selection Process
@@ -6708,3 +6708,4 @@ If you need permission, you're thinking too much.
 | 6617 | 2026-04-16 17:50:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133779⭐ Python) | [reels/reel_6617_langchain-ai-langchain](reels/reel_6617_langchain-ai-langchain) |
 | 6618 | 2026-04-16 19:10:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114670⭐ TypeScript) | [reels/reel_6618_iptv-org-iptv](reels/reel_6618_iptv-org-iptv) |
 | 6619 | 2026-04-16 20:05:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132227⭐ Python) | [reels/reel_6619_open-webui-open-webui](reels/reel_6619_open-webui-open-webui) |
+| 6620 | 2026-04-16 21:03:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133786⭐ Python) | [reels/reel_6620_langchain-ai-langchain](reels/reel_6620_langchain-ai-langchain) |
