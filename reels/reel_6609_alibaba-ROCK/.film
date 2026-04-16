@@ -1,0 +1,24 @@
+{
+  "reel_number": 6609,
+  "recorded": "2026-04-16 05:51:25 UTC",
+  "repository": {
+    "full_name": "alibaba/ROCK",
+    "url": "https://github.com/alibaba/ROCK",
+    "clone_url": "https://github.com/alibaba/ROCK.git",
+    "stars": 416,
+    "language": "Python",
+    "size_kb": 36168
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 4.94806
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 416 stars."
+  }
+}
