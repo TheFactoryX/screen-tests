@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6614 | [htcondor/htcondor](https://github.com/htcondor/htcondor) | C++ · ⭐ 313 | 2026-04-16 |
+| #6615 | [getlago/lago-api](https://github.com/getlago/lago-api) | Ruby · ⭐ 418 | 2026-04-16 |
 ---
 
 ## 🎭 Selection Process
@@ -6703,3 +6703,4 @@ If you need permission, you're thinking too much.
 | 6612 | 2026-04-16 10:40:36 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (111074⭐ TypeScript) | [reels/reel_6612_clash-verge-rev-clash-verge-rev](reels/reel_6612_clash-verge-rev-clash-verge-rev) |
 | 6613 | 2026-04-16 11:41:44 | [feos7c5/Linx](https://github.com/feos7c5/Linx) | ✅ full (111⭐ Python) | [reels/reel_6613_feos7c5-Linx](reels/reel_6613_feos7c5-Linx) |
 | 6614 | 2026-04-16 12:49:00 | [htcondor/htcondor](https://github.com/htcondor/htcondor) | ✅ shallow (313⭐ C++) | [reels/reel_6614_htcondor-htcondor](reels/reel_6614_htcondor-htcondor) |
+| 6615 | 2026-04-16 14:53:55 | [getlago/lago-api](https://github.com/getlago/lago-api) | ✅ full (418⭐ Ruby) | [reels/reel_6615_getlago-lago-api](reels/reel_6615_getlago-lago-api) |
