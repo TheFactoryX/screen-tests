@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6616 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-04-16 |
+| #6617 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 133k | 2026-04-16 |
 ---
 
 ## 🎭 Selection Process
@@ -6705,3 +6705,4 @@ If you need permission, you're thinking too much.
 | 6614 | 2026-04-16 12:49:00 | [htcondor/htcondor](https://github.com/htcondor/htcondor) | ✅ shallow (313⭐ C++) | [reels/reel_6614_htcondor-htcondor](reels/reel_6614_htcondor-htcondor) |
 | 6615 | 2026-04-16 14:53:55 | [getlago/lago-api](https://github.com/getlago/lago-api) | ✅ full (418⭐ Ruby) | [reels/reel_6615_getlago-lago-api](reels/reel_6615_getlago-lago-api) |
 | 6616 | 2026-04-16 16:21:04 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147011⭐ Python) | [reels/reel_6616_langflow-ai-langflow](reels/reel_6616_langflow-ai-langflow) |
+| 6617 | 2026-04-16 17:50:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133779⭐ Python) | [reels/reel_6617_langchain-ai-langchain](reels/reel_6617_langchain-ai-langchain) |
