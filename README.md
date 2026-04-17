@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6638 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 132k | 2026-04-17 |
+| #6639 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 132k | 2026-04-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6727,3 +6727,4 @@ If you need permission, you're thinking too much.
 | 6636 | 2026-04-17 18:35:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (110447⭐ None) | [reels/reel_6636_Hack-with-Github-Awesome-Hacking](reels/reel_6636_Hack-with-Github-Awesome-Hacking) |
 | 6637 | 2026-04-17 19:44:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133880⭐ Python) | [reels/reel_6637_langchain-ai-langchain](reels/reel_6637_langchain-ai-langchain) |
 | 6638 | 2026-04-17 20:29:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132410⭐ Python) | [reels/reel_6638_open-webui-open-webui](reels/reel_6638_open-webui-open-webui) |
+| 6639 | 2026-04-17 21:22:08 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132415⭐ Python) | [reels/reel_6639_open-webui-open-webui](reels/reel_6639_open-webui-open-webui) |
