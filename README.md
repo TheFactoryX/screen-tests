@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6636 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 110k | 2026-04-17 |
+| #6637 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 133k | 2026-04-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6725,3 +6725,4 @@ If you need permission, you're thinking too much.
 | 6634 | 2026-04-17 16:36:38 | [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) | ✅ full (3005⭐ TypeScript) | [reels/reel_6634_open-telemetry-opentelemetry-demo](reels/reel_6634_open-telemetry-opentelemetry-demo) |
 | 6635 | 2026-04-17 17:33:19 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114818⭐ TypeScript) | [reels/reel_6635_iptv-org-iptv](reels/reel_6635_iptv-org-iptv) |
 | 6636 | 2026-04-17 18:35:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (110447⭐ None) | [reels/reel_6636_Hack-with-Github-Awesome-Hacking](reels/reel_6636_Hack-with-Github-Awesome-Hacking) |
+| 6637 | 2026-04-17 19:44:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133880⭐ Python) | [reels/reel_6637_langchain-ai-langchain](reels/reel_6637_langchain-ai-langchain) |
