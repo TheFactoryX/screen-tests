@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6633 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 133k | 2026-04-17 |
+| #6634 | [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) | TypeScript · ⭐ 3k | 2026-04-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6722,3 +6722,4 @@ If you need permission, you're thinking too much.
 | 6631 | 2026-04-17 13:16:03 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (491021⭐ Markdown) | [reels/reel_6631_codecrafters-io-build-your-own-x](reels/reel_6631_codecrafters-io-build-your-own-x) |
 | 6632 | 2026-04-17 14:39:37 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (286502⭐ None) | [reels/reel_6632_awesome-selfhosted-awesome-selfhosted](reels/reel_6632_awesome-selfhosted-awesome-selfhosted) |
 | 6633 | 2026-04-17 15:42:05 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133869⭐ Python) | [reels/reel_6633_langchain-ai-langchain](reels/reel_6633_langchain-ai-langchain) |
+| 6634 | 2026-04-17 16:36:38 | [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) | ✅ full (3005⭐ TypeScript) | [reels/reel_6634_open-telemetry-opentelemetry-demo](reels/reel_6634_open-telemetry-opentelemetry-demo) |

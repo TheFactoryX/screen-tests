@@ -1,0 +1,24 @@
+{
+  "reel_number": 6634,
+  "recorded": "2026-04-17 16:36:38 UTC",
+  "repository": {
+    "full_name": "open-telemetry/opentelemetry-demo",
+    "url": "https://github.com/open-telemetry/opentelemetry-demo",
+    "clone_url": "https://github.com/open-telemetry/opentelemetry-demo.git",
+    "stars": 3005,
+    "language": "TypeScript",
+    "size_kb": 52917
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 51,
+    "duration_seconds": 2.214054
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 3005 stars."
+  }
+}
