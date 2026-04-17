@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6641 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 111k | 2026-04-17 |
+| #6642 | [BuddyChewChew/My-Streams](https://github.com/BuddyChewChew/My-Streams) | JavaScript · ⭐ 105 | 2026-04-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6730,3 +6730,4 @@ If you need permission, you're thinking too much.
 | 6639 | 2026-04-17 21:22:08 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132415⭐ Python) | [reels/reel_6639_open-webui-open-webui](reels/reel_6639_open-webui-open-webui) |
 | 6640 | 2026-04-17 22:04:58 | [pthom/litgen](https://github.com/pthom/litgen) | ✅ full (111⭐ Python) | [reels/reel_6640_pthom-litgen](reels/reel_6640_pthom-litgen) |
 | 6641 | 2026-04-17 23:00:17 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (111446⭐ TypeScript) | [reels/reel_6641_clash-verge-rev-clash-verge-rev](reels/reel_6641_clash-verge-rev-clash-verge-rev) |
+| 6642 | 2026-04-17 23:55:36 | [BuddyChewChew/My-Streams](https://github.com/BuddyChewChew/My-Streams) | ✅ readme_only (105⭐ JavaScript) | [reels/reel_6642_BuddyChewChew-My-Streams](reels/reel_6642_BuddyChewChew-My-Streams) |
