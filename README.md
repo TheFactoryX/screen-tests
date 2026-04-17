@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6624 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 102k | 2026-04-17 |
+| #6625 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 114k | 2026-04-17 |
 ---
 
 ## 🎭 Selection Process
@@ -6713,3 +6713,4 @@ If you need permission, you're thinking too much.
 | 6622 | 2026-04-16 22:53:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184349⭐ TypeScript) | [reels/reel_6622_n8n-io-n8n](reels/reel_6622_n8n-io-n8n) |
 | 6623 | 2026-04-16 23:38:36 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112477⭐ TypeScript) | [reels/reel_6623_shadcn-ui-ui](reels/reel_6623_shadcn-ui-ui) |
 | 6624 | 2026-04-17 01:09:11 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (102642⭐ Python) | [reels/reel_6624_deepseek-ai-DeepSeek-V3](reels/reel_6624_deepseek-ai-DeepSeek-V3) |
+| 6625 | 2026-04-17 04:21:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114685⭐ TypeScript) | [reels/reel_6625_iptv-org-iptv](reels/reel_6625_iptv-org-iptv) |
