@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6661 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 491k | 2026-04-18 |
+| #6662 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | TypeScript · ⭐ 11k | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6750,3 +6750,4 @@ If you need permission, you're thinking too much.
 | 6659 | 2026-04-18 18:00:17 | [llvm/offload-test-suite](https://github.com/llvm/offload-test-suite) | ✅ full (14⭐ C++) | [reels/reel_6659_llvm-offload-test-suite](reels/reel_6659_llvm-offload-test-suite) |
 | 6660 | 2026-04-18 19:08:54 | [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) | ✅ full (94⭐ None) | [reels/reel_6660_antonbabenko-awesome-terraform-compliance](reels/reel_6660_antonbabenko-awesome-terraform-compliance) |
 | 6661 | 2026-04-18 19:52:52 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (491451⭐ Markdown) | [reels/reel_6661_codecrafters-io-build-your-own-x](reels/reel_6661_codecrafters-io-build-your-own-x) |
+| 6662 | 2026-04-18 20:35:10 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | ✅ shallow (11224⭐ TypeScript) | [reels/reel_6662_YouMind-OpenLab-awesome-nano-banana-pro-prompts](reels/reel_6662_YouMind-OpenLab-awesome-nano-banana-pro-prompts) |

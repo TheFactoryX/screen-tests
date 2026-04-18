@@ -1,0 +1,24 @@
+{
+  "reel_number": 6662,
+  "recorded": "2026-04-18 20:35:10 UTC",
+  "repository": {
+    "full_name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "clone_url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts.git",
+    "stars": 11224,
+    "language": "TypeScript",
+    "size_kb": 289482
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 282,
+    "duration_seconds": 1.256268
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 11224 stars."
+  }
+}
