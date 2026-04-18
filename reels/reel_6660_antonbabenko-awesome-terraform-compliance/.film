@@ -1,0 +1,24 @@
+{
+  "reel_number": 6660,
+  "recorded": "2026-04-18 19:08:54 UTC",
+  "repository": {
+    "full_name": "antonbabenko/awesome-terraform-compliance",
+    "url": "https://github.com/antonbabenko/awesome-terraform-compliance",
+    "clone_url": "https://github.com/antonbabenko/awesome-terraform-compliance.git",
+    "stars": 94,
+    "language": null,
+    "size_kb": 140
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.493445
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 94 stars."
+  }
+}

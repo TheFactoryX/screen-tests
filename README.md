@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6659 | [llvm/offload-test-suite](https://github.com/llvm/offload-test-suite) | C++ · ⭐ 14 | 2026-04-18 |
+| #6660 | [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) | None · ⭐ 94 | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6748,3 +6748,4 @@ If you need permission, you're thinking too much.
 | 6657 | 2026-04-18 16:37:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114890⭐ TypeScript) | [reels/reel_6657_iptv-org-iptv](reels/reel_6657_iptv-org-iptv) |
 | 6658 | 2026-04-18 17:21:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (286706⭐ None) | [reels/reel_6658_awesome-selfhosted-awesome-selfhosted](reels/reel_6658_awesome-selfhosted-awesome-selfhosted) |
 | 6659 | 2026-04-18 18:00:17 | [llvm/offload-test-suite](https://github.com/llvm/offload-test-suite) | ✅ full (14⭐ C++) | [reels/reel_6659_llvm-offload-test-suite](reels/reel_6659_llvm-offload-test-suite) |
+| 6660 | 2026-04-18 19:08:54 | [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) | ✅ full (94⭐ None) | [reels/reel_6660_antonbabenko-awesome-terraform-compliance](reels/reel_6660_antonbabenko-awesome-terraform-compliance) |
