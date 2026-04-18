@@ -1,0 +1,24 @@
+{
+  "reel_number": 6645,
+  "recorded": "2026-04-18 06:02:53 UTC",
+  "repository": {
+    "full_name": "bartstc/vite-ts-react-template",
+    "url": "https://github.com/bartstc/vite-ts-react-template",
+    "clone_url": "https://github.com/bartstc/vite-ts-react-template.git",
+    "stars": 119,
+    "language": "TypeScript",
+    "size_kb": 3574
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.38303
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 119 stars."
+  }
+}
