@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6653 | [Galvnyz/M365-Assess](https://github.com/Galvnyz/M365-Assess) | PowerShell · ⭐ 102 | 2026-04-18 |
+| #6654 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 286k | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6742,3 +6742,4 @@ If you need permission, you're thinking too much.
 | 6651 | 2026-04-18 11:42:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132498⭐ Python) | [reels/reel_6651_open-webui-open-webui](reels/reel_6651_open-webui-open-webui) |
 | 6652 | 2026-04-18 12:04:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133938⭐ Python) | [reels/reel_6652_langchain-ai-langchain](reels/reel_6652_langchain-ai-langchain) |
 | 6653 | 2026-04-18 13:35:26 | [Galvnyz/M365-Assess](https://github.com/Galvnyz/M365-Assess) | ✅ full (102⭐ PowerShell) | [reels/reel_6653_Galvnyz-M365-Assess](reels/reel_6653_Galvnyz-M365-Assess) |
+| 6654 | 2026-04-18 14:24:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (286683⭐ None) | [reels/reel_6654_awesome-selfhosted-awesome-selfhosted](reels/reel_6654_awesome-selfhosted-awesome-selfhosted) |
