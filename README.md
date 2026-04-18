@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6664 | [sabrehagen/desktop-environment](https://github.com/sabrehagen/desktop-environment) | Dockerfile · ⭐ 207 | 2026-04-18 |
+| #6665 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6753,3 +6753,4 @@ If you need permission, you're thinking too much.
 | 6662 | 2026-04-18 20:35:10 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | ✅ shallow (11224⭐ TypeScript) | [reels/reel_6662_YouMind-OpenLab-awesome-nano-banana-pro-prompts](reels/reel_6662_YouMind-OpenLab-awesome-nano-banana-pro-prompts) |
 | 6663 | 2026-04-18 21:18:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147085⭐ Python) | [reels/reel_6663_langflow-ai-langflow](reels/reel_6663_langflow-ai-langflow) |
 | 6664 | 2026-04-18 21:57:38 | [sabrehagen/desktop-environment](https://github.com/sabrehagen/desktop-environment) | ✅ full (207⭐ Dockerfile) | [reels/reel_6664_sabrehagen-desktop-environment](reels/reel_6664_sabrehagen-desktop-environment) |
+| 6665 | 2026-04-18 22:40:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184595⭐ TypeScript) | [reels/reel_6665_n8n-io-n8n](reels/reel_6665_n8n-io-n8n) |
