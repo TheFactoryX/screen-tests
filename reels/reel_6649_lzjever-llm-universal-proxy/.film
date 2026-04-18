@@ -1,0 +1,24 @@
+{
+  "reel_number": 6649,
+  "recorded": "2026-04-18 10:02:10 UTC",
+  "repository": {
+    "full_name": "lzjever/llm-universal-proxy",
+    "url": "https://github.com/lzjever/llm-universal-proxy",
+    "clone_url": "https://github.com/lzjever/llm-universal-proxy.git",
+    "stars": 110,
+    "language": "Rust",
+    "size_kb": 3417
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.697798
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 110 stars."
+  }
+}
