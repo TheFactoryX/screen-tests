@@ -1,0 +1,24 @@
+{
+  "reel_number": 6653,
+  "recorded": "2026-04-18 13:35:26 UTC",
+  "repository": {
+    "full_name": "Galvnyz/M365-Assess",
+    "url": "https://github.com/Galvnyz/M365-Assess",
+    "clone_url": "https://github.com/Galvnyz/M365-Assess.git",
+    "stars": 102,
+    "language": "PowerShell",
+    "size_kb": 8746
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.950424
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 102 stars."
+  }
+}
