@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6645 | [bartstc/vite-ts-react-template](https://github.com/bartstc/vite-ts-react-template) | TypeScript · ⭐ 119 | 2026-04-18 |
+| #6646 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 286k | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6734,3 +6734,4 @@ If you need permission, you're thinking too much.
 | 6643 | 2026-04-18 02:10:38 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (286598⭐ None) | [reels/reel_6643_awesome-selfhosted-awesome-selfhosted](reels/reel_6643_awesome-selfhosted-awesome-selfhosted) |
 | 6644 | 2026-04-18 04:41:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147065⭐ Python) | [reels/reel_6644_langflow-ai-langflow](reels/reel_6644_langflow-ai-langflow) |
 | 6645 | 2026-04-18 06:02:53 | [bartstc/vite-ts-react-template](https://github.com/bartstc/vite-ts-react-template) | ✅ full (119⭐ TypeScript) | [reels/reel_6645_bartstc-vite-ts-react-template](reels/reel_6645_bartstc-vite-ts-react-template) |
+| 6646 | 2026-04-18 07:34:50 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (286638⭐ None) | [reels/reel_6646_awesome-selfhosted-awesome-selfhosted](reels/reel_6646_awesome-selfhosted-awesome-selfhosted) |
