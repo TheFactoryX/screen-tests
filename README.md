@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6666 | [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) | Python · ⭐ 741 | 2026-04-18 |
+| #6667 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 263k | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6755,3 +6755,4 @@ If you need permission, you're thinking too much.
 | 6664 | 2026-04-18 21:57:38 | [sabrehagen/desktop-environment](https://github.com/sabrehagen/desktop-environment) | ✅ full (207⭐ Dockerfile) | [reels/reel_6664_sabrehagen-desktop-environment](reels/reel_6664_sabrehagen-desktop-environment) |
 | 6665 | 2026-04-18 22:40:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184595⭐ TypeScript) | [reels/reel_6665_n8n-io-n8n](reels/reel_6665_n8n-io-n8n) |
 | 6666 | 2026-04-18 23:18:45 | [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) | ✅ full (741⭐ Python) | [reels/reel_6666_psi-oss-get-physics-done](reels/reel_6666_psi-oss-get-physics-done) |
+| 6667 | 2026-04-18 23:59:50 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (263538⭐ None) | [reels/reel_6667_practical-tutorials-project-based-learning](reels/reel_6667_practical-tutorials-project-based-learning) |
