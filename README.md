@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6649 | [lzjever/llm-universal-proxy](https://github.com/lzjever/llm-universal-proxy) | Rust · ⭐ 110 | 2026-04-18 |
+| #6650 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6738,3 +6738,4 @@ If you need permission, you're thinking too much.
 | 6647 | 2026-04-18 08:26:35 | [xr843/fojin](https://github.com/xr843/fojin) | ✅ full (269⭐ Python) | [reels/reel_6647_xr843-fojin](reels/reel_6647_xr843-fojin) |
 | 6648 | 2026-04-18 09:12:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147070⭐ Python) | [reels/reel_6648_langflow-ai-langflow](reels/reel_6648_langflow-ai-langflow) |
 | 6649 | 2026-04-18 10:02:10 | [lzjever/llm-universal-proxy](https://github.com/lzjever/llm-universal-proxy) | ✅ full (110⭐ Rust) | [reels/reel_6649_lzjever-llm-universal-proxy](reels/reel_6649_lzjever-llm-universal-proxy) |
+| 6650 | 2026-04-18 11:00:02 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184528⭐ TypeScript) | [reels/reel_6650_n8n-io-n8n](reels/reel_6650_n8n-io-n8n) |
