@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6647 | [xr843/fojin](https://github.com/xr843/fojin) | Python · ⭐ 269 | 2026-04-18 |
+| #6648 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6736,3 +6736,4 @@ If you need permission, you're thinking too much.
 | 6645 | 2026-04-18 06:02:53 | [bartstc/vite-ts-react-template](https://github.com/bartstc/vite-ts-react-template) | ✅ full (119⭐ TypeScript) | [reels/reel_6645_bartstc-vite-ts-react-template](reels/reel_6645_bartstc-vite-ts-react-template) |
 | 6646 | 2026-04-18 07:34:50 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (286638⭐ None) | [reels/reel_6646_awesome-selfhosted-awesome-selfhosted](reels/reel_6646_awesome-selfhosted-awesome-selfhosted) |
 | 6647 | 2026-04-18 08:26:35 | [xr843/fojin](https://github.com/xr843/fojin) | ✅ full (269⭐ Python) | [reels/reel_6647_xr843-fojin](reels/reel_6647_xr843-fojin) |
+| 6648 | 2026-04-18 09:12:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147070⭐ Python) | [reels/reel_6648_langflow-ai-langflow](reels/reel_6648_langflow-ai-langflow) |
