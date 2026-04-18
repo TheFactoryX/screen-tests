@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6654 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 286k | 2026-04-18 |
+| #6655 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-04-18 |
 ---
 
 ## 🎭 Selection Process
@@ -6743,3 +6743,4 @@ If you need permission, you're thinking too much.
 | 6652 | 2026-04-18 12:04:25 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133938⭐ Python) | [reels/reel_6652_langchain-ai-langchain](reels/reel_6652_langchain-ai-langchain) |
 | 6653 | 2026-04-18 13:35:26 | [Galvnyz/M365-Assess](https://github.com/Galvnyz/M365-Assess) | ✅ full (102⭐ PowerShell) | [reels/reel_6653_Galvnyz-M365-Assess](reels/reel_6653_Galvnyz-M365-Assess) |
 | 6654 | 2026-04-18 14:24:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (286683⭐ None) | [reels/reel_6654_awesome-selfhosted-awesome-selfhosted](reels/reel_6654_awesome-selfhosted-awesome-selfhosted) |
+| 6655 | 2026-04-18 15:05:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147080⭐ Python) | [reels/reel_6655_langflow-ai-langflow](reels/reel_6655_langflow-ai-langflow) |
