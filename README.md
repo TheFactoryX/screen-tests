@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6676 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 134k | 2026-04-19 |
+| #6677 | [meixger/hackernews-daily](https://github.com/meixger/hackernews-daily) | JavaScript · ⭐ 72 | 2026-04-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6765,3 +6765,4 @@ If you need permission, you're thinking too much.
 | 6674 | 2026-04-19 11:06:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132610⭐ Python) | [reels/reel_6674_open-webui-open-webui](reels/reel_6674_open-webui-open-webui) |
 | 6675 | 2026-04-19 11:50:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184673⭐ TypeScript) | [reels/reel_6675_n8n-io-n8n](reels/reel_6675_n8n-io-n8n) |
 | 6676 | 2026-04-19 12:58:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134033⭐ Python) | [reels/reel_6676_langchain-ai-langchain](reels/reel_6676_langchain-ai-langchain) |
+| 6677 | 2026-04-19 14:01:31 | [meixger/hackernews-daily](https://github.com/meixger/hackernews-daily) | ✅ full (72⭐ JavaScript) | [reels/reel_6677_meixger-hackernews-daily](reels/reel_6677_meixger-hackernews-daily) |
