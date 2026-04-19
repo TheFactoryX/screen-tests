@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6668 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-19 |
+| #6669 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 133k | 2026-04-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6757,3 +6757,4 @@ If you need permission, you're thinking too much.
 | 6666 | 2026-04-18 23:18:45 | [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) | ✅ full (741⭐ Python) | [reels/reel_6666_psi-oss-get-physics-done](reels/reel_6666_psi-oss-get-physics-done) |
 | 6667 | 2026-04-18 23:59:50 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (263538⭐ None) | [reels/reel_6667_practical-tutorials-project-based-learning](reels/reel_6667_practical-tutorials-project-based-learning) |
 | 6668 | 2026-04-19 03:43:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184623⭐ TypeScript) | [reels/reel_6668_n8n-io-n8n](reels/reel_6668_n8n-io-n8n) |
+| 6669 | 2026-04-19 05:49:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (133997⭐ Python) | [reels/reel_6669_langchain-ai-langchain](reels/reel_6669_langchain-ai-langchain) |
