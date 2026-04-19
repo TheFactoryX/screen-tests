@@ -1,0 +1,24 @@
+{
+  "reel_number": 6686,
+  "recorded": "2026-04-19 20:53:47 UTC",
+  "repository": {
+    "full_name": "creativecommons/creativecommons.github.io",
+    "url": "https://github.com/creativecommons/creativecommons.github.io",
+    "clone_url": "https://github.com/creativecommons/creativecommons.github.io.git",
+    "stars": 15,
+    "language": "HTML",
+    "size_kb": 246850
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 241,
+    "duration_seconds": 5.376002
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 15 stars."
+  }
+}
