@@ -1,0 +1,24 @@
+{
+  "reel_number": 6671,
+  "recorded": "2026-04-19 08:31:39 UTC",
+  "repository": {
+    "full_name": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "clone_url": "https://github.com/ytdl-org/youtube-dl.git",
+    "stars": 140091,
+    "language": "Python",
+    "size_kb": 65510
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 5.474305
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 140091 stars."
+  }
+}
