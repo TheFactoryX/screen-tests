@@ -1,0 +1,24 @@
+{
+  "reel_number": 6688,
+  "recorded": "2026-04-19 22:04:27 UTC",
+  "repository": {
+    "full_name": "alarsyo/nixos-config",
+    "url": "https://github.com/alarsyo/nixos-config",
+    "clone_url": "https://github.com/alarsyo/nixos-config.git",
+    "stars": 11,
+    "language": "Nix",
+    "size_kb": 855
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.196845
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 11 stars."
+  }
+}

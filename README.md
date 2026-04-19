@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6687 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 132k | 2026-04-19 |
+| #6688 | [alarsyo/nixos-config](https://github.com/alarsyo/nixos-config) | Nix · ⭐ 11 | 2026-04-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6776,3 +6776,4 @@ If you need permission, you're thinking too much.
 | 6685 | 2026-04-19 20:05:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132674⭐ Python) | [reels/reel_6685_open-webui-open-webui](reels/reel_6685_open-webui-open-webui) |
 | 6686 | 2026-04-19 20:53:47 | [creativecommons/creativecommons.github.io](https://github.com/creativecommons/creativecommons.github.io) | ✅ shallow (15⭐ HTML) | [reels/reel_6686_creativecommons-creativecommons.github.io](reels/reel_6686_creativecommons-creativecommons.github.io) |
 | 6687 | 2026-04-19 21:34:08 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132680⭐ Python) | [reels/reel_6687_open-webui-open-webui](reels/reel_6687_open-webui-open-webui) |
+| 6688 | 2026-04-19 22:04:27 | [alarsyo/nixos-config](https://github.com/alarsyo/nixos-config) | ✅ full (11⭐ Nix) | [reels/reel_6688_alarsyo-nixos-config](reels/reel_6688_alarsyo-nixos-config) |
