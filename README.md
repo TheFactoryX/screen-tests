@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6667 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 263k | 2026-04-18 |
+| #6668 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6756,3 +6756,4 @@ If you need permission, you're thinking too much.
 | 6665 | 2026-04-18 22:40:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184595⭐ TypeScript) | [reels/reel_6665_n8n-io-n8n](reels/reel_6665_n8n-io-n8n) |
 | 6666 | 2026-04-18 23:18:45 | [psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done) | ✅ full (741⭐ Python) | [reels/reel_6666_psi-oss-get-physics-done](reels/reel_6666_psi-oss-get-physics-done) |
 | 6667 | 2026-04-18 23:59:50 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (263538⭐ None) | [reels/reel_6667_practical-tutorials-project-based-learning](reels/reel_6667_practical-tutorials-project-based-learning) |
+| 6668 | 2026-04-19 03:43:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184623⭐ TypeScript) | [reels/reel_6668_n8n-io-n8n](reels/reel_6668_n8n-io-n8n) |
