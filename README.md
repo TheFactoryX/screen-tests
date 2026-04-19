@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6677 | [meixger/hackernews-daily](https://github.com/meixger/hackernews-daily) | JavaScript · ⭐ 72 | 2026-04-19 |
+| #6678 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 110k | 2026-04-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6766,3 +6766,4 @@ If you need permission, you're thinking too much.
 | 6675 | 2026-04-19 11:50:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184673⭐ TypeScript) | [reels/reel_6675_n8n-io-n8n](reels/reel_6675_n8n-io-n8n) |
 | 6676 | 2026-04-19 12:58:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134033⭐ Python) | [reels/reel_6676_langchain-ai-langchain](reels/reel_6676_langchain-ai-langchain) |
 | 6677 | 2026-04-19 14:01:31 | [meixger/hackernews-daily](https://github.com/meixger/hackernews-daily) | ✅ full (72⭐ JavaScript) | [reels/reel_6677_meixger-hackernews-daily](reels/reel_6677_meixger-hackernews-daily) |
+| 6678 | 2026-04-19 14:57:55 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (110566⭐ None) | [reels/reel_6678_Hack-with-Github-Awesome-Hacking](reels/reel_6678_Hack-with-Github-Awesome-Hacking) |
