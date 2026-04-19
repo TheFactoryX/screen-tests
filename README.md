@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6683 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-04-19 |
+| #6684 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 157k | 2026-04-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6772,3 +6772,4 @@ If you need permission, you're thinking too much.
 | 6681 | 2026-04-19 17:04:12 | [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) | ✅ full (1645⭐ None) | [reels/reel_6681_ai-for-developers-awesome-ai-coding-tools](reels/reel_6681_ai-for-developers-awesome-ai-coding-tools) |
 | 6682 | 2026-04-19 17:52:43 | [asyncapi/website](https://github.com/asyncapi/website) | ✅ shallow (702⭐ TypeScript) | [reels/reel_6682_asyncapi-website](reels/reel_6682_asyncapi-website) |
 | 6683 | 2026-04-19 18:48:22 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147123⭐ Python) | [reels/reel_6683_langflow-ai-langflow](reels/reel_6683_langflow-ai-langflow) |
+| 6684 | 2026-04-19 19:39:49 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (157690⭐ Python) | [reels/reel_6684_yt-dlp-yt-dlp](reels/reel_6684_yt-dlp-yt-dlp) |
