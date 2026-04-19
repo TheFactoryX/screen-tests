@@ -1,0 +1,24 @@
+{
+  "reel_number": 6679,
+  "recorded": "2026-04-19 15:42:05 UTC",
+  "repository": {
+    "full_name": "BUPT-GAMMA/MASFactory",
+    "url": "https://github.com/BUPT-GAMMA/MASFactory",
+    "clone_url": "https://github.com/BUPT-GAMMA/MASFactory.git",
+    "stars": 331,
+    "language": "Python",
+    "size_kb": 57010
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 1.520009
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 331 stars."
+  }
+}
