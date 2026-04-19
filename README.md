@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6681 | [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) | None · ⭐ 1k | 2026-04-19 |
+| #6682 | [asyncapi/website](https://github.com/asyncapi/website) | TypeScript · ⭐ 702 | 2026-04-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6770,3 +6770,4 @@ If you need permission, you're thinking too much.
 | 6679 | 2026-04-19 15:42:05 | [BUPT-GAMMA/MASFactory](https://github.com/BUPT-GAMMA/MASFactory) | ✅ full (331⭐ Python) | [reels/reel_6679_BUPT-GAMMA-MASFactory](reels/reel_6679_BUPT-GAMMA-MASFactory) |
 | 6680 | 2026-04-19 16:20:43 | [LAVA-LAB/COOL-MC](https://github.com/LAVA-LAB/COOL-MC) | ✅ full (18⭐ Python) | [reels/reel_6680_LAVA-LAB-COOL-MC](reels/reel_6680_LAVA-LAB-COOL-MC) |
 | 6681 | 2026-04-19 17:04:12 | [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) | ✅ full (1645⭐ None) | [reels/reel_6681_ai-for-developers-awesome-ai-coding-tools](reels/reel_6681_ai-for-developers-awesome-ai-coding-tools) |
+| 6682 | 2026-04-19 17:52:43 | [asyncapi/website](https://github.com/asyncapi/website) | ✅ shallow (702⭐ TypeScript) | [reels/reel_6682_asyncapi-website](reels/reel_6682_asyncapi-website) |

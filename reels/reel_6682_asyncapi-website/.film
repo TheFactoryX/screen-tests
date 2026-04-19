@@ -1,0 +1,24 @@
+{
+  "reel_number": 6682,
+  "recorded": "2026-04-19 17:52:43 UTC",
+  "repository": {
+    "full_name": "asyncapi/website",
+    "url": "https://github.com/asyncapi/website",
+    "clone_url": "https://github.com/asyncapi/website.git",
+    "stars": 702,
+    "language": "TypeScript",
+    "size_kb": 127383
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 124,
+    "duration_seconds": 1.756906
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 702 stars."
+  }
+}
