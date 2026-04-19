@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6689 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 425k | 2026-04-19 |
+| #6690 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 157k | 2026-04-19 |
 ---
 
 ## 🎭 Selection Process
@@ -6778,3 +6778,4 @@ If you need permission, you're thinking too much.
 | 6687 | 2026-04-19 21:34:08 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (132680⭐ Python) | [reels/reel_6687_open-webui-open-webui](reels/reel_6687_open-webui-open-webui) |
 | 6688 | 2026-04-19 22:04:27 | [alarsyo/nixos-config](https://github.com/alarsyo/nixos-config) | ✅ full (11⭐ Nix) | [reels/reel_6688_alarsyo-nixos-config](reels/reel_6688_alarsyo-nixos-config) |
 | 6689 | 2026-04-19 22:55:24 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (425059⭐ Python) | [reels/reel_6689_public-apis-public-apis](reels/reel_6689_public-apis-public-apis) |
+| 6690 | 2026-04-19 23:34:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (157703⭐ Python) | [reels/reel_6690_yt-dlp-yt-dlp](reels/reel_6690_yt-dlp-yt-dlp) |
