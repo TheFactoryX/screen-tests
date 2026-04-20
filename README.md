@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6700 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 287k | 2026-04-20 |
+| #6701 | [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) | Java · ⭐ 2k | 2026-04-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6789,3 +6789,4 @@ If you need permission, you're thinking too much.
 | 6698 | 2026-04-20 15:43:23 | [mni-ml/framework](https://github.com/mni-ml/framework) | ✅ full (339⭐ Rust) | [reels/reel_6698_mni-ml-framework](reels/reel_6698_mni-ml-framework) |
 | 6699 | 2026-04-20 16:45:33 | [dotnet/versions](https://github.com/dotnet/versions) | ✅ shallow (151⭐ None) | [reels/reel_6699_dotnet-versions](reels/reel_6699_dotnet-versions) |
 | 6700 | 2026-04-20 17:55:36 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (287136⭐ None) | [reels/reel_6700_awesome-selfhosted-awesome-selfhosted](reels/reel_6700_awesome-selfhosted-awesome-selfhosted) |
+| 6701 | 2026-04-20 19:04:26 | [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) | ✅ full (2350⭐ Java) | [reels/reel_6701_PurpurMC-Purpur](reels/reel_6701_PurpurMC-Purpur) |
