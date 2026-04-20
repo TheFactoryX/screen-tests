@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6692 | [bluurryy/noise-functions](https://github.com/bluurryy/noise-functions) | Rust · ⭐ 14 | 2026-04-20 |
+| #6693 | [starkware-libs/cairo-vm](https://github.com/starkware-libs/cairo-vm) | Rust · ⭐ 582 | 2026-04-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6781,3 +6781,4 @@ If you need permission, you're thinking too much.
 | 6690 | 2026-04-19 23:34:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (157703⭐ Python) | [reels/reel_6690_yt-dlp-yt-dlp](reels/reel_6690_yt-dlp-yt-dlp) |
 | 6691 | 2026-04-20 01:09:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183570⭐ Python) | [reels/reel_6691_Significant-Gravitas-AutoGPT](reels/reel_6691_Significant-Gravitas-AutoGPT) |
 | 6692 | 2026-04-20 04:28:41 | [bluurryy/noise-functions](https://github.com/bluurryy/noise-functions) | ✅ full (14⭐ Rust) | [reels/reel_6692_bluurryy-noise-functions](reels/reel_6692_bluurryy-noise-functions) |
+| 6693 | 2026-04-20 06:32:48 | [starkware-libs/cairo-vm](https://github.com/starkware-libs/cairo-vm) | ✅ shallow (582⭐ Rust) | [reels/reel_6693_starkware-libs-cairo-vm](reels/reel_6693_starkware-libs-cairo-vm) |
