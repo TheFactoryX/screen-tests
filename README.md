@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6694 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 184k | 2026-04-20 |
+| #6695 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-04-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6783,3 +6783,4 @@ If you need permission, you're thinking too much.
 | 6692 | 2026-04-20 04:28:41 | [bluurryy/noise-functions](https://github.com/bluurryy/noise-functions) | ✅ full (14⭐ Rust) | [reels/reel_6692_bluurryy-noise-functions](reels/reel_6692_bluurryy-noise-functions) |
 | 6693 | 2026-04-20 06:32:48 | [starkware-libs/cairo-vm](https://github.com/starkware-libs/cairo-vm) | ✅ shallow (582⭐ Rust) | [reels/reel_6693_starkware-libs-cairo-vm](reels/reel_6693_starkware-libs-cairo-vm) |
 | 6694 | 2026-04-20 09:00:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184789⭐ TypeScript) | [reels/reel_6694_n8n-io-n8n](reels/reel_6694_n8n-io-n8n) |
+| 6695 | 2026-04-20 10:57:19 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140100⭐ Python) | [reels/reel_6695_ytdl-org-youtube-dl](reels/reel_6695_ytdl-org-youtube-dl) |
