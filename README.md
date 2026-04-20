@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6701 | [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) | Java · ⭐ 2k | 2026-04-20 |
+| #6702 | [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) | JavaScript · ⭐ 486 | 2026-04-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6790,3 +6790,4 @@ If you need permission, you're thinking too much.
 | 6699 | 2026-04-20 16:45:33 | [dotnet/versions](https://github.com/dotnet/versions) | ✅ shallow (151⭐ None) | [reels/reel_6699_dotnet-versions](reels/reel_6699_dotnet-versions) |
 | 6700 | 2026-04-20 17:55:36 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (287136⭐ None) | [reels/reel_6700_awesome-selfhosted-awesome-selfhosted](reels/reel_6700_awesome-selfhosted-awesome-selfhosted) |
 | 6701 | 2026-04-20 19:04:26 | [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) | ✅ full (2350⭐ Java) | [reels/reel_6701_PurpurMC-Purpur](reels/reel_6701_PurpurMC-Purpur) |
+| 6702 | 2026-04-20 20:06:31 | [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) | ✅ full (486⭐ JavaScript) | [reels/reel_6702_KevinPayravi-indie-wiki-buddy](reels/reel_6702_KevinPayravi-indie-wiki-buddy) |
