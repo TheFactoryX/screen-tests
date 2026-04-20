@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6705 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 101k | 2026-04-20 |
+| #6706 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 110k | 2026-04-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6794,3 +6794,4 @@ If you need permission, you're thinking too much.
 | 6703 | 2026-04-20 21:01:03 | [MatiousCorp/google-ad-manager-mcp](https://github.com/MatiousCorp/google-ad-manager-mcp) | ✅ full (12⭐ Python) | [reels/reel_6703_MatiousCorp-google-ad-manager-mcp](reels/reel_6703_MatiousCorp-google-ad-manager-mcp) |
 | 6704 | 2026-04-20 22:02:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183612⭐ Python) | [reels/reel_6704_Significant-Gravitas-AutoGPT](reels/reel_6704_Significant-Gravitas-AutoGPT) |
 | 6705 | 2026-04-20 23:02:42 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (101902⭐ TypeScript) | [reels/reel_6705_google-gemini-gemini-cli](reels/reel_6705_google-gemini-gemini-cli) |
+| 6706 | 2026-04-20 23:58:12 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (110637⭐ None) | [reels/reel_6706_Hack-with-Github-Awesome-Hacking](reels/reel_6706_Hack-with-Github-Awesome-Hacking) |
