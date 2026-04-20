@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6696 | [yuexuan521/honeypot-blocklist](https://github.com/yuexuan521/honeypot-blocklist) | Python · ⭐ 193 | 2026-04-20 |
+| #6697 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 105k | 2026-04-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6785,3 +6785,4 @@ If you need permission, you're thinking too much.
 | 6694 | 2026-04-20 09:00:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184789⭐ TypeScript) | [reels/reel_6694_n8n-io-n8n](reels/reel_6694_n8n-io-n8n) |
 | 6695 | 2026-04-20 10:57:19 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140100⭐ Python) | [reels/reel_6695_ytdl-org-youtube-dl](reels/reel_6695_ytdl-org-youtube-dl) |
 | 6696 | 2026-04-20 12:06:33 | [yuexuan521/honeypot-blocklist](https://github.com/yuexuan521/honeypot-blocklist) | ✅ full (193⭐ Python) | [reels/reel_6696_yuexuan521-honeypot-blocklist](reels/reel_6696_yuexuan521-honeypot-blocklist) |
+| 6697 | 2026-04-20 14:10:58 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (105214⭐ C++) | [reels/reel_6697_ggml-org-llama.cpp](reels/reel_6697_ggml-org-llama.cpp) |
