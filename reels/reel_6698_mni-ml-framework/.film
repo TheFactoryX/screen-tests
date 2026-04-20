@@ -1,0 +1,24 @@
+{
+  "reel_number": 6698,
+  "recorded": "2026-04-20 15:43:23 UTC",
+  "repository": {
+    "full_name": "mni-ml/framework",
+    "url": "https://github.com/mni-ml/framework",
+    "clone_url": "https://github.com/mni-ml/framework.git",
+    "stars": 339,
+    "language": "Rust",
+    "size_kb": 26957
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 1.222289
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 339 stars."
+  }
+}

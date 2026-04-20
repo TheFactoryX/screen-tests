@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6697 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 105k | 2026-04-20 |
+| #6698 | [mni-ml/framework](https://github.com/mni-ml/framework) | Rust · ⭐ 339 | 2026-04-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6786,3 +6786,4 @@ If you need permission, you're thinking too much.
 | 6695 | 2026-04-20 10:57:19 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140100⭐ Python) | [reels/reel_6695_ytdl-org-youtube-dl](reels/reel_6695_ytdl-org-youtube-dl) |
 | 6696 | 2026-04-20 12:06:33 | [yuexuan521/honeypot-blocklist](https://github.com/yuexuan521/honeypot-blocklist) | ✅ full (193⭐ Python) | [reels/reel_6696_yuexuan521-honeypot-blocklist](reels/reel_6696_yuexuan521-honeypot-blocklist) |
 | 6697 | 2026-04-20 14:10:58 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (105214⭐ C++) | [reels/reel_6697_ggml-org-llama.cpp](reels/reel_6697_ggml-org-llama.cpp) |
+| 6698 | 2026-04-20 15:43:23 | [mni-ml/framework](https://github.com/mni-ml/framework) | ✅ full (339⭐ Rust) | [reels/reel_6698_mni-ml-framework](reels/reel_6698_mni-ml-framework) |
