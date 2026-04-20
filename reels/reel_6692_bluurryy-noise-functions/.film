@@ -1,0 +1,24 @@
+{
+  "reel_number": 6692,
+  "recorded": "2026-04-20 04:28:41 UTC",
+  "repository": {
+    "full_name": "bluurryy/noise-functions",
+    "url": "https://github.com/bluurryy/noise-functions",
+    "clone_url": "https://github.com/bluurryy/noise-functions.git",
+    "stars": 14,
+    "language": "Rust",
+    "size_kb": 594
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.724733
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 14 stars."
+  }
+}
