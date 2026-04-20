@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6703 | [MatiousCorp/google-ad-manager-mcp](https://github.com/MatiousCorp/google-ad-manager-mcp) | Python · ⭐ 12 | 2026-04-20 |
+| #6704 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-20 |
 ---
 
 ## 🎭 Selection Process
@@ -6792,3 +6792,4 @@ If you need permission, you're thinking too much.
 | 6701 | 2026-04-20 19:04:26 | [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) | ✅ full (2350⭐ Java) | [reels/reel_6701_PurpurMC-Purpur](reels/reel_6701_PurpurMC-Purpur) |
 | 6702 | 2026-04-20 20:06:31 | [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) | ✅ full (486⭐ JavaScript) | [reels/reel_6702_KevinPayravi-indie-wiki-buddy](reels/reel_6702_KevinPayravi-indie-wiki-buddy) |
 | 6703 | 2026-04-20 21:01:03 | [MatiousCorp/google-ad-manager-mcp](https://github.com/MatiousCorp/google-ad-manager-mcp) | ✅ full (12⭐ Python) | [reels/reel_6703_MatiousCorp-google-ad-manager-mcp](reels/reel_6703_MatiousCorp-google-ad-manager-mcp) |
+| 6704 | 2026-04-20 22:02:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183612⭐ Python) | [reels/reel_6704_Significant-Gravitas-AutoGPT](reels/reel_6704_Significant-Gravitas-AutoGPT) |
