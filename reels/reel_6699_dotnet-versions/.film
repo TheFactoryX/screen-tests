@@ -1,0 +1,24 @@
+{
+  "reel_number": 6699,
+  "recorded": "2026-04-20 16:45:33 UTC",
+  "repository": {
+    "full_name": "dotnet/versions",
+    "url": "https://github.com/dotnet/versions",
+    "clone_url": "https://github.com/dotnet/versions.git",
+    "stars": 151,
+    "language": null,
+    "size_kb": 132556
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 129,
+    "duration_seconds": 0.487475
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 151 stars."
+  }
+}
