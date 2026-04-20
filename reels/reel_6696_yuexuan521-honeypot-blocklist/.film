@@ -1,0 +1,24 @@
+{
+  "reel_number": 6696,
+  "recorded": "2026-04-20 12:06:33 UTC",
+  "repository": {
+    "full_name": "yuexuan521/honeypot-blocklist",
+    "url": "https://github.com/yuexuan521/honeypot-blocklist",
+    "clone_url": "https://github.com/yuexuan521/honeypot-blocklist.git",
+    "stars": 193,
+    "language": "Python",
+    "size_kb": 5423
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.810855
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 193 stars."
+  }
+}
