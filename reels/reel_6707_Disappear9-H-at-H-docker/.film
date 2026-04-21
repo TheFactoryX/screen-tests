@@ -1,0 +1,24 @@
+{
+  "reel_number": 6707,
+  "recorded": "2026-04-21 03:27:09 UTC",
+  "repository": {
+    "full_name": "Disappear9/H-at-H-docker",
+    "url": "https://github.com/Disappear9/H-at-H-docker",
+    "clone_url": "https://github.com/Disappear9/H-at-H-docker.git",
+    "stars": 100,
+    "language": "Dockerfile",
+    "size_kb": 2461
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.002354
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dockerfile",
+    "director_note": "A Dockerfile repository. 100 stars."
+  }
+}

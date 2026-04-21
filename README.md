@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6706 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 110k | 2026-04-20 |
+| #6707 | [Disappear9/H-at-H-docker](https://github.com/Disappear9/H-at-H-docker) | Dockerfile · ⭐ 100 | 2026-04-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6795,3 +6795,4 @@ If you need permission, you're thinking too much.
 | 6704 | 2026-04-20 22:02:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183612⭐ Python) | [reels/reel_6704_Significant-Gravitas-AutoGPT](reels/reel_6704_Significant-Gravitas-AutoGPT) |
 | 6705 | 2026-04-20 23:02:42 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (101902⭐ TypeScript) | [reels/reel_6705_google-gemini-gemini-cli](reels/reel_6705_google-gemini-gemini-cli) |
 | 6706 | 2026-04-20 23:58:12 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (110637⭐ None) | [reels/reel_6706_Hack-with-Github-Awesome-Hacking](reels/reel_6706_Hack-with-Github-Awesome-Hacking) |
+| 6707 | 2026-04-21 03:27:09 | [Disappear9/H-at-H-docker](https://github.com/Disappear9/H-at-H-docker) | ✅ full (100⭐ Dockerfile) | [reels/reel_6707_Disappear9-H-at-H-docker](reels/reel_6707_Disappear9-H-at-H-docker) |
