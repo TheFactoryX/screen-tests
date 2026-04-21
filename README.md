@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6716 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 134k | 2026-04-21 |
+| #6717 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 134k | 2026-04-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6805,3 +6805,4 @@ If you need permission, you're thinking too much.
 | 6714 | 2026-04-21 14:56:51 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (105714⭐ Rust) | [reels/reel_6714_tauri-apps-tauri](reels/reel_6714_tauri-apps-tauri) |
 | 6715 | 2026-04-21 16:11:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (133008⭐ Python) | [reels/reel_6715_open-webui-open-webui](reels/reel_6715_open-webui-open-webui) |
 | 6716 | 2026-04-21 17:16:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134374⭐ Python) | [reels/reel_6716_langchain-ai-langchain](reels/reel_6716_langchain-ai-langchain) |
+| 6717 | 2026-04-21 18:38:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134379⭐ Python) | [reels/reel_6717_langchain-ai-langchain](reels/reel_6717_langchain-ai-langchain) |
