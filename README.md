@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6714 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 105k | 2026-04-21 |
+| #6715 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 133k | 2026-04-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6803,3 +6803,4 @@ If you need permission, you're thinking too much.
 | 6712 | 2026-04-21 11:46:02 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (184960⭐ TypeScript) | [reels/reel_6712_n8n-io-n8n](reels/reel_6712_n8n-io-n8n) |
 | 6713 | 2026-04-21 13:22:48 | [ansys/pyfluent](https://github.com/ansys/pyfluent) | ✅ shallow (416⭐ Python) | [reels/reel_6713_ansys-pyfluent](reels/reel_6713_ansys-pyfluent) |
 | 6714 | 2026-04-21 14:56:51 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (105714⭐ Rust) | [reels/reel_6714_tauri-apps-tauri](reels/reel_6714_tauri-apps-tauri) |
+| 6715 | 2026-04-21 16:11:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (133008⭐ Python) | [reels/reel_6715_open-webui-open-webui](reels/reel_6715_open-webui-open-webui) |
