@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6710 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 425k | 2026-04-21 |
+| #6711 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 287k | 2026-04-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6799,3 +6799,4 @@ If you need permission, you're thinking too much.
 | 6708 | 2026-04-21 05:39:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (112171⭐ TypeScript) | [reels/reel_6708_clash-verge-rev-clash-verge-rev](reels/reel_6708_clash-verge-rev-clash-verge-rev) |
 | 6709 | 2026-04-21 07:13:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (114976⭐ TypeScript) | [reels/reel_6709_iptv-org-iptv](reels/reel_6709_iptv-org-iptv) |
 | 6710 | 2026-04-21 09:03:43 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (425488⭐ Python) | [reels/reel_6710_public-apis-public-apis](reels/reel_6710_public-apis-public-apis) |
+| 6711 | 2026-04-21 10:43:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (287319⭐ None) | [reels/reel_6711_awesome-selfhosted-awesome-selfhosted](reels/reel_6711_awesome-selfhosted-awesome-selfhosted) |
