@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6721 | [rahulrajasekhar/poly-ct](https://github.com/rahulrajasekhar/poly-ct) | TypeScript · ⭐ 204 | 2026-04-21 |
+| #6722 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6810,3 +6810,4 @@ If you need permission, you're thinking too much.
 | 6719 | 2026-04-21 20:51:08 | [g4rcez/dotfiles](https://github.com/g4rcez/dotfiles) | ✅ full (44⭐ Lua) | [reels/reel_6719_g4rcez-dotfiles](reels/reel_6719_g4rcez-dotfiles) |
 | 6720 | 2026-04-21 21:42:46 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (163085⭐ JavaScript) | [reels/reel_6720_affaan-m-everything-claude-code](reels/reel_6720_affaan-m-everything-claude-code) |
 | 6721 | 2026-04-21 22:25:30 | [rahulrajasekhar/poly-ct](https://github.com/rahulrajasekhar/poly-ct) | ✅ full (204⭐ TypeScript) | [reels/reel_6721_rahulrajasekhar-poly-ct](reels/reel_6721_rahulrajasekhar-poly-ct) |
+| 6722 | 2026-04-21 23:06:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183641⭐ Python) | [reels/reel_6722_Significant-Gravitas-AutoGPT](reels/reel_6722_Significant-Gravitas-AutoGPT) |
