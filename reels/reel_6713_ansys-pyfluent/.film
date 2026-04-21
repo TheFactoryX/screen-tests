@@ -1,0 +1,24 @@
+{
+  "reel_number": 6713,
+  "recorded": "2026-04-21 13:22:48 UTC",
+  "repository": {
+    "full_name": "ansys/pyfluent",
+    "url": "https://github.com/ansys/pyfluent",
+    "clone_url": "https://github.com/ansys/pyfluent.git",
+    "stars": 416,
+    "language": "Python",
+    "size_kb": 345733
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 337,
+    "duration_seconds": 0.95932
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 416 stars."
+  }
+}
