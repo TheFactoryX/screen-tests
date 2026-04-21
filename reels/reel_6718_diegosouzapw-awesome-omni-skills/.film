@@ -1,0 +1,24 @@
+{
+  "reel_number": 6718,
+  "recorded": "2026-04-21 19:49:23 UTC",
+  "repository": {
+    "full_name": "diegosouzapw/awesome-omni-skills",
+    "url": "https://github.com/diegosouzapw/awesome-omni-skills",
+    "clone_url": "https://github.com/diegosouzapw/awesome-omni-skills.git",
+    "stars": 24,
+    "language": "Python",
+    "size_kb": 577583
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 564,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 24 stars."
+  }
+}
