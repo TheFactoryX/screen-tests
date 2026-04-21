@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6718 | [diegosouzapw/awesome-omni-skills](https://github.com/diegosouzapw/awesome-omni-skills) | Python · ⭐ 24 | 2026-04-21 |
+| #6719 | [g4rcez/dotfiles](https://github.com/g4rcez/dotfiles) | Lua · ⭐ 44 | 2026-04-21 |
 ---
 
 ## 🎭 Selection Process
@@ -6807,3 +6807,4 @@ If you need permission, you're thinking too much.
 | 6716 | 2026-04-21 17:16:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134374⭐ Python) | [reels/reel_6716_langchain-ai-langchain](reels/reel_6716_langchain-ai-langchain) |
 | 6717 | 2026-04-21 18:38:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134379⭐ Python) | [reels/reel_6717_langchain-ai-langchain](reels/reel_6717_langchain-ai-langchain) |
 | 6718 | 2026-04-21 19:49:23 | [diegosouzapw/awesome-omni-skills](https://github.com/diegosouzapw/awesome-omni-skills) | ✅ readme_only (24⭐ Python) | [reels/reel_6718_diegosouzapw-awesome-omni-skills](reels/reel_6718_diegosouzapw-awesome-omni-skills) |
+| 6719 | 2026-04-21 20:51:08 | [g4rcez/dotfiles](https://github.com/g4rcez/dotfiles) | ✅ full (44⭐ Lua) | [reels/reel_6719_g4rcez-dotfiles](reels/reel_6719_g4rcez-dotfiles) |

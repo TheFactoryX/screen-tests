@@ -1,0 +1,24 @@
+{
+  "reel_number": 6719,
+  "recorded": "2026-04-21 20:51:08 UTC",
+  "repository": {
+    "full_name": "g4rcez/dotfiles",
+    "url": "https://github.com/g4rcez/dotfiles",
+    "clone_url": "https://github.com/g4rcez/dotfiles.git",
+    "stars": 44,
+    "language": "Lua",
+    "size_kb": 34440
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 2.080855
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 44 stars."
+  }
+}
