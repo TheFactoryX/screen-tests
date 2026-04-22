@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6725 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 263k | 2026-04-22 |
+| #6726 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 425k | 2026-04-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6814,3 +6814,4 @@ If you need permission, you're thinking too much.
 | 6723 | 2026-04-21 23:51:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115007⭐ TypeScript) | [reels/reel_6723_iptv-org-iptv](reels/reel_6723_iptv-org-iptv) |
 | 6724 | 2026-04-22 02:26:50 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (287442⭐ None) | [reels/reel_6724_awesome-selfhosted-awesome-selfhosted](reels/reel_6724_awesome-selfhosted-awesome-selfhosted) |
 | 6725 | 2026-04-22 05:11:56 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (263790⭐ None) | [reels/reel_6725_practical-tutorials-project-based-learning](reels/reel_6725_practical-tutorials-project-based-learning) |
+| 6726 | 2026-04-22 07:05:01 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (425739⭐ Python) | [reels/reel_6726_public-apis-public-apis](reels/reel_6726_public-apis-public-apis) |
