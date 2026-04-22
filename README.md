@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6730 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 102k | 2026-04-22 |
+| #6731 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 163k | 2026-04-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6819,3 +6819,4 @@ If you need permission, you're thinking too much.
 | 6728 | 2026-04-22 10:19:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (185088⭐ TypeScript) | [reels/reel_6728_n8n-io-n8n](reels/reel_6728_n8n-io-n8n) |
 | 6729 | 2026-04-22 11:36:44 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102090⭐ TypeScript) | [reels/reel_6729_google-gemini-gemini-cli](reels/reel_6729_google-gemini-gemini-cli) |
 | 6730 | 2026-04-22 12:44:42 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102095⭐ TypeScript) | [reels/reel_6730_google-gemini-gemini-cli](reels/reel_6730_google-gemini-gemini-cli) |
+| 6731 | 2026-04-22 14:23:52 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (163890⭐ JavaScript) | [reels/reel_6731_affaan-m-everything-claude-code](reels/reel_6731_affaan-m-everything-claude-code) |
