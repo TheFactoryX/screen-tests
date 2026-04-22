@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6734 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-04-22 |
+| #6735 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 134k | 2026-04-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6823,3 +6823,4 @@ If you need permission, you're thinking too much.
 | 6732 | 2026-04-22 15:49:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (287524⭐ None) | [reels/reel_6732_awesome-selfhosted-awesome-selfhosted](reels/reel_6732_awesome-selfhosted-awesome-selfhosted) |
 | 6733 | 2026-04-22 16:57:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158129⭐ Python) | [reels/reel_6733_yt-dlp-yt-dlp](reels/reel_6733_yt-dlp-yt-dlp) |
 | 6734 | 2026-04-22 18:02:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115054⭐ TypeScript) | [reels/reel_6734_iptv-org-iptv](reels/reel_6734_iptv-org-iptv) |
+| 6735 | 2026-04-22 19:37:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134513⭐ Python) | [reels/reel_6735_langchain-ai-langchain](reels/reel_6735_langchain-ai-langchain) |
