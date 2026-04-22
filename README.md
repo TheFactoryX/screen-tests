@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6728 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 185k | 2026-04-22 |
+| #6729 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 102k | 2026-04-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6817,3 +6817,4 @@ If you need permission, you're thinking too much.
 | 6726 | 2026-04-22 07:05:01 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (425739⭐ Python) | [reels/reel_6726_public-apis-public-apis](reels/reel_6726_public-apis-public-apis) |
 | 6727 | 2026-04-22 08:56:53 | [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) | ✅ full (868⭐ Go) | [reels/reel_6727_crazy-max-swarm-cronjob](reels/reel_6727_crazy-max-swarm-cronjob) |
 | 6728 | 2026-04-22 10:19:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (185088⭐ TypeScript) | [reels/reel_6728_n8n-io-n8n](reels/reel_6728_n8n-io-n8n) |
+| 6729 | 2026-04-22 11:36:44 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102090⭐ TypeScript) | [reels/reel_6729_google-gemini-gemini-cli](reels/reel_6729_google-gemini-gemini-cli) |
