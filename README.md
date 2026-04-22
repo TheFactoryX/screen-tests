@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6736 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 164k | 2026-04-22 |
+| #6737 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 134k | 2026-04-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6825,3 +6825,4 @@ If you need permission, you're thinking too much.
 | 6734 | 2026-04-22 18:02:03 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115054⭐ TypeScript) | [reels/reel_6734_iptv-org-iptv](reels/reel_6734_iptv-org-iptv) |
 | 6735 | 2026-04-22 19:37:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134513⭐ Python) | [reels/reel_6735_langchain-ai-langchain](reels/reel_6735_langchain-ai-langchain) |
 | 6736 | 2026-04-22 20:34:58 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (164149⭐ JavaScript) | [reels/reel_6736_affaan-m-everything-claude-code](reels/reel_6736_affaan-m-everything-claude-code) |
+| 6737 | 2026-04-22 21:36:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134521⭐ Python) | [reels/reel_6737_langchain-ai-langchain](reels/reel_6737_langchain-ai-langchain) |
