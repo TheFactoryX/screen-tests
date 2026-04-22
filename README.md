@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6731 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 163k | 2026-04-22 |
+| #6732 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 287k | 2026-04-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6820,3 +6820,4 @@ If you need permission, you're thinking too much.
 | 6729 | 2026-04-22 11:36:44 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102090⭐ TypeScript) | [reels/reel_6729_google-gemini-gemini-cli](reels/reel_6729_google-gemini-gemini-cli) |
 | 6730 | 2026-04-22 12:44:42 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102095⭐ TypeScript) | [reels/reel_6730_google-gemini-gemini-cli](reels/reel_6730_google-gemini-gemini-cli) |
 | 6731 | 2026-04-22 14:23:52 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (163890⭐ JavaScript) | [reels/reel_6731_affaan-m-everything-claude-code](reels/reel_6731_affaan-m-everything-claude-code) |
+| 6732 | 2026-04-22 15:49:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (287524⭐ None) | [reels/reel_6732_awesome-selfhosted-awesome-selfhosted](reels/reel_6732_awesome-selfhosted-awesome-selfhosted) |
