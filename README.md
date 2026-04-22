@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6737 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 134k | 2026-04-22 |
+| #6738 | [michaelforney/cproc](https://github.com/michaelforney/cproc) | C · ⭐ 823 | 2026-04-22 |
 ---
 
 ## 🎭 Selection Process
@@ -6826,3 +6826,4 @@ If you need permission, you're thinking too much.
 | 6735 | 2026-04-22 19:37:46 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134513⭐ Python) | [reels/reel_6735_langchain-ai-langchain](reels/reel_6735_langchain-ai-langchain) |
 | 6736 | 2026-04-22 20:34:58 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (164149⭐ JavaScript) | [reels/reel_6736_affaan-m-everything-claude-code](reels/reel_6736_affaan-m-everything-claude-code) |
 | 6737 | 2026-04-22 21:36:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134521⭐ Python) | [reels/reel_6737_langchain-ai-langchain](reels/reel_6737_langchain-ai-langchain) |
+| 6738 | 2026-04-22 22:31:10 | [michaelforney/cproc](https://github.com/michaelforney/cproc) | ✅ full (823⭐ C) | [reels/reel_6738_michaelforney-cproc](reels/reel_6738_michaelforney-cproc) |

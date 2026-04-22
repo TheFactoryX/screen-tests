@@ -1,0 +1,24 @@
+{
+  "reel_number": 6738,
+  "recorded": "2026-04-22 22:31:10 UTC",
+  "repository": {
+    "full_name": "michaelforney/cproc",
+    "url": "https://github.com/michaelforney/cproc",
+    "clone_url": "https://github.com/michaelforney/cproc.git",
+    "stars": 823,
+    "language": "C",
+    "size_kb": 668
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.483866
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 823 stars."
+  }
+}
