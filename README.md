@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6748 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-04-23 |
+| #6749 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 158k | 2026-04-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6837,3 +6837,4 @@ If you need permission, you're thinking too much.
 | 6746 | 2026-04-23 12:44:02 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (263882⭐ None) | [reels/reel_6746_practical-tutorials-project-based-learning](reels/reel_6746_practical-tutorials-project-based-learning) |
 | 6747 | 2026-04-23 14:57:53 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158265⭐ Python) | [reels/reel_6747_yt-dlp-yt-dlp](reels/reel_6747_yt-dlp-yt-dlp) |
 | 6748 | 2026-04-23 18:05:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147298⭐ Python) | [reels/reel_6748_langflow-ai-langflow](reels/reel_6748_langflow-ai-langflow) |
+| 6749 | 2026-04-23 19:40:29 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158286⭐ Python) | [reels/reel_6749_yt-dlp-yt-dlp](reels/reel_6749_yt-dlp-yt-dlp) |
