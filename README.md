@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6742 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 164k | 2026-04-23 |
+| #6743 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 263k | 2026-04-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6831,3 +6831,4 @@ If you need permission, you're thinking too much.
 | 6740 | 2026-04-23 01:12:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183674⭐ Python) | [reels/reel_6740_Significant-Gravitas-AutoGPT](reels/reel_6740_Significant-Gravitas-AutoGPT) |
 | 6741 | 2026-04-23 04:22:40 | [nomi-sec/Hacker-Trends](https://github.com/nomi-sec/Hacker-Trends) | ✅ full (116⭐ None) | [reels/reel_6741_nomi-sec-Hacker-Trends](reels/reel_6741_nomi-sec-Hacker-Trends) |
 | 6742 | 2026-04-23 06:22:39 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (164537⭐ JavaScript) | [reels/reel_6742_affaan-m-everything-claude-code](reels/reel_6742_affaan-m-everything-claude-code) |
+| 6743 | 2026-04-23 08:18:01 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (263871⭐ None) | [reels/reel_6743_practical-tutorials-project-based-learning](reels/reel_6743_practical-tutorials-project-based-learning) |
