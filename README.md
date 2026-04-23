@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6752 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 112k | 2026-04-23 |
+| #6753 | [randomwalkhan/Short-Term-Reversal-Strategy](https://github.com/randomwalkhan/Short-Term-Reversal-Strategy) | Jupyter Notebook · ⭐ 335 | 2026-04-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6841,3 +6841,4 @@ If you need permission, you're thinking too much.
 | 6750 | 2026-04-23 20:38:08 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (105793⭐ Rust) | [reels/reel_6750_tauri-apps-tauri](reels/reel_6750_tauri-apps-tauri) |
 | 6751 | 2026-04-23 21:29:31 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102236⭐ TypeScript) | [reels/reel_6751_google-gemini-gemini-cli](reels/reel_6751_google-gemini-gemini-cli) |
 | 6752 | 2026-04-23 22:10:22 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112882⭐ TypeScript) | [reels/reel_6752_shadcn-ui-ui](reels/reel_6752_shadcn-ui-ui) |
+| 6753 | 2026-04-23 23:06:08 | [randomwalkhan/Short-Term-Reversal-Strategy](https://github.com/randomwalkhan/Short-Term-Reversal-Strategy) | ✅ readme_only (335⭐ Jupyter Notebook) | [reels/reel_6753_randomwalkhan-Short-Term-Reversal-Strategy](reels/reel_6753_randomwalkhan-Short-Term-Reversal-Strategy) |
