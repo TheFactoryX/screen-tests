@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6745 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 133k | 2026-04-23 |
+| #6746 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 263k | 2026-04-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6834,3 +6834,4 @@ If you need permission, you're thinking too much.
 | 6743 | 2026-04-23 08:18:01 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (263871⭐ None) | [reels/reel_6743_practical-tutorials-project-based-learning](reels/reel_6743_practical-tutorials-project-based-learning) |
 | 6744 | 2026-04-23 10:04:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158238⭐ Python) | [reels/reel_6744_yt-dlp-yt-dlp](reels/reel_6744_yt-dlp-yt-dlp) |
 | 6745 | 2026-04-23 11:32:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (133570⭐ Python) | [reels/reel_6745_open-webui-open-webui](reels/reel_6745_open-webui-open-webui) |
+| 6746 | 2026-04-23 12:44:02 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (263882⭐ None) | [reels/reel_6746_practical-tutorials-project-based-learning](reels/reel_6746_practical-tutorials-project-based-learning) |
