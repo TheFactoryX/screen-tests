@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6750 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 105k | 2026-04-23 |
+| #6751 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 102k | 2026-04-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6839,3 +6839,4 @@ If you need permission, you're thinking too much.
 | 6748 | 2026-04-23 18:05:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147298⭐ Python) | [reels/reel_6748_langflow-ai-langflow](reels/reel_6748_langflow-ai-langflow) |
 | 6749 | 2026-04-23 19:40:29 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158286⭐ Python) | [reels/reel_6749_yt-dlp-yt-dlp](reels/reel_6749_yt-dlp-yt-dlp) |
 | 6750 | 2026-04-23 20:38:08 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (105793⭐ Rust) | [reels/reel_6750_tauri-apps-tauri](reels/reel_6750_tauri-apps-tauri) |
+| 6751 | 2026-04-23 21:29:31 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102236⭐ TypeScript) | [reels/reel_6751_google-gemini-gemini-cli](reels/reel_6751_google-gemini-gemini-cli) |
