@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6740 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-23 |
+| #6741 | [nomi-sec/Hacker-Trends](https://github.com/nomi-sec/Hacker-Trends) | None · ⭐ 116 | 2026-04-23 |
 ---
 
 ## 🎭 Selection Process
@@ -6829,3 +6829,4 @@ If you need permission, you're thinking too much.
 | 6738 | 2026-04-22 22:31:10 | [michaelforney/cproc](https://github.com/michaelforney/cproc) | ✅ full (823⭐ C) | [reels/reel_6738_michaelforney-cproc](reels/reel_6738_michaelforney-cproc) |
 | 6739 | 2026-04-22 23:32:14 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115061⭐ TypeScript) | [reels/reel_6739_iptv-org-iptv](reels/reel_6739_iptv-org-iptv) |
 | 6740 | 2026-04-23 01:12:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183674⭐ Python) | [reels/reel_6740_Significant-Gravitas-AutoGPT](reels/reel_6740_Significant-Gravitas-AutoGPT) |
+| 6741 | 2026-04-23 04:22:40 | [nomi-sec/Hacker-Trends](https://github.com/nomi-sec/Hacker-Trends) | ✅ full (116⭐ None) | [reels/reel_6741_nomi-sec-Hacker-Trends](reels/reel_6741_nomi-sec-Hacker-Trends) |

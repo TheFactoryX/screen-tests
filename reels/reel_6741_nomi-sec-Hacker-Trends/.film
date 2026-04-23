@@ -1,0 +1,24 @@
+{
+  "reel_number": 6741,
+  "recorded": "2026-04-23 04:22:40 UTC",
+  "repository": {
+    "full_name": "nomi-sec/Hacker-Trends",
+    "url": "https://github.com/nomi-sec/Hacker-Trends",
+    "clone_url": "https://github.com/nomi-sec/Hacker-Trends.git",
+    "stars": 116,
+    "language": null,
+    "size_kb": 11021
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.829731
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 116 stars."
+  }
+}
