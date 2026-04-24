@@ -1,0 +1,24 @@
+{
+  "reel_number": 6766,
+  "recorded": "2026-04-24 19:50:51 UTC",
+  "repository": {
+    "full_name": "kentcdodds/kody",
+    "url": "https://github.com/kentcdodds/kody",
+    "clone_url": "https://github.com/kentcdodds/kody.git",
+    "stars": 62,
+    "language": "TypeScript",
+    "size_kb": 14863
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 1.992479
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 62 stars."
+  }
+}

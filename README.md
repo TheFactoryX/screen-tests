@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6765 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 287k | 2026-04-24 |
+| #6766 | [kentcdodds/kody](https://github.com/kentcdodds/kody) | TypeScript · ⭐ 62 | 2026-04-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6854,3 +6854,4 @@ If you need permission, you're thinking too much.
 | 6763 | 2026-04-24 16:54:20 | [NodePassProject/Anywhere](https://github.com/NodePassProject/Anywhere) | ✅ full (100⭐ C) | [reels/reel_6763_NodePassProject-Anywhere](reels/reel_6763_NodePassProject-Anywhere) |
 | 6764 | 2026-04-24 17:49:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183729⭐ Python) | [reels/reel_6764_Significant-Gravitas-AutoGPT](reels/reel_6764_Significant-Gravitas-AutoGPT) |
 | 6765 | 2026-04-24 18:48:52 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (287941⭐ None) | [reels/reel_6765_awesome-selfhosted-awesome-selfhosted](reels/reel_6765_awesome-selfhosted-awesome-selfhosted) |
+| 6766 | 2026-04-24 19:50:51 | [kentcdodds/kody](https://github.com/kentcdodds/kody) | ✅ full (62⭐ TypeScript) | [reels/reel_6766_kentcdodds-kody](reels/reel_6766_kentcdodds-kody) |
