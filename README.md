@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6758 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-24 |
+| #6759 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 165k | 2026-04-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6847,3 +6847,4 @@ If you need permission, you're thinking too much.
 | 6756 | 2026-04-24 06:06:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (133773⭐ Python) | [reels/reel_6756_open-webui-open-webui](reels/reel_6756_open-webui-open-webui) |
 | 6757 | 2026-04-24 08:21:52 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (133794⭐ Python) | [reels/reel_6757_open-webui-open-webui](reels/reel_6757_open-webui-open-webui) |
 | 6758 | 2026-04-24 10:03:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183727⭐ Python) | [reels/reel_6758_Significant-Gravitas-AutoGPT](reels/reel_6758_Significant-Gravitas-AutoGPT) |
+| 6759 | 2026-04-24 11:33:36 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (165851⭐ JavaScript) | [reels/reel_6759_affaan-m-everything-claude-code](reels/reel_6759_affaan-m-everything-claude-code) |
