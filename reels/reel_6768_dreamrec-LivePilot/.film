@@ -1,0 +1,24 @@
+{
+  "reel_number": 6768,
+  "recorded": "2026-04-24 21:34:05 UTC",
+  "repository": {
+    "full_name": "dreamrec/LivePilot",
+    "url": "https://github.com/dreamrec/LivePilot",
+    "clone_url": "https://github.com/dreamrec/LivePilot.git",
+    "stars": 12,
+    "language": "Python",
+    "size_kb": 41959
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 40,
+    "duration_seconds": 2.216209
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 12 stars."
+  }
+}
