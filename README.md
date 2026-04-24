@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6762 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-04-24 |
+| #6763 | [NodePassProject/Anywhere](https://github.com/NodePassProject/Anywhere) | C · ⭐ 100 | 2026-04-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6851,3 +6851,4 @@ If you need permission, you're thinking too much.
 | 6760 | 2026-04-24 12:42:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147335⭐ Python) | [reels/reel_6760_langflow-ai-langflow](reels/reel_6760_langflow-ai-langflow) |
 | 6761 | 2026-04-24 14:20:00 | [island-is/island.is](https://github.com/island-is/island.is) | ✅ shallow (431⭐ TypeScript) | [reels/reel_6761_island-is-island.is](reels/reel_6761_island-is-island.is) |
 | 6762 | 2026-04-24 15:45:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115114⭐ TypeScript) | [reels/reel_6762_iptv-org-iptv](reels/reel_6762_iptv-org-iptv) |
+| 6763 | 2026-04-24 16:54:20 | [NodePassProject/Anywhere](https://github.com/NodePassProject/Anywhere) | ✅ full (100⭐ C) | [reels/reel_6763_NodePassProject-Anywhere](reels/reel_6763_NodePassProject-Anywhere) |

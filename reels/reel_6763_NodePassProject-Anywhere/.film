@@ -1,0 +1,24 @@
+{
+  "reel_number": 6763,
+  "recorded": "2026-04-24 16:54:20 UTC",
+  "repository": {
+    "full_name": "NodePassProject/Anywhere",
+    "url": "https://github.com/NodePassProject/Anywhere",
+    "clone_url": "https://github.com/NodePassProject/Anywhere.git",
+    "stars": 100,
+    "language": "C",
+    "size_kb": 19698
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 19,
+    "duration_seconds": 1.102566
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 100 stars."
+  }
+}
