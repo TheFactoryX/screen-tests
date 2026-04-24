@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6759 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 165k | 2026-04-24 |
+| #6760 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-04-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6848,3 +6848,4 @@ If you need permission, you're thinking too much.
 | 6757 | 2026-04-24 08:21:52 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (133794⭐ Python) | [reels/reel_6757_open-webui-open-webui](reels/reel_6757_open-webui-open-webui) |
 | 6758 | 2026-04-24 10:03:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183727⭐ Python) | [reels/reel_6758_Significant-Gravitas-AutoGPT](reels/reel_6758_Significant-Gravitas-AutoGPT) |
 | 6759 | 2026-04-24 11:33:36 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (165851⭐ JavaScript) | [reels/reel_6759_affaan-m-everything-claude-code](reels/reel_6759_affaan-m-everything-claude-code) |
+| 6760 | 2026-04-24 12:42:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147335⭐ Python) | [reels/reel_6760_langflow-ai-langflow](reels/reel_6760_langflow-ai-langflow) |
