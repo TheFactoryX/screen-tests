@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6761 | [island-is/island.is](https://github.com/island-is/island.is) | TypeScript · ⭐ 431 | 2026-04-24 |
+| #6762 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-04-24 |
 ---
 
 ## 🎭 Selection Process
@@ -6850,3 +6850,4 @@ If you need permission, you're thinking too much.
 | 6759 | 2026-04-24 11:33:36 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (165851⭐ JavaScript) | [reels/reel_6759_affaan-m-everything-claude-code](reels/reel_6759_affaan-m-everything-claude-code) |
 | 6760 | 2026-04-24 12:42:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147335⭐ Python) | [reels/reel_6760_langflow-ai-langflow](reels/reel_6760_langflow-ai-langflow) |
 | 6761 | 2026-04-24 14:20:00 | [island-is/island.is](https://github.com/island-is/island.is) | ✅ shallow (431⭐ TypeScript) | [reels/reel_6761_island-is-island.is](reels/reel_6761_island-is-island.is) |
+| 6762 | 2026-04-24 15:45:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115114⭐ TypeScript) | [reels/reel_6762_iptv-org-iptv](reels/reel_6762_iptv-org-iptv) |
