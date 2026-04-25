@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6773 | [liquidaty/zsv](https://github.com/liquidaty/zsv) | C · ⭐ 382 | 2026-04-25 |
+| #6774 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-04-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6862,3 +6862,4 @@ If you need permission, you're thinking too much.
 | 6771 | 2026-04-24 23:55:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (185468⭐ TypeScript) | [reels/reel_6771_n8n-io-n8n](reels/reel_6771_n8n-io-n8n) |
 | 6772 | 2026-04-25 02:13:06 | [andyzhangx/demo](https://github.com/andyzhangx/demo) | ✅ shallow (185⭐ PowerShell) | [reels/reel_6772_andyzhangx-demo](reels/reel_6772_andyzhangx-demo) |
 | 6773 | 2026-04-25 04:44:21 | [liquidaty/zsv](https://github.com/liquidaty/zsv) | ✅ full (382⭐ C) | [reels/reel_6773_liquidaty-zsv](reels/reel_6773_liquidaty-zsv) |
+| 6774 | 2026-04-25 06:11:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147339⭐ Python) | [reels/reel_6774_langflow-ai-langflow](reels/reel_6774_langflow-ai-langflow) |
