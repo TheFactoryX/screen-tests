@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6779 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-04-25 |
+| #6780 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 112k | 2026-04-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6868,3 +6868,4 @@ If you need permission, you're thinking too much.
 | 6777 | 2026-04-25 09:50:56 | [csells/dartantic](https://github.com/csells/dartantic) | ✅ full (81⭐ Dart) | [reels/reel_6777_csells-dartantic](reels/reel_6777_csells-dartantic) |
 | 6778 | 2026-04-25 10:41:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134842⭐ Python) | [reels/reel_6778_langchain-ai-langchain](reels/reel_6778_langchain-ai-langchain) |
 | 6779 | 2026-04-25 11:25:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115129⭐ TypeScript) | [reels/reel_6779_iptv-org-iptv](reels/reel_6779_iptv-org-iptv) |
+| 6780 | 2026-04-25 12:01:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112970⭐ TypeScript) | [reels/reel_6780_shadcn-ui-ui](reels/reel_6780_shadcn-ui-ui) |
