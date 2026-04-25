@@ -1,0 +1,24 @@
+{
+  "reel_number": 6777,
+  "recorded": "2026-04-25 09:50:56 UTC",
+  "repository": {
+    "full_name": "csells/dartantic",
+    "url": "https://github.com/csells/dartantic",
+    "clone_url": "https://github.com/csells/dartantic.git",
+    "stars": 81,
+    "language": "Dart",
+    "size_kb": 28669
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 0.826977
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 81 stars."
+  }
+}
