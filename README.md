@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6777 | [csells/dartantic](https://github.com/csells/dartantic) | Dart · ⭐ 81 | 2026-04-25 |
+| #6778 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 134k | 2026-04-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6866,3 +6866,4 @@ If you need permission, you're thinking too much.
 | 6775 | 2026-04-25 07:45:29 | [Layr-Labs/d-inference](https://github.com/Layr-Labs/d-inference) | ✅ shallow (121⭐ Go) | [reels/reel_6775_Layr-Labs-d-inference](reels/reel_6775_Layr-Labs-d-inference) |
 | 6776 | 2026-04-25 08:50:35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158487⭐ Python) | [reels/reel_6776_yt-dlp-yt-dlp](reels/reel_6776_yt-dlp-yt-dlp) |
 | 6777 | 2026-04-25 09:50:56 | [csells/dartantic](https://github.com/csells/dartantic) | ✅ full (81⭐ Dart) | [reels/reel_6777_csells-dartantic](reels/reel_6777_csells-dartantic) |
+| 6778 | 2026-04-25 10:41:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134842⭐ Python) | [reels/reel_6778_langchain-ai-langchain](reels/reel_6778_langchain-ai-langchain) |
