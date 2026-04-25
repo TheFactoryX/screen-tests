@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6771 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 185k | 2026-04-24 |
+| #6772 | [andyzhangx/demo](https://github.com/andyzhangx/demo) | PowerShell · ⭐ 185 | 2026-04-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6860,3 +6860,4 @@ If you need permission, you're thinking too much.
 | 6769 | 2026-04-24 22:26:29 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (113170⭐ TypeScript) | [reels/reel_6769_clash-verge-rev-clash-verge-rev](reels/reel_6769_clash-verge-rev-clash-verge-rev) |
 | 6770 | 2026-04-24 23:07:43 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147335⭐ Python) | [reels/reel_6770_langflow-ai-langflow](reels/reel_6770_langflow-ai-langflow) |
 | 6771 | 2026-04-24 23:55:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (185468⭐ TypeScript) | [reels/reel_6771_n8n-io-n8n](reels/reel_6771_n8n-io-n8n) |
+| 6772 | 2026-04-25 02:13:06 | [andyzhangx/demo](https://github.com/andyzhangx/demo) | ✅ shallow (185⭐ PowerShell) | [reels/reel_6772_andyzhangx-demo](reels/reel_6772_andyzhangx-demo) |

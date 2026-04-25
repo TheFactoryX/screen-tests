@@ -1,0 +1,24 @@
+{
+  "reel_number": 6772,
+  "recorded": "2026-04-25 02:13:06 UTC",
+  "repository": {
+    "full_name": "andyzhangx/demo",
+    "url": "https://github.com/andyzhangx/demo",
+    "clone_url": "https://github.com/andyzhangx/demo.git",
+    "stars": 185,
+    "language": "PowerShell",
+    "size_kb": 236176
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 230,
+    "duration_seconds": 34.555647
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 185 stars."
+  }
+}
