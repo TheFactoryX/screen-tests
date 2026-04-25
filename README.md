@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6792 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-04-25 |
+| #6793 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 134k | 2026-04-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6881,3 +6881,4 @@ If you need permission, you're thinking too much.
 | 6790 | 2026-04-25 20:36:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112328⭐ Rust) | [reels/reel_6790_rust-lang-rust](reels/reel_6790_rust-lang-rust) |
 | 6791 | 2026-04-25 21:20:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158580⭐ Python) | [reels/reel_6791_yt-dlp-yt-dlp](reels/reel_6791_yt-dlp-yt-dlp) |
 | 6792 | 2026-04-25 22:00:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115146⭐ TypeScript) | [reels/reel_6792_iptv-org-iptv](reels/reel_6792_iptv-org-iptv) |
+| 6793 | 2026-04-25 22:55:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134099⭐ Python) | [reels/reel_6793_open-webui-open-webui](reels/reel_6793_open-webui-open-webui) |
