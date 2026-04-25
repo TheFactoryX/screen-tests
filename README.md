@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6789 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-25 |
+| #6790 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 112k | 2026-04-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6878,3 +6878,4 @@ If you need permission, you're thinking too much.
 | 6787 | 2026-04-25 18:03:26 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (110997⭐ None) | [reels/reel_6787_Hack-with-Github-Awesome-Hacking](reels/reel_6787_Hack-with-Github-Awesome-Hacking) |
 | 6788 | 2026-04-25 19:10:50 | [PeWu/topola-viewer](https://github.com/PeWu/topola-viewer) | ✅ full (312⭐ TypeScript) | [reels/reel_6788_PeWu-topola-viewer](reels/reel_6788_PeWu-topola-viewer) |
 | 6789 | 2026-04-25 19:54:05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183754⭐ Python) | [reels/reel_6789_Significant-Gravitas-AutoGPT](reels/reel_6789_Significant-Gravitas-AutoGPT) |
+| 6790 | 2026-04-25 20:36:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112328⭐ Rust) | [reels/reel_6790_rust-lang-rust](reels/reel_6790_rust-lang-rust) |
