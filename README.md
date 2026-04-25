@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6781 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | JavaScript · ⭐ 151 | 2026-04-25 |
+| #6782 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6870,3 +6870,4 @@ If you need permission, you're thinking too much.
 | 6779 | 2026-04-25 11:25:26 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115129⭐ TypeScript) | [reels/reel_6779_iptv-org-iptv](reels/reel_6779_iptv-org-iptv) |
 | 6780 | 2026-04-25 12:01:17 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (112970⭐ TypeScript) | [reels/reel_6780_shadcn-ui-ui](reels/reel_6780_shadcn-ui-ui) |
 | 6781 | 2026-04-25 13:39:04 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | ✅ full (151⭐ JavaScript) | [reels/reel_6781_openclaw-clawsweeper](reels/reel_6781_openclaw-clawsweeper) |
+| 6782 | 2026-04-25 14:28:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183752⭐ Python) | [reels/reel_6782_Significant-Gravitas-AutoGPT](reels/reel_6782_Significant-Gravitas-AutoGPT) |
