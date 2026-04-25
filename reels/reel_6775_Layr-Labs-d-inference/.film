@@ -1,0 +1,24 @@
+{
+  "reel_number": 6775,
+  "recorded": "2026-04-25 07:45:29 UTC",
+  "repository": {
+    "full_name": "Layr-Labs/d-inference",
+    "url": "https://github.com/Layr-Labs/d-inference",
+    "clone_url": "https://github.com/Layr-Labs/d-inference.git",
+    "stars": 121,
+    "language": "Go",
+    "size_kb": 237641
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 232,
+    "duration_seconds": 1.181357
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 121 stars."
+  }
+}
