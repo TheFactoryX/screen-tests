@@ -1,0 +1,24 @@
+{
+  "reel_number": 6773,
+  "recorded": "2026-04-25 04:44:21 UTC",
+  "repository": {
+    "full_name": "liquidaty/zsv",
+    "url": "https://github.com/liquidaty/zsv",
+    "clone_url": "https://github.com/liquidaty/zsv.git",
+    "stars": 382,
+    "language": "C",
+    "size_kb": 28652
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 1.142037
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 382 stars."
+  }
+}
