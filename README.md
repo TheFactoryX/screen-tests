@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6791 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 158k | 2026-04-25 |
+| #6792 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-04-25 |
 ---
 
 ## 🎭 Selection Process
@@ -6880,3 +6880,4 @@ If you need permission, you're thinking too much.
 | 6789 | 2026-04-25 19:54:05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183754⭐ Python) | [reels/reel_6789_Significant-Gravitas-AutoGPT](reels/reel_6789_Significant-Gravitas-AutoGPT) |
 | 6790 | 2026-04-25 20:36:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112328⭐ Rust) | [reels/reel_6790_rust-lang-rust](reels/reel_6790_rust-lang-rust) |
 | 6791 | 2026-04-25 21:20:54 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158580⭐ Python) | [reels/reel_6791_yt-dlp-yt-dlp](reels/reel_6791_yt-dlp-yt-dlp) |
+| 6792 | 2026-04-25 22:00:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115146⭐ TypeScript) | [reels/reel_6792_iptv-org-iptv](reels/reel_6792_iptv-org-iptv) |
