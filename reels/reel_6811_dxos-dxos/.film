@@ -1,0 +1,24 @@
+{
+  "reel_number": 6811,
+  "recorded": "2026-04-26 20:03:40 UTC",
+  "repository": {
+    "full_name": "dxos/dxos",
+    "url": "https://github.com/dxos/dxos",
+    "clone_url": "https://github.com/dxos/dxos.git",
+    "stars": 503,
+    "language": "TypeScript",
+    "size_kb": 892433
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 871,
+    "duration_seconds": 0.000142
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 503 stars."
+  }
+}

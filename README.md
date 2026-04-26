@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6810 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 134k | 2026-04-26 |
+| #6811 | [dxos/dxos](https://github.com/dxos/dxos) | TypeScript · ⭐ 503 | 2026-04-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6899,3 +6899,4 @@ If you need permission, you're thinking too much.
 | 6808 | 2026-04-26 17:36:43 | [travmiller/paper-console](https://github.com/travmiller/paper-console) | ✅ shallow (266⭐ Python) | [reels/reel_6808_travmiller-paper-console](reels/reel_6808_travmiller-paper-console) |
 | 6809 | 2026-04-26 18:27:56 | [bennorth/pyggb](https://github.com/bennorth/pyggb) | ✅ full (20⭐ TypeScript) | [reels/reel_6809_bennorth-pyggb](reels/reel_6809_bennorth-pyggb) |
 | 6810 | 2026-04-26 19:29:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134255⭐ Python) | [reels/reel_6810_open-webui-open-webui](reels/reel_6810_open-webui-open-webui) |
+| 6811 | 2026-04-26 20:03:40 | [dxos/dxos](https://github.com/dxos/dxos) | ✅ readme_only (503⭐ TypeScript) | [reels/reel_6811_dxos-dxos](reels/reel_6811_dxos-dxos) |
