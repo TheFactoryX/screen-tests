@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6815 | [engageub/InternetIncome](https://github.com/engageub/InternetIncome) | Shell · ⭐ 224 | 2026-04-26 |
+| #6816 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 158k | 2026-04-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6904,3 +6904,4 @@ If you need permission, you're thinking too much.
 | 6813 | 2026-04-26 21:42:07 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (113637⭐ TypeScript) | [reels/reel_6813_clash-verge-rev-clash-verge-rev](reels/reel_6813_clash-verge-rev-clash-verge-rev) |
 | 6814 | 2026-04-26 22:20:44 | [deathbeam/dotfiles](https://github.com/deathbeam/dotfiles) | ✅ full (106⭐ GLSL) | [reels/reel_6814_deathbeam-dotfiles](reels/reel_6814_deathbeam-dotfiles) |
 | 6815 | 2026-04-26 23:05:54 | [engageub/InternetIncome](https://github.com/engageub/InternetIncome) | ✅ full (224⭐ Shell) | [reels/reel_6815_engageub-InternetIncome](reels/reel_6815_engageub-InternetIncome) |
+| 6816 | 2026-04-26 23:55:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158757⭐ Python) | [reels/reel_6816_yt-dlp-yt-dlp](reels/reel_6816_yt-dlp-yt-dlp) |
