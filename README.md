@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6814 | [deathbeam/dotfiles](https://github.com/deathbeam/dotfiles) | GLSL · ⭐ 106 | 2026-04-26 |
+| #6815 | [engageub/InternetIncome](https://github.com/engageub/InternetIncome) | Shell · ⭐ 224 | 2026-04-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6903,3 +6903,4 @@ If you need permission, you're thinking too much.
 | 6812 | 2026-04-26 20:57:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115208⭐ TypeScript) | [reels/reel_6812_iptv-org-iptv](reels/reel_6812_iptv-org-iptv) |
 | 6813 | 2026-04-26 21:42:07 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (113637⭐ TypeScript) | [reels/reel_6813_clash-verge-rev-clash-verge-rev](reels/reel_6813_clash-verge-rev-clash-verge-rev) |
 | 6814 | 2026-04-26 22:20:44 | [deathbeam/dotfiles](https://github.com/deathbeam/dotfiles) | ✅ full (106⭐ GLSL) | [reels/reel_6814_deathbeam-dotfiles](reels/reel_6814_deathbeam-dotfiles) |
+| 6815 | 2026-04-26 23:05:54 | [engageub/InternetIncome](https://github.com/engageub/InternetIncome) | ✅ full (224⭐ Shell) | [reels/reel_6815_engageub-InternetIncome](reels/reel_6815_engageub-InternetIncome) |

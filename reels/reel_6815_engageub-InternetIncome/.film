@@ -1,0 +1,24 @@
+{
+  "reel_number": 6815,
+  "recorded": "2026-04-26 23:05:54 UTC",
+  "repository": {
+    "full_name": "engageub/InternetIncome",
+    "url": "https://github.com/engageub/InternetIncome",
+    "clone_url": "https://github.com/engageub/InternetIncome.git",
+    "stars": 224,
+    "language": "Shell",
+    "size_kb": 61227
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 59,
+    "duration_seconds": 1.941156
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 224 stars."
+  }
+}
