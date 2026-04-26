@@ -1,0 +1,24 @@
+{
+  "reel_number": 6796,
+  "recorded": "2026-04-26 04:31:38 UTC",
+  "repository": {
+    "full_name": "nilbuild/developer-roadmap",
+    "url": "https://github.com/nilbuild/developer-roadmap",
+    "clone_url": "https://github.com/nilbuild/developer-roadmap.git",
+    "stars": 353648,
+    "language": "TypeScript",
+    "size_kb": 360160
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 351,
+    "duration_seconds": 3.936837
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 353648 stars."
+  }
+}
