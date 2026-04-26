@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6804 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 185k | 2026-04-26 |
+| #6805 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 113k | 2026-04-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6893,3 +6893,4 @@ If you need permission, you're thinking too much.
 | 6802 | 2026-04-26 11:55:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183771⭐ Python) | [reels/reel_6802_Significant-Gravitas-AutoGPT](reels/reel_6802_Significant-Gravitas-AutoGPT) |
 | 6803 | 2026-04-26 13:02:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134971⭐ Python) | [reels/reel_6803_langchain-ai-langchain](reels/reel_6803_langchain-ai-langchain) |
 | 6804 | 2026-04-26 14:09:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (185642⭐ TypeScript) | [reels/reel_6804_n8n-io-n8n](reels/reel_6804_n8n-io-n8n) |
+| 6805 | 2026-04-26 15:01:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113033⭐ TypeScript) | [reels/reel_6805_shadcn-ui-ui](reels/reel_6805_shadcn-ui-ui) |
