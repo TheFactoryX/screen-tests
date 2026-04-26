@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6807 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 496k | 2026-04-26 |
+| #6808 | [travmiller/paper-console](https://github.com/travmiller/paper-console) | Python · ⭐ 266 | 2026-04-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6896,3 +6896,4 @@ If you need permission, you're thinking too much.
 | 6805 | 2026-04-26 15:01:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113033⭐ TypeScript) | [reels/reel_6805_shadcn-ui-ui](reels/reel_6805_shadcn-ui-ui) |
 | 6806 | 2026-04-26 15:57:06 | [pengelana/blocklist](https://github.com/pengelana/blocklist) | ✅ readme_only (406⭐ AppleScript) | [reels/reel_6806_pengelana-blocklist](reels/reel_6806_pengelana-blocklist) |
 | 6807 | 2026-04-26 16:50:11 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (496626⭐ Markdown) | [reels/reel_6807_codecrafters-io-build-your-own-x](reels/reel_6807_codecrafters-io-build-your-own-x) |
+| 6808 | 2026-04-26 17:36:43 | [travmiller/paper-console](https://github.com/travmiller/paper-console) | ✅ shallow (266⭐ Python) | [reels/reel_6808_travmiller-paper-console](reels/reel_6808_travmiller-paper-console) |

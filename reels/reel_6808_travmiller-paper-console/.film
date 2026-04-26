@@ -1,0 +1,24 @@
+{
+  "reel_number": 6808,
+  "recorded": "2026-04-26 17:36:43 UTC",
+  "repository": {
+    "full_name": "travmiller/paper-console",
+    "url": "https://github.com/travmiller/paper-console",
+    "clone_url": "https://github.com/travmiller/paper-console.git",
+    "stars": 266,
+    "language": "Python",
+    "size_kb": 114858
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 112,
+    "duration_seconds": 1.700768
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 266 stars."
+  }
+}
