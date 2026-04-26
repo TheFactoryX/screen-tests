@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6808 | [travmiller/paper-console](https://github.com/travmiller/paper-console) | Python · ⭐ 266 | 2026-04-26 |
+| #6809 | [bennorth/pyggb](https://github.com/bennorth/pyggb) | TypeScript · ⭐ 20 | 2026-04-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6897,3 +6897,4 @@ If you need permission, you're thinking too much.
 | 6806 | 2026-04-26 15:57:06 | [pengelana/blocklist](https://github.com/pengelana/blocklist) | ✅ readme_only (406⭐ AppleScript) | [reels/reel_6806_pengelana-blocklist](reels/reel_6806_pengelana-blocklist) |
 | 6807 | 2026-04-26 16:50:11 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (496626⭐ Markdown) | [reels/reel_6807_codecrafters-io-build-your-own-x](reels/reel_6807_codecrafters-io-build-your-own-x) |
 | 6808 | 2026-04-26 17:36:43 | [travmiller/paper-console](https://github.com/travmiller/paper-console) | ✅ shallow (266⭐ Python) | [reels/reel_6808_travmiller-paper-console](reels/reel_6808_travmiller-paper-console) |
+| 6809 | 2026-04-26 18:27:56 | [bennorth/pyggb](https://github.com/bennorth/pyggb) | ✅ full (20⭐ TypeScript) | [reels/reel_6809_bennorth-pyggb](reels/reel_6809_bennorth-pyggb) |

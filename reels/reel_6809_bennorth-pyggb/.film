@@ -1,0 +1,24 @@
+{
+  "reel_number": 6809,
+  "recorded": "2026-04-26 18:27:56 UTC",
+  "repository": {
+    "full_name": "bennorth/pyggb",
+    "url": "https://github.com/bennorth/pyggb",
+    "clone_url": "https://github.com/bennorth/pyggb.git",
+    "stars": 20,
+    "language": "TypeScript",
+    "size_kb": 15312
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 1.949278
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 20 stars."
+  }
+}
