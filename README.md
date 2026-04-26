@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6805 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 113k | 2026-04-26 |
+| #6806 | [pengelana/blocklist](https://github.com/pengelana/blocklist) | AppleScript · ⭐ 406 | 2026-04-26 |
 ---
 
 ## 🎭 Selection Process
@@ -6894,3 +6894,4 @@ If you need permission, you're thinking too much.
 | 6803 | 2026-04-26 13:02:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (134971⭐ Python) | [reels/reel_6803_langchain-ai-langchain](reels/reel_6803_langchain-ai-langchain) |
 | 6804 | 2026-04-26 14:09:21 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (185642⭐ TypeScript) | [reels/reel_6804_n8n-io-n8n](reels/reel_6804_n8n-io-n8n) |
 | 6805 | 2026-04-26 15:01:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113033⭐ TypeScript) | [reels/reel_6805_shadcn-ui-ui](reels/reel_6805_shadcn-ui-ui) |
+| 6806 | 2026-04-26 15:57:06 | [pengelana/blocklist](https://github.com/pengelana/blocklist) | ✅ readme_only (406⭐ AppleScript) | [reels/reel_6806_pengelana-blocklist](reels/reel_6806_pengelana-blocklist) |

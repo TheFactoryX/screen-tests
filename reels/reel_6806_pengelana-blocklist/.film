@@ -1,0 +1,24 @@
+{
+  "reel_number": 6806,
+  "recorded": "2026-04-26 15:57:06 UTC",
+  "repository": {
+    "full_name": "pengelana/blocklist",
+    "url": "https://github.com/pengelana/blocklist",
+    "clone_url": "https://github.com/pengelana/blocklist.git",
+    "stars": 406,
+    "language": "AppleScript",
+    "size_kb": 2377325
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2321,
+    "duration_seconds": 0.000158
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "AppleScript",
+    "director_note": "A AppleScript repository. 406 stars."
+  }
+}
