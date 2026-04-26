@@ -1,0 +1,24 @@
+{
+  "reel_number": 6814,
+  "recorded": "2026-04-26 22:20:44 UTC",
+  "repository": {
+    "full_name": "deathbeam/dotfiles",
+    "url": "https://github.com/deathbeam/dotfiles",
+    "clone_url": "https://github.com/deathbeam/dotfiles.git",
+    "stars": 106,
+    "language": "GLSL",
+    "size_kb": 9726
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.779383
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "GLSL",
+    "director_note": "A GLSL repository. 106 stars."
+  }
+}
