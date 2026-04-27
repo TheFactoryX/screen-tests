@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6819 | [jojoe77777/Toolscreen](https://github.com/jojoe77777/Toolscreen) | C++ · ⭐ 148 | 2026-04-27 |
+| #6820 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 134k | 2026-04-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6908,3 +6908,4 @@ If you need permission, you're thinking too much.
 | 6817 | 2026-04-27 02:46:05 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | ✅ full (80⭐ Rust) | [reels/reel_6817_anima-engine-anima-engine](reels/reel_6817_anima-engine-anima-engine) |
 | 6818 | 2026-04-27 05:52:12 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (382⭐ None) | [reels/reel_6818_hello-world-1989-cn-news](reels/reel_6818_hello-world-1989-cn-news) |
 | 6819 | 2026-04-27 08:21:46 | [jojoe77777/Toolscreen](https://github.com/jojoe77777/Toolscreen) | ✅ full (148⭐ C++) | [reels/reel_6819_jojoe77777-Toolscreen](reels/reel_6819_jojoe77777-Toolscreen) |
+| 6820 | 2026-04-27 10:29:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134391⭐ Python) | [reels/reel_6820_open-webui-open-webui](reels/reel_6820_open-webui-open-webui) |
