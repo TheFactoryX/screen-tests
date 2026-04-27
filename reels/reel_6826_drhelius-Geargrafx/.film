@@ -1,0 +1,24 @@
+{
+  "reel_number": 6826,
+  "recorded": "2026-04-27 21:16:10 UTC",
+  "repository": {
+    "full_name": "drhelius/Geargrafx",
+    "url": "https://github.com/drhelius/Geargrafx",
+    "clone_url": "https://github.com/drhelius/Geargrafx.git",
+    "stars": 206,
+    "language": "C++",
+    "size_kb": 17337
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 1.97126
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 206 stars."
+  }
+}
