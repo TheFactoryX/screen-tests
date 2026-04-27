@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6824 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 134k | 2026-04-27 |
+| #6825 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 102k | 2026-04-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6913,3 +6913,4 @@ If you need permission, you're thinking too much.
 | 6822 | 2026-04-27 14:25:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115476⭐ TypeScript) | [reels/reel_6822_iptv-org-iptv](reels/reel_6822_iptv-org-iptv) |
 | 6823 | 2026-04-27 16:06:51 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113095⭐ TypeScript) | [reels/reel_6823_shadcn-ui-ui](reels/reel_6823_shadcn-ui-ui) |
 | 6824 | 2026-04-27 18:56:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134461⭐ Python) | [reels/reel_6824_open-webui-open-webui](reels/reel_6824_open-webui-open-webui) |
+| 6825 | 2026-04-27 20:08:04 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102555⭐ TypeScript) | [reels/reel_6825_google-gemini-gemini-cli](reels/reel_6825_google-gemini-gemini-cli) |
