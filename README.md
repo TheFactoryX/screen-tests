@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6816 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 158k | 2026-04-26 |
+| #6817 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | Rust · ⭐ 80 | 2026-04-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6905,3 +6905,4 @@ If you need permission, you're thinking too much.
 | 6814 | 2026-04-26 22:20:44 | [deathbeam/dotfiles](https://github.com/deathbeam/dotfiles) | ✅ full (106⭐ GLSL) | [reels/reel_6814_deathbeam-dotfiles](reels/reel_6814_deathbeam-dotfiles) |
 | 6815 | 2026-04-26 23:05:54 | [engageub/InternetIncome](https://github.com/engageub/InternetIncome) | ✅ full (224⭐ Shell) | [reels/reel_6815_engageub-InternetIncome](reels/reel_6815_engageub-InternetIncome) |
 | 6816 | 2026-04-26 23:55:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (158757⭐ Python) | [reels/reel_6816_yt-dlp-yt-dlp](reels/reel_6816_yt-dlp-yt-dlp) |
+| 6817 | 2026-04-27 02:46:05 | [anima-engine/anima-engine](https://github.com/anima-engine/anima-engine) | ✅ full (80⭐ Rust) | [reels/reel_6817_anima-engine-anima-engine](reels/reel_6817_anima-engine-anima-engine) |
