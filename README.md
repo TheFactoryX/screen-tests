@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6821 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-04-27 |
+| #6822 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-04-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6910,3 +6910,4 @@ If you need permission, you're thinking too much.
 | 6819 | 2026-04-27 08:21:46 | [jojoe77777/Toolscreen](https://github.com/jojoe77777/Toolscreen) | ✅ full (148⭐ C++) | [reels/reel_6819_jojoe77777-Toolscreen](reels/reel_6819_jojoe77777-Toolscreen) |
 | 6820 | 2026-04-27 10:29:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134391⭐ Python) | [reels/reel_6820_open-webui-open-webui](reels/reel_6820_open-webui-open-webui) |
 | 6821 | 2026-04-27 12:08:58 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140148⭐ Python) | [reels/reel_6821_ytdl-org-youtube-dl](reels/reel_6821_ytdl-org-youtube-dl) |
+| 6822 | 2026-04-27 14:25:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115476⭐ TypeScript) | [reels/reel_6822_iptv-org-iptv](reels/reel_6822_iptv-org-iptv) |
