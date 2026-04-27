@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6826 | [drhelius/Geargrafx](https://github.com/drhelius/Geargrafx) | C++ · ⭐ 206 | 2026-04-27 |
+| #6827 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 134k | 2026-04-27 |
 ---
 
 ## 🎭 Selection Process
@@ -6915,3 +6915,4 @@ If you need permission, you're thinking too much.
 | 6824 | 2026-04-27 18:56:00 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134461⭐ Python) | [reels/reel_6824_open-webui-open-webui](reels/reel_6824_open-webui-open-webui) |
 | 6825 | 2026-04-27 20:08:04 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (102555⭐ TypeScript) | [reels/reel_6825_google-gemini-gemini-cli](reels/reel_6825_google-gemini-gemini-cli) |
 | 6826 | 2026-04-27 21:16:10 | [drhelius/Geargrafx](https://github.com/drhelius/Geargrafx) | ✅ full (206⭐ C++) | [reels/reel_6826_drhelius-Geargrafx](reels/reel_6826_drhelius-Geargrafx) |
+| 6827 | 2026-04-27 22:12:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134478⭐ Python) | [reels/reel_6827_open-webui-open-webui](reels/reel_6827_open-webui-open-webui) |
