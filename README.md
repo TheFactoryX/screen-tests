@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6840 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-28 |
+| #6841 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 105k | 2026-04-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6929,3 +6929,4 @@ If you need permission, you're thinking too much.
 | 6838 | 2026-04-28 20:39:57 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (114275⭐ TypeScript) | [reels/reel_6838_clash-verge-rev-clash-verge-rev](reels/reel_6838_clash-verge-rev-clash-verge-rev) |
 | 6839 | 2026-04-28 21:42:25 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113163⭐ TypeScript) | [reels/reel_6839_shadcn-ui-ui](reels/reel_6839_shadcn-ui-ui) |
 | 6840 | 2026-04-28 22:39:10 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183860⭐ Python) | [reels/reel_6840_Significant-Gravitas-AutoGPT](reels/reel_6840_Significant-Gravitas-AutoGPT) |
+| 6841 | 2026-04-28 23:37:10 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (105678⭐ Shell) | [reels/reel_6841_papers-we-love-papers-we-love](reels/reel_6841_papers-we-love-papers-we-love) |
