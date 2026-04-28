@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6835 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-28 |
+| #6836 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 114k | 2026-04-28 |
 ---
 
 ## 🎭 Selection Process
@@ -6924,3 +6924,4 @@ If you need permission, you're thinking too much.
 | 6833 | 2026-04-28 11:16:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (185931⭐ TypeScript) | [reels/reel_6833_n8n-io-n8n](reels/reel_6833_n8n-io-n8n) |
 | 6834 | 2026-04-28 13:10:39 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (264260⭐ None) | [reels/reel_6834_practical-tutorials-project-based-learning](reels/reel_6834_practical-tutorials-project-based-learning) |
 | 6835 | 2026-04-28 15:36:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183848⭐ Python) | [reels/reel_6835_Significant-Gravitas-AutoGPT](reels/reel_6835_Significant-Gravitas-AutoGPT) |
+| 6836 | 2026-04-28 17:20:44 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (114259⭐ TypeScript) | [reels/reel_6836_clash-verge-rev-clash-verge-rev](reels/reel_6836_clash-verge-rev-clash-verge-rev) |
