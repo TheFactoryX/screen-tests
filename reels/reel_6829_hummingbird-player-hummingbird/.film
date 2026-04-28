@@ -1,0 +1,24 @@
+{
+  "reel_number": 6829,
+  "recorded": "2026-04-28 00:06:17 UTC",
+  "repository": {
+    "full_name": "hummingbird-player/hummingbird",
+    "url": "https://github.com/hummingbird-player/hummingbird",
+    "clone_url": "https://github.com/hummingbird-player/hummingbird.git",
+    "stars": 529,
+    "language": "Rust",
+    "size_kb": 34745
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 1.262541
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 529 stars."
+  }
+}
