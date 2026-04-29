@@ -1,0 +1,24 @@
+{
+  "reel_number": 6854,
+  "recorded": "2026-04-29 23:28:45 UTC",
+  "repository": {
+    "full_name": "AI45Lab/Code",
+    "url": "https://github.com/AI45Lab/Code",
+    "clone_url": "https://github.com/AI45Lab/Code.git",
+    "stars": 147,
+    "language": "Rust",
+    "size_kb": 4324
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.506193
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 147 stars."
+  }
+}
