@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6848 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 114k | 2026-04-29 |
+| #6849 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 170k | 2026-04-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6937,3 +6937,4 @@ If you need permission, you're thinking too much.
 | 6846 | 2026-04-29 11:18:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115613⭐ TypeScript) | [reels/reel_6846_iptv-org-iptv](reels/reel_6846_iptv-org-iptv) |
 | 6847 | 2026-04-29 13:06:18 | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) | ✅ full (132⭐ C) | [reels/reel_6847_suchmememanyskill-themezer-nx](reels/reel_6847_suchmememanyskill-themezer-nx) |
 | 6848 | 2026-04-29 15:26:54 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (114610⭐ TypeScript) | [reels/reel_6848_clash-verge-rev-clash-verge-rev](reels/reel_6848_clash-verge-rev-clash-verge-rev) |
+| 6849 | 2026-04-29 17:04:15 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (170030⭐ JavaScript) | [reels/reel_6849_affaan-m-everything-claude-code](reels/reel_6849_affaan-m-everything-claude-code) |
