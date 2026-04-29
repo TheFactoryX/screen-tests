@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6851 | [nypc/nypc.github.io](https://github.com/nypc/nypc.github.io) | MDX · ⭐ 27 | 2026-04-29 |
+| #6852 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 186k | 2026-04-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6940,3 +6940,4 @@ If you need permission, you're thinking too much.
 | 6849 | 2026-04-29 17:04:15 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (170030⭐ JavaScript) | [reels/reel_6849_affaan-m-everything-claude-code](reels/reel_6849_affaan-m-everything-claude-code) |
 | 6850 | 2026-04-29 18:46:41 | [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) | ✅ full (980⭐ Rust) | [reels/reel_6850_mmastrac-rust-ctor](reels/reel_6850_mmastrac-rust-ctor) |
 | 6851 | 2026-04-29 20:08:48 | [nypc/nypc.github.io](https://github.com/nypc/nypc.github.io) | ✅ full (27⭐ MDX) | [reels/reel_6851_nypc-nypc.github.io](reels/reel_6851_nypc-nypc.github.io) |
+| 6852 | 2026-04-29 21:18:15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186123⭐ TypeScript) | [reels/reel_6852_n8n-io-n8n](reels/reel_6852_n8n-io-n8n) |
