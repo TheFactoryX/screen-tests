@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6844 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 113k | 2026-04-29 |
+| #6845 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 169k | 2026-04-29 |
 ---
 
 ## 🎭 Selection Process
@@ -6933,3 +6933,4 @@ If you need permission, you're thinking too much.
 | 6842 | 2026-04-29 01:23:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134666⭐ Python) | [reels/reel_6842_open-webui-open-webui](reels/reel_6842_open-webui-open-webui) |
 | 6843 | 2026-04-29 04:50:26 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (107270⭐ C++) | [reels/reel_6843_ggml-org-llama.cpp](reels/reel_6843_ggml-org-llama.cpp) |
 | 6844 | 2026-04-29 07:21:39 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113194⭐ TypeScript) | [reels/reel_6844_shadcn-ui-ui](reels/reel_6844_shadcn-ui-ui) |
+| 6845 | 2026-04-29 09:32:16 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (169759⭐ JavaScript) | [reels/reel_6845_affaan-m-everything-claude-code](reels/reel_6845_affaan-m-everything-claude-code) |
