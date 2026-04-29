@@ -1,0 +1,24 @@
+{
+  "reel_number": 6851,
+  "recorded": "2026-04-29 20:08:48 UTC",
+  "repository": {
+    "full_name": "nypc/nypc.github.io",
+    "url": "https://github.com/nypc/nypc.github.io",
+    "clone_url": "https://github.com/nypc/nypc.github.io.git",
+    "stars": 27,
+    "language": "MDX",
+    "size_kb": 85327
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 83,
+    "duration_seconds": 3.557684
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "MDX",
+    "director_note": "A MDX repository. 27 stars."
+  }
+}
