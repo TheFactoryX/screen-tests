@@ -1,0 +1,24 @@
+{
+  "reel_number": 6847,
+  "recorded": "2026-04-29 13:06:18 UTC",
+  "repository": {
+    "full_name": "suchmememanyskill/themezer-nx",
+    "url": "https://github.com/suchmememanyskill/themezer-nx",
+    "clone_url": "https://github.com/suchmememanyskill/themezer-nx.git",
+    "stars": 132,
+    "language": "C",
+    "size_kb": 1896
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.978533
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 132 stars."
+  }
+}
