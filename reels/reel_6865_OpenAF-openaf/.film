@@ -1,0 +1,24 @@
+{
+  "reel_number": 6865,
+  "recorded": "2026-04-30 20:58:16 UTC",
+  "repository": {
+    "full_name": "OpenAF/openaf",
+    "url": "https://github.com/OpenAF/openaf",
+    "clone_url": "https://github.com/OpenAF/openaf.git",
+    "stars": 13,
+    "language": "JavaScript",
+    "size_kb": 675656
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 659,
+    "duration_seconds": 0.000152
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 13 stars."
+  }
+}
