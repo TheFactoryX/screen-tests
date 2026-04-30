@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6863 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 498k | 2026-04-30 |
+| #6864 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 134k | 2026-04-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6952,3 +6952,4 @@ If you need permission, you're thinking too much.
 | 6861 | 2026-04-30 15:21:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183899⭐ Python) | [reels/reel_6861_Significant-Gravitas-AutoGPT](reels/reel_6861_Significant-Gravitas-AutoGPT) |
 | 6862 | 2026-04-30 16:55:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147553⭐ Python) | [reels/reel_6862_langflow-ai-langflow](reels/reel_6862_langflow-ai-langflow) |
 | 6863 | 2026-04-30 18:08:34 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (498266⭐ Markdown) | [reels/reel_6863_codecrafters-io-build-your-own-x](reels/reel_6863_codecrafters-io-build-your-own-x) |
+| 6864 | 2026-04-30 19:49:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134969⭐ Python) | [reels/reel_6864_open-webui-open-webui](reels/reel_6864_open-webui-open-webui) |
