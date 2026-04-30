@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6861 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-04-30 |
+| #6862 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-04-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6950,3 +6950,4 @@ If you need permission, you're thinking too much.
 | 6859 | 2026-04-30 11:19:03 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (114855⭐ TypeScript) | [reels/reel_6859_clash-verge-rev-clash-verge-rev](reels/reel_6859_clash-verge-rev-clash-verge-rev) |
 | 6860 | 2026-04-30 13:04:25 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (264463⭐ None) | [reels/reel_6860_practical-tutorials-project-based-learning](reels/reel_6860_practical-tutorials-project-based-learning) |
 | 6861 | 2026-04-30 15:21:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183899⭐ Python) | [reels/reel_6861_Significant-Gravitas-AutoGPT](reels/reel_6861_Significant-Gravitas-AutoGPT) |
+| 6862 | 2026-04-30 16:55:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147553⭐ Python) | [reels/reel_6862_langflow-ai-langflow](reels/reel_6862_langflow-ai-langflow) |
