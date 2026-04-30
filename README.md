@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6854 | [AI45Lab/Code](https://github.com/AI45Lab/Code) | Rust · ⭐ 147 | 2026-04-29 |
+| #6855 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 159k | 2026-04-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6943,3 +6943,4 @@ If you need permission, you're thinking too much.
 | 6852 | 2026-04-29 21:18:15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186123⭐ TypeScript) | [reels/reel_6852_n8n-io-n8n](reels/reel_6852_n8n-io-n8n) |
 | 6853 | 2026-04-29 22:29:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (134825⭐ Python) | [reels/reel_6853_open-webui-open-webui](reels/reel_6853_open-webui-open-webui) |
 | 6854 | 2026-04-29 23:28:45 | [AI45Lab/Code](https://github.com/AI45Lab/Code) | ✅ full (147⭐ Rust) | [reels/reel_6854_AI45Lab-Code](reels/reel_6854_AI45Lab-Code) |
+| 6855 | 2026-04-30 01:16:57 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (159647⭐ Python) | [reels/reel_6855_yt-dlp-yt-dlp](reels/reel_6855_yt-dlp-yt-dlp) |
