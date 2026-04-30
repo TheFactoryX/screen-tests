@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6858 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 135k | 2026-04-30 |
+| #6859 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 114k | 2026-04-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6947,3 +6947,4 @@ If you need permission, you're thinking too much.
 | 6856 | 2026-04-30 04:53:50 | [Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation) | ✅ readme_only (692⭐ Python) | [reels/reel_6856_Teyliu-PVZF-Translation](reels/reel_6856_Teyliu-PVZF-Translation) |
 | 6857 | 2026-04-30 07:26:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (289001⭐ None) | [reels/reel_6857_awesome-selfhosted-awesome-selfhosted](reels/reel_6857_awesome-selfhosted-awesome-selfhosted) |
 | 6858 | 2026-04-30 09:33:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (135459⭐ Python) | [reels/reel_6858_langchain-ai-langchain](reels/reel_6858_langchain-ai-langchain) |
+| 6859 | 2026-04-30 11:19:03 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (114855⭐ TypeScript) | [reels/reel_6859_clash-verge-rev-clash-verge-rev](reels/reel_6859_clash-verge-rev-clash-verge-rev) |
