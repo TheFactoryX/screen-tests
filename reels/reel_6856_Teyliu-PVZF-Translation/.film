@@ -1,0 +1,24 @@
+{
+  "reel_number": 6856,
+  "recorded": "2026-04-30 04:53:50 UTC",
+  "repository": {
+    "full_name": "Teyliu/PVZF-Translation",
+    "url": "https://github.com/Teyliu/PVZF-Translation",
+    "clone_url": "https://github.com/Teyliu/PVZF-Translation.git",
+    "stars": 692,
+    "language": "Python",
+    "size_kb": 628203
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 613,
+    "duration_seconds": 0.000139
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 692 stars."
+  }
+}
