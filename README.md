@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6859 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 114k | 2026-04-30 |
+| #6860 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 264k | 2026-04-30 |
 ---
 
 ## 🎭 Selection Process
@@ -6948,3 +6948,4 @@ If you need permission, you're thinking too much.
 | 6857 | 2026-04-30 07:26:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (289001⭐ None) | [reels/reel_6857_awesome-selfhosted-awesome-selfhosted](reels/reel_6857_awesome-selfhosted-awesome-selfhosted) |
 | 6858 | 2026-04-30 09:33:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (135459⭐ Python) | [reels/reel_6858_langchain-ai-langchain](reels/reel_6858_langchain-ai-langchain) |
 | 6859 | 2026-04-30 11:19:03 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (114855⭐ TypeScript) | [reels/reel_6859_clash-verge-rev-clash-verge-rev](reels/reel_6859_clash-verge-rev-clash-verge-rev) |
+| 6860 | 2026-04-30 13:04:25 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (264463⭐ None) | [reels/reel_6860_practical-tutorials-project-based-learning](reels/reel_6860_practical-tutorials-project-based-learning) |
