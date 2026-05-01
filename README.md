@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6877 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 186k | 2026-05-01 |
+| #6878 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | Go · ⭐ 469 | 2026-05-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6966,3 +6966,4 @@ If you need permission, you're thinking too much.
 | 6875 | 2026-05-01 14:06:39 | [jegly/Box](https://github.com/jegly/Box) | ✅ full (156⭐ Kotlin) | [reels/reel_6875_jegly-Box](reels/reel_6875_jegly-Box) |
 | 6876 | 2026-05-01 15:15:02 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115122⭐ TypeScript) | [reels/reel_6876_clash-verge-rev-clash-verge-rev](reels/reel_6876_clash-verge-rev-clash-verge-rev) |
 | 6877 | 2026-05-01 16:13:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186373⭐ TypeScript) | [reels/reel_6877_n8n-io-n8n](reels/reel_6877_n8n-io-n8n) |
+| 6878 | 2026-05-01 17:14:21 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | ✅ shallow (469⭐ Go) | [reels/reel_6878_cordum-io-cordum](reels/reel_6878_cordum-io-cordum) |
