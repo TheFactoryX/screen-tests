@@ -1,0 +1,24 @@
+{
+  "reel_number": 6872,
+  "recorded": "2026-05-01 10:42:40 UTC",
+  "repository": {
+    "full_name": "git-pkgs/forge",
+    "url": "https://github.com/git-pkgs/forge",
+    "clone_url": "https://github.com/git-pkgs/forge.git",
+    "stars": 130,
+    "language": "Go",
+    "size_kb": 514
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.318385
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 130 stars."
+  }
+}
