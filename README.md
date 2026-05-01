@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6870 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-01 |
+| #6871 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-05-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6959,3 +6959,4 @@ If you need permission, you're thinking too much.
 | 6868 | 2026-05-01 00:04:48 | [inaturalist/inaturalist](https://github.com/inaturalist/inaturalist) | ✅ shallow (813⭐ JavaScript) | [reels/reel_6868_inaturalist-inaturalist](reels/reel_6868_inaturalist-inaturalist) |
 | 6869 | 2026-05-01 04:16:37 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (159928⭐ Python) | [reels/reel_6869_yt-dlp-yt-dlp](reels/reel_6869_yt-dlp-yt-dlp) |
 | 6870 | 2026-05-01 07:11:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147578⭐ Python) | [reels/reel_6870_langflow-ai-langflow](reels/reel_6870_langflow-ai-langflow) |
+| 6871 | 2026-05-01 09:10:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183921⭐ Python) | [reels/reel_6871_Significant-Gravitas-AutoGPT](reels/reel_6871_Significant-Gravitas-AutoGPT) |
