@@ -1,0 +1,24 @@
+{
+  "reel_number": 6881,
+  "recorded": "2026-05-01 20:33:22 UTC",
+  "repository": {
+    "full_name": "bmen25124/SillyTavern-MCP-Server",
+    "url": "https://github.com/bmen25124/SillyTavern-MCP-Server",
+    "clone_url": "https://github.com/bmen25124/SillyTavern-MCP-Server.git",
+    "stars": 37,
+    "language": "TypeScript",
+    "size_kb": 834
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.958748
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 37 stars."
+  }
+}
