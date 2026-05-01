@@ -1,0 +1,24 @@
+{
+  "reel_number": 6875,
+  "recorded": "2026-05-01 14:06:39 UTC",
+  "repository": {
+    "full_name": "jegly/Box",
+    "url": "https://github.com/jegly/Box",
+    "clone_url": "https://github.com/jegly/Box.git",
+    "stars": 156,
+    "language": "Kotlin",
+    "size_kb": 63727
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 62,
+    "duration_seconds": 2.761955
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 156 stars."
+  }
+}
