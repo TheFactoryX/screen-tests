@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6883 | [phax/phase4](https://github.com/phax/phase4) | Java · ⭐ 217 | 2026-05-01 |
+| #6884 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 115k | 2026-05-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6972,3 +6972,4 @@ If you need permission, you're thinking too much.
 | 6881 | 2026-05-01 20:33:22 | [bmen25124/SillyTavern-MCP-Server](https://github.com/bmen25124/SillyTavern-MCP-Server) | ✅ full (37⭐ TypeScript) | [reels/reel_6881_bmen25124-SillyTavern-MCP-Server](reels/reel_6881_bmen25124-SillyTavern-MCP-Server) |
 | 6882 | 2026-05-01 21:37:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183938⭐ Python) | [reels/reel_6882_Significant-Gravitas-AutoGPT](reels/reel_6882_Significant-Gravitas-AutoGPT) |
 | 6883 | 2026-05-01 22:34:46 | [phax/phase4](https://github.com/phax/phase4) | ✅ full (217⭐ Java) | [reels/reel_6883_phax-phase4](reels/reel_6883_phax-phase4) |
+| 6884 | 2026-05-01 23:36:18 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115149⭐ TypeScript) | [reels/reel_6884_clash-verge-rev-clash-verge-rev](reels/reel_6884_clash-verge-rev-clash-verge-rev) |
