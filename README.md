@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6872 | [git-pkgs/forge](https://github.com/git-pkgs/forge) | Go · ⭐ 130 | 2026-05-01 |
+| #6873 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-05-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6961,3 +6961,4 @@ If you need permission, you're thinking too much.
 | 6870 | 2026-05-01 07:11:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147578⭐ Python) | [reels/reel_6870_langflow-ai-langflow](reels/reel_6870_langflow-ai-langflow) |
 | 6871 | 2026-05-01 09:10:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183921⭐ Python) | [reels/reel_6871_Significant-Gravitas-AutoGPT](reels/reel_6871_Significant-Gravitas-AutoGPT) |
 | 6872 | 2026-05-01 10:42:40 | [git-pkgs/forge](https://github.com/git-pkgs/forge) | ✅ full (130⭐ Go) | [reels/reel_6872_git-pkgs-forge](reels/reel_6872_git-pkgs-forge) |
+| 6873 | 2026-05-01 11:43:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115651⭐ TypeScript) | [reels/reel_6873_iptv-org-iptv](reels/reel_6873_iptv-org-iptv) |
