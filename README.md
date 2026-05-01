@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6878 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | Go · ⭐ 469 | 2026-05-01 |
+| #6879 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-01 |
 ---
 
 ## 🎭 Selection Process
@@ -6967,3 +6967,4 @@ If you need permission, you're thinking too much.
 | 6876 | 2026-05-01 15:15:02 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115122⭐ TypeScript) | [reels/reel_6876_clash-verge-rev-clash-verge-rev](reels/reel_6876_clash-verge-rev-clash-verge-rev) |
 | 6877 | 2026-05-01 16:13:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186373⭐ TypeScript) | [reels/reel_6877_n8n-io-n8n](reels/reel_6877_n8n-io-n8n) |
 | 6878 | 2026-05-01 17:14:21 | [cordum-io/cordum](https://github.com/cordum-io/cordum) | ✅ shallow (469⭐ Go) | [reels/reel_6878_cordum-io-cordum](reels/reel_6878_cordum-io-cordum) |
+| 6879 | 2026-05-01 18:12:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147594⭐ Python) | [reels/reel_6879_langflow-ai-langflow](reels/reel_6879_langflow-ai-langflow) |
