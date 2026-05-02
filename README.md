@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6890 | [left-curve/left-curve](https://github.com/left-curve/left-curve) | Rust · ⭐ 134 | 2026-05-02 |
+| #6891 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 115k | 2026-05-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6979,3 +6979,4 @@ If you need permission, you're thinking too much.
 | 6888 | 2026-05-02 08:10:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (135619⭐ Python) | [reels/reel_6888_langchain-ai-langchain](reels/reel_6888_langchain-ai-langchain) |
 | 6889 | 2026-05-02 09:32:56 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (111436⭐ None) | [reels/reel_6889_Hack-with-Github-Awesome-Hacking](reels/reel_6889_Hack-with-Github-Awesome-Hacking) |
 | 6890 | 2026-05-02 10:33:47 | [left-curve/left-curve](https://github.com/left-curve/left-curve) | ✅ shallow (134⭐ Rust) | [reels/reel_6890_left-curve-left-curve](reels/reel_6890_left-curve-left-curve) |
+| 6891 | 2026-05-02 11:30:01 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115254⭐ TypeScript) | [reels/reel_6891_clash-verge-rev-clash-verge-rev](reels/reel_6891_clash-verge-rev-clash-verge-rev) |
