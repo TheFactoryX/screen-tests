@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6896 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 186k | 2026-05-02 |
+| #6897 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 186k | 2026-05-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6985,3 +6985,4 @@ If you need permission, you're thinking too much.
 | 6894 | 2026-05-02 14:43:34 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (107907⭐ C++) | [reels/reel_6894_ggml-org-llama.cpp](reels/reel_6894_ggml-org-llama.cpp) |
 | 6895 | 2026-05-02 15:33:22 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (289648⭐ None) | [reels/reel_6895_awesome-selfhosted-awesome-selfhosted](reels/reel_6895_awesome-selfhosted-awesome-selfhosted) |
 | 6896 | 2026-05-02 16:30:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186462⭐ TypeScript) | [reels/reel_6896_n8n-io-n8n](reels/reel_6896_n8n-io-n8n) |
+| 6897 | 2026-05-02 17:26:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186463⭐ TypeScript) | [reels/reel_6897_n8n-io-n8n](reels/reel_6897_n8n-io-n8n) |
