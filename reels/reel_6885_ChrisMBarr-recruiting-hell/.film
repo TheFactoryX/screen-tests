@@ -1,0 +1,24 @@
+{
+  "reel_number": 6885,
+  "recorded": "2026-05-02 01:18:12 UTC",
+  "repository": {
+    "full_name": "ChrisMBarr/recruiting-hell",
+    "url": "https://github.com/ChrisMBarr/recruiting-hell",
+    "clone_url": "https://github.com/ChrisMBarr/recruiting-hell.git",
+    "stars": 52,
+    "language": null,
+    "size_kb": 3673
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.23531
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 52 stars."
+  }
+}

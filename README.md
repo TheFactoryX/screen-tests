@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6884 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 115k | 2026-05-01 |
+| #6885 | [ChrisMBarr/recruiting-hell](https://github.com/ChrisMBarr/recruiting-hell) | None · ⭐ 52 | 2026-05-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6973,3 +6973,4 @@ If you need permission, you're thinking too much.
 | 6882 | 2026-05-01 21:37:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183938⭐ Python) | [reels/reel_6882_Significant-Gravitas-AutoGPT](reels/reel_6882_Significant-Gravitas-AutoGPT) |
 | 6883 | 2026-05-01 22:34:46 | [phax/phase4](https://github.com/phax/phase4) | ✅ full (217⭐ Java) | [reels/reel_6883_phax-phase4](reels/reel_6883_phax-phase4) |
 | 6884 | 2026-05-01 23:36:18 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115149⭐ TypeScript) | [reels/reel_6884_clash-verge-rev-clash-verge-rev](reels/reel_6884_clash-verge-rev-clash-verge-rev) |
+| 6885 | 2026-05-02 01:18:12 | [ChrisMBarr/recruiting-hell](https://github.com/ChrisMBarr/recruiting-hell) | ✅ full (52⭐ None) | [reels/reel_6885_ChrisMBarr-recruiting-hell](reels/reel_6885_ChrisMBarr-recruiting-hell) |
