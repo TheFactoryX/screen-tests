@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6891 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 115k | 2026-05-02 |
+| #6892 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 498k | 2026-05-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6980,3 +6980,4 @@ If you need permission, you're thinking too much.
 | 6889 | 2026-05-02 09:32:56 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (111436⭐ None) | [reels/reel_6889_Hack-with-Github-Awesome-Hacking](reels/reel_6889_Hack-with-Github-Awesome-Hacking) |
 | 6890 | 2026-05-02 10:33:47 | [left-curve/left-curve](https://github.com/left-curve/left-curve) | ✅ shallow (134⭐ Rust) | [reels/reel_6890_left-curve-left-curve](reels/reel_6890_left-curve-left-curve) |
 | 6891 | 2026-05-02 11:30:01 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115254⭐ TypeScript) | [reels/reel_6891_clash-verge-rev-clash-verge-rev](reels/reel_6891_clash-verge-rev-clash-verge-rev) |
+| 6892 | 2026-05-02 12:09:58 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (498599⭐ Markdown) | [reels/reel_6892_codecrafters-io-build-your-own-x](reels/reel_6892_codecrafters-io-build-your-own-x) |
