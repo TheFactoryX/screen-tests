@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6887 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-02 |
+| #6888 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 135k | 2026-05-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6976,3 +6976,4 @@ If you need permission, you're thinking too much.
 | 6885 | 2026-05-02 01:18:12 | [ChrisMBarr/recruiting-hell](https://github.com/ChrisMBarr/recruiting-hell) | ✅ full (52⭐ None) | [reels/reel_6885_ChrisMBarr-recruiting-hell](reels/reel_6885_ChrisMBarr-recruiting-hell) |
 | 6886 | 2026-05-02 04:39:30 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (498535⭐ Markdown) | [reels/reel_6886_codecrafters-io-build-your-own-x](reels/reel_6886_codecrafters-io-build-your-own-x) |
 | 6887 | 2026-05-02 06:29:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147612⭐ Python) | [reels/reel_6887_langflow-ai-langflow](reels/reel_6887_langflow-ai-langflow) |
+| 6888 | 2026-05-02 08:10:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (135619⭐ Python) | [reels/reel_6888_langchain-ai-langchain](reels/reel_6888_langchain-ai-langchain) |
