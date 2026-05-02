@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6899 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-02 |
+| #6900 | [itsfabioroma/transcribee](https://github.com/itsfabioroma/transcribee) | TypeScript · ⭐ 188 | 2026-05-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6988,3 +6988,4 @@ If you need permission, you're thinking too much.
 | 6897 | 2026-05-02 17:26:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186463⭐ TypeScript) | [reels/reel_6897_n8n-io-n8n](reels/reel_6897_n8n-io-n8n) |
 | 6898 | 2026-05-02 18:09:16 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | ✅ shallow (692⭐ Emacs Lisp) | [reels/reel_6898_eval-exec-neomacs](reels/reel_6898_eval-exec-neomacs) |
 | 6899 | 2026-05-02 19:17:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147630⭐ Python) | [reels/reel_6899_langflow-ai-langflow](reels/reel_6899_langflow-ai-langflow) |
+| 6900 | 2026-05-02 20:04:01 | [itsfabioroma/transcribee](https://github.com/itsfabioroma/transcribee) | ✅ full (188⭐ TypeScript) | [reels/reel_6900_itsfabioroma-transcribee](reels/reel_6900_itsfabioroma-transcribee) |

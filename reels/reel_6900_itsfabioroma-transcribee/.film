@@ -1,0 +1,24 @@
+{
+  "reel_number": 6900,
+  "recorded": "2026-05-02 20:04:01 UTC",
+  "repository": {
+    "full_name": "itsfabioroma/transcribee",
+    "url": "https://github.com/itsfabioroma/transcribee",
+    "clone_url": "https://github.com/itsfabioroma/transcribee.git",
+    "stars": 188,
+    "language": "TypeScript",
+    "size_kb": 51
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.376018
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 188 stars."
+  }
+}
