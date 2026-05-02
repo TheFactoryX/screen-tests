@@ -1,0 +1,24 @@
+{
+  "reel_number": 6901,
+  "recorded": "2026-05-02 20:59:35 UTC",
+  "repository": {
+    "full_name": "kdlbs/kandev",
+    "url": "https://github.com/kdlbs/kandev",
+    "clone_url": "https://github.com/kdlbs/kandev.git",
+    "stars": 135,
+    "language": "Go",
+    "size_kb": 80250
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 78,
+    "duration_seconds": 3.650461
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 135 stars."
+  }
+}
