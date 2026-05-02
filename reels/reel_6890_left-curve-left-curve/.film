@@ -1,0 +1,24 @@
+{
+  "reel_number": 6890,
+  "recorded": "2026-05-02 10:33:47 UTC",
+  "repository": {
+    "full_name": "left-curve/left-curve",
+    "url": "https://github.com/left-curve/left-curve",
+    "clone_url": "https://github.com/left-curve/left-curve.git",
+    "stars": 134,
+    "language": "Rust",
+    "size_kb": 109993
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 107,
+    "duration_seconds": 2.473384
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 134 stars."
+  }
+}
