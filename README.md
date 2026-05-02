@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6897 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 186k | 2026-05-02 |
+| #6898 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | Emacs Lisp · ⭐ 692 | 2026-05-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6986,3 +6986,4 @@ If you need permission, you're thinking too much.
 | 6895 | 2026-05-02 15:33:22 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (289648⭐ None) | [reels/reel_6895_awesome-selfhosted-awesome-selfhosted](reels/reel_6895_awesome-selfhosted-awesome-selfhosted) |
 | 6896 | 2026-05-02 16:30:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186462⭐ TypeScript) | [reels/reel_6896_n8n-io-n8n](reels/reel_6896_n8n-io-n8n) |
 | 6897 | 2026-05-02 17:26:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186463⭐ TypeScript) | [reels/reel_6897_n8n-io-n8n](reels/reel_6897_n8n-io-n8n) |
+| 6898 | 2026-05-02 18:09:16 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | ✅ shallow (692⭐ Emacs Lisp) | [reels/reel_6898_eval-exec-neomacs](reels/reel_6898_eval-exec-neomacs) |

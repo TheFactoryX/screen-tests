@@ -1,0 +1,24 @@
+{
+  "reel_number": 6898,
+  "recorded": "2026-05-02 18:09:16 UTC",
+  "repository": {
+    "full_name": "eval-exec/neomacs",
+    "url": "https://github.com/eval-exec/neomacs",
+    "clone_url": "https://github.com/eval-exec/neomacs.git",
+    "stars": 692,
+    "language": "Emacs Lisp",
+    "size_kb": 118504
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 115,
+    "duration_seconds": 5.159718
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Emacs Lisp",
+    "director_note": "A Emacs Lisp repository. 692 stars."
+  }
+}
