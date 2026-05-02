@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6894 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 107k | 2026-05-02 |
+| #6895 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 289k | 2026-05-02 |
 ---
 
 ## 🎭 Selection Process
@@ -6983,3 +6983,4 @@ If you need permission, you're thinking too much.
 | 6892 | 2026-05-02 12:09:58 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (498599⭐ Markdown) | [reels/reel_6892_codecrafters-io-build-your-own-x](reels/reel_6892_codecrafters-io-build-your-own-x) |
 | 6893 | 2026-05-02 13:47:56 | [PREP-NexT/PREP-SHOT](https://github.com/PREP-NexT/PREP-SHOT) | ✅ full (523⭐ Jupyter Notebook) | [reels/reel_6893_PREP-NexT-PREP-SHOT](reels/reel_6893_PREP-NexT-PREP-SHOT) |
 | 6894 | 2026-05-02 14:43:34 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (107907⭐ C++) | [reels/reel_6894_ggml-org-llama.cpp](reels/reel_6894_ggml-org-llama.cpp) |
+| 6895 | 2026-05-02 15:33:22 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (289648⭐ None) | [reels/reel_6895_awesome-selfhosted-awesome-selfhosted](reels/reel_6895_awesome-selfhosted-awesome-selfhosted) |
