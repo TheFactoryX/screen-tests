@@ -1,0 +1,24 @@
+{
+  "reel_number": 6893,
+  "recorded": "2026-05-02 13:47:56 UTC",
+  "repository": {
+    "full_name": "PREP-NexT/PREP-SHOT",
+    "url": "https://github.com/PREP-NexT/PREP-SHOT",
+    "clone_url": "https://github.com/PREP-NexT/PREP-SHOT.git",
+    "stars": 523,
+    "language": "Jupyter Notebook",
+    "size_kb": 74272
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 72,
+    "duration_seconds": 2.874148
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Jupyter Notebook",
+    "director_note": "A Jupyter Notebook repository. 523 stars."
+  }
+}
