@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6905 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 183k | 2026-05-03 |
+| #6906 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 113k | 2026-05-03 |
 ---
 
 ## 🎭 Selection Process
@@ -6994,3 +6994,4 @@ If you need permission, you're thinking too much.
 | 6903 | 2026-05-02 22:38:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (289727⭐ None) | [reels/reel_6903_awesome-selfhosted-awesome-selfhosted](reels/reel_6903_awesome-selfhosted-awesome-selfhosted) |
 | 6904 | 2026-05-02 23:26:51 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (385⭐ None) | [reels/reel_6904_hello-world-1989-cn-news](reels/reel_6904_hello-world-1989-cn-news) |
 | 6905 | 2026-05-03 00:07:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183947⭐ Python) | [reels/reel_6905_Significant-Gravitas-AutoGPT](reels/reel_6905_Significant-Gravitas-AutoGPT) |
+| 6906 | 2026-05-03 04:10:49 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113430⭐ TypeScript) | [reels/reel_6906_shadcn-ui-ui](reels/reel_6906_shadcn-ui-ui) |
