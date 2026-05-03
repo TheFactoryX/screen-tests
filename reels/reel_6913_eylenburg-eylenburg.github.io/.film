@@ -1,0 +1,24 @@
+{
+  "reel_number": 6913,
+  "recorded": "2026-05-03 13:59:43 UTC",
+  "repository": {
+    "full_name": "eylenburg/eylenburg.github.io",
+    "url": "https://github.com/eylenburg/eylenburg.github.io",
+    "clone_url": "https://github.com/eylenburg/eylenburg.github.io.git",
+    "stars": 342,
+    "language": "HTML",
+    "size_kb": 67820
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 66,
+    "duration_seconds": 2.708458
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 342 stars."
+  }
+}
