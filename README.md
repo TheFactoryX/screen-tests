@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6921 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 289k | 2026-05-03 |
+| #6922 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 115k | 2026-05-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7010,3 +7010,4 @@ If you need permission, you're thinking too much.
 | 6919 | 2026-05-03 19:40:58 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115475⭐ TypeScript) | [reels/reel_6919_clash-verge-rev-clash-verge-rev](reels/reel_6919_clash-verge-rev-clash-verge-rev) |
 | 6920 | 2026-05-03 20:24:41 | [zhaiiker/SillyTavernchat](https://github.com/zhaiiker/SillyTavernchat) | ✅ full (187⭐ JavaScript) | [reels/reel_6920_zhaiiker-SillyTavernchat](reels/reel_6920_zhaiiker-SillyTavernchat) |
 | 6921 | 2026-05-03 21:09:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (289978⭐ None) | [reels/reel_6921_awesome-selfhosted-awesome-selfhosted](reels/reel_6921_awesome-selfhosted-awesome-selfhosted) |
+| 6922 | 2026-05-03 21:59:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115853⭐ TypeScript) | [reels/reel_6922_iptv-org-iptv](reels/reel_6922_iptv-org-iptv) |
