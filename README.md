@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6915 | [hzambran/RFmerge](https://github.com/hzambran/RFmerge) | R · ⭐ 25 | 2026-05-03 |
+| #6916 | [bfanger/pixi-inspector](https://github.com/bfanger/pixi-inspector) | TypeScript · ⭐ 416 | 2026-05-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7004,3 +7004,4 @@ If you need permission, you're thinking too much.
 | 6913 | 2026-05-03 13:59:43 | [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) | ✅ full (342⭐ HTML) | [reels/reel_6913_eylenburg-eylenburg.github.io](reels/reel_6913_eylenburg-eylenburg.github.io) |
 | 6914 | 2026-05-03 14:57:46 | [Firmfox/Proxify](https://github.com/Firmfox/Proxify) | ✅ readme_only (106⭐ Python) | [reels/reel_6914_Firmfox-Proxify](reels/reel_6914_Firmfox-Proxify) |
 | 6915 | 2026-05-03 15:53:17 | [hzambran/RFmerge](https://github.com/hzambran/RFmerge) | ✅ full (25⭐ R) | [reels/reel_6915_hzambran-RFmerge](reels/reel_6915_hzambran-RFmerge) |
+| 6916 | 2026-05-03 16:47:41 | [bfanger/pixi-inspector](https://github.com/bfanger/pixi-inspector) | ✅ full (416⭐ TypeScript) | [reels/reel_6916_bfanger-pixi-inspector](reels/reel_6916_bfanger-pixi-inspector) |

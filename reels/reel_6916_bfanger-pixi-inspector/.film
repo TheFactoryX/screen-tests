@@ -1,0 +1,24 @@
+{
+  "reel_number": 6916,
+  "recorded": "2026-05-03 16:47:41 UTC",
+  "repository": {
+    "full_name": "bfanger/pixi-inspector",
+    "url": "https://github.com/bfanger/pixi-inspector",
+    "clone_url": "https://github.com/bfanger/pixi-inspector.git",
+    "stars": 416,
+    "language": "TypeScript",
+    "size_kb": 4990
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.815533
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 416 stars."
+  }
+}
