@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6916 | [bfanger/pixi-inspector](https://github.com/bfanger/pixi-inspector) | TypeScript · ⭐ 416 | 2026-05-03 |
+| #6917 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 264k | 2026-05-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7005,3 +7005,4 @@ If you need permission, you're thinking too much.
 | 6914 | 2026-05-03 14:57:46 | [Firmfox/Proxify](https://github.com/Firmfox/Proxify) | ✅ readme_only (106⭐ Python) | [reels/reel_6914_Firmfox-Proxify](reels/reel_6914_Firmfox-Proxify) |
 | 6915 | 2026-05-03 15:53:17 | [hzambran/RFmerge](https://github.com/hzambran/RFmerge) | ✅ full (25⭐ R) | [reels/reel_6915_hzambran-RFmerge](reels/reel_6915_hzambran-RFmerge) |
 | 6916 | 2026-05-03 16:47:41 | [bfanger/pixi-inspector](https://github.com/bfanger/pixi-inspector) | ✅ full (416⭐ TypeScript) | [reels/reel_6916_bfanger-pixi-inspector](reels/reel_6916_bfanger-pixi-inspector) |
+| 6917 | 2026-05-03 17:44:18 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (264740⭐ None) | [reels/reel_6917_practical-tutorials-project-based-learning](reels/reel_6917_practical-tutorials-project-based-learning) |
