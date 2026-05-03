@@ -1,0 +1,24 @@
+{
+  "reel_number": 6918,
+  "recorded": "2026-05-03 18:36:33 UTC",
+  "repository": {
+    "full_name": "sunny9577/proxy-scraper",
+    "url": "https://github.com/sunny9577/proxy-scraper",
+    "clone_url": "https://github.com/sunny9577/proxy-scraper.git",
+    "stars": 572,
+    "language": "JavaScript",
+    "size_kb": 2294742
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2240,
+    "duration_seconds": 0.000128
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 572 stars."
+  }
+}
