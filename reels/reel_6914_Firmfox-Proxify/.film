@@ -1,0 +1,24 @@
+{
+  "reel_number": 6914,
+  "recorded": "2026-05-03 14:57:46 UTC",
+  "repository": {
+    "full_name": "Firmfox/Proxify",
+    "url": "https://github.com/Firmfox/Proxify",
+    "clone_url": "https://github.com/Firmfox/Proxify.git",
+    "stars": 106,
+    "language": "Python",
+    "size_kb": 15017417
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 14665,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 106 stars."
+  }
+}

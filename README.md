@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6913 | [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) | HTML · ⭐ 342 | 2026-05-03 |
+| #6914 | [Firmfox/Proxify](https://github.com/Firmfox/Proxify) | Python · ⭐ 106 | 2026-05-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7002,3 +7002,4 @@ If you need permission, you're thinking too much.
 | 6911 | 2026-05-03 11:40:19 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115413⭐ TypeScript) | [reels/reel_6911_clash-verge-rev-clash-verge-rev](reels/reel_6911_clash-verge-rev-clash-verge-rev) |
 | 6912 | 2026-05-03 12:35:03 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (135304⭐ Python) | [reels/reel_6912_open-webui-open-webui](reels/reel_6912_open-webui-open-webui) |
 | 6913 | 2026-05-03 13:59:43 | [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) | ✅ full (342⭐ HTML) | [reels/reel_6913_eylenburg-eylenburg.github.io](reels/reel_6913_eylenburg-eylenburg.github.io) |
+| 6914 | 2026-05-03 14:57:46 | [Firmfox/Proxify](https://github.com/Firmfox/Proxify) | ✅ readme_only (106⭐ Python) | [reels/reel_6914_Firmfox-Proxify](reels/reel_6914_Firmfox-Proxify) |
