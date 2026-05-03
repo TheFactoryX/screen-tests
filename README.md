@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6919 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 115k | 2026-05-03 |
+| #6920 | [zhaiiker/SillyTavernchat](https://github.com/zhaiiker/SillyTavernchat) | JavaScript · ⭐ 187 | 2026-05-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7008,3 +7008,4 @@ If you need permission, you're thinking too much.
 | 6917 | 2026-05-03 17:44:18 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (264740⭐ None) | [reels/reel_6917_practical-tutorials-project-based-learning](reels/reel_6917_practical-tutorials-project-based-learning) |
 | 6918 | 2026-05-03 18:36:33 | [sunny9577/proxy-scraper](https://github.com/sunny9577/proxy-scraper) | ✅ readme_only (572⭐ JavaScript) | [reels/reel_6918_sunny9577-proxy-scraper](reels/reel_6918_sunny9577-proxy-scraper) |
 | 6919 | 2026-05-03 19:40:58 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115475⭐ TypeScript) | [reels/reel_6919_clash-verge-rev-clash-verge-rev](reels/reel_6919_clash-verge-rev-clash-verge-rev) |
+| 6920 | 2026-05-03 20:24:41 | [zhaiiker/SillyTavernchat](https://github.com/zhaiiker/SillyTavernchat) | ✅ full (187⭐ JavaScript) | [reels/reel_6920_zhaiiker-SillyTavernchat](reels/reel_6920_zhaiiker-SillyTavernchat) |
