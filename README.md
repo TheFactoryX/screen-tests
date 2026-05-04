@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6934 | [divyanshu-rawat/Javascript-Concepts](https://github.com/divyanshu-rawat/Javascript-Concepts) | JavaScript · ⭐ 26 | 2026-05-04 |
+| #6935 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 186k | 2026-05-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7023,3 +7023,4 @@ If you need permission, you're thinking too much.
 | 6932 | 2026-05-04 17:59:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115629⭐ TypeScript) | [reels/reel_6932_clash-verge-rev-clash-verge-rev](reels/reel_6932_clash-verge-rev-clash-verge-rev) |
 | 6933 | 2026-05-04 19:51:10 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (173213⭐ JavaScript) | [reels/reel_6933_affaan-m-everything-claude-code](reels/reel_6933_affaan-m-everything-claude-code) |
 | 6934 | 2026-05-04 21:06:53 | [divyanshu-rawat/Javascript-Concepts](https://github.com/divyanshu-rawat/Javascript-Concepts) | ✅ full (26⭐ JavaScript) | [reels/reel_6934_divyanshu-rawat-Javascript-Concepts](reels/reel_6934_divyanshu-rawat-Javascript-Concepts) |
+| 6935 | 2026-05-04 22:14:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186691⭐ TypeScript) | [reels/reel_6935_n8n-io-n8n](reels/reel_6935_n8n-io-n8n) |
