@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6925 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 160k | 2026-05-04 |
+| #6926 | [qzydustin/love-letter-website](https://github.com/qzydustin/love-letter-website) | JavaScript · ⭐ 16 | 2026-05-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7014,3 +7014,4 @@ If you need permission, you're thinking too much.
 | 6923 | 2026-05-03 22:55:19 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (183963⭐ Python) | [reels/reel_6923_Significant-Gravitas-AutoGPT](reels/reel_6923_Significant-Gravitas-AutoGPT) |
 | 6924 | 2026-05-03 23:42:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (135698⭐ Python) | [reels/reel_6924_langchain-ai-langchain](reels/reel_6924_langchain-ai-langchain) |
 | 6925 | 2026-05-04 01:20:31 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160402⭐ Python) | [reels/reel_6925_yt-dlp-yt-dlp](reels/reel_6925_yt-dlp-yt-dlp) |
+| 6926 | 2026-05-04 04:57:52 | [qzydustin/love-letter-website](https://github.com/qzydustin/love-letter-website) | ✅ full (16⭐ JavaScript) | [reels/reel_6926_qzydustin-love-letter-website](reels/reel_6926_qzydustin-love-letter-website) |
