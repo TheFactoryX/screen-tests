@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6928 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 431k | 2026-05-04 |
+| #6929 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 113k | 2026-05-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7017,3 +7017,4 @@ If you need permission, you're thinking too much.
 | 6926 | 2026-05-04 04:57:52 | [qzydustin/love-letter-website](https://github.com/qzydustin/love-letter-website) | ✅ full (16⭐ JavaScript) | [reels/reel_6926_qzydustin-love-letter-website](reels/reel_6926_qzydustin-love-letter-website) |
 | 6927 | 2026-05-04 07:48:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147670⭐ Python) | [reels/reel_6927_langflow-ai-langflow](reels/reel_6927_langflow-ai-langflow) |
 | 6928 | 2026-05-04 10:11:37 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (431034⭐ Python) | [reels/reel_6928_public-apis-public-apis](reels/reel_6928_public-apis-public-apis) |
+| 6929 | 2026-05-04 12:05:05 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113499⭐ TypeScript) | [reels/reel_6929_shadcn-ui-ui](reels/reel_6929_shadcn-ui-ui) |
