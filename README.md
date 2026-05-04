@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6932 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 115k | 2026-05-04 |
+| #6933 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 173k | 2026-05-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7021,3 +7021,4 @@ If you need permission, you're thinking too much.
 | 6930 | 2026-05-04 14:29:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (135738⭐ Python) | [reels/reel_6930_langchain-ai-langchain](reels/reel_6930_langchain-ai-langchain) |
 | 6931 | 2026-05-04 16:19:19 | [aeyakovenko/percolator](https://github.com/aeyakovenko/percolator) | ✅ shallow (542⭐ Rust) | [reels/reel_6931_aeyakovenko-percolator](reels/reel_6931_aeyakovenko-percolator) |
 | 6932 | 2026-05-04 17:59:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115629⭐ TypeScript) | [reels/reel_6932_clash-verge-rev-clash-verge-rev](reels/reel_6932_clash-verge-rev-clash-verge-rev) |
+| 6933 | 2026-05-04 19:51:10 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (173213⭐ JavaScript) | [reels/reel_6933_affaan-m-everything-claude-code](reels/reel_6933_affaan-m-everything-claude-code) |
