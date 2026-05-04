@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6930 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 135k | 2026-05-04 |
+| #6931 | [aeyakovenko/percolator](https://github.com/aeyakovenko/percolator) | Rust · ⭐ 542 | 2026-05-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7019,3 +7019,4 @@ If you need permission, you're thinking too much.
 | 6928 | 2026-05-04 10:11:37 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (431034⭐ Python) | [reels/reel_6928_public-apis-public-apis](reels/reel_6928_public-apis-public-apis) |
 | 6929 | 2026-05-04 12:05:05 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113499⭐ TypeScript) | [reels/reel_6929_shadcn-ui-ui](reels/reel_6929_shadcn-ui-ui) |
 | 6930 | 2026-05-04 14:29:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (135738⭐ Python) | [reels/reel_6930_langchain-ai-langchain](reels/reel_6930_langchain-ai-langchain) |
+| 6931 | 2026-05-04 16:19:19 | [aeyakovenko/percolator](https://github.com/aeyakovenko/percolator) | ✅ shallow (542⭐ Rust) | [reels/reel_6931_aeyakovenko-percolator](reels/reel_6931_aeyakovenko-percolator) |

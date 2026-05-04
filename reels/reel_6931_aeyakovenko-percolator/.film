@@ -1,0 +1,24 @@
+{
+  "reel_number": 6931,
+  "recorded": "2026-05-04 16:19:19 UTC",
+  "repository": {
+    "full_name": "aeyakovenko/percolator",
+    "url": "https://github.com/aeyakovenko/percolator",
+    "clone_url": "https://github.com/aeyakovenko/percolator.git",
+    "stars": 542,
+    "language": "Rust",
+    "size_kb": 171709
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 167,
+    "duration_seconds": 0.675741
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 542 stars."
+  }
+}
