@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6946 | [macro-inc/macro](https://github.com/macro-inc/macro) | TypeScript · ⭐ 152 | 2026-05-05 |
+| #6947 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 160k | 2026-05-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7035,3 +7035,4 @@ If you need permission, you're thinking too much.
 | 6944 | 2026-05-05 15:51:35 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115811⭐ TypeScript) | [reels/reel_6944_clash-verge-rev-clash-verge-rev](reels/reel_6944_clash-verge-rev-clash-verge-rev) |
 | 6945 | 2026-05-05 17:21:46 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (111633⭐ None) | [reels/reel_6945_Hack-with-Github-Awesome-Hacking](reels/reel_6945_Hack-with-Github-Awesome-Hacking) |
 | 6946 | 2026-05-05 18:52:13 | [macro-inc/macro](https://github.com/macro-inc/macro) | ✅ readme_only (152⭐ TypeScript) | [reels/reel_6946_macro-inc-macro](reels/reel_6946_macro-inc-macro) |
+| 6947 | 2026-05-05 20:05:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160677⭐ Python) | [reels/reel_6947_yt-dlp-yt-dlp](reels/reel_6947_yt-dlp-yt-dlp) |
