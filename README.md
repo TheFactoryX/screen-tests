@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6939 | [lsnbm/Linux-android-arm64](https://github.com/lsnbm/Linux-android-arm64) | C · ⭐ 107 | 2026-05-05 |
+| #6940 | [sgl-project/sgl-project.github.io](https://github.com/sgl-project/sgl-project.github.io) | HTML · ⭐ 127 | 2026-05-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7028,3 +7028,4 @@ If you need permission, you're thinking too much.
 | 6937 | 2026-05-05 00:07:54 | [bmad-code-org/bmad-module-creative-intelligence-suite](https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite) | ✅ full (71⭐ JavaScript) | [reels/reel_6937_bmad-code-org-bmad-module-creative-intelligence-suite](reels/reel_6937_bmad-code-org-bmad-module-creative-intelligence-suite) |
 | 6938 | 2026-05-05 03:50:13 | [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) | ✅ full (486⭐ C#) | [reels/reel_6938_openclaw-openclaw-windows-node](reels/reel_6938_openclaw-openclaw-windows-node) |
 | 6939 | 2026-05-05 06:13:58 | [lsnbm/Linux-android-arm64](https://github.com/lsnbm/Linux-android-arm64) | ✅ shallow (107⭐ C) | [reels/reel_6939_lsnbm-Linux-android-arm64](reels/reel_6939_lsnbm-Linux-android-arm64) |
+| 6940 | 2026-05-05 08:28:05 | [sgl-project/sgl-project.github.io](https://github.com/sgl-project/sgl-project.github.io) | ✅ readme_only (127⭐ HTML) | [reels/reel_6940_sgl-project-sgl-project.github.io](reels/reel_6940_sgl-project-sgl-project.github.io) |
