@@ -1,0 +1,24 @@
+{
+  "reel_number": 6942,
+  "recorded": "2026-05-05 11:46:53 UTC",
+  "repository": {
+    "full_name": "software-mansion/scarb",
+    "url": "https://github.com/software-mansion/scarb",
+    "clone_url": "https://github.com/software-mansion/scarb.git",
+    "stars": 220,
+    "language": "Rust",
+    "size_kb": 13057
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.790905
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 220 stars."
+  }
+}
