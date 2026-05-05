@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6948 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-05 |
+| #6949 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 186k | 2026-05-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7037,3 +7037,4 @@ If you need permission, you're thinking too much.
 | 6946 | 2026-05-05 18:52:13 | [macro-inc/macro](https://github.com/macro-inc/macro) | ✅ readme_only (152⭐ TypeScript) | [reels/reel_6946_macro-inc-macro](reels/reel_6946_macro-inc-macro) |
 | 6947 | 2026-05-05 20:05:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160677⭐ Python) | [reels/reel_6947_yt-dlp-yt-dlp](reels/reel_6947_yt-dlp-yt-dlp) |
 | 6948 | 2026-05-05 21:13:34 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147721⭐ Python) | [reels/reel_6948_langflow-ai-langflow](reels/reel_6948_langflow-ai-langflow) |
+| 6949 | 2026-05-05 22:13:56 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186794⭐ TypeScript) | [reels/reel_6949_n8n-io-n8n](reels/reel_6949_n8n-io-n8n) |
