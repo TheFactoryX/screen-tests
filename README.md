@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6940 | [sgl-project/sgl-project.github.io](https://github.com/sgl-project/sgl-project.github.io) | HTML · ⭐ 127 | 2026-05-05 |
+| #6941 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 173k | 2026-05-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7029,3 +7029,4 @@ If you need permission, you're thinking too much.
 | 6938 | 2026-05-05 03:50:13 | [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) | ✅ full (486⭐ C#) | [reels/reel_6938_openclaw-openclaw-windows-node](reels/reel_6938_openclaw-openclaw-windows-node) |
 | 6939 | 2026-05-05 06:13:58 | [lsnbm/Linux-android-arm64](https://github.com/lsnbm/Linux-android-arm64) | ✅ shallow (107⭐ C) | [reels/reel_6939_lsnbm-Linux-android-arm64](reels/reel_6939_lsnbm-Linux-android-arm64) |
 | 6940 | 2026-05-05 08:28:05 | [sgl-project/sgl-project.github.io](https://github.com/sgl-project/sgl-project.github.io) | ✅ readme_only (127⭐ HTML) | [reels/reel_6940_sgl-project-sgl-project.github.io](reels/reel_6940_sgl-project-sgl-project.github.io) |
+| 6941 | 2026-05-05 10:19:11 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (173555⭐ JavaScript) | [reels/reel_6941_affaan-m-everything-claude-code](reels/reel_6941_affaan-m-everything-claude-code) |
