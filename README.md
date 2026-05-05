@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6944 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 115k | 2026-05-05 |
+| #6945 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 111k | 2026-05-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7033,3 +7033,4 @@ If you need permission, you're thinking too much.
 | 6942 | 2026-05-05 11:46:53 | [software-mansion/scarb](https://github.com/software-mansion/scarb) | ✅ full (220⭐ Rust) | [reels/reel_6942_software-mansion-scarb](reels/reel_6942_software-mansion-scarb) |
 | 6943 | 2026-05-05 13:50:24 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (103387⭐ Python) | [reels/reel_6943_deepseek-ai-DeepSeek-V3](reels/reel_6943_deepseek-ai-DeepSeek-V3) |
 | 6944 | 2026-05-05 15:51:35 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115811⭐ TypeScript) | [reels/reel_6944_clash-verge-rev-clash-verge-rev](reels/reel_6944_clash-verge-rev-clash-verge-rev) |
+| 6945 | 2026-05-05 17:21:46 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (111633⭐ None) | [reels/reel_6945_Hack-with-Github-Awesome-Hacking](reels/reel_6945_Hack-with-Github-Awesome-Hacking) |
