@@ -1,0 +1,24 @@
+{
+  "reel_number": 6950,
+  "recorded": "2026-05-05 23:12:44 UTC",
+  "repository": {
+    "full_name": "MicrosoftDocs/azure-docs-sdk-python",
+    "url": "https://github.com/MicrosoftDocs/azure-docs-sdk-python",
+    "clone_url": "https://github.com/MicrosoftDocs/azure-docs-sdk-python.git",
+    "stars": 164,
+    "language": "Python",
+    "size_kb": 1309674
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1278,
+    "duration_seconds": 0.000131
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 164 stars."
+  }
+}
