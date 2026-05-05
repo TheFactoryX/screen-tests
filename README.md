@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6947 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 160k | 2026-05-05 |
+| #6948 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7036,3 +7036,4 @@ If you need permission, you're thinking too much.
 | 6945 | 2026-05-05 17:21:46 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (111633⭐ None) | [reels/reel_6945_Hack-with-Github-Awesome-Hacking](reels/reel_6945_Hack-with-Github-Awesome-Hacking) |
 | 6946 | 2026-05-05 18:52:13 | [macro-inc/macro](https://github.com/macro-inc/macro) | ✅ readme_only (152⭐ TypeScript) | [reels/reel_6946_macro-inc-macro](reels/reel_6946_macro-inc-macro) |
 | 6947 | 2026-05-05 20:05:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160677⭐ Python) | [reels/reel_6947_yt-dlp-yt-dlp](reels/reel_6947_yt-dlp-yt-dlp) |
+| 6948 | 2026-05-05 21:13:34 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147721⭐ Python) | [reels/reel_6948_langflow-ai-langflow](reels/reel_6948_langflow-ai-langflow) |
