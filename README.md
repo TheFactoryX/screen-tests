@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6961 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 174k | 2026-05-06 |
+| #6962 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 265k | 2026-05-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7050,3 +7050,4 @@ If you need permission, you're thinking too much.
 | 6959 | 2026-05-06 19:00:33 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (174571⭐ JavaScript) | [reels/reel_6959_affaan-m-everything-claude-code](reels/reel_6959_affaan-m-everything-claude-code) |
 | 6960 | 2026-05-06 20:45:40 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (432681⭐ Python) | [reels/reel_6960_public-apis-public-apis](reels/reel_6960_public-apis-public-apis) |
 | 6961 | 2026-05-06 21:55:14 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (174623⭐ JavaScript) | [reels/reel_6961_affaan-m-everything-claude-code](reels/reel_6961_affaan-m-everything-claude-code) |
+| 6962 | 2026-05-06 22:52:00 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (265024⭐ None) | [reels/reel_6962_practical-tutorials-project-based-learning](reels/reel_6962_practical-tutorials-project-based-learning) |
