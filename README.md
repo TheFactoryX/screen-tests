@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6957 | [ac-custom-shaders-patch/acc-extension-config](https://github.com/ac-custom-shaders-patch/acc-extension-config) | Lua · ⭐ 288 | 2026-05-06 |
+| #6958 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 108k | 2026-05-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7046,3 +7046,4 @@ If you need permission, you're thinking too much.
 | 6955 | 2026-05-06 11:19:59 | [thecnical/cybermind](https://github.com/thecnical/cybermind) | ✅ readme_only (35⭐ Go) | [reels/reel_6955_thecnical-cybermind](reels/reel_6955_thecnical-cybermind) |
 | 6956 | 2026-05-06 13:11:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160774⭐ Python) | [reels/reel_6956_yt-dlp-yt-dlp](reels/reel_6956_yt-dlp-yt-dlp) |
 | 6957 | 2026-05-06 15:34:18 | [ac-custom-shaders-patch/acc-extension-config](https://github.com/ac-custom-shaders-patch/acc-extension-config) | ✅ readme_only (288⭐ Lua) | [reels/reel_6957_ac-custom-shaders-patch-acc-extension-config](reels/reel_6957_ac-custom-shaders-patch-acc-extension-config) |
+| 6958 | 2026-05-06 17:13:21 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (108642⭐ C++) | [reels/reel_6958_ggml-org-llama.cpp](reels/reel_6958_ggml-org-llama.cpp) |
