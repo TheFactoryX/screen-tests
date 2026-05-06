@@ -1,0 +1,24 @@
+{
+  "reel_number": 6954,
+  "recorded": "2026-05-06 09:11:25 UTC",
+  "repository": {
+    "full_name": "nuclia/nucliadb",
+    "url": "https://github.com/nuclia/nucliadb",
+    "clone_url": "https://github.com/nuclia/nucliadb.git",
+    "stars": 719,
+    "language": "Python",
+    "size_kb": 44704
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 43,
+    "duration_seconds": 3.591509
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 719 stars."
+  }
+}
