@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6951 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 115k | 2026-05-06 |
+| #6952 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 113k | 2026-05-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7040,3 +7040,4 @@ If you need permission, you're thinking too much.
 | 6949 | 2026-05-05 22:13:56 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186794⭐ TypeScript) | [reels/reel_6949_n8n-io-n8n](reels/reel_6949_n8n-io-n8n) |
 | 6950 | 2026-05-05 23:12:44 | [MicrosoftDocs/azure-docs-sdk-python](https://github.com/MicrosoftDocs/azure-docs-sdk-python) | ✅ readme_only (164⭐ Python) | [reels/reel_6950_MicrosoftDocs-azure-docs-sdk-python](reels/reel_6950_MicrosoftDocs-azure-docs-sdk-python) |
 | 6951 | 2026-05-06 00:04:48 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (115834⭐ TypeScript) | [reels/reel_6951_clash-verge-rev-clash-verge-rev](reels/reel_6951_clash-verge-rev-clash-verge-rev) |
+| 6952 | 2026-05-06 04:04:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113617⭐ TypeScript) | [reels/reel_6952_shadcn-ui-ui](reels/reel_6952_shadcn-ui-ui) |
