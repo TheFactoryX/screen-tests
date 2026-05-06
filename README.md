@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6956 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 160k | 2026-05-06 |
+| #6957 | [ac-custom-shaders-patch/acc-extension-config](https://github.com/ac-custom-shaders-patch/acc-extension-config) | Lua · ⭐ 288 | 2026-05-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7045,3 +7045,4 @@ If you need permission, you're thinking too much.
 | 6954 | 2026-05-06 09:11:25 | [nuclia/nucliadb](https://github.com/nuclia/nucliadb) | ✅ full (719⭐ Python) | [reels/reel_6954_nuclia-nucliadb](reels/reel_6954_nuclia-nucliadb) |
 | 6955 | 2026-05-06 11:19:59 | [thecnical/cybermind](https://github.com/thecnical/cybermind) | ✅ readme_only (35⭐ Go) | [reels/reel_6955_thecnical-cybermind](reels/reel_6955_thecnical-cybermind) |
 | 6956 | 2026-05-06 13:11:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160774⭐ Python) | [reels/reel_6956_yt-dlp-yt-dlp](reels/reel_6956_yt-dlp-yt-dlp) |
+| 6957 | 2026-05-06 15:34:18 | [ac-custom-shaders-patch/acc-extension-config](https://github.com/ac-custom-shaders-patch/acc-extension-config) | ✅ readme_only (288⭐ Lua) | [reels/reel_6957_ac-custom-shaders-patch-acc-extension-config](reels/reel_6957_ac-custom-shaders-patch-acc-extension-config) |

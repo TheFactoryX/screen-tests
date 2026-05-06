@@ -1,0 +1,24 @@
+{
+  "reel_number": 6957,
+  "recorded": "2026-05-06 15:34:18 UTC",
+  "repository": {
+    "full_name": "ac-custom-shaders-patch/acc-extension-config",
+    "url": "https://github.com/ac-custom-shaders-patch/acc-extension-config",
+    "clone_url": "https://github.com/ac-custom-shaders-patch/acc-extension-config.git",
+    "stars": 288,
+    "language": "Lua",
+    "size_kb": 1688105
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1648,
+    "duration_seconds": 0.000141
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 288 stars."
+  }
+}
