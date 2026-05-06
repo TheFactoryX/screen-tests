@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6954 | [nuclia/nucliadb](https://github.com/nuclia/nucliadb) | Python · ⭐ 719 | 2026-05-06 |
+| #6955 | [thecnical/cybermind](https://github.com/thecnical/cybermind) | Go · ⭐ 35 | 2026-05-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7043,3 +7043,4 @@ If you need permission, you're thinking too much.
 | 6952 | 2026-05-06 04:04:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113617⭐ TypeScript) | [reels/reel_6952_shadcn-ui-ui](reels/reel_6952_shadcn-ui-ui) |
 | 6953 | 2026-05-06 06:44:43 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (432411⭐ Python) | [reels/reel_6953_public-apis-public-apis](reels/reel_6953_public-apis-public-apis) |
 | 6954 | 2026-05-06 09:11:25 | [nuclia/nucliadb](https://github.com/nuclia/nucliadb) | ✅ full (719⭐ Python) | [reels/reel_6954_nuclia-nucliadb](reels/reel_6954_nuclia-nucliadb) |
+| 6955 | 2026-05-06 11:19:59 | [thecnical/cybermind](https://github.com/thecnical/cybermind) | ✅ readme_only (35⭐ Go) | [reels/reel_6955_thecnical-cybermind](reels/reel_6955_thecnical-cybermind) |

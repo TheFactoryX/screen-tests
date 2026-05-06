@@ -1,0 +1,24 @@
+{
+  "reel_number": 6955,
+  "recorded": "2026-05-06 11:19:59 UTC",
+  "repository": {
+    "full_name": "thecnical/cybermind",
+    "url": "https://github.com/thecnical/cybermind",
+    "clone_url": "https://github.com/thecnical/cybermind.git",
+    "stars": 35,
+    "language": "Go",
+    "size_kb": 865028
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 844,
+    "duration_seconds": 0.000132
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 35 stars."
+  }
+}
