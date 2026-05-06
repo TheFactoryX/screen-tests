@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6960 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 432k | 2026-05-06 |
+| #6961 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 174k | 2026-05-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7049,3 +7049,4 @@ If you need permission, you're thinking too much.
 | 6958 | 2026-05-06 17:13:21 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (108642⭐ C++) | [reels/reel_6958_ggml-org-llama.cpp](reels/reel_6958_ggml-org-llama.cpp) |
 | 6959 | 2026-05-06 19:00:33 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (174571⭐ JavaScript) | [reels/reel_6959_affaan-m-everything-claude-code](reels/reel_6959_affaan-m-everything-claude-code) |
 | 6960 | 2026-05-06 20:45:40 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (432681⭐ Python) | [reels/reel_6960_public-apis-public-apis](reels/reel_6960_public-apis-public-apis) |
+| 6961 | 2026-05-06 21:55:14 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (174623⭐ JavaScript) | [reels/reel_6961_affaan-m-everything-claude-code](reels/reel_6961_affaan-m-everything-claude-code) |
