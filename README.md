@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6970 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 106k | 2026-05-07 |
+| #6971 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 160k | 2026-05-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7059,3 +7059,4 @@ If you need permission, you're thinking too much.
 | 6968 | 2026-05-07 12:27:28 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (108803⭐ C++) | [reels/reel_6968_ggml-org-llama.cpp](reels/reel_6968_ggml-org-llama.cpp) |
 | 6969 | 2026-05-07 15:13:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186972⭐ TypeScript) | [reels/reel_6969_n8n-io-n8n](reels/reel_6969_n8n-io-n8n) |
 | 6970 | 2026-05-07 17:04:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (106314⭐ Rust) | [reels/reel_6970_tauri-apps-tauri](reels/reel_6970_tauri-apps-tauri) |
+| 6971 | 2026-05-07 18:58:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160963⭐ Python) | [reels/reel_6971_yt-dlp-yt-dlp](reels/reel_6971_yt-dlp-yt-dlp) |
