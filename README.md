@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6968 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 108k | 2026-05-07 |
+| #6969 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 186k | 2026-05-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7057,3 +7057,4 @@ If you need permission, you're thinking too much.
 | 6966 | 2026-05-07 08:30:47 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (174948⭐ JavaScript) | [reels/reel_6966_affaan-m-everything-claude-code](reels/reel_6966_affaan-m-everything-claude-code) |
 | 6967 | 2026-05-07 10:52:57 | [RevenueCat/purchases-android](https://github.com/RevenueCat/purchases-android) | ✅ full (528⭐ Kotlin) | [reels/reel_6967_RevenueCat-purchases-android](reels/reel_6967_RevenueCat-purchases-android) |
 | 6968 | 2026-05-07 12:27:28 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (108803⭐ C++) | [reels/reel_6968_ggml-org-llama.cpp](reels/reel_6968_ggml-org-llama.cpp) |
+| 6969 | 2026-05-07 15:13:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186972⭐ TypeScript) | [reels/reel_6969_n8n-io-n8n](reels/reel_6969_n8n-io-n8n) |
