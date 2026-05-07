@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6971 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 160k | 2026-05-07 |
+| #6972 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7060,3 +7060,4 @@ If you need permission, you're thinking too much.
 | 6969 | 2026-05-07 15:13:28 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (186972⭐ TypeScript) | [reels/reel_6969_n8n-io-n8n](reels/reel_6969_n8n-io-n8n) |
 | 6970 | 2026-05-07 17:04:13 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (106314⭐ Rust) | [reels/reel_6970_tauri-apps-tauri](reels/reel_6970_tauri-apps-tauri) |
 | 6971 | 2026-05-07 18:58:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160963⭐ Python) | [reels/reel_6971_yt-dlp-yt-dlp](reels/reel_6971_yt-dlp-yt-dlp) |
+| 6972 | 2026-05-07 20:18:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116008⭐ TypeScript) | [reels/reel_6972_iptv-org-iptv](reels/reel_6972_iptv-org-iptv) |
