@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6973 | [Official-MoonDao/MoonDAO](https://github.com/Official-MoonDao/MoonDAO) | TypeScript · ⭐ 18 | 2026-05-07 |
+| #6974 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 135k | 2026-05-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7062,3 +7062,4 @@ If you need permission, you're thinking too much.
 | 6971 | 2026-05-07 18:58:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (160963⭐ Python) | [reels/reel_6971_yt-dlp-yt-dlp](reels/reel_6971_yt-dlp-yt-dlp) |
 | 6972 | 2026-05-07 20:18:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116008⭐ TypeScript) | [reels/reel_6972_iptv-org-iptv](reels/reel_6972_iptv-org-iptv) |
 | 6973 | 2026-05-07 21:30:03 | [Official-MoonDao/MoonDAO](https://github.com/Official-MoonDao/MoonDAO) | ✅ shallow (18⭐ TypeScript) | [reels/reel_6973_Official-MoonDao-MoonDAO](reels/reel_6973_Official-MoonDao-MoonDAO) |
+| 6974 | 2026-05-07 22:36:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (135967⭐ Python) | [reels/reel_6974_open-webui-open-webui](reels/reel_6974_open-webui-open-webui) |
