@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6965 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 112k | 2026-05-07 |
+| #6966 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 174k | 2026-05-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7054,3 +7054,4 @@ If you need permission, you're thinking too much.
 | 6963 | 2026-05-06 23:50:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (115974⭐ TypeScript) | [reels/reel_6963_iptv-org-iptv](reels/reel_6963_iptv-org-iptv) |
 | 6964 | 2026-05-07 02:42:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184040⭐ Python) | [reels/reel_6964_Significant-Gravitas-AutoGPT](reels/reel_6964_Significant-Gravitas-AutoGPT) |
 | 6965 | 2026-05-07 05:48:53 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112579⭐ Rust) | [reels/reel_6965_rust-lang-rust](reels/reel_6965_rust-lang-rust) |
+| 6966 | 2026-05-07 08:30:47 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (174948⭐ JavaScript) | [reels/reel_6966_affaan-m-everything-claude-code](reels/reel_6966_affaan-m-everything-claude-code) |
