@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6983 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-08 |
+| #6984 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 103k | 2026-05-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7072,3 +7072,4 @@ If you need permission, you're thinking too much.
 | 6981 | 2026-05-08 11:12:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184088⭐ Python) | [reels/reel_6981_Significant-Gravitas-AutoGPT](reels/reel_6981_Significant-Gravitas-AutoGPT) |
 | 6982 | 2026-05-08 12:19:12 | [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) | ✅ full (502⭐ Ruby) | [reels/reel_6982_exoego-rspec-openapi](reels/reel_6982_exoego-rspec-openapi) |
 | 6983 | 2026-05-08 14:21:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116030⭐ TypeScript) | [reels/reel_6983_iptv-org-iptv](reels/reel_6983_iptv-org-iptv) |
+| 6984 | 2026-05-08 15:57:49 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (103437⭐ TypeScript) | [reels/reel_6984_google-gemini-gemini-cli](reels/reel_6984_google-gemini-gemini-cli) |
