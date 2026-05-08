@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6989 | [mulshine/voxworld](https://github.com/mulshine/voxworld) | C · ⭐ 11 | 2026-05-08 |
+| #6990 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 161k | 2026-05-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7078,3 +7078,4 @@ If you need permission, you're thinking too much.
 | 6987 | 2026-05-08 20:05:50 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (175841⭐ JavaScript) | [reels/reel_6987_affaan-m-everything-claude-code](reels/reel_6987_affaan-m-everything-claude-code) |
 | 6988 | 2026-05-08 21:15:00 | [smithersai/smithers](https://github.com/smithersai/smithers) | ✅ shallow (158⭐ JavaScript) | [reels/reel_6988_smithersai-smithers](reels/reel_6988_smithersai-smithers) |
 | 6989 | 2026-05-08 22:12:54 | [mulshine/voxworld](https://github.com/mulshine/voxworld) | ✅ full (11⭐ C) | [reels/reel_6989_mulshine-voxworld](reels/reel_6989_mulshine-voxworld) |
+| 6990 | 2026-05-08 23:11:03 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (161148⭐ Python) | [reels/reel_6990_yt-dlp-yt-dlp](reels/reel_6990_yt-dlp-yt-dlp) |
