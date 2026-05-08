@@ -1,0 +1,24 @@
+{
+  "reel_number": 6989,
+  "recorded": "2026-05-08 22:12:54 UTC",
+  "repository": {
+    "full_name": "mulshine/voxworld",
+    "url": "https://github.com/mulshine/voxworld",
+    "clone_url": "https://github.com/mulshine/voxworld.git",
+    "stars": 11,
+    "language": "C",
+    "size_kb": 69247
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 67,
+    "duration_seconds": 5.871722
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 11 stars."
+  }
+}
