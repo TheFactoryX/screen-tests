@@ -1,0 +1,24 @@
+{
+  "reel_number": 6980,
+  "recorded": "2026-05-08 09:51:50 UTC",
+  "repository": {
+    "full_name": "webpack/enhanced-resolve",
+    "url": "https://github.com/webpack/enhanced-resolve",
+    "clone_url": "https://github.com/webpack/enhanced-resolve.git",
+    "stars": 983,
+    "language": "JavaScript",
+    "size_kb": 2471
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.475051
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 983 stars."
+  }
+}

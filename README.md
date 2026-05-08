@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6979 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-05-08 |
+| #6980 | [webpack/enhanced-resolve](https://github.com/webpack/enhanced-resolve) | JavaScript · ⭐ 983 | 2026-05-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7068,3 +7068,4 @@ If you need permission, you're thinking too much.
 | 6977 | 2026-05-08 04:34:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (187021⭐ TypeScript) | [reels/reel_6977_n8n-io-n8n](reels/reel_6977_n8n-io-n8n) |
 | 6978 | 2026-05-08 06:20:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184069⭐ Python) | [reels/reel_6978_Significant-Gravitas-AutoGPT](reels/reel_6978_Significant-Gravitas-AutoGPT) |
 | 6979 | 2026-05-08 08:07:12 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140221⭐ Python) | [reels/reel_6979_ytdl-org-youtube-dl](reels/reel_6979_ytdl-org-youtube-dl) |
+| 6980 | 2026-05-08 09:51:50 | [webpack/enhanced-resolve](https://github.com/webpack/enhanced-resolve) | ✅ full (983⭐ JavaScript) | [reels/reel_6980_webpack-enhanced-resolve](reels/reel_6980_webpack-enhanced-resolve) |
