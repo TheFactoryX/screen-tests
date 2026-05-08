@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6981 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-05-08 |
+| #6982 | [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) | Ruby · ⭐ 502 | 2026-05-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7070,3 +7070,4 @@ If you need permission, you're thinking too much.
 | 6979 | 2026-05-08 08:07:12 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140221⭐ Python) | [reels/reel_6979_ytdl-org-youtube-dl](reels/reel_6979_ytdl-org-youtube-dl) |
 | 6980 | 2026-05-08 09:51:50 | [webpack/enhanced-resolve](https://github.com/webpack/enhanced-resolve) | ✅ full (983⭐ JavaScript) | [reels/reel_6980_webpack-enhanced-resolve](reels/reel_6980_webpack-enhanced-resolve) |
 | 6981 | 2026-05-08 11:12:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184088⭐ Python) | [reels/reel_6981_Significant-Gravitas-AutoGPT](reels/reel_6981_Significant-Gravitas-AutoGPT) |
+| 6982 | 2026-05-08 12:19:12 | [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) | ✅ full (502⭐ Ruby) | [reels/reel_6982_exoego-rspec-openapi](reels/reel_6982_exoego-rspec-openapi) |

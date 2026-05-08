@@ -1,0 +1,24 @@
+{
+  "reel_number": 6982,
+  "recorded": "2026-05-08 12:19:12 UTC",
+  "repository": {
+    "full_name": "exoego/rspec-openapi",
+    "url": "https://github.com/exoego/rspec-openapi",
+    "clone_url": "https://github.com/exoego/rspec-openapi.git",
+    "stars": 502,
+    "language": "Ruby",
+    "size_kb": 1187
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.946653
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 502 stars."
+  }
+}
