@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6985 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 433k | 2026-05-08 |
+| #6986 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 161k | 2026-05-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7074,3 +7074,4 @@ If you need permission, you're thinking too much.
 | 6983 | 2026-05-08 14:21:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116030⭐ TypeScript) | [reels/reel_6983_iptv-org-iptv](reels/reel_6983_iptv-org-iptv) |
 | 6984 | 2026-05-08 15:57:49 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (103437⭐ TypeScript) | [reels/reel_6984_google-gemini-gemini-cli](reels/reel_6984_google-gemini-gemini-cli) |
 | 6985 | 2026-05-08 17:23:42 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (433293⭐ Python) | [reels/reel_6985_public-apis-public-apis](reels/reel_6985_public-apis-public-apis) |
+| 6986 | 2026-05-08 18:50:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (161138⭐ Python) | [reels/reel_6986_yt-dlp-yt-dlp](reels/reel_6986_yt-dlp-yt-dlp) |
