@@ -1,0 +1,24 @@
+{
+  "reel_number": 6988,
+  "recorded": "2026-05-08 21:15:00 UTC",
+  "repository": {
+    "full_name": "smithersai/smithers",
+    "url": "https://github.com/smithersai/smithers",
+    "clone_url": "https://github.com/smithersai/smithers.git",
+    "stars": 158,
+    "language": "JavaScript",
+    "size_kb": 131659
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 128,
+    "duration_seconds": 1.142812
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 158 stars."
+  }
+}
