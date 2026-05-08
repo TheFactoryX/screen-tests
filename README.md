@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6975 | [LordOfDragons/dragengine](https://github.com/LordOfDragons/dragengine) | C++ · ⭐ 85 | 2026-05-07 |
+| #6976 | [hqhq1025/ai-course-notes](https://github.com/hqhq1025/ai-course-notes) | TeX · ⭐ 108 | 2026-05-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7064,3 +7064,4 @@ If you need permission, you're thinking too much.
 | 6973 | 2026-05-07 21:30:03 | [Official-MoonDao/MoonDAO](https://github.com/Official-MoonDao/MoonDAO) | ✅ shallow (18⭐ TypeScript) | [reels/reel_6973_Official-MoonDao-MoonDAO](reels/reel_6973_Official-MoonDao-MoonDAO) |
 | 6974 | 2026-05-07 22:36:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (135967⭐ Python) | [reels/reel_6974_open-webui-open-webui](reels/reel_6974_open-webui-open-webui) |
 | 6975 | 2026-05-07 23:34:51 | [LordOfDragons/dragengine](https://github.com/LordOfDragons/dragengine) | ✅ shallow (85⭐ C++) | [reels/reel_6975_LordOfDragons-dragengine](reels/reel_6975_LordOfDragons-dragengine) |
+| 6976 | 2026-05-08 01:24:09 | [hqhq1025/ai-course-notes](https://github.com/hqhq1025/ai-course-notes) | ✅ readme_only (108⭐ TeX) | [reels/reel_6976_hqhq1025-ai-course-notes](reels/reel_6976_hqhq1025-ai-course-notes) |

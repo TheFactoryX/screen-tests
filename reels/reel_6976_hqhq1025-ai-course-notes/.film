@@ -1,0 +1,24 @@
+{
+  "reel_number": 6976,
+  "recorded": "2026-05-08 01:24:09 UTC",
+  "repository": {
+    "full_name": "hqhq1025/ai-course-notes",
+    "url": "https://github.com/hqhq1025/ai-course-notes",
+    "clone_url": "https://github.com/hqhq1025/ai-course-notes.git",
+    "stars": 108,
+    "language": "TeX",
+    "size_kb": 3572211
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 3488,
+    "duration_seconds": 0.000132
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TeX",
+    "director_note": "A TeX repository. 108 stars."
+  }
+}
