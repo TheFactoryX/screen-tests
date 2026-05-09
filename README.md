@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6993 | [GubernievS/AntiZapret-VPN](https://github.com/GubernievS/AntiZapret-VPN) | Shell · ⭐ 651 | 2026-05-09 |
+| #6994 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 187k | 2026-05-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7082,3 +7082,4 @@ If you need permission, you're thinking too much.
 | 6991 | 2026-05-09 00:09:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (187134⭐ TypeScript) | [reels/reel_6991_n8n-io-n8n](reels/reel_6991_n8n-io-n8n) |
 | 6992 | 2026-05-09 03:54:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (291015⭐ None) | [reels/reel_6992_awesome-selfhosted-awesome-selfhosted](reels/reel_6992_awesome-selfhosted-awesome-selfhosted) |
 | 6993 | 2026-05-09 06:13:35 | [GubernievS/AntiZapret-VPN](https://github.com/GubernievS/AntiZapret-VPN) | ✅ full (651⭐ Shell) | [reels/reel_6993_GubernievS-AntiZapret-VPN](reels/reel_6993_GubernievS-AntiZapret-VPN) |
+| 6994 | 2026-05-09 08:12:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (187180⭐ TypeScript) | [reels/reel_6994_n8n-io-n8n](reels/reel_6994_n8n-io-n8n) |
