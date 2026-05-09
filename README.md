@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7002 | [blueshift-gg/quasar](https://github.com/blueshift-gg/quasar) | Rust · ⭐ 148 | 2026-05-09 |
+| #7003 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 161k | 2026-05-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7091,3 +7091,4 @@ If you need permission, you're thinking too much.
 | 7000 | 2026-05-09 15:13:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (433483⭐ Python) | [reels/reel_7000_public-apis-public-apis](reels/reel_7000_public-apis-public-apis) |
 | 7001 | 2026-05-09 16:09:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184117⭐ Python) | [reels/reel_7001_Significant-Gravitas-AutoGPT](reels/reel_7001_Significant-Gravitas-AutoGPT) |
 | 7002 | 2026-05-09 17:11:56 | [blueshift-gg/quasar](https://github.com/blueshift-gg/quasar) | ✅ full (148⭐ Rust) | [reels/reel_7002_blueshift-gg-quasar](reels/reel_7002_blueshift-gg-quasar) |
+| 7003 | 2026-05-09 18:04:59 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (161306⭐ Python) | [reels/reel_7003_yt-dlp-yt-dlp](reels/reel_7003_yt-dlp-yt-dlp) |
