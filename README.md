@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6999 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-05-09 |
+| #7000 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 433k | 2026-05-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7088,3 +7088,4 @@ If you need permission, you're thinking too much.
 | 6997 | 2026-05-09 11:33:50 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (500045⭐ Markdown) | [reels/reel_6997_codecrafters-io-build-your-own-x](reels/reel_6997_codecrafters-io-build-your-own-x) |
 | 6998 | 2026-05-09 12:41:21 | [openrndr/openrndr-examples](https://github.com/openrndr/openrndr-examples) | ✅ full (32⭐ Kotlin) | [reels/reel_6998_openrndr-openrndr-examples](reels/reel_6998_openrndr-openrndr-examples) |
 | 6999 | 2026-05-09 14:06:10 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184114⭐ Python) | [reels/reel_6999_Significant-Gravitas-AutoGPT](reels/reel_6999_Significant-Gravitas-AutoGPT) |
+| 7000 | 2026-05-09 15:13:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (433483⭐ Python) | [reels/reel_7000_public-apis-public-apis](reels/reel_7000_public-apis-public-apis) |
