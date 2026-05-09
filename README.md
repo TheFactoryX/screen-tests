@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6997 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 500k | 2026-05-09 |
+| #6998 | [openrndr/openrndr-examples](https://github.com/openrndr/openrndr-examples) | Kotlin · ⭐ 32 | 2026-05-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7086,3 +7086,4 @@ If you need permission, you're thinking too much.
 | 6995 | 2026-05-09 09:43:50 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140232⭐ Python) | [reels/reel_6995_ytdl-org-youtube-dl](reels/reel_6995_ytdl-org-youtube-dl) |
 | 6996 | 2026-05-09 10:38:48 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (433438⭐ Python) | [reels/reel_6996_public-apis-public-apis](reels/reel_6996_public-apis-public-apis) |
 | 6997 | 2026-05-09 11:33:50 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (500045⭐ Markdown) | [reels/reel_6997_codecrafters-io-build-your-own-x](reels/reel_6997_codecrafters-io-build-your-own-x) |
+| 6998 | 2026-05-09 12:41:21 | [openrndr/openrndr-examples](https://github.com/openrndr/openrndr-examples) | ✅ full (32⭐ Kotlin) | [reels/reel_6998_openrndr-openrndr-examples](reels/reel_6998_openrndr-openrndr-examples) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 6998,
+  "recorded": "2026-05-09 12:41:21 UTC",
+  "repository": {
+    "full_name": "openrndr/openrndr-examples",
+    "url": "https://github.com/openrndr/openrndr-examples",
+    "clone_url": "https://github.com/openrndr/openrndr-examples.git",
+    "stars": 32,
+    "language": "Kotlin",
+    "size_kb": 860
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.238521
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 32 stars."
+  }
+}
