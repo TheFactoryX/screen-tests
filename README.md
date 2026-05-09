@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6990 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 161k | 2026-05-08 |
+| #6991 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 187k | 2026-05-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7079,3 +7079,4 @@ If you need permission, you're thinking too much.
 | 6988 | 2026-05-08 21:15:00 | [smithersai/smithers](https://github.com/smithersai/smithers) | ✅ shallow (158⭐ JavaScript) | [reels/reel_6988_smithersai-smithers](reels/reel_6988_smithersai-smithers) |
 | 6989 | 2026-05-08 22:12:54 | [mulshine/voxworld](https://github.com/mulshine/voxworld) | ✅ full (11⭐ C) | [reels/reel_6989_mulshine-voxworld](reels/reel_6989_mulshine-voxworld) |
 | 6990 | 2026-05-08 23:11:03 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (161148⭐ Python) | [reels/reel_6990_yt-dlp-yt-dlp](reels/reel_6990_yt-dlp-yt-dlp) |
+| 6991 | 2026-05-09 00:09:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (187134⭐ TypeScript) | [reels/reel_6991_n8n-io-n8n](reels/reel_6991_n8n-io-n8n) |
