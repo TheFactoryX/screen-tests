@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7005 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 176k | 2026-05-09 |
+| #7006 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7094,3 +7094,4 @@ If you need permission, you're thinking too much.
 | 7003 | 2026-05-09 18:04:59 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (161306⭐ Python) | [reels/reel_7003_yt-dlp-yt-dlp](reels/reel_7003_yt-dlp-yt-dlp) |
 | 7004 | 2026-05-09 19:32:16 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (176598⭐ JavaScript) | [reels/reel_7004_affaan-m-everything-claude-code](reels/reel_7004_affaan-m-everything-claude-code) |
 | 7005 | 2026-05-09 20:25:25 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (176635⭐ JavaScript) | [reels/reel_7005_affaan-m-everything-claude-code](reels/reel_7005_affaan-m-everything-claude-code) |
+| 7006 | 2026-05-09 21:08:44 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136252⭐ Python) | [reels/reel_7006_langchain-ai-langchain](reels/reel_7006_langchain-ai-langchain) |
