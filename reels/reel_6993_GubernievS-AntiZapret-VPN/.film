@@ -1,0 +1,24 @@
+{
+  "reel_number": 6993,
+  "recorded": "2026-05-09 06:13:35 UTC",
+  "repository": {
+    "full_name": "GubernievS/AntiZapret-VPN",
+    "url": "https://github.com/GubernievS/AntiZapret-VPN",
+    "clone_url": "https://github.com/GubernievS/AntiZapret-VPN.git",
+    "stars": 651,
+    "language": "Shell",
+    "size_kb": 6636
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.587542
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 651 stars."
+  }
+}
