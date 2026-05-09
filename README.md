@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #6995 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-05-09 |
+| #6996 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 433k | 2026-05-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7084,3 +7084,4 @@ If you need permission, you're thinking too much.
 | 6993 | 2026-05-09 06:13:35 | [GubernievS/AntiZapret-VPN](https://github.com/GubernievS/AntiZapret-VPN) | ✅ full (651⭐ Shell) | [reels/reel_6993_GubernievS-AntiZapret-VPN](reels/reel_6993_GubernievS-AntiZapret-VPN) |
 | 6994 | 2026-05-09 08:12:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (187180⭐ TypeScript) | [reels/reel_6994_n8n-io-n8n](reels/reel_6994_n8n-io-n8n) |
 | 6995 | 2026-05-09 09:43:50 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140232⭐ Python) | [reels/reel_6995_ytdl-org-youtube-dl](reels/reel_6995_ytdl-org-youtube-dl) |
+| 6996 | 2026-05-09 10:38:48 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (433438⭐ Python) | [reels/reel_6996_public-apis-public-apis](reels/reel_6996_public-apis-public-apis) |
