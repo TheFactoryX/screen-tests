@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7009 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 116k | 2026-05-10 |
+| #7010 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 500k | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7098,3 +7098,4 @@ If you need permission, you're thinking too much.
 | 7007 | 2026-05-09 22:00:44 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (705⭐ Tcl) | [reels/reel_7007_rust-lang-crates.io-index](reels/reel_7007_rust-lang-crates.io-index) |
 | 7008 | 2026-05-09 23:04:22 | [Lars-/PIA-servers](https://github.com/Lars-/PIA-servers) | ✅ readme_only (136⭐ None) | [reels/reel_7008_Lars--PIA-servers](reels/reel_7008_Lars--PIA-servers) |
 | 7009 | 2026-05-10 00:03:31 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (116895⭐ TypeScript) | [reels/reel_7009_clash-verge-rev-clash-verge-rev](reels/reel_7009_clash-verge-rev-clash-verge-rev) |
+| 7010 | 2026-05-10 04:14:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (500140⭐ Markdown) | [reels/reel_7010_codecrafters-io-build-your-own-x](reels/reel_7010_codecrafters-io-build-your-own-x) |
