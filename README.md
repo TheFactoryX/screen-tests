@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7017 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 117k | 2026-05-10 |
+| #7018 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7106,3 +7106,4 @@ If you need permission, you're thinking too much.
 | 7015 | 2026-05-10 12:04:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113951⭐ TypeScript) | [reels/reel_7015_shadcn-ui-ui](reels/reel_7015_shadcn-ui-ui) |
 | 7016 | 2026-05-10 13:55:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116098⭐ TypeScript) | [reels/reel_7016_iptv-org-iptv](reels/reel_7016_iptv-org-iptv) |
 | 7017 | 2026-05-10 14:50:52 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (117057⭐ TypeScript) | [reels/reel_7017_clash-verge-rev-clash-verge-rev](reels/reel_7017_clash-verge-rev-clash-verge-rev) |
+| 7018 | 2026-05-10 15:51:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136307⭐ Python) | [reels/reel_7018_langchain-ai-langchain](reels/reel_7018_langchain-ai-langchain) |
