@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7022 | [Cap-go/capacitor-updater](https://github.com/Cap-go/capacitor-updater) | Java · ⭐ 757 | 2026-05-10 |
+| #7023 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 291k | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7111,3 +7111,4 @@ If you need permission, you're thinking too much.
 | 7020 | 2026-05-10 17:50:55 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ✅ full (123371⭐ None) | [reels/reel_7020_forrestchang-andrej-karpathy-skills](reels/reel_7020_forrestchang-andrej-karpathy-skills) |
 | 7021 | 2026-05-10 19:00:23 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (433806⭐ Python) | [reels/reel_7021_public-apis-public-apis](reels/reel_7021_public-apis-public-apis) |
 | 7022 | 2026-05-10 20:03:50 | [Cap-go/capacitor-updater](https://github.com/Cap-go/capacitor-updater) | ✅ full (757⭐ Java) | [reels/reel_7022_Cap-go-capacitor-updater](reels/reel_7022_Cap-go-capacitor-updater) |
+| 7023 | 2026-05-10 21:05:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (291354⭐ None) | [reels/reel_7023_awesome-selfhosted-awesome-selfhosted](reels/reel_7023_awesome-selfhosted-awesome-selfhosted) |
