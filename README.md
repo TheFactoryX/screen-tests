@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7012 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-10 |
+| #7013 | [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) | Python · ⭐ 153 | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7101,3 +7101,4 @@ If you need permission, you're thinking too much.
 | 7010 | 2026-05-10 04:14:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (500140⭐ Markdown) | [reels/reel_7010_codecrafters-io-build-your-own-x](reels/reel_7010_codecrafters-io-build-your-own-x) |
 | 7011 | 2026-05-10 06:45:49 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140236⭐ Python) | [reels/reel_7011_ytdl-org-youtube-dl](reels/reel_7011_ytdl-org-youtube-dl) |
 | 7012 | 2026-05-10 08:51:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116084⭐ TypeScript) | [reels/reel_7012_iptv-org-iptv](reels/reel_7012_iptv-org-iptv) |
+| 7013 | 2026-05-10 10:12:46 | [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) | ✅ full (153⭐ Python) | [reels/reel_7013_baidu-baige-LoongForge](reels/reel_7013_baidu-baige-LoongForge) |
