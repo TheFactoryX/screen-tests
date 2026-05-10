@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7015 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 113k | 2026-05-10 |
+| #7016 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7104,3 +7104,4 @@ If you need permission, you're thinking too much.
 | 7013 | 2026-05-10 10:12:46 | [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) | ✅ full (153⭐ Python) | [reels/reel_7013_baidu-baige-LoongForge](reels/reel_7013_baidu-baige-LoongForge) |
 | 7014 | 2026-05-10 11:14:37 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (103577⭐ TypeScript) | [reels/reel_7014_google-gemini-gemini-cli](reels/reel_7014_google-gemini-gemini-cli) |
 | 7015 | 2026-05-10 12:04:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113951⭐ TypeScript) | [reels/reel_7015_shadcn-ui-ui](reels/reel_7015_shadcn-ui-ui) |
+| 7016 | 2026-05-10 13:55:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116098⭐ TypeScript) | [reels/reel_7016_iptv-org-iptv](reels/reel_7016_iptv-org-iptv) |
