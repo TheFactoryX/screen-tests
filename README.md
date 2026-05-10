@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7023 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 291k | 2026-05-10 |
+| #7024 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 161k | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7112,3 +7112,4 @@ If you need permission, you're thinking too much.
 | 7021 | 2026-05-10 19:00:23 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (433806⭐ Python) | [reels/reel_7021_public-apis-public-apis](reels/reel_7021_public-apis-public-apis) |
 | 7022 | 2026-05-10 20:03:50 | [Cap-go/capacitor-updater](https://github.com/Cap-go/capacitor-updater) | ✅ full (757⭐ Java) | [reels/reel_7022_Cap-go-capacitor-updater](reels/reel_7022_Cap-go-capacitor-updater) |
 | 7023 | 2026-05-10 21:05:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (291354⭐ None) | [reels/reel_7023_awesome-selfhosted-awesome-selfhosted](reels/reel_7023_awesome-selfhosted-awesome-selfhosted) |
+| 7024 | 2026-05-10 22:04:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (161511⭐ Python) | [reels/reel_7024_yt-dlp-yt-dlp](reels/reel_7024_yt-dlp-yt-dlp) |
