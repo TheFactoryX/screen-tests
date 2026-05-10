@@ -1,0 +1,24 @@
+{
+  "reel_number": 7020,
+  "recorded": "2026-05-10 17:50:55 UTC",
+  "repository": {
+    "full_name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "clone_url": "https://github.com/forrestchang/andrej-karpathy-skills.git",
+    "stars": 123371,
+    "language": null,
+    "size_kb": 20
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.132802
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 123371 stars."
+  }
+}

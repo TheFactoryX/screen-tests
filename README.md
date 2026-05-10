@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7019 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 117k | 2026-05-10 |
+| #7020 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | None · ⭐ 123k | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7108,3 +7108,4 @@ If you need permission, you're thinking too much.
 | 7017 | 2026-05-10 14:50:52 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (117057⭐ TypeScript) | [reels/reel_7017_clash-verge-rev-clash-verge-rev](reels/reel_7017_clash-verge-rev-clash-verge-rev) |
 | 7018 | 2026-05-10 15:51:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136307⭐ Python) | [reels/reel_7018_langchain-ai-langchain](reels/reel_7018_langchain-ai-langchain) |
 | 7019 | 2026-05-10 16:53:25 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (117079⭐ TypeScript) | [reels/reel_7019_clash-verge-rev-clash-verge-rev](reels/reel_7019_clash-verge-rev-clash-verge-rev) |
+| 7020 | 2026-05-10 17:50:55 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ✅ full (123371⭐ None) | [reels/reel_7020_forrestchang-andrej-karpathy-skills](reels/reel_7020_forrestchang-andrej-karpathy-skills) |
