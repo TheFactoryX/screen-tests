@@ -1,0 +1,24 @@
+{
+  "reel_number": 7022,
+  "recorded": "2026-05-10 20:03:50 UTC",
+  "repository": {
+    "full_name": "Cap-go/capacitor-updater",
+    "url": "https://github.com/Cap-go/capacitor-updater",
+    "clone_url": "https://github.com/Cap-go/capacitor-updater.git",
+    "stars": 757,
+    "language": "Java",
+    "size_kb": 7820
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.590753
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 757 stars."
+  }
+}
