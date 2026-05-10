@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7013 | [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) | Python · ⭐ 153 | 2026-05-10 |
+| #7014 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 103k | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7102,3 +7102,4 @@ If you need permission, you're thinking too much.
 | 7011 | 2026-05-10 06:45:49 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140236⭐ Python) | [reels/reel_7011_ytdl-org-youtube-dl](reels/reel_7011_ytdl-org-youtube-dl) |
 | 7012 | 2026-05-10 08:51:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116084⭐ TypeScript) | [reels/reel_7012_iptv-org-iptv](reels/reel_7012_iptv-org-iptv) |
 | 7013 | 2026-05-10 10:12:46 | [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) | ✅ full (153⭐ Python) | [reels/reel_7013_baidu-baige-LoongForge](reels/reel_7013_baidu-baige-LoongForge) |
+| 7014 | 2026-05-10 11:14:37 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (103577⭐ TypeScript) | [reels/reel_7014_google-gemini-gemini-cli](reels/reel_7014_google-gemini-gemini-cli) |
