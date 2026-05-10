@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7016 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-10 |
+| #7017 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 117k | 2026-05-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7105,3 +7105,4 @@ If you need permission, you're thinking too much.
 | 7014 | 2026-05-10 11:14:37 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (103577⭐ TypeScript) | [reels/reel_7014_google-gemini-gemini-cli](reels/reel_7014_google-gemini-gemini-cli) |
 | 7015 | 2026-05-10 12:04:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (113951⭐ TypeScript) | [reels/reel_7015_shadcn-ui-ui](reels/reel_7015_shadcn-ui-ui) |
 | 7016 | 2026-05-10 13:55:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116098⭐ TypeScript) | [reels/reel_7016_iptv-org-iptv](reels/reel_7016_iptv-org-iptv) |
+| 7017 | 2026-05-10 14:50:52 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (117057⭐ TypeScript) | [reels/reel_7017_clash-verge-rev-clash-verge-rev](reels/reel_7017_clash-verge-rev-clash-verge-rev) |
