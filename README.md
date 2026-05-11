@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7028 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 136k | 2026-05-11 |
+| #7029 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7117,3 +7117,4 @@ If you need permission, you're thinking too much.
 | 7026 | 2026-05-11 00:07:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (433850⭐ Python) | [reels/reel_7026_public-apis-public-apis](reels/reel_7026_public-apis-public-apis) |
 | 7027 | 2026-05-11 04:35:48 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (187379⭐ TypeScript) | [reels/reel_7027_n8n-io-n8n](reels/reel_7027_n8n-io-n8n) |
 | 7028 | 2026-05-11 08:05:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (136548⭐ Python) | [reels/reel_7028_open-webui-open-webui](reels/reel_7028_open-webui-open-webui) |
+| 7029 | 2026-05-11 11:35:36 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147955⭐ Python) | [reels/reel_7029_langflow-ai-langflow](reels/reel_7029_langflow-ai-langflow) |
