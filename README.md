@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7033 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 112k | 2026-05-11 |
+| #7034 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7122,3 +7122,4 @@ If you need permission, you're thinking too much.
 | 7031 | 2026-05-11 16:46:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147967⭐ Python) | [reels/reel_7031_langflow-ai-langflow](reels/reel_7031_langflow-ai-langflow) |
 | 7032 | 2026-05-11 18:56:45 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (179405⭐ JavaScript) | [reels/reel_7032_affaan-m-everything-claude-code](reels/reel_7032_affaan-m-everything-claude-code) |
 | 7033 | 2026-05-11 20:47:17 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (112462⭐ Python) | [reels/reel_7033_Comfy-Org-ComfyUI](reels/reel_7033_Comfy-Org-ComfyUI) |
+| 7034 | 2026-05-11 22:05:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147985⭐ Python) | [reels/reel_7034_langflow-ai-langflow](reels/reel_7034_langflow-ai-langflow) |
