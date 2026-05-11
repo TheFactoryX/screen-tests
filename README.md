@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7030 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-11 |
+| #7031 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 147k | 2026-05-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7119,3 +7119,4 @@ If you need permission, you're thinking too much.
 | 7028 | 2026-05-11 08:05:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (136548⭐ Python) | [reels/reel_7028_open-webui-open-webui](reels/reel_7028_open-webui-open-webui) |
 | 7029 | 2026-05-11 11:35:36 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147955⭐ Python) | [reels/reel_7029_langflow-ai-langflow](reels/reel_7029_langflow-ai-langflow) |
 | 7030 | 2026-05-11 14:07:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136414⭐ Python) | [reels/reel_7030_langchain-ai-langchain](reels/reel_7030_langchain-ai-langchain) |
+| 7031 | 2026-05-11 16:46:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (147967⭐ Python) | [reels/reel_7031_langflow-ai-langflow](reels/reel_7031_langflow-ai-langflow) |
