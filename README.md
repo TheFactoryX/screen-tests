@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7041 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 117k | 2026-05-12 |
+| #7042 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 136k | 2026-05-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7130,3 +7130,4 @@ If you need permission, you're thinking too much.
 | 7039 | 2026-05-12 09:35:54 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114113⭐ TypeScript) | [reels/reel_7039_shadcn-ui-ui](reels/reel_7039_shadcn-ui-ui) |
 | 7040 | 2026-05-12 11:33:42 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114120⭐ TypeScript) | [reels/reel_7040_shadcn-ui-ui](reels/reel_7040_shadcn-ui-ui) |
 | 7041 | 2026-05-12 13:26:00 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (117580⭐ TypeScript) | [reels/reel_7041_clash-verge-rev-clash-verge-rev](reels/reel_7041_clash-verge-rev-clash-verge-rev) |
+| 7042 | 2026-05-12 16:00:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (136767⭐ Python) | [reels/reel_7042_open-webui-open-webui](reels/reel_7042_open-webui-open-webui) |
