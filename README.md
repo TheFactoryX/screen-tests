@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7045 | [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) | Kotlin · ⭐ 942 | 2026-05-12 |
+| #7046 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 500k | 2026-05-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7134,3 +7134,4 @@ If you need permission, you're thinking too much.
 | 7043 | 2026-05-12 18:16:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116165⭐ TypeScript) | [reels/reel_7043_iptv-org-iptv](reels/reel_7043_iptv-org-iptv) |
 | 7044 | 2026-05-12 20:13:59 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (103799⭐ TypeScript) | [reels/reel_7044_google-gemini-gemini-cli](reels/reel_7044_google-gemini-gemini-cli) |
 | 7045 | 2026-05-12 21:40:41 | [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) | ✅ full (942⭐ Kotlin) | [reels/reel_7045_GrapheneOS-PdfViewer](reels/reel_7045_GrapheneOS-PdfViewer) |
+| 7046 | 2026-05-12 22:45:22 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (500943⭐ Markdown) | [reels/reel_7046_codecrafters-io-build-your-own-x](reels/reel_7046_codecrafters-io-build-your-own-x) |
