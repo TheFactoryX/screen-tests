@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7043 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-12 |
+| #7044 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 103k | 2026-05-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7132,3 +7132,4 @@ If you need permission, you're thinking too much.
 | 7041 | 2026-05-12 13:26:00 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (117580⭐ TypeScript) | [reels/reel_7041_clash-verge-rev-clash-verge-rev](reels/reel_7041_clash-verge-rev-clash-verge-rev) |
 | 7042 | 2026-05-12 16:00:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (136767⭐ Python) | [reels/reel_7042_open-webui-open-webui](reels/reel_7042_open-webui-open-webui) |
 | 7043 | 2026-05-12 18:16:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116165⭐ TypeScript) | [reels/reel_7043_iptv-org-iptv](reels/reel_7043_iptv-org-iptv) |
+| 7044 | 2026-05-12 20:13:59 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (103799⭐ TypeScript) | [reels/reel_7044_google-gemini-gemini-cli](reels/reel_7044_google-gemini-gemini-cli) |
