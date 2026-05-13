@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7055 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 114k | 2026-05-13 |
+| #7056 | [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) | Shell · ⭐ 564 | 2026-05-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7144,3 +7144,4 @@ If you need permission, you're thinking too much.
 | 7053 | 2026-05-13 16:40:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184288⭐ Python) | [reels/reel_7053_Significant-Gravitas-AutoGPT](reels/reel_7053_Significant-Gravitas-AutoGPT) |
 | 7054 | 2026-05-13 18:27:31 | [rtemis-org/rtemis](https://github.com/rtemis-org/rtemis) | ✅ full (148⭐ R) | [reels/reel_7054_rtemis-org-rtemis](reels/reel_7054_rtemis-org-rtemis) |
 | 7055 | 2026-05-13 20:17:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114258⭐ TypeScript) | [reels/reel_7055_shadcn-ui-ui](reels/reel_7055_shadcn-ui-ui) |
+| 7056 | 2026-05-13 21:50:54 | [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) | ✅ full (564⭐ Shell) | [reels/reel_7056_MariaSolOs-dotfiles](reels/reel_7056_MariaSolOs-dotfiles) |
