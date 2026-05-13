@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7056 | [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) | Shell · ⭐ 564 | 2026-05-13 |
+| #7057 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 181k | 2026-05-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7145,3 +7145,4 @@ If you need permission, you're thinking too much.
 | 7054 | 2026-05-13 18:27:31 | [rtemis-org/rtemis](https://github.com/rtemis-org/rtemis) | ✅ full (148⭐ R) | [reels/reel_7054_rtemis-org-rtemis](reels/reel_7054_rtemis-org-rtemis) |
 | 7055 | 2026-05-13 20:17:34 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114258⭐ TypeScript) | [reels/reel_7055_shadcn-ui-ui](reels/reel_7055_shadcn-ui-ui) |
 | 7056 | 2026-05-13 21:50:54 | [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) | ✅ full (564⭐ Shell) | [reels/reel_7056_MariaSolOs-dotfiles](reels/reel_7056_MariaSolOs-dotfiles) |
+| 7057 | 2026-05-13 23:03:47 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (181346⭐ JavaScript) | [reels/reel_7057_affaan-m-everything-claude-code](reels/reel_7057_affaan-m-everything-claude-code) |
