@@ -1,0 +1,24 @@
+{
+  "reel_number": 7054,
+  "recorded": "2026-05-13 18:27:31 UTC",
+  "repository": {
+    "full_name": "rtemis-org/rtemis",
+    "url": "https://github.com/rtemis-org/rtemis",
+    "clone_url": "https://github.com/rtemis-org/rtemis.git",
+    "stars": 148,
+    "language": "R",
+    "size_kb": 10677
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.996349
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "R",
+    "director_note": "A R repository. 148 stars."
+  }
+}

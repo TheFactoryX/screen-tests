@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7053 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-05-13 |
+| #7054 | [rtemis-org/rtemis](https://github.com/rtemis-org/rtemis) | R · ⭐ 148 | 2026-05-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7142,3 +7142,4 @@ If you need permission, you're thinking too much.
 | 7051 | 2026-05-13 11:50:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136623⭐ Python) | [reels/reel_7051_langchain-ai-langchain](reels/reel_7051_langchain-ai-langchain) |
 | 7052 | 2026-05-13 14:29:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (434783⭐ Python) | [reels/reel_7052_public-apis-public-apis](reels/reel_7052_public-apis-public-apis) |
 | 7053 | 2026-05-13 16:40:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184288⭐ Python) | [reels/reel_7053_Significant-Gravitas-AutoGPT](reels/reel_7053_Significant-Gravitas-AutoGPT) |
+| 7054 | 2026-05-13 18:27:31 | [rtemis-org/rtemis](https://github.com/rtemis-org/rtemis) | ✅ full (148⭐ R) | [reels/reel_7054_rtemis-org-rtemis](reels/reel_7054_rtemis-org-rtemis) |
