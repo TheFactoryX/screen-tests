@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7049 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-13 |
+| #7050 | [felipefdl/warm-burnout](https://github.com/felipefdl/warm-burnout) | Rust · ⭐ 83 | 2026-05-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7138,3 +7138,4 @@ If you need permission, you're thinking too much.
 | 7047 | 2026-05-12 23:58:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (291762⭐ None) | [reels/reel_7047_awesome-selfhosted-awesome-selfhosted](reels/reel_7047_awesome-selfhosted-awesome-selfhosted) |
 | 7048 | 2026-05-13 03:54:19 | [GlossMod/Gloss-Mod-Manager](https://github.com/GlossMod/Gloss-Mod-Manager) | ✅ full (432⭐ TypeScript) | [reels/reel_7048_GlossMod-Gloss-Mod-Manager](reels/reel_7048_GlossMod-Gloss-Mod-Manager) |
 | 7049 | 2026-05-13 06:45:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116174⭐ TypeScript) | [reels/reel_7049_iptv-org-iptv](reels/reel_7049_iptv-org-iptv) |
+| 7050 | 2026-05-13 09:42:37 | [felipefdl/warm-burnout](https://github.com/felipefdl/warm-burnout) | ✅ full (83⭐ Rust) | [reels/reel_7050_felipefdl-warm-burnout](reels/reel_7050_felipefdl-warm-burnout) |

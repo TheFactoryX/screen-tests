@@ -1,0 +1,24 @@
+{
+  "reel_number": 7050,
+  "recorded": "2026-05-13 09:42:37 UTC",
+  "repository": {
+    "full_name": "felipefdl/warm-burnout",
+    "url": "https://github.com/felipefdl/warm-burnout",
+    "clone_url": "https://github.com/felipefdl/warm-burnout.git",
+    "stars": 83,
+    "language": "Rust",
+    "size_kb": 14435
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 0.479699
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 83 stars."
+  }
+}
