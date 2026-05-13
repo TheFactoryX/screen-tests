@@ -1,0 +1,24 @@
+{
+  "reel_number": 7048,
+  "recorded": "2026-05-13 03:54:19 UTC",
+  "repository": {
+    "full_name": "GlossMod/Gloss-Mod-Manager",
+    "url": "https://github.com/GlossMod/Gloss-Mod-Manager",
+    "clone_url": "https://github.com/GlossMod/Gloss-Mod-Manager.git",
+    "stars": 432,
+    "language": "TypeScript",
+    "size_kb": 10429
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.227914
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 432 stars."
+  }
+}
