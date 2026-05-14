@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7068 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust · ⭐ 770 | 2026-05-14 |
+| #7069 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 435k | 2026-05-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7157,3 +7157,4 @@ If you need permission, you're thinking too much.
 | 7066 | 2026-05-14 20:03:06 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (501445⭐ Markdown) | [reels/reel_7066_codecrafters-io-build-your-own-x](reels/reel_7066_codecrafters-io-build-your-own-x) |
 | 7067 | 2026-05-14 21:35:33 | [ajharnak/flighttrackr](https://github.com/ajharnak/flighttrackr) | ✅ full (64⭐ Python) | [reels/reel_7067_ajharnak-flighttrackr](reels/reel_7067_ajharnak-flighttrackr) |
 | 7068 | 2026-05-14 22:40:26 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | ✅ full (770⭐ Rust) | [reels/reel_7068_ogulcancelik-herdr](reels/reel_7068_ogulcancelik-herdr) |
+| 7069 | 2026-05-14 23:37:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (435034⭐ Python) | [reels/reel_7069_public-apis-public-apis](reels/reel_7069_public-apis-public-apis) |
