@@ -1,0 +1,24 @@
+{
+  "reel_number": 7068,
+  "recorded": "2026-05-14 22:40:26 UTC",
+  "repository": {
+    "full_name": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "clone_url": "https://github.com/ogulcancelik/herdr.git",
+    "stars": 770,
+    "language": "Rust",
+    "size_kb": 20595
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 1.081498
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 770 stars."
+  }
+}
