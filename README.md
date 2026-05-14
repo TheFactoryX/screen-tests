@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7064 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-14 |
+| #7065 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 129k | 2026-05-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7153,3 +7153,4 @@ If you need permission, you're thinking too much.
 | 7062 | 2026-05-14 11:50:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136712⭐ Python) | [reels/reel_7062_langchain-ai-langchain](reels/reel_7062_langchain-ai-langchain) |
 | 7063 | 2026-05-14 14:06:07 | [Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live) | ✅ shallow (941⭐ Python) | [reels/reel_7063_Supprise0901-TVBox_live](reels/reel_7063_Supprise0901-TVBox_live) |
 | 7064 | 2026-05-14 16:20:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116211⭐ TypeScript) | [reels/reel_7064_iptv-org-iptv](reels/reel_7064_iptv-org-iptv) |
+| 7065 | 2026-05-14 18:14:38 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (129496⭐ None) | [reels/reel_7065_multica-ai-andrej-karpathy-skills](reels/reel_7065_multica-ai-andrej-karpathy-skills) |
