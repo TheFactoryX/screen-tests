@@ -1,0 +1,24 @@
+{
+  "reel_number": 7063,
+  "recorded": "2026-05-14 14:06:07 UTC",
+  "repository": {
+    "full_name": "Supprise0901/TVBox_live",
+    "url": "https://github.com/Supprise0901/TVBox_live",
+    "clone_url": "https://github.com/Supprise0901/TVBox_live.git",
+    "stars": 941,
+    "language": "Python",
+    "size_kb": 473704
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 462,
+    "duration_seconds": 2.327589
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 941 stars."
+  }
+}
