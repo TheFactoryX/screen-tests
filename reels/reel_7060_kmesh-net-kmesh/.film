@@ -1,0 +1,24 @@
+{
+  "reel_number": 7060,
+  "recorded": "2026-05-14 07:23:12 UTC",
+  "repository": {
+    "full_name": "kmesh-net/kmesh",
+    "url": "https://github.com/kmesh-net/kmesh",
+    "clone_url": "https://github.com/kmesh-net/kmesh.git",
+    "stars": 723,
+    "language": "Go",
+    "size_kb": 58155
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 56,
+    "duration_seconds": 1.798041
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 723 stars."
+  }
+}

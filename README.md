@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7059 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-14 |
+| #7060 | [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) | Go · ⭐ 723 | 2026-05-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7148,3 +7148,4 @@ If you need permission, you're thinking too much.
 | 7057 | 2026-05-13 23:03:47 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (181346⭐ JavaScript) | [reels/reel_7057_affaan-m-everything-claude-code](reels/reel_7057_affaan-m-everything-claude-code) |
 | 7058 | 2026-05-14 00:13:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148069⭐ Python) | [reels/reel_7058_langflow-ai-langflow](reels/reel_7058_langflow-ai-langflow) |
 | 7059 | 2026-05-14 04:13:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136670⭐ Python) | [reels/reel_7059_langchain-ai-langchain](reels/reel_7059_langchain-ai-langchain) |
+| 7060 | 2026-05-14 07:23:12 | [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) | ✅ full (723⭐ Go) | [reels/reel_7060_kmesh-net-kmesh](reels/reel_7060_kmesh-net-kmesh) |
