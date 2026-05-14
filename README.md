@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7066 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 501k | 2026-05-14 |
+| #7067 | [ajharnak/flighttrackr](https://github.com/ajharnak/flighttrackr) | Python · ⭐ 64 | 2026-05-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7155,3 +7155,4 @@ If you need permission, you're thinking too much.
 | 7064 | 2026-05-14 16:20:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116211⭐ TypeScript) | [reels/reel_7064_iptv-org-iptv](reels/reel_7064_iptv-org-iptv) |
 | 7065 | 2026-05-14 18:14:38 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (129496⭐ None) | [reels/reel_7065_multica-ai-andrej-karpathy-skills](reels/reel_7065_multica-ai-andrej-karpathy-skills) |
 | 7066 | 2026-05-14 20:03:06 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (501445⭐ Markdown) | [reels/reel_7066_codecrafters-io-build-your-own-x](reels/reel_7066_codecrafters-io-build-your-own-x) |
+| 7067 | 2026-05-14 21:35:33 | [ajharnak/flighttrackr](https://github.com/ajharnak/flighttrackr) | ✅ full (64⭐ Python) | [reels/reel_7067_ajharnak-flighttrackr](reels/reel_7067_ajharnak-flighttrackr) |
