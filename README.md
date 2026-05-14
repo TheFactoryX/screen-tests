@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7061 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 110k | 2026-05-14 |
+| #7062 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7150,3 +7150,4 @@ If you need permission, you're thinking too much.
 | 7059 | 2026-05-14 04:13:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136670⭐ Python) | [reels/reel_7059_langchain-ai-langchain](reels/reel_7059_langchain-ai-langchain) |
 | 7060 | 2026-05-14 07:23:12 | [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) | ✅ full (723⭐ Go) | [reels/reel_7060_kmesh-net-kmesh](reels/reel_7060_kmesh-net-kmesh) |
 | 7061 | 2026-05-14 09:54:35 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (110038⭐ C++) | [reels/reel_7061_ggml-org-llama.cpp](reels/reel_7061_ggml-org-llama.cpp) |
+| 7062 | 2026-05-14 11:50:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136712⭐ Python) | [reels/reel_7062_langchain-ai-langchain](reels/reel_7062_langchain-ai-langchain) |
