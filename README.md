@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7058 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-14 |
+| #7059 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7147,3 +7147,4 @@ If you need permission, you're thinking too much.
 | 7056 | 2026-05-13 21:50:54 | [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) | ✅ full (564⭐ Shell) | [reels/reel_7056_MariaSolOs-dotfiles](reels/reel_7056_MariaSolOs-dotfiles) |
 | 7057 | 2026-05-13 23:03:47 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (181346⭐ JavaScript) | [reels/reel_7057_affaan-m-everything-claude-code](reels/reel_7057_affaan-m-everything-claude-code) |
 | 7058 | 2026-05-14 00:13:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148069⭐ Python) | [reels/reel_7058_langflow-ai-langflow](reels/reel_7058_langflow-ai-langflow) |
+| 7059 | 2026-05-14 04:13:53 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136670⭐ Python) | [reels/reel_7059_langchain-ai-langchain](reels/reel_7059_langchain-ai-langchain) |
