@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7063 | [Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live) | Python · ⭐ 941 | 2026-05-14 |
+| #7064 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7152,3 +7152,4 @@ If you need permission, you're thinking too much.
 | 7061 | 2026-05-14 09:54:35 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (110038⭐ C++) | [reels/reel_7061_ggml-org-llama.cpp](reels/reel_7061_ggml-org-llama.cpp) |
 | 7062 | 2026-05-14 11:50:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136712⭐ Python) | [reels/reel_7062_langchain-ai-langchain](reels/reel_7062_langchain-ai-langchain) |
 | 7063 | 2026-05-14 14:06:07 | [Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live) | ✅ shallow (941⭐ Python) | [reels/reel_7063_Supprise0901-TVBox_live](reels/reel_7063_Supprise0901-TVBox_live) |
+| 7064 | 2026-05-14 16:20:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116211⭐ TypeScript) | [reels/reel_7064_iptv-org-iptv](reels/reel_7064_iptv-org-iptv) |
