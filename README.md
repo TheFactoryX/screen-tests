@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7080 | [Motion-Core/motion-gpu](https://github.com/Motion-Core/motion-gpu) | TypeScript · ⭐ 157 | 2026-05-15 |
+| #7081 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 137k | 2026-05-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7169,3 +7169,4 @@ If you need permission, you're thinking too much.
 | 7078 | 2026-05-15 20:15:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148136⭐ Python) | [reels/reel_7078_langflow-ai-langflow](reels/reel_7078_langflow-ai-langflow) |
 | 7079 | 2026-05-15 21:29:28 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (183170⭐ JavaScript) | [reels/reel_7079_affaan-m-everything-claude-code](reels/reel_7079_affaan-m-everything-claude-code) |
 | 7080 | 2026-05-15 22:30:55 | [Motion-Core/motion-gpu](https://github.com/Motion-Core/motion-gpu) | ✅ full (157⭐ TypeScript) | [reels/reel_7080_Motion-Core-motion-gpu](reels/reel_7080_Motion-Core-motion-gpu) |
+| 7081 | 2026-05-15 23:37:39 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (137224⭐ Python) | [reels/reel_7081_open-webui-open-webui](reels/reel_7081_open-webui-open-webui) |
