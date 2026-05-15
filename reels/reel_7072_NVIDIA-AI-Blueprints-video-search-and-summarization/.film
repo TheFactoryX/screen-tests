@@ -1,0 +1,24 @@
+{
+  "reel_number": 7072,
+  "recorded": "2026-05-15 08:29:48 UTC",
+  "repository": {
+    "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "clone_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization.git",
+    "stars": 948,
+    "language": "Python",
+    "size_kb": 41948
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 40,
+    "duration_seconds": 3.832873
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 948 stars."
+  }
+}
