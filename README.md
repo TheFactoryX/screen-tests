@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7073 | [emulator-wtf/gradle-plugin](https://github.com/emulator-wtf/gradle-plugin) | Java · ⭐ 15 | 2026-05-15 |
+| #7074 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 114k | 2026-05-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7162,3 +7162,4 @@ If you need permission, you're thinking too much.
 | 7071 | 2026-05-15 05:34:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (292289⭐ None) | [reels/reel_7071_awesome-selfhosted-awesome-selfhosted](reels/reel_7071_awesome-selfhosted-awesome-selfhosted) |
 | 7072 | 2026-05-15 08:29:48 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | ✅ full (948⭐ Python) | [reels/reel_7072_NVIDIA-AI-Blueprints-video-search-and-summarization](reels/reel_7072_NVIDIA-AI-Blueprints-video-search-and-summarization) |
 | 7073 | 2026-05-15 11:00:14 | [emulator-wtf/gradle-plugin](https://github.com/emulator-wtf/gradle-plugin) | ✅ full (15⭐ Java) | [reels/reel_7073_emulator-wtf-gradle-plugin](reels/reel_7073_emulator-wtf-gradle-plugin) |
+| 7074 | 2026-05-15 13:00:09 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114409⭐ TypeScript) | [reels/reel_7074_shadcn-ui-ui](reels/reel_7074_shadcn-ui-ui) |
