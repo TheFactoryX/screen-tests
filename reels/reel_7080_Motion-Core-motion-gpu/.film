@@ -1,0 +1,24 @@
+{
+  "reel_number": 7080,
+  "recorded": "2026-05-15 22:30:55 UTC",
+  "repository": {
+    "full_name": "Motion-Core/motion-gpu",
+    "url": "https://github.com/Motion-Core/motion-gpu",
+    "clone_url": "https://github.com/Motion-Core/motion-gpu.git",
+    "stars": 157,
+    "language": "TypeScript",
+    "size_kb": 18687
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 0.627443
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 157 stars."
+  }
+}
