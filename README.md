@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7077 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 187k | 2026-05-15 |
+| #7078 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7166,3 +7166,4 @@ If you need permission, you're thinking too much.
 | 7075 | 2026-05-15 15:22:37 | [ajavadinezhad/zyrln](https://github.com/ajavadinezhad/zyrln) | ✅ full (501⭐ Go) | [reels/reel_7075_ajavadinezhad-zyrln](reels/reel_7075_ajavadinezhad-zyrln) |
 | 7076 | 2026-05-15 17:08:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (292450⭐ None) | [reels/reel_7076_awesome-selfhosted-awesome-selfhosted](reels/reel_7076_awesome-selfhosted-awesome-selfhosted) |
 | 7077 | 2026-05-15 18:52:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (187988⭐ TypeScript) | [reels/reel_7077_n8n-io-n8n](reels/reel_7077_n8n-io-n8n) |
+| 7078 | 2026-05-15 20:15:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148136⭐ Python) | [reels/reel_7078_langflow-ai-langflow](reels/reel_7078_langflow-ai-langflow) |
