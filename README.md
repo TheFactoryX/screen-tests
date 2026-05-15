@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7070 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-15 |
+| #7071 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 292k | 2026-05-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7159,3 +7159,4 @@ If you need permission, you're thinking too much.
 | 7068 | 2026-05-14 22:40:26 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | ✅ full (770⭐ Rust) | [reels/reel_7068_ogulcancelik-herdr](reels/reel_7068_ogulcancelik-herdr) |
 | 7069 | 2026-05-14 23:37:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (435034⭐ Python) | [reels/reel_7069_public-apis-public-apis](reels/reel_7069_public-apis-public-apis) |
 | 7070 | 2026-05-15 01:29:54 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136746⭐ Python) | [reels/reel_7070_langchain-ai-langchain](reels/reel_7070_langchain-ai-langchain) |
+| 7071 | 2026-05-15 05:34:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (292289⭐ None) | [reels/reel_7071_awesome-selfhosted-awesome-selfhosted](reels/reel_7071_awesome-selfhosted-awesome-selfhosted) |
