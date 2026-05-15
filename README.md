@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7075 | [ajavadinezhad/zyrln](https://github.com/ajavadinezhad/zyrln) | Go · ⭐ 501 | 2026-05-15 |
+| #7076 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 292k | 2026-05-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7164,3 +7164,4 @@ If you need permission, you're thinking too much.
 | 7073 | 2026-05-15 11:00:14 | [emulator-wtf/gradle-plugin](https://github.com/emulator-wtf/gradle-plugin) | ✅ full (15⭐ Java) | [reels/reel_7073_emulator-wtf-gradle-plugin](reels/reel_7073_emulator-wtf-gradle-plugin) |
 | 7074 | 2026-05-15 13:00:09 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114409⭐ TypeScript) | [reels/reel_7074_shadcn-ui-ui](reels/reel_7074_shadcn-ui-ui) |
 | 7075 | 2026-05-15 15:22:37 | [ajavadinezhad/zyrln](https://github.com/ajavadinezhad/zyrln) | ✅ full (501⭐ Go) | [reels/reel_7075_ajavadinezhad-zyrln](reels/reel_7075_ajavadinezhad-zyrln) |
+| 7076 | 2026-05-15 17:08:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (292450⭐ None) | [reels/reel_7076_awesome-selfhosted-awesome-selfhosted](reels/reel_7076_awesome-selfhosted-awesome-selfhosted) |
