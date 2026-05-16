@@ -1,0 +1,24 @@
+{
+  "reel_number": 7082,
+  "recorded": "2026-05-16 01:23:36 UTC",
+  "repository": {
+    "full_name": "frank890417/taiwan-md",
+    "url": "https://github.com/frank890417/taiwan-md",
+    "clone_url": "https://github.com/frank890417/taiwan-md.git",
+    "stars": 989,
+    "language": "HTML",
+    "size_kb": 358092
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 349,
+    "duration_seconds": 11.498659
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 989 stars."
+  }
+}
