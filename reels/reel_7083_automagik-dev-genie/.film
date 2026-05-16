@@ -1,0 +1,24 @@
+{
+  "reel_number": 7083,
+  "recorded": "2026-05-16 04:50:31 UTC",
+  "repository": {
+    "full_name": "automagik-dev/genie",
+    "url": "https://github.com/automagik-dev/genie",
+    "clone_url": "https://github.com/automagik-dev/genie.git",
+    "stars": 314,
+    "language": "TypeScript",
+    "size_kb": 39985
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 39,
+    "duration_seconds": 2.760624
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 314 stars."
+  }
+}
