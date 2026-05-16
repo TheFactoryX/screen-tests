@@ -1,0 +1,24 @@
+{
+  "reel_number": 7090,
+  "recorded": "2026-05-16 15:16:10 UTC",
+  "repository": {
+    "full_name": "trackawesomelist/trackawesomelist",
+    "url": "https://github.com/trackawesomelist/trackawesomelist",
+    "clone_url": "https://github.com/trackawesomelist/trackawesomelist.git",
+    "stars": 628,
+    "language": null,
+    "size_kb": 409361
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 399,
+    "duration_seconds": 9.912114
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 628 stars."
+  }
+}

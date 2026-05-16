@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7089 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 162k | 2026-05-16 |
+| #7090 | [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) | None · ⭐ 628 | 2026-05-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7178,3 +7178,4 @@ If you need permission, you're thinking too much.
 | 7087 | 2026-05-16 11:35:58 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (184031⭐ JavaScript) | [reels/reel_7087_affaan-m-everything-claude-code](reels/reel_7087_affaan-m-everything-claude-code) |
 | 7088 | 2026-05-16 12:44:22 | [ayoubben18/ab-method](https://github.com/ayoubben18/ab-method) | ✅ full (169⭐ JavaScript) | [reels/reel_7088_ayoubben18-ab-method](reels/reel_7088_ayoubben18-ab-method) |
 | 7089 | 2026-05-16 14:11:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162541⭐ Python) | [reels/reel_7089_yt-dlp-yt-dlp](reels/reel_7089_yt-dlp-yt-dlp) |
+| 7090 | 2026-05-16 15:16:10 | [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) | ✅ shallow (628⭐ None) | [reels/reel_7090_trackawesomelist-trackawesomelist](reels/reel_7090_trackawesomelist-trackawesomelist) |
