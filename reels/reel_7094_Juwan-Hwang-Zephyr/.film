@@ -1,0 +1,24 @@
+{
+  "reel_number": 7094,
+  "recorded": "2026-05-16 19:46:52 UTC",
+  "repository": {
+    "full_name": "Juwan-Hwang/Zephyr",
+    "url": "https://github.com/Juwan-Hwang/Zephyr",
+    "clone_url": "https://github.com/Juwan-Hwang/Zephyr.git",
+    "stars": 216,
+    "language": "JavaScript",
+    "size_kb": 27667
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 0.993398
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 216 stars."
+  }
+}
