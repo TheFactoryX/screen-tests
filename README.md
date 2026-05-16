@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7094 | [Juwan-Hwang/Zephyr](https://github.com/Juwan-Hwang/Zephyr) | JavaScript · ⭐ 216 | 2026-05-16 |
+| #7095 | [usemarble/marble](https://github.com/usemarble/marble) | TypeScript · ⭐ 365 | 2026-05-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7183,3 +7183,4 @@ If you need permission, you're thinking too much.
 | 7092 | 2026-05-16 17:30:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162579⭐ Python) | [reels/reel_7092_yt-dlp-yt-dlp](reels/reel_7092_yt-dlp-yt-dlp) |
 | 7093 | 2026-05-16 18:39:23 | [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) | ✅ full (385⭐ RouterOS Script) | [reels/reel_7093_touhidurrr-iplist-youtube](reels/reel_7093_touhidurrr-iplist-youtube) |
 | 7094 | 2026-05-16 19:46:52 | [Juwan-Hwang/Zephyr](https://github.com/Juwan-Hwang/Zephyr) | ✅ full (216⭐ JavaScript) | [reels/reel_7094_Juwan-Hwang-Zephyr](reels/reel_7094_Juwan-Hwang-Zephyr) |
+| 7095 | 2026-05-16 20:43:02 | [usemarble/marble](https://github.com/usemarble/marble) | ✅ full (365⭐ TypeScript) | [reels/reel_7095_usemarble-marble](reels/reel_7095_usemarble-marble) |
