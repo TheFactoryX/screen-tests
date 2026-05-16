@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7087 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript · ⭐ 184k | 2026-05-16 |
+| #7088 | [ayoubben18/ab-method](https://github.com/ayoubben18/ab-method) | JavaScript · ⭐ 169 | 2026-05-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7176,3 +7176,4 @@ If you need permission, you're thinking too much.
 | 7085 | 2026-05-16 09:01:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136851⭐ Python) | [reels/reel_7085_langchain-ai-langchain](reels/reel_7085_langchain-ai-langchain) |
 | 7086 | 2026-05-16 10:37:15 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116241⭐ TypeScript) | [reels/reel_7086_iptv-org-iptv](reels/reel_7086_iptv-org-iptv) |
 | 7087 | 2026-05-16 11:35:58 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (184031⭐ JavaScript) | [reels/reel_7087_affaan-m-everything-claude-code](reels/reel_7087_affaan-m-everything-claude-code) |
+| 7088 | 2026-05-16 12:44:22 | [ayoubben18/ab-method](https://github.com/ayoubben18/ab-method) | ✅ full (169⭐ JavaScript) | [reels/reel_7088_ayoubben18-ab-method](reels/reel_7088_ayoubben18-ab-method) |
