@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7097 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 265k | 2026-05-16 |
+| #7098 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 118k | 2026-05-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7186,3 +7186,4 @@ If you need permission, you're thinking too much.
 | 7095 | 2026-05-16 20:43:02 | [usemarble/marble](https://github.com/usemarble/marble) | ✅ full (365⭐ TypeScript) | [reels/reel_7095_usemarble-marble](reels/reel_7095_usemarble-marble) |
 | 7096 | 2026-05-16 21:34:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148251⭐ Python) | [reels/reel_7096_langflow-ai-langflow](reels/reel_7096_langflow-ai-langflow) |
 | 7097 | 2026-05-16 22:28:35 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (265851⭐ None) | [reels/reel_7097_practical-tutorials-project-based-learning](reels/reel_7097_practical-tutorials-project-based-learning) |
+| 7098 | 2026-05-16 23:29:30 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (118557⭐ TypeScript) | [reels/reel_7098_clash-verge-rev-clash-verge-rev](reels/reel_7098_clash-verge-rev-clash-verge-rev) |
