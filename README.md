@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7085 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-16 |
+| #7086 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7174,3 +7174,4 @@ If you need permission, you're thinking too much.
 | 7083 | 2026-05-16 04:50:31 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | ✅ full (314⭐ TypeScript) | [reels/reel_7083_automagik-dev-genie](reels/reel_7083_automagik-dev-genie) |
 | 7084 | 2026-05-16 07:12:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148156⭐ Python) | [reels/reel_7084_langflow-ai-langflow](reels/reel_7084_langflow-ai-langflow) |
 | 7085 | 2026-05-16 09:01:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136851⭐ Python) | [reels/reel_7085_langchain-ai-langchain](reels/reel_7085_langchain-ai-langchain) |
+| 7086 | 2026-05-16 10:37:15 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116241⭐ TypeScript) | [reels/reel_7086_iptv-org-iptv](reels/reel_7086_iptv-org-iptv) |
