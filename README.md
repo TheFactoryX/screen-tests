@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7083 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | TypeScript · ⭐ 314 | 2026-05-16 |
+| #7084 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7172,3 +7172,4 @@ If you need permission, you're thinking too much.
 | 7081 | 2026-05-15 23:37:39 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (137224⭐ Python) | [reels/reel_7081_open-webui-open-webui](reels/reel_7081_open-webui-open-webui) |
 | 7082 | 2026-05-16 01:23:36 | [frank890417/taiwan-md](https://github.com/frank890417/taiwan-md) | ✅ shallow (989⭐ HTML) | [reels/reel_7082_frank890417-taiwan-md](reels/reel_7082_frank890417-taiwan-md) |
 | 7083 | 2026-05-16 04:50:31 | [automagik-dev/genie](https://github.com/automagik-dev/genie) | ✅ full (314⭐ TypeScript) | [reels/reel_7083_automagik-dev-genie](reels/reel_7083_automagik-dev-genie) |
+| 7084 | 2026-05-16 07:12:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148156⭐ Python) | [reels/reel_7084_langflow-ai-langflow](reels/reel_7084_langflow-ai-langflow) |
