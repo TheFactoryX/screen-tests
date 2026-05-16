@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7095 | [usemarble/marble](https://github.com/usemarble/marble) | TypeScript · ⭐ 365 | 2026-05-16 |
+| #7096 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7184,3 +7184,4 @@ If you need permission, you're thinking too much.
 | 7093 | 2026-05-16 18:39:23 | [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) | ✅ full (385⭐ RouterOS Script) | [reels/reel_7093_touhidurrr-iplist-youtube](reels/reel_7093_touhidurrr-iplist-youtube) |
 | 7094 | 2026-05-16 19:46:52 | [Juwan-Hwang/Zephyr](https://github.com/Juwan-Hwang/Zephyr) | ✅ full (216⭐ JavaScript) | [reels/reel_7094_Juwan-Hwang-Zephyr](reels/reel_7094_Juwan-Hwang-Zephyr) |
 | 7095 | 2026-05-16 20:43:02 | [usemarble/marble](https://github.com/usemarble/marble) | ✅ full (365⭐ TypeScript) | [reels/reel_7095_usemarble-marble](reels/reel_7095_usemarble-marble) |
+| 7096 | 2026-05-16 21:34:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148251⭐ Python) | [reels/reel_7096_langflow-ai-langflow](reels/reel_7096_langflow-ai-langflow) |
