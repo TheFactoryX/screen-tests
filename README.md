@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7101 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-17 |
+| #7102 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | TypeScript · ⭐ 617 | 2026-05-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7190,3 +7190,4 @@ If you need permission, you're thinking too much.
 | 7099 | 2026-05-17 01:25:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136900⭐ Python) | [reels/reel_7099_langchain-ai-langchain](reels/reel_7099_langchain-ai-langchain) |
 | 7100 | 2026-05-17 05:08:04 | [rust-random/rngs](https://github.com/rust-random/rngs) | ✅ full (50⭐ Rust) | [reels/reel_7100_rust-random-rngs](reels/reel_7100_rust-random-rngs) |
 | 7101 | 2026-05-17 07:43:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148307⭐ Python) | [reels/reel_7101_langflow-ai-langflow](reels/reel_7101_langflow-ai-langflow) |
+| 7102 | 2026-05-17 09:24:01 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | ✅ full (617⭐ TypeScript) | [reels/reel_7102_Effect-TS-effect-smol](reels/reel_7102_Effect-TS-effect-smol) |
