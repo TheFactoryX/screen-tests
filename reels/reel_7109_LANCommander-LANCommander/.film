@@ -1,0 +1,24 @@
+{
+  "reel_number": 7109,
+  "recorded": "2026-05-17 18:08:55 UTC",
+  "repository": {
+    "full_name": "LANCommander/LANCommander",
+    "url": "https://github.com/LANCommander/LANCommander",
+    "clone_url": "https://github.com/LANCommander/LANCommander.git",
+    "stars": 401,
+    "language": "C#",
+    "size_kb": 152325
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 148,
+    "duration_seconds": 1.454933
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 401 stars."
+  }
+}

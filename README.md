@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7108 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 112k | 2026-05-17 |
+| #7109 | [LANCommander/LANCommander](https://github.com/LANCommander/LANCommander) | C# · ⭐ 401 | 2026-05-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7197,3 +7197,4 @@ If you need permission, you're thinking too much.
 | 7106 | 2026-05-17 14:54:25 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (293082⭐ None) | [reels/reel_7106_awesome-selfhosted-awesome-selfhosted](reels/reel_7106_awesome-selfhosted-awesome-selfhosted) |
 | 7107 | 2026-05-17 15:57:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162775⭐ Python) | [reels/reel_7107_yt-dlp-yt-dlp](reels/reel_7107_yt-dlp-yt-dlp) |
 | 7108 | 2026-05-17 17:01:16 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (112368⭐ None) | [reels/reel_7108_Hack-with-Github-Awesome-Hacking](reels/reel_7108_Hack-with-Github-Awesome-Hacking) |
+| 7109 | 2026-05-17 18:08:55 | [LANCommander/LANCommander](https://github.com/LANCommander/LANCommander) | ✅ shallow (401⭐ C#) | [reels/reel_7109_LANCommander-LANCommander](reels/reel_7109_LANCommander-LANCommander) |
