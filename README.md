@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7099 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 136k | 2026-05-17 |
+| #7100 | [rust-random/rngs](https://github.com/rust-random/rngs) | Rust · ⭐ 50 | 2026-05-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7188,3 +7188,4 @@ If you need permission, you're thinking too much.
 | 7097 | 2026-05-16 22:28:35 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (265851⭐ None) | [reels/reel_7097_practical-tutorials-project-based-learning](reels/reel_7097_practical-tutorials-project-based-learning) |
 | 7098 | 2026-05-16 23:29:30 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (118557⭐ TypeScript) | [reels/reel_7098_clash-verge-rev-clash-verge-rev](reels/reel_7098_clash-verge-rev-clash-verge-rev) |
 | 7099 | 2026-05-17 01:25:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (136900⭐ Python) | [reels/reel_7099_langchain-ai-langchain](reels/reel_7099_langchain-ai-langchain) |
+| 7100 | 2026-05-17 05:08:04 | [rust-random/rngs](https://github.com/rust-random/rngs) | ✅ full (50⭐ Rust) | [reels/reel_7100_rust-random-rngs](reels/reel_7100_rust-random-rngs) |
