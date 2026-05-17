@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7102 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | TypeScript · ⭐ 617 | 2026-05-17 |
+| #7103 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 110k | 2026-05-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7191,3 +7191,4 @@ If you need permission, you're thinking too much.
 | 7100 | 2026-05-17 05:08:04 | [rust-random/rngs](https://github.com/rust-random/rngs) | ✅ full (50⭐ Rust) | [reels/reel_7100_rust-random-rngs](reels/reel_7100_rust-random-rngs) |
 | 7101 | 2026-05-17 07:43:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148307⭐ Python) | [reels/reel_7101_langflow-ai-langflow](reels/reel_7101_langflow-ai-langflow) |
 | 7102 | 2026-05-17 09:24:01 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | ✅ full (617⭐ TypeScript) | [reels/reel_7102_Effect-TS-effect-smol](reels/reel_7102_Effect-TS-effect-smol) |
+| 7103 | 2026-05-17 10:49:47 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (110544⭐ C++) | [reels/reel_7103_ggml-org-llama.cpp](reels/reel_7103_ggml-org-llama.cpp) |
