@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7103 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 110k | 2026-05-17 |
+| #7104 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 162k | 2026-05-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7192,3 +7192,4 @@ If you need permission, you're thinking too much.
 | 7101 | 2026-05-17 07:43:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148307⭐ Python) | [reels/reel_7101_langflow-ai-langflow](reels/reel_7101_langflow-ai-langflow) |
 | 7102 | 2026-05-17 09:24:01 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | ✅ full (617⭐ TypeScript) | [reels/reel_7102_Effect-TS-effect-smol](reels/reel_7102_Effect-TS-effect-smol) |
 | 7103 | 2026-05-17 10:49:47 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (110544⭐ C++) | [reels/reel_7103_ggml-org-llama.cpp](reels/reel_7103_ggml-org-llama.cpp) |
+| 7104 | 2026-05-17 11:58:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162729⭐ Python) | [reels/reel_7104_yt-dlp-yt-dlp](reels/reel_7104_yt-dlp-yt-dlp) |
