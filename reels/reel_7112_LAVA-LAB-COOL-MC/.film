@@ -1,0 +1,24 @@
+{
+  "reel_number": 7112,
+  "recorded": "2026-05-17 21:29:24 UTC",
+  "repository": {
+    "full_name": "LAVA-LAB/COOL-MC",
+    "url": "https://github.com/LAVA-LAB/COOL-MC",
+    "clone_url": "https://github.com/LAVA-LAB/COOL-MC.git",
+    "stars": 20,
+    "language": "Python",
+    "size_kb": 41937
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 40,
+    "duration_seconds": 2.81774
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 20 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7111 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 162k | 2026-05-17 |
+| #7112 | [LAVA-LAB/COOL-MC](https://github.com/LAVA-LAB/COOL-MC) | Python · ⭐ 20 | 2026-05-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7200,3 +7200,4 @@ If you need permission, you're thinking too much.
 | 7109 | 2026-05-17 18:08:55 | [LANCommander/LANCommander](https://github.com/LANCommander/LANCommander) | ✅ shallow (401⭐ C#) | [reels/reel_7109_LANCommander-LANCommander](reels/reel_7109_LANCommander-LANCommander) |
 | 7110 | 2026-05-17 19:35:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (293168⭐ None) | [reels/reel_7110_awesome-selfhosted-awesome-selfhosted](reels/reel_7110_awesome-selfhosted-awesome-selfhosted) |
 | 7111 | 2026-05-17 20:29:57 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162799⭐ Python) | [reels/reel_7111_yt-dlp-yt-dlp](reels/reel_7111_yt-dlp-yt-dlp) |
+| 7112 | 2026-05-17 21:29:24 | [LAVA-LAB/COOL-MC](https://github.com/LAVA-LAB/COOL-MC) | ✅ full (20⭐ Python) | [reels/reel_7112_LAVA-LAB-COOL-MC](reels/reel_7112_LAVA-LAB-COOL-MC) |
