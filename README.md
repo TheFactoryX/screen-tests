@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7112 | [LAVA-LAB/COOL-MC](https://github.com/LAVA-LAB/COOL-MC) | Python · ⭐ 20 | 2026-05-17 |
+| #7113 | [earlyaidopters/claudeclaw-os](https://github.com/earlyaidopters/claudeclaw-os) | TypeScript · ⭐ 134 | 2026-05-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7201,3 +7201,4 @@ If you need permission, you're thinking too much.
 | 7110 | 2026-05-17 19:35:27 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (293168⭐ None) | [reels/reel_7110_awesome-selfhosted-awesome-selfhosted](reels/reel_7110_awesome-selfhosted-awesome-selfhosted) |
 | 7111 | 2026-05-17 20:29:57 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162799⭐ Python) | [reels/reel_7111_yt-dlp-yt-dlp](reels/reel_7111_yt-dlp-yt-dlp) |
 | 7112 | 2026-05-17 21:29:24 | [LAVA-LAB/COOL-MC](https://github.com/LAVA-LAB/COOL-MC) | ✅ full (20⭐ Python) | [reels/reel_7112_LAVA-LAB-COOL-MC](reels/reel_7112_LAVA-LAB-COOL-MC) |
+| 7113 | 2026-05-17 22:27:49 | [earlyaidopters/claudeclaw-os](https://github.com/earlyaidopters/claudeclaw-os) | ✅ full (134⭐ TypeScript) | [reels/reel_7113_earlyaidopters-claudeclaw-os](reels/reel_7113_earlyaidopters-claudeclaw-os) |

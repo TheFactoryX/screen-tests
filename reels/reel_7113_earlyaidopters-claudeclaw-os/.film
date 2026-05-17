@@ -1,0 +1,24 @@
+{
+  "reel_number": 7113,
+  "recorded": "2026-05-17 22:27:49 UTC",
+  "repository": {
+    "full_name": "earlyaidopters/claudeclaw-os",
+    "url": "https://github.com/earlyaidopters/claudeclaw-os",
+    "clone_url": "https://github.com/earlyaidopters/claudeclaw-os.git",
+    "stars": 134,
+    "language": "TypeScript",
+    "size_kb": 29855
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 29,
+    "duration_seconds": 1.431928
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 134 stars."
+  }
+}
