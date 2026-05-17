@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7107 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 162k | 2026-05-17 |
+| #7108 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 112k | 2026-05-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7196,3 +7196,4 @@ If you need permission, you're thinking too much.
 | 7105 | 2026-05-17 13:48:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162749⭐ Python) | [reels/reel_7105_yt-dlp-yt-dlp](reels/reel_7105_yt-dlp-yt-dlp) |
 | 7106 | 2026-05-17 14:54:25 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (293082⭐ None) | [reels/reel_7106_awesome-selfhosted-awesome-selfhosted](reels/reel_7106_awesome-selfhosted-awesome-selfhosted) |
 | 7107 | 2026-05-17 15:57:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162775⭐ Python) | [reels/reel_7107_yt-dlp-yt-dlp](reels/reel_7107_yt-dlp-yt-dlp) |
+| 7108 | 2026-05-17 17:01:16 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (112368⭐ None) | [reels/reel_7108_Hack-with-Github-Awesome-Hacking](reels/reel_7108_Hack-with-Github-Awesome-Hacking) |
