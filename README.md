@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7114 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 106k | 2026-05-17 |
+| #7115 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 137k | 2026-05-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7203,3 +7203,4 @@ If you need permission, you're thinking too much.
 | 7112 | 2026-05-17 21:29:24 | [LAVA-LAB/COOL-MC](https://github.com/LAVA-LAB/COOL-MC) | ✅ full (20⭐ Python) | [reels/reel_7112_LAVA-LAB-COOL-MC](reels/reel_7112_LAVA-LAB-COOL-MC) |
 | 7113 | 2026-05-17 22:27:49 | [earlyaidopters/claudeclaw-os](https://github.com/earlyaidopters/claudeclaw-os) | ✅ full (134⭐ TypeScript) | [reels/reel_7113_earlyaidopters-claudeclaw-os](reels/reel_7113_earlyaidopters-claudeclaw-os) |
 | 7114 | 2026-05-17 23:30:47 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (106259⭐ Shell) | [reels/reel_7114_papers-we-love-papers-we-love](reels/reel_7114_papers-we-love-papers-we-love) |
+| 7115 | 2026-05-18 01:35:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (137510⭐ Python) | [reels/reel_7115_open-webui-open-webui](reels/reel_7115_open-webui-open-webui) |
