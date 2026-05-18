@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7116 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 502k | 2026-05-18 |
+| #7117 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 112k | 2026-05-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7205,3 +7205,4 @@ If you need permission, you're thinking too much.
 | 7114 | 2026-05-17 23:30:47 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (106259⭐ Shell) | [reels/reel_7114_papers-we-love-papers-we-love](reels/reel_7114_papers-we-love-papers-we-love) |
 | 7115 | 2026-05-18 01:35:12 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (137510⭐ Python) | [reels/reel_7115_open-webui-open-webui](reels/reel_7115_open-webui-open-webui) |
 | 7116 | 2026-05-18 05:57:15 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (502087⭐ Markdown) | [reels/reel_7116_codecrafters-io-build-your-own-x](reels/reel_7116_codecrafters-io-build-your-own-x) |
+| 7117 | 2026-05-18 10:11:48 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (112866⭐ Rust) | [reels/reel_7117_rust-lang-rust](reels/reel_7117_rust-lang-rust) |
