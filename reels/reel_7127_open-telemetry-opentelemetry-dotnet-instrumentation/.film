@@ -1,0 +1,24 @@
+{
+  "reel_number": 7127,
+  "recorded": "2026-05-19 11:32:01 UTC",
+  "repository": {
+    "full_name": "open-telemetry/opentelemetry-dotnet-instrumentation",
+    "url": "https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation",
+    "clone_url": "https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation.git",
+    "stars": 453,
+    "language": "C++",
+    "size_kb": 73147
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 71,
+    "duration_seconds": 2.701761
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 453 stars."
+  }
+}
