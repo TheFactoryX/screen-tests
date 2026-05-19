@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7128 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python · ⭐ 103k | 2026-05-19 |
+| #7129 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-05-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7217,3 +7217,4 @@ If you need permission, you're thinking too much.
 | 7126 | 2026-05-19 08:05:35 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (186818⭐ JavaScript) | [reels/reel_7126_affaan-m-ECC](reels/reel_7126_affaan-m-ECC) |
 | 7127 | 2026-05-19 11:32:01 | [open-telemetry/opentelemetry-dotnet-instrumentation](https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation) | ✅ full (453⭐ C++) | [reels/reel_7127_open-telemetry-opentelemetry-dotnet-instrumentation](reels/reel_7127_open-telemetry-opentelemetry-dotnet-instrumentation) |
 | 7128 | 2026-05-19 14:15:44 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ✅ full (103570⭐ Python) | [reels/reel_7128_deepseek-ai-DeepSeek-V3](reels/reel_7128_deepseek-ai-DeepSeek-V3) |
+| 7129 | 2026-05-19 17:24:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184429⭐ Python) | [reels/reel_7129_Significant-Gravitas-AutoGPT](reels/reel_7129_Significant-Gravitas-AutoGPT) |
