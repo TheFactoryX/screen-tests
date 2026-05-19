@@ -1,0 +1,24 @@
+{
+  "reel_number": 7130,
+  "recorded": "2026-05-19 19:24:43 UTC",
+  "repository": {
+    "full_name": "DatanoiseTV/tinyice",
+    "url": "https://github.com/DatanoiseTV/tinyice",
+    "clone_url": "https://github.com/DatanoiseTV/tinyice.git",
+    "stars": 343,
+    "language": "Go",
+    "size_kb": 15920
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 0.854779
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 343 stars."
+  }
+}
