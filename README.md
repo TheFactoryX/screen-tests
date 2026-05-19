@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7125 | [receptron/graphai](https://github.com/receptron/graphai) | TypeScript · ⭐ 370 | 2026-05-19 |
+| #7126 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 186k | 2026-05-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7214,3 +7214,4 @@ If you need permission, you're thinking too much.
 | 7123 | 2026-05-18 22:59:28 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (186524⭐ JavaScript) | [reels/reel_7123_affaan-m-everything-claude-code](reels/reel_7123_affaan-m-everything-claude-code) |
 | 7124 | 2026-05-19 00:14:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114626⭐ TypeScript) | [reels/reel_7124_shadcn-ui-ui](reels/reel_7124_shadcn-ui-ui) |
 | 7125 | 2026-05-19 04:35:33 | [receptron/graphai](https://github.com/receptron/graphai) | ✅ full (370⭐ TypeScript) | [reels/reel_7125_receptron-graphai](reels/reel_7125_receptron-graphai) |
+| 7126 | 2026-05-19 08:05:35 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (186818⭐ JavaScript) | [reels/reel_7126_affaan-m-ECC](reels/reel_7126_affaan-m-ECC) |
