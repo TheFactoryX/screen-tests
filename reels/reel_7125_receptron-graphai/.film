@@ -1,0 +1,24 @@
+{
+  "reel_number": 7125,
+  "recorded": "2026-05-19 04:35:33 UTC",
+  "repository": {
+    "full_name": "receptron/graphai",
+    "url": "https://github.com/receptron/graphai",
+    "clone_url": "https://github.com/receptron/graphai.git",
+    "stars": 370,
+    "language": "TypeScript",
+    "size_kb": 13206
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.897449
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 370 stars."
+  }
+}

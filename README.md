@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7124 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 114k | 2026-05-19 |
+| #7125 | [receptron/graphai](https://github.com/receptron/graphai) | TypeScript · ⭐ 370 | 2026-05-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7213,3 +7213,4 @@ If you need permission, you're thinking too much.
 | 7122 | 2026-05-18 21:52:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (162998⭐ Python) | [reels/reel_7122_yt-dlp-yt-dlp](reels/reel_7122_yt-dlp-yt-dlp) |
 | 7123 | 2026-05-18 22:59:28 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ full (186524⭐ JavaScript) | [reels/reel_7123_affaan-m-everything-claude-code](reels/reel_7123_affaan-m-everything-claude-code) |
 | 7124 | 2026-05-19 00:14:59 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114626⭐ TypeScript) | [reels/reel_7124_shadcn-ui-ui](reels/reel_7124_shadcn-ui-ui) |
+| 7125 | 2026-05-19 04:35:33 | [receptron/graphai](https://github.com/receptron/graphai) | ✅ full (370⭐ TypeScript) | [reels/reel_7125_receptron-graphai](reels/reel_7125_receptron-graphai) |
