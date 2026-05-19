@@ -1,0 +1,24 @@
+{
+  "reel_number": 7131,
+  "recorded": "2026-05-19 20:58:29 UTC",
+  "repository": {
+    "full_name": "FantasticFiasco/serilog-sinks-http",
+    "url": "https://github.com/FantasticFiasco/serilog-sinks-http",
+    "clone_url": "https://github.com/FantasticFiasco/serilog-sinks-http.git",
+    "stars": 187,
+    "language": "C#",
+    "size_kb": 1018
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.19464
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 187 stars."
+  }
+}
