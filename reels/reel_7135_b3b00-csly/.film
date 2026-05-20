@@ -1,0 +1,24 @@
+{
+  "reel_number": 7135,
+  "recorded": "2026-05-20 05:50:53 UTC",
+  "repository": {
+    "full_name": "b3b00/csly",
+    "url": "https://github.com/b3b00/csly",
+    "clone_url": "https://github.com/b3b00/csly.git",
+    "stars": 410,
+    "language": "C#",
+    "size_kb": 42131
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 41,
+    "duration_seconds": 1.916408
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 410 stars."
+  }
+}
