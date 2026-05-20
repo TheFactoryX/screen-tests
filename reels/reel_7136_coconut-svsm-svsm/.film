@@ -1,0 +1,24 @@
+{
+  "reel_number": 7136,
+  "recorded": "2026-05-20 09:28:29 UTC",
+  "repository": {
+    "full_name": "coconut-svsm/svsm",
+    "url": "https://github.com/coconut-svsm/svsm",
+    "clone_url": "https://github.com/coconut-svsm/svsm.git",
+    "stars": 217,
+    "language": "Rust",
+    "size_kb": 10563
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.194858
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 217 stars."
+  }
+}
