@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7136 | [coconut-svsm/svsm](https://github.com/coconut-svsm/svsm) | Rust · ⭐ 217 | 2026-05-20 |
+| #7137 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 293k | 2026-05-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7225,3 +7225,4 @@ If you need permission, you're thinking too much.
 | 7134 | 2026-05-20 01:35:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184429⭐ Python) | [reels/reel_7134_Significant-Gravitas-AutoGPT](reels/reel_7134_Significant-Gravitas-AutoGPT) |
 | 7135 | 2026-05-20 05:50:53 | [b3b00/csly](https://github.com/b3b00/csly) | ✅ full (410⭐ C#) | [reels/reel_7135_b3b00-csly](reels/reel_7135_b3b00-csly) |
 | 7136 | 2026-05-20 09:28:29 | [coconut-svsm/svsm](https://github.com/coconut-svsm/svsm) | ✅ full (217⭐ Rust) | [reels/reel_7136_coconut-svsm-svsm](reels/reel_7136_coconut-svsm-svsm) |
+| 7137 | 2026-05-20 12:07:37 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (293979⭐ None) | [reels/reel_7137_awesome-selfhosted-awesome-selfhosted](reels/reel_7137_awesome-selfhosted-awesome-selfhosted) |
