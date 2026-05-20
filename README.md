@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7133 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 293k | 2026-05-19 |
+| #7134 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-05-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7222,3 +7222,4 @@ If you need permission, you're thinking too much.
 | 7131 | 2026-05-19 20:58:29 | [FantasticFiasco/serilog-sinks-http](https://github.com/FantasticFiasco/serilog-sinks-http) | ✅ full (187⭐ C#) | [reels/reel_7131_FantasticFiasco-serilog-sinks-http](reels/reel_7131_FantasticFiasco-serilog-sinks-http) |
 | 7132 | 2026-05-19 22:20:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (293844⭐ None) | [reels/reel_7132_awesome-selfhosted-awesome-selfhosted](reels/reel_7132_awesome-selfhosted-awesome-selfhosted) |
 | 7133 | 2026-05-19 23:39:09 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (293854⭐ None) | [reels/reel_7133_awesome-selfhosted-awesome-selfhosted](reels/reel_7133_awesome-selfhosted-awesome-selfhosted) |
+| 7134 | 2026-05-20 01:35:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184429⭐ Python) | [reels/reel_7134_Significant-Gravitas-AutoGPT](reels/reel_7134_Significant-Gravitas-AutoGPT) |
