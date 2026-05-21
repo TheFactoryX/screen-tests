@@ -1,0 +1,24 @@
+{
+  "reel_number": 7147,
+  "recorded": "2026-05-21 16:01:05 UTC",
+  "repository": {
+    "full_name": "Koshimizu-Takehito/my-toybox",
+    "url": "https://github.com/Koshimizu-Takehito/my-toybox",
+    "clone_url": "https://github.com/Koshimizu-Takehito/my-toybox.git",
+    "stars": 116,
+    "language": "Swift",
+    "size_kb": 43400
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 1.202433
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 116 stars."
+  }
+}
