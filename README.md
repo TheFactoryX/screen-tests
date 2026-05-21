@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7145 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 188k | 2026-05-21 |
+| #7146 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 294k | 2026-05-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7234,3 +7234,4 @@ If you need permission, you're thinking too much.
 | 7143 | 2026-05-21 01:33:52 | [martenframework/marten](https://github.com/martenframework/marten) | ✅ full (471⭐ Crystal) | [reels/reel_7143_martenframework-marten](reels/reel_7143_martenframework-marten) |
 | 7144 | 2026-05-21 05:53:39 | [u-sb/nginx-docs](https://github.com/u-sb/nginx-docs) | ✅ full (28⭐ TypeScript) | [reels/reel_7144_u-sb-nginx-docs](reels/reel_7144_u-sb-nginx-docs) |
 | 7145 | 2026-05-21 09:36:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (188958⭐ TypeScript) | [reels/reel_7145_n8n-io-n8n](reels/reel_7145_n8n-io-n8n) |
+| 7146 | 2026-05-21 12:33:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (294250⭐ None) | [reels/reel_7146_awesome-selfhosted-awesome-selfhosted](reels/reel_7146_awesome-selfhosted-awesome-selfhosted) |
