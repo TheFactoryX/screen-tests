@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7149 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 189k | 2026-05-21 |
+| #7150 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 294k | 2026-05-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7238,3 +7238,4 @@ If you need permission, you're thinking too much.
 | 7147 | 2026-05-21 16:01:05 | [Koshimizu-Takehito/my-toybox](https://github.com/Koshimizu-Takehito/my-toybox) | ✅ full (116⭐ Swift) | [reels/reel_7147_Koshimizu-Takehito-my-toybox](reels/reel_7147_Koshimizu-Takehito-my-toybox) |
 | 7148 | 2026-05-21 18:12:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (114808⭐ TypeScript) | [reels/reel_7148_shadcn-ui-ui](reels/reel_7148_shadcn-ui-ui) |
 | 7149 | 2026-05-21 20:11:17 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189061⭐ TypeScript) | [reels/reel_7149_n8n-io-n8n](reels/reel_7149_n8n-io-n8n) |
+| 7150 | 2026-05-21 21:48:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (294345⭐ None) | [reels/reel_7150_awesome-selfhosted-awesome-selfhosted](reels/reel_7150_awesome-selfhosted-awesome-selfhosted) |
