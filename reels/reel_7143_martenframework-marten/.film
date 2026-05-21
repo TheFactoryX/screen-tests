@@ -1,0 +1,24 @@
+{
+  "reel_number": 7143,
+  "recorded": "2026-05-21 01:33:52 UTC",
+  "repository": {
+    "full_name": "martenframework/marten",
+    "url": "https://github.com/martenframework/marten",
+    "clone_url": "https://github.com/martenframework/marten.git",
+    "stars": 471,
+    "language": "Crystal",
+    "size_kb": 10517
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.930021
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Crystal",
+    "director_note": "A Crystal repository. 471 stars."
+  }
+}
