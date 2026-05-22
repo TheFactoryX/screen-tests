@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7160 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 112k | 2026-05-22 |
+| #7161 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 138k | 2026-05-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7249,3 +7249,4 @@ If you need permission, you're thinking too much.
 | 7158 | 2026-05-22 18:04:15 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (120157⭐ TypeScript) | [reels/reel_7158_clash-verge-rev-clash-verge-rev](reels/reel_7158_clash-verge-rev-clash-verge-rev) |
 | 7159 | 2026-05-22 20:09:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189287⭐ TypeScript) | [reels/reel_7159_n8n-io-n8n](reels/reel_7159_n8n-io-n8n) |
 | 7160 | 2026-05-22 21:35:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (112858⭐ None) | [reels/reel_7160_Hack-with-Github-Awesome-Hacking](reels/reel_7160_Hack-with-Github-Awesome-Hacking) |
+| 7161 | 2026-05-22 22:41:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (138264⭐ Python) | [reels/reel_7161_open-webui-open-webui](reels/reel_7161_open-webui-open-webui) |
