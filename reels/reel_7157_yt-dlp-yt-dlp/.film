@@ -1,0 +1,24 @@
+{
+  "reel_number": 7157,
+  "recorded": "2026-05-22 16:08:13 UTC",
+  "repository": {
+    "full_name": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "clone_url": "https://github.com/yt-dlp/yt-dlp.git",
+    "stars": 164094,
+    "language": "Python",
+    "size_kb": 60601
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 59,
+    "duration_seconds": 6.114776
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 164094 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7156 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-22 |
+| #7157 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 164k | 2026-05-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7245,3 +7245,4 @@ If you need permission, you're thinking too much.
 | 7154 | 2026-05-22 08:02:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116408⭐ TypeScript) | [reels/reel_7154_iptv-org-iptv](reels/reel_7154_iptv-org-iptv) |
 | 7155 | 2026-05-22 11:17:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116414⭐ TypeScript) | [reels/reel_7155_iptv-org-iptv](reels/reel_7155_iptv-org-iptv) |
 | 7156 | 2026-05-22 13:42:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148658⭐ Python) | [reels/reel_7156_langflow-ai-langflow](reels/reel_7156_langflow-ai-langflow) |
+| 7157 | 2026-05-22 16:08:13 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (164094⭐ Python) | [reels/reel_7157_yt-dlp-yt-dlp](reels/reel_7157_yt-dlp-yt-dlp) |
