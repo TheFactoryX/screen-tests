@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7161 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 138k | 2026-05-22 |
+| #7162 | [VermiIIi0n/scramble-pdf](https://github.com/VermiIIi0n/scramble-pdf) | Typst · ⭐ 169 | 2026-05-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7250,3 +7250,4 @@ If you need permission, you're thinking too much.
 | 7159 | 2026-05-22 20:09:44 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189287⭐ TypeScript) | [reels/reel_7159_n8n-io-n8n](reels/reel_7159_n8n-io-n8n) |
 | 7160 | 2026-05-22 21:35:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (112858⭐ None) | [reels/reel_7160_Hack-with-Github-Awesome-Hacking](reels/reel_7160_Hack-with-Github-Awesome-Hacking) |
 | 7161 | 2026-05-22 22:41:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (138264⭐ Python) | [reels/reel_7161_open-webui-open-webui](reels/reel_7161_open-webui-open-webui) |
+| 7162 | 2026-05-22 23:46:56 | [VermiIIi0n/scramble-pdf](https://github.com/VermiIIi0n/scramble-pdf) | ✅ full (169⭐ Typst) | [reels/reel_7162_VermiIIi0n-scramble-pdf](reels/reel_7162_VermiIIi0n-scramble-pdf) |

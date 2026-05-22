@@ -1,0 +1,24 @@
+{
+  "reel_number": 7162,
+  "recorded": "2026-05-22 23:46:56 UTC",
+  "repository": {
+    "full_name": "VermiIIi0n/scramble-pdf",
+    "url": "https://github.com/VermiIIi0n/scramble-pdf",
+    "clone_url": "https://github.com/VermiIIi0n/scramble-pdf.git",
+    "stars": 169,
+    "language": "Typst",
+    "size_kb": 1884
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.262162
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Typst",
+    "director_note": "A Typst repository. 169 stars."
+  }
+}
