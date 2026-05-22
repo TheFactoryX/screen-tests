@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7152 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-05-22 |
+| #7153 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 137k | 2026-05-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7241,3 +7241,4 @@ If you need permission, you're thinking too much.
 | 7150 | 2026-05-21 21:48:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (294345⭐ None) | [reels/reel_7150_awesome-selfhosted-awesome-selfhosted](reels/reel_7150_awesome-selfhosted-awesome-selfhosted) |
 | 7151 | 2026-05-21 23:01:30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (137319⭐ Python) | [reels/reel_7151_langchain-ai-langchain](reels/reel_7151_langchain-ai-langchain) |
 | 7152 | 2026-05-22 00:14:59 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140343⭐ Python) | [reels/reel_7152_ytdl-org-youtube-dl](reels/reel_7152_ytdl-org-youtube-dl) |
+| 7153 | 2026-05-22 04:38:04 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (137345⭐ Python) | [reels/reel_7153_langchain-ai-langchain](reels/reel_7153_langchain-ai-langchain) |
