@@ -1,0 +1,24 @@
+{
+  "reel_number": 7177,
+  "recorded": "2026-05-23 22:51:36 UTC",
+  "repository": {
+    "full_name": "JuliaPackaging/Yggdrasil",
+    "url": "https://github.com/JuliaPackaging/Yggdrasil",
+    "clone_url": "https://github.com/JuliaPackaging/Yggdrasil.git",
+    "stars": 399,
+    "language": "Fortran",
+    "size_kb": 152549
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 148,
+    "duration_seconds": 1.115605
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Fortran",
+    "director_note": "A Fortran repository. 399 stars."
+  }
+}
