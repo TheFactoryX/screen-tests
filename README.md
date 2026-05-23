@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7168 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 106k | 2026-05-23 |
+| #7169 | [promhippie/github_exporter](https://github.com/promhippie/github_exporter) | Go · ⭐ 149 | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7257,3 +7257,4 @@ If you need permission, you're thinking too much.
 | 7166 | 2026-05-23 10:14:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113017⭐ Rust) | [reels/reel_7166_rust-lang-rust](reels/reel_7166_rust-lang-rust) |
 | 7167 | 2026-05-23 11:36:52 | [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki) | ✅ full (608⭐ PHP) | [reels/reel_7167_SemanticMediaWiki-SemanticMediaWiki](reels/reel_7167_SemanticMediaWiki-SemanticMediaWiki) |
 | 7168 | 2026-05-23 12:42:11 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (106994⭐ Rust) | [reels/reel_7168_tauri-apps-tauri](reels/reel_7168_tauri-apps-tauri) |
+| 7169 | 2026-05-23 14:16:10 | [promhippie/github_exporter](https://github.com/promhippie/github_exporter) | ✅ full (149⭐ Go) | [reels/reel_7169_promhippie-github_exporter](reels/reel_7169_promhippie-github_exporter) |
