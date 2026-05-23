@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7167 | [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki) | PHP · ⭐ 608 | 2026-05-23 |
+| #7168 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 106k | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7256,3 +7256,4 @@ If you need permission, you're thinking too much.
 | 7165 | 2026-05-23 08:30:54 | [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) | ✅ full (545⭐ Python) | [reels/reel_7165_PBH-BTN-BTN-Collected-Rules](reels/reel_7165_PBH-BTN-BTN-Collected-Rules) |
 | 7166 | 2026-05-23 10:14:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113017⭐ Rust) | [reels/reel_7166_rust-lang-rust](reels/reel_7166_rust-lang-rust) |
 | 7167 | 2026-05-23 11:36:52 | [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki) | ✅ full (608⭐ PHP) | [reels/reel_7167_SemanticMediaWiki-SemanticMediaWiki](reels/reel_7167_SemanticMediaWiki-SemanticMediaWiki) |
+| 7168 | 2026-05-23 12:42:11 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (106994⭐ Rust) | [reels/reel_7168_tauri-apps-tauri](reels/reel_7168_tauri-apps-tauri) |
