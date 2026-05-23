@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7173 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-23 |
+| #7174 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7262,3 +7262,4 @@ If you need permission, you're thinking too much.
 | 7171 | 2026-05-23 16:40:46 | [utopusc/livinity-io](https://github.com/utopusc/livinity-io) | ✅ shallow (119⭐ TypeScript) | [reels/reel_7171_utopusc-livinity-io](reels/reel_7171_utopusc-livinity-io) |
 | 7172 | 2026-05-23 17:43:22 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ✅ full (104466⭐ Shell) | [reels/reel_7172_msitarzewski-agency-agents](reels/reel_7172_msitarzewski-agency-agents) |
 | 7173 | 2026-05-23 18:43:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148690⭐ Python) | [reels/reel_7173_langflow-ai-langflow](reels/reel_7173_langflow-ai-langflow) |
+| 7174 | 2026-05-23 19:52:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148690⭐ Python) | [reels/reel_7174_langflow-ai-langflow](reels/reel_7174_langflow-ai-langflow) |
