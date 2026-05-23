@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7164 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-23 |
+| #7165 | [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) | Python · ⭐ 545 | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7253,3 +7253,4 @@ If you need permission, you're thinking too much.
 | 7162 | 2026-05-22 23:46:56 | [VermiIIi0n/scramble-pdf](https://github.com/VermiIIi0n/scramble-pdf) | ✅ full (169⭐ Typst) | [reels/reel_7162_VermiIIi0n-scramble-pdf](reels/reel_7162_VermiIIi0n-scramble-pdf) |
 | 7163 | 2026-05-23 02:49:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189324⭐ TypeScript) | [reels/reel_7163_n8n-io-n8n](reels/reel_7163_n8n-io-n8n) |
 | 7164 | 2026-05-23 06:11:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148678⭐ Python) | [reels/reel_7164_langflow-ai-langflow](reels/reel_7164_langflow-ai-langflow) |
+| 7165 | 2026-05-23 08:30:54 | [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) | ✅ full (545⭐ Python) | [reels/reel_7165_PBH-BTN-BTN-Collected-Rules](reels/reel_7165_PBH-BTN-BTN-Collected-Rules) |
