@@ -1,0 +1,24 @@
+{
+  "reel_number": 7171,
+  "recorded": "2026-05-23 16:40:46 UTC",
+  "repository": {
+    "full_name": "utopusc/livinity-io",
+    "url": "https://github.com/utopusc/livinity-io",
+    "clone_url": "https://github.com/utopusc/livinity-io.git",
+    "stars": 119,
+    "language": "TypeScript",
+    "size_kb": 163803
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 159,
+    "duration_seconds": 3.610781
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 119 stars."
+  }
+}
