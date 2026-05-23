@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7175 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 106k | 2026-05-23 |
+| #7176 | [documentcloud/underscore-contrib](https://github.com/documentcloud/underscore-contrib) | JavaScript · ⭐ 624 | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7264,3 +7264,4 @@ If you need permission, you're thinking too much.
 | 7173 | 2026-05-23 18:43:42 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148690⭐ Python) | [reels/reel_7173_langflow-ai-langflow](reels/reel_7173_langflow-ai-langflow) |
 | 7174 | 2026-05-23 19:52:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148690⭐ Python) | [reels/reel_7174_langflow-ai-langflow](reels/reel_7174_langflow-ai-langflow) |
 | 7175 | 2026-05-23 20:49:45 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (106437⭐ Shell) | [reels/reel_7175_papers-we-love-papers-we-love](reels/reel_7175_papers-we-love-papers-we-love) |
+| 7176 | 2026-05-23 21:52:50 | [documentcloud/underscore-contrib](https://github.com/documentcloud/underscore-contrib) | ✅ full (624⭐ JavaScript) | [reels/reel_7176_documentcloud-underscore-contrib](reels/reel_7176_documentcloud-underscore-contrib) |
