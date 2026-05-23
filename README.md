@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7165 | [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) | Python · ⭐ 545 | 2026-05-23 |
+| #7166 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 113k | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7254,3 +7254,4 @@ If you need permission, you're thinking too much.
 | 7163 | 2026-05-23 02:49:07 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189324⭐ TypeScript) | [reels/reel_7163_n8n-io-n8n](reels/reel_7163_n8n-io-n8n) |
 | 7164 | 2026-05-23 06:11:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148678⭐ Python) | [reels/reel_7164_langflow-ai-langflow](reels/reel_7164_langflow-ai-langflow) |
 | 7165 | 2026-05-23 08:30:54 | [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) | ✅ full (545⭐ Python) | [reels/reel_7165_PBH-BTN-BTN-Collected-Rules](reels/reel_7165_PBH-BTN-BTN-Collected-Rules) |
+| 7166 | 2026-05-23 10:14:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113017⭐ Rust) | [reels/reel_7166_rust-lang-rust](reels/reel_7166_rust-lang-rust) |
