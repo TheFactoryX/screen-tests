@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7166 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 113k | 2026-05-23 |
+| #7167 | [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki) | PHP · ⭐ 608 | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7255,3 +7255,4 @@ If you need permission, you're thinking too much.
 | 7164 | 2026-05-23 06:11:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148678⭐ Python) | [reels/reel_7164_langflow-ai-langflow](reels/reel_7164_langflow-ai-langflow) |
 | 7165 | 2026-05-23 08:30:54 | [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) | ✅ full (545⭐ Python) | [reels/reel_7165_PBH-BTN-BTN-Collected-Rules](reels/reel_7165_PBH-BTN-BTN-Collected-Rules) |
 | 7166 | 2026-05-23 10:14:39 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113017⭐ Rust) | [reels/reel_7166_rust-lang-rust](reels/reel_7166_rust-lang-rust) |
+| 7167 | 2026-05-23 11:36:52 | [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki) | ✅ full (608⭐ PHP) | [reels/reel_7167_SemanticMediaWiki-SemanticMediaWiki](reels/reel_7167_SemanticMediaWiki-SemanticMediaWiki) |

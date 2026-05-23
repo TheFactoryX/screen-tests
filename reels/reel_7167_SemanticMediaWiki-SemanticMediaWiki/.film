@@ -1,0 +1,24 @@
+{
+  "reel_number": 7167,
+  "recorded": "2026-05-23 11:36:52 UTC",
+  "repository": {
+    "full_name": "SemanticMediaWiki/SemanticMediaWiki",
+    "url": "https://github.com/SemanticMediaWiki/SemanticMediaWiki",
+    "clone_url": "https://github.com/SemanticMediaWiki/SemanticMediaWiki.git",
+    "stars": 608,
+    "language": "PHP",
+    "size_kb": 64708
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 6.244378
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 608 stars."
+  }
+}
