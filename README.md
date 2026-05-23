@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7177 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | Fortran · ⭐ 399 | 2026-05-23 |
+| #7178 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 137k | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7266,3 +7266,4 @@ If you need permission, you're thinking too much.
 | 7175 | 2026-05-23 20:49:45 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (106437⭐ Shell) | [reels/reel_7175_papers-we-love-papers-we-love](reels/reel_7175_papers-we-love-papers-we-love) |
 | 7176 | 2026-05-23 21:52:50 | [documentcloud/underscore-contrib](https://github.com/documentcloud/underscore-contrib) | ✅ full (624⭐ JavaScript) | [reels/reel_7176_documentcloud-underscore-contrib](reels/reel_7176_documentcloud-underscore-contrib) |
 | 7177 | 2026-05-23 22:51:36 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | ✅ shallow (399⭐ Fortran) | [reels/reel_7177_JuliaPackaging-Yggdrasil](reels/reel_7177_JuliaPackaging-Yggdrasil) |
+| 7178 | 2026-05-23 23:55:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (137483⭐ Python) | [reels/reel_7178_langchain-ai-langchain](reels/reel_7178_langchain-ai-langchain) |
