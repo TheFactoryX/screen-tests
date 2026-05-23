@@ -1,0 +1,24 @@
+{
+  "reel_number": 7172,
+  "recorded": "2026-05-23 17:43:22 UTC",
+  "repository": {
+    "full_name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "clone_url": "https://github.com/msitarzewski/agency-agents.git",
+    "stars": 104466,
+    "language": "Shell",
+    "size_kb": 2588
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.480767
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 104466 stars."
+  }
+}

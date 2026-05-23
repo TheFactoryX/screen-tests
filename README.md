@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7171 | [utopusc/livinity-io](https://github.com/utopusc/livinity-io) | TypeScript · ⭐ 119 | 2026-05-23 |
+| #7172 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell · ⭐ 104k | 2026-05-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7260,3 +7260,4 @@ If you need permission, you're thinking too much.
 | 7169 | 2026-05-23 14:16:10 | [promhippie/github_exporter](https://github.com/promhippie/github_exporter) | ✅ full (149⭐ Go) | [reels/reel_7169_promhippie-github_exporter](reels/reel_7169_promhippie-github_exporter) |
 | 7170 | 2026-05-23 15:39:42 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (120350⭐ TypeScript) | [reels/reel_7170_clash-verge-rev-clash-verge-rev](reels/reel_7170_clash-verge-rev-clash-verge-rev) |
 | 7171 | 2026-05-23 16:40:46 | [utopusc/livinity-io](https://github.com/utopusc/livinity-io) | ✅ shallow (119⭐ TypeScript) | [reels/reel_7171_utopusc-livinity-io](reels/reel_7171_utopusc-livinity-io) |
+| 7172 | 2026-05-23 17:43:22 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ✅ full (104466⭐ Shell) | [reels/reel_7172_msitarzewski-agency-agents](reels/reel_7172_msitarzewski-agency-agents) |
