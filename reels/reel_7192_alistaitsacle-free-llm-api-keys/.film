@@ -1,0 +1,24 @@
+{
+  "reel_number": 7192,
+  "recorded": "2026-05-24 22:56:12 UTC",
+  "repository": {
+    "full_name": "alistaitsacle/free-llm-api-keys",
+    "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+    "clone_url": "https://github.com/alistaitsacle/free-llm-api-keys.git",
+    "stars": 939,
+    "language": "Python",
+    "size_kb": 5766
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 2.06978
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 939 stars."
+  }
+}
