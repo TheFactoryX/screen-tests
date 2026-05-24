@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7179 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-05-24 |
+| #7180 | [caunt/SupercellProxy](https://github.com/caunt/SupercellProxy) | C# · ⭐ 16 | 2026-05-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7268,3 +7268,4 @@ If you need permission, you're thinking too much.
 | 7177 | 2026-05-23 22:51:36 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | ✅ shallow (399⭐ Fortran) | [reels/reel_7177_JuliaPackaging-Yggdrasil](reels/reel_7177_JuliaPackaging-Yggdrasil) |
 | 7178 | 2026-05-23 23:55:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (137483⭐ Python) | [reels/reel_7178_langchain-ai-langchain](reels/reel_7178_langchain-ai-langchain) |
 | 7179 | 2026-05-24 03:30:33 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184482⭐ Python) | [reels/reel_7179_Significant-Gravitas-AutoGPT](reels/reel_7179_Significant-Gravitas-AutoGPT) |
+| 7180 | 2026-05-24 06:51:01 | [caunt/SupercellProxy](https://github.com/caunt/SupercellProxy) | ✅ full (16⭐ C#) | [reels/reel_7180_caunt-SupercellProxy](reels/reel_7180_caunt-SupercellProxy) |

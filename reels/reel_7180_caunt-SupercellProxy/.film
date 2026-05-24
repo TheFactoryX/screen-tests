@@ -1,0 +1,24 @@
+{
+  "reel_number": 7180,
+  "recorded": "2026-05-24 06:51:01 UTC",
+  "repository": {
+    "full_name": "caunt/SupercellProxy",
+    "url": "https://github.com/caunt/SupercellProxy",
+    "clone_url": "https://github.com/caunt/SupercellProxy.git",
+    "stars": 16,
+    "language": "C#",
+    "size_kb": 328
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.629573
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 16 stars."
+  }
+}
