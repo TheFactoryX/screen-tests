@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7183 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 165k | 2026-05-24 |
+| #7184 | [vanyle/vectarine](https://github.com/vanyle/vectarine) | Rust · ⭐ 126 | 2026-05-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7272,3 +7272,4 @@ If you need permission, you're thinking too much.
 | 7181 | 2026-05-24 09:20:26 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (120465⭐ TypeScript) | [reels/reel_7181_clash-verge-rev-clash-verge-rev](reels/reel_7181_clash-verge-rev-clash-verge-rev) |
 | 7182 | 2026-05-24 10:53:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (294903⭐ None) | [reels/reel_7182_awesome-selfhosted-awesome-selfhosted](reels/reel_7182_awesome-selfhosted-awesome-selfhosted) |
 | 7183 | 2026-05-24 11:59:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (165211⭐ Python) | [reels/reel_7183_yt-dlp-yt-dlp](reels/reel_7183_yt-dlp-yt-dlp) |
+| 7184 | 2026-05-24 13:52:36 | [vanyle/vectarine](https://github.com/vanyle/vectarine) | ✅ full (126⭐ Rust) | [reels/reel_7184_vanyle-vectarine](reels/reel_7184_vanyle-vectarine) |
