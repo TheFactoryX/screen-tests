@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7185 | [shiyu-coder/Kronos-demo](https://github.com/shiyu-coder/Kronos-demo) | Python · ⭐ 109 | 2026-05-24 |
+| #7186 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript · ⭐ 104k | 2026-05-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7274,3 +7274,4 @@ If you need permission, you're thinking too much.
 | 7183 | 2026-05-24 11:59:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (165211⭐ Python) | [reels/reel_7183_yt-dlp-yt-dlp](reels/reel_7183_yt-dlp-yt-dlp) |
 | 7184 | 2026-05-24 13:52:36 | [vanyle/vectarine](https://github.com/vanyle/vectarine) | ✅ full (126⭐ Rust) | [reels/reel_7184_vanyle-vectarine](reels/reel_7184_vanyle-vectarine) |
 | 7185 | 2026-05-24 15:01:53 | [shiyu-coder/Kronos-demo](https://github.com/shiyu-coder/Kronos-demo) | ✅ readme_only (109⭐ Python) | [reels/reel_7185_shiyu-coder-Kronos-demo](reels/reel_7185_shiyu-coder-Kronos-demo) |
+| 7186 | 2026-05-24 16:14:05 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ✅ full (104555⭐ TypeScript) | [reels/reel_7186_google-gemini-gemini-cli](reels/reel_7186_google-gemini-gemini-cli) |
