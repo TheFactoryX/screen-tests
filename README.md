@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7190 | [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods) | C++ · ⭐ 815 | 2026-05-24 |
+| #7191 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 107k | 2026-05-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7279,3 +7279,4 @@ If you need permission, you're thinking too much.
 | 7188 | 2026-05-24 18:36:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (504149⭐ Markdown) | [reels/reel_7188_codecrafters-io-build-your-own-x](reels/reel_7188_codecrafters-io-build-your-own-x) |
 | 7189 | 2026-05-24 19:49:35 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (436961⭐ Python) | [reels/reel_7189_public-apis-public-apis](reels/reel_7189_public-apis-public-apis) |
 | 7190 | 2026-05-24 20:53:25 | [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods) | ✅ shallow (815⭐ C++) | [reels/reel_7190_ramensoftware-windhawk-mods](reels/reel_7190_ramensoftware-windhawk-mods) |
+| 7191 | 2026-05-24 21:54:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (107041⭐ Rust) | [reels/reel_7191_tauri-apps-tauri](reels/reel_7191_tauri-apps-tauri) |
