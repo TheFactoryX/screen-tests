@@ -1,0 +1,24 @@
+{
+  "reel_number": 7185,
+  "recorded": "2026-05-24 15:01:53 UTC",
+  "repository": {
+    "full_name": "shiyu-coder/Kronos-demo",
+    "url": "https://github.com/shiyu-coder/Kronos-demo",
+    "clone_url": "https://github.com/shiyu-coder/Kronos-demo.git",
+    "stars": 109,
+    "language": "Python",
+    "size_kb": 1140934
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1114,
+    "duration_seconds": 0.000145
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 109 stars."
+  }
+}
