@@ -1,0 +1,24 @@
+{
+  "reel_number": 7190,
+  "recorded": "2026-05-24 20:53:25 UTC",
+  "repository": {
+    "full_name": "ramensoftware/windhawk-mods",
+    "url": "https://github.com/ramensoftware/windhawk-mods",
+    "clone_url": "https://github.com/ramensoftware/windhawk-mods.git",
+    "stars": 815,
+    "language": "C++",
+    "size_kb": 312749
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 305,
+    "duration_seconds": 0.669504
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 815 stars."
+  }
+}
