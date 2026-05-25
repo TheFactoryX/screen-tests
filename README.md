@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7197 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 113k | 2026-05-25 |
+| #7198 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 120k | 2026-05-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7286,3 +7286,4 @@ If you need permission, you're thinking too much.
 | 7195 | 2026-05-25 08:47:11 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (191422⭐ JavaScript) | [reels/reel_7195_affaan-m-ECC](reels/reel_7195_affaan-m-ECC) |
 | 7196 | 2026-05-25 12:28:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (138565⭐ Python) | [reels/reel_7196_open-webui-open-webui](reels/reel_7196_open-webui-open-webui) |
 | 7197 | 2026-05-25 15:37:38 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (113048⭐ None) | [reels/reel_7197_Hack-with-Github-Awesome-Hacking](reels/reel_7197_Hack-with-Github-Awesome-Hacking) |
+| 7198 | 2026-05-25 17:22:26 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (120804⭐ TypeScript) | [reels/reel_7198_clash-verge-rev-clash-verge-rev](reels/reel_7198_clash-verge-rev-clash-verge-rev) |
