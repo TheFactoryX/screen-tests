@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7195 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 191k | 2026-05-25 |
+| #7196 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 138k | 2026-05-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7284,3 +7284,4 @@ If you need permission, you're thinking too much.
 | 7193 | 2026-05-24 23:59:33 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (436984⭐ Python) | [reels/reel_7193_public-apis-public-apis](reels/reel_7193_public-apis-public-apis) |
 | 7194 | 2026-05-25 04:44:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148726⭐ Python) | [reels/reel_7194_langflow-ai-langflow](reels/reel_7194_langflow-ai-langflow) |
 | 7195 | 2026-05-25 08:47:11 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (191422⭐ JavaScript) | [reels/reel_7195_affaan-m-ECC](reels/reel_7195_affaan-m-ECC) |
+| 7196 | 2026-05-25 12:28:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (138565⭐ Python) | [reels/reel_7196_open-webui-open-webui](reels/reel_7196_open-webui-open-webui) |
