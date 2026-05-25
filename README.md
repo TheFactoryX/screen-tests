@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7193 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 436k | 2026-05-24 |
+| #7194 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7282,3 +7282,4 @@ If you need permission, you're thinking too much.
 | 7191 | 2026-05-24 21:54:30 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (107041⭐ Rust) | [reels/reel_7191_tauri-apps-tauri](reels/reel_7191_tauri-apps-tauri) |
 | 7192 | 2026-05-24 22:56:12 | [alistaitsacle/free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) | ✅ full (939⭐ Python) | [reels/reel_7192_alistaitsacle-free-llm-api-keys](reels/reel_7192_alistaitsacle-free-llm-api-keys) |
 | 7193 | 2026-05-24 23:59:33 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (436984⭐ Python) | [reels/reel_7193_public-apis-public-apis](reels/reel_7193_public-apis-public-apis) |
+| 7194 | 2026-05-25 04:44:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148726⭐ Python) | [reels/reel_7194_langflow-ai-langflow](reels/reel_7194_langflow-ai-langflow) |
