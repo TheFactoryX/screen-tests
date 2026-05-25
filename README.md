@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7200 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 138k | 2026-05-25 |
+| #7201 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7289,3 +7289,4 @@ If you need permission, you're thinking too much.
 | 7198 | 2026-05-25 17:22:26 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (120804⭐ TypeScript) | [reels/reel_7198_clash-verge-rev-clash-verge-rev](reels/reel_7198_clash-verge-rev-clash-verge-rev) |
 | 7199 | 2026-05-25 18:59:11 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189662⭐ TypeScript) | [reels/reel_7199_n8n-io-n8n](reels/reel_7199_n8n-io-n8n) |
 | 7200 | 2026-05-25 20:24:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (138612⭐ Python) | [reels/reel_7200_open-webui-open-webui](reels/reel_7200_open-webui-open-webui) |
+| 7201 | 2026-05-25 21:43:49 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148740⭐ Python) | [reels/reel_7201_langflow-ai-langflow](reels/reel_7201_langflow-ai-langflow) |
