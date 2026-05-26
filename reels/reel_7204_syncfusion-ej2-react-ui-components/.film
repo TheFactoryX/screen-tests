@@ -1,0 +1,24 @@
+{
+  "reel_number": 7204,
+  "recorded": "2026-05-26 02:57:09 UTC",
+  "repository": {
+    "full_name": "syncfusion/ej2-react-ui-components",
+    "url": "https://github.com/syncfusion/ej2-react-ui-components",
+    "clone_url": "https://github.com/syncfusion/ej2-react-ui-components.git",
+    "stars": 400,
+    "language": "TypeScript",
+    "size_kb": 9717
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 2.180395
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 400 stars."
+  }
+}
