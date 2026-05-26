@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7208 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 504k | 2026-05-26 |
+| #7209 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7297,3 +7297,4 @@ If you need permission, you're thinking too much.
 | 7206 | 2026-05-26 13:52:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116520⭐ TypeScript) | [reels/reel_7206_iptv-org-iptv](reels/reel_7206_iptv-org-iptv) |
 | 7207 | 2026-05-26 17:24:44 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (193945⭐ JavaScript) | [reels/reel_7207_affaan-m-ECC](reels/reel_7207_affaan-m-ECC) |
 | 7208 | 2026-05-26 19:32:29 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (504874⭐ Markdown) | [reels/reel_7208_codecrafters-io-build-your-own-x](reels/reel_7208_codecrafters-io-build-your-own-x) |
+| 7209 | 2026-05-26 21:18:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148784⭐ Python) | [reels/reel_7209_langflow-ai-langflow](reels/reel_7209_langflow-ai-langflow) |
