@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7205 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 120k | 2026-05-26 |
+| #7206 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7294,3 +7294,4 @@ If you need permission, you're thinking too much.
 | 7203 | 2026-05-25 23:47:26 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113104⭐ Rust) | [reels/reel_7203_rust-lang-rust](reels/reel_7203_rust-lang-rust) |
 | 7204 | 2026-05-26 02:57:09 | [syncfusion/ej2-react-ui-components](https://github.com/syncfusion/ej2-react-ui-components) | ✅ full (400⭐ TypeScript) | [reels/reel_7204_syncfusion-ej2-react-ui-components](reels/reel_7204_syncfusion-ej2-react-ui-components) |
 | 7205 | 2026-05-26 06:49:28 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (120928⭐ TypeScript) | [reels/reel_7205_clash-verge-rev-clash-verge-rev](reels/reel_7205_clash-verge-rev-clash-verge-rev) |
+| 7206 | 2026-05-26 13:52:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116520⭐ TypeScript) | [reels/reel_7206_iptv-org-iptv](reels/reel_7206_iptv-org-iptv) |
