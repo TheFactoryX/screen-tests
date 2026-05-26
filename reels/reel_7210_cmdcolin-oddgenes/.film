@@ -1,0 +1,24 @@
+{
+  "reel_number": 7210,
+  "recorded": "2026-05-26 22:47:21 UTC",
+  "repository": {
+    "full_name": "cmdcolin/oddgenes",
+    "url": "https://github.com/cmdcolin/oddgenes",
+    "clone_url": "https://github.com/cmdcolin/oddgenes.git",
+    "stars": 209,
+    "language": "Raku",
+    "size_kb": 1335
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.172923
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Raku",
+    "director_note": "A Raku repository. 209 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7209 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 148k | 2026-05-26 |
+| #7210 | [cmdcolin/oddgenes](https://github.com/cmdcolin/oddgenes) | Raku · ⭐ 209 | 2026-05-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7298,3 +7298,4 @@ If you need permission, you're thinking too much.
 | 7207 | 2026-05-26 17:24:44 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (193945⭐ JavaScript) | [reels/reel_7207_affaan-m-ECC](reels/reel_7207_affaan-m-ECC) |
 | 7208 | 2026-05-26 19:32:29 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (504874⭐ Markdown) | [reels/reel_7208_codecrafters-io-build-your-own-x](reels/reel_7208_codecrafters-io-build-your-own-x) |
 | 7209 | 2026-05-26 21:18:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (148784⭐ Python) | [reels/reel_7209_langflow-ai-langflow](reels/reel_7209_langflow-ai-langflow) |
+| 7210 | 2026-05-26 22:47:21 | [cmdcolin/oddgenes](https://github.com/cmdcolin/oddgenes) | ✅ full (209⭐ Raku) | [reels/reel_7210_cmdcolin-oddgenes](reels/reel_7210_cmdcolin-oddgenes) |
