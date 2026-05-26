@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7206 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-26 |
+| #7207 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 193k | 2026-05-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7295,3 +7295,4 @@ If you need permission, you're thinking too much.
 | 7204 | 2026-05-26 02:57:09 | [syncfusion/ej2-react-ui-components](https://github.com/syncfusion/ej2-react-ui-components) | ✅ full (400⭐ TypeScript) | [reels/reel_7204_syncfusion-ej2-react-ui-components](reels/reel_7204_syncfusion-ej2-react-ui-components) |
 | 7205 | 2026-05-26 06:49:28 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (120928⭐ TypeScript) | [reels/reel_7205_clash-verge-rev-clash-verge-rev](reels/reel_7205_clash-verge-rev-clash-verge-rev) |
 | 7206 | 2026-05-26 13:52:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116520⭐ TypeScript) | [reels/reel_7206_iptv-org-iptv](reels/reel_7206_iptv-org-iptv) |
+| 7207 | 2026-05-26 17:24:44 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (193945⭐ JavaScript) | [reels/reel_7207_affaan-m-ECC](reels/reel_7207_affaan-m-ECC) |
