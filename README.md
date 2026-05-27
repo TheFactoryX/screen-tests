@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7217 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 189k | 2026-05-27 |
+| #7218 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 189k | 2026-05-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7306,3 +7306,4 @@ If you need permission, you're thinking too much.
 | 7215 | 2026-05-27 18:27:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (295536⭐ None) | [reels/reel_7215_awesome-selfhosted-awesome-selfhosted](reels/reel_7215_awesome-selfhosted-awesome-selfhosted) |
 | 7216 | 2026-05-27 20:33:04 | [Trovemaster/exocross](https://github.com/Trovemaster/exocross) | ✅ full (14⭐ Fortran) | [reels/reel_7216_Trovemaster-exocross](reels/reel_7216_Trovemaster-exocross) |
 | 7217 | 2026-05-27 22:22:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189987⭐ TypeScript) | [reels/reel_7217_n8n-io-n8n](reels/reel_7217_n8n-io-n8n) |
+| 7218 | 2026-05-27 23:43:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189994⭐ TypeScript) | [reels/reel_7218_n8n-io-n8n](reels/reel_7218_n8n-io-n8n) |
