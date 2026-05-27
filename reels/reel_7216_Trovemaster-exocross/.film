@@ -1,0 +1,24 @@
+{
+  "reel_number": 7216,
+  "recorded": "2026-05-27 20:33:04 UTC",
+  "repository": {
+    "full_name": "Trovemaster/exocross",
+    "url": "https://github.com/Trovemaster/exocross",
+    "clone_url": "https://github.com/Trovemaster/exocross.git",
+    "stars": 14,
+    "language": "Fortran",
+    "size_kb": 25901
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 1.311761
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Fortran",
+    "director_note": "A Fortran repository. 14 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7215 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 295k | 2026-05-27 |
+| #7216 | [Trovemaster/exocross](https://github.com/Trovemaster/exocross) | Fortran · ⭐ 14 | 2026-05-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7304,3 +7304,4 @@ If you need permission, you're thinking too much.
 | 7213 | 2026-05-27 08:36:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (165974⭐ Python) | [reels/reel_7213_yt-dlp-yt-dlp](reels/reel_7213_yt-dlp-yt-dlp) |
 | 7214 | 2026-05-27 15:56:56 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (295524⭐ None) | [reels/reel_7214_awesome-selfhosted-awesome-selfhosted](reels/reel_7214_awesome-selfhosted-awesome-selfhosted) |
 | 7215 | 2026-05-27 18:27:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (295536⭐ None) | [reels/reel_7215_awesome-selfhosted-awesome-selfhosted](reels/reel_7215_awesome-selfhosted-awesome-selfhosted) |
+| 7216 | 2026-05-27 20:33:04 | [Trovemaster/exocross](https://github.com/Trovemaster/exocross) | ✅ full (14⭐ Fortran) | [reels/reel_7216_Trovemaster-exocross](reels/reel_7216_Trovemaster-exocross) |
