@@ -1,0 +1,24 @@
+{
+  "reel_number": 7224,
+  "recorded": "2026-05-28 19:58:51 UTC",
+  "repository": {
+    "full_name": "freemank1224/vibe-word-master",
+    "url": "https://github.com/freemank1224/vibe-word-master",
+    "clone_url": "https://github.com/freemank1224/vibe-word-master.git",
+    "stars": 33,
+    "language": "TypeScript",
+    "size_kb": 30950
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 1.367538
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 33 stars."
+  }
+}
