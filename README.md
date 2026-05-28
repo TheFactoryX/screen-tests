@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7221 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 159k | 2026-05-28 |
+| #7222 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 139k | 2026-05-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7310,3 +7310,4 @@ If you need permission, you're thinking too much.
 | 7219 | 2026-05-28 01:25:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116558⭐ TypeScript) | [reels/reel_7219_iptv-org-iptv](reels/reel_7219_iptv-org-iptv) |
 | 7220 | 2026-05-28 05:47:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113139⭐ Rust) | [reels/reel_7220_rust-lang-rust](reels/reel_7220_rust-lang-rust) |
 | 7221 | 2026-05-28 09:58:21 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (159791⭐ None) | [reels/reel_7221_multica-ai-andrej-karpathy-skills](reels/reel_7221_multica-ai-andrej-karpathy-skills) |
+| 7222 | 2026-05-28 13:57:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (139022⭐ Python) | [reels/reel_7222_open-webui-open-webui](reels/reel_7222_open-webui-open-webui) |
