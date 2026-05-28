@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7219 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-28 |
+| #7220 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 113k | 2026-05-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7308,3 +7308,4 @@ If you need permission, you're thinking too much.
 | 7217 | 2026-05-27 22:22:05 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189987⭐ TypeScript) | [reels/reel_7217_n8n-io-n8n](reels/reel_7217_n8n-io-n8n) |
 | 7218 | 2026-05-27 23:43:41 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (189994⭐ TypeScript) | [reels/reel_7218_n8n-io-n8n](reels/reel_7218_n8n-io-n8n) |
 | 7219 | 2026-05-28 01:25:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116558⭐ TypeScript) | [reels/reel_7219_iptv-org-iptv](reels/reel_7219_iptv-org-iptv) |
+| 7220 | 2026-05-28 05:47:08 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113139⭐ Rust) | [reels/reel_7220_rust-lang-rust](reels/reel_7220_rust-lang-rust) |
