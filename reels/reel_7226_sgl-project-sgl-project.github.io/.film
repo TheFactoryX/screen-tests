@@ -1,0 +1,24 @@
+{
+  "reel_number": 7226,
+  "recorded": "2026-05-28 23:42:24 UTC",
+  "repository": {
+    "full_name": "sgl-project/sgl-project.github.io",
+    "url": "https://github.com/sgl-project/sgl-project.github.io",
+    "clone_url": "https://github.com/sgl-project/sgl-project.github.io.git",
+    "stars": 132,
+    "language": "HTML",
+    "size_kb": 696970
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 680,
+    "duration_seconds": 0.000147
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 132 stars."
+  }
+}
