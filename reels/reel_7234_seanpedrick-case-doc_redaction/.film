@@ -1,0 +1,24 @@
+{
+  "reel_number": 7234,
+  "recorded": "2026-05-29 22:49:46 UTC",
+  "repository": {
+    "full_name": "seanpedrick-case/doc_redaction",
+    "url": "https://github.com/seanpedrick-case/doc_redaction",
+    "clone_url": "https://github.com/seanpedrick-case/doc_redaction.git",
+    "stars": 50,
+    "language": "Python",
+    "size_kb": 8189
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.479103
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 50 stars."
+  }
+}
