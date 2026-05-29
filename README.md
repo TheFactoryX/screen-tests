@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7228 | [manwar/perlweeklychallenge-club](https://github.com/manwar/perlweeklychallenge-club) | Perl · ⭐ 213 | 2026-05-29 |
+| #7229 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 197k | 2026-05-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7317,3 +7317,4 @@ If you need permission, you're thinking too much.
 | 7226 | 2026-05-28 23:42:24 | [sgl-project/sgl-project.github.io](https://github.com/sgl-project/sgl-project.github.io) | ✅ readme_only (132⭐ HTML) | [reels/reel_7226_sgl-project-sgl-project.github.io](reels/reel_7226_sgl-project-sgl-project.github.io) |
 | 7227 | 2026-05-29 01:34:23 | [carnal0wnage/weirdAAL](https://github.com/carnal0wnage/weirdAAL) | ✅ full (842⭐ Python) | [reels/reel_7227_carnal0wnage-weirdAAL](reels/reel_7227_carnal0wnage-weirdAAL) |
 | 7228 | 2026-05-29 05:57:25 | [manwar/perlweeklychallenge-club](https://github.com/manwar/perlweeklychallenge-club) | ✅ shallow (213⭐ Perl) | [reels/reel_7228_manwar-perlweeklychallenge-club](reels/reel_7228_manwar-perlweeklychallenge-club) |
+| 7229 | 2026-05-29 09:59:00 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (197947⭐ JavaScript) | [reels/reel_7229_affaan-m-ECC](reels/reel_7229_affaan-m-ECC) |
