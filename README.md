@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7227 | [carnal0wnage/weirdAAL](https://github.com/carnal0wnage/weirdAAL) | Python · ⭐ 842 | 2026-05-29 |
+| #7228 | [manwar/perlweeklychallenge-club](https://github.com/manwar/perlweeklychallenge-club) | Perl · ⭐ 213 | 2026-05-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7316,3 +7316,4 @@ If you need permission, you're thinking too much.
 | 7225 | 2026-05-28 22:01:07 | [github/spec-kit](https://github.com/github/spec-kit) | ✅ full (106785⭐ Python) | [reels/reel_7225_github-spec-kit](reels/reel_7225_github-spec-kit) |
 | 7226 | 2026-05-28 23:42:24 | [sgl-project/sgl-project.github.io](https://github.com/sgl-project/sgl-project.github.io) | ✅ readme_only (132⭐ HTML) | [reels/reel_7226_sgl-project-sgl-project.github.io](reels/reel_7226_sgl-project-sgl-project.github.io) |
 | 7227 | 2026-05-29 01:34:23 | [carnal0wnage/weirdAAL](https://github.com/carnal0wnage/weirdAAL) | ✅ full (842⭐ Python) | [reels/reel_7227_carnal0wnage-weirdAAL](reels/reel_7227_carnal0wnage-weirdAAL) |
+| 7228 | 2026-05-29 05:57:25 | [manwar/perlweeklychallenge-club](https://github.com/manwar/perlweeklychallenge-club) | ✅ shallow (213⭐ Perl) | [reels/reel_7228_manwar-perlweeklychallenge-club](reels/reel_7228_manwar-perlweeklychallenge-club) |

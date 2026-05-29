@@ -1,0 +1,24 @@
+{
+  "reel_number": 7228,
+  "recorded": "2026-05-29 05:57:25 UTC",
+  "repository": {
+    "full_name": "manwar/perlweeklychallenge-club",
+    "url": "https://github.com/manwar/perlweeklychallenge-club",
+    "clone_url": "https://github.com/manwar/perlweeklychallenge-club.git",
+    "stars": 213,
+    "language": "Perl",
+    "size_kb": 159516
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 155,
+    "duration_seconds": 17.101637
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Perl",
+    "director_note": "A Perl repository. 213 stars."
+  }
+}
