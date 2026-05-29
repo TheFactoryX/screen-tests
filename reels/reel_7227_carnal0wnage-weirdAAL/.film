@@ -1,0 +1,24 @@
+{
+  "reel_number": 7227,
+  "recorded": "2026-05-29 01:34:23 UTC",
+  "repository": {
+    "full_name": "carnal0wnage/weirdAAL",
+    "url": "https://github.com/carnal0wnage/weirdAAL",
+    "clone_url": "https://github.com/carnal0wnage/weirdAAL.git",
+    "stars": 842,
+    "language": "Python",
+    "size_kb": 364
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.310236
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 842 stars."
+  }
+}
