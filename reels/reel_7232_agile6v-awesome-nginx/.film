@@ -1,0 +1,24 @@
+{
+  "reel_number": 7232,
+  "recorded": "2026-05-29 19:16:41 UTC",
+  "repository": {
+    "full_name": "agile6v/awesome-nginx",
+    "url": "https://github.com/agile6v/awesome-nginx",
+    "clone_url": "https://github.com/agile6v/awesome-nginx.git",
+    "stars": 1271,
+    "language": "C",
+    "size_kb": 138
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.182929
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 1271 stars."
+  }
+}
