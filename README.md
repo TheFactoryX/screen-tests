@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7230 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 113k | 2026-05-29 |
+| #7231 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7319,3 +7319,4 @@ If you need permission, you're thinking too much.
 | 7228 | 2026-05-29 05:57:25 | [manwar/perlweeklychallenge-club](https://github.com/manwar/perlweeklychallenge-club) | ✅ shallow (213⭐ Perl) | [reels/reel_7228_manwar-perlweeklychallenge-club](reels/reel_7228_manwar-perlweeklychallenge-club) |
 | 7229 | 2026-05-29 09:59:00 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (197947⭐ JavaScript) | [reels/reel_7229_affaan-m-ECC](reels/reel_7229_affaan-m-ECC) |
 | 7230 | 2026-05-29 12:50:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113184⭐ Rust) | [reels/reel_7230_rust-lang-rust](reels/reel_7230_rust-lang-rust) |
+| 7231 | 2026-05-29 16:40:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116605⭐ TypeScript) | [reels/reel_7231_iptv-org-iptv](reels/reel_7231_iptv-org-iptv) |
