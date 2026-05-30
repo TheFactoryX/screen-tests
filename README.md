@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7244 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-30 |
+| #7245 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-05-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7333,3 +7333,4 @@ If you need permission, you're thinking too much.
 | 7242 | 2026-05-30 15:35:37 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (296188⭐ None) | [reels/reel_7242_awesome-selfhosted-awesome-selfhosted](reels/reel_7242_awesome-selfhosted-awesome-selfhosted) |
 | 7243 | 2026-05-30 16:42:41 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (121957⭐ TypeScript) | [reels/reel_7243_clash-verge-rev-clash-verge-rev](reels/reel_7243_clash-verge-rev-clash-verge-rev) |
 | 7244 | 2026-05-30 17:46:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116642⭐ TypeScript) | [reels/reel_7244_iptv-org-iptv](reels/reel_7244_iptv-org-iptv) |
+| 7245 | 2026-05-30 19:11:15 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184656⭐ Python) | [reels/reel_7245_Significant-Gravitas-AutoGPT](reels/reel_7245_Significant-Gravitas-AutoGPT) |
