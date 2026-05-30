@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7234 | [seanpedrick-case/doc_redaction](https://github.com/seanpedrick-case/doc_redaction) | Python · ⭐ 50 | 2026-05-29 |
+| #7235 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 437k | 2026-05-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7323,3 +7323,4 @@ If you need permission, you're thinking too much.
 | 7232 | 2026-05-29 19:16:41 | [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) | ✅ full (1271⭐ C) | [reels/reel_7232_agile6v-awesome-nginx](reels/reel_7232_agile6v-awesome-nginx) |
 | 7233 | 2026-05-29 21:21:02 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (106630⭐ Shell) | [reels/reel_7233_papers-we-love-papers-we-love](reels/reel_7233_papers-we-love-papers-we-love) |
 | 7234 | 2026-05-29 22:49:46 | [seanpedrick-case/doc_redaction](https://github.com/seanpedrick-case/doc_redaction) | ✅ full (50⭐ Python) | [reels/reel_7234_seanpedrick-case-doc_redaction](reels/reel_7234_seanpedrick-case-doc_redaction) |
+| 7235 | 2026-05-30 00:08:24 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (437806⭐ Python) | [reels/reel_7235_public-apis-public-apis](reels/reel_7235_public-apis-public-apis) |
