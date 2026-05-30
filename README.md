@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7238 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 190k | 2026-05-30 |
+| #7239 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7327,3 +7327,4 @@ If you need permission, you're thinking too much.
 | 7236 | 2026-05-30 04:16:44 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (121826⭐ TypeScript) | [reels/reel_7236_clash-verge-rev-clash-verge-rev](reels/reel_7236_clash-verge-rev-clash-verge-rev) |
 | 7237 | 2026-05-30 07:25:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138015⭐ Python) | [reels/reel_7237_langchain-ai-langchain](reels/reel_7237_langchain-ai-langchain) |
 | 7238 | 2026-05-30 09:29:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (190307⭐ TypeScript) | [reels/reel_7238_n8n-io-n8n](reels/reel_7238_n8n-io-n8n) |
+| 7239 | 2026-05-30 11:00:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116627⭐ TypeScript) | [reels/reel_7239_iptv-org-iptv](reels/reel_7239_iptv-org-iptv) |
