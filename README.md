@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7239 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-30 |
+| #7240 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 166k | 2026-05-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7328,3 +7328,4 @@ If you need permission, you're thinking too much.
 | 7237 | 2026-05-30 07:25:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138015⭐ Python) | [reels/reel_7237_langchain-ai-langchain](reels/reel_7237_langchain-ai-langchain) |
 | 7238 | 2026-05-30 09:29:13 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (190307⭐ TypeScript) | [reels/reel_7238_n8n-io-n8n](reels/reel_7238_n8n-io-n8n) |
 | 7239 | 2026-05-30 11:00:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116627⭐ TypeScript) | [reels/reel_7239_iptv-org-iptv](reels/reel_7239_iptv-org-iptv) |
+| 7240 | 2026-05-30 12:15:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (166646⭐ Python) | [reels/reel_7240_yt-dlp-yt-dlp](reels/reel_7240_yt-dlp-yt-dlp) |
