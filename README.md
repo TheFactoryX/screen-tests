@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7236 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 121k | 2026-05-30 |
+| #7237 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 138k | 2026-05-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7325,3 +7325,4 @@ If you need permission, you're thinking too much.
 | 7234 | 2026-05-29 22:49:46 | [seanpedrick-case/doc_redaction](https://github.com/seanpedrick-case/doc_redaction) | ✅ full (50⭐ Python) | [reels/reel_7234_seanpedrick-case-doc_redaction](reels/reel_7234_seanpedrick-case-doc_redaction) |
 | 7235 | 2026-05-30 00:08:24 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (437806⭐ Python) | [reels/reel_7235_public-apis-public-apis](reels/reel_7235_public-apis-public-apis) |
 | 7236 | 2026-05-30 04:16:44 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (121826⭐ TypeScript) | [reels/reel_7236_clash-verge-rev-clash-verge-rev](reels/reel_7236_clash-verge-rev-clash-verge-rev) |
+| 7237 | 2026-05-30 07:25:16 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138015⭐ Python) | [reels/reel_7237_langchain-ai-langchain](reels/reel_7237_langchain-ai-langchain) |
