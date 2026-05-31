@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7250 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 113k | 2026-05-31 |
+| #7251 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-05-31 |
 ---
 
 ## 🎭 Selection Process
@@ -7339,3 +7339,4 @@ If you need permission, you're thinking too much.
 | 7248 | 2026-05-30 22:38:15 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (113433⭐ None) | [reels/reel_7248_Hack-with-Github-Awesome-Hacking](reels/reel_7248_Hack-with-Github-Awesome-Hacking) |
 | 7249 | 2026-05-30 23:41:36 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (266972⭐ None) | [reels/reel_7249_practical-tutorials-project-based-learning](reels/reel_7249_practical-tutorials-project-based-learning) |
 | 7250 | 2026-05-31 01:51:57 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113222⭐ Rust) | [reels/reel_7250_rust-lang-rust](reels/reel_7250_rust-lang-rust) |
+| 7251 | 2026-05-31 06:16:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184661⭐ Python) | [reels/reel_7251_Significant-Gravitas-AutoGPT](reels/reel_7251_Significant-Gravitas-AutoGPT) |
