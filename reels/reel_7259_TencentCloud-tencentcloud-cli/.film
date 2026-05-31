@@ -1,0 +1,24 @@
+{
+  "reel_number": 7259,
+  "recorded": "2026-05-31 19:48:35 UTC",
+  "repository": {
+    "full_name": "TencentCloud/tencentcloud-cli",
+    "url": "https://github.com/TencentCloud/tencentcloud-cli",
+    "clone_url": "https://github.com/TencentCloud/tencentcloud-cli.git",
+    "stars": 119,
+    "language": "Python",
+    "size_kb": 356282
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 347,
+    "duration_seconds": 13.070986
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 119 stars."
+  }
+}
