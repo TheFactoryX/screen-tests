@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7260 | [eclipse-dirigible/dirigible](https://github.com/eclipse-dirigible/dirigible) | JavaScript · ⭐ 276 | 2026-05-31 |
+| #7261 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 438k | 2026-05-31 |
 ---
 
 ## 🎭 Selection Process
@@ -7349,3 +7349,4 @@ If you need permission, you're thinking too much.
 | 7258 | 2026-05-31 18:16:44 | [wildfirechat/hm-chat](https://github.com/wildfirechat/hm-chat) | ✅ shallow (38⭐ TypeScript) | [reels/reel_7258_wildfirechat-hm-chat](reels/reel_7258_wildfirechat-hm-chat) |
 | 7259 | 2026-05-31 19:48:35 | [TencentCloud/tencentcloud-cli](https://github.com/TencentCloud/tencentcloud-cli) | ✅ shallow (119⭐ Python) | [reels/reel_7259_TencentCloud-tencentcloud-cli](reels/reel_7259_TencentCloud-tencentcloud-cli) |
 | 7260 | 2026-05-31 20:57:36 | [eclipse-dirigible/dirigible](https://github.com/eclipse-dirigible/dirigible) | ✅ shallow (276⭐ JavaScript) | [reels/reel_7260_eclipse-dirigible-dirigible](reels/reel_7260_eclipse-dirigible-dirigible) |
+| 7261 | 2026-05-31 22:03:09 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (438206⭐ Python) | [reels/reel_7261_public-apis-public-apis](reels/reel_7261_public-apis-public-apis) |
