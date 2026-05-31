@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7256 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 113k | 2026-05-31 |
+| #7257 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 166k | 2026-05-31 |
 ---
 
 ## 🎭 Selection Process
@@ -7345,3 +7345,4 @@ If you need permission, you're thinking too much.
 | 7254 | 2026-05-31 12:56:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116673⭐ TypeScript) | [reels/reel_7254_iptv-org-iptv](reels/reel_7254_iptv-org-iptv) |
 | 7255 | 2026-05-31 14:44:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (122111⭐ TypeScript) | [reels/reel_7255_clash-verge-rev-clash-verge-rev](reels/reel_7255_clash-verge-rev-clash-verge-rev) |
 | 7256 | 2026-05-31 15:55:41 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113239⭐ Rust) | [reels/reel_7256_rust-lang-rust](reels/reel_7256_rust-lang-rust) |
+| 7257 | 2026-05-31 17:05:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (166857⭐ Python) | [reels/reel_7257_yt-dlp-yt-dlp](reels/reel_7257_yt-dlp-yt-dlp) |
