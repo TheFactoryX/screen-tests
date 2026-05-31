@@ -1,0 +1,24 @@
+{
+  "reel_number": 7258,
+  "recorded": "2026-05-31 18:16:44 UTC",
+  "repository": {
+    "full_name": "wildfirechat/hm-chat",
+    "url": "https://github.com/wildfirechat/hm-chat",
+    "clone_url": "https://github.com/wildfirechat/hm-chat.git",
+    "stars": 38,
+    "language": "TypeScript",
+    "size_kb": 262222
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 256,
+    "duration_seconds": 1.670782
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 38 stars."
+  }
+}
