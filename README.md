@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7253 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-31 |
+| #7254 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-05-31 |
 ---
 
 ## 🎭 Selection Process
@@ -7342,3 +7342,4 @@ If you need permission, you're thinking too much.
 | 7251 | 2026-05-31 06:16:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184661⭐ Python) | [reels/reel_7251_Significant-Gravitas-AutoGPT](reels/reel_7251_Significant-Gravitas-AutoGPT) |
 | 7252 | 2026-05-31 09:28:03 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (122065⭐ TypeScript) | [reels/reel_7252_clash-verge-rev-clash-verge-rev](reels/reel_7252_clash-verge-rev-clash-verge-rev) |
 | 7253 | 2026-05-31 11:16:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116670⭐ TypeScript) | [reels/reel_7253_iptv-org-iptv](reels/reel_7253_iptv-org-iptv) |
+| 7254 | 2026-05-31 12:56:02 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116673⭐ TypeScript) | [reels/reel_7254_iptv-org-iptv](reels/reel_7254_iptv-org-iptv) |
