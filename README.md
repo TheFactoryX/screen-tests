@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7261 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 438k | 2026-05-31 |
+| #7262 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 139k | 2026-05-31 |
 ---
 
 ## 🎭 Selection Process
@@ -7350,3 +7350,4 @@ If you need permission, you're thinking too much.
 | 7259 | 2026-05-31 19:48:35 | [TencentCloud/tencentcloud-cli](https://github.com/TencentCloud/tencentcloud-cli) | ✅ shallow (119⭐ Python) | [reels/reel_7259_TencentCloud-tencentcloud-cli](reels/reel_7259_TencentCloud-tencentcloud-cli) |
 | 7260 | 2026-05-31 20:57:36 | [eclipse-dirigible/dirigible](https://github.com/eclipse-dirigible/dirigible) | ✅ shallow (276⭐ JavaScript) | [reels/reel_7260_eclipse-dirigible-dirigible](reels/reel_7260_eclipse-dirigible-dirigible) |
 | 7261 | 2026-05-31 22:03:09 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (438206⭐ Python) | [reels/reel_7261_public-apis-public-apis](reels/reel_7261_public-apis-public-apis) |
+| 7262 | 2026-05-31 23:16:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (139407⭐ Python) | [reels/reel_7262_open-webui-open-webui](reels/reel_7262_open-webui-open-webui) |
