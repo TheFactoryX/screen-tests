@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7259 | [TencentCloud/tencentcloud-cli](https://github.com/TencentCloud/tencentcloud-cli) | Python · ⭐ 119 | 2026-05-31 |
+| #7260 | [eclipse-dirigible/dirigible](https://github.com/eclipse-dirigible/dirigible) | JavaScript · ⭐ 276 | 2026-05-31 |
 ---
 
 ## 🎭 Selection Process
@@ -7348,3 +7348,4 @@ If you need permission, you're thinking too much.
 | 7257 | 2026-05-31 17:05:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (166857⭐ Python) | [reels/reel_7257_yt-dlp-yt-dlp](reels/reel_7257_yt-dlp-yt-dlp) |
 | 7258 | 2026-05-31 18:16:44 | [wildfirechat/hm-chat](https://github.com/wildfirechat/hm-chat) | ✅ shallow (38⭐ TypeScript) | [reels/reel_7258_wildfirechat-hm-chat](reels/reel_7258_wildfirechat-hm-chat) |
 | 7259 | 2026-05-31 19:48:35 | [TencentCloud/tencentcloud-cli](https://github.com/TencentCloud/tencentcloud-cli) | ✅ shallow (119⭐ Python) | [reels/reel_7259_TencentCloud-tencentcloud-cli](reels/reel_7259_TencentCloud-tencentcloud-cli) |
+| 7260 | 2026-05-31 20:57:36 | [eclipse-dirigible/dirigible](https://github.com/eclipse-dirigible/dirigible) | ✅ shallow (276⭐ JavaScript) | [reels/reel_7260_eclipse-dirigible-dirigible](reels/reel_7260_eclipse-dirigible-dirigible) |

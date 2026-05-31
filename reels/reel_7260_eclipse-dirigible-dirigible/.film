@@ -1,0 +1,24 @@
+{
+  "reel_number": 7260,
+  "recorded": "2026-05-31 20:57:36 UTC",
+  "repository": {
+    "full_name": "eclipse-dirigible/dirigible",
+    "url": "https://github.com/eclipse-dirigible/dirigible",
+    "clone_url": "https://github.com/eclipse-dirigible/dirigible.git",
+    "stars": 276,
+    "language": "JavaScript",
+    "size_kb": 216541
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 211,
+    "duration_seconds": 3.487468
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 276 stars."
+  }
+}
