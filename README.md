@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7267 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 115k | 2026-06-01 |
+| #7268 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 138k | 2026-06-01 |
 ---
 
 ## 🎭 Selection Process
@@ -7356,3 +7356,4 @@ If you need permission, you're thinking too much.
 | 7265 | 2026-06-01 12:20:59 | [V2RAYCONFIGSPOOL/V2RAY_SUB](https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB) | ✅ shallow (176⭐ None) | [reels/reel_7265_V2RAYCONFIGSPOOL-V2RAY_SUB](reels/reel_7265_V2RAYCONFIGSPOOL-V2RAY_SUB) |
 | 7266 | 2026-06-01 18:22:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (438427⭐ Python) | [reels/reel_7266_public-apis-public-apis](reels/reel_7266_public-apis-public-apis) |
 | 7267 | 2026-06-01 21:47:57 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (115286⭐ Python) | [reels/reel_7267_Comfy-Org-ComfyUI](reels/reel_7267_Comfy-Org-ComfyUI) |
+| 7268 | 2026-06-01 23:25:44 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138239⭐ Python) | [reels/reel_7268_langchain-ai-langchain](reels/reel_7268_langchain-ai-langchain) |
