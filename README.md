@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7264 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 267k | 2026-06-01 |
+| #7265 | [V2RAYCONFIGSPOOL/V2RAY_SUB](https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB) | None · ⭐ 176 | 2026-06-01 |
 ---
 
 ## 🎭 Selection Process
@@ -7353,3 +7353,4 @@ If you need permission, you're thinking too much.
 | 7262 | 2026-05-31 23:16:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (139407⭐ Python) | [reels/reel_7262_open-webui-open-webui](reels/reel_7262_open-webui-open-webui) |
 | 7263 | 2026-06-01 01:37:40 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (139412⭐ Python) | [reels/reel_7263_open-webui-open-webui](reels/reel_7263_open-webui-open-webui) |
 | 7264 | 2026-06-01 06:32:32 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (267140⭐ None) | [reels/reel_7264_practical-tutorials-project-based-learning](reels/reel_7264_practical-tutorials-project-based-learning) |
+| 7265 | 2026-06-01 12:20:59 | [V2RAYCONFIGSPOOL/V2RAY_SUB](https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB) | ✅ shallow (176⭐ None) | [reels/reel_7265_V2RAYCONFIGSPOOL-V2RAY_SUB](reels/reel_7265_V2RAYCONFIGSPOOL-V2RAY_SUB) |

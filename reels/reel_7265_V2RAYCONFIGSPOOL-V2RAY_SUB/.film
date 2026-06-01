@@ -1,0 +1,24 @@
+{
+  "reel_number": 7265,
+  "recorded": "2026-06-01 12:20:59 UTC",
+  "repository": {
+    "full_name": "V2RAYCONFIGSPOOL/V2RAY_SUB",
+    "url": "https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB",
+    "clone_url": "https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB.git",
+    "stars": 176,
+    "language": null,
+    "size_kb": 158848
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 155,
+    "duration_seconds": 0.614324
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 176 stars."
+  }
+}
