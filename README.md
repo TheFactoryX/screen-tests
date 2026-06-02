@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7273 | [mangosthree/server](https://github.com/mangosthree/server) | C++ · ⭐ 124 | 2026-06-02 |
+| #7274 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 203k | 2026-06-02 |
 ---
 
 ## 🎭 Selection Process
@@ -7362,3 +7362,4 @@ If you need permission, you're thinking too much.
 | 7271 | 2026-06-02 11:15:57 | [apache/causeway](https://github.com/apache/causeway) | ✅ shallow (888⭐ Java) | [reels/reel_7271_apache-causeway](reels/reel_7271_apache-causeway) |
 | 7272 | 2026-06-02 15:38:56 | [rwmt/Multiplayer-Compatibility](https://github.com/rwmt/Multiplayer-Compatibility) | ✅ full (48⭐ C#) | [reels/reel_7272_rwmt-Multiplayer-Compatibility](reels/reel_7272_rwmt-Multiplayer-Compatibility) |
 | 7273 | 2026-06-02 19:02:21 | [mangosthree/server](https://github.com/mangosthree/server) | ✅ shallow (124⭐ C++) | [reels/reel_7273_mangosthree-server](reels/reel_7273_mangosthree-server) |
+| 7274 | 2026-06-02 22:02:49 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (203763⭐ JavaScript) | [reels/reel_7274_affaan-m-ECC](reels/reel_7274_affaan-m-ECC) |
