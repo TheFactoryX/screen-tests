@@ -1,0 +1,24 @@
+{
+  "reel_number": 7271,
+  "recorded": "2026-06-02 11:15:57 UTC",
+  "repository": {
+    "full_name": "apache/causeway",
+    "url": "https://github.com/apache/causeway",
+    "clone_url": "https://github.com/apache/causeway.git",
+    "stars": 888,
+    "language": "Java",
+    "size_kb": 400631
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 391,
+    "duration_seconds": 4.675044
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 888 stars."
+  }
+}

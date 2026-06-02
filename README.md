@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7270 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-06-02 |
+| #7271 | [apache/causeway](https://github.com/apache/causeway) | Java · ⭐ 888 | 2026-06-02 |
 ---
 
 ## 🎭 Selection Process
@@ -7359,3 +7359,4 @@ If you need permission, you're thinking too much.
 | 7268 | 2026-06-01 23:25:44 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138239⭐ Python) | [reels/reel_7268_langchain-ai-langchain](reels/reel_7268_langchain-ai-langchain) |
 | 7269 | 2026-06-02 01:57:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (190653⭐ TypeScript) | [reels/reel_7269_n8n-io-n8n](reels/reel_7269_n8n-io-n8n) |
 | 7270 | 2026-06-02 06:45:33 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116744⭐ TypeScript) | [reels/reel_7270_iptv-org-iptv](reels/reel_7270_iptv-org-iptv) |
+| 7271 | 2026-06-02 11:15:57 | [apache/causeway](https://github.com/apache/causeway) | ✅ shallow (888⭐ Java) | [reels/reel_7271_apache-causeway](reels/reel_7271_apache-causeway) |
