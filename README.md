@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7272 | [rwmt/Multiplayer-Compatibility](https://github.com/rwmt/Multiplayer-Compatibility) | C# · ⭐ 48 | 2026-06-02 |
+| #7273 | [mangosthree/server](https://github.com/mangosthree/server) | C++ · ⭐ 124 | 2026-06-02 |
 ---
 
 ## 🎭 Selection Process
@@ -7361,3 +7361,4 @@ If you need permission, you're thinking too much.
 | 7270 | 2026-06-02 06:45:33 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116744⭐ TypeScript) | [reels/reel_7270_iptv-org-iptv](reels/reel_7270_iptv-org-iptv) |
 | 7271 | 2026-06-02 11:15:57 | [apache/causeway](https://github.com/apache/causeway) | ✅ shallow (888⭐ Java) | [reels/reel_7271_apache-causeway](reels/reel_7271_apache-causeway) |
 | 7272 | 2026-06-02 15:38:56 | [rwmt/Multiplayer-Compatibility](https://github.com/rwmt/Multiplayer-Compatibility) | ✅ full (48⭐ C#) | [reels/reel_7272_rwmt-Multiplayer-Compatibility](reels/reel_7272_rwmt-Multiplayer-Compatibility) |
+| 7273 | 2026-06-02 19:02:21 | [mangosthree/server](https://github.com/mangosthree/server) | ✅ shallow (124⭐ C++) | [reels/reel_7273_mangosthree-server](reels/reel_7273_mangosthree-server) |
