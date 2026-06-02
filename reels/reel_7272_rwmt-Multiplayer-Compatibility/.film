@@ -1,0 +1,24 @@
+{
+  "reel_number": 7272,
+  "recorded": "2026-06-02 15:38:56 UTC",
+  "repository": {
+    "full_name": "rwmt/Multiplayer-Compatibility",
+    "url": "https://github.com/rwmt/Multiplayer-Compatibility",
+    "clone_url": "https://github.com/rwmt/Multiplayer-Compatibility.git",
+    "stars": 48,
+    "language": "C#",
+    "size_kb": 5347
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 2.574755
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 48 stars."
+  }
+}
