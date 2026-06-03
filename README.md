@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7278 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-06-03 |
+| #7279 | [foxssake/netfox](https://github.com/foxssake/netfox) | GDScript · ⭐ 971 | 2026-06-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7367,3 +7367,4 @@ If you need permission, you're thinking too much.
 | 7276 | 2026-06-03 05:15:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (190827⭐ TypeScript) | [reels/reel_7276_n8n-io-n8n](reels/reel_7276_n8n-io-n8n) |
 | 7277 | 2026-06-03 10:18:07 | [yegor256/iri](https://github.com/yegor256/iri) | ✅ full (145⭐ Ruby) | [reels/reel_7277_yegor256-iri](reels/reel_7277_yegor256-iri) |
 | 7278 | 2026-06-03 15:12:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116782⭐ TypeScript) | [reels/reel_7278_iptv-org-iptv](reels/reel_7278_iptv-org-iptv) |
+| 7279 | 2026-06-03 18:59:15 | [foxssake/netfox](https://github.com/foxssake/netfox) | ✅ full (971⭐ GDScript) | [reels/reel_7279_foxssake-netfox](reels/reel_7279_foxssake-netfox) |

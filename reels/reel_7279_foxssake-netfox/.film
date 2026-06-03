@@ -1,0 +1,24 @@
+{
+  "reel_number": 7279,
+  "recorded": "2026-06-03 18:59:15 UTC",
+  "repository": {
+    "full_name": "foxssake/netfox",
+    "url": "https://github.com/foxssake/netfox",
+    "clone_url": "https://github.com/foxssake/netfox.git",
+    "stars": 971,
+    "language": "GDScript",
+    "size_kb": 16803
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 1.760945
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "GDScript",
+    "director_note": "A GDScript repository. 971 stars."
+  }
+}
