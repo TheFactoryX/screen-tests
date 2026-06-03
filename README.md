@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7275 | [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) | Rust · ⭐ 953 | 2026-06-03 |
+| #7276 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 190k | 2026-06-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7364,3 +7364,4 @@ If you need permission, you're thinking too much.
 | 7273 | 2026-06-02 19:02:21 | [mangosthree/server](https://github.com/mangosthree/server) | ✅ shallow (124⭐ C++) | [reels/reel_7273_mangosthree-server](reels/reel_7273_mangosthree-server) |
 | 7274 | 2026-06-02 22:02:49 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (203763⭐ JavaScript) | [reels/reel_7274_affaan-m-ECC](reels/reel_7274_affaan-m-ECC) |
 | 7275 | 2026-06-03 00:01:16 | [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) | ✅ shallow (953⭐ Rust) | [reels/reel_7275_luccahuguet-yazelix](reels/reel_7275_luccahuguet-yazelix) |
+| 7276 | 2026-06-03 05:15:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (190827⭐ TypeScript) | [reels/reel_7276_n8n-io-n8n](reels/reel_7276_n8n-io-n8n) |
