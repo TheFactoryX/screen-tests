@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7287 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-06-04 |
+| #7288 | [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) | Python · ⭐ 267 | 2026-06-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7376,3 +7376,4 @@ If you need permission, you're thinking too much.
 | 7285 | 2026-06-04 13:47:32 | [FYSETC/FYSETC-SPIDER](https://github.com/FYSETC/FYSETC-SPIDER) | ✅ readme_only (345⭐ C) | [reels/reel_7285_FYSETC-FYSETC-SPIDER](reels/reel_7285_FYSETC-FYSETC-SPIDER) |
 | 7286 | 2026-06-04 16:52:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184756⭐ Python) | [reels/reel_7286_Significant-Gravitas-AutoGPT](reels/reel_7286_Significant-Gravitas-AutoGPT) |
 | 7287 | 2026-06-04 19:22:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116827⭐ TypeScript) | [reels/reel_7287_iptv-org-iptv](reels/reel_7287_iptv-org-iptv) |
+| 7288 | 2026-06-04 21:10:23 | [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) | ✅ full (267⭐ Python) | [reels/reel_7288_Arvo-AI-aurora](reels/reel_7288_Arvo-AI-aurora) |
