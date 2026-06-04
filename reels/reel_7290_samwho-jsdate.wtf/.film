@@ -1,0 +1,24 @@
+{
+  "reel_number": 7290,
+  "recorded": "2026-06-04 23:54:07 UTC",
+  "repository": {
+    "full_name": "samwho/jsdate.wtf",
+    "url": "https://github.com/samwho/jsdate.wtf",
+    "clone_url": "https://github.com/samwho/jsdate.wtf.git",
+    "stars": 48,
+    "language": "HTML",
+    "size_kb": 166
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.177187
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 48 stars."
+  }
+}

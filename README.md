@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7289 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 113k | 2026-06-04 |
+| #7290 | [samwho/jsdate.wtf](https://github.com/samwho/jsdate.wtf) | HTML · ⭐ 48 | 2026-06-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7378,3 +7378,4 @@ If you need permission, you're thinking too much.
 | 7287 | 2026-06-04 19:22:04 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116827⭐ TypeScript) | [reels/reel_7287_iptv-org-iptv](reels/reel_7287_iptv-org-iptv) |
 | 7288 | 2026-06-04 21:10:23 | [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) | ✅ full (267⭐ Python) | [reels/reel_7288_Arvo-AI-aurora](reels/reel_7288_Arvo-AI-aurora) |
 | 7289 | 2026-06-04 22:44:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113415⭐ Rust) | [reels/reel_7289_rust-lang-rust](reels/reel_7289_rust-lang-rust) |
+| 7290 | 2026-06-04 23:54:07 | [samwho/jsdate.wtf](https://github.com/samwho/jsdate.wtf) | ✅ full (48⭐ HTML) | [reels/reel_7290_samwho-jsdate.wtf](reels/reel_7290_samwho-jsdate.wtf) |
