@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7281 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 122k | 2026-06-03 |
+| #7282 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 439k | 2026-06-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7370,3 +7370,4 @@ If you need permission, you're thinking too much.
 | 7279 | 2026-06-03 18:59:15 | [foxssake/netfox](https://github.com/foxssake/netfox) | ✅ full (971⭐ GDScript) | [reels/reel_7279_foxssake-netfox](reels/reel_7279_foxssake-netfox) |
 | 7280 | 2026-06-03 21:55:16 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116789⭐ TypeScript) | [reels/reel_7280_iptv-org-iptv](reels/reel_7280_iptv-org-iptv) |
 | 7281 | 2026-06-03 23:41:30 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (122944⭐ TypeScript) | [reels/reel_7281_clash-verge-rev-clash-verge-rev](reels/reel_7281_clash-verge-rev-clash-verge-rev) |
+| 7282 | 2026-06-04 02:10:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (439150⭐ Python) | [reels/reel_7282_public-apis-public-apis](reels/reel_7282_public-apis-public-apis) |
