@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7283 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell · ⭐ 116k | 2026-06-04 |
+| #7284 | [ossia/libossia](https://github.com/ossia/libossia) | C++ · ⭐ 231 | 2026-06-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7372,3 +7372,4 @@ If you need permission, you're thinking too much.
 | 7281 | 2026-06-03 23:41:30 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (122944⭐ TypeScript) | [reels/reel_7281_clash-verge-rev-clash-verge-rev](reels/reel_7281_clash-verge-rev-clash-verge-rev) |
 | 7282 | 2026-06-04 02:10:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (439150⭐ Python) | [reels/reel_7282_public-apis-public-apis](reels/reel_7282_public-apis-public-apis) |
 | 7283 | 2026-06-04 06:55:28 | [mattpocock/skills](https://github.com/mattpocock/skills) | ✅ full (116783⭐ Shell) | [reels/reel_7283_mattpocock-skills](reels/reel_7283_mattpocock-skills) |
+| 7284 | 2026-06-04 10:37:29 | [ossia/libossia](https://github.com/ossia/libossia) | ✅ full (231⭐ C++) | [reels/reel_7284_ossia-libossia](reels/reel_7284_ossia-libossia) |

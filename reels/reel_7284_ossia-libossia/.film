@@ -1,0 +1,24 @@
+{
+  "reel_number": 7284,
+  "recorded": "2026-06-04 10:37:29 UTC",
+  "repository": {
+    "full_name": "ossia/libossia",
+    "url": "https://github.com/ossia/libossia",
+    "clone_url": "https://github.com/ossia/libossia.git",
+    "stars": 231,
+    "language": "C++",
+    "size_kb": 36967
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 36,
+    "duration_seconds": 3.19212
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 231 stars."
+  }
+}
