@@ -1,0 +1,24 @@
+{
+  "reel_number": 7294,
+  "recorded": "2026-06-05 14:05:53 UTC",
+  "repository": {
+    "full_name": "kodehat/portkey",
+    "url": "https://github.com/kodehat/portkey",
+    "clone_url": "https://github.com/kodehat/portkey.git",
+    "stars": 112,
+    "language": "Go",
+    "size_kb": 8253
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.623487
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 112 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7293 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 512k | 2026-06-05 |
+| #7294 | [kodehat/portkey](https://github.com/kodehat/portkey) | Go · ⭐ 112 | 2026-06-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7382,3 +7382,4 @@ If you need permission, you're thinking too much.
 | 7291 | 2026-06-05 03:35:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184768⭐ Python) | [reels/reel_7291_Significant-Gravitas-AutoGPT](reels/reel_7291_Significant-Gravitas-AutoGPT) |
 | 7292 | 2026-06-05 07:54:15 | [sspaeti/second-brain-public](https://github.com/sspaeti/second-brain-public) | ✅ full (103⭐ Rust) | [reels/reel_7292_sspaeti-second-brain-public](reels/reel_7292_sspaeti-second-brain-public) |
 | 7293 | 2026-06-05 11:26:24 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (512069⭐ Markdown) | [reels/reel_7293_codecrafters-io-build-your-own-x](reels/reel_7293_codecrafters-io-build-your-own-x) |
+| 7294 | 2026-06-05 14:05:53 | [kodehat/portkey](https://github.com/kodehat/portkey) | ✅ full (112⭐ Go) | [reels/reel_7294_kodehat-portkey](reels/reel_7294_kodehat-portkey) |
