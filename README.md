@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7290 | [samwho/jsdate.wtf](https://github.com/samwho/jsdate.wtf) | HTML · ⭐ 48 | 2026-06-04 |
+| #7291 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-06-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7379,3 +7379,4 @@ If you need permission, you're thinking too much.
 | 7288 | 2026-06-04 21:10:23 | [Arvo-AI/aurora](https://github.com/Arvo-AI/aurora) | ✅ full (267⭐ Python) | [reels/reel_7288_Arvo-AI-aurora](reels/reel_7288_Arvo-AI-aurora) |
 | 7289 | 2026-06-04 22:44:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113415⭐ Rust) | [reels/reel_7289_rust-lang-rust](reels/reel_7289_rust-lang-rust) |
 | 7290 | 2026-06-04 23:54:07 | [samwho/jsdate.wtf](https://github.com/samwho/jsdate.wtf) | ✅ full (48⭐ HTML) | [reels/reel_7290_samwho-jsdate.wtf](reels/reel_7290_samwho-jsdate.wtf) |
+| 7291 | 2026-06-05 03:35:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184768⭐ Python) | [reels/reel_7291_Significant-Gravitas-AutoGPT](reels/reel_7291_Significant-Gravitas-AutoGPT) |
