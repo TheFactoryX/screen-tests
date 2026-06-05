@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7296 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 138k | 2026-06-05 |
+| #7297 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 208k | 2026-06-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7385,3 +7385,4 @@ If you need permission, you're thinking too much.
 | 7294 | 2026-06-05 14:05:53 | [kodehat/portkey](https://github.com/kodehat/portkey) | ✅ full (112⭐ Go) | [reels/reel_7294_kodehat-portkey](reels/reel_7294_kodehat-portkey) |
 | 7295 | 2026-06-05 16:39:32 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (267762⭐ None) | [reels/reel_7295_practical-tutorials-project-based-learning](reels/reel_7295_practical-tutorials-project-based-learning) |
 | 7296 | 2026-06-05 18:27:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138603⭐ Python) | [reels/reel_7296_langchain-ai-langchain](reels/reel_7296_langchain-ai-langchain) |
+| 7297 | 2026-06-05 20:27:02 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (208234⭐ JavaScript) | [reels/reel_7297_affaan-m-ECC](reels/reel_7297_affaan-m-ECC) |
