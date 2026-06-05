@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7291 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-06-05 |
+| #7292 | [sspaeti/second-brain-public](https://github.com/sspaeti/second-brain-public) | Rust · ⭐ 103 | 2026-06-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7380,3 +7380,4 @@ If you need permission, you're thinking too much.
 | 7289 | 2026-06-04 22:44:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113415⭐ Rust) | [reels/reel_7289_rust-lang-rust](reels/reel_7289_rust-lang-rust) |
 | 7290 | 2026-06-04 23:54:07 | [samwho/jsdate.wtf](https://github.com/samwho/jsdate.wtf) | ✅ full (48⭐ HTML) | [reels/reel_7290_samwho-jsdate.wtf](reels/reel_7290_samwho-jsdate.wtf) |
 | 7291 | 2026-06-05 03:35:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184768⭐ Python) | [reels/reel_7291_Significant-Gravitas-AutoGPT](reels/reel_7291_Significant-Gravitas-AutoGPT) |
+| 7292 | 2026-06-05 07:54:15 | [sspaeti/second-brain-public](https://github.com/sspaeti/second-brain-public) | ✅ full (103⭐ Rust) | [reels/reel_7292_sspaeti-second-brain-public](reels/reel_7292_sspaeti-second-brain-public) |
