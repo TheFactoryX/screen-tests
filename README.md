@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7298 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-06-05 |
+| #7299 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 439k | 2026-06-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7387,3 +7387,4 @@ If you need permission, you're thinking too much.
 | 7296 | 2026-06-05 18:27:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138603⭐ Python) | [reels/reel_7296_langchain-ai-langchain](reels/reel_7296_langchain-ai-langchain) |
 | 7297 | 2026-06-05 20:27:02 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (208234⭐ JavaScript) | [reels/reel_7297_affaan-m-ECC](reels/reel_7297_affaan-m-ECC) |
 | 7298 | 2026-06-05 21:56:41 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184789⭐ Python) | [reels/reel_7298_Significant-Gravitas-AutoGPT](reels/reel_7298_Significant-Gravitas-AutoGPT) |
+| 7299 | 2026-06-05 23:11:51 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (439624⭐ Python) | [reels/reel_7299_public-apis-public-apis](reels/reel_7299_public-apis-public-apis) |
