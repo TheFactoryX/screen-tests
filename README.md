@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7307 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-06-06 |
+| #7308 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-06-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7396,3 +7396,4 @@ If you need permission, you're thinking too much.
 | 7305 | 2026-06-06 12:50:30 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (169093⭐ None) | [reels/reel_7305_multica-ai-andrej-karpathy-skills](reels/reel_7305_multica-ai-andrej-karpathy-skills) |
 | 7306 | 2026-06-06 14:28:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (115846⭐ TypeScript) | [reels/reel_7306_shadcn-ui-ui](reels/reel_7306_shadcn-ui-ui) |
 | 7307 | 2026-06-06 15:51:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116958⭐ TypeScript) | [reels/reel_7307_iptv-org-iptv](reels/reel_7307_iptv-org-iptv) |
+| 7308 | 2026-06-06 17:11:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140442⭐ Python) | [reels/reel_7308_ytdl-org-youtube-dl](reels/reel_7308_ytdl-org-youtube-dl) |
