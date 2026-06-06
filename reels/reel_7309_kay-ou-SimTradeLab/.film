@@ -1,0 +1,24 @@
+{
+  "reel_number": 7309,
+  "recorded": "2026-06-06 18:39:12 UTC",
+  "repository": {
+    "full_name": "kay-ou/SimTradeLab",
+    "url": "https://github.com/kay-ou/SimTradeLab",
+    "clone_url": "https://github.com/kay-ou/SimTradeLab.git",
+    "stars": 306,
+    "language": "Python",
+    "size_kb": 5968
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.810068
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 306 stars."
+  }
+}

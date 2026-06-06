@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7308 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-06-06 |
+| #7309 | [kay-ou/SimTradeLab](https://github.com/kay-ou/SimTradeLab) | Python · ⭐ 306 | 2026-06-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7397,3 +7397,4 @@ If you need permission, you're thinking too much.
 | 7306 | 2026-06-06 14:28:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (115846⭐ TypeScript) | [reels/reel_7306_shadcn-ui-ui](reels/reel_7306_shadcn-ui-ui) |
 | 7307 | 2026-06-06 15:51:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116958⭐ TypeScript) | [reels/reel_7307_iptv-org-iptv](reels/reel_7307_iptv-org-iptv) |
 | 7308 | 2026-06-06 17:11:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140442⭐ Python) | [reels/reel_7308_ytdl-org-youtube-dl](reels/reel_7308_ytdl-org-youtube-dl) |
+| 7309 | 2026-06-06 18:39:12 | [kay-ou/SimTradeLab](https://github.com/kay-ou/SimTradeLab) | ✅ full (306⭐ Python) | [reels/reel_7309_kay-ou-SimTradeLab](reels/reel_7309_kay-ou-SimTradeLab) |
