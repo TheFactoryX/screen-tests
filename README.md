@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7311 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 168k | 2026-06-06 |
+| #7312 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 140k | 2026-06-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7400,3 +7400,4 @@ If you need permission, you're thinking too much.
 | 7309 | 2026-06-06 18:39:12 | [kay-ou/SimTradeLab](https://github.com/kay-ou/SimTradeLab) | ✅ full (306⭐ Python) | [reels/reel_7309_kay-ou-SimTradeLab](reels/reel_7309_kay-ou-SimTradeLab) |
 | 7310 | 2026-06-06 19:58:33 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (209046⭐ JavaScript) | [reels/reel_7310_affaan-m-ECC](reels/reel_7310_affaan-m-ECC) |
 | 7311 | 2026-06-06 21:10:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (168619⭐ Python) | [reels/reel_7311_yt-dlp-yt-dlp](reels/reel_7311_yt-dlp-yt-dlp) |
+| 7312 | 2026-06-06 22:15:48 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (140373⭐ Python) | [reels/reel_7312_open-webui-open-webui](reels/reel_7312_open-webui-open-webui) |
