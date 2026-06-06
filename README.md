@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7309 | [kay-ou/SimTradeLab](https://github.com/kay-ou/SimTradeLab) | Python · ⭐ 306 | 2026-06-06 |
+| #7310 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 209k | 2026-06-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7398,3 +7398,4 @@ If you need permission, you're thinking too much.
 | 7307 | 2026-06-06 15:51:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116958⭐ TypeScript) | [reels/reel_7307_iptv-org-iptv](reels/reel_7307_iptv-org-iptv) |
 | 7308 | 2026-06-06 17:11:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140442⭐ Python) | [reels/reel_7308_ytdl-org-youtube-dl](reels/reel_7308_ytdl-org-youtube-dl) |
 | 7309 | 2026-06-06 18:39:12 | [kay-ou/SimTradeLab](https://github.com/kay-ou/SimTradeLab) | ✅ full (306⭐ Python) | [reels/reel_7309_kay-ou-SimTradeLab](reels/reel_7309_kay-ou-SimTradeLab) |
+| 7310 | 2026-06-06 19:58:33 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (209046⭐ JavaScript) | [reels/reel_7310_affaan-m-ECC](reels/reel_7310_affaan-m-ECC) |
