@@ -1,0 +1,24 @@
+{
+  "reel_number": 7303,
+  "recorded": "2026-06-06 09:48:21 UTC",
+  "repository": {
+    "full_name": "huajian123/ng-antd-admin",
+    "url": "https://github.com/huajian123/ng-antd-admin",
+    "clone_url": "https://github.com/huajian123/ng-antd-admin.git",
+    "stars": 712,
+    "language": "TypeScript",
+    "size_kb": 48453
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 47,
+    "duration_seconds": 4.213998
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 712 stars."
+  }
+}
