@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7301 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript · ⭐ 107k | 2026-06-06 |
+| #7302 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 138k | 2026-06-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7390,3 +7390,4 @@ If you need permission, you're thinking too much.
 | 7299 | 2026-06-05 23:11:51 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (439624⭐ Python) | [reels/reel_7299_public-apis-public-apis](reels/reel_7299_public-apis-public-apis) |
 | 7300 | 2026-06-06 00:19:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116858⭐ TypeScript) | [reels/reel_7300_iptv-org-iptv](reels/reel_7300_iptv-org-iptv) |
 | 7301 | 2026-06-06 04:35:51 | [garrytan/gstack](https://github.com/garrytan/gstack) | ✅ shallow (107463⭐ TypeScript) | [reels/reel_7301_garrytan-gstack](reels/reel_7301_garrytan-gstack) |
+| 7302 | 2026-06-06 07:36:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138625⭐ Python) | [reels/reel_7302_langchain-ai-langchain](reels/reel_7302_langchain-ai-langchain) |
