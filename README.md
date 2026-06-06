@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7306 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 115k | 2026-06-06 |
+| #7307 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 116k | 2026-06-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7395,3 +7395,4 @@ If you need permission, you're thinking too much.
 | 7304 | 2026-06-06 11:24:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (140276⭐ Python) | [reels/reel_7304_open-webui-open-webui](reels/reel_7304_open-webui-open-webui) |
 | 7305 | 2026-06-06 12:50:30 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (169093⭐ None) | [reels/reel_7305_multica-ai-andrej-karpathy-skills](reels/reel_7305_multica-ai-andrej-karpathy-skills) |
 | 7306 | 2026-06-06 14:28:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (115846⭐ TypeScript) | [reels/reel_7306_shadcn-ui-ui](reels/reel_7306_shadcn-ui-ui) |
+| 7307 | 2026-06-06 15:51:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (116958⭐ TypeScript) | [reels/reel_7307_iptv-org-iptv](reels/reel_7307_iptv-org-iptv) |
