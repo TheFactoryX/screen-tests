@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7321 | [aryandas2911/DailyForge](https://github.com/aryandas2911/DailyForge) | JavaScript · ⭐ 152 | 2026-06-07 |
+| #7322 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | JavaScript · ⭐ 454 | 2026-06-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7410,3 +7410,4 @@ If you need permission, you're thinking too much.
 | 7319 | 2026-06-07 15:23:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (439964⭐ Python) | [reels/reel_7319_public-apis-public-apis](reels/reel_7319_public-apis-public-apis) |
 | 7320 | 2026-06-07 16:50:21 | [scaffold-eth/se-2-challenges](https://github.com/scaffold-eth/se-2-challenges) | ✅ full (207⭐ None) | [reels/reel_7320_scaffold-eth-se-2-challenges](reels/reel_7320_scaffold-eth-se-2-challenges) |
 | 7321 | 2026-06-07 18:02:04 | [aryandas2911/DailyForge](https://github.com/aryandas2911/DailyForge) | ✅ full (152⭐ JavaScript) | [reels/reel_7321_aryandas2911-DailyForge](reels/reel_7321_aryandas2911-DailyForge) |
+| 7322 | 2026-06-07 19:45:29 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | ✅ readme_only (454⭐ JavaScript) | [reels/reel_7322_kakaxi-1-IPTV](reels/reel_7322_kakaxi-1-IPTV) |
