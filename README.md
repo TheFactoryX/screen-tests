@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7318 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 113k | 2026-06-07 |
+| #7319 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 439k | 2026-06-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7407,3 +7407,4 @@ If you need permission, you're thinking too much.
 | 7316 | 2026-06-07 09:45:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138706⭐ Python) | [reels/reel_7316_langchain-ai-langchain](reels/reel_7316_langchain-ai-langchain) |
 | 7317 | 2026-06-07 11:46:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (297678⭐ None) | [reels/reel_7317_awesome-selfhosted-awesome-selfhosted](reels/reel_7317_awesome-selfhosted-awesome-selfhosted) |
 | 7318 | 2026-06-07 13:48:33 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (113647⭐ Rust) | [reels/reel_7318_rust-lang-rust](reels/reel_7318_rust-lang-rust) |
+| 7319 | 2026-06-07 15:23:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (439964⭐ Python) | [reels/reel_7319_public-apis-public-apis](reels/reel_7319_public-apis-public-apis) |
