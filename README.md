@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7323 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 170k | 2026-06-07 |
+| #7324 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 512k | 2026-06-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7412,3 +7412,4 @@ If you need permission, you're thinking too much.
 | 7321 | 2026-06-07 18:02:04 | [aryandas2911/DailyForge](https://github.com/aryandas2911/DailyForge) | ✅ full (152⭐ JavaScript) | [reels/reel_7321_aryandas2911-DailyForge](reels/reel_7321_aryandas2911-DailyForge) |
 | 7322 | 2026-06-07 19:45:29 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | ✅ readme_only (454⭐ JavaScript) | [reels/reel_7322_kakaxi-1-IPTV](reels/reel_7322_kakaxi-1-IPTV) |
 | 7323 | 2026-06-07 21:09:55 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (170308⭐ None) | [reels/reel_7323_multica-ai-andrej-karpathy-skills](reels/reel_7323_multica-ai-andrej-karpathy-skills) |
+| 7324 | 2026-06-07 22:17:14 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (512857⭐ Markdown) | [reels/reel_7324_codecrafters-io-build-your-own-x](reels/reel_7324_codecrafters-io-build-your-own-x) |
