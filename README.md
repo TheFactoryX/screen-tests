@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7322 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | JavaScript · ⭐ 454 | 2026-06-07 |
+| #7323 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 170k | 2026-06-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7411,3 +7411,4 @@ If you need permission, you're thinking too much.
 | 7320 | 2026-06-07 16:50:21 | [scaffold-eth/se-2-challenges](https://github.com/scaffold-eth/se-2-challenges) | ✅ full (207⭐ None) | [reels/reel_7320_scaffold-eth-se-2-challenges](reels/reel_7320_scaffold-eth-se-2-challenges) |
 | 7321 | 2026-06-07 18:02:04 | [aryandas2911/DailyForge](https://github.com/aryandas2911/DailyForge) | ✅ full (152⭐ JavaScript) | [reels/reel_7321_aryandas2911-DailyForge](reels/reel_7321_aryandas2911-DailyForge) |
 | 7322 | 2026-06-07 19:45:29 | [kakaxi-1/IPTV](https://github.com/kakaxi-1/IPTV) | ✅ readme_only (454⭐ JavaScript) | [reels/reel_7322_kakaxi-1-IPTV](reels/reel_7322_kakaxi-1-IPTV) |
+| 7323 | 2026-06-07 21:09:55 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (170308⭐ None) | [reels/reel_7323_multica-ai-andrej-karpathy-skills](reels/reel_7323_multica-ai-andrej-karpathy-skills) |
