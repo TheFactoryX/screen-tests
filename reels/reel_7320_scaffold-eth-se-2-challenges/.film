@@ -1,0 +1,24 @@
+{
+  "reel_number": 7320,
+  "recorded": "2026-06-07 16:50:21 UTC",
+  "repository": {
+    "full_name": "scaffold-eth/se-2-challenges",
+    "url": "https://github.com/scaffold-eth/se-2-challenges",
+    "clone_url": "https://github.com/scaffold-eth/se-2-challenges.git",
+    "stars": 207,
+    "language": null,
+    "size_kb": 26657
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 1.885001
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 207 stars."
+  }
+}
