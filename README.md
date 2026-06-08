@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7325 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 138k | 2026-06-07 |
+| #7326 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 191k | 2026-06-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7414,3 +7414,4 @@ If you need permission, you're thinking too much.
 | 7323 | 2026-06-07 21:09:55 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (170308⭐ None) | [reels/reel_7323_multica-ai-andrej-karpathy-skills](reels/reel_7323_multica-ai-andrej-karpathy-skills) |
 | 7324 | 2026-06-07 22:17:14 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (512857⭐ Markdown) | [reels/reel_7324_codecrafters-io-build-your-own-x](reels/reel_7324_codecrafters-io-build-your-own-x) |
 | 7325 | 2026-06-07 23:35:22 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138749⭐ Python) | [reels/reel_7325_langchain-ai-langchain](reels/reel_7325_langchain-ai-langchain) |
+| 7326 | 2026-06-08 02:00:02 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (191517⭐ TypeScript) | [reels/reel_7326_n8n-io-n8n](reels/reel_7326_n8n-io-n8n) |
