@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7330 | [ulsklyc/oikos](https://github.com/ulsklyc/oikos) | JavaScript · ⭐ 880 | 2026-06-08 |
+| #7331 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 117k | 2026-06-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7419,3 +7419,4 @@ If you need permission, you're thinking too much.
 | 7328 | 2026-06-08 11:55:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138814⭐ Python) | [reels/reel_7328_langchain-ai-langchain](reels/reel_7328_langchain-ai-langchain) |
 | 7329 | 2026-06-08 15:49:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (440215⭐ Python) | [reels/reel_7329_public-apis-public-apis](reels/reel_7329_public-apis-public-apis) |
 | 7330 | 2026-06-08 18:23:57 | [ulsklyc/oikos](https://github.com/ulsklyc/oikos) | ✅ shallow (880⭐ JavaScript) | [reels/reel_7330_ulsklyc-oikos](reels/reel_7330_ulsklyc-oikos) |
+| 7331 | 2026-06-08 20:38:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (117416⭐ TypeScript) | [reels/reel_7331_iptv-org-iptv](reels/reel_7331_iptv-org-iptv) |
