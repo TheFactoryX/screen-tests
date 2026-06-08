@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7328 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 138k | 2026-06-08 |
+| #7329 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 440k | 2026-06-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7417,3 +7417,4 @@ If you need permission, you're thinking too much.
 | 7326 | 2026-06-08 02:00:02 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (191517⭐ TypeScript) | [reels/reel_7326_n8n-io-n8n](reels/reel_7326_n8n-io-n8n) |
 | 7327 | 2026-06-08 06:54:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (169065⭐ Python) | [reels/reel_7327_yt-dlp-yt-dlp](reels/reel_7327_yt-dlp-yt-dlp) |
 | 7328 | 2026-06-08 11:55:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138814⭐ Python) | [reels/reel_7328_langchain-ai-langchain](reels/reel_7328_langchain-ai-langchain) |
+| 7329 | 2026-06-08 15:49:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (440215⭐ Python) | [reels/reel_7329_public-apis-public-apis](reels/reel_7329_public-apis-public-apis) |
