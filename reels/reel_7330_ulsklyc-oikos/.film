@@ -1,0 +1,24 @@
+{
+  "reel_number": 7330,
+  "recorded": "2026-06-08 18:23:57 UTC",
+  "repository": {
+    "full_name": "ulsklyc/oikos",
+    "url": "https://github.com/ulsklyc/oikos",
+    "clone_url": "https://github.com/ulsklyc/oikos.git",
+    "stars": 880,
+    "language": "JavaScript",
+    "size_kb": 219078
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 213,
+    "duration_seconds": 0.851982
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 880 stars."
+  }
+}
