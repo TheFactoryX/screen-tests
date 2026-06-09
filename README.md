@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7340 | [parasew/instiki](https://github.com/parasew/instiki) | JavaScript · ⭐ 506 | 2026-06-09 |
+| #7341 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 116k | 2026-06-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7429,3 +7429,4 @@ If you need permission, you're thinking too much.
 | 7338 | 2026-06-09 15:37:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138886⭐ Python) | [reels/reel_7338_langchain-ai-langchain](reels/reel_7338_langchain-ai-langchain) |
 | 7339 | 2026-06-09 17:36:17 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116353⭐ Python) | [reels/reel_7339_Comfy-Org-ComfyUI](reels/reel_7339_Comfy-Org-ComfyUI) |
 | 7340 | 2026-06-09 19:48:21 | [parasew/instiki](https://github.com/parasew/instiki) | ✅ full (506⭐ JavaScript) | [reels/reel_7340_parasew-instiki](reels/reel_7340_parasew-instiki) |
+| 7341 | 2026-06-09 21:45:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (116087⭐ TypeScript) | [reels/reel_7341_shadcn-ui-ui](reels/reel_7341_shadcn-ui-ui) |
