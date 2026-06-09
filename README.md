@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7341 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 116k | 2026-06-09 |
+| #7342 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 149k | 2026-06-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7430,3 +7430,4 @@ If you need permission, you're thinking too much.
 | 7339 | 2026-06-09 17:36:17 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116353⭐ Python) | [reels/reel_7339_Comfy-Org-ComfyUI](reels/reel_7339_Comfy-Org-ComfyUI) |
 | 7340 | 2026-06-09 19:48:21 | [parasew/instiki](https://github.com/parasew/instiki) | ✅ full (506⭐ JavaScript) | [reels/reel_7340_parasew-instiki](reels/reel_7340_parasew-instiki) |
 | 7341 | 2026-06-09 21:45:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (116087⭐ TypeScript) | [reels/reel_7341_shadcn-ui-ui](reels/reel_7341_shadcn-ui-ui) |
+| 7342 | 2026-06-09 23:15:51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (149463⭐ Python) | [reels/reel_7342_langflow-ai-langflow](reels/reel_7342_langflow-ai-langflow) |
