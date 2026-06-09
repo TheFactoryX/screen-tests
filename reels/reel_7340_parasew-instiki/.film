@@ -1,0 +1,24 @@
+{
+  "reel_number": 7340,
+  "recorded": "2026-06-09 19:48:21 UTC",
+  "repository": {
+    "full_name": "parasew/instiki",
+    "url": "https://github.com/parasew/instiki",
+    "clone_url": "https://github.com/parasew/instiki.git",
+    "stars": 506,
+    "language": "JavaScript",
+    "size_kb": 97936
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 95,
+    "duration_seconds": 15.524887
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 506 stars."
+  }
+}
