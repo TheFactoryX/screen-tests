@@ -1,0 +1,24 @@
+{
+  "reel_number": 7337,
+  "recorded": "2026-06-09 12:25:59 UTC",
+  "repository": {
+    "full_name": "Permafrost/Tundra",
+    "url": "https://github.com/Permafrost/Tundra",
+    "clone_url": "https://github.com/Permafrost/Tundra.git",
+    "stars": 32,
+    "language": "Java",
+    "size_kb": 57506
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 56,
+    "duration_seconds": 3.320473
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 32 stars."
+  }
+}
