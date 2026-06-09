@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7333 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 115k | 2026-06-08 |
+| #7334 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 117k | 2026-06-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7422,3 +7422,4 @@ If you need permission, you're thinking too much.
 | 7331 | 2026-06-08 20:38:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (117416⭐ TypeScript) | [reels/reel_7331_iptv-org-iptv](reels/reel_7331_iptv-org-iptv) |
 | 7332 | 2026-06-08 22:14:56 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (210757⭐ JavaScript) | [reels/reel_7332_affaan-m-ECC](reels/reel_7332_affaan-m-ECC) |
 | 7333 | 2026-06-08 23:39:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (115981⭐ TypeScript) | [reels/reel_7333_shadcn-ui-ui](reels/reel_7333_shadcn-ui-ui) |
+| 7334 | 2026-06-09 01:30:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (117431⭐ TypeScript) | [reels/reel_7334_iptv-org-iptv](reels/reel_7334_iptv-org-iptv) |
