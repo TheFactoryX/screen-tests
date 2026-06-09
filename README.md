@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7335 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-06-09 |
+| #7336 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 124k | 2026-06-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7424,3 +7424,4 @@ If you need permission, you're thinking too much.
 | 7333 | 2026-06-08 23:39:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (115981⭐ TypeScript) | [reels/reel_7333_shadcn-ui-ui](reels/reel_7333_shadcn-ui-ui) |
 | 7334 | 2026-06-09 01:30:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (117431⭐ TypeScript) | [reels/reel_7334_iptv-org-iptv](reels/reel_7334_iptv-org-iptv) |
 | 7335 | 2026-06-09 05:52:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184850⭐ Python) | [reels/reel_7335_Significant-Gravitas-AutoGPT](reels/reel_7335_Significant-Gravitas-AutoGPT) |
+| 7336 | 2026-06-09 09:39:20 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (124301⭐ TypeScript) | [reels/reel_7336_clash-verge-rev-clash-verge-rev](reels/reel_7336_clash-verge-rev-clash-verge-rev) |
