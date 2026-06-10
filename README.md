@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7347 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 138k | 2026-06-10 |
+| #7348 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 114k | 2026-06-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7436,3 +7436,4 @@ If you need permission, you're thinking too much.
 | 7345 | 2026-06-10 10:31:45 | [JokerJohn/openclaw-autotrader](https://github.com/JokerJohn/openclaw-autotrader) | ✅ full (37⭐ JavaScript) | [reels/reel_7345_JokerJohn-openclaw-autotrader](reels/reel_7345_JokerJohn-openclaw-autotrader) |
 | 7346 | 2026-06-10 14:01:48 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (124645⭐ TypeScript) | [reels/reel_7346_clash-verge-rev-clash-verge-rev](reels/reel_7346_clash-verge-rev-clash-verge-rev) |
 | 7347 | 2026-06-10 17:34:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138979⭐ Python) | [reels/reel_7347_langchain-ai-langchain](reels/reel_7347_langchain-ai-langchain) |
+| 7348 | 2026-06-10 19:57:24 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (114114⭐ None) | [reels/reel_7348_Hack-with-Github-Awesome-Hacking](reels/reel_7348_Hack-with-Github-Awesome-Hacking) |
