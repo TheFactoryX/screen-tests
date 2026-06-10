@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7349 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 191k | 2026-06-10 |
+| #7350 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-06-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7438,3 +7438,4 @@ If you need permission, you're thinking too much.
 | 7347 | 2026-06-10 17:34:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (138979⭐ Python) | [reels/reel_7347_langchain-ai-langchain](reels/reel_7347_langchain-ai-langchain) |
 | 7348 | 2026-06-10 19:57:24 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (114114⭐ None) | [reels/reel_7348_Hack-with-Github-Awesome-Hacking](reels/reel_7348_Hack-with-Github-Awesome-Hacking) |
 | 7349 | 2026-06-10 22:06:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (191963⭐ TypeScript) | [reels/reel_7349_n8n-io-n8n](reels/reel_7349_n8n-io-n8n) |
+| 7350 | 2026-06-10 23:49:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140473⭐ Python) | [reels/reel_7350_ytdl-org-youtube-dl](reels/reel_7350_ytdl-org-youtube-dl) |
