@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7353 | [sophgo/LLM-TPU](https://github.com/sophgo/LLM-TPU) | C++ · ⭐ 286 | 2026-06-11 |
+| #7354 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 440k | 2026-06-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7442,3 +7442,4 @@ If you need permission, you're thinking too much.
 | 7351 | 2026-06-11 03:46:46 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (124760⭐ TypeScript) | [reels/reel_7351_clash-verge-rev-clash-verge-rev](reels/reel_7351_clash-verge-rev-clash-verge-rev) |
 | 7352 | 2026-06-11 08:44:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (169786⭐ Python) | [reels/reel_7352_yt-dlp-yt-dlp](reels/reel_7352_yt-dlp-yt-dlp) |
 | 7353 | 2026-06-11 12:32:20 | [sophgo/LLM-TPU](https://github.com/sophgo/LLM-TPU) | ✅ shallow (286⭐ C++) | [reels/reel_7353_sophgo-LLM-TPU](reels/reel_7353_sophgo-LLM-TPU) |
+| 7354 | 2026-06-11 16:40:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (440830⭐ Python) | [reels/reel_7354_public-apis-public-apis](reels/reel_7354_public-apis-public-apis) |
