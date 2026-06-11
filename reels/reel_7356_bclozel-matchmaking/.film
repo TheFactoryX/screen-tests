@@ -1,0 +1,24 @@
+{
+  "reel_number": 7356,
+  "recorded": "2026-06-11 21:33:44 UTC",
+  "repository": {
+    "full_name": "bclozel/matchmaking",
+    "url": "https://github.com/bclozel/matchmaking",
+    "clone_url": "https://github.com/bclozel/matchmaking.git",
+    "stars": 20,
+    "language": "Java",
+    "size_kb": 177
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.18495
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 20 stars."
+  }
+}
