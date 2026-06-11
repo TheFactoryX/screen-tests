@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7356 | [bclozel/matchmaking](https://github.com/bclozel/matchmaking) | Java · ⭐ 20 | 2026-06-11 |
+| #7357 | [react/react](https://github.com/react/react) | JavaScript · ⭐ 245k | 2026-06-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7445,3 +7445,4 @@ If you need permission, you're thinking too much.
 | 7354 | 2026-06-11 16:40:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (440830⭐ Python) | [reels/reel_7354_public-apis-public-apis](reels/reel_7354_public-apis-public-apis) |
 | 7355 | 2026-06-11 19:23:05 | [qf-studio/pilot](https://github.com/qf-studio/pilot) | ✅ full (474⭐ Go) | [reels/reel_7355_qf-studio-pilot](reels/reel_7355_qf-studio-pilot) |
 | 7356 | 2026-06-11 21:33:44 | [bclozel/matchmaking](https://github.com/bclozel/matchmaking) | ✅ full (20⭐ Java) | [reels/reel_7356_bclozel-matchmaking](reels/reel_7356_bclozel-matchmaking) |
+| 7357 | 2026-06-11 23:10:27 | [react/react](https://github.com/react/react) | ✅ readme_only (245764⭐ JavaScript) | [reels/reel_7357_react-react](reels/reel_7357_react-react) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 7357,
+  "recorded": "2026-06-11 23:10:27 UTC",
+  "repository": {
+    "full_name": "react/react",
+    "url": "https://github.com/react/react",
+    "clone_url": "https://github.com/react/react.git",
+    "stars": 245764,
+    "language": "JavaScript",
+    "size_kb": 994044
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 970,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 245764 stars."
+  }
+}
