@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7350 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-06-10 |
+| #7351 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 124k | 2026-06-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7439,3 +7439,4 @@ If you need permission, you're thinking too much.
 | 7348 | 2026-06-10 19:57:24 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (114114⭐ None) | [reels/reel_7348_Hack-with-Github-Awesome-Hacking](reels/reel_7348_Hack-with-Github-Awesome-Hacking) |
 | 7349 | 2026-06-10 22:06:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (191963⭐ TypeScript) | [reels/reel_7349_n8n-io-n8n](reels/reel_7349_n8n-io-n8n) |
 | 7350 | 2026-06-10 23:49:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140473⭐ Python) | [reels/reel_7350_ytdl-org-youtube-dl](reels/reel_7350_ytdl-org-youtube-dl) |
+| 7351 | 2026-06-11 03:46:46 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (124760⭐ TypeScript) | [reels/reel_7351_clash-verge-rev-clash-verge-rev](reels/reel_7351_clash-verge-rev-clash-verge-rev) |
