@@ -1,0 +1,24 @@
+{
+  "reel_number": 7355,
+  "recorded": "2026-06-11 19:23:05 UTC",
+  "repository": {
+    "full_name": "qf-studio/pilot",
+    "url": "https://github.com/qf-studio/pilot",
+    "clone_url": "https://github.com/qf-studio/pilot.git",
+    "stars": 474,
+    "language": "Go",
+    "size_kb": 15118
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 1.932095
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 474 stars."
+  }
+}
