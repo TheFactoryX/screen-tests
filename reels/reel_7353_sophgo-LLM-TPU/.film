@@ -1,0 +1,24 @@
+{
+  "reel_number": 7353,
+  "recorded": "2026-06-11 12:32:20 UTC",
+  "repository": {
+    "full_name": "sophgo/LLM-TPU",
+    "url": "https://github.com/sophgo/LLM-TPU",
+    "clone_url": "https://github.com/sophgo/LLM-TPU.git",
+    "stars": 286,
+    "language": "C++",
+    "size_kb": 345922
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 337,
+    "duration_seconds": 21.684258
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 286 stars."
+  }
+}
