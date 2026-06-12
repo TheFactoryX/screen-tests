@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7357 | [react/react](https://github.com/react/react) | JavaScript · ⭐ 245k | 2026-06-11 |
+| #7358 | [zeropaper/visual-fiha](https://github.com/zeropaper/visual-fiha) | TypeScript · ⭐ 19 | 2026-06-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7446,3 +7446,4 @@ If you need permission, you're thinking too much.
 | 7355 | 2026-06-11 19:23:05 | [qf-studio/pilot](https://github.com/qf-studio/pilot) | ✅ full (474⭐ Go) | [reels/reel_7355_qf-studio-pilot](reels/reel_7355_qf-studio-pilot) |
 | 7356 | 2026-06-11 21:33:44 | [bclozel/matchmaking](https://github.com/bclozel/matchmaking) | ✅ full (20⭐ Java) | [reels/reel_7356_bclozel-matchmaking](reels/reel_7356_bclozel-matchmaking) |
 | 7357 | 2026-06-11 23:10:27 | [react/react](https://github.com/react/react) | ✅ readme_only (245764⭐ JavaScript) | [reels/reel_7357_react-react](reels/reel_7357_react-react) |
+| 7358 | 2026-06-12 01:39:08 | [zeropaper/visual-fiha](https://github.com/zeropaper/visual-fiha) | ✅ shallow (19⭐ TypeScript) | [reels/reel_7358_zeropaper-visual-fiha](reels/reel_7358_zeropaper-visual-fiha) |
