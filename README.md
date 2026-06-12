@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7362 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 170k | 2026-06-12 |
+| #7363 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 149k | 2026-06-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7451,3 +7451,4 @@ If you need permission, you're thinking too much.
 | 7360 | 2026-06-12 10:47:53 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116700⭐ Python) | [reels/reel_7360_Comfy-Org-ComfyUI](reels/reel_7360_Comfy-Org-ComfyUI) |
 | 7361 | 2026-06-12 14:08:51 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | ✅ full (509⭐ TypeScript) | [reels/reel_7361_aaronjmars-aeon](reels/reel_7361_aaronjmars-aeon) |
 | 7362 | 2026-06-12 17:14:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (170090⭐ Python) | [reels/reel_7362_yt-dlp-yt-dlp](reels/reel_7362_yt-dlp-yt-dlp) |
+| 7363 | 2026-06-12 19:23:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (149595⭐ Python) | [reels/reel_7363_langflow-ai-langflow](reels/reel_7363_langflow-ai-langflow) |
