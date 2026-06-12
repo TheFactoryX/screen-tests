@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7359 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 440k | 2026-06-12 |
+| #7360 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 116k | 2026-06-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7448,3 +7448,4 @@ If you need permission, you're thinking too much.
 | 7357 | 2026-06-11 23:10:27 | [react/react](https://github.com/react/react) | ✅ readme_only (245764⭐ JavaScript) | [reels/reel_7357_react-react](reels/reel_7357_react-react) |
 | 7358 | 2026-06-12 01:39:08 | [zeropaper/visual-fiha](https://github.com/zeropaper/visual-fiha) | ✅ shallow (19⭐ TypeScript) | [reels/reel_7358_zeropaper-visual-fiha](reels/reel_7358_zeropaper-visual-fiha) |
 | 7359 | 2026-06-12 06:18:46 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (440922⭐ Python) | [reels/reel_7359_public-apis-public-apis](reels/reel_7359_public-apis-public-apis) |
+| 7360 | 2026-06-12 10:47:53 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116700⭐ Python) | [reels/reel_7360_Comfy-Org-ComfyUI](reels/reel_7360_Comfy-Org-ComfyUI) |
