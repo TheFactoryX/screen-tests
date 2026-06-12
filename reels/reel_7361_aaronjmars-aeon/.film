@@ -1,0 +1,24 @@
+{
+  "reel_number": 7361,
+  "recorded": "2026-06-12 14:08:51 UTC",
+  "repository": {
+    "full_name": "aaronjmars/aeon",
+    "url": "https://github.com/aaronjmars/aeon",
+    "clone_url": "https://github.com/aaronjmars/aeon.git",
+    "stars": 509,
+    "language": "TypeScript",
+    "size_kb": 32953
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 0.886517
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 509 stars."
+  }
+}

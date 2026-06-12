@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7360 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 116k | 2026-06-12 |
+| #7361 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | TypeScript · ⭐ 509 | 2026-06-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7449,3 +7449,4 @@ If you need permission, you're thinking too much.
 | 7358 | 2026-06-12 01:39:08 | [zeropaper/visual-fiha](https://github.com/zeropaper/visual-fiha) | ✅ shallow (19⭐ TypeScript) | [reels/reel_7358_zeropaper-visual-fiha](reels/reel_7358_zeropaper-visual-fiha) |
 | 7359 | 2026-06-12 06:18:46 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (440922⭐ Python) | [reels/reel_7359_public-apis-public-apis](reels/reel_7359_public-apis-public-apis) |
 | 7360 | 2026-06-12 10:47:53 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116700⭐ Python) | [reels/reel_7360_Comfy-Org-ComfyUI](reels/reel_7360_Comfy-Org-ComfyUI) |
+| 7361 | 2026-06-12 14:08:51 | [aaronjmars/aeon](https://github.com/aaronjmars/aeon) | ✅ full (509⭐ TypeScript) | [reels/reel_7361_aaronjmars-aeon](reels/reel_7361_aaronjmars-aeon) |
