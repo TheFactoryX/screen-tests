@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7364 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 298k | 2026-06-12 |
+| #7365 | [oyz8/weirdhost-login](https://github.com/oyz8/weirdhost-login) | Python · ⭐ 41 | 2026-06-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7453,3 +7453,4 @@ If you need permission, you're thinking too much.
 | 7362 | 2026-06-12 17:14:46 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (170090⭐ Python) | [reels/reel_7362_yt-dlp-yt-dlp](reels/reel_7362_yt-dlp-yt-dlp) |
 | 7363 | 2026-06-12 19:23:39 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (149595⭐ Python) | [reels/reel_7363_langflow-ai-langflow](reels/reel_7363_langflow-ai-langflow) |
 | 7364 | 2026-06-12 21:12:04 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (298756⭐ None) | [reels/reel_7364_awesome-selfhosted-awesome-selfhosted](reels/reel_7364_awesome-selfhosted-awesome-selfhosted) |
+| 7365 | 2026-06-12 22:47:46 | [oyz8/weirdhost-login](https://github.com/oyz8/weirdhost-login) | ✅ full (41⭐ Python) | [reels/reel_7365_oyz8-weirdhost-login](reels/reel_7365_oyz8-weirdhost-login) |

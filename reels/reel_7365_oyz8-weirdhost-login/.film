@@ -1,0 +1,24 @@
+{
+  "reel_number": 7365,
+  "recorded": "2026-06-12 22:47:46 UTC",
+  "repository": {
+    "full_name": "oyz8/weirdhost-login",
+    "url": "https://github.com/oyz8/weirdhost-login",
+    "clone_url": "https://github.com/oyz8/weirdhost-login.git",
+    "stars": 41,
+    "language": "Python",
+    "size_kb": 210
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.140349
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 41 stars."
+  }
+}
