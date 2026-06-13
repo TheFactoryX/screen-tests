@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7375 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 719 | 2026-06-13 |
+| #7376 | [react/react-native](https://github.com/react/react-native) | C++ · ⭐ 126k | 2026-06-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7464,3 +7464,4 @@ If you need permission, you're thinking too much.
 | 7373 | 2026-06-13 17:52:30 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (268874⭐ None) | [reels/reel_7373_practical-tutorials-project-based-learning](reels/reel_7373_practical-tutorials-project-based-learning) |
 | 7374 | 2026-06-13 19:22:51 | [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) | ✅ full (112⭐ C) | [reels/reel_7374_nordstjernen-web-nordstjernen](reels/reel_7374_nordstjernen-web-nordstjernen) |
 | 7375 | 2026-06-13 20:47:51 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (719⭐ Tcl) | [reels/reel_7375_rust-lang-crates.io-index](reels/reel_7375_rust-lang-crates.io-index) |
+| 7376 | 2026-06-13 22:01:48 | [react/react-native](https://github.com/react/react-native) | ✅ readme_only (126006⭐ C++) | [reels/reel_7376_react-react-native](reels/reel_7376_react-react-native) |

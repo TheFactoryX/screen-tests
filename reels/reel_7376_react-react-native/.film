@@ -1,0 +1,24 @@
+{
+  "reel_number": 7376,
+  "recorded": "2026-06-13 22:01:48 UTC",
+  "repository": {
+    "full_name": "react/react-native",
+    "url": "https://github.com/react/react-native",
+    "clone_url": "https://github.com/react/react-native.git",
+    "stars": 126006,
+    "language": "C++",
+    "size_kb": 971489
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 948,
+    "duration_seconds": 0.00015
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 126006 stars."
+  }
+}
