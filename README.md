@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7369 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 116k | 2026-06-13 |
+| #7370 | [better-lyrics/better-lyrics](https://github.com/better-lyrics/better-lyrics) | TypeScript · ⭐ 693 | 2026-06-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7458,3 +7458,4 @@ If you need permission, you're thinking too much.
 | 7367 | 2026-06-13 04:59:58 | [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) | ✅ full (601⭐ Lua) | [reels/reel_7367_piersolenski-wtf.nvim](reels/reel_7367_piersolenski-wtf.nvim) |
 | 7368 | 2026-06-13 08:29:03 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (149610⭐ Python) | [reels/reel_7368_langflow-ai-langflow](reels/reel_7368_langflow-ai-langflow) |
 | 7369 | 2026-06-13 10:58:34 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116811⭐ Python) | [reels/reel_7369_Comfy-Org-ComfyUI](reels/reel_7369_Comfy-Org-ComfyUI) |
+| 7370 | 2026-06-13 12:53:26 | [better-lyrics/better-lyrics](https://github.com/better-lyrics/better-lyrics) | ✅ full (693⭐ TypeScript) | [reels/reel_7370_better-lyrics-better-lyrics](reels/reel_7370_better-lyrics-better-lyrics) |

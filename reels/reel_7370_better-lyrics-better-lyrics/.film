@@ -1,0 +1,24 @@
+{
+  "reel_number": 7370,
+  "recorded": "2026-06-13 12:53:26 UTC",
+  "repository": {
+    "full_name": "better-lyrics/better-lyrics",
+    "url": "https://github.com/better-lyrics/better-lyrics",
+    "clone_url": "https://github.com/better-lyrics/better-lyrics.git",
+    "stars": 693,
+    "language": "TypeScript",
+    "size_kb": 8542
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.820426
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 693 stars."
+  }
+}
