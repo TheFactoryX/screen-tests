@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7371 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 441k | 2026-06-13 |
+| #7372 | [dotnet-websharper/core](https://github.com/dotnet-websharper/core) | F# · ⭐ 633 | 2026-06-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7460,3 +7460,4 @@ If you need permission, you're thinking too much.
 | 7369 | 2026-06-13 10:58:34 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116811⭐ Python) | [reels/reel_7369_Comfy-Org-ComfyUI](reels/reel_7369_Comfy-Org-ComfyUI) |
 | 7370 | 2026-06-13 12:53:26 | [better-lyrics/better-lyrics](https://github.com/better-lyrics/better-lyrics) | ✅ full (693⭐ TypeScript) | [reels/reel_7370_better-lyrics-better-lyrics](reels/reel_7370_better-lyrics-better-lyrics) |
 | 7371 | 2026-06-13 14:58:30 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (441230⭐ Python) | [reels/reel_7371_public-apis-public-apis](reels/reel_7371_public-apis-public-apis) |
+| 7372 | 2026-06-13 16:20:16 | [dotnet-websharper/core](https://github.com/dotnet-websharper/core) | ✅ full (633⭐ F#) | [reels/reel_7372_dotnet-websharper-core](reels/reel_7372_dotnet-websharper-core) |

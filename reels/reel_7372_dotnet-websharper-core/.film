@@ -1,0 +1,24 @@
+{
+  "reel_number": 7372,
+  "recorded": "2026-06-13 16:20:16 UTC",
+  "repository": {
+    "full_name": "dotnet-websharper/core",
+    "url": "https://github.com/dotnet-websharper/core",
+    "clone_url": "https://github.com/dotnet-websharper/core.git",
+    "stars": 633,
+    "language": "F#",
+    "size_kb": 26782
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 2.486347
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "F#",
+    "director_note": "A F# repository. 633 stars."
+  }
+}
