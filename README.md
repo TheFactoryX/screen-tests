@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7376 | [react/react-native](https://github.com/react/react-native) | C++ · ⭐ 126k | 2026-06-13 |
+| #7377 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 141k | 2026-06-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7465,3 +7465,4 @@ If you need permission, you're thinking too much.
 | 7374 | 2026-06-13 19:22:51 | [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) | ✅ full (112⭐ C) | [reels/reel_7374_nordstjernen-web-nordstjernen](reels/reel_7374_nordstjernen-web-nordstjernen) |
 | 7375 | 2026-06-13 20:47:51 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (719⭐ Tcl) | [reels/reel_7375_rust-lang-crates.io-index](reels/reel_7375_rust-lang-crates.io-index) |
 | 7376 | 2026-06-13 22:01:48 | [react/react-native](https://github.com/react/react-native) | ✅ readme_only (126006⭐ C++) | [reels/reel_7376_react-react-native](reels/reel_7376_react-react-native) |
+| 7377 | 2026-06-13 23:20:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (141388⭐ Python) | [reels/reel_7377_open-webui-open-webui](reels/reel_7377_open-webui-open-webui) |
