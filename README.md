@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7373 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 268k | 2026-06-13 |
+| #7374 | [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) | C · ⭐ 112 | 2026-06-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7462,3 +7462,4 @@ If you need permission, you're thinking too much.
 | 7371 | 2026-06-13 14:58:30 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (441230⭐ Python) | [reels/reel_7371_public-apis-public-apis](reels/reel_7371_public-apis-public-apis) |
 | 7372 | 2026-06-13 16:20:16 | [dotnet-websharper/core](https://github.com/dotnet-websharper/core) | ✅ full (633⭐ F#) | [reels/reel_7372_dotnet-websharper-core](reels/reel_7372_dotnet-websharper-core) |
 | 7373 | 2026-06-13 17:52:30 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (268874⭐ None) | [reels/reel_7373_practical-tutorials-project-based-learning](reels/reel_7373_practical-tutorials-project-based-learning) |
+| 7374 | 2026-06-13 19:22:51 | [nordstjernen-web/nordstjernen](https://github.com/nordstjernen-web/nordstjernen) | ✅ full (112⭐ C) | [reels/reel_7374_nordstjernen-web-nordstjernen](reels/reel_7374_nordstjernen-web-nordstjernen) |
