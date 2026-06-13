@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7372 | [dotnet-websharper/core](https://github.com/dotnet-websharper/core) | F# · ⭐ 633 | 2026-06-13 |
+| #7373 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 268k | 2026-06-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7461,3 +7461,4 @@ If you need permission, you're thinking too much.
 | 7370 | 2026-06-13 12:53:26 | [better-lyrics/better-lyrics](https://github.com/better-lyrics/better-lyrics) | ✅ full (693⭐ TypeScript) | [reels/reel_7370_better-lyrics-better-lyrics](reels/reel_7370_better-lyrics-better-lyrics) |
 | 7371 | 2026-06-13 14:58:30 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (441230⭐ Python) | [reels/reel_7371_public-apis-public-apis](reels/reel_7371_public-apis-public-apis) |
 | 7372 | 2026-06-13 16:20:16 | [dotnet-websharper/core](https://github.com/dotnet-websharper/core) | ✅ full (633⭐ F#) | [reels/reel_7372_dotnet-websharper-core](reels/reel_7372_dotnet-websharper-core) |
+| 7373 | 2026-06-13 17:52:30 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (268874⭐ None) | [reels/reel_7373_practical-tutorials-project-based-learning](reels/reel_7373_practical-tutorials-project-based-learning) |
