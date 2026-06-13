@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7366 | [jxlarrea/voice-satellite-card-integration](https://github.com/jxlarrea/voice-satellite-card-integration) | JavaScript · ⭐ 426 | 2026-06-13 |
+| #7367 | [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) | Lua · ⭐ 601 | 2026-06-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7455,3 +7455,4 @@ If you need permission, you're thinking too much.
 | 7364 | 2026-06-12 21:12:04 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (298756⭐ None) | [reels/reel_7364_awesome-selfhosted-awesome-selfhosted](reels/reel_7364_awesome-selfhosted-awesome-selfhosted) |
 | 7365 | 2026-06-12 22:47:46 | [oyz8/weirdhost-login](https://github.com/oyz8/weirdhost-login) | ✅ full (41⭐ Python) | [reels/reel_7365_oyz8-weirdhost-login](reels/reel_7365_oyz8-weirdhost-login) |
 | 7366 | 2026-06-13 00:18:29 | [jxlarrea/voice-satellite-card-integration](https://github.com/jxlarrea/voice-satellite-card-integration) | ✅ shallow (426⭐ JavaScript) | [reels/reel_7366_jxlarrea-voice-satellite-card-integration](reels/reel_7366_jxlarrea-voice-satellite-card-integration) |
+| 7367 | 2026-06-13 04:59:58 | [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) | ✅ full (601⭐ Lua) | [reels/reel_7367_piersolenski-wtf.nvim](reels/reel_7367_piersolenski-wtf.nvim) |
