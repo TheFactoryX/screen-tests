@@ -1,0 +1,24 @@
+{
+  "reel_number": 7366,
+  "recorded": "2026-06-13 00:18:29 UTC",
+  "repository": {
+    "full_name": "jxlarrea/voice-satellite-card-integration",
+    "url": "https://github.com/jxlarrea/voice-satellite-card-integration",
+    "clone_url": "https://github.com/jxlarrea/voice-satellite-card-integration.git",
+    "stars": 426,
+    "language": "JavaScript",
+    "size_kb": 109467
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 106,
+    "duration_seconds": 3.213931
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 426 stars."
+  }
+}
