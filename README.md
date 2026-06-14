@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7377 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 141k | 2026-06-13 |
+| #7378 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 298k | 2026-06-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7466,3 +7466,4 @@ If you need permission, you're thinking too much.
 | 7375 | 2026-06-13 20:47:51 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (719⭐ Tcl) | [reels/reel_7375_rust-lang-crates.io-index](reels/reel_7375_rust-lang-crates.io-index) |
 | 7376 | 2026-06-13 22:01:48 | [react/react-native](https://github.com/react/react-native) | ✅ readme_only (126006⭐ C++) | [reels/reel_7376_react-react-native](reels/reel_7376_react-react-native) |
 | 7377 | 2026-06-13 23:20:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (141388⭐ Python) | [reels/reel_7377_open-webui-open-webui](reels/reel_7377_open-webui-open-webui) |
+| 7378 | 2026-06-14 01:42:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (298987⭐ None) | [reels/reel_7378_awesome-selfhosted-awesome-selfhosted](reels/reel_7378_awesome-selfhosted-awesome-selfhosted) |
