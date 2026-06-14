@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7380 | [cogine-ai/cliq-agent](https://github.com/cogine-ai/cliq-agent) | TypeScript · ⭐ 132 | 2026-06-14 |
+| #7381 | [kherrick/hacker-news](https://github.com/kherrick/hacker-news) | HTML · ⭐ 16 | 2026-06-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7469,3 +7469,4 @@ If you need permission, you're thinking too much.
 | 7378 | 2026-06-14 01:42:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (298987⭐ None) | [reels/reel_7378_awesome-selfhosted-awesome-selfhosted](reels/reel_7378_awesome-selfhosted-awesome-selfhosted) |
 | 7379 | 2026-06-14 06:21:01 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184931⭐ Python) | [reels/reel_7379_Significant-Gravitas-AutoGPT](reels/reel_7379_Significant-Gravitas-AutoGPT) |
 | 7380 | 2026-06-14 10:02:09 | [cogine-ai/cliq-agent](https://github.com/cogine-ai/cliq-agent) | ✅ full (132⭐ TypeScript) | [reels/reel_7380_cogine-ai-cliq-agent](reels/reel_7380_cogine-ai-cliq-agent) |
+| 7381 | 2026-06-14 12:14:50 | [kherrick/hacker-news](https://github.com/kherrick/hacker-news) | ✅ shallow (16⭐ HTML) | [reels/reel_7381_kherrick-hacker-news](reels/reel_7381_kherrick-hacker-news) |

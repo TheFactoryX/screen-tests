@@ -1,0 +1,24 @@
+{
+  "reel_number": 7381,
+  "recorded": "2026-06-14 12:14:50 UTC",
+  "repository": {
+    "full_name": "kherrick/hacker-news",
+    "url": "https://github.com/kherrick/hacker-news",
+    "clone_url": "https://github.com/kherrick/hacker-news.git",
+    "stars": 16,
+    "language": "HTML",
+    "size_kb": 249642
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 243,
+    "duration_seconds": 21.197123
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 16 stars."
+  }
+}
