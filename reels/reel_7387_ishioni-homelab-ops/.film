@@ -1,0 +1,24 @@
+{
+  "reel_number": 7387,
+  "recorded": "2026-06-14 22:06:51 UTC",
+  "repository": {
+    "full_name": "ishioni/homelab-ops",
+    "url": "https://github.com/ishioni/homelab-ops",
+    "clone_url": "https://github.com/ishioni/homelab-ops.git",
+    "stars": 159,
+    "language": "YAML",
+    "size_kb": 12708
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.851185
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "YAML",
+    "director_note": "A YAML repository. 159 stars."
+  }
+}
