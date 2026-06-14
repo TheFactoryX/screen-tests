@@ -1,0 +1,24 @@
+{
+  "reel_number": 7380,
+  "recorded": "2026-06-14 10:02:09 UTC",
+  "repository": {
+    "full_name": "cogine-ai/cliq-agent",
+    "url": "https://github.com/cogine-ai/cliq-agent",
+    "clone_url": "https://github.com/cogine-ai/cliq-agent.git",
+    "stars": 132,
+    "language": "TypeScript",
+    "size_kb": 1856
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.381182
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 132 stars."
+  }
+}

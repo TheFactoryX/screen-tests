@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7379 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-06-14 |
+| #7380 | [cogine-ai/cliq-agent](https://github.com/cogine-ai/cliq-agent) | TypeScript · ⭐ 132 | 2026-06-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7468,3 +7468,4 @@ If you need permission, you're thinking too much.
 | 7377 | 2026-06-13 23:20:34 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (141388⭐ Python) | [reels/reel_7377_open-webui-open-webui](reels/reel_7377_open-webui-open-webui) |
 | 7378 | 2026-06-14 01:42:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (298987⭐ None) | [reels/reel_7378_awesome-selfhosted-awesome-selfhosted](reels/reel_7378_awesome-selfhosted-awesome-selfhosted) |
 | 7379 | 2026-06-14 06:21:01 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184931⭐ Python) | [reels/reel_7379_Significant-Gravitas-AutoGPT](reels/reel_7379_Significant-Gravitas-AutoGPT) |
+| 7380 | 2026-06-14 10:02:09 | [cogine-ai/cliq-agent](https://github.com/cogine-ai/cliq-agent) | ✅ full (132⭐ TypeScript) | [reels/reel_7380_cogine-ai-cliq-agent](reels/reel_7380_cogine-ai-cliq-agent) |
