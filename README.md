@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7385 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 515k | 2026-06-14 |
+| #7386 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 441k | 2026-06-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7474,3 +7474,4 @@ If you need permission, you're thinking too much.
 | 7383 | 2026-06-14 16:11:38 | [MegaMek/mekhq](https://github.com/MegaMek/mekhq) | ✅ readme_only (157⭐ Java) | [reels/reel_7383_MegaMek-mekhq](reels/reel_7383_MegaMek-mekhq) |
 | 7384 | 2026-06-14 17:47:56 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (175237⭐ None) | [reels/reel_7384_multica-ai-andrej-karpathy-skills](reels/reel_7384_multica-ai-andrej-karpathy-skills) |
 | 7385 | 2026-06-14 19:24:01 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (515465⭐ Markdown) | [reels/reel_7385_codecrafters-io-build-your-own-x](reels/reel_7385_codecrafters-io-build-your-own-x) |
+| 7386 | 2026-06-14 20:47:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (441558⭐ Python) | [reels/reel_7386_public-apis-public-apis](reels/reel_7386_public-apis-public-apis) |
