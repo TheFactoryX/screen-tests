@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7382 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 116k | 2026-06-14 |
+| #7383 | [MegaMek/mekhq](https://github.com/MegaMek/mekhq) | Java · ⭐ 157 | 2026-06-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7471,3 +7471,4 @@ If you need permission, you're thinking too much.
 | 7380 | 2026-06-14 10:02:09 | [cogine-ai/cliq-agent](https://github.com/cogine-ai/cliq-agent) | ✅ full (132⭐ TypeScript) | [reels/reel_7380_cogine-ai-cliq-agent](reels/reel_7380_cogine-ai-cliq-agent) |
 | 7381 | 2026-06-14 12:14:50 | [kherrick/hacker-news](https://github.com/kherrick/hacker-news) | ✅ shallow (16⭐ HTML) | [reels/reel_7381_kherrick-hacker-news](reels/reel_7381_kherrick-hacker-news) |
 | 7382 | 2026-06-14 14:31:45 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116951⭐ Python) | [reels/reel_7382_Comfy-Org-ComfyUI](reels/reel_7382_Comfy-Org-ComfyUI) |
+| 7383 | 2026-06-14 16:11:38 | [MegaMek/mekhq](https://github.com/MegaMek/mekhq) | ✅ readme_only (157⭐ Java) | [reels/reel_7383_MegaMek-mekhq](reels/reel_7383_MegaMek-mekhq) |

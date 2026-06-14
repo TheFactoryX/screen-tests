@@ -1,0 +1,24 @@
+{
+  "reel_number": 7383,
+  "recorded": "2026-06-14 16:11:38 UTC",
+  "repository": {
+    "full_name": "MegaMek/mekhq",
+    "url": "https://github.com/MegaMek/mekhq",
+    "clone_url": "https://github.com/MegaMek/mekhq.git",
+    "stars": 157,
+    "language": "Java",
+    "size_kb": 1498055
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1462,
+    "duration_seconds": 0.000153
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 157 stars."
+  }
+}
