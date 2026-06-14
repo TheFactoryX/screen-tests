@@ -1,0 +1,24 @@
+{
+  "reel_number": 7384,
+  "recorded": "2026-06-14 17:47:56 UTC",
+  "repository": {
+    "full_name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "clone_url": "https://github.com/multica-ai/andrej-karpathy-skills.git",
+    "stars": 175237,
+    "language": null,
+    "size_kb": 20
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.430881
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 175237 stars."
+  }
+}

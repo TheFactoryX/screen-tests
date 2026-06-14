@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7383 | [MegaMek/mekhq](https://github.com/MegaMek/mekhq) | Java · ⭐ 157 | 2026-06-14 |
+| #7384 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 175k | 2026-06-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7472,3 +7472,4 @@ If you need permission, you're thinking too much.
 | 7381 | 2026-06-14 12:14:50 | [kherrick/hacker-news](https://github.com/kherrick/hacker-news) | ✅ shallow (16⭐ HTML) | [reels/reel_7381_kherrick-hacker-news](reels/reel_7381_kherrick-hacker-news) |
 | 7382 | 2026-06-14 14:31:45 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (116951⭐ Python) | [reels/reel_7382_Comfy-Org-ComfyUI](reels/reel_7382_Comfy-Org-ComfyUI) |
 | 7383 | 2026-06-14 16:11:38 | [MegaMek/mekhq](https://github.com/MegaMek/mekhq) | ✅ readme_only (157⭐ Java) | [reels/reel_7383_MegaMek-mekhq](reels/reel_7383_MegaMek-mekhq) |
+| 7384 | 2026-06-14 17:47:56 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (175237⭐ None) | [reels/reel_7384_multica-ai-andrej-karpathy-skills](reels/reel_7384_multica-ai-andrej-karpathy-skills) |
