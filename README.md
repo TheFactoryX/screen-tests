@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7392 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 299k | 2026-06-15 |
+| #7393 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 139k | 2026-06-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7481,3 +7481,4 @@ If you need permission, you're thinking too much.
 | 7390 | 2026-06-15 07:37:59 | [cozydev-pink/protosearch](https://github.com/cozydev-pink/protosearch) | ✅ full (11⭐ Scala) | [reels/reel_7390_cozydev-pink-protosearch](reels/reel_7390_cozydev-pink-protosearch) |
 | 7391 | 2026-06-15 13:39:30 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (117078⭐ Python) | [reels/reel_7391_Comfy-Org-ComfyUI](reels/reel_7391_Comfy-Org-ComfyUI) |
 | 7392 | 2026-06-15 18:15:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (299343⭐ None) | [reels/reel_7392_awesome-selfhosted-awesome-selfhosted](reels/reel_7392_awesome-selfhosted-awesome-selfhosted) |
+| 7393 | 2026-06-15 21:30:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (139393⭐ Python) | [reels/reel_7393_langchain-ai-langchain](reels/reel_7393_langchain-ai-langchain) |
