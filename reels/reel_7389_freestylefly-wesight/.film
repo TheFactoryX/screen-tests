@@ -1,0 +1,24 @@
+{
+  "reel_number": 7389,
+  "recorded": "2026-06-15 02:04:36 UTC",
+  "repository": {
+    "full_name": "freestylefly/wesight",
+    "url": "https://github.com/freestylefly/wesight",
+    "clone_url": "https://github.com/freestylefly/wesight.git",
+    "stars": 645,
+    "language": "TypeScript",
+    "size_kb": 29667
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 28,
+    "duration_seconds": 1.615578
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 645 stars."
+  }
+}

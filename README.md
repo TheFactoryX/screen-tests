@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7388 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 107k | 2026-06-14 |
+| #7389 | [freestylefly/wesight](https://github.com/freestylefly/wesight) | TypeScript · ⭐ 645 | 2026-06-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7477,3 +7477,4 @@ If you need permission, you're thinking too much.
 | 7386 | 2026-06-14 20:47:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (441558⭐ Python) | [reels/reel_7386_public-apis-public-apis](reels/reel_7386_public-apis-public-apis) |
 | 7387 | 2026-06-14 22:06:51 | [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) | ✅ full (159⭐ YAML) | [reels/reel_7387_ishioni-homelab-ops](reels/reel_7387_ishioni-homelab-ops) |
 | 7388 | 2026-06-14 23:37:19 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (107043⭐ Shell) | [reels/reel_7388_papers-we-love-papers-we-love](reels/reel_7388_papers-we-love-papers-we-love) |
+| 7389 | 2026-06-15 02:04:36 | [freestylefly/wesight](https://github.com/freestylefly/wesight) | ✅ full (645⭐ TypeScript) | [reels/reel_7389_freestylefly-wesight](reels/reel_7389_freestylefly-wesight) |
