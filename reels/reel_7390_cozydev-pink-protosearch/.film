@@ -1,0 +1,24 @@
+{
+  "reel_number": 7390,
+  "recorded": "2026-06-15 07:37:59 UTC",
+  "repository": {
+    "full_name": "cozydev-pink/protosearch",
+    "url": "https://github.com/cozydev-pink/protosearch",
+    "clone_url": "https://github.com/cozydev-pink/protosearch.git",
+    "stars": 11,
+    "language": "Scala",
+    "size_kb": 43581
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 2.315148
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Scala",
+    "director_note": "A Scala repository. 11 stars."
+  }
+}
