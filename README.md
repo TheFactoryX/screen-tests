@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7390 | [cozydev-pink/protosearch](https://github.com/cozydev-pink/protosearch) | Scala · ⭐ 11 | 2026-06-15 |
+| #7391 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 117k | 2026-06-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7479,3 +7479,4 @@ If you need permission, you're thinking too much.
 | 7388 | 2026-06-14 23:37:19 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (107043⭐ Shell) | [reels/reel_7388_papers-we-love-papers-we-love](reels/reel_7388_papers-we-love-papers-we-love) |
 | 7389 | 2026-06-15 02:04:36 | [freestylefly/wesight](https://github.com/freestylefly/wesight) | ✅ full (645⭐ TypeScript) | [reels/reel_7389_freestylefly-wesight](reels/reel_7389_freestylefly-wesight) |
 | 7390 | 2026-06-15 07:37:59 | [cozydev-pink/protosearch](https://github.com/cozydev-pink/protosearch) | ✅ full (11⭐ Scala) | [reels/reel_7390_cozydev-pink-protosearch](reels/reel_7390_cozydev-pink-protosearch) |
+| 7391 | 2026-06-15 13:39:30 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (117078⭐ Python) | [reels/reel_7391_Comfy-Org-ComfyUI](reels/reel_7391_Comfy-Org-ComfyUI) |
