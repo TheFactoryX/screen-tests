@@ -1,0 +1,24 @@
+{
+  "reel_number": 7395,
+  "recorded": "2026-06-16 02:06:19 UTC",
+  "repository": {
+    "full_name": "zapier/zapier-mcp",
+    "url": "https://github.com/zapier/zapier-mcp",
+    "clone_url": "https://github.com/zapier/zapier-mcp.git",
+    "stars": 299,
+    "language": null,
+    "size_kb": 118
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.297263
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 299 stars."
+  }
+}

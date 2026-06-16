@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7394 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 116k | 2026-06-15 |
+| #7395 | [zapier/zapier-mcp](https://github.com/zapier/zapier-mcp) | None · ⭐ 299 | 2026-06-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7483,3 +7483,4 @@ If you need permission, you're thinking too much.
 | 7392 | 2026-06-15 18:15:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (299343⭐ None) | [reels/reel_7392_awesome-selfhosted-awesome-selfhosted](reels/reel_7392_awesome-selfhosted-awesome-selfhosted) |
 | 7393 | 2026-06-15 21:30:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (139393⭐ Python) | [reels/reel_7393_langchain-ai-langchain](reels/reel_7393_langchain-ai-langchain) |
 | 7394 | 2026-06-15 23:23:44 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (116647⭐ TypeScript) | [reels/reel_7394_shadcn-ui-ui](reels/reel_7394_shadcn-ui-ui) |
+| 7395 | 2026-06-16 02:06:19 | [zapier/zapier-mcp](https://github.com/zapier/zapier-mcp) | ✅ full (299⭐ None) | [reels/reel_7395_zapier-zapier-mcp](reels/reel_7395_zapier-zapier-mcp) |
