@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7397 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-06-16 |
+| #7398 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 299k | 2026-06-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7486,3 +7486,4 @@ If you need permission, you're thinking too much.
 | 7395 | 2026-06-16 02:06:19 | [zapier/zapier-mcp](https://github.com/zapier/zapier-mcp) | ✅ full (299⭐ None) | [reels/reel_7395_zapier-zapier-mcp](reels/reel_7395_zapier-zapier-mcp) |
 | 7396 | 2026-06-16 07:42:08 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (123296⭐ TypeScript) | [reels/reel_7396_iptv-org-iptv](reels/reel_7396_iptv-org-iptv) |
 | 7397 | 2026-06-16 12:31:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184971⭐ Python) | [reels/reel_7397_Significant-Gravitas-AutoGPT](reels/reel_7397_Significant-Gravitas-AutoGPT) |
+| 7398 | 2026-06-16 17:48:52 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (299560⭐ None) | [reels/reel_7398_awesome-selfhosted-awesome-selfhosted](reels/reel_7398_awesome-selfhosted-awesome-selfhosted) |
