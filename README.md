@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7401 | [go-playground/validator](https://github.com/go-playground/validator) | Go · ⭐ 20k | 2026-06-17 |
+| #7402 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 124k | 2026-06-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7490,3 +7490,4 @@ If you need permission, you're thinking too much.
 | 7399 | 2026-06-16 20:47:54 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (117257⭐ Python) | [reels/reel_7399_Comfy-Org-ComfyUI](reels/reel_7399_Comfy-Org-ComfyUI) |
 | 7400 | 2026-06-16 22:52:07 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (117260⭐ Python) | [reels/reel_7400_Comfy-Org-ComfyUI](reels/reel_7400_Comfy-Org-ComfyUI) |
 | 7401 | 2026-06-17 00:14:16 | [go-playground/validator](https://github.com/go-playground/validator) | ✅ full (20011⭐ Go) | [reels/reel_7401_go-playground-validator](reels/reel_7401_go-playground-validator) |
+| 7402 | 2026-06-17 05:18:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (124356⭐ TypeScript) | [reels/reel_7402_iptv-org-iptv](reels/reel_7402_iptv-org-iptv) |
