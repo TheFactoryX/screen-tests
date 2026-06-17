@@ -1,0 +1,24 @@
+{
+  "reel_number": 7401,
+  "recorded": "2026-06-17 00:14:16 UTC",
+  "repository": {
+    "full_name": "go-playground/validator",
+    "url": "https://github.com/go-playground/validator",
+    "clone_url": "https://github.com/go-playground/validator.git",
+    "stars": 20011,
+    "language": "Go",
+    "size_kb": 2495
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.445914
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 20011 stars."
+  }
+}
