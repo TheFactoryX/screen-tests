@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7404 | [tenseiken/docker-qbittorrent-wireguard](https://github.com/tenseiken/docker-qbittorrent-wireguard) | Shell · ⭐ 106 | 2026-06-17 |
+| #7405 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 442k | 2026-06-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7493,3 +7493,4 @@ If you need permission, you're thinking too much.
 | 7402 | 2026-06-17 05:18:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (124356⭐ TypeScript) | [reels/reel_7402_iptv-org-iptv](reels/reel_7402_iptv-org-iptv) |
 | 7403 | 2026-06-17 10:13:15 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (177275⭐ None) | [reels/reel_7403_multica-ai-andrej-karpathy-skills](reels/reel_7403_multica-ai-andrej-karpathy-skills) |
 | 7404 | 2026-06-17 14:02:01 | [tenseiken/docker-qbittorrent-wireguard](https://github.com/tenseiken/docker-qbittorrent-wireguard) | ✅ full (106⭐ Shell) | [reels/reel_7404_tenseiken-docker-qbittorrent-wireguard](reels/reel_7404_tenseiken-docker-qbittorrent-wireguard) |
+| 7405 | 2026-06-17 17:23:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (442202⭐ Python) | [reels/reel_7405_public-apis-public-apis](reels/reel_7405_public-apis-public-apis) |
