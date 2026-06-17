@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7406 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 117k | 2026-06-17 |
+| #7407 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 184k | 2026-06-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7495,3 +7495,4 @@ If you need permission, you're thinking too much.
 | 7404 | 2026-06-17 14:02:01 | [tenseiken/docker-qbittorrent-wireguard](https://github.com/tenseiken/docker-qbittorrent-wireguard) | ✅ full (106⭐ Shell) | [reels/reel_7404_tenseiken-docker-qbittorrent-wireguard](reels/reel_7404_tenseiken-docker-qbittorrent-wireguard) |
 | 7405 | 2026-06-17 17:23:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (442202⭐ Python) | [reels/reel_7405_public-apis-public-apis](reels/reel_7405_public-apis-public-apis) |
 | 7406 | 2026-06-17 19:34:30 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (117021⭐ C++) | [reels/reel_7406_ggml-org-llama.cpp](reels/reel_7406_ggml-org-llama.cpp) |
+| 7407 | 2026-06-17 21:34:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184999⭐ Python) | [reels/reel_7407_Significant-Gravitas-AutoGPT](reels/reel_7407_Significant-Gravitas-AutoGPT) |
