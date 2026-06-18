@@ -1,0 +1,24 @@
+{
+  "reel_number": 7415,
+  "recorded": "2026-06-18 21:49:52 UTC",
+  "repository": {
+    "full_name": "jvm-repo-rebuild/reproducible-central",
+    "url": "https://github.com/jvm-repo-rebuild/reproducible-central",
+    "clone_url": "https://github.com/jvm-repo-rebuild/reproducible-central.git",
+    "stars": 144,
+    "language": "Shell",
+    "size_kb": 241680
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 236,
+    "duration_seconds": 8.972258
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 144 stars."
+  }
+}

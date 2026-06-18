@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7414 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 117k | 2026-06-18 |
+| #7415 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | Shell · ⭐ 144 | 2026-06-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7503,3 +7503,4 @@ If you need permission, you're thinking too much.
 | 7412 | 2026-06-18 14:08:43 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (116900⭐ TypeScript) | [reels/reel_7412_shadcn-ui-ui](reels/reel_7412_shadcn-ui-ui) |
 | 7413 | 2026-06-18 17:28:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (516987⭐ Markdown) | [reels/reel_7413_codecrafters-io-build-your-own-x](reels/reel_7413_codecrafters-io-build-your-own-x) |
 | 7414 | 2026-06-18 19:39:39 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (117185⭐ C++) | [reels/reel_7414_ggml-org-llama.cpp](reels/reel_7414_ggml-org-llama.cpp) |
+| 7415 | 2026-06-18 21:49:52 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | ✅ shallow (144⭐ Shell) | [reels/reel_7415_jvm-repo-rebuild-reproducible-central](reels/reel_7415_jvm-repo-rebuild-reproducible-central) |
