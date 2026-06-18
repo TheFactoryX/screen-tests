@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7408 | [getnora-io/nora](https://github.com/getnora-io/nora) | Rust · ⭐ 195 | 2026-06-17 |
+| #7409 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 114k | 2026-06-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7497,3 +7497,4 @@ If you need permission, you're thinking too much.
 | 7406 | 2026-06-17 19:34:30 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (117021⭐ C++) | [reels/reel_7406_ggml-org-llama.cpp](reels/reel_7406_ggml-org-llama.cpp) |
 | 7407 | 2026-06-17 21:34:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (184999⭐ Python) | [reels/reel_7407_Significant-Gravitas-AutoGPT](reels/reel_7407_Significant-Gravitas-AutoGPT) |
 | 7408 | 2026-06-17 23:07:40 | [getnora-io/nora](https://github.com/getnora-io/nora) | ✅ full (195⭐ Rust) | [reels/reel_7408_getnora-io-nora](reels/reel_7408_getnora-io-nora) |
+| 7409 | 2026-06-18 01:41:00 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (114581⭐ None) | [reels/reel_7409_Hack-with-Github-Awesome-Hacking](reels/reel_7409_Hack-with-Github-Awesome-Hacking) |
