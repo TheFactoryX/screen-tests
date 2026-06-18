@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7413 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 516k | 2026-06-18 |
+| #7414 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 117k | 2026-06-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7502,3 +7502,4 @@ If you need permission, you're thinking too much.
 | 7411 | 2026-06-18 10:54:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (142108⭐ Python) | [reels/reel_7411_open-webui-open-webui](reels/reel_7411_open-webui-open-webui) |
 | 7412 | 2026-06-18 14:08:43 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (116900⭐ TypeScript) | [reels/reel_7412_shadcn-ui-ui](reels/reel_7412_shadcn-ui-ui) |
 | 7413 | 2026-06-18 17:28:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (516987⭐ Markdown) | [reels/reel_7413_codecrafters-io-build-your-own-x](reels/reel_7413_codecrafters-io-build-your-own-x) |
+| 7414 | 2026-06-18 19:39:39 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (117185⭐ C++) | [reels/reel_7414_ggml-org-llama.cpp](reels/reel_7414_ggml-org-llama.cpp) |
