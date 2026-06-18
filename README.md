@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7411 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 142k | 2026-06-18 |
+| #7412 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 116k | 2026-06-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7500,3 +7500,4 @@ If you need permission, you're thinking too much.
 | 7409 | 2026-06-18 01:41:00 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (114581⭐ None) | [reels/reel_7409_Hack-with-Github-Awesome-Hacking](reels/reel_7409_Hack-with-Github-Awesome-Hacking) |
 | 7410 | 2026-06-18 06:27:51 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (299793⭐ None) | [reels/reel_7410_awesome-selfhosted-awesome-selfhosted](reels/reel_7410_awesome-selfhosted-awesome-selfhosted) |
 | 7411 | 2026-06-18 10:54:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (142108⭐ Python) | [reels/reel_7411_open-webui-open-webui](reels/reel_7411_open-webui-open-webui) |
+| 7412 | 2026-06-18 14:08:43 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (116900⭐ TypeScript) | [reels/reel_7412_shadcn-ui-ui](reels/reel_7412_shadcn-ui-ui) |
