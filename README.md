@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7421 | [ProAlit/aio-downloader](https://github.com/ProAlit/aio-downloader) | None · ⭐ 536 | 2026-06-19 |
+| #7422 | [enricoros/big-AGI](https://github.com/enricoros/big-AGI) | TypeScript · ⭐ 7k | 2026-06-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7510,3 +7510,4 @@ If you need permission, you're thinking too much.
 | 7419 | 2026-06-19 12:30:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (139693⭐ Python) | [reels/reel_7419_langchain-ai-langchain](reels/reel_7419_langchain-ai-langchain) |
 | 7420 | 2026-06-19 15:50:20 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (517328⭐ Markdown) | [reels/reel_7420_codecrafters-io-build-your-own-x](reels/reel_7420_codecrafters-io-build-your-own-x) |
 | 7421 | 2026-06-19 17:54:39 | [ProAlit/aio-downloader](https://github.com/ProAlit/aio-downloader) | ✅ readme_only (536⭐ None) | [reels/reel_7421_ProAlit-aio-downloader](reels/reel_7421_ProAlit-aio-downloader) |
+| 7422 | 2026-06-19 19:47:05 | [enricoros/big-AGI](https://github.com/enricoros/big-AGI) | ✅ full (7006⭐ TypeScript) | [reels/reel_7422_enricoros-big-AGI](reels/reel_7422_enricoros-big-AGI) |

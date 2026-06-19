@@ -1,0 +1,24 @@
+{
+  "reel_number": 7422,
+  "recorded": "2026-06-19 19:47:05 UTC",
+  "repository": {
+    "full_name": "enricoros/big-AGI",
+    "url": "https://github.com/enricoros/big-AGI",
+    "clone_url": "https://github.com/enricoros/big-AGI.git",
+    "stars": 7006,
+    "language": "TypeScript",
+    "size_kb": 40989
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 40,
+    "duration_seconds": 2.903574
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 7006 stars."
+  }
+}
