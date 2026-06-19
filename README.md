@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7419 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 139k | 2026-06-19 |
+| #7420 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 517k | 2026-06-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7508,3 +7508,4 @@ If you need permission, you're thinking too much.
 | 7417 | 2026-06-19 02:31:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (142182⭐ Python) | [reels/reel_7417_open-webui-open-webui](reels/reel_7417_open-webui-open-webui) |
 | 7418 | 2026-06-19 08:18:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185023⭐ Python) | [reels/reel_7418_Significant-Gravitas-AutoGPT](reels/reel_7418_Significant-Gravitas-AutoGPT) |
 | 7419 | 2026-06-19 12:30:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (139693⭐ Python) | [reels/reel_7419_langchain-ai-langchain](reels/reel_7419_langchain-ai-langchain) |
+| 7420 | 2026-06-19 15:50:20 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (517328⭐ Markdown) | [reels/reel_7420_codecrafters-io-build-your-own-x](reels/reel_7420_codecrafters-io-build-your-own-x) |
