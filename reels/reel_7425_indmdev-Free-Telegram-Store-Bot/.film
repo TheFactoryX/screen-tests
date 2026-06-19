@@ -1,0 +1,24 @@
+{
+  "reel_number": 7425,
+  "recorded": "2026-06-19 23:15:58 UTC",
+  "repository": {
+    "full_name": "indmdev/Free-Telegram-Store-Bot",
+    "url": "https://github.com/indmdev/Free-Telegram-Store-Bot",
+    "clone_url": "https://github.com/indmdev/Free-Telegram-Store-Bot.git",
+    "stars": 121,
+    "language": "Python",
+    "size_kb": 62338
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 60,
+    "duration_seconds": 5.056015
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 121 stars."
+  }
+}
