@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7416 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 108k | 2026-06-18 |
+| #7417 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 142k | 2026-06-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7505,3 +7505,4 @@ If you need permission, you're thinking too much.
 | 7414 | 2026-06-18 19:39:39 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (117185⭐ C++) | [reels/reel_7414_ggml-org-llama.cpp](reels/reel_7414_ggml-org-llama.cpp) |
 | 7415 | 2026-06-18 21:49:52 | [jvm-repo-rebuild/reproducible-central](https://github.com/jvm-repo-rebuild/reproducible-central) | ✅ shallow (144⭐ Shell) | [reels/reel_7415_jvm-repo-rebuild-reproducible-central](reels/reel_7415_jvm-repo-rebuild-reproducible-central) |
 | 7416 | 2026-06-18 23:43:32 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (108053⭐ Rust) | [reels/reel_7416_tauri-apps-tauri](reels/reel_7416_tauri-apps-tauri) |
+| 7417 | 2026-06-19 02:31:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (142182⭐ Python) | [reels/reel_7417_open-webui-open-webui](reels/reel_7417_open-webui-open-webui) |
