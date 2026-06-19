@@ -1,0 +1,24 @@
+{
+  "reel_number": 7421,
+  "recorded": "2026-06-19 17:54:39 UTC",
+  "repository": {
+    "full_name": "ProAlit/aio-downloader",
+    "url": "https://github.com/ProAlit/aio-downloader",
+    "clone_url": "https://github.com/ProAlit/aio-downloader.git",
+    "stars": 536,
+    "language": null,
+    "size_kb": 49148854
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 47996,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 536 stars."
+  }
+}
