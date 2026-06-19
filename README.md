@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7423 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 117k | 2026-06-19 |
+| #7424 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 149k | 2026-06-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7512,3 +7512,4 @@ If you need permission, you're thinking too much.
 | 7421 | 2026-06-19 17:54:39 | [ProAlit/aio-downloader](https://github.com/ProAlit/aio-downloader) | ✅ readme_only (536⭐ None) | [reels/reel_7421_ProAlit-aio-downloader](reels/reel_7421_ProAlit-aio-downloader) |
 | 7422 | 2026-06-19 19:47:05 | [enricoros/big-AGI](https://github.com/enricoros/big-AGI) | ✅ full (7006⭐ TypeScript) | [reels/reel_7422_enricoros-big-AGI](reels/reel_7422_enricoros-big-AGI) |
 | 7423 | 2026-06-19 21:08:14 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (117597⭐ Python) | [reels/reel_7423_Comfy-Org-ComfyUI](reels/reel_7423_Comfy-Org-ComfyUI) |
+| 7424 | 2026-06-19 22:13:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (149854⭐ Python) | [reels/reel_7424_langflow-ai-langflow](reels/reel_7424_langflow-ai-langflow) |
