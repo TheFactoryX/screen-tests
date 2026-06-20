@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7436 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 300k | 2026-06-20 |
+| #7437 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 270k | 2026-06-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7525,3 +7525,4 @@ If you need permission, you're thinking too much.
 | 7434 | 2026-06-20 19:56:14 | [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) | ✅ full (158⭐ Rust) | [reels/reel_7434_TheOpenDictionary-odict](reels/reel_7434_TheOpenDictionary-odict) |
 | 7435 | 2026-06-20 21:19:01 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (300256⭐ None) | [reels/reel_7435_awesome-selfhosted-awesome-selfhosted](reels/reel_7435_awesome-selfhosted-awesome-selfhosted) |
 | 7436 | 2026-06-20 22:40:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (300261⭐ None) | [reels/reel_7436_awesome-selfhosted-awesome-selfhosted](reels/reel_7436_awesome-selfhosted-awesome-selfhosted) |
+| 7437 | 2026-06-20 23:49:07 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (270243⭐ None) | [reels/reel_7437_practical-tutorials-project-based-learning](reels/reel_7437_practical-tutorials-project-based-learning) |
