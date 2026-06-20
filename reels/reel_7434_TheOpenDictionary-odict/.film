@@ -1,0 +1,24 @@
+{
+  "reel_number": 7434,
+  "recorded": "2026-06-20 19:56:14 UTC",
+  "repository": {
+    "full_name": "TheOpenDictionary/odict",
+    "url": "https://github.com/TheOpenDictionary/odict",
+    "clone_url": "https://github.com/TheOpenDictionary/odict.git",
+    "stars": 158,
+    "language": "Rust",
+    "size_kb": 13667
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 0.874904
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 158 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7433 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 126k | 2026-06-20 |
+| #7434 | [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) | Rust · ⭐ 158 | 2026-06-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7522,3 +7522,4 @@ If you need permission, you're thinking too much.
 | 7431 | 2026-06-20 15:14:28 | [teidesu/inugram](https://github.com/teidesu/inugram) | ✅ full (103⭐ Kotlin) | [reels/reel_7431_teidesu-inugram](reels/reel_7431_teidesu-inugram) |
 | 7432 | 2026-06-20 16:53:12 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (126825⭐ TypeScript) | [reels/reel_7432_clash-verge-rev-clash-verge-rev](reels/reel_7432_clash-verge-rev-clash-verge-rev) |
 | 7433 | 2026-06-20 18:08:53 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (126831⭐ TypeScript) | [reels/reel_7433_clash-verge-rev-clash-verge-rev](reels/reel_7433_clash-verge-rev-clash-verge-rev) |
+| 7434 | 2026-06-20 19:56:14 | [TheOpenDictionary/odict](https://github.com/TheOpenDictionary/odict) | ✅ full (158⭐ Rust) | [reels/reel_7434_TheOpenDictionary-odict](reels/reel_7434_TheOpenDictionary-odict) |
