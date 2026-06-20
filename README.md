@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7425 | [indmdev/Free-Telegram-Store-Bot](https://github.com/indmdev/Free-Telegram-Store-Bot) | Python · ⭐ 121 | 2026-06-19 |
+| #7426 | [romainmarcoux/malicious-domains](https://github.com/romainmarcoux/malicious-domains) | DIGITAL Command Language · ⭐ 102 | 2026-06-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7514,3 +7514,4 @@ If you need permission, you're thinking too much.
 | 7423 | 2026-06-19 21:08:14 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (117597⭐ Python) | [reels/reel_7423_Comfy-Org-ComfyUI](reels/reel_7423_Comfy-Org-ComfyUI) |
 | 7424 | 2026-06-19 22:13:18 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (149854⭐ Python) | [reels/reel_7424_langflow-ai-langflow](reels/reel_7424_langflow-ai-langflow) |
 | 7425 | 2026-06-19 23:15:58 | [indmdev/Free-Telegram-Store-Bot](https://github.com/indmdev/Free-Telegram-Store-Bot) | ✅ full (121⭐ Python) | [reels/reel_7425_indmdev-Free-Telegram-Store-Bot](reels/reel_7425_indmdev-Free-Telegram-Store-Bot) |
+| 7426 | 2026-06-20 01:34:59 | [romainmarcoux/malicious-domains](https://github.com/romainmarcoux/malicious-domains) | ✅ full (102⭐ DIGITAL Command Language) | [reels/reel_7426_romainmarcoux-malicious-domains](reels/reel_7426_romainmarcoux-malicious-domains) |
