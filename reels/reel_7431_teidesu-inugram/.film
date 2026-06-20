@@ -1,0 +1,24 @@
+{
+  "reel_number": 7431,
+  "recorded": "2026-06-20 15:14:28 UTC",
+  "repository": {
+    "full_name": "teidesu/inugram",
+    "url": "https://github.com/teidesu/inugram",
+    "clone_url": "https://github.com/teidesu/inugram.git",
+    "stars": 103,
+    "language": "Kotlin",
+    "size_kb": 2562
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.31823
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 103 stars."
+  }
+}
