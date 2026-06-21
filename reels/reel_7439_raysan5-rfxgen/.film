@@ -1,0 +1,24 @@
+{
+  "reel_number": 7439,
+  "recorded": "2026-06-21 08:40:42 UTC",
+  "repository": {
+    "full_name": "raysan5/rfxgen",
+    "url": "https://github.com/raysan5/rfxgen",
+    "clone_url": "https://github.com/raysan5/rfxgen.git",
+    "stars": 505,
+    "language": "C",
+    "size_kb": 4052
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.5756
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 505 stars."
+  }
+}
