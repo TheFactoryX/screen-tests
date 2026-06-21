@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7443 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 126k | 2026-06-21 |
+| #7444 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 149k | 2026-06-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7532,3 +7532,4 @@ If you need permission, you're thinking too much.
 | 7441 | 2026-06-21 13:25:24 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (179492⭐ None) | [reels/reel_7441_multica-ai-andrej-karpathy-skills](reels/reel_7441_multica-ai-andrej-karpathy-skills) |
 | 7442 | 2026-06-21 15:24:23 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (517955⭐ Markdown) | [reels/reel_7442_codecrafters-io-build-your-own-x](reels/reel_7442_codecrafters-io-build-your-own-x) |
 | 7443 | 2026-06-21 17:03:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (126974⭐ TypeScript) | [reels/reel_7443_clash-verge-rev-clash-verge-rev](reels/reel_7443_clash-verge-rev-clash-verge-rev) |
+| 7444 | 2026-06-21 18:49:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (149902⭐ Python) | [reels/reel_7444_langflow-ai-langflow](reels/reel_7444_langflow-ai-langflow) |
