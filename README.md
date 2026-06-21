@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7439 | [raysan5/rfxgen](https://github.com/raysan5/rfxgen) | C · ⭐ 505 | 2026-06-21 |
+| #7440 | [chainguard-images/images](https://github.com/chainguard-images/images) | HCL · ⭐ 679 | 2026-06-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7528,3 +7528,4 @@ If you need permission, you're thinking too much.
 | 7437 | 2026-06-20 23:49:07 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (270243⭐ None) | [reels/reel_7437_practical-tutorials-project-based-learning](reels/reel_7437_practical-tutorials-project-based-learning) |
 | 7438 | 2026-06-21 04:01:04 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (117045⭐ TypeScript) | [reels/reel_7438_shadcn-ui-ui](reels/reel_7438_shadcn-ui-ui) |
 | 7439 | 2026-06-21 08:40:42 | [raysan5/rfxgen](https://github.com/raysan5/rfxgen) | ✅ full (505⭐ C) | [reels/reel_7439_raysan5-rfxgen](reels/reel_7439_raysan5-rfxgen) |
+| 7440 | 2026-06-21 11:34:36 | [chainguard-images/images](https://github.com/chainguard-images/images) | ✅ full (679⭐ HCL) | [reels/reel_7440_chainguard-images-images](reels/reel_7440_chainguard-images-images) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 7440,
+  "recorded": "2026-06-21 11:34:36 UTC",
+  "repository": {
+    "full_name": "chainguard-images/images",
+    "url": "https://github.com/chainguard-images/images",
+    "clone_url": "https://github.com/chainguard-images/images.git",
+    "stars": 679,
+    "language": "HCL",
+    "size_kb": 21281
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 1.705606
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HCL",
+    "director_note": "A HCL repository. 679 stars."
+  }
+}
