@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7441 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 179k | 2026-06-21 |
+| #7442 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 517k | 2026-06-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7530,3 +7530,4 @@ If you need permission, you're thinking too much.
 | 7439 | 2026-06-21 08:40:42 | [raysan5/rfxgen](https://github.com/raysan5/rfxgen) | ✅ full (505⭐ C) | [reels/reel_7439_raysan5-rfxgen](reels/reel_7439_raysan5-rfxgen) |
 | 7440 | 2026-06-21 11:34:36 | [chainguard-images/images](https://github.com/chainguard-images/images) | ✅ full (679⭐ HCL) | [reels/reel_7440_chainguard-images-images](reels/reel_7440_chainguard-images-images) |
 | 7441 | 2026-06-21 13:25:24 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (179492⭐ None) | [reels/reel_7441_multica-ai-andrej-karpathy-skills](reels/reel_7441_multica-ai-andrej-karpathy-skills) |
+| 7442 | 2026-06-21 15:24:23 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (517955⭐ Markdown) | [reels/reel_7442_codecrafters-io-build-your-own-x](reels/reel_7442_codecrafters-io-build-your-own-x) |
