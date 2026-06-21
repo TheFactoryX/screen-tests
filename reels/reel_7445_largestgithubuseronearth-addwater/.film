@@ -1,0 +1,24 @@
+{
+  "reel_number": 7445,
+  "recorded": "2026-06-21 20:23:25 UTC",
+  "repository": {
+    "full_name": "largestgithubuseronearth/addwater",
+    "url": "https://github.com/largestgithubuseronearth/addwater",
+    "clone_url": "https://github.com/largestgithubuseronearth/addwater.git",
+    "stars": 176,
+    "language": "Python",
+    "size_kb": 4167
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 1.031008
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 176 stars."
+  }
+}
