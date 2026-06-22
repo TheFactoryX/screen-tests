@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7449 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 142k | 2026-06-22 |
+| #7450 | [CyanSMP64/NatDexExtension](https://github.com/CyanSMP64/NatDexExtension) | Lua · ⭐ 12 | 2026-06-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7538,3 +7538,4 @@ If you need permission, you're thinking too much.
 | 7447 | 2026-06-21 23:10:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (172376⭐ Python) | [reels/reel_7447_yt-dlp-yt-dlp](reels/reel_7447_yt-dlp-yt-dlp) |
 | 7448 | 2026-06-22 01:40:24 | [Correia-jpv/fucking-awesome-android](https://github.com/Correia-jpv/fucking-awesome-android) | ✅ full (19⭐ None) | [reels/reel_7448_Correia-jpv-fucking-awesome-android](reels/reel_7448_Correia-jpv-fucking-awesome-android) |
 | 7449 | 2026-06-22 07:03:50 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (142570⭐ Python) | [reels/reel_7449_open-webui-open-webui](reels/reel_7449_open-webui-open-webui) |
+| 7450 | 2026-06-22 13:05:15 | [CyanSMP64/NatDexExtension](https://github.com/CyanSMP64/NatDexExtension) | ✅ full (12⭐ Lua) | [reels/reel_7450_CyanSMP64-NatDexExtension](reels/reel_7450_CyanSMP64-NatDexExtension) |
