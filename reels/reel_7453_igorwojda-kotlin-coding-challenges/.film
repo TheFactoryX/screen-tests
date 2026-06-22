@@ -1,0 +1,24 @@
+{
+  "reel_number": 7453,
+  "recorded": "2026-06-22 22:26:33 UTC",
+  "repository": {
+    "full_name": "igorwojda/kotlin-coding-challenges",
+    "url": "https://github.com/igorwojda/kotlin-coding-challenges",
+    "clone_url": "https://github.com/igorwojda/kotlin-coding-challenges.git",
+    "stars": 1055,
+    "language": "Kotlin",
+    "size_kb": 2524
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.212021
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 1055 stars."
+  }
+}

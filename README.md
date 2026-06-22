@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7452 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 443k | 2026-06-22 |
+| #7453 | [igorwojda/kotlin-coding-challenges](https://github.com/igorwojda/kotlin-coding-challenges) | Kotlin · ⭐ 1k | 2026-06-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7541,3 +7541,4 @@ If you need permission, you're thinking too much.
 | 7450 | 2026-06-22 13:05:15 | [CyanSMP64/NatDexExtension](https://github.com/CyanSMP64/NatDexExtension) | ✅ full (12⭐ Lua) | [reels/reel_7450_CyanSMP64-NatDexExtension](reels/reel_7450_CyanSMP64-NatDexExtension) |
 | 7451 | 2026-06-22 17:48:33 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (142627⭐ Python) | [reels/reel_7451_open-webui-open-webui](reels/reel_7451_open-webui-open-webui) |
 | 7452 | 2026-06-22 20:44:26 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (443537⭐ Python) | [reels/reel_7452_public-apis-public-apis](reels/reel_7452_public-apis-public-apis) |
+| 7453 | 2026-06-22 22:26:33 | [igorwojda/kotlin-coding-challenges](https://github.com/igorwojda/kotlin-coding-challenges) | ✅ full (1055⭐ Kotlin) | [reels/reel_7453_igorwojda-kotlin-coding-challenges](reels/reel_7453_igorwojda-kotlin-coding-challenges) |
