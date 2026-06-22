@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7447 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 172k | 2026-06-21 |
+| #7448 | [Correia-jpv/fucking-awesome-android](https://github.com/Correia-jpv/fucking-awesome-android) | None · ⭐ 19 | 2026-06-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7536,3 +7536,4 @@ If you need permission, you're thinking too much.
 | 7445 | 2026-06-21 20:23:25 | [largestgithubuseronearth/addwater](https://github.com/largestgithubuseronearth/addwater) | ✅ full (176⭐ Python) | [reels/reel_7445_largestgithubuseronearth-addwater](reels/reel_7445_largestgithubuseronearth-addwater) |
 | 7446 | 2026-06-21 21:52:58 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (126988⭐ TypeScript) | [reels/reel_7446_clash-verge-rev-clash-verge-rev](reels/reel_7446_clash-verge-rev-clash-verge-rev) |
 | 7447 | 2026-06-21 23:10:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (172376⭐ Python) | [reels/reel_7447_yt-dlp-yt-dlp](reels/reel_7447_yt-dlp-yt-dlp) |
+| 7448 | 2026-06-22 01:40:24 | [Correia-jpv/fucking-awesome-android](https://github.com/Correia-jpv/fucking-awesome-android) | ✅ full (19⭐ None) | [reels/reel_7448_Correia-jpv-fucking-awesome-android](reels/reel_7448_Correia-jpv-fucking-awesome-android) |

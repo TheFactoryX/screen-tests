@@ -1,0 +1,24 @@
+{
+  "reel_number": 7448,
+  "recorded": "2026-06-22 01:40:24 UTC",
+  "repository": {
+    "full_name": "Correia-jpv/fucking-awesome-android",
+    "url": "https://github.com/Correia-jpv/fucking-awesome-android",
+    "clone_url": "https://github.com/Correia-jpv/fucking-awesome-android.git",
+    "stars": 19,
+    "language": null,
+    "size_kb": 614
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.163908
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 19 stars."
+  }
+}
