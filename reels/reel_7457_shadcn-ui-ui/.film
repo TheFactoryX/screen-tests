@@ -1,0 +1,24 @@
+{
+  "reel_number": 7457,
+  "recorded": "2026-06-23 10:42:45 UTC",
+  "repository": {
+    "full_name": "shadcn-ui/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "clone_url": "https://github.com/shadcn-ui/ui.git",
+    "stars": 117216,
+    "language": "TypeScript",
+    "size_kb": 65977
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 64,
+    "duration_seconds": 3.812404
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 117216 stars."
+  }
+}
