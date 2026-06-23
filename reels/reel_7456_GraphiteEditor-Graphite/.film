@@ -1,0 +1,24 @@
+{
+  "reel_number": 7456,
+  "recorded": "2026-06-23 07:02:32 UTC",
+  "repository": {
+    "full_name": "GraphiteEditor/Graphite",
+    "url": "https://github.com/GraphiteEditor/Graphite",
+    "clone_url": "https://github.com/GraphiteEditor/Graphite.git",
+    "stars": 26368,
+    "language": "Rust",
+    "size_kb": 50251
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 49,
+    "duration_seconds": 3.498103
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 26368 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7455 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 127k | 2026-06-23 |
+| #7456 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | Rust · ⭐ 26k | 2026-06-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7544,3 +7544,4 @@ If you need permission, you're thinking too much.
 | 7453 | 2026-06-22 22:26:33 | [igorwojda/kotlin-coding-challenges](https://github.com/igorwojda/kotlin-coding-challenges) | ✅ full (1055⭐ Kotlin) | [reels/reel_7453_igorwojda-kotlin-coding-challenges](reels/reel_7453_igorwojda-kotlin-coding-challenges) |
 | 7454 | 2026-06-22 23:50:04 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (518510⭐ Markdown) | [reels/reel_7454_codecrafters-io-build-your-own-x](reels/reel_7454_codecrafters-io-build-your-own-x) |
 | 7455 | 2026-06-23 03:23:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (127630⭐ TypeScript) | [reels/reel_7455_iptv-org-iptv](reels/reel_7455_iptv-org-iptv) |
+| 7456 | 2026-06-23 07:02:32 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | ✅ full (26368⭐ Rust) | [reels/reel_7456_GraphiteEditor-Graphite](reels/reel_7456_GraphiteEditor-Graphite) |
