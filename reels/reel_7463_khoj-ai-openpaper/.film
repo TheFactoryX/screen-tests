@@ -1,0 +1,24 @@
+{
+  "reel_number": 7463,
+  "recorded": "2026-06-23 23:20:33 UTC",
+  "repository": {
+    "full_name": "khoj-ai/openpaper",
+    "url": "https://github.com/khoj-ai/openpaper",
+    "clone_url": "https://github.com/khoj-ai/openpaper.git",
+    "stars": 360,
+    "language": "TypeScript",
+    "size_kb": 53889
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 52,
+    "duration_seconds": 1.971153
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 360 stars."
+  }
+}

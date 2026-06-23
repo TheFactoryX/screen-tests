@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7462 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 443k | 2026-06-23 |
+| #7463 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | TypeScript · ⭐ 360 | 2026-06-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7551,3 +7551,4 @@ If you need permission, you're thinking too much.
 | 7460 | 2026-06-23 18:15:15 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (443739⭐ Python) | [reels/reel_7460_public-apis-public-apis](reels/reel_7460_public-apis-public-apis) |
 | 7461 | 2026-06-23 20:31:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (127955⭐ TypeScript) | [reels/reel_7461_iptv-org-iptv](reels/reel_7461_iptv-org-iptv) |
 | 7462 | 2026-06-23 22:03:47 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (443755⭐ Python) | [reels/reel_7462_public-apis-public-apis](reels/reel_7462_public-apis-public-apis) |
+| 7463 | 2026-06-23 23:20:33 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | ✅ full (360⭐ TypeScript) | [reels/reel_7463_khoj-ai-openpaper](reels/reel_7463_khoj-ai-openpaper) |
