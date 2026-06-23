@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7457 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 117k | 2026-06-23 |
+| #7458 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 443k | 2026-06-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7546,3 +7546,4 @@ If you need permission, you're thinking too much.
 | 7455 | 2026-06-23 03:23:42 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (127630⭐ TypeScript) | [reels/reel_7455_iptv-org-iptv](reels/reel_7455_iptv-org-iptv) |
 | 7456 | 2026-06-23 07:02:32 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | ✅ full (26368⭐ Rust) | [reels/reel_7456_GraphiteEditor-Graphite](reels/reel_7456_GraphiteEditor-Graphite) |
 | 7457 | 2026-06-23 10:42:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (117216⭐ TypeScript) | [reels/reel_7457_shadcn-ui-ui](reels/reel_7457_shadcn-ui-ui) |
+| 7458 | 2026-06-23 13:30:42 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (443673⭐ Python) | [reels/reel_7458_public-apis-public-apis](reels/reel_7458_public-apis-public-apis) |
