@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7463 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | TypeScript · ⭐ 360 | 2026-06-23 |
+| #7464 | [safijari/openpuck](https://github.com/safijari/openpuck) | C++ · ⭐ 126 | 2026-06-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7552,3 +7552,4 @@ If you need permission, you're thinking too much.
 | 7461 | 2026-06-23 20:31:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (127955⭐ TypeScript) | [reels/reel_7461_iptv-org-iptv](reels/reel_7461_iptv-org-iptv) |
 | 7462 | 2026-06-23 22:03:47 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (443755⭐ Python) | [reels/reel_7462_public-apis-public-apis](reels/reel_7462_public-apis-public-apis) |
 | 7463 | 2026-06-23 23:20:33 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | ✅ full (360⭐ TypeScript) | [reels/reel_7463_khoj-ai-openpaper](reels/reel_7463_khoj-ai-openpaper) |
+| 7464 | 2026-06-24 01:24:27 | [safijari/openpuck](https://github.com/safijari/openpuck) | ✅ full (126⭐ C++) | [reels/reel_7464_safijari-openpuck](reels/reel_7464_safijari-openpuck) |

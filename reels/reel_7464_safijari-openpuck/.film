@@ -1,0 +1,24 @@
+{
+  "reel_number": 7464,
+  "recorded": "2026-06-24 01:24:27 UTC",
+  "repository": {
+    "full_name": "safijari/openpuck",
+    "url": "https://github.com/safijari/openpuck",
+    "clone_url": "https://github.com/safijari/openpuck.git",
+    "stars": 126,
+    "language": "C++",
+    "size_kb": 952
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.685658
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 126 stars."
+  }
+}
