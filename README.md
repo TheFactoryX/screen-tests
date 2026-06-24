@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7467 | [h5i-dev/h5i](https://github.com/h5i-dev/h5i) | Rust · ⭐ 424 | 2026-06-24 |
+| #7468 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-06-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7556,3 +7556,4 @@ If you need permission, you're thinking too much.
 | 7465 | 2026-06-24 05:35:17 | [OriginalMadman/Ars-Magica-Open-License](https://github.com/OriginalMadman/Ars-Magica-Open-License) | ✅ full (115⭐ None) | [reels/reel_7465_OriginalMadman-Ars-Magica-Open-License](reels/reel_7465_OriginalMadman-Ars-Magica-Open-License) |
 | 7466 | 2026-06-24 08:42:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150018⭐ Python) | [reels/reel_7466_langflow-ai-langflow](reels/reel_7466_langflow-ai-langflow) |
 | 7467 | 2026-06-24 11:30:55 | [h5i-dev/h5i](https://github.com/h5i-dev/h5i) | ✅ full (424⭐ Rust) | [reels/reel_7467_h5i-dev-h5i](reels/reel_7467_h5i-dev-h5i) |
+| 7468 | 2026-06-24 13:52:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185148⭐ Python) | [reels/reel_7468_Significant-Gravitas-AutoGPT](reels/reel_7468_Significant-Gravitas-AutoGPT) |
