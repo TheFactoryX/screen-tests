@@ -1,0 +1,24 @@
+{
+  "reel_number": 7467,
+  "recorded": "2026-06-24 11:30:55 UTC",
+  "repository": {
+    "full_name": "h5i-dev/h5i",
+    "url": "https://github.com/h5i-dev/h5i",
+    "clone_url": "https://github.com/h5i-dev/h5i.git",
+    "stars": 424,
+    "language": "Rust",
+    "size_kb": 48555
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 47,
+    "duration_seconds": 1.896022
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 424 stars."
+  }
+}
