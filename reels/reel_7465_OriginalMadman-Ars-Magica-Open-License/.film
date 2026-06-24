@@ -1,0 +1,24 @@
+{
+  "reel_number": 7465,
+  "recorded": "2026-06-24 05:35:17 UTC",
+  "repository": {
+    "full_name": "OriginalMadman/Ars-Magica-Open-License",
+    "url": "https://github.com/OriginalMadman/Ars-Magica-Open-License",
+    "clone_url": "https://github.com/OriginalMadman/Ars-Magica-Open-License.git",
+    "stars": 115,
+    "language": null,
+    "size_kb": 51059
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 49,
+    "duration_seconds": 3.686837
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 115 stars."
+  }
+}
