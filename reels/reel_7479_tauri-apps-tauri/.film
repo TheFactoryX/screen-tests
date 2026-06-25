@@ -1,0 +1,24 @@
+{
+  "reel_number": 7479,
+  "recorded": "2026-06-25 16:08:47 UTC",
+  "repository": {
+    "full_name": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "clone_url": "https://github.com/tauri-apps/tauri.git",
+    "stars": 108321,
+    "language": "Rust",
+    "size_kb": 104955
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 102,
+    "duration_seconds": 0.929456
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 108321 stars."
+  }
+}
