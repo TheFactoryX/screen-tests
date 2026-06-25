@@ -1,0 +1,24 @@
+{
+  "reel_number": 7480,
+  "recorded": "2026-06-25 18:24:49 UTC",
+  "repository": {
+    "full_name": "foks-proj/go-foks",
+    "url": "https://github.com/foks-proj/go-foks",
+    "clone_url": "https://github.com/foks-proj/go-foks.git",
+    "stars": 422,
+    "language": "Go",
+    "size_kb": 4068
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.59329
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 422 stars."
+  }
+}

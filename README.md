@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7479 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 108k | 2026-06-25 |
+| #7480 | [foks-proj/go-foks](https://github.com/foks-proj/go-foks) | Go · ⭐ 422 | 2026-06-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7568,3 +7568,4 @@ If you need permission, you're thinking too much.
 | 7477 | 2026-06-25 11:21:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185155⭐ Python) | [reels/reel_7477_Significant-Gravitas-AutoGPT](reels/reel_7477_Significant-Gravitas-AutoGPT) |
 | 7478 | 2026-06-25 13:34:42 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185154⭐ Python) | [reels/reel_7478_Significant-Gravitas-AutoGPT](reels/reel_7478_Significant-Gravitas-AutoGPT) |
 | 7479 | 2026-06-25 16:08:47 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (108321⭐ Rust) | [reels/reel_7479_tauri-apps-tauri](reels/reel_7479_tauri-apps-tauri) |
+| 7480 | 2026-06-25 18:24:49 | [foks-proj/go-foks](https://github.com/foks-proj/go-foks) | ✅ full (422⭐ Go) | [reels/reel_7480_foks-proj-go-foks](reels/reel_7480_foks-proj-go-foks) |
