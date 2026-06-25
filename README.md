@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7473 | [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) | JavaScript · ⭐ 928 | 2026-06-24 |
+| #7474 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 128k | 2026-06-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7562,3 +7562,4 @@ If you need permission, you're thinking too much.
 | 7471 | 2026-06-24 20:16:26 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (221124⭐ JavaScript) | [reels/reel_7471_affaan-m-ECC](reels/reel_7471_affaan-m-ECC) |
 | 7472 | 2026-06-24 21:52:47 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (173113⭐ Python) | [reels/reel_7472_yt-dlp-yt-dlp](reels/reel_7472_yt-dlp-yt-dlp) |
 | 7473 | 2026-06-24 23:01:49 | [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) | ✅ full (928⭐ JavaScript) | [reels/reel_7473_AlynxZhou-gnome-shell-extension-inotch](reels/reel_7473_AlynxZhou-gnome-shell-extension-inotch) |
+| 7474 | 2026-06-25 01:26:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (128300⭐ TypeScript) | [reels/reel_7474_iptv-org-iptv](reels/reel_7474_iptv-org-iptv) |
