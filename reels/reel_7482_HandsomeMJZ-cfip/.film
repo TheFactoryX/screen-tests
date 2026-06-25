@@ -1,0 +1,24 @@
+{
+  "reel_number": 7482,
+  "recorded": "2026-06-25 22:06:46 UTC",
+  "repository": {
+    "full_name": "HandsomeMJZ/cfip",
+    "url": "https://github.com/HandsomeMJZ/cfip",
+    "clone_url": "https://github.com/HandsomeMJZ/cfip.git",
+    "stars": 156,
+    "language": null,
+    "size_kb": 10300
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.641179
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 156 stars."
+  }
+}
