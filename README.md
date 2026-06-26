@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7483 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 140k | 2026-06-25 |
+| #7484 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 173k | 2026-06-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7572,3 +7572,4 @@ If you need permission, you're thinking too much.
 | 7481 | 2026-06-25 20:30:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140199⭐ Python) | [reels/reel_7481_langchain-ai-langchain](reels/reel_7481_langchain-ai-langchain) |
 | 7482 | 2026-06-25 22:06:46 | [HandsomeMJZ/cfip](https://github.com/HandsomeMJZ/cfip) | ✅ full (156⭐ None) | [reels/reel_7482_HandsomeMJZ-cfip](reels/reel_7482_HandsomeMJZ-cfip) |
 | 7483 | 2026-06-25 23:44:30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140203⭐ Python) | [reels/reel_7483_langchain-ai-langchain](reels/reel_7483_langchain-ai-langchain) |
+| 7484 | 2026-06-26 01:53:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (173371⭐ Python) | [reels/reel_7484_yt-dlp-yt-dlp](reels/reel_7484_yt-dlp-yt-dlp) |
