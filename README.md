@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7484 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 173k | 2026-06-26 |
+| #7485 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 127k | 2026-06-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7573,3 +7573,4 @@ If you need permission, you're thinking too much.
 | 7482 | 2026-06-25 22:06:46 | [HandsomeMJZ/cfip](https://github.com/HandsomeMJZ/cfip) | ✅ full (156⭐ None) | [reels/reel_7482_HandsomeMJZ-cfip](reels/reel_7482_HandsomeMJZ-cfip) |
 | 7483 | 2026-06-25 23:44:30 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140203⭐ Python) | [reels/reel_7483_langchain-ai-langchain](reels/reel_7483_langchain-ai-langchain) |
 | 7484 | 2026-06-26 01:53:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (173371⭐ Python) | [reels/reel_7484_yt-dlp-yt-dlp](reels/reel_7484_yt-dlp-yt-dlp) |
+| 7485 | 2026-06-26 06:09:02 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (127958⭐ TypeScript) | [reels/reel_7485_clash-verge-rev-clash-verge-rev](reels/reel_7485_clash-verge-rev-clash-verge-rev) |
