@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7489 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 117k | 2026-06-26 |
+| #7490 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 140k | 2026-06-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7578,3 +7578,4 @@ If you need permission, you're thinking too much.
 | 7487 | 2026-06-26 12:09:09 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185157⭐ Python) | [reels/reel_7487_Significant-Gravitas-AutoGPT](reels/reel_7487_Significant-Gravitas-AutoGPT) |
 | 7488 | 2026-06-26 14:46:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (114202⭐ Rust) | [reels/reel_7488_rust-lang-rust](reels/reel_7488_rust-lang-rust) |
 | 7489 | 2026-06-26 16:59:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (117496⭐ TypeScript) | [reels/reel_7489_shadcn-ui-ui](reels/reel_7489_shadcn-ui-ui) |
+| 7490 | 2026-06-26 18:56:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140289⭐ Python) | [reels/reel_7490_langchain-ai-langchain](reels/reel_7490_langchain-ai-langchain) |
