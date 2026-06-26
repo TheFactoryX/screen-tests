@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7492 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 194k | 2026-06-26 |
+| #7493 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 182k | 2026-06-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7581,3 +7581,4 @@ If you need permission, you're thinking too much.
 | 7490 | 2026-06-26 18:56:51 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140289⭐ Python) | [reels/reel_7490_langchain-ai-langchain](reels/reel_7490_langchain-ai-langchain) |
 | 7491 | 2026-06-26 20:47:56 | [sethwv/game-thumbs](https://github.com/sethwv/game-thumbs) | ✅ full (28⭐ JavaScript) | [reels/reel_7491_sethwv-game-thumbs](reels/reel_7491_sethwv-game-thumbs) |
 | 7492 | 2026-06-26 22:11:30 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (194179⭐ TypeScript) | [reels/reel_7492_n8n-io-n8n](reels/reel_7492_n8n-io-n8n) |
+| 7493 | 2026-06-26 23:34:22 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (182831⭐ None) | [reels/reel_7493_multica-ai-andrej-karpathy-skills](reels/reel_7493_multica-ai-andrej-karpathy-skills) |
