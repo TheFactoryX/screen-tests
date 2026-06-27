@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7500 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 143k | 2026-06-27 |
+| #7501 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 118k | 2026-06-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7589,3 +7589,4 @@ If you need permission, you're thinking too much.
 | 7498 | 2026-06-27 12:01:37 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (301376⭐ None) | [reels/reel_7498_awesome-selfhosted-awesome-selfhosted](reels/reel_7498_awesome-selfhosted-awesome-selfhosted) |
 | 7499 | 2026-06-27 14:05:38 | [Bittu5134/ORV-Reader](https://github.com/Bittu5134/ORV-Reader) | ✅ shallow (219⭐ Python) | [reels/reel_7499_Bittu5134-ORV-Reader](reels/reel_7499_Bittu5134-ORV-Reader) |
 | 7500 | 2026-06-27 15:38:09 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (143215⭐ Python) | [reels/reel_7500_open-webui-open-webui](reels/reel_7500_open-webui-open-webui) |
+| 7501 | 2026-06-27 16:45:55 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (118369⭐ C++) | [reels/reel_7501_ggml-org-llama.cpp](reels/reel_7501_ggml-org-llama.cpp) |
