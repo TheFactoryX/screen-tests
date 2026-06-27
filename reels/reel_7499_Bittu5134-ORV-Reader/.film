@@ -1,0 +1,24 @@
+{
+  "reel_number": 7499,
+  "recorded": "2026-06-27 14:05:38 UTC",
+  "repository": {
+    "full_name": "Bittu5134/ORV-Reader",
+    "url": "https://github.com/Bittu5134/ORV-Reader",
+    "clone_url": "https://github.com/Bittu5134/ORV-Reader.git",
+    "stars": 219,
+    "language": "Python",
+    "size_kb": 420548
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 410,
+    "duration_seconds": 8.491941
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 219 stars."
+  }
+}
