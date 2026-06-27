@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7504 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 150k | 2026-06-27 |
+| #7505 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 444k | 2026-06-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7593,3 +7593,4 @@ If you need permission, you're thinking too much.
 | 7502 | 2026-06-27 18:01:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (143224⭐ Python) | [reels/reel_7502_open-webui-open-webui](reels/reel_7502_open-webui-open-webui) |
 | 7503 | 2026-06-27 19:43:09 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (128269⭐ TypeScript) | [reels/reel_7503_clash-verge-rev-clash-verge-rev](reels/reel_7503_clash-verge-rev-clash-verge-rev) |
 | 7504 | 2026-06-27 20:43:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150135⭐ Python) | [reels/reel_7504_langflow-ai-langflow](reels/reel_7504_langflow-ai-langflow) |
+| 7505 | 2026-06-27 21:44:42 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (444562⭐ Python) | [reels/reel_7505_public-apis-public-apis](reels/reel_7505_public-apis-public-apis) |
