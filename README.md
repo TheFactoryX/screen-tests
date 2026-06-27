@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7496 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 222k | 2026-06-27 |
+| #7497 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 194k | 2026-06-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7585,3 +7585,4 @@ If you need permission, you're thinking too much.
 | 7494 | 2026-06-27 01:33:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (128684⭐ TypeScript) | [reels/reel_7494_iptv-org-iptv](reels/reel_7494_iptv-org-iptv) |
 | 7495 | 2026-06-27 05:38:16 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (520030⭐ Markdown) | [reels/reel_7495_codecrafters-io-build-your-own-x](reels/reel_7495_codecrafters-io-build-your-own-x) |
 | 7496 | 2026-06-27 08:16:44 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (222289⭐ JavaScript) | [reels/reel_7496_affaan-m-ECC](reels/reel_7496_affaan-m-ECC) |
+| 7497 | 2026-06-27 10:31:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (194225⭐ TypeScript) | [reels/reel_7497_n8n-io-n8n](reels/reel_7497_n8n-io-n8n) |
