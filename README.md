@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7519 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-06-28 |
+| #7520 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 173k | 2026-06-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7607,3 +7607,4 @@ If you need permission, you're thinking too much.
 | 7517 | 2026-06-28 20:11:13 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (118477⭐ C++) | [reels/reel_7517_ggml-org-llama.cpp](reels/reel_7517_ggml-org-llama.cpp) |
 | 7518 | 2026-06-28 21:19:33 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (183921⭐ None) | [reels/reel_7518_multica-ai-andrej-karpathy-skills](reels/reel_7518_multica-ai-andrej-karpathy-skills) |
 | 7519 | 2026-06-28 22:34:19 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140613⭐ Python) | [reels/reel_7519_ytdl-org-youtube-dl](reels/reel_7519_ytdl-org-youtube-dl) |
+| 7520 | 2026-06-28 23:47:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (173998⭐ Python) | [reels/reel_7520_yt-dlp-yt-dlp](reels/reel_7520_yt-dlp-yt-dlp) |
