@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7506 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 271k | 2026-06-27 |
+| #7508 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-06-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7595,3 +7595,4 @@ If you need permission, you're thinking too much.
 | 7504 | 2026-06-27 20:43:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150135⭐ Python) | [reels/reel_7504_langflow-ai-langflow](reels/reel_7504_langflow-ai-langflow) |
 | 7505 | 2026-06-27 21:44:42 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (444562⭐ Python) | [reels/reel_7505_public-apis-public-apis](reels/reel_7505_public-apis-public-apis) |
 | 7506 | 2026-06-27 22:45:10 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (271119⭐ None) | [reels/reel_7506_practical-tutorials-project-based-learning](reels/reel_7506_practical-tutorials-project-based-learning) |
+| 7508 | 2026-06-28 01:54:10 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185187⭐ Python) | [reels/reel_7508_Significant-Gravitas-AutoGPT](reels/reel_7508_Significant-Gravitas-AutoGPT) |
