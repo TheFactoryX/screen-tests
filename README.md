@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7515 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 271k | 2026-06-28 |
+| #7516 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-06-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7603,3 +7603,4 @@ If you need permission, you're thinking too much.
 | 7513 | 2026-06-28 14:46:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (271170⭐ None) | [reels/reel_7513_practical-tutorials-project-based-learning](reels/reel_7513_practical-tutorials-project-based-learning) |
 | 7514 | 2026-06-28 16:08:03 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (128419⭐ TypeScript) | [reels/reel_7514_clash-verge-rev-clash-verge-rev](reels/reel_7514_clash-verge-rev-clash-verge-rev) |
 | 7515 | 2026-06-28 17:35:13 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (271193⭐ None) | [reels/reel_7515_practical-tutorials-project-based-learning](reels/reel_7515_practical-tutorials-project-based-learning) |
+| 7516 | 2026-06-28 18:50:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185195⭐ Python) | [reels/reel_7516_Significant-Gravitas-AutoGPT](reels/reel_7516_Significant-Gravitas-AutoGPT) |
