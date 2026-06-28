@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7513 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | None · ⭐ 271k | 2026-06-28 |
+| #7514 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 128k | 2026-06-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7601,3 +7601,4 @@ If you need permission, you're thinking too much.
 | 7511 | 2026-06-28 11:24:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185192⭐ Python) | [reels/reel_7511_Significant-Gravitas-AutoGPT](reels/reel_7511_Significant-Gravitas-AutoGPT) |
 | 7512 | 2026-06-28 12:53:53 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (128970⭐ TypeScript) | [reels/reel_7512_iptv-org-iptv](reels/reel_7512_iptv-org-iptv) |
 | 7513 | 2026-06-28 14:46:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (271170⭐ None) | [reels/reel_7513_practical-tutorials-project-based-learning](reels/reel_7513_practical-tutorials-project-based-learning) |
+| 7514 | 2026-06-28 16:08:03 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (128419⭐ TypeScript) | [reels/reel_7514_clash-verge-rev-clash-verge-rev](reels/reel_7514_clash-verge-rev-clash-verge-rev) |
