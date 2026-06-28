@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7511 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-06-28 |
+| #7512 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 128k | 2026-06-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7599,3 +7599,4 @@ If you need permission, you're thinking too much.
 | 7509 | 2026-06-28 06:15:54 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (271141⭐ None) | [reels/reel_7509_practical-tutorials-project-based-learning](reels/reel_7509_practical-tutorials-project-based-learning) |
 | 7510 | 2026-06-28 09:40:16 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150146⭐ Python) | [reels/reel_7510_langflow-ai-langflow](reels/reel_7510_langflow-ai-langflow) |
 | 7511 | 2026-06-28 11:24:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185192⭐ Python) | [reels/reel_7511_Significant-Gravitas-AutoGPT](reels/reel_7511_Significant-Gravitas-AutoGPT) |
+| 7512 | 2026-06-28 12:53:53 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (128970⭐ TypeScript) | [reels/reel_7512_iptv-org-iptv](reels/reel_7512_iptv-org-iptv) |
