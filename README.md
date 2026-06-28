@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7517 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 118k | 2026-06-28 |
+| #7518 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 183k | 2026-06-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7605,3 +7605,4 @@ If you need permission, you're thinking too much.
 | 7515 | 2026-06-28 17:35:13 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (271193⭐ None) | [reels/reel_7515_practical-tutorials-project-based-learning](reels/reel_7515_practical-tutorials-project-based-learning) |
 | 7516 | 2026-06-28 18:50:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185195⭐ Python) | [reels/reel_7516_Significant-Gravitas-AutoGPT](reels/reel_7516_Significant-Gravitas-AutoGPT) |
 | 7517 | 2026-06-28 20:11:13 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (118477⭐ C++) | [reels/reel_7517_ggml-org-llama.cpp](reels/reel_7517_ggml-org-llama.cpp) |
+| 7518 | 2026-06-28 21:19:33 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (183921⭐ None) | [reels/reel_7518_multica-ai-andrej-karpathy-skills](reels/reel_7518_multica-ai-andrej-karpathy-skills) |
