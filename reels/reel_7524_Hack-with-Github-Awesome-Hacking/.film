@@ -1,0 +1,24 @@
+{
+  "reel_number": 7524,
+  "recorded": "2026-06-29 16:37:22 UTC",
+  "repository": {
+    "full_name": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "clone_url": "https://github.com/Hack-with-Github/Awesome-Hacking.git",
+    "stars": 115279,
+    "language": null,
+    "size_kb": 1334
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.816363
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 115279 stars."
+  }
+}

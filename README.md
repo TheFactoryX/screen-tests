@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7523 | [Prorise-cool/Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent) | Python · ⭐ 301 | 2026-06-29 |
+| #7524 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 115k | 2026-06-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7611,3 +7611,4 @@ If you need permission, you're thinking too much.
 | 7521 | 2026-06-29 03:41:30 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (478⭐ None) | [reels/reel_7521_hello-world-1989-cn-news](reels/reel_7521_hello-world-1989-cn-news) |
 | 7522 | 2026-06-29 08:34:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150184⭐ Python) | [reels/reel_7522_langflow-ai-langflow](reels/reel_7522_langflow-ai-langflow) |
 | 7523 | 2026-06-29 12:48:25 | [Prorise-cool/Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent) | ✅ full (301⭐ Python) | [reels/reel_7523_Prorise-cool-Claude-Code-Multi-Agent](reels/reel_7523_Prorise-cool-Claude-Code-Multi-Agent) |
+| 7524 | 2026-06-29 16:37:22 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (115279⭐ None) | [reels/reel_7524_Hack-with-Github-Awesome-Hacking](reels/reel_7524_Hack-with-Github-Awesome-Hacking) |
