@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7520 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 173k | 2026-06-28 |
+| #7521 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 478 | 2026-06-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7608,3 +7608,4 @@ If you need permission, you're thinking too much.
 | 7518 | 2026-06-28 21:19:33 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (183921⭐ None) | [reels/reel_7518_multica-ai-andrej-karpathy-skills](reels/reel_7518_multica-ai-andrej-karpathy-skills) |
 | 7519 | 2026-06-28 22:34:19 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140613⭐ Python) | [reels/reel_7519_ytdl-org-youtube-dl](reels/reel_7519_ytdl-org-youtube-dl) |
 | 7520 | 2026-06-28 23:47:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (173998⭐ Python) | [reels/reel_7520_yt-dlp-yt-dlp](reels/reel_7520_yt-dlp-yt-dlp) |
+| 7521 | 2026-06-29 03:41:30 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (478⭐ None) | [reels/reel_7521_hello-world-1989-cn-news](reels/reel_7521_hello-world-1989-cn-news) |
