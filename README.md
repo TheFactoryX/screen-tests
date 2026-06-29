@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7527 | [cmoid/erlbutt](https://github.com/cmoid/erlbutt) | Erlang · ⭐ 29 | 2026-06-29 |
+| #7528 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 194k | 2026-06-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7615,3 +7615,4 @@ If you need permission, you're thinking too much.
 | 7525 | 2026-06-29 18:33:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150204⭐ Python) | [reels/reel_7525_langflow-ai-langflow](reels/reel_7525_langflow-ai-langflow) |
 | 7526 | 2026-06-29 20:31:09 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (129300⭐ TypeScript) | [reels/reel_7526_iptv-org-iptv](reels/reel_7526_iptv-org-iptv) |
 | 7527 | 2026-06-29 21:59:32 | [cmoid/erlbutt](https://github.com/cmoid/erlbutt) | ✅ full (29⭐ Erlang) | [reels/reel_7527_cmoid-erlbutt](reels/reel_7527_cmoid-erlbutt) |
+| 7528 | 2026-06-29 23:07:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ shallow (194540⭐ TypeScript) | [reels/reel_7528_n8n-io-n8n](reels/reel_7528_n8n-io-n8n) |
