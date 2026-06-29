@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7524 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 115k | 2026-06-29 |
+| #7525 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 150k | 2026-06-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7612,3 +7612,4 @@ If you need permission, you're thinking too much.
 | 7522 | 2026-06-29 08:34:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150184⭐ Python) | [reels/reel_7522_langflow-ai-langflow](reels/reel_7522_langflow-ai-langflow) |
 | 7523 | 2026-06-29 12:48:25 | [Prorise-cool/Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent) | ✅ full (301⭐ Python) | [reels/reel_7523_Prorise-cool-Claude-Code-Multi-Agent](reels/reel_7523_Prorise-cool-Claude-Code-Multi-Agent) |
 | 7524 | 2026-06-29 16:37:22 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (115279⭐ None) | [reels/reel_7524_Hack-with-Github-Awesome-Hacking](reels/reel_7524_Hack-with-Github-Awesome-Hacking) |
+| 7525 | 2026-06-29 18:33:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150204⭐ Python) | [reels/reel_7525_langflow-ai-langflow](reels/reel_7525_langflow-ai-langflow) |
