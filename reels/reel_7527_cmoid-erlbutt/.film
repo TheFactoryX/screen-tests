@@ -1,0 +1,24 @@
+{
+  "reel_number": 7527,
+  "recorded": "2026-06-29 21:59:32 UTC",
+  "repository": {
+    "full_name": "cmoid/erlbutt",
+    "url": "https://github.com/cmoid/erlbutt",
+    "clone_url": "https://github.com/cmoid/erlbutt.git",
+    "stars": 29,
+    "language": "Erlang",
+    "size_kb": 15703
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 1.019431
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Erlang",
+    "director_note": "A Erlang repository. 29 stars."
+  }
+}
