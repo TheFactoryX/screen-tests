@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7521 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 478 | 2026-06-29 |
+| #7522 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 150k | 2026-06-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7609,3 +7609,4 @@ If you need permission, you're thinking too much.
 | 7519 | 2026-06-28 22:34:19 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140613⭐ Python) | [reels/reel_7519_ytdl-org-youtube-dl](reels/reel_7519_ytdl-org-youtube-dl) |
 | 7520 | 2026-06-28 23:47:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (173998⭐ Python) | [reels/reel_7520_yt-dlp-yt-dlp](reels/reel_7520_yt-dlp-yt-dlp) |
 | 7521 | 2026-06-29 03:41:30 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (478⭐ None) | [reels/reel_7521_hello-world-1989-cn-news](reels/reel_7521_hello-world-1989-cn-news) |
+| 7522 | 2026-06-29 08:34:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (150184⭐ Python) | [reels/reel_7522_langflow-ai-langflow](reels/reel_7522_langflow-ai-langflow) |
