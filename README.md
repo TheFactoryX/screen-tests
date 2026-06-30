@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7533 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 129k | 2026-06-30 |
+| #7534 | [PostHog/posthog-js](https://github.com/PostHog/posthog-js) | TypeScript · ⭐ 559 | 2026-06-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7621,3 +7621,4 @@ If you need permission, you're thinking too much.
 | 7531 | 2026-06-30 08:21:40 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185222⭐ Python) | [reels/reel_7531_Significant-Gravitas-AutoGPT](reels/reel_7531_Significant-Gravitas-AutoGPT) |
 | 7532 | 2026-06-30 11:26:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (174365⭐ Python) | [reels/reel_7532_yt-dlp-yt-dlp](reels/reel_7532_yt-dlp-yt-dlp) |
 | 7533 | 2026-06-30 13:21:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (129481⭐ TypeScript) | [reels/reel_7533_iptv-org-iptv](reels/reel_7533_iptv-org-iptv) |
+| 7534 | 2026-06-30 16:03:08 | [PostHog/posthog-js](https://github.com/PostHog/posthog-js) | ✅ full (559⭐ TypeScript) | [reels/reel_7534_PostHog-posthog-js](reels/reel_7534_PostHog-posthog-js) |
