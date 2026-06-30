@@ -1,0 +1,24 @@
+{
+  "reel_number": 7537,
+  "recorded": "2026-06-30 21:54:42 UTC",
+  "repository": {
+    "full_name": "Cloudflare-Mining/Cloudflare-Datamining",
+    "url": "https://github.com/Cloudflare-Mining/Cloudflare-Datamining",
+    "clone_url": "https://github.com/Cloudflare-Mining/Cloudflare-Datamining.git",
+    "stars": 197,
+    "language": "HTML",
+    "size_kb": 2756321
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2691,
+    "duration_seconds": 0.000126
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 197 stars."
+  }
+}

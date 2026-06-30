@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7536 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 118k | 2026-06-30 |
+| #7537 | [Cloudflare-Mining/Cloudflare-Datamining](https://github.com/Cloudflare-Mining/Cloudflare-Datamining) | HTML · ⭐ 197 | 2026-06-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7624,3 +7624,4 @@ If you need permission, you're thinking too much.
 | 7534 | 2026-06-30 16:03:08 | [PostHog/posthog-js](https://github.com/PostHog/posthog-js) | ✅ full (559⭐ TypeScript) | [reels/reel_7534_PostHog-posthog-js](reels/reel_7534_PostHog-posthog-js) |
 | 7535 | 2026-06-30 18:13:46 | [OpenBMB/MiniCPM-o-Demo](https://github.com/OpenBMB/MiniCPM-o-Demo) | ✅ full (251⭐ Python) | [reels/reel_7535_OpenBMB-MiniCPM-o-Demo](reels/reel_7535_OpenBMB-MiniCPM-o-Demo) |
 | 7536 | 2026-06-30 20:20:16 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (118808⭐ C++) | [reels/reel_7536_ggml-org-llama.cpp](reels/reel_7536_ggml-org-llama.cpp) |
+| 7537 | 2026-06-30 21:54:42 | [Cloudflare-Mining/Cloudflare-Datamining](https://github.com/Cloudflare-Mining/Cloudflare-Datamining) | ✅ readme_only (197⭐ HTML) | [reels/reel_7537_Cloudflare-Mining-Cloudflare-Datamining](reels/reel_7537_Cloudflare-Mining-Cloudflare-Datamining) |
