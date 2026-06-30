@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7534 | [PostHog/posthog-js](https://github.com/PostHog/posthog-js) | TypeScript · ⭐ 559 | 2026-06-30 |
+| #7535 | [OpenBMB/MiniCPM-o-Demo](https://github.com/OpenBMB/MiniCPM-o-Demo) | Python · ⭐ 251 | 2026-06-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7622,3 +7622,4 @@ If you need permission, you're thinking too much.
 | 7532 | 2026-06-30 11:26:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (174365⭐ Python) | [reels/reel_7532_yt-dlp-yt-dlp](reels/reel_7532_yt-dlp-yt-dlp) |
 | 7533 | 2026-06-30 13:21:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (129481⭐ TypeScript) | [reels/reel_7533_iptv-org-iptv](reels/reel_7533_iptv-org-iptv) |
 | 7534 | 2026-06-30 16:03:08 | [PostHog/posthog-js](https://github.com/PostHog/posthog-js) | ✅ full (559⭐ TypeScript) | [reels/reel_7534_PostHog-posthog-js](reels/reel_7534_PostHog-posthog-js) |
+| 7535 | 2026-06-30 18:13:46 | [OpenBMB/MiniCPM-o-Demo](https://github.com/OpenBMB/MiniCPM-o-Demo) | ✅ full (251⭐ Python) | [reels/reel_7535_OpenBMB-MiniCPM-o-Demo](reels/reel_7535_OpenBMB-MiniCPM-o-Demo) |
