@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7531 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-06-30 |
+| #7532 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 174k | 2026-06-30 |
 ---
 
 ## 🎭 Selection Process
@@ -7619,3 +7619,4 @@ If you need permission, you're thinking too much.
 | 7529 | 2026-06-30 00:18:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140513⭐ Python) | [reels/reel_7529_langchain-ai-langchain](reels/reel_7529_langchain-ai-langchain) |
 | 7530 | 2026-06-30 04:43:18 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (445063⭐ Python) | [reels/reel_7530_public-apis-public-apis](reels/reel_7530_public-apis-public-apis) |
 | 7531 | 2026-06-30 08:21:40 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185222⭐ Python) | [reels/reel_7531_Significant-Gravitas-AutoGPT](reels/reel_7531_Significant-Gravitas-AutoGPT) |
+| 7532 | 2026-06-30 11:26:08 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (174365⭐ Python) | [reels/reel_7532_yt-dlp-yt-dlp](reels/reel_7532_yt-dlp-yt-dlp) |
