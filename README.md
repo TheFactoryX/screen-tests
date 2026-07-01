@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7542 | [dimagi/commcare-hq](https://github.com/dimagi/commcare-hq) | Python · ⭐ 522 | 2026-07-01 |
+| #7543 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 302k | 2026-07-01 |
 ---
 
 ## 🎭 Selection Process
@@ -7630,3 +7630,4 @@ If you need permission, you're thinking too much.
 | 7540 | 2026-07-01 05:04:52 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (302105⭐ None) | [reels/reel_7540_awesome-selfhosted-awesome-selfhosted](reels/reel_7540_awesome-selfhosted-awesome-selfhosted) |
 | 7541 | 2026-07-01 08:55:27 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (185623⭐ None) | [reels/reel_7541_multica-ai-andrej-karpathy-skills](reels/reel_7541_multica-ai-andrej-karpathy-skills) |
 | 7542 | 2026-07-01 12:05:46 | [dimagi/commcare-hq](https://github.com/dimagi/commcare-hq) | ✅ readme_only (522⭐ Python) | [reels/reel_7542_dimagi-commcare-hq](reels/reel_7542_dimagi-commcare-hq) |
+| 7543 | 2026-07-01 15:11:09 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (302187⭐ None) | [reels/reel_7543_awesome-selfhosted-awesome-selfhosted](reels/reel_7543_awesome-selfhosted-awesome-selfhosted) |
