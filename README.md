@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7547 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-01 |
+| #7548 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 521k | 2026-07-01 |
 ---
 
 ## 🎭 Selection Process
@@ -7635,3 +7635,4 @@ If you need permission, you're thinking too much.
 | 7545 | 2026-07-01 19:16:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (194794⭐ TypeScript) | [reels/reel_7545_n8n-io-n8n](reels/reel_7545_n8n-io-n8n) |
 | 7546 | 2026-07-01 21:05:17 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (119055⭐ Python) | [reels/reel_7546_Comfy-Org-ComfyUI](reels/reel_7546_Comfy-Org-ComfyUI) |
 | 7547 | 2026-07-01 22:39:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185234⭐ Python) | [reels/reel_7547_Significant-Gravitas-AutoGPT](reels/reel_7547_Significant-Gravitas-AutoGPT) |
+| 7548 | 2026-07-01 23:55:04 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (521492⭐ Markdown) | [reels/reel_7548_codecrafters-io-build-your-own-x](reels/reel_7548_codecrafters-io-build-your-own-x) |
