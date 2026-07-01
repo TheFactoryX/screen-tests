@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7544 | [konflux-ci/konflux-ci](https://github.com/konflux-ci/konflux-ci) | Go · ⭐ 158 | 2026-07-01 |
+| #7545 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 194k | 2026-07-01 |
 ---
 
 ## 🎭 Selection Process
@@ -7632,3 +7632,4 @@ If you need permission, you're thinking too much.
 | 7542 | 2026-07-01 12:05:46 | [dimagi/commcare-hq](https://github.com/dimagi/commcare-hq) | ✅ readme_only (522⭐ Python) | [reels/reel_7542_dimagi-commcare-hq](reels/reel_7542_dimagi-commcare-hq) |
 | 7543 | 2026-07-01 15:11:09 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (302187⭐ None) | [reels/reel_7543_awesome-selfhosted-awesome-selfhosted](reels/reel_7543_awesome-selfhosted-awesome-selfhosted) |
 | 7544 | 2026-07-01 17:22:59 | [konflux-ci/konflux-ci](https://github.com/konflux-ci/konflux-ci) | ✅ full (158⭐ Go) | [reels/reel_7544_konflux-ci-konflux-ci](reels/reel_7544_konflux-ci-konflux-ci) |
+| 7545 | 2026-07-01 19:16:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (194794⭐ TypeScript) | [reels/reel_7545_n8n-io-n8n](reels/reel_7545_n8n-io-n8n) |
