@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7540 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 302k | 2026-07-01 |
+| #7541 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 185k | 2026-07-01 |
 ---
 
 ## 🎭 Selection Process
@@ -7628,3 +7628,4 @@ If you need permission, you're thinking too much.
 | 7538 | 2026-06-30 23:09:57 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (224052⭐ JavaScript) | [reels/reel_7538_affaan-m-ECC](reels/reel_7538_affaan-m-ECC) |
 | 7539 | 2026-07-01 00:20:48 | [dmellok/tesserae](https://github.com/dmellok/tesserae) | ✅ full (155⭐ Python) | [reels/reel_7539_dmellok-tesserae](reels/reel_7539_dmellok-tesserae) |
 | 7540 | 2026-07-01 05:04:52 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (302105⭐ None) | [reels/reel_7540_awesome-selfhosted-awesome-selfhosted](reels/reel_7540_awesome-selfhosted-awesome-selfhosted) |
+| 7541 | 2026-07-01 08:55:27 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (185623⭐ None) | [reels/reel_7541_multica-ai-andrej-karpathy-skills](reels/reel_7541_multica-ai-andrej-karpathy-skills) |
