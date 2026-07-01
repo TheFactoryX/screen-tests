@@ -1,0 +1,24 @@
+{
+  "reel_number": 7539,
+  "recorded": "2026-07-01 00:20:48 UTC",
+  "repository": {
+    "full_name": "dmellok/tesserae",
+    "url": "https://github.com/dmellok/tesserae",
+    "clone_url": "https://github.com/dmellok/tesserae.git",
+    "stars": 155,
+    "language": "Python",
+    "size_kb": 69911
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 68,
+    "duration_seconds": 1.777106
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 155 stars."
+  }
+}
