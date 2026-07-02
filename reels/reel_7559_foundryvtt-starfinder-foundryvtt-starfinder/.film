@@ -1,0 +1,24 @@
+{
+  "reel_number": 7559,
+  "recorded": "2026-07-02 23:35:58 UTC",
+  "repository": {
+    "full_name": "foundryvtt-starfinder/foundryvtt-starfinder",
+    "url": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder",
+    "clone_url": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder.git",
+    "stars": 98,
+    "language": "JavaScript",
+    "size_kb": 474337
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 463,
+    "duration_seconds": 3.330278
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 98 stars."
+  }
+}
