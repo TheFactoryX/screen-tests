@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7557 | [cool-japan/numrs](https://github.com/cool-japan/numrs) | Rust · ⭐ 50 | 2026-07-02 |
+| #7558 | [LingDong-/dither-lang](https://github.com/LingDong-/dither-lang) | JavaScript · ⭐ 58 | 2026-07-02 |
 ---
 
 ## 🎭 Selection Process
@@ -7645,3 +7645,4 @@ If you need permission, you're thinking too much.
 | 7555 | 2026-07-02 18:14:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (302375⭐ None) | [reels/reel_7555_awesome-selfhosted-awesome-selfhosted](reels/reel_7555_awesome-selfhosted-awesome-selfhosted) |
 | 7556 | 2026-07-02 19:53:48 | [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) | ✅ full (587⭐ TypeScript) | [reels/reel_7556_yukiyokotani-office-open-xml-viewer](reels/reel_7556_yukiyokotani-office-open-xml-viewer) |
 | 7557 | 2026-07-02 21:03:09 | [cool-japan/numrs](https://github.com/cool-japan/numrs) | ✅ full (50⭐ Rust) | [reels/reel_7557_cool-japan-numrs](reels/reel_7557_cool-japan-numrs) |
+| 7558 | 2026-07-02 22:18:24 | [LingDong-/dither-lang](https://github.com/LingDong-/dither-lang) | ✅ full (58⭐ JavaScript) | [reels/reel_7558_LingDong--dither-lang](reels/reel_7558_LingDong--dither-lang) |
