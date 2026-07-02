@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7554 | [praetorian-inc/vespasian](https://github.com/praetorian-inc/vespasian) | Go · ⭐ 106 | 2026-07-02 |
+| #7555 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 302k | 2026-07-02 |
 ---
 
 ## 🎭 Selection Process
@@ -7642,3 +7642,4 @@ If you need permission, you're thinking too much.
 | 7552 | 2026-07-02 12:20:24 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (118992⭐ C++) | [reels/reel_7552_ggml-org-llama.cpp](reels/reel_7552_ggml-org-llama.cpp) |
 | 7553 | 2026-07-02 14:37:46 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (224946⭐ JavaScript) | [reels/reel_7553_affaan-m-ECC](reels/reel_7553_affaan-m-ECC) |
 | 7554 | 2026-07-02 16:27:46 | [praetorian-inc/vespasian](https://github.com/praetorian-inc/vespasian) | ✅ full (106⭐ Go) | [reels/reel_7554_praetorian-inc-vespasian](reels/reel_7554_praetorian-inc-vespasian) |
+| 7555 | 2026-07-02 18:14:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (302375⭐ None) | [reels/reel_7555_awesome-selfhosted-awesome-selfhosted](reels/reel_7555_awesome-selfhosted-awesome-selfhosted) |
