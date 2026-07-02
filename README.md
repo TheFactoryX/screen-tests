@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7556 | [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) | TypeScript · ⭐ 587 | 2026-07-02 |
+| #7557 | [cool-japan/numrs](https://github.com/cool-japan/numrs) | Rust · ⭐ 50 | 2026-07-02 |
 ---
 
 ## 🎭 Selection Process
@@ -7644,3 +7644,4 @@ If you need permission, you're thinking too much.
 | 7554 | 2026-07-02 16:27:46 | [praetorian-inc/vespasian](https://github.com/praetorian-inc/vespasian) | ✅ full (106⭐ Go) | [reels/reel_7554_praetorian-inc-vespasian](reels/reel_7554_praetorian-inc-vespasian) |
 | 7555 | 2026-07-02 18:14:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (302375⭐ None) | [reels/reel_7555_awesome-selfhosted-awesome-selfhosted](reels/reel_7555_awesome-selfhosted-awesome-selfhosted) |
 | 7556 | 2026-07-02 19:53:48 | [yukiyokotani/office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer) | ✅ full (587⭐ TypeScript) | [reels/reel_7556_yukiyokotani-office-open-xml-viewer](reels/reel_7556_yukiyokotani-office-open-xml-viewer) |
+| 7557 | 2026-07-02 21:03:09 | [cool-japan/numrs](https://github.com/cool-japan/numrs) | ✅ full (50⭐ Rust) | [reels/reel_7557_cool-japan-numrs](reels/reel_7557_cool-japan-numrs) |

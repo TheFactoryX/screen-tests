@@ -1,0 +1,24 @@
+{
+  "reel_number": 7557,
+  "recorded": "2026-07-02 21:03:09 UTC",
+  "repository": {
+    "full_name": "cool-japan/numrs",
+    "url": "https://github.com/cool-japan/numrs",
+    "clone_url": "https://github.com/cool-japan/numrs.git",
+    "stars": 50,
+    "language": "Rust",
+    "size_kb": 3680
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.130358
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 50 stars."
+  }
+}
