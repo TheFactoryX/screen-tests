@@ -1,0 +1,24 @@
+{
+  "reel_number": 7549,
+  "recorded": "2026-07-02 03:23:58 UTC",
+  "repository": {
+    "full_name": "khankamraan2006-crypto/fabric-router-core",
+    "url": "https://github.com/khankamraan2006-crypto/fabric-router-core",
+    "clone_url": "https://github.com/khankamraan2006-crypto/fabric-router-core.git",
+    "stars": 151,
+    "language": "HTML",
+    "size_kb": 68
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.491684
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 151 stars."
+  }
+}
