@@ -1,0 +1,24 @@
+{
+  "reel_number": 7554,
+  "recorded": "2026-07-02 16:27:46 UTC",
+  "repository": {
+    "full_name": "praetorian-inc/vespasian",
+    "url": "https://github.com/praetorian-inc/vespasian",
+    "clone_url": "https://github.com/praetorian-inc/vespasian.git",
+    "stars": 106,
+    "language": "Go",
+    "size_kb": 17649
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.123366
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 106 stars."
+  }
+}
