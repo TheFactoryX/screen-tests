@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7549 | [khankamraan2006-crypto/fabric-router-core](https://github.com/khankamraan2006-crypto/fabric-router-core) | HTML · ⭐ 151 | 2026-07-02 |
+| #7550 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 119k | 2026-07-02 |
 ---
 
 ## 🎭 Selection Process
@@ -7637,3 +7637,4 @@ If you need permission, you're thinking too much.
 | 7547 | 2026-07-01 22:39:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185234⭐ Python) | [reels/reel_7547_Significant-Gravitas-AutoGPT](reels/reel_7547_Significant-Gravitas-AutoGPT) |
 | 7548 | 2026-07-01 23:55:04 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (521492⭐ Markdown) | [reels/reel_7548_codecrafters-io-build-your-own-x](reels/reel_7548_codecrafters-io-build-your-own-x) |
 | 7549 | 2026-07-02 03:23:58 | [khankamraan2006-crypto/fabric-router-core](https://github.com/khankamraan2006-crypto/fabric-router-core) | ✅ full (151⭐ HTML) | [reels/reel_7549_khankamraan2006-crypto-fabric-router-core](reels/reel_7549_khankamraan2006-crypto-fabric-router-core) |
+| 7550 | 2026-07-02 06:53:55 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (119100⭐ Python) | [reels/reel_7550_Comfy-Org-ComfyUI](reels/reel_7550_Comfy-Org-ComfyUI) |
