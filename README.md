@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7552 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 118k | 2026-07-02 |
+| #7553 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 224k | 2026-07-02 |
 ---
 
 ## 🎭 Selection Process
@@ -7640,3 +7640,4 @@ If you need permission, you're thinking too much.
 | 7550 | 2026-07-02 06:53:55 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (119100⭐ Python) | [reels/reel_7550_Comfy-Org-ComfyUI](reels/reel_7550_Comfy-Org-ComfyUI) |
 | 7551 | 2026-07-02 10:08:17 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (521647⭐ Markdown) | [reels/reel_7551_codecrafters-io-build-your-own-x](reels/reel_7551_codecrafters-io-build-your-own-x) |
 | 7552 | 2026-07-02 12:20:24 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (118992⭐ C++) | [reels/reel_7552_ggml-org-llama.cpp](reels/reel_7552_ggml-org-llama.cpp) |
+| 7553 | 2026-07-02 14:37:46 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (224946⭐ JavaScript) | [reels/reel_7553_affaan-m-ECC](reels/reel_7553_affaan-m-ECC) |
