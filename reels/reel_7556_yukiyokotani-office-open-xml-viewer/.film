@@ -1,0 +1,24 @@
+{
+  "reel_number": 7556,
+  "recorded": "2026-07-02 19:53:48 UTC",
+  "repository": {
+    "full_name": "yukiyokotani/office-open-xml-viewer",
+    "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+    "clone_url": "https://github.com/yukiyokotani/office-open-xml-viewer.git",
+    "stars": 587,
+    "language": "TypeScript",
+    "size_kb": 87516
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 85,
+    "duration_seconds": 3.128921
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 587 stars."
+  }
+}
