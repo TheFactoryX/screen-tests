@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7565 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 144k | 2026-07-03 |
+| #7566 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 129k | 2026-07-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7653,3 +7653,4 @@ If you need permission, you're thinking too much.
 | 7563 | 2026-07-03 11:11:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (174875⭐ Python) | [reels/reel_7563_yt-dlp-yt-dlp](reels/reel_7563_yt-dlp-yt-dlp) |
 | 7564 | 2026-07-03 13:11:04 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185310⭐ Python) | [reels/reel_7564_Significant-Gravitas-AutoGPT](reels/reel_7564_Significant-Gravitas-AutoGPT) |
 | 7565 | 2026-07-03 15:24:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (144026⭐ Python) | [reels/reel_7565_open-webui-open-webui](reels/reel_7565_open-webui-open-webui) |
+| 7566 | 2026-07-03 16:53:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (129375⭐ TypeScript) | [reels/reel_7566_clash-verge-rev-clash-verge-rev](reels/reel_7566_clash-verge-rev-clash-verge-rev) |
