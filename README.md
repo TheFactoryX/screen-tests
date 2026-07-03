@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7562 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 117k | 2026-07-03 |
+| #7563 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 174k | 2026-07-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7650,3 +7650,4 @@ If you need permission, you're thinking too much.
 | 7560 | 2026-07-03 01:16:30 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (119200⭐ Python) | [reels/reel_7560_Comfy-Org-ComfyUI](reels/reel_7560_Comfy-Org-ComfyUI) |
 | 7561 | 2026-07-03 05:13:00 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (446141⭐ Python) | [reels/reel_7561_public-apis-public-apis](reels/reel_7561_public-apis-public-apis) |
 | 7562 | 2026-07-03 08:28:08 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (117960⭐ TypeScript) | [reels/reel_7562_shadcn-ui-ui](reels/reel_7562_shadcn-ui-ui) |
+| 7563 | 2026-07-03 11:11:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (174875⭐ Python) | [reels/reel_7563_yt-dlp-yt-dlp](reels/reel_7563_yt-dlp-yt-dlp) |
