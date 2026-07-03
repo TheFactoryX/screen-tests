@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7560 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 119k | 2026-07-03 |
+| #7561 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 446k | 2026-07-03 |
 ---
 
 ## 🎭 Selection Process
@@ -7648,3 +7648,4 @@ If you need permission, you're thinking too much.
 | 7558 | 2026-07-02 22:18:24 | [LingDong-/dither-lang](https://github.com/LingDong-/dither-lang) | ✅ full (58⭐ JavaScript) | [reels/reel_7558_LingDong--dither-lang](reels/reel_7558_LingDong--dither-lang) |
 | 7559 | 2026-07-02 23:35:58 | [foundryvtt-starfinder/foundryvtt-starfinder](https://github.com/foundryvtt-starfinder/foundryvtt-starfinder) | ✅ shallow (98⭐ JavaScript) | [reels/reel_7559_foundryvtt-starfinder-foundryvtt-starfinder](reels/reel_7559_foundryvtt-starfinder-foundryvtt-starfinder) |
 | 7560 | 2026-07-03 01:16:30 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (119200⭐ Python) | [reels/reel_7560_Comfy-Org-ComfyUI](reels/reel_7560_Comfy-Org-ComfyUI) |
+| 7561 | 2026-07-03 05:13:00 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (446141⭐ Python) | [reels/reel_7561_public-apis-public-apis](reels/reel_7561_public-apis-public-apis) |
