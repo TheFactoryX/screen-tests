@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7582 | [agent-sh/agnix](https://github.com/agent-sh/agnix) | Rust · ⭐ 322 | 2026-07-04 |
+| #7583 | [cvet/fonline](https://github.com/cvet/fonline) | C++ · ⭐ 331 | 2026-07-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7670,3 +7670,4 @@ If you need permission, you're thinking too much.
 | 7580 | 2026-07-04 17:15:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151112⭐ Python) | [reels/reel_7580_langflow-ai-langflow](reels/reel_7580_langflow-ai-langflow) |
 | 7581 | 2026-07-04 18:30:28 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (522391⭐ Markdown) | [reels/reel_7581_codecrafters-io-build-your-own-x](reels/reel_7581_codecrafters-io-build-your-own-x) |
 | 7582 | 2026-07-04 19:53:28 | [agent-sh/agnix](https://github.com/agent-sh/agnix) | ✅ full (322⭐ Rust) | [reels/reel_7582_agent-sh-agnix](reels/reel_7582_agent-sh-agnix) |
+| 7583 | 2026-07-04 20:54:32 | [cvet/fonline](https://github.com/cvet/fonline) | ✅ readme_only (331⭐ C++) | [reels/reel_7583_cvet-fonline](reels/reel_7583_cvet-fonline) |

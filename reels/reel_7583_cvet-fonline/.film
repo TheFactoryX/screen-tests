@@ -1,0 +1,24 @@
+{
+  "reel_number": 7583,
+  "recorded": "2026-07-04 20:54:32 UTC",
+  "repository": {
+    "full_name": "cvet/fonline",
+    "url": "https://github.com/cvet/fonline",
+    "clone_url": "https://github.com/cvet/fonline.git",
+    "stars": 331,
+    "language": "C++",
+    "size_kb": 700014
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 683,
+    "duration_seconds": 0.000106
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 331 stars."
+  }
+}
