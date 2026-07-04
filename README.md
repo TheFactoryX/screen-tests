@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7574 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 151k | 2026-07-04 |
+| #7575 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 446k | 2026-07-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7662,3 +7662,4 @@ If you need permission, you're thinking too much.
 | 7572 | 2026-07-04 01:15:49 | [gitrecon1455/fresh-proxy-list](https://github.com/gitrecon1455/fresh-proxy-list) | ✅ readme_only (106⭐ Python) | [reels/reel_7572_gitrecon1455-fresh-proxy-list](reels/reel_7572_gitrecon1455-fresh-proxy-list) |
 | 7573 | 2026-07-04 05:07:21 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140877⭐ Python) | [reels/reel_7573_langchain-ai-langchain](reels/reel_7573_langchain-ai-langchain) |
 | 7574 | 2026-07-04 08:04:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151086⭐ Python) | [reels/reel_7574_langflow-ai-langflow](reels/reel_7574_langflow-ai-langflow) |
+| 7575 | 2026-07-04 10:24:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (446424⭐ Python) | [reels/reel_7575_public-apis-public-apis](reels/reel_7575_public-apis-public-apis) |
