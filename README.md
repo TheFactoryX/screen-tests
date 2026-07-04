@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7575 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 446k | 2026-07-04 |
+| #7576 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 175k | 2026-07-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7663,3 +7663,4 @@ If you need permission, you're thinking too much.
 | 7573 | 2026-07-04 05:07:21 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140877⭐ Python) | [reels/reel_7573_langchain-ai-langchain](reels/reel_7573_langchain-ai-langchain) |
 | 7574 | 2026-07-04 08:04:56 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151086⭐ Python) | [reels/reel_7574_langflow-ai-langflow](reels/reel_7574_langflow-ai-langflow) |
 | 7575 | 2026-07-04 10:24:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (446424⭐ Python) | [reels/reel_7575_public-apis-public-apis](reels/reel_7575_public-apis-public-apis) |
+| 7576 | 2026-07-04 11:50:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (175083⭐ Python) | [reels/reel_7576_yt-dlp-yt-dlp](reels/reel_7576_yt-dlp-yt-dlp) |
