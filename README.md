@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7584 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 140k | 2026-07-04 |
+| #7585 | [iplocate/free-proxy-list](https://github.com/iplocate/free-proxy-list) | None · ⭐ 146 | 2026-07-04 |
 ---
 
 ## 🎭 Selection Process
@@ -7672,3 +7672,4 @@ If you need permission, you're thinking too much.
 | 7582 | 2026-07-04 19:53:28 | [agent-sh/agnix](https://github.com/agent-sh/agnix) | ✅ full (322⭐ Rust) | [reels/reel_7582_agent-sh-agnix](reels/reel_7582_agent-sh-agnix) |
 | 7583 | 2026-07-04 20:54:32 | [cvet/fonline](https://github.com/cvet/fonline) | ✅ readme_only (331⭐ C++) | [reels/reel_7583_cvet-fonline](reels/reel_7583_cvet-fonline) |
 | 7584 | 2026-07-04 21:56:40 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (140916⭐ Python) | [reels/reel_7584_langchain-ai-langchain](reels/reel_7584_langchain-ai-langchain) |
+| 7585 | 2026-07-04 22:58:55 | [iplocate/free-proxy-list](https://github.com/iplocate/free-proxy-list) | ✅ shallow (146⭐ None) | [reels/reel_7585_iplocate-free-proxy-list](reels/reel_7585_iplocate-free-proxy-list) |

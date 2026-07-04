@@ -1,0 +1,24 @@
+{
+  "reel_number": 7585,
+  "recorded": "2026-07-04 22:58:55 UTC",
+  "repository": {
+    "full_name": "iplocate/free-proxy-list",
+    "url": "https://github.com/iplocate/free-proxy-list",
+    "clone_url": "https://github.com/iplocate/free-proxy-list.git",
+    "stars": 146,
+    "language": null,
+    "size_kb": 409974
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 400,
+    "duration_seconds": 0.509653
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 146 stars."
+  }
+}
