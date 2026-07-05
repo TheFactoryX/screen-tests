@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7597 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | TypeScript · ⭐ 369 | 2026-07-05 |
+| #7598 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 226k | 2026-07-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7685,3 +7685,4 @@ If you need permission, you're thinking too much.
 | 7595 | 2026-07-05 18:15:22 | [Adsryen/JavdBviewed](https://github.com/Adsryen/JavdBviewed) | ✅ full (186⭐ TypeScript) | [reels/reel_7595_Adsryen-JavdBviewed](reels/reel_7595_Adsryen-JavdBviewed) |
 | 7596 | 2026-07-05 19:49:21 | [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) | ✅ full (9346⭐ Python) | [reels/reel_7596_Kozea-WeasyPrint](reels/reel_7596_Kozea-WeasyPrint) |
 | 7597 | 2026-07-05 20:57:13 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | ✅ full (369⭐ TypeScript) | [reels/reel_7597_khoj-ai-openpaper](reels/reel_7597_khoj-ai-openpaper) |
+| 7598 | 2026-07-05 22:04:06 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (226306⭐ JavaScript) | [reels/reel_7598_affaan-m-ECC](reels/reel_7598_affaan-m-ECC) |
