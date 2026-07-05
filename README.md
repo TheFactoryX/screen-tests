@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7592 | [JeromeFitz/websites](https://github.com/JeromeFitz/websites) | TypeScript · ⭐ 58 | 2026-07-05 |
+| #7593 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 226k | 2026-07-05 |
 ---
 
 ## 🎭 Selection Process
@@ -7680,3 +7680,4 @@ If you need permission, you're thinking too much.
 | 7590 | 2026-07-05 11:36:13 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (175296⭐ Python) | [reels/reel_7590_yt-dlp-yt-dlp](reels/reel_7590_yt-dlp-yt-dlp) |
 | 7591 | 2026-07-05 12:53:10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (195257⭐ TypeScript) | [reels/reel_7591_n8n-io-n8n](reels/reel_7591_n8n-io-n8n) |
 | 7592 | 2026-07-05 14:41:00 | [JeromeFitz/websites](https://github.com/JeromeFitz/websites) | ✅ full (58⭐ TypeScript) | [reels/reel_7592_JeromeFitz-websites](reels/reel_7592_JeromeFitz-websites) |
+| 7593 | 2026-07-05 15:51:45 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (226235⭐ JavaScript) | [reels/reel_7593_affaan-m-ECC](reels/reel_7593_affaan-m-ECC) |
