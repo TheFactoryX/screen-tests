@@ -1,0 +1,24 @@
+{
+  "reel_number": 7592,
+  "recorded": "2026-07-05 14:41:00 UTC",
+  "repository": {
+    "full_name": "JeromeFitz/websites",
+    "url": "https://github.com/JeromeFitz/websites",
+    "clone_url": "https://github.com/JeromeFitz/websites.git",
+    "stars": 58,
+    "language": "TypeScript",
+    "size_kb": 52797
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 51,
+    "duration_seconds": 5.916032
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 58 stars."
+  }
+}
