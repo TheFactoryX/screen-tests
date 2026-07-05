@@ -1,0 +1,24 @@
+{
+  "reel_number": 7596,
+  "recorded": "2026-07-05 19:49:21 UTC",
+  "repository": {
+    "full_name": "Kozea/WeasyPrint",
+    "url": "https://github.com/Kozea/WeasyPrint",
+    "clone_url": "https://github.com/Kozea/WeasyPrint.git",
+    "stars": 9346,
+    "language": "Python",
+    "size_kb": 34724
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 2.77457
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 9346 stars."
+  }
+}
