@@ -1,0 +1,24 @@
+{
+  "reel_number": 7606,
+  "recorded": "2026-07-06 20:33:08 UTC",
+  "repository": {
+    "full_name": "ROCm/rocm-systems",
+    "url": "https://github.com/ROCm/rocm-systems",
+    "clone_url": "https://github.com/ROCm/rocm-systems.git",
+    "stars": 423,
+    "language": "C++",
+    "size_kb": 5225178
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 5102,
+    "duration_seconds": 0.000145
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 423 stars."
+  }
+}
