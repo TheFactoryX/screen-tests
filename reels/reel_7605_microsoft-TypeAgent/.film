@@ -1,0 +1,24 @@
+{
+  "reel_number": 7605,
+  "recorded": "2026-07-06 18:32:23 UTC",
+  "repository": {
+    "full_name": "microsoft/TypeAgent",
+    "url": "https://github.com/microsoft/TypeAgent",
+    "clone_url": "https://github.com/microsoft/TypeAgent.git",
+    "stars": 718,
+    "language": "TypeScript",
+    "size_kb": 103077
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 100,
+    "duration_seconds": 4.917464
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 718 stars."
+  }
+}
