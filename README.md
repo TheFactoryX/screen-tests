@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7606 | [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) | C++ · ⭐ 423 | 2026-07-06 |
+| #7607 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 447k | 2026-07-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7694,3 +7694,4 @@ If you need permission, you're thinking too much.
 | 7604 | 2026-07-06 16:43:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185404⭐ Python) | [reels/reel_7604_Significant-Gravitas-AutoGPT](reels/reel_7604_Significant-Gravitas-AutoGPT) |
 | 7605 | 2026-07-06 18:32:23 | [microsoft/TypeAgent](https://github.com/microsoft/TypeAgent) | ✅ shallow (718⭐ TypeScript) | [reels/reel_7605_microsoft-TypeAgent](reels/reel_7605_microsoft-TypeAgent) |
 | 7606 | 2026-07-06 20:33:08 | [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) | ✅ readme_only (423⭐ C++) | [reels/reel_7606_ROCm-rocm-systems](reels/reel_7606_ROCm-rocm-systems) |
+| 7607 | 2026-07-06 22:02:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (447223⭐ Python) | [reels/reel_7607_public-apis-public-apis](reels/reel_7607_public-apis-public-apis) |
