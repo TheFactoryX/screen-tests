@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7599 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 144k | 2026-07-05 |
+| #7600 | [macadmins/sofa](https://github.com/macadmins/sofa) | Vue · ⭐ 423 | 2026-07-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7687,3 +7687,4 @@ If you need permission, you're thinking too much.
 | 7597 | 2026-07-05 20:57:13 | [khoj-ai/openpaper](https://github.com/khoj-ai/openpaper) | ✅ full (369⭐ TypeScript) | [reels/reel_7597_khoj-ai-openpaper](reels/reel_7597_khoj-ai-openpaper) |
 | 7598 | 2026-07-05 22:04:06 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (226306⭐ JavaScript) | [reels/reel_7598_affaan-m-ECC](reels/reel_7598_affaan-m-ECC) |
 | 7599 | 2026-07-05 23:17:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (144324⭐ Python) | [reels/reel_7599_open-webui-open-webui](reels/reel_7599_open-webui-open-webui) |
+| 7600 | 2026-07-06 01:14:36 | [macadmins/sofa](https://github.com/macadmins/sofa) | ✅ shallow (423⭐ Vue) | [reels/reel_7600_macadmins-sofa](reels/reel_7600_macadmins-sofa) |
