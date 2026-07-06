@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7603 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 144k | 2026-07-06 |
+| #7604 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7691,3 +7691,4 @@ If you need permission, you're thinking too much.
 | 7601 | 2026-07-06 05:37:42 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (119568⭐ Python) | [reels/reel_7601_Comfy-Org-ComfyUI](reels/reel_7601_Comfy-Org-ComfyUI) |
 | 7602 | 2026-07-06 09:42:52 | [starkayc/Oniichan.wtf-Source](https://github.com/starkayc/Oniichan.wtf-Source) | ✅ readme_only (12⭐ HTML) | [reels/reel_7602_starkayc-Oniichan.wtf-Source](reels/reel_7602_starkayc-Oniichan.wtf-Source) |
 | 7603 | 2026-07-06 13:30:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (144412⭐ Python) | [reels/reel_7603_open-webui-open-webui](reels/reel_7603_open-webui-open-webui) |
+| 7604 | 2026-07-06 16:43:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185404⭐ Python) | [reels/reel_7604_Significant-Gravitas-AutoGPT](reels/reel_7604_Significant-Gravitas-AutoGPT) |
