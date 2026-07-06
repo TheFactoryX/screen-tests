@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7607 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 447k | 2026-07-06 |
+| #7608 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-06 |
 ---
 
 ## 🎭 Selection Process
@@ -7695,3 +7695,4 @@ If you need permission, you're thinking too much.
 | 7605 | 2026-07-06 18:32:23 | [microsoft/TypeAgent](https://github.com/microsoft/TypeAgent) | ✅ shallow (718⭐ TypeScript) | [reels/reel_7605_microsoft-TypeAgent](reels/reel_7605_microsoft-TypeAgent) |
 | 7606 | 2026-07-06 20:33:08 | [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) | ✅ readme_only (423⭐ C++) | [reels/reel_7606_ROCm-rocm-systems](reels/reel_7606_ROCm-rocm-systems) |
 | 7607 | 2026-07-06 22:02:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (447223⭐ Python) | [reels/reel_7607_public-apis-public-apis](reels/reel_7607_public-apis-public-apis) |
+| 7608 | 2026-07-06 23:31:15 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185403⭐ Python) | [reels/reel_7608_Significant-Gravitas-AutoGPT](reels/reel_7608_Significant-Gravitas-AutoGPT) |
