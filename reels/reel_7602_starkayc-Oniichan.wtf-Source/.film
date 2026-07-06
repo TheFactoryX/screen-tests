@@ -1,0 +1,24 @@
+{
+  "reel_number": 7602,
+  "recorded": "2026-07-06 09:42:52 UTC",
+  "repository": {
+    "full_name": "starkayc/Oniichan.wtf-Source",
+    "url": "https://github.com/starkayc/Oniichan.wtf-Source",
+    "clone_url": "https://github.com/starkayc/Oniichan.wtf-Source.git",
+    "stars": 12,
+    "language": "HTML",
+    "size_kb": 2102723
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 2053,
+    "duration_seconds": 0.000142
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 12 stars."
+  }
+}
