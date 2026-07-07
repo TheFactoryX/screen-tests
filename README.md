@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7614 | [guilyx/guilyx](https://github.com/guilyx/guilyx) | Markdown · ⭐ 560 | 2026-07-07 |
+| #7615 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 151k | 2026-07-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7702,3 +7702,4 @@ If you need permission, you're thinking too much.
 | 7612 | 2026-07-07 11:47:22 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (303445⭐ None) | [reels/reel_7612_awesome-selfhosted-awesome-selfhosted](reels/reel_7612_awesome-selfhosted-awesome-selfhosted) |
 | 7613 | 2026-07-07 14:28:19 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (130063⭐ TypeScript) | [reels/reel_7613_clash-verge-rev-clash-verge-rev](reels/reel_7613_clash-verge-rev-clash-verge-rev) |
 | 7614 | 2026-07-07 16:56:09 | [guilyx/guilyx](https://github.com/guilyx/guilyx) | ✅ full (560⭐ Markdown) | [reels/reel_7614_guilyx-guilyx](reels/reel_7614_guilyx-guilyx) |
+| 7615 | 2026-07-07 19:02:03 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151307⭐ Python) | [reels/reel_7615_langflow-ai-langflow](reels/reel_7615_langflow-ai-langflow) |
