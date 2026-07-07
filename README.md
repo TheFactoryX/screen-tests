@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7609 | [finos/legend-studio](https://github.com/finos/legend-studio) | TypeScript · ⭐ 109 | 2026-07-07 |
+| #7610 | [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) | CSS · ⭐ 150 | 2026-07-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7697,3 +7697,4 @@ If you need permission, you're thinking too much.
 | 7607 | 2026-07-06 22:02:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (447223⭐ Python) | [reels/reel_7607_public-apis-public-apis](reels/reel_7607_public-apis-public-apis) |
 | 7608 | 2026-07-06 23:31:15 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185403⭐ Python) | [reels/reel_7608_Significant-Gravitas-AutoGPT](reels/reel_7608_Significant-Gravitas-AutoGPT) |
 | 7609 | 2026-07-07 01:23:25 | [finos/legend-studio](https://github.com/finos/legend-studio) | ✅ full (109⭐ TypeScript) | [reels/reel_7609_finos-legend-studio](reels/reel_7609_finos-legend-studio) |
+| 7610 | 2026-07-07 05:34:40 | [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) | ✅ full (150⭐ CSS) | [reels/reel_7610_zapSNH-zapsCoolPhotonTheme](reels/reel_7610_zapSNH-zapsCoolPhotonTheme) |

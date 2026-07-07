@@ -1,0 +1,24 @@
+{
+  "reel_number": 7610,
+  "recorded": "2026-07-07 05:34:40 UTC",
+  "repository": {
+    "full_name": "zapSNH/zapsCoolPhotonTheme",
+    "url": "https://github.com/zapSNH/zapsCoolPhotonTheme",
+    "clone_url": "https://github.com/zapSNH/zapsCoolPhotonTheme.git",
+    "stars": 150,
+    "language": "CSS",
+    "size_kb": 3695
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.630603
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 150 stars."
+  }
+}
