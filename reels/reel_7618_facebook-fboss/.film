@@ -1,0 +1,24 @@
+{
+  "reel_number": 7618,
+  "recorded": "2026-07-07 23:14:35 UTC",
+  "repository": {
+    "full_name": "facebook/fboss",
+    "url": "https://github.com/facebook/fboss",
+    "clone_url": "https://github.com/facebook/fboss.git",
+    "stars": 977,
+    "language": "C++",
+    "size_kb": 131890
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 128,
+    "duration_seconds": 7.385661
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 977 stars."
+  }
+}
