@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7612 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 303k | 2026-07-07 |
+| #7613 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 130k | 2026-07-07 |
 ---
 
 ## 🎭 Selection Process
@@ -7700,3 +7700,4 @@ If you need permission, you're thinking too much.
 | 7610 | 2026-07-07 05:34:40 | [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme) | ✅ full (150⭐ CSS) | [reels/reel_7610_zapSNH-zapsCoolPhotonTheme](reels/reel_7610_zapSNH-zapsCoolPhotonTheme) |
 | 7611 | 2026-07-07 08:54:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (130861⭐ TypeScript) | [reels/reel_7611_iptv-org-iptv](reels/reel_7611_iptv-org-iptv) |
 | 7612 | 2026-07-07 11:47:22 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (303445⭐ None) | [reels/reel_7612_awesome-selfhosted-awesome-selfhosted](reels/reel_7612_awesome-selfhosted-awesome-selfhosted) |
+| 7613 | 2026-07-07 14:28:19 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (130063⭐ TypeScript) | [reels/reel_7613_clash-verge-rev-clash-verge-rev](reels/reel_7613_clash-verge-rev-clash-verge-rev) |
