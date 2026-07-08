@@ -1,0 +1,24 @@
+{
+  "reel_number": 7624,
+  "recorded": "2026-07-08 13:01:23 UTC",
+  "repository": {
+    "full_name": "farion1231/cc-switch",
+    "url": "https://github.com/farion1231/cc-switch",
+    "clone_url": "https://github.com/farion1231/cc-switch.git",
+    "stars": 114724,
+    "language": "Rust",
+    "size_kb": 61960
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 60,
+    "duration_seconds": 2.973647
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 114724 stars."
+  }
+}
