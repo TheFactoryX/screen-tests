@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7625 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 176k | 2026-07-08 |
+| #7626 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 119k | 2026-07-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7713,3 +7713,4 @@ If you need permission, you're thinking too much.
 | 7623 | 2026-07-08 11:16:23 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (130224⭐ TypeScript) | [reels/reel_7623_clash-verge-rev-clash-verge-rev](reels/reel_7623_clash-verge-rev-clash-verge-rev) |
 | 7624 | 2026-07-08 13:01:23 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ✅ full (114724⭐ Rust) | [reels/reel_7624_farion1231-cc-switch](reels/reel_7624_farion1231-cc-switch) |
 | 7625 | 2026-07-08 15:33:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (176351⭐ Python) | [reels/reel_7625_yt-dlp-yt-dlp](reels/reel_7625_yt-dlp-yt-dlp) |
+| 7626 | 2026-07-08 17:07:09 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (119904⭐ Python) | [reels/reel_7626_Comfy-Org-ComfyUI](reels/reel_7626_Comfy-Org-ComfyUI) |
