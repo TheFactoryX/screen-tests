@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7630 | [usemoss/moss](https://github.com/usemoss/moss) | Python · ⭐ 439 | 2026-07-08 |
+| #7631 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 106k | 2026-07-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7718,3 +7718,4 @@ If you need permission, you're thinking too much.
 | 7628 | 2026-07-08 20:10:12 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (118461⭐ TypeScript) | [reels/reel_7628_shadcn-ui-ui](reels/reel_7628_shadcn-ui-ui) |
 | 7629 | 2026-07-08 21:30:12 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140662⭐ Python) | [reels/reel_7629_ytdl-org-youtube-dl](reels/reel_7629_ytdl-org-youtube-dl) |
 | 7630 | 2026-07-08 22:35:34 | [usemoss/moss](https://github.com/usemoss/moss) | ✅ shallow (439⭐ Python) | [reels/reel_7630_usemoss-moss](reels/reel_7630_usemoss-moss) |
+| 7631 | 2026-07-08 23:44:42 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (106923⭐ TypeScript) | [reels/reel_7631_immich-app-immich](reels/reel_7631_immich-app-immich) |
