@@ -1,0 +1,24 @@
+{
+  "reel_number": 7619,
+  "recorded": "2026-07-08 00:13:30 UTC",
+  "repository": {
+    "full_name": "DragosDreptate/the-playground",
+    "url": "https://github.com/DragosDreptate/the-playground",
+    "clone_url": "https://github.com/DragosDreptate/the-playground.git",
+    "stars": 11,
+    "language": "TypeScript",
+    "size_kb": 25715
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 1.650384
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 11 stars."
+  }
+}
