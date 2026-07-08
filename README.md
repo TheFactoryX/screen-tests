@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7620 | [anYuJia/better-douyin-R](https://github.com/anYuJia/better-douyin-R) | TypeScript · ⭐ 238 | 2026-07-08 |
+| #7621 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 227k | 2026-07-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7708,3 +7708,4 @@ If you need permission, you're thinking too much.
 | 7618 | 2026-07-07 23:14:35 | [facebook/fboss](https://github.com/facebook/fboss) | ✅ shallow (977⭐ C++) | [reels/reel_7618_facebook-fboss](reels/reel_7618_facebook-fboss) |
 | 7619 | 2026-07-08 00:13:30 | [DragosDreptate/the-playground](https://github.com/DragosDreptate/the-playground) | ✅ full (11⭐ TypeScript) | [reels/reel_7619_DragosDreptate-the-playground](reels/reel_7619_DragosDreptate-the-playground) |
 | 7620 | 2026-07-08 03:46:40 | [anYuJia/better-douyin-R](https://github.com/anYuJia/better-douyin-R) | ✅ full (238⭐ TypeScript) | [reels/reel_7620_anYuJia-better-douyin-R](reels/reel_7620_anYuJia-better-douyin-R) |
+| 7621 | 2026-07-08 06:26:01 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (227154⭐ JavaScript) | [reels/reel_7621_affaan-m-ECC](reels/reel_7621_affaan-m-ECC) |
