@@ -1,0 +1,24 @@
+{
+  "reel_number": 7620,
+  "recorded": "2026-07-08 03:46:40 UTC",
+  "repository": {
+    "full_name": "anYuJia/better-douyin-R",
+    "url": "https://github.com/anYuJia/better-douyin-R",
+    "clone_url": "https://github.com/anYuJia/better-douyin-R.git",
+    "stars": 238,
+    "language": "TypeScript",
+    "size_kb": 11874
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 1.355568
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 238 stars."
+  }
+}
