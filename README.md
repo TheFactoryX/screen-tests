@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7626 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 119k | 2026-07-08 |
+| #7627 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 131k | 2026-07-08 |
 ---
 
 ## 🎭 Selection Process
@@ -7714,3 +7714,4 @@ If you need permission, you're thinking too much.
 | 7624 | 2026-07-08 13:01:23 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ✅ full (114724⭐ Rust) | [reels/reel_7624_farion1231-cc-switch](reels/reel_7624_farion1231-cc-switch) |
 | 7625 | 2026-07-08 15:33:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (176351⭐ Python) | [reels/reel_7625_yt-dlp-yt-dlp](reels/reel_7625_yt-dlp-yt-dlp) |
 | 7626 | 2026-07-08 17:07:09 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (119904⭐ Python) | [reels/reel_7626_Comfy-Org-ComfyUI](reels/reel_7626_Comfy-Org-ComfyUI) |
+| 7627 | 2026-07-08 18:43:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (131166⭐ TypeScript) | [reels/reel_7627_iptv-org-iptv](reels/reel_7627_iptv-org-iptv) |
