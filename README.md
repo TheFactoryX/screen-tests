@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7636 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 120k | 2026-07-09 |
+| #7637 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 130k | 2026-07-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7724,3 +7724,4 @@ If you need permission, you're thinking too much.
 | 7634 | 2026-07-09 08:54:26 | [digital-asset/daml](https://github.com/digital-asset/daml) | ✅ shallow (907⭐ Haskell) | [reels/reel_7634_digital-asset-daml](reels/reel_7634_digital-asset-daml) |
 | 7635 | 2026-07-09 11:54:52 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (272609⭐ Python) | [reels/reel_7635_practical-tutorials-project-based-learning](reels/reel_7635_practical-tutorials-project-based-learning) |
 | 7636 | 2026-07-09 14:53:55 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120056⭐ Python) | [reels/reel_7636_Comfy-Org-ComfyUI](reels/reel_7636_Comfy-Org-ComfyUI) |
+| 7637 | 2026-07-09 17:21:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (130508⭐ TypeScript) | [reels/reel_7637_clash-verge-rev-clash-verge-rev](reels/reel_7637_clash-verge-rev-clash-verge-rev) |
