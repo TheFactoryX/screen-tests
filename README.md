@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7631 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 106k | 2026-07-08 |
+| #7632 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 272k | 2026-07-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7719,3 +7719,4 @@ If you need permission, you're thinking too much.
 | 7629 | 2026-07-08 21:30:12 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140662⭐ Python) | [reels/reel_7629_ytdl-org-youtube-dl](reels/reel_7629_ytdl-org-youtube-dl) |
 | 7630 | 2026-07-08 22:35:34 | [usemoss/moss](https://github.com/usemoss/moss) | ✅ shallow (439⭐ Python) | [reels/reel_7630_usemoss-moss](reels/reel_7630_usemoss-moss) |
 | 7631 | 2026-07-08 23:44:42 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (106923⭐ TypeScript) | [reels/reel_7631_immich-app-immich](reels/reel_7631_immich-app-immich) |
+| 7632 | 2026-07-09 01:19:10 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (272564⭐ Python) | [reels/reel_7632_practical-tutorials-project-based-learning](reels/reel_7632_practical-tutorials-project-based-learning) |
