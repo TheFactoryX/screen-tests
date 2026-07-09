@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7635 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 272k | 2026-07-09 |
+| #7636 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 120k | 2026-07-09 |
 ---
 
 ## 🎭 Selection Process
@@ -7723,3 +7723,4 @@ If you need permission, you're thinking too much.
 | 7633 | 2026-07-09 05:36:04 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (176536⭐ Python) | [reels/reel_7633_yt-dlp-yt-dlp](reels/reel_7633_yt-dlp-yt-dlp) |
 | 7634 | 2026-07-09 08:54:26 | [digital-asset/daml](https://github.com/digital-asset/daml) | ✅ shallow (907⭐ Haskell) | [reels/reel_7634_digital-asset-daml](reels/reel_7634_digital-asset-daml) |
 | 7635 | 2026-07-09 11:54:52 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (272609⭐ Python) | [reels/reel_7635_practical-tutorials-project-based-learning](reels/reel_7635_practical-tutorials-project-based-learning) |
+| 7636 | 2026-07-09 14:53:55 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120056⭐ Python) | [reels/reel_7636_Comfy-Org-ComfyUI](reels/reel_7636_Comfy-Org-ComfyUI) |
