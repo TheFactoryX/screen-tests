@@ -1,0 +1,24 @@
+{
+  "reel_number": 7634,
+  "recorded": "2026-07-09 08:54:26 UTC",
+  "repository": {
+    "full_name": "digital-asset/daml",
+    "url": "https://github.com/digital-asset/daml",
+    "clone_url": "https://github.com/digital-asset/daml.git",
+    "stars": 907,
+    "language": "Haskell",
+    "size_kb": 393227
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 384,
+    "duration_seconds": 1.111496
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haskell",
+    "director_note": "A Haskell repository. 907 stars."
+  }
+}
