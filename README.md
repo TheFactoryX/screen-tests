@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7647 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 118k | 2026-07-10 |
+| #7648 | [drawthingsai/draw-things-community](https://github.com/drawthingsai/draw-things-community) | C · ⭐ 511 | 2026-07-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7735,3 +7735,4 @@ If you need permission, you're thinking too much.
 | 7645 | 2026-07-10 11:49:23 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (130645⭐ TypeScript) | [reels/reel_7645_clash-verge-rev-clash-verge-rev](reels/reel_7645_clash-verge-rev-clash-verge-rev) |
 | 7646 | 2026-07-10 14:21:02 | [WhatTheBlock/GeForce-Driver-Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite) | ✅ full (31⭐ None) | [reels/reel_7646_WhatTheBlock-GeForce-Driver-Lite](reels/reel_7646_WhatTheBlock-GeForce-Driver-Lite) |
 | 7647 | 2026-07-10 16:36:26 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (118708⭐ TypeScript) | [reels/reel_7647_shadcn-ui-ui](reels/reel_7647_shadcn-ui-ui) |
+| 7648 | 2026-07-10 18:11:33 | [drawthingsai/draw-things-community](https://github.com/drawthingsai/draw-things-community) | ✅ full (511⭐ C) | [reels/reel_7648_drawthingsai-draw-things-community](reels/reel_7648_drawthingsai-draw-things-community) |

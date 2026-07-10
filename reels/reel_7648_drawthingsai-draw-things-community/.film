@@ -1,0 +1,24 @@
+{
+  "reel_number": 7648,
+  "recorded": "2026-07-10 18:11:33 UTC",
+  "repository": {
+    "full_name": "drawthingsai/draw-things-community",
+    "url": "https://github.com/drawthingsai/draw-things-community",
+    "clone_url": "https://github.com/drawthingsai/draw-things-community.git",
+    "stars": 511,
+    "language": "C",
+    "size_kb": 87105
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 85,
+    "duration_seconds": 5.035783
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 511 stars."
+  }
+}
