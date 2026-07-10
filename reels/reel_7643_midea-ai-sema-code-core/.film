@@ -1,0 +1,24 @@
+{
+  "reel_number": 7643,
+  "recorded": "2026-07-10 05:33:03 UTC",
+  "repository": {
+    "full_name": "midea-ai/sema-code-core",
+    "url": "https://github.com/midea-ai/sema-code-core",
+    "clone_url": "https://github.com/midea-ai/sema-code-core.git",
+    "stars": 126,
+    "language": "TypeScript",
+    "size_kb": 942
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.225169
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 126 stars."
+  }
+}

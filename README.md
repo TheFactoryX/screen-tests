@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7642 | [zapplyjobs/New-Grad-Jobs-2027](https://github.com/zapplyjobs/New-Grad-Jobs-2027) | HTML · ⭐ 149 | 2026-07-10 |
+| #7643 | [midea-ai/sema-code-core](https://github.com/midea-ai/sema-code-core) | TypeScript · ⭐ 126 | 2026-07-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7730,3 +7730,4 @@ If you need permission, you're thinking too much.
 | 7640 | 2026-07-09 22:21:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151454⭐ Python) | [reels/reel_7640_langflow-ai-langflow](reels/reel_7640_langflow-ai-langflow) |
 | 7641 | 2026-07-09 23:45:02 | [michaelfaith/eslint-plugin-package-json](https://github.com/michaelfaith/eslint-plugin-package-json) | ✅ full (248⭐ TypeScript) | [reels/reel_7641_michaelfaith-eslint-plugin-package-json](reels/reel_7641_michaelfaith-eslint-plugin-package-json) |
 | 7642 | 2026-07-10 01:17:57 | [zapplyjobs/New-Grad-Jobs-2027](https://github.com/zapplyjobs/New-Grad-Jobs-2027) | ✅ readme_only (149⭐ HTML) | [reels/reel_7642_zapplyjobs-New-Grad-Jobs-2027](reels/reel_7642_zapplyjobs-New-Grad-Jobs-2027) |
+| 7643 | 2026-07-10 05:33:03 | [midea-ai/sema-code-core](https://github.com/midea-ai/sema-code-core) | ✅ full (126⭐ TypeScript) | [reels/reel_7643_midea-ai-sema-code-core](reels/reel_7643_midea-ai-sema-code-core) |
