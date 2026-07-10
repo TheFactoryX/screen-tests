@@ -1,0 +1,24 @@
+{
+  "reel_number": 7649,
+  "recorded": "2026-07-10 19:51:27 UTC",
+  "repository": {
+    "full_name": "OriginTrail/dkg",
+    "url": "https://github.com/OriginTrail/dkg",
+    "clone_url": "https://github.com/OriginTrail/dkg.git",
+    "stars": 168,
+    "language": "TypeScript",
+    "size_kb": 72968
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 71,
+    "duration_seconds": 7.299949
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 168 stars."
+  }
+}
