@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7649 | [OriginTrail/dkg](https://github.com/OriginTrail/dkg) | TypeScript · ⭐ 168 | 2026-07-10 |
+| #7650 | [Nine-Minds/alga-psa](https://github.com/Nine-Minds/alga-psa) | TypeScript · ⭐ 124 | 2026-07-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7737,3 +7737,4 @@ If you need permission, you're thinking too much.
 | 7647 | 2026-07-10 16:36:26 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (118708⭐ TypeScript) | [reels/reel_7647_shadcn-ui-ui](reels/reel_7647_shadcn-ui-ui) |
 | 7648 | 2026-07-10 18:11:33 | [drawthingsai/draw-things-community](https://github.com/drawthingsai/draw-things-community) | ✅ full (511⭐ C) | [reels/reel_7648_drawthingsai-draw-things-community](reels/reel_7648_drawthingsai-draw-things-community) |
 | 7649 | 2026-07-10 19:51:27 | [OriginTrail/dkg](https://github.com/OriginTrail/dkg) | ✅ full (168⭐ TypeScript) | [reels/reel_7649_OriginTrail-dkg](reels/reel_7649_OriginTrail-dkg) |
+| 7650 | 2026-07-10 21:03:54 | [Nine-Minds/alga-psa](https://github.com/Nine-Minds/alga-psa) | ✅ shallow (124⭐ TypeScript) | [reels/reel_7650_Nine-Minds-alga-psa](reels/reel_7650_Nine-Minds-alga-psa) |
