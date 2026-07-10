@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7644 | [M17-Project/LinHT-hw](https://github.com/M17-Project/LinHT-hw) | JavaScript · ⭐ 207 | 2026-07-10 |
+| #7645 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 130k | 2026-07-10 |
 ---
 
 ## 🎭 Selection Process
@@ -7732,3 +7732,4 @@ If you need permission, you're thinking too much.
 | 7642 | 2026-07-10 01:17:57 | [zapplyjobs/New-Grad-Jobs-2027](https://github.com/zapplyjobs/New-Grad-Jobs-2027) | ✅ readme_only (149⭐ HTML) | [reels/reel_7642_zapplyjobs-New-Grad-Jobs-2027](reels/reel_7642_zapplyjobs-New-Grad-Jobs-2027) |
 | 7643 | 2026-07-10 05:33:03 | [midea-ai/sema-code-core](https://github.com/midea-ai/sema-code-core) | ✅ full (126⭐ TypeScript) | [reels/reel_7643_midea-ai-sema-code-core](reels/reel_7643_midea-ai-sema-code-core) |
 | 7644 | 2026-07-10 08:50:46 | [M17-Project/LinHT-hw](https://github.com/M17-Project/LinHT-hw) | ✅ full (207⭐ JavaScript) | [reels/reel_7644_M17-Project-LinHT-hw](reels/reel_7644_M17-Project-LinHT-hw) |
+| 7645 | 2026-07-10 11:49:23 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (130645⭐ TypeScript) | [reels/reel_7645_clash-verge-rev-clash-verge-rev](reels/reel_7645_clash-verge-rev-clash-verge-rev) |
