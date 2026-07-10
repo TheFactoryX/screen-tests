@@ -1,0 +1,24 @@
+{
+  "reel_number": 7642,
+  "recorded": "2026-07-10 01:17:57 UTC",
+  "repository": {
+    "full_name": "zapplyjobs/New-Grad-Jobs-2027",
+    "url": "https://github.com/zapplyjobs/New-Grad-Jobs-2027",
+    "clone_url": "https://github.com/zapplyjobs/New-Grad-Jobs-2027.git",
+    "stars": 149,
+    "language": "HTML",
+    "size_kb": 20722889
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 20237,
+    "duration_seconds": 0.000145
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 149 stars."
+  }
+}
