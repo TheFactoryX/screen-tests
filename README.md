@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7656 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 272k | 2026-07-11 |
+| #7657 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 120k | 2026-07-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7744,3 +7744,4 @@ If you need permission, you're thinking too much.
 | 7654 | 2026-07-11 03:43:14 | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | ✅ shallow (25386⭐ Python) | [reels/reel_7654_spotDL-spotify-downloader](reels/reel_7654_spotDL-spotify-downloader) |
 | 7655 | 2026-07-11 06:01:57 | [RivelleDays/SillyTavern-MoonlitEchoesTheme](https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme) | ✅ full (375⭐ JavaScript) | [reels/reel_7655_RivelleDays-SillyTavern-MoonlitEchoesTheme](reels/reel_7655_RivelleDays-SillyTavern-MoonlitEchoesTheme) |
 | 7656 | 2026-07-11 08:14:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (272834⭐ Python) | [reels/reel_7656_practical-tutorials-project-based-learning](reels/reel_7656_practical-tutorials-project-based-learning) |
+| 7657 | 2026-07-11 09:50:03 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120299⭐ Python) | [reels/reel_7657_Comfy-Org-ComfyUI](reels/reel_7657_Comfy-Org-ComfyUI) |
