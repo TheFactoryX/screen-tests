@@ -1,0 +1,24 @@
+{
+  "reel_number": 7666,
+  "recorded": "2026-07-11 20:08:31 UTC",
+  "repository": {
+    "full_name": "Sakshxm1/hermes-agency-orchestrator",
+    "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator",
+    "clone_url": "https://github.com/Sakshxm1/hermes-agency-orchestrator.git",
+    "stars": 156,
+    "language": "HTML",
+    "size_kb": 216
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.265887
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 156 stars."
+  }
+}
