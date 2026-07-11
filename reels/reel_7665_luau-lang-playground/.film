@@ -1,0 +1,24 @@
+{
+  "reel_number": 7665,
+  "recorded": "2026-07-11 18:59:25 UTC",
+  "repository": {
+    "full_name": "luau-lang/playground",
+    "url": "https://github.com/luau-lang/playground",
+    "clone_url": "https://github.com/luau-lang/playground.git",
+    "stars": 25,
+    "language": "TypeScript",
+    "size_kb": 11093
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 0.793455
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 25 stars."
+  }
+}
