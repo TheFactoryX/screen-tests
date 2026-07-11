@@ -1,0 +1,24 @@
+{
+  "reel_number": 7658,
+  "recorded": "2026-07-11 11:02:33 UTC",
+  "repository": {
+    "full_name": "i42output/neoGFX",
+    "url": "https://github.com/i42output/neoGFX",
+    "clone_url": "https://github.com/i42output/neoGFX.git",
+    "stars": 574,
+    "language": "C++",
+    "size_kb": 119452
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 116,
+    "duration_seconds": 6.103442
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 574 stars."
+  }
+}
