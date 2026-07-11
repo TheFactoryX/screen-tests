@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7658 | [i42output/neoGFX](https://github.com/i42output/neoGFX) | C++ · ⭐ 574 | 2026-07-11 |
+| #7659 | [Warp-net/warpnet](https://github.com/Warp-net/warpnet) | Go · ⭐ 136 | 2026-07-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7746,3 +7746,4 @@ If you need permission, you're thinking too much.
 | 7656 | 2026-07-11 08:14:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (272834⭐ Python) | [reels/reel_7656_practical-tutorials-project-based-learning](reels/reel_7656_practical-tutorials-project-based-learning) |
 | 7657 | 2026-07-11 09:50:03 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120299⭐ Python) | [reels/reel_7657_Comfy-Org-ComfyUI](reels/reel_7657_Comfy-Org-ComfyUI) |
 | 7658 | 2026-07-11 11:02:33 | [i42output/neoGFX](https://github.com/i42output/neoGFX) | ✅ shallow (574⭐ C++) | [reels/reel_7658_i42output-neoGFX](reels/reel_7658_i42output-neoGFX) |
+| 7659 | 2026-07-11 12:04:40 | [Warp-net/warpnet](https://github.com/Warp-net/warpnet) | ✅ shallow (136⭐ Go) | [reels/reel_7659_Warp-net-warpnet](reels/reel_7659_Warp-net-warpnet) |

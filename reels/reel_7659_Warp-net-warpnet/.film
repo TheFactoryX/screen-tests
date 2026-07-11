@@ -1,0 +1,24 @@
+{
+  "reel_number": 7659,
+  "recorded": "2026-07-11 12:04:40 UTC",
+  "repository": {
+    "full_name": "Warp-net/warpnet",
+    "url": "https://github.com/Warp-net/warpnet",
+    "clone_url": "https://github.com/Warp-net/warpnet.git",
+    "stars": 136,
+    "language": "Go",
+    "size_kb": 229223
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 223,
+    "duration_seconds": 3.286975
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 136 stars."
+  }
+}
