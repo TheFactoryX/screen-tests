@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7654 | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | Python · ⭐ 25k | 2026-07-11 |
+| #7655 | [RivelleDays/SillyTavern-MoonlitEchoesTheme](https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme) | JavaScript · ⭐ 375 | 2026-07-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7742,3 +7742,4 @@ If you need permission, you're thinking too much.
 | 7652 | 2026-07-10 23:14:50 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (272789⭐ Python) | [reels/reel_7652_practical-tutorials-project-based-learning](reels/reel_7652_practical-tutorials-project-based-learning) |
 | 7653 | 2026-07-11 00:11:59 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151576⭐ Python) | [reels/reel_7653_langflow-ai-langflow](reels/reel_7653_langflow-ai-langflow) |
 | 7654 | 2026-07-11 03:43:14 | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | ✅ shallow (25386⭐ Python) | [reels/reel_7654_spotDL-spotify-downloader](reels/reel_7654_spotDL-spotify-downloader) |
+| 7655 | 2026-07-11 06:01:57 | [RivelleDays/SillyTavern-MoonlitEchoesTheme](https://github.com/RivelleDays/SillyTavern-MoonlitEchoesTheme) | ✅ full (375⭐ JavaScript) | [reels/reel_7655_RivelleDays-SillyTavern-MoonlitEchoesTheme](reels/reel_7655_RivelleDays-SillyTavern-MoonlitEchoesTheme) |
