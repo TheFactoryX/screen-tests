@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7661 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 304k | 2026-07-11 |
+| #7662 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 228k | 2026-07-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7749,3 +7749,4 @@ If you need permission, you're thinking too much.
 | 7659 | 2026-07-11 12:04:40 | [Warp-net/warpnet](https://github.com/Warp-net/warpnet) | ✅ shallow (136⭐ Go) | [reels/reel_7659_Warp-net-warpnet](reels/reel_7659_Warp-net-warpnet) |
 | 7660 | 2026-07-11 13:53:19 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (120016⭐ C++) | [reels/reel_7660_ggml-org-llama.cpp](reels/reel_7660_ggml-org-llama.cpp) |
 | 7661 | 2026-07-11 14:51:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (304596⭐ None) | [reels/reel_7661_awesome-selfhosted-awesome-selfhosted](reels/reel_7661_awesome-selfhosted-awesome-selfhosted) |
+| 7662 | 2026-07-11 15:53:42 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (228470⭐ JavaScript) | [reels/reel_7662_affaan-m-ECC](reels/reel_7662_affaan-m-ECC) |
