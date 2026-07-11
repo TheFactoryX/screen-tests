@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7662 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 228k | 2026-07-11 |
+| #7663 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 151k | 2026-07-11 |
 ---
 
 ## 🎭 Selection Process
@@ -7750,3 +7750,4 @@ If you need permission, you're thinking too much.
 | 7660 | 2026-07-11 13:53:19 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (120016⭐ C++) | [reels/reel_7660_ggml-org-llama.cpp](reels/reel_7660_ggml-org-llama.cpp) |
 | 7661 | 2026-07-11 14:51:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (304596⭐ None) | [reels/reel_7661_awesome-selfhosted-awesome-selfhosted](reels/reel_7661_awesome-selfhosted-awesome-selfhosted) |
 | 7662 | 2026-07-11 15:53:42 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (228470⭐ JavaScript) | [reels/reel_7662_affaan-m-ECC](reels/reel_7662_affaan-m-ECC) |
+| 7663 | 2026-07-11 16:55:17 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151667⭐ Python) | [reels/reel_7663_langflow-ai-langflow](reels/reel_7663_langflow-ai-langflow) |
