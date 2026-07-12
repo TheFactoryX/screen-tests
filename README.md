@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7680 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 196k | 2026-07-12 |
+| #7681 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 108k | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7768,3 +7768,4 @@ If you need permission, you're thinking too much.
 | 7678 | 2026-07-12 15:17:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (177498⭐ Python) | [reels/reel_7678_yt-dlp-yt-dlp](reels/reel_7678_yt-dlp-yt-dlp) |
 | 7679 | 2026-07-12 16:26:49 | [sogno-platform/dpsim](https://github.com/sogno-platform/dpsim) | ✅ full (130⭐ C++) | [reels/reel_7679_sogno-platform-dpsim](reels/reel_7679_sogno-platform-dpsim) |
 | 7680 | 2026-07-12 17:32:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196178⭐ TypeScript) | [reels/reel_7680_n8n-io-n8n](reels/reel_7680_n8n-io-n8n) |
+| 7681 | 2026-07-12 18:37:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (108969⭐ Rust) | [reels/reel_7681_tauri-apps-tauri](reels/reel_7681_tauri-apps-tauri) |
