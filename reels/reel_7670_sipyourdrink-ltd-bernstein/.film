@@ -1,0 +1,24 @@
+{
+  "reel_number": 7670,
+  "recorded": "2026-07-12 00:10:06 UTC",
+  "repository": {
+    "full_name": "sipyourdrink-ltd/bernstein",
+    "url": "https://github.com/sipyourdrink-ltd/bernstein",
+    "clone_url": "https://github.com/sipyourdrink-ltd/bernstein.git",
+    "stars": 657,
+    "language": "Python",
+    "size_kb": 52996
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 51,
+    "duration_seconds": 3.702486
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 657 stars."
+  }
+}

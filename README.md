@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7669 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 107k | 2026-07-11 |
+| #7670 | [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) | Python · ⭐ 657 | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7757,3 +7757,4 @@ If you need permission, you're thinking too much.
 | 7667 | 2026-07-11 21:05:09 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (272906⭐ Python) | [reels/reel_7667_practical-tutorials-project-based-learning](reels/reel_7667_practical-tutorials-project-based-learning) |
 | 7668 | 2026-07-11 22:06:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (132390⭐ TypeScript) | [reels/reel_7668_iptv-org-iptv](reels/reel_7668_iptv-org-iptv) |
 | 7669 | 2026-07-11 23:09:51 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (107342⭐ TypeScript) | [reels/reel_7669_immich-app-immich](reels/reel_7669_immich-app-immich) |
+| 7670 | 2026-07-12 00:10:06 | [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) | ✅ full (657⭐ Python) | [reels/reel_7670_sipyourdrink-ltd-bernstein](reels/reel_7670_sipyourdrink-ltd-bernstein) |
