@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7676 | [Min3Mast3r4653/SillyTavern-Extensions-and-Themes](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes) | None · ⭐ 41 | 2026-07-12 |
+| #7677 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7764,3 +7764,4 @@ If you need permission, you're thinking too much.
 | 7674 | 2026-07-12 10:26:14 | [konflux-ci/konflux-ci](https://github.com/konflux-ci/konflux-ci) | ✅ full (164⭐ Go) | [reels/reel_7674_konflux-ci-konflux-ci](reels/reel_7674_konflux-ci-konflux-ci) |
 | 7675 | 2026-07-12 11:36:55 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (524411⭐ Markdown) | [reels/reel_7675_codecrafters-io-build-your-own-x](reels/reel_7675_codecrafters-io-build-your-own-x) |
 | 7676 | 2026-07-12 12:37:06 | [Min3Mast3r4653/SillyTavern-Extensions-and-Themes](https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes) | ✅ full (41⭐ None) | [reels/reel_7676_Min3Mast3r4653-SillyTavern-Extensions-and-Themes](reels/reel_7676_Min3Mast3r4653-SillyTavern-Extensions-and-Themes) |
+| 7677 | 2026-07-12 14:13:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185490⭐ Python) | [reels/reel_7677_Significant-Gravitas-AutoGPT](reels/reel_7677_Significant-Gravitas-AutoGPT) |
