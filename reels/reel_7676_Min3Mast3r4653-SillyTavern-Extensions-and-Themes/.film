@@ -1,0 +1,24 @@
+{
+  "reel_number": 7676,
+  "recorded": "2026-07-12 12:37:06 UTC",
+  "repository": {
+    "full_name": "Min3Mast3r4653/SillyTavern-Extensions-and-Themes",
+    "url": "https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes",
+    "clone_url": "https://github.com/Min3Mast3r4653/SillyTavern-Extensions-and-Themes.git",
+    "stars": 41,
+    "language": null,
+    "size_kb": 150
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.418518
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 41 stars."
+  }
+}
