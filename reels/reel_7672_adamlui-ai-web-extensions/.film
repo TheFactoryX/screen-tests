@@ -1,0 +1,24 @@
+{
+  "reel_number": 7672,
+  "recorded": "2026-07-12 06:32:16 UTC",
+  "repository": {
+    "full_name": "adamlui/ai-web-extensions",
+    "url": "https://github.com/adamlui/ai-web-extensions",
+    "clone_url": "https://github.com/adamlui/ai-web-extensions.git",
+    "stars": 547,
+    "language": "JavaScript",
+    "size_kb": 501715
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 489,
+    "duration_seconds": 12.245427
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 547 stars."
+  }
+}
