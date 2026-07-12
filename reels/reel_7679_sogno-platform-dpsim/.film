@@ -1,0 +1,24 @@
+{
+  "reel_number": 7679,
+  "recorded": "2026-07-12 16:26:49 UTC",
+  "repository": {
+    "full_name": "sogno-platform/dpsim",
+    "url": "https://github.com/sogno-platform/dpsim",
+    "clone_url": "https://github.com/sogno-platform/dpsim.git",
+    "stars": 130,
+    "language": "C++",
+    "size_kb": 98375
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 96,
+    "duration_seconds": 5.247187
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 130 stars."
+  }
+}
