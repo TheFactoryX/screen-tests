@@ -1,0 +1,24 @@
+{
+  "reel_number": 7683,
+  "recorded": "2026-07-12 20:42:30 UTC",
+  "repository": {
+    "full_name": "forcedotcom/apex-language-support",
+    "url": "https://github.com/forcedotcom/apex-language-support",
+    "clone_url": "https://github.com/forcedotcom/apex-language-support.git",
+    "stars": 11,
+    "language": "TypeScript",
+    "size_kb": 60658
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 59,
+    "duration_seconds": 2.892389
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 11 stars."
+  }
+}
