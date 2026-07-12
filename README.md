@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7684 | [koordinates/kart](https://github.com/koordinates/kart) | Python · ⭐ 675 | 2026-07-12 |
+| #7685 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 177k | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7772,3 +7772,4 @@ If you need permission, you're thinking too much.
 | 7682 | 2026-07-12 19:49:58 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (120155⭐ C++) | [reels/reel_7682_ggml-org-llama.cpp](reels/reel_7682_ggml-org-llama.cpp) |
 | 7683 | 2026-07-12 20:42:30 | [forcedotcom/apex-language-support](https://github.com/forcedotcom/apex-language-support) | ✅ full (11⭐ TypeScript) | [reels/reel_7683_forcedotcom-apex-language-support](reels/reel_7683_forcedotcom-apex-language-support) |
 | 7684 | 2026-07-12 21:33:38 | [koordinates/kart](https://github.com/koordinates/kart) | ✅ shallow (675⭐ Python) | [reels/reel_7684_koordinates-kart](reels/reel_7684_koordinates-kart) |
+| 7685 | 2026-07-12 22:31:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (177557⭐ Python) | [reels/reel_7685_yt-dlp-yt-dlp](reels/reel_7685_yt-dlp-yt-dlp) |
