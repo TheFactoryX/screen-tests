@@ -1,0 +1,24 @@
+{
+  "reel_number": 7671,
+  "recorded": "2026-07-12 03:55:53 UTC",
+  "repository": {
+    "full_name": "doriaxengine/doriax",
+    "url": "https://github.com/doriaxengine/doriax",
+    "clone_url": "https://github.com/doriaxengine/doriax.git",
+    "stars": 430,
+    "language": "C++",
+    "size_kb": 199196
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 194,
+    "duration_seconds": 2.80478
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 430 stars."
+  }
+}
