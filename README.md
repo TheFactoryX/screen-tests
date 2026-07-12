@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7685 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 177k | 2026-07-12 |
+| #7686 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 228k | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7773,3 +7773,4 @@ If you need permission, you're thinking too much.
 | 7683 | 2026-07-12 20:42:30 | [forcedotcom/apex-language-support](https://github.com/forcedotcom/apex-language-support) | ✅ full (11⭐ TypeScript) | [reels/reel_7683_forcedotcom-apex-language-support](reels/reel_7683_forcedotcom-apex-language-support) |
 | 7684 | 2026-07-12 21:33:38 | [koordinates/kart](https://github.com/koordinates/kart) | ✅ shallow (675⭐ Python) | [reels/reel_7684_koordinates-kart](reels/reel_7684_koordinates-kart) |
 | 7685 | 2026-07-12 22:31:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (177557⭐ Python) | [reels/reel_7685_yt-dlp-yt-dlp](reels/reel_7685_yt-dlp-yt-dlp) |
+| 7686 | 2026-07-12 23:35:31 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (228936⭐ JavaScript) | [reels/reel_7686_affaan-m-ECC](reels/reel_7686_affaan-m-ECC) |
