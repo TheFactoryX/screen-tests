@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7683 | [forcedotcom/apex-language-support](https://github.com/forcedotcom/apex-language-support) | TypeScript · ⭐ 11 | 2026-07-12 |
+| #7684 | [koordinates/kart](https://github.com/koordinates/kart) | Python · ⭐ 675 | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7771,3 +7771,4 @@ If you need permission, you're thinking too much.
 | 7681 | 2026-07-12 18:37:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (108969⭐ Rust) | [reels/reel_7681_tauri-apps-tauri](reels/reel_7681_tauri-apps-tauri) |
 | 7682 | 2026-07-12 19:49:58 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (120155⭐ C++) | [reels/reel_7682_ggml-org-llama.cpp](reels/reel_7682_ggml-org-llama.cpp) |
 | 7683 | 2026-07-12 20:42:30 | [forcedotcom/apex-language-support](https://github.com/forcedotcom/apex-language-support) | ✅ full (11⭐ TypeScript) | [reels/reel_7683_forcedotcom-apex-language-support](reels/reel_7683_forcedotcom-apex-language-support) |
+| 7684 | 2026-07-12 21:33:38 | [koordinates/kart](https://github.com/koordinates/kart) | ✅ shallow (675⭐ Python) | [reels/reel_7684_koordinates-kart](reels/reel_7684_koordinates-kart) |

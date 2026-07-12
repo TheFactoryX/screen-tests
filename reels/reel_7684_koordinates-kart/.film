@@ -1,0 +1,24 @@
+{
+  "reel_number": 7684,
+  "recorded": "2026-07-12 21:33:38 UTC",
+  "repository": {
+    "full_name": "koordinates/kart",
+    "url": "https://github.com/koordinates/kart",
+    "clone_url": "https://github.com/koordinates/kart.git",
+    "stars": 675,
+    "language": "Python",
+    "size_kb": 113316
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 110,
+    "duration_seconds": 1.916478
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 675 stars."
+  }
+}
