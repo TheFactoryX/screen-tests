@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7681 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 108k | 2026-07-12 |
+| #7682 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 120k | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7769,3 +7769,4 @@ If you need permission, you're thinking too much.
 | 7679 | 2026-07-12 16:26:49 | [sogno-platform/dpsim](https://github.com/sogno-platform/dpsim) | ✅ full (130⭐ C++) | [reels/reel_7679_sogno-platform-dpsim](reels/reel_7679_sogno-platform-dpsim) |
 | 7680 | 2026-07-12 17:32:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196178⭐ TypeScript) | [reels/reel_7680_n8n-io-n8n](reels/reel_7680_n8n-io-n8n) |
 | 7681 | 2026-07-12 18:37:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (108969⭐ Rust) | [reels/reel_7681_tauri-apps-tauri](reels/reel_7681_tauri-apps-tauri) |
+| 7682 | 2026-07-12 19:49:58 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (120155⭐ C++) | [reels/reel_7682_ggml-org-llama.cpp](reels/reel_7682_ggml-org-llama.cpp) |
