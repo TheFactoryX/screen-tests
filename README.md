@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7679 | [sogno-platform/dpsim](https://github.com/sogno-platform/dpsim) | C++ · ⭐ 130 | 2026-07-12 |
+| #7680 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 196k | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7767,3 +7767,4 @@ If you need permission, you're thinking too much.
 | 7677 | 2026-07-12 14:13:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185490⭐ Python) | [reels/reel_7677_Significant-Gravitas-AutoGPT](reels/reel_7677_Significant-Gravitas-AutoGPT) |
 | 7678 | 2026-07-12 15:17:44 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (177498⭐ Python) | [reels/reel_7678_yt-dlp-yt-dlp](reels/reel_7678_yt-dlp-yt-dlp) |
 | 7679 | 2026-07-12 16:26:49 | [sogno-platform/dpsim](https://github.com/sogno-platform/dpsim) | ✅ full (130⭐ C++) | [reels/reel_7679_sogno-platform-dpsim](reels/reel_7679_sogno-platform-dpsim) |
+| 7680 | 2026-07-12 17:32:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196178⭐ TypeScript) | [reels/reel_7680_n8n-io-n8n](reels/reel_7680_n8n-io-n8n) |
