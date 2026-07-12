@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7673 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 141k | 2026-07-12 |
+| #7674 | [konflux-ci/konflux-ci](https://github.com/konflux-ci/konflux-ci) | Go · ⭐ 164 | 2026-07-12 |
 ---
 
 ## 🎭 Selection Process
@@ -7761,3 +7761,4 @@ If you need permission, you're thinking too much.
 | 7671 | 2026-07-12 03:55:53 | [doriaxengine/doriax](https://github.com/doriaxengine/doriax) | ✅ shallow (430⭐ C++) | [reels/reel_7671_doriaxengine-doriax](reels/reel_7671_doriaxengine-doriax) |
 | 7672 | 2026-07-12 06:32:16 | [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) | ✅ shallow (547⭐ JavaScript) | [reels/reel_7672_adamlui-ai-web-extensions](reels/reel_7672_adamlui-ai-web-extensions) |
 | 7673 | 2026-07-12 08:53:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (141580⭐ Python) | [reels/reel_7673_langchain-ai-langchain](reels/reel_7673_langchain-ai-langchain) |
+| 7674 | 2026-07-12 10:26:14 | [konflux-ci/konflux-ci](https://github.com/konflux-ci/konflux-ci) | ✅ full (164⭐ Go) | [reels/reel_7674_konflux-ci-konflux-ci](reels/reel_7674_konflux-ci-konflux-ci) |
