@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7695 | [ad-si/Woxi](https://github.com/ad-si/Woxi) | Rust · ⭐ 648 | 2026-07-13 |
+| #7696 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 305k | 2026-07-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7783,3 +7783,4 @@ If you need permission, you're thinking too much.
 | 7693 | 2026-07-13 18:17:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196292⭐ TypeScript) | [reels/reel_7693_n8n-io-n8n](reels/reel_7693_n8n-io-n8n) |
 | 7694 | 2026-07-13 19:56:50 | [ProjectSidewalk/SidewalkWebpage](https://github.com/ProjectSidewalk/SidewalkWebpage) | ✅ readme_only (100⭐ JavaScript) | [reels/reel_7694_ProjectSidewalk-SidewalkWebpage](reels/reel_7694_ProjectSidewalk-SidewalkWebpage) |
 | 7695 | 2026-07-13 20:58:15 | [ad-si/Woxi](https://github.com/ad-si/Woxi) | ✅ full (648⭐ Rust) | [reels/reel_7695_ad-si-Woxi](reels/reel_7695_ad-si-Woxi) |
+| 7696 | 2026-07-13 22:00:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305219⭐ None) | [reels/reel_7696_awesome-selfhosted-awesome-selfhosted](reels/reel_7696_awesome-selfhosted-awesome-selfhosted) |
