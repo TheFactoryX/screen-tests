@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7694 | [ProjectSidewalk/SidewalkWebpage](https://github.com/ProjectSidewalk/SidewalkWebpage) | JavaScript · ⭐ 100 | 2026-07-13 |
+| #7695 | [ad-si/Woxi](https://github.com/ad-si/Woxi) | Rust · ⭐ 648 | 2026-07-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7782,3 +7782,4 @@ If you need permission, you're thinking too much.
 | 7692 | 2026-07-13 16:30:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (273147⭐ Python) | [reels/reel_7692_practical-tutorials-project-based-learning](reels/reel_7692_practical-tutorials-project-based-learning) |
 | 7693 | 2026-07-13 18:17:51 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196292⭐ TypeScript) | [reels/reel_7693_n8n-io-n8n](reels/reel_7693_n8n-io-n8n) |
 | 7694 | 2026-07-13 19:56:50 | [ProjectSidewalk/SidewalkWebpage](https://github.com/ProjectSidewalk/SidewalkWebpage) | ✅ readme_only (100⭐ JavaScript) | [reels/reel_7694_ProjectSidewalk-SidewalkWebpage](reels/reel_7694_ProjectSidewalk-SidewalkWebpage) |
+| 7695 | 2026-07-13 20:58:15 | [ad-si/Woxi](https://github.com/ad-si/Woxi) | ✅ full (648⭐ Rust) | [reels/reel_7695_ad-si-Woxi](reels/reel_7695_ad-si-Woxi) |
