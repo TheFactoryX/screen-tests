@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7689 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 177k | 2026-07-13 |
+| #7690 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 196k | 2026-07-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7777,3 +7777,4 @@ If you need permission, you're thinking too much.
 | 7687 | 2026-07-13 01:13:41 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (177582⭐ Python) | [reels/reel_7687_yt-dlp-yt-dlp](reels/reel_7687_yt-dlp-yt-dlp) |
 | 7688 | 2026-07-13 04:48:39 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305004⭐ None) | [reels/reel_7688_awesome-selfhosted-awesome-selfhosted](reels/reel_7688_awesome-selfhosted-awesome-selfhosted) |
 | 7689 | 2026-07-13 08:14:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (177629⭐ Python) | [reels/reel_7689_yt-dlp-yt-dlp](reels/reel_7689_yt-dlp-yt-dlp) |
+| 7690 | 2026-07-13 11:30:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196256⭐ TypeScript) | [reels/reel_7690_n8n-io-n8n](reels/reel_7690_n8n-io-n8n) |
