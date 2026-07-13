@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7691 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 151k | 2026-07-13 |
+| #7692 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 273k | 2026-07-13 |
 ---
 
 ## 🎭 Selection Process
@@ -7779,3 +7779,4 @@ If you need permission, you're thinking too much.
 | 7689 | 2026-07-13 08:14:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (177629⭐ Python) | [reels/reel_7689_yt-dlp-yt-dlp](reels/reel_7689_yt-dlp-yt-dlp) |
 | 7690 | 2026-07-13 11:30:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196256⭐ TypeScript) | [reels/reel_7690_n8n-io-n8n](reels/reel_7690_n8n-io-n8n) |
 | 7691 | 2026-07-13 13:48:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151808⭐ Python) | [reels/reel_7691_langflow-ai-langflow](reels/reel_7691_langflow-ai-langflow) |
+| 7692 | 2026-07-13 16:30:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (273147⭐ Python) | [reels/reel_7692_practical-tutorials-project-based-learning](reels/reel_7692_practical-tutorials-project-based-learning) |
