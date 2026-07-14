@@ -1,0 +1,24 @@
+{
+  "reel_number": 7712,
+  "recorded": "2026-07-14 23:12:40 UTC",
+  "repository": {
+    "full_name": "aiskillstore/marketplace",
+    "url": "https://github.com/aiskillstore/marketplace",
+    "clone_url": "https://github.com/aiskillstore/marketplace.git",
+    "stars": 384,
+    "language": "Python",
+    "size_kb": 327674
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 319,
+    "duration_seconds": 11.404212
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 384 stars."
+  }
+}
