@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7709 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 131k | 2026-07-14 |
+| #7710 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 151k | 2026-07-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7797,3 +7797,4 @@ If you need permission, you're thinking too much.
 | 7707 | 2026-07-14 17:34:09 | [delta-io/delta-sharing](https://github.com/delta-io/delta-sharing) | ✅ full (951⭐ Scala) | [reels/reel_7707_delta-io-delta-sharing](reels/reel_7707_delta-io-delta-sharing) |
 | 7708 | 2026-07-14 18:46:38 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (177979⭐ Python) | [reels/reel_7708_yt-dlp-yt-dlp](reels/reel_7708_yt-dlp-yt-dlp) |
 | 7709 | 2026-07-14 20:08:28 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (131488⭐ TypeScript) | [reels/reel_7709_clash-verge-rev-clash-verge-rev](reels/reel_7709_clash-verge-rev-clash-verge-rev) |
+| 7710 | 2026-07-14 21:13:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151878⭐ Python) | [reels/reel_7710_langflow-ai-langflow](reels/reel_7710_langflow-ai-langflow) |
