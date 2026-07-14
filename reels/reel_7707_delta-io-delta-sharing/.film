@@ -1,0 +1,24 @@
+{
+  "reel_number": 7707,
+  "recorded": "2026-07-14 17:34:09 UTC",
+  "repository": {
+    "full_name": "delta-io/delta-sharing",
+    "url": "https://github.com/delta-io/delta-sharing",
+    "clone_url": "https://github.com/delta-io/delta-sharing.git",
+    "stars": 951,
+    "language": "Scala",
+    "size_kb": 3875
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 1.47853
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Scala",
+    "director_note": "A Scala repository. 951 stars."
+  }
+}
