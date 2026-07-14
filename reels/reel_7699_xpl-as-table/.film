@@ -1,0 +1,24 @@
+{
+  "reel_number": 7699,
+  "recorded": "2026-07-14 03:32:05 UTC",
+  "repository": {
+    "full_name": "xpl/as-table",
+    "url": "https://github.com/xpl/as-table",
+    "clone_url": "https://github.com/xpl/as-table.git",
+    "stars": 66,
+    "language": "JavaScript",
+    "size_kb": 990
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.554653
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 66 stars."
+  }
+}
