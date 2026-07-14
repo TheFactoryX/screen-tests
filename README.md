@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7697 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 120k | 2026-07-13 |
+| #7698 | [magewirephp/magewire](https://github.com/magewirephp/magewire) | JavaScript · ⭐ 262 | 2026-07-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7785,3 +7785,4 @@ If you need permission, you're thinking too much.
 | 7695 | 2026-07-13 20:58:15 | [ad-si/Woxi](https://github.com/ad-si/Woxi) | ✅ full (648⭐ Rust) | [reels/reel_7695_ad-si-Woxi](reels/reel_7695_ad-si-Woxi) |
 | 7696 | 2026-07-13 22:00:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305219⭐ None) | [reels/reel_7696_awesome-selfhosted-awesome-selfhosted](reels/reel_7696_awesome-selfhosted-awesome-selfhosted) |
 | 7697 | 2026-07-13 23:12:08 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120618⭐ Python) | [reels/reel_7697_Comfy-Org-ComfyUI](reels/reel_7697_Comfy-Org-ComfyUI) |
+| 7698 | 2026-07-14 00:07:21 | [magewirephp/magewire](https://github.com/magewirephp/magewire) | ✅ full (262⭐ JavaScript) | [reels/reel_7698_magewirephp-magewire](reels/reel_7698_magewirephp-magewire) |
