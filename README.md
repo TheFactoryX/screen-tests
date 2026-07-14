@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7700 | [elasticdotventures/_b00t_](https://github.com/elasticdotventures/_b00t_) | Rust · ⭐ 13 | 2026-07-14 |
+| #7701 | [linweizhang/manga-stream-vault](https://github.com/linweizhang/manga-stream-vault) | HTML · ⭐ 151 | 2026-07-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7788,3 +7788,4 @@ If you need permission, you're thinking too much.
 | 7698 | 2026-07-14 00:07:21 | [magewirephp/magewire](https://github.com/magewirephp/magewire) | ✅ full (262⭐ JavaScript) | [reels/reel_7698_magewirephp-magewire](reels/reel_7698_magewirephp-magewire) |
 | 7699 | 2026-07-14 03:32:05 | [xpl/as-table](https://github.com/xpl/as-table) | ✅ full (66⭐ JavaScript) | [reels/reel_7699_xpl-as-table](reels/reel_7699_xpl-as-table) |
 | 7700 | 2026-07-14 05:56:11 | [elasticdotventures/_b00t_](https://github.com/elasticdotventures/_b00t_) | ✅ full (13⭐ Rust) | [reels/reel_7700_elasticdotventures-_b00t_](reels/reel_7700_elasticdotventures-_b00t_) |
+| 7701 | 2026-07-14 08:05:09 | [linweizhang/manga-stream-vault](https://github.com/linweizhang/manga-stream-vault) | ✅ full (151⭐ HTML) | [reels/reel_7701_linweizhang-manga-stream-vault](reels/reel_7701_linweizhang-manga-stream-vault) |
