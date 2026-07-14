@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7702 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 120k | 2026-07-14 |
+| #7703 | [CCSH/IPTV](https://github.com/CCSH/IPTV) | Python · ⭐ 360 | 2026-07-14 |
 ---
 
 ## 🎭 Selection Process
@@ -7790,3 +7790,4 @@ If you need permission, you're thinking too much.
 | 7700 | 2026-07-14 05:56:11 | [elasticdotventures/_b00t_](https://github.com/elasticdotventures/_b00t_) | ✅ full (13⭐ Rust) | [reels/reel_7700_elasticdotventures-_b00t_](reels/reel_7700_elasticdotventures-_b00t_) |
 | 7701 | 2026-07-14 08:05:09 | [linweizhang/manga-stream-vault](https://github.com/linweizhang/manga-stream-vault) | ✅ full (151⭐ HTML) | [reels/reel_7701_linweizhang-manga-stream-vault](reels/reel_7701_linweizhang-manga-stream-vault) |
 | 7702 | 2026-07-14 10:09:36 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120682⭐ Python) | [reels/reel_7702_Comfy-Org-ComfyUI](reels/reel_7702_Comfy-Org-ComfyUI) |
+| 7703 | 2026-07-14 11:43:15 | [CCSH/IPTV](https://github.com/CCSH/IPTV) | ✅ readme_only (360⭐ Python) | [reels/reel_7703_CCSH-IPTV](reels/reel_7703_CCSH-IPTV) |
