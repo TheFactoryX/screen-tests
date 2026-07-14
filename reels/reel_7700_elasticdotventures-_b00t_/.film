@@ -1,0 +1,24 @@
+{
+  "reel_number": 7700,
+  "recorded": "2026-07-14 05:56:11 UTC",
+  "repository": {
+    "full_name": "elasticdotventures/_b00t_",
+    "url": "https://github.com/elasticdotventures/_b00t_",
+    "clone_url": "https://github.com/elasticdotventures/_b00t_.git",
+    "stars": 13,
+    "language": "Rust",
+    "size_kb": 56807
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 55,
+    "duration_seconds": 2.166424
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 13 stars."
+  }
+}
