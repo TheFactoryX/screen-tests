@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7712 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | Python · ⭐ 384 | 2026-07-14 |
+| #7713 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 196k | 2026-07-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7800,3 +7800,4 @@ If you need permission, you're thinking too much.
 | 7710 | 2026-07-14 21:13:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (151878⭐ Python) | [reels/reel_7710_langflow-ai-langflow](reels/reel_7710_langflow-ai-langflow) |
 | 7711 | 2026-07-14 22:14:35 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (141778⭐ Python) | [reels/reel_7711_langchain-ai-langchain](reels/reel_7711_langchain-ai-langchain) |
 | 7712 | 2026-07-14 23:12:40 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | ✅ shallow (384⭐ Python) | [reels/reel_7712_aiskillstore-marketplace](reels/reel_7712_aiskillstore-marketplace) |
+| 7713 | 2026-07-15 00:05:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196445⭐ TypeScript) | [reels/reel_7713_n8n-io-n8n](reels/reel_7713_n8n-io-n8n) |
