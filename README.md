@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7726 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 145k | 2026-07-15 |
+| #7727 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 230k | 2026-07-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7814,3 +7814,4 @@ If you need permission, you're thinking too much.
 | 7724 | 2026-07-15 20:41:15 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (116264⭐ None) | [reels/reel_7724_Hack-with-Github-Awesome-Hacking](reels/reel_7724_Hack-with-Github-Awesome-Hacking) |
 | 7725 | 2026-07-15 21:38:47 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (119195⭐ TypeScript) | [reels/reel_7725_shadcn-ui-ui](reels/reel_7725_shadcn-ui-ui) |
 | 7726 | 2026-07-15 22:39:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (145550⭐ Python) | [reels/reel_7726_open-webui-open-webui](reels/reel_7726_open-webui-open-webui) |
+| 7727 | 2026-07-15 23:40:02 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (230110⭐ JavaScript) | [reels/reel_7727_affaan-m-ECC](reels/reel_7727_affaan-m-ECC) |
