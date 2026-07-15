@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7724 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 116k | 2026-07-15 |
+| #7725 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 119k | 2026-07-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7812,3 +7812,4 @@ If you need permission, you're thinking too much.
 | 7722 | 2026-07-15 18:04:26 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (525529⭐ Markdown) | [reels/reel_7722_codecrafters-io-build-your-own-x](reels/reel_7722_codecrafters-io-build-your-own-x) |
 | 7723 | 2026-07-15 19:35:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (178220⭐ Python) | [reels/reel_7723_yt-dlp-yt-dlp](reels/reel_7723_yt-dlp-yt-dlp) |
 | 7724 | 2026-07-15 20:41:15 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (116264⭐ None) | [reels/reel_7724_Hack-with-Github-Awesome-Hacking](reels/reel_7724_Hack-with-Github-Awesome-Hacking) |
+| 7725 | 2026-07-15 21:38:47 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (119195⭐ TypeScript) | [reels/reel_7725_shadcn-ui-ui](reels/reel_7725_shadcn-ui-ui) |
