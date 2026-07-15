@@ -1,0 +1,24 @@
+{
+  "reel_number": 7720,
+  "recorded": "2026-07-15 15:24:20 UTC",
+  "repository": {
+    "full_name": "microsoft/conductor",
+    "url": "https://github.com/microsoft/conductor",
+    "clone_url": "https://github.com/microsoft/conductor.git",
+    "stars": 322,
+    "language": "Python",
+    "size_kb": 5002
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 3.207786
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 322 stars."
+  }
+}
