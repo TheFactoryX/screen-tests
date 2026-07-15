@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7715 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 120k | 2026-07-15 |
+| #7716 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 178k | 2026-07-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7803,3 +7803,4 @@ If you need permission, you're thinking too much.
 | 7713 | 2026-07-15 00:05:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196445⭐ TypeScript) | [reels/reel_7713_n8n-io-n8n](reels/reel_7713_n8n-io-n8n) |
 | 7714 | 2026-07-15 03:32:43 | [Norconex/crawler](https://github.com/Norconex/crawler) | ✅ full (203⭐ Java) | [reels/reel_7714_Norconex-crawler](reels/reel_7714_Norconex-crawler) |
 | 7715 | 2026-07-15 05:58:20 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120763⭐ Python) | [reels/reel_7715_Comfy-Org-ComfyUI](reels/reel_7715_Comfy-Org-ComfyUI) |
+| 7716 | 2026-07-15 08:24:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (178101⭐ Python) | [reels/reel_7716_yt-dlp-yt-dlp](reels/reel_7716_yt-dlp-yt-dlp) |
