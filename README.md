@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7717 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 109k | 2026-07-15 |
+| #7718 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | None · ⭐ 481 | 2026-07-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7805,3 +7805,4 @@ If you need permission, you're thinking too much.
 | 7715 | 2026-07-15 05:58:20 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120763⭐ Python) | [reels/reel_7715_Comfy-Org-ComfyUI](reels/reel_7715_Comfy-Org-ComfyUI) |
 | 7716 | 2026-07-15 08:24:40 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (178101⭐ Python) | [reels/reel_7716_yt-dlp-yt-dlp](reels/reel_7716_yt-dlp-yt-dlp) |
 | 7717 | 2026-07-15 10:19:25 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109074⭐ Rust) | [reels/reel_7717_tauri-apps-tauri](reels/reel_7717_tauri-apps-tauri) |
+| 7718 | 2026-07-15 11:56:56 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ shallow (481⭐ None) | [reels/reel_7718_zloi-user-hideip.me](reels/reel_7718_zloi-user-hideip.me) |
