@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7722 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 525k | 2026-07-15 |
+| #7723 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 178k | 2026-07-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7810,3 +7810,4 @@ If you need permission, you're thinking too much.
 | 7720 | 2026-07-15 15:24:20 | [microsoft/conductor](https://github.com/microsoft/conductor) | ✅ full (322⭐ Python) | [reels/reel_7720_microsoft-conductor](reels/reel_7720_microsoft-conductor) |
 | 7721 | 2026-07-15 16:50:08 | [desihub/LSS](https://github.com/desihub/LSS) | ✅ full (20⭐ Jupyter Notebook) | [reels/reel_7721_desihub-LSS](reels/reel_7721_desihub-LSS) |
 | 7722 | 2026-07-15 18:04:26 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (525529⭐ Markdown) | [reels/reel_7722_codecrafters-io-build-your-own-x](reels/reel_7722_codecrafters-io-build-your-own-x) |
+| 7723 | 2026-07-15 19:35:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (178220⭐ Python) | [reels/reel_7723_yt-dlp-yt-dlp](reels/reel_7723_yt-dlp-yt-dlp) |
