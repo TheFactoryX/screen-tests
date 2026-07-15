@@ -1,0 +1,24 @@
+{
+  "reel_number": 7714,
+  "recorded": "2026-07-15 03:32:43 UTC",
+  "repository": {
+    "full_name": "Norconex/crawler",
+    "url": "https://github.com/Norconex/crawler",
+    "clone_url": "https://github.com/Norconex/crawler.git",
+    "stars": 203,
+    "language": "Java",
+    "size_kb": 20108
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 19,
+    "duration_seconds": 1.774148
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 203 stars."
+  }
+}
