@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7714 | [Norconex/crawler](https://github.com/Norconex/crawler) | Java · ⭐ 203 | 2026-07-15 |
+| #7715 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 120k | 2026-07-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7802,3 +7802,4 @@ If you need permission, you're thinking too much.
 | 7712 | 2026-07-14 23:12:40 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | ✅ shallow (384⭐ Python) | [reels/reel_7712_aiskillstore-marketplace](reels/reel_7712_aiskillstore-marketplace) |
 | 7713 | 2026-07-15 00:05:47 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196445⭐ TypeScript) | [reels/reel_7713_n8n-io-n8n](reels/reel_7713_n8n-io-n8n) |
 | 7714 | 2026-07-15 03:32:43 | [Norconex/crawler](https://github.com/Norconex/crawler) | ✅ full (203⭐ Java) | [reels/reel_7714_Norconex-crawler](reels/reel_7714_Norconex-crawler) |
+| 7715 | 2026-07-15 05:58:20 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (120763⭐ Python) | [reels/reel_7715_Comfy-Org-ComfyUI](reels/reel_7715_Comfy-Org-ComfyUI) |
