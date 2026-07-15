@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7720 | [microsoft/conductor](https://github.com/microsoft/conductor) | Python · ⭐ 322 | 2026-07-15 |
+| #7721 | [desihub/LSS](https://github.com/desihub/LSS) | Jupyter Notebook · ⭐ 20 | 2026-07-15 |
 ---
 
 ## 🎭 Selection Process
@@ -7808,3 +7808,4 @@ If you need permission, you're thinking too much.
 | 7718 | 2026-07-15 11:56:56 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ shallow (481⭐ None) | [reels/reel_7718_zloi-user-hideip.me](reels/reel_7718_zloi-user-hideip.me) |
 | 7719 | 2026-07-15 13:47:27 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (273463⭐ Python) | [reels/reel_7719_practical-tutorials-project-based-learning](reels/reel_7719_practical-tutorials-project-based-learning) |
 | 7720 | 2026-07-15 15:24:20 | [microsoft/conductor](https://github.com/microsoft/conductor) | ✅ full (322⭐ Python) | [reels/reel_7720_microsoft-conductor](reels/reel_7720_microsoft-conductor) |
+| 7721 | 2026-07-15 16:50:08 | [desihub/LSS](https://github.com/desihub/LSS) | ✅ full (20⭐ Jupyter Notebook) | [reels/reel_7721_desihub-LSS](reels/reel_7721_desihub-LSS) |
