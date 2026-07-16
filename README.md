@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7732 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 305k | 2026-07-16 |
+| #7733 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7820,3 +7820,4 @@ If you need permission, you're thinking too much.
 | 7730 | 2026-07-16 06:41:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (273578⭐ Python) | [reels/reel_7730_practical-tutorials-project-based-learning](reels/reel_7730_practical-tutorials-project-based-learning) |
 | 7731 | 2026-07-16 09:01:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305813⭐ None) | [reels/reel_7731_awesome-selfhosted-awesome-selfhosted](reels/reel_7731_awesome-selfhosted-awesome-selfhosted) |
 | 7732 | 2026-07-16 11:11:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305840⭐ None) | [reels/reel_7732_awesome-selfhosted-awesome-selfhosted](reels/reel_7732_awesome-selfhosted-awesome-selfhosted) |
+| 7733 | 2026-07-16 12:51:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185577⭐ Python) | [reels/reel_7733_Significant-Gravitas-AutoGPT](reels/reel_7733_Significant-Gravitas-AutoGPT) |
