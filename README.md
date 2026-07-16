@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7731 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 305k | 2026-07-16 |
+| #7732 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 305k | 2026-07-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7819,3 +7819,4 @@ If you need permission, you're thinking too much.
 | 7729 | 2026-07-16 04:24:48 | [lukehaas/RunJS](https://github.com/lukehaas/RunJS) | ✅ shallow (2162⭐ None) | [reels/reel_7729_lukehaas-RunJS](reels/reel_7729_lukehaas-RunJS) |
 | 7730 | 2026-07-16 06:41:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (273578⭐ Python) | [reels/reel_7730_practical-tutorials-project-based-learning](reels/reel_7730_practical-tutorials-project-based-learning) |
 | 7731 | 2026-07-16 09:01:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305813⭐ None) | [reels/reel_7731_awesome-selfhosted-awesome-selfhosted](reels/reel_7731_awesome-selfhosted-awesome-selfhosted) |
+| 7732 | 2026-07-16 11:11:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305840⭐ None) | [reels/reel_7732_awesome-selfhosted-awesome-selfhosted](reels/reel_7732_awesome-selfhosted-awesome-selfhosted) |
