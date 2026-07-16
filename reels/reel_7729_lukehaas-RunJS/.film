@@ -1,0 +1,24 @@
+{
+  "reel_number": 7729,
+  "recorded": "2026-07-16 04:24:48 UTC",
+  "repository": {
+    "full_name": "lukehaas/RunJS",
+    "url": "https://github.com/lukehaas/RunJS",
+    "clone_url": "https://github.com/lukehaas/RunJS.git",
+    "stars": 2162,
+    "language": null,
+    "size_kb": 105188
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 102,
+    "duration_seconds": 0.474969
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 2162 stars."
+  }
+}

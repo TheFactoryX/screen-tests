@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7728 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-16 |
+| #7729 | [lukehaas/RunJS](https://github.com/lukehaas/RunJS) | None · ⭐ 2k | 2026-07-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7816,3 +7816,4 @@ If you need permission, you're thinking too much.
 | 7726 | 2026-07-15 22:39:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (145550⭐ Python) | [reels/reel_7726_open-webui-open-webui](reels/reel_7726_open-webui-open-webui) |
 | 7727 | 2026-07-15 23:40:02 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (230110⭐ JavaScript) | [reels/reel_7727_affaan-m-ECC](reels/reel_7727_affaan-m-ECC) |
 | 7728 | 2026-07-16 01:07:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185566⭐ Python) | [reels/reel_7728_Significant-Gravitas-AutoGPT](reels/reel_7728_Significant-Gravitas-AutoGPT) |
+| 7729 | 2026-07-16 04:24:48 | [lukehaas/RunJS](https://github.com/lukehaas/RunJS) | ✅ shallow (2162⭐ None) | [reels/reel_7729_lukehaas-RunJS](reels/reel_7729_lukehaas-RunJS) |
