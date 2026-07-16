@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7733 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-16 |
+| #7734 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 141k | 2026-07-16 |
 ---
 
 ## 🎭 Selection Process
@@ -7821,3 +7821,4 @@ If you need permission, you're thinking too much.
 | 7731 | 2026-07-16 09:01:49 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305813⭐ None) | [reels/reel_7731_awesome-selfhosted-awesome-selfhosted](reels/reel_7731_awesome-selfhosted-awesome-selfhosted) |
 | 7732 | 2026-07-16 11:11:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (305840⭐ None) | [reels/reel_7732_awesome-selfhosted-awesome-selfhosted](reels/reel_7732_awesome-selfhosted-awesome-selfhosted) |
 | 7733 | 2026-07-16 12:51:08 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185577⭐ Python) | [reels/reel_7733_Significant-Gravitas-AutoGPT](reels/reel_7733_Significant-Gravitas-AutoGPT) |
+| 7734 | 2026-07-16 14:58:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (141914⭐ Python) | [reels/reel_7734_langchain-ai-langchain](reels/reel_7734_langchain-ai-langchain) |
