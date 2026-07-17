@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7748 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 141k | 2026-07-17 |
+| #7749 | [felladrin/MiniSearch](https://github.com/felladrin/MiniSearch) | TypeScript · ⭐ 576 | 2026-07-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7836,3 +7836,4 @@ If you need permission, you're thinking too much.
 | 7746 | 2026-07-17 14:01:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133144⭐ TypeScript) | [reels/reel_7746_iptv-org-iptv](reels/reel_7746_iptv-org-iptv) |
 | 7747 | 2026-07-17 15:38:34 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (730⭐ Tcl) | [reels/reel_7747_rust-lang-crates.io-index](reels/reel_7747_rust-lang-crates.io-index) |
 | 7748 | 2026-07-17 16:45:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (141996⭐ Python) | [reels/reel_7748_langchain-ai-langchain](reels/reel_7748_langchain-ai-langchain) |
+| 7749 | 2026-07-17 18:03:51 | [felladrin/MiniSearch](https://github.com/felladrin/MiniSearch) | ✅ full (576⭐ TypeScript) | [reels/reel_7749_felladrin-MiniSearch](reels/reel_7749_felladrin-MiniSearch) |

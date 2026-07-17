@@ -1,0 +1,24 @@
+{
+  "reel_number": 7749,
+  "recorded": "2026-07-17 18:03:51 UTC",
+  "repository": {
+    "full_name": "felladrin/MiniSearch",
+    "url": "https://github.com/felladrin/MiniSearch",
+    "clone_url": "https://github.com/felladrin/MiniSearch.git",
+    "stars": 576,
+    "language": "TypeScript",
+    "size_kb": 32163
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 31,
+    "duration_seconds": 1.948641
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 576 stars."
+  }
+}
