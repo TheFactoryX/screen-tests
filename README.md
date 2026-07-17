@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7747 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 730 | 2026-07-17 |
+| #7748 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 141k | 2026-07-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7835,3 +7835,4 @@ If you need permission, you're thinking too much.
 | 7745 | 2026-07-17 12:07:19 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132078⭐ TypeScript) | [reels/reel_7745_clash-verge-rev-clash-verge-rev](reels/reel_7745_clash-verge-rev-clash-verge-rev) |
 | 7746 | 2026-07-17 14:01:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133144⭐ TypeScript) | [reels/reel_7746_iptv-org-iptv](reels/reel_7746_iptv-org-iptv) |
 | 7747 | 2026-07-17 15:38:34 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (730⭐ Tcl) | [reels/reel_7747_rust-lang-crates.io-index](reels/reel_7747_rust-lang-crates.io-index) |
+| 7748 | 2026-07-17 16:45:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (141996⭐ Python) | [reels/reel_7748_langchain-ai-langchain](reels/reel_7748_langchain-ai-langchain) |
