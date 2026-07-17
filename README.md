@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7743 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 145k | 2026-07-17 |
+| #7744 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 526k | 2026-07-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7831,3 +7831,4 @@ If you need permission, you're thinking too much.
 | 7741 | 2026-07-17 04:23:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185579⭐ Python) | [reels/reel_7741_Significant-Gravitas-AutoGPT](reels/reel_7741_Significant-Gravitas-AutoGPT) |
 | 7742 | 2026-07-17 06:36:39 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132019⭐ TypeScript) | [reels/reel_7742_clash-verge-rev-clash-verge-rev](reels/reel_7742_clash-verge-rev-clash-verge-rev) |
 | 7743 | 2026-07-17 08:56:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (145718⭐ Python) | [reels/reel_7743_open-webui-open-webui](reels/reel_7743_open-webui-open-webui) |
+| 7744 | 2026-07-17 10:48:21 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (526764⭐ Markdown) | [reels/reel_7744_codecrafters-io-build-your-own-x](reels/reel_7744_codecrafters-io-build-your-own-x) |
