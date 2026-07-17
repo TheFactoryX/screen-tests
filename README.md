@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7745 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 132k | 2026-07-17 |
+| #7746 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 133k | 2026-07-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7833,3 +7833,4 @@ If you need permission, you're thinking too much.
 | 7743 | 2026-07-17 08:56:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (145718⭐ Python) | [reels/reel_7743_open-webui-open-webui](reels/reel_7743_open-webui-open-webui) |
 | 7744 | 2026-07-17 10:48:21 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (526764⭐ Markdown) | [reels/reel_7744_codecrafters-io-build-your-own-x](reels/reel_7744_codecrafters-io-build-your-own-x) |
 | 7745 | 2026-07-17 12:07:19 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132078⭐ TypeScript) | [reels/reel_7745_clash-verge-rev-clash-verge-rev](reels/reel_7745_clash-verge-rev-clash-verge-rev) |
+| 7746 | 2026-07-17 14:01:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133144⭐ TypeScript) | [reels/reel_7746_iptv-org-iptv](reels/reel_7746_iptv-org-iptv) |
