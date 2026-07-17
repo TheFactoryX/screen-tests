@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7744 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 526k | 2026-07-17 |
+| #7745 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 132k | 2026-07-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7832,3 +7832,4 @@ If you need permission, you're thinking too much.
 | 7742 | 2026-07-17 06:36:39 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132019⭐ TypeScript) | [reels/reel_7742_clash-verge-rev-clash-verge-rev](reels/reel_7742_clash-verge-rev-clash-verge-rev) |
 | 7743 | 2026-07-17 08:56:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (145718⭐ Python) | [reels/reel_7743_open-webui-open-webui](reels/reel_7743_open-webui-open-webui) |
 | 7744 | 2026-07-17 10:48:21 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (526764⭐ Markdown) | [reels/reel_7744_codecrafters-io-build-your-own-x](reels/reel_7744_codecrafters-io-build-your-own-x) |
+| 7745 | 2026-07-17 12:07:19 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132078⭐ TypeScript) | [reels/reel_7745_clash-verge-rev-clash-verge-rev](reels/reel_7745_clash-verge-rev-clash-verge-rev) |
