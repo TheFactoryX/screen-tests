@@ -1,0 +1,24 @@
+{
+  "reel_number": 7740,
+  "recorded": "2026-07-17 01:01:30 UTC",
+  "repository": {
+    "full_name": "Seafoam-Labs/Shelly-ALPM",
+    "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+    "clone_url": "https://github.com/Seafoam-Labs/Shelly-ALPM.git",
+    "stars": 862,
+    "language": "Zig",
+    "size_kb": 14828
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 1.237237
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Zig",
+    "director_note": "A Zig repository. 862 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7739 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 230k | 2026-07-16 |
+| #7740 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | Zig · ⭐ 862 | 2026-07-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7827,3 +7827,4 @@ If you need permission, you're thinking too much.
 | 7737 | 2026-07-16 19:06:01 | [The412Banner/Nightlies](https://github.com/The412Banner/Nightlies) | ✅ shallow (104⭐ Shell) | [reels/reel_7737_The412Banner-Nightlies](reels/reel_7737_The412Banner-Nightlies) |
 | 7738 | 2026-07-16 20:10:57 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140727⭐ Python) | [reels/reel_7738_ytdl-org-youtube-dl](reels/reel_7738_ytdl-org-youtube-dl) |
 | 7739 | 2026-07-16 21:15:41 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (230317⭐ JavaScript) | [reels/reel_7739_affaan-m-ECC](reels/reel_7739_affaan-m-ECC) |
+| 7740 | 2026-07-17 01:01:30 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | ✅ full (862⭐ Zig) | [reels/reel_7740_Seafoam-Labs-Shelly-ALPM](reels/reel_7740_Seafoam-Labs-Shelly-ALPM) |
