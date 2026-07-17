@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7742 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 132k | 2026-07-17 |
+| #7743 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 145k | 2026-07-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7830,3 +7830,4 @@ If you need permission, you're thinking too much.
 | 7740 | 2026-07-17 01:01:30 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | ✅ full (862⭐ Zig) | [reels/reel_7740_Seafoam-Labs-Shelly-ALPM](reels/reel_7740_Seafoam-Labs-Shelly-ALPM) |
 | 7741 | 2026-07-17 04:23:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185579⭐ Python) | [reels/reel_7741_Significant-Gravitas-AutoGPT](reels/reel_7741_Significant-Gravitas-AutoGPT) |
 | 7742 | 2026-07-17 06:36:39 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132019⭐ TypeScript) | [reels/reel_7742_clash-verge-rev-clash-verge-rev](reels/reel_7742_clash-verge-rev-clash-verge-rev) |
+| 7743 | 2026-07-17 08:56:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (145718⭐ Python) | [reels/reel_7743_open-webui-open-webui](reels/reel_7743_open-webui-open-webui) |
