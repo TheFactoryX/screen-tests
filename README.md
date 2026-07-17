@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7750 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-17 |
+| #7751 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 120k | 2026-07-17 |
 ---
 
 ## 🎭 Selection Process
@@ -7838,3 +7838,4 @@ If you need permission, you're thinking too much.
 | 7748 | 2026-07-17 16:45:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (141996⭐ Python) | [reels/reel_7748_langchain-ai-langchain](reels/reel_7748_langchain-ai-langchain) |
 | 7749 | 2026-07-17 18:03:51 | [felladrin/MiniSearch](https://github.com/felladrin/MiniSearch) | ✅ full (576⭐ TypeScript) | [reels/reel_7749_felladrin-MiniSearch](reels/reel_7749_felladrin-MiniSearch) |
 | 7750 | 2026-07-17 19:31:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185586⭐ Python) | [reels/reel_7750_Significant-Gravitas-AutoGPT](reels/reel_7750_Significant-Gravitas-AutoGPT) |
+| 7751 | 2026-07-17 20:32:01 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (120732⭐ C++) | [reels/reel_7751_ggml-org-llama.cpp](reels/reel_7751_ggml-org-llama.cpp) |
