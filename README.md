@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7768 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 178k | 2026-07-18 |
+| #7769 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 121k | 2026-07-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7856,3 +7856,4 @@ If you need permission, you're thinking too much.
 | 7766 | 2026-07-18 17:54:46 | [fahad-hamid/psique-workflow-clinic](https://github.com/fahad-hamid/psique-workflow-clinic) | ✅ full (153⭐ HTML) | [reels/reel_7766_fahad-hamid-psique-workflow-clinic](reels/reel_7766_fahad-hamid-psique-workflow-clinic) |
 | 7767 | 2026-07-18 19:00:27 | [pynbody/pynbody](https://github.com/pynbody/pynbody) | ✅ shallow (192⭐ Python) | [reels/reel_7767_pynbody-pynbody](reels/reel_7767_pynbody-pynbody) |
 | 7768 | 2026-07-18 20:07:20 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (178714⭐ Python) | [reels/reel_7768_yt-dlp-yt-dlp](reels/reel_7768_yt-dlp-yt-dlp) |
+| 7769 | 2026-07-18 21:05:22 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (121308⭐ Python) | [reels/reel_7769_Comfy-Org-ComfyUI](reels/reel_7769_Comfy-Org-ComfyUI) |
