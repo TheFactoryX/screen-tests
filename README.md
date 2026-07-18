@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7757 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 119k | 2026-07-18 |
+| #7758 | [polytope-labs/hyperbridge](https://github.com/polytope-labs/hyperbridge) | Rust · ⭐ 215 | 2026-07-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7845,3 +7845,4 @@ If you need permission, you're thinking too much.
 | 7755 | 2026-07-18 01:04:57 | [terrier-org/pyterrier](https://github.com/terrier-org/pyterrier) | ✅ full (508⭐ Jupyter Notebook) | [reels/reel_7755_terrier-org-pyterrier](reels/reel_7755_terrier-org-pyterrier) |
 | 7756 | 2026-07-18 04:13:19 | [semantic-release/github](https://github.com/semantic-release/github) | ✅ full (524⭐ JavaScript) | [reels/reel_7756_semantic-release-github](reels/reel_7756_semantic-release-github) |
 | 7757 | 2026-07-18 06:20:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (119217⭐ TypeScript) | [reels/reel_7757_shadcn-ui-ui](reels/reel_7757_shadcn-ui-ui) |
+| 7758 | 2026-07-18 08:18:03 | [polytope-labs/hyperbridge](https://github.com/polytope-labs/hyperbridge) | ✅ full (215⭐ Rust) | [reels/reel_7758_polytope-labs-hyperbridge](reels/reel_7758_polytope-labs-hyperbridge) |
