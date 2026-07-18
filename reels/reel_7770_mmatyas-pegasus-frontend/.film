@@ -1,0 +1,24 @@
+{
+  "reel_number": 7770,
+  "recorded": "2026-07-18 22:06:11 UTC",
+  "repository": {
+    "full_name": "mmatyas/pegasus-frontend",
+    "url": "https://github.com/mmatyas/pegasus-frontend",
+    "clone_url": "https://github.com/mmatyas/pegasus-frontend.git",
+    "stars": 1838,
+    "language": "C++",
+    "size_kb": 371489
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 362,
+    "duration_seconds": 0.501575
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 1838 stars."
+  }
+}
