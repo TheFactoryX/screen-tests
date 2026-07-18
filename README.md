@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7754 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 109k | 2026-07-17 |
+| #7755 | [terrier-org/pyterrier](https://github.com/terrier-org/pyterrier) | Jupyter Notebook · ⭐ 508 | 2026-07-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7842,3 +7842,4 @@ If you need permission, you're thinking too much.
 | 7752 | 2026-07-17 21:32:26 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (306196⭐ None) | [reels/reel_7752_awesome-selfhosted-awesome-selfhosted](reels/reel_7752_awesome-selfhosted-awesome-selfhosted) |
 | 7753 | 2026-07-17 22:30:37 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (306209⭐ None) | [reels/reel_7753_awesome-selfhosted-awesome-selfhosted](reels/reel_7753_awesome-selfhosted-awesome-selfhosted) |
 | 7754 | 2026-07-17 23:33:31 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109171⭐ Rust) | [reels/reel_7754_tauri-apps-tauri](reels/reel_7754_tauri-apps-tauri) |
+| 7755 | 2026-07-18 01:04:57 | [terrier-org/pyterrier](https://github.com/terrier-org/pyterrier) | ✅ full (508⭐ Jupyter Notebook) | [reels/reel_7755_terrier-org-pyterrier](reels/reel_7755_terrier-org-pyterrier) |
