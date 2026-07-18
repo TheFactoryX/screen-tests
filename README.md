@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7762 | [Godofcong-1/erArk](https://github.com/Godofcong-1/erArk) | Python · ⭐ 370 | 2026-07-18 |
+| #7763 | [rafajordanhelo/Offline-Vault](https://github.com/rafajordanhelo/Offline-Vault) | HTML · ⭐ 151 | 2026-07-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7850,3 +7850,4 @@ If you need permission, you're thinking too much.
 | 7760 | 2026-07-18 11:01:38 | [faltikeras/stream-deck](https://github.com/faltikeras/stream-deck) | ✅ full (151⭐ HTML) | [reels/reel_7760_faltikeras-stream-deck](reels/reel_7760_faltikeras-stream-deck) |
 | 7761 | 2026-07-18 12:03:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (116419⭐ None) | [reels/reel_7761_Hack-with-Github-Awesome-Hacking](reels/reel_7761_Hack-with-Github-Awesome-Hacking) |
 | 7762 | 2026-07-18 13:47:16 | [Godofcong-1/erArk](https://github.com/Godofcong-1/erArk) | ✅ readme_only (370⭐ Python) | [reels/reel_7762_Godofcong-1-erArk](reels/reel_7762_Godofcong-1-erArk) |
+| 7763 | 2026-07-18 14:49:38 | [rafajordanhelo/Offline-Vault](https://github.com/rafajordanhelo/Offline-Vault) | ✅ full (151⭐ HTML) | [reels/reel_7763_rafajordanhelo-Offline-Vault](reels/reel_7763_rafajordanhelo-Offline-Vault) |
