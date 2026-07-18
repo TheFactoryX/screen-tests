@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7758 | [polytope-labs/hyperbridge](https://github.com/polytope-labs/hyperbridge) | Rust · ⭐ 215 | 2026-07-18 |
+| #7759 | [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | Go · ⭐ 2k | 2026-07-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7846,3 +7846,4 @@ If you need permission, you're thinking too much.
 | 7756 | 2026-07-18 04:13:19 | [semantic-release/github](https://github.com/semantic-release/github) | ✅ full (524⭐ JavaScript) | [reels/reel_7756_semantic-release-github](reels/reel_7756_semantic-release-github) |
 | 7757 | 2026-07-18 06:20:11 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (119217⭐ TypeScript) | [reels/reel_7757_shadcn-ui-ui](reels/reel_7757_shadcn-ui-ui) |
 | 7758 | 2026-07-18 08:18:03 | [polytope-labs/hyperbridge](https://github.com/polytope-labs/hyperbridge) | ✅ full (215⭐ Rust) | [reels/reel_7758_polytope-labs-hyperbridge](reels/reel_7758_polytope-labs-hyperbridge) |
+| 7759 | 2026-07-18 09:55:11 | [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | ✅ full (2418⭐ Go) | [reels/reel_7759_RezaSi-go-interview-practice](reels/reel_7759_RezaSi-go-interview-practice) |
