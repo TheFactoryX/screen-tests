@@ -1,0 +1,24 @@
+{
+  "reel_number": 7756,
+  "recorded": "2026-07-18 04:13:19 UTC",
+  "repository": {
+    "full_name": "semantic-release/github",
+    "url": "https://github.com/semantic-release/github",
+    "clone_url": "https://github.com/semantic-release/github.git",
+    "stars": 524,
+    "language": "JavaScript",
+    "size_kb": 4406
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 1.271191
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 524 stars."
+  }
+}
