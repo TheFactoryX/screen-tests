@@ -1,0 +1,24 @@
+{
+  "reel_number": 7762,
+  "recorded": "2026-07-18 13:47:16 UTC",
+  "repository": {
+    "full_name": "Godofcong-1/erArk",
+    "url": "https://github.com/Godofcong-1/erArk",
+    "clone_url": "https://github.com/Godofcong-1/erArk.git",
+    "stars": 370,
+    "language": "Python",
+    "size_kb": 892992
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 872,
+    "duration_seconds": 0.00014
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 370 stars."
+  }
+}
