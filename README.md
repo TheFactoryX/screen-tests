@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7766 | [fahad-hamid/psique-workflow-clinic](https://github.com/fahad-hamid/psique-workflow-clinic) | HTML · ⭐ 153 | 2026-07-18 |
+| #7767 | [pynbody/pynbody](https://github.com/pynbody/pynbody) | Python · ⭐ 192 | 2026-07-18 |
 ---
 
 ## 🎭 Selection Process
@@ -7854,3 +7854,4 @@ If you need permission, you're thinking too much.
 | 7764 | 2026-07-18 15:54:26 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142052⭐ Python) | [reels/reel_7764_langchain-ai-langchain](reels/reel_7764_langchain-ai-langchain) |
 | 7765 | 2026-07-18 16:55:26 | [iAmCorey/kooky](https://github.com/iAmCorey/kooky) | ✅ full (546⭐ Swift) | [reels/reel_7765_iAmCorey-kooky](reels/reel_7765_iAmCorey-kooky) |
 | 7766 | 2026-07-18 17:54:46 | [fahad-hamid/psique-workflow-clinic](https://github.com/fahad-hamid/psique-workflow-clinic) | ✅ full (153⭐ HTML) | [reels/reel_7766_fahad-hamid-psique-workflow-clinic](reels/reel_7766_fahad-hamid-psique-workflow-clinic) |
+| 7767 | 2026-07-18 19:00:27 | [pynbody/pynbody](https://github.com/pynbody/pynbody) | ✅ shallow (192⭐ Python) | [reels/reel_7767_pynbody-pynbody](reels/reel_7767_pynbody-pynbody) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 7767,
+  "recorded": "2026-07-18 19:00:27 UTC",
+  "repository": {
+    "full_name": "pynbody/pynbody",
+    "url": "https://github.com/pynbody/pynbody",
+    "clone_url": "https://github.com/pynbody/pynbody.git",
+    "stars": 192,
+    "language": "Python",
+    "size_kb": 274810
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 268,
+    "duration_seconds": 0.925342
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 192 stars."
+  }
+}
