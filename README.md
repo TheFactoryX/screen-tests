@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7772 | [Etheirys/Brio](https://github.com/Etheirys/Brio) | C# · ⭐ 102 | 2026-07-19 |
+| #7773 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 120k | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7860,3 +7860,4 @@ If you need permission, you're thinking too much.
 | 7770 | 2026-07-18 22:06:11 | [mmatyas/pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) | ✅ shallow (1838⭐ C++) | [reels/reel_7770_mmatyas-pegasus-frontend](reels/reel_7770_mmatyas-pegasus-frontend) |
 | 7771 | 2026-07-18 23:09:40 | [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) | ✅ readme_only (1965⭐ JavaScript) | [reels/reel_7771_WordPress-wordpress-playground](reels/reel_7771_WordPress-wordpress-playground) |
 | 7772 | 2026-07-19 00:09:09 | [Etheirys/Brio](https://github.com/Etheirys/Brio) | ✅ full (102⭐ C#) | [reels/reel_7772_Etheirys-Brio](reels/reel_7772_Etheirys-Brio) |
+| 7773 | 2026-07-19 03:52:54 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (120868⭐ C++) | [reels/reel_7773_ggml-org-llama.cpp](reels/reel_7773_ggml-org-llama.cpp) |
