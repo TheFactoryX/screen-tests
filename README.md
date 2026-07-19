@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7784 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 178k | 2026-07-19 |
+| #7785 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 142k | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7872,3 +7872,4 @@ If you need permission, you're thinking too much.
 | 7782 | 2026-07-19 17:17:16 | [vczh-libraries/Tools](https://github.com/vczh-libraries/Tools) | ✅ full (129⭐ C++) | [reels/reel_7782_vczh-libraries-Tools](reels/reel_7782_vczh-libraries-Tools) |
 | 7783 | 2026-07-19 18:26:24 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (107950⭐ Shell) | [reels/reel_7783_papers-we-love-papers-we-love](reels/reel_7783_papers-we-love-papers-we-love) |
 | 7784 | 2026-07-19 19:40:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (178906⭐ Python) | [reels/reel_7784_yt-dlp-yt-dlp](reels/reel_7784_yt-dlp-yt-dlp) |
+| 7785 | 2026-07-19 20:28:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142096⭐ Python) | [reels/reel_7785_langchain-ai-langchain](reels/reel_7785_langchain-ai-langchain) |
