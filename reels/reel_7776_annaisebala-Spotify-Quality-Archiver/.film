@@ -1,0 +1,24 @@
+{
+  "reel_number": 7776,
+  "recorded": "2026-07-19 10:25:13 UTC",
+  "repository": {
+    "full_name": "annaisebala/Spotify-Quality-Archiver",
+    "url": "https://github.com/annaisebala/Spotify-Quality-Archiver",
+    "clone_url": "https://github.com/annaisebala/Spotify-Quality-Archiver.git",
+    "stars": 152,
+    "language": "HTML",
+    "size_kb": 387
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.69096
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 152 stars."
+  }
+}
