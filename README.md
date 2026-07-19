@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7786 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 451k | 2026-07-19 |
+| #7787 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 231k | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7874,3 +7874,4 @@ If you need permission, you're thinking too much.
 | 7784 | 2026-07-19 19:40:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (178906⭐ Python) | [reels/reel_7784_yt-dlp-yt-dlp](reels/reel_7784_yt-dlp-yt-dlp) |
 | 7785 | 2026-07-19 20:28:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142096⭐ Python) | [reels/reel_7785_langchain-ai-langchain](reels/reel_7785_langchain-ai-langchain) |
 | 7786 | 2026-07-19 21:26:17 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (451391⭐ Python) | [reels/reel_7786_public-apis-public-apis](reels/reel_7786_public-apis-public-apis) |
+| 7787 | 2026-07-19 22:26:01 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (231210⭐ JavaScript) | [reels/reel_7787_affaan-m-ECC](reels/reel_7787_affaan-m-ECC) |
