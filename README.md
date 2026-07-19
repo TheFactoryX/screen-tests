@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7781 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 132k | 2026-07-19 |
+| #7782 | [vczh-libraries/Tools](https://github.com/vczh-libraries/Tools) | C++ · ⭐ 129 | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7869,3 +7869,4 @@ If you need permission, you're thinking too much.
 | 7779 | 2026-07-19 14:11:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133328⭐ TypeScript) | [reels/reel_7779_iptv-org-iptv](reels/reel_7779_iptv-org-iptv) |
 | 7780 | 2026-07-19 15:14:55 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132380⭐ TypeScript) | [reels/reel_7780_clash-verge-rev-clash-verge-rev](reels/reel_7780_clash-verge-rev-clash-verge-rev) |
 | 7781 | 2026-07-19 16:12:49 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132390⭐ TypeScript) | [reels/reel_7781_clash-verge-rev-clash-verge-rev](reels/reel_7781_clash-verge-rev-clash-verge-rev) |
+| 7782 | 2026-07-19 17:17:16 | [vczh-libraries/Tools](https://github.com/vczh-libraries/Tools) | ✅ full (129⭐ C++) | [reels/reel_7782_vczh-libraries-Tools](reels/reel_7782_vczh-libraries-Tools) |
