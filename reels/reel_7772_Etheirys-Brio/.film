@@ -1,0 +1,24 @@
+{
+  "reel_number": 7772,
+  "recorded": "2026-07-19 00:09:09 UTC",
+  "repository": {
+    "full_name": "Etheirys/Brio",
+    "url": "https://github.com/Etheirys/Brio",
+    "clone_url": "https://github.com/Etheirys/Brio.git",
+    "stars": 102,
+    "language": "C#",
+    "size_kb": 55406
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 54,
+    "duration_seconds": 2.178914
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 102 stars."
+  }
+}
