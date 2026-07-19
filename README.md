@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7779 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 133k | 2026-07-19 |
+| #7780 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 132k | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7867,3 +7867,4 @@ If you need permission, you're thinking too much.
 | 7777 | 2026-07-19 11:35:12 | [gma1k/podtrace](https://github.com/gma1k/podtrace) | ✅ full (185⭐ Go) | [reels/reel_7777_gma1k-podtrace](reels/reel_7777_gma1k-podtrace) |
 | 7778 | 2026-07-19 12:35:41 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (231072⭐ JavaScript) | [reels/reel_7778_affaan-m-ECC](reels/reel_7778_affaan-m-ECC) |
 | 7779 | 2026-07-19 14:11:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133328⭐ TypeScript) | [reels/reel_7779_iptv-org-iptv](reels/reel_7779_iptv-org-iptv) |
+| 7780 | 2026-07-19 15:14:55 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132380⭐ TypeScript) | [reels/reel_7780_clash-verge-rev-clash-verge-rev](reels/reel_7780_clash-verge-rev-clash-verge-rev) |
