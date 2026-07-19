@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7782 | [vczh-libraries/Tools](https://github.com/vczh-libraries/Tools) | C++ · ⭐ 129 | 2026-07-19 |
+| #7783 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | Shell · ⭐ 107k | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7870,3 +7870,4 @@ If you need permission, you're thinking too much.
 | 7780 | 2026-07-19 15:14:55 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132380⭐ TypeScript) | [reels/reel_7780_clash-verge-rev-clash-verge-rev](reels/reel_7780_clash-verge-rev-clash-verge-rev) |
 | 7781 | 2026-07-19 16:12:49 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132390⭐ TypeScript) | [reels/reel_7781_clash-verge-rev-clash-verge-rev](reels/reel_7781_clash-verge-rev-clash-verge-rev) |
 | 7782 | 2026-07-19 17:17:16 | [vczh-libraries/Tools](https://github.com/vczh-libraries/Tools) | ✅ full (129⭐ C++) | [reels/reel_7782_vczh-libraries-Tools](reels/reel_7782_vczh-libraries-Tools) |
+| 7783 | 2026-07-19 18:26:24 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | ✅ shallow (107950⭐ Shell) | [reels/reel_7783_papers-we-love-papers-we-love](reels/reel_7783_papers-we-love-papers-we-love) |
