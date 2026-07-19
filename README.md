@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7777 | [gma1k/podtrace](https://github.com/gma1k/podtrace) | Go · ⭐ 185 | 2026-07-19 |
+| #7778 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 231k | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7865,3 +7865,4 @@ If you need permission, you're thinking too much.
 | 7775 | 2026-07-19 08:53:40 | [cstaelen/tidarr](https://github.com/cstaelen/tidarr) | ✅ full (611⭐ TypeScript) | [reels/reel_7775_cstaelen-tidarr](reels/reel_7775_cstaelen-tidarr) |
 | 7776 | 2026-07-19 10:25:13 | [annaisebala/Spotify-Quality-Archiver](https://github.com/annaisebala/Spotify-Quality-Archiver) | ✅ full (152⭐ HTML) | [reels/reel_7776_annaisebala-Spotify-Quality-Archiver](reels/reel_7776_annaisebala-Spotify-Quality-Archiver) |
 | 7777 | 2026-07-19 11:35:12 | [gma1k/podtrace](https://github.com/gma1k/podtrace) | ✅ full (185⭐ Go) | [reels/reel_7777_gma1k-podtrace](reels/reel_7777_gma1k-podtrace) |
+| 7778 | 2026-07-19 12:35:41 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (231072⭐ JavaScript) | [reels/reel_7778_affaan-m-ECC](reels/reel_7778_affaan-m-ECC) |
