@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7778 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 231k | 2026-07-19 |
+| #7779 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 133k | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7866,3 +7866,4 @@ If you need permission, you're thinking too much.
 | 7776 | 2026-07-19 10:25:13 | [annaisebala/Spotify-Quality-Archiver](https://github.com/annaisebala/Spotify-Quality-Archiver) | ✅ full (152⭐ HTML) | [reels/reel_7776_annaisebala-Spotify-Quality-Archiver](reels/reel_7776_annaisebala-Spotify-Quality-Archiver) |
 | 7777 | 2026-07-19 11:35:12 | [gma1k/podtrace](https://github.com/gma1k/podtrace) | ✅ full (185⭐ Go) | [reels/reel_7777_gma1k-podtrace](reels/reel_7777_gma1k-podtrace) |
 | 7778 | 2026-07-19 12:35:41 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (231072⭐ JavaScript) | [reels/reel_7778_affaan-m-ECC](reels/reel_7778_affaan-m-ECC) |
+| 7779 | 2026-07-19 14:11:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133328⭐ TypeScript) | [reels/reel_7779_iptv-org-iptv](reels/reel_7779_iptv-org-iptv) |
