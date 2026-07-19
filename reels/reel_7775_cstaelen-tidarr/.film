@@ -1,0 +1,24 @@
+{
+  "reel_number": 7775,
+  "recorded": "2026-07-19 08:53:40 UTC",
+  "repository": {
+    "full_name": "cstaelen/tidarr",
+    "url": "https://github.com/cstaelen/tidarr",
+    "clone_url": "https://github.com/cstaelen/tidarr.git",
+    "stars": 611,
+    "language": "TypeScript",
+    "size_kb": 16402
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 2.719429
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 611 stars."
+  }
+}

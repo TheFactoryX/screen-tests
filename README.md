@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7774 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 196k | 2026-07-19 |
+| #7775 | [cstaelen/tidarr](https://github.com/cstaelen/tidarr) | TypeScript · ⭐ 611 | 2026-07-19 |
 ---
 
 ## 🎭 Selection Process
@@ -7862,3 +7862,4 @@ If you need permission, you're thinking too much.
 | 7772 | 2026-07-19 00:09:09 | [Etheirys/Brio](https://github.com/Etheirys/Brio) | ✅ full (102⭐ C#) | [reels/reel_7772_Etheirys-Brio](reels/reel_7772_Etheirys-Brio) |
 | 7773 | 2026-07-19 03:52:54 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (120868⭐ C++) | [reels/reel_7773_ggml-org-llama.cpp](reels/reel_7773_ggml-org-llama.cpp) |
 | 7774 | 2026-07-19 06:27:32 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (196994⭐ TypeScript) | [reels/reel_7774_n8n-io-n8n](reels/reel_7774_n8n-io-n8n) |
+| 7775 | 2026-07-19 08:53:40 | [cstaelen/tidarr](https://github.com/cstaelen/tidarr) | ✅ full (611⭐ TypeScript) | [reels/reel_7775_cstaelen-tidarr](reels/reel_7775_cstaelen-tidarr) |
