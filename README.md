@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7795 | [alignoth/alignoth](https://github.com/alignoth/alignoth) | Rust · ⭐ 132 | 2026-07-20 |
+| #7796 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 529k | 2026-07-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7883,3 +7883,4 @@ If you need permission, you're thinking too much.
 | 7793 | 2026-07-20 13:03:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142159⭐ Python) | [reels/reel_7793_langchain-ai-langchain](reels/reel_7793_langchain-ai-langchain) |
 | 7794 | 2026-07-20 15:20:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (146073⭐ Python) | [reels/reel_7794_open-webui-open-webui](reels/reel_7794_open-webui-open-webui) |
 | 7795 | 2026-07-20 16:53:34 | [alignoth/alignoth](https://github.com/alignoth/alignoth) | ✅ full (132⭐ Rust) | [reels/reel_7795_alignoth-alignoth](reels/reel_7795_alignoth-alignoth) |
+| 7796 | 2026-07-20 18:50:44 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (529381⭐ Markdown) | [reels/reel_7796_codecrafters-io-build-your-own-x](reels/reel_7796_codecrafters-io-build-your-own-x) |
