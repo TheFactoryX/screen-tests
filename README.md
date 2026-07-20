@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7792 | [decocms/studio](https://github.com/decocms/studio) | TypeScript · ⭐ 391 | 2026-07-20 |
+| #7793 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 142k | 2026-07-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7880,3 +7880,4 @@ If you need permission, you're thinking too much.
 | 7790 | 2026-07-20 04:51:05 | [fecommunity/reactpress](https://github.com/fecommunity/reactpress) | ✅ full (735⭐ TypeScript) | [reels/reel_7790_fecommunity-reactpress](reels/reel_7790_fecommunity-reactpress) |
 | 7791 | 2026-07-20 07:56:18 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (529138⭐ Markdown) | [reels/reel_7791_codecrafters-io-build-your-own-x](reels/reel_7791_codecrafters-io-build-your-own-x) |
 | 7792 | 2026-07-20 10:52:26 | [decocms/studio](https://github.com/decocms/studio) | ✅ shallow (391⭐ TypeScript) | [reels/reel_7792_decocms-studio](reels/reel_7792_decocms-studio) |
+| 7793 | 2026-07-20 13:03:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142159⭐ Python) | [reels/reel_7793_langchain-ai-langchain](reels/reel_7793_langchain-ai-langchain) |
