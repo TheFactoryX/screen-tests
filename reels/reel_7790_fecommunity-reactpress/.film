@@ -1,0 +1,24 @@
+{
+  "reel_number": 7790,
+  "recorded": "2026-07-20 04:51:05 UTC",
+  "repository": {
+    "full_name": "fecommunity/reactpress",
+    "url": "https://github.com/fecommunity/reactpress",
+    "clone_url": "https://github.com/fecommunity/reactpress.git",
+    "stars": 735,
+    "language": "TypeScript",
+    "size_kb": 43540
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 42,
+    "duration_seconds": 1.29044
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 735 stars."
+  }
+}
