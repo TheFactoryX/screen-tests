@@ -1,0 +1,24 @@
+{
+  "reel_number": 7795,
+  "recorded": "2026-07-20 16:53:34 UTC",
+  "repository": {
+    "full_name": "alignoth/alignoth",
+    "url": "https://github.com/alignoth/alignoth",
+    "clone_url": "https://github.com/alignoth/alignoth.git",
+    "stars": 132,
+    "language": "Rust",
+    "size_kb": 1647
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.581153
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 132 stars."
+  }
+}
