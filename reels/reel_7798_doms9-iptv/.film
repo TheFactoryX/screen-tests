@@ -1,0 +1,24 @@
+{
+  "reel_number": 7798,
+  "recorded": "2026-07-20 21:41:30 UTC",
+  "repository": {
+    "full_name": "doms9/iptv",
+    "url": "https://github.com/doms9/iptv",
+    "clone_url": "https://github.com/doms9/iptv.git",
+    "stars": 209,
+    "language": "Python",
+    "size_kb": 469321
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 458,
+    "duration_seconds": 0.725599
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 209 stars."
+  }
+}
