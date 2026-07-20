@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7798 | [doms9/iptv](https://github.com/doms9/iptv) | Python · ⭐ 209 | 2026-07-20 |
+| #7799 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7886,3 +7886,4 @@ If you need permission, you're thinking too much.
 | 7796 | 2026-07-20 18:50:44 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (529381⭐ Markdown) | [reels/reel_7796_codecrafters-io-build-your-own-x](reels/reel_7796_codecrafters-io-build-your-own-x) |
 | 7797 | 2026-07-20 20:18:34 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (194683⭐ None) | [reels/reel_7797_multica-ai-andrej-karpathy-skills](reels/reel_7797_multica-ai-andrej-karpathy-skills) |
 | 7798 | 2026-07-20 21:41:30 | [doms9/iptv](https://github.com/doms9/iptv) | ✅ shallow (209⭐ Python) | [reels/reel_7798_doms9-iptv](reels/reel_7798_doms9-iptv) |
+| 7799 | 2026-07-20 22:39:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185620⭐ Python) | [reels/reel_7799_Significant-Gravitas-AutoGPT](reels/reel_7799_Significant-Gravitas-AutoGPT) |
