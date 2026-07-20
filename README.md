@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7788 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 145k | 2026-07-19 |
+| #7789 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 116k | 2026-07-20 |
 ---
 
 ## 🎭 Selection Process
@@ -7876,3 +7876,4 @@ If you need permission, you're thinking too much.
 | 7786 | 2026-07-19 21:26:17 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (451391⭐ Python) | [reels/reel_7786_public-apis-public-apis](reels/reel_7786_public-apis-public-apis) |
 | 7787 | 2026-07-19 22:26:01 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (231210⭐ JavaScript) | [reels/reel_7787_affaan-m-ECC](reels/reel_7787_affaan-m-ECC) |
 | 7788 | 2026-07-19 23:29:03 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (145982⭐ Python) | [reels/reel_7788_open-webui-open-webui](reels/reel_7788_open-webui-open-webui) |
+| 7789 | 2026-07-20 01:06:26 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (116516⭐ None) | [reels/reel_7789_Hack-with-Github-Awesome-Hacking](reels/reel_7789_Hack-with-Github-Awesome-Hacking) |
