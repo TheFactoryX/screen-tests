@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7806 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 274k | 2026-07-21 |
+| #7807 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 179k | 2026-07-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7894,3 +7894,4 @@ If you need permission, you're thinking too much.
 | 7804 | 2026-07-21 10:00:04 | [wikimedia/pywikibot](https://github.com/wikimedia/pywikibot) | ✅ full (763⭐ Python) | [reels/reel_7804_wikimedia-pywikibot](reels/reel_7804_wikimedia-pywikibot) |
 | 7805 | 2026-07-21 11:53:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (307098⭐ None) | [reels/reel_7805_awesome-selfhosted-awesome-selfhosted](reels/reel_7805_awesome-selfhosted-awesome-selfhosted) |
 | 7806 | 2026-07-21 13:43:44 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (274510⭐ Python) | [reels/reel_7806_practical-tutorials-project-based-learning](reels/reel_7806_practical-tutorials-project-based-learning) |
+| 7807 | 2026-07-21 15:25:22 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (179299⭐ Python) | [reels/reel_7807_yt-dlp-yt-dlp](reels/reel_7807_yt-dlp-yt-dlp) |
