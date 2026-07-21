@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7810 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 114k | 2026-07-21 |
+| #7811 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 133k | 2026-07-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7898,3 +7898,4 @@ If you need permission, you're thinking too much.
 | 7808 | 2026-07-21 16:53:23 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152161⭐ Python) | [reels/reel_7808_langflow-ai-langflow](reels/reel_7808_langflow-ai-langflow) |
 | 7809 | 2026-07-21 18:14:16 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132914⭐ TypeScript) | [reels/reel_7809_clash-verge-rev-clash-verge-rev](reels/reel_7809_clash-verge-rev-clash-verge-rev) |
 | 7810 | 2026-07-21 19:53:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (114757⭐ Rust) | [reels/reel_7810_rust-lang-rust](reels/reel_7810_rust-lang-rust) |
+| 7811 | 2026-07-21 21:05:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133993⭐ TypeScript) | [reels/reel_7811_iptv-org-iptv](reels/reel_7811_iptv-org-iptv) |
