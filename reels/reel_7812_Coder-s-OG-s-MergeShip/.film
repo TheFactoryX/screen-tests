@@ -1,0 +1,24 @@
+{
+  "reel_number": 7812,
+  "recorded": "2026-07-21 22:11:45 UTC",
+  "repository": {
+    "full_name": "Coder-s-OG-s/MergeShip",
+    "url": "https://github.com/Coder-s-OG-s/MergeShip",
+    "clone_url": "https://github.com/Coder-s-OG-s/MergeShip.git",
+    "stars": 21,
+    "language": "TypeScript",
+    "size_kb": 1861
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.62864
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 21 stars."
+  }
+}
