@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7801 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-21 |
+| #7802 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 132k | 2026-07-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7889,3 +7889,4 @@ If you need permission, you're thinking too much.
 | 7799 | 2026-07-20 22:39:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185620⭐ Python) | [reels/reel_7799_Significant-Gravitas-AutoGPT](reels/reel_7799_Significant-Gravitas-AutoGPT) |
 | 7800 | 2026-07-20 23:39:38 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (108306⭐ TypeScript) | [reels/reel_7800_immich-app-immich](reels/reel_7800_immich-app-immich) |
 | 7801 | 2026-07-21 01:08:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185621⭐ Python) | [reels/reel_7801_Significant-Gravitas-AutoGPT](reels/reel_7801_Significant-Gravitas-AutoGPT) |
+| 7802 | 2026-07-21 04:31:00 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132742⭐ TypeScript) | [reels/reel_7802_clash-verge-rev-clash-verge-rev](reels/reel_7802_clash-verge-rev-clash-verge-rev) |
