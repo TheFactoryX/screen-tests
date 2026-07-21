@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7812 | [Coder-s-OG-s/MergeShip](https://github.com/Coder-s-OG-s/MergeShip) | TypeScript · ⭐ 21 | 2026-07-21 |
+| #7813 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-07-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7900,3 +7900,4 @@ If you need permission, you're thinking too much.
 | 7810 | 2026-07-21 19:53:38 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (114757⭐ Rust) | [reels/reel_7810_rust-lang-rust](reels/reel_7810_rust-lang-rust) |
 | 7811 | 2026-07-21 21:05:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133993⭐ TypeScript) | [reels/reel_7811_iptv-org-iptv](reels/reel_7811_iptv-org-iptv) |
 | 7812 | 2026-07-21 22:11:45 | [Coder-s-OG-s/MergeShip](https://github.com/Coder-s-OG-s/MergeShip) | ✅ full (21⭐ TypeScript) | [reels/reel_7812_Coder-s-OG-s-MergeShip](reels/reel_7812_Coder-s-OG-s-MergeShip) |
+| 7813 | 2026-07-21 23:12:01 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140770⭐ Python) | [reels/reel_7813_ytdl-org-youtube-dl](reels/reel_7813_ytdl-org-youtube-dl) |
