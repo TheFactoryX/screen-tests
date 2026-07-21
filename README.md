@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7803 | [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) | TypeScript · ⭐ 831 | 2026-07-21 |
+| #7804 | [wikimedia/pywikibot](https://github.com/wikimedia/pywikibot) | Python · ⭐ 763 | 2026-07-21 |
 ---
 
 ## 🎭 Selection Process
@@ -7891,3 +7891,4 @@ If you need permission, you're thinking too much.
 | 7801 | 2026-07-21 01:08:00 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185621⭐ Python) | [reels/reel_7801_Significant-Gravitas-AutoGPT](reels/reel_7801_Significant-Gravitas-AutoGPT) |
 | 7802 | 2026-07-21 04:31:00 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132742⭐ TypeScript) | [reels/reel_7802_clash-verge-rev-clash-verge-rev](reels/reel_7802_clash-verge-rev-clash-verge-rev) |
 | 7803 | 2026-07-21 07:19:26 | [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) | ✅ full (831⭐ TypeScript) | [reels/reel_7803_SylphxAI-pdf-reader-mcp](reels/reel_7803_SylphxAI-pdf-reader-mcp) |
+| 7804 | 2026-07-21 10:00:04 | [wikimedia/pywikibot](https://github.com/wikimedia/pywikibot) | ✅ full (763⭐ Python) | [reels/reel_7804_wikimedia-pywikibot](reels/reel_7804_wikimedia-pywikibot) |

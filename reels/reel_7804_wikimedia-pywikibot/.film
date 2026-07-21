@@ -1,0 +1,24 @@
+{
+  "reel_number": 7804,
+  "recorded": "2026-07-21 10:00:04 UTC",
+  "repository": {
+    "full_name": "wikimedia/pywikibot",
+    "url": "https://github.com/wikimedia/pywikibot",
+    "clone_url": "https://github.com/wikimedia/pywikibot.git",
+    "stars": 763,
+    "language": "Python",
+    "size_kb": 66764
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 65,
+    "duration_seconds": 5.410038
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 763 stars."
+  }
+}
