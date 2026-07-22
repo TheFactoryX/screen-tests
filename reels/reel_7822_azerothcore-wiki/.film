@@ -1,0 +1,24 @@
+{
+  "reel_number": 7822,
+  "recorded": "2026-07-22 17:55:32 UTC",
+  "repository": {
+    "full_name": "azerothcore/wiki",
+    "url": "https://github.com/azerothcore/wiki",
+    "clone_url": "https://github.com/azerothcore/wiki.git",
+    "stars": 126,
+    "language": "CSS",
+    "size_kb": 18275
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 2.69669
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 126 stars."
+  }
+}
