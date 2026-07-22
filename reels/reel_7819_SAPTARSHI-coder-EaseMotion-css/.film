@@ -1,0 +1,24 @@
+{
+  "reel_number": 7819,
+  "recorded": "2026-07-22 12:56:13 UTC",
+  "repository": {
+    "full_name": "SAPTARSHI-coder/EaseMotion-css",
+    "url": "https://github.com/SAPTARSHI-coder/EaseMotion-css",
+    "clone_url": "https://github.com/SAPTARSHI-coder/EaseMotion-css.git",
+    "stars": 240,
+    "language": "CSS",
+    "size_kb": 188746
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 184,
+    "duration_seconds": 7.539128
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 240 stars."
+  }
+}
