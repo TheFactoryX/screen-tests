@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7826 | [Crushmocalculate/DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide](https://github.com/Crushmocalculate/DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide) | None · ⭐ 22 | 2026-07-22 |
+| #7827 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 307k | 2026-07-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7914,3 +7914,4 @@ If you need permission, you're thinking too much.
 | 7824 | 2026-07-22 20:32:18 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (232187⭐ JavaScript) | [reels/reel_7824_affaan-m-ECC](reels/reel_7824_affaan-m-ECC) |
 | 7825 | 2026-07-22 21:43:48 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (119572⭐ TypeScript) | [reels/reel_7825_shadcn-ui-ui](reels/reel_7825_shadcn-ui-ui) |
 | 7826 | 2026-07-22 22:42:53 | [Crushmocalculate/DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide](https://github.com/Crushmocalculate/DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide) | ✅ full (22⭐ None) | [reels/reel_7826_Crushmocalculate-DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide](reels/reel_7826_Crushmocalculate-DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide) |
+| 7827 | 2026-07-22 23:42:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (307455⭐ None) | [reels/reel_7827_awesome-selfhosted-awesome-selfhosted](reels/reel_7827_awesome-selfhosted-awesome-selfhosted) |
