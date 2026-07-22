@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7819 | [SAPTARSHI-coder/EaseMotion-css](https://github.com/SAPTARSHI-coder/EaseMotion-css) | CSS · ⭐ 240 | 2026-07-22 |
+| #7820 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 530k | 2026-07-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7907,3 +7907,4 @@ If you need permission, you're thinking too much.
 | 7817 | 2026-07-22 09:08:01 | [Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core) | ✅ shallow (417⭐ Dart) | [reels/reel_7817_Moonfin-Client-Moonfin-Core](reels/reel_7817_Moonfin-Client-Moonfin-Core) |
 | 7818 | 2026-07-22 11:19:15 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (108432⭐ TypeScript) | [reels/reel_7818_immich-app-immich](reels/reel_7818_immich-app-immich) |
 | 7819 | 2026-07-22 12:56:13 | [SAPTARSHI-coder/EaseMotion-css](https://github.com/SAPTARSHI-coder/EaseMotion-css) | ✅ shallow (240⭐ CSS) | [reels/reel_7819_SAPTARSHI-coder-EaseMotion-css](reels/reel_7819_SAPTARSHI-coder-EaseMotion-css) |
+| 7820 | 2026-07-22 15:03:34 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (530079⭐ Markdown) | [reels/reel_7820_codecrafters-io-build-your-own-x](reels/reel_7820_codecrafters-io-build-your-own-x) |
