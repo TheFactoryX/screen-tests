@@ -1,0 +1,24 @@
+{
+  "reel_number": 7826,
+  "recorded": "2026-07-22 22:42:53 UTC",
+  "repository": {
+    "full_name": "Crushmocalculate/DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide",
+    "url": "https://github.com/Crushmocalculate/DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide",
+    "clone_url": "https://github.com/Crushmocalculate/DVDFab-12-Ultra-Blu-ray-Suite-Desktop-Setup-Guide.git",
+    "stars": 22,
+    "language": null,
+    "size_kb": 7
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.210597
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 22 stars."
+  }
+}
