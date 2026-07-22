@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7816 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-07-22 |
+| #7817 | [Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core) | Dart · ⭐ 417 | 2026-07-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7904,3 +7904,4 @@ If you need permission, you're thinking too much.
 | 7814 | 2026-07-22 00:07:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (133998⭐ TypeScript) | [reels/reel_7814_iptv-org-iptv](reels/reel_7814_iptv-org-iptv) |
 | 7815 | 2026-07-22 03:44:47 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (132966⭐ TypeScript) | [reels/reel_7815_clash-verge-rev-clash-verge-rev](reels/reel_7815_clash-verge-rev-clash-verge-rev) |
 | 7816 | 2026-07-22 06:15:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134015⭐ TypeScript) | [reels/reel_7816_iptv-org-iptv](reels/reel_7816_iptv-org-iptv) |
+| 7817 | 2026-07-22 09:08:01 | [Moonfin-Client/Moonfin-Core](https://github.com/Moonfin-Client/Moonfin-Core) | ✅ shallow (417⭐ Dart) | [reels/reel_7817_Moonfin-Client-Moonfin-Core](reels/reel_7817_Moonfin-Client-Moonfin-Core) |
