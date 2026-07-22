@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7823 | [khankamraan2006-crypto/fabric-router-core](https://github.com/khankamraan2006-crypto/fabric-router-core) | HTML · ⭐ 151 | 2026-07-22 |
+| #7824 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 232k | 2026-07-22 |
 ---
 
 ## 🎭 Selection Process
@@ -7911,3 +7911,4 @@ If you need permission, you're thinking too much.
 | 7821 | 2026-07-22 16:44:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (197471⭐ TypeScript) | [reels/reel_7821_n8n-io-n8n](reels/reel_7821_n8n-io-n8n) |
 | 7822 | 2026-07-22 17:55:32 | [azerothcore/wiki](https://github.com/azerothcore/wiki) | ✅ full (126⭐ CSS) | [reels/reel_7822_azerothcore-wiki](reels/reel_7822_azerothcore-wiki) |
 | 7823 | 2026-07-22 19:13:58 | [khankamraan2006-crypto/fabric-router-core](https://github.com/khankamraan2006-crypto/fabric-router-core) | ✅ full (151⭐ HTML) | [reels/reel_7823_khankamraan2006-crypto-fabric-router-core](reels/reel_7823_khankamraan2006-crypto-fabric-router-core) |
+| 7824 | 2026-07-22 20:32:18 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (232187⭐ JavaScript) | [reels/reel_7824_affaan-m-ECC](reels/reel_7824_affaan-m-ECC) |
