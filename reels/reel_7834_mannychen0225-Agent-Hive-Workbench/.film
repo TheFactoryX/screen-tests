@@ -1,0 +1,24 @@
+{
+  "reel_number": 7834,
+  "recorded": "2026-07-23 15:53:02 UTC",
+  "repository": {
+    "full_name": "mannychen0225/Agent-Hive-Workbench",
+    "url": "https://github.com/mannychen0225/Agent-Hive-Workbench",
+    "clone_url": "https://github.com/mannychen0225/Agent-Hive-Workbench.git",
+    "stars": 152,
+    "language": "HTML",
+    "size_kb": 473
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.30875
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 152 stars."
+  }
+}

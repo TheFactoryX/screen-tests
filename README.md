@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7833 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-07-23 |
+| #7834 | [mannychen0225/Agent-Hive-Workbench](https://github.com/mannychen0225/Agent-Hive-Workbench) | HTML · ⭐ 152 | 2026-07-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7921,3 +7921,4 @@ If you need permission, you're thinking too much.
 | 7831 | 2026-07-23 09:55:57 | [SonarSource/sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) | ✅ full (386⭐ C#) | [reels/reel_7831_SonarSource-sonar-scanner-msbuild](reels/reel_7831_SonarSource-sonar-scanner-msbuild) |
 | 7832 | 2026-07-23 11:49:48 | [foxzool/openlark](https://github.com/foxzool/openlark) | ✅ full (101⭐ Rust) | [reels/reel_7832_foxzool-openlark](reels/reel_7832_foxzool-openlark) |
 | 7833 | 2026-07-23 13:51:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134141⭐ TypeScript) | [reels/reel_7833_iptv-org-iptv](reels/reel_7833_iptv-org-iptv) |
+| 7834 | 2026-07-23 15:53:02 | [mannychen0225/Agent-Hive-Workbench](https://github.com/mannychen0225/Agent-Hive-Workbench) | ✅ full (152⭐ HTML) | [reels/reel_7834_mannychen0225-Agent-Hive-Workbench](reels/reel_7834_mannychen0225-Agent-Hive-Workbench) |
