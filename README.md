@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7834 | [mannychen0225/Agent-Hive-Workbench](https://github.com/mannychen0225/Agent-Hive-Workbench) | HTML · ⭐ 152 | 2026-07-23 |
+| #7835 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-07-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7922,3 +7922,4 @@ If you need permission, you're thinking too much.
 | 7832 | 2026-07-23 11:49:48 | [foxzool/openlark](https://github.com/foxzool/openlark) | ✅ full (101⭐ Rust) | [reels/reel_7832_foxzool-openlark](reels/reel_7832_foxzool-openlark) |
 | 7833 | 2026-07-23 13:51:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134141⭐ TypeScript) | [reels/reel_7833_iptv-org-iptv](reels/reel_7833_iptv-org-iptv) |
 | 7834 | 2026-07-23 15:53:02 | [mannychen0225/Agent-Hive-Workbench](https://github.com/mannychen0225/Agent-Hive-Workbench) | ✅ full (152⭐ HTML) | [reels/reel_7834_mannychen0225-Agent-Hive-Workbench](reels/reel_7834_mannychen0225-Agent-Hive-Workbench) |
+| 7835 | 2026-07-23 17:19:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152274⭐ Python) | [reels/reel_7835_langflow-ai-langflow](reels/reel_7835_langflow-ai-langflow) |
