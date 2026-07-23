@@ -1,0 +1,24 @@
+{
+  "reel_number": 7831,
+  "recorded": "2026-07-23 09:55:57 UTC",
+  "repository": {
+    "full_name": "SonarSource/sonar-scanner-msbuild",
+    "url": "https://github.com/SonarSource/sonar-scanner-msbuild",
+    "clone_url": "https://github.com/SonarSource/sonar-scanner-msbuild.git",
+    "stars": 386,
+    "language": "C#",
+    "size_kb": 19628
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 19,
+    "duration_seconds": 1.832557
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 386 stars."
+  }
+}
