@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7832 | [foxzool/openlark](https://github.com/foxzool/openlark) | Rust · ⭐ 101 | 2026-07-23 |
+| #7833 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-07-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7920,3 +7920,4 @@ If you need permission, you're thinking too much.
 | 7830 | 2026-07-23 07:17:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142378⭐ Python) | [reels/reel_7830_langchain-ai-langchain](reels/reel_7830_langchain-ai-langchain) |
 | 7831 | 2026-07-23 09:55:57 | [SonarSource/sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) | ✅ full (386⭐ C#) | [reels/reel_7831_SonarSource-sonar-scanner-msbuild](reels/reel_7831_SonarSource-sonar-scanner-msbuild) |
 | 7832 | 2026-07-23 11:49:48 | [foxzool/openlark](https://github.com/foxzool/openlark) | ✅ full (101⭐ Rust) | [reels/reel_7832_foxzool-openlark](reels/reel_7832_foxzool-openlark) |
+| 7833 | 2026-07-23 13:51:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134141⭐ TypeScript) | [reels/reel_7833_iptv-org-iptv](reels/reel_7833_iptv-org-iptv) |
