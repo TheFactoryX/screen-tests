@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7829 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 274k | 2026-07-23 |
+| #7830 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 142k | 2026-07-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7917,3 +7917,4 @@ If you need permission, you're thinking too much.
 | 7827 | 2026-07-22 23:42:43 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (307455⭐ None) | [reels/reel_7827_awesome-selfhosted-awesome-selfhosted](reels/reel_7827_awesome-selfhosted-awesome-selfhosted) |
 | 7828 | 2026-07-23 01:13:58 | [phase-rs/phase](https://github.com/phase-rs/phase) | ✅ shallow (201⭐ Rust) | [reels/reel_7828_phase-rs-phase](reels/reel_7828_phase-rs-phase) |
 | 7829 | 2026-07-23 04:35:56 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (274796⭐ Python) | [reels/reel_7829_practical-tutorials-project-based-learning](reels/reel_7829_practical-tutorials-project-based-learning) |
+| 7830 | 2026-07-23 07:17:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142378⭐ Python) | [reels/reel_7830_langchain-ai-langchain](reels/reel_7830_langchain-ai-langchain) |
