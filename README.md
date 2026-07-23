@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7838 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 146k | 2026-07-23 |
+| #7839 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 146k | 2026-07-23 |
 ---
 
 ## 🎭 Selection Process
@@ -7926,3 +7926,4 @@ If you need permission, you're thinking too much.
 | 7836 | 2026-07-23 18:44:35 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (146483⭐ Python) | [reels/reel_7836_open-webui-open-webui](reels/reel_7836_open-webui-open-webui) |
 | 7837 | 2026-07-23 20:01:07 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (452189⭐ Python) | [reels/reel_7837_public-apis-public-apis](reels/reel_7837_public-apis-public-apis) |
 | 7838 | 2026-07-23 21:20:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (146494⭐ Python) | [reels/reel_7838_open-webui-open-webui](reels/reel_7838_open-webui-open-webui) |
+| 7839 | 2026-07-23 22:30:23 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (146494⭐ Python) | [reels/reel_7839_open-webui-open-webui](reels/reel_7839_open-webui-open-webui) |
