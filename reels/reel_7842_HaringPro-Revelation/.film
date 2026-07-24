@@ -1,0 +1,24 @@
+{
+  "reel_number": 7842,
+  "recorded": "2026-07-24 04:30:59 UTC",
+  "repository": {
+    "full_name": "HaringPro/Revelation",
+    "url": "https://github.com/HaringPro/Revelation",
+    "clone_url": "https://github.com/HaringPro/Revelation.git",
+    "stars": 596,
+    "language": "GLSL",
+    "size_kb": 240192
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 234,
+    "duration_seconds": 3.842963
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "GLSL",
+    "director_note": "A GLSL repository. 596 stars."
+  }
+}
