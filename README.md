@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7843 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 197k | 2026-07-24 |
+| #7844 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 232k | 2026-07-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7931,3 +7931,4 @@ If you need permission, you're thinking too much.
 | 7841 | 2026-07-24 01:08:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (179726⭐ Python) | [reels/reel_7841_yt-dlp-yt-dlp](reels/reel_7841_yt-dlp-yt-dlp) |
 | 7842 | 2026-07-24 04:30:59 | [HaringPro/Revelation](https://github.com/HaringPro/Revelation) | ✅ shallow (596⭐ GLSL) | [reels/reel_7842_HaringPro-Revelation](reels/reel_7842_HaringPro-Revelation) |
 | 7843 | 2026-07-24 07:16:52 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (197709⭐ TypeScript) | [reels/reel_7843_n8n-io-n8n](reels/reel_7843_n8n-io-n8n) |
+| 7844 | 2026-07-24 09:43:01 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (232690⭐ JavaScript) | [reels/reel_7844_affaan-m-ECC](reels/reel_7844_affaan-m-ECC) |
