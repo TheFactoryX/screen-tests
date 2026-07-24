@@ -1,0 +1,24 @@
+{
+  "reel_number": 7853,
+  "recorded": "2026-07-24 23:16:55 UTC",
+  "repository": {
+    "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "clone_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+    "stars": 109786,
+    "language": "Python",
+    "size_kb": 7423
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 0.584379
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 109786 stars."
+  }
+}

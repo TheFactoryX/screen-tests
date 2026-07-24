@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7852 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 179k | 2026-07-24 |
+| #7853 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Python · ⭐ 109k | 2026-07-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7940,3 +7940,4 @@ If you need permission, you're thinking too much.
 | 7850 | 2026-07-24 19:45:32 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (734⭐ Tcl) | [reels/reel_7850_rust-lang-crates.io-index](reels/reel_7850_rust-lang-crates.io-index) |
 | 7851 | 2026-07-24 20:59:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152343⭐ Python) | [reels/reel_7851_langflow-ai-langflow](reels/reel_7851_langflow-ai-langflow) |
 | 7852 | 2026-07-24 22:12:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (179890⭐ Python) | [reels/reel_7852_yt-dlp-yt-dlp](reels/reel_7852_yt-dlp-yt-dlp) |
+| 7853 | 2026-07-24 23:16:55 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ✅ full (109786⭐ Python) | [reels/reel_7853_nextlevelbuilder-ui-ux-pro-max-skill](reels/reel_7853_nextlevelbuilder-ui-ux-pro-max-skill) |
