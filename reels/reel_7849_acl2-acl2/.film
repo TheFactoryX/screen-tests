@@ -1,0 +1,24 @@
+{
+  "reel_number": 7849,
+  "recorded": "2026-07-24 18:04:44 UTC",
+  "repository": {
+    "full_name": "acl2/acl2",
+    "url": "https://github.com/acl2/acl2",
+    "clone_url": "https://github.com/acl2/acl2.git",
+    "stars": 438,
+    "language": "Common Lisp",
+    "size_kb": 1410320
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1377,
+    "duration_seconds": 0.000151
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Common Lisp",
+    "director_note": "A Common Lisp repository. 438 stars."
+  }
+}

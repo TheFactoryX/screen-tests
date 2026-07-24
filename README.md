@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7848 | [kubernetes-sigs/contributor-playground](https://github.com/kubernetes-sigs/contributor-playground) | Dockerfile · ⭐ 278 | 2026-07-24 |
+| #7849 | [acl2/acl2](https://github.com/acl2/acl2) | Common Lisp · ⭐ 438 | 2026-07-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7936,3 +7936,4 @@ If you need permission, you're thinking too much.
 | 7846 | 2026-07-24 12:56:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (307878⭐ None) | [reels/reel_7846_awesome-selfhosted-awesome-selfhosted](reels/reel_7846_awesome-selfhosted-awesome-selfhosted) |
 | 7847 | 2026-07-24 14:55:39 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (232750⭐ JavaScript) | [reels/reel_7847_affaan-m-ECC](reels/reel_7847_affaan-m-ECC) |
 | 7848 | 2026-07-24 16:40:27 | [kubernetes-sigs/contributor-playground](https://github.com/kubernetes-sigs/contributor-playground) | ✅ shallow (278⭐ Dockerfile) | [reels/reel_7848_kubernetes-sigs-contributor-playground](reels/reel_7848_kubernetes-sigs-contributor-playground) |
+| 7849 | 2026-07-24 18:04:44 | [acl2/acl2](https://github.com/acl2/acl2) | ✅ readme_only (438⭐ Common Lisp) | [reels/reel_7849_acl2-acl2](reels/reel_7849_acl2-acl2) |
