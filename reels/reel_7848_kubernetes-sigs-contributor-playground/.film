@@ -1,0 +1,24 @@
+{
+  "reel_number": 7848,
+  "recorded": "2026-07-24 16:40:27 UTC",
+  "repository": {
+    "full_name": "kubernetes-sigs/contributor-playground",
+    "url": "https://github.com/kubernetes-sigs/contributor-playground",
+    "clone_url": "https://github.com/kubernetes-sigs/contributor-playground.git",
+    "stars": 278,
+    "language": "Dockerfile",
+    "size_kb": 103277
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 100,
+    "duration_seconds": 16.965304
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dockerfile",
+    "director_note": "A Dockerfile repository. 278 stars."
+  }
+}

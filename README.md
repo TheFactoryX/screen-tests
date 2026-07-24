@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7847 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 232k | 2026-07-24 |
+| #7848 | [kubernetes-sigs/contributor-playground](https://github.com/kubernetes-sigs/contributor-playground) | Dockerfile · ⭐ 278 | 2026-07-24 |
 ---
 
 ## 🎭 Selection Process
@@ -7935,3 +7935,4 @@ If you need permission, you're thinking too much.
 | 7845 | 2026-07-24 11:25:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185672⭐ Python) | [reels/reel_7845_Significant-Gravitas-AutoGPT](reels/reel_7845_Significant-Gravitas-AutoGPT) |
 | 7846 | 2026-07-24 12:56:31 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (307878⭐ None) | [reels/reel_7846_awesome-selfhosted-awesome-selfhosted](reels/reel_7846_awesome-selfhosted-awesome-selfhosted) |
 | 7847 | 2026-07-24 14:55:39 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (232750⭐ JavaScript) | [reels/reel_7847_affaan-m-ECC](reels/reel_7847_affaan-m-ECC) |
+| 7848 | 2026-07-24 16:40:27 | [kubernetes-sigs/contributor-playground](https://github.com/kubernetes-sigs/contributor-playground) | ✅ shallow (278⭐ Dockerfile) | [reels/reel_7848_kubernetes-sigs-contributor-playground](reels/reel_7848_kubernetes-sigs-contributor-playground) |
