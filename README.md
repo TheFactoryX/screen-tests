@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7858 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 179k | 2026-07-25 |
+| #7859 | [celer-pkg/celer](https://github.com/celer-pkg/celer) | Go · ⭐ 104 | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7946,3 +7946,4 @@ If you need permission, you're thinking too much.
 | 7856 | 2026-07-25 06:37:03 | [mystery-o-matic/mystery-o-matic.github.io](https://github.com/mystery-o-matic/mystery-o-matic.github.io) | ✅ full (126⭐ JavaScript) | [reels/reel_7856_mystery-o-matic-mystery-o-matic.github.io](reels/reel_7856_mystery-o-matic-mystery-o-matic.github.io) |
 | 7857 | 2026-07-25 08:49:56 | [Override92/AiSList](https://github.com/Override92/AiSList) | ✅ full (117⭐ None) | [reels/reel_7857_Override92-AiSList](reels/reel_7857_Override92-AiSList) |
 | 7858 | 2026-07-25 10:24:43 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (179969⭐ Python) | [reels/reel_7858_yt-dlp-yt-dlp](reels/reel_7858_yt-dlp-yt-dlp) |
+| 7859 | 2026-07-25 11:42:45 | [celer-pkg/celer](https://github.com/celer-pkg/celer) | ✅ full (104⭐ Go) | [reels/reel_7859_celer-pkg-celer](reels/reel_7859_celer-pkg-celer) |
