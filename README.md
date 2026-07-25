@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7861 | [kim-em/lean-zip](https://github.com/kim-em/lean-zip) | Lean · ⭐ 102 | 2026-07-25 |
+| #7862 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7949,3 +7949,4 @@ If you need permission, you're thinking too much.
 | 7859 | 2026-07-25 11:42:45 | [celer-pkg/celer](https://github.com/celer-pkg/celer) | ✅ full (104⭐ Go) | [reels/reel_7859_celer-pkg-celer](reels/reel_7859_celer-pkg-celer) |
 | 7860 | 2026-07-25 12:44:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152366⭐ Python) | [reels/reel_7860_langflow-ai-langflow](reels/reel_7860_langflow-ai-langflow) |
 | 7861 | 2026-07-25 14:20:09 | [kim-em/lean-zip](https://github.com/kim-em/lean-zip) | ✅ full (102⭐ Lean) | [reels/reel_7861_kim-em-lean-zip](reels/reel_7861_kim-em-lean-zip) |
+| 7862 | 2026-07-25 15:38:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185681⭐ Python) | [reels/reel_7862_Significant-Gravitas-AutoGPT](reels/reel_7862_Significant-Gravitas-AutoGPT) |
