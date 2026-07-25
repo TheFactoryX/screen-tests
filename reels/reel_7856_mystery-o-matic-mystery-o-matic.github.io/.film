@@ -1,0 +1,24 @@
+{
+  "reel_number": 7856,
+  "recorded": "2026-07-25 06:37:03 UTC",
+  "repository": {
+    "full_name": "mystery-o-matic/mystery-o-matic.github.io",
+    "url": "https://github.com/mystery-o-matic/mystery-o-matic.github.io",
+    "clone_url": "https://github.com/mystery-o-matic/mystery-o-matic.github.io.git",
+    "stars": 126,
+    "language": "JavaScript",
+    "size_kb": 47912
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 46,
+    "duration_seconds": 1.698361
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 126 stars."
+  }
+}
