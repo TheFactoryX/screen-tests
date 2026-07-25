@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7863 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 180k | 2026-07-25 |
+| #7864 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 146k | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7951,3 +7951,4 @@ If you need permission, you're thinking too much.
 | 7861 | 2026-07-25 14:20:09 | [kim-em/lean-zip](https://github.com/kim-em/lean-zip) | ✅ full (102⭐ Lean) | [reels/reel_7861_kim-em-lean-zip](reels/reel_7861_kim-em-lean-zip) |
 | 7862 | 2026-07-25 15:38:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185681⭐ Python) | [reels/reel_7862_Significant-Gravitas-AutoGPT](reels/reel_7862_Significant-Gravitas-AutoGPT) |
 | 7863 | 2026-07-25 16:34:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (180022⭐ Python) | [reels/reel_7863_yt-dlp-yt-dlp](reels/reel_7863_yt-dlp-yt-dlp) |
+| 7864 | 2026-07-25 17:41:50 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (146702⭐ Python) | [reels/reel_7864_open-webui-open-webui](reels/reel_7864_open-webui-open-webui) |
