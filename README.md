@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7853 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Python · ⭐ 109k | 2026-07-24 |
+| #7854 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 116k | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7941,3 +7941,4 @@ If you need permission, you're thinking too much.
 | 7851 | 2026-07-24 20:59:45 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152343⭐ Python) | [reels/reel_7851_langflow-ai-langflow](reels/reel_7851_langflow-ai-langflow) |
 | 7852 | 2026-07-24 22:12:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (179890⭐ Python) | [reels/reel_7852_yt-dlp-yt-dlp](reels/reel_7852_yt-dlp-yt-dlp) |
 | 7853 | 2026-07-24 23:16:55 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ✅ full (109786⭐ Python) | [reels/reel_7853_nextlevelbuilder-ui-ux-pro-max-skill](reels/reel_7853_nextlevelbuilder-ui-ux-pro-max-skill) |
+| 7854 | 2026-07-25 01:00:08 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (116841⭐ None) | [reels/reel_7854_Hack-with-Github-Awesome-Hacking](reels/reel_7854_Hack-with-Github-Awesome-Hacking) |
