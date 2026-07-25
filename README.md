@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7857 | [Override92/AiSList](https://github.com/Override92/AiSList) | None · ⭐ 117 | 2026-07-25 |
+| #7858 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 179k | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7945,3 +7945,4 @@ If you need permission, you're thinking too much.
 | 7855 | 2026-07-25 04:18:14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152349⭐ Python) | [reels/reel_7855_langflow-ai-langflow](reels/reel_7855_langflow-ai-langflow) |
 | 7856 | 2026-07-25 06:37:03 | [mystery-o-matic/mystery-o-matic.github.io](https://github.com/mystery-o-matic/mystery-o-matic.github.io) | ✅ full (126⭐ JavaScript) | [reels/reel_7856_mystery-o-matic-mystery-o-matic.github.io](reels/reel_7856_mystery-o-matic-mystery-o-matic.github.io) |
 | 7857 | 2026-07-25 08:49:56 | [Override92/AiSList](https://github.com/Override92/AiSList) | ✅ full (117⭐ None) | [reels/reel_7857_Override92-AiSList](reels/reel_7857_Override92-AiSList) |
+| 7858 | 2026-07-25 10:24:43 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (179969⭐ Python) | [reels/reel_7858_yt-dlp-yt-dlp](reels/reel_7858_yt-dlp-yt-dlp) |
