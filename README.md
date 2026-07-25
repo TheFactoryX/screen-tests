@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7869 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 122k | 2026-07-25 |
+| #7870 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 142k | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7957,3 +7957,4 @@ If you need permission, you're thinking too much.
 | 7867 | 2026-07-25 20:54:38 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152383⭐ Python) | [reels/reel_7867_langflow-ai-langflow](reels/reel_7867_langflow-ai-langflow) |
 | 7868 | 2026-07-25 21:53:26 | [adamlui/chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) | ✅ full (206⭐ JavaScript) | [reels/reel_7868_adamlui-chatgpt-widescreen](reels/reel_7868_adamlui-chatgpt-widescreen) |
 | 7869 | 2026-07-25 22:52:56 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (122236⭐ Python) | [reels/reel_7869_Comfy-Org-ComfyUI](reels/reel_7869_Comfy-Org-ComfyUI) |
+| 7870 | 2026-07-25 23:58:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142585⭐ Python) | [reels/reel_7870_langchain-ai-langchain](reels/reel_7870_langchain-ai-langchain) |
