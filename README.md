@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7865 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-07-25 |
+| #7866 | [happy-sdk/happy](https://github.com/happy-sdk/happy) | Go · ⭐ 25 | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7953,3 +7953,4 @@ If you need permission, you're thinking too much.
 | 7863 | 2026-07-25 16:34:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (180022⭐ Python) | [reels/reel_7863_yt-dlp-yt-dlp](reels/reel_7863_yt-dlp-yt-dlp) |
 | 7864 | 2026-07-25 17:41:50 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (146702⭐ Python) | [reels/reel_7864_open-webui-open-webui](reels/reel_7864_open-webui-open-webui) |
 | 7865 | 2026-07-25 18:39:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134306⭐ TypeScript) | [reels/reel_7865_iptv-org-iptv](reels/reel_7865_iptv-org-iptv) |
+| 7866 | 2026-07-25 19:56:07 | [happy-sdk/happy](https://github.com/happy-sdk/happy) | ✅ full (25⭐ Go) | [reels/reel_7866_happy-sdk-happy](reels/reel_7866_happy-sdk-happy) |
