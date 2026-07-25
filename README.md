@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7860 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-07-25 |
+| #7861 | [kim-em/lean-zip](https://github.com/kim-em/lean-zip) | Lean · ⭐ 102 | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7948,3 +7948,4 @@ If you need permission, you're thinking too much.
 | 7858 | 2026-07-25 10:24:43 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (179969⭐ Python) | [reels/reel_7858_yt-dlp-yt-dlp](reels/reel_7858_yt-dlp-yt-dlp) |
 | 7859 | 2026-07-25 11:42:45 | [celer-pkg/celer](https://github.com/celer-pkg/celer) | ✅ full (104⭐ Go) | [reels/reel_7859_celer-pkg-celer](reels/reel_7859_celer-pkg-celer) |
 | 7860 | 2026-07-25 12:44:52 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152366⭐ Python) | [reels/reel_7860_langflow-ai-langflow](reels/reel_7860_langflow-ai-langflow) |
+| 7861 | 2026-07-25 14:20:09 | [kim-em/lean-zip](https://github.com/kim-em/lean-zip) | ✅ full (102⭐ Lean) | [reels/reel_7861_kim-em-lean-zip](reels/reel_7861_kim-em-lean-zip) |
