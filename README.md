@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7864 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 146k | 2026-07-25 |
+| #7865 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-07-25 |
 ---
 
 ## 🎭 Selection Process
@@ -7952,3 +7952,4 @@ If you need permission, you're thinking too much.
 | 7862 | 2026-07-25 15:38:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185681⭐ Python) | [reels/reel_7862_Significant-Gravitas-AutoGPT](reels/reel_7862_Significant-Gravitas-AutoGPT) |
 | 7863 | 2026-07-25 16:34:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (180022⭐ Python) | [reels/reel_7863_yt-dlp-yt-dlp](reels/reel_7863_yt-dlp-yt-dlp) |
 | 7864 | 2026-07-25 17:41:50 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (146702⭐ Python) | [reels/reel_7864_open-webui-open-webui](reels/reel_7864_open-webui-open-webui) |
+| 7865 | 2026-07-25 18:39:50 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134306⭐ TypeScript) | [reels/reel_7865_iptv-org-iptv](reels/reel_7865_iptv-org-iptv) |
