@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7879 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 198k | 2026-07-26 |
+| #7880 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 452k | 2026-07-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7967,3 +7967,4 @@ If you need permission, you're thinking too much.
 | 7877 | 2026-07-26 14:48:14 | [GlassHaven/Haven](https://github.com/GlassHaven/Haven) | ✅ shallow (915⭐ Kotlin) | [reels/reel_7877_GlassHaven-Haven](reels/reel_7877_GlassHaven-Haven) |
 | 7878 | 2026-07-26 15:59:21 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (180190⭐ Python) | [reels/reel_7878_yt-dlp-yt-dlp](reels/reel_7878_yt-dlp-yt-dlp) |
 | 7879 | 2026-07-26 17:10:27 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (198090⭐ TypeScript) | [reels/reel_7879_n8n-io-n8n](reels/reel_7879_n8n-io-n8n) |
+| 7880 | 2026-07-26 18:10:50 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (452638⭐ Python) | [reels/reel_7880_public-apis-public-apis](reels/reel_7880_public-apis-public-apis) |
