@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7872 | [grblHAL/core](https://github.com/grblHAL/core) | C · ⭐ 499 | 2026-07-26 |
+| #7873 | [metaphysis/Code](https://github.com/metaphysis/Code) | C++ · ⭐ 233 | 2026-07-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7960,3 +7960,4 @@ If you need permission, you're thinking too much.
 | 7870 | 2026-07-25 23:58:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142585⭐ Python) | [reels/reel_7870_langchain-ai-langchain](reels/reel_7870_langchain-ai-langchain) |
 | 7871 | 2026-07-26 03:38:09 | [open-gsd/gsd-pi](https://github.com/open-gsd/gsd-pi) | ✅ full (958⭐ TypeScript) | [reels/reel_7871_open-gsd-gsd-pi](reels/reel_7871_open-gsd-gsd-pi) |
 | 7872 | 2026-07-26 06:23:24 | [grblHAL/core](https://github.com/grblHAL/core) | ✅ full (499⭐ C) | [reels/reel_7872_grblHAL-core](reels/reel_7872_grblHAL-core) |
+| 7873 | 2026-07-26 08:55:25 | [metaphysis/Code](https://github.com/metaphysis/Code) | ✅ shallow (233⭐ C++) | [reels/reel_7873_metaphysis-Code](reels/reel_7873_metaphysis-Code) |
