@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7882 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 452k | 2026-07-26 |
+| #7883 | [deafdudecomputers/PalworldSaveTools](https://github.com/deafdudecomputers/PalworldSaveTools) | Python · ⭐ 624 | 2026-07-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7970,3 +7970,4 @@ If you need permission, you're thinking too much.
 | 7880 | 2026-07-26 18:10:50 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (452638⭐ Python) | [reels/reel_7880_public-apis-public-apis](reels/reel_7880_public-apis-public-apis) |
 | 7881 | 2026-07-26 19:34:12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (233592⭐ JavaScript) | [reels/reel_7881_affaan-m-ECC](reels/reel_7881_affaan-m-ECC) |
 | 7882 | 2026-07-26 20:36:04 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (452647⭐ Python) | [reels/reel_7882_public-apis-public-apis](reels/reel_7882_public-apis-public-apis) |
+| 7883 | 2026-07-26 21:38:49 | [deafdudecomputers/PalworldSaveTools](https://github.com/deafdudecomputers/PalworldSaveTools) | ✅ readme_only (624⭐ Python) | [reels/reel_7883_deafdudecomputers-PalworldSaveTools](reels/reel_7883_deafdudecomputers-PalworldSaveTools) |

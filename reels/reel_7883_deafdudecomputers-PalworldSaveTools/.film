@@ -1,0 +1,24 @@
+{
+  "reel_number": 7883,
+  "recorded": "2026-07-26 21:38:49 UTC",
+  "repository": {
+    "full_name": "deafdudecomputers/PalworldSaveTools",
+    "url": "https://github.com/deafdudecomputers/PalworldSaveTools",
+    "clone_url": "https://github.com/deafdudecomputers/PalworldSaveTools.git",
+    "stars": 624,
+    "language": "Python",
+    "size_kb": 552042
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 539,
+    "duration_seconds": 0.000129
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 624 stars."
+  }
+}
