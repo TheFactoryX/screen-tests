@@ -1,0 +1,24 @@
+{
+  "reel_number": 7874,
+  "recorded": "2026-07-26 10:42:57 UTC",
+  "repository": {
+    "full_name": "manaskamal/XenevaOS",
+    "url": "https://github.com/manaskamal/XenevaOS",
+    "clone_url": "https://github.com/manaskamal/XenevaOS.git",
+    "stars": 718,
+    "language": "C",
+    "size_kb": 1131525
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1105,
+    "duration_seconds": 0.000114
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 718 stars."
+  }
+}
