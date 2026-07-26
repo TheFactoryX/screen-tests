@@ -1,0 +1,24 @@
+{
+  "reel_number": 7871,
+  "recorded": "2026-07-26 03:38:09 UTC",
+  "repository": {
+    "full_name": "open-gsd/gsd-pi",
+    "url": "https://github.com/open-gsd/gsd-pi",
+    "clone_url": "https://github.com/open-gsd/gsd-pi.git",
+    "stars": 958,
+    "language": "TypeScript",
+    "size_kb": 84718
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 82,
+    "duration_seconds": 2.774689
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 958 stars."
+  }
+}
