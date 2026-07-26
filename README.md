@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7876 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 233k | 2026-07-26 |
+| #7877 | [GlassHaven/Haven](https://github.com/GlassHaven/Haven) | Kotlin · ⭐ 915 | 2026-07-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7964,3 +7964,4 @@ If you need permission, you're thinking too much.
 | 7874 | 2026-07-26 10:42:57 | [manaskamal/XenevaOS](https://github.com/manaskamal/XenevaOS) | ✅ readme_only (718⭐ C) | [reels/reel_7874_manaskamal-XenevaOS](reels/reel_7874_manaskamal-XenevaOS) |
 | 7875 | 2026-07-26 11:47:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142612⭐ Python) | [reels/reel_7875_langchain-ai-langchain](reels/reel_7875_langchain-ai-langchain) |
 | 7876 | 2026-07-26 13:16:06 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (233518⭐ JavaScript) | [reels/reel_7876_affaan-m-ECC](reels/reel_7876_affaan-m-ECC) |
+| 7877 | 2026-07-26 14:48:14 | [GlassHaven/Haven](https://github.com/GlassHaven/Haven) | ✅ shallow (915⭐ Kotlin) | [reels/reel_7877_GlassHaven-Haven](reels/reel_7877_GlassHaven-Haven) |

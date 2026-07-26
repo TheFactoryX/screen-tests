@@ -1,0 +1,24 @@
+{
+  "reel_number": 7877,
+  "recorded": "2026-07-26 14:48:14 UTC",
+  "repository": {
+    "full_name": "GlassHaven/Haven",
+    "url": "https://github.com/GlassHaven/Haven",
+    "clone_url": "https://github.com/GlassHaven/Haven.git",
+    "stars": 915,
+    "language": "Kotlin",
+    "size_kb": 232810
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 227,
+    "duration_seconds": 11.01233
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 915 stars."
+  }
+}
