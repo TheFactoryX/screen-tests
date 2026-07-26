@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7874 | [manaskamal/XenevaOS](https://github.com/manaskamal/XenevaOS) | C · ⭐ 718 | 2026-07-26 |
+| #7875 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 142k | 2026-07-26 |
 ---
 
 ## 🎭 Selection Process
@@ -7962,3 +7962,4 @@ If you need permission, you're thinking too much.
 | 7872 | 2026-07-26 06:23:24 | [grblHAL/core](https://github.com/grblHAL/core) | ✅ full (499⭐ C) | [reels/reel_7872_grblHAL-core](reels/reel_7872_grblHAL-core) |
 | 7873 | 2026-07-26 08:55:25 | [metaphysis/Code](https://github.com/metaphysis/Code) | ✅ shallow (233⭐ C++) | [reels/reel_7873_metaphysis-Code](reels/reel_7873_metaphysis-Code) |
 | 7874 | 2026-07-26 10:42:57 | [manaskamal/XenevaOS](https://github.com/manaskamal/XenevaOS) | ✅ readme_only (718⭐ C) | [reels/reel_7874_manaskamal-XenevaOS](reels/reel_7874_manaskamal-XenevaOS) |
+| 7875 | 2026-07-26 11:47:59 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142612⭐ Python) | [reels/reel_7875_langchain-ai-langchain](reels/reel_7875_langchain-ai-langchain) |
