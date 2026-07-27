@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7887 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 233k | 2026-07-27 |
+| #7888 | [OCamlPro/ocp-indent](https://github.com/OCamlPro/ocp-indent) | Raku · ⭐ 221 | 2026-07-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7975,3 +7975,4 @@ If you need permission, you're thinking too much.
 | 7885 | 2026-07-26 23:41:08 | [mytv-android/China-TV-Live-M3U8](https://github.com/mytv-android/China-TV-Live-M3U8) | ✅ full (314⭐ None) | [reels/reel_7885_mytv-android-China-TV-Live-M3U8](reels/reel_7885_mytv-android-China-TV-Live-M3U8) |
 | 7886 | 2026-07-27 01:18:17 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (452654⭐ Python) | [reels/reel_7886_public-apis-public-apis](reels/reel_7886_public-apis-public-apis) |
 | 7887 | 2026-07-27 05:08:47 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (233729⭐ JavaScript) | [reels/reel_7887_affaan-m-ECC](reels/reel_7887_affaan-m-ECC) |
+| 7888 | 2026-07-27 08:46:54 | [OCamlPro/ocp-indent](https://github.com/OCamlPro/ocp-indent) | ✅ full (221⭐ Raku) | [reels/reel_7888_OCamlPro-ocp-indent](reels/reel_7888_OCamlPro-ocp-indent) |
