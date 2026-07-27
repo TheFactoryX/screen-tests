@@ -1,0 +1,24 @@
+{
+  "reel_number": 7890,
+  "recorded": "2026-07-27 15:22:31 UTC",
+  "repository": {
+    "full_name": "Schneegans/Desktop-Cube",
+    "url": "https://github.com/Schneegans/Desktop-Cube",
+    "clone_url": "https://github.com/Schneegans/Desktop-Cube.git",
+    "stars": 741,
+    "language": "JavaScript",
+    "size_kb": 14776
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 0.511069
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 741 stars."
+  }
+}
