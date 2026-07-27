@@ -1,0 +1,24 @@
+{
+  "reel_number": 7889,
+  "recorded": "2026-07-27 12:20:25 UTC",
+  "repository": {
+    "full_name": "genome-spy/genome-spy",
+    "url": "https://github.com/genome-spy/genome-spy",
+    "clone_url": "https://github.com/genome-spy/genome-spy.git",
+    "stars": 194,
+    "language": "JavaScript",
+    "size_kb": 31356
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 4.056767
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 194 stars."
+  }
+}
