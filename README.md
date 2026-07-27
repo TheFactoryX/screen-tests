@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7892 | [Azure/azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) | C# · ⭐ 136 | 2026-07-27 |
+| #7893 | [whoahq/whoa](https://github.com/whoahq/whoa) | C++ · ⭐ 149 | 2026-07-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7980,3 +7980,4 @@ If you need permission, you're thinking too much.
 | 7890 | 2026-07-27 15:22:31 | [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) | ✅ full (741⭐ JavaScript) | [reels/reel_7890_Schneegans-Desktop-Cube](reels/reel_7890_Schneegans-Desktop-Cube) |
 | 7891 | 2026-07-27 17:16:46 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (117029⭐ None) | [reels/reel_7891_Hack-with-Github-Awesome-Hacking](reels/reel_7891_Hack-with-Github-Awesome-Hacking) |
 | 7892 | 2026-07-27 18:55:11 | [Azure/azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) | ✅ shallow (136⭐ C#) | [reels/reel_7892_Azure-azure-sdk-tools](reels/reel_7892_Azure-azure-sdk-tools) |
+| 7893 | 2026-07-27 20:19:45 | [whoahq/whoa](https://github.com/whoahq/whoa) | ✅ full (149⭐ C++) | [reels/reel_7893_whoahq-whoa](reels/reel_7893_whoahq-whoa) |
