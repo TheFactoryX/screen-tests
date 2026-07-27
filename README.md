@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7890 | [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) | JavaScript · ⭐ 741 | 2026-07-27 |
+| #7891 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 117k | 2026-07-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7978,3 +7978,4 @@ If you need permission, you're thinking too much.
 | 7888 | 2026-07-27 08:46:54 | [OCamlPro/ocp-indent](https://github.com/OCamlPro/ocp-indent) | ✅ full (221⭐ Raku) | [reels/reel_7888_OCamlPro-ocp-indent](reels/reel_7888_OCamlPro-ocp-indent) |
 | 7889 | 2026-07-27 12:20:25 | [genome-spy/genome-spy](https://github.com/genome-spy/genome-spy) | ✅ full (194⭐ JavaScript) | [reels/reel_7889_genome-spy-genome-spy](reels/reel_7889_genome-spy-genome-spy) |
 | 7890 | 2026-07-27 15:22:31 | [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) | ✅ full (741⭐ JavaScript) | [reels/reel_7890_Schneegans-Desktop-Cube](reels/reel_7890_Schneegans-Desktop-Cube) |
+| 7891 | 2026-07-27 17:16:46 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (117029⭐ None) | [reels/reel_7891_Hack-with-Github-Awesome-Hacking](reels/reel_7891_Hack-with-Github-Awesome-Hacking) |
