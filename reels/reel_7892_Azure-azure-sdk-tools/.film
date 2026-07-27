@@ -1,0 +1,24 @@
+{
+  "reel_number": 7892,
+  "recorded": "2026-07-27 18:55:11 UTC",
+  "repository": {
+    "full_name": "Azure/azure-sdk-tools",
+    "url": "https://github.com/Azure/azure-sdk-tools",
+    "clone_url": "https://github.com/Azure/azure-sdk-tools.git",
+    "stars": 136,
+    "language": "C#",
+    "size_kb": 166230
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 162,
+    "duration_seconds": 5.243558
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 136 stars."
+  }
+}
