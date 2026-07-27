@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7895 | [RMC-14/RMC-14](https://github.com/RMC-14/RMC-14) | C# · ⭐ 260 | 2026-07-27 |
+| #7896 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-27 |
 ---
 
 ## 🎭 Selection Process
@@ -7983,3 +7983,4 @@ If you need permission, you're thinking too much.
 | 7893 | 2026-07-27 20:19:45 | [whoahq/whoa](https://github.com/whoahq/whoa) | ✅ full (149⭐ C++) | [reels/reel_7893_whoahq-whoa](reels/reel_7893_whoahq-whoa) |
 | 7894 | 2026-07-27 21:37:25 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109573⭐ Rust) | [reels/reel_7894_tauri-apps-tauri](reels/reel_7894_tauri-apps-tauri) |
 | 7895 | 2026-07-27 22:41:26 | [RMC-14/RMC-14](https://github.com/RMC-14/RMC-14) | ✅ readme_only (260⭐ C#) | [reels/reel_7895_RMC-14-RMC-14](reels/reel_7895_RMC-14-RMC-14) |
+| 7896 | 2026-07-27 23:45:10 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185718⭐ Python) | [reels/reel_7896_Significant-Gravitas-AutoGPT](reels/reel_7896_Significant-Gravitas-AutoGPT) |
