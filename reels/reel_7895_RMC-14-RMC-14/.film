@@ -1,0 +1,24 @@
+{
+  "reel_number": 7895,
+  "recorded": "2026-07-27 22:41:26 UTC",
+  "repository": {
+    "full_name": "RMC-14/RMC-14",
+    "url": "https://github.com/RMC-14/RMC-14",
+    "clone_url": "https://github.com/RMC-14/RMC-14.git",
+    "stars": 260,
+    "language": "C#",
+    "size_kb": 995155
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 971,
+    "duration_seconds": 0.000132
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 260 stars."
+  }
+}
