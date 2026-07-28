@@ -1,0 +1,24 @@
+{
+  "reel_number": 7903,
+  "recorded": "2026-07-28 16:18:13 UTC",
+  "repository": {
+    "full_name": "TomWhitwell/Workshop_Computer",
+    "url": "https://github.com/TomWhitwell/Workshop_Computer",
+    "clone_url": "https://github.com/TomWhitwell/Workshop_Computer.git",
+    "stars": 127,
+    "language": "C",
+    "size_kb": 132500
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 129,
+    "duration_seconds": 4.461918
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 127 stars."
+  }
+}

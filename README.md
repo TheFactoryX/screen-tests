@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7902 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 114k | 2026-07-28 |
+| #7903 | [TomWhitwell/Workshop_Computer](https://github.com/TomWhitwell/Workshop_Computer) | C · ⭐ 127 | 2026-07-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7990,3 +7990,4 @@ If you need permission, you're thinking too much.
 | 7900 | 2026-07-28 09:57:07 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (275552⭐ Python) | [reels/reel_7900_practical-tutorials-project-based-learning](reels/reel_7900_practical-tutorials-project-based-learning) |
 | 7901 | 2026-07-28 11:59:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (147044⭐ Python) | [reels/reel_7901_open-webui-open-webui](reels/reel_7901_open-webui-open-webui) |
 | 7902 | 2026-07-28 14:27:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (114906⭐ Rust) | [reels/reel_7902_rust-lang-rust](reels/reel_7902_rust-lang-rust) |
+| 7903 | 2026-07-28 16:18:13 | [TomWhitwell/Workshop_Computer](https://github.com/TomWhitwell/Workshop_Computer) | ✅ shallow (127⭐ C) | [reels/reel_7903_TomWhitwell-Workshop_Computer](reels/reel_7903_TomWhitwell-Workshop_Computer) |
