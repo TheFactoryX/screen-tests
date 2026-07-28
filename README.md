@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7900 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 275k | 2026-07-28 |
+| #7901 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 147k | 2026-07-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7988,3 +7988,4 @@ If you need permission, you're thinking too much.
 | 7898 | 2026-07-28 04:26:59 | [eingress/docker-compose-traefik-letsencrypt-cloudflare](https://github.com/eingress/docker-compose-traefik-letsencrypt-cloudflare) | ✅ full (46⭐ Shell) | [reels/reel_7898_eingress-docker-compose-traefik-letsencrypt-cloudflare](reels/reel_7898_eingress-docker-compose-traefik-letsencrypt-cloudflare) |
 | 7899 | 2026-07-28 07:14:41 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (452975⭐ Python) | [reels/reel_7899_public-apis-public-apis](reels/reel_7899_public-apis-public-apis) |
 | 7900 | 2026-07-28 09:57:07 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (275552⭐ Python) | [reels/reel_7900_practical-tutorials-project-based-learning](reels/reel_7900_practical-tutorials-project-based-learning) |
+| 7901 | 2026-07-28 11:59:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (147044⭐ Python) | [reels/reel_7901_open-webui-open-webui](reels/reel_7901_open-webui-open-webui) |
