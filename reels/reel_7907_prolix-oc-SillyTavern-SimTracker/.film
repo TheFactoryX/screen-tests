@@ -1,0 +1,24 @@
+{
+  "reel_number": 7907,
+  "recorded": "2026-07-28 21:46:19 UTC",
+  "repository": {
+    "full_name": "prolix-oc/SillyTavern-SimTracker",
+    "url": "https://github.com/prolix-oc/SillyTavern-SimTracker",
+    "clone_url": "https://github.com/prolix-oc/SillyTavern-SimTracker.git",
+    "stars": 63,
+    "language": "JavaScript",
+    "size_kb": 1442
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.844032
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 63 stars."
+  }
+}
