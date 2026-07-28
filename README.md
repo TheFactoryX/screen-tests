@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7908 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 122k | 2026-07-28 |
+| #7909 | [fahad-hamid/psique-workflow-clinic](https://github.com/fahad-hamid/psique-workflow-clinic) | HTML · ⭐ 155 | 2026-07-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7996,3 +7996,4 @@ If you need permission, you're thinking too much.
 | 7906 | 2026-07-28 20:42:05 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109607⭐ Rust) | [reels/reel_7906_tauri-apps-tauri](reels/reel_7906_tauri-apps-tauri) |
 | 7907 | 2026-07-28 21:46:19 | [prolix-oc/SillyTavern-SimTracker](https://github.com/prolix-oc/SillyTavern-SimTracker) | ✅ full (63⭐ JavaScript) | [reels/reel_7907_prolix-oc-SillyTavern-SimTracker](reels/reel_7907_prolix-oc-SillyTavern-SimTracker) |
 | 7908 | 2026-07-28 22:55:41 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (122624⭐ Python) | [reels/reel_7908_Comfy-Org-ComfyUI](reels/reel_7908_Comfy-Org-ComfyUI) |
+| 7909 | 2026-07-28 23:56:54 | [fahad-hamid/psique-workflow-clinic](https://github.com/fahad-hamid/psique-workflow-clinic) | ✅ full (155⭐ HTML) | [reels/reel_7909_fahad-hamid-psique-workflow-clinic](reels/reel_7909_fahad-hamid-psique-workflow-clinic) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 7909,
+  "recorded": "2026-07-28 23:56:54 UTC",
+  "repository": {
+    "full_name": "fahad-hamid/psique-workflow-clinic",
+    "url": "https://github.com/fahad-hamid/psique-workflow-clinic",
+    "clone_url": "https://github.com/fahad-hamid/psique-workflow-clinic.git",
+    "stars": 155,
+    "language": "HTML",
+    "size_kb": 532
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.680843
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 155 stars."
+  }
+}
