@@ -1,0 +1,24 @@
+{
+  "reel_number": 7898,
+  "recorded": "2026-07-28 04:26:59 UTC",
+  "repository": {
+    "full_name": "eingress/docker-compose-traefik-letsencrypt-cloudflare",
+    "url": "https://github.com/eingress/docker-compose-traefik-letsencrypt-cloudflare",
+    "clone_url": "https://github.com/eingress/docker-compose-traefik-letsencrypt-cloudflare.git",
+    "stars": 46,
+    "language": "Shell",
+    "size_kb": 70
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.350328
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 46 stars."
+  }
+}
