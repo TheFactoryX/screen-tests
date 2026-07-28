@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7898 | [eingress/docker-compose-traefik-letsencrypt-cloudflare](https://github.com/eingress/docker-compose-traefik-letsencrypt-cloudflare) | Shell · ⭐ 46 | 2026-07-28 |
+| #7899 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 452k | 2026-07-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7986,3 +7986,4 @@ If you need permission, you're thinking too much.
 | 7896 | 2026-07-27 23:45:10 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185718⭐ Python) | [reels/reel_7896_Significant-Gravitas-AutoGPT](reels/reel_7896_Significant-Gravitas-AutoGPT) |
 | 7897 | 2026-07-28 01:07:41 | [aminulzisan/Facebook-Auto-Mass-Report](https://github.com/aminulzisan/Facebook-Auto-Mass-Report) | ✅ full (131⭐ None) | [reels/reel_7897_aminulzisan-Facebook-Auto-Mass-Report](reels/reel_7897_aminulzisan-Facebook-Auto-Mass-Report) |
 | 7898 | 2026-07-28 04:26:59 | [eingress/docker-compose-traefik-letsencrypt-cloudflare](https://github.com/eingress/docker-compose-traefik-letsencrypt-cloudflare) | ✅ full (46⭐ Shell) | [reels/reel_7898_eingress-docker-compose-traefik-letsencrypt-cloudflare](reels/reel_7898_eingress-docker-compose-traefik-letsencrypt-cloudflare) |
+| 7899 | 2026-07-28 07:14:41 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (452975⭐ Python) | [reels/reel_7899_public-apis-public-apis](reels/reel_7899_public-apis-public-apis) |
