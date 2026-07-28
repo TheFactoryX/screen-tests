@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7904 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 180k | 2026-07-28 |
+| #7905 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-07-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7992,3 +7992,4 @@ If you need permission, you're thinking too much.
 | 7902 | 2026-07-28 14:27:56 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (114906⭐ Rust) | [reels/reel_7902_rust-lang-rust](reels/reel_7902_rust-lang-rust) |
 | 7903 | 2026-07-28 16:18:13 | [TomWhitwell/Workshop_Computer](https://github.com/TomWhitwell/Workshop_Computer) | ✅ shallow (127⭐ C) | [reels/reel_7903_TomWhitwell-Workshop_Computer](reels/reel_7903_TomWhitwell-Workshop_Computer) |
 | 7904 | 2026-07-28 17:52:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (180709⭐ Python) | [reels/reel_7904_yt-dlp-yt-dlp](reels/reel_7904_yt-dlp-yt-dlp) |
+| 7905 | 2026-07-28 19:19:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152540⭐ Python) | [reels/reel_7905_langflow-ai-langflow](reels/reel_7905_langflow-ai-langflow) |
