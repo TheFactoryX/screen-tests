@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7905 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-07-28 |
+| #7906 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 109k | 2026-07-28 |
 ---
 
 ## 🎭 Selection Process
@@ -7993,3 +7993,4 @@ If you need permission, you're thinking too much.
 | 7903 | 2026-07-28 16:18:13 | [TomWhitwell/Workshop_Computer](https://github.com/TomWhitwell/Workshop_Computer) | ✅ shallow (127⭐ C) | [reels/reel_7903_TomWhitwell-Workshop_Computer](reels/reel_7903_TomWhitwell-Workshop_Computer) |
 | 7904 | 2026-07-28 17:52:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (180709⭐ Python) | [reels/reel_7904_yt-dlp-yt-dlp](reels/reel_7904_yt-dlp-yt-dlp) |
 | 7905 | 2026-07-28 19:19:29 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152540⭐ Python) | [reels/reel_7905_langflow-ai-langflow](reels/reel_7905_langflow-ai-langflow) |
+| 7906 | 2026-07-28 20:42:05 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109607⭐ Rust) | [reels/reel_7906_tauri-apps-tauri](reels/reel_7906_tauri-apps-tauri) |
