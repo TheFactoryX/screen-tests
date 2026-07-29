@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7921 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 198k | 2026-07-29 |
+| #7922 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 109k | 2026-07-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8009,3 +8009,4 @@ If you need permission, you're thinking too much.
 | 7919 | 2026-07-29 20:35:36 | [awais-amjed/to-do-list](https://github.com/awais-amjed/to-do-list) | ✅ full (19⭐ JavaScript) | [reels/reel_7919_awais-amjed-to-do-list](reels/reel_7919_awais-amjed-to-do-list) |
 | 7920 | 2026-07-29 21:35:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185740⭐ Python) | [reels/reel_7920_Significant-Gravitas-AutoGPT](reels/reel_7920_Significant-Gravitas-AutoGPT) |
 | 7921 | 2026-07-29 22:38:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (198584⭐ TypeScript) | [reels/reel_7921_n8n-io-n8n](reels/reel_7921_n8n-io-n8n) |
+| 7922 | 2026-07-29 23:41:06 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (109203⭐ TypeScript) | [reels/reel_7922_immich-app-immich](reels/reel_7922_immich-app-immich) |
