@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7911 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 275k | 2026-07-29 |
+| #7912 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7999,3 +7999,4 @@ If you need permission, you're thinking too much.
 | 7909 | 2026-07-28 23:56:54 | [fahad-hamid/psique-workflow-clinic](https://github.com/fahad-hamid/psique-workflow-clinic) | ✅ full (155⭐ HTML) | [reels/reel_7909_fahad-hamid-psique-workflow-clinic](reels/reel_7909_fahad-hamid-psique-workflow-clinic) |
 | 7910 | 2026-07-29 02:48:34 | [receptron/mulmoclaude](https://github.com/receptron/mulmoclaude) | ✅ full (324⭐ TypeScript) | [reels/reel_7910_receptron-mulmoclaude](reels/reel_7910_receptron-mulmoclaude) |
 | 7911 | 2026-07-29 05:49:57 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (275654⭐ Python) | [reels/reel_7911_practical-tutorials-project-based-learning](reels/reel_7911_practical-tutorials-project-based-learning) |
+| 7912 | 2026-07-29 08:36:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185744⭐ Python) | [reels/reel_7912_Significant-Gravitas-AutoGPT](reels/reel_7912_Significant-Gravitas-AutoGPT) |
