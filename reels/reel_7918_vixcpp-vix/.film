@@ -1,0 +1,24 @@
+{
+  "reel_number": 7918,
+  "recorded": "2026-07-29 19:41:25 UTC",
+  "repository": {
+    "full_name": "vixcpp/vix",
+    "url": "https://github.com/vixcpp/vix",
+    "clone_url": "https://github.com/vixcpp/vix.git",
+    "stars": 489,
+    "language": "CMake",
+    "size_kb": 3160
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.689751
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "CMake",
+    "director_note": "A CMake repository. 489 stars."
+  }
+}

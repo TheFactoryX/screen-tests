@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7917 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 309k | 2026-07-29 |
+| #7918 | [vixcpp/vix](https://github.com/vixcpp/vix) | CMake · ⭐ 489 | 2026-07-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8005,3 +8005,4 @@ If you need permission, you're thinking too much.
 | 7915 | 2026-07-29 15:18:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (198530⭐ TypeScript) | [reels/reel_7915_n8n-io-n8n](reels/reel_7915_n8n-io-n8n) |
 | 7916 | 2026-07-29 16:49:18 | [nbd-wtf/trustedcoin](https://github.com/nbd-wtf/trustedcoin) | ✅ full (65⭐ Go) | [reels/reel_7916_nbd-wtf-trustedcoin](reels/reel_7916_nbd-wtf-trustedcoin) |
 | 7917 | 2026-07-29 18:05:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (309101⭐ None) | [reels/reel_7917_awesome-selfhosted-awesome-selfhosted](reels/reel_7917_awesome-selfhosted-awesome-selfhosted) |
+| 7918 | 2026-07-29 19:41:25 | [vixcpp/vix](https://github.com/vixcpp/vix) | ✅ full (489⭐ CMake) | [reels/reel_7918_vixcpp-vix](reels/reel_7918_vixcpp-vix) |
