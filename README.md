@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7919 | [awais-amjed/to-do-list](https://github.com/awais-amjed/to-do-list) | JavaScript · ⭐ 19 | 2026-07-29 |
+| #7920 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-07-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8007,3 +8007,4 @@ If you need permission, you're thinking too much.
 | 7917 | 2026-07-29 18:05:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (309101⭐ None) | [reels/reel_7917_awesome-selfhosted-awesome-selfhosted](reels/reel_7917_awesome-selfhosted-awesome-selfhosted) |
 | 7918 | 2026-07-29 19:41:25 | [vixcpp/vix](https://github.com/vixcpp/vix) | ✅ full (489⭐ CMake) | [reels/reel_7918_vixcpp-vix](reels/reel_7918_vixcpp-vix) |
 | 7919 | 2026-07-29 20:35:36 | [awais-amjed/to-do-list](https://github.com/awais-amjed/to-do-list) | ✅ full (19⭐ JavaScript) | [reels/reel_7919_awais-amjed-to-do-list](reels/reel_7919_awais-amjed-to-do-list) |
+| 7920 | 2026-07-29 21:35:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185740⭐ Python) | [reels/reel_7920_Significant-Gravitas-AutoGPT](reels/reel_7920_Significant-Gravitas-AutoGPT) |
