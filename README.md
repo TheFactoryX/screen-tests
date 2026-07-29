@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7909 | [fahad-hamid/psique-workflow-clinic](https://github.com/fahad-hamid/psique-workflow-clinic) | HTML · ⭐ 155 | 2026-07-28 |
+| #7910 | [receptron/mulmoclaude](https://github.com/receptron/mulmoclaude) | TypeScript · ⭐ 324 | 2026-07-29 |
 ---
 
 ## 🎭 Selection Process
@@ -7997,3 +7997,4 @@ If you need permission, you're thinking too much.
 | 7907 | 2026-07-28 21:46:19 | [prolix-oc/SillyTavern-SimTracker](https://github.com/prolix-oc/SillyTavern-SimTracker) | ✅ full (63⭐ JavaScript) | [reels/reel_7907_prolix-oc-SillyTavern-SimTracker](reels/reel_7907_prolix-oc-SillyTavern-SimTracker) |
 | 7908 | 2026-07-28 22:55:41 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (122624⭐ Python) | [reels/reel_7908_Comfy-Org-ComfyUI](reels/reel_7908_Comfy-Org-ComfyUI) |
 | 7909 | 2026-07-28 23:56:54 | [fahad-hamid/psique-workflow-clinic](https://github.com/fahad-hamid/psique-workflow-clinic) | ✅ full (155⭐ HTML) | [reels/reel_7909_fahad-hamid-psique-workflow-clinic](reels/reel_7909_fahad-hamid-psique-workflow-clinic) |
+| 7910 | 2026-07-29 02:48:34 | [receptron/mulmoclaude](https://github.com/receptron/mulmoclaude) | ✅ full (324⭐ TypeScript) | [reels/reel_7910_receptron-mulmoclaude](reels/reel_7910_receptron-mulmoclaude) |
