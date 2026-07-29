@@ -1,0 +1,24 @@
+{
+  "reel_number": 7916,
+  "recorded": "2026-07-29 16:49:18 UTC",
+  "repository": {
+    "full_name": "nbd-wtf/trustedcoin",
+    "url": "https://github.com/nbd-wtf/trustedcoin",
+    "clone_url": "https://github.com/nbd-wtf/trustedcoin.git",
+    "stars": 65,
+    "language": "Go",
+    "size_kb": 229
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.173494
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 65 stars."
+  }
+}

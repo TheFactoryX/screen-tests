@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7915 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 198k | 2026-07-29 |
+| #7916 | [nbd-wtf/trustedcoin](https://github.com/nbd-wtf/trustedcoin) | Go · ⭐ 65 | 2026-07-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8003,3 +8003,4 @@ If you need permission, you're thinking too much.
 | 7913 | 2026-07-29 11:08:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142868⭐ Python) | [reels/reel_7913_langchain-ai-langchain](reels/reel_7913_langchain-ai-langchain) |
 | 7914 | 2026-07-29 13:06:32 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (134377⭐ TypeScript) | [reels/reel_7914_clash-verge-rev-clash-verge-rev](reels/reel_7914_clash-verge-rev-clash-verge-rev) |
 | 7915 | 2026-07-29 15:18:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (198530⭐ TypeScript) | [reels/reel_7915_n8n-io-n8n](reels/reel_7915_n8n-io-n8n) |
+| 7916 | 2026-07-29 16:49:18 | [nbd-wtf/trustedcoin](https://github.com/nbd-wtf/trustedcoin) | ✅ full (65⭐ Go) | [reels/reel_7916_nbd-wtf-trustedcoin](reels/reel_7916_nbd-wtf-trustedcoin) |
