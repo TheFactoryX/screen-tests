@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7925 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 142k | 2026-07-30 |
+| #7926 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 453k | 2026-07-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8013,3 +8013,4 @@ If you need permission, you're thinking too much.
 | 7923 | 2026-07-30 01:01:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (198595⭐ TypeScript) | [reels/reel_7923_n8n-io-n8n](reels/reel_7923_n8n-io-n8n) |
 | 7924 | 2026-07-30 04:19:35 | [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) | ✅ full (160⭐ TypeScript) | [reels/reel_7924_mwakidenis-WebCheck-OSINT](reels/reel_7924_mwakidenis-WebCheck-OSINT) |
 | 7925 | 2026-07-30 07:10:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142957⭐ Python) | [reels/reel_7925_langchain-ai-langchain](reels/reel_7925_langchain-ai-langchain) |
+| 7926 | 2026-07-30 09:40:48 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (453487⭐ Python) | [reels/reel_7926_public-apis-public-apis](reels/reel_7926_public-apis-public-apis) |
