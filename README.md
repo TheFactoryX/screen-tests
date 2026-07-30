@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7927 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-07-30 |
+| #7928 | [afrux/asirem](https://github.com/afrux/asirem) | Less · ⭐ 49 | 2026-07-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8015,3 +8015,4 @@ If you need permission, you're thinking too much.
 | 7925 | 2026-07-30 07:10:39 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (142957⭐ Python) | [reels/reel_7925_langchain-ai-langchain](reels/reel_7925_langchain-ai-langchain) |
 | 7926 | 2026-07-30 09:40:48 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (453487⭐ Python) | [reels/reel_7926_public-apis-public-apis](reels/reel_7926_public-apis-public-apis) |
 | 7927 | 2026-07-30 11:32:31 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134698⭐ TypeScript) | [reels/reel_7927_iptv-org-iptv](reels/reel_7927_iptv-org-iptv) |
+| 7928 | 2026-07-30 13:14:08 | [afrux/asirem](https://github.com/afrux/asirem) | ✅ full (49⭐ Less) | [reels/reel_7928_afrux-asirem](reels/reel_7928_afrux-asirem) |

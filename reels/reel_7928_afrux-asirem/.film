@@ -1,0 +1,24 @@
+{
+  "reel_number": 7928,
+  "recorded": "2026-07-30 13:14:08 UTC",
+  "repository": {
+    "full_name": "afrux/asirem",
+    "url": "https://github.com/afrux/asirem",
+    "clone_url": "https://github.com/afrux/asirem.git",
+    "stars": 49,
+    "language": "Less",
+    "size_kb": 241
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.668518
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Less",
+    "director_note": "A Less repository. 49 stars."
+  }
+}
