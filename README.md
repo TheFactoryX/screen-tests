@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7923 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 198k | 2026-07-30 |
+| #7924 | [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) | TypeScript · ⭐ 160 | 2026-07-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8011,3 +8011,4 @@ If you need permission, you're thinking too much.
 | 7921 | 2026-07-29 22:38:03 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (198584⭐ TypeScript) | [reels/reel_7921_n8n-io-n8n](reels/reel_7921_n8n-io-n8n) |
 | 7922 | 2026-07-29 23:41:06 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (109203⭐ TypeScript) | [reels/reel_7922_immich-app-immich](reels/reel_7922_immich-app-immich) |
 | 7923 | 2026-07-30 01:01:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (198595⭐ TypeScript) | [reels/reel_7923_n8n-io-n8n](reels/reel_7923_n8n-io-n8n) |
+| 7924 | 2026-07-30 04:19:35 | [mwakidenis/WebCheck-OSINT](https://github.com/mwakidenis/WebCheck-OSINT) | ✅ full (160⭐ TypeScript) | [reels/reel_7924_mwakidenis-WebCheck-OSINT](reels/reel_7924_mwakidenis-WebCheck-OSINT) |
