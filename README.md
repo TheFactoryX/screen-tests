@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7933 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-07-30 |
+| #7934 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 309k | 2026-07-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8021,3 +8021,4 @@ If you need permission, you're thinking too much.
 | 7931 | 2026-07-30 18:21:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109710⭐ Rust) | [reels/reel_7931_tauri-apps-tauri](reels/reel_7931_tauri-apps-tauri) |
 | 7932 | 2026-07-30 20:00:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152630⭐ Python) | [reels/reel_7932_langflow-ai-langflow](reels/reel_7932_langflow-ai-langflow) |
 | 7933 | 2026-07-30 21:18:48 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140821⭐ Python) | [reels/reel_7933_ytdl-org-youtube-dl](reels/reel_7933_ytdl-org-youtube-dl) |
+| 7934 | 2026-07-30 22:34:50 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (309436⭐ None) | [reels/reel_7934_awesome-selfhosted-awesome-selfhosted](reels/reel_7934_awesome-selfhosted-awesome-selfhosted) |
