@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7931 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 109k | 2026-07-30 |
+| #7932 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-07-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8019,3 +8019,4 @@ If you need permission, you're thinking too much.
 | 7929 | 2026-07-30 15:24:17 | [benvallack/The-Flipper](https://github.com/benvallack/The-Flipper) | ✅ full (11⭐ None) | [reels/reel_7929_benvallack-The-Flipper](reels/reel_7929_benvallack-The-Flipper) |
 | 7930 | 2026-07-30 16:58:37 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (122885⭐ Python) | [reels/reel_7930_Comfy-Org-ComfyUI](reels/reel_7930_Comfy-Org-ComfyUI) |
 | 7931 | 2026-07-30 18:21:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109710⭐ Rust) | [reels/reel_7931_tauri-apps-tauri](reels/reel_7931_tauri-apps-tauri) |
+| 7932 | 2026-07-30 20:00:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152630⭐ Python) | [reels/reel_7932_langflow-ai-langflow](reels/reel_7932_langflow-ai-langflow) |
