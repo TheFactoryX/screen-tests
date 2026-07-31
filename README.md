@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7937 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 147k | 2026-07-31 |
+| #7938 | [Vlm326/Rusthon](https://github.com/Vlm326/Rusthon) | Rust · ⭐ 12 | 2026-07-31 |
 ---
 
 ## 🎭 Selection Process
@@ -8025,3 +8025,4 @@ If you need permission, you're thinking too much.
 | 7935 | 2026-07-30 23:41:11 | [CreativeDesigner3D/home_builder_5](https://github.com/CreativeDesigner3D/home_builder_5) | ✅ full (109⭐ Python) | [reels/reel_7935_CreativeDesigner3D-home_builder_5](reels/reel_7935_CreativeDesigner3D-home_builder_5) |
 | 7936 | 2026-07-31 01:13:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (309464⭐ None) | [reels/reel_7936_awesome-selfhosted-awesome-selfhosted](reels/reel_7936_awesome-selfhosted-awesome-selfhosted) |
 | 7937 | 2026-07-31 04:44:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (147402⭐ Python) | [reels/reel_7937_open-webui-open-webui](reels/reel_7937_open-webui-open-webui) |
+| 7938 | 2026-07-31 07:36:53 | [Vlm326/Rusthon](https://github.com/Vlm326/Rusthon) | ✅ full (12⭐ Rust) | [reels/reel_7938_Vlm326-Rusthon](reels/reel_7938_Vlm326-Rusthon) |

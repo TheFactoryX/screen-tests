@@ -1,0 +1,24 @@
+{
+  "reel_number": 7938,
+  "recorded": "2026-07-31 07:36:53 UTC",
+  "repository": {
+    "full_name": "Vlm326/Rusthon",
+    "url": "https://github.com/Vlm326/Rusthon",
+    "clone_url": "https://github.com/Vlm326/Rusthon.git",
+    "stars": 12,
+    "language": "Rust",
+    "size_kb": 97
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.434614
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 12 stars."
+  }
+}
