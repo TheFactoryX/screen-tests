@@ -1,0 +1,24 @@
+{
+  "reel_number": 7942,
+  "recorded": "2026-07-31 16:48:14 UTC",
+  "repository": {
+    "full_name": "gug007/lpm",
+    "url": "https://github.com/gug007/lpm",
+    "clone_url": "https://github.com/gug007/lpm.git",
+    "stars": 191,
+    "language": "TypeScript",
+    "size_kb": 414968
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 405,
+    "duration_seconds": 2.416494
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 191 stars."
+  }
+}

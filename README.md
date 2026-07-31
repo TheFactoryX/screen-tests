@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7941 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 109k | 2026-07-31 |
+| #7942 | [gug007/lpm](https://github.com/gug007/lpm) | TypeScript · ⭐ 191 | 2026-07-31 |
 ---
 
 ## 🎭 Selection Process
@@ -8029,3 +8029,4 @@ If you need permission, you're thinking too much.
 | 7939 | 2026-07-31 10:16:02 | [Nielllle/randomCatFacts](https://github.com/Nielllle/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_7939_Nielllle-randomCatFacts](reels/reel_7939_Nielllle-randomCatFacts) |
 | 7940 | 2026-07-31 12:26:12 | [dgopsq/netgrep](https://github.com/dgopsq/netgrep) | ✅ full (16⭐ TypeScript) | [reels/reel_7940_dgopsq-netgrep](reels/reel_7940_dgopsq-netgrep) |
 | 7941 | 2026-07-31 14:58:16 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (109367⭐ TypeScript) | [reels/reel_7941_immich-app-immich](reels/reel_7941_immich-app-immich) |
+| 7942 | 2026-07-31 16:48:14 | [gug007/lpm](https://github.com/gug007/lpm) | ✅ shallow (191⭐ TypeScript) | [reels/reel_7942_gug007-lpm](reels/reel_7942_gug007-lpm) |
