@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7935 | [CreativeDesigner3D/home_builder_5](https://github.com/CreativeDesigner3D/home_builder_5) | Python · ⭐ 109 | 2026-07-30 |
+| #7936 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 309k | 2026-07-31 |
 ---
 
 ## 🎭 Selection Process
@@ -8023,3 +8023,4 @@ If you need permission, you're thinking too much.
 | 7933 | 2026-07-30 21:18:48 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140821⭐ Python) | [reels/reel_7933_ytdl-org-youtube-dl](reels/reel_7933_ytdl-org-youtube-dl) |
 | 7934 | 2026-07-30 22:34:50 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (309436⭐ None) | [reels/reel_7934_awesome-selfhosted-awesome-selfhosted](reels/reel_7934_awesome-selfhosted-awesome-selfhosted) |
 | 7935 | 2026-07-30 23:41:11 | [CreativeDesigner3D/home_builder_5](https://github.com/CreativeDesigner3D/home_builder_5) | ✅ full (109⭐ Python) | [reels/reel_7935_CreativeDesigner3D-home_builder_5](reels/reel_7935_CreativeDesigner3D-home_builder_5) |
+| 7936 | 2026-07-31 01:13:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (309464⭐ None) | [reels/reel_7936_awesome-selfhosted-awesome-selfhosted](reels/reel_7936_awesome-selfhosted-awesome-selfhosted) |
