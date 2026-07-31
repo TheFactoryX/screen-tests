@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7945 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 275k | 2026-07-31 |
+| #7946 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 453k | 2026-07-31 |
 ---
 
 ## 🎭 Selection Process
@@ -8033,3 +8033,4 @@ If you need permission, you're thinking too much.
 | 7943 | 2026-07-31 18:18:12 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (309697⭐ None) | [reels/reel_7943_awesome-selfhosted-awesome-selfhosted](reels/reel_7943_awesome-selfhosted-awesome-selfhosted) |
 | 7944 | 2026-07-31 20:02:38 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (236601⭐ JavaScript) | [reels/reel_7944_affaan-m-ECC](reels/reel_7944_affaan-m-ECC) |
 | 7945 | 2026-07-31 21:21:00 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (275998⭐ Python) | [reels/reel_7945_practical-tutorials-project-based-learning](reels/reel_7945_practical-tutorials-project-based-learning) |
+| 7946 | 2026-07-31 22:31:57 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (453825⭐ Python) | [reels/reel_7946_public-apis-public-apis](reels/reel_7946_public-apis-public-apis) |
