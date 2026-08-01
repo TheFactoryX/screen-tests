@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7960 | [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) | Kotlin · ⭐ 526 | 2026-08-01 |
+| #7961 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 115k | 2026-08-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8048,3 +8048,4 @@ If you need permission, you're thinking too much.
 | 7958 | 2026-08-01 18:12:24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134873⭐ TypeScript) | [reels/reel_7958_iptv-org-iptv](reels/reel_7958_iptv-org-iptv) |
 | 7959 | 2026-08-01 19:34:56 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (198968⭐ TypeScript) | [reels/reel_7959_n8n-io-n8n](reels/reel_7959_n8n-io-n8n) |
 | 7960 | 2026-08-01 20:31:57 | [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) | ✅ full (526⭐ Kotlin) | [reels/reel_7960_Darkrock-Studios-hammer-editor](reels/reel_7960_Darkrock-Studios-hammer-editor) |
+| 7961 | 2026-08-01 21:36:20 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115024⭐ Rust) | [reels/reel_7961_rust-lang-rust](reels/reel_7961_rust-lang-rust) |
