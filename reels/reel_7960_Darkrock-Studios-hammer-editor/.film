@@ -1,0 +1,24 @@
+{
+  "reel_number": 7960,
+  "recorded": "2026-08-01 20:31:57 UTC",
+  "repository": {
+    "full_name": "Darkrock-Studios/hammer-editor",
+    "url": "https://github.com/Darkrock-Studios/hammer-editor",
+    "clone_url": "https://github.com/Darkrock-Studios/hammer-editor.git",
+    "stars": 526,
+    "language": "Kotlin",
+    "size_kb": 49302
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 48,
+    "duration_seconds": 3.90181
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 526 stars."
+  }
+}
