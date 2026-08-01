@@ -1,0 +1,24 @@
+{
+  "reel_number": 7963,
+  "recorded": "2026-08-01 23:41:36 UTC",
+  "repository": {
+    "full_name": "DaviReisVieira/stackport",
+    "url": "https://github.com/DaviReisVieira/stackport",
+    "clone_url": "https://github.com/DaviReisVieira/stackport.git",
+    "stars": 106,
+    "language": "TypeScript",
+    "size_kb": 6557
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.621918
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 106 stars."
+  }
+}
