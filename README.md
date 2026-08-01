@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7955 | [duywithshe/edd-custom-aggregate-queries](https://github.com/duywithshe/edd-custom-aggregate-queries) | HTML · ⭐ 151 | 2026-08-01 |
+| #7956 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-08-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8043,3 +8043,4 @@ If you need permission, you're thinking too much.
 | 7953 | 2026-08-01 12:02:41 | [OpenJAC/JenaAtomicCalculator.jl](https://github.com/OpenJAC/JenaAtomicCalculator.jl) | ✅ full (128⭐ Julia) | [reels/reel_7953_OpenJAC-JenaAtomicCalculator.jl](reels/reel_7953_OpenJAC-JenaAtomicCalculator.jl) |
 | 7954 | 2026-08-01 13:54:09 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (276065⭐ Python) | [reels/reel_7954_practical-tutorials-project-based-learning](reels/reel_7954_practical-tutorials-project-based-learning) |
 | 7955 | 2026-08-01 14:58:16 | [duywithshe/edd-custom-aggregate-queries](https://github.com/duywithshe/edd-custom-aggregate-queries) | ✅ full (151⭐ HTML) | [reels/reel_7955_duywithshe-edd-custom-aggregate-queries](reels/reel_7955_duywithshe-edd-custom-aggregate-queries) |
+| 7956 | 2026-08-01 16:04:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134839⭐ TypeScript) | [reels/reel_7956_iptv-org-iptv](reels/reel_7956_iptv-org-iptv) |
