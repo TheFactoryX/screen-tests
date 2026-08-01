@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7953 | [OpenJAC/JenaAtomicCalculator.jl](https://github.com/OpenJAC/JenaAtomicCalculator.jl) | Julia · ⭐ 128 | 2026-08-01 |
+| #7954 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 276k | 2026-08-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8041,3 +8041,4 @@ If you need permission, you're thinking too much.
 | 7951 | 2026-08-01 09:23:24 | [sigcn/pg](https://github.com/sigcn/pg) | ✅ full (301⭐ Go) | [reels/reel_7951_sigcn-pg](reels/reel_7951_sigcn-pg) |
 | 7952 | 2026-08-01 10:56:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134792⭐ TypeScript) | [reels/reel_7952_iptv-org-iptv](reels/reel_7952_iptv-org-iptv) |
 | 7953 | 2026-08-01 12:02:41 | [OpenJAC/JenaAtomicCalculator.jl](https://github.com/OpenJAC/JenaAtomicCalculator.jl) | ✅ full (128⭐ Julia) | [reels/reel_7953_OpenJAC-JenaAtomicCalculator.jl](reels/reel_7953_OpenJAC-JenaAtomicCalculator.jl) |
+| 7954 | 2026-08-01 13:54:09 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (276065⭐ Python) | [reels/reel_7954_practical-tutorials-project-based-learning](reels/reel_7954_practical-tutorials-project-based-learning) |
