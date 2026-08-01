@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7951 | [sigcn/pg](https://github.com/sigcn/pg) | Go · ⭐ 301 | 2026-08-01 |
+| #7952 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-08-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8039,3 +8039,4 @@ If you need permission, you're thinking too much.
 | 7949 | 2026-08-01 04:39:27 | [misxzaiz/Polaris](https://github.com/misxzaiz/Polaris) | ✅ full (118⭐ TypeScript) | [reels/reel_7949_misxzaiz-Polaris](reels/reel_7949_misxzaiz-Polaris) |
 | 7950 | 2026-08-01 07:14:46 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (134829⭐ TypeScript) | [reels/reel_7950_clash-verge-rev-clash-verge-rev](reels/reel_7950_clash-verge-rev-clash-verge-rev) |
 | 7951 | 2026-08-01 09:23:24 | [sigcn/pg](https://github.com/sigcn/pg) | ✅ full (301⭐ Go) | [reels/reel_7951_sigcn-pg](reels/reel_7951_sigcn-pg) |
+| 7952 | 2026-08-01 10:56:37 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134792⭐ TypeScript) | [reels/reel_7952_iptv-org-iptv](reels/reel_7952_iptv-org-iptv) |
