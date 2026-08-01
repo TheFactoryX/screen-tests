@@ -1,0 +1,24 @@
+{
+  "reel_number": 7951,
+  "recorded": "2026-08-01 09:23:24 UTC",
+  "repository": {
+    "full_name": "sigcn/pg",
+    "url": "https://github.com/sigcn/pg",
+    "clone_url": "https://github.com/sigcn/pg.git",
+    "stars": 301,
+    "language": "Go",
+    "size_kb": 872
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.208623
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 301 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7950 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 134k | 2026-08-01 |
+| #7951 | [sigcn/pg](https://github.com/sigcn/pg) | Go · ⭐ 301 | 2026-08-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8038,3 +8038,4 @@ If you need permission, you're thinking too much.
 | 7948 | 2026-08-01 01:14:40 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (276012⭐ Python) | [reels/reel_7948_practical-tutorials-project-based-learning](reels/reel_7948_practical-tutorials-project-based-learning) |
 | 7949 | 2026-08-01 04:39:27 | [misxzaiz/Polaris](https://github.com/misxzaiz/Polaris) | ✅ full (118⭐ TypeScript) | [reels/reel_7949_misxzaiz-Polaris](reels/reel_7949_misxzaiz-Polaris) |
 | 7950 | 2026-08-01 07:14:46 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (134829⭐ TypeScript) | [reels/reel_7950_clash-verge-rev-clash-verge-rev](reels/reel_7950_clash-verge-rev-clash-verge-rev) |
+| 7951 | 2026-08-01 09:23:24 | [sigcn/pg](https://github.com/sigcn/pg) | ✅ full (301⭐ Go) | [reels/reel_7951_sigcn-pg](reels/reel_7951_sigcn-pg) |
