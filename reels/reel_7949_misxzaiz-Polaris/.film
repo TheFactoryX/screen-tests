@@ -1,0 +1,24 @@
+{
+  "reel_number": 7949,
+  "recorded": "2026-08-01 04:39:27 UTC",
+  "repository": {
+    "full_name": "misxzaiz/Polaris",
+    "url": "https://github.com/misxzaiz/Polaris",
+    "clone_url": "https://github.com/misxzaiz/Polaris.git",
+    "stars": 118,
+    "language": "TypeScript",
+    "size_kb": 47129
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 46,
+    "duration_seconds": 1.766235
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 118 stars."
+  }
+}

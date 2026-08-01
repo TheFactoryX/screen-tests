@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7948 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 276k | 2026-08-01 |
+| #7949 | [misxzaiz/Polaris](https://github.com/misxzaiz/Polaris) | TypeScript · ⭐ 118 | 2026-08-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8036,3 +8036,4 @@ If you need permission, you're thinking too much.
 | 7946 | 2026-07-31 22:31:57 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (453825⭐ Python) | [reels/reel_7946_public-apis-public-apis](reels/reel_7946_public-apis-public-apis) |
 | 7947 | 2026-07-31 23:41:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (309753⭐ None) | [reels/reel_7947_awesome-selfhosted-awesome-selfhosted](reels/reel_7947_awesome-selfhosted-awesome-selfhosted) |
 | 7948 | 2026-08-01 01:14:40 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (276012⭐ Python) | [reels/reel_7948_practical-tutorials-project-based-learning](reels/reel_7948_practical-tutorials-project-based-learning) |
+| 7949 | 2026-08-01 04:39:27 | [misxzaiz/Polaris](https://github.com/misxzaiz/Polaris) | ✅ full (118⭐ TypeScript) | [reels/reel_7949_misxzaiz-Polaris](reels/reel_7949_misxzaiz-Polaris) |
