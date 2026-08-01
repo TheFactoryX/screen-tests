@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7957 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 236k | 2026-08-01 |
+| #7958 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 134k | 2026-08-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8045,3 +8045,4 @@ If you need permission, you're thinking too much.
 | 7955 | 2026-08-01 14:58:16 | [duywithshe/edd-custom-aggregate-queries](https://github.com/duywithshe/edd-custom-aggregate-queries) | ✅ full (151⭐ HTML) | [reels/reel_7955_duywithshe-edd-custom-aggregate-queries](reels/reel_7955_duywithshe-edd-custom-aggregate-queries) |
 | 7956 | 2026-08-01 16:04:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134839⭐ TypeScript) | [reels/reel_7956_iptv-org-iptv](reels/reel_7956_iptv-org-iptv) |
 | 7957 | 2026-08-01 17:13:33 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (236785⭐ JavaScript) | [reels/reel_7957_affaan-m-ECC](reels/reel_7957_affaan-m-ECC) |
+| 7958 | 2026-08-01 18:12:24 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (134873⭐ TypeScript) | [reels/reel_7958_iptv-org-iptv](reels/reel_7958_iptv-org-iptv) |
