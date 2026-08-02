@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7972 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 310k | 2026-08-02 |
+| #7973 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 454k | 2026-08-02 |
 ---
 
 ## 🎭 Selection Process
@@ -8060,3 +8060,4 @@ If you need permission, you're thinking too much.
 | 7970 | 2026-08-02 14:06:52 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (236931⭐ JavaScript) | [reels/reel_7970_affaan-m-ECC](reels/reel_7970_affaan-m-ECC) |
 | 7971 | 2026-08-02 15:19:04 | [brookfacehe2421/flashloan-scalper-bot](https://github.com/brookfacehe2421/flashloan-scalper-bot) | ✅ full (133⭐ JavaScript) | [reels/reel_7971_brookfacehe2421-flashloan-scalper-bot](reels/reel_7971_brookfacehe2421-flashloan-scalper-bot) |
 | 7972 | 2026-08-02 16:27:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (310150⭐ None) | [reels/reel_7972_awesome-selfhosted-awesome-selfhosted](reels/reel_7972_awesome-selfhosted-awesome-selfhosted) |
+| 7973 | 2026-08-02 17:33:14 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (454083⭐ Python) | [reels/reel_7973_public-apis-public-apis](reels/reel_7973_public-apis-public-apis) |
