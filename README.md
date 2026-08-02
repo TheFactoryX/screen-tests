@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7966 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 199k | 2026-08-02 |
+| #7967 | [Navonnik/randomCatFacts](https://github.com/Navonnik/randomCatFacts) | None · ⭐ 25 | 2026-08-02 |
 ---
 
 ## 🎭 Selection Process
@@ -8054,3 +8054,4 @@ If you need permission, you're thinking too much.
 | 7964 | 2026-08-02 01:15:12 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (122343⭐ C++) | [reels/reel_7964_ggml-org-llama.cpp](reels/reel_7964_ggml-org-llama.cpp) |
 | 7965 | 2026-08-02 04:41:49 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (117388⭐ None) | [reels/reel_7965_Hack-with-Github-Awesome-Hacking](reels/reel_7965_Hack-with-Github-Awesome-Hacking) |
 | 7966 | 2026-08-02 07:18:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199008⭐ TypeScript) | [reels/reel_7966_n8n-io-n8n](reels/reel_7966_n8n-io-n8n) |
+| 7967 | 2026-08-02 09:31:46 | [Navonnik/randomCatFacts](https://github.com/Navonnik/randomCatFacts) | ✅ full (25⭐ None) | [reels/reel_7967_Navonnik-randomCatFacts](reels/reel_7967_Navonnik-randomCatFacts) |
