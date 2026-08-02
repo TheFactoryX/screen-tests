@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7976 | [perfectgf/lora-dataset-studio](https://github.com/perfectgf/lora-dataset-studio) | Python · ⭐ 150 | 2026-08-02 |
+| #7977 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 310k | 2026-08-02 |
 ---
 
 ## 🎭 Selection Process
@@ -8064,3 +8064,4 @@ If you need permission, you're thinking too much.
 | 7974 | 2026-08-02 18:41:02 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (236994⭐ JavaScript) | [reels/reel_7974_affaan-m-ECC](reels/reel_7974_affaan-m-ECC) |
 | 7975 | 2026-08-02 19:53:27 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135002⭐ TypeScript) | [reels/reel_7975_iptv-org-iptv](reels/reel_7975_iptv-org-iptv) |
 | 7976 | 2026-08-02 20:52:24 | [perfectgf/lora-dataset-studio](https://github.com/perfectgf/lora-dataset-studio) | ✅ full (150⭐ Python) | [reels/reel_7976_perfectgf-lora-dataset-studio](reels/reel_7976_perfectgf-lora-dataset-studio) |
+| 7977 | 2026-08-02 21:53:34 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (310215⭐ None) | [reels/reel_7977_awesome-selfhosted-awesome-selfhosted](reels/reel_7977_awesome-selfhosted-awesome-selfhosted) |
