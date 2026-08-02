@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7971 | [brookfacehe2421/flashloan-scalper-bot](https://github.com/brookfacehe2421/flashloan-scalper-bot) | JavaScript · ⭐ 133 | 2026-08-02 |
+| #7972 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 310k | 2026-08-02 |
 ---
 
 ## 🎭 Selection Process
@@ -8059,3 +8059,4 @@ If you need permission, you're thinking too much.
 | 7969 | 2026-08-02 12:15:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (310103⭐ None) | [reels/reel_7969_awesome-selfhosted-awesome-selfhosted](reels/reel_7969_awesome-selfhosted-awesome-selfhosted) |
 | 7970 | 2026-08-02 14:06:52 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (236931⭐ JavaScript) | [reels/reel_7970_affaan-m-ECC](reels/reel_7970_affaan-m-ECC) |
 | 7971 | 2026-08-02 15:19:04 | [brookfacehe2421/flashloan-scalper-bot](https://github.com/brookfacehe2421/flashloan-scalper-bot) | ✅ full (133⭐ JavaScript) | [reels/reel_7971_brookfacehe2421-flashloan-scalper-bot](reels/reel_7971_brookfacehe2421-flashloan-scalper-bot) |
+| 7972 | 2026-08-02 16:27:46 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (310150⭐ None) | [reels/reel_7972_awesome-selfhosted-awesome-selfhosted](reels/reel_7972_awesome-selfhosted-awesome-selfhosted) |
