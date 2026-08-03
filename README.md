@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7982 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 199k | 2026-08-03 |
+| #7983 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-08-03 |
 ---
 
 ## 🎭 Selection Process
@@ -8070,3 +8070,4 @@ If you need permission, you're thinking too much.
 | 7980 | 2026-08-03 02:51:11 | [ButterscotchRunner/Butterscotch](https://github.com/ButterscotchRunner/Butterscotch) | ✅ full (325⭐ C) | [reels/reel_7980_ButterscotchRunner-Butterscotch](reels/reel_7980_ButterscotchRunner-Butterscotch) |
 | 7981 | 2026-08-03 06:20:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135022⭐ TypeScript) | [reels/reel_7981_iptv-org-iptv](reels/reel_7981_iptv-org-iptv) |
 | 7982 | 2026-08-03 10:11:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199152⭐ TypeScript) | [reels/reel_7982_n8n-io-n8n](reels/reel_7982_n8n-io-n8n) |
+| 7983 | 2026-08-03 13:19:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185782⭐ Python) | [reels/reel_7983_Significant-Gravitas-AutoGPT](reels/reel_7983_Significant-Gravitas-AutoGPT) |
