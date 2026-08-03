@@ -1,0 +1,24 @@
+{
+  "reel_number": 7988,
+  "recorded": "2026-08-03 22:16:31 UTC",
+  "repository": {
+    "full_name": "us/crw",
+    "url": "https://github.com/us/crw",
+    "clone_url": "https://github.com/us/crw.git",
+    "stars": 520,
+    "language": "Rust",
+    "size_kb": 13316
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 0.862222
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 520 stars."
+  }
+}

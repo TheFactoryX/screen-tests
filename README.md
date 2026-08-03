@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7987 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-03 |
+| #7988 | [us/crw](https://github.com/us/crw) | Rust · ⭐ 520 | 2026-08-03 |
 ---
 
 ## 🎭 Selection Process
@@ -8075,3 +8075,4 @@ If you need permission, you're thinking too much.
 | 7985 | 2026-08-03 18:03:32 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135277⭐ TypeScript) | [reels/reel_7985_clash-verge-rev-clash-verge-rev](reels/reel_7985_clash-verge-rev-clash-verge-rev) |
 | 7986 | 2026-08-03 19:55:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152805⭐ Python) | [reels/reel_7986_langflow-ai-langflow](reels/reel_7986_langflow-ai-langflow) |
 | 7987 | 2026-08-03 21:01:31 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143343⭐ Python) | [reels/reel_7987_langchain-ai-langchain](reels/reel_7987_langchain-ai-langchain) |
+| 7988 | 2026-08-03 22:16:31 | [us/crw](https://github.com/us/crw) | ✅ full (520⭐ Rust) | [reels/reel_7988_us-crw](reels/reel_7988_us-crw) |
