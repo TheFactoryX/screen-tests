@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7984 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 535k | 2026-08-03 |
+| #7985 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 135k | 2026-08-03 |
 ---
 
 ## 🎭 Selection Process
@@ -8072,3 +8072,4 @@ If you need permission, you're thinking too much.
 | 7982 | 2026-08-03 10:11:40 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199152⭐ TypeScript) | [reels/reel_7982_n8n-io-n8n](reels/reel_7982_n8n-io-n8n) |
 | 7983 | 2026-08-03 13:19:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185782⭐ Python) | [reels/reel_7983_Significant-Gravitas-AutoGPT](reels/reel_7983_Significant-Gravitas-AutoGPT) |
 | 7984 | 2026-08-03 16:00:36 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (535543⭐ Markdown) | [reels/reel_7984_codecrafters-io-build-your-own-x](reels/reel_7984_codecrafters-io-build-your-own-x) |
+| 7985 | 2026-08-03 18:03:32 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135277⭐ TypeScript) | [reels/reel_7985_clash-verge-rev-clash-verge-rev](reels/reel_7985_clash-verge-rev-clash-verge-rev) |
