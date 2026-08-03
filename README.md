@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7985 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 135k | 2026-08-03 |
+| #7986 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-08-03 |
 ---
 
 ## 🎭 Selection Process
@@ -8073,3 +8073,4 @@ If you need permission, you're thinking too much.
 | 7983 | 2026-08-03 13:19:38 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185782⭐ Python) | [reels/reel_7983_Significant-Gravitas-AutoGPT](reels/reel_7983_Significant-Gravitas-AutoGPT) |
 | 7984 | 2026-08-03 16:00:36 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (535543⭐ Markdown) | [reels/reel_7984_codecrafters-io-build-your-own-x](reels/reel_7984_codecrafters-io-build-your-own-x) |
 | 7985 | 2026-08-03 18:03:32 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135277⭐ TypeScript) | [reels/reel_7985_clash-verge-rev-clash-verge-rev](reels/reel_7985_clash-verge-rev-clash-verge-rev) |
+| 7986 | 2026-08-03 19:55:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152805⭐ Python) | [reels/reel_7986_langflow-ai-langflow](reels/reel_7986_langflow-ai-langflow) |
