@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7979 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-02 |
+| #7980 | [ButterscotchRunner/Butterscotch](https://github.com/ButterscotchRunner/Butterscotch) | C · ⭐ 325 | 2026-08-03 |
 ---
 
 ## 🎭 Selection Process
@@ -8067,3 +8067,4 @@ If you need permission, you're thinking too much.
 | 7977 | 2026-08-02 21:53:34 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (310215⭐ None) | [reels/reel_7977_awesome-selfhosted-awesome-selfhosted](reels/reel_7977_awesome-selfhosted-awesome-selfhosted) |
 | 7978 | 2026-08-02 22:54:07 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152759⭐ Python) | [reels/reel_7978_langflow-ai-langflow](reels/reel_7978_langflow-ai-langflow) |
 | 7979 | 2026-08-02 23:56:15 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143252⭐ Python) | [reels/reel_7979_langchain-ai-langchain](reels/reel_7979_langchain-ai-langchain) |
+| 7980 | 2026-08-03 02:51:11 | [ButterscotchRunner/Butterscotch](https://github.com/ButterscotchRunner/Butterscotch) | ✅ full (325⭐ C) | [reels/reel_7980_ButterscotchRunner-Butterscotch](reels/reel_7980_ButterscotchRunner-Butterscotch) |
