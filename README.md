@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7990 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 122k | 2026-08-04 |
+| #7991 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 147k | 2026-08-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8078,3 +8078,4 @@ If you need permission, you're thinking too much.
 | 7988 | 2026-08-03 22:16:31 | [us/crw](https://github.com/us/crw) | ✅ full (520⭐ Rust) | [reels/reel_7988_us-crw](reels/reel_7988_us-crw) |
 | 7989 | 2026-08-03 23:34:44 | [ontologyportal/sumo](https://github.com/ontologyportal/sumo) | ✅ shallow (272⭐ HTML) | [reels/reel_7989_ontologyportal-sumo](reels/reel_7989_ontologyportal-sumo) |
 | 7990 | 2026-08-04 01:05:27 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (122594⭐ C++) | [reels/reel_7990_ggml-org-llama.cpp](reels/reel_7990_ggml-org-llama.cpp) |
+| 7991 | 2026-08-04 04:29:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (147767⭐ Python) | [reels/reel_7991_open-webui-open-webui](reels/reel_7991_open-webui-open-webui) |
