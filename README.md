@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7992 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 182k | 2026-08-04 |
+| #7993 | [maandree/yes-silly](https://github.com/maandree/yes-silly) | C · ⭐ 12 | 2026-08-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8080,3 +8080,4 @@ If you need permission, you're thinking too much.
 | 7990 | 2026-08-04 01:05:27 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (122594⭐ C++) | [reels/reel_7990_ggml-org-llama.cpp](reels/reel_7990_ggml-org-llama.cpp) |
 | 7991 | 2026-08-04 04:29:36 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (147767⭐ Python) | [reels/reel_7991_open-webui-open-webui](reels/reel_7991_open-webui-open-webui) |
 | 7992 | 2026-08-04 07:16:32 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (182309⭐ Python) | [reels/reel_7992_yt-dlp-yt-dlp](reels/reel_7992_yt-dlp-yt-dlp) |
+| 7993 | 2026-08-04 10:07:55 | [maandree/yes-silly](https://github.com/maandree/yes-silly) | ✅ full (12⭐ C) | [reels/reel_7993_maandree-yes-silly](reels/reel_7993_maandree-yes-silly) |
