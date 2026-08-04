@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7989 | [ontologyportal/sumo](https://github.com/ontologyportal/sumo) | HTML · ⭐ 272 | 2026-08-03 |
+| #7990 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 122k | 2026-08-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8077,3 +8077,4 @@ If you need permission, you're thinking too much.
 | 7987 | 2026-08-03 21:01:31 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143343⭐ Python) | [reels/reel_7987_langchain-ai-langchain](reels/reel_7987_langchain-ai-langchain) |
 | 7988 | 2026-08-03 22:16:31 | [us/crw](https://github.com/us/crw) | ✅ full (520⭐ Rust) | [reels/reel_7988_us-crw](reels/reel_7988_us-crw) |
 | 7989 | 2026-08-03 23:34:44 | [ontologyportal/sumo](https://github.com/ontologyportal/sumo) | ✅ shallow (272⭐ HTML) | [reels/reel_7989_ontologyportal-sumo](reels/reel_7989_ontologyportal-sumo) |
+| 7990 | 2026-08-04 01:05:27 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (122594⭐ C++) | [reels/reel_7990_ggml-org-llama.cpp](reels/reel_7990_ggml-org-llama.cpp) |
