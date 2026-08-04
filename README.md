@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7995 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 147k | 2026-08-04 |
+| #7996 | [scriptex/awesome-useless-websites](https://github.com/scriptex/awesome-useless-websites) | None · ⭐ 42 | 2026-08-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8083,3 +8083,4 @@ If you need permission, you're thinking too much.
 | 7993 | 2026-08-04 10:07:55 | [maandree/yes-silly](https://github.com/maandree/yes-silly) | ✅ full (12⭐ C) | [reels/reel_7993_maandree-yes-silly](reels/reel_7993_maandree-yes-silly) |
 | 7994 | 2026-08-04 12:17:30 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (182347⭐ Python) | [reels/reel_7994_yt-dlp-yt-dlp](reels/reel_7994_yt-dlp-yt-dlp) |
 | 7995 | 2026-08-04 14:59:05 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (147822⭐ Python) | [reels/reel_7995_open-webui-open-webui](reels/reel_7995_open-webui-open-webui) |
+| 7996 | 2026-08-04 16:57:55 | [scriptex/awesome-useless-websites](https://github.com/scriptex/awesome-useless-websites) | ✅ full (42⭐ None) | [reels/reel_7996_scriptex-awesome-useless-websites](reels/reel_7996_scriptex-awesome-useless-websites) |
