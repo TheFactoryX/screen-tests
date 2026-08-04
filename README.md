@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #7998 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 454k | 2026-08-04 |
+| #7999 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-08-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8086,3 +8086,4 @@ If you need permission, you're thinking too much.
 | 7996 | 2026-08-04 16:57:55 | [scriptex/awesome-useless-websites](https://github.com/scriptex/awesome-useless-websites) | ✅ full (42⭐ None) | [reels/reel_7996_scriptex-awesome-useless-websites](reels/reel_7996_scriptex-awesome-useless-websites) |
 | 7997 | 2026-08-04 18:40:44 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (237646⭐ JavaScript) | [reels/reel_7997_affaan-m-ECC](reels/reel_7997_affaan-m-ECC) |
 | 7998 | 2026-08-04 20:11:56 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (454370⭐ Python) | [reels/reel_7998_public-apis-public-apis](reels/reel_7998_public-apis-public-apis) |
+| 7999 | 2026-08-04 21:36:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185809⭐ Python) | [reels/reel_7999_Significant-Gravitas-AutoGPT](reels/reel_7999_Significant-Gravitas-AutoGPT) |
