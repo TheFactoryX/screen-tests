@@ -1,0 +1,24 @@
+{
+  "reel_number": 8005,
+  "recorded": "2026-08-05 10:05:18 UTC",
+  "repository": {
+    "full_name": "thumbor/awesome-thumbor",
+    "url": "https://github.com/thumbor/awesome-thumbor",
+    "clone_url": "https://github.com/thumbor/awesome-thumbor.git",
+    "stars": 82,
+    "language": "Makefile",
+    "size_kb": 5543
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.559423
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Makefile",
+    "director_note": "A Makefile repository. 82 stars."
+  }
+}
