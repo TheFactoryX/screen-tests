@@ -1,0 +1,24 @@
+{
+  "reel_number": 8004,
+  "recorded": "2026-08-05 07:16:14 UTC",
+  "repository": {
+    "full_name": "ydb-platform/ydb-go-sdk",
+    "url": "https://github.com/ydb-platform/ydb-go-sdk",
+    "clone_url": "https://github.com/ydb-platform/ydb-go-sdk.git",
+    "stars": 182,
+    "language": "Go",
+    "size_kb": 180476
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 176,
+    "duration_seconds": 0.551059
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 182 stars."
+  }
+}

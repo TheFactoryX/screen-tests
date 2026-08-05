@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8003 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 109k | 2026-08-05 |
+| #8004 | [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) | Go · ⭐ 182 | 2026-08-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8091,3 +8091,4 @@ If you need permission, you're thinking too much.
 | 8001 | 2026-08-04 23:44:30 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (454385⭐ Python) | [reels/reel_8001_public-apis-public-apis](reels/reel_8001_public-apis-public-apis) |
 | 8002 | 2026-08-05 01:07:36 | [netenglabs/suzieq](https://github.com/netenglabs/suzieq) | ✅ shallow (888⭐ Python) | [reels/reel_8002_netenglabs-suzieq](reels/reel_8002_netenglabs-suzieq) |
 | 8003 | 2026-08-05 04:28:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109898⭐ Rust) | [reels/reel_8003_tauri-apps-tauri](reels/reel_8003_tauri-apps-tauri) |
+| 8004 | 2026-08-05 07:16:14 | [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) | ✅ shallow (182⭐ Go) | [reels/reel_8004_ydb-platform-ydb-go-sdk](reels/reel_8004_ydb-platform-ydb-go-sdk) |
