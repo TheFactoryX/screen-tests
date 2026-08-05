@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8007 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 135k | 2026-08-05 |
+| #8008 | [imbue-ai/mngr](https://github.com/imbue-ai/mngr) | Python · ⭐ 401 | 2026-08-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8095,3 +8095,4 @@ If you need permission, you're thinking too much.
 | 8005 | 2026-08-05 10:05:18 | [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) | ✅ full (82⭐ Makefile) | [reels/reel_8005_thumbor-awesome-thumbor](reels/reel_8005_thumbor-awesome-thumbor) |
 | 8006 | 2026-08-05 12:15:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143480⭐ Python) | [reels/reel_8006_langchain-ai-langchain](reels/reel_8006_langchain-ai-langchain) |
 | 8007 | 2026-08-05 14:36:06 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135689⭐ TypeScript) | [reels/reel_8007_clash-verge-rev-clash-verge-rev](reels/reel_8007_clash-verge-rev-clash-verge-rev) |
+| 8008 | 2026-08-05 16:20:34 | [imbue-ai/mngr](https://github.com/imbue-ai/mngr) | ✅ full (401⭐ Python) | [reels/reel_8008_imbue-ai-mngr](reels/reel_8008_imbue-ai-mngr) |

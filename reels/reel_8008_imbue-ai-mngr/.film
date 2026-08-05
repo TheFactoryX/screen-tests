@@ -1,0 +1,24 @@
+{
+  "reel_number": 8008,
+  "recorded": "2026-08-05 16:20:34 UTC",
+  "repository": {
+    "full_name": "imbue-ai/mngr",
+    "url": "https://github.com/imbue-ai/mngr",
+    "clone_url": "https://github.com/imbue-ai/mngr.git",
+    "stars": 401,
+    "language": "Python",
+    "size_kb": 99459
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 97,
+    "duration_seconds": 10.210491
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 401 stars."
+  }
+}
