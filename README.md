@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8011 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 237k | 2026-08-05 |
+| #8012 | [Agions/vynaro](https://github.com/Agions/vynaro) | TypeScript · ⭐ 337 | 2026-08-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8099,3 +8099,4 @@ If you need permission, you're thinking too much.
 | 8009 | 2026-08-05 18:02:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185830⭐ Python) | [reels/reel_8009_Significant-Gravitas-AutoGPT](reels/reel_8009_Significant-Gravitas-AutoGPT) |
 | 8010 | 2026-08-05 19:53:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143498⭐ Python) | [reels/reel_8010_langchain-ai-langchain](reels/reel_8010_langchain-ai-langchain) |
 | 8011 | 2026-08-05 21:04:34 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (237992⭐ JavaScript) | [reels/reel_8011_affaan-m-ECC](reels/reel_8011_affaan-m-ECC) |
+| 8012 | 2026-08-05 22:19:25 | [Agions/vynaro](https://github.com/Agions/vynaro) | ✅ full (337⭐ TypeScript) | [reels/reel_8012_Agions-vynaro](reels/reel_8012_Agions-vynaro) |

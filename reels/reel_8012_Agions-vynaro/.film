@@ -1,0 +1,24 @@
+{
+  "reel_number": 8012,
+  "recorded": "2026-08-05 22:19:25 UTC",
+  "repository": {
+    "full_name": "Agions/vynaro",
+    "url": "https://github.com/Agions/vynaro",
+    "clone_url": "https://github.com/Agions/vynaro.git",
+    "stars": 337,
+    "language": "TypeScript",
+    "size_kb": 11812
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 1.133984
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 337 stars."
+  }
+}
