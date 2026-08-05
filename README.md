@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8006 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-05 |
+| #8007 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 135k | 2026-08-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8094,3 +8094,4 @@ If you need permission, you're thinking too much.
 | 8004 | 2026-08-05 07:16:14 | [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) | ✅ shallow (182⭐ Go) | [reels/reel_8004_ydb-platform-ydb-go-sdk](reels/reel_8004_ydb-platform-ydb-go-sdk) |
 | 8005 | 2026-08-05 10:05:18 | [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) | ✅ full (82⭐ Makefile) | [reels/reel_8005_thumbor-awesome-thumbor](reels/reel_8005_thumbor-awesome-thumbor) |
 | 8006 | 2026-08-05 12:15:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143480⭐ Python) | [reels/reel_8006_langchain-ai-langchain](reels/reel_8006_langchain-ai-langchain) |
+| 8007 | 2026-08-05 14:36:06 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135689⭐ TypeScript) | [reels/reel_8007_clash-verge-rev-clash-verge-rev](reels/reel_8007_clash-verge-rev-clash-verge-rev) |
