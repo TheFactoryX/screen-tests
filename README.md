@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8005 | [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) | Makefile · ⭐ 82 | 2026-08-05 |
+| #8006 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8093,3 +8093,4 @@ If you need permission, you're thinking too much.
 | 8003 | 2026-08-05 04:28:18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109898⭐ Rust) | [reels/reel_8003_tauri-apps-tauri](reels/reel_8003_tauri-apps-tauri) |
 | 8004 | 2026-08-05 07:16:14 | [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) | ✅ shallow (182⭐ Go) | [reels/reel_8004_ydb-platform-ydb-go-sdk](reels/reel_8004_ydb-platform-ydb-go-sdk) |
 | 8005 | 2026-08-05 10:05:18 | [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) | ✅ full (82⭐ Makefile) | [reels/reel_8005_thumbor-awesome-thumbor](reels/reel_8005_thumbor-awesome-thumbor) |
+| 8006 | 2026-08-05 12:15:03 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143480⭐ Python) | [reels/reel_8006_langchain-ai-langchain](reels/reel_8006_langchain-ai-langchain) |
