@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8009 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 185k | 2026-08-05 |
+| #8010 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8097,3 +8097,4 @@ If you need permission, you're thinking too much.
 | 8007 | 2026-08-05 14:36:06 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135689⭐ TypeScript) | [reels/reel_8007_clash-verge-rev-clash-verge-rev](reels/reel_8007_clash-verge-rev-clash-verge-rev) |
 | 8008 | 2026-08-05 16:20:34 | [imbue-ai/mngr](https://github.com/imbue-ai/mngr) | ✅ full (401⭐ Python) | [reels/reel_8008_imbue-ai-mngr](reels/reel_8008_imbue-ai-mngr) |
 | 8009 | 2026-08-05 18:02:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185830⭐ Python) | [reels/reel_8009_Significant-Gravitas-AutoGPT](reels/reel_8009_Significant-Gravitas-AutoGPT) |
+| 8010 | 2026-08-05 19:53:24 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143498⭐ Python) | [reels/reel_8010_langchain-ai-langchain](reels/reel_8010_langchain-ai-langchain) |
