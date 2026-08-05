@@ -1,0 +1,24 @@
+{
+  "reel_number": 8002,
+  "recorded": "2026-08-05 01:07:36 UTC",
+  "repository": {
+    "full_name": "netenglabs/suzieq",
+    "url": "https://github.com/netenglabs/suzieq",
+    "clone_url": "https://github.com/netenglabs/suzieq.git",
+    "stars": 888,
+    "language": "Python",
+    "size_kb": 151528
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 147,
+    "duration_seconds": 2.892836
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 888 stars."
+  }
+}

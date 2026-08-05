@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8001 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 454k | 2026-08-04 |
+| #8002 | [netenglabs/suzieq](https://github.com/netenglabs/suzieq) | Python · ⭐ 888 | 2026-08-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8089,3 +8089,4 @@ If you need permission, you're thinking too much.
 | 7999 | 2026-08-04 21:36:06 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185809⭐ Python) | [reels/reel_7999_Significant-Gravitas-AutoGPT](reels/reel_7999_Significant-Gravitas-AutoGPT) |
 | 8000 | 2026-08-04 22:43:52 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (310657⭐ None) | [reels/reel_8000_awesome-selfhosted-awesome-selfhosted](reels/reel_8000_awesome-selfhosted-awesome-selfhosted) |
 | 8001 | 2026-08-04 23:44:30 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (454385⭐ Python) | [reels/reel_8001_public-apis-public-apis](reels/reel_8001_public-apis-public-apis) |
+| 8002 | 2026-08-05 01:07:36 | [netenglabs/suzieq](https://github.com/netenglabs/suzieq) | ✅ shallow (888⭐ Python) | [reels/reel_8002_netenglabs-suzieq](reels/reel_8002_netenglabs-suzieq) |
