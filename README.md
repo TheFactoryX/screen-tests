@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8018 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-06 |
+| #8019 | [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) | JavaScript · ⭐ 514 | 2026-08-06 |
 ---
 
 ## 🎭 Selection Process
@@ -8106,3 +8106,4 @@ If you need permission, you're thinking too much.
 | 8016 | 2026-08-06 06:44:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152874⭐ Python) | [reels/reel_8016_langflow-ai-langflow](reels/reel_8016_langflow-ai-langflow) |
 | 8017 | 2026-08-06 09:30:42 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199525⭐ TypeScript) | [reels/reel_8017_n8n-io-n8n](reels/reel_8017_n8n-io-n8n) |
 | 8018 | 2026-08-06 11:50:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143546⭐ Python) | [reels/reel_8018_langchain-ai-langchain](reels/reel_8018_langchain-ai-langchain) |
+| 8019 | 2026-08-06 14:02:02 | [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) | ✅ full (514⭐ JavaScript) | [reels/reel_8019_Zavy86-WikiDocs](reels/reel_8019_Zavy86-WikiDocs) |
