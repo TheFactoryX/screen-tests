@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8016 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-08-06 |
+| #8017 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 199k | 2026-08-06 |
 ---
 
 ## 🎭 Selection Process
@@ -8104,3 +8104,4 @@ If you need permission, you're thinking too much.
 | 8014 | 2026-08-06 00:52:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (185834⭐ Python) | [reels/reel_8014_Significant-Gravitas-AutoGPT](reels/reel_8014_Significant-Gravitas-AutoGPT) |
 | 8015 | 2026-08-06 04:09:33 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (310901⭐ None) | [reels/reel_8015_awesome-selfhosted-awesome-selfhosted](reels/reel_8015_awesome-selfhosted-awesome-selfhosted) |
 | 8016 | 2026-08-06 06:44:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152874⭐ Python) | [reels/reel_8016_langflow-ai-langflow](reels/reel_8016_langflow-ai-langflow) |
+| 8017 | 2026-08-06 09:30:42 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199525⭐ TypeScript) | [reels/reel_8017_n8n-io-n8n](reels/reel_8017_n8n-io-n8n) |
