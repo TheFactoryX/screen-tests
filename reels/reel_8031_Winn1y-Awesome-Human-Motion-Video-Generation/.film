@@ -1,0 +1,24 @@
+{
+  "reel_number": 8031,
+  "recorded": "2026-08-07 15:23:50 UTC",
+  "repository": {
+    "full_name": "Winn1y/Awesome-Human-Motion-Video-Generation",
+    "url": "https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation",
+    "clone_url": "https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation.git",
+    "stars": 341,
+    "language": null,
+    "size_kb": 11792
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 11,
+    "duration_seconds": 0.545995
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 341 stars."
+  }
+}
