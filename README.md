@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8039 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-07 |
+| #8040 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 238k | 2026-08-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8127,3 +8127,4 @@ If you need permission, you're thinking too much.
 | 8037 | 2026-08-07 20:51:27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (109997⭐ Rust) | [reels/reel_8037_tauri-apps-tauri](reels/reel_8037_tauri-apps-tauri) |
 | 8038 | 2026-08-07 21:36:04 | [wtfismyip/wtfismyip](https://github.com/wtfismyip/wtfismyip) | ✅ full (276⭐ Go) | [reels/reel_8038_wtfismyip-wtfismyip](reels/reel_8038_wtfismyip-wtfismyip) |
 | 8039 | 2026-08-07 22:17:33 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186295⭐ Python) | [reels/reel_8039_Significant-Gravitas-AutoGPT](reels/reel_8039_Significant-Gravitas-AutoGPT) |
+| 8040 | 2026-08-07 23:04:39 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (238566⭐ JavaScript) | [reels/reel_8040_affaan-m-ECC](reels/reel_8040_affaan-m-ECC) |
