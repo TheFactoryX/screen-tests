@@ -1,0 +1,24 @@
+{
+  "reel_number": 8021,
+  "recorded": "2026-08-07 03:17:30 UTC",
+  "repository": {
+    "full_name": "reticlehq/reticle",
+    "url": "https://github.com/reticlehq/reticle",
+    "clone_url": "https://github.com/reticlehq/reticle.git",
+    "stars": 269,
+    "language": "TypeScript",
+    "size_kb": 121755
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 118,
+    "duration_seconds": 2.058299
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 269 stars."
+  }
+}
