@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8021 | [reticlehq/reticle](https://github.com/reticlehq/reticle) | TypeScript · ⭐ 269 | 2026-08-07 |
+| #8022 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 277k | 2026-08-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8109,3 +8109,4 @@ If you need permission, you're thinking too much.
 | 8019 | 2026-08-06 14:02:02 | [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) | ✅ full (514⭐ JavaScript) | [reels/reel_8019_Zavy86-WikiDocs](reels/reel_8019_Zavy86-WikiDocs) |
 | 8020 | 2026-08-07 00:14:22 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135900⭐ TypeScript) | [reels/reel_8020_clash-verge-rev-clash-verge-rev](reels/reel_8020_clash-verge-rev-clash-verge-rev) |
 | 8021 | 2026-08-07 03:17:30 | [reticlehq/reticle](https://github.com/reticlehq/reticle) | ✅ shallow (269⭐ TypeScript) | [reels/reel_8021_reticlehq-reticle](reels/reel_8021_reticlehq-reticle) |
+| 8022 | 2026-08-07 05:12:28 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (277003⭐ Python) | [reels/reel_8022_practical-tutorials-project-based-learning](reels/reel_8022_practical-tutorials-project-based-learning) |
