@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8022 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 277k | 2026-08-07 |
+| #8023 | [d2lang/d2-playground](https://github.com/d2lang/d2-playground) | JavaScript · ⭐ 122 | 2026-08-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8110,3 +8110,4 @@ If you need permission, you're thinking too much.
 | 8020 | 2026-08-07 00:14:22 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135900⭐ TypeScript) | [reels/reel_8020_clash-verge-rev-clash-verge-rev](reels/reel_8020_clash-verge-rev-clash-verge-rev) |
 | 8021 | 2026-08-07 03:17:30 | [reticlehq/reticle](https://github.com/reticlehq/reticle) | ✅ shallow (269⭐ TypeScript) | [reels/reel_8021_reticlehq-reticle](reels/reel_8021_reticlehq-reticle) |
 | 8022 | 2026-08-07 05:12:28 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (277003⭐ Python) | [reels/reel_8022_practical-tutorials-project-based-learning](reels/reel_8022_practical-tutorials-project-based-learning) |
+| 8023 | 2026-08-07 06:19:24 | [d2lang/d2-playground](https://github.com/d2lang/d2-playground) | ✅ full (122⭐ JavaScript) | [reels/reel_8023_d2lang-d2-playground](reels/reel_8023_d2lang-d2-playground) |

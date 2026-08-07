@@ -1,0 +1,24 @@
+{
+  "reel_number": 8023,
+  "recorded": "2026-08-07 06:19:24 UTC",
+  "repository": {
+    "full_name": "d2lang/d2-playground",
+    "url": "https://github.com/d2lang/d2-playground",
+    "clone_url": "https://github.com/d2lang/d2-playground.git",
+    "stars": 122,
+    "language": "JavaScript",
+    "size_kb": 65510
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 2.915414
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 122 stars."
+  }
+}
