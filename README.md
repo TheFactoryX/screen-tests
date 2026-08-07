@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8035 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 183k | 2026-08-07 |
+| #8036 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 135k | 2026-08-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8123,3 +8123,4 @@ If you need permission, you're thinking too much.
 | 8033 | 2026-08-07 17:22:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140891⭐ Python) | [reels/reel_8033_ytdl-org-youtube-dl](reels/reel_8033_ytdl-org-youtube-dl) |
 | 8034 | 2026-08-07 18:10:12 | [abydahana/aksara](https://github.com/abydahana/aksara) | ✅ full (111⭐ PHP) | [reels/reel_8034_abydahana-aksara](reels/reel_8034_abydahana-aksara) |
 | 8035 | 2026-08-07 19:14:02 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (183073⭐ Python) | [reels/reel_8035_yt-dlp-yt-dlp](reels/reel_8035_yt-dlp-yt-dlp) |
+| 8036 | 2026-08-07 20:00:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135346⭐ TypeScript) | [reels/reel_8036_iptv-org-iptv](reels/reel_8036_iptv-org-iptv) |
