@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8019 | [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) | JavaScript · ⭐ 514 | 2026-08-06 |
+| #8020 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 135k | 2026-08-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8107,3 +8107,4 @@ If you need permission, you're thinking too much.
 | 8017 | 2026-08-06 09:30:42 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199525⭐ TypeScript) | [reels/reel_8017_n8n-io-n8n](reels/reel_8017_n8n-io-n8n) |
 | 8018 | 2026-08-06 11:50:13 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143546⭐ Python) | [reels/reel_8018_langchain-ai-langchain](reels/reel_8018_langchain-ai-langchain) |
 | 8019 | 2026-08-06 14:02:02 | [Zavy86/WikiDocs](https://github.com/Zavy86/WikiDocs) | ✅ full (514⭐ JavaScript) | [reels/reel_8019_Zavy86-WikiDocs](reels/reel_8019_Zavy86-WikiDocs) |
+| 8020 | 2026-08-07 00:14:22 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135900⭐ TypeScript) | [reels/reel_8020_clash-verge-rev-clash-verge-rev](reels/reel_8020_clash-verge-rev-clash-verge-rev) |
