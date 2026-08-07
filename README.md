@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8026 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-07 |
+| #8027 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 454k | 2026-08-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8114,3 +8114,4 @@ If you need permission, you're thinking too much.
 | 8024 | 2026-08-07 07:51:24 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (135980⭐ TypeScript) | [reels/reel_8024_clash-verge-rev-clash-verge-rev](reels/reel_8024_clash-verge-rev-clash-verge-rev) |
 | 8025 | 2026-08-07 08:56:24 | [wintermeyer/vutuv](https://github.com/wintermeyer/vutuv) | ✅ full (328⭐ Elixir) | [reels/reel_8025_wintermeyer-vutuv](reels/reel_8025_wintermeyer-vutuv) |
 | 8026 | 2026-08-07 10:01:26 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148119⭐ Python) | [reels/reel_8026_open-webui-open-webui](reels/reel_8026_open-webui-open-webui) |
+| 8027 | 2026-08-07 11:06:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (454867⭐ Python) | [reels/reel_8027_public-apis-public-apis](reels/reel_8027_public-apis-public-apis) |
