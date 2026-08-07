@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8033 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-08-07 |
+| #8034 | [abydahana/aksara](https://github.com/abydahana/aksara) | PHP · ⭐ 111 | 2026-08-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8121,3 +8121,4 @@ If you need permission, you're thinking too much.
 | 8031 | 2026-08-07 15:23:50 | [Winn1y/Awesome-Human-Motion-Video-Generation](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation) | ✅ full (341⭐ None) | [reels/reel_8031_Winn1y-Awesome-Human-Motion-Video-Generation](reels/reel_8031_Winn1y-Awesome-Human-Motion-Video-Generation) |
 | 8032 | 2026-08-07 16:23:06 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (183043⭐ Python) | [reels/reel_8032_yt-dlp-yt-dlp](reels/reel_8032_yt-dlp-yt-dlp) |
 | 8033 | 2026-08-07 17:22:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140891⭐ Python) | [reels/reel_8033_ytdl-org-youtube-dl](reels/reel_8033_ytdl-org-youtube-dl) |
+| 8034 | 2026-08-07 18:10:12 | [abydahana/aksara](https://github.com/abydahana/aksara) | ✅ full (111⭐ PHP) | [reels/reel_8034_abydahana-aksara](reels/reel_8034_abydahana-aksara) |
