@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8050 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 136k | 2026-08-08 |
+| #8051 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 199k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8138,3 +8138,4 @@ If you need permission, you're thinking too much.
 | 8048 | 2026-08-08 08:00:52 | [AutoClickerDev/AutoClicker---1-AutoClicker-2026](https://github.com/AutoClickerDev/AutoClicker---1-AutoClicker-2026) | ✅ full (14⭐ None) | [reels/reel_8048_AutoClickerDev-AutoClicker---1-AutoClicker-2026](reels/reel_8048_AutoClickerDev-AutoClicker---1-AutoClicker-2026) |
 | 8049 | 2026-08-08 08:58:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186403⭐ Python) | [reels/reel_8049_Significant-Gravitas-AutoGPT](reels/reel_8049_Significant-Gravitas-AutoGPT) |
 | 8050 | 2026-08-08 09:45:41 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (136311⭐ TypeScript) | [reels/reel_8050_clash-verge-rev-clash-verge-rev](reels/reel_8050_clash-verge-rev-clash-verge-rev) |
+| 8051 | 2026-08-08 10:29:12 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199786⭐ TypeScript) | [reels/reel_8051_n8n-io-n8n](reels/reel_8051_n8n-io-n8n) |
