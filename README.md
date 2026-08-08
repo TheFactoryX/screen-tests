@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8057 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-08 |
+| #8058 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8145,3 +8145,4 @@ If you need permission, you're thinking too much.
 | 8055 | 2026-08-08 13:10:51 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (109961⭐ TypeScript) | [reels/reel_8055_immich-app-immich](reels/reel_8055_immich-app-immich) |
 | 8056 | 2026-08-08 13:56:33 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140899⭐ Python) | [reels/reel_8056_ytdl-org-youtube-dl](reels/reel_8056_ytdl-org-youtube-dl) |
 | 8057 | 2026-08-08 14:31:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186432⭐ Python) | [reels/reel_8057_Significant-Gravitas-AutoGPT](reels/reel_8057_Significant-Gravitas-AutoGPT) |
+| 8058 | 2026-08-08 15:03:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148236⭐ Python) | [reels/reel_8058_open-webui-open-webui](reels/reel_8058_open-webui-open-webui) |
