@@ -1,0 +1,24 @@
+{
+  "reel_number": 8047,
+  "recorded": "2026-08-08 07:13:30 UTC",
+  "repository": {
+    "full_name": "JunieXD/AutoEmailSender",
+    "url": "https://github.com/JunieXD/AutoEmailSender",
+    "clone_url": "https://github.com/JunieXD/AutoEmailSender.git",
+    "stars": 118,
+    "language": "Python",
+    "size_kb": 15859
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 2.033279
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 118 stars."
+  }
+}
