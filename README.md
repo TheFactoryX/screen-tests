@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8056 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-08-08 |
+| #8057 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8144,3 +8144,4 @@ If you need permission, you're thinking too much.
 | 8054 | 2026-08-08 12:02:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (311314⭐ None) | [reels/reel_8054_awesome-selfhosted-awesome-selfhosted](reels/reel_8054_awesome-selfhosted-awesome-selfhosted) |
 | 8055 | 2026-08-08 13:10:51 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (109961⭐ TypeScript) | [reels/reel_8055_immich-app-immich](reels/reel_8055_immich-app-immich) |
 | 8056 | 2026-08-08 13:56:33 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140899⭐ Python) | [reels/reel_8056_ytdl-org-youtube-dl](reels/reel_8056_ytdl-org-youtube-dl) |
+| 8057 | 2026-08-08 14:31:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186432⭐ Python) | [reels/reel_8057_Significant-Gravitas-AutoGPT](reels/reel_8057_Significant-Gravitas-AutoGPT) |
