@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8055 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 109k | 2026-08-08 |
+| #8056 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8143,3 +8143,4 @@ If you need permission, you're thinking too much.
 | 8053 | 2026-08-08 11:41:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152955⭐ Python) | [reels/reel_8053_langflow-ai-langflow](reels/reel_8053_langflow-ai-langflow) |
 | 8054 | 2026-08-08 12:02:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (311314⭐ None) | [reels/reel_8054_awesome-selfhosted-awesome-selfhosted](reels/reel_8054_awesome-selfhosted-awesome-selfhosted) |
 | 8055 | 2026-08-08 13:10:51 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (109961⭐ TypeScript) | [reels/reel_8055_immich-app-immich](reels/reel_8055_immich-app-immich) |
+| 8056 | 2026-08-08 13:56:33 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140899⭐ Python) | [reels/reel_8056_ytdl-org-youtube-dl](reels/reel_8056_ytdl-org-youtube-dl) |
