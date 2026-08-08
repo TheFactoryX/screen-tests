@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8061 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-08 |
+| #8062 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 238k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8149,3 +8149,4 @@ If you need permission, you're thinking too much.
 | 8059 | 2026-08-08 15:44:41 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (136412⭐ TypeScript) | [reels/reel_8059_clash-verge-rev-clash-verge-rev](reels/reel_8059_clash-verge-rev-clash-verge-rev) |
 | 8060 | 2026-08-08 16:11:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143705⭐ Python) | [reels/reel_8060_langchain-ai-langchain](reels/reel_8060_langchain-ai-langchain) |
 | 8061 | 2026-08-08 16:51:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186440⭐ Python) | [reels/reel_8061_Significant-Gravitas-AutoGPT](reels/reel_8061_Significant-Gravitas-AutoGPT) |
+| 8062 | 2026-08-08 17:26:55 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (238758⭐ JavaScript) | [reels/reel_8062_affaan-m-ECC](reels/reel_8062_affaan-m-ECC) |
