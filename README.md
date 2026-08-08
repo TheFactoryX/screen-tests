@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8069 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-08-08 |
+| #8070 | [anatoli-starostin/spiky](https://github.com/anatoli-starostin/spiky) | Python · ⭐ 17 | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8157,3 +8157,4 @@ If you need permission, you're thinking too much.
 | 8067 | 2026-08-08 20:26:32 | [luqmanluqman7349-cloud/manga-synchronizer](https://github.com/luqmanluqman7349-cloud/manga-synchronizer) | ✅ full (151⭐ HTML) | [reels/reel_8067_luqmanluqman7349-cloud-manga-synchronizer](reels/reel_8067_luqmanluqman7349-cloud-manga-synchronizer) |
 | 8068 | 2026-08-08 20:58:24 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455084⭐ Python) | [reels/reel_8068_public-apis-public-apis](reels/reel_8068_public-apis-public-apis) |
 | 8069 | 2026-08-08 21:36:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152958⭐ Python) | [reels/reel_8069_langflow-ai-langflow](reels/reel_8069_langflow-ai-langflow) |
+| 8070 | 2026-08-08 22:01:33 | [anatoli-starostin/spiky](https://github.com/anatoli-starostin/spiky) | ✅ shallow (17⭐ Python) | [reels/reel_8070_anatoli-starostin-spiky](reels/reel_8070_anatoli-starostin-spiky) |

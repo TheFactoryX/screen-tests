@@ -1,0 +1,24 @@
+{
+  "reel_number": 8070,
+  "recorded": "2026-08-08 22:01:33 UTC",
+  "repository": {
+    "full_name": "anatoli-starostin/spiky",
+    "url": "https://github.com/anatoli-starostin/spiky",
+    "clone_url": "https://github.com/anatoli-starostin/spiky.git",
+    "stars": 17,
+    "language": "Python",
+    "size_kb": 168914
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 164,
+    "duration_seconds": 0.866086
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 17 stars."
+  }
+}
