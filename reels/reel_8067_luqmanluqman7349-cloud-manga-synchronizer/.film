@@ -1,0 +1,24 @@
+{
+  "reel_number": 8067,
+  "recorded": "2026-08-08 20:26:32 UTC",
+  "repository": {
+    "full_name": "luqmanluqman7349-cloud/manga-synchronizer",
+    "url": "https://github.com/luqmanluqman7349-cloud/manga-synchronizer",
+    "clone_url": "https://github.com/luqmanluqman7349-cloud/manga-synchronizer.git",
+    "stars": 151,
+    "language": "HTML",
+    "size_kb": 574
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.719201
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 151 stars."
+  }
+}
