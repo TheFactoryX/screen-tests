@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8065 | [nail-e/futa](https://github.com/nail-e/futa) | Python · ⭐ 21 | 2026-08-08 |
+| #8066 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 183k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8153,3 +8153,4 @@ If you need permission, you're thinking too much.
 | 8063 | 2026-08-08 17:58:04 | [sudara/awesome-juce](https://github.com/sudara/awesome-juce) | ✅ full (1311⭐ Ruby) | [reels/reel_8063_sudara-awesome-juce](reels/reel_8063_sudara-awesome-juce) |
 | 8064 | 2026-08-08 18:44:55 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455071⭐ Python) | [reels/reel_8064_public-apis-public-apis](reels/reel_8064_public-apis-public-apis) |
 | 8065 | 2026-08-08 19:16:47 | [nail-e/futa](https://github.com/nail-e/futa) | ✅ full (21⭐ Python) | [reels/reel_8065_nail-e-futa](reels/reel_8065_nail-e-futa) |
+| 8066 | 2026-08-08 19:52:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (183279⭐ Python) | [reels/reel_8066_yt-dlp-yt-dlp](reels/reel_8066_yt-dlp-yt-dlp) |
