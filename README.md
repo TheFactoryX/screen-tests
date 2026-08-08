@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8042 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 120k | 2026-08-08 |
+| #8043 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 183k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8130,3 +8130,4 @@ If you need permission, you're thinking too much.
 | 8040 | 2026-08-07 23:04:39 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (238566⭐ JavaScript) | [reels/reel_8040_affaan-m-ECC](reels/reel_8040_affaan-m-ECC) |
 | 8041 | 2026-08-07 23:47:35 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (238574⭐ JavaScript) | [reels/reel_8041_affaan-m-ECC](reels/reel_8041_affaan-m-ECC) |
 | 8042 | 2026-08-08 01:22:32 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (120787⭐ TypeScript) | [reels/reel_8042_shadcn-ui-ui](reels/reel_8042_shadcn-ui-ui) |
+| 8043 | 2026-08-08 03:07:52 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (183131⭐ Python) | [reels/reel_8043_yt-dlp-yt-dlp](reels/reel_8043_yt-dlp-yt-dlp) |
