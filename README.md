@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8060 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-08 |
+| #8061 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8148,3 +8148,4 @@ If you need permission, you're thinking too much.
 | 8058 | 2026-08-08 15:03:02 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148236⭐ Python) | [reels/reel_8058_open-webui-open-webui](reels/reel_8058_open-webui-open-webui) |
 | 8059 | 2026-08-08 15:44:41 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (136412⭐ TypeScript) | [reels/reel_8059_clash-verge-rev-clash-verge-rev](reels/reel_8059_clash-verge-rev-clash-verge-rev) |
 | 8060 | 2026-08-08 16:11:27 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143705⭐ Python) | [reels/reel_8060_langchain-ai-langchain](reels/reel_8060_langchain-ai-langchain) |
+| 8061 | 2026-08-08 16:51:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186440⭐ Python) | [reels/reel_8061_Significant-Gravitas-AutoGPT](reels/reel_8061_Significant-Gravitas-AutoGPT) |
