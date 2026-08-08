@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8053 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-08-08 |
+| #8054 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 311k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8141,3 +8141,4 @@ If you need permission, you're thinking too much.
 | 8051 | 2026-08-08 10:29:12 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199786⭐ TypeScript) | [reels/reel_8051_n8n-io-n8n](reels/reel_8051_n8n-io-n8n) |
 | 8052 | 2026-08-08 11:02:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (311304⭐ None) | [reels/reel_8052_awesome-selfhosted-awesome-selfhosted](reels/reel_8052_awesome-selfhosted-awesome-selfhosted) |
 | 8053 | 2026-08-08 11:41:40 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152955⭐ Python) | [reels/reel_8053_langflow-ai-langflow](reels/reel_8053_langflow-ai-langflow) |
+| 8054 | 2026-08-08 12:02:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (311314⭐ None) | [reels/reel_8054_awesome-selfhosted-awesome-selfhosted](reels/reel_8054_awesome-selfhosted-awesome-selfhosted) |
