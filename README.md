@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8071 | [traefikturkey/onramp](https://github.com/traefikturkey/onramp) | Python · ⭐ 117 | 2026-08-08 |
+| #8072 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 238k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8159,3 +8159,4 @@ If you need permission, you're thinking too much.
 | 8069 | 2026-08-08 21:36:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152958⭐ Python) | [reels/reel_8069_langflow-ai-langflow](reels/reel_8069_langflow-ai-langflow) |
 | 8070 | 2026-08-08 22:01:33 | [anatoli-starostin/spiky](https://github.com/anatoli-starostin/spiky) | ✅ shallow (17⭐ Python) | [reels/reel_8070_anatoli-starostin-spiky](reels/reel_8070_anatoli-starostin-spiky) |
 | 8071 | 2026-08-08 22:45:43 | [traefikturkey/onramp](https://github.com/traefikturkey/onramp) | ✅ full (117⭐ Python) | [reels/reel_8071_traefikturkey-onramp](reels/reel_8071_traefikturkey-onramp) |
+| 8072 | 2026-08-08 23:25:41 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (238807⭐ JavaScript) | [reels/reel_8072_affaan-m-ECC](reels/reel_8072_affaan-m-ECC) |
