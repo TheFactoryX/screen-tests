@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8064 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 455k | 2026-08-08 |
+| #8065 | [nail-e/futa](https://github.com/nail-e/futa) | Python · ⭐ 21 | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8152,3 +8152,4 @@ If you need permission, you're thinking too much.
 | 8062 | 2026-08-08 17:26:55 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (238758⭐ JavaScript) | [reels/reel_8062_affaan-m-ECC](reels/reel_8062_affaan-m-ECC) |
 | 8063 | 2026-08-08 17:58:04 | [sudara/awesome-juce](https://github.com/sudara/awesome-juce) | ✅ full (1311⭐ Ruby) | [reels/reel_8063_sudara-awesome-juce](reels/reel_8063_sudara-awesome-juce) |
 | 8064 | 2026-08-08 18:44:55 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455071⭐ Python) | [reels/reel_8064_public-apis-public-apis](reels/reel_8064_public-apis-public-apis) |
+| 8065 | 2026-08-08 19:16:47 | [nail-e/futa](https://github.com/nail-e/futa) | ✅ full (21⭐ Python) | [reels/reel_8065_nail-e-futa](reels/reel_8065_nail-e-futa) |
