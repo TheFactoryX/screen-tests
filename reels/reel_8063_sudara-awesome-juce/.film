@@ -1,0 +1,24 @@
+{
+  "reel_number": 8063,
+  "recorded": "2026-08-08 17:58:04 UTC",
+  "repository": {
+    "full_name": "sudara/awesome-juce",
+    "url": "https://github.com/sudara/awesome-juce",
+    "clone_url": "https://github.com/sudara/awesome-juce.git",
+    "stars": 1311,
+    "language": "Ruby",
+    "size_kb": 1830
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 1.252503
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 1311 stars."
+  }
+}
