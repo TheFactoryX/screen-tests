@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8068 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 455k | 2026-08-08 |
+| #8069 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-08-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8156,3 +8156,4 @@ If you need permission, you're thinking too much.
 | 8066 | 2026-08-08 19:52:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (183279⭐ Python) | [reels/reel_8066_yt-dlp-yt-dlp](reels/reel_8066_yt-dlp-yt-dlp) |
 | 8067 | 2026-08-08 20:26:32 | [luqmanluqman7349-cloud/manga-synchronizer](https://github.com/luqmanluqman7349-cloud/manga-synchronizer) | ✅ full (151⭐ HTML) | [reels/reel_8067_luqmanluqman7349-cloud-manga-synchronizer](reels/reel_8067_luqmanluqman7349-cloud-manga-synchronizer) |
 | 8068 | 2026-08-08 20:58:24 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455084⭐ Python) | [reels/reel_8068_public-apis-public-apis](reels/reel_8068_public-apis-public-apis) |
+| 8069 | 2026-08-08 21:36:24 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152958⭐ Python) | [reels/reel_8069_langflow-ai-langflow](reels/reel_8069_langflow-ai-langflow) |
