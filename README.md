@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8102 | [DonIsaac/zlint](https://github.com/DonIsaac/zlint) | Zig · ⭐ 303 | 2026-08-09 |
+| #8103 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8190,3 +8190,4 @@ If you need permission, you're thinking too much.
 | 8100 | 2026-08-09 21:59:44 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (538105⭐ Markdown) | [reels/reel_8100_codecrafters-io-build-your-own-x](reels/reel_8100_codecrafters-io-build-your-own-x) |
 | 8101 | 2026-08-09 22:39:49 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455217⭐ Python) | [reels/reel_8101_public-apis-public-apis](reels/reel_8101_public-apis-public-apis) |
 | 8102 | 2026-08-09 23:04:54 | [DonIsaac/zlint](https://github.com/DonIsaac/zlint) | ✅ full (303⭐ Zig) | [reels/reel_8102_DonIsaac-zlint](reels/reel_8102_DonIsaac-zlint) |
+| 8103 | 2026-08-09 23:45:15 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148326⭐ Python) | [reels/reel_8103_open-webui-open-webui](reels/reel_8103_open-webui-open-webui) |
