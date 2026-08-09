@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8087 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 110k | 2026-08-09 |
+| #8088 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 455k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8175,3 +8175,4 @@ If you need permission, you're thinking too much.
 | 8085 | 2026-08-09 11:44:14 | [agadmator-library/agadmator-library.github.io](https://github.com/agadmator-library/agadmator-library.github.io) | ✅ shallow (110⭐ TypeScript) | [reels/reel_8085_agadmator-library-agadmator-library.github.io](reels/reel_8085_agadmator-library-agadmator-library.github.io) |
 | 8086 | 2026-08-09 12:16:00 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (117830⭐ None) | [reels/reel_8086_Hack-with-Github-Awesome-Hacking](reels/reel_8086_Hack-with-Github-Awesome-Hacking) |
 | 8087 | 2026-08-09 13:29:51 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110038⭐ TypeScript) | [reels/reel_8087_immich-app-immich](reels/reel_8087_immich-app-immich) |
+| 8088 | 2026-08-09 14:09:22 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455178⭐ Python) | [reels/reel_8088_public-apis-public-apis](reels/reel_8088_public-apis-public-apis) |
