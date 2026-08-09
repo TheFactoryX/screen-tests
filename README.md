@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8073 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 152k | 2026-08-08 |
+| #8074 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 115k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8161,3 +8161,4 @@ If you need permission, you're thinking too much.
 | 8071 | 2026-08-08 22:45:43 | [traefikturkey/onramp](https://github.com/traefikturkey/onramp) | ✅ full (117⭐ Python) | [reels/reel_8071_traefikturkey-onramp](reels/reel_8071_traefikturkey-onramp) |
 | 8072 | 2026-08-08 23:25:41 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (238807⭐ JavaScript) | [reels/reel_8072_affaan-m-ECC](reels/reel_8072_affaan-m-ECC) |
 | 8073 | 2026-08-08 23:54:26 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152961⭐ Python) | [reels/reel_8073_langflow-ai-langflow](reels/reel_8073_langflow-ai-langflow) |
+| 8074 | 2026-08-09 01:27:50 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115366⭐ Rust) | [reels/reel_8074_rust-lang-rust](reels/reel_8074_rust-lang-rust) |
