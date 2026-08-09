@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8101 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 455k | 2026-08-09 |
+| #8102 | [DonIsaac/zlint](https://github.com/DonIsaac/zlint) | Zig · ⭐ 303 | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8189,3 +8189,4 @@ If you need permission, you're thinking too much.
 | 8099 | 2026-08-09 21:29:05 | [oyvindberg/bleep](https://github.com/oyvindberg/bleep) | ✅ full (181⭐ Scala) | [reels/reel_8099_oyvindberg-bleep](reels/reel_8099_oyvindberg-bleep) |
 | 8100 | 2026-08-09 21:59:44 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (538105⭐ Markdown) | [reels/reel_8100_codecrafters-io-build-your-own-x](reels/reel_8100_codecrafters-io-build-your-own-x) |
 | 8101 | 2026-08-09 22:39:49 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455217⭐ Python) | [reels/reel_8101_public-apis-public-apis](reels/reel_8101_public-apis-public-apis) |
+| 8102 | 2026-08-09 23:04:54 | [DonIsaac/zlint](https://github.com/DonIsaac/zlint) | ✅ full (303⭐ Zig) | [reels/reel_8102_DonIsaac-zlint](reels/reel_8102_DonIsaac-zlint) |
