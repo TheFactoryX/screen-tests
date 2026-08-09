@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8085 | [agadmator-library/agadmator-library.github.io](https://github.com/agadmator-library/agadmator-library.github.io) | TypeScript · ⭐ 110 | 2026-08-09 |
+| #8086 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 117k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8173,3 +8173,4 @@ If you need permission, you're thinking too much.
 | 8083 | 2026-08-09 10:32:23 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (537965⭐ Markdown) | [reels/reel_8083_codecrafters-io-build-your-own-x](reels/reel_8083_codecrafters-io-build-your-own-x) |
 | 8084 | 2026-08-09 11:06:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199904⭐ TypeScript) | [reels/reel_8084_n8n-io-n8n](reels/reel_8084_n8n-io-n8n) |
 | 8085 | 2026-08-09 11:44:14 | [agadmator-library/agadmator-library.github.io](https://github.com/agadmator-library/agadmator-library.github.io) | ✅ shallow (110⭐ TypeScript) | [reels/reel_8085_agadmator-library-agadmator-library.github.io](reels/reel_8085_agadmator-library-agadmator-library.github.io) |
+| 8086 | 2026-08-09 12:16:00 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (117830⭐ None) | [reels/reel_8086_Hack-with-Github-Awesome-Hacking](reels/reel_8086_Hack-with-Github-Awesome-Hacking) |
