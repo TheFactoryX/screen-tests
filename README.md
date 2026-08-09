@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8079 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-09 |
+| #8080 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8167,3 +8167,4 @@ If you need permission, you're thinking too much.
 | 8077 | 2026-08-09 05:44:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152963⭐ Python) | [reels/reel_8077_langflow-ai-langflow](reels/reel_8077_langflow-ai-langflow) |
 | 8078 | 2026-08-09 06:29:38 | [klboke/kkRepo](https://github.com/klboke/kkRepo) | ✅ full (194⭐ Java) | [reels/reel_8078_klboke-kkRepo](reels/reel_8078_klboke-kkRepo) |
 | 8079 | 2026-08-09 07:35:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186443⭐ Python) | [reels/reel_8079_Significant-Gravitas-AutoGPT](reels/reel_8079_Significant-Gravitas-AutoGPT) |
+| 8080 | 2026-08-09 08:23:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148276⭐ Python) | [reels/reel_8080_open-webui-open-webui](reels/reel_8080_open-webui-open-webui) |
