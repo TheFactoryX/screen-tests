@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8081 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 120k | 2026-08-09 |
+| #8082 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 277k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8169,3 +8169,4 @@ If you need permission, you're thinking too much.
 | 8079 | 2026-08-09 07:35:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186443⭐ Python) | [reels/reel_8079_Significant-Gravitas-AutoGPT](reels/reel_8079_Significant-Gravitas-AutoGPT) |
 | 8080 | 2026-08-09 08:23:17 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148276⭐ Python) | [reels/reel_8080_open-webui-open-webui](reels/reel_8080_open-webui-open-webui) |
 | 8081 | 2026-08-09 09:10:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (120869⭐ TypeScript) | [reels/reel_8081_shadcn-ui-ui](reels/reel_8081_shadcn-ui-ui) |
+| 8082 | 2026-08-09 09:55:30 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (277455⭐ Python) | [reels/reel_8082_practical-tutorials-project-based-learning](reels/reel_8082_practical-tutorials-project-based-learning) |
