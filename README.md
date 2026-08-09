@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8091 | [open-aviation/pyopensky](https://github.com/open-aviation/pyopensky) | Python · ⭐ 111 | 2026-08-09 |
+| #8092 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 125k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8179,3 +8179,4 @@ If you need permission, you're thinking too much.
 | 8089 | 2026-08-09 14:51:25 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135496⭐ TypeScript) | [reels/reel_8089_iptv-org-iptv](reels/reel_8089_iptv-org-iptv) |
 | 8090 | 2026-08-09 15:28:40 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (136656⭐ TypeScript) | [reels/reel_8090_clash-verge-rev-clash-verge-rev](reels/reel_8090_clash-verge-rev-clash-verge-rev) |
 | 8091 | 2026-08-09 15:59:09 | [open-aviation/pyopensky](https://github.com/open-aviation/pyopensky) | ✅ full (111⭐ Python) | [reels/reel_8091_open-aviation-pyopensky](reels/reel_8091_open-aviation-pyopensky) |
+| 8092 | 2026-08-09 16:45:16 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (125297⭐ Python) | [reels/reel_8092_Comfy-Org-ComfyUI](reels/reel_8092_Comfy-Org-ComfyUI) |
