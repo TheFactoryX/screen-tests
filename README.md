@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8099 | [oyvindberg/bleep](https://github.com/oyvindberg/bleep) | Scala · ⭐ 181 | 2026-08-09 |
+| #8100 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 538k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8187,3 +8187,4 @@ If you need permission, you're thinking too much.
 | 8097 | 2026-08-09 20:03:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115384⭐ Rust) | [reels/reel_8097_rust-lang-rust](reels/reel_8097_rust-lang-rust) |
 | 8098 | 2026-08-09 20:50:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (311610⭐ None) | [reels/reel_8098_awesome-selfhosted-awesome-selfhosted](reels/reel_8098_awesome-selfhosted-awesome-selfhosted) |
 | 8099 | 2026-08-09 21:29:05 | [oyvindberg/bleep](https://github.com/oyvindberg/bleep) | ✅ full (181⭐ Scala) | [reels/reel_8099_oyvindberg-bleep](reels/reel_8099_oyvindberg-bleep) |
+| 8100 | 2026-08-09 21:59:44 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (538105⭐ Markdown) | [reels/reel_8100_codecrafters-io-build-your-own-x](reels/reel_8100_codecrafters-io-build-your-own-x) |
