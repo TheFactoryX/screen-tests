@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8078 | [klboke/kkRepo](https://github.com/klboke/kkRepo) | Java · ⭐ 194 | 2026-08-09 |
+| #8079 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8166,3 +8166,4 @@ If you need permission, you're thinking too much.
 | 8076 | 2026-08-09 04:45:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135458⭐ TypeScript) | [reels/reel_8076_iptv-org-iptv](reels/reel_8076_iptv-org-iptv) |
 | 8077 | 2026-08-09 05:44:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (152963⭐ Python) | [reels/reel_8077_langflow-ai-langflow](reels/reel_8077_langflow-ai-langflow) |
 | 8078 | 2026-08-09 06:29:38 | [klboke/kkRepo](https://github.com/klboke/kkRepo) | ✅ full (194⭐ Java) | [reels/reel_8078_klboke-kkRepo](reels/reel_8078_klboke-kkRepo) |
+| 8079 | 2026-08-09 07:35:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186443⭐ Python) | [reels/reel_8079_Significant-Gravitas-AutoGPT](reels/reel_8079_Significant-Gravitas-AutoGPT) |
