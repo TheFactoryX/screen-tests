@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8083 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 537k | 2026-08-09 |
+| #8084 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 199k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8171,3 +8171,4 @@ If you need permission, you're thinking too much.
 | 8081 | 2026-08-09 09:10:45 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (120869⭐ TypeScript) | [reels/reel_8081_shadcn-ui-ui](reels/reel_8081_shadcn-ui-ui) |
 | 8082 | 2026-08-09 09:55:30 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (277455⭐ Python) | [reels/reel_8082_practical-tutorials-project-based-learning](reels/reel_8082_practical-tutorials-project-based-learning) |
 | 8083 | 2026-08-09 10:32:23 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (537965⭐ Markdown) | [reels/reel_8083_codecrafters-io-build-your-own-x](reels/reel_8083_codecrafters-io-build-your-own-x) |
+| 8084 | 2026-08-09 11:06:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199904⭐ TypeScript) | [reels/reel_8084_n8n-io-n8n](reels/reel_8084_n8n-io-n8n) |
