@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8084 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 199k | 2026-08-09 |
+| #8085 | [agadmator-library/agadmator-library.github.io](https://github.com/agadmator-library/agadmator-library.github.io) | TypeScript · ⭐ 110 | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8172,3 +8172,4 @@ If you need permission, you're thinking too much.
 | 8082 | 2026-08-09 09:55:30 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (277455⭐ Python) | [reels/reel_8082_practical-tutorials-project-based-learning](reels/reel_8082_practical-tutorials-project-based-learning) |
 | 8083 | 2026-08-09 10:32:23 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (537965⭐ Markdown) | [reels/reel_8083_codecrafters-io-build-your-own-x](reels/reel_8083_codecrafters-io-build-your-own-x) |
 | 8084 | 2026-08-09 11:06:59 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199904⭐ TypeScript) | [reels/reel_8084_n8n-io-n8n](reels/reel_8084_n8n-io-n8n) |
+| 8085 | 2026-08-09 11:44:14 | [agadmator-library/agadmator-library.github.io](https://github.com/agadmator-library/agadmator-library.github.io) | ✅ shallow (110⭐ TypeScript) | [reels/reel_8085_agadmator-library-agadmator-library.github.io](reels/reel_8085_agadmator-library-agadmator-library.github.io) |
