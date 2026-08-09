@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8096 | [faridi229/react-native-control-center](https://github.com/faridi229/react-native-control-center) | HTML · ⭐ 151 | 2026-08-09 |
+| #8097 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 115k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8184,3 +8184,4 @@ If you need permission, you're thinking too much.
 | 8094 | 2026-08-09 18:00:33 | [M507/RamiGPT](https://github.com/M507/RamiGPT) | ✅ full (872⭐ Python) | [reels/reel_8094_M507-RamiGPT](reels/reel_8094_M507-RamiGPT) |
 | 8095 | 2026-08-09 18:59:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199958⭐ TypeScript) | [reels/reel_8095_n8n-io-n8n](reels/reel_8095_n8n-io-n8n) |
 | 8096 | 2026-08-09 19:40:08 | [faridi229/react-native-control-center](https://github.com/faridi229/react-native-control-center) | ✅ full (151⭐ HTML) | [reels/reel_8096_faridi229-react-native-control-center](reels/reel_8096_faridi229-react-native-control-center) |
+| 8097 | 2026-08-09 20:03:30 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115384⭐ Rust) | [reels/reel_8097_rust-lang-rust](reels/reel_8097_rust-lang-rust) |
