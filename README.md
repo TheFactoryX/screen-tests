@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8088 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 455k | 2026-08-09 |
+| #8089 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 135k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8176,3 +8176,4 @@ If you need permission, you're thinking too much.
 | 8086 | 2026-08-09 12:16:00 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (117830⭐ None) | [reels/reel_8086_Hack-with-Github-Awesome-Hacking](reels/reel_8086_Hack-with-Github-Awesome-Hacking) |
 | 8087 | 2026-08-09 13:29:51 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110038⭐ TypeScript) | [reels/reel_8087_immich-app-immich](reels/reel_8087_immich-app-immich) |
 | 8088 | 2026-08-09 14:09:22 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455178⭐ Python) | [reels/reel_8088_public-apis-public-apis](reels/reel_8088_public-apis-public-apis) |
+| 8089 | 2026-08-09 14:51:25 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135496⭐ TypeScript) | [reels/reel_8089_iptv-org-iptv](reels/reel_8089_iptv-org-iptv) |
