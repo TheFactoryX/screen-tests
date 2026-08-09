@@ -1,0 +1,24 @@
+{
+  "reel_number": 8096,
+  "recorded": "2026-08-09 19:40:08 UTC",
+  "repository": {
+    "full_name": "faridi229/react-native-control-center",
+    "url": "https://github.com/faridi229/react-native-control-center",
+    "clone_url": "https://github.com/faridi229/react-native-control-center.git",
+    "stars": 151,
+    "language": "HTML",
+    "size_kb": 603
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.499129
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 151 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8095 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 199k | 2026-08-09 |
+| #8096 | [faridi229/react-native-control-center](https://github.com/faridi229/react-native-control-center) | HTML · ⭐ 151 | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8183,3 +8183,4 @@ If you need permission, you're thinking too much.
 | 8093 | 2026-08-09 17:28:58 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (200847⭐ None) | [reels/reel_8093_multica-ai-andrej-karpathy-skills](reels/reel_8093_multica-ai-andrej-karpathy-skills) |
 | 8094 | 2026-08-09 18:00:33 | [M507/RamiGPT](https://github.com/M507/RamiGPT) | ✅ full (872⭐ Python) | [reels/reel_8094_M507-RamiGPT](reels/reel_8094_M507-RamiGPT) |
 | 8095 | 2026-08-09 18:59:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (199958⭐ TypeScript) | [reels/reel_8095_n8n-io-n8n](reels/reel_8095_n8n-io-n8n) |
+| 8096 | 2026-08-09 19:40:08 | [faridi229/react-native-control-center](https://github.com/faridi229/react-native-control-center) | ✅ full (151⭐ HTML) | [reels/reel_8096_faridi229-react-native-control-center](reels/reel_8096_faridi229-react-native-control-center) |
