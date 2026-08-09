@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8092 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 125k | 2026-08-09 |
+| #8093 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 200k | 2026-08-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8180,3 +8180,4 @@ If you need permission, you're thinking too much.
 | 8090 | 2026-08-09 15:28:40 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (136656⭐ TypeScript) | [reels/reel_8090_clash-verge-rev-clash-verge-rev](reels/reel_8090_clash-verge-rev-clash-verge-rev) |
 | 8091 | 2026-08-09 15:59:09 | [open-aviation/pyopensky](https://github.com/open-aviation/pyopensky) | ✅ full (111⭐ Python) | [reels/reel_8091_open-aviation-pyopensky](reels/reel_8091_open-aviation-pyopensky) |
 | 8092 | 2026-08-09 16:45:16 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (125297⭐ Python) | [reels/reel_8092_Comfy-Org-ComfyUI](reels/reel_8092_Comfy-Org-ComfyUI) |
+| 8093 | 2026-08-09 17:28:58 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (200847⭐ None) | [reels/reel_8093_multica-ai-andrej-karpathy-skills](reels/reel_8093_multica-ai-andrej-karpathy-skills) |
