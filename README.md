@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8116 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties) | Python · ⭐ 249 | 2026-08-10 |
+| #8117 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 115k | 2026-08-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8204,3 +8204,4 @@ If you need permission, you're thinking too much.
 | 8114 | 2026-08-10 15:36:59 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (136906⭐ TypeScript) | [reels/reel_8114_clash-verge-rev-clash-verge-rev](reels/reel_8114_clash-verge-rev-clash-verge-rev) |
 | 8115 | 2026-08-10 16:31:17 | [pg83/shitty](https://github.com/pg83/shitty) | ✅ full (274⭐ Python) | [reels/reel_8115_pg83-shitty](reels/reel_8115_pg83-shitty) |
 | 8116 | 2026-08-10 17:35:44 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties) | ✅ full (249⭐ Python) | [reels/reel_8116_Scottcjn-rustchain-bounties](reels/reel_8116_Scottcjn-rustchain-bounties) |
+| 8117 | 2026-08-10 18:33:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115384⭐ Rust) | [reels/reel_8117_rust-lang-rust](reels/reel_8117_rust-lang-rust) |
