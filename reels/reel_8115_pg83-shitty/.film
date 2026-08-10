@@ -1,0 +1,24 @@
+{
+  "reel_number": 8115,
+  "recorded": "2026-08-10 16:31:17 UTC",
+  "repository": {
+    "full_name": "pg83/shitty",
+    "url": "https://github.com/pg83/shitty",
+    "clone_url": "https://github.com/pg83/shitty.git",
+    "stars": 274,
+    "language": "Python",
+    "size_kb": 24116
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 2.6689
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 274 stars."
+  }
+}
