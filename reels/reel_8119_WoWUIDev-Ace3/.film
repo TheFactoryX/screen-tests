@@ -1,0 +1,24 @@
+{
+  "reel_number": 8119,
+  "recorded": "2026-08-10 20:22:35 UTC",
+  "repository": {
+    "full_name": "WoWUIDev/Ace3",
+    "url": "https://github.com/WoWUIDev/Ace3",
+    "clone_url": "https://github.com/WoWUIDev/Ace3.git",
+    "stars": 109,
+    "language": "Lua",
+    "size_kb": 731
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 1.004194
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lua",
+    "director_note": "A Lua repository. 109 stars."
+  }
+}

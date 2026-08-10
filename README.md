@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8118 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-10 |
+| #8119 | [WoWUIDev/Ace3](https://github.com/WoWUIDev/Ace3) | Lua · ⭐ 109 | 2026-08-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8206,3 +8206,4 @@ If you need permission, you're thinking too much.
 | 8116 | 2026-08-10 17:35:44 | [Scottcjn/rustchain-bounties](https://github.com/Scottcjn/rustchain-bounties) | ✅ full (249⭐ Python) | [reels/reel_8116_Scottcjn-rustchain-bounties](reels/reel_8116_Scottcjn-rustchain-bounties) |
 | 8117 | 2026-08-10 18:33:10 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115384⭐ Rust) | [reels/reel_8117_rust-lang-rust](reels/reel_8117_rust-lang-rust) |
 | 8118 | 2026-08-10 19:41:01 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143902⭐ Python) | [reels/reel_8118_langchain-ai-langchain](reels/reel_8118_langchain-ai-langchain) |
+| 8119 | 2026-08-10 20:22:35 | [WoWUIDev/Ace3](https://github.com/WoWUIDev/Ace3) | ✅ full (109⭐ Lua) | [reels/reel_8119_WoWUIDev-Ace3](reels/reel_8119_WoWUIDev-Ace3) |
