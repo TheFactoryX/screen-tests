@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8109 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-10 |
+| #8110 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 239k | 2026-08-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8197,3 +8197,4 @@ If you need permission, you're thinking too much.
 | 8107 | 2026-08-10 06:40:46 | [google/libultrahdr](https://github.com/google/libultrahdr) | ✅ full (334⭐ C++) | [reels/reel_8107_google-libultrahdr](reels/reel_8107_google-libultrahdr) |
 | 8108 | 2026-08-10 08:15:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200040⭐ TypeScript) | [reels/reel_8108_n8n-io-n8n](reels/reel_8108_n8n-io-n8n) |
 | 8109 | 2026-08-10 09:56:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148367⭐ Python) | [reels/reel_8109_open-webui-open-webui](reels/reel_8109_open-webui-open-webui) |
+| 8110 | 2026-08-10 11:08:12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (239116⭐ JavaScript) | [reels/reel_8110_affaan-m-ECC](reels/reel_8110_affaan-m-ECC) |
