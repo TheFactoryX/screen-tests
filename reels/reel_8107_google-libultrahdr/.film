@@ -1,0 +1,24 @@
+{
+  "reel_number": 8107,
+  "recorded": "2026-08-10 06:40:46 UTC",
+  "repository": {
+    "full_name": "google/libultrahdr",
+    "url": "https://github.com/google/libultrahdr",
+    "clone_url": "https://github.com/google/libultrahdr.git",
+    "stars": 334,
+    "language": "C++",
+    "size_kb": 2194
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.846756
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 334 stars."
+  }
+}

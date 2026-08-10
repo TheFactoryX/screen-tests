@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8106 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 115k | 2026-08-10 |
+| #8107 | [google/libultrahdr](https://github.com/google/libultrahdr) | C++ · ⭐ 334 | 2026-08-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8194,3 +8194,4 @@ If you need permission, you're thinking too much.
 | 8104 | 2026-08-10 01:37:36 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (136706⭐ TypeScript) | [reels/reel_8104_clash-verge-rev-clash-verge-rev](reels/reel_8104_clash-verge-rev-clash-verge-rev) |
 | 8105 | 2026-08-10 03:29:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110056⭐ Rust) | [reels/reel_8105_tauri-apps-tauri](reels/reel_8105_tauri-apps-tauri) |
 | 8106 | 2026-08-10 05:06:44 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115381⭐ Rust) | [reels/reel_8106_rust-lang-rust](reels/reel_8106_rust-lang-rust) |
+| 8107 | 2026-08-10 06:40:46 | [google/libultrahdr](https://github.com/google/libultrahdr) | ✅ full (334⭐ C++) | [reels/reel_8107_google-libultrahdr](reels/reel_8107_google-libultrahdr) |
