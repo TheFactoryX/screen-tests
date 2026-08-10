@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8112 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 538k | 2026-08-10 |
+| #8113 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 538k | 2026-08-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8200,3 +8200,4 @@ If you need permission, you're thinking too much.
 | 8110 | 2026-08-10 11:08:12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (239116⭐ JavaScript) | [reels/reel_8110_affaan-m-ECC](reels/reel_8110_affaan-m-ECC) |
 | 8111 | 2026-08-10 11:57:57 | [1999AZZAR/Blotcat-illustration](https://github.com/1999AZZAR/Blotcat-illustration) | ✅ full (39⭐ None) | [reels/reel_8111_1999AZZAR-Blotcat-illustration](reels/reel_8111_1999AZZAR-Blotcat-illustration) |
 | 8112 | 2026-08-10 13:19:10 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (538272⭐ Markdown) | [reels/reel_8112_codecrafters-io-build-your-own-x](reels/reel_8112_codecrafters-io-build-your-own-x) |
+| 8113 | 2026-08-10 14:34:55 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (538296⭐ Markdown) | [reels/reel_8113_codecrafters-io-build-your-own-x](reels/reel_8113_codecrafters-io-build-your-own-x) |
