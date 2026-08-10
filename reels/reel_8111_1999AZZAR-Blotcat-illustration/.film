@@ -1,0 +1,24 @@
+{
+  "reel_number": 8111,
+  "recorded": "2026-08-10 11:57:57 UTC",
+  "repository": {
+    "full_name": "1999AZZAR/Blotcat-illustration",
+    "url": "https://github.com/1999AZZAR/Blotcat-illustration",
+    "clone_url": "https://github.com/1999AZZAR/Blotcat-illustration.git",
+    "stars": 39,
+    "language": null,
+    "size_kb": 18587
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.805498
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 39 stars."
+  }
+}
