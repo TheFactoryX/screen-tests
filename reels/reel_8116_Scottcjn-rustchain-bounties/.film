@@ -1,0 +1,24 @@
+{
+  "reel_number": 8116,
+  "recorded": "2026-08-10 17:35:44 UTC",
+  "repository": {
+    "full_name": "Scottcjn/rustchain-bounties",
+    "url": "https://github.com/Scottcjn/rustchain-bounties",
+    "clone_url": "https://github.com/Scottcjn/rustchain-bounties.git",
+    "stars": 249,
+    "language": "Python",
+    "size_kb": 6965
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.305793
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 249 stars."
+  }
+}
