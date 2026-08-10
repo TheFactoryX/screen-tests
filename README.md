@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8107 | [google/libultrahdr](https://github.com/google/libultrahdr) | C++ · ⭐ 334 | 2026-08-10 |
+| #8108 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8195,3 +8195,4 @@ If you need permission, you're thinking too much.
 | 8105 | 2026-08-10 03:29:21 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110056⭐ Rust) | [reels/reel_8105_tauri-apps-tauri](reels/reel_8105_tauri-apps-tauri) |
 | 8106 | 2026-08-10 05:06:44 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115381⭐ Rust) | [reels/reel_8106_rust-lang-rust](reels/reel_8106_rust-lang-rust) |
 | 8107 | 2026-08-10 06:40:46 | [google/libultrahdr](https://github.com/google/libultrahdr) | ✅ full (334⭐ C++) | [reels/reel_8107_google-libultrahdr](reels/reel_8107_google-libultrahdr) |
+| 8108 | 2026-08-10 08:15:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200040⭐ TypeScript) | [reels/reel_8108_n8n-io-n8n](reels/reel_8108_n8n-io-n8n) |
