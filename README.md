@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8121 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 183k | 2026-08-10 |
+| #8122 | [TianmuTNT/iptv](https://github.com/TianmuTNT/iptv) | Python · ⭐ 355 | 2026-08-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8209,3 +8209,4 @@ If you need permission, you're thinking too much.
 | 8119 | 2026-08-10 20:22:35 | [WoWUIDev/Ace3](https://github.com/WoWUIDev/Ace3) | ✅ full (109⭐ Lua) | [reels/reel_8119_WoWUIDev-Ace3](reels/reel_8119_WoWUIDev-Ace3) |
 | 8120 | 2026-08-10 21:11:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455355⭐ Python) | [reels/reel_8120_public-apis-public-apis](reels/reel_8120_public-apis-public-apis) |
 | 8121 | 2026-08-10 21:57:34 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (183701⭐ Python) | [reels/reel_8121_yt-dlp-yt-dlp](reels/reel_8121_yt-dlp-yt-dlp) |
+| 8122 | 2026-08-10 22:41:07 | [TianmuTNT/iptv](https://github.com/TianmuTNT/iptv) | ✅ full (355⭐ Python) | [reels/reel_8122_TianmuTNT-iptv](reels/reel_8122_TianmuTNT-iptv) |
