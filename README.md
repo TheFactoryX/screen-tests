@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8127 | [Volumetenrectify/ae-motion-compiler](https://github.com/Volumetenrectify/ae-motion-compiler) | HTML · ⭐ 108 | 2026-08-11 |
+| #8128 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 278k | 2026-08-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8215,3 +8215,4 @@ If you need permission, you're thinking too much.
 | 8125 | 2026-08-11 02:19:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (121006⭐ TypeScript) | [reels/reel_8125_shadcn-ui-ui](reels/reel_8125_shadcn-ui-ui) |
 | 8126 | 2026-08-11 03:59:06 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110159⭐ TypeScript) | [reels/reel_8126_immich-app-immich](reels/reel_8126_immich-app-immich) |
 | 8127 | 2026-08-11 05:15:29 | [Volumetenrectify/ae-motion-compiler](https://github.com/Volumetenrectify/ae-motion-compiler) | ✅ full (108⭐ HTML) | [reels/reel_8127_Volumetenrectify-ae-motion-compiler](reels/reel_8127_Volumetenrectify-ae-motion-compiler) |
+| 8128 | 2026-08-11 06:13:09 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (278056⭐ Python) | [reels/reel_8128_practical-tutorials-project-based-learning](reels/reel_8128_practical-tutorials-project-based-learning) |
