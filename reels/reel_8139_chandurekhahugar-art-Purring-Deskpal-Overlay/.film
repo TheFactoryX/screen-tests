@@ -1,0 +1,24 @@
+{
+  "reel_number": 8139,
+  "recorded": "2026-08-11 18:05:52 UTC",
+  "repository": {
+    "full_name": "chandurekhahugar-art/Purring-Deskpal-Overlay",
+    "url": "https://github.com/chandurekhahugar-art/Purring-Deskpal-Overlay",
+    "clone_url": "https://github.com/chandurekhahugar-art/Purring-Deskpal-Overlay.git",
+    "stars": 50,
+    "language": "HTML",
+    "size_kb": 1136
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 1.142098
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 50 stars."
+  }
+}
