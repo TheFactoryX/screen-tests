@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8134 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-11 |
+| #8135 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8222,3 +8222,4 @@ If you need permission, you're thinking too much.
 | 8132 | 2026-08-11 10:34:11 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186510⭐ Python) | [reels/reel_8132_Significant-Gravitas-AutoGPT](reels/reel_8132_Significant-Gravitas-AutoGPT) |
 | 8133 | 2026-08-11 11:29:39 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135630⭐ TypeScript) | [reels/reel_8133_iptv-org-iptv](reels/reel_8133_iptv-org-iptv) |
 | 8134 | 2026-08-11 12:23:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200203⭐ TypeScript) | [reels/reel_8134_n8n-io-n8n](reels/reel_8134_n8n-io-n8n) |
+| 8135 | 2026-08-11 13:52:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148474⭐ Python) | [reels/reel_8135_open-webui-open-webui](reels/reel_8135_open-webui-open-webui) |
