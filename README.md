@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8129 | [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) | Python · ⭐ 142 | 2026-08-11 |
+| #8130 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 123k | 2026-08-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8217,3 +8217,4 @@ If you need permission, you're thinking too much.
 | 8127 | 2026-08-11 05:15:29 | [Volumetenrectify/ae-motion-compiler](https://github.com/Volumetenrectify/ae-motion-compiler) | ✅ full (108⭐ HTML) | [reels/reel_8127_Volumetenrectify-ae-motion-compiler](reels/reel_8127_Volumetenrectify-ae-motion-compiler) |
 | 8128 | 2026-08-11 06:13:09 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (278056⭐ Python) | [reels/reel_8128_practical-tutorials-project-based-learning](reels/reel_8128_practical-tutorials-project-based-learning) |
 | 8129 | 2026-08-11 07:38:38 | [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) | ✅ full (142⭐ Python) | [reels/reel_8129_smixs-creative-director-skill](reels/reel_8129_smixs-creative-director-skill) |
+| 8130 | 2026-08-11 08:37:03 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (123404⭐ C++) | [reels/reel_8130_ggml-org-llama.cpp](reels/reel_8130_ggml-org-llama.cpp) |
