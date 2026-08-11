@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8124 | [NVIDIA-NeMo/Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) | Python · ⭐ 855 | 2026-08-11 |
+| #8125 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 121k | 2026-08-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8212,3 +8212,4 @@ If you need permission, you're thinking too much.
 | 8122 | 2026-08-10 22:41:07 | [TianmuTNT/iptv](https://github.com/TianmuTNT/iptv) | ✅ full (355⭐ Python) | [reels/reel_8122_TianmuTNT-iptv](reels/reel_8122_TianmuTNT-iptv) |
 | 8123 | 2026-08-10 23:18:10 | [sciyoshi/advent-of-rust](https://github.com/sciyoshi/advent-of-rust) | ✅ full (30⭐ Rust) | [reels/reel_8123_sciyoshi-advent-of-rust](reels/reel_8123_sciyoshi-advent-of-rust) |
 | 8124 | 2026-08-11 00:00:13 | [NVIDIA-NeMo/Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) | ✅ full (855⭐ Python) | [reels/reel_8124_NVIDIA-NeMo-Megatron-Bridge](reels/reel_8124_NVIDIA-NeMo-Megatron-Bridge) |
+| 8125 | 2026-08-11 02:19:55 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (121006⭐ TypeScript) | [reels/reel_8125_shadcn-ui-ui](reels/reel_8125_shadcn-ui-ui) |
