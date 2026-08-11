@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8143 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-11 |
+| #8144 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 737 | 2026-08-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8231,3 +8231,4 @@ If you need permission, you're thinking too much.
 | 8141 | 2026-08-11 20:09:06 | [opensearch-project/opensearch-build](https://github.com/opensearch-project/opensearch-build) | ✅ full (205⭐ Python) | [reels/reel_8141_opensearch-project-opensearch-build](reels/reel_8141_opensearch-project-opensearch-build) |
 | 8142 | 2026-08-11 21:03:14 | [shakrmedia/tuesday](https://github.com/shakrmedia/tuesday) | ✅ full (456⭐ CSS) | [reels/reel_8142_shakrmedia-tuesday](reels/reel_8142_shakrmedia-tuesday) |
 | 8143 | 2026-08-11 22:03:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186527⭐ Python) | [reels/reel_8143_Significant-Gravitas-AutoGPT](reels/reel_8143_Significant-Gravitas-AutoGPT) |
+| 8144 | 2026-08-11 23:02:17 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (737⭐ Tcl) | [reels/reel_8144_rust-lang-crates.io-index](reels/reel_8144_rust-lang-crates.io-index) |
