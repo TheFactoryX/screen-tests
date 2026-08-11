@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8140 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-11 |
+| #8141 | [opensearch-project/opensearch-build](https://github.com/opensearch-project/opensearch-build) | Python · ⭐ 205 | 2026-08-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8228,3 +8228,4 @@ If you need permission, you're thinking too much.
 | 8138 | 2026-08-11 17:02:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200232⭐ TypeScript) | [reels/reel_8138_n8n-io-n8n](reels/reel_8138_n8n-io-n8n) |
 | 8139 | 2026-08-11 18:05:52 | [chandurekhahugar-art/Purring-Deskpal-Overlay](https://github.com/chandurekhahugar-art/Purring-Deskpal-Overlay) | ✅ full (50⭐ HTML) | [reels/reel_8139_chandurekhahugar-art-Purring-Deskpal-Overlay](reels/reel_8139_chandurekhahugar-art-Purring-Deskpal-Overlay) |
 | 8140 | 2026-08-11 19:18:39 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186527⭐ Python) | [reels/reel_8140_Significant-Gravitas-AutoGPT](reels/reel_8140_Significant-Gravitas-AutoGPT) |
+| 8141 | 2026-08-11 20:09:06 | [opensearch-project/opensearch-build](https://github.com/opensearch-project/opensearch-build) | ✅ full (205⭐ Python) | [reels/reel_8141_opensearch-project-opensearch-build](reels/reel_8141_opensearch-project-opensearch-build) |
