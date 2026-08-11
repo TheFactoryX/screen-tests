@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8128 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 278k | 2026-08-11 |
+| #8129 | [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) | Python · ⭐ 142 | 2026-08-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8216,3 +8216,4 @@ If you need permission, you're thinking too much.
 | 8126 | 2026-08-11 03:59:06 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110159⭐ TypeScript) | [reels/reel_8126_immich-app-immich](reels/reel_8126_immich-app-immich) |
 | 8127 | 2026-08-11 05:15:29 | [Volumetenrectify/ae-motion-compiler](https://github.com/Volumetenrectify/ae-motion-compiler) | ✅ full (108⭐ HTML) | [reels/reel_8127_Volumetenrectify-ae-motion-compiler](reels/reel_8127_Volumetenrectify-ae-motion-compiler) |
 | 8128 | 2026-08-11 06:13:09 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (278056⭐ Python) | [reels/reel_8128_practical-tutorials-project-based-learning](reels/reel_8128_practical-tutorials-project-based-learning) |
+| 8129 | 2026-08-11 07:38:38 | [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) | ✅ full (142⭐ Python) | [reels/reel_8129_smixs-creative-director-skill](reels/reel_8129_smixs-creative-director-skill) |
