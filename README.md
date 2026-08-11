@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8136 | [chenxiachan/thoughtdag](https://github.com/chenxiachan/thoughtdag) | TypeScript · ⭐ 100 | 2026-08-11 |
+| #8137 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 143k | 2026-08-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8224,3 +8224,4 @@ If you need permission, you're thinking too much.
 | 8134 | 2026-08-11 12:23:55 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200203⭐ TypeScript) | [reels/reel_8134_n8n-io-n8n](reels/reel_8134_n8n-io-n8n) |
 | 8135 | 2026-08-11 13:52:20 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148474⭐ Python) | [reels/reel_8135_open-webui-open-webui](reels/reel_8135_open-webui-open-webui) |
 | 8136 | 2026-08-11 14:54:28 | [chenxiachan/thoughtdag](https://github.com/chenxiachan/thoughtdag) | ✅ shallow (100⭐ TypeScript) | [reels/reel_8136_chenxiachan-thoughtdag](reels/reel_8136_chenxiachan-thoughtdag) |
+| 8137 | 2026-08-11 15:58:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (143985⭐ Python) | [reels/reel_8137_langchain-ai-langchain](reels/reel_8137_langchain-ai-langchain) |
