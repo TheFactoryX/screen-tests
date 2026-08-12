@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8152 | [open-edge-platform/edge-ai-libraries](https://github.com/open-edge-platform/edge-ai-libraries) | Python · ⭐ 156 | 2026-08-12 |
+| #8153 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 135k | 2026-08-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8240,3 +8240,4 @@ If you need permission, you're thinking too much.
 | 8150 | 2026-08-12 08:46:09 | [xiaolai/nlpm](https://github.com/xiaolai/nlpm) | ✅ shallow (117⭐ HTML) | [reels/reel_8150_xiaolai-nlpm](reels/reel_8150_xiaolai-nlpm) |
 | 8151 | 2026-08-12 10:00:09 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137310⭐ TypeScript) | [reels/reel_8151_clash-verge-rev-clash-verge-rev](reels/reel_8151_clash-verge-rev-clash-verge-rev) |
 | 8152 | 2026-08-12 11:06:13 | [open-edge-platform/edge-ai-libraries](https://github.com/open-edge-platform/edge-ai-libraries) | ✅ readme_only (156⭐ Python) | [reels/reel_8152_open-edge-platform-edge-ai-libraries](reels/reel_8152_open-edge-platform-edge-ai-libraries) |
+| 8153 | 2026-08-12 11:57:15 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135698⭐ TypeScript) | [reels/reel_8153_iptv-org-iptv](reels/reel_8153_iptv-org-iptv) |
