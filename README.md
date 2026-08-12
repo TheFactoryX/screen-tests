@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8163 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 239k | 2026-08-12 |
+| #8164 | [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs) | Python · ⭐ 197 | 2026-08-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8251,3 +8251,4 @@ If you need permission, you're thinking too much.
 | 8161 | 2026-08-12 20:39:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135720⭐ TypeScript) | [reels/reel_8161_iptv-org-iptv](reels/reel_8161_iptv-org-iptv) |
 | 8162 | 2026-08-12 21:27:37 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110309⭐ TypeScript) | [reels/reel_8162_immich-app-immich](reels/reel_8162_immich-app-immich) |
 | 8163 | 2026-08-12 22:11:19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (239742⭐ JavaScript) | [reels/reel_8163_affaan-m-ECC](reels/reel_8163_affaan-m-ECC) |
+| 8164 | 2026-08-12 23:01:10 | [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs) | ✅ shallow (197⭐ Python) | [reels/reel_8164_ambicuity-New-Grad-Jobs](reels/reel_8164_ambicuity-New-Grad-Jobs) |

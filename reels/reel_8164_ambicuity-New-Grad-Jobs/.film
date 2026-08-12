@@ -1,0 +1,24 @@
+{
+  "reel_number": 8164,
+  "recorded": "2026-08-12 23:01:10 UTC",
+  "repository": {
+    "full_name": "ambicuity/New-Grad-Jobs",
+    "url": "https://github.com/ambicuity/New-Grad-Jobs",
+    "clone_url": "https://github.com/ambicuity/New-Grad-Jobs.git",
+    "stars": 197,
+    "language": "Python",
+    "size_kb": 244383
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 238,
+    "duration_seconds": 1.9624
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 197 stars."
+  }
+}
