@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8162 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 110k | 2026-08-12 |
+| #8163 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 239k | 2026-08-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8250,3 +8250,4 @@ If you need permission, you're thinking too much.
 | 8160 | 2026-08-12 19:49:19 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148605⭐ Python) | [reels/reel_8160_open-webui-open-webui](reels/reel_8160_open-webui-open-webui) |
 | 8161 | 2026-08-12 20:39:51 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135720⭐ TypeScript) | [reels/reel_8161_iptv-org-iptv](reels/reel_8161_iptv-org-iptv) |
 | 8162 | 2026-08-12 21:27:37 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110309⭐ TypeScript) | [reels/reel_8162_immich-app-immich](reels/reel_8162_immich-app-immich) |
+| 8163 | 2026-08-12 22:11:19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (239742⭐ JavaScript) | [reels/reel_8163_affaan-m-ECC](reels/reel_8163_affaan-m-ECC) |
