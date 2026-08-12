@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8151 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 137k | 2026-08-12 |
+| #8152 | [open-edge-platform/edge-ai-libraries](https://github.com/open-edge-platform/edge-ai-libraries) | Python · ⭐ 156 | 2026-08-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8239,3 +8239,4 @@ If you need permission, you're thinking too much.
 | 8149 | 2026-08-12 07:23:22 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110253⭐ TypeScript) | [reels/reel_8149_immich-app-immich](reels/reel_8149_immich-app-immich) |
 | 8150 | 2026-08-12 08:46:09 | [xiaolai/nlpm](https://github.com/xiaolai/nlpm) | ✅ shallow (117⭐ HTML) | [reels/reel_8150_xiaolai-nlpm](reels/reel_8150_xiaolai-nlpm) |
 | 8151 | 2026-08-12 10:00:09 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137310⭐ TypeScript) | [reels/reel_8151_clash-verge-rev-clash-verge-rev](reels/reel_8151_clash-verge-rev-clash-verge-rev) |
+| 8152 | 2026-08-12 11:06:13 | [open-edge-platform/edge-ai-libraries](https://github.com/open-edge-platform/edge-ai-libraries) | ✅ readme_only (156⭐ Python) | [reels/reel_8152_open-edge-platform-edge-ai-libraries](reels/reel_8152_open-edge-platform-edge-ai-libraries) |
