@@ -1,0 +1,24 @@
+{
+  "reel_number": 8150,
+  "recorded": "2026-08-12 08:46:09 UTC",
+  "repository": {
+    "full_name": "xiaolai/nlpm",
+    "url": "https://github.com/xiaolai/nlpm",
+    "clone_url": "https://github.com/xiaolai/nlpm.git",
+    "stars": 117,
+    "language": "HTML",
+    "size_kb": 343903
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 335,
+    "duration_seconds": 0.940226
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 117 stars."
+  }
+}
