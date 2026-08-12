@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8148 | [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) | Vue · ⭐ 2k | 2026-08-12 |
+| #8149 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 110k | 2026-08-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8236,3 +8236,4 @@ If you need permission, you're thinking too much.
 | 8146 | 2026-08-12 02:32:38 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137206⭐ TypeScript) | [reels/reel_8146_clash-verge-rev-clash-verge-rev](reels/reel_8146_clash-verge-rev-clash-verge-rev) |
 | 8147 | 2026-08-12 04:26:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148523⭐ Python) | [reels/reel_8147_open-webui-open-webui](reels/reel_8147_open-webui-open-webui) |
 | 8148 | 2026-08-12 05:55:58 | [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) | ✅ shallow (2673⭐ Vue) | [reels/reel_8148_KlausSchaefers-quant-ux](reels/reel_8148_KlausSchaefers-quant-ux) |
+| 8149 | 2026-08-12 07:23:22 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110253⭐ TypeScript) | [reels/reel_8149_immich-app-immich](reels/reel_8149_immich-app-immich) |
