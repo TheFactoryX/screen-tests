@@ -1,0 +1,24 @@
+{
+  "reel_number": 8162,
+  "recorded": "2026-08-12 21:27:37 UTC",
+  "repository": {
+    "full_name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "clone_url": "https://github.com/immich-app/immich.git",
+    "stars": 110309,
+    "language": "TypeScript",
+    "size_kb": 321537
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 314,
+    "duration_seconds": 2.795686
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 110309 stars."
+  }
+}
