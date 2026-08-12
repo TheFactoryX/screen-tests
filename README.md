@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8146 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 137k | 2026-08-12 |
+| #8147 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8234,3 +8234,4 @@ If you need permission, you're thinking too much.
 | 8144 | 2026-08-11 23:02:17 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (737⭐ Tcl) | [reels/reel_8144_rust-lang-crates.io-index](reels/reel_8144_rust-lang-crates.io-index) |
 | 8145 | 2026-08-11 23:58:49 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144001⭐ Python) | [reels/reel_8145_langchain-ai-langchain](reels/reel_8145_langchain-ai-langchain) |
 | 8146 | 2026-08-12 02:32:38 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137206⭐ TypeScript) | [reels/reel_8146_clash-verge-rev-clash-verge-rev](reels/reel_8146_clash-verge-rev-clash-verge-rev) |
+| 8147 | 2026-08-12 04:26:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148523⭐ Python) | [reels/reel_8147_open-webui-open-webui](reels/reel_8147_open-webui-open-webui) |
