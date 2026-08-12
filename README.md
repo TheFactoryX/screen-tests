@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8150 | [xiaolai/nlpm](https://github.com/xiaolai/nlpm) | HTML · ⭐ 117 | 2026-08-12 |
+| #8151 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 137k | 2026-08-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8238,3 +8238,4 @@ If you need permission, you're thinking too much.
 | 8148 | 2026-08-12 05:55:58 | [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) | ✅ shallow (2673⭐ Vue) | [reels/reel_8148_KlausSchaefers-quant-ux](reels/reel_8148_KlausSchaefers-quant-ux) |
 | 8149 | 2026-08-12 07:23:22 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110253⭐ TypeScript) | [reels/reel_8149_immich-app-immich](reels/reel_8149_immich-app-immich) |
 | 8150 | 2026-08-12 08:46:09 | [xiaolai/nlpm](https://github.com/xiaolai/nlpm) | ✅ shallow (117⭐ HTML) | [reels/reel_8150_xiaolai-nlpm](reels/reel_8150_xiaolai-nlpm) |
+| 8151 | 2026-08-12 10:00:09 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137310⭐ TypeScript) | [reels/reel_8151_clash-verge-rev-clash-verge-rev](reels/reel_8151_clash-verge-rev-clash-verge-rev) |
