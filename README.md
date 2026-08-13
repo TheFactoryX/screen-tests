@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8173 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-13 |
+| #8174 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8261,3 +8261,4 @@ If you need permission, you're thinking too much.
 | 8171 | 2026-08-13 10:01:45 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137519⭐ TypeScript) | [reels/reel_8171_clash-verge-rev-clash-verge-rev](reels/reel_8171_clash-verge-rev-clash-verge-rev) |
 | 8172 | 2026-08-13 11:10:19 | [Tinder/bazel-diff](https://github.com/Tinder/bazel-diff) | ✅ full (516⭐ Kotlin) | [reels/reel_8172_Tinder-bazel-diff](reels/reel_8172_Tinder-bazel-diff) |
 | 8173 | 2026-08-13 11:58:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186582⭐ Python) | [reels/reel_8173_Significant-Gravitas-AutoGPT](reels/reel_8173_Significant-Gravitas-AutoGPT) |
+| 8174 | 2026-08-13 13:24:57 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144159⭐ Python) | [reels/reel_8174_langchain-ai-langchain](reels/reel_8174_langchain-ai-langchain) |
