@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8182 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 123k | 2026-08-13 |
+| #8183 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 127k | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8270,3 +8270,4 @@ If you need permission, you're thinking too much.
 | 8180 | 2026-08-13 20:21:55 | [f-bader/TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) | ✅ full (444⭐ PowerShell) | [reels/reel_8180_f-bader-TokenTacticsV2](reels/reel_8180_f-bader-TokenTacticsV2) |
 | 8181 | 2026-08-13 21:13:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135764⭐ TypeScript) | [reels/reel_8181_iptv-org-iptv](reels/reel_8181_iptv-org-iptv) |
 | 8182 | 2026-08-13 22:04:10 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (123819⭐ C++) | [reels/reel_8182_ggml-org-llama.cpp](reels/reel_8182_ggml-org-llama.cpp) |
+| 8183 | 2026-08-13 23:01:21 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (127345⭐ Python) | [reels/reel_8183_Comfy-Org-ComfyUI](reels/reel_8183_Comfy-Org-ComfyUI) |
