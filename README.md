@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8177 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-13 |
+| #8178 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 455k | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8265,3 +8265,4 @@ If you need permission, you're thinking too much.
 | 8175 | 2026-08-13 15:38:04 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455889⭐ Python) | [reels/reel_8175_public-apis-public-apis](reels/reel_8175_public-apis-public-apis) |
 | 8176 | 2026-08-13 16:34:25 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137591⭐ TypeScript) | [reels/reel_8176_clash-verge-rev-clash-verge-rev](reels/reel_8176_clash-verge-rev-clash-verge-rev) |
 | 8177 | 2026-08-13 17:41:40 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186589⭐ Python) | [reels/reel_8177_Significant-Gravitas-AutoGPT](reels/reel_8177_Significant-Gravitas-AutoGPT) |
+| 8178 | 2026-08-13 18:37:25 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455920⭐ Python) | [reels/reel_8178_public-apis-public-apis](reels/reel_8178_public-apis-public-apis) |
