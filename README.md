@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8183 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 127k | 2026-08-13 |
+| #8184 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 137k | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8271,3 +8271,4 @@ If you need permission, you're thinking too much.
 | 8181 | 2026-08-13 21:13:01 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135764⭐ TypeScript) | [reels/reel_8181_iptv-org-iptv](reels/reel_8181_iptv-org-iptv) |
 | 8182 | 2026-08-13 22:04:10 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (123819⭐ C++) | [reels/reel_8182_ggml-org-llama.cpp](reels/reel_8182_ggml-org-llama.cpp) |
 | 8183 | 2026-08-13 23:01:21 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (127345⭐ Python) | [reels/reel_8183_Comfy-Org-ComfyUI](reels/reel_8183_Comfy-Org-ComfyUI) |
+| 8184 | 2026-08-13 23:57:31 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137613⭐ TypeScript) | [reels/reel_8184_clash-verge-rev-clash-verge-rev](reels/reel_8184_clash-verge-rev-clash-verge-rev) |
