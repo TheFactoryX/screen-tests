@@ -1,0 +1,24 @@
+{
+  "reel_number": 8166,
+  "recorded": "2026-08-13 02:09:32 UTC",
+  "repository": {
+    "full_name": "WLget/V2Ray_configs_64",
+    "url": "https://github.com/WLget/V2Ray_configs_64",
+    "clone_url": "https://github.com/WLget/V2Ray_configs_64.git",
+    "stars": 286,
+    "language": null,
+    "size_kb": 22315
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 21,
+    "duration_seconds": 1.511143
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 286 stars."
+  }
+}
