@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8166 | [WLget/V2Ray_configs_64](https://github.com/WLget/V2Ray_configs_64) | None · ⭐ 286 | 2026-08-13 |
+| #8167 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 123k | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8254,3 +8254,4 @@ If you need permission, you're thinking too much.
 | 8164 | 2026-08-12 23:01:10 | [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs) | ✅ shallow (197⭐ Python) | [reels/reel_8164_ambicuity-New-Grad-Jobs](reels/reel_8164_ambicuity-New-Grad-Jobs) |
 | 8165 | 2026-08-12 23:57:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135725⭐ TypeScript) | [reels/reel_8165_iptv-org-iptv](reels/reel_8165_iptv-org-iptv) |
 | 8166 | 2026-08-13 02:09:32 | [WLget/V2Ray_configs_64](https://github.com/WLget/V2Ray_configs_64) | ✅ full (286⭐ None) | [reels/reel_8166_WLget-V2Ray_configs_64](reels/reel_8166_WLget-V2Ray_configs_64) |
+| 8167 | 2026-08-13 04:20:18 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (123728⭐ C++) | [reels/reel_8167_ggml-org-llama.cpp](reels/reel_8167_ggml-org-llama.cpp) |
