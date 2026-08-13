@@ -1,0 +1,24 @@
+{
+  "reel_number": 8180,
+  "recorded": "2026-08-13 20:21:55 UTC",
+  "repository": {
+    "full_name": "f-bader/TokenTacticsV2",
+    "url": "https://github.com/f-bader/TokenTacticsV2",
+    "clone_url": "https://github.com/f-bader/TokenTacticsV2.git",
+    "stars": 444,
+    "language": "PowerShell",
+    "size_kb": 2024
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.365086
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 444 stars."
+  }
+}

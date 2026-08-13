@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8179 | [JollyPixel/editor](https://github.com/JollyPixel/editor) | TypeScript · ⭐ 15 | 2026-08-13 |
+| #8180 | [f-bader/TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) | PowerShell · ⭐ 444 | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8267,3 +8267,4 @@ If you need permission, you're thinking too much.
 | 8177 | 2026-08-13 17:41:40 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186589⭐ Python) | [reels/reel_8177_Significant-Gravitas-AutoGPT](reels/reel_8177_Significant-Gravitas-AutoGPT) |
 | 8178 | 2026-08-13 18:37:25 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455920⭐ Python) | [reels/reel_8178_public-apis-public-apis](reels/reel_8178_public-apis-public-apis) |
 | 8179 | 2026-08-13 19:43:38 | [JollyPixel/editor](https://github.com/JollyPixel/editor) | ✅ full (15⭐ TypeScript) | [reels/reel_8179_JollyPixel-editor](reels/reel_8179_JollyPixel-editor) |
+| 8180 | 2026-08-13 20:21:55 | [f-bader/TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) | ✅ full (444⭐ PowerShell) | [reels/reel_8180_f-bader-TokenTacticsV2](reels/reel_8180_f-bader-TokenTacticsV2) |
