@@ -1,0 +1,24 @@
+{
+  "reel_number": 8172,
+  "recorded": "2026-08-13 11:10:19 UTC",
+  "repository": {
+    "full_name": "Tinder/bazel-diff",
+    "url": "https://github.com/Tinder/bazel-diff",
+    "clone_url": "https://github.com/Tinder/bazel-diff.git",
+    "stars": 516,
+    "language": "Kotlin",
+    "size_kb": 24183
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 1.388636
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 516 stars."
+  }
+}
