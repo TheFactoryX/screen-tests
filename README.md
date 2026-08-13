@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8168 | [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon) | PowerShell · ⭐ 260 | 2026-08-13 |
+| #8169 | [samuelkarp/runj](https://github.com/samuelkarp/runj) | Go · ⭐ 673 | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8256,3 +8256,4 @@ If you need permission, you're thinking too much.
 | 8166 | 2026-08-13 02:09:32 | [WLget/V2Ray_configs_64](https://github.com/WLget/V2Ray_configs_64) | ✅ full (286⭐ None) | [reels/reel_8166_WLget-V2Ray_configs_64](reels/reel_8166_WLget-V2Ray_configs_64) |
 | 8167 | 2026-08-13 04:20:18 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (123728⭐ C++) | [reels/reel_8167_ggml-org-llama.cpp](reels/reel_8167_ggml-org-llama.cpp) |
 | 8168 | 2026-08-13 05:55:11 | [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon) | ✅ full (260⭐ PowerShell) | [reels/reel_8168_hoilc-scoop-lemon](reels/reel_8168_hoilc-scoop-lemon) |
+| 8169 | 2026-08-13 07:22:40 | [samuelkarp/runj](https://github.com/samuelkarp/runj) | ✅ full (673⭐ Go) | [reels/reel_8169_samuelkarp-runj](reels/reel_8169_samuelkarp-runj) |
