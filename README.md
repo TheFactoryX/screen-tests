@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8175 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 455k | 2026-08-13 |
+| #8176 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 137k | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8263,3 +8263,4 @@ If you need permission, you're thinking too much.
 | 8173 | 2026-08-13 11:58:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186582⭐ Python) | [reels/reel_8173_Significant-Gravitas-AutoGPT](reels/reel_8173_Significant-Gravitas-AutoGPT) |
 | 8174 | 2026-08-13 13:24:57 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144159⭐ Python) | [reels/reel_8174_langchain-ai-langchain](reels/reel_8174_langchain-ai-langchain) |
 | 8175 | 2026-08-13 15:38:04 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (455889⭐ Python) | [reels/reel_8175_public-apis-public-apis](reels/reel_8175_public-apis-public-apis) |
+| 8176 | 2026-08-13 16:34:25 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137591⭐ TypeScript) | [reels/reel_8176_clash-verge-rev-clash-verge-rev](reels/reel_8176_clash-verge-rev-clash-verge-rev) |
