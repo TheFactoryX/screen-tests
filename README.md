@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8169 | [samuelkarp/runj](https://github.com/samuelkarp/runj) | Go · ⭐ 673 | 2026-08-13 |
+| #8170 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 239k | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8257,3 +8257,4 @@ If you need permission, you're thinking too much.
 | 8167 | 2026-08-13 04:20:18 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (123728⭐ C++) | [reels/reel_8167_ggml-org-llama.cpp](reels/reel_8167_ggml-org-llama.cpp) |
 | 8168 | 2026-08-13 05:55:11 | [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon) | ✅ full (260⭐ PowerShell) | [reels/reel_8168_hoilc-scoop-lemon](reels/reel_8168_hoilc-scoop-lemon) |
 | 8169 | 2026-08-13 07:22:40 | [samuelkarp/runj](https://github.com/samuelkarp/runj) | ✅ full (673⭐ Go) | [reels/reel_8169_samuelkarp-runj](reels/reel_8169_samuelkarp-runj) |
+| 8170 | 2026-08-13 08:49:50 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (239831⭐ JavaScript) | [reels/reel_8170_affaan-m-ECC](reels/reel_8170_affaan-m-ECC) |
