@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8167 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 123k | 2026-08-13 |
+| #8168 | [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon) | PowerShell · ⭐ 260 | 2026-08-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8255,3 +8255,4 @@ If you need permission, you're thinking too much.
 | 8165 | 2026-08-12 23:57:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135725⭐ TypeScript) | [reels/reel_8165_iptv-org-iptv](reels/reel_8165_iptv-org-iptv) |
 | 8166 | 2026-08-13 02:09:32 | [WLget/V2Ray_configs_64](https://github.com/WLget/V2Ray_configs_64) | ✅ full (286⭐ None) | [reels/reel_8166_WLget-V2Ray_configs_64](reels/reel_8166_WLget-V2Ray_configs_64) |
 | 8167 | 2026-08-13 04:20:18 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (123728⭐ C++) | [reels/reel_8167_ggml-org-llama.cpp](reels/reel_8167_ggml-org-llama.cpp) |
+| 8168 | 2026-08-13 05:55:11 | [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon) | ✅ full (260⭐ PowerShell) | [reels/reel_8168_hoilc-scoop-lemon](reels/reel_8168_hoilc-scoop-lemon) |
