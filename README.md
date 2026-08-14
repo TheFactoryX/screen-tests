@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8205 | [meyamane37923-hash/komikku-scans](https://github.com/meyamane37923-hash/komikku-scans) | HTML · ⭐ 115 | 2026-08-14 |
+| #8206 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8293,3 +8293,4 @@ If you need permission, you're thinking too much.
 | 8203 | 2026-08-14 21:22:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (312675⭐ None) | [reels/reel_8203_awesome-selfhosted-awesome-selfhosted](reels/reel_8203_awesome-selfhosted-awesome-selfhosted) |
 | 8204 | 2026-08-14 21:49:01 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ readme_only (737⭐ Tcl) | [reels/reel_8204_rust-lang-crates.io-index](reels/reel_8204_rust-lang-crates.io-index) |
 | 8205 | 2026-08-14 22:19:27 | [meyamane37923-hash/komikku-scans](https://github.com/meyamane37923-hash/komikku-scans) | ✅ full (115⭐ HTML) | [reels/reel_8205_meyamane37923-hash-komikku-scans](reels/reel_8205_meyamane37923-hash-komikku-scans) |
+| 8206 | 2026-08-14 22:48:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144261⭐ Python) | [reels/reel_8206_langchain-ai-langchain](reels/reel_8206_langchain-ai-langchain) |
