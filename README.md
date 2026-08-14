@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8194 | [cardano-foundation/developer-portal](https://github.com/cardano-foundation/developer-portal) | JavaScript · ⭐ 435 | 2026-08-14 |
+| #8195 | [dunefalcon1qrj/Telegram-Bot](https://github.com/dunefalcon1qrj/Telegram-Bot) | JavaScript · ⭐ 156 | 2026-08-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8282,3 +8282,4 @@ If you need permission, you're thinking too much.
 | 8192 | 2026-08-14 11:27:54 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137773⭐ TypeScript) | [reels/reel_8192_clash-verge-rev-clash-verge-rev](reels/reel_8192_clash-verge-rev-clash-verge-rev) |
 | 8193 | 2026-08-14 12:09:51 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240088⭐ JavaScript) | [reels/reel_8193_affaan-m-ECC](reels/reel_8193_affaan-m-ECC) |
 | 8194 | 2026-08-14 13:41:25 | [cardano-foundation/developer-portal](https://github.com/cardano-foundation/developer-portal) | ✅ shallow (435⭐ JavaScript) | [reels/reel_8194_cardano-foundation-developer-portal](reels/reel_8194_cardano-foundation-developer-portal) |
+| 8195 | 2026-08-14 14:38:57 | [dunefalcon1qrj/Telegram-Bot](https://github.com/dunefalcon1qrj/Telegram-Bot) | ✅ full (156⭐ JavaScript) | [reels/reel_8195_dunefalcon1qrj-Telegram-Bot](reels/reel_8195_dunefalcon1qrj-Telegram-Bot) |

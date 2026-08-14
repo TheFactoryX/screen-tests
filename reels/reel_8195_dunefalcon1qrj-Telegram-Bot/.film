@@ -1,0 +1,24 @@
+{
+  "reel_number": 8195,
+  "recorded": "2026-08-14 14:38:57 UTC",
+  "repository": {
+    "full_name": "dunefalcon1qrj/Telegram-Bot",
+    "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
+    "clone_url": "https://github.com/dunefalcon1qrj/Telegram-Bot.git",
+    "stars": 156,
+    "language": "JavaScript",
+    "size_kb": 2978
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.728642
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 156 stars."
+  }
+}
