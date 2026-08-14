@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8207 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 539k | 2026-08-14 |
+| #8208 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 135k | 2026-08-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8295,3 +8295,4 @@ If you need permission, you're thinking too much.
 | 8205 | 2026-08-14 22:19:27 | [meyamane37923-hash/komikku-scans](https://github.com/meyamane37923-hash/komikku-scans) | ✅ full (115⭐ HTML) | [reels/reel_8205_meyamane37923-hash-komikku-scans](reels/reel_8205_meyamane37923-hash-komikku-scans) |
 | 8206 | 2026-08-14 22:48:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144261⭐ Python) | [reels/reel_8206_langchain-ai-langchain](reels/reel_8206_langchain-ai-langchain) |
 | 8207 | 2026-08-14 23:18:36 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (539733⭐ Markdown) | [reels/reel_8207_codecrafters-io-build-your-own-x](reels/reel_8207_codecrafters-io-build-your-own-x) |
+| 8208 | 2026-08-14 23:46:29 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135823⭐ TypeScript) | [reels/reel_8208_iptv-org-iptv](reels/reel_8208_iptv-org-iptv) |
