@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8189 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 110k | 2026-08-14 |
+| #8190 | [crossplane-contrib/function-kcl](https://github.com/crossplane-contrib/function-kcl) | Go · ⭐ 87 | 2026-08-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8277,3 +8277,4 @@ If you need permission, you're thinking too much.
 | 8187 | 2026-08-14 05:54:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135780⭐ TypeScript) | [reels/reel_8187_iptv-org-iptv](reels/reel_8187_iptv-org-iptv) |
 | 8188 | 2026-08-14 07:20:07 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137713⭐ TypeScript) | [reels/reel_8188_clash-verge-rev-clash-verge-rev](reels/reel_8188_clash-verge-rev-clash-verge-rev) |
 | 8189 | 2026-08-14 08:43:06 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110221⭐ Rust) | [reels/reel_8189_tauri-apps-tauri](reels/reel_8189_tauri-apps-tauri) |
+| 8190 | 2026-08-14 09:43:40 | [crossplane-contrib/function-kcl](https://github.com/crossplane-contrib/function-kcl) | ✅ full (87⭐ Go) | [reels/reel_8190_crossplane-contrib-function-kcl](reels/reel_8190_crossplane-contrib-function-kcl) |
