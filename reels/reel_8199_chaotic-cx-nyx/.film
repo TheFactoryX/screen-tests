@@ -1,0 +1,24 @@
+{
+  "reel_number": 8199,
+  "recorded": "2026-08-14 18:32:05 UTC",
+  "repository": {
+    "full_name": "chaotic-cx/nyx",
+    "url": "https://github.com/chaotic-cx/nyx",
+    "clone_url": "https://github.com/chaotic-cx/nyx.git",
+    "stars": 742,
+    "language": "Nix",
+    "size_kb": 10031
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 2.021148
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Nix",
+    "director_note": "A Nix repository. 742 stars."
+  }
+}
