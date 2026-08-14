@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8187 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 135k | 2026-08-14 |
+| #8188 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 137k | 2026-08-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8275,3 +8275,4 @@ If you need permission, you're thinking too much.
 | 8185 | 2026-08-14 02:12:16 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110439⭐ TypeScript) | [reels/reel_8185_immich-app-immich](reels/reel_8185_immich-app-immich) |
 | 8186 | 2026-08-14 04:18:30 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (202246⭐ None) | [reels/reel_8186_multica-ai-andrej-karpathy-skills](reels/reel_8186_multica-ai-andrej-karpathy-skills) |
 | 8187 | 2026-08-14 05:54:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135780⭐ TypeScript) | [reels/reel_8187_iptv-org-iptv](reels/reel_8187_iptv-org-iptv) |
+| 8188 | 2026-08-14 07:20:07 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137713⭐ TypeScript) | [reels/reel_8188_clash-verge-rev-clash-verge-rev](reels/reel_8188_clash-verge-rev-clash-verge-rev) |
