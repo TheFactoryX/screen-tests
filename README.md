@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8185 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 110k | 2026-08-14 |
+| #8186 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 202k | 2026-08-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8273,3 +8273,4 @@ If you need permission, you're thinking too much.
 | 8183 | 2026-08-13 23:01:21 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (127345⭐ Python) | [reels/reel_8183_Comfy-Org-ComfyUI](reels/reel_8183_Comfy-Org-ComfyUI) |
 | 8184 | 2026-08-13 23:57:31 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137613⭐ TypeScript) | [reels/reel_8184_clash-verge-rev-clash-verge-rev](reels/reel_8184_clash-verge-rev-clash-verge-rev) |
 | 8185 | 2026-08-14 02:12:16 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110439⭐ TypeScript) | [reels/reel_8185_immich-app-immich](reels/reel_8185_immich-app-immich) |
+| 8186 | 2026-08-14 04:18:30 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (202246⭐ None) | [reels/reel_8186_multica-ai-andrej-karpathy-skills](reels/reel_8186_multica-ai-andrej-karpathy-skills) |
