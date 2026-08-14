@@ -1,0 +1,24 @@
+{
+  "reel_number": 8197,
+  "recorded": "2026-08-14 16:31:54 UTC",
+  "repository": {
+    "full_name": "psi-im/psi",
+    "url": "https://github.com/psi-im/psi",
+    "clone_url": "https://github.com/psi-im/psi.git",
+    "stars": 443,
+    "language": "C++",
+    "size_kb": 26903
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 2.737585
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 443 stars."
+  }
+}
