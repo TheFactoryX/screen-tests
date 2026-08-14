@@ -1,0 +1,24 @@
+{
+  "reel_number": 8191,
+  "recorded": "2026-08-14 10:41:00 UTC",
+  "repository": {
+    "full_name": "AMD-AGI/Hyperloom",
+    "url": "https://github.com/AMD-AGI/Hyperloom",
+    "clone_url": "https://github.com/AMD-AGI/Hyperloom.git",
+    "stars": 142,
+    "language": "Python",
+    "size_kb": 46420
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 45,
+    "duration_seconds": 6.319775
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 142 stars."
+  }
+}
