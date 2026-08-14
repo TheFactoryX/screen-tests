@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8199 | [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) | Nix · ⭐ 742 | 2026-08-14 |
+| #8200 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 240k | 2026-08-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8287,3 +8287,4 @@ If you need permission, you're thinking too much.
 | 8197 | 2026-08-14 16:31:54 | [psi-im/psi](https://github.com/psi-im/psi) | ✅ full (443⭐ C++) | [reels/reel_8197_psi-im-psi](reels/reel_8197_psi-im-psi) |
 | 8198 | 2026-08-14 17:37:30 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (109219⭐ Python) | [reels/reel_8198_browser-use-browser-use](reels/reel_8198_browser-use-browser-use) |
 | 8199 | 2026-08-14 18:32:05 | [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) | ✅ full (742⭐ Nix) | [reels/reel_8199_chaotic-cx-nyx](reels/reel_8199_chaotic-cx-nyx) |
+| 8200 | 2026-08-14 19:36:37 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240145⭐ JavaScript) | [reels/reel_8200_affaan-m-ECC](reels/reel_8200_affaan-m-ECC) |
