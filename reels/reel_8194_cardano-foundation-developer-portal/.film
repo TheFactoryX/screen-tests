@@ -1,0 +1,24 @@
+{
+  "reel_number": 8194,
+  "recorded": "2026-08-14 13:41:25 UTC",
+  "repository": {
+    "full_name": "cardano-foundation/developer-portal",
+    "url": "https://github.com/cardano-foundation/developer-portal",
+    "clone_url": "https://github.com/cardano-foundation/developer-portal.git",
+    "stars": 435,
+    "language": "JavaScript",
+    "size_kb": 311268
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 303,
+    "duration_seconds": 1.514016
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 435 stars."
+  }
+}
