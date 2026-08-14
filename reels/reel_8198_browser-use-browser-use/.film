@@ -1,0 +1,24 @@
+{
+  "reel_number": 8198,
+  "recorded": "2026-08-14 17:37:30 UTC",
+  "repository": {
+    "full_name": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "clone_url": "https://github.com/browser-use/browser-use.git",
+    "stars": 109219,
+    "language": "Python",
+    "size_kb": 34269
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 33,
+    "duration_seconds": 2.592768
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 109219 stars."
+  }
+}
