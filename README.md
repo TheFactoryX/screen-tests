@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8227 | [ipsilon/evmone](https://github.com/ipsilon/evmone) | C++ · ⭐ 974 | 2026-08-15 |
+| #8228 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 279k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8315,3 +8315,4 @@ If you need permission, you're thinking too much.
 | 8225 | 2026-08-15 10:47:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153251⭐ Python) | [reels/reel_8225_langflow-ai-langflow](reels/reel_8225_langflow-ai-langflow) |
 | 8226 | 2026-08-15 11:17:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153252⭐ Python) | [reels/reel_8226_langflow-ai-langflow](reels/reel_8226_langflow-ai-langflow) |
 | 8227 | 2026-08-15 11:43:44 | [ipsilon/evmone](https://github.com/ipsilon/evmone) | ✅ full (974⭐ C++) | [reels/reel_8227_ipsilon-evmone](reels/reel_8227_ipsilon-evmone) |
+| 8228 | 2026-08-15 11:58:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279263⭐ Python) | [reels/reel_8228_practical-tutorials-project-based-learning](reels/reel_8228_practical-tutorials-project-based-learning) |
