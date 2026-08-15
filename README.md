@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8239 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 124k | 2026-08-15 |
+| #8240 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8327,3 +8327,4 @@ If you need permission, you're thinking too much.
 | 8237 | 2026-08-15 16:32:27 | [Coder-s-OG-s/MergeShip](https://github.com/Coder-s-OG-s/MergeShip) | ✅ full (24⭐ TypeScript) | [reels/reel_8237_Coder-s-OG-s-MergeShip](reels/reel_8237_Coder-s-OG-s-MergeShip) |
 | 8238 | 2026-08-15 16:59:24 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (539938⭐ Markdown) | [reels/reel_8238_codecrafters-io-build-your-own-x](reels/reel_8238_codecrafters-io-build-your-own-x) |
 | 8239 | 2026-08-15 17:27:22 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (124004⭐ C++) | [reels/reel_8239_ggml-org-llama.cpp](reels/reel_8239_ggml-org-llama.cpp) |
+| 8240 | 2026-08-15 17:47:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186611⭐ Python) | [reels/reel_8240_Significant-Gravitas-AutoGPT](reels/reel_8240_Significant-Gravitas-AutoGPT) |
