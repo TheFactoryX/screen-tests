@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8223 | [zapplyjobs/Internships-2027](https://github.com/zapplyjobs/Internships-2027) | HTML · ⭐ 185 | 2026-08-15 |
+| #8224 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8311,3 +8311,4 @@ If you need permission, you're thinking too much.
 | 8221 | 2026-08-15 08:54:15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200678⭐ TypeScript) | [reels/reel_8221_n8n-io-n8n](reels/reel_8221_n8n-io-n8n) |
 | 8222 | 2026-08-15 09:22:42 | [Teahouse-Studios/akari-bot](https://github.com/Teahouse-Studios/akari-bot) | ✅ shallow (230⭐ Python) | [reels/reel_8222_Teahouse-Studios-akari-bot](reels/reel_8222_Teahouse-Studios-akari-bot) |
 | 8223 | 2026-08-15 09:49:08 | [zapplyjobs/Internships-2027](https://github.com/zapplyjobs/Internships-2027) | ✅ readme_only (185⭐ HTML) | [reels/reel_8223_zapplyjobs-Internships-2027](reels/reel_8223_zapplyjobs-Internships-2027) |
+| 8224 | 2026-08-15 10:19:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200684⭐ TypeScript) | [reels/reel_8224_n8n-io-n8n](reels/reel_8224_n8n-io-n8n) |
