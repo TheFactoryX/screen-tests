@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8221 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-15 |
+| #8222 | [Teahouse-Studios/akari-bot](https://github.com/Teahouse-Studios/akari-bot) | Python · ⭐ 230 | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8309,3 +8309,4 @@ If you need permission, you're thinking too much.
 | 8219 | 2026-08-15 07:51:22 | [Solsynth/MaidKit](https://github.com/Solsynth/MaidKit) | ✅ full (349⭐ Dart) | [reels/reel_8219_Solsynth-MaidKit](reels/reel_8219_Solsynth-MaidKit) |
 | 8220 | 2026-08-15 08:24:10 | [IceFog72/SillyTavern-EveryTextLineEditor](https://github.com/IceFog72/SillyTavern-EveryTextLineEditor) | ✅ full (20⭐ TypeScript) | [reels/reel_8220_IceFog72-SillyTavern-EveryTextLineEditor](reels/reel_8220_IceFog72-SillyTavern-EveryTextLineEditor) |
 | 8221 | 2026-08-15 08:54:15 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200678⭐ TypeScript) | [reels/reel_8221_n8n-io-n8n](reels/reel_8221_n8n-io-n8n) |
+| 8222 | 2026-08-15 09:22:42 | [Teahouse-Studios/akari-bot](https://github.com/Teahouse-Studios/akari-bot) | ✅ shallow (230⭐ Python) | [reels/reel_8222_Teahouse-Studios-akari-bot](reels/reel_8222_Teahouse-Studios-akari-bot) |

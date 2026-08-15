@@ -1,0 +1,24 @@
+{
+  "reel_number": 8222,
+  "recorded": "2026-08-15 09:22:42 UTC",
+  "repository": {
+    "full_name": "Teahouse-Studios/akari-bot",
+    "url": "https://github.com/Teahouse-Studios/akari-bot",
+    "clone_url": "https://github.com/Teahouse-Studios/akari-bot.git",
+    "stars": 230,
+    "language": "Python",
+    "size_kb": 205454
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 200,
+    "duration_seconds": 1.831409
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 230 stars."
+  }
+}
