@@ -1,0 +1,24 @@
+{
+  "reel_number": 8220,
+  "recorded": "2026-08-15 08:24:10 UTC",
+  "repository": {
+    "full_name": "IceFog72/SillyTavern-EveryTextLineEditor",
+    "url": "https://github.com/IceFog72/SillyTavern-EveryTextLineEditor",
+    "clone_url": "https://github.com/IceFog72/SillyTavern-EveryTextLineEditor.git",
+    "stars": 20,
+    "language": "TypeScript",
+    "size_kb": 6604
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 0.647803
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 20 stars."
+  }
+}

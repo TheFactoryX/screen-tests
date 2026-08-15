@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8219 | [Solsynth/MaidKit](https://github.com/Solsynth/MaidKit) | Dart · ⭐ 349 | 2026-08-15 |
+| #8220 | [IceFog72/SillyTavern-EveryTextLineEditor](https://github.com/IceFog72/SillyTavern-EveryTextLineEditor) | TypeScript · ⭐ 20 | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8307,3 +8307,4 @@ If you need permission, you're thinking too much.
 | 8217 | 2026-08-15 06:33:28 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (458898⭐ Python) | [reels/reel_8217_public-apis-public-apis](reels/reel_8217_public-apis-public-apis) |
 | 8218 | 2026-08-15 07:15:39 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279239⭐ Python) | [reels/reel_8218_practical-tutorials-project-based-learning](reels/reel_8218_practical-tutorials-project-based-learning) |
 | 8219 | 2026-08-15 07:51:22 | [Solsynth/MaidKit](https://github.com/Solsynth/MaidKit) | ✅ full (349⭐ Dart) | [reels/reel_8219_Solsynth-MaidKit](reels/reel_8219_Solsynth-MaidKit) |
+| 8220 | 2026-08-15 08:24:10 | [IceFog72/SillyTavern-EveryTextLineEditor](https://github.com/IceFog72/SillyTavern-EveryTextLineEditor) | ✅ full (20⭐ TypeScript) | [reels/reel_8220_IceFog72-SillyTavern-EveryTextLineEditor](reels/reel_8220_IceFog72-SillyTavern-EveryTextLineEditor) |
