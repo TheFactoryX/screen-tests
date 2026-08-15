@@ -1,0 +1,24 @@
+{
+  "reel_number": 8241,
+  "recorded": "2026-08-15 18:24:46 UTC",
+  "repository": {
+    "full_name": "Vegaleonele/github-polls-voter-auth",
+    "url": "https://github.com/Vegaleonele/github-polls-voter-auth",
+    "clone_url": "https://github.com/Vegaleonele/github-polls-voter-auth.git",
+    "stars": 115,
+    "language": "HTML",
+    "size_kb": 674
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.612167
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 115 stars."
+  }
+}
