@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8234 | [Moyf/moys-asr-workflow](https://github.com/Moyf/moys-asr-workflow) | JavaScript · ⭐ 113 | 2026-08-15 |
+| #8235 | [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) | JavaScript · ⭐ 106 | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8322,3 +8322,4 @@ If you need permission, you're thinking too much.
 | 8232 | 2026-08-15 14:18:57 | [Monica-Pass/Monica](https://github.com/Monica-Pass/Monica) | ✅ readme_only (916⭐ Kotlin) | [reels/reel_8232_Monica-Pass-Monica](reels/reel_8232_Monica-Pass-Monica) |
 | 8233 | 2026-08-15 14:47:08 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (110531⭐ TypeScript) | [reels/reel_8233_deepseek-ai-deepseek-harness](reels/reel_8233_deepseek-ai-deepseek-harness) |
 | 8234 | 2026-08-15 15:17:04 | [Moyf/moys-asr-workflow](https://github.com/Moyf/moys-asr-workflow) | ✅ full (113⭐ JavaScript) | [reels/reel_8234_Moyf-moys-asr-workflow](reels/reel_8234_Moyf-moys-asr-workflow) |
+| 8235 | 2026-08-15 15:44:13 | [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) | ✅ full (106⭐ JavaScript) | [reels/reel_8235_mitsuhiko-fstrings-wtf](reels/reel_8235_mitsuhiko-fstrings-wtf) |
