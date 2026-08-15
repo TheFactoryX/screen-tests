@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8247 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 312k | 2026-08-15 |
+| #8248 | [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR) | C++ · ⭐ 543 | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8335,3 +8335,4 @@ If you need permission, you're thinking too much.
 | 8245 | 2026-08-15 19:58:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (459989⭐ Python) | [reels/reel_8245_public-apis-public-apis](reels/reel_8245_public-apis-public-apis) |
 | 8246 | 2026-08-15 20:30:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (312875⭐ None) | [reels/reel_8246_awesome-selfhosted-awesome-selfhosted](reels/reel_8246_awesome-selfhosted-awesome-selfhosted) |
 | 8247 | 2026-08-15 20:51:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (312876⭐ None) | [reels/reel_8247_awesome-selfhosted-awesome-selfhosted](reels/reel_8247_awesome-selfhosted-awesome-selfhosted) |
+| 8248 | 2026-08-15 21:18:15 | [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR) | ✅ full (543⭐ C++) | [reels/reel_8248_CrispStrobe-CrispASR](reels/reel_8248_CrispStrobe-CrispASR) |

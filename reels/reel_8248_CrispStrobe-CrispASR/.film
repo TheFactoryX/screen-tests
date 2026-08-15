@@ -1,0 +1,24 @@
+{
+  "reel_number": 8248,
+  "recorded": "2026-08-15 21:18:15 UTC",
+  "repository": {
+    "full_name": "CrispStrobe/CrispASR",
+    "url": "https://github.com/CrispStrobe/CrispASR",
+    "clone_url": "https://github.com/CrispStrobe/CrispASR.git",
+    "stars": 543,
+    "language": "C++",
+    "size_kb": 59345
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 57,
+    "duration_seconds": 5.358097
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 543 stars."
+  }
+}
