@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8252 | [Sanrax/flashcart-guides](https://github.com/Sanrax/flashcart-guides) | None · ⭐ 115 | 2026-08-15 |
+| #8253 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 460k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8340,3 +8340,4 @@ If you need permission, you're thinking too much.
 | 8250 | 2026-08-15 21:58:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144279⭐ Python) | [reels/reel_8250_langchain-ai-langchain](reels/reel_8250_langchain-ai-langchain) |
 | 8251 | 2026-08-15 22:28:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144281⭐ Python) | [reels/reel_8251_langchain-ai-langchain](reels/reel_8251_langchain-ai-langchain) |
 | 8252 | 2026-08-15 22:50:18 | [Sanrax/flashcart-guides](https://github.com/Sanrax/flashcart-guides) | ✅ full (115⭐ None) | [reels/reel_8252_Sanrax-flashcart-guides](reels/reel_8252_Sanrax-flashcart-guides) |
+| 8253 | 2026-08-15 23:17:12 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (460121⭐ Python) | [reels/reel_8253_public-apis-public-apis](reels/reel_8253_public-apis-public-apis) |
