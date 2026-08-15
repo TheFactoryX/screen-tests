@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8238 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 539k | 2026-08-15 |
+| #8239 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 124k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8326,3 +8326,4 @@ If you need permission, you're thinking too much.
 | 8236 | 2026-08-15 15:58:42 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137967⭐ TypeScript) | [reels/reel_8236_clash-verge-rev-clash-verge-rev](reels/reel_8236_clash-verge-rev-clash-verge-rev) |
 | 8237 | 2026-08-15 16:32:27 | [Coder-s-OG-s/MergeShip](https://github.com/Coder-s-OG-s/MergeShip) | ✅ full (24⭐ TypeScript) | [reels/reel_8237_Coder-s-OG-s-MergeShip](reels/reel_8237_Coder-s-OG-s-MergeShip) |
 | 8238 | 2026-08-15 16:59:24 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (539938⭐ Markdown) | [reels/reel_8238_codecrafters-io-build-your-own-x](reels/reel_8238_codecrafters-io-build-your-own-x) |
+| 8239 | 2026-08-15 17:27:22 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (124004⭐ C++) | [reels/reel_8239_ggml-org-llama.cpp](reels/reel_8239_ggml-org-llama.cpp) |
