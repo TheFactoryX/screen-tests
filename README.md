@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8242 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 312k | 2026-08-15 |
+| #8243 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 459k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8330,3 +8330,4 @@ If you need permission, you're thinking too much.
 | 8240 | 2026-08-15 17:47:02 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186611⭐ Python) | [reels/reel_8240_Significant-Gravitas-AutoGPT](reels/reel_8240_Significant-Gravitas-AutoGPT) |
 | 8241 | 2026-08-15 18:24:46 | [Vegaleonele/github-polls-voter-auth](https://github.com/Vegaleonele/github-polls-voter-auth) | ✅ full (115⭐ HTML) | [reels/reel_8241_Vegaleonele-github-polls-voter-auth](reels/reel_8241_Vegaleonele-github-polls-voter-auth) |
 | 8242 | 2026-08-15 18:55:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (312866⭐ None) | [reels/reel_8242_awesome-selfhosted-awesome-selfhosted](reels/reel_8242_awesome-selfhosted-awesome-selfhosted) |
+| 8243 | 2026-08-15 19:19:40 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (459941⭐ Python) | [reels/reel_8243_public-apis-public-apis](reels/reel_8243_public-apis-public-apis) |
