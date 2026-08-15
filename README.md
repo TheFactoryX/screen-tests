@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8211 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-08-15 |
+| #8212 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8299,3 +8299,4 @@ If you need permission, you're thinking too much.
 | 8209 | 2026-08-15 01:05:28 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240160⭐ JavaScript) | [reels/reel_8209_affaan-m-ECC](reels/reel_8209_affaan-m-ECC) |
 | 8210 | 2026-08-15 02:18:35 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (184489⭐ Python) | [reels/reel_8210_yt-dlp-yt-dlp](reels/reel_8210_yt-dlp-yt-dlp) |
 | 8211 | 2026-08-15 03:11:33 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140956⭐ Python) | [reels/reel_8211_ytdl-org-youtube-dl](reels/reel_8211_ytdl-org-youtube-dl) |
+| 8212 | 2026-08-15 03:53:41 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144241⭐ Python) | [reels/reel_8212_langchain-ai-langchain](reels/reel_8212_langchain-ai-langchain) |
