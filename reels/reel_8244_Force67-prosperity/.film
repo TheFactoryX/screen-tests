@@ -1,0 +1,24 @@
+{
+  "reel_number": 8244,
+  "recorded": "2026-08-15 19:44:28 UTC",
+  "repository": {
+    "full_name": "Force67/prosperity",
+    "url": "https://github.com/Force67/prosperity",
+    "clone_url": "https://github.com/Force67/prosperity.git",
+    "stars": 379,
+    "language": "C++",
+    "size_kb": 22654
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 22,
+    "duration_seconds": 3.62455
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 379 stars."
+  }
+}
