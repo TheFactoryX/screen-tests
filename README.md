@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8248 | [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR) | C++ · ⭐ 543 | 2026-08-15 |
+| #8249 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 110k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8336,3 +8336,4 @@ If you need permission, you're thinking too much.
 | 8246 | 2026-08-15 20:30:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (312875⭐ None) | [reels/reel_8246_awesome-selfhosted-awesome-selfhosted](reels/reel_8246_awesome-selfhosted-awesome-selfhosted) |
 | 8247 | 2026-08-15 20:51:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (312876⭐ None) | [reels/reel_8247_awesome-selfhosted-awesome-selfhosted](reels/reel_8247_awesome-selfhosted-awesome-selfhosted) |
 | 8248 | 2026-08-15 21:18:15 | [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR) | ✅ full (543⭐ C++) | [reels/reel_8248_CrispStrobe-CrispASR](reels/reel_8248_CrispStrobe-CrispASR) |
+| 8249 | 2026-08-15 21:44:15 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110634⭐ TypeScript) | [reels/reel_8249_immich-app-immich](reels/reel_8249_immich-app-immich) |
