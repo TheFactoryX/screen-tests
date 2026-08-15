@@ -1,0 +1,24 @@
+{
+  "reel_number": 8227,
+  "recorded": "2026-08-15 11:43:44 UTC",
+  "repository": {
+    "full_name": "ipsilon/evmone",
+    "url": "https://github.com/ipsilon/evmone",
+    "clone_url": "https://github.com/ipsilon/evmone.git",
+    "stars": 974,
+    "language": "C++",
+    "size_kb": 11209
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.055867
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 974 stars."
+  }
+}

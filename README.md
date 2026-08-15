@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8226 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-15 |
+| #8227 | [ipsilon/evmone](https://github.com/ipsilon/evmone) | C++ · ⭐ 974 | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8314,3 +8314,4 @@ If you need permission, you're thinking too much.
 | 8224 | 2026-08-15 10:19:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200684⭐ TypeScript) | [reels/reel_8224_n8n-io-n8n](reels/reel_8224_n8n-io-n8n) |
 | 8225 | 2026-08-15 10:47:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153251⭐ Python) | [reels/reel_8225_langflow-ai-langflow](reels/reel_8225_langflow-ai-langflow) |
 | 8226 | 2026-08-15 11:17:06 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153252⭐ Python) | [reels/reel_8226_langflow-ai-langflow](reels/reel_8226_langflow-ai-langflow) |
+| 8227 | 2026-08-15 11:43:44 | [ipsilon/evmone](https://github.com/ipsilon/evmone) | ✅ full (974⭐ C++) | [reels/reel_8227_ipsilon-evmone](reels/reel_8227_ipsilon-evmone) |
