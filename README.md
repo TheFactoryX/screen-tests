@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8245 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 459k | 2026-08-15 |
+| #8246 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 312k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8333,3 +8333,4 @@ If you need permission, you're thinking too much.
 | 8243 | 2026-08-15 19:19:40 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (459941⭐ Python) | [reels/reel_8243_public-apis-public-apis](reels/reel_8243_public-apis-public-apis) |
 | 8244 | 2026-08-15 19:44:28 | [Force67/prosperity](https://github.com/Force67/prosperity) | ✅ full (379⭐ C++) | [reels/reel_8244_Force67-prosperity](reels/reel_8244_Force67-prosperity) |
 | 8245 | 2026-08-15 19:58:44 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (459989⭐ Python) | [reels/reel_8245_public-apis-public-apis](reels/reel_8245_public-apis-public-apis) |
+| 8246 | 2026-08-15 20:30:05 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (312875⭐ None) | [reels/reel_8246_awesome-selfhosted-awesome-selfhosted](reels/reel_8246_awesome-selfhosted-awesome-selfhosted) |
