@@ -1,0 +1,24 @@
+{
+  "reel_number": 8232,
+  "recorded": "2026-08-15 14:18:57 UTC",
+  "repository": {
+    "full_name": "Monica-Pass/Monica",
+    "url": "https://github.com/Monica-Pass/Monica",
+    "clone_url": "https://github.com/Monica-Pass/Monica.git",
+    "stars": 916,
+    "language": "Kotlin",
+    "size_kb": 730655
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 713,
+    "duration_seconds": 0.000147
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 916 stars."
+  }
+}

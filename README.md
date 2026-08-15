@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8231 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-15 |
+| #8232 | [Monica-Pass/Monica](https://github.com/Monica-Pass/Monica) | Kotlin · ⭐ 916 | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8319,3 +8319,4 @@ If you need permission, you're thinking too much.
 | 8229 | 2026-08-15 12:48:22 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144253⭐ Python) | [reels/reel_8229_langchain-ai-langchain](reels/reel_8229_langchain-ai-langchain) |
 | 8230 | 2026-08-15 13:27:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186608⭐ Python) | [reels/reel_8230_Significant-Gravitas-AutoGPT](reels/reel_8230_Significant-Gravitas-AutoGPT) |
 | 8231 | 2026-08-15 13:52:21 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153255⭐ Python) | [reels/reel_8231_langflow-ai-langflow](reels/reel_8231_langflow-ai-langflow) |
+| 8232 | 2026-08-15 14:18:57 | [Monica-Pass/Monica](https://github.com/Monica-Pass/Monica) | ✅ readme_only (916⭐ Kotlin) | [reels/reel_8232_Monica-Pass-Monica](reels/reel_8232_Monica-Pass-Monica) |
