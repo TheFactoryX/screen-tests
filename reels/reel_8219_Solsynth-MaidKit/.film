@@ -1,0 +1,24 @@
+{
+  "reel_number": 8219,
+  "recorded": "2026-08-15 07:51:22 UTC",
+  "repository": {
+    "full_name": "Solsynth/MaidKit",
+    "url": "https://github.com/Solsynth/MaidKit",
+    "clone_url": "https://github.com/Solsynth/MaidKit.git",
+    "stars": 349,
+    "language": "Dart",
+    "size_kb": 26912
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 26,
+    "duration_seconds": 1.41461
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Dart",
+    "director_note": "A Dart repository. 349 stars."
+  }
+}
