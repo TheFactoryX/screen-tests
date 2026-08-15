@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8229 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-15 |
+| #8230 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8317,3 +8317,4 @@ If you need permission, you're thinking too much.
 | 8227 | 2026-08-15 11:43:44 | [ipsilon/evmone](https://github.com/ipsilon/evmone) | ✅ full (974⭐ C++) | [reels/reel_8227_ipsilon-evmone](reels/reel_8227_ipsilon-evmone) |
 | 8228 | 2026-08-15 11:58:08 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279263⭐ Python) | [reels/reel_8228_practical-tutorials-project-based-learning](reels/reel_8228_practical-tutorials-project-based-learning) |
 | 8229 | 2026-08-15 12:48:22 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144253⭐ Python) | [reels/reel_8229_langchain-ai-langchain](reels/reel_8229_langchain-ai-langchain) |
+| 8230 | 2026-08-15 13:27:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186608⭐ Python) | [reels/reel_8230_Significant-Gravitas-AutoGPT](reels/reel_8230_Significant-Gravitas-AutoGPT) |
