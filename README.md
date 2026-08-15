@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8250 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-15 |
+| #8251 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8338,3 +8338,4 @@ If you need permission, you're thinking too much.
 | 8248 | 2026-08-15 21:18:15 | [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR) | ✅ full (543⭐ C++) | [reels/reel_8248_CrispStrobe-CrispASR](reels/reel_8248_CrispStrobe-CrispASR) |
 | 8249 | 2026-08-15 21:44:15 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110634⭐ TypeScript) | [reels/reel_8249_immich-app-immich](reels/reel_8249_immich-app-immich) |
 | 8250 | 2026-08-15 21:58:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144279⭐ Python) | [reels/reel_8250_langchain-ai-langchain](reels/reel_8250_langchain-ai-langchain) |
+| 8251 | 2026-08-15 22:28:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144281⭐ Python) | [reels/reel_8251_langchain-ai-langchain](reels/reel_8251_langchain-ai-langchain) |
