@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8236 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 137k | 2026-08-15 |
+| #8237 | [Coder-s-OG-s/MergeShip](https://github.com/Coder-s-OG-s/MergeShip) | TypeScript · ⭐ 24 | 2026-08-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8324,3 +8324,4 @@ If you need permission, you're thinking too much.
 | 8234 | 2026-08-15 15:17:04 | [Moyf/moys-asr-workflow](https://github.com/Moyf/moys-asr-workflow) | ✅ full (113⭐ JavaScript) | [reels/reel_8234_Moyf-moys-asr-workflow](reels/reel_8234_Moyf-moys-asr-workflow) |
 | 8235 | 2026-08-15 15:44:13 | [mitsuhiko/fstrings-wtf](https://github.com/mitsuhiko/fstrings-wtf) | ✅ full (106⭐ JavaScript) | [reels/reel_8235_mitsuhiko-fstrings-wtf](reels/reel_8235_mitsuhiko-fstrings-wtf) |
 | 8236 | 2026-08-15 15:58:42 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (137967⭐ TypeScript) | [reels/reel_8236_clash-verge-rev-clash-verge-rev](reels/reel_8236_clash-verge-rev-clash-verge-rev) |
+| 8237 | 2026-08-15 16:32:27 | [Coder-s-OG-s/MergeShip](https://github.com/Coder-s-OG-s/MergeShip) | ✅ full (24⭐ TypeScript) | [reels/reel_8237_Coder-s-OG-s-MergeShip](reels/reel_8237_Coder-s-OG-s-MergeShip) |
