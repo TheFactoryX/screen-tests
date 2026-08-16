@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8257 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-16 |
+| #8258 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8345,3 +8345,4 @@ If you need permission, you're thinking too much.
 | 8255 | 2026-08-15 23:58:04 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153277⭐ Python) | [reels/reel_8255_langflow-ai-langflow](reels/reel_8255_langflow-ai-langflow) |
 | 8256 | 2026-08-16 01:42:37 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (127786⭐ Python) | [reels/reel_8256_Comfy-Org-ComfyUI](reels/reel_8256_Comfy-Org-ComfyUI) |
 | 8257 | 2026-08-16 02:46:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200791⭐ TypeScript) | [reels/reel_8257_n8n-io-n8n](reels/reel_8257_n8n-io-n8n) |
+| 8258 | 2026-08-16 03:45:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144300⭐ Python) | [reels/reel_8258_langchain-ai-langchain](reels/reel_8258_langchain-ai-langchain) |
