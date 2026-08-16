@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8297 | [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | Go · ⭐ 258 | 2026-08-16 |
+| #8298 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 461k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8385,3 +8385,4 @@ If you need permission, you're thinking too much.
 | 8295 | 2026-08-16 21:43:27 | [DanielHashmi/Q4_learning](https://github.com/DanielHashmi/Q4_learning) | ✅ full (17⭐ Python) | [reels/reel_8295_DanielHashmi-Q4_learning](reels/reel_8295_DanielHashmi-Q4_learning) |
 | 8296 | 2026-08-16 21:57:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148957⭐ Python) | [reels/reel_8296_open-webui-open-webui](reels/reel_8296_open-webui-open-webui) |
 | 8297 | 2026-08-16 22:23:06 | [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | ✅ full (258⭐ Go) | [reels/reel_8297_Rain-kl-OpenFlare](reels/reel_8297_Rain-kl-OpenFlare) |
+| 8298 | 2026-08-16 22:45:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (461648⭐ Python) | [reels/reel_8298_public-apis-public-apis](reels/reel_8298_public-apis-public-apis) |
