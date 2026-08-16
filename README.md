@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8293 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 240k | 2026-08-16 |
+| #8294 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8381,3 +8381,4 @@ If you need permission, you're thinking too much.
 | 8291 | 2026-08-16 19:56:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313064⭐ None) | [reels/reel_8291_awesome-selfhosted-awesome-selfhosted](reels/reel_8291_awesome-selfhosted-awesome-selfhosted) |
 | 8292 | 2026-08-16 20:22:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313067⭐ None) | [reels/reel_8292_awesome-selfhosted-awesome-selfhosted](reels/reel_8292_awesome-selfhosted-awesome-selfhosted) |
 | 8293 | 2026-08-16 20:46:31 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240469⭐ JavaScript) | [reels/reel_8293_affaan-m-ECC](reels/reel_8293_affaan-m-ECC) |
+| 8294 | 2026-08-16 21:17:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148956⭐ Python) | [reels/reel_8294_open-webui-open-webui](reels/reel_8294_open-webui-open-webui) |
