@@ -1,0 +1,24 @@
+{
+  "reel_number": 8261,
+  "recorded": "2026-08-16 05:35:05 UTC",
+  "repository": {
+    "full_name": "andreadegiovine/homeassistant-stellantis-vehicles",
+    "url": "https://github.com/andreadegiovine/homeassistant-stellantis-vehicles",
+    "clone_url": "https://github.com/andreadegiovine/homeassistant-stellantis-vehicles.git",
+    "stars": 258,
+    "language": "Python",
+    "size_kb": 1455
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.677297
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 258 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8260 | [tiagozip/cap](https://github.com/tiagozip/cap) | JavaScript · ⭐ 7k | 2026-08-16 |
+| #8261 | [andreadegiovine/homeassistant-stellantis-vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) | Python · ⭐ 258 | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8348,3 +8348,4 @@ If you need permission, you're thinking too much.
 | 8258 | 2026-08-16 03:45:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144300⭐ Python) | [reels/reel_8258_langchain-ai-langchain](reels/reel_8258_langchain-ai-langchain) |
 | 8259 | 2026-08-16 04:21:14 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140953⭐ Python) | [reels/reel_8259_ytdl-org-youtube-dl](reels/reel_8259_ytdl-org-youtube-dl) |
 | 8260 | 2026-08-16 04:59:36 | [tiagozip/cap](https://github.com/tiagozip/cap) | ✅ full (7505⭐ JavaScript) | [reels/reel_8260_tiagozip-cap](reels/reel_8260_tiagozip-cap) |
+| 8261 | 2026-08-16 05:35:05 | [andreadegiovine/homeassistant-stellantis-vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) | ✅ full (258⭐ Python) | [reels/reel_8261_andreadegiovine-homeassistant-stellantis-vehicles](reels/reel_8261_andreadegiovine-homeassistant-stellantis-vehicles) |
