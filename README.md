@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8274 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-16 |
+| #8275 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | HTML · ⭐ 121 | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8362,3 +8362,4 @@ If you need permission, you're thinking too much.
 | 8272 | 2026-08-16 11:24:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186630⭐ Python) | [reels/reel_8272_Significant-Gravitas-AutoGPT](reels/reel_8272_Significant-Gravitas-AutoGPT) |
 | 8273 | 2026-08-16 11:43:58 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (127872⭐ Python) | [reels/reel_8273_Comfy-Org-ComfyUI](reels/reel_8273_Comfy-Org-ComfyUI) |
 | 8274 | 2026-08-16 11:58:58 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138114⭐ TypeScript) | [reels/reel_8274_clash-verge-rev-clash-verge-rev](reels/reel_8274_clash-verge-rev-clash-verge-rev) |
+| 8275 | 2026-08-16 12:52:47 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | ✅ full (121⭐ HTML) | [reels/reel_8275_grandgaming9321-prog-reality-engine](reels/reel_8275_grandgaming9321-prog-reality-engine) |

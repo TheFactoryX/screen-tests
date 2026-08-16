@@ -1,0 +1,24 @@
+{
+  "reel_number": 8275,
+  "recorded": "2026-08-16 12:52:47 UTC",
+  "repository": {
+    "full_name": "grandgaming9321-prog/reality-engine",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine",
+    "clone_url": "https://github.com/grandgaming9321-prog/reality-engine.git",
+    "stars": 121,
+    "language": "HTML",
+    "size_kb": 1413
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.827546
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 121 stars."
+  }
+}
