@@ -1,0 +1,24 @@
+{
+  "reel_number": 8297,
+  "recorded": "2026-08-16 22:23:06 UTC",
+  "repository": {
+    "full_name": "Rain-kl/OpenFlare",
+    "url": "https://github.com/Rain-kl/OpenFlare",
+    "clone_url": "https://github.com/Rain-kl/OpenFlare.git",
+    "stars": 258,
+    "language": "Go",
+    "size_kb": 84752
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 82,
+    "duration_seconds": 3.537016
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 258 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8296 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-16 |
+| #8297 | [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | Go · ⭐ 258 | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8384,3 +8384,4 @@ If you need permission, you're thinking too much.
 | 8294 | 2026-08-16 21:17:04 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148956⭐ Python) | [reels/reel_8294_open-webui-open-webui](reels/reel_8294_open-webui-open-webui) |
 | 8295 | 2026-08-16 21:43:27 | [DanielHashmi/Q4_learning](https://github.com/DanielHashmi/Q4_learning) | ✅ full (17⭐ Python) | [reels/reel_8295_DanielHashmi-Q4_learning](reels/reel_8295_DanielHashmi-Q4_learning) |
 | 8296 | 2026-08-16 21:57:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148957⭐ Python) | [reels/reel_8296_open-webui-open-webui](reels/reel_8296_open-webui-open-webui) |
+| 8297 | 2026-08-16 22:23:06 | [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | ✅ full (258⭐ Go) | [reels/reel_8297_Rain-kl-OpenFlare](reels/reel_8297_Rain-kl-OpenFlare) |
