@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8284 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 184k | 2026-08-16 |
+| #8285 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8372,3 +8372,4 @@ If you need permission, you're thinking too much.
 | 8282 | 2026-08-16 15:59:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153309⭐ Python) | [reels/reel_8282_langflow-ai-langflow](reels/reel_8282_langflow-ai-langflow) |
 | 8283 | 2026-08-16 16:34:16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148939⭐ Python) | [reels/reel_8283_open-webui-open-webui](reels/reel_8283_open-webui-open-webui) |
 | 8284 | 2026-08-16 17:00:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (184819⭐ Python) | [reels/reel_8284_yt-dlp-yt-dlp](reels/reel_8284_yt-dlp-yt-dlp) |
+| 8285 | 2026-08-16 17:27:00 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138183⭐ TypeScript) | [reels/reel_8285_clash-verge-rev-clash-verge-rev](reels/reel_8285_clash-verge-rev-clash-verge-rev) |
