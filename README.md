@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8262 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 110k | 2026-08-16 |
+| #8263 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 110k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8350,3 +8350,4 @@ If you need permission, you're thinking too much.
 | 8260 | 2026-08-16 04:59:36 | [tiagozip/cap](https://github.com/tiagozip/cap) | ✅ full (7505⭐ JavaScript) | [reels/reel_8260_tiagozip-cap](reels/reel_8260_tiagozip-cap) |
 | 8261 | 2026-08-16 05:35:05 | [andreadegiovine/homeassistant-stellantis-vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) | ✅ full (258⭐ Python) | [reels/reel_8261_andreadegiovine-homeassistant-stellantis-vehicles](reels/reel_8261_andreadegiovine-homeassistant-stellantis-vehicles) |
 | 8262 | 2026-08-16 06:00:55 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110673⭐ TypeScript) | [reels/reel_8262_immich-app-immich](reels/reel_8262_immich-app-immich) |
+| 8263 | 2026-08-16 06:57:50 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110676⭐ TypeScript) | [reels/reel_8263_immich-app-immich](reels/reel_8263_immich-app-immich) |
