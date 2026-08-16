@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8266 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-16 |
+| #8267 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8354,3 +8354,4 @@ If you need permission, you're thinking too much.
 | 8264 | 2026-08-16 07:34:21 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148896⭐ Python) | [reels/reel_8264_open-webui-open-webui](reels/reel_8264_open-webui-open-webui) |
 | 8265 | 2026-08-16 07:59:15 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279392⭐ Python) | [reels/reel_8265_practical-tutorials-project-based-learning](reels/reel_8265_practical-tutorials-project-based-learning) |
 | 8266 | 2026-08-16 08:38:04 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118426⭐ None) | [reels/reel_8266_Hack-with-Github-Awesome-Hacking](reels/reel_8266_Hack-with-Github-Awesome-Hacking) |
+| 8267 | 2026-08-16 09:02:07 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144317⭐ Python) | [reels/reel_8267_langchain-ai-langchain](reels/reel_8267_langchain-ai-langchain) |
