@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8258 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-16 |
+| #8259 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8346,3 +8346,4 @@ If you need permission, you're thinking too much.
 | 8256 | 2026-08-16 01:42:37 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (127786⭐ Python) | [reels/reel_8256_Comfy-Org-ComfyUI](reels/reel_8256_Comfy-Org-ComfyUI) |
 | 8257 | 2026-08-16 02:46:37 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200791⭐ TypeScript) | [reels/reel_8257_n8n-io-n8n](reels/reel_8257_n8n-io-n8n) |
 | 8258 | 2026-08-16 03:45:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144300⭐ Python) | [reels/reel_8258_langchain-ai-langchain](reels/reel_8258_langchain-ai-langchain) |
+| 8259 | 2026-08-16 04:21:14 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140953⭐ Python) | [reels/reel_8259_ytdl-org-youtube-dl](reels/reel_8259_ytdl-org-youtube-dl) |
