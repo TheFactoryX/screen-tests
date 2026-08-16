@@ -1,0 +1,24 @@
+{
+  "reel_number": 8276,
+  "recorded": "2026-08-16 13:28:31 UTC",
+  "repository": {
+    "full_name": "Surfboardv2ray/TGParse",
+    "url": "https://github.com/Surfboardv2ray/TGParse",
+    "clone_url": "https://github.com/Surfboardv2ray/TGParse.git",
+    "stars": 279,
+    "language": "Python",
+    "size_kb": 4003981
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 3910,
+    "duration_seconds": 0.00014
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 279 stars."
+  }
+}
