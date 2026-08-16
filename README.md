@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8269 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 460k | 2026-08-16 |
+| #8270 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8357,3 +8357,4 @@ If you need permission, you're thinking too much.
 | 8267 | 2026-08-16 09:02:07 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144317⭐ Python) | [reels/reel_8267_langchain-ai-langchain](reels/reel_8267_langchain-ai-langchain) |
 | 8268 | 2026-08-16 09:41:19 | [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | ✅ full (360⭐ JavaScript) | [reels/reel_8268_memorax-ai-memorax-code](reels/reel_8268_memorax-ai-memorax-code) |
 | 8269 | 2026-08-16 09:59:20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (460696⭐ Python) | [reels/reel_8269_public-apis-public-apis](reels/reel_8269_public-apis-public-apis) |
+| 8270 | 2026-08-16 10:30:36 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144321⭐ Python) | [reels/reel_8270_langchain-ai-langchain](reels/reel_8270_langchain-ai-langchain) |
