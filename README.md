@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8277 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-16 |
+| #8278 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 110k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8365,3 +8365,4 @@ If you need permission, you're thinking too much.
 | 8275 | 2026-08-16 12:52:47 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | ✅ full (121⭐ HTML) | [reels/reel_8275_grandgaming9321-prog-reality-engine](reels/reel_8275_grandgaming9321-prog-reality-engine) |
 | 8276 | 2026-08-16 13:28:31 | [Surfboardv2ray/TGParse](https://github.com/Surfboardv2ray/TGParse) | ✅ readme_only (279⭐ Python) | [reels/reel_8276_Surfboardv2ray-TGParse](reels/reel_8276_Surfboardv2ray-TGParse) |
 | 8277 | 2026-08-16 13:54:05 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153303⭐ Python) | [reels/reel_8277_langflow-ai-langflow](reels/reel_8277_langflow-ai-langflow) |
+| 8278 | 2026-08-16 14:19:23 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110254⭐ Rust) | [reels/reel_8278_tauri-apps-tauri](reels/reel_8278_tauri-apps-tauri) |
