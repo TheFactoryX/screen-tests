@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8299 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-16 |
+| #8300 | [galfrevn/apollo](https://github.com/galfrevn/apollo) | TypeScript · ⭐ 212 | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8387,3 +8387,4 @@ If you need permission, you're thinking too much.
 | 8297 | 2026-08-16 22:23:06 | [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | ✅ full (258⭐ Go) | [reels/reel_8297_Rain-kl-OpenFlare](reels/reel_8297_Rain-kl-OpenFlare) |
 | 8298 | 2026-08-16 22:45:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (461648⭐ Python) | [reels/reel_8298_public-apis-public-apis](reels/reel_8298_public-apis-public-apis) |
 | 8299 | 2026-08-16 23:16:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200905⭐ TypeScript) | [reels/reel_8299_n8n-io-n8n](reels/reel_8299_n8n-io-n8n) |
+| 8300 | 2026-08-16 23:42:53 | [galfrevn/apollo](https://github.com/galfrevn/apollo) | ✅ full (212⭐ TypeScript) | [reels/reel_8300_galfrevn-apollo](reels/reel_8300_galfrevn-apollo) |

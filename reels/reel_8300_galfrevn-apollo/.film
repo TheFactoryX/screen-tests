@@ -1,0 +1,24 @@
+{
+  "reel_number": 8300,
+  "recorded": "2026-08-16 23:42:53 UTC",
+  "repository": {
+    "full_name": "galfrevn/apollo",
+    "url": "https://github.com/galfrevn/apollo",
+    "clone_url": "https://github.com/galfrevn/apollo.git",
+    "stars": 212,
+    "language": "TypeScript",
+    "size_kb": 5147
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.715625
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 212 stars."
+  }
+}
