@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8283 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 148k | 2026-08-16 |
+| #8284 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 184k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8371,3 +8371,4 @@ If you need permission, you're thinking too much.
 | 8281 | 2026-08-16 15:45:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (461134⭐ Python) | [reels/reel_8281_public-apis-public-apis](reels/reel_8281_public-apis-public-apis) |
 | 8282 | 2026-08-16 15:59:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153309⭐ Python) | [reels/reel_8282_langflow-ai-langflow](reels/reel_8282_langflow-ai-langflow) |
 | 8283 | 2026-08-16 16:34:16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (148939⭐ Python) | [reels/reel_8283_open-webui-open-webui](reels/reel_8283_open-webui-open-webui) |
+| 8284 | 2026-08-16 17:00:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (184819⭐ Python) | [reels/reel_8284_yt-dlp-yt-dlp](reels/reel_8284_yt-dlp-yt-dlp) |
