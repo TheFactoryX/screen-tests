@@ -1,0 +1,24 @@
+{
+  "reel_number": 8271,
+  "recorded": "2026-08-16 10:58:22 UTC",
+  "repository": {
+    "full_name": "rubytoolbox/rubytoolbox",
+    "url": "https://github.com/rubytoolbox/rubytoolbox",
+    "clone_url": "https://github.com/rubytoolbox/rubytoolbox.git",
+    "stars": 551,
+    "language": "Ruby",
+    "size_kb": 7944
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 7,
+    "duration_seconds": 1.349591
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 551 stars."
+  }
+}
