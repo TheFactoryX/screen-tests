@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8291 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 313k | 2026-08-16 |
+| #8292 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 313k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8379,3 +8379,4 @@ If you need permission, you're thinking too much.
 | 8289 | 2026-08-16 19:18:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135979⭐ TypeScript) | [reels/reel_8289_iptv-org-iptv](reels/reel_8289_iptv-org-iptv) |
 | 8290 | 2026-08-16 19:43:11 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140970⭐ Python) | [reels/reel_8290_ytdl-org-youtube-dl](reels/reel_8290_ytdl-org-youtube-dl) |
 | 8291 | 2026-08-16 19:56:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313064⭐ None) | [reels/reel_8291_awesome-selfhosted-awesome-selfhosted](reels/reel_8291_awesome-selfhosted-awesome-selfhosted) |
+| 8292 | 2026-08-16 20:22:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313067⭐ None) | [reels/reel_8292_awesome-selfhosted-awesome-selfhosted](reels/reel_8292_awesome-selfhosted-awesome-selfhosted) |
