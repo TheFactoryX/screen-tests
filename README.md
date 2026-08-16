@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8267 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-16 |
+| #8268 | [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | JavaScript · ⭐ 360 | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8355,3 +8355,4 @@ If you need permission, you're thinking too much.
 | 8265 | 2026-08-16 07:59:15 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279392⭐ Python) | [reels/reel_8265_practical-tutorials-project-based-learning](reels/reel_8265_practical-tutorials-project-based-learning) |
 | 8266 | 2026-08-16 08:38:04 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118426⭐ None) | [reels/reel_8266_Hack-with-Github-Awesome-Hacking](reels/reel_8266_Hack-with-Github-Awesome-Hacking) |
 | 8267 | 2026-08-16 09:02:07 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144317⭐ Python) | [reels/reel_8267_langchain-ai-langchain](reels/reel_8267_langchain-ai-langchain) |
+| 8268 | 2026-08-16 09:41:19 | [memorax-ai/memorax-code](https://github.com/memorax-ai/memorax-code) | ✅ full (360⭐ JavaScript) | [reels/reel_8268_memorax-ai-memorax-code](reels/reel_8268_memorax-ai-memorax-code) |
