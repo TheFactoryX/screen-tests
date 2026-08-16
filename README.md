@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8281 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 461k | 2026-08-16 |
+| #8282 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8369,3 +8369,4 @@ If you need permission, you're thinking too much.
 | 8279 | 2026-08-16 14:47:46 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240398⭐ JavaScript) | [reels/reel_8279_affaan-m-ECC](reels/reel_8279_affaan-m-ECC) |
 | 8280 | 2026-08-16 15:18:22 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138159⭐ TypeScript) | [reels/reel_8280_clash-verge-rev-clash-verge-rev](reels/reel_8280_clash-verge-rev-clash-verge-rev) |
 | 8281 | 2026-08-16 15:45:06 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (461134⭐ Python) | [reels/reel_8281_public-apis-public-apis](reels/reel_8281_public-apis-public-apis) |
+| 8282 | 2026-08-16 15:59:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153309⭐ Python) | [reels/reel_8282_langflow-ai-langflow](reels/reel_8282_langflow-ai-langflow) |
