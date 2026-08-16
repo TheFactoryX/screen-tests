@@ -1,0 +1,24 @@
+{
+  "reel_number": 8295,
+  "recorded": "2026-08-16 21:43:27 UTC",
+  "repository": {
+    "full_name": "DanielHashmi/Q4_learning",
+    "url": "https://github.com/DanielHashmi/Q4_learning",
+    "clone_url": "https://github.com/DanielHashmi/Q4_learning.git",
+    "stars": 17,
+    "language": "Python",
+    "size_kb": 26380
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 0.783278
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 17 stars."
+  }
+}
