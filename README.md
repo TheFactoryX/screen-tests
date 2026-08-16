@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8273 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 127k | 2026-08-16 |
+| #8274 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8361,3 +8361,4 @@ If you need permission, you're thinking too much.
 | 8271 | 2026-08-16 10:58:22 | [rubytoolbox/rubytoolbox](https://github.com/rubytoolbox/rubytoolbox) | ✅ full (551⭐ Ruby) | [reels/reel_8271_rubytoolbox-rubytoolbox](reels/reel_8271_rubytoolbox-rubytoolbox) |
 | 8272 | 2026-08-16 11:24:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186630⭐ Python) | [reels/reel_8272_Significant-Gravitas-AutoGPT](reels/reel_8272_Significant-Gravitas-AutoGPT) |
 | 8273 | 2026-08-16 11:43:58 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (127872⭐ Python) | [reels/reel_8273_Comfy-Org-ComfyUI](reels/reel_8273_Comfy-Org-ComfyUI) |
+| 8274 | 2026-08-16 11:58:58 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138114⭐ TypeScript) | [reels/reel_8274_clash-verge-rev-clash-verge-rev](reels/reel_8274_clash-verge-rev-clash-verge-rev) |
