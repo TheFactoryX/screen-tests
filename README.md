@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8286 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 184k | 2026-08-16 |
+| #8287 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 110k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8374,3 +8374,4 @@ If you need permission, you're thinking too much.
 | 8284 | 2026-08-16 17:00:14 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (184819⭐ Python) | [reels/reel_8284_yt-dlp-yt-dlp](reels/reel_8284_yt-dlp-yt-dlp) |
 | 8285 | 2026-08-16 17:27:00 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138183⭐ TypeScript) | [reels/reel_8285_clash-verge-rev-clash-verge-rev](reels/reel_8285_clash-verge-rev-clash-verge-rev) |
 | 8286 | 2026-08-16 17:46:03 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (184828⭐ Python) | [reels/reel_8286_yt-dlp-yt-dlp](reels/reel_8286_yt-dlp-yt-dlp) |
+| 8287 | 2026-08-16 18:24:24 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (110736⭐ TypeScript) | [reels/reel_8287_immich-app-immich](reels/reel_8287_immich-app-immich) |
