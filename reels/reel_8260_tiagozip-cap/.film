@@ -1,0 +1,24 @@
+{
+  "reel_number": 8260,
+  "recorded": "2026-08-16 04:59:36 UTC",
+  "repository": {
+    "full_name": "tiagozip/cap",
+    "url": "https://github.com/tiagozip/cap",
+    "clone_url": "https://github.com/tiagozip/cap.git",
+    "stars": 7505,
+    "language": "JavaScript",
+    "size_kb": 13059
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 0.939499
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 7505 stars."
+  }
+}
