@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8255 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-15 |
+| #8256 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 127k | 2026-08-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8343,3 +8343,4 @@ If you need permission, you're thinking too much.
 | 8253 | 2026-08-15 23:17:12 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (460121⭐ Python) | [reels/reel_8253_public-apis-public-apis](reels/reel_8253_public-apis-public-apis) |
 | 8254 | 2026-08-15 23:43:38 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240296⭐ JavaScript) | [reels/reel_8254_affaan-m-ECC](reels/reel_8254_affaan-m-ECC) |
 | 8255 | 2026-08-15 23:58:04 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153277⭐ Python) | [reels/reel_8255_langflow-ai-langflow](reels/reel_8255_langflow-ai-langflow) |
+| 8256 | 2026-08-16 01:42:37 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (127786⭐ Python) | [reels/reel_8256_Comfy-Org-ComfyUI](reels/reel_8256_Comfy-Org-ComfyUI) |
