@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8322 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-17 |
+| #8323 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 185k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8410,3 +8410,4 @@ If you need permission, you're thinking too much.
 | 8320 | 2026-08-17 15:03:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279567⭐ Python) | [reels/reel_8320_practical-tutorials-project-based-learning](reels/reel_8320_practical-tutorials-project-based-learning) |
 | 8321 | 2026-08-17 15:38:04 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279568⭐ Python) | [reels/reel_8321_practical-tutorials-project-based-learning](reels/reel_8321_practical-tutorials-project-based-learning) |
 | 8322 | 2026-08-17 15:58:21 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138413⭐ TypeScript) | [reels/reel_8322_clash-verge-rev-clash-verge-rev](reels/reel_8322_clash-verge-rev-clash-verge-rev) |
+| 8323 | 2026-08-17 16:34:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185048⭐ Python) | [reels/reel_8323_yt-dlp-yt-dlp](reels/reel_8323_yt-dlp-yt-dlp) |
