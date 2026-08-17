@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8328 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-17 |
+| #8329 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 149k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8416,3 +8416,4 @@ If you need permission, you're thinking too much.
 | 8326 | 2026-08-17 18:13:32 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186646⭐ Python) | [reels/reel_8326_Significant-Gravitas-AutoGPT](reels/reel_8326_Significant-Gravitas-AutoGPT) |
 | 8327 | 2026-08-17 18:59:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313248⭐ None) | [reels/reel_8327_awesome-selfhosted-awesome-selfhosted](reels/reel_8327_awesome-selfhosted-awesome-selfhosted) |
 | 8328 | 2026-08-17 19:33:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144412⭐ Python) | [reels/reel_8328_langchain-ai-langchain](reels/reel_8328_langchain-ai-langchain) |
+| 8329 | 2026-08-17 19:58:49 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (149060⭐ TypeScript) | [reels/reel_8329_deepseek-ai-deepseek-harness](reels/reel_8329_deepseek-ai-deepseek-harness) |
