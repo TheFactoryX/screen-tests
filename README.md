@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8310 | [Gradesaappreciate/topaz-video-ai-suite](https://github.com/Gradesaappreciate/topaz-video-ai-suite) | None · ⭐ 122 | 2026-08-17 |
+| #8311 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8398,3 +8398,4 @@ If you need permission, you're thinking too much.
 | 8308 | 2026-08-17 06:49:52 | [horang-labs/tessera](https://github.com/horang-labs/tessera) | ✅ full (293⭐ TypeScript) | [reels/reel_8308_horang-labs-tessera](reels/reel_8308_horang-labs-tessera) |
 | 8309 | 2026-08-17 07:50:39 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (184953⭐ Python) | [reels/reel_8309_yt-dlp-yt-dlp](reels/reel_8309_yt-dlp-yt-dlp) |
 | 8310 | 2026-08-17 08:39:32 | [Gradesaappreciate/topaz-video-ai-suite](https://github.com/Gradesaappreciate/topaz-video-ai-suite) | ✅ full (122⭐ None) | [reels/reel_8310_Gradesaappreciate-topaz-video-ai-suite](reels/reel_8310_Gradesaappreciate-topaz-video-ai-suite) |
+| 8311 | 2026-08-17 09:22:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200934⭐ TypeScript) | [reels/reel_8311_n8n-io-n8n](reels/reel_8311_n8n-io-n8n) |
