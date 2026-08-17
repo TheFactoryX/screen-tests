@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8303 | [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) | Python · ⭐ 157 | 2026-08-17 |
+| #8304 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8391,3 +8391,4 @@ If you need permission, you're thinking too much.
 | 8301 | 2026-08-16 23:57:06 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138206⭐ TypeScript) | [reels/reel_8301_clash-verge-rev-clash-verge-rev](reels/reel_8301_clash-verge-rev-clash-verge-rev) |
 | 8302 | 2026-08-17 01:24:07 | [cadaver/turso3d](https://github.com/cadaver/turso3d) | ✅ full (327⭐ C++) | [reels/reel_8302_cadaver-turso3d](reels/reel_8302_cadaver-turso3d) |
 | 8303 | 2026-08-17 02:39:48 | [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) | ✅ full (157⭐ Python) | [reels/reel_8303_thegeeklab-ansible-doctor](reels/reel_8303_thegeeklab-ansible-doctor) |
+| 8304 | 2026-08-17 03:32:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186647⭐ Python) | [reels/reel_8304_Significant-Gravitas-AutoGPT](reels/reel_8304_Significant-Gravitas-AutoGPT) |
