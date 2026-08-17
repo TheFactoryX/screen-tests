@@ -1,0 +1,24 @@
+{
+  "reel_number": 8332,
+  "recorded": "2026-08-17 21:39:10 UTC",
+  "repository": {
+    "full_name": "fundament-oss/fundament",
+    "url": "https://github.com/fundament-oss/fundament",
+    "clone_url": "https://github.com/fundament-oss/fundament.git",
+    "stars": 11,
+    "language": "Go",
+    "size_kb": 107391
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 104,
+    "duration_seconds": 2.130935
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 11 stars."
+  }
+}
