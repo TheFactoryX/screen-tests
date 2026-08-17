@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8320 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 279k | 2026-08-17 |
+| #8321 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 279k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8408,3 +8408,4 @@ If you need permission, you're thinking too much.
 | 8318 | 2026-08-17 14:01:09 | [Pokled/nodyx](https://github.com/Pokled/nodyx) | ✅ full (101⭐ Svelte) | [reels/reel_8318_Pokled-nodyx](reels/reel_8318_Pokled-nodyx) |
 | 8319 | 2026-08-17 14:43:32 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138397⭐ TypeScript) | [reels/reel_8319_clash-verge-rev-clash-verge-rev](reels/reel_8319_clash-verge-rev-clash-verge-rev) |
 | 8320 | 2026-08-17 15:03:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279567⭐ Python) | [reels/reel_8320_practical-tutorials-project-based-learning](reels/reel_8320_practical-tutorials-project-based-learning) |
+| 8321 | 2026-08-17 15:38:04 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279568⭐ Python) | [reels/reel_8321_practical-tutorials-project-based-learning](reels/reel_8321_practical-tutorials-project-based-learning) |
