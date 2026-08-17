@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8304 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-17 |
+| #8305 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 135k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8392,3 +8392,4 @@ If you need permission, you're thinking too much.
 | 8302 | 2026-08-17 01:24:07 | [cadaver/turso3d](https://github.com/cadaver/turso3d) | ✅ full (327⭐ C++) | [reels/reel_8302_cadaver-turso3d](reels/reel_8302_cadaver-turso3d) |
 | 8303 | 2026-08-17 02:39:48 | [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) | ✅ full (157⭐ Python) | [reels/reel_8303_thegeeklab-ansible-doctor](reels/reel_8303_thegeeklab-ansible-doctor) |
 | 8304 | 2026-08-17 03:32:36 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186647⭐ Python) | [reels/reel_8304_Significant-Gravitas-AutoGPT](reels/reel_8304_Significant-Gravitas-AutoGPT) |
+| 8305 | 2026-08-17 04:25:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135996⭐ TypeScript) | [reels/reel_8305_iptv-org-iptv](reels/reel_8305_iptv-org-iptv) |
