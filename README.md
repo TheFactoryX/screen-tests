@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8323 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 185k | 2026-08-17 |
+| #8324 | [i1see1you/VirbiusAgent](https://github.com/i1see1you/VirbiusAgent) | Java · ⭐ 22 | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8411,3 +8411,4 @@ If you need permission, you're thinking too much.
 | 8321 | 2026-08-17 15:38:04 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279568⭐ Python) | [reels/reel_8321_practical-tutorials-project-based-learning](reels/reel_8321_practical-tutorials-project-based-learning) |
 | 8322 | 2026-08-17 15:58:21 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138413⭐ TypeScript) | [reels/reel_8322_clash-verge-rev-clash-verge-rev](reels/reel_8322_clash-verge-rev-clash-verge-rev) |
 | 8323 | 2026-08-17 16:34:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185048⭐ Python) | [reels/reel_8323_yt-dlp-yt-dlp](reels/reel_8323_yt-dlp-yt-dlp) |
+| 8324 | 2026-08-17 17:02:24 | [i1see1you/VirbiusAgent](https://github.com/i1see1you/VirbiusAgent) | ✅ full (22⭐ Java) | [reels/reel_8324_i1see1you-VirbiusAgent](reels/reel_8324_i1see1you-VirbiusAgent) |
