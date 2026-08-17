@@ -1,0 +1,24 @@
+{
+  "reel_number": 8303,
+  "recorded": "2026-08-17 02:39:48 UTC",
+  "repository": {
+    "full_name": "thegeeklab/ansible-doctor",
+    "url": "https://github.com/thegeeklab/ansible-doctor",
+    "clone_url": "https://github.com/thegeeklab/ansible-doctor.git",
+    "stars": 157,
+    "language": "Python",
+    "size_kb": 2710
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.980665
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 157 stars."
+  }
+}
