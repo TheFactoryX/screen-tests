@@ -1,0 +1,24 @@
+{
+  "reel_number": 8314,
+  "recorded": "2026-08-17 11:21:59 UTC",
+  "repository": {
+    "full_name": "GaosCode/PlanWeave",
+    "url": "https://github.com/GaosCode/PlanWeave",
+    "clone_url": "https://github.com/GaosCode/PlanWeave.git",
+    "stars": 336,
+    "language": "TypeScript",
+    "size_kb": 16721
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 2.334073
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 336 stars."
+  }
+}
