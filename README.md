@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8333 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-17 |
+| #8334 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 111k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8421,3 +8421,4 @@ If you need permission, you're thinking too much.
 | 8331 | 2026-08-17 21:01:59 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (149275⭐ TypeScript) | [reels/reel_8331_deepseek-ai-deepseek-harness](reels/reel_8331_deepseek-ai-deepseek-harness) |
 | 8332 | 2026-08-17 21:39:10 | [fundament-oss/fundament](https://github.com/fundament-oss/fundament) | ✅ shallow (11⭐ Go) | [reels/reel_8332_fundament-oss-fundament](reels/reel_8332_fundament-oss-fundament) |
 | 8333 | 2026-08-17 21:58:51 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118507⭐ None) | [reels/reel_8333_Hack-with-Github-Awesome-Hacking](reels/reel_8333_Hack-with-Github-Awesome-Hacking) |
+| 8334 | 2026-08-17 22:31:23 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (111103⭐ TypeScript) | [reels/reel_8334_immich-app-immich](reels/reel_8334_immich-app-immich) |
