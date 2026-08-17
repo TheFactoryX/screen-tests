@@ -1,0 +1,24 @@
+{
+  "reel_number": 8318,
+  "recorded": "2026-08-17 14:01:09 UTC",
+  "repository": {
+    "full_name": "Pokled/nodyx",
+    "url": "https://github.com/Pokled/nodyx",
+    "clone_url": "https://github.com/Pokled/nodyx.git",
+    "stars": 101,
+    "language": "Svelte",
+    "size_kb": 47011
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 45,
+    "duration_seconds": 1.933925
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Svelte",
+    "director_note": "A Svelte repository. 101 stars."
+  }
+}

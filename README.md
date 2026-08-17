@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8317 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-17 |
+| #8318 | [Pokled/nodyx](https://github.com/Pokled/nodyx) | Svelte · ⭐ 101 | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8405,3 +8405,4 @@ If you need permission, you're thinking too much.
 | 8315 | 2026-08-17 11:49:23 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200944⭐ TypeScript) | [reels/reel_8315_n8n-io-n8n](reels/reel_8315_n8n-io-n8n) |
 | 8316 | 2026-08-17 12:38:09 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (145765⭐ TypeScript) | [reels/reel_8316_deepseek-ai-deepseek-harness](reels/reel_8316_deepseek-ai-deepseek-harness) |
 | 8317 | 2026-08-17 13:26:09 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138381⭐ TypeScript) | [reels/reel_8317_clash-verge-rev-clash-verge-rev](reels/reel_8317_clash-verge-rev-clash-verge-rev) |
+| 8318 | 2026-08-17 14:01:09 | [Pokled/nodyx](https://github.com/Pokled/nodyx) | ✅ full (101⭐ Svelte) | [reels/reel_8318_Pokled-nodyx](reels/reel_8318_Pokled-nodyx) |
