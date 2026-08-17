@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8335 | [0din-ai/ai-scanner](https://github.com/0din-ai/ai-scanner) | Ruby · ⭐ 650 | 2026-08-17 |
+| #8336 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 149k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8423,3 +8423,4 @@ If you need permission, you're thinking too much.
 | 8333 | 2026-08-17 21:58:51 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118507⭐ None) | [reels/reel_8333_Hack-with-Github-Awesome-Hacking](reels/reel_8333_Hack-with-Github-Awesome-Hacking) |
 | 8334 | 2026-08-17 22:31:23 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (111103⭐ TypeScript) | [reels/reel_8334_immich-app-immich](reels/reel_8334_immich-app-immich) |
 | 8335 | 2026-08-17 22:59:03 | [0din-ai/ai-scanner](https://github.com/0din-ai/ai-scanner) | ✅ full (650⭐ Ruby) | [reels/reel_8335_0din-ai-ai-scanner](reels/reel_8335_0din-ai-ai-scanner) |
+| 8336 | 2026-08-17 23:28:58 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (149702⭐ TypeScript) | [reels/reel_8336_deepseek-ai-deepseek-harness](reels/reel_8336_deepseek-ai-deepseek-harness) |
