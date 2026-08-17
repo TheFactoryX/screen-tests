@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8307 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 240k | 2026-08-17 |
+| #8308 | [horang-labs/tessera](https://github.com/horang-labs/tessera) | TypeScript · ⭐ 293 | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8395,3 +8395,4 @@ If you need permission, you're thinking too much.
 | 8305 | 2026-08-17 04:25:06 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (135996⭐ TypeScript) | [reels/reel_8305_iptv-org-iptv](reels/reel_8305_iptv-org-iptv) |
 | 8306 | 2026-08-17 05:07:26 | [wemake-services/recase](https://github.com/wemake-services/recase) | ✅ full (237⭐ Elixir) | [reels/reel_8306_wemake-services-recase](reels/reel_8306_wemake-services-recase) |
 | 8307 | 2026-08-17 05:49:21 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240542⭐ JavaScript) | [reels/reel_8307_affaan-m-ECC](reels/reel_8307_affaan-m-ECC) |
+| 8308 | 2026-08-17 06:49:52 | [horang-labs/tessera](https://github.com/horang-labs/tessera) | ✅ full (293⭐ TypeScript) | [reels/reel_8308_horang-labs-tessera](reels/reel_8308_horang-labs-tessera) |
