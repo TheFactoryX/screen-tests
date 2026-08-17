@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8326 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-17 |
+| #8327 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 313k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8414,3 +8414,4 @@ If you need permission, you're thinking too much.
 | 8324 | 2026-08-17 17:02:24 | [i1see1you/VirbiusAgent](https://github.com/i1see1you/VirbiusAgent) | ✅ full (22⭐ Java) | [reels/reel_8324_i1see1you-VirbiusAgent](reels/reel_8324_i1see1you-VirbiusAgent) |
 | 8325 | 2026-08-17 17:44:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200965⭐ TypeScript) | [reels/reel_8325_n8n-io-n8n](reels/reel_8325_n8n-io-n8n) |
 | 8326 | 2026-08-17 18:13:32 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186646⭐ Python) | [reels/reel_8326_Significant-Gravitas-AutoGPT](reels/reel_8326_Significant-Gravitas-AutoGPT) |
+| 8327 | 2026-08-17 18:59:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313248⭐ None) | [reels/reel_8327_awesome-selfhosted-awesome-selfhosted](reels/reel_8327_awesome-selfhosted-awesome-selfhosted) |
