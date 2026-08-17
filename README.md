@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8332 | [fundament-oss/fundament](https://github.com/fundament-oss/fundament) | Go · ⭐ 11 | 2026-08-17 |
+| #8333 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8420,3 +8420,4 @@ If you need permission, you're thinking too much.
 | 8330 | 2026-08-17 20:34:13 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140972⭐ Python) | [reels/reel_8330_ytdl-org-youtube-dl](reels/reel_8330_ytdl-org-youtube-dl) |
 | 8331 | 2026-08-17 21:01:59 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (149275⭐ TypeScript) | [reels/reel_8331_deepseek-ai-deepseek-harness](reels/reel_8331_deepseek-ai-deepseek-harness) |
 | 8332 | 2026-08-17 21:39:10 | [fundament-oss/fundament](https://github.com/fundament-oss/fundament) | ✅ shallow (11⭐ Go) | [reels/reel_8332_fundament-oss-fundament](reels/reel_8332_fundament-oss-fundament) |
+| 8333 | 2026-08-17 21:58:51 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118507⭐ None) | [reels/reel_8333_Hack-with-Github-Awesome-Hacking](reels/reel_8333_Hack-with-Github-Awesome-Hacking) |
