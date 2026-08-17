@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8301 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-16 |
+| #8302 | [cadaver/turso3d](https://github.com/cadaver/turso3d) | C++ · ⭐ 327 | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8389,3 +8389,4 @@ If you need permission, you're thinking too much.
 | 8299 | 2026-08-16 23:16:36 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200905⭐ TypeScript) | [reels/reel_8299_n8n-io-n8n](reels/reel_8299_n8n-io-n8n) |
 | 8300 | 2026-08-16 23:42:53 | [galfrevn/apollo](https://github.com/galfrevn/apollo) | ✅ full (212⭐ TypeScript) | [reels/reel_8300_galfrevn-apollo](reels/reel_8300_galfrevn-apollo) |
 | 8301 | 2026-08-16 23:57:06 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138206⭐ TypeScript) | [reels/reel_8301_clash-verge-rev-clash-verge-rev](reels/reel_8301_clash-verge-rev-clash-verge-rev) |
+| 8302 | 2026-08-17 01:24:07 | [cadaver/turso3d](https://github.com/cadaver/turso3d) | ✅ full (327⭐ C++) | [reels/reel_8302_cadaver-turso3d](reels/reel_8302_cadaver-turso3d) |

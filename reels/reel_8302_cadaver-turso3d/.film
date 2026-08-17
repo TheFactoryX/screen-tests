@@ -1,0 +1,24 @@
+{
+  "reel_number": 8302,
+  "recorded": "2026-08-17 01:24:07 UTC",
+  "repository": {
+    "full_name": "cadaver/turso3d",
+    "url": "https://github.com/cadaver/turso3d",
+    "clone_url": "https://github.com/cadaver/turso3d.git",
+    "stars": 327,
+    "language": "C++",
+    "size_kb": 14507
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 1.199906
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 327 stars."
+  }
+}
