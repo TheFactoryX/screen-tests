@@ -1,0 +1,24 @@
+{
+  "reel_number": 8335,
+  "recorded": "2026-08-17 22:59:03 UTC",
+  "repository": {
+    "full_name": "0din-ai/ai-scanner",
+    "url": "https://github.com/0din-ai/ai-scanner",
+    "clone_url": "https://github.com/0din-ai/ai-scanner.git",
+    "stars": 650,
+    "language": "Ruby",
+    "size_kb": 5697
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.003337
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Ruby",
+    "director_note": "A Ruby repository. 650 stars."
+  }
+}
