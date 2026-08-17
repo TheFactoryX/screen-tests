@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8329 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 149k | 2026-08-17 |
+| #8330 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8417,3 +8417,4 @@ If you need permission, you're thinking too much.
 | 8327 | 2026-08-17 18:59:14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313248⭐ None) | [reels/reel_8327_awesome-selfhosted-awesome-selfhosted](reels/reel_8327_awesome-selfhosted-awesome-selfhosted) |
 | 8328 | 2026-08-17 19:33:55 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144412⭐ Python) | [reels/reel_8328_langchain-ai-langchain](reels/reel_8328_langchain-ai-langchain) |
 | 8329 | 2026-08-17 19:58:49 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (149060⭐ TypeScript) | [reels/reel_8329_deepseek-ai-deepseek-harness](reels/reel_8329_deepseek-ai-deepseek-harness) |
+| 8330 | 2026-08-17 20:34:13 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140972⭐ Python) | [reels/reel_8330_ytdl-org-youtube-dl](reels/reel_8330_ytdl-org-youtube-dl) |
