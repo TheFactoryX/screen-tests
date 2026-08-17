@@ -1,0 +1,24 @@
+{
+  "reel_number": 8306,
+  "recorded": "2026-08-17 05:07:26 UTC",
+  "repository": {
+    "full_name": "wemake-services/recase",
+    "url": "https://github.com/wemake-services/recase",
+    "clone_url": "https://github.com/wemake-services/recase.git",
+    "stars": 237,
+    "language": "Elixir",
+    "size_kb": 350
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 1.100124
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Elixir",
+    "director_note": "A Elixir repository. 237 stars."
+  }
+}
