@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8324 | [i1see1you/VirbiusAgent](https://github.com/i1see1you/VirbiusAgent) | Java · ⭐ 22 | 2026-08-17 |
+| #8325 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8412,3 +8412,4 @@ If you need permission, you're thinking too much.
 | 8322 | 2026-08-17 15:58:21 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138413⭐ TypeScript) | [reels/reel_8322_clash-verge-rev-clash-verge-rev](reels/reel_8322_clash-verge-rev-clash-verge-rev) |
 | 8323 | 2026-08-17 16:34:07 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185048⭐ Python) | [reels/reel_8323_yt-dlp-yt-dlp](reels/reel_8323_yt-dlp-yt-dlp) |
 | 8324 | 2026-08-17 17:02:24 | [i1see1you/VirbiusAgent](https://github.com/i1see1you/VirbiusAgent) | ✅ full (22⭐ Java) | [reels/reel_8324_i1see1you-VirbiusAgent](reels/reel_8324_i1see1you-VirbiusAgent) |
+| 8325 | 2026-08-17 17:44:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200965⭐ TypeScript) | [reels/reel_8325_n8n-io-n8n](reels/reel_8325_n8n-io-n8n) |
