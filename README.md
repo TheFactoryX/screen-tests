@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8314 | [GaosCode/PlanWeave](https://github.com/GaosCode/PlanWeave) | TypeScript · ⭐ 336 | 2026-08-17 |
+| #8315 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 200k | 2026-08-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8402,3 +8402,4 @@ If you need permission, you're thinking too much.
 | 8312 | 2026-08-17 10:04:21 | [smg-project/smg](https://github.com/smg-project/smg) | ✅ full (461⭐ Rust) | [reels/reel_8312_smg-project-smg](reels/reel_8312_smg-project-smg) |
 | 8313 | 2026-08-17 10:47:19 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (128029⭐ Python) | [reels/reel_8313_Comfy-Org-ComfyUI](reels/reel_8313_Comfy-Org-ComfyUI) |
 | 8314 | 2026-08-17 11:21:59 | [GaosCode/PlanWeave](https://github.com/GaosCode/PlanWeave) | ✅ full (336⭐ TypeScript) | [reels/reel_8314_GaosCode-PlanWeave](reels/reel_8314_GaosCode-PlanWeave) |
+| 8315 | 2026-08-17 11:49:23 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (200944⭐ TypeScript) | [reels/reel_8315_n8n-io-n8n](reels/reel_8315_n8n-io-n8n) |
