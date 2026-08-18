@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8370 | [ucscGenomeBrowser/kent](https://github.com/ucscGenomeBrowser/kent) | C · ⭐ 274 | 2026-08-18 |
+| #8371 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8458,3 +8458,4 @@ If you need permission, you're thinking too much.
 | 8368 | 2026-08-18 20:48:34 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (124538⭐ C++) | [reels/reel_8368_ggml-org-llama.cpp](reels/reel_8368_ggml-org-llama.cpp) |
 | 8369 | 2026-08-18 21:20:44 | [square/square-python-sdk](https://github.com/square/square-python-sdk) | ✅ full (114⭐ Python) | [reels/reel_8369_square-square-python-sdk](reels/reel_8369_square-square-python-sdk) |
 | 8370 | 2026-08-18 21:46:51 | [ucscGenomeBrowser/kent](https://github.com/ucscGenomeBrowser/kent) | ✅ readme_only (274⭐ C) | [reels/reel_8370_ucscGenomeBrowser-kent](reels/reel_8370_ucscGenomeBrowser-kent) |
+| 8371 | 2026-08-18 22:19:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186672⭐ Python) | [reels/reel_8371_Significant-Gravitas-AutoGPT](reels/reel_8371_Significant-Gravitas-AutoGPT) |
