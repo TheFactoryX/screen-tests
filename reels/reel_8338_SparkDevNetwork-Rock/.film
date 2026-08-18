@@ -1,0 +1,24 @@
+{
+  "reel_number": 8338,
+  "recorded": "2026-08-18 01:04:44 UTC",
+  "repository": {
+    "full_name": "SparkDevNetwork/Rock",
+    "url": "https://github.com/SparkDevNetwork/Rock",
+    "clone_url": "https://github.com/SparkDevNetwork/Rock.git",
+    "stars": 678,
+    "language": "C#",
+    "size_kb": 2294703
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2240,
+    "duration_seconds": 0.000168
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 678 stars."
+  }
+}

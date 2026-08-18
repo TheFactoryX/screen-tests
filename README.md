@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8337 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 240k | 2026-08-17 |
+| #8338 | [SparkDevNetwork/Rock](https://github.com/SparkDevNetwork/Rock) | C# · ⭐ 678 | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8425,3 +8425,4 @@ If you need permission, you're thinking too much.
 | 8335 | 2026-08-17 22:59:03 | [0din-ai/ai-scanner](https://github.com/0din-ai/ai-scanner) | ✅ full (650⭐ Ruby) | [reels/reel_8335_0din-ai-ai-scanner](reels/reel_8335_0din-ai-ai-scanner) |
 | 8336 | 2026-08-17 23:28:58 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (149702⭐ TypeScript) | [reels/reel_8336_deepseek-ai-deepseek-harness](reels/reel_8336_deepseek-ai-deepseek-harness) |
 | 8337 | 2026-08-17 23:49:01 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240697⭐ JavaScript) | [reels/reel_8337_affaan-m-ECC](reels/reel_8337_affaan-m-ECC) |
+| 8338 | 2026-08-18 01:04:44 | [SparkDevNetwork/Rock](https://github.com/SparkDevNetwork/Rock) | ✅ readme_only (678⭐ C#) | [reels/reel_8338_SparkDevNetwork-Rock](reels/reel_8338_SparkDevNetwork-Rock) |
