@@ -1,0 +1,24 @@
+{
+  "reel_number": 8361,
+  "recorded": "2026-08-18 16:58:06 UTC",
+  "repository": {
+    "full_name": "alefragnani/vscode-language-pascal",
+    "url": "https://github.com/alefragnani/vscode-language-pascal",
+    "clone_url": "https://github.com/alefragnani/vscode-language-pascal.git",
+    "stars": 269,
+    "language": "TypeScript",
+    "size_kb": 1333
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 1.110709
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 269 stars."
+  }
+}
