@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8342 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-18 |
+| #8343 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8430,3 +8430,4 @@ If you need permission, you're thinking too much.
 | 8340 | 2026-08-18 03:22:04 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279651⭐ Python) | [reels/reel_8340_practical-tutorials-project-based-learning](reels/reel_8340_practical-tutorials-project-based-learning) |
 | 8341 | 2026-08-18 04:06:10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240745⭐ JavaScript) | [reels/reel_8341_affaan-m-ECC](reels/reel_8341_affaan-m-ECC) |
 | 8342 | 2026-08-18 04:50:36 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138486⭐ TypeScript) | [reels/reel_8342_clash-verge-rev-clash-verge-rev](reels/reel_8342_clash-verge-rev-clash-verge-rev) |
+| 8343 | 2026-08-18 05:25:54 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140970⭐ Python) | [reels/reel_8343_ytdl-org-youtube-dl](reels/reel_8343_ytdl-org-youtube-dl) |
