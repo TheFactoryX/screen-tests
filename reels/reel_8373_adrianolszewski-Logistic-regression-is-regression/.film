@@ -1,0 +1,24 @@
+{
+  "reel_number": 8373,
+  "recorded": "2026-08-18 23:18:42 UTC",
+  "repository": {
+    "full_name": "adrianolszewski/Logistic-regression-is-regression",
+    "url": "https://github.com/adrianolszewski/Logistic-regression-is-regression",
+    "clone_url": "https://github.com/adrianolszewski/Logistic-regression-is-regression.git",
+    "stars": 32,
+    "language": null,
+    "size_kb": 167
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.302599
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 32 stars."
+  }
+}
