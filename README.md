@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8355 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 111k | 2026-08-18 |
+| #8356 | [3kh0/Oxide](https://github.com/3kh0/Oxide) | HTML · ⭐ 22 | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8443,3 +8443,4 @@ If you need permission, you're thinking too much.
 | 8353 | 2026-08-18 11:39:37 | [Cajac/picoCTF-Writeups](https://github.com/Cajac/picoCTF-Writeups) | ✅ full (112⭐ None) | [reels/reel_8353_Cajac-picoCTF-Writeups](reels/reel_8353_Cajac-picoCTF-Writeups) |
 | 8354 | 2026-08-18 12:00:01 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185261⭐ Python) | [reels/reel_8354_yt-dlp-yt-dlp](reels/reel_8354_yt-dlp-yt-dlp) |
 | 8355 | 2026-08-18 13:00:27 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (111498⭐ TypeScript) | [reels/reel_8355_immich-app-immich](reels/reel_8355_immich-app-immich) |
+| 8356 | 2026-08-18 13:56:03 | [3kh0/Oxide](https://github.com/3kh0/Oxide) | ✅ full (22⭐ HTML) | [reels/reel_8356_3kh0-Oxide](reels/reel_8356_3kh0-Oxide) |
