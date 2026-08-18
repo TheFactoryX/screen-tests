@@ -1,0 +1,24 @@
+{
+  "reel_number": 8344,
+  "recorded": "2026-08-18 05:54:24 UTC",
+  "repository": {
+    "full_name": "you-apps/ClockYou",
+    "url": "https://github.com/you-apps/ClockYou",
+    "clone_url": "https://github.com/you-apps/ClockYou.git",
+    "stars": 637,
+    "language": "Kotlin",
+    "size_kb": 3082
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.923226
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 637 stars."
+  }
+}
