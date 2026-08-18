@@ -1,0 +1,24 @@
+{
+  "reel_number": 8370,
+  "recorded": "2026-08-18 21:46:51 UTC",
+  "repository": {
+    "full_name": "ucscGenomeBrowser/kent",
+    "url": "https://github.com/ucscGenomeBrowser/kent",
+    "clone_url": "https://github.com/ucscGenomeBrowser/kent.git",
+    "stars": 274,
+    "language": "C",
+    "size_kb": 666265
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 650,
+    "duration_seconds": 0.000137
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 274 stars."
+  }
+}
