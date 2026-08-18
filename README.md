@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8361 | [alefragnani/vscode-language-pascal](https://github.com/alefragnani/vscode-language-pascal) | TypeScript · ⭐ 269 | 2026-08-18 |
+| #8362 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8449,3 +8449,4 @@ If you need permission, you're thinking too much.
 | 8359 | 2026-08-18 15:45:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144480⭐ Python) | [reels/reel_8359_langchain-ai-langchain](reels/reel_8359_langchain-ai-langchain) |
 | 8360 | 2026-08-18 16:27:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201085⭐ TypeScript) | [reels/reel_8360_n8n-io-n8n](reels/reel_8360_n8n-io-n8n) |
 | 8361 | 2026-08-18 16:58:06 | [alefragnani/vscode-language-pascal](https://github.com/alefragnani/vscode-language-pascal) | ✅ full (269⭐ TypeScript) | [reels/reel_8361_alefragnani-vscode-language-pascal](reels/reel_8361_alefragnani-vscode-language-pascal) |
+| 8362 | 2026-08-18 17:31:53 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118558⭐ None) | [reels/reel_8362_Hack-with-Github-Awesome-Hacking](reels/reel_8362_Hack-with-Github-Awesome-Hacking) |
