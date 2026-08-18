@@ -1,0 +1,24 @@
+{
+  "reel_number": 8364,
+  "recorded": "2026-08-18 18:55:07 UTC",
+  "repository": {
+    "full_name": "dargmuesli/nuxt-cookie-control",
+    "url": "https://github.com/dargmuesli/nuxt-cookie-control",
+    "clone_url": "https://github.com/dargmuesli/nuxt-cookie-control.git",
+    "stars": 356,
+    "language": "TypeScript",
+    "size_kb": 9489
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 2.472892
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 356 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8363 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-18 |
+| #8364 | [dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control) | TypeScript · ⭐ 356 | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8451,3 +8451,4 @@ If you need permission, you're thinking too much.
 | 8361 | 2026-08-18 16:58:06 | [alefragnani/vscode-language-pascal](https://github.com/alefragnani/vscode-language-pascal) | ✅ full (269⭐ TypeScript) | [reels/reel_8361_alefragnani-vscode-language-pascal](reels/reel_8361_alefragnani-vscode-language-pascal) |
 | 8362 | 2026-08-18 17:31:53 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118558⭐ None) | [reels/reel_8362_Hack-with-Github-Awesome-Hacking](reels/reel_8362_Hack-with-Github-Awesome-Hacking) |
 | 8363 | 2026-08-18 18:01:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186667⭐ Python) | [reels/reel_8363_Significant-Gravitas-AutoGPT](reels/reel_8363_Significant-Gravitas-AutoGPT) |
+| 8364 | 2026-08-18 18:55:07 | [dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control) | ✅ full (356⭐ TypeScript) | [reels/reel_8364_dargmuesli-nuxt-cookie-control](reels/reel_8364_dargmuesli-nuxt-cookie-control) |
