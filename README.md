@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8359 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-18 |
+| #8360 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 201k | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8447,3 +8447,4 @@ If you need permission, you're thinking too much.
 | 8357 | 2026-08-18 14:32:45 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138610⭐ TypeScript) | [reels/reel_8357_clash-verge-rev-clash-verge-rev](reels/reel_8357_clash-verge-rev-clash-verge-rev) |
 | 8358 | 2026-08-18 15:07:00 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (240856⭐ JavaScript) | [reels/reel_8358_affaan-m-ECC](reels/reel_8358_affaan-m-ECC) |
 | 8359 | 2026-08-18 15:45:19 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144480⭐ Python) | [reels/reel_8359_langchain-ai-langchain](reels/reel_8359_langchain-ai-langchain) |
+| 8360 | 2026-08-18 16:27:54 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201085⭐ TypeScript) | [reels/reel_8360_n8n-io-n8n](reels/reel_8360_n8n-io-n8n) |
