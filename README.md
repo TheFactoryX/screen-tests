@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8365 | [Doko-Demo-Doa/react-native-pdf-editor](https://github.com/Doko-Demo-Doa/react-native-pdf-editor) | TypeScript · ⭐ 12 | 2026-08-18 |
+| #8366 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8453,3 +8453,4 @@ If you need permission, you're thinking too much.
 | 8363 | 2026-08-18 18:01:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186667⭐ Python) | [reels/reel_8363_Significant-Gravitas-AutoGPT](reels/reel_8363_Significant-Gravitas-AutoGPT) |
 | 8364 | 2026-08-18 18:55:07 | [dargmuesli/nuxt-cookie-control](https://github.com/dargmuesli/nuxt-cookie-control) | ✅ full (356⭐ TypeScript) | [reels/reel_8364_dargmuesli-nuxt-cookie-control](reels/reel_8364_dargmuesli-nuxt-cookie-control) |
 | 8365 | 2026-08-18 19:24:45 | [Doko-Demo-Doa/react-native-pdf-editor](https://github.com/Doko-Demo-Doa/react-native-pdf-editor) | ✅ full (12⭐ TypeScript) | [reels/reel_8365_Doko-Demo-Doa-react-native-pdf-editor](reels/reel_8365_Doko-Demo-Doa-react-native-pdf-editor) |
+| 8366 | 2026-08-18 19:48:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186669⭐ Python) | [reels/reel_8366_Significant-Gravitas-AutoGPT](reels/reel_8366_Significant-Gravitas-AutoGPT) |
