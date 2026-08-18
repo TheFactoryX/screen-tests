@@ -1,0 +1,24 @@
+{
+  "reel_number": 8353,
+  "recorded": "2026-08-18 11:39:37 UTC",
+  "repository": {
+    "full_name": "Cajac/picoCTF-Writeups",
+    "url": "https://github.com/Cajac/picoCTF-Writeups",
+    "clone_url": "https://github.com/Cajac/picoCTF-Writeups.git",
+    "stars": 112,
+    "language": null,
+    "size_kb": 14864
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 14,
+    "duration_seconds": 1.291858
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 112 stars."
+  }
+}

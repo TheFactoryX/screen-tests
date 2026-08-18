@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8352 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-18 |
+| #8353 | [Cajac/picoCTF-Writeups](https://github.com/Cajac/picoCTF-Writeups) | None · ⭐ 112 | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8440,3 +8440,4 @@ If you need permission, you're thinking too much.
 | 8350 | 2026-08-18 09:59:30 | [harleyszhang/lite_llama](https://github.com/harleyszhang/lite_llama) | ✅ full (186⭐ Python) | [reels/reel_8350_harleyszhang-lite_llama](reels/reel_8350_harleyszhang-lite_llama) |
 | 8351 | 2026-08-18 10:36:50 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279700⭐ Python) | [reels/reel_8351_practical-tutorials-project-based-learning](reels/reel_8351_practical-tutorials-project-based-learning) |
 | 8352 | 2026-08-18 11:01:46 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153404⭐ Python) | [reels/reel_8352_langflow-ai-langflow](reels/reel_8352_langflow-ai-langflow) |
+| 8353 | 2026-08-18 11:39:37 | [Cajac/picoCTF-Writeups](https://github.com/Cajac/picoCTF-Writeups) | ✅ full (112⭐ None) | [reels/reel_8353_Cajac-picoCTF-Writeups](reels/reel_8353_Cajac-picoCTF-Writeups) |
