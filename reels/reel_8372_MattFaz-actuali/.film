@@ -1,0 +1,24 @@
+{
+  "reel_number": 8372,
+  "recorded": "2026-08-18 22:49:46 UTC",
+  "repository": {
+    "full_name": "MattFaz/actuali",
+    "url": "https://github.com/MattFaz/actuali",
+    "clone_url": "https://github.com/MattFaz/actuali.git",
+    "stars": 110,
+    "language": "Swift",
+    "size_kb": 6721
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 2.442654
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 110 stars."
+  }
+}
