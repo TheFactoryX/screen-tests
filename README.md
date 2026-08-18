@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8344 | [you-apps/ClockYou](https://github.com/you-apps/ClockYou) | Kotlin · ⭐ 637 | 2026-08-18 |
+| #8345 | [bernhard-42/three-cad-viewer](https://github.com/bernhard-42/three-cad-viewer) | TypeScript · ⭐ 383 | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8432,3 +8432,4 @@ If you need permission, you're thinking too much.
 | 8342 | 2026-08-18 04:50:36 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138486⭐ TypeScript) | [reels/reel_8342_clash-verge-rev-clash-verge-rev](reels/reel_8342_clash-verge-rev-clash-verge-rev) |
 | 8343 | 2026-08-18 05:25:54 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140970⭐ Python) | [reels/reel_8343_ytdl-org-youtube-dl](reels/reel_8343_ytdl-org-youtube-dl) |
 | 8344 | 2026-08-18 05:54:24 | [you-apps/ClockYou](https://github.com/you-apps/ClockYou) | ✅ full (637⭐ Kotlin) | [reels/reel_8344_you-apps-ClockYou](reels/reel_8344_you-apps-ClockYou) |
+| 8345 | 2026-08-18 06:38:42 | [bernhard-42/three-cad-viewer](https://github.com/bernhard-42/three-cad-viewer) | ✅ shallow (383⭐ TypeScript) | [reels/reel_8345_bernhard-42-three-cad-viewer](reels/reel_8345_bernhard-42-three-cad-viewer) |

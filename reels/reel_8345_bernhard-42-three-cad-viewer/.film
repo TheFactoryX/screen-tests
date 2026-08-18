@@ -1,0 +1,24 @@
+{
+  "reel_number": 8345,
+  "recorded": "2026-08-18 06:38:42 UTC",
+  "repository": {
+    "full_name": "bernhard-42/three-cad-viewer",
+    "url": "https://github.com/bernhard-42/three-cad-viewer",
+    "clone_url": "https://github.com/bernhard-42/three-cad-viewer.git",
+    "stars": 383,
+    "language": "TypeScript",
+    "size_kb": 106104
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 103,
+    "duration_seconds": 17.642673
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 383 stars."
+  }
+}
