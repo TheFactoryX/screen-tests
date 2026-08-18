@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8347 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-18 |
+| #8348 | [revsic/flowmodels](https://github.com/revsic/flowmodels) | Python · ⭐ 12 | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8435,3 +8435,4 @@ If you need permission, you're thinking too much.
 | 8345 | 2026-08-18 06:38:42 | [bernhard-42/three-cad-viewer](https://github.com/bernhard-42/three-cad-viewer) | ✅ shallow (383⭐ TypeScript) | [reels/reel_8345_bernhard-42-three-cad-viewer](reels/reel_8345_bernhard-42-three-cad-viewer) |
 | 8346 | 2026-08-18 07:23:50 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185194⭐ Python) | [reels/reel_8346_yt-dlp-yt-dlp](reels/reel_8346_yt-dlp-yt-dlp) |
 | 8347 | 2026-08-18 08:01:58 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153393⭐ Python) | [reels/reel_8347_langflow-ai-langflow](reels/reel_8347_langflow-ai-langflow) |
+| 8348 | 2026-08-18 08:52:22 | [revsic/flowmodels](https://github.com/revsic/flowmodels) | ✅ full (12⭐ Python) | [reels/reel_8348_revsic-flowmodels](reels/reel_8348_revsic-flowmodels) |
