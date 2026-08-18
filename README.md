@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8373 | [adrianolszewski/Logistic-regression-is-regression](https://github.com/adrianolszewski/Logistic-regression-is-regression) | None · ⭐ 32 | 2026-08-18 |
+| #8374 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python · ⭐ 109k | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8461,3 +8461,4 @@ If you need permission, you're thinking too much.
 | 8371 | 2026-08-18 22:19:51 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186672⭐ Python) | [reels/reel_8371_Significant-Gravitas-AutoGPT](reels/reel_8371_Significant-Gravitas-AutoGPT) |
 | 8372 | 2026-08-18 22:49:46 | [MattFaz/actuali](https://github.com/MattFaz/actuali) | ✅ full (110⭐ Swift) | [reels/reel_8372_MattFaz-actuali](reels/reel_8372_MattFaz-actuali) |
 | 8373 | 2026-08-18 23:18:42 | [adrianolszewski/Logistic-regression-is-regression](https://github.com/adrianolszewski/Logistic-regression-is-regression) | ✅ full (32⭐ None) | [reels/reel_8373_adrianolszewski-Logistic-regression-is-regression](reels/reel_8373_adrianolszewski-Logistic-regression-is-regression) |
+| 8374 | 2026-08-18 23:45:43 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (109648⭐ Python) | [reels/reel_8374_browser-use-browser-use](reels/reel_8374_browser-use-browser-use) |
