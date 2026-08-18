@@ -1,0 +1,24 @@
+{
+  "reel_number": 8365,
+  "recorded": "2026-08-18 19:24:45 UTC",
+  "repository": {
+    "full_name": "Doko-Demo-Doa/react-native-pdf-editor",
+    "url": "https://github.com/Doko-Demo-Doa/react-native-pdf-editor",
+    "clone_url": "https://github.com/Doko-Demo-Doa/react-native-pdf-editor.git",
+    "stars": 12,
+    "language": "TypeScript",
+    "size_kb": 8272
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.56551
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 12 stars."
+  }
+}
