@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8368 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 124k | 2026-08-18 |
+| #8369 | [square/square-python-sdk](https://github.com/square/square-python-sdk) | Python · ⭐ 114 | 2026-08-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8456,3 +8456,4 @@ If you need permission, you're thinking too much.
 | 8366 | 2026-08-18 19:48:24 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186669⭐ Python) | [reels/reel_8366_Significant-Gravitas-AutoGPT](reels/reel_8366_Significant-Gravitas-AutoGPT) |
 | 8367 | 2026-08-18 20:20:09 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149145⭐ Python) | [reels/reel_8367_open-webui-open-webui](reels/reel_8367_open-webui-open-webui) |
 | 8368 | 2026-08-18 20:48:34 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (124538⭐ C++) | [reels/reel_8368_ggml-org-llama.cpp](reels/reel_8368_ggml-org-llama.cpp) |
+| 8369 | 2026-08-18 21:20:44 | [square/square-python-sdk](https://github.com/square/square-python-sdk) | ✅ full (114⭐ Python) | [reels/reel_8369_square-square-python-sdk](reels/reel_8369_square-square-python-sdk) |
