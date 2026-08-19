@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8390 | [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | Python · ⭐ 403 | 2026-08-19 |
+| #8391 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 241k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8478,3 +8478,4 @@ If you need permission, you're thinking too much.
 | 8388 | 2026-08-19 10:45:05 | [crystalidea/uninstall-tool](https://github.com/crystalidea/uninstall-tool) | ✅ full (119⭐ None) | [reels/reel_8388_crystalidea-uninstall-tool](reels/reel_8388_crystalidea-uninstall-tool) |
 | 8389 | 2026-08-19 11:06:46 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (541108⭐ Markdown) | [reels/reel_8389_codecrafters-io-build-your-own-x](reels/reel_8389_codecrafters-io-build-your-own-x) |
 | 8390 | 2026-08-19 11:38:54 | [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | ✅ full (403⭐ Python) | [reels/reel_8390_tonyd2wild-DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](reels/reel_8390_tonyd2wild-DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark) |
+| 8391 | 2026-08-19 11:59:56 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241070⭐ JavaScript) | [reels/reel_8391_affaan-m-ECC](reels/reel_8391_affaan-m-ECC) |
