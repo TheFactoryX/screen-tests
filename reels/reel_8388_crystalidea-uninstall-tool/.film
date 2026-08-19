@@ -1,0 +1,24 @@
+{
+  "reel_number": 8388,
+  "recorded": "2026-08-19 10:45:05 UTC",
+  "repository": {
+    "full_name": "crystalidea/uninstall-tool",
+    "url": "https://github.com/crystalidea/uninstall-tool",
+    "clone_url": "https://github.com/crystalidea/uninstall-tool.git",
+    "stars": 119,
+    "language": null,
+    "size_kb": 2000
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.829663
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 119 stars."
+  }
+}
