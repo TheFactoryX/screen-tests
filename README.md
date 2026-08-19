@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8406 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 121k | 2026-08-19 |
+| #8407 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 201k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8494,3 +8494,4 @@ If you need permission, you're thinking too much.
 | 8404 | 2026-08-19 19:58:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279952⭐ Python) | [reels/reel_8404_practical-tutorials-project-based-learning](reels/reel_8404_practical-tutorials-project-based-learning) |
 | 8405 | 2026-08-19 20:34:55 | [open-feature/playground](https://github.com/open-feature/playground) | ✅ full (75⭐ TypeScript) | [reels/reel_8405_open-feature-playground](reels/reel_8405_open-feature-playground) |
 | 8406 | 2026-08-19 21:02:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (121661⭐ TypeScript) | [reels/reel_8406_shadcn-ui-ui](reels/reel_8406_shadcn-ui-ui) |
+| 8407 | 2026-08-19 21:39:34 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201207⭐ TypeScript) | [reels/reel_8407_n8n-io-n8n](reels/reel_8407_n8n-io-n8n) |
