@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8398 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-19 |
+| #8399 | [boboskon/media-savant](https://github.com/boboskon/media-savant) | HTML · ⭐ 118 | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8486,3 +8486,4 @@ If you need permission, you're thinking too much.
 | 8396 | 2026-08-19 15:44:59 | [stell2026/Anima](https://github.com/stell2026/Anima) | ✅ full (44⭐ Julia) | [reels/reel_8396_stell2026-Anima](reels/reel_8396_stell2026-Anima) |
 | 8397 | 2026-08-19 16:11:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313689⭐ None) | [reels/reel_8397_awesome-selfhosted-awesome-selfhosted](reels/reel_8397_awesome-selfhosted-awesome-selfhosted) |
 | 8398 | 2026-08-19 16:46:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186687⭐ Python) | [reels/reel_8398_Significant-Gravitas-AutoGPT](reels/reel_8398_Significant-Gravitas-AutoGPT) |
+| 8399 | 2026-08-19 17:23:45 | [boboskon/media-savant](https://github.com/boboskon/media-savant) | ✅ full (118⭐ HTML) | [reels/reel_8399_boboskon-media-savant](reels/reel_8399_boboskon-media-savant) |

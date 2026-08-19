@@ -1,0 +1,24 @@
+{
+  "reel_number": 8399,
+  "recorded": "2026-08-19 17:23:45 UTC",
+  "repository": {
+    "full_name": "boboskon/media-savant",
+    "url": "https://github.com/boboskon/media-savant",
+    "clone_url": "https://github.com/boboskon/media-savant.git",
+    "stars": 118,
+    "language": "HTML",
+    "size_kb": 2890
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.402363
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 118 stars."
+  }
+}
