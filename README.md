@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8401 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 465k | 2026-08-19 |
+| #8402 | [anonrig/router](https://github.com/anonrig/router) | TypeScript · ⭐ 146 | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8489,3 +8489,4 @@ If you need permission, you're thinking too much.
 | 8399 | 2026-08-19 17:23:45 | [boboskon/media-savant](https://github.com/boboskon/media-savant) | ✅ full (118⭐ HTML) | [reels/reel_8399_boboskon-media-savant](reels/reel_8399_boboskon-media-savant) |
 | 8400 | 2026-08-19 17:49:30 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136188⭐ TypeScript) | [reels/reel_8400_iptv-org-iptv](reels/reel_8400_iptv-org-iptv) |
 | 8401 | 2026-08-19 18:31:00 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (465781⭐ Python) | [reels/reel_8401_public-apis-public-apis](reels/reel_8401_public-apis-public-apis) |
+| 8402 | 2026-08-19 19:07:09 | [anonrig/router](https://github.com/anonrig/router) | ✅ full (146⭐ TypeScript) | [reels/reel_8402_anonrig-router](reels/reel_8402_anonrig-router) |
