@@ -1,0 +1,24 @@
+{
+  "reel_number": 8412,
+  "recorded": "2026-08-19 23:57:38 UTC",
+  "repository": {
+    "full_name": "SamSaffron/term-llm",
+    "url": "https://github.com/SamSaffron/term-llm",
+    "clone_url": "https://github.com/SamSaffron/term-llm.git",
+    "stars": 101,
+    "language": "Go",
+    "size_kb": 24722
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 2.537909
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 101 stars."
+  }
+}
