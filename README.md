@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8408 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 185k | 2026-08-19 |
+| #8409 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 166k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8496,3 +8496,4 @@ If you need permission, you're thinking too much.
 | 8406 | 2026-08-19 21:02:01 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (121661⭐ TypeScript) | [reels/reel_8406_shadcn-ui-ui](reels/reel_8406_shadcn-ui-ui) |
 | 8407 | 2026-08-19 21:39:34 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201207⭐ TypeScript) | [reels/reel_8407_n8n-io-n8n](reels/reel_8407_n8n-io-n8n) |
 | 8408 | 2026-08-19 22:00:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185635⭐ Python) | [reels/reel_8408_yt-dlp-yt-dlp](reels/reel_8408_yt-dlp-yt-dlp) |
+| 8409 | 2026-08-19 22:32:50 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (166983⭐ TypeScript) | [reels/reel_8409_deepseek-ai-deepseek-harness](reels/reel_8409_deepseek-ai-deepseek-harness) |
