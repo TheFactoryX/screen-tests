@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8404 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 279k | 2026-08-19 |
+| #8405 | [open-feature/playground](https://github.com/open-feature/playground) | TypeScript · ⭐ 75 | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8492,3 +8492,4 @@ If you need permission, you're thinking too much.
 | 8402 | 2026-08-19 19:07:09 | [anonrig/router](https://github.com/anonrig/router) | ✅ full (146⭐ TypeScript) | [reels/reel_8402_anonrig-router](reels/reel_8402_anonrig-router) |
 | 8403 | 2026-08-19 19:38:13 | [jjang-ai/vmlx](https://github.com/jjang-ai/vmlx) | ✅ shallow (819⭐ Python) | [reels/reel_8403_jjang-ai-vmlx](reels/reel_8403_jjang-ai-vmlx) |
 | 8404 | 2026-08-19 19:58:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (279952⭐ Python) | [reels/reel_8404_practical-tutorials-project-based-learning](reels/reel_8404_practical-tutorials-project-based-learning) |
+| 8405 | 2026-08-19 20:34:55 | [open-feature/playground](https://github.com/open-feature/playground) | ✅ full (75⭐ TypeScript) | [reels/reel_8405_open-feature-playground](reels/reel_8405_open-feature-playground) |

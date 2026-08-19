@@ -1,0 +1,24 @@
+{
+  "reel_number": 8405,
+  "recorded": "2026-08-19 20:34:55 UTC",
+  "repository": {
+    "full_name": "open-feature/playground",
+    "url": "https://github.com/open-feature/playground",
+    "clone_url": "https://github.com/open-feature/playground.git",
+    "stars": 75,
+    "language": "TypeScript",
+    "size_kb": 35902
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 2.508526
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 75 stars."
+  }
+}
