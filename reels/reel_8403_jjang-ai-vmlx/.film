@@ -1,0 +1,24 @@
+{
+  "reel_number": 8403,
+  "recorded": "2026-08-19 19:38:13 UTC",
+  "repository": {
+    "full_name": "jjang-ai/vmlx",
+    "url": "https://github.com/jjang-ai/vmlx",
+    "clone_url": "https://github.com/jjang-ai/vmlx.git",
+    "stars": 819,
+    "language": "Python",
+    "size_kb": 139558
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 136,
+    "duration_seconds": 2.389491
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 819 stars."
+  }
+}
