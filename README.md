@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8380 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 203k | 2026-08-19 |
+| #8381 | [fileverse/fileverse-ddocs](https://github.com/fileverse/fileverse-ddocs) | TypeScript · ⭐ 391 | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8468,3 +8468,4 @@ If you need permission, you're thinking too much.
 | 8378 | 2026-08-19 04:09:11 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (162001⭐ TypeScript) | [reels/reel_8378_deepseek-ai-deepseek-harness](reels/reel_8378_deepseek-ai-deepseek-harness) |
 | 8379 | 2026-08-19 04:50:51 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140972⭐ Python) | [reels/reel_8379_ytdl-org-youtube-dl](reels/reel_8379_ytdl-org-youtube-dl) |
 | 8380 | 2026-08-19 05:26:47 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (203688⭐ None) | [reels/reel_8380_multica-ai-andrej-karpathy-skills](reels/reel_8380_multica-ai-andrej-karpathy-skills) |
+| 8381 | 2026-08-19 05:56:02 | [fileverse/fileverse-ddocs](https://github.com/fileverse/fileverse-ddocs) | ✅ full (391⭐ TypeScript) | [reels/reel_8381_fileverse-fileverse-ddocs](reels/reel_8381_fileverse-fileverse-ddocs) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 8381,
+  "recorded": "2026-08-19 05:56:02 UTC",
+  "repository": {
+    "full_name": "fileverse/fileverse-ddocs",
+    "url": "https://github.com/fileverse/fileverse-ddocs",
+    "clone_url": "https://github.com/fileverse/fileverse-ddocs.git",
+    "stars": 391,
+    "language": "TypeScript",
+    "size_kb": 5638
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.323551
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 391 stars."
+  }
+}
