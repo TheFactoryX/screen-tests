@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8378 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 162k | 2026-08-19 |
+| #8379 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 140k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8466,3 +8466,4 @@ If you need permission, you're thinking too much.
 | 8376 | 2026-08-19 02:31:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186679⭐ Python) | [reels/reel_8376_Significant-Gravitas-AutoGPT](reels/reel_8376_Significant-Gravitas-AutoGPT) |
 | 8377 | 2026-08-19 03:28:24 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313566⭐ None) | [reels/reel_8377_awesome-selfhosted-awesome-selfhosted](reels/reel_8377_awesome-selfhosted-awesome-selfhosted) |
 | 8378 | 2026-08-19 04:09:11 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (162001⭐ TypeScript) | [reels/reel_8378_deepseek-ai-deepseek-harness](reels/reel_8378_deepseek-ai-deepseek-harness) |
+| 8379 | 2026-08-19 04:50:51 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140972⭐ Python) | [reels/reel_8379_ytdl-org-youtube-dl](reels/reel_8379_ytdl-org-youtube-dl) |
