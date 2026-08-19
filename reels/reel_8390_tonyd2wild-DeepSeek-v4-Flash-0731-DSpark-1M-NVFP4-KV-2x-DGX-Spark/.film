@@ -1,0 +1,24 @@
+{
+  "reel_number": 8390,
+  "recorded": "2026-08-19 11:38:54 UTC",
+  "repository": {
+    "full_name": "tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark",
+    "url": "https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark",
+    "clone_url": "https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark.git",
+    "stars": 403,
+    "language": "Python",
+    "size_kb": 448
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.589941
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 403 stars."
+  }
+}
