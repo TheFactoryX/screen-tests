@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8410 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 465k | 2026-08-19 |
+| #8411 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8498,3 +8498,4 @@ If you need permission, you're thinking too much.
 | 8408 | 2026-08-19 22:00:00 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185635⭐ Python) | [reels/reel_8408_yt-dlp-yt-dlp](reels/reel_8408_yt-dlp-yt-dlp) |
 | 8409 | 2026-08-19 22:32:50 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (166983⭐ TypeScript) | [reels/reel_8409_deepseek-ai-deepseek-harness](reels/reel_8409_deepseek-ai-deepseek-harness) |
 | 8410 | 2026-08-19 23:00:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (465981⭐ Python) | [reels/reel_8410_public-apis-public-apis](reels/reel_8410_public-apis-public-apis) |
+| 8411 | 2026-08-19 23:30:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153482⭐ Python) | [reels/reel_8411_langflow-ai-langflow](reels/reel_8411_langflow-ai-langflow) |
