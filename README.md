@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8382 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-19 |
+| #8383 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8470,3 +8470,4 @@ If you need permission, you're thinking too much.
 | 8380 | 2026-08-19 05:26:47 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (203688⭐ None) | [reels/reel_8380_multica-ai-andrej-karpathy-skills](reels/reel_8380_multica-ai-andrej-karpathy-skills) |
 | 8381 | 2026-08-19 05:56:02 | [fileverse/fileverse-ddocs](https://github.com/fileverse/fileverse-ddocs) | ✅ full (391⭐ TypeScript) | [reels/reel_8381_fileverse-fileverse-ddocs](reels/reel_8381_fileverse-fileverse-ddocs) |
 | 8382 | 2026-08-19 06:41:53 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138727⭐ TypeScript) | [reels/reel_8382_clash-verge-rev-clash-verge-rev](reels/reel_8382_clash-verge-rev-clash-verge-rev) |
+| 8383 | 2026-08-19 07:24:45 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149197⭐ Python) | [reels/reel_8383_open-webui-open-webui](reels/reel_8383_open-webui-open-webui) |
