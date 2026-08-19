@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8392 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 465k | 2026-08-19 |
+| #8393 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 201k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8480,3 +8480,4 @@ If you need permission, you're thinking too much.
 | 8390 | 2026-08-19 11:38:54 | [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | ✅ full (403⭐ Python) | [reels/reel_8390_tonyd2wild-DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](reels/reel_8390_tonyd2wild-DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark) |
 | 8391 | 2026-08-19 11:59:56 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241070⭐ JavaScript) | [reels/reel_8391_affaan-m-ECC](reels/reel_8391_affaan-m-ECC) |
 | 8392 | 2026-08-19 13:01:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (465424⭐ Python) | [reels/reel_8392_public-apis-public-apis](reels/reel_8392_public-apis-public-apis) |
+| 8393 | 2026-08-19 13:56:30 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201179⭐ TypeScript) | [reels/reel_8393_n8n-io-n8n](reels/reel_8393_n8n-io-n8n) |
