@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8397 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 313k | 2026-08-19 |
+| #8398 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8485,3 +8485,4 @@ If you need permission, you're thinking too much.
 | 8395 | 2026-08-19 15:07:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153471⭐ Python) | [reels/reel_8395_langflow-ai-langflow](reels/reel_8395_langflow-ai-langflow) |
 | 8396 | 2026-08-19 15:44:59 | [stell2026/Anima](https://github.com/stell2026/Anima) | ✅ full (44⭐ Julia) | [reels/reel_8396_stell2026-Anima](reels/reel_8396_stell2026-Anima) |
 | 8397 | 2026-08-19 16:11:30 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313689⭐ None) | [reels/reel_8397_awesome-selfhosted-awesome-selfhosted](reels/reel_8397_awesome-selfhosted-awesome-selfhosted) |
+| 8398 | 2026-08-19 16:46:26 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186687⭐ Python) | [reels/reel_8398_Significant-Gravitas-AutoGPT](reels/reel_8398_Significant-Gravitas-AutoGPT) |
