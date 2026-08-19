@@ -1,0 +1,24 @@
+{
+  "reel_number": 8385,
+  "recorded": "2026-08-19 08:54:06 UTC",
+  "repository": {
+    "full_name": "BYK/loreai",
+    "url": "https://github.com/BYK/loreai",
+    "clone_url": "https://github.com/BYK/loreai.git",
+    "stars": 105,
+    "language": "TypeScript",
+    "size_kb": 36759
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 35,
+    "duration_seconds": 4.295918
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 105 stars."
+  }
+}
