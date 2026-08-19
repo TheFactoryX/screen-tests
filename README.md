@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8391 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 241k | 2026-08-19 |
+| #8392 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 465k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8479,3 +8479,4 @@ If you need permission, you're thinking too much.
 | 8389 | 2026-08-19 11:06:46 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (541108⭐ Markdown) | [reels/reel_8389_codecrafters-io-build-your-own-x](reels/reel_8389_codecrafters-io-build-your-own-x) |
 | 8390 | 2026-08-19 11:38:54 | [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark) | ✅ full (403⭐ Python) | [reels/reel_8390_tonyd2wild-DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](reels/reel_8390_tonyd2wild-DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark) |
 | 8391 | 2026-08-19 11:59:56 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241070⭐ JavaScript) | [reels/reel_8391_affaan-m-ECC](reels/reel_8391_affaan-m-ECC) |
+| 8392 | 2026-08-19 13:01:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (465424⭐ Python) | [reels/reel_8392_public-apis-public-apis](reels/reel_8392_public-apis-public-apis) |
