@@ -1,0 +1,24 @@
+{
+  "reel_number": 8387,
+  "recorded": "2026-08-19 10:03:14 UTC",
+  "repository": {
+    "full_name": "unhappychoice/gittype",
+    "url": "https://github.com/unhappychoice/gittype",
+    "clone_url": "https://github.com/unhappychoice/gittype.git",
+    "stars": 1563,
+    "language": "Rust",
+    "size_kb": 223062
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 217,
+    "duration_seconds": 4.3394
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 1563 stars."
+  }
+}

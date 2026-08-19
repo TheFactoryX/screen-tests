@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8386 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-19 |
+| #8387 | [unhappychoice/gittype](https://github.com/unhappychoice/gittype) | Rust · ⭐ 1k | 2026-08-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8474,3 +8474,4 @@ If you need permission, you're thinking too much.
 | 8384 | 2026-08-19 08:02:32 | [zhuhu00/Awesome_Dynamic_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM) | ✅ full (709⭐ None) | [reels/reel_8384_zhuhu00-Awesome_Dynamic_SLAM](reels/reel_8384_zhuhu00-Awesome_Dynamic_SLAM) |
 | 8385 | 2026-08-19 08:54:06 | [BYK/loreai](https://github.com/BYK/loreai) | ✅ full (105⭐ TypeScript) | [reels/reel_8385_BYK-loreai](reels/reel_8385_BYK-loreai) |
 | 8386 | 2026-08-19 09:30:46 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136163⭐ TypeScript) | [reels/reel_8386_iptv-org-iptv](reels/reel_8386_iptv-org-iptv) |
+| 8387 | 2026-08-19 10:03:14 | [unhappychoice/gittype](https://github.com/unhappychoice/gittype) | ✅ shallow (1563⭐ Rust) | [reels/reel_8387_unhappychoice-gittype](reels/reel_8387_unhappychoice-gittype) |
