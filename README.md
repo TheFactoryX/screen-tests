@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8438 | [openshift/rosa](https://github.com/openshift/rosa) | Go · ⭐ 103 | 2026-08-20 |
+| #8439 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 185k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8526,3 +8526,4 @@ If you need permission, you're thinking too much.
 | 8436 | 2026-08-20 17:44:35 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241378⭐ JavaScript) | [reels/reel_8436_affaan-m-ECC](reels/reel_8436_affaan-m-ECC) |
 | 8437 | 2026-08-20 18:14:43 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241382⭐ JavaScript) | [reels/reel_8437_affaan-m-ECC](reels/reel_8437_affaan-m-ECC) |
 | 8438 | 2026-08-20 19:01:23 | [openshift/rosa](https://github.com/openshift/rosa) | ✅ shallow (103⭐ Go) | [reels/reel_8438_openshift-rosa](reels/reel_8438_openshift-rosa) |
+| 8439 | 2026-08-20 19:45:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185851⭐ Python) | [reels/reel_8439_yt-dlp-yt-dlp](reels/reel_8439_yt-dlp-yt-dlp) |
