@@ -1,0 +1,24 @@
+{
+  "reel_number": 8443,
+  "recorded": "2026-08-20 21:44:12 UTC",
+  "repository": {
+    "full_name": "artokun/comfyui-mcp",
+    "url": "https://github.com/artokun/comfyui-mcp",
+    "clone_url": "https://github.com/artokun/comfyui-mcp.git",
+    "stars": 620,
+    "language": "TypeScript",
+    "size_kb": 85893
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 83,
+    "duration_seconds": 9.434883
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 620 stars."
+  }
+}
