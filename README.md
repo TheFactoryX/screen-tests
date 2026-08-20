@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8444 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 313k | 2026-08-20 |
+| #8445 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | TypeScript · ⭐ 338 | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8532,3 +8532,4 @@ If you need permission, you're thinking too much.
 | 8442 | 2026-08-20 21:12:10 | [strands-labs/robots](https://github.com/strands-labs/robots) | ✅ full (128⭐ Python) | [reels/reel_8442_strands-labs-robots](reels/reel_8442_strands-labs-robots) |
 | 8443 | 2026-08-20 21:44:12 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | ✅ full (620⭐ TypeScript) | [reels/reel_8443_artokun-comfyui-mcp](reels/reel_8443_artokun-comfyui-mcp) |
 | 8444 | 2026-08-20 22:02:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313950⭐ None) | [reels/reel_8444_awesome-selfhosted-awesome-selfhosted](reels/reel_8444_awesome-selfhosted-awesome-selfhosted) |
+| 8445 | 2026-08-20 22:43:50 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | ✅ shallow (338⭐ TypeScript) | [reels/reel_8445_verifywise-ai-verifywise](reels/reel_8445_verifywise-ai-verifywise) |

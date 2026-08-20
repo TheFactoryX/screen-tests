@@ -1,0 +1,24 @@
+{
+  "reel_number": 8445,
+  "recorded": "2026-08-20 22:43:50 UTC",
+  "repository": {
+    "full_name": "verifywise-ai/verifywise",
+    "url": "https://github.com/verifywise-ai/verifywise",
+    "clone_url": "https://github.com/verifywise-ai/verifywise.git",
+    "stars": 338,
+    "language": "TypeScript",
+    "size_kb": 251450
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 245,
+    "duration_seconds": 3.49252
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 338 stars."
+  }
+}
