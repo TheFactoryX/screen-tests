@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8428 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-20 |
+| #8429 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 171k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8516,3 +8516,4 @@ If you need permission, you're thinking too much.
 | 8426 | 2026-08-20 10:57:07 | [kikyps/GarudaDefender](https://github.com/kikyps/GarudaDefender) | ✅ readme_only (420⭐ None) | [reels/reel_8426_kikyps-GarudaDefender](reels/reel_8426_kikyps-GarudaDefender) |
 | 8427 | 2026-08-20 11:28:47 | [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) | ✅ shallow (903⭐ C++) | [reels/reel_8427_Mudlet-Mudlet](reels/reel_8427_Mudlet-Mudlet) |
 | 8428 | 2026-08-20 11:54:25 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136235⭐ TypeScript) | [reels/reel_8428_iptv-org-iptv](reels/reel_8428_iptv-org-iptv) |
+| 8429 | 2026-08-20 12:42:18 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (171729⭐ TypeScript) | [reels/reel_8429_deepseek-ai-deepseek-harness](reels/reel_8429_deepseek-ai-deepseek-harness) |
