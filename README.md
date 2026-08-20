@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8419 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 138k | 2026-08-20 |
+| #8420 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8507,3 +8507,4 @@ If you need permission, you're thinking too much.
 | 8417 | 2026-08-20 04:52:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153489⭐ Python) | [reels/reel_8417_langflow-ai-langflow](reels/reel_8417_langflow-ai-langflow) |
 | 8418 | 2026-08-20 05:27:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110386⭐ Rust) | [reels/reel_8418_tauri-apps-tauri](reels/reel_8418_tauri-apps-tauri) |
 | 8419 | 2026-08-20 05:56:54 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138949⭐ TypeScript) | [reels/reel_8419_clash-verge-rev-clash-verge-rev](reels/reel_8419_clash-verge-rev-clash-verge-rev) |
+| 8420 | 2026-08-20 06:49:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149312⭐ Python) | [reels/reel_8420_open-webui-open-webui](reels/reel_8420_open-webui-open-webui) |
