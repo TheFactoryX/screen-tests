@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8412 | [SamSaffron/term-llm](https://github.com/SamSaffron/term-llm) | Go · ⭐ 101 | 2026-08-19 |
+| #8413 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8500,3 +8500,4 @@ If you need permission, you're thinking too much.
 | 8410 | 2026-08-19 23:00:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (465981⭐ Python) | [reels/reel_8410_public-apis-public-apis](reels/reel_8410_public-apis-public-apis) |
 | 8411 | 2026-08-19 23:30:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153482⭐ Python) | [reels/reel_8411_langflow-ai-langflow](reels/reel_8411_langflow-ai-langflow) |
 | 8412 | 2026-08-19 23:57:38 | [SamSaffron/term-llm](https://github.com/SamSaffron/term-llm) | ✅ full (101⭐ Go) | [reels/reel_8412_SamSaffron-term-llm](reels/reel_8412_SamSaffron-term-llm) |
+| 8413 | 2026-08-20 01:25:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136208⭐ TypeScript) | [reels/reel_8413_iptv-org-iptv](reels/reel_8413_iptv-org-iptv) |
