@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8433 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 201k | 2026-08-20 |
+| #8434 | [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | Go · ⭐ 265 | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8521,3 +8521,4 @@ If you need permission, you're thinking too much.
 | 8431 | 2026-08-20 14:19:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149348⭐ Python) | [reels/reel_8431_open-webui-open-webui](reels/reel_8431_open-webui-open-webui) |
 | 8432 | 2026-08-20 15:03:56 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112136⭐ TypeScript) | [reels/reel_8432_immich-app-immich](reels/reel_8432_immich-app-immich) |
 | 8433 | 2026-08-20 15:48:04 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201329⭐ TypeScript) | [reels/reel_8433_n8n-io-n8n](reels/reel_8433_n8n-io-n8n) |
+| 8434 | 2026-08-20 16:31:31 | [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | ✅ readme_only (265⭐ Go) | [reels/reel_8434_speakeasy-api-gram](reels/reel_8434_speakeasy-api-gram) |
