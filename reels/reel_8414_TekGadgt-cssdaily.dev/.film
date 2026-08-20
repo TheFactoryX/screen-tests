@@ -1,0 +1,24 @@
+{
+  "reel_number": 8414,
+  "recorded": "2026-08-20 02:36:39 UTC",
+  "repository": {
+    "full_name": "TekGadgt/cssdaily.dev",
+    "url": "https://github.com/TekGadgt/cssdaily.dev",
+    "clone_url": "https://github.com/TekGadgt/cssdaily.dev.git",
+    "stars": 32,
+    "language": "TypeScript",
+    "size_kb": 17635
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.40123
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 32 stars."
+  }
+}
