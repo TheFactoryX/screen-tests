@@ -1,0 +1,24 @@
+{
+  "reel_number": 8426,
+  "recorded": "2026-08-20 10:57:07 UTC",
+  "repository": {
+    "full_name": "kikyps/GarudaDefender",
+    "url": "https://github.com/kikyps/GarudaDefender",
+    "clone_url": "https://github.com/kikyps/GarudaDefender.git",
+    "stars": 420,
+    "language": null,
+    "size_kb": 757563
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 739,
+    "duration_seconds": 0.000167
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 420 stars."
+  }
+}
