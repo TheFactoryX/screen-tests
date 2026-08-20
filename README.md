@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8414 | [TekGadgt/cssdaily.dev](https://github.com/TekGadgt/cssdaily.dev) | TypeScript · ⭐ 32 | 2026-08-20 |
+| #8415 | [DavidObando/gsharp](https://github.com/DavidObando/gsharp) | C# · ⭐ 415 | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8502,3 +8502,4 @@ If you need permission, you're thinking too much.
 | 8412 | 2026-08-19 23:57:38 | [SamSaffron/term-llm](https://github.com/SamSaffron/term-llm) | ✅ full (101⭐ Go) | [reels/reel_8412_SamSaffron-term-llm](reels/reel_8412_SamSaffron-term-llm) |
 | 8413 | 2026-08-20 01:25:48 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136208⭐ TypeScript) | [reels/reel_8413_iptv-org-iptv](reels/reel_8413_iptv-org-iptv) |
 | 8414 | 2026-08-20 02:36:39 | [TekGadgt/cssdaily.dev](https://github.com/TekGadgt/cssdaily.dev) | ✅ full (32⭐ TypeScript) | [reels/reel_8414_TekGadgt-cssdaily.dev](reels/reel_8414_TekGadgt-cssdaily.dev) |
+| 8415 | 2026-08-20 03:28:02 | [DavidObando/gsharp](https://github.com/DavidObando/gsharp) | ✅ full (415⭐ C#) | [reels/reel_8415_DavidObando-gsharp](reels/reel_8415_DavidObando-gsharp) |
