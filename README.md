@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8424 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-20 |
+| #8425 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8512,3 +8512,4 @@ If you need permission, you're thinking too much.
 | 8422 | 2026-08-20 08:17:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144612⭐ Python) | [reels/reel_8422_langchain-ai-langchain](reels/reel_8422_langchain-ai-langchain) |
 | 8423 | 2026-08-20 09:04:13 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (170758⭐ TypeScript) | [reels/reel_8423_deepseek-ai-deepseek-harness](reels/reel_8423_deepseek-ai-deepseek-harness) |
 | 8424 | 2026-08-20 09:49:06 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149331⭐ Python) | [reels/reel_8424_open-webui-open-webui](reels/reel_8424_open-webui-open-webui) |
+| 8425 | 2026-08-20 10:26:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149335⭐ Python) | [reels/reel_8425_open-webui-open-webui](reels/reel_8425_open-webui-open-webui) |
