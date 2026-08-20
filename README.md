@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8416 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | TypeScript · ⭐ 162 | 2026-08-20 |
+| #8417 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8504,3 +8504,4 @@ If you need permission, you're thinking too much.
 | 8414 | 2026-08-20 02:36:39 | [TekGadgt/cssdaily.dev](https://github.com/TekGadgt/cssdaily.dev) | ✅ full (32⭐ TypeScript) | [reels/reel_8414_TekGadgt-cssdaily.dev](reels/reel_8414_TekGadgt-cssdaily.dev) |
 | 8415 | 2026-08-20 03:28:02 | [DavidObando/gsharp](https://github.com/DavidObando/gsharp) | ✅ full (415⭐ C#) | [reels/reel_8415_DavidObando-gsharp](reels/reel_8415_DavidObando-gsharp) |
 | 8416 | 2026-08-20 04:08:29 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | ✅ full (162⭐ TypeScript) | [reels/reel_8416_Dominic789654-awesome-deepseek-harness](reels/reel_8416_Dominic789654-awesome-deepseek-harness) |
+| 8417 | 2026-08-20 04:52:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153489⭐ Python) | [reels/reel_8417_langflow-ai-langflow](reels/reel_8417_langflow-ai-langflow) |
