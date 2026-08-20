@@ -1,0 +1,24 @@
+{
+  "reel_number": 8427,
+  "recorded": "2026-08-20 11:28:47 UTC",
+  "repository": {
+    "full_name": "Mudlet/Mudlet",
+    "url": "https://github.com/Mudlet/Mudlet",
+    "clone_url": "https://github.com/Mudlet/Mudlet.git",
+    "stars": 903,
+    "language": "C++",
+    "size_kb": 218554
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 213,
+    "duration_seconds": 3.129679
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 903 stars."
+  }
+}
