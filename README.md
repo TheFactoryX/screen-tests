@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8420 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-20 |
+| #8421 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 313k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8508,3 +8508,4 @@ If you need permission, you're thinking too much.
 | 8418 | 2026-08-20 05:27:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110386⭐ Rust) | [reels/reel_8418_tauri-apps-tauri](reels/reel_8418_tauri-apps-tauri) |
 | 8419 | 2026-08-20 05:56:54 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (138949⭐ TypeScript) | [reels/reel_8419_clash-verge-rev-clash-verge-rev](reels/reel_8419_clash-verge-rev-clash-verge-rev) |
 | 8420 | 2026-08-20 06:49:14 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149312⭐ Python) | [reels/reel_8420_open-webui-open-webui](reels/reel_8420_open-webui-open-webui) |
+| 8421 | 2026-08-20 07:38:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313828⭐ None) | [reels/reel_8421_awesome-selfhosted-awesome-selfhosted](reels/reel_8421_awesome-selfhosted-awesome-selfhosted) |
