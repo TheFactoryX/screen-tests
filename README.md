@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8417 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-20 |
+| #8418 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 110k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8505,3 +8505,4 @@ If you need permission, you're thinking too much.
 | 8415 | 2026-08-20 03:28:02 | [DavidObando/gsharp](https://github.com/DavidObando/gsharp) | ✅ full (415⭐ C#) | [reels/reel_8415_DavidObando-gsharp](reels/reel_8415_DavidObando-gsharp) |
 | 8416 | 2026-08-20 04:08:29 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | ✅ full (162⭐ TypeScript) | [reels/reel_8416_Dominic789654-awesome-deepseek-harness](reels/reel_8416_Dominic789654-awesome-deepseek-harness) |
 | 8417 | 2026-08-20 04:52:01 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153489⭐ Python) | [reels/reel_8417_langflow-ai-langflow](reels/reel_8417_langflow-ai-langflow) |
+| 8418 | 2026-08-20 05:27:00 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110386⭐ Rust) | [reels/reel_8418_tauri-apps-tauri](reels/reel_8418_tauri-apps-tauri) |
