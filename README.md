@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8439 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 185k | 2026-08-20 |
+| #8440 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8527,3 +8527,4 @@ If you need permission, you're thinking too much.
 | 8437 | 2026-08-20 18:14:43 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241382⭐ JavaScript) | [reels/reel_8437_affaan-m-ECC](reels/reel_8437_affaan-m-ECC) |
 | 8438 | 2026-08-20 19:01:23 | [openshift/rosa](https://github.com/openshift/rosa) | ✅ shallow (103⭐ Go) | [reels/reel_8438_openshift-rosa](reels/reel_8438_openshift-rosa) |
 | 8439 | 2026-08-20 19:45:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185851⭐ Python) | [reels/reel_8439_yt-dlp-yt-dlp](reels/reel_8439_yt-dlp-yt-dlp) |
+| 8440 | 2026-08-20 20:07:58 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136234⭐ TypeScript) | [reels/reel_8440_iptv-org-iptv](reels/reel_8440_iptv-org-iptv) |
