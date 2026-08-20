@@ -1,0 +1,24 @@
+{
+  "reel_number": 8416,
+  "recorded": "2026-08-20 04:08:29 UTC",
+  "repository": {
+    "full_name": "Dominic789654/awesome-deepseek-harness",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
+    "clone_url": "https://github.com/Dominic789654/awesome-deepseek-harness.git",
+    "stars": 162,
+    "language": "TypeScript",
+    "size_kb": 2354
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.114438
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 162 stars."
+  }
+}
