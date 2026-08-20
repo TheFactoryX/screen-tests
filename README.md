@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8445 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | TypeScript · ⭐ 338 | 2026-08-20 |
+| #8446 | [ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu) | Python · ⭐ 311 | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8533,3 +8533,4 @@ If you need permission, you're thinking too much.
 | 8443 | 2026-08-20 21:44:12 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | ✅ full (620⭐ TypeScript) | [reels/reel_8443_artokun-comfyui-mcp](reels/reel_8443_artokun-comfyui-mcp) |
 | 8444 | 2026-08-20 22:02:47 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (313950⭐ None) | [reels/reel_8444_awesome-selfhosted-awesome-selfhosted](reels/reel_8444_awesome-selfhosted-awesome-selfhosted) |
 | 8445 | 2026-08-20 22:43:50 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | ✅ shallow (338⭐ TypeScript) | [reels/reel_8445_verifywise-ai-verifywise](reels/reel_8445_verifywise-ai-verifywise) |
+| 8446 | 2026-08-20 23:04:08 | [ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu) | ✅ full (311⭐ Python) | [reels/reel_8446_ai-shifu-ai-shifu](reels/reel_8446_ai-shifu-ai-shifu) |
