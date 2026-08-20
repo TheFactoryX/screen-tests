@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8440 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-20 |
+| #8441 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 280k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8528,3 +8528,4 @@ If you need permission, you're thinking too much.
 | 8438 | 2026-08-20 19:01:23 | [openshift/rosa](https://github.com/openshift/rosa) | ✅ shallow (103⭐ Go) | [reels/reel_8438_openshift-rosa](reels/reel_8438_openshift-rosa) |
 | 8439 | 2026-08-20 19:45:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (185851⭐ Python) | [reels/reel_8439_yt-dlp-yt-dlp](reels/reel_8439_yt-dlp-yt-dlp) |
 | 8440 | 2026-08-20 20:07:58 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136234⭐ TypeScript) | [reels/reel_8440_iptv-org-iptv](reels/reel_8440_iptv-org-iptv) |
+| 8441 | 2026-08-20 20:45:04 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280120⭐ Python) | [reels/reel_8441_practical-tutorials-project-based-learning](reels/reel_8441_practical-tutorials-project-based-learning) |
