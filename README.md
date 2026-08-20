@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8447 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 174k | 2026-08-20 |
+| #8448 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 174k | 2026-08-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8535,3 +8535,4 @@ If you need permission, you're thinking too much.
 | 8445 | 2026-08-20 22:43:50 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | ✅ shallow (338⭐ TypeScript) | [reels/reel_8445_verifywise-ai-verifywise](reels/reel_8445_verifywise-ai-verifywise) |
 | 8446 | 2026-08-20 23:04:08 | [ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu) | ✅ full (311⭐ Python) | [reels/reel_8446_ai-shifu-ai-shifu](reels/reel_8446_ai-shifu-ai-shifu) |
 | 8447 | 2026-08-20 23:39:23 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (174269⭐ TypeScript) | [reels/reel_8447_deepseek-ai-deepseek-harness](reels/reel_8447_deepseek-ai-deepseek-harness) |
+| 8448 | 2026-08-20 23:59:21 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (174319⭐ TypeScript) | [reels/reel_8448_deepseek-ai-deepseek-harness](reels/reel_8448_deepseek-ai-deepseek-harness) |
