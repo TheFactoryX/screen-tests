@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8479 | [ProxyScrape/free-proxy-list](https://github.com/ProxyScrape/free-proxy-list) | Python · ⭐ 112 | 2026-08-21 |
+| #8480 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 467k | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8567,3 +8567,4 @@ If you need permission, you're thinking too much.
 | 8477 | 2026-08-21 20:48:55 | [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack) | ✅ full (363⭐ Kotlin) | [reels/reel_8477_ThibaultBee-StreamPack](reels/reel_8477_ThibaultBee-StreamPack) |
 | 8478 | 2026-08-21 21:21:08 | [antoineportes/Working-class-filter-design](https://github.com/antoineportes/Working-class-filter-design) | ✅ full (17⭐ None) | [reels/reel_8478_antoineportes-Working-class-filter-design](reels/reel_8478_antoineportes-Working-class-filter-design) |
 | 8479 | 2026-08-21 21:48:09 | [ProxyScrape/free-proxy-list](https://github.com/ProxyScrape/free-proxy-list) | ✅ readme_only (112⭐ Python) | [reels/reel_8479_ProxyScrape-free-proxy-list](reels/reel_8479_ProxyScrape-free-proxy-list) |
+| 8480 | 2026-08-21 22:21:20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (467946⭐ Python) | [reels/reel_8480_public-apis-public-apis](reels/reel_8480_public-apis-public-apis) |
