@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8482 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 181k | 2026-08-21 |
+| #8483 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python · ⭐ 113k | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8570,3 +8570,4 @@ If you need permission, you're thinking too much.
 | 8480 | 2026-08-21 22:21:20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (467946⭐ Python) | [reels/reel_8480_public-apis-public-apis](reels/reel_8480_public-apis-public-apis) |
 | 8481 | 2026-08-21 22:49:57 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (125036⭐ C++) | [reels/reel_8481_ggml-org-llama.cpp](reels/reel_8481_ggml-org-llama.cpp) |
 | 8482 | 2026-08-21 23:20:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (181146⭐ TypeScript) | [reels/reel_8482_deepseek-ai-deepseek-harness](reels/reel_8482_deepseek-ai-deepseek-harness) |
+| 8483 | 2026-08-21 23:47:38 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | ✅ readme_only (113883⭐ Python) | [reels/reel_8483_harry0703-MoneyPrinterTurbo](reels/reel_8483_harry0703-MoneyPrinterTurbo) |
