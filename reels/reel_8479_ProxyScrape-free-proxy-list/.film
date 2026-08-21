@@ -1,0 +1,24 @@
+{
+  "reel_number": 8479,
+  "recorded": "2026-08-21 21:48:09 UTC",
+  "repository": {
+    "full_name": "ProxyScrape/free-proxy-list",
+    "url": "https://github.com/ProxyScrape/free-proxy-list",
+    "clone_url": "https://github.com/ProxyScrape/free-proxy-list.git",
+    "stars": 112,
+    "language": "Python",
+    "size_kb": 12975430
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 12671,
+    "duration_seconds": 0.000103
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 112 stars."
+  }
+}
