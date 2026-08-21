@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8474 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 112k | 2026-08-21 |
+| #8475 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8562,3 +8562,4 @@ If you need permission, you're thinking too much.
 | 8472 | 2026-08-21 18:13:20 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153534⭐ Python) | [reels/reel_8472_langflow-ai-langflow](reels/reel_8472_langflow-ai-langflow) |
 | 8473 | 2026-08-21 18:57:52 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314130⭐ None) | [reels/reel_8473_awesome-selfhosted-awesome-selfhosted](reels/reel_8473_awesome-selfhosted-awesome-selfhosted) |
 | 8474 | 2026-08-21 19:28:19 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112259⭐ TypeScript) | [reels/reel_8474_immich-app-immich](reels/reel_8474_immich-app-immich) |
+| 8475 | 2026-08-21 19:48:36 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118759⭐ None) | [reels/reel_8475_Hack-with-Github-Awesome-Hacking](reels/reel_8475_Hack-with-Github-Awesome-Hacking) |
