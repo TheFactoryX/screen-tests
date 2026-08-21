@@ -1,0 +1,24 @@
+{
+  "reel_number": 8454,
+  "recorded": "2026-08-21 05:57:06 UTC",
+  "repository": {
+    "full_name": "haideralipunjabi/cli-badges",
+    "url": "https://github.com/haideralipunjabi/cli-badges",
+    "clone_url": "https://github.com/haideralipunjabi/cli-badges.git",
+    "stars": 24,
+    "language": "Python",
+    "size_kb": 90
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.697701
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 24 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8453 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 314k | 2026-08-21 |
+| #8454 | [haideralipunjabi/cli-badges](https://github.com/haideralipunjabi/cli-badges) | Python · ⭐ 24 | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8541,3 +8541,4 @@ If you need permission, you're thinking too much.
 | 8451 | 2026-08-21 03:55:09 | [jdordoneza-wq/CineBlog-Template-Vault](https://github.com/jdordoneza-wq/CineBlog-Template-Vault) | ✅ full (116⭐ HTML) | [reels/reel_8451_jdordoneza-wq-CineBlog-Template-Vault](reels/reel_8451_jdordoneza-wq-CineBlog-Template-Vault) |
 | 8452 | 2026-08-21 04:34:46 | [nao1215/filesql](https://github.com/nao1215/filesql) | ✅ full (377⭐ Go) | [reels/reel_8452_nao1215-filesql](reels/reel_8452_nao1215-filesql) |
 | 8453 | 2026-08-21 05:15:32 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314014⭐ None) | [reels/reel_8453_awesome-selfhosted-awesome-selfhosted](reels/reel_8453_awesome-selfhosted-awesome-selfhosted) |
+| 8454 | 2026-08-21 05:57:06 | [haideralipunjabi/cli-badges](https://github.com/haideralipunjabi/cli-badges) | ✅ full (24⭐ Python) | [reels/reel_8454_haideralipunjabi-cli-badges](reels/reel_8454_haideralipunjabi-cli-badges) |
