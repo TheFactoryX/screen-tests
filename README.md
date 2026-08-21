@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8470 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 241k | 2026-08-21 |
+| #8471 | [openai/codex](https://github.com/openai/codex) | Rust · ⭐ 111k | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8558,3 +8558,4 @@ If you need permission, you're thinking too much.
 | 8468 | 2026-08-21 15:49:21 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136280⭐ TypeScript) | [reels/reel_8468_iptv-org-iptv](reels/reel_8468_iptv-org-iptv) |
 | 8469 | 2026-08-21 16:30:06 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201502⭐ TypeScript) | [reels/reel_8469_n8n-io-n8n](reels/reel_8469_n8n-io-n8n) |
 | 8470 | 2026-08-21 17:02:40 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241675⭐ JavaScript) | [reels/reel_8470_affaan-m-ECC](reels/reel_8470_affaan-m-ECC) |
+| 8471 | 2026-08-21 17:44:04 | [openai/codex](https://github.com/openai/codex) | ✅ readme_only (111082⭐ Rust) | [reels/reel_8471_openai-codex](reels/reel_8471_openai-codex) |
