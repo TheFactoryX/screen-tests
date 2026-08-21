@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8451 | [jdordoneza-wq/CineBlog-Template-Vault](https://github.com/jdordoneza-wq/CineBlog-Template-Vault) | HTML · ⭐ 116 | 2026-08-21 |
+| #8452 | [nao1215/filesql](https://github.com/nao1215/filesql) | Go · ⭐ 377 | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8539,3 +8539,4 @@ If you need permission, you're thinking too much.
 | 8449 | 2026-08-21 01:48:53 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140978⭐ Python) | [reels/reel_8449_ytdl-org-youtube-dl](reels/reel_8449_ytdl-org-youtube-dl) |
 | 8450 | 2026-08-21 02:59:26 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (204457⭐ None) | [reels/reel_8450_multica-ai-andrej-karpathy-skills](reels/reel_8450_multica-ai-andrej-karpathy-skills) |
 | 8451 | 2026-08-21 03:55:09 | [jdordoneza-wq/CineBlog-Template-Vault](https://github.com/jdordoneza-wq/CineBlog-Template-Vault) | ✅ full (116⭐ HTML) | [reels/reel_8451_jdordoneza-wq-CineBlog-Template-Vault](reels/reel_8451_jdordoneza-wq-CineBlog-Template-Vault) |
+| 8452 | 2026-08-21 04:34:46 | [nao1215/filesql](https://github.com/nao1215/filesql) | ✅ full (377⭐ Go) | [reels/reel_8452_nao1215-filesql](reels/reel_8452_nao1215-filesql) |
