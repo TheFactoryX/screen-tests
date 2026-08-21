@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8481 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 125k | 2026-08-21 |
+| #8482 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 181k | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8569,3 +8569,4 @@ If you need permission, you're thinking too much.
 | 8479 | 2026-08-21 21:48:09 | [ProxyScrape/free-proxy-list](https://github.com/ProxyScrape/free-proxy-list) | ✅ readme_only (112⭐ Python) | [reels/reel_8479_ProxyScrape-free-proxy-list](reels/reel_8479_ProxyScrape-free-proxy-list) |
 | 8480 | 2026-08-21 22:21:20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (467946⭐ Python) | [reels/reel_8480_public-apis-public-apis](reels/reel_8480_public-apis-public-apis) |
 | 8481 | 2026-08-21 22:49:57 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (125036⭐ C++) | [reels/reel_8481_ggml-org-llama.cpp](reels/reel_8481_ggml-org-llama.cpp) |
+| 8482 | 2026-08-21 23:20:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (181146⭐ TypeScript) | [reels/reel_8482_deepseek-ai-deepseek-harness](reels/reel_8482_deepseek-ai-deepseek-harness) |
