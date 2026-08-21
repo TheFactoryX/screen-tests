@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8460 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 467k | 2026-08-21 |
+| #8461 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 314k | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8548,3 +8548,4 @@ If you need permission, you're thinking too much.
 | 8458 | 2026-08-21 09:06:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144698⭐ Python) | [reels/reel_8458_langchain-ai-langchain](reels/reel_8458_langchain-ai-langchain) |
 | 8459 | 2026-08-21 09:51:27 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149446⭐ Python) | [reels/reel_8459_open-webui-open-webui](reels/reel_8459_open-webui-open-webui) |
 | 8460 | 2026-08-21 10:27:03 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (467559⭐ Python) | [reels/reel_8460_public-apis-public-apis](reels/reel_8460_public-apis-public-apis) |
+| 8461 | 2026-08-21 10:57:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314061⭐ None) | [reels/reel_8461_awesome-selfhosted-awesome-selfhosted](reels/reel_8461_awesome-selfhosted-awesome-selfhosted) |
