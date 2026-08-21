@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8465 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 139k | 2026-08-21 |
+| #8466 | [toy/progress](https://github.com/toy/progress) | Ruby · ⭐ 68 | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8553,3 +8553,4 @@ If you need permission, you're thinking too much.
 | 8463 | 2026-08-21 12:01:40 | [vbuterin/blog](https://github.com/vbuterin/blog) | ✅ shallow (233⭐ HTML) | [reels/reel_8463_vbuterin-blog](reels/reel_8463_vbuterin-blog) |
 | 8464 | 2026-08-21 13:09:28 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144718⭐ Python) | [reels/reel_8464_langchain-ai-langchain](reels/reel_8464_langchain-ai-langchain) |
 | 8465 | 2026-08-21 13:57:16 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (139244⭐ TypeScript) | [reels/reel_8465_clash-verge-rev-clash-verge-rev](reels/reel_8465_clash-verge-rev-clash-verge-rev) |
+| 8466 | 2026-08-21 14:37:44 | [toy/progress](https://github.com/toy/progress) | ✅ full (68⭐ Ruby) | [reels/reel_8466_toy-progress](reels/reel_8466_toy-progress) |
