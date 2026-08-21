@@ -1,0 +1,24 @@
+{
+  "reel_number": 8451,
+  "recorded": "2026-08-21 03:55:09 UTC",
+  "repository": {
+    "full_name": "jdordoneza-wq/CineBlog-Template-Vault",
+    "url": "https://github.com/jdordoneza-wq/CineBlog-Template-Vault",
+    "clone_url": "https://github.com/jdordoneza-wq/CineBlog-Template-Vault.git",
+    "stars": 116,
+    "language": "HTML",
+    "size_kb": 2017
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.367051
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 116 stars."
+  }
+}
