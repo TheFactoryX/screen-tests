@@ -1,0 +1,24 @@
+{
+  "reel_number": 8463,
+  "recorded": "2026-08-21 12:01:40 UTC",
+  "repository": {
+    "full_name": "vbuterin/blog",
+    "url": "https://github.com/vbuterin/blog",
+    "clone_url": "https://github.com/vbuterin/blog.git",
+    "stars": 233,
+    "language": "HTML",
+    "size_kb": 178311
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 174,
+    "duration_seconds": 6.650224
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 233 stars."
+  }
+}

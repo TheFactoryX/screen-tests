@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8462 | [rizki-haridputra/Melody-Forge-Engine](https://github.com/rizki-haridputra/Melody-Forge-Engine) | HTML · ⭐ 116 | 2026-08-21 |
+| #8463 | [vbuterin/blog](https://github.com/vbuterin/blog) | HTML · ⭐ 233 | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8550,3 +8550,4 @@ If you need permission, you're thinking too much.
 | 8460 | 2026-08-21 10:27:03 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (467559⭐ Python) | [reels/reel_8460_public-apis-public-apis](reels/reel_8460_public-apis-public-apis) |
 | 8461 | 2026-08-21 10:57:40 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314061⭐ None) | [reels/reel_8461_awesome-selfhosted-awesome-selfhosted](reels/reel_8461_awesome-selfhosted-awesome-selfhosted) |
 | 8462 | 2026-08-21 11:30:21 | [rizki-haridputra/Melody-Forge-Engine](https://github.com/rizki-haridputra/Melody-Forge-Engine) | ✅ full (116⭐ HTML) | [reels/reel_8462_rizki-haridputra-Melody-Forge-Engine](reels/reel_8462_rizki-haridputra-Melody-Forge-Engine) |
+| 8463 | 2026-08-21 12:01:40 | [vbuterin/blog](https://github.com/vbuterin/blog) | ✅ shallow (233⭐ HTML) | [reels/reel_8463_vbuterin-blog](reels/reel_8463_vbuterin-blog) |
