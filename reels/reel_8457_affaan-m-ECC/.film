@@ -1,0 +1,24 @@
+{
+  "reel_number": 8457,
+  "recorded": "2026-08-21 08:19:22 UTC",
+  "repository": {
+    "full_name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "clone_url": "https://github.com/affaan-m/ECC.git",
+    "stars": 241553,
+    "language": "JavaScript",
+    "size_kb": 47415
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 46,
+    "duration_seconds": 3.878203
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 241553 stars."
+  }
+}

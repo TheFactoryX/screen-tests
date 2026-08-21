@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8456 | [securitycipher/daily-bugbounty-writeups](https://github.com/securitycipher/daily-bugbounty-writeups) | None · ⭐ 110 | 2026-08-21 |
+| #8457 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 241k | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8544,3 +8544,4 @@ If you need permission, you're thinking too much.
 | 8454 | 2026-08-21 05:57:06 | [haideralipunjabi/cli-badges](https://github.com/haideralipunjabi/cli-badges) | ✅ full (24⭐ Python) | [reels/reel_8454_haideralipunjabi-cli-badges](reels/reel_8454_haideralipunjabi-cli-badges) |
 | 8455 | 2026-08-21 06:51:08 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241534⭐ JavaScript) | [reels/reel_8455_affaan-m-ECC](reels/reel_8455_affaan-m-ECC) |
 | 8456 | 2026-08-21 07:39:28 | [securitycipher/daily-bugbounty-writeups](https://github.com/securitycipher/daily-bugbounty-writeups) | ✅ full (110⭐ None) | [reels/reel_8456_securitycipher-daily-bugbounty-writeups](reels/reel_8456_securitycipher-daily-bugbounty-writeups) |
+| 8457 | 2026-08-21 08:19:22 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241553⭐ JavaScript) | [reels/reel_8457_affaan-m-ECC](reels/reel_8457_affaan-m-ECC) |
