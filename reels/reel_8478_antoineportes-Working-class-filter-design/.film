@@ -1,0 +1,24 @@
+{
+  "reel_number": 8478,
+  "recorded": "2026-08-21 21:21:08 UTC",
+  "repository": {
+    "full_name": "antoineportes/Working-class-filter-design",
+    "url": "https://github.com/antoineportes/Working-class-filter-design",
+    "clone_url": "https://github.com/antoineportes/Working-class-filter-design.git",
+    "stars": 17,
+    "language": null,
+    "size_kb": 761
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.309864
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 17 stars."
+  }
+}

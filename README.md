@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8477 | [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack) | Kotlin · ⭐ 363 | 2026-08-21 |
+| #8478 | [antoineportes/Working-class-filter-design](https://github.com/antoineportes/Working-class-filter-design) | None · ⭐ 17 | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8565,3 +8565,4 @@ If you need permission, you're thinking too much.
 | 8475 | 2026-08-21 19:48:36 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118759⭐ None) | [reels/reel_8475_Hack-with-Github-Awesome-Hacking](reels/reel_8475_Hack-with-Github-Awesome-Hacking) |
 | 8476 | 2026-08-21 20:22:20 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (467909⭐ Python) | [reels/reel_8476_public-apis-public-apis](reels/reel_8476_public-apis-public-apis) |
 | 8477 | 2026-08-21 20:48:55 | [ThibaultBee/StreamPack](https://github.com/ThibaultBee/StreamPack) | ✅ full (363⭐ Kotlin) | [reels/reel_8477_ThibaultBee-StreamPack](reels/reel_8477_ThibaultBee-StreamPack) |
+| 8478 | 2026-08-21 21:21:08 | [antoineportes/Working-class-filter-design](https://github.com/antoineportes/Working-class-filter-design) | ✅ full (17⭐ None) | [reels/reel_8478_antoineportes-Working-class-filter-design](reels/reel_8478_antoineportes-Working-class-filter-design) |
