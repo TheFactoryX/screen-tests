@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8459 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-21 |
+| #8460 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 467k | 2026-08-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8547,3 +8547,4 @@ If you need permission, you're thinking too much.
 | 8457 | 2026-08-21 08:19:22 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241553⭐ JavaScript) | [reels/reel_8457_affaan-m-ECC](reels/reel_8457_affaan-m-ECC) |
 | 8458 | 2026-08-21 09:06:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144698⭐ Python) | [reels/reel_8458_langchain-ai-langchain](reels/reel_8458_langchain-ai-langchain) |
 | 8459 | 2026-08-21 09:51:27 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149446⭐ Python) | [reels/reel_8459_open-webui-open-webui](reels/reel_8459_open-webui-open-webui) |
+| 8460 | 2026-08-21 10:27:03 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (467559⭐ Python) | [reels/reel_8460_public-apis-public-apis](reels/reel_8460_public-apis-public-apis) |
