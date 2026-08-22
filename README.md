@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8496 | [anandpatikat/guru-latihan-dinamis](https://github.com/anandpatikat/guru-latihan-dinamis) | HTML · ⭐ 116 | 2026-08-22 |
+| #8497 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 468k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8584,3 +8584,4 @@ If you need permission, you're thinking too much.
 | 8494 | 2026-08-22 08:25:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144752⭐ Python) | [reels/reel_8494_langchain-ai-langchain](reels/reel_8494_langchain-ai-langchain) |
 | 8495 | 2026-08-22 08:56:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280299⭐ Python) | [reels/reel_8495_practical-tutorials-project-based-learning](reels/reel_8495_practical-tutorials-project-based-learning) |
 | 8496 | 2026-08-22 09:27:01 | [anandpatikat/guru-latihan-dinamis](https://github.com/anandpatikat/guru-latihan-dinamis) | ✅ full (116⭐ HTML) | [reels/reel_8496_anandpatikat-guru-latihan-dinamis](reels/reel_8496_anandpatikat-guru-latihan-dinamis) |
+| 8497 | 2026-08-22 09:51:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (468242⭐ Python) | [reels/reel_8497_public-apis-public-apis](reels/reel_8497_public-apis-public-apis) |
