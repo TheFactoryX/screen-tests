@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8510 | [jakubvalenta/geoshare](https://github.com/jakubvalenta/geoshare) | Kotlin · ⭐ 328 | 2026-08-22 |
+| #8511 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 314k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8598,3 +8598,4 @@ If you need permission, you're thinking too much.
 | 8508 | 2026-08-22 15:17:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136344⭐ TypeScript) | [reels/reel_8508_iptv-org-iptv](reels/reel_8508_iptv-org-iptv) |
 | 8509 | 2026-08-22 15:45:06 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118812⭐ None) | [reels/reel_8509_Hack-with-Github-Awesome-Hacking](reels/reel_8509_Hack-with-Github-Awesome-Hacking) |
 | 8510 | 2026-08-22 15:59:24 | [jakubvalenta/geoshare](https://github.com/jakubvalenta/geoshare) | ✅ full (328⭐ Kotlin) | [reels/reel_8510_jakubvalenta-geoshare](reels/reel_8510_jakubvalenta-geoshare) |
+| 8511 | 2026-08-22 16:33:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314300⭐ None) | [reels/reel_8511_awesome-selfhosted-awesome-selfhosted](reels/reel_8511_awesome-selfhosted-awesome-selfhosted) |
