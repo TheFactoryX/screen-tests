@@ -1,0 +1,24 @@
+{
+  "reel_number": 8488,
+  "recorded": "2026-08-22 04:48:07 UTC",
+  "repository": {
+    "full_name": "ROCm/aiter",
+    "url": "https://github.com/ROCm/aiter",
+    "clone_url": "https://github.com/ROCm/aiter.git",
+    "stars": 534,
+    "language": "Python",
+    "size_kb": 195282
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 190,
+    "duration_seconds": 3.150467
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 534 stars."
+  }
+}

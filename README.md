@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8487 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 186k | 2026-08-22 |
+| #8488 | [ROCm/aiter](https://github.com/ROCm/aiter) | Python · ⭐ 534 | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8575,3 +8575,4 @@ If you need permission, you're thinking too much.
 | 8485 | 2026-08-22 02:20:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186124⭐ Python) | [reels/reel_8485_yt-dlp-yt-dlp](reels/reel_8485_yt-dlp-yt-dlp) |
 | 8486 | 2026-08-22 03:19:44 | [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | ✅ full (181⭐ Shell) | [reels/reel_8486_Lifecycle-Innovations-Limited-claude-ops](reels/reel_8486_Lifecycle-Innovations-Limited-claude-ops) |
 | 8487 | 2026-08-22 04:04:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186140⭐ Python) | [reels/reel_8487_yt-dlp-yt-dlp](reels/reel_8487_yt-dlp-yt-dlp) |
+| 8488 | 2026-08-22 04:48:07 | [ROCm/aiter](https://github.com/ROCm/aiter) | ✅ shallow (534⭐ Python) | [reels/reel_8488_ROCm-aiter](reels/reel_8488_ROCm-aiter) |
