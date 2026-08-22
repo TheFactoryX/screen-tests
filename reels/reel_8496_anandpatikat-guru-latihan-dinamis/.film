@@ -1,0 +1,24 @@
+{
+  "reel_number": 8496,
+  "recorded": "2026-08-22 09:27:01 UTC",
+  "repository": {
+    "full_name": "anandpatikat/guru-latihan-dinamis",
+    "url": "https://github.com/anandpatikat/guru-latihan-dinamis",
+    "clone_url": "https://github.com/anandpatikat/guru-latihan-dinamis.git",
+    "stars": 116,
+    "language": "HTML",
+    "size_kb": 1434
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.55735
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 116 stars."
+  }
+}
