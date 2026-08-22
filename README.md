@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8508 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-22 |
+| #8509 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8596,3 +8596,4 @@ If you need permission, you're thinking too much.
 | 8506 | 2026-08-22 14:18:18 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (140997⭐ Python) | [reels/reel_8506_ytdl-org-youtube-dl](reels/reel_8506_ytdl-org-youtube-dl) |
 | 8507 | 2026-08-22 14:46:47 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115893⭐ Rust) | [reels/reel_8507_rust-lang-rust](reels/reel_8507_rust-lang-rust) |
 | 8508 | 2026-08-22 15:17:43 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136344⭐ TypeScript) | [reels/reel_8508_iptv-org-iptv](reels/reel_8508_iptv-org-iptv) |
+| 8509 | 2026-08-22 15:45:06 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118812⭐ None) | [reels/reel_8509_Hack-with-Github-Awesome-Hacking](reels/reel_8509_Hack-with-Github-Awesome-Hacking) |
