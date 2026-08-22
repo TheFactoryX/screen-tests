@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8502 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 139k | 2026-08-22 |
+| #8503 | [Infatoshi/netherite](https://github.com/Infatoshi/netherite) | C · ⭐ 334 | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8590,3 +8590,4 @@ If you need permission, you're thinking too much.
 | 8500 | 2026-08-22 11:18:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186748⭐ Python) | [reels/reel_8500_Significant-Gravitas-AutoGPT](reels/reel_8500_Significant-Gravitas-AutoGPT) |
 | 8501 | 2026-08-22 11:44:32 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (125107⭐ C++) | [reels/reel_8501_ggml-org-llama.cpp](reels/reel_8501_ggml-org-llama.cpp) |
 | 8502 | 2026-08-22 11:59:52 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (139402⭐ TypeScript) | [reels/reel_8502_clash-verge-rev-clash-verge-rev](reels/reel_8502_clash-verge-rev-clash-verge-rev) |
+| 8503 | 2026-08-22 12:54:00 | [Infatoshi/netherite](https://github.com/Infatoshi/netherite) | ✅ shallow (334⭐ C) | [reels/reel_8503_Infatoshi-netherite](reels/reel_8503_Infatoshi-netherite) |

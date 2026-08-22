@@ -1,0 +1,24 @@
+{
+  "reel_number": 8503,
+  "recorded": "2026-08-22 12:54:00 UTC",
+  "repository": {
+    "full_name": "Infatoshi/netherite",
+    "url": "https://github.com/Infatoshi/netherite",
+    "clone_url": "https://github.com/Infatoshi/netherite.git",
+    "stars": 334,
+    "language": "C",
+    "size_kb": 153075
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 149,
+    "duration_seconds": 3.264457
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 334 stars."
+  }
+}
