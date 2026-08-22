@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8527 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 314k | 2026-08-22 |
+| #8528 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 542k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8615,3 +8615,4 @@ If you need permission, you're thinking too much.
 | 8525 | 2026-08-22 22:51:31 | [scandum/tintin](https://github.com/scandum/tintin) | ✅ full (257⭐ C) | [reels/reel_8525_scandum-tintin](reels/reel_8525_scandum-tintin) |
 | 8526 | 2026-08-22 23:17:58 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112367⭐ TypeScript) | [reels/reel_8526_immich-app-immich](reels/reel_8526_immich-app-immich) |
 | 8527 | 2026-08-22 23:44:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314361⭐ None) | [reels/reel_8527_awesome-selfhosted-awesome-selfhosted](reels/reel_8527_awesome-selfhosted-awesome-selfhosted) |
+| 8528 | 2026-08-22 23:59:26 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (542131⭐ Markdown) | [reels/reel_8528_codecrafters-io-build-your-own-x](reels/reel_8528_codecrafters-io-build-your-own-x) |
