@@ -1,0 +1,24 @@
+{
+  "reel_number": 8514,
+  "recorded": "2026-08-22 17:47:31 UTC",
+  "repository": {
+    "full_name": "LucivHuang/heimdallr-sdk",
+    "url": "https://github.com/LucivHuang/heimdallr-sdk",
+    "clone_url": "https://github.com/LucivHuang/heimdallr-sdk.git",
+    "stars": 688,
+    "language": "TypeScript",
+    "size_kb": 10631
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.56035
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 688 stars."
+  }
+}

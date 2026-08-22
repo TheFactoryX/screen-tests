@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8513 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-22 |
+| #8514 | [LucivHuang/heimdallr-sdk](https://github.com/LucivHuang/heimdallr-sdk) | TypeScript · ⭐ 688 | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8601,3 +8601,4 @@ If you need permission, you're thinking too much.
 | 8511 | 2026-08-22 16:33:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314300⭐ None) | [reels/reel_8511_awesome-selfhosted-awesome-selfhosted](reels/reel_8511_awesome-selfhosted-awesome-selfhosted) |
 | 8512 | 2026-08-22 16:59:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314301⭐ None) | [reels/reel_8512_awesome-selfhosted-awesome-selfhosted](reels/reel_8512_awesome-selfhosted-awesome-selfhosted) |
 | 8513 | 2026-08-22 17:27:15 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153558⭐ Python) | [reels/reel_8513_langflow-ai-langflow](reels/reel_8513_langflow-ai-langflow) |
+| 8514 | 2026-08-22 17:47:31 | [LucivHuang/heimdallr-sdk](https://github.com/LucivHuang/heimdallr-sdk) | ✅ full (688⭐ TypeScript) | [reels/reel_8514_LucivHuang-heimdallr-sdk](reels/reel_8514_LucivHuang-heimdallr-sdk) |
