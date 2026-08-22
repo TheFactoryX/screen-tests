@@ -1,0 +1,24 @@
+{
+  "reel_number": 8486,
+  "recorded": "2026-08-22 03:19:44 UTC",
+  "repository": {
+    "full_name": "Lifecycle-Innovations-Limited/claude-ops",
+    "url": "https://github.com/Lifecycle-Innovations-Limited/claude-ops",
+    "clone_url": "https://github.com/Lifecycle-Innovations-Limited/claude-ops.git",
+    "stars": 181,
+    "language": "Shell",
+    "size_kb": 8719
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 0.764733
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 181 stars."
+  }
+}
