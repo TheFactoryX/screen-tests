@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8484 | [garylab/MakeMoneyWithAI](https://github.com/garylab/MakeMoneyWithAI) | Python · ⭐ 755 | 2026-08-22 |
+| #8485 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 186k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8572,3 +8572,4 @@ If you need permission, you're thinking too much.
 | 8482 | 2026-08-21 23:20:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (181146⭐ TypeScript) | [reels/reel_8482_deepseek-ai-deepseek-harness](reels/reel_8482_deepseek-ai-deepseek-harness) |
 | 8483 | 2026-08-21 23:47:38 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | ✅ readme_only (113883⭐ Python) | [reels/reel_8483_harry0703-MoneyPrinterTurbo](reels/reel_8483_harry0703-MoneyPrinterTurbo) |
 | 8484 | 2026-08-22 01:05:12 | [garylab/MakeMoneyWithAI](https://github.com/garylab/MakeMoneyWithAI) | ✅ full (755⭐ Python) | [reels/reel_8484_garylab-MakeMoneyWithAI](reels/reel_8484_garylab-MakeMoneyWithAI) |
+| 8485 | 2026-08-22 02:20:09 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186124⭐ Python) | [reels/reel_8485_yt-dlp-yt-dlp](reels/reel_8485_yt-dlp-yt-dlp) |
