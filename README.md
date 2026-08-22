@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8518 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 121k | 2026-08-22 |
+| #8519 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 186k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8606,3 +8606,4 @@ If you need permission, you're thinking too much.
 | 8516 | 2026-08-22 18:57:39 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280365⭐ Python) | [reels/reel_8516_practical-tutorials-project-based-learning](reels/reel_8516_practical-tutorials-project-based-learning) |
 | 8517 | 2026-08-22 19:25:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118820⭐ None) | [reels/reel_8517_Hack-with-Github-Awesome-Hacking](reels/reel_8517_Hack-with-Github-Awesome-Hacking) |
 | 8518 | 2026-08-22 19:45:21 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (121851⭐ TypeScript) | [reels/reel_8518_shadcn-ui-ui](reels/reel_8518_shadcn-ui-ui) |
+| 8519 | 2026-08-22 20:18:58 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186270⭐ Python) | [reels/reel_8519_yt-dlp-yt-dlp](reels/reel_8519_yt-dlp-yt-dlp) |
