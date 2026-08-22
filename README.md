@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8497 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 468k | 2026-08-22 |
+| #8498 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8585,3 +8585,4 @@ If you need permission, you're thinking too much.
 | 8495 | 2026-08-22 08:56:38 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280299⭐ Python) | [reels/reel_8495_practical-tutorials-project-based-learning](reels/reel_8495_practical-tutorials-project-based-learning) |
 | 8496 | 2026-08-22 09:27:01 | [anandpatikat/guru-latihan-dinamis](https://github.com/anandpatikat/guru-latihan-dinamis) | ✅ full (116⭐ HTML) | [reels/reel_8496_anandpatikat-guru-latihan-dinamis](reels/reel_8496_anandpatikat-guru-latihan-dinamis) |
 | 8497 | 2026-08-22 09:51:10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (468242⭐ Python) | [reels/reel_8497_public-apis-public-apis](reels/reel_8497_public-apis-public-apis) |
+| 8498 | 2026-08-22 10:19:40 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136323⭐ TypeScript) | [reels/reel_8498_iptv-org-iptv](reels/reel_8498_iptv-org-iptv) |
