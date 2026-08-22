@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8491 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-22 |
+| #8492 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Rust · ⭐ 110k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8579,3 +8579,4 @@ If you need permission, you're thinking too much.
 | 8489 | 2026-08-22 05:23:39 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241859⭐ JavaScript) | [reels/reel_8489_affaan-m-ECC](reels/reel_8489_affaan-m-ECC) |
 | 8490 | 2026-08-22 05:52:16 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153542⭐ Python) | [reels/reel_8490_langflow-ai-langflow](reels/reel_8490_langflow-ai-langflow) |
 | 8491 | 2026-08-22 06:35:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149533⭐ Python) | [reels/reel_8491_open-webui-open-webui](reels/reel_8491_open-webui-open-webui) |
+| 8492 | 2026-08-22 07:17:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110447⭐ Rust) | [reels/reel_8492_tauri-apps-tauri](reels/reel_8492_tauri-apps-tauri) |
