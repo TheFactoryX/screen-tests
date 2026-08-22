@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8514 | [LucivHuang/heimdallr-sdk](https://github.com/LucivHuang/heimdallr-sdk) | TypeScript · ⭐ 688 | 2026-08-22 |
+| #8515 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 139k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8602,3 +8602,4 @@ If you need permission, you're thinking too much.
 | 8512 | 2026-08-22 16:59:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314301⭐ None) | [reels/reel_8512_awesome-selfhosted-awesome-selfhosted](reels/reel_8512_awesome-selfhosted-awesome-selfhosted) |
 | 8513 | 2026-08-22 17:27:15 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153558⭐ Python) | [reels/reel_8513_langflow-ai-langflow](reels/reel_8513_langflow-ai-langflow) |
 | 8514 | 2026-08-22 17:47:31 | [LucivHuang/heimdallr-sdk](https://github.com/LucivHuang/heimdallr-sdk) | ✅ full (688⭐ TypeScript) | [reels/reel_8514_LucivHuang-heimdallr-sdk](reels/reel_8514_LucivHuang-heimdallr-sdk) |
+| 8515 | 2026-08-22 18:25:57 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (139471⭐ TypeScript) | [reels/reel_8515_clash-verge-rev-clash-verge-rev](reels/reel_8515_clash-verge-rev-clash-verge-rev) |
