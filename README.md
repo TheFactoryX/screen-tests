@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8515 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 139k | 2026-08-22 |
+| #8516 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 280k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8603,3 +8603,4 @@ If you need permission, you're thinking too much.
 | 8513 | 2026-08-22 17:27:15 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153558⭐ Python) | [reels/reel_8513_langflow-ai-langflow](reels/reel_8513_langflow-ai-langflow) |
 | 8514 | 2026-08-22 17:47:31 | [LucivHuang/heimdallr-sdk](https://github.com/LucivHuang/heimdallr-sdk) | ✅ full (688⭐ TypeScript) | [reels/reel_8514_LucivHuang-heimdallr-sdk](reels/reel_8514_LucivHuang-heimdallr-sdk) |
 | 8515 | 2026-08-22 18:25:57 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (139471⭐ TypeScript) | [reels/reel_8515_clash-verge-rev-clash-verge-rev](reels/reel_8515_clash-verge-rev-clash-verge-rev) |
+| 8516 | 2026-08-22 18:57:39 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280365⭐ Python) | [reels/reel_8516_practical-tutorials-project-based-learning](reels/reel_8516_practical-tutorials-project-based-learning) |
