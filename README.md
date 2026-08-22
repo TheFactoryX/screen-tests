@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8493 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 182k | 2026-08-22 |
+| #8494 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8581,3 +8581,4 @@ If you need permission, you're thinking too much.
 | 8491 | 2026-08-22 06:35:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149533⭐ Python) | [reels/reel_8491_open-webui-open-webui](reels/reel_8491_open-webui-open-webui) |
 | 8492 | 2026-08-22 07:17:56 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | ✅ shallow (110447⭐ Rust) | [reels/reel_8492_tauri-apps-tauri](reels/reel_8492_tauri-apps-tauri) |
 | 8493 | 2026-08-22 07:53:32 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (182629⭐ TypeScript) | [reels/reel_8493_deepseek-ai-deepseek-harness](reels/reel_8493_deepseek-ai-deepseek-harness) |
+| 8494 | 2026-08-22 08:25:58 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144752⭐ Python) | [reels/reel_8494_langchain-ai-langchain](reels/reel_8494_langchain-ai-langchain) |
