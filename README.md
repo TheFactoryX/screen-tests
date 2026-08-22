@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8524 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-22 |
+| #8525 | [scandum/tintin](https://github.com/scandum/tintin) | C · ⭐ 257 | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8612,3 +8612,4 @@ If you need permission, you're thinking too much.
 | 8522 | 2026-08-22 21:44:54 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153564⭐ Python) | [reels/reel_8522_langflow-ai-langflow](reels/reel_8522_langflow-ai-langflow) |
 | 8523 | 2026-08-22 21:59:44 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (242142⭐ JavaScript) | [reels/reel_8523_affaan-m-ECC](reels/reel_8523_affaan-m-ECC) |
 | 8524 | 2026-08-22 22:30:08 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136389⭐ TypeScript) | [reels/reel_8524_iptv-org-iptv](reels/reel_8524_iptv-org-iptv) |
+| 8525 | 2026-08-22 22:51:31 | [scandum/tintin](https://github.com/scandum/tintin) | ✅ full (257⭐ C) | [reels/reel_8525_scandum-tintin](reels/reel_8525_scandum-tintin) |

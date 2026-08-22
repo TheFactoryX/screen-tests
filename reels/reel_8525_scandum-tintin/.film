@@ -1,0 +1,24 @@
+{
+  "reel_number": 8525,
+  "recorded": "2026-08-22 22:51:31 UTC",
+  "repository": {
+    "full_name": "scandum/tintin",
+    "url": "https://github.com/scandum/tintin",
+    "clone_url": "https://github.com/scandum/tintin.git",
+    "stars": 257,
+    "language": "C",
+    "size_kb": 5179
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 0.842531
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 257 stars."
+  }
+}
