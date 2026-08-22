@@ -1,0 +1,24 @@
+{
+  "reel_number": 8484,
+  "recorded": "2026-08-22 01:05:12 UTC",
+  "repository": {
+    "full_name": "garylab/MakeMoneyWithAI",
+    "url": "https://github.com/garylab/MakeMoneyWithAI",
+    "clone_url": "https://github.com/garylab/MakeMoneyWithAI.git",
+    "stars": 755,
+    "language": "Python",
+    "size_kb": 1402
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.693945
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 755 stars."
+  }
+}
