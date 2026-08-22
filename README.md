@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8489 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 241k | 2026-08-22 |
+| #8490 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8577,3 +8577,4 @@ If you need permission, you're thinking too much.
 | 8487 | 2026-08-22 04:04:27 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186140⭐ Python) | [reels/reel_8487_yt-dlp-yt-dlp](reels/reel_8487_yt-dlp-yt-dlp) |
 | 8488 | 2026-08-22 04:48:07 | [ROCm/aiter](https://github.com/ROCm/aiter) | ✅ shallow (534⭐ Python) | [reels/reel_8488_ROCm-aiter](reels/reel_8488_ROCm-aiter) |
 | 8489 | 2026-08-22 05:23:39 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (241859⭐ JavaScript) | [reels/reel_8489_affaan-m-ECC](reels/reel_8489_affaan-m-ECC) |
+| 8490 | 2026-08-22 05:52:16 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153542⭐ Python) | [reels/reel_8490_langflow-ai-langflow](reels/reel_8490_langflow-ai-langflow) |
