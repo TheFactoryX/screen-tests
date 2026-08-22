@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8512 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 314k | 2026-08-22 |
+| #8513 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8600,3 +8600,4 @@ If you need permission, you're thinking too much.
 | 8510 | 2026-08-22 15:59:24 | [jakubvalenta/geoshare](https://github.com/jakubvalenta/geoshare) | ✅ full (328⭐ Kotlin) | [reels/reel_8510_jakubvalenta-geoshare](reels/reel_8510_jakubvalenta-geoshare) |
 | 8511 | 2026-08-22 16:33:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314300⭐ None) | [reels/reel_8511_awesome-selfhosted-awesome-selfhosted](reels/reel_8511_awesome-selfhosted-awesome-selfhosted) |
 | 8512 | 2026-08-22 16:59:19 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314301⭐ None) | [reels/reel_8512_awesome-selfhosted-awesome-selfhosted](reels/reel_8512_awesome-selfhosted-awesome-selfhosted) |
+| 8513 | 2026-08-22 17:27:15 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153558⭐ Python) | [reels/reel_8513_langflow-ai-langflow](reels/reel_8513_langflow-ai-langflow) |
