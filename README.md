@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8561 | [snowdrop/godaddy-webhook](https://github.com/snowdrop/godaddy-webhook) | Go · ⭐ 95 | 2026-08-23 |
+| #8562 | [divyanshu-rawat/Javascript-Concepts](https://github.com/divyanshu-rawat/Javascript-Concepts) | JavaScript · ⭐ 26 | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8649,3 +8649,4 @@ If you need permission, you're thinking too much.
 | 8559 | 2026-08-23 19:02:56 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186818⭐ Python) | [reels/reel_8559_Significant-Gravitas-AutoGPT](reels/reel_8559_Significant-Gravitas-AutoGPT) |
 | 8560 | 2026-08-23 19:33:42 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280496⭐ Python) | [reels/reel_8560_practical-tutorials-project-based-learning](reels/reel_8560_practical-tutorials-project-based-learning) |
 | 8561 | 2026-08-23 19:55:21 | [snowdrop/godaddy-webhook](https://github.com/snowdrop/godaddy-webhook) | ✅ full (95⭐ Go) | [reels/reel_8561_snowdrop-godaddy-webhook](reels/reel_8561_snowdrop-godaddy-webhook) |
+| 8562 | 2026-08-23 20:19:06 | [divyanshu-rawat/Javascript-Concepts](https://github.com/divyanshu-rawat/Javascript-Concepts) | ✅ full (26⭐ JavaScript) | [reels/reel_8562_divyanshu-rawat-Javascript-Concepts](reels/reel_8562_divyanshu-rawat-Javascript-Concepts) |
