@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8565 | [thoughtspot/rest-api-sdk](https://github.com/thoughtspot/rest-api-sdk) | Java · ⭐ 14 | 2026-08-23 |
+| #8566 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 187k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8653,3 +8653,4 @@ If you need permission, you're thinking too much.
 | 8563 | 2026-08-23 20:47:54 | [cbusifabcap/daily_free_vpn](https://github.com/cbusifabcap/daily_free_vpn) | ✅ full (200⭐ None) | [reels/reel_8563_cbusifabcap-daily_free_vpn](reels/reel_8563_cbusifabcap-daily_free_vpn) |
 | 8564 | 2026-08-23 21:18:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (187773⭐ TypeScript) | [reels/reel_8564_deepseek-ai-deepseek-harness](reels/reel_8564_deepseek-ai-deepseek-harness) |
 | 8565 | 2026-08-23 21:44:58 | [thoughtspot/rest-api-sdk](https://github.com/thoughtspot/rest-api-sdk) | ✅ shallow (14⭐ Java) | [reels/reel_8565_thoughtspot-rest-api-sdk](reels/reel_8565_thoughtspot-rest-api-sdk) |
+| 8566 | 2026-08-23 21:59:32 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (187817⭐ TypeScript) | [reels/reel_8566_deepseek-ai-deepseek-harness](reels/reel_8566_deepseek-ai-deepseek-harness) |
