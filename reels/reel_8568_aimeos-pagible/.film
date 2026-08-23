@@ -1,0 +1,24 @@
+{
+  "reel_number": 8568,
+  "recorded": "2026-08-23 22:57:41 UTC",
+  "repository": {
+    "full_name": "aimeos/pagible",
+    "url": "https://github.com/aimeos/pagible",
+    "clone_url": "https://github.com/aimeos/pagible.git",
+    "stars": 583,
+    "language": "PHP",
+    "size_kb": 65328
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 4.123355
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "PHP",
+    "director_note": "A PHP repository. 583 stars."
+  }
+}
