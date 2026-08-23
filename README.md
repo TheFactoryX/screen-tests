@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8531 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 201k | 2026-08-23 |
+| #8532 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8619,3 +8619,4 @@ If you need permission, you're thinking too much.
 | 8529 | 2026-08-23 01:52:33 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280399⭐ Python) | [reels/reel_8529_practical-tutorials-project-based-learning](reels/reel_8529_practical-tutorials-project-based-learning) |
 | 8530 | 2026-08-23 02:59:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144797⭐ Python) | [reels/reel_8530_langchain-ai-langchain](reels/reel_8530_langchain-ai-langchain) |
 | 8531 | 2026-08-23 03:55:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201883⭐ TypeScript) | [reels/reel_8531_n8n-io-n8n](reels/reel_8531_n8n-io-n8n) |
+| 8532 | 2026-08-23 04:35:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118839⭐ None) | [reels/reel_8532_Hack-with-Github-Awesome-Hacking](reels/reel_8532_Hack-with-Github-Awesome-Hacking) |
