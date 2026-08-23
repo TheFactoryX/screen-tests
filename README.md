@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8542 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 186k | 2026-08-23 |
+| #8543 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 115k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8630,3 +8630,4 @@ If you need permission, you're thinking too much.
 | 8540 | 2026-08-23 09:53:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186374⭐ Python) | [reels/reel_8540_yt-dlp-yt-dlp](reels/reel_8540_yt-dlp-yt-dlp) |
 | 8541 | 2026-08-23 10:20:23 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (542216⭐ Markdown) | [reels/reel_8541_codecrafters-io-build-your-own-x](reels/reel_8541_codecrafters-io-build-your-own-x) |
 | 8542 | 2026-08-23 10:49:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186379⭐ Python) | [reels/reel_8542_yt-dlp-yt-dlp](reels/reel_8542_yt-dlp-yt-dlp) |
+| 8543 | 2026-08-23 11:18:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115952⭐ Rust) | [reels/reel_8543_rust-lang-rust](reels/reel_8543_rust-lang-rust) |
