@@ -1,0 +1,24 @@
+{
+  "reel_number": 8556,
+  "recorded": "2026-08-23 17:44:24 UTC",
+  "repository": {
+    "full_name": "wighawag/jolly-roger",
+    "url": "https://github.com/wighawag/jolly-roger",
+    "clone_url": "https://github.com/wighawag/jolly-roger.git",
+    "stars": 208,
+    "language": "TypeScript",
+    "size_kb": 9686
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 9,
+    "duration_seconds": 0.901325
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 208 stars."
+  }
+}
