@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8537 | [IlyaP358/fluxcast-domains](https://github.com/IlyaP358/fluxcast-domains) | Python · ⭐ 14 | 2026-08-23 |
+| #8538 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 186k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8625,3 +8625,4 @@ If you need permission, you're thinking too much.
 | 8535 | 2026-08-23 07:03:47 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (468762⭐ Python) | [reels/reel_8535_public-apis-public-apis](reels/reel_8535_public-apis-public-apis) |
 | 8536 | 2026-08-23 07:46:17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144814⭐ Python) | [reels/reel_8536_langchain-ai-langchain](reels/reel_8536_langchain-ai-langchain) |
 | 8537 | 2026-08-23 08:26:04 | [IlyaP358/fluxcast-domains](https://github.com/IlyaP358/fluxcast-domains) | ✅ full (14⭐ Python) | [reels/reel_8537_IlyaP358-fluxcast-domains](reels/reel_8537_IlyaP358-fluxcast-domains) |
+| 8538 | 2026-08-23 08:57:08 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (186204⭐ TypeScript) | [reels/reel_8538_deepseek-ai-deepseek-harness](reels/reel_8538_deepseek-ai-deepseek-harness) |
