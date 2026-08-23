@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8548 | [Cryptocoders-wtf/assetstore](https://github.com/Cryptocoders-wtf/assetstore) | TypeScript · ⭐ 21 | 2026-08-23 |
+| #8549 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 468k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8636,3 +8636,4 @@ If you need permission, you're thinking too much.
 | 8546 | 2026-08-23 12:55:17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186397⭐ Python) | [reels/reel_8546_yt-dlp-yt-dlp](reels/reel_8546_yt-dlp-yt-dlp) |
 | 8547 | 2026-08-23 13:29:32 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (139604⭐ TypeScript) | [reels/reel_8547_clash-verge-rev-clash-verge-rev](reels/reel_8547_clash-verge-rev-clash-verge-rev) |
 | 8548 | 2026-08-23 13:55:24 | [Cryptocoders-wtf/assetstore](https://github.com/Cryptocoders-wtf/assetstore) | ✅ full (21⭐ TypeScript) | [reels/reel_8548_Cryptocoders-wtf-assetstore](reels/reel_8548_Cryptocoders-wtf-assetstore) |
+| 8549 | 2026-08-23 14:20:33 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (468949⭐ Python) | [reels/reel_8549_public-apis-public-apis](reels/reel_8549_public-apis-public-apis) |
