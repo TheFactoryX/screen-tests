@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8532 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-23 |
+| #8533 | [suzukua/epg](https://github.com/suzukua/epg) | None · ⭐ 150 | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8620,3 +8620,4 @@ If you need permission, you're thinking too much.
 | 8530 | 2026-08-23 02:59:18 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144797⭐ Python) | [reels/reel_8530_langchain-ai-langchain](reels/reel_8530_langchain-ai-langchain) |
 | 8531 | 2026-08-23 03:55:50 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (201883⭐ TypeScript) | [reels/reel_8531_n8n-io-n8n](reels/reel_8531_n8n-io-n8n) |
 | 8532 | 2026-08-23 04:35:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118839⭐ None) | [reels/reel_8532_Hack-with-Github-Awesome-Hacking](reels/reel_8532_Hack-with-Github-Awesome-Hacking) |
+| 8533 | 2026-08-23 05:11:00 | [suzukua/epg](https://github.com/suzukua/epg) | ✅ readme_only (150⭐ None) | [reels/reel_8533_suzukua-epg](reels/reel_8533_suzukua-epg) |

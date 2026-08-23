@@ -1,0 +1,24 @@
+{
+  "reel_number": 8533,
+  "recorded": "2026-08-23 05:11:00 UTC",
+  "repository": {
+    "full_name": "suzukua/epg",
+    "url": "https://github.com/suzukua/epg",
+    "clone_url": "https://github.com/suzukua/epg.git",
+    "stars": 150,
+    "language": null,
+    "size_kb": 822726
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 803,
+    "duration_seconds": 0.000146
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 150 stars."
+  }
+}
