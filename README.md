@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8528 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 542k | 2026-08-22 |
+| #8529 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 280k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8616,3 +8616,4 @@ If you need permission, you're thinking too much.
 | 8526 | 2026-08-22 23:17:58 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112367⭐ TypeScript) | [reels/reel_8526_immich-app-immich](reels/reel_8526_immich-app-immich) |
 | 8527 | 2026-08-22 23:44:45 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314361⭐ None) | [reels/reel_8527_awesome-selfhosted-awesome-selfhosted](reels/reel_8527_awesome-selfhosted-awesome-selfhosted) |
 | 8528 | 2026-08-22 23:59:26 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (542131⭐ Markdown) | [reels/reel_8528_codecrafters-io-build-your-own-x](reels/reel_8528_codecrafters-io-build-your-own-x) |
+| 8529 | 2026-08-23 01:52:33 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280399⭐ Python) | [reels/reel_8529_practical-tutorials-project-based-learning](reels/reel_8529_practical-tutorials-project-based-learning) |
