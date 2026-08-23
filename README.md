@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8557 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-23 |
+| #8558 | [YouMind-OpenLab/awesome-grok-imagine-prompts](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts) | TypeScript · ⭐ 39 | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8645,3 +8645,4 @@ If you need permission, you're thinking too much.
 | 8555 | 2026-08-23 17:17:34 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (469043⭐ Python) | [reels/reel_8555_public-apis-public-apis](reels/reel_8555_public-apis-public-apis) |
 | 8556 | 2026-08-23 17:44:24 | [wighawag/jolly-roger](https://github.com/wighawag/jolly-roger) | ✅ full (208⭐ TypeScript) | [reels/reel_8556_wighawag-jolly-roger](reels/reel_8556_wighawag-jolly-roger) |
 | 8557 | 2026-08-23 17:58:34 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186812⭐ Python) | [reels/reel_8557_Significant-Gravitas-AutoGPT](reels/reel_8557_Significant-Gravitas-AutoGPT) |
+| 8558 | 2026-08-23 18:38:23 | [YouMind-OpenLab/awesome-grok-imagine-prompts](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts) | ✅ full (39⭐ TypeScript) | [reels/reel_8558_YouMind-OpenLab-awesome-grok-imagine-prompts](reels/reel_8558_YouMind-OpenLab-awesome-grok-imagine-prompts) |
