@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8544 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 118k | 2026-08-23 |
+| #8545 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 139k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8632,3 +8632,4 @@ If you need permission, you're thinking too much.
 | 8542 | 2026-08-23 10:49:11 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186379⭐ Python) | [reels/reel_8542_yt-dlp-yt-dlp](reels/reel_8542_yt-dlp-yt-dlp) |
 | 8543 | 2026-08-23 11:18:04 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (115952⭐ Rust) | [reels/reel_8543_rust-lang-rust](reels/reel_8543_rust-lang-rust) |
 | 8544 | 2026-08-23 11:44:51 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118860⭐ None) | [reels/reel_8544_Hack-with-Github-Awesome-Hacking](reels/reel_8544_Hack-with-Github-Awesome-Hacking) |
+| 8545 | 2026-08-23 12:00:01 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (139591⭐ TypeScript) | [reels/reel_8545_clash-verge-rev-clash-verge-rev](reels/reel_8545_clash-verge-rev-clash-verge-rev) |
