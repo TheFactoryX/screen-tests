@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8563 | [cbusifabcap/daily_free_vpn](https://github.com/cbusifabcap/daily_free_vpn) | None · ⭐ 200 | 2026-08-23 |
+| #8564 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 187k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8651,3 +8651,4 @@ If you need permission, you're thinking too much.
 | 8561 | 2026-08-23 19:55:21 | [snowdrop/godaddy-webhook](https://github.com/snowdrop/godaddy-webhook) | ✅ full (95⭐ Go) | [reels/reel_8561_snowdrop-godaddy-webhook](reels/reel_8561_snowdrop-godaddy-webhook) |
 | 8562 | 2026-08-23 20:19:06 | [divyanshu-rawat/Javascript-Concepts](https://github.com/divyanshu-rawat/Javascript-Concepts) | ✅ full (26⭐ JavaScript) | [reels/reel_8562_divyanshu-rawat-Javascript-Concepts](reels/reel_8562_divyanshu-rawat-Javascript-Concepts) |
 | 8563 | 2026-08-23 20:47:54 | [cbusifabcap/daily_free_vpn](https://github.com/cbusifabcap/daily_free_vpn) | ✅ full (200⭐ None) | [reels/reel_8563_cbusifabcap-daily_free_vpn](reels/reel_8563_cbusifabcap-daily_free_vpn) |
+| 8564 | 2026-08-23 21:18:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (187773⭐ TypeScript) | [reels/reel_8564_deepseek-ai-deepseek-harness](reels/reel_8564_deepseek-ai-deepseek-harness) |
