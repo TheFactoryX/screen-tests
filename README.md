@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8568 | [aimeos/pagible](https://github.com/aimeos/pagible) | PHP · ⭐ 583 | 2026-08-23 |
+| #8569 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8656,3 +8656,4 @@ If you need permission, you're thinking too much.
 | 8566 | 2026-08-23 21:59:32 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (187817⭐ TypeScript) | [reels/reel_8566_deepseek-ai-deepseek-harness](reels/reel_8566_deepseek-ai-deepseek-harness) |
 | 8567 | 2026-08-23 22:30:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202140⭐ TypeScript) | [reels/reel_8567_n8n-io-n8n](reels/reel_8567_n8n-io-n8n) |
 | 8568 | 2026-08-23 22:57:41 | [aimeos/pagible](https://github.com/aimeos/pagible) | ✅ full (583⭐ PHP) | [reels/reel_8568_aimeos-pagible](reels/reel_8568_aimeos-pagible) |
+| 8569 | 2026-08-23 23:24:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136555⭐ TypeScript) | [reels/reel_8569_iptv-org-iptv](reels/reel_8569_iptv-org-iptv) |
