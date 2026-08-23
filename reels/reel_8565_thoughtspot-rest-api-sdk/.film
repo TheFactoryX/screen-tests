@@ -1,0 +1,24 @@
+{
+  "reel_number": 8565,
+  "recorded": "2026-08-23 21:44:58 UTC",
+  "repository": {
+    "full_name": "thoughtspot/rest-api-sdk",
+    "url": "https://github.com/thoughtspot/rest-api-sdk",
+    "clone_url": "https://github.com/thoughtspot/rest-api-sdk.git",
+    "stars": 14,
+    "language": "Java",
+    "size_kb": 108829
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 106,
+    "duration_seconds": 1.647269
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 14 stars."
+  }
+}
