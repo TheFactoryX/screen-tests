@@ -1,0 +1,24 @@
+{
+  "reel_number": 8548,
+  "recorded": "2026-08-23 13:55:24 UTC",
+  "repository": {
+    "full_name": "Cryptocoders-wtf/assetstore",
+    "url": "https://github.com/Cryptocoders-wtf/assetstore",
+    "clone_url": "https://github.com/Cryptocoders-wtf/assetstore.git",
+    "stars": 21,
+    "language": "TypeScript",
+    "size_kb": 6669
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.451721
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 21 stars."
+  }
+}
