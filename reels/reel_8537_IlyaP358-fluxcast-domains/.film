@@ -1,0 +1,24 @@
+{
+  "reel_number": 8537,
+  "recorded": "2026-08-23 08:26:04 UTC",
+  "repository": {
+    "full_name": "IlyaP358/fluxcast-domains",
+    "url": "https://github.com/IlyaP358/fluxcast-domains",
+    "clone_url": "https://github.com/IlyaP358/fluxcast-domains.git",
+    "stars": 14,
+    "language": "Python",
+    "size_kb": 77
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.567697
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 14 stars."
+  }
+}
