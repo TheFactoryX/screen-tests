@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8566 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 187k | 2026-08-23 |
+| #8567 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 202k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8654,3 +8654,4 @@ If you need permission, you're thinking too much.
 | 8564 | 2026-08-23 21:18:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (187773⭐ TypeScript) | [reels/reel_8564_deepseek-ai-deepseek-harness](reels/reel_8564_deepseek-ai-deepseek-harness) |
 | 8565 | 2026-08-23 21:44:58 | [thoughtspot/rest-api-sdk](https://github.com/thoughtspot/rest-api-sdk) | ✅ shallow (14⭐ Java) | [reels/reel_8565_thoughtspot-rest-api-sdk](reels/reel_8565_thoughtspot-rest-api-sdk) |
 | 8566 | 2026-08-23 21:59:32 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (187817⭐ TypeScript) | [reels/reel_8566_deepseek-ai-deepseek-harness](reels/reel_8566_deepseek-ai-deepseek-harness) |
+| 8567 | 2026-08-23 22:30:31 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202140⭐ TypeScript) | [reels/reel_8567_n8n-io-n8n](reels/reel_8567_n8n-io-n8n) |
