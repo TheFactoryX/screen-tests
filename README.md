@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8553 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-23 |
+| #8554 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 187k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8641,3 +8641,4 @@ If you need permission, you're thinking too much.
 | 8551 | 2026-08-23 15:18:56 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (125270⭐ C++) | [reels/reel_8551_ggml-org-llama.cpp](reels/reel_8551_ggml-org-llama.cpp) |
 | 8552 | 2026-08-23 15:46:27 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149651⭐ Python) | [reels/reel_8552_open-webui-open-webui](reels/reel_8552_open-webui-open-webui) |
 | 8553 | 2026-08-23 16:21:12 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144825⭐ Python) | [reels/reel_8553_langchain-ai-langchain](reels/reel_8553_langchain-ai-langchain) |
+| 8554 | 2026-08-23 16:50:31 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (187423⭐ TypeScript) | [reels/reel_8554_deepseek-ai-deepseek-harness](reels/reel_8554_deepseek-ai-deepseek-harness) |
