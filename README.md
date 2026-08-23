@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8534 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 112k | 2026-08-23 |
+| #8535 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 468k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8622,3 +8622,4 @@ If you need permission, you're thinking too much.
 | 8532 | 2026-08-23 04:35:11 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118839⭐ None) | [reels/reel_8532_Hack-with-Github-Awesome-Hacking](reels/reel_8532_Hack-with-Github-Awesome-Hacking) |
 | 8533 | 2026-08-23 05:11:00 | [suzukua/epg](https://github.com/suzukua/epg) | ✅ readme_only (150⭐ None) | [reels/reel_8533_suzukua-epg](reels/reel_8533_suzukua-epg) |
 | 8534 | 2026-08-23 06:14:38 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112382⭐ TypeScript) | [reels/reel_8534_immich-app-immich](reels/reel_8534_immich-app-immich) |
+| 8535 | 2026-08-23 07:03:47 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (468762⭐ Python) | [reels/reel_8535_public-apis-public-apis](reels/reel_8535_public-apis-public-apis) |
