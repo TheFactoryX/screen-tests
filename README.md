@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8539 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-23 |
+| #8540 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 186k | 2026-08-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8627,3 +8627,4 @@ If you need permission, you're thinking too much.
 | 8537 | 2026-08-23 08:26:04 | [IlyaP358/fluxcast-domains](https://github.com/IlyaP358/fluxcast-domains) | ✅ full (14⭐ Python) | [reels/reel_8537_IlyaP358-fluxcast-domains](reels/reel_8537_IlyaP358-fluxcast-domains) |
 | 8538 | 2026-08-23 08:57:08 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (186204⭐ TypeScript) | [reels/reel_8538_deepseek-ai-deepseek-harness](reels/reel_8538_deepseek-ai-deepseek-harness) |
 | 8539 | 2026-08-23 09:29:53 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149620⭐ Python) | [reels/reel_8539_open-webui-open-webui](reels/reel_8539_open-webui-open-webui) |
+| 8540 | 2026-08-23 09:53:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186374⭐ Python) | [reels/reel_8540_yt-dlp-yt-dlp](reels/reel_8540_yt-dlp-yt-dlp) |
