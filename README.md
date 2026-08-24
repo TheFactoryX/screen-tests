@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8578 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-24 |
+| #8579 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 206k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8666,3 +8666,4 @@ If you need permission, you're thinking too much.
 | 8576 | 2026-08-24 05:35:20 | [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) | ✅ readme_only (136⭐ None) | [reels/reel_8576_acidjesuz-EPGTalk](reels/reel_8576_acidjesuz-EPGTalk) |
 | 8577 | 2026-08-24 06:23:18 | [haikuports/haikuports](https://github.com/haikuports/haikuports) | ✅ shallow (526⭐ Shell) | [reels/reel_8577_haikuports-haikuports](reels/reel_8577_haikuports-haikuports) |
 | 8578 | 2026-08-24 07:36:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186844⭐ Python) | [reels/reel_8578_Significant-Gravitas-AutoGPT](reels/reel_8578_Significant-Gravitas-AutoGPT) |
+| 8579 | 2026-08-24 08:25:28 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (206001⭐ None) | [reels/reel_8579_multica-ai-andrej-karpathy-skills](reels/reel_8579_multica-ai-andrej-karpathy-skills) |
