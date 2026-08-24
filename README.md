@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8580 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 144k | 2026-08-24 |
+| #8581 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8668,3 +8668,4 @@ If you need permission, you're thinking too much.
 | 8578 | 2026-08-24 07:36:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186844⭐ Python) | [reels/reel_8578_Significant-Gravitas-AutoGPT](reels/reel_8578_Significant-Gravitas-AutoGPT) |
 | 8579 | 2026-08-24 08:25:28 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (206001⭐ None) | [reels/reel_8579_multica-ai-andrej-karpathy-skills](reels/reel_8579_multica-ai-andrej-karpathy-skills) |
 | 8580 | 2026-08-24 09:12:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144877⭐ Python) | [reels/reel_8580_langchain-ai-langchain](reels/reel_8580_langchain-ai-langchain) |
+| 8581 | 2026-08-24 10:04:24 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149739⭐ Python) | [reels/reel_8581_open-webui-open-webui](reels/reel_8581_open-webui-open-webui) |
