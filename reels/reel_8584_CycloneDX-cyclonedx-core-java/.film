@@ -1,0 +1,24 @@
+{
+  "reel_number": 8584,
+  "recorded": "2026-08-24 11:53:42 UTC",
+  "repository": {
+    "full_name": "CycloneDX/cyclonedx-core-java",
+    "url": "https://github.com/CycloneDX/cyclonedx-core-java",
+    "clone_url": "https://github.com/CycloneDX/cyclonedx-core-java.git",
+    "stars": 118,
+    "language": "Java",
+    "size_kb": 30501
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 29,
+    "duration_seconds": 2.841425
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 118 stars."
+  }
+}
