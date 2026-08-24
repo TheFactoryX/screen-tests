@@ -1,0 +1,24 @@
+{
+  "reel_number": 8596,
+  "recorded": "2026-08-24 20:26:57 UTC",
+  "repository": {
+    "full_name": "Vitorlindo201/Themata-Claude-Scribe",
+    "url": "https://github.com/Vitorlindo201/Themata-Claude-Scribe",
+    "clone_url": "https://github.com/Vitorlindo201/Themata-Claude-Scribe.git",
+    "stars": 116,
+    "language": "HTML",
+    "size_kb": 874
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 1.078674
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 116 stars."
+  }
+}
