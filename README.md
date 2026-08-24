@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8599 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 280k | 2026-08-24 |
+| #8600 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 242k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8687,3 +8687,4 @@ If you need permission, you're thinking too much.
 | 8597 | 2026-08-24 20:59:19 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (141011⭐ Python) | [reels/reel_8597_ytdl-org-youtube-dl](reels/reel_8597_ytdl-org-youtube-dl) |
 | 8598 | 2026-08-24 21:36:24 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280650⭐ Python) | [reels/reel_8598_practical-tutorials-project-based-learning](reels/reel_8598_practical-tutorials-project-based-learning) |
 | 8599 | 2026-08-24 22:00:41 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280651⭐ Python) | [reels/reel_8599_practical-tutorials-project-based-learning](reels/reel_8599_practical-tutorials-project-based-learning) |
+| 8600 | 2026-08-24 22:43:19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (242912⭐ JavaScript) | [reels/reel_8600_affaan-m-ECC](reels/reel_8600_affaan-m-ECC) |
