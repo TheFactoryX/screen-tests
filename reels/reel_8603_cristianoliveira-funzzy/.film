@@ -1,0 +1,24 @@
+{
+  "reel_number": 8603,
+  "recorded": "2026-08-24 23:57:24 UTC",
+  "repository": {
+    "full_name": "cristianoliveira/funzzy",
+    "url": "https://github.com/cristianoliveira/funzzy",
+    "clone_url": "https://github.com/cristianoliveira/funzzy.git",
+    "stars": 291,
+    "language": "Rust",
+    "size_kb": 2050
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 0.921327
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 291 stars."
+  }
+}

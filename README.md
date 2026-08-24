@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8602 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 314k | 2026-08-24 |
+| #8603 | [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) | Rust · ⭐ 291 | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8690,3 +8690,4 @@ If you need permission, you're thinking too much.
 | 8600 | 2026-08-24 22:43:19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (242912⭐ JavaScript) | [reels/reel_8600_affaan-m-ECC](reels/reel_8600_affaan-m-ECC) |
 | 8601 | 2026-08-24 23:02:32 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112572⭐ TypeScript) | [reels/reel_8601_immich-app-immich](reels/reel_8601_immich-app-immich) |
 | 8602 | 2026-08-24 23:34:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314779⭐ None) | [reels/reel_8602_awesome-selfhosted-awesome-selfhosted](reels/reel_8602_awesome-selfhosted-awesome-selfhosted) |
+| 8603 | 2026-08-24 23:57:24 | [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) | ✅ full (291⭐ Rust) | [reels/reel_8603_cristianoliveira-funzzy](reels/reel_8603_cristianoliveira-funzzy) |
