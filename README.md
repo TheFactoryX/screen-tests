@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8575 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 188k | 2026-08-24 |
+| #8576 | [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) | None · ⭐ 136 | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8663,3 +8663,4 @@ If you need permission, you're thinking too much.
 | 8573 | 2026-08-24 03:00:02 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (469279⭐ Python) | [reels/reel_8573_public-apis-public-apis](reels/reel_8573_public-apis-public-apis) |
 | 8574 | 2026-08-24 04:00:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153601⭐ Python) | [reels/reel_8574_langflow-ai-langflow](reels/reel_8574_langflow-ai-langflow) |
 | 8575 | 2026-08-24 04:54:26 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (188980⭐ TypeScript) | [reels/reel_8575_deepseek-ai-deepseek-harness](reels/reel_8575_deepseek-ai-deepseek-harness) |
+| 8576 | 2026-08-24 05:35:20 | [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) | ✅ readme_only (136⭐ None) | [reels/reel_8576_acidjesuz-EPGTalk](reels/reel_8576_acidjesuz-EPGTalk) |
