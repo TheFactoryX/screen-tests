@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8573 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 469k | 2026-08-24 |
+| #8574 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8661,3 +8661,4 @@ If you need permission, you're thinking too much.
 | 8571 | 2026-08-23 23:59:04 | [sudoprivacy/sudocode](https://github.com/sudoprivacy/sudocode) | ✅ full (330⭐ Rust) | [reels/reel_8571_sudoprivacy-sudocode](reels/reel_8571_sudoprivacy-sudocode) |
 | 8572 | 2026-08-24 01:49:26 | [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) | ✅ readme_only (389⭐ Haskell) | [reels/reel_8572_nix-community-nix-vscode-extensions](reels/reel_8572_nix-community-nix-vscode-extensions) |
 | 8573 | 2026-08-24 03:00:02 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (469279⭐ Python) | [reels/reel_8573_public-apis-public-apis](reels/reel_8573_public-apis-public-apis) |
+| 8574 | 2026-08-24 04:00:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153601⭐ Python) | [reels/reel_8574_langflow-ai-langflow](reels/reel_8574_langflow-ai-langflow) |
