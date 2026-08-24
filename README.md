@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8591 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-24 |
+| #8592 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 122k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8679,3 +8679,4 @@ If you need permission, you're thinking too much.
 | 8589 | 2026-08-24 15:54:31 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (542550⭐ Markdown) | [reels/reel_8589_codecrafters-io-build-your-own-x](reels/reel_8589_codecrafters-io-build-your-own-x) |
 | 8590 | 2026-08-24 16:33:28 | [TypeWhisper/typewhisper-win](https://github.com/TypeWhisper/typewhisper-win) | ✅ shallow (200⭐ C#) | [reels/reel_8590_TypeWhisper-typewhisper-win](reels/reel_8590_TypeWhisper-typewhisper-win) |
 | 8591 | 2026-08-24 17:15:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149780⭐ Python) | [reels/reel_8591_open-webui-open-webui](reels/reel_8591_open-webui-open-webui) |
+| 8592 | 2026-08-24 17:49:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (122007⭐ TypeScript) | [reels/reel_8592_shadcn-ui-ui](reels/reel_8592_shadcn-ui-ui) |
