@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8588 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-24 |
+| #8589 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 542k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8676,3 +8676,4 @@ If you need permission, you're thinking too much.
 | 8586 | 2026-08-24 13:38:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202253⭐ TypeScript) | [reels/reel_8586_n8n-io-n8n](reels/reel_8586_n8n-io-n8n) |
 | 8587 | 2026-08-24 14:25:19 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (139858⭐ TypeScript) | [reels/reel_8587_clash-verge-rev-clash-verge-rev](reels/reel_8587_clash-verge-rev-clash-verge-rev) |
 | 8588 | 2026-08-24 15:09:32 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149768⭐ Python) | [reels/reel_8588_open-webui-open-webui](reels/reel_8588_open-webui-open-webui) |
+| 8589 | 2026-08-24 15:54:31 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (542550⭐ Markdown) | [reels/reel_8589_codecrafters-io-build-your-own-x](reels/reel_8589_codecrafters-io-build-your-own-x) |
