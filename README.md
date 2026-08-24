@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8577 | [haikuports/haikuports](https://github.com/haikuports/haikuports) | Shell · ⭐ 526 | 2026-08-24 |
+| #8578 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8665,3 +8665,4 @@ If you need permission, you're thinking too much.
 | 8575 | 2026-08-24 04:54:26 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (188980⭐ TypeScript) | [reels/reel_8575_deepseek-ai-deepseek-harness](reels/reel_8575_deepseek-ai-deepseek-harness) |
 | 8576 | 2026-08-24 05:35:20 | [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk) | ✅ readme_only (136⭐ None) | [reels/reel_8576_acidjesuz-EPGTalk](reels/reel_8576_acidjesuz-EPGTalk) |
 | 8577 | 2026-08-24 06:23:18 | [haikuports/haikuports](https://github.com/haikuports/haikuports) | ✅ shallow (526⭐ Shell) | [reels/reel_8577_haikuports-haikuports](reels/reel_8577_haikuports-haikuports) |
+| 8578 | 2026-08-24 07:36:03 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186844⭐ Python) | [reels/reel_8578_Significant-Gravitas-AutoGPT](reels/reel_8578_Significant-Gravitas-AutoGPT) |
