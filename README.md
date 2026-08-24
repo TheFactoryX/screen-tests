@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8593 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 122k | 2026-08-24 |
+| #8594 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 242k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8681,3 +8681,4 @@ If you need permission, you're thinking too much.
 | 8591 | 2026-08-24 17:15:01 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149780⭐ Python) | [reels/reel_8591_open-webui-open-webui](reels/reel_8591_open-webui-open-webui) |
 | 8592 | 2026-08-24 17:49:02 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (122007⭐ TypeScript) | [reels/reel_8592_shadcn-ui-ui](reels/reel_8592_shadcn-ui-ui) |
 | 8593 | 2026-08-24 18:36:35 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (122008⭐ TypeScript) | [reels/reel_8593_shadcn-ui-ui](reels/reel_8593_shadcn-ui-ui) |
+| 8594 | 2026-08-24 19:16:49 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (242885⭐ JavaScript) | [reels/reel_8594_affaan-m-ECC](reels/reel_8594_affaan-m-ECC) |
