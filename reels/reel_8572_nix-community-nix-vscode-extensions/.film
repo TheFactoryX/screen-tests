@@ -1,0 +1,24 @@
+{
+  "reel_number": 8572,
+  "recorded": "2026-08-24 01:49:26 UTC",
+  "repository": {
+    "full_name": "nix-community/nix-vscode-extensions",
+    "url": "https://github.com/nix-community/nix-vscode-extensions",
+    "clone_url": "https://github.com/nix-community/nix-vscode-extensions.git",
+    "stars": 389,
+    "language": "Haskell",
+    "size_kb": 647120
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 631,
+    "duration_seconds": 0.000114
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haskell",
+    "director_note": "A Haskell repository. 389 stars."
+  }
+}
