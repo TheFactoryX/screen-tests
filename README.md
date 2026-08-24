@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8582 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 129k | 2026-08-24 |
+| #8583 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 242k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8670,3 +8670,4 @@ If you need permission, you're thinking too much.
 | 8580 | 2026-08-24 09:12:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144877⭐ Python) | [reels/reel_8580_langchain-ai-langchain](reels/reel_8580_langchain-ai-langchain) |
 | 8581 | 2026-08-24 10:04:24 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149739⭐ Python) | [reels/reel_8581_open-webui-open-webui](reels/reel_8581_open-webui-open-webui) |
 | 8582 | 2026-08-24 10:52:39 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (129681⭐ Python) | [reels/reel_8582_Comfy-Org-ComfyUI](reels/reel_8582_Comfy-Org-ComfyUI) |
+| 8583 | 2026-08-24 11:24:58 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (242766⭐ JavaScript) | [reels/reel_8583_affaan-m-ECC](reels/reel_8583_affaan-m-ECC) |
