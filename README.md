@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8574 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 153k | 2026-08-24 |
+| #8575 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 188k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8662,3 +8662,4 @@ If you need permission, you're thinking too much.
 | 8572 | 2026-08-24 01:49:26 | [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) | ✅ readme_only (389⭐ Haskell) | [reels/reel_8572_nix-community-nix-vscode-extensions](reels/reel_8572_nix-community-nix-vscode-extensions) |
 | 8573 | 2026-08-24 03:00:02 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (469279⭐ Python) | [reels/reel_8573_public-apis-public-apis](reels/reel_8573_public-apis-public-apis) |
 | 8574 | 2026-08-24 04:00:10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (153601⭐ Python) | [reels/reel_8574_langflow-ai-langflow](reels/reel_8574_langflow-ai-langflow) |
+| 8575 | 2026-08-24 04:54:26 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (188980⭐ TypeScript) | [reels/reel_8575_deepseek-ai-deepseek-harness](reels/reel_8575_deepseek-ai-deepseek-harness) |
