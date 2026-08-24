@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8585 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 139k | 2026-08-24 |
+| #8586 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 202k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8673,3 +8673,4 @@ If you need permission, you're thinking too much.
 | 8583 | 2026-08-24 11:24:58 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (242766⭐ JavaScript) | [reels/reel_8583_affaan-m-ECC](reels/reel_8583_affaan-m-ECC) |
 | 8584 | 2026-08-24 11:53:42 | [CycloneDX/cyclonedx-core-java](https://github.com/CycloneDX/cyclonedx-core-java) | ✅ full (118⭐ Java) | [reels/reel_8584_CycloneDX-cyclonedx-core-java](reels/reel_8584_CycloneDX-cyclonedx-core-java) |
 | 8585 | 2026-08-24 12:43:28 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (139830⭐ TypeScript) | [reels/reel_8585_clash-verge-rev-clash-verge-rev](reels/reel_8585_clash-verge-rev-clash-verge-rev) |
+| 8586 | 2026-08-24 13:38:00 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202253⭐ TypeScript) | [reels/reel_8586_n8n-io-n8n](reels/reel_8586_n8n-io-n8n) |
