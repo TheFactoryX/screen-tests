@@ -1,0 +1,24 @@
+{
+  "reel_number": 8577,
+  "recorded": "2026-08-24 06:23:18 UTC",
+  "repository": {
+    "full_name": "haikuports/haikuports",
+    "url": "https://github.com/haikuports/haikuports",
+    "clone_url": "https://github.com/haikuports/haikuports.git",
+    "stars": 526,
+    "language": "Shell",
+    "size_kb": 113881
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 111,
+    "duration_seconds": 2.532818
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 526 stars."
+  }
+}
