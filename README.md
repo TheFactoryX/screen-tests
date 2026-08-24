@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8596 | [Vitorlindo201/Themata-Claude-Scribe](https://github.com/Vitorlindo201/Themata-Claude-Scribe) | HTML · ⭐ 116 | 2026-08-24 |
+| #8597 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 141k | 2026-08-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8684,3 +8684,4 @@ If you need permission, you're thinking too much.
 | 8594 | 2026-08-24 19:16:49 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (242885⭐ JavaScript) | [reels/reel_8594_affaan-m-ECC](reels/reel_8594_affaan-m-ECC) |
 | 8595 | 2026-08-24 19:54:07 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (118962⭐ None) | [reels/reel_8595_Hack-with-Github-Awesome-Hacking](reels/reel_8595_Hack-with-Github-Awesome-Hacking) |
 | 8596 | 2026-08-24 20:26:57 | [Vitorlindo201/Themata-Claude-Scribe](https://github.com/Vitorlindo201/Themata-Claude-Scribe) | ✅ full (116⭐ HTML) | [reels/reel_8596_Vitorlindo201-Themata-Claude-Scribe](reels/reel_8596_Vitorlindo201-Themata-Claude-Scribe) |
+| 8597 | 2026-08-24 20:59:19 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (141011⭐ Python) | [reels/reel_8597_ytdl-org-youtube-dl](reels/reel_8597_ytdl-org-youtube-dl) |
