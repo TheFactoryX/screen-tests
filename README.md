@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8614 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 202k | 2026-08-25 |
+| #8615 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 140k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8702,3 +8702,4 @@ If you need permission, you're thinking too much.
 | 8612 | 2026-08-25 08:10:28 | [jdubois/boot-ui](https://github.com/jdubois/boot-ui) | ✅ shallow (270⭐ Java) | [reels/reel_8612_jdubois-boot-ui](reels/reel_8612_jdubois-boot-ui) |
 | 8613 | 2026-08-25 08:59:06 | [VoidMaintenanceDive/internet-booster-toolkit](https://github.com/VoidMaintenanceDive/internet-booster-toolkit) | ✅ full (448⭐ None) | [reels/reel_8613_VoidMaintenanceDive-internet-booster-toolkit](reels/reel_8613_VoidMaintenanceDive-internet-booster-toolkit) |
 | 8614 | 2026-08-25 09:43:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202359⭐ TypeScript) | [reels/reel_8614_n8n-io-n8n](reels/reel_8614_n8n-io-n8n) |
+| 8615 | 2026-08-25 10:13:30 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (140021⭐ TypeScript) | [reels/reel_8615_clash-verge-rev-clash-verge-rev](reels/reel_8615_clash-verge-rev-clash-verge-rev) |
