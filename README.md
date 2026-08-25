@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8603 | [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) | Rust · ⭐ 291 | 2026-08-24 |
+| #8604 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 469k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8691,3 +8691,4 @@ If you need permission, you're thinking too much.
 | 8601 | 2026-08-24 23:02:32 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112572⭐ TypeScript) | [reels/reel_8601_immich-app-immich](reels/reel_8601_immich-app-immich) |
 | 8602 | 2026-08-24 23:34:17 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314779⭐ None) | [reels/reel_8602_awesome-selfhosted-awesome-selfhosted](reels/reel_8602_awesome-selfhosted-awesome-selfhosted) |
 | 8603 | 2026-08-24 23:57:24 | [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) | ✅ full (291⭐ Rust) | [reels/reel_8603_cristianoliveira-funzzy](reels/reel_8603_cristianoliveira-funzzy) |
+| 8604 | 2026-08-25 01:25:27 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (469898⭐ Python) | [reels/reel_8604_public-apis-public-apis](reels/reel_8604_public-apis-public-apis) |
