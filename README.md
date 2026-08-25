@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8620 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 122k | 2026-08-25 |
+| #8621 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 470k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8708,3 +8708,4 @@ If you need permission, you're thinking too much.
 | 8618 | 2026-08-25 11:53:49 | [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) | ✅ full (582⭐ Emacs Lisp) | [reels/reel_8618_LionyxML-emacs-solo](reels/reel_8618_LionyxML-emacs-solo) |
 | 8619 | 2026-08-25 12:41:34 | [Ronish17/redbull-archive-cli](https://github.com/Ronish17/redbull-archive-cli) | ✅ full (115⭐ HTML) | [reels/reel_8619_Ronish17-redbull-archive-cli](reels/reel_8619_Ronish17-redbull-archive-cli) |
 | 8620 | 2026-08-25 13:35:07 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (122071⭐ TypeScript) | [reels/reel_8620_shadcn-ui-ui](reels/reel_8620_shadcn-ui-ui) |
+| 8621 | 2026-08-25 14:27:02 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (470254⭐ Python) | [reels/reel_8621_public-apis-public-apis](reels/reel_8621_public-apis-public-apis) |
