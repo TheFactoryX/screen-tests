@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8616 | [ThobiasKnudsen/verztable](https://github.com/ThobiasKnudsen/verztable) | Zig · ⭐ 14 | 2026-08-25 |
+| #8617 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 314k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8704,3 +8704,4 @@ If you need permission, you're thinking too much.
 | 8614 | 2026-08-25 09:43:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202359⭐ TypeScript) | [reels/reel_8614_n8n-io-n8n](reels/reel_8614_n8n-io-n8n) |
 | 8615 | 2026-08-25 10:13:30 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (140021⭐ TypeScript) | [reels/reel_8615_clash-verge-rev-clash-verge-rev](reels/reel_8615_clash-verge-rev-clash-verge-rev) |
 | 8616 | 2026-08-25 10:50:59 | [ThobiasKnudsen/verztable](https://github.com/ThobiasKnudsen/verztable) | ✅ full (14⭐ Zig) | [reels/reel_8616_ThobiasKnudsen-verztable](reels/reel_8616_ThobiasKnudsen-verztable) |
+| 8617 | 2026-08-25 11:23:59 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314937⭐ None) | [reels/reel_8617_awesome-selfhosted-awesome-selfhosted](reels/reel_8617_awesome-selfhosted-awesome-selfhosted) |
