@@ -1,0 +1,24 @@
+{
+  "reel_number": 8625,
+  "recorded": "2026-08-25 17:28:50 UTC",
+  "repository": {
+    "full_name": "slayersupportenergy/webp-converter-spark",
+    "url": "https://github.com/slayersupportenergy/webp-converter-spark",
+    "clone_url": "https://github.com/slayersupportenergy/webp-converter-spark.git",
+    "stars": 276,
+    "language": null,
+    "size_kb": 19
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.313432
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 276 stars."
+  }
+}

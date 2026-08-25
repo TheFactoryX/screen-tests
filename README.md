@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8624 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 315k | 2026-08-25 |
+| #8625 | [slayersupportenergy/webp-converter-spark](https://github.com/slayersupportenergy/webp-converter-spark) | None · ⭐ 276 | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8712,3 +8712,4 @@ If you need permission, you're thinking too much.
 | 8622 | 2026-08-25 15:21:32 | [infosave2007/aivpn](https://github.com/infosave2007/aivpn) | ✅ shallow (576⭐ Rust) | [reels/reel_8622_infosave2007-aivpn](reels/reel_8622_infosave2007-aivpn) |
 | 8623 | 2026-08-25 16:07:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144968⭐ Python) | [reels/reel_8623_langchain-ai-langchain](reels/reel_8623_langchain-ai-langchain) |
 | 8624 | 2026-08-25 16:54:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (315003⭐ None) | [reels/reel_8624_awesome-selfhosted-awesome-selfhosted](reels/reel_8624_awesome-selfhosted-awesome-selfhosted) |
+| 8625 | 2026-08-25 17:28:50 | [slayersupportenergy/webp-converter-spark](https://github.com/slayersupportenergy/webp-converter-spark) | ✅ full (276⭐ None) | [reels/reel_8625_slayersupportenergy-webp-converter-spark](reels/reel_8625_slayersupportenergy-webp-converter-spark) |
