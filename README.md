@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8628 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 149k | 2026-08-25 |
+| #8629 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript · ⭐ 112k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8716,3 +8716,4 @@ If you need permission, you're thinking too much.
 | 8626 | 2026-08-25 17:58:22 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280807⭐ Python) | [reels/reel_8626_practical-tutorials-project-based-learning](reels/reel_8626_practical-tutorials-project-based-learning) |
 | 8627 | 2026-08-25 18:47:54 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (129938⭐ Python) | [reels/reel_8627_Comfy-Org-ComfyUI](reels/reel_8627_Comfy-Org-ComfyUI) |
 | 8628 | 2026-08-25 19:28:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149893⭐ Python) | [reels/reel_8628_open-webui-open-webui](reels/reel_8628_open-webui-open-webui) |
+| 8629 | 2026-08-25 19:56:20 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112641⭐ TypeScript) | [reels/reel_8629_immich-app-immich](reels/reel_8629_immich-app-immich) |
