@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8633 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 195k | 2026-08-25 |
+| #8634 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 470k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8721,3 +8721,4 @@ If you need permission, you're thinking too much.
 | 8631 | 2026-08-25 20:56:40 | [breakfast-studio/lunchboxjs](https://github.com/breakfast-studio/lunchboxjs) | ✅ full (255⭐ TypeScript) | [reels/reel_8631_breakfast-studio-lunchboxjs](reels/reel_8631_breakfast-studio-lunchboxjs) |
 | 8632 | 2026-08-25 21:28:56 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (470423⭐ Python) | [reels/reel_8632_public-apis-public-apis](reels/reel_8632_public-apis-public-apis) |
 | 8633 | 2026-08-25 21:54:22 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (195134⭐ TypeScript) | [reels/reel_8633_deepseek-ai-deepseek-harness](reels/reel_8633_deepseek-ai-deepseek-harness) |
+| 8634 | 2026-08-25 22:23:29 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (470438⭐ Python) | [reels/reel_8634_public-apis-public-apis](reels/reel_8634_public-apis-public-apis) |
