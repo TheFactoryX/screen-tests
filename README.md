@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8631 | [breakfast-studio/lunchboxjs](https://github.com/breakfast-studio/lunchboxjs) | TypeScript · ⭐ 255 | 2026-08-25 |
+| #8632 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 470k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8719,3 +8719,4 @@ If you need permission, you're thinking too much.
 | 8629 | 2026-08-25 19:56:20 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112641⭐ TypeScript) | [reels/reel_8629_immich-app-immich](reels/reel_8629_immich-app-immich) |
 | 8630 | 2026-08-25 20:28:52 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (125615⭐ C++) | [reels/reel_8630_ggml-org-llama.cpp](reels/reel_8630_ggml-org-llama.cpp) |
 | 8631 | 2026-08-25 20:56:40 | [breakfast-studio/lunchboxjs](https://github.com/breakfast-studio/lunchboxjs) | ✅ full (255⭐ TypeScript) | [reels/reel_8631_breakfast-studio-lunchboxjs](reels/reel_8631_breakfast-studio-lunchboxjs) |
+| 8632 | 2026-08-25 21:28:56 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (470423⭐ Python) | [reels/reel_8632_public-apis-public-apis](reels/reel_8632_public-apis-public-apis) |
