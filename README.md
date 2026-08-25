@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8625 | [slayersupportenergy/webp-converter-spark](https://github.com/slayersupportenergy/webp-converter-spark) | None · ⭐ 276 | 2026-08-25 |
+| #8626 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 280k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8713,3 +8713,4 @@ If you need permission, you're thinking too much.
 | 8623 | 2026-08-25 16:07:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (144968⭐ Python) | [reels/reel_8623_langchain-ai-langchain](reels/reel_8623_langchain-ai-langchain) |
 | 8624 | 2026-08-25 16:54:10 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (315003⭐ None) | [reels/reel_8624_awesome-selfhosted-awesome-selfhosted](reels/reel_8624_awesome-selfhosted-awesome-selfhosted) |
 | 8625 | 2026-08-25 17:28:50 | [slayersupportenergy/webp-converter-spark](https://github.com/slayersupportenergy/webp-converter-spark) | ✅ full (276⭐ None) | [reels/reel_8625_slayersupportenergy-webp-converter-spark](reels/reel_8625_slayersupportenergy-webp-converter-spark) |
+| 8626 | 2026-08-25 17:58:22 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280807⭐ Python) | [reels/reel_8626_practical-tutorials-project-based-learning](reels/reel_8626_practical-tutorials-project-based-learning) |
