@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8611 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 314k | 2026-08-25 |
+| #8612 | [jdubois/boot-ui](https://github.com/jdubois/boot-ui) | Java · ⭐ 270 | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8699,3 +8699,4 @@ If you need permission, you're thinking too much.
 | 8609 | 2026-08-25 05:46:42 | [netromdk/vermin](https://github.com/netromdk/vermin) | ✅ full (527⭐ Python) | [reels/reel_8609_netromdk-vermin](reels/reel_8609_netromdk-vermin) |
 | 8610 | 2026-08-25 06:41:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280706⭐ Python) | [reels/reel_8610_practical-tutorials-project-based-learning](reels/reel_8610_practical-tutorials-project-based-learning) |
 | 8611 | 2026-08-25 07:29:59 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314881⭐ None) | [reels/reel_8611_awesome-selfhosted-awesome-selfhosted](reels/reel_8611_awesome-selfhosted-awesome-selfhosted) |
+| 8612 | 2026-08-25 08:10:28 | [jdubois/boot-ui](https://github.com/jdubois/boot-ui) | ✅ shallow (270⭐ Java) | [reels/reel_8612_jdubois-boot-ui](reels/reel_8612_jdubois-boot-ui) |
