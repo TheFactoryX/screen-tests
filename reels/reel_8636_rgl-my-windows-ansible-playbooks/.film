@@ -1,0 +1,24 @@
+{
+  "reel_number": 8636,
+  "recorded": "2026-08-25 23:22:34 UTC",
+  "repository": {
+    "full_name": "rgl/my-windows-ansible-playbooks",
+    "url": "https://github.com/rgl/my-windows-ansible-playbooks",
+    "clone_url": "https://github.com/rgl/my-windows-ansible-playbooks.git",
+    "stars": 21,
+    "language": "PowerShell",
+    "size_kb": 1818
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.83838
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "PowerShell",
+    "director_note": "A PowerShell repository. 21 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8635 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 280k | 2026-08-25 |
+| #8636 | [rgl/my-windows-ansible-playbooks](https://github.com/rgl/my-windows-ansible-playbooks) | PowerShell · ⭐ 21 | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8723,3 +8723,4 @@ If you need permission, you're thinking too much.
 | 8633 | 2026-08-25 21:54:22 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (195134⭐ TypeScript) | [reels/reel_8633_deepseek-ai-deepseek-harness](reels/reel_8633_deepseek-ai-deepseek-harness) |
 | 8634 | 2026-08-25 22:23:29 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (470438⭐ Python) | [reels/reel_8634_public-apis-public-apis](reels/reel_8634_public-apis-public-apis) |
 | 8635 | 2026-08-25 22:54:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280836⭐ Python) | [reels/reel_8635_practical-tutorials-project-based-learning](reels/reel_8635_practical-tutorials-project-based-learning) |
+| 8636 | 2026-08-25 23:22:34 | [rgl/my-windows-ansible-playbooks](https://github.com/rgl/my-windows-ansible-playbooks) | ✅ full (21⭐ PowerShell) | [reels/reel_8636_rgl-my-windows-ansible-playbooks](reels/reel_8636_rgl-my-windows-ansible-playbooks) |
