@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8609 | [netromdk/vermin](https://github.com/netromdk/vermin) | Python · ⭐ 527 | 2026-08-25 |
+| #8610 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 280k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8697,3 +8697,4 @@ If you need permission, you're thinking too much.
 | 8607 | 2026-08-25 04:22:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (186750⭐ Python) | [reels/reel_8607_yt-dlp-yt-dlp](reels/reel_8607_yt-dlp-yt-dlp) |
 | 8608 | 2026-08-25 05:04:02 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (192818⭐ TypeScript) | [reels/reel_8608_deepseek-ai-deepseek-harness](reels/reel_8608_deepseek-ai-deepseek-harness) |
 | 8609 | 2026-08-25 05:46:42 | [netromdk/vermin](https://github.com/netromdk/vermin) | ✅ full (527⭐ Python) | [reels/reel_8609_netromdk-vermin](reels/reel_8609_netromdk-vermin) |
+| 8610 | 2026-08-25 06:41:05 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280706⭐ Python) | [reels/reel_8610_practical-tutorials-project-based-learning](reels/reel_8610_practical-tutorials-project-based-learning) |
