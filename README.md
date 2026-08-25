@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8630 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 125k | 2026-08-25 |
+| #8631 | [breakfast-studio/lunchboxjs](https://github.com/breakfast-studio/lunchboxjs) | TypeScript · ⭐ 255 | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8718,3 +8718,4 @@ If you need permission, you're thinking too much.
 | 8628 | 2026-08-25 19:28:58 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (149893⭐ Python) | [reels/reel_8628_open-webui-open-webui](reels/reel_8628_open-webui-open-webui) |
 | 8629 | 2026-08-25 19:56:20 | [immich-app/immich](https://github.com/immich-app/immich) | ✅ shallow (112641⭐ TypeScript) | [reels/reel_8629_immich-app-immich](reels/reel_8629_immich-app-immich) |
 | 8630 | 2026-08-25 20:28:52 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (125615⭐ C++) | [reels/reel_8630_ggml-org-llama.cpp](reels/reel_8630_ggml-org-llama.cpp) |
+| 8631 | 2026-08-25 20:56:40 | [breakfast-studio/lunchboxjs](https://github.com/breakfast-studio/lunchboxjs) | ✅ full (255⭐ TypeScript) | [reels/reel_8631_breakfast-studio-lunchboxjs](reels/reel_8631_breakfast-studio-lunchboxjs) |
