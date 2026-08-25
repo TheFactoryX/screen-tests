@@ -1,0 +1,24 @@
+{
+  "reel_number": 8618,
+  "recorded": "2026-08-25 11:53:49 UTC",
+  "repository": {
+    "full_name": "LionyxML/emacs-solo",
+    "url": "https://github.com/LionyxML/emacs-solo",
+    "clone_url": "https://github.com/LionyxML/emacs-solo.git",
+    "stars": 582,
+    "language": "Emacs Lisp",
+    "size_kb": 1361
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.52558
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Emacs Lisp",
+    "director_note": "A Emacs Lisp repository. 582 stars."
+  }
+}
