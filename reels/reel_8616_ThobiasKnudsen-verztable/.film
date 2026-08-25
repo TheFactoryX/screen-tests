@@ -1,0 +1,24 @@
+{
+  "reel_number": 8616,
+  "recorded": "2026-08-25 10:50:59 UTC",
+  "repository": {
+    "full_name": "ThobiasKnudsen/verztable",
+    "url": "https://github.com/ThobiasKnudsen/verztable",
+    "clone_url": "https://github.com/ThobiasKnudsen/verztable.git",
+    "stars": 14,
+    "language": "Zig",
+    "size_kb": 15365
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 1.393613
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Zig",
+    "director_note": "A Zig repository. 14 stars."
+  }
+}
