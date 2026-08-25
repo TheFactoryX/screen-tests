@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8613 | [VoidMaintenanceDive/internet-booster-toolkit](https://github.com/VoidMaintenanceDive/internet-booster-toolkit) | None · ⭐ 448 | 2026-08-25 |
+| #8614 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 202k | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8701,3 +8701,4 @@ If you need permission, you're thinking too much.
 | 8611 | 2026-08-25 07:29:59 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314881⭐ None) | [reels/reel_8611_awesome-selfhosted-awesome-selfhosted](reels/reel_8611_awesome-selfhosted-awesome-selfhosted) |
 | 8612 | 2026-08-25 08:10:28 | [jdubois/boot-ui](https://github.com/jdubois/boot-ui) | ✅ shallow (270⭐ Java) | [reels/reel_8612_jdubois-boot-ui](reels/reel_8612_jdubois-boot-ui) |
 | 8613 | 2026-08-25 08:59:06 | [VoidMaintenanceDive/internet-booster-toolkit](https://github.com/VoidMaintenanceDive/internet-booster-toolkit) | ✅ full (448⭐ None) | [reels/reel_8613_VoidMaintenanceDive-internet-booster-toolkit](reels/reel_8613_VoidMaintenanceDive-internet-booster-toolkit) |
+| 8614 | 2026-08-25 09:43:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202359⭐ TypeScript) | [reels/reel_8614_n8n-io-n8n](reels/reel_8614_n8n-io-n8n) |
