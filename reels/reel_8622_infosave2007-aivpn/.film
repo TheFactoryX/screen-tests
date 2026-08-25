@@ -1,0 +1,24 @@
+{
+  "reel_number": 8622,
+  "recorded": "2026-08-25 15:21:32 UTC",
+  "repository": {
+    "full_name": "infosave2007/aivpn",
+    "url": "https://github.com/infosave2007/aivpn",
+    "clone_url": "https://github.com/infosave2007/aivpn.git",
+    "stars": 576,
+    "language": "Rust",
+    "size_kb": 462362
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 451,
+    "duration_seconds": 1.111017
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 576 stars."
+  }
+}
