@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8618 | [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) | Emacs Lisp · ⭐ 582 | 2026-08-25 |
+| #8619 | [Ronish17/redbull-archive-cli](https://github.com/Ronish17/redbull-archive-cli) | HTML · ⭐ 115 | 2026-08-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8706,3 +8706,4 @@ If you need permission, you're thinking too much.
 | 8616 | 2026-08-25 10:50:59 | [ThobiasKnudsen/verztable](https://github.com/ThobiasKnudsen/verztable) | ✅ full (14⭐ Zig) | [reels/reel_8616_ThobiasKnudsen-verztable](reels/reel_8616_ThobiasKnudsen-verztable) |
 | 8617 | 2026-08-25 11:23:59 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (314937⭐ None) | [reels/reel_8617_awesome-selfhosted-awesome-selfhosted](reels/reel_8617_awesome-selfhosted-awesome-selfhosted) |
 | 8618 | 2026-08-25 11:53:49 | [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) | ✅ full (582⭐ Emacs Lisp) | [reels/reel_8618_LionyxML-emacs-solo](reels/reel_8618_LionyxML-emacs-solo) |
+| 8619 | 2026-08-25 12:41:34 | [Ronish17/redbull-archive-cli](https://github.com/Ronish17/redbull-archive-cli) | ✅ full (115⭐ HTML) | [reels/reel_8619_Ronish17-redbull-archive-cli](reels/reel_8619_Ronish17-redbull-archive-cli) |
