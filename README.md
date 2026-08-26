@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8637 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 470k | 2026-08-25 |
+| #8638 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 136k | 2026-08-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8725,3 +8725,4 @@ If you need permission, you're thinking too much.
 | 8635 | 2026-08-25 22:54:12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280836⭐ Python) | [reels/reel_8635_practical-tutorials-project-based-learning](reels/reel_8635_practical-tutorials-project-based-learning) |
 | 8636 | 2026-08-25 23:22:34 | [rgl/my-windows-ansible-playbooks](https://github.com/rgl/my-windows-ansible-playbooks) | ✅ full (21⭐ PowerShell) | [reels/reel_8636_rgl-my-windows-ansible-playbooks](reels/reel_8636_rgl-my-windows-ansible-playbooks) |
 | 8637 | 2026-08-25 23:48:19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (470451⭐ Python) | [reels/reel_8637_public-apis-public-apis](reels/reel_8637_public-apis-public-apis) |
+| 8638 | 2026-08-26 01:08:58 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136712⭐ TypeScript) | [reels/reel_8638_iptv-org-iptv](reels/reel_8638_iptv-org-iptv) |
