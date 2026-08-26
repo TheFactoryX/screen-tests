@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8656 | [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) | HTML · ⭐ 178 | 2026-08-26 |
+| #8657 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 187k | 2026-08-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8744,3 +8744,4 @@ If you need permission, you're thinking too much.
 | 8654 | 2026-08-26 14:25:16 | [eu-digital-identity-wallet/eudi-app-ios-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-ios-wallet-ui) | ✅ shallow (87⭐ Swift) | [reels/reel_8654_eu-digital-identity-wallet-eudi-app-ios-wallet-ui](reels/reel_8654_eu-digital-identity-wallet-eudi-app-ios-wallet-ui) |
 | 8655 | 2026-08-26 15:57:58 | [adoptium/jdk](https://github.com/adoptium/jdk) | ✅ readme_only (230⭐ Java) | [reels/reel_8655_adoptium-jdk](reels/reel_8655_adoptium-jdk) |
 | 8656 | 2026-08-26 16:50:43 | [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) | ✅ full (178⭐ HTML) | [reels/reel_8656_ThePHPF-thephp.foundation](reels/reel_8656_ThePHPF-thephp.foundation) |
+| 8657 | 2026-08-26 18:57:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (187130⭐ Python) | [reels/reel_8657_yt-dlp-yt-dlp](reels/reel_8657_yt-dlp-yt-dlp) |
