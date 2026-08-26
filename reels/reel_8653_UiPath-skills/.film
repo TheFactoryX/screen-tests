@@ -1,0 +1,24 @@
+{
+  "reel_number": 8653,
+  "recorded": "2026-08-26 13:32:40 UTC",
+  "repository": {
+    "full_name": "UiPath/skills",
+    "url": "https://github.com/UiPath/skills",
+    "clone_url": "https://github.com/UiPath/skills.git",
+    "stars": 149,
+    "language": "Python",
+    "size_kb": 274352
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 267,
+    "duration_seconds": 1.952491
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 149 stars."
+  }
+}

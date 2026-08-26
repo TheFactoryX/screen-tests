@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8652 | [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) | Rust · ⭐ 790 | 2026-08-26 |
+| #8653 | [UiPath/skills](https://github.com/UiPath/skills) | Python · ⭐ 149 | 2026-08-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8740,3 +8740,4 @@ If you need permission, you're thinking too much.
 | 8650 | 2026-08-26 11:06:41 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136752⭐ TypeScript) | [reels/reel_8650_iptv-org-iptv](reels/reel_8650_iptv-org-iptv) |
 | 8651 | 2026-08-26 11:44:00 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (543082⭐ Markdown) | [reels/reel_8651_codecrafters-io-build-your-own-x](reels/reel_8651_codecrafters-io-build-your-own-x) |
 | 8652 | 2026-08-26 12:16:49 | [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7) | ✅ full (790⭐ Rust) | [reels/reel_8652_l0ng-ai-tty7](reels/reel_8652_l0ng-ai-tty7) |
+| 8653 | 2026-08-26 13:32:40 | [UiPath/skills](https://github.com/UiPath/skills) | ✅ shallow (149⭐ Python) | [reels/reel_8653_UiPath-skills](reels/reel_8653_UiPath-skills) |
