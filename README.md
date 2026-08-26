@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8640 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 140k | 2026-08-26 |
+| #8641 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 207k | 2026-08-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8728,3 +8728,4 @@ If you need permission, you're thinking too much.
 | 8638 | 2026-08-26 01:08:58 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136712⭐ TypeScript) | [reels/reel_8638_iptv-org-iptv](reels/reel_8638_iptv-org-iptv) |
 | 8639 | 2026-08-26 02:38:45 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136714⭐ TypeScript) | [reels/reel_8639_iptv-org-iptv](reels/reel_8639_iptv-org-iptv) |
 | 8640 | 2026-08-26 03:38:44 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (140148⭐ TypeScript) | [reels/reel_8640_clash-verge-rev-clash-verge-rev](reels/reel_8640_clash-verge-rev-clash-verge-rev) |
+| 8641 | 2026-08-26 04:23:50 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (207324⭐ None) | [reels/reel_8641_multica-ai-andrej-karpathy-skills](reels/reel_8641_multica-ai-andrej-karpathy-skills) |
