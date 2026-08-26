@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8643 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 202k | 2026-08-26 |
+| #8644 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 130k | 2026-08-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8731,3 +8731,4 @@ If you need permission, you're thinking too much.
 | 8641 | 2026-08-26 04:23:50 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (207324⭐ None) | [reels/reel_8641_multica-ai-andrej-karpathy-skills](reels/reel_8641_multica-ai-andrej-karpathy-skills) |
 | 8642 | 2026-08-26 05:04:24 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (130001⭐ Python) | [reels/reel_8642_Comfy-Org-ComfyUI](reels/reel_8642_Comfy-Org-ComfyUI) |
 | 8643 | 2026-08-26 05:49:35 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202441⭐ TypeScript) | [reels/reel_8643_n8n-io-n8n](reels/reel_8643_n8n-io-n8n) |
+| 8644 | 2026-08-26 06:43:03 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (130021⭐ Python) | [reels/reel_8644_Comfy-Org-ComfyUI](reels/reel_8644_Comfy-Org-ComfyUI) |
