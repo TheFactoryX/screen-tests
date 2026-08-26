@@ -1,0 +1,24 @@
+{
+  "reel_number": 8655,
+  "recorded": "2026-08-26 15:57:58 UTC",
+  "repository": {
+    "full_name": "adoptium/jdk",
+    "url": "https://github.com/adoptium/jdk",
+    "clone_url": "https://github.com/adoptium/jdk.git",
+    "stars": 230,
+    "language": "Java",
+    "size_kb": 1272326
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1242,
+    "duration_seconds": 0.000136
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 230 stars."
+  }
+}
