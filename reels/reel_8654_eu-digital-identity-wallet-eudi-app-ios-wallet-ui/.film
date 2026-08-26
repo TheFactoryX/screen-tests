@@ -1,0 +1,24 @@
+{
+  "reel_number": 8654,
+  "recorded": "2026-08-26 14:25:16 UTC",
+  "repository": {
+    "full_name": "eu-digital-identity-wallet/eudi-app-ios-wallet-ui",
+    "url": "https://github.com/eu-digital-identity-wallet/eudi-app-ios-wallet-ui",
+    "clone_url": "https://github.com/eu-digital-identity-wallet/eudi-app-ios-wallet-ui.git",
+    "stars": 87,
+    "language": "Swift",
+    "size_kb": 364262
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 355,
+    "duration_seconds": 0.91639
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 87 stars."
+  }
+}
