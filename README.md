@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8647 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 145k | 2026-08-26 |
+| #8648 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 202k | 2026-08-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8735,3 +8735,4 @@ If you need permission, you're thinking too much.
 | 8645 | 2026-08-26 07:32:38 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (243285⭐ JavaScript) | [reels/reel_8645_affaan-m-ECC](reels/reel_8645_affaan-m-ECC) |
 | 8646 | 2026-08-26 08:23:35 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136735⭐ TypeScript) | [reels/reel_8646_iptv-org-iptv](reels/reel_8646_iptv-org-iptv) |
 | 8647 | 2026-08-26 09:10:23 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145027⭐ Python) | [reels/reel_8647_langchain-ai-langchain](reels/reel_8647_langchain-ai-langchain) |
+| 8648 | 2026-08-26 09:56:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202467⭐ TypeScript) | [reels/reel_8648_n8n-io-n8n](reels/reel_8648_n8n-io-n8n) |
