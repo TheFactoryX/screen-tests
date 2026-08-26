@@ -1,0 +1,24 @@
+{
+  "reel_number": 8652,
+  "recorded": "2026-08-26 12:16:49 UTC",
+  "repository": {
+    "full_name": "l0ng-ai/tty7",
+    "url": "https://github.com/l0ng-ai/tty7",
+    "clone_url": "https://github.com/l0ng-ai/tty7.git",
+    "stars": 790,
+    "language": "Rust",
+    "size_kb": 18071
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 4.428622
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 790 stars."
+  }
+}
