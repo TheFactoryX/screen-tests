@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8658 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 280k | 2026-08-26 |
+| #8659 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 150k | 2026-08-27 |
 ---
 
 ## 🎭 Selection Process
@@ -8746,3 +8746,4 @@ If you need permission, you're thinking too much.
 | 8656 | 2026-08-26 16:50:43 | [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation) | ✅ full (178⭐ HTML) | [reels/reel_8656_ThePHPF-thephp.foundation](reels/reel_8656_ThePHPF-thephp.foundation) |
 | 8657 | 2026-08-26 18:57:55 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (187130⭐ Python) | [reels/reel_8657_yt-dlp-yt-dlp](reels/reel_8657_yt-dlp-yt-dlp) |
 | 8658 | 2026-08-26 21:42:53 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (280976⭐ Python) | [reels/reel_8658_practical-tutorials-project-based-learning](reels/reel_8658_practical-tutorials-project-based-learning) |
+| 8659 | 2026-08-27 02:10:59 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (150045⭐ Python) | [reels/reel_8659_open-webui-open-webui](reels/reel_8659_open-webui-open-webui) |
