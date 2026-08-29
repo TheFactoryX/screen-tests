@@ -1,0 +1,24 @@
+{
+  "reel_number": 8666,
+  "recorded": "2026-08-29 14:28:02 UTC",
+  "repository": {
+    "full_name": "intoli/user-agents",
+    "url": "https://github.com/intoli/user-agents",
+    "clone_url": "https://github.com/intoli/user-agents.git",
+    "stars": 1189,
+    "language": "TypeScript",
+    "size_kb": 680587
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "readme_only",
+    "size_mb": 664,
+    "duration_seconds": 0.000148
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 1189 stars."
+  }
+}
