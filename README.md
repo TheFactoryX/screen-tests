@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8668 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 281k | 2026-08-29 |
+| #8669 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 145k | 2026-08-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8756,3 +8756,4 @@ If you need permission, you're thinking too much.
 | 8666 | 2026-08-29 14:28:02 | [intoli/user-agents](https://github.com/intoli/user-agents) | ✅ readme_only (1189⭐ TypeScript) | [reels/reel_8666_intoli-user-agents](reels/reel_8666_intoli-user-agents) |
 | 8667 | 2026-08-29 17:49:45 | [qiskit-community/Quantum-Challenge-Grader](https://github.com/qiskit-community/Quantum-Challenge-Grader) | ✅ full (54⭐ Python) | [reels/reel_8667_qiskit-community-Quantum-Challenge-Grader](reels/reel_8667_qiskit-community-Quantum-Challenge-Grader) |
 | 8668 | 2026-08-29 20:24:06 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281272⭐ Python) | [reels/reel_8668_practical-tutorials-project-based-learning](reels/reel_8668_practical-tutorials-project-based-learning) |
+| 8669 | 2026-08-29 22:43:14 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145250⭐ Python) | [reels/reel_8669_langchain-ai-langchain](reels/reel_8669_langchain-ai-langchain) |
