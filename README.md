@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8666 | [intoli/user-agents](https://github.com/intoli/user-agents) | TypeScript · ⭐ 1k | 2026-08-29 |
+| #8667 | [qiskit-community/Quantum-Challenge-Grader](https://github.com/qiskit-community/Quantum-Challenge-Grader) | Python · ⭐ 54 | 2026-08-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8754,3 +8754,4 @@ If you need permission, you're thinking too much.
 | 8664 | 2026-08-29 02:14:22 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (150255⭐ Python) | [reels/reel_8664_open-webui-open-webui](reels/reel_8664_open-webui-open-webui) |
 | 8665 | 2026-08-29 09:06:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (136949⭐ TypeScript) | [reels/reel_8665_iptv-org-iptv](reels/reel_8665_iptv-org-iptv) |
 | 8666 | 2026-08-29 14:28:02 | [intoli/user-agents](https://github.com/intoli/user-agents) | ✅ readme_only (1189⭐ TypeScript) | [reels/reel_8666_intoli-user-agents](reels/reel_8666_intoli-user-agents) |
+| 8667 | 2026-08-29 17:49:45 | [qiskit-community/Quantum-Challenge-Grader](https://github.com/qiskit-community/Quantum-Challenge-Grader) | ✅ full (54⭐ Python) | [reels/reel_8667_qiskit-community-Quantum-Challenge-Grader](reels/reel_8667_qiskit-community-Quantum-Challenge-Grader) |
