@@ -1,0 +1,24 @@
+{
+  "reel_number": 8675,
+  "recorded": "2026-08-30 21:36:13 UTC",
+  "repository": {
+    "full_name": "EstebanPdN/zelda-tmc-3ds",
+    "url": "https://github.com/EstebanPdN/zelda-tmc-3ds",
+    "clone_url": "https://github.com/EstebanPdN/zelda-tmc-3ds.git",
+    "stars": 591,
+    "language": "C",
+    "size_kb": 31942
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 31,
+    "duration_seconds": 3.050475
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 591 stars."
+  }
+}

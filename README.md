@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8674 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 204k | 2026-08-30 |
+| #8675 | [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) | C · ⭐ 591 | 2026-08-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8762,3 +8762,4 @@ If you need permission, you're thinking too much.
 | 8672 | 2026-08-30 11:15:28 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (244465⭐ JavaScript) | [reels/reel_8672_affaan-m-ECC](reels/reel_8672_affaan-m-ECC) |
 | 8673 | 2026-08-30 15:24:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202852⭐ TypeScript) | [reels/reel_8673_n8n-io-n8n](reels/reel_8673_n8n-io-n8n) |
 | 8674 | 2026-08-30 18:42:46 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (204545⭐ TypeScript) | [reels/reel_8674_deepseek-ai-deepseek-harness](reels/reel_8674_deepseek-ai-deepseek-harness) |
+| 8675 | 2026-08-30 21:36:13 | [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) | ✅ full (591⭐ C) | [reels/reel_8675_EstebanPdN-zelda-tmc-3ds](reels/reel_8675_EstebanPdN-zelda-tmc-3ds) |
