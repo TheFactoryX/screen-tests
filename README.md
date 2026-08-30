@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8675 | [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) | C · ⭐ 591 | 2026-08-30 |
+| #8676 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 145k | 2026-08-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8763,3 +8763,4 @@ If you need permission, you're thinking too much.
 | 8673 | 2026-08-30 15:24:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202852⭐ TypeScript) | [reels/reel_8673_n8n-io-n8n](reels/reel_8673_n8n-io-n8n) |
 | 8674 | 2026-08-30 18:42:46 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (204545⭐ TypeScript) | [reels/reel_8674_deepseek-ai-deepseek-harness](reels/reel_8674_deepseek-ai-deepseek-harness) |
 | 8675 | 2026-08-30 21:36:13 | [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) | ✅ full (591⭐ C) | [reels/reel_8675_EstebanPdN-zelda-tmc-3ds](reels/reel_8675_EstebanPdN-zelda-tmc-3ds) |
+| 8676 | 2026-08-30 23:53:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145297⭐ Python) | [reels/reel_8676_langchain-ai-langchain](reels/reel_8676_langchain-ai-langchain) |
