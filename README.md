@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8670 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 316k | 2026-08-30 |
+| #8671 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 186k | 2026-08-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8758,3 +8758,4 @@ If you need permission, you're thinking too much.
 | 8668 | 2026-08-29 20:24:06 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281272⭐ Python) | [reels/reel_8668_practical-tutorials-project-based-learning](reels/reel_8668_practical-tutorials-project-based-learning) |
 | 8669 | 2026-08-29 22:43:14 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145250⭐ Python) | [reels/reel_8669_langchain-ai-langchain](reels/reel_8669_langchain-ai-langchain) |
 | 8670 | 2026-08-30 00:44:55 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (316008⭐ None) | [reels/reel_8670_awesome-selfhosted-awesome-selfhosted](reels/reel_8670_awesome-selfhosted-awesome-selfhosted) |
+| 8671 | 2026-08-30 05:53:44 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (186994⭐ Python) | [reels/reel_8671_Significant-Gravitas-AutoGPT](reels/reel_8671_Significant-Gravitas-AutoGPT) |
