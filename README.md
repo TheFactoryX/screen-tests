@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8676 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 145k | 2026-08-30 |
+| #8677 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 126k | 2026-08-31 |
 ---
 
 ## 🎭 Selection Process
@@ -8764,3 +8764,4 @@ If you need permission, you're thinking too much.
 | 8674 | 2026-08-30 18:42:46 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (204545⭐ TypeScript) | [reels/reel_8674_deepseek-ai-deepseek-harness](reels/reel_8674_deepseek-ai-deepseek-harness) |
 | 8675 | 2026-08-30 21:36:13 | [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) | ✅ full (591⭐ C) | [reels/reel_8675_EstebanPdN-zelda-tmc-3ds](reels/reel_8675_EstebanPdN-zelda-tmc-3ds) |
 | 8676 | 2026-08-30 23:53:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145297⭐ Python) | [reels/reel_8676_langchain-ai-langchain](reels/reel_8676_langchain-ai-langchain) |
+| 8677 | 2026-08-31 03:38:35 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (126416⭐ C++) | [reels/reel_8677_ggml-org-llama.cpp](reels/reel_8677_ggml-org-llama.cpp) |
