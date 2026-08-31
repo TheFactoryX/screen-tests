@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8678 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 202k | 2026-08-31 |
+| #8679 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 281k | 2026-08-31 |
 ---
 
 ## 🎭 Selection Process
@@ -8766,3 +8766,4 @@ If you need permission, you're thinking too much.
 | 8676 | 2026-08-30 23:53:38 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145297⭐ Python) | [reels/reel_8676_langchain-ai-langchain](reels/reel_8676_langchain-ai-langchain) |
 | 8677 | 2026-08-31 03:38:35 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (126416⭐ C++) | [reels/reel_8677_ggml-org-llama.cpp](reels/reel_8677_ggml-org-llama.cpp) |
 | 8678 | 2026-08-31 10:05:22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (202935⭐ TypeScript) | [reels/reel_8678_n8n-io-n8n](reels/reel_8678_n8n-io-n8n) |
+| 8679 | 2026-08-31 17:36:58 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281516⭐ Python) | [reels/reel_8679_practical-tutorials-project-based-learning](reels/reel_8679_practical-tutorials-project-based-learning) |
