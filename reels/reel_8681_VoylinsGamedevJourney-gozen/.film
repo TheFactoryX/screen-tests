@@ -1,0 +1,24 @@
+{
+  "reel_number": 8681,
+  "recorded": "2026-09-01 01:17:36 UTC",
+  "repository": {
+    "full_name": "VoylinsGamedevJourney/gozen",
+    "url": "https://github.com/VoylinsGamedevJourney/gozen",
+    "clone_url": "https://github.com/VoylinsGamedevJourney/gozen.git",
+    "stars": 423,
+    "language": "GDScript",
+    "size_kb": 19173
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 1.035852
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "GDScript",
+    "director_note": "A GDScript repository. 423 stars."
+  }
+}
