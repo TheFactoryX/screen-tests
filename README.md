@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8681 | [VoylinsGamedevJourney/gozen](https://github.com/VoylinsGamedevJourney/gozen) | GDScript · ⭐ 423 | 2026-09-01 |
+| #8682 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 154k | 2026-09-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8769,3 +8769,4 @@ If you need permission, you're thinking too much.
 | 8679 | 2026-08-31 17:36:58 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281516⭐ Python) | [reels/reel_8679_practical-tutorials-project-based-learning](reels/reel_8679_practical-tutorials-project-based-learning) |
 | 8680 | 2026-08-31 22:02:39 | [kooker/FreeSubsCheck](https://github.com/kooker/FreeSubsCheck) | ✅ full (307⭐ None) | [reels/reel_8680_kooker-FreeSubsCheck](reels/reel_8680_kooker-FreeSubsCheck) |
 | 8681 | 2026-09-01 01:17:36 | [VoylinsGamedevJourney/gozen](https://github.com/VoylinsGamedevJourney/gozen) | ✅ full (423⭐ GDScript) | [reels/reel_8681_VoylinsGamedevJourney-gozen](reels/reel_8681_VoylinsGamedevJourney-gozen) |
+| 8682 | 2026-09-01 06:31:55 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154004⭐ Python) | [reels/reel_8682_langflow-ai-langflow](reels/reel_8682_langflow-ai-langflow) |
