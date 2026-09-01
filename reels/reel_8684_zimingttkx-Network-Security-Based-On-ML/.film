@@ -1,0 +1,24 @@
+{
+  "reel_number": 8684,
+  "recorded": "2026-09-01 16:39:11 UTC",
+  "repository": {
+    "full_name": "zimingttkx/Network-Security-Based-On-ML",
+    "url": "https://github.com/zimingttkx/Network-Security-Based-On-ML",
+    "clone_url": "https://github.com/zimingttkx/Network-Security-Based-On-ML.git",
+    "stars": 223,
+    "language": "Python",
+    "size_kb": 16211
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 1.876771
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 223 stars."
+  }
+}
