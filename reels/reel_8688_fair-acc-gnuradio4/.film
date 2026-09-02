@@ -1,0 +1,24 @@
+{
+  "reel_number": 8688,
+  "recorded": "2026-09-02 04:38:47 UTC",
+  "repository": {
+    "full_name": "fair-acc/gnuradio4",
+    "url": "https://github.com/fair-acc/gnuradio4",
+    "clone_url": "https://github.com/fair-acc/gnuradio4.git",
+    "stars": 114,
+    "language": "C++",
+    "size_kb": 10984
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 4.327826
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 114 stars."
+  }
+}
