@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8692 | [Kazade/simulant-engine](https://github.com/Kazade/simulant-engine) | C++ · ⭐ 88 | 2026-09-02 |
+| #8693 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript · ⭐ 121k | 2026-09-02 |
 ---
 
 ## 🎭 Selection Process
@@ -8780,3 +8780,4 @@ If you need permission, you're thinking too much.
 | 8690 | 2026-09-02 13:39:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (316674⭐ None) | [reels/reel_8690_awesome-selfhosted-awesome-selfhosted](reels/reel_8690_awesome-selfhosted-awesome-selfhosted) |
 | 8691 | 2026-09-02 17:22:51 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ✅ full (113505⭐ None) | [reels/reel_8691_VoltAgent-awesome-design-md](reels/reel_8691_VoltAgent-awesome-design-md) |
 | 8692 | 2026-09-02 19:59:23 | [Kazade/simulant-engine](https://github.com/Kazade/simulant-engine) | ✅ shallow (88⭐ C++) | [reels/reel_8692_Kazade-simulant-engine](reels/reel_8692_Kazade-simulant-engine) |
+| 8693 | 2026-09-02 22:31:13 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ✅ full (121377⭐ JavaScript) | [reels/reel_8693_DietrichGebert-ponytail](reels/reel_8693_DietrichGebert-ponytail) |
