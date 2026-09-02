@@ -1,0 +1,24 @@
+{
+  "reel_number": 8689,
+  "recorded": "2026-09-02 09:03:25 UTC",
+  "repository": {
+    "full_name": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "clone_url": "https://github.com/practical-tutorials/project-based-learning.git",
+    "stars": 281766,
+    "language": "Python",
+    "size_kb": 469
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.647197
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 281766 stars."
+  }
+}
