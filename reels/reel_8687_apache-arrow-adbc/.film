@@ -1,0 +1,24 @@
+{
+  "reel_number": 8687,
+  "recorded": "2026-09-02 00:13:24 UTC",
+  "repository": {
+    "full_name": "apache/arrow-adbc",
+    "url": "https://github.com/apache/arrow-adbc",
+    "clone_url": "https://github.com/apache/arrow-adbc.git",
+    "stars": 625,
+    "language": "C#",
+    "size_kb": 80999
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 79,
+    "duration_seconds": 6.975819
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 625 stars."
+  }
+}

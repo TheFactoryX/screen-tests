@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8686 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 203k | 2026-09-01 |
+| #8687 | [apache/arrow-adbc](https://github.com/apache/arrow-adbc) | C# · ⭐ 625 | 2026-09-02 |
 ---
 
 ## 🎭 Selection Process
@@ -8774,3 +8774,4 @@ If you need permission, you're thinking too much.
 | 8684 | 2026-09-01 16:39:11 | [zimingttkx/Network-Security-Based-On-ML](https://github.com/zimingttkx/Network-Security-Based-On-ML) | ✅ full (223⭐ Python) | [reels/reel_8684_zimingttkx-Network-Security-Based-On-ML](reels/reel_8684_zimingttkx-Network-Security-Based-On-ML) |
 | 8685 | 2026-09-01 19:36:16 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281696⭐ Python) | [reels/reel_8685_practical-tutorials-project-based-learning](reels/reel_8685_practical-tutorials-project-based-learning) |
 | 8686 | 2026-09-01 22:03:19 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (203056⭐ TypeScript) | [reels/reel_8686_n8n-io-n8n](reels/reel_8686_n8n-io-n8n) |
+| 8687 | 2026-09-02 00:13:24 | [apache/arrow-adbc](https://github.com/apache/arrow-adbc) | ✅ full (625⭐ C#) | [reels/reel_8687_apache-arrow-adbc](reels/reel_8687_apache-arrow-adbc) |
