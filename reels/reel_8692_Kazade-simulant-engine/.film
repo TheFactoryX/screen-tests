@@ -1,0 +1,24 @@
+{
+  "reel_number": 8692,
+  "recorded": "2026-09-02 19:59:23 UTC",
+  "repository": {
+    "full_name": "Kazade/simulant-engine",
+    "url": "https://github.com/Kazade/simulant-engine",
+    "clone_url": "https://github.com/Kazade/simulant-engine.git",
+    "stars": 88,
+    "language": "C++",
+    "size_kb": 303154
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 296,
+    "duration_seconds": 4.747354
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 88 stars."
+  }
+}
