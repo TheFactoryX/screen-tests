@@ -1,0 +1,24 @@
+{
+  "reel_number": 8691,
+  "recorded": "2026-09-02 17:22:51 UTC",
+  "repository": {
+    "full_name": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "clone_url": "https://github.com/VoltAgent/awesome-design-md.git",
+    "stars": 113505,
+    "language": null,
+    "size_kb": 2197
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 2,
+    "duration_seconds": 1.509152
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 113505 stars."
+  }
+}
