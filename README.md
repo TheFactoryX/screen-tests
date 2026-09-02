@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8689 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 281k | 2026-09-02 |
+| #8690 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 316k | 2026-09-02 |
 ---
 
 ## 🎭 Selection Process
@@ -8777,3 +8777,4 @@ If you need permission, you're thinking too much.
 | 8687 | 2026-09-02 00:13:24 | [apache/arrow-adbc](https://github.com/apache/arrow-adbc) | ✅ full (625⭐ C#) | [reels/reel_8687_apache-arrow-adbc](reels/reel_8687_apache-arrow-adbc) |
 | 8688 | 2026-09-02 04:38:47 | [fair-acc/gnuradio4](https://github.com/fair-acc/gnuradio4) | ✅ full (114⭐ C++) | [reels/reel_8688_fair-acc-gnuradio4](reels/reel_8688_fair-acc-gnuradio4) |
 | 8689 | 2026-09-02 09:03:25 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281766⭐ Python) | [reels/reel_8689_practical-tutorials-project-based-learning](reels/reel_8689_practical-tutorials-project-based-learning) |
+| 8690 | 2026-09-02 13:39:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (316674⭐ None) | [reels/reel_8690_awesome-selfhosted-awesome-selfhosted](reels/reel_8690_awesome-selfhosted-awesome-selfhosted) |
