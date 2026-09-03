@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8694 | [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) | Python · ⭐ 198 | 2026-09-03 |
+| #8695 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 474k | 2026-09-03 |
 ---
 
 ## 🎭 Selection Process
@@ -8782,3 +8782,4 @@ If you need permission, you're thinking too much.
 | 8692 | 2026-09-02 19:59:23 | [Kazade/simulant-engine](https://github.com/Kazade/simulant-engine) | ✅ shallow (88⭐ C++) | [reels/reel_8692_Kazade-simulant-engine](reels/reel_8692_Kazade-simulant-engine) |
 | 8693 | 2026-09-02 22:31:13 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ✅ full (121377⭐ JavaScript) | [reels/reel_8693_DietrichGebert-ponytail](reels/reel_8693_DietrichGebert-ponytail) |
 | 8694 | 2026-09-03 00:40:50 | [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) | ✅ full (198⭐ Python) | [reels/reel_8694_guaardvark-guaardvark](reels/reel_8694_guaardvark-guaardvark) |
+| 8695 | 2026-09-03 05:05:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (474687⭐ Python) | [reels/reel_8695_public-apis-public-apis](reels/reel_8695_public-apis-public-apis) |
