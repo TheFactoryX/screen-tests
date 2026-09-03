@@ -1,0 +1,24 @@
+{
+  "reel_number": 8694,
+  "recorded": "2026-09-03 00:40:50 UTC",
+  "repository": {
+    "full_name": "guaardvark/guaardvark",
+    "url": "https://github.com/guaardvark/guaardvark",
+    "clone_url": "https://github.com/guaardvark/guaardvark.git",
+    "stars": 198,
+    "language": "Python",
+    "size_kb": 93871
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 91,
+    "duration_seconds": 3.89891
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 198 stars."
+  }
+}
