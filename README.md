@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8695 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 474k | 2026-09-03 |
+| #8696 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 281k | 2026-09-03 |
 ---
 
 ## 🎭 Selection Process
@@ -8783,3 +8783,4 @@ If you need permission, you're thinking too much.
 | 8693 | 2026-09-02 22:31:13 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ✅ full (121377⭐ JavaScript) | [reels/reel_8693_DietrichGebert-ponytail](reels/reel_8693_DietrichGebert-ponytail) |
 | 8694 | 2026-09-03 00:40:50 | [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) | ✅ full (198⭐ Python) | [reels/reel_8694_guaardvark-guaardvark](reels/reel_8694_guaardvark-guaardvark) |
 | 8695 | 2026-09-03 05:05:05 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (474687⭐ Python) | [reels/reel_8695_public-apis-public-apis](reels/reel_8695_public-apis-public-apis) |
+| 8696 | 2026-09-03 09:48:47 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281902⭐ Python) | [reels/reel_8696_practical-tutorials-project-based-learning](reels/reel_8696_practical-tutorials-project-based-learning) |
