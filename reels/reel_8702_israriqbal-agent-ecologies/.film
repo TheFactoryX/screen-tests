@@ -1,0 +1,24 @@
+{
+  "reel_number": 8702,
+  "recorded": "2026-09-04 05:29:22 UTC",
+  "repository": {
+    "full_name": "israriqbal/agent-ecologies",
+    "url": "https://github.com/israriqbal/agent-ecologies",
+    "clone_url": "https://github.com/israriqbal/agent-ecologies.git",
+    "stars": 120,
+    "language": "HTML",
+    "size_kb": 1482
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.402749
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 120 stars."
+  }
+}

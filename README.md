@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8701 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 150k | 2026-09-04 |
+| #8702 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | HTML · ⭐ 120 | 2026-09-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8789,3 +8789,4 @@ If you need permission, you're thinking too much.
 | 8699 | 2026-09-03 20:29:40 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281973⭐ Python) | [reels/reel_8699_practical-tutorials-project-based-learning](reels/reel_8699_practical-tutorials-project-based-learning) |
 | 8700 | 2026-09-03 22:45:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145593⭐ Python) | [reels/reel_8700_langchain-ai-langchain](reels/reel_8700_langchain-ai-langchain) |
 | 8701 | 2026-09-04 00:45:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (150844⭐ Python) | [reels/reel_8701_open-webui-open-webui](reels/reel_8701_open-webui-open-webui) |
+| 8702 | 2026-09-04 05:29:22 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | ✅ full (120⭐ HTML) | [reels/reel_8702_israriqbal-agent-ecologies](reels/reel_8702_israriqbal-agent-ecologies) |
