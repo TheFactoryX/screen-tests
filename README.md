@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8700 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 145k | 2026-09-03 |
+| #8701 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 150k | 2026-09-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8788,3 +8788,4 @@ If you need permission, you're thinking too much.
 | 8698 | 2026-09-03 17:51:02 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (141968⭐ TypeScript) | [reels/reel_8698_clash-verge-rev-clash-verge-rev](reels/reel_8698_clash-verge-rev-clash-verge-rev) |
 | 8699 | 2026-09-03 20:29:40 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (281973⭐ Python) | [reels/reel_8699_practical-tutorials-project-based-learning](reels/reel_8699_practical-tutorials-project-based-learning) |
 | 8700 | 2026-09-03 22:45:47 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145593⭐ Python) | [reels/reel_8700_langchain-ai-langchain](reels/reel_8700_langchain-ai-langchain) |
+| 8701 | 2026-09-04 00:45:37 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (150844⭐ Python) | [reels/reel_8701_open-webui-open-webui](reels/reel_8701_open-webui-open-webui) |
