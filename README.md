@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8706 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 317k | 2026-09-04 |
+| #8707 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 203k | 2026-09-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8794,3 +8794,4 @@ If you need permission, you're thinking too much.
 | 8704 | 2026-09-04 13:59:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (122999⭐ TypeScript) | [reels/reel_8704_shadcn-ui-ui](reels/reel_8704_shadcn-ui-ui) |
 | 8705 | 2026-09-04 17:32:50 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (317127⭐ None) | [reels/reel_8705_awesome-selfhosted-awesome-selfhosted](reels/reel_8705_awesome-selfhosted-awesome-selfhosted) |
 | 8706 | 2026-09-04 19:51:57 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (317149⭐ None) | [reels/reel_8706_awesome-selfhosted-awesome-selfhosted](reels/reel_8706_awesome-selfhosted-awesome-selfhosted) |
+| 8707 | 2026-09-04 22:05:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (203364⭐ TypeScript) | [reels/reel_8707_n8n-io-n8n](reels/reel_8707_n8n-io-n8n) |
