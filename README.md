@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8704 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 122k | 2026-09-04 |
+| #8705 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 317k | 2026-09-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8792,3 +8792,4 @@ If you need permission, you're thinking too much.
 | 8702 | 2026-09-04 05:29:22 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | ✅ full (120⭐ HTML) | [reels/reel_8702_israriqbal-agent-ecologies](reels/reel_8702_israriqbal-agent-ecologies) |
 | 8703 | 2026-09-04 09:53:05 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (247649⭐ JavaScript) | [reels/reel_8703_affaan-m-ECC](reels/reel_8703_affaan-m-ECC) |
 | 8704 | 2026-09-04 13:59:38 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (122999⭐ TypeScript) | [reels/reel_8704_shadcn-ui-ui](reels/reel_8704_shadcn-ui-ui) |
+| 8705 | 2026-09-04 17:32:50 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (317127⭐ None) | [reels/reel_8705_awesome-selfhosted-awesome-selfhosted](reels/reel_8705_awesome-selfhosted-awesome-selfhosted) |
