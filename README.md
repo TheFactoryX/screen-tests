@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8712 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | Python · ⭐ 560 | 2026-09-05 |
+| #8713 | [stella/stella](https://github.com/stella/stella) | TypeScript · ⭐ 235 | 2026-09-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8800,3 +8800,4 @@ If you need permission, you're thinking too much.
 | 8710 | 2026-09-05 08:29:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (117454⭐ Rust) | [reels/reel_8710_rust-lang-rust](reels/reel_8710_rust-lang-rust) |
 | 8711 | 2026-09-05 11:59:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (150999⭐ Python) | [reels/reel_8711_open-webui-open-webui](reels/reel_8711_open-webui-open-webui) |
 | 8712 | 2026-09-05 15:02:02 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | ✅ full (560⭐ Python) | [reels/reel_8712_aiworkskills-wechat-article-skills](reels/reel_8712_aiworkskills-wechat-article-skills) |
+| 8713 | 2026-09-05 17:20:22 | [stella/stella](https://github.com/stella/stella) | ✅ shallow (235⭐ TypeScript) | [reels/reel_8713_stella-stella](reels/reel_8713_stella-stella) |
