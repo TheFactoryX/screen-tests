@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8714 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 203k | 2026-09-05 |
+| #8715 | [RetGal/Dayon](https://github.com/RetGal/Dayon) | Java · ⭐ 172 | 2026-09-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8802,3 +8802,4 @@ If you need permission, you're thinking too much.
 | 8712 | 2026-09-05 15:02:02 | [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | ✅ full (560⭐ Python) | [reels/reel_8712_aiworkskills-wechat-article-skills](reels/reel_8712_aiworkskills-wechat-article-skills) |
 | 8713 | 2026-09-05 17:20:22 | [stella/stella](https://github.com/stella/stella) | ✅ shallow (235⭐ TypeScript) | [reels/reel_8713_stella-stella](reels/reel_8713_stella-stella) |
 | 8714 | 2026-09-05 19:14:02 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (203455⭐ TypeScript) | [reels/reel_8714_n8n-io-n8n](reels/reel_8714_n8n-io-n8n) |
+| 8715 | 2026-09-05 21:17:49 | [RetGal/Dayon](https://github.com/RetGal/Dayon) | ✅ shallow (172⭐ Java) | [reels/reel_8715_RetGal-Dayon](reels/reel_8715_RetGal-Dayon) |

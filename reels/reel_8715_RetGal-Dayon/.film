@@ -1,0 +1,24 @@
+{
+  "reel_number": 8715,
+  "recorded": "2026-09-05 21:17:49 UTC",
+  "repository": {
+    "full_name": "RetGal/Dayon",
+    "url": "https://github.com/RetGal/Dayon",
+    "clone_url": "https://github.com/RetGal/Dayon.git",
+    "stars": 172,
+    "language": "Java",
+    "size_kb": 271024
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 264,
+    "duration_seconds": 10.496014
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 172 stars."
+  }
+}
