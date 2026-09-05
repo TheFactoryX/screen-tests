@@ -1,0 +1,24 @@
+{
+  "reel_number": 8709,
+  "recorded": "2026-09-05 04:27:11 UTC",
+  "repository": {
+    "full_name": "terror/val",
+    "url": "https://github.com/terror/val",
+    "clone_url": "https://github.com/terror/val.git",
+    "stars": 105,
+    "language": "Rust",
+    "size_kb": 8798
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.203369
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 105 stars."
+  }
+}
