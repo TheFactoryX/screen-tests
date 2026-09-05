@@ -1,0 +1,24 @@
+{
+  "reel_number": 8712,
+  "recorded": "2026-09-05 15:02:02 UTC",
+  "repository": {
+    "full_name": "aiworkskills/wechat-article-skills",
+    "url": "https://github.com/aiworkskills/wechat-article-skills",
+    "clone_url": "https://github.com/aiworkskills/wechat-article-skills.git",
+    "stars": 560,
+    "language": "Python",
+    "size_kb": 527
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.490833
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 560 stars."
+  }
+}
