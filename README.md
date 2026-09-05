@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8710 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 117k | 2026-09-05 |
+| #8711 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 150k | 2026-09-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8798,3 +8798,4 @@ If you need permission, you're thinking too much.
 | 8708 | 2026-09-05 00:05:10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (188971⭐ Python) | [reels/reel_8708_yt-dlp-yt-dlp](reels/reel_8708_yt-dlp-yt-dlp) |
 | 8709 | 2026-09-05 04:27:11 | [terror/val](https://github.com/terror/val) | ✅ full (105⭐ Rust) | [reels/reel_8709_terror-val](reels/reel_8709_terror-val) |
 | 8710 | 2026-09-05 08:29:59 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (117454⭐ Rust) | [reels/reel_8710_rust-lang-rust](reels/reel_8710_rust-lang-rust) |
+| 8711 | 2026-09-05 11:59:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (150999⭐ Python) | [reels/reel_8711_open-webui-open-webui](reels/reel_8711_open-webui-open-webui) |
