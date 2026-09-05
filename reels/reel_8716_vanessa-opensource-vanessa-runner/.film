@@ -1,0 +1,24 @@
+{
+  "reel_number": 8716,
+  "recorded": "2026-09-05 23:05:45 UTC",
+  "repository": {
+    "full_name": "vanessa-opensource/vanessa-runner",
+    "url": "https://github.com/vanessa-opensource/vanessa-runner",
+    "clone_url": "https://github.com/vanessa-opensource/vanessa-runner.git",
+    "stars": 265,
+    "language": "1C Enterprise",
+    "size_kb": 8424
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.238514
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "1C Enterprise",
+    "director_note": "A 1C Enterprise repository. 265 stars."
+  }
+}
