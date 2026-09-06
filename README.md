@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8717 | [BlakeBr0/MysticalAgriculture](https://github.com/BlakeBr0/MysticalAgriculture) | Java · ⭐ 174 | 2026-09-06 |
+| #8718 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 137k | 2026-09-06 |
 ---
 
 ## 🎭 Selection Process
@@ -8805,3 +8805,4 @@ If you need permission, you're thinking too much.
 | 8715 | 2026-09-05 21:17:49 | [RetGal/Dayon](https://github.com/RetGal/Dayon) | ✅ shallow (172⭐ Java) | [reels/reel_8715_RetGal-Dayon](reels/reel_8715_RetGal-Dayon) |
 | 8716 | 2026-09-05 23:05:45 | [vanessa-opensource/vanessa-runner](https://github.com/vanessa-opensource/vanessa-runner) | ✅ full (265⭐ 1C Enterprise) | [reels/reel_8716_vanessa-opensource-vanessa-runner](reels/reel_8716_vanessa-opensource-vanessa-runner) |
 | 8717 | 2026-09-06 00:56:32 | [BlakeBr0/MysticalAgriculture](https://github.com/BlakeBr0/MysticalAgriculture) | ✅ full (174⭐ Java) | [reels/reel_8717_BlakeBr0-MysticalAgriculture](reels/reel_8717_BlakeBr0-MysticalAgriculture) |
+| 8718 | 2026-09-06 05:35:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (137753⭐ TypeScript) | [reels/reel_8718_iptv-org-iptv](reels/reel_8718_iptv-org-iptv) |
