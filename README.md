@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8720 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 203k | 2026-09-06 |
+| #8721 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 317k | 2026-09-06 |
 ---
 
 ## 🎭 Selection Process
@@ -8808,3 +8808,4 @@ If you need permission, you're thinking too much.
 | 8718 | 2026-09-06 05:35:52 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (137753⭐ TypeScript) | [reels/reel_8718_iptv-org-iptv](reels/reel_8718_iptv-org-iptv) |
 | 8719 | 2026-09-06 09:39:46 | [Cyber-Threat-Hunting-Playground/ConvertSigmaRepo2SentinelOnePQ](https://github.com/Cyber-Threat-Hunting-Playground/ConvertSigmaRepo2SentinelOnePQ) | ✅ shallow (13⭐ Python) | [reels/reel_8719_Cyber-Threat-Hunting-Playground-ConvertSigmaRepo2SentinelOnePQ](reels/reel_8719_Cyber-Threat-Hunting-Playground-ConvertSigmaRepo2SentinelOnePQ) |
 | 8720 | 2026-09-06 13:07:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (203515⭐ TypeScript) | [reels/reel_8720_n8n-io-n8n](reels/reel_8720_n8n-io-n8n) |
+| 8721 | 2026-09-06 16:16:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (317477⭐ None) | [reels/reel_8721_awesome-selfhosted-awesome-selfhosted](reels/reel_8721_awesome-selfhosted-awesome-selfhosted) |
