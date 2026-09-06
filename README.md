@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8723 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 145k | 2026-09-06 |
+| #8724 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 131k | 2026-09-06 |
 ---
 
 ## 🎭 Selection Process
@@ -8811,3 +8811,4 @@ If you need permission, you're thinking too much.
 | 8721 | 2026-09-06 16:16:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (317477⭐ None) | [reels/reel_8721_awesome-selfhosted-awesome-selfhosted](reels/reel_8721_awesome-selfhosted-awesome-selfhosted) |
 | 8722 | 2026-09-06 18:30:40 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (142616⭐ TypeScript) | [reels/reel_8722_clash-verge-rev-clash-verge-rev](reels/reel_8722_clash-verge-rev-clash-verge-rev) |
 | 8723 | 2026-09-06 20:50:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145805⭐ Python) | [reels/reel_8723_langchain-ai-langchain](reels/reel_8723_langchain-ai-langchain) |
+| 8724 | 2026-09-06 22:40:50 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (131789⭐ Python) | [reels/reel_8724_Comfy-Org-ComfyUI](reels/reel_8724_Comfy-Org-ComfyUI) |
