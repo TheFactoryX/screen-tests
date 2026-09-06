@@ -1,0 +1,24 @@
+{
+  "reel_number": 8717,
+  "recorded": "2026-09-06 00:56:32 UTC",
+  "repository": {
+    "full_name": "BlakeBr0/MysticalAgriculture",
+    "url": "https://github.com/BlakeBr0/MysticalAgriculture",
+    "clone_url": "https://github.com/BlakeBr0/MysticalAgriculture.git",
+    "stars": 174,
+    "language": "Java",
+    "size_kb": 8464
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.493476
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 174 stars."
+  }
+}
