@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8722 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 142k | 2026-09-06 |
+| #8723 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 145k | 2026-09-06 |
 ---
 
 ## 🎭 Selection Process
@@ -8810,3 +8810,4 @@ If you need permission, you're thinking too much.
 | 8720 | 2026-09-06 13:07:53 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (203515⭐ TypeScript) | [reels/reel_8720_n8n-io-n8n](reels/reel_8720_n8n-io-n8n) |
 | 8721 | 2026-09-06 16:16:15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (317477⭐ None) | [reels/reel_8721_awesome-selfhosted-awesome-selfhosted](reels/reel_8721_awesome-selfhosted-awesome-selfhosted) |
 | 8722 | 2026-09-06 18:30:40 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (142616⭐ TypeScript) | [reels/reel_8722_clash-verge-rev-clash-verge-rev](reels/reel_8722_clash-verge-rev-clash-verge-rev) |
+| 8723 | 2026-09-06 20:50:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145805⭐ Python) | [reels/reel_8723_langchain-ai-langchain](reels/reel_8723_langchain-ai-langchain) |
