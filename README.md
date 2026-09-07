@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8726 | [Galeax/CVE2CAPEC](https://github.com/Galeax/CVE2CAPEC) | Python · ⭐ 315 | 2026-09-07 |
+| #8727 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | TypeScript · ⭐ 142k | 2026-09-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8814,3 +8814,4 @@ If you need permission, you're thinking too much.
 | 8724 | 2026-09-06 22:40:50 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (131789⭐ Python) | [reels/reel_8724_Comfy-Org-ComfyUI](reels/reel_8724_Comfy-Org-ComfyUI) |
 | 8725 | 2026-09-07 00:20:46 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (213992⭐ TypeScript) | [reels/reel_8725_deepseek-ai-deepseek-harness](reels/reel_8725_deepseek-ai-deepseek-harness) |
 | 8726 | 2026-09-07 05:01:07 | [Galeax/CVE2CAPEC](https://github.com/Galeax/CVE2CAPEC) | ✅ readme_only (315⭐ Python) | [reels/reel_8726_Galeax-CVE2CAPEC](reels/reel_8726_Galeax-CVE2CAPEC) |
+| 8727 | 2026-09-07 10:16:39 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (142781⭐ TypeScript) | [reels/reel_8727_clash-verge-rev-clash-verge-rev](reels/reel_8727_clash-verge-rev-clash-verge-rev) |
