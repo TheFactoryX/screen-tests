@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8725 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 213k | 2026-09-07 |
+| #8726 | [Galeax/CVE2CAPEC](https://github.com/Galeax/CVE2CAPEC) | Python · ⭐ 315 | 2026-09-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8813,3 +8813,4 @@ If you need permission, you're thinking too much.
 | 8723 | 2026-09-06 20:50:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145805⭐ Python) | [reels/reel_8723_langchain-ai-langchain](reels/reel_8723_langchain-ai-langchain) |
 | 8724 | 2026-09-06 22:40:50 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (131789⭐ Python) | [reels/reel_8724_Comfy-Org-ComfyUI](reels/reel_8724_Comfy-Org-ComfyUI) |
 | 8725 | 2026-09-07 00:20:46 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (213992⭐ TypeScript) | [reels/reel_8725_deepseek-ai-deepseek-harness](reels/reel_8725_deepseek-ai-deepseek-harness) |
+| 8726 | 2026-09-07 05:01:07 | [Galeax/CVE2CAPEC](https://github.com/Galeax/CVE2CAPEC) | ✅ readme_only (315⭐ Python) | [reels/reel_8726_Galeax-CVE2CAPEC](reels/reel_8726_Galeax-CVE2CAPEC) |

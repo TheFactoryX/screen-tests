@@ -1,0 +1,24 @@
+{
+  "reel_number": 8726,
+  "recorded": "2026-09-07 05:01:07 UTC",
+  "repository": {
+    "full_name": "Galeax/CVE2CAPEC",
+    "url": "https://github.com/Galeax/CVE2CAPEC",
+    "clone_url": "https://github.com/Galeax/CVE2CAPEC.git",
+    "stars": 315,
+    "language": "Python",
+    "size_kb": 10288544
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 10047,
+    "duration_seconds": 0.000168
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 315 stars."
+  }
+}
