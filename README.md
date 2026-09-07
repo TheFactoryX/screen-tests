@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8724 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 131k | 2026-09-06 |
+| #8725 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 213k | 2026-09-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8812,3 +8812,4 @@ If you need permission, you're thinking too much.
 | 8722 | 2026-09-06 18:30:40 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (142616⭐ TypeScript) | [reels/reel_8722_clash-verge-rev-clash-verge-rev](reels/reel_8722_clash-verge-rev-clash-verge-rev) |
 | 8723 | 2026-09-06 20:50:10 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (145805⭐ Python) | [reels/reel_8723_langchain-ai-langchain](reels/reel_8723_langchain-ai-langchain) |
 | 8724 | 2026-09-06 22:40:50 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (131789⭐ Python) | [reels/reel_8724_Comfy-Org-ComfyUI](reels/reel_8724_Comfy-Org-ComfyUI) |
+| 8725 | 2026-09-07 00:20:46 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (213992⭐ TypeScript) | [reels/reel_8725_deepseek-ai-deepseek-harness](reels/reel_8725_deepseek-ai-deepseek-harness) |
