@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8731 | [yojo-art/cherrypick](https://github.com/yojo-art/cherrypick) | TypeScript · ⭐ 20 | 2026-09-08 |
+| #8732 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 127k | 2026-09-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8819,3 +8819,4 @@ If you need permission, you're thinking too much.
 | 8729 | 2026-09-07 19:44:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187183⭐ Python) | [reels/reel_8729_Significant-Gravitas-AutoGPT](reels/reel_8729_Significant-Gravitas-AutoGPT) |
 | 8730 | 2026-09-07 22:16:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187186⭐ Python) | [reels/reel_8730_Significant-Gravitas-AutoGPT](reels/reel_8730_Significant-Gravitas-AutoGPT) |
 | 8731 | 2026-09-08 00:35:35 | [yojo-art/cherrypick](https://github.com/yojo-art/cherrypick) | ✅ shallow (20⭐ TypeScript) | [reels/reel_8731_yojo-art-cherrypick](reels/reel_8731_yojo-art-cherrypick) |
+| 8732 | 2026-09-08 05:15:09 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (127438⭐ C++) | [reels/reel_8732_ggml-org-llama.cpp](reels/reel_8732_ggml-org-llama.cpp) |
