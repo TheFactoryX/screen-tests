@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8735 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python · ⭐ 115k | 2026-09-08 |
+| #8736 | [cpesch/RouteConverter](https://github.com/cpesch/RouteConverter) | Java · ⭐ 164 | 2026-09-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8823,3 +8823,4 @@ If you need permission, you're thinking too much.
 | 8733 | 2026-09-08 09:46:53 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (282552⭐ Python) | [reels/reel_8733_practical-tutorials-project-based-learning](reels/reel_8733_practical-tutorials-project-based-learning) |
 | 8734 | 2026-09-08 14:07:48 | [DukeMehdi/FreeList-V2ray-Configs](https://github.com/DukeMehdi/FreeList-V2ray-Configs) | ✅ full (191⭐ None) | [reels/reel_8734_DukeMehdi-FreeList-V2ray-Configs](reels/reel_8734_DukeMehdi-FreeList-V2ray-Configs) |
 | 8735 | 2026-09-08 17:54:59 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (115984⭐ Python) | [reels/reel_8735_Graphify-Labs-graphify](reels/reel_8735_Graphify-Labs-graphify) |
+| 8736 | 2026-09-08 20:43:01 | [cpesch/RouteConverter](https://github.com/cpesch/RouteConverter) | ✅ shallow (164⭐ Java) | [reels/reel_8736_cpesch-RouteConverter](reels/reel_8736_cpesch-RouteConverter) |

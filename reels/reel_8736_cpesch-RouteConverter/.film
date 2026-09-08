@@ -1,0 +1,24 @@
+{
+  "reel_number": 8736,
+  "recorded": "2026-09-08 20:43:01 UTC",
+  "repository": {
+    "full_name": "cpesch/RouteConverter",
+    "url": "https://github.com/cpesch/RouteConverter",
+    "clone_url": "https://github.com/cpesch/RouteConverter.git",
+    "stars": 164,
+    "language": "Java",
+    "size_kb": 113533
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 110,
+    "duration_seconds": 1.117356
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 164 stars."
+  }
+}
