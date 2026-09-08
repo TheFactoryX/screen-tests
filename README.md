@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8730 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-09-07 |
+| #8731 | [yojo-art/cherrypick](https://github.com/yojo-art/cherrypick) | TypeScript · ⭐ 20 | 2026-09-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8818,3 +8818,4 @@ If you need permission, you're thinking too much.
 | 8728 | 2026-09-07 15:57:52 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (476866⭐ Python) | [reels/reel_8728_public-apis-public-apis](reels/reel_8728_public-apis-public-apis) |
 | 8729 | 2026-09-07 19:44:14 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187183⭐ Python) | [reels/reel_8729_Significant-Gravitas-AutoGPT](reels/reel_8729_Significant-Gravitas-AutoGPT) |
 | 8730 | 2026-09-07 22:16:35 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187186⭐ Python) | [reels/reel_8730_Significant-Gravitas-AutoGPT](reels/reel_8730_Significant-Gravitas-AutoGPT) |
+| 8731 | 2026-09-08 00:35:35 | [yojo-art/cherrypick](https://github.com/yojo-art/cherrypick) | ✅ shallow (20⭐ TypeScript) | [reels/reel_8731_yojo-art-cherrypick](reels/reel_8731_yojo-art-cherrypick) |
