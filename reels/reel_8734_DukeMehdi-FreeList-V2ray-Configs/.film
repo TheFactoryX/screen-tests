@@ -1,0 +1,24 @@
+{
+  "reel_number": 8734,
+  "recorded": "2026-09-08 14:07:48 UTC",
+  "repository": {
+    "full_name": "DukeMehdi/FreeList-V2ray-Configs",
+    "url": "https://github.com/DukeMehdi/FreeList-V2ray-Configs",
+    "clone_url": "https://github.com/DukeMehdi/FreeList-V2ray-Configs.git",
+    "stars": 191,
+    "language": null,
+    "size_kb": 1624
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 1.025621
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 191 stars."
+  }
+}
