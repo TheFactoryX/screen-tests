@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8736 | [cpesch/RouteConverter](https://github.com/cpesch/RouteConverter) | Java · ⭐ 164 | 2026-09-08 |
+| #8737 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 189k | 2026-09-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8824,3 +8824,4 @@ If you need permission, you're thinking too much.
 | 8734 | 2026-09-08 14:07:48 | [DukeMehdi/FreeList-V2ray-Configs](https://github.com/DukeMehdi/FreeList-V2ray-Configs) | ✅ full (191⭐ None) | [reels/reel_8734_DukeMehdi-FreeList-V2ray-Configs](reels/reel_8734_DukeMehdi-FreeList-V2ray-Configs) |
 | 8735 | 2026-09-08 17:54:59 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (115984⭐ Python) | [reels/reel_8735_Graphify-Labs-graphify](reels/reel_8735_Graphify-Labs-graphify) |
 | 8736 | 2026-09-08 20:43:01 | [cpesch/RouteConverter](https://github.com/cpesch/RouteConverter) | ✅ shallow (164⭐ Java) | [reels/reel_8736_cpesch-RouteConverter](reels/reel_8736_cpesch-RouteConverter) |
+| 8737 | 2026-09-08 22:59:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (189853⭐ Python) | [reels/reel_8737_yt-dlp-yt-dlp](reels/reel_8737_yt-dlp-yt-dlp) |
