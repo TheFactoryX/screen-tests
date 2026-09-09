@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8741 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-09-09 |
+| #8742 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 143k | 2026-09-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8829,3 +8829,4 @@ If you need permission, you're thinking too much.
 | 8739 | 2026-09-09 05:58:43 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132135⭐ Python) | [reels/reel_8739_Comfy-Org-ComfyUI](reels/reel_8739_Comfy-Org-ComfyUI) |
 | 8740 | 2026-09-09 11:08:09 | [gpanakkal/incremental-reading-obsidian](https://github.com/gpanakkal/incremental-reading-obsidian) | ✅ full (16⭐ TypeScript) | [reels/reel_8740_gpanakkal-incremental-reading-obsidian](reels/reel_8740_gpanakkal-incremental-reading-obsidian) |
 | 8741 | 2026-09-09 15:06:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187222⭐ Python) | [reels/reel_8741_Significant-Gravitas-AutoGPT](reels/reel_8741_Significant-Gravitas-AutoGPT) |
+| 8742 | 2026-09-09 18:36:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (143393⭐ Rust) | [reels/reel_8742_clash-verge-rev-clash-verge-rev](reels/reel_8742_clash-verge-rev-clash-verge-rev) |
