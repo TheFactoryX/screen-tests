@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8740 | [gpanakkal/incremental-reading-obsidian](https://github.com/gpanakkal/incremental-reading-obsidian) | TypeScript · ⭐ 16 | 2026-09-09 |
+| #8741 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-09-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8828,3 +8828,4 @@ If you need permission, you're thinking too much.
 | 8738 | 2026-09-09 01:10:28 | [datacoves/balboa](https://github.com/datacoves/balboa) | ✅ full (30⭐ Python) | [reels/reel_8738_datacoves-balboa](reels/reel_8738_datacoves-balboa) |
 | 8739 | 2026-09-09 05:58:43 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132135⭐ Python) | [reels/reel_8739_Comfy-Org-ComfyUI](reels/reel_8739_Comfy-Org-ComfyUI) |
 | 8740 | 2026-09-09 11:08:09 | [gpanakkal/incremental-reading-obsidian](https://github.com/gpanakkal/incremental-reading-obsidian) | ✅ full (16⭐ TypeScript) | [reels/reel_8740_gpanakkal-incremental-reading-obsidian](reels/reel_8740_gpanakkal-incremental-reading-obsidian) |
+| 8741 | 2026-09-09 15:06:22 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187222⭐ Python) | [reels/reel_8741_Significant-Gravitas-AutoGPT](reels/reel_8741_Significant-Gravitas-AutoGPT) |
