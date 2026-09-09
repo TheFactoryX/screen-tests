@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8738 | [datacoves/balboa](https://github.com/datacoves/balboa) | Python · ⭐ 30 | 2026-09-09 |
+| #8739 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 132k | 2026-09-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8826,3 +8826,4 @@ If you need permission, you're thinking too much.
 | 8736 | 2026-09-08 20:43:01 | [cpesch/RouteConverter](https://github.com/cpesch/RouteConverter) | ✅ shallow (164⭐ Java) | [reels/reel_8736_cpesch-RouteConverter](reels/reel_8736_cpesch-RouteConverter) |
 | 8737 | 2026-09-08 22:59:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (189853⭐ Python) | [reels/reel_8737_yt-dlp-yt-dlp](reels/reel_8737_yt-dlp-yt-dlp) |
 | 8738 | 2026-09-09 01:10:28 | [datacoves/balboa](https://github.com/datacoves/balboa) | ✅ full (30⭐ Python) | [reels/reel_8738_datacoves-balboa](reels/reel_8738_datacoves-balboa) |
+| 8739 | 2026-09-09 05:58:43 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132135⭐ Python) | [reels/reel_8739_Comfy-Org-ComfyUI](reels/reel_8739_Comfy-Org-ComfyUI) |
