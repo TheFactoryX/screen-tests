@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8739 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 132k | 2026-09-09 |
+| #8740 | [gpanakkal/incremental-reading-obsidian](https://github.com/gpanakkal/incremental-reading-obsidian) | TypeScript · ⭐ 16 | 2026-09-09 |
 ---
 
 ## 🎭 Selection Process
@@ -8827,3 +8827,4 @@ If you need permission, you're thinking too much.
 | 8737 | 2026-09-08 22:59:26 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (189853⭐ Python) | [reels/reel_8737_yt-dlp-yt-dlp](reels/reel_8737_yt-dlp-yt-dlp) |
 | 8738 | 2026-09-09 01:10:28 | [datacoves/balboa](https://github.com/datacoves/balboa) | ✅ full (30⭐ Python) | [reels/reel_8738_datacoves-balboa](reels/reel_8738_datacoves-balboa) |
 | 8739 | 2026-09-09 05:58:43 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132135⭐ Python) | [reels/reel_8739_Comfy-Org-ComfyUI](reels/reel_8739_Comfy-Org-ComfyUI) |
+| 8740 | 2026-09-09 11:08:09 | [gpanakkal/incremental-reading-obsidian](https://github.com/gpanakkal/incremental-reading-obsidian) | ✅ full (16⭐ TypeScript) | [reels/reel_8740_gpanakkal-incremental-reading-obsidian](reels/reel_8740_gpanakkal-incremental-reading-obsidian) |
