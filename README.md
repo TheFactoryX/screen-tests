@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8748 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 218k | 2026-09-10 |
+| #8749 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 203k | 2026-09-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8836,3 +8836,4 @@ If you need permission, you're thinking too much.
 | 8746 | 2026-09-10 06:20:06 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (255352⭐ JavaScript) | [reels/reel_8746_affaan-m-ECC](reels/reel_8746_affaan-m-ECC) |
 | 8747 | 2026-09-10 11:39:03 | [borgbase/vykar](https://github.com/borgbase/vykar) | ✅ full (698⭐ Rust) | [reels/reel_8747_borgbase-vykar](reels/reel_8747_borgbase-vykar) |
 | 8748 | 2026-09-10 15:09:29 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (218825⭐ TypeScript) | [reels/reel_8748_deepseek-ai-deepseek-harness](reels/reel_8748_deepseek-ai-deepseek-harness) |
+| 8749 | 2026-09-10 18:27:10 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (203934⭐ TypeScript) | [reels/reel_8749_n8n-io-n8n](reels/reel_8749_n8n-io-n8n) |
