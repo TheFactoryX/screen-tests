@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8746 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 255k | 2026-09-10 |
+| #8747 | [borgbase/vykar](https://github.com/borgbase/vykar) | Rust · ⭐ 698 | 2026-09-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8834,3 +8834,4 @@ If you need permission, you're thinking too much.
 | 8744 | 2026-09-09 23:15:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (138198⭐ TypeScript) | [reels/reel_8744_iptv-org-iptv](reels/reel_8744_iptv-org-iptv) |
 | 8745 | 2026-09-10 01:17:39 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (478138⭐ Python) | [reels/reel_8745_public-apis-public-apis](reels/reel_8745_public-apis-public-apis) |
 | 8746 | 2026-09-10 06:20:06 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (255352⭐ JavaScript) | [reels/reel_8746_affaan-m-ECC](reels/reel_8746_affaan-m-ECC) |
+| 8747 | 2026-09-10 11:39:03 | [borgbase/vykar](https://github.com/borgbase/vykar) | ✅ full (698⭐ Rust) | [reels/reel_8747_borgbase-vykar](reels/reel_8747_borgbase-vykar) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 8747,
+  "recorded": "2026-09-10 11:39:03 UTC",
+  "repository": {
+    "full_name": "borgbase/vykar",
+    "url": "https://github.com/borgbase/vykar",
+    "clone_url": "https://github.com/borgbase/vykar.git",
+    "stars": 698,
+    "language": "Rust",
+    "size_kb": 23572
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 1.529012
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 698 stars."
+  }
+}
