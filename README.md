@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8747 | [borgbase/vykar](https://github.com/borgbase/vykar) | Rust · ⭐ 698 | 2026-09-10 |
+| #8748 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 218k | 2026-09-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8835,3 +8835,4 @@ If you need permission, you're thinking too much.
 | 8745 | 2026-09-10 01:17:39 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (478138⭐ Python) | [reels/reel_8745_public-apis-public-apis](reels/reel_8745_public-apis-public-apis) |
 | 8746 | 2026-09-10 06:20:06 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (255352⭐ JavaScript) | [reels/reel_8746_affaan-m-ECC](reels/reel_8746_affaan-m-ECC) |
 | 8747 | 2026-09-10 11:39:03 | [borgbase/vykar](https://github.com/borgbase/vykar) | ✅ full (698⭐ Rust) | [reels/reel_8747_borgbase-vykar](reels/reel_8747_borgbase-vykar) |
+| 8748 | 2026-09-10 15:09:29 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (218825⭐ TypeScript) | [reels/reel_8748_deepseek-ai-deepseek-harness](reels/reel_8748_deepseek-ai-deepseek-harness) |
