@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8744 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 138k | 2026-09-09 |
+| #8745 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 478k | 2026-09-10 |
 ---
 
 ## 🎭 Selection Process
@@ -8832,3 +8832,4 @@ If you need permission, you're thinking too much.
 | 8742 | 2026-09-09 18:36:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (143393⭐ Rust) | [reels/reel_8742_clash-verge-rev-clash-verge-rev](reels/reel_8742_clash-verge-rev-clash-verge-rev) |
 | 8743 | 2026-09-09 21:11:56 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (217387⭐ TypeScript) | [reels/reel_8743_deepseek-ai-deepseek-harness](reels/reel_8743_deepseek-ai-deepseek-harness) |
 | 8744 | 2026-09-09 23:15:38 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (138198⭐ TypeScript) | [reels/reel_8744_iptv-org-iptv](reels/reel_8744_iptv-org-iptv) |
+| 8745 | 2026-09-10 01:17:39 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (478138⭐ Python) | [reels/reel_8745_public-apis-public-apis](reels/reel_8745_public-apis-public-apis) |
