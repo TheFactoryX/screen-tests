@@ -1,0 +1,24 @@
+{
+  "reel_number": 8758,
+  "recorded": "2026-09-11 23:10:17 UTC",
+  "repository": {
+    "full_name": "Kelsidavis/WoWee",
+    "url": "https://github.com/Kelsidavis/WoWee",
+    "clone_url": "https://github.com/Kelsidavis/WoWee.git",
+    "stars": 705,
+    "language": "C++",
+    "size_kb": 304663
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 297,
+    "duration_seconds": 4.114135
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 705 stars."
+  }
+}
