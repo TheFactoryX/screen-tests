@@ -1,0 +1,24 @@
+{
+  "reel_number": 8754,
+  "recorded": "2026-09-11 10:59:33 UTC",
+  "repository": {
+    "full_name": "JohyC/Hosts",
+    "url": "https://github.com/JohyC/Hosts",
+    "clone_url": "https://github.com/JohyC/Hosts.git",
+    "stars": 109,
+    "language": "Python",
+    "size_kb": 24732
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 24,
+    "duration_seconds": 2.554861
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 109 stars."
+  }
+}

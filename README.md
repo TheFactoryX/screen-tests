@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8753 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 478k | 2026-09-11 |
+| #8754 | [JohyC/Hosts](https://github.com/JohyC/Hosts) | Python · ⭐ 109 | 2026-09-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8841,3 +8841,4 @@ If you need permission, you're thinking too much.
 | 8751 | 2026-09-10 23:09:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (146088⭐ Python) | [reels/reel_8751_langchain-ai-langchain](reels/reel_8751_langchain-ai-langchain) |
 | 8752 | 2026-09-11 01:04:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (203958⭐ TypeScript) | [reels/reel_8752_n8n-io-n8n](reels/reel_8752_n8n-io-n8n) |
 | 8753 | 2026-09-11 05:58:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (478719⭐ Python) | [reels/reel_8753_public-apis-public-apis](reels/reel_8753_public-apis-public-apis) |
+| 8754 | 2026-09-11 10:59:33 | [JohyC/Hosts](https://github.com/JohyC/Hosts) | ✅ full (109⭐ Python) | [reels/reel_8754_JohyC-Hosts](reels/reel_8754_JohyC-Hosts) |
