@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8752 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 203k | 2026-09-11 |
+| #8753 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 478k | 2026-09-11 |
 ---
 
 ## 🎭 Selection Process
@@ -8840,3 +8840,4 @@ If you need permission, you're thinking too much.
 | 8750 | 2026-09-10 21:05:28 | [art-institute-of-chicago/artic.edu](https://github.com/art-institute-of-chicago/artic.edu) | ✅ full (32⭐ PHP) | [reels/reel_8750_art-institute-of-chicago-artic.edu](reels/reel_8750_art-institute-of-chicago-artic.edu) |
 | 8751 | 2026-09-10 23:09:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (146088⭐ Python) | [reels/reel_8751_langchain-ai-langchain](reels/reel_8751_langchain-ai-langchain) |
 | 8752 | 2026-09-11 01:04:26 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (203958⭐ TypeScript) | [reels/reel_8752_n8n-io-n8n](reels/reel_8752_n8n-io-n8n) |
+| 8753 | 2026-09-11 05:58:13 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (478719⭐ Python) | [reels/reel_8753_public-apis-public-apis](reels/reel_8753_public-apis-public-apis) |
