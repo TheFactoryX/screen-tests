@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8763 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 138k | 2026-09-12 |
+| #8764 | [crabbuild/crab](https://github.com/crabbuild/crab) | Rust · ⭐ 141 | 2026-09-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8851,3 +8851,4 @@ If you need permission, you're thinking too much.
 | 8761 | 2026-09-12 10:05:26 | [TauCetiProject/TauCeti](https://github.com/TauCetiProject/TauCeti) | ✅ full (190⭐ Lean) | [reels/reel_8761_TauCetiProject-TauCeti](reels/reel_8761_TauCetiProject-TauCeti) |
 | 8762 | 2026-09-12 13:36:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (318708⭐ None) | [reels/reel_8762_awesome-selfhosted-awesome-selfhosted](reels/reel_8762_awesome-selfhosted-awesome-selfhosted) |
 | 8763 | 2026-09-12 16:29:33 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (138414⭐ TypeScript) | [reels/reel_8763_iptv-org-iptv](reels/reel_8763_iptv-org-iptv) |
+| 8764 | 2026-09-12 18:39:06 | [crabbuild/crab](https://github.com/crabbuild/crab) | ✅ full (141⭐ Rust) | [reels/reel_8764_crabbuild-crab](reels/reel_8764_crabbuild-crab) |

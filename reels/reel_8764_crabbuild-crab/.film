@@ -1,0 +1,24 @@
+{
+  "reel_number": 8764,
+  "recorded": "2026-09-12 18:39:06 UTC",
+  "repository": {
+    "full_name": "crabbuild/crab",
+    "url": "https://github.com/crabbuild/crab",
+    "clone_url": "https://github.com/crabbuild/crab.git",
+    "stars": 141,
+    "language": "Rust",
+    "size_kb": 87330
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 85,
+    "duration_seconds": 3.729675
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 141 stars."
+  }
+}
