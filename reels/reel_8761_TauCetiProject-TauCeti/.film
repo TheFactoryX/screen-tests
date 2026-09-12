@@ -1,0 +1,24 @@
+{
+  "reel_number": 8761,
+  "recorded": "2026-09-12 10:05:26 UTC",
+  "repository": {
+    "full_name": "TauCetiProject/TauCeti",
+    "url": "https://github.com/TauCetiProject/TauCeti",
+    "clone_url": "https://github.com/TauCetiProject/TauCeti.git",
+    "stars": 190,
+    "language": "Lean",
+    "size_kb": 44116
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 43,
+    "duration_seconds": 2.78775
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lean",
+    "director_note": "A Lean repository. 190 stars."
+  }
+}
