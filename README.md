@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8758 | [Kelsidavis/WoWee](https://github.com/Kelsidavis/WoWee) | C++ · ⭐ 705 | 2026-09-11 |
+| #8759 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 256k | 2026-09-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8846,3 +8846,4 @@ If you need permission, you're thinking too much.
 | 8756 | 2026-09-11 18:12:55 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (138344⭐ TypeScript) | [reels/reel_8756_iptv-org-iptv](reels/reel_8756_iptv-org-iptv) |
 | 8757 | 2026-09-11 20:59:48 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (190479⭐ Python) | [reels/reel_8757_yt-dlp-yt-dlp](reels/reel_8757_yt-dlp-yt-dlp) |
 | 8758 | 2026-09-11 23:10:17 | [Kelsidavis/WoWee](https://github.com/Kelsidavis/WoWee) | ✅ shallow (705⭐ C++) | [reels/reel_8758_Kelsidavis-WoWee](reels/reel_8758_Kelsidavis-WoWee) |
+| 8759 | 2026-09-12 01:06:17 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (256537⭐ JavaScript) | [reels/reel_8759_affaan-m-ECC](reels/reel_8759_affaan-m-ECC) |
