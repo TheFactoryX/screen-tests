@@ -1,0 +1,24 @@
+{
+  "reel_number": 8766,
+  "recorded": "2026-09-12 22:53:54 UTC",
+  "repository": {
+    "full_name": "The-Powder-Toy/The-Powder-Toy",
+    "url": "https://github.com/The-Powder-Toy/The-Powder-Toy",
+    "clone_url": "https://github.com/The-Powder-Toy/The-Powder-Toy.git",
+    "stars": 5304,
+    "language": "C++",
+    "size_kb": 41245
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 40,
+    "duration_seconds": 2.200698
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 5304 stars."
+  }
+}

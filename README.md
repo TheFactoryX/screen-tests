@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8765 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 479k | 2026-09-12 |
+| #8766 | [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) | C++ · ⭐ 5k | 2026-09-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8853,3 +8853,4 @@ If you need permission, you're thinking too much.
 | 8763 | 2026-09-12 16:29:33 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (138414⭐ TypeScript) | [reels/reel_8763_iptv-org-iptv](reels/reel_8763_iptv-org-iptv) |
 | 8764 | 2026-09-12 18:39:06 | [crabbuild/crab](https://github.com/crabbuild/crab) | ✅ full (141⭐ Rust) | [reels/reel_8764_crabbuild-crab](reels/reel_8764_crabbuild-crab) |
 | 8765 | 2026-09-12 21:02:30 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (479352⭐ Python) | [reels/reel_8765_public-apis-public-apis](reels/reel_8765_public-apis-public-apis) |
+| 8766 | 2026-09-12 22:53:54 | [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) | ✅ full (5304⭐ C++) | [reels/reel_8766_The-Powder-Toy-The-Powder-Toy](reels/reel_8766_The-Powder-Toy-The-Powder-Toy) |
