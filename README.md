@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8764 | [crabbuild/crab](https://github.com/crabbuild/crab) | Rust · ⭐ 141 | 2026-09-12 |
+| #8765 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 479k | 2026-09-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8852,3 +8852,4 @@ If you need permission, you're thinking too much.
 | 8762 | 2026-09-12 13:36:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (318708⭐ None) | [reels/reel_8762_awesome-selfhosted-awesome-selfhosted](reels/reel_8762_awesome-selfhosted-awesome-selfhosted) |
 | 8763 | 2026-09-12 16:29:33 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (138414⭐ TypeScript) | [reels/reel_8763_iptv-org-iptv](reels/reel_8763_iptv-org-iptv) |
 | 8764 | 2026-09-12 18:39:06 | [crabbuild/crab](https://github.com/crabbuild/crab) | ✅ full (141⭐ Rust) | [reels/reel_8764_crabbuild-crab](reels/reel_8764_crabbuild-crab) |
+| 8765 | 2026-09-12 21:02:30 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (479352⭐ Python) | [reels/reel_8765_public-apis-public-apis](reels/reel_8765_public-apis-public-apis) |
