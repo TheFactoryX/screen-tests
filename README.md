@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8761 | [TauCetiProject/TauCeti](https://github.com/TauCetiProject/TauCeti) | Lean · ⭐ 190 | 2026-09-12 |
+| #8762 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 318k | 2026-09-12 |
 ---
 
 ## 🎭 Selection Process
@@ -8849,3 +8849,4 @@ If you need permission, you're thinking too much.
 | 8759 | 2026-09-12 01:06:17 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (256537⭐ JavaScript) | [reels/reel_8759_affaan-m-ECC](reels/reel_8759_affaan-m-ECC) |
 | 8760 | 2026-09-12 05:46:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154612⭐ Python) | [reels/reel_8760_langflow-ai-langflow](reels/reel_8760_langflow-ai-langflow) |
 | 8761 | 2026-09-12 10:05:26 | [TauCetiProject/TauCeti](https://github.com/TauCetiProject/TauCeti) | ✅ full (190⭐ Lean) | [reels/reel_8761_TauCetiProject-TauCeti](reels/reel_8761_TauCetiProject-TauCeti) |
+| 8762 | 2026-09-12 13:36:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (318708⭐ None) | [reels/reel_8762_awesome-selfhosted-awesome-selfhosted](reels/reel_8762_awesome-selfhosted-awesome-selfhosted) |
