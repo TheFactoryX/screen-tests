@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8772 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 257k | 2026-09-13 |
+| #8773 | [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | Java · ⭐ 457 | 2026-09-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8860,3 +8860,4 @@ If you need permission, you're thinking too much.
 | 8770 | 2026-09-13 14:36:33 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187295⭐ Python) | [reels/reel_8770_Significant-Gravitas-AutoGPT](reels/reel_8770_Significant-Gravitas-AutoGPT) |
 | 8771 | 2026-09-13 17:40:35 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132902⭐ Python) | [reels/reel_8771_Comfy-Org-ComfyUI](reels/reel_8771_Comfy-Org-ComfyUI) |
 | 8772 | 2026-09-13 19:49:17 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (257642⭐ JavaScript) | [reels/reel_8772_affaan-m-ECC](reels/reel_8772_affaan-m-ECC) |
+| 8773 | 2026-09-13 22:06:44 | [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | ✅ full (457⭐ Java) | [reels/reel_8773_MANCrimSon-YouTube-ReVanced-Extended](reels/reel_8773_MANCrimSon-YouTube-ReVanced-Extended) |

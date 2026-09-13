@@ -1,0 +1,24 @@
+{
+  "reel_number": 8773,
+  "recorded": "2026-09-13 22:06:44 UTC",
+  "repository": {
+    "full_name": "MANCrimSon/YouTube-ReVanced-Extended",
+    "url": "https://github.com/MANCrimSon/YouTube-ReVanced-Extended",
+    "clone_url": "https://github.com/MANCrimSon/YouTube-ReVanced-Extended.git",
+    "stars": 457,
+    "language": "Java",
+    "size_kb": 33503
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 1.351961
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 457 stars."
+  }
+}
