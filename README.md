@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8770 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-09-13 |
+| #8771 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 132k | 2026-09-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8858,3 +8858,4 @@ If you need permission, you're thinking too much.
 | 8768 | 2026-09-13 05:23:03 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (257214⭐ JavaScript) | [reels/reel_8768_affaan-m-ECC](reels/reel_8768_affaan-m-ECC) |
 | 8769 | 2026-09-13 10:29:26 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132844⭐ Python) | [reels/reel_8769_Comfy-Org-ComfyUI](reels/reel_8769_Comfy-Org-ComfyUI) |
 | 8770 | 2026-09-13 14:36:33 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187295⭐ Python) | [reels/reel_8770_Significant-Gravitas-AutoGPT](reels/reel_8770_Significant-Gravitas-AutoGPT) |
+| 8771 | 2026-09-13 17:40:35 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132902⭐ Python) | [reels/reel_8771_Comfy-Org-ComfyUI](reels/reel_8771_Comfy-Org-ComfyUI) |
