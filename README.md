@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8768 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 257k | 2026-09-13 |
+| #8769 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 132k | 2026-09-13 |
 ---
 
 ## 🎭 Selection Process
@@ -8856,3 +8856,4 @@ If you need permission, you're thinking too much.
 | 8766 | 2026-09-12 22:53:54 | [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) | ✅ full (5304⭐ C++) | [reels/reel_8766_The-Powder-Toy-The-Powder-Toy](reels/reel_8766_The-Powder-Toy-The-Powder-Toy) |
 | 8767 | 2026-09-13 00:36:21 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (318819⭐ None) | [reels/reel_8767_awesome-selfhosted-awesome-selfhosted](reels/reel_8767_awesome-selfhosted-awesome-selfhosted) |
 | 8768 | 2026-09-13 05:23:03 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (257214⭐ JavaScript) | [reels/reel_8768_affaan-m-ECC](reels/reel_8768_affaan-m-ECC) |
+| 8769 | 2026-09-13 10:29:26 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132844⭐ Python) | [reels/reel_8769_Comfy-Org-ComfyUI](reels/reel_8769_Comfy-Org-ComfyUI) |
