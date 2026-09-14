@@ -1,0 +1,24 @@
+{
+  "reel_number": 8774,
+  "recorded": "2026-09-14 00:11:28 UTC",
+  "repository": {
+    "full_name": "TeamTwilight/twilightforest-fabric",
+    "url": "https://github.com/TeamTwilight/twilightforest-fabric",
+    "clone_url": "https://github.com/TeamTwilight/twilightforest-fabric.git",
+    "stars": 121,
+    "language": "Java",
+    "size_kb": 130932
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 127,
+    "duration_seconds": 2.336473
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 121 stars."
+  }
+}

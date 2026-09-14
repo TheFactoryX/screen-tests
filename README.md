@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8773 | [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | Java · ⭐ 457 | 2026-09-13 |
+| #8774 | [TeamTwilight/twilightforest-fabric](https://github.com/TeamTwilight/twilightforest-fabric) | Java · ⭐ 121 | 2026-09-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8861,3 +8861,4 @@ If you need permission, you're thinking too much.
 | 8771 | 2026-09-13 17:40:35 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (132902⭐ Python) | [reels/reel_8771_Comfy-Org-ComfyUI](reels/reel_8771_Comfy-Org-ComfyUI) |
 | 8772 | 2026-09-13 19:49:17 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (257642⭐ JavaScript) | [reels/reel_8772_affaan-m-ECC](reels/reel_8772_affaan-m-ECC) |
 | 8773 | 2026-09-13 22:06:44 | [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | ✅ full (457⭐ Java) | [reels/reel_8773_MANCrimSon-YouTube-ReVanced-Extended](reels/reel_8773_MANCrimSon-YouTube-ReVanced-Extended) |
+| 8774 | 2026-09-14 00:11:28 | [TeamTwilight/twilightforest-fabric](https://github.com/TeamTwilight/twilightforest-fabric) | ✅ shallow (121⭐ Java) | [reels/reel_8774_TeamTwilight-twilightforest-fabric](reels/reel_8774_TeamTwilight-twilightforest-fabric) |
