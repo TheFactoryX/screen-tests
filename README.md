@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8776 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 223k | 2026-09-14 |
+| #8777 | [NemoVonNirgend/Ember](https://github.com/NemoVonNirgend/Ember) | JavaScript · ⭐ 15 | 2026-09-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8864,3 +8864,4 @@ If you need permission, you're thinking too much.
 | 8774 | 2026-09-14 00:11:28 | [TeamTwilight/twilightforest-fabric](https://github.com/TeamTwilight/twilightforest-fabric) | ✅ shallow (121⭐ Java) | [reels/reel_8774_TeamTwilight-twilightforest-fabric](reels/reel_8774_TeamTwilight-twilightforest-fabric) |
 | 8775 | 2026-09-14 04:57:42 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (547090⭐ Markdown) | [reels/reel_8775_codecrafters-io-build-your-own-x](reels/reel_8775_codecrafters-io-build-your-own-x) |
 | 8776 | 2026-09-14 10:26:17 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (223335⭐ TypeScript) | [reels/reel_8776_deepseek-ai-deepseek-harness](reels/reel_8776_deepseek-ai-deepseek-harness) |
+| 8777 | 2026-09-14 16:27:24 | [NemoVonNirgend/Ember](https://github.com/NemoVonNirgend/Ember) | ✅ full (15⭐ JavaScript) | [reels/reel_8777_NemoVonNirgend-Ember](reels/reel_8777_NemoVonNirgend-Ember) |
