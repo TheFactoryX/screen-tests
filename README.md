@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8775 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 547k | 2026-09-14 |
+| #8776 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 223k | 2026-09-14 |
 ---
 
 ## 🎭 Selection Process
@@ -8863,3 +8863,4 @@ If you need permission, you're thinking too much.
 | 8773 | 2026-09-13 22:06:44 | [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended) | ✅ full (457⭐ Java) | [reels/reel_8773_MANCrimSon-YouTube-ReVanced-Extended](reels/reel_8773_MANCrimSon-YouTube-ReVanced-Extended) |
 | 8774 | 2026-09-14 00:11:28 | [TeamTwilight/twilightforest-fabric](https://github.com/TeamTwilight/twilightforest-fabric) | ✅ shallow (121⭐ Java) | [reels/reel_8774_TeamTwilight-twilightforest-fabric](reels/reel_8774_TeamTwilight-twilightforest-fabric) |
 | 8775 | 2026-09-14 04:57:42 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (547090⭐ Markdown) | [reels/reel_8775_codecrafters-io-build-your-own-x](reels/reel_8775_codecrafters-io-build-your-own-x) |
+| 8776 | 2026-09-14 10:26:17 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (223335⭐ TypeScript) | [reels/reel_8776_deepseek-ai-deepseek-harness](reels/reel_8776_deepseek-ai-deepseek-harness) |
