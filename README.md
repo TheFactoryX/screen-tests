@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8780 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 154k | 2026-09-15 |
+| #8781 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 204k | 2026-09-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8868,3 +8868,4 @@ If you need permission, you're thinking too much.
 | 8778 | 2026-09-14 20:25:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (191153⭐ Python) | [reels/reel_8778_yt-dlp-yt-dlp](reels/reel_8778_yt-dlp-yt-dlp) |
 | 8779 | 2026-09-14 23:17:57 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (144450⭐ Rust) | [reels/reel_8779_clash-verge-rev-clash-verge-rev](reels/reel_8779_clash-verge-rev-clash-verge-rev) |
 | 8780 | 2026-09-15 01:42:22 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154807⭐ Python) | [reels/reel_8780_langflow-ai-langflow](reels/reel_8780_langflow-ai-langflow) |
+| 8781 | 2026-09-15 06:45:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (204335⭐ TypeScript) | [reels/reel_8781_n8n-io-n8n](reels/reel_8781_n8n-io-n8n) |
