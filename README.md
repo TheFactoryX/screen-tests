@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8782 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 144k | 2026-09-15 |
+| #8783 | [lucianodato/noise-repellent](https://github.com/lucianodato/noise-repellent) | C++ · ⭐ 548 | 2026-09-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8870,3 +8870,4 @@ If you need permission, you're thinking too much.
 | 8780 | 2026-09-15 01:42:22 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154807⭐ Python) | [reels/reel_8780_langflow-ai-langflow](reels/reel_8780_langflow-ai-langflow) |
 | 8781 | 2026-09-15 06:45:14 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (204335⭐ TypeScript) | [reels/reel_8781_n8n-io-n8n](reels/reel_8781_n8n-io-n8n) |
 | 8782 | 2026-09-15 12:27:00 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (144632⭐ Rust) | [reels/reel_8782_clash-verge-rev-clash-verge-rev](reels/reel_8782_clash-verge-rev-clash-verge-rev) |
+| 8783 | 2026-09-15 17:12:20 | [lucianodato/noise-repellent](https://github.com/lucianodato/noise-repellent) | ✅ full (548⭐ C++) | [reels/reel_8783_lucianodato-noise-repellent](reels/reel_8783_lucianodato-noise-repellent) |
