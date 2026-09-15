@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8779 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 144k | 2026-09-14 |
+| #8780 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 154k | 2026-09-15 |
 ---
 
 ## 🎭 Selection Process
@@ -8867,3 +8867,4 @@ If you need permission, you're thinking too much.
 | 8777 | 2026-09-14 16:27:24 | [NemoVonNirgend/Ember](https://github.com/NemoVonNirgend/Ember) | ✅ full (15⭐ JavaScript) | [reels/reel_8777_NemoVonNirgend-Ember](reels/reel_8777_NemoVonNirgend-Ember) |
 | 8778 | 2026-09-14 20:25:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (191153⭐ Python) | [reels/reel_8778_yt-dlp-yt-dlp](reels/reel_8778_yt-dlp-yt-dlp) |
 | 8779 | 2026-09-14 23:17:57 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (144450⭐ Rust) | [reels/reel_8779_clash-verge-rev-clash-verge-rev](reels/reel_8779_clash-verge-rev-clash-verge-rev) |
+| 8780 | 2026-09-15 01:42:22 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154807⭐ Python) | [reels/reel_8780_langflow-ai-langflow](reels/reel_8780_langflow-ai-langflow) |
