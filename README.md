@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8787 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-09-16 |
+| #8788 | [zn0wii/satelite-proxy](https://github.com/zn0wii/satelite-proxy) | Rust · ⭐ 646 | 2026-09-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8875,3 +8875,4 @@ If you need permission, you're thinking too much.
 | 8785 | 2026-09-15 23:01:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (146396⭐ Python) | [reels/reel_8785_langchain-ai-langchain](reels/reel_8785_langchain-ai-langchain) |
 | 8786 | 2026-09-16 01:24:55 | [clashnodev2ray/clashnodev2ray.github.io](https://github.com/clashnodev2ray/clashnodev2ray.github.io) | ✅ full (147⭐ HTML) | [reels/reel_8786_clashnodev2ray-clashnodev2ray.github.io](reels/reel_8786_clashnodev2ray-clashnodev2ray.github.io) |
 | 8787 | 2026-09-16 06:24:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187372⭐ Python) | [reels/reel_8787_Significant-Gravitas-AutoGPT](reels/reel_8787_Significant-Gravitas-AutoGPT) |
+| 8788 | 2026-09-16 11:54:50 | [zn0wii/satelite-proxy](https://github.com/zn0wii/satelite-proxy) | ✅ full (646⭐ Rust) | [reels/reel_8788_zn0wii-satelite-proxy](reels/reel_8788_zn0wii-satelite-proxy) |

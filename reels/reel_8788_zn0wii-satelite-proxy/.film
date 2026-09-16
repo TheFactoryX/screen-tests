@@ -1,0 +1,24 @@
+{
+  "reel_number": 8788,
+  "recorded": "2026-09-16 11:54:50 UTC",
+  "repository": {
+    "full_name": "zn0wii/satelite-proxy",
+    "url": "https://github.com/zn0wii/satelite-proxy",
+    "clone_url": "https://github.com/zn0wii/satelite-proxy.git",
+    "stars": 646,
+    "language": "Rust",
+    "size_kb": 23917
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 23,
+    "duration_seconds": 1.517957
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 646 stars."
+  }
+}
