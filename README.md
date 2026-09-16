@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8785 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 146k | 2026-09-15 |
+| #8786 | [clashnodev2ray/clashnodev2ray.github.io](https://github.com/clashnodev2ray/clashnodev2ray.github.io) | HTML · ⭐ 147 | 2026-09-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8873,3 +8873,4 @@ If you need permission, you're thinking too much.
 | 8783 | 2026-09-15 17:12:20 | [lucianodato/noise-repellent](https://github.com/lucianodato/noise-repellent) | ✅ full (548⭐ C++) | [reels/reel_8783_lucianodato-noise-repellent](reels/reel_8783_lucianodato-noise-repellent) |
 | 8784 | 2026-09-15 20:15:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154839⭐ Python) | [reels/reel_8784_langflow-ai-langflow](reels/reel_8784_langflow-ai-langflow) |
 | 8785 | 2026-09-15 23:01:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (146396⭐ Python) | [reels/reel_8785_langchain-ai-langchain](reels/reel_8785_langchain-ai-langchain) |
+| 8786 | 2026-09-16 01:24:55 | [clashnodev2ray/clashnodev2ray.github.io](https://github.com/clashnodev2ray/clashnodev2ray.github.io) | ✅ full (147⭐ HTML) | [reels/reel_8786_clashnodev2ray-clashnodev2ray.github.io](reels/reel_8786_clashnodev2ray-clashnodev2ray.github.io) |
