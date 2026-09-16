@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8786 | [clashnodev2ray/clashnodev2ray.github.io](https://github.com/clashnodev2ray/clashnodev2ray.github.io) | HTML · ⭐ 147 | 2026-09-16 |
+| #8787 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-09-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8874,3 +8874,4 @@ If you need permission, you're thinking too much.
 | 8784 | 2026-09-15 20:15:19 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154839⭐ Python) | [reels/reel_8784_langflow-ai-langflow](reels/reel_8784_langflow-ai-langflow) |
 | 8785 | 2026-09-15 23:01:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (146396⭐ Python) | [reels/reel_8785_langchain-ai-langchain](reels/reel_8785_langchain-ai-langchain) |
 | 8786 | 2026-09-16 01:24:55 | [clashnodev2ray/clashnodev2ray.github.io](https://github.com/clashnodev2ray/clashnodev2ray.github.io) | ✅ full (147⭐ HTML) | [reels/reel_8786_clashnodev2ray-clashnodev2ray.github.io](reels/reel_8786_clashnodev2ray-clashnodev2ray.github.io) |
+| 8787 | 2026-09-16 06:24:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187372⭐ Python) | [reels/reel_8787_Significant-Gravitas-AutoGPT](reels/reel_8787_Significant-Gravitas-AutoGPT) |
