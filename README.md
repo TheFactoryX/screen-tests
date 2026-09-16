@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8789 | [Noorts/PDXearch](https://github.com/Noorts/PDXearch) | C++ · ⭐ 13 | 2026-09-16 |
+| #8790 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 146k | 2026-09-16 |
 ---
 
 ## 🎭 Selection Process
@@ -8877,3 +8877,4 @@ If you need permission, you're thinking too much.
 | 8787 | 2026-09-16 06:24:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187372⭐ Python) | [reels/reel_8787_Significant-Gravitas-AutoGPT](reels/reel_8787_Significant-Gravitas-AutoGPT) |
 | 8788 | 2026-09-16 11:54:50 | [zn0wii/satelite-proxy](https://github.com/zn0wii/satelite-proxy) | ✅ full (646⭐ Rust) | [reels/reel_8788_zn0wii-satelite-proxy](reels/reel_8788_zn0wii-satelite-proxy) |
 | 8789 | 2026-09-16 16:07:56 | [Noorts/PDXearch](https://github.com/Noorts/PDXearch) | ✅ full (13⭐ C++) | [reels/reel_8789_Noorts-PDXearch](reels/reel_8789_Noorts-PDXearch) |
+| 8790 | 2026-09-16 19:32:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (146464⭐ Python) | [reels/reel_8790_langchain-ai-langchain](reels/reel_8790_langchain-ai-langchain) |
