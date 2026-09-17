@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8795 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 152k | 2026-09-17 |
+| #8796 | [jdolan/quetoo](https://github.com/jdolan/quetoo) | C · ⭐ 331 | 2026-09-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8883,3 +8883,4 @@ If you need permission, you're thinking too much.
 | 8793 | 2026-09-17 05:43:21 | [openbkn-ai/bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) | ✅ shallow (467⭐ Go) | [reels/reel_8793_openbkn-ai-bkn-foundry](reels/reel_8793_openbkn-ai-bkn-foundry) |
 | 8794 | 2026-09-17 10:27:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (319820⭐ None) | [reels/reel_8794_awesome-selfhosted-awesome-selfhosted](reels/reel_8794_awesome-selfhosted-awesome-selfhosted) |
 | 8795 | 2026-09-17 15:11:56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (152371⭐ Python) | [reels/reel_8795_open-webui-open-webui](reels/reel_8795_open-webui-open-webui) |
+| 8796 | 2026-09-17 19:02:16 | [jdolan/quetoo](https://github.com/jdolan/quetoo) | ✅ full (331⭐ C) | [reels/reel_8796_jdolan-quetoo](reels/reel_8796_jdolan-quetoo) |

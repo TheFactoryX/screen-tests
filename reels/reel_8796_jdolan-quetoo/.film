@@ -1,0 +1,24 @@
+{
+  "reel_number": 8796,
+  "recorded": "2026-09-17 19:02:16 UTC",
+  "repository": {
+    "full_name": "jdolan/quetoo",
+    "url": "https://github.com/jdolan/quetoo",
+    "clone_url": "https://github.com/jdolan/quetoo.git",
+    "stars": 331,
+    "language": "C",
+    "size_kb": 71416
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 69,
+    "duration_seconds": 6.811076
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 331 stars."
+  }
+}
