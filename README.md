@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8791 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 152k | 2026-09-16 |
+| #8792 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 154k | 2026-09-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8879,3 +8879,4 @@ If you need permission, you're thinking too much.
 | 8789 | 2026-09-16 16:07:56 | [Noorts/PDXearch](https://github.com/Noorts/PDXearch) | ✅ full (13⭐ C++) | [reels/reel_8789_Noorts-PDXearch](reels/reel_8789_Noorts-PDXearch) |
 | 8790 | 2026-09-16 19:32:50 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (146464⭐ Python) | [reels/reel_8790_langchain-ai-langchain](reels/reel_8790_langchain-ai-langchain) |
 | 8791 | 2026-09-16 22:19:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (152300⭐ Python) | [reels/reel_8791_open-webui-open-webui](reels/reel_8791_open-webui-open-webui) |
+| 8792 | 2026-09-17 00:45:34 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154897⭐ Python) | [reels/reel_8792_langflow-ai-langflow](reels/reel_8792_langflow-ai-langflow) |
