@@ -1,0 +1,24 @@
+{
+  "reel_number": 8793,
+  "recorded": "2026-09-17 05:43:21 UTC",
+  "repository": {
+    "full_name": "openbkn-ai/bkn-foundry",
+    "url": "https://github.com/openbkn-ai/bkn-foundry",
+    "clone_url": "https://github.com/openbkn-ai/bkn-foundry.git",
+    "stars": 467,
+    "language": "Go",
+    "size_kb": 202017
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 197,
+    "duration_seconds": 2.93391
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 467 stars."
+  }
+}
