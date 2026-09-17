@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8793 | [openbkn-ai/bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) | Go · ⭐ 467 | 2026-09-17 |
+| #8794 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 319k | 2026-09-17 |
 ---
 
 ## 🎭 Selection Process
@@ -8881,3 +8881,4 @@ If you need permission, you're thinking too much.
 | 8791 | 2026-09-16 22:19:43 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (152300⭐ Python) | [reels/reel_8791_open-webui-open-webui](reels/reel_8791_open-webui-open-webui) |
 | 8792 | 2026-09-17 00:45:34 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (154897⭐ Python) | [reels/reel_8792_langflow-ai-langflow](reels/reel_8792_langflow-ai-langflow) |
 | 8793 | 2026-09-17 05:43:21 | [openbkn-ai/bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) | ✅ shallow (467⭐ Go) | [reels/reel_8793_openbkn-ai-bkn-foundry](reels/reel_8793_openbkn-ai-bkn-foundry) |
+| 8794 | 2026-09-17 10:27:20 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (319820⭐ None) | [reels/reel_8794_awesome-selfhosted-awesome-selfhosted](reels/reel_8794_awesome-selfhosted-awesome-selfhosted) |
