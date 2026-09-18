@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8799 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 481k | 2026-09-18 |
+| #8800 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 145k | 2026-09-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8887,3 +8887,4 @@ If you need permission, you're thinking too much.
 | 8797 | 2026-09-17 22:09:02 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (133676⭐ Python) | [reels/reel_8797_Comfy-Org-ComfyUI](reels/reel_8797_Comfy-Org-ComfyUI) |
 | 8798 | 2026-09-18 00:18:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (152411⭐ Python) | [reels/reel_8798_open-webui-open-webui](reels/reel_8798_open-webui-open-webui) |
 | 8799 | 2026-09-18 04:59:08 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (481271⭐ Python) | [reels/reel_8799_public-apis-public-apis](reels/reel_8799_public-apis-public-apis) |
+| 8800 | 2026-09-18 09:34:46 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (145231⭐ Rust) | [reels/reel_8800_clash-verge-rev-clash-verge-rev](reels/reel_8800_clash-verge-rev-clash-verge-rev) |
