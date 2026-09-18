@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8800 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 145k | 2026-09-18 |
+| #8801 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 283k | 2026-09-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8888,3 +8888,4 @@ If you need permission, you're thinking too much.
 | 8798 | 2026-09-18 00:18:07 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (152411⭐ Python) | [reels/reel_8798_open-webui-open-webui](reels/reel_8798_open-webui-open-webui) |
 | 8799 | 2026-09-18 04:59:08 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (481271⭐ Python) | [reels/reel_8799_public-apis-public-apis](reels/reel_8799_public-apis-public-apis) |
 | 8800 | 2026-09-18 09:34:46 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (145231⭐ Rust) | [reels/reel_8800_clash-verge-rev-clash-verge-rev](reels/reel_8800_clash-verge-rev-clash-verge-rev) |
+| 8801 | 2026-09-18 13:51:18 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (283733⭐ Python) | [reels/reel_8801_practical-tutorials-project-based-learning](reels/reel_8801_practical-tutorials-project-based-learning) |
