@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8803 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 283k | 2026-09-18 |
+| #8804 | [tamatebako/tebako](https://github.com/tamatebako/tebako) | Rust · ⭐ 443 | 2026-09-18 |
 ---
 
 ## 🎭 Selection Process
@@ -8891,3 +8891,4 @@ If you need permission, you're thinking too much.
 | 8801 | 2026-09-18 13:51:18 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (283733⭐ Python) | [reels/reel_8801_practical-tutorials-project-based-learning](reels/reel_8801_practical-tutorials-project-based-learning) |
 | 8802 | 2026-09-18 17:29:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (152470⭐ Python) | [reels/reel_8802_open-webui-open-webui](reels/reel_8802_open-webui-open-webui) |
 | 8803 | 2026-09-18 19:54:29 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (283767⭐ Python) | [reels/reel_8803_practical-tutorials-project-based-learning](reels/reel_8803_practical-tutorials-project-based-learning) |
+| 8804 | 2026-09-18 22:17:13 | [tamatebako/tebako](https://github.com/tamatebako/tebako) | ✅ full (443⭐ Rust) | [reels/reel_8804_tamatebako-tebako](reels/reel_8804_tamatebako-tebako) |

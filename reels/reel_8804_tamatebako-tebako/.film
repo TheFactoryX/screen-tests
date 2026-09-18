@@ -1,0 +1,24 @@
+{
+  "reel_number": 8804,
+  "recorded": "2026-09-18 22:17:13 UTC",
+  "repository": {
+    "full_name": "tamatebako/tebako",
+    "url": "https://github.com/tamatebako/tebako",
+    "clone_url": "https://github.com/tamatebako/tebako.git",
+    "stars": 443,
+    "language": "Rust",
+    "size_kb": 20581
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 20,
+    "duration_seconds": 1.490098
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 443 stars."
+  }
+}
