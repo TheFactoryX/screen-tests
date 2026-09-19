@@ -1,0 +1,24 @@
+{
+  "reel_number": 8810,
+  "recorded": "2026-09-19 18:47:39 UTC",
+  "repository": {
+    "full_name": "vNeeL-code/GHOST",
+    "url": "https://github.com/vNeeL-code/GHOST",
+    "clone_url": "https://github.com/vNeeL-code/GHOST.git",
+    "stars": 166,
+    "language": "Kotlin",
+    "size_kb": 97297
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 95,
+    "duration_seconds": 4.188491
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 166 stars."
+  }
+}
