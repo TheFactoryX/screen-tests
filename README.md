@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8804 | [tamatebako/tebako](https://github.com/tamatebako/tebako) | Rust · ⭐ 443 | 2026-09-18 |
+| #8805 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 481k | 2026-09-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8892,3 +8892,4 @@ If you need permission, you're thinking too much.
 | 8802 | 2026-09-18 17:29:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (152470⭐ Python) | [reels/reel_8802_open-webui-open-webui](reels/reel_8802_open-webui-open-webui) |
 | 8803 | 2026-09-18 19:54:29 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (283767⭐ Python) | [reels/reel_8803_practical-tutorials-project-based-learning](reels/reel_8803_practical-tutorials-project-based-learning) |
 | 8804 | 2026-09-18 22:17:13 | [tamatebako/tebako](https://github.com/tamatebako/tebako) | ✅ full (443⭐ Rust) | [reels/reel_8804_tamatebako-tebako](reels/reel_8804_tamatebako-tebako) |
+| 8805 | 2026-09-19 00:28:50 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (481440⭐ Python) | [reels/reel_8805_public-apis-public-apis](reels/reel_8805_public-apis-public-apis) |
