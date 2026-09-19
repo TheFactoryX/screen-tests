@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8810 | [vNeeL-code/GHOST](https://github.com/vNeeL-code/GHOST) | Kotlin · ⭐ 166 | 2026-09-19 |
+| #8811 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 262k | 2026-09-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8898,3 +8898,4 @@ If you need permission, you're thinking too much.
 | 8808 | 2026-09-19 13:10:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (229696⭐ TypeScript) | [reels/reel_8808_deepseek-ai-deepseek-harness](reels/reel_8808_deepseek-ai-deepseek-harness) |
 | 8809 | 2026-09-19 16:29:50 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (262676⭐ JavaScript) | [reels/reel_8809_affaan-m-ECC](reels/reel_8809_affaan-m-ECC) |
 | 8810 | 2026-09-19 18:47:39 | [vNeeL-code/GHOST](https://github.com/vNeeL-code/GHOST) | ✅ full (166⭐ Kotlin) | [reels/reel_8810_vNeeL-code-GHOST](reels/reel_8810_vNeeL-code-GHOST) |
+| 8811 | 2026-09-19 21:17:24 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (262860⭐ JavaScript) | [reels/reel_8811_affaan-m-ECC](reels/reel_8811_affaan-m-ECC) |
