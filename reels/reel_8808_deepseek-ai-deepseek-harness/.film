@@ -1,0 +1,24 @@
+{
+  "reel_number": 8808,
+  "recorded": "2026-09-19 13:10:41 UTC",
+  "repository": {
+    "full_name": "deepseek-ai/deepseek-harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "clone_url": "https://github.com/deepseek-ai/deepseek-harness.git",
+    "stars": 229696,
+    "language": "TypeScript",
+    "size_kb": 206488
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "shallow",
+    "size_mb": 201,
+    "duration_seconds": 4.583408
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 229696 stars."
+  }
+}
