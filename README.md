@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8806 | [ApoorvTyagi/ApoorvTyagi](https://github.com/ApoorvTyagi/ApoorvTyagi) | JavaScript · ⭐ 164 | 2026-09-19 |
+| #8807 | [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) | JavaScript · ⭐ 202 | 2026-09-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8894,3 +8894,4 @@ If you need permission, you're thinking too much.
 | 8804 | 2026-09-18 22:17:13 | [tamatebako/tebako](https://github.com/tamatebako/tebako) | ✅ full (443⭐ Rust) | [reels/reel_8804_tamatebako-tebako](reels/reel_8804_tamatebako-tebako) |
 | 8805 | 2026-09-19 00:28:50 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (481440⭐ Python) | [reels/reel_8805_public-apis-public-apis](reels/reel_8805_public-apis-public-apis) |
 | 8806 | 2026-09-19 04:55:55 | [ApoorvTyagi/ApoorvTyagi](https://github.com/ApoorvTyagi/ApoorvTyagi) | ✅ full (164⭐ JavaScript) | [reels/reel_8806_ApoorvTyagi-ApoorvTyagi](reels/reel_8806_ApoorvTyagi-ApoorvTyagi) |
+| 8807 | 2026-09-19 09:12:04 | [xing-shuyin/pi-web-ui](https://github.com/xing-shuyin/pi-web-ui) | ✅ full (202⭐ JavaScript) | [reels/reel_8807_xing-shuyin-pi-web-ui](reels/reel_8807_xing-shuyin-pi-web-ui) |

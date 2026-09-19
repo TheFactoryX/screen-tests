@@ -1,0 +1,24 @@
+{
+  "reel_number": 8807,
+  "recorded": "2026-09-19 09:12:04 UTC",
+  "repository": {
+    "full_name": "xing-shuyin/pi-web-ui",
+    "url": "https://github.com/xing-shuyin/pi-web-ui",
+    "clone_url": "https://github.com/xing-shuyin/pi-web-ui.git",
+    "stars": 202,
+    "language": "JavaScript",
+    "size_kb": 15437
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 15,
+    "duration_seconds": 2.351858
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 202 stars."
+  }
+}
