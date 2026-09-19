@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8805 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 481k | 2026-09-19 |
+| #8806 | [ApoorvTyagi/ApoorvTyagi](https://github.com/ApoorvTyagi/ApoorvTyagi) | JavaScript · ⭐ 164 | 2026-09-19 |
 ---
 
 ## 🎭 Selection Process
@@ -8893,3 +8893,4 @@ If you need permission, you're thinking too much.
 | 8803 | 2026-09-18 19:54:29 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (283767⭐ Python) | [reels/reel_8803_practical-tutorials-project-based-learning](reels/reel_8803_practical-tutorials-project-based-learning) |
 | 8804 | 2026-09-18 22:17:13 | [tamatebako/tebako](https://github.com/tamatebako/tebako) | ✅ full (443⭐ Rust) | [reels/reel_8804_tamatebako-tebako](reels/reel_8804_tamatebako-tebako) |
 | 8805 | 2026-09-19 00:28:50 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (481440⭐ Python) | [reels/reel_8805_public-apis-public-apis](reels/reel_8805_public-apis-public-apis) |
+| 8806 | 2026-09-19 04:55:55 | [ApoorvTyagi/ApoorvTyagi](https://github.com/ApoorvTyagi/ApoorvTyagi) | ✅ full (164⭐ JavaScript) | [reels/reel_8806_ApoorvTyagi-ApoorvTyagi](reels/reel_8806_ApoorvTyagi-ApoorvTyagi) |
