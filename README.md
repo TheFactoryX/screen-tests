@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8812 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 133k | 2026-09-19 |
+| #8813 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 124k | 2026-09-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8900,3 +8900,4 @@ If you need permission, you're thinking too much.
 | 8810 | 2026-09-19 18:47:39 | [vNeeL-code/GHOST](https://github.com/vNeeL-code/GHOST) | ✅ full (166⭐ Kotlin) | [reels/reel_8810_vNeeL-code-GHOST](reels/reel_8810_vNeeL-code-GHOST) |
 | 8811 | 2026-09-19 21:17:24 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (262860⭐ JavaScript) | [reels/reel_8811_affaan-m-ECC](reels/reel_8811_affaan-m-ECC) |
 | 8812 | 2026-09-19 23:19:20 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (133926⭐ Python) | [reels/reel_8812_Comfy-Org-ComfyUI](reels/reel_8812_Comfy-Org-ComfyUI) |
+| 8813 | 2026-09-20 01:22:48 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (124198⭐ TypeScript) | [reels/reel_8813_shadcn-ui-ui](reels/reel_8813_shadcn-ui-ui) |
