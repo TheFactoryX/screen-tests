@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8817 | [rubenbe/opensoho](https://github.com/rubenbe/opensoho) | Svelte · ⭐ 191 | 2026-09-20 |
+| #8818 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 284k | 2026-09-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8905,3 +8905,4 @@ If you need permission, you're thinking too much.
 | 8815 | 2026-09-20 11:49:16 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (263250⭐ JavaScript) | [reels/reel_8815_affaan-m-ECC](reels/reel_8815_affaan-m-ECC) |
 | 8816 | 2026-09-20 15:26:31 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (141282⭐ Python) | [reels/reel_8816_ytdl-org-youtube-dl](reels/reel_8816_ytdl-org-youtube-dl) |
 | 8817 | 2026-09-20 18:15:34 | [rubenbe/opensoho](https://github.com/rubenbe/opensoho) | ✅ full (191⭐ Svelte) | [reels/reel_8817_rubenbe-opensoho](reels/reel_8817_rubenbe-opensoho) |
+| 8818 | 2026-09-20 20:58:16 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (284039⭐ Python) | [reels/reel_8818_practical-tutorials-project-based-learning](reels/reel_8818_practical-tutorials-project-based-learning) |
