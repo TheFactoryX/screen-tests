@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8816 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 141k | 2026-09-20 |
+| #8817 | [rubenbe/opensoho](https://github.com/rubenbe/opensoho) | Svelte · ⭐ 191 | 2026-09-20 |
 ---
 
 ## 🎭 Selection Process
@@ -8904,3 +8904,4 @@ If you need permission, you're thinking too much.
 | 8814 | 2026-09-20 06:39:50 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (128886⭐ C++) | [reels/reel_8814_ggml-org-llama.cpp](reels/reel_8814_ggml-org-llama.cpp) |
 | 8815 | 2026-09-20 11:49:16 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (263250⭐ JavaScript) | [reels/reel_8815_affaan-m-ECC](reels/reel_8815_affaan-m-ECC) |
 | 8816 | 2026-09-20 15:26:31 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (141282⭐ Python) | [reels/reel_8816_ytdl-org-youtube-dl](reels/reel_8816_ytdl-org-youtube-dl) |
+| 8817 | 2026-09-20 18:15:34 | [rubenbe/opensoho](https://github.com/rubenbe/opensoho) | ✅ full (191⭐ Svelte) | [reels/reel_8817_rubenbe-opensoho](reels/reel_8817_rubenbe-opensoho) |
