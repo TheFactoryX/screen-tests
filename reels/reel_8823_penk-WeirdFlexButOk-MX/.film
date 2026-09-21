@@ -1,0 +1,24 @@
+{
+  "reel_number": 8823,
+  "recorded": "2026-09-21 18:41:17 UTC",
+  "repository": {
+    "full_name": "penk/WeirdFlexButOk-MX",
+    "url": "https://github.com/penk/WeirdFlexButOk-MX",
+    "clone_url": "https://github.com/penk/WeirdFlexButOk-MX.git",
+    "stars": 17,
+    "language": "C",
+    "size_kb": 16754
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 16,
+    "duration_seconds": 0.491325
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 17 stars."
+  }
+}
