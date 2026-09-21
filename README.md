@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8819 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 481k | 2026-09-20 |
+| #8820 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 192k | 2026-09-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8907,3 +8907,4 @@ If you need permission, you're thinking too much.
 | 8817 | 2026-09-20 18:15:34 | [rubenbe/opensoho](https://github.com/rubenbe/opensoho) | ✅ full (191⭐ Svelte) | [reels/reel_8817_rubenbe-opensoho](reels/reel_8817_rubenbe-opensoho) |
 | 8818 | 2026-09-20 20:58:16 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (284039⭐ Python) | [reels/reel_8818_practical-tutorials-project-based-learning](reels/reel_8818_practical-tutorials-project-based-learning) |
 | 8819 | 2026-09-20 23:06:41 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (481893⭐ Python) | [reels/reel_8819_public-apis-public-apis](reels/reel_8819_public-apis-public-apis) |
+| 8820 | 2026-09-21 01:03:59 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (192365⭐ Python) | [reels/reel_8820_yt-dlp-yt-dlp](reels/reel_8820_yt-dlp-yt-dlp) |
