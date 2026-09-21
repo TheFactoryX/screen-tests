@@ -1,0 +1,24 @@
+{
+  "reel_number": 8824,
+  "recorded": "2026-09-21 22:15:08 UTC",
+  "repository": {
+    "full_name": "electh/ReactFlux",
+    "url": "https://github.com/electh/ReactFlux",
+    "clone_url": "https://github.com/electh/ReactFlux.git",
+    "stars": 518,
+    "language": "JavaScript",
+    "size_kb": 178243
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 174,
+    "duration_seconds": 0.915506
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 518 stars."
+  }
+}

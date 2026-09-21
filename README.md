@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8823 | [penk/WeirdFlexButOk-MX](https://github.com/penk/WeirdFlexButOk-MX) | C · ⭐ 17 | 2026-09-21 |
+| #8824 | [electh/ReactFlux](https://github.com/electh/ReactFlux) | JavaScript · ⭐ 518 | 2026-09-21 |
 ---
 
 ## 🎭 Selection Process
@@ -8911,3 +8911,4 @@ If you need permission, you're thinking too much.
 | 8821 | 2026-09-21 06:19:40 | [feichai0017/orbitkv](https://github.com/feichai0017/orbitkv) | ✅ full (191⭐ Rust) | [reels/reel_8821_feichai0017-orbitkv](reels/reel_8821_feichai0017-orbitkv) |
 | 8822 | 2026-09-21 13:08:02 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (320713⭐ None) | [reels/reel_8822_awesome-selfhosted-awesome-selfhosted](reels/reel_8822_awesome-selfhosted-awesome-selfhosted) |
 | 8823 | 2026-09-21 18:41:17 | [penk/WeirdFlexButOk-MX](https://github.com/penk/WeirdFlexButOk-MX) | ✅ full (17⭐ C) | [reels/reel_8823_penk-WeirdFlexButOk-MX](reels/reel_8823_penk-WeirdFlexButOk-MX) |
+| 8824 | 2026-09-21 22:15:08 | [electh/ReactFlux](https://github.com/electh/ReactFlux) | ✅ shallow (518⭐ JavaScript) | [reels/reel_8824_electh-ReactFlux](reels/reel_8824_electh-ReactFlux) |
