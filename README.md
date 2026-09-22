@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8828 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 192k | 2026-09-22 |
+| #8829 | [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) | Python · ⭐ 876 | 2026-09-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8916,3 +8916,4 @@ If you need permission, you're thinking too much.
 | 8826 | 2026-09-22 05:50:58 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (284197⭐ Python) | [reels/reel_8826_practical-tutorials-project-based-learning](reels/reel_8826_practical-tutorials-project-based-learning) |
 | 8827 | 2026-09-22 10:57:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (205661⭐ TypeScript) | [reels/reel_8827_n8n-io-n8n](reels/reel_8827_n8n-io-n8n) |
 | 8828 | 2026-09-22 15:27:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (192883⭐ Python) | [reels/reel_8828_yt-dlp-yt-dlp](reels/reel_8828_yt-dlp-yt-dlp) |
+| 8829 | 2026-09-22 19:02:05 | [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) | ✅ shallow (876⭐ Python) | [reels/reel_8829_zhouzhouprogram-Shadowrocket-ADBlock-Rules](reels/reel_8829_zhouzhouprogram-Shadowrocket-ADBlock-Rules) |

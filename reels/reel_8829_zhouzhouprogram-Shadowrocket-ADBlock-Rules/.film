@@ -1,0 +1,24 @@
+{
+  "reel_number": 8829,
+  "recorded": "2026-09-22 19:02:05 UTC",
+  "repository": {
+    "full_name": "zhouzhouprogram/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules",
+    "clone_url": "https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules.git",
+    "stars": 876,
+    "language": "Python",
+    "size_kb": 236541
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 230,
+    "duration_seconds": 1.27115
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 876 stars."
+  }
+}
