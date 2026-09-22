@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8826 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 284k | 2026-09-22 |
+| #8827 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 205k | 2026-09-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8914,3 +8914,4 @@ If you need permission, you're thinking too much.
 | 8824 | 2026-09-21 22:15:08 | [electh/ReactFlux](https://github.com/electh/ReactFlux) | ✅ shallow (518⭐ JavaScript) | [reels/reel_8824_electh-ReactFlux](reels/reel_8824_electh-ReactFlux) |
 | 8825 | 2026-09-22 00:53:07 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (320841⭐ None) | [reels/reel_8825_awesome-selfhosted-awesome-selfhosted](reels/reel_8825_awesome-selfhosted-awesome-selfhosted) |
 | 8826 | 2026-09-22 05:50:58 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (284197⭐ Python) | [reels/reel_8826_practical-tutorials-project-based-learning](reels/reel_8826_practical-tutorials-project-based-learning) |
+| 8827 | 2026-09-22 10:57:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (205661⭐ TypeScript) | [reels/reel_8827_n8n-io-n8n](reels/reel_8827_n8n-io-n8n) |
