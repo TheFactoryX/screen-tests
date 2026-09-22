@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8829 | [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) | Python · ⭐ 876 | 2026-09-22 |
+| #8830 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 139k | 2026-09-22 |
 ---
 
 ## 🎭 Selection Process
@@ -8917,3 +8917,4 @@ If you need permission, you're thinking too much.
 | 8827 | 2026-09-22 10:57:46 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (205661⭐ TypeScript) | [reels/reel_8827_n8n-io-n8n](reels/reel_8827_n8n-io-n8n) |
 | 8828 | 2026-09-22 15:27:56 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (192883⭐ Python) | [reels/reel_8828_yt-dlp-yt-dlp](reels/reel_8828_yt-dlp-yt-dlp) |
 | 8829 | 2026-09-22 19:02:05 | [zhouzhouprogram/Shadowrocket-ADBlock-Rules](https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules) | ✅ shallow (876⭐ Python) | [reels/reel_8829_zhouzhouprogram-Shadowrocket-ADBlock-Rules](reels/reel_8829_zhouzhouprogram-Shadowrocket-ADBlock-Rules) |
+| 8830 | 2026-09-22 22:08:34 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (139295⭐ TypeScript) | [reels/reel_8830_iptv-org-iptv](reels/reel_8830_iptv-org-iptv) |
