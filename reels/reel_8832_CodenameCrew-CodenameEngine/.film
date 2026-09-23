@@ -1,0 +1,24 @@
+{
+  "reel_number": 8832,
+  "recorded": "2026-09-23 05:11:39 UTC",
+  "repository": {
+    "full_name": "CodenameCrew/CodenameEngine",
+    "url": "https://github.com/CodenameCrew/CodenameEngine",
+    "clone_url": "https://github.com/CodenameCrew/CodenameEngine.git",
+    "stars": 481,
+    "language": "Haxe",
+    "size_kb": 946511
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 924,
+    "duration_seconds": 0.000136
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Haxe",
+    "director_note": "A Haxe repository. 481 stars."
+  }
+}
