@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8833 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 214k | 2026-09-23 |
+| #8834 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 321k | 2026-09-23 |
 ---
 
 ## 🎭 Selection Process
@@ -8921,3 +8921,4 @@ If you need permission, you're thinking too much.
 | 8831 | 2026-09-23 00:32:18 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (139300⭐ TypeScript) | [reels/reel_8831_iptv-org-iptv](reels/reel_8831_iptv-org-iptv) |
 | 8832 | 2026-09-23 05:11:39 | [CodenameCrew/CodenameEngine](https://github.com/CodenameCrew/CodenameEngine) | ✅ readme_only (481⭐ Haxe) | [reels/reel_8832_CodenameCrew-CodenameEngine](reels/reel_8832_CodenameCrew-CodenameEngine) |
 | 8833 | 2026-09-23 09:59:37 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (214723⭐ None) | [reels/reel_8833_multica-ai-andrej-karpathy-skills](reels/reel_8833_multica-ai-andrej-karpathy-skills) |
+| 8834 | 2026-09-23 14:52:06 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (321211⭐ None) | [reels/reel_8834_awesome-selfhosted-awesome-selfhosted](reels/reel_8834_awesome-selfhosted-awesome-selfhosted) |
