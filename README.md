@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8837 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python · ⭐ 120k | 2026-09-24 |
+| #8838 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 124k | 2026-09-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8925,3 +8925,4 @@ If you need permission, you're thinking too much.
 | 8835 | 2026-09-23 18:49:40 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187515⭐ Python) | [reels/reel_8835_Significant-Gravitas-AutoGPT](reels/reel_8835_Significant-Gravitas-AutoGPT) |
 | 8836 | 2026-09-23 22:02:42 | [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | ✅ full (176⭐ Rust) | [reels/reel_8836_NVIDIA-NeMo-Relay](reels/reel_8836_NVIDIA-NeMo-Relay) |
 | 8837 | 2026-09-24 00:29:45 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (120920⭐ Python) | [reels/reel_8837_Graphify-Labs-graphify](reels/reel_8837_Graphify-Labs-graphify) |
+| 8838 | 2026-09-24 05:15:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (124502⭐ TypeScript) | [reels/reel_8838_shadcn-ui-ui](reels/reel_8838_shadcn-ui-ui) |
