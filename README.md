@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8840 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 155k | 2026-09-24 |
+| #8841 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 235k | 2026-09-24 |
 ---
 
 ## 🎭 Selection Process
@@ -8928,3 +8928,4 @@ If you need permission, you're thinking too much.
 | 8838 | 2026-09-24 05:15:23 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (124502⭐ TypeScript) | [reels/reel_8838_shadcn-ui-ui](reels/reel_8838_shadcn-ui-ui) |
 | 8839 | 2026-09-24 10:20:24 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (266420⭐ JavaScript) | [reels/reel_8839_affaan-m-ECC](reels/reel_8839_affaan-m-ECC) |
 | 8840 | 2026-09-24 15:22:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155205⭐ Python) | [reels/reel_8840_langflow-ai-langflow](reels/reel_8840_langflow-ai-langflow) |
+| 8841 | 2026-09-24 19:23:26 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (235078⭐ TypeScript) | [reels/reel_8841_deepseek-ai-deepseek-harness](reels/reel_8841_deepseek-ai-deepseek-harness) |
