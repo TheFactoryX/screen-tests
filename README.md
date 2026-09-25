@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8847 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 235k | 2026-09-25 |
+| #8848 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 267k | 2026-09-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8935,3 +8935,4 @@ If you need permission, you're thinking too much.
 | 8845 | 2026-09-25 11:08:43 | [ModinMobileSTS/SlayTheAmethystModded](https://github.com/ModinMobileSTS/SlayTheAmethystModded) | ✅ shallow (376⭐ Kotlin) | [reels/reel_8845_ModinMobileSTS-SlayTheAmethystModded](reels/reel_8845_ModinMobileSTS-SlayTheAmethystModded) |
 | 8846 | 2026-09-25 15:48:46 | [pf-lang/pipefish](https://github.com/pf-lang/pipefish) | ✅ full (199⭐ Go) | [reels/reel_8846_pf-lang-pipefish](reels/reel_8846_pf-lang-pipefish) |
 | 8847 | 2026-09-25 19:48:58 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (235940⭐ TypeScript) | [reels/reel_8847_deepseek-ai-deepseek-harness](reels/reel_8847_deepseek-ai-deepseek-harness) |
+| 8848 | 2026-09-25 23:04:25 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (267461⭐ JavaScript) | [reels/reel_8848_affaan-m-ECC](reels/reel_8848_affaan-m-ECC) |
