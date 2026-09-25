@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8845 | [ModinMobileSTS/SlayTheAmethystModded](https://github.com/ModinMobileSTS/SlayTheAmethystModded) | Kotlin · ⭐ 376 | 2026-09-25 |
+| #8846 | [pf-lang/pipefish](https://github.com/pf-lang/pipefish) | Go · ⭐ 199 | 2026-09-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8933,3 +8933,4 @@ If you need permission, you're thinking too much.
 | 8843 | 2026-09-25 00:50:36 | [pulumi/docs](https://github.com/pulumi/docs) | ✅ readme_only (178⭐ HTML) | [reels/reel_8843_pulumi-docs](reels/reel_8843_pulumi-docs) |
 | 8844 | 2026-09-25 05:47:59 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (147183⭐ Rust) | [reels/reel_8844_clash-verge-rev-clash-verge-rev](reels/reel_8844_clash-verge-rev-clash-verge-rev) |
 | 8845 | 2026-09-25 11:08:43 | [ModinMobileSTS/SlayTheAmethystModded](https://github.com/ModinMobileSTS/SlayTheAmethystModded) | ✅ shallow (376⭐ Kotlin) | [reels/reel_8845_ModinMobileSTS-SlayTheAmethystModded](reels/reel_8845_ModinMobileSTS-SlayTheAmethystModded) |
+| 8846 | 2026-09-25 15:48:46 | [pf-lang/pipefish](https://github.com/pf-lang/pipefish) | ✅ full (199⭐ Go) | [reels/reel_8846_pf-lang-pipefish](reels/reel_8846_pf-lang-pipefish) |
