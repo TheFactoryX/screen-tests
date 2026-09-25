@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8846 | [pf-lang/pipefish](https://github.com/pf-lang/pipefish) | Go · ⭐ 199 | 2026-09-25 |
+| #8847 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 235k | 2026-09-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8934,3 +8934,4 @@ If you need permission, you're thinking too much.
 | 8844 | 2026-09-25 05:47:59 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (147183⭐ Rust) | [reels/reel_8844_clash-verge-rev-clash-verge-rev](reels/reel_8844_clash-verge-rev-clash-verge-rev) |
 | 8845 | 2026-09-25 11:08:43 | [ModinMobileSTS/SlayTheAmethystModded](https://github.com/ModinMobileSTS/SlayTheAmethystModded) | ✅ shallow (376⭐ Kotlin) | [reels/reel_8845_ModinMobileSTS-SlayTheAmethystModded](reels/reel_8845_ModinMobileSTS-SlayTheAmethystModded) |
 | 8846 | 2026-09-25 15:48:46 | [pf-lang/pipefish](https://github.com/pf-lang/pipefish) | ✅ full (199⭐ Go) | [reels/reel_8846_pf-lang-pipefish](reels/reel_8846_pf-lang-pipefish) |
+| 8847 | 2026-09-25 19:48:58 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (235940⭐ TypeScript) | [reels/reel_8847_deepseek-ai-deepseek-harness](reels/reel_8847_deepseek-ai-deepseek-harness) |
