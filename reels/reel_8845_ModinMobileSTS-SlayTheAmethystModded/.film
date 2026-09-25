@@ -1,0 +1,24 @@
+{
+  "reel_number": 8845,
+  "recorded": "2026-09-25 11:08:43 UTC",
+  "repository": {
+    "full_name": "ModinMobileSTS/SlayTheAmethystModded",
+    "url": "https://github.com/ModinMobileSTS/SlayTheAmethystModded",
+    "clone_url": "https://github.com/ModinMobileSTS/SlayTheAmethystModded.git",
+    "stars": 376,
+    "language": "Kotlin",
+    "size_kb": 148824
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 145,
+    "duration_seconds": 4.166412
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 376 stars."
+  }
+}
