@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8842 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 147k | 2026-09-24 |
+| #8843 | [pulumi/docs](https://github.com/pulumi/docs) | HTML · ⭐ 178 | 2026-09-25 |
 ---
 
 ## 🎭 Selection Process
@@ -8930,3 +8930,4 @@ If you need permission, you're thinking too much.
 | 8840 | 2026-09-24 15:22:11 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155205⭐ Python) | [reels/reel_8840_langflow-ai-langflow](reels/reel_8840_langflow-ai-langflow) |
 | 8841 | 2026-09-24 19:23:26 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (235078⭐ TypeScript) | [reels/reel_8841_deepseek-ai-deepseek-harness](reels/reel_8841_deepseek-ai-deepseek-harness) |
 | 8842 | 2026-09-24 22:37:20 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (147011⭐ Python) | [reels/reel_8842_langchain-ai-langchain](reels/reel_8842_langchain-ai-langchain) |
+| 8843 | 2026-09-25 00:50:36 | [pulumi/docs](https://github.com/pulumi/docs) | ✅ readme_only (178⭐ HTML) | [reels/reel_8843_pulumi-docs](reels/reel_8843_pulumi-docs) |

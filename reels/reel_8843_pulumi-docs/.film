@@ -1,0 +1,24 @@
+{
+  "reel_number": 8843,
+  "recorded": "2026-09-25 00:50:36 UTC",
+  "repository": {
+    "full_name": "pulumi/docs",
+    "url": "https://github.com/pulumi/docs",
+    "clone_url": "https://github.com/pulumi/docs.git",
+    "stars": 178,
+    "language": "HTML",
+    "size_kb": 2760871
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 2696,
+    "duration_seconds": 0.000138
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 178 stars."
+  }
+}
