@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8851 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript · ⭐ 238 | 2026-09-26 |
+| #8852 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 483k | 2026-09-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8939,3 +8939,4 @@ If you need permission, you're thinking too much.
 | 8849 | 2026-09-26 01:32:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (147062⭐ Python) | [reels/reel_8849_langchain-ai-langchain](reels/reel_8849_langchain-ai-langchain) |
 | 8850 | 2026-09-26 06:36:52 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (135005⭐ Python) | [reels/reel_8850_Comfy-Org-ComfyUI](reels/reel_8850_Comfy-Org-ComfyUI) |
 | 8851 | 2026-09-26 11:47:38 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | ✅ full (238⭐ TypeScript) | [reels/reel_8851_nightly-labs-openbot](reels/reel_8851_nightly-labs-openbot) |
+| 8852 | 2026-09-26 15:46:34 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (483458⭐ Python) | [reels/reel_8852_public-apis-public-apis](reels/reel_8852_public-apis-public-apis) |
