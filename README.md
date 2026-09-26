@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8849 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 147k | 2026-09-26 |
+| #8850 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 135k | 2026-09-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8937,3 +8937,4 @@ If you need permission, you're thinking too much.
 | 8847 | 2026-09-25 19:48:58 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (235940⭐ TypeScript) | [reels/reel_8847_deepseek-ai-deepseek-harness](reels/reel_8847_deepseek-ai-deepseek-harness) |
 | 8848 | 2026-09-25 23:04:25 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (267461⭐ JavaScript) | [reels/reel_8848_affaan-m-ECC](reels/reel_8848_affaan-m-ECC) |
 | 8849 | 2026-09-26 01:32:48 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (147062⭐ Python) | [reels/reel_8849_langchain-ai-langchain](reels/reel_8849_langchain-ai-langchain) |
+| 8850 | 2026-09-26 06:36:52 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (135005⭐ Python) | [reels/reel_8850_Comfy-Org-ComfyUI](reels/reel_8850_Comfy-Org-ComfyUI) |
