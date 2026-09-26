@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8853 | [richlander/dotnet-inspect](https://github.com/richlander/dotnet-inspect) | C# · ⭐ 150 | 2026-09-26 |
+| #8854 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 147k | 2026-09-26 |
 ---
 
 ## 🎭 Selection Process
@@ -8941,3 +8941,4 @@ If you need permission, you're thinking too much.
 | 8851 | 2026-09-26 11:47:38 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | ✅ full (238⭐ TypeScript) | [reels/reel_8851_nightly-labs-openbot](reels/reel_8851_nightly-labs-openbot) |
 | 8852 | 2026-09-26 15:46:34 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (483458⭐ Python) | [reels/reel_8852_public-apis-public-apis](reels/reel_8852_public-apis-public-apis) |
 | 8853 | 2026-09-26 18:59:26 | [richlander/dotnet-inspect](https://github.com/richlander/dotnet-inspect) | ✅ shallow (150⭐ C#) | [reels/reel_8853_richlander-dotnet-inspect](reels/reel_8853_richlander-dotnet-inspect) |
+| 8854 | 2026-09-26 21:55:37 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (147111⭐ Python) | [reels/reel_8854_langchain-ai-langchain](reels/reel_8854_langchain-ai-langchain) |
