@@ -1,0 +1,24 @@
+{
+  "reel_number": 8851,
+  "recorded": "2026-09-26 11:47:38 UTC",
+  "repository": {
+    "full_name": "nightly-labs/openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "clone_url": "https://github.com/nightly-labs/openbot.git",
+    "stars": 238,
+    "language": "TypeScript",
+    "size_kb": 76503
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 74,
+    "duration_seconds": 2.615662
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 238 stars."
+  }
+}
