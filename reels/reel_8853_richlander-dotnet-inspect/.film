@@ -1,0 +1,24 @@
+{
+  "reel_number": 8853,
+  "recorded": "2026-09-26 18:59:26 UTC",
+  "repository": {
+    "full_name": "richlander/dotnet-inspect",
+    "url": "https://github.com/richlander/dotnet-inspect",
+    "clone_url": "https://github.com/richlander/dotnet-inspect.git",
+    "stars": 150,
+    "language": "C#",
+    "size_kb": 118903
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 116,
+    "duration_seconds": 6.792034
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C#",
+    "director_note": "A C# repository. 150 stars."
+  }
+}
