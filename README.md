@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8857 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 119k | 2026-09-27 |
+| #8858 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 141k | 2026-09-27 |
 ---
 
 ## 🎭 Selection Process
@@ -8945,3 +8945,4 @@ If you need permission, you're thinking too much.
 | 8855 | 2026-09-27 00:15:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187581⭐ Python) | [reels/reel_8855_Significant-Gravitas-AutoGPT](reels/reel_8855_Significant-Gravitas-AutoGPT) |
 | 8856 | 2026-09-27 05:33:18 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187583⭐ Python) | [reels/reel_8856_Significant-Gravitas-AutoGPT](reels/reel_8856_Significant-Gravitas-AutoGPT) |
 | 8857 | 2026-09-27 10:45:00 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (119231⭐ Rust) | [reels/reel_8857_rust-lang-rust](reels/reel_8857_rust-lang-rust) |
+| 8858 | 2026-09-27 15:19:52 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (141382⭐ Python) | [reels/reel_8858_ytdl-org-youtube-dl](reels/reel_8858_ytdl-org-youtube-dl) |
