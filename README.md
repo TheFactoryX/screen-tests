@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8862 | [cisco-open/lrac_data_generation](https://github.com/cisco-open/lrac_data_generation) | Python · ⭐ 14 | 2026-09-28 |
+| #8863 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 483k | 2026-09-28 |
 ---
 
 ## 🎭 Selection Process
@@ -8950,3 +8950,4 @@ If you need permission, you're thinking too much.
 | 8860 | 2026-09-27 22:09:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155307⭐ Python) | [reels/reel_8860_langflow-ai-langflow](reels/reel_8860_langflow-ai-langflow) |
 | 8861 | 2026-09-28 00:45:05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187593⭐ Python) | [reels/reel_8861_Significant-Gravitas-AutoGPT](reels/reel_8861_Significant-Gravitas-AutoGPT) |
 | 8862 | 2026-09-28 05:56:08 | [cisco-open/lrac_data_generation](https://github.com/cisco-open/lrac_data_generation) | ✅ shallow (14⭐ Python) | [reels/reel_8862_cisco-open-lrac_data_generation](reels/reel_8862_cisco-open-lrac_data_generation) |
+| 8863 | 2026-09-28 13:04:03 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (483984⭐ Python) | [reels/reel_8863_public-apis-public-apis](reels/reel_8863_public-apis-public-apis) |
