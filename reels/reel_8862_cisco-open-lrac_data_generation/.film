@@ -1,0 +1,24 @@
+{
+  "reel_number": 8862,
+  "recorded": "2026-09-28 05:56:08 UTC",
+  "repository": {
+    "full_name": "cisco-open/lrac_data_generation",
+    "url": "https://github.com/cisco-open/lrac_data_generation",
+    "clone_url": "https://github.com/cisco-open/lrac_data_generation.git",
+    "stars": 14,
+    "language": "Python",
+    "size_kb": 164945
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 161,
+    "duration_seconds": 2.497712
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 14 stars."
+  }
+}
