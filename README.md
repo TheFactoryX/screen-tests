@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8860 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 155k | 2026-09-27 |
+| #8861 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-09-28 |
 ---
 
 ## 🎭 Selection Process
@@ -8948,3 +8948,4 @@ If you need permission, you're thinking too much.
 | 8858 | 2026-09-27 15:19:52 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (141382⭐ Python) | [reels/reel_8858_ytdl-org-youtube-dl](reels/reel_8858_ytdl-org-youtube-dl) |
 | 8859 | 2026-09-27 19:08:36 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (550103⭐ Markdown) | [reels/reel_8859_codecrafters-io-build-your-own-x](reels/reel_8859_codecrafters-io-build-your-own-x) |
 | 8860 | 2026-09-27 22:09:32 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155307⭐ Python) | [reels/reel_8860_langflow-ai-langflow](reels/reel_8860_langflow-ai-langflow) |
+| 8861 | 2026-09-28 00:45:05 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187593⭐ Python) | [reels/reel_8861_Significant-Gravitas-AutoGPT](reels/reel_8861_Significant-Gravitas-AutoGPT) |
