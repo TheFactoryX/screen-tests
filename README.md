@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8866 | [walletbeat/walletbeat](https://github.com/walletbeat/walletbeat) | TypeScript · ⭐ 119 | 2026-09-29 |
+| #8867 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 269k | 2026-09-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8954,3 +8954,4 @@ If you need permission, you're thinking too much.
 | 8864 | 2026-09-28 20:06:46 | [palantir/documentalist](https://github.com/palantir/documentalist) | ✅ full (159⭐ TypeScript) | [reels/reel_8864_palantir-documentalist](reels/reel_8864_palantir-documentalist) |
 | 8865 | 2026-09-29 00:21:41 | [ahatem/QTranslate](https://github.com/ahatem/QTranslate) | ✅ full (227⭐ Kotlin) | [reels/reel_8865_ahatem-QTranslate](reels/reel_8865_ahatem-QTranslate) |
 | 8866 | 2026-09-29 05:58:59 | [walletbeat/walletbeat](https://github.com/walletbeat/walletbeat) | ✅ shallow (119⭐ TypeScript) | [reels/reel_8866_walletbeat-walletbeat](reels/reel_8866_walletbeat-walletbeat) |
+| 8867 | 2026-09-29 12:38:24 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (269327⭐ JavaScript) | [reels/reel_8867_affaan-m-ECC](reels/reel_8867_affaan-m-ECC) |
