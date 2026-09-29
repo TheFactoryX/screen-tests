@@ -1,0 +1,24 @@
+{
+  "reel_number": 8865,
+  "recorded": "2026-09-29 00:21:41 UTC",
+  "repository": {
+    "full_name": "ahatem/QTranslate",
+    "url": "https://github.com/ahatem/QTranslate",
+    "clone_url": "https://github.com/ahatem/QTranslate.git",
+    "stars": 227,
+    "language": "Kotlin",
+    "size_kb": 18112
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 17,
+    "duration_seconds": 1.60586
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 227 stars."
+  }
+}

@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8864 | [palantir/documentalist](https://github.com/palantir/documentalist) | TypeScript · ⭐ 159 | 2026-09-28 |
+| #8865 | [ahatem/QTranslate](https://github.com/ahatem/QTranslate) | Kotlin · ⭐ 227 | 2026-09-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8952,3 +8952,4 @@ If you need permission, you're thinking too much.
 | 8862 | 2026-09-28 05:56:08 | [cisco-open/lrac_data_generation](https://github.com/cisco-open/lrac_data_generation) | ✅ shallow (14⭐ Python) | [reels/reel_8862_cisco-open-lrac_data_generation](reels/reel_8862_cisco-open-lrac_data_generation) |
 | 8863 | 2026-09-28 13:04:03 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (483984⭐ Python) | [reels/reel_8863_public-apis-public-apis](reels/reel_8863_public-apis-public-apis) |
 | 8864 | 2026-09-28 20:06:46 | [palantir/documentalist](https://github.com/palantir/documentalist) | ✅ full (159⭐ TypeScript) | [reels/reel_8864_palantir-documentalist](reels/reel_8864_palantir-documentalist) |
+| 8865 | 2026-09-29 00:21:41 | [ahatem/QTranslate](https://github.com/ahatem/QTranslate) | ✅ full (227⭐ Kotlin) | [reels/reel_8865_ahatem-QTranslate](reels/reel_8865_ahatem-QTranslate) |
