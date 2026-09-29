@@ -1,0 +1,24 @@
+{
+  "reel_number": 8866,
+  "recorded": "2026-09-29 05:58:59 UTC",
+  "repository": {
+    "full_name": "walletbeat/walletbeat",
+    "url": "https://github.com/walletbeat/walletbeat",
+    "clone_url": "https://github.com/walletbeat/walletbeat.git",
+    "stars": 119,
+    "language": "TypeScript",
+    "size_kb": 235704
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 230,
+    "duration_seconds": 6.306557
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 119 stars."
+  }
+}
