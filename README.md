@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8867 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 269k | 2026-09-29 |
+| #8868 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 484k | 2026-09-29 |
 ---
 
 ## 🎭 Selection Process
@@ -8955,3 +8955,4 @@ If you need permission, you're thinking too much.
 | 8865 | 2026-09-29 00:21:41 | [ahatem/QTranslate](https://github.com/ahatem/QTranslate) | ✅ full (227⭐ Kotlin) | [reels/reel_8865_ahatem-QTranslate](reels/reel_8865_ahatem-QTranslate) |
 | 8866 | 2026-09-29 05:58:59 | [walletbeat/walletbeat](https://github.com/walletbeat/walletbeat) | ✅ shallow (119⭐ TypeScript) | [reels/reel_8866_walletbeat-walletbeat](reels/reel_8866_walletbeat-walletbeat) |
 | 8867 | 2026-09-29 12:38:24 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (269327⭐ JavaScript) | [reels/reel_8867_affaan-m-ECC](reels/reel_8867_affaan-m-ECC) |
+| 8868 | 2026-09-29 18:15:37 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (484341⭐ Python) | [reels/reel_8868_public-apis-public-apis](reels/reel_8868_public-apis-public-apis) |
