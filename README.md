@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8869 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 135k | 2026-09-29 |
+| #8870 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 322k | 2026-09-30 |
 ---
 
 ## 🎭 Selection Process
@@ -8957,3 +8957,4 @@ If you need permission, you're thinking too much.
 | 8867 | 2026-09-29 12:38:24 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (269327⭐ JavaScript) | [reels/reel_8867_affaan-m-ECC](reels/reel_8867_affaan-m-ECC) |
 | 8868 | 2026-09-29 18:15:37 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (484341⭐ Python) | [reels/reel_8868_public-apis-public-apis](reels/reel_8868_public-apis-public-apis) |
 | 8869 | 2026-09-29 22:30:01 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (135522⭐ Python) | [reels/reel_8869_Comfy-Org-ComfyUI](reels/reel_8869_Comfy-Org-ComfyUI) |
+| 8870 | 2026-09-30 01:28:11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (322745⭐ None) | [reels/reel_8870_awesome-selfhosted-awesome-selfhosted](reels/reel_8870_awesome-selfhosted-awesome-selfhosted) |
