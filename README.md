@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8874 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 119k | 2026-09-30 |
+| #8875 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 322k | 2026-10-01 |
 ---
 
 ## 🎭 Selection Process
@@ -8962,3 +8962,4 @@ If you need permission, you're thinking too much.
 | 8872 | 2026-09-30 13:48:23 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (139926⭐ TypeScript) | [reels/reel_8872_iptv-org-iptv](reels/reel_8872_iptv-org-iptv) |
 | 8873 | 2026-09-30 18:49:02 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155395⭐ Python) | [reels/reel_8873_langflow-ai-langflow](reels/reel_8873_langflow-ai-langflow) |
 | 8874 | 2026-09-30 22:48:24 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (119356⭐ Rust) | [reels/reel_8874_rust-lang-rust](reels/reel_8874_rust-lang-rust) |
+| 8875 | 2026-10-01 01:47:53 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (322991⭐ None) | [reels/reel_8875_awesome-selfhosted-awesome-selfhosted](reels/reel_8875_awesome-selfhosted-awesome-selfhosted) |
