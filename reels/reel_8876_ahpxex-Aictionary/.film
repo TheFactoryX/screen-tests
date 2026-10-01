@@ -1,0 +1,24 @@
+{
+  "reel_number": 8876,
+  "recorded": "2026-10-01 08:18:13 UTC",
+  "repository": {
+    "full_name": "ahpxex/Aictionary",
+    "url": "https://github.com/ahpxex/Aictionary",
+    "clone_url": "https://github.com/ahpxex/Aictionary.git",
+    "stars": 827,
+    "language": "TypeScript",
+    "size_kb": 5676
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 5,
+    "duration_seconds": 1.120665
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 827 stars."
+  }
+}
