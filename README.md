@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8881 | [AI-Hub-Admin/Craftsman-Agent](https://github.com/AI-Hub-Admin/Craftsman-Agent) | Python · ⭐ 17 | 2026-10-02 |
+| #8882 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 285k | 2026-10-02 |
 ---
 
 ## 🎭 Selection Process
@@ -8969,3 +8969,4 @@ If you need permission, you're thinking too much.
 | 8879 | 2026-10-02 00:14:06 | [socfortress/CoPilot](https://github.com/socfortress/CoPilot) | ✅ full (531⭐ Python) | [reels/reel_8879_socfortress-CoPilot](reels/reel_8879_socfortress-CoPilot) |
 | 8880 | 2026-10-02 05:45:04 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (270793⭐ JavaScript) | [reels/reel_8880_affaan-m-ECC](reels/reel_8880_affaan-m-ECC) |
 | 8881 | 2026-10-02 11:22:39 | [AI-Hub-Admin/Craftsman-Agent](https://github.com/AI-Hub-Admin/Craftsman-Agent) | ✅ full (17⭐ Python) | [reels/reel_8881_AI-Hub-Admin-Craftsman-Agent](reels/reel_8881_AI-Hub-Admin-Craftsman-Agent) |
+| 8882 | 2026-10-02 16:45:15 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (285617⭐ Python) | [reels/reel_8882_practical-tutorials-project-based-learning](reels/reel_8882_practical-tutorials-project-based-learning) |
