@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8886 | [anthropics/claude-code-playground](https://github.com/anthropics/claude-code-playground) | JavaScript · ⭐ 71 | 2026-10-03 |
+| #8887 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 242k | 2026-10-03 |
 ---
 
 ## 🎭 Selection Process
@@ -8974,3 +8974,4 @@ If you need permission, you're thinking too much.
 | 8884 | 2026-10-03 00:29:25 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187637⭐ Python) | [reels/reel_8884_Significant-Gravitas-AutoGPT](reels/reel_8884_Significant-Gravitas-AutoGPT) |
 | 8885 | 2026-10-03 05:39:27 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (148900⭐ Rust) | [reels/reel_8885_clash-verge-rev-clash-verge-rev](reels/reel_8885_clash-verge-rev-clash-verge-rev) |
 | 8886 | 2026-10-03 10:37:17 | [anthropics/claude-code-playground](https://github.com/anthropics/claude-code-playground) | ✅ full (71⭐ JavaScript) | [reels/reel_8886_anthropics-claude-code-playground](reels/reel_8886_anthropics-claude-code-playground) |
+| 8887 | 2026-10-03 14:55:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (242753⭐ TypeScript) | [reels/reel_8887_deepseek-ai-deepseek-harness](reels/reel_8887_deepseek-ai-deepseek-harness) |
