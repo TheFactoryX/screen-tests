@@ -1,0 +1,24 @@
+{
+  "reel_number": 8886,
+  "recorded": "2026-10-03 10:37:17 UTC",
+  "repository": {
+    "full_name": "anthropics/claude-code-playground",
+    "url": "https://github.com/anthropics/claude-code-playground",
+    "clone_url": "https://github.com/anthropics/claude-code-playground.git",
+    "stars": 71,
+    "language": "JavaScript",
+    "size_kb": 691
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.164801
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 71 stars."
+  }
+}
