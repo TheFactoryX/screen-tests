@@ -1,0 +1,24 @@
+{
+  "reel_number": 8895,
+  "recorded": "2026-10-04 22:43:31 UTC",
+  "repository": {
+    "full_name": "alienplatform/alien",
+    "url": "https://github.com/alienplatform/alien",
+    "clone_url": "https://github.com/alienplatform/alien.git",
+    "stars": 247,
+    "language": "Rust",
+    "size_kb": 50815
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 49,
+    "duration_seconds": 4.893443
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 247 stars."
+  }
+}

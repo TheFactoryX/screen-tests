@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8894 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 140k | 2026-10-04 |
+| #8895 | [alienplatform/alien](https://github.com/alienplatform/alien) | Rust · ⭐ 247 | 2026-10-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8982,3 +8982,4 @@ If you need permission, you're thinking too much.
 | 8892 | 2026-10-04 12:20:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (206624⭐ TypeScript) | [reels/reel_8892_n8n-io-n8n](reels/reel_8892_n8n-io-n8n) |
 | 8893 | 2026-10-04 16:55:43 | [hahwul/gori](https://github.com/hahwul/gori) | ✅ full (117⭐ Crystal) | [reels/reel_8893_hahwul-gori](reels/reel_8893_hahwul-gori) |
 | 8894 | 2026-10-04 19:54:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (140318⭐ TypeScript) | [reels/reel_8894_iptv-org-iptv](reels/reel_8894_iptv-org-iptv) |
+| 8895 | 2026-10-04 22:43:31 | [alienplatform/alien](https://github.com/alienplatform/alien) | ✅ full (247⭐ Rust) | [reels/reel_8895_alienplatform-alien](reels/reel_8895_alienplatform-alien) |
