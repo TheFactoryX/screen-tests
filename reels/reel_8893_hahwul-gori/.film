@@ -1,0 +1,24 @@
+{
+  "reel_number": 8893,
+  "recorded": "2026-10-04 16:55:43 UTC",
+  "repository": {
+    "full_name": "hahwul/gori",
+    "url": "https://github.com/hahwul/gori",
+    "clone_url": "https://github.com/hahwul/gori.git",
+    "stars": 117,
+    "language": "Crystal",
+    "size_kb": 93765
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 91,
+    "duration_seconds": 3.4367
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Crystal",
+    "director_note": "A Crystal repository. 117 stars."
+  }
+}

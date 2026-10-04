@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8892 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 206k | 2026-10-04 |
+| #8893 | [hahwul/gori](https://github.com/hahwul/gori) | Crystal · ⭐ 117 | 2026-10-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8980,3 +8980,4 @@ If you need permission, you're thinking too much.
 | 8890 | 2026-10-04 00:21:03 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155486⭐ Python) | [reels/reel_8890_langflow-ai-langflow](reels/reel_8890_langflow-ai-langflow) |
 | 8891 | 2026-10-04 06:10:13 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187643⭐ Python) | [reels/reel_8891_Significant-Gravitas-AutoGPT](reels/reel_8891_Significant-Gravitas-AutoGPT) |
 | 8892 | 2026-10-04 12:20:29 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (206624⭐ TypeScript) | [reels/reel_8892_n8n-io-n8n](reels/reel_8892_n8n-io-n8n) |
+| 8893 | 2026-10-04 16:55:43 | [hahwul/gori](https://github.com/hahwul/gori) | ✅ full (117⭐ Crystal) | [reels/reel_8893_hahwul-gori](reels/reel_8893_hahwul-gori) |
