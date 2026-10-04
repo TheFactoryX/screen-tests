@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8889 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | None · ⭐ 608 | 2026-10-03 |
+| #8890 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 155k | 2026-10-04 |
 ---
 
 ## 🎭 Selection Process
@@ -8977,3 +8977,4 @@ If you need permission, you're thinking too much.
 | 8887 | 2026-10-03 14:55:41 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (242753⭐ TypeScript) | [reels/reel_8887_deepseek-ai-deepseek-harness](reels/reel_8887_deepseek-ai-deepseek-harness) |
 | 8888 | 2026-10-03 18:32:36 | [jondgoodwin/cone](https://github.com/jondgoodwin/cone) | ✅ full (559⭐ C) | [reels/reel_8888_jondgoodwin-cone](reels/reel_8888_jondgoodwin-cone) |
 | 8889 | 2026-10-03 21:48:44 | [hello-world-1989/cn-news](https://github.com/hello-world-1989/cn-news) | ✅ full (608⭐ None) | [reels/reel_8889_hello-world-1989-cn-news](reels/reel_8889_hello-world-1989-cn-news) |
+| 8890 | 2026-10-04 00:21:03 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155486⭐ Python) | [reels/reel_8890_langflow-ai-langflow](reels/reel_8890_langflow-ai-langflow) |
