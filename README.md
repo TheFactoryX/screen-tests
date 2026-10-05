@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8898 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 121k | 2026-10-05 |
+| #8899 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 149k | 2026-10-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8986,3 +8986,4 @@ If you need permission, you're thinking too much.
 | 8896 | 2026-10-05 01:18:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (147443⭐ Python) | [reels/reel_8896_langchain-ai-langchain](reels/reel_8896_langchain-ai-langchain) |
 | 8897 | 2026-10-05 07:25:18 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (136128⭐ Python) | [reels/reel_8897_Comfy-Org-ComfyUI](reels/reel_8897_Comfy-Org-ComfyUI) |
 | 8898 | 2026-10-05 16:17:05 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (121913⭐ None) | [reels/reel_8898_Hack-with-Github-Awesome-Hacking](reels/reel_8898_Hack-with-Github-Awesome-Hacking) |
+| 8899 | 2026-10-05 22:49:40 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (149378⭐ Rust) | [reels/reel_8899_clash-verge-rev-clash-verge-rev](reels/reel_8899_clash-verge-rev-clash-verge-rev) |
