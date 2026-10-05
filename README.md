@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8896 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 147k | 2026-10-05 |
+| #8897 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 136k | 2026-10-05 |
 ---
 
 ## 🎭 Selection Process
@@ -8984,3 +8984,4 @@ If you need permission, you're thinking too much.
 | 8894 | 2026-10-04 19:54:10 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (140318⭐ TypeScript) | [reels/reel_8894_iptv-org-iptv](reels/reel_8894_iptv-org-iptv) |
 | 8895 | 2026-10-04 22:43:31 | [alienplatform/alien](https://github.com/alienplatform/alien) | ✅ full (247⭐ Rust) | [reels/reel_8895_alienplatform-alien](reels/reel_8895_alienplatform-alien) |
 | 8896 | 2026-10-05 01:18:08 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (147443⭐ Python) | [reels/reel_8896_langchain-ai-langchain](reels/reel_8896_langchain-ai-langchain) |
+| 8897 | 2026-10-05 07:25:18 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (136128⭐ Python) | [reels/reel_8897_Comfy-Org-ComfyUI](reels/reel_8897_Comfy-Org-ComfyUI) |
