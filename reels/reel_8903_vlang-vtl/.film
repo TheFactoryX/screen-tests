@@ -1,0 +1,24 @@
+{
+  "reel_number": 8903,
+  "recorded": "2026-10-06 20:58:30 UTC",
+  "repository": {
+    "full_name": "vlang/vtl",
+    "url": "https://github.com/vlang/vtl",
+    "clone_url": "https://github.com/vlang/vtl.git",
+    "stars": 169,
+    "language": "V",
+    "size_kb": 6420
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 6,
+    "duration_seconds": 1.17094
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "V",
+    "director_note": "A V repository. 169 stars."
+  }
+}
