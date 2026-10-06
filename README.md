@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8901 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 286k | 2026-10-06 |
+| #8902 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 217k | 2026-10-06 |
 ---
 
 ## 🎭 Selection Process
@@ -8989,3 +8989,4 @@ If you need permission, you're thinking too much.
 | 8899 | 2026-10-05 22:49:40 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (149378⭐ Rust) | [reels/reel_8899_clash-verge-rev-clash-verge-rev](reels/reel_8899_clash-verge-rev-clash-verge-rev) |
 | 8900 | 2026-10-06 02:40:49 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (206736⭐ TypeScript) | [reels/reel_8900_n8n-io-n8n](reels/reel_8900_n8n-io-n8n) |
 | 8901 | 2026-10-06 09:25:27 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (286006⭐ Python) | [reels/reel_8901_practical-tutorials-project-based-learning](reels/reel_8901_practical-tutorials-project-based-learning) |
+| 8902 | 2026-10-06 16:06:45 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (217226⭐ None) | [reels/reel_8902_multica-ai-andrej-karpathy-skills](reels/reel_8902_multica-ai-andrej-karpathy-skills) |
