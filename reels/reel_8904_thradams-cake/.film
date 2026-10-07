@@ -1,0 +1,24 @@
+{
+  "reel_number": 8904,
+  "recorded": "2026-10-07 00:32:15 UTC",
+  "repository": {
+    "full_name": "thradams/cake",
+    "url": "https://github.com/thradams/cake",
+    "clone_url": "https://github.com/thradams/cake.git",
+    "stars": 710,
+    "language": "C",
+    "size_kb": 272464
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 266,
+    "duration_seconds": 2.70859
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 710 stars."
+  }
+}

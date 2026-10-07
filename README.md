@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8903 | [vlang/vtl](https://github.com/vlang/vtl) | V · ⭐ 169 | 2026-10-06 |
+| #8904 | [thradams/cake](https://github.com/thradams/cake) | C · ⭐ 710 | 2026-10-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8991,3 +8991,4 @@ If you need permission, you're thinking too much.
 | 8901 | 2026-10-06 09:25:27 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (286006⭐ Python) | [reels/reel_8901_practical-tutorials-project-based-learning](reels/reel_8901_practical-tutorials-project-based-learning) |
 | 8902 | 2026-10-06 16:06:45 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (217226⭐ None) | [reels/reel_8902_multica-ai-andrej-karpathy-skills](reels/reel_8902_multica-ai-andrej-karpathy-skills) |
 | 8903 | 2026-10-06 20:58:30 | [vlang/vtl](https://github.com/vlang/vtl) | ✅ full (169⭐ V) | [reels/reel_8903_vlang-vtl](reels/reel_8903_vlang-vtl) |
+| 8904 | 2026-10-07 00:32:15 | [thradams/cake](https://github.com/thradams/cake) | ✅ shallow (710⭐ C) | [reels/reel_8904_thradams-cake](reels/reel_8904_thradams-cake) |
