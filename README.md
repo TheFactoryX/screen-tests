@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8906 | [muni-town/weird](https://github.com/muni-town/weird) | TypeScript · ⭐ 210 | 2026-10-07 |
+| #8907 | [stoopid-computers/funchole](https://github.com/stoopid-computers/funchole) | Java · ⭐ 61 | 2026-10-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8994,3 +8994,4 @@ If you need permission, you're thinking too much.
 | 8904 | 2026-10-07 00:32:15 | [thradams/cake](https://github.com/thradams/cake) | ✅ shallow (710⭐ C) | [reels/reel_8904_thradams-cake](reels/reel_8904_thradams-cake) |
 | 8905 | 2026-10-07 06:29:26 | [twobigears/Circle-Synth](https://github.com/twobigears/Circle-Synth) | ✅ full (22⭐ Java) | [reels/reel_8905_twobigears-Circle-Synth](reels/reel_8905_twobigears-Circle-Synth) |
 | 8906 | 2026-10-07 13:47:33 | [muni-town/weird](https://github.com/muni-town/weird) | ✅ full (210⭐ TypeScript) | [reels/reel_8906_muni-town-weird](reels/reel_8906_muni-town-weird) |
+| 8907 | 2026-10-07 19:43:24 | [stoopid-computers/funchole](https://github.com/stoopid-computers/funchole) | ✅ full (61⭐ Java) | [reels/reel_8907_stoopid-computers-funchole](reels/reel_8907_stoopid-computers-funchole) |

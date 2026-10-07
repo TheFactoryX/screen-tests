@@ -1,0 +1,24 @@
+{
+  "reel_number": 8907,
+  "recorded": "2026-10-07 19:43:24 UTC",
+  "repository": {
+    "full_name": "stoopid-computers/funchole",
+    "url": "https://github.com/stoopid-computers/funchole",
+    "clone_url": "https://github.com/stoopid-computers/funchole.git",
+    "stars": 61,
+    "language": "Java",
+    "size_kb": 10885
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 10,
+    "duration_seconds": 1.846935
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 61 stars."
+  }
+}
