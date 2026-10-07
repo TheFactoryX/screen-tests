@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8907 | [stoopid-computers/funchole](https://github.com/stoopid-computers/funchole) | Java · ⭐ 61 | 2026-10-07 |
+| #8908 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 149k | 2026-10-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8995,3 +8995,4 @@ If you need permission, you're thinking too much.
 | 8905 | 2026-10-07 06:29:26 | [twobigears/Circle-Synth](https://github.com/twobigears/Circle-Synth) | ✅ full (22⭐ Java) | [reels/reel_8905_twobigears-Circle-Synth](reels/reel_8905_twobigears-Circle-Synth) |
 | 8906 | 2026-10-07 13:47:33 | [muni-town/weird](https://github.com/muni-town/weird) | ✅ full (210⭐ TypeScript) | [reels/reel_8906_muni-town-weird](reels/reel_8906_muni-town-weird) |
 | 8907 | 2026-10-07 19:43:24 | [stoopid-computers/funchole](https://github.com/stoopid-computers/funchole) | ✅ full (61⭐ Java) | [reels/reel_8907_stoopid-computers-funchole](reels/reel_8907_stoopid-computers-funchole) |
+| 8908 | 2026-10-07 23:51:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (149738⭐ Rust) | [reels/reel_8908_clash-verge-rev-clash-verge-rev](reels/reel_8908_clash-verge-rev-clash-verge-rev) |
