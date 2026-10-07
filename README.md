@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8905 | [twobigears/Circle-Synth](https://github.com/twobigears/Circle-Synth) | Java · ⭐ 22 | 2026-10-07 |
+| #8906 | [muni-town/weird](https://github.com/muni-town/weird) | TypeScript · ⭐ 210 | 2026-10-07 |
 ---
 
 ## 🎭 Selection Process
@@ -8993,3 +8993,4 @@ If you need permission, you're thinking too much.
 | 8903 | 2026-10-06 20:58:30 | [vlang/vtl](https://github.com/vlang/vtl) | ✅ full (169⭐ V) | [reels/reel_8903_vlang-vtl](reels/reel_8903_vlang-vtl) |
 | 8904 | 2026-10-07 00:32:15 | [thradams/cake](https://github.com/thradams/cake) | ✅ shallow (710⭐ C) | [reels/reel_8904_thradams-cake](reels/reel_8904_thradams-cake) |
 | 8905 | 2026-10-07 06:29:26 | [twobigears/Circle-Synth](https://github.com/twobigears/Circle-Synth) | ✅ full (22⭐ Java) | [reels/reel_8905_twobigears-Circle-Synth](reels/reel_8905_twobigears-Circle-Synth) |
+| 8906 | 2026-10-07 13:47:33 | [muni-town/weird](https://github.com/muni-town/weird) | ✅ full (210⭐ TypeScript) | [reels/reel_8906_muni-town-weird](reels/reel_8906_muni-town-weird) |
