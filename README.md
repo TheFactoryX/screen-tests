@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8910 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 140k | 2026-10-08 |
+| #8911 | [datadog-labs/agent-skills](https://github.com/datadog-labs/agent-skills) | Python · ⭐ 177 | 2026-10-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8998,3 +8998,4 @@ If you need permission, you're thinking too much.
 | 8908 | 2026-10-07 23:51:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (149738⭐ Rust) | [reels/reel_8908_clash-verge-rev-clash-verge-rev](reels/reel_8908_clash-verge-rev-clash-verge-rev) |
 | 8909 | 2026-10-08 04:31:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (140507⭐ TypeScript) | [reels/reel_8909_iptv-org-iptv](reels/reel_8909_iptv-org-iptv) |
 | 8910 | 2026-10-08 11:37:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (140520⭐ TypeScript) | [reels/reel_8910_iptv-org-iptv](reels/reel_8910_iptv-org-iptv) |
+| 8911 | 2026-10-08 17:59:49 | [datadog-labs/agent-skills](https://github.com/datadog-labs/agent-skills) | ✅ full (177⭐ Python) | [reels/reel_8911_datadog-labs-agent-skills](reels/reel_8911_datadog-labs-agent-skills) |

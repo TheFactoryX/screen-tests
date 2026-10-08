@@ -1,0 +1,24 @@
+{
+  "reel_number": 8911,
+  "recorded": "2026-10-08 17:59:49 UTC",
+  "repository": {
+    "full_name": "datadog-labs/agent-skills",
+    "url": "https://github.com/datadog-labs/agent-skills",
+    "clone_url": "https://github.com/datadog-labs/agent-skills.git",
+    "stars": 177,
+    "language": "Python",
+    "size_kb": 864
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.929075
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 177 stars."
+  }
+}
