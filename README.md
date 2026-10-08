@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8911 | [datadog-labs/agent-skills](https://github.com/datadog-labs/agent-skills) | Python · ⭐ 177 | 2026-10-08 |
+| #8912 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 154k | 2026-10-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8999,3 +8999,4 @@ If you need permission, you're thinking too much.
 | 8909 | 2026-10-08 04:31:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (140507⭐ TypeScript) | [reels/reel_8909_iptv-org-iptv](reels/reel_8909_iptv-org-iptv) |
 | 8910 | 2026-10-08 11:37:11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (140520⭐ TypeScript) | [reels/reel_8910_iptv-org-iptv](reels/reel_8910_iptv-org-iptv) |
 | 8911 | 2026-10-08 17:59:49 | [datadog-labs/agent-skills](https://github.com/datadog-labs/agent-skills) | ✅ full (177⭐ Python) | [reels/reel_8911_datadog-labs-agent-skills](reels/reel_8911_datadog-labs-agent-skills) |
+| 8912 | 2026-10-08 23:15:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (154051⭐ Python) | [reels/reel_8912_open-webui-open-webui](reels/reel_8912_open-webui-open-webui) |
