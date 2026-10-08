@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8908 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 149k | 2026-10-07 |
+| #8909 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 140k | 2026-10-08 |
 ---
 
 ## 🎭 Selection Process
@@ -8996,3 +8996,4 @@ If you need permission, you're thinking too much.
 | 8906 | 2026-10-07 13:47:33 | [muni-town/weird](https://github.com/muni-town/weird) | ✅ full (210⭐ TypeScript) | [reels/reel_8906_muni-town-weird](reels/reel_8906_muni-town-weird) |
 | 8907 | 2026-10-07 19:43:24 | [stoopid-computers/funchole](https://github.com/stoopid-computers/funchole) | ✅ full (61⭐ Java) | [reels/reel_8907_stoopid-computers-funchole](reels/reel_8907_stoopid-computers-funchole) |
 | 8908 | 2026-10-07 23:51:13 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (149738⭐ Rust) | [reels/reel_8908_clash-verge-rev-clash-verge-rev](reels/reel_8908_clash-verge-rev-clash-verge-rev) |
+| 8909 | 2026-10-08 04:31:12 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (140507⭐ TypeScript) | [reels/reel_8909_iptv-org-iptv](reels/reel_8909_iptv-org-iptv) |
