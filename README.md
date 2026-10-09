@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8913 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-10-09 |
+| #8914 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 486k | 2026-10-09 |
 ---
 
 ## 🎭 Selection Process
@@ -9001,3 +9001,4 @@ If you need permission, you're thinking too much.
 | 8911 | 2026-10-08 17:59:49 | [datadog-labs/agent-skills](https://github.com/datadog-labs/agent-skills) | ✅ full (177⭐ Python) | [reels/reel_8911_datadog-labs-agent-skills](reels/reel_8911_datadog-labs-agent-skills) |
 | 8912 | 2026-10-08 23:15:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (154051⭐ Python) | [reels/reel_8912_open-webui-open-webui](reels/reel_8912_open-webui-open-webui) |
 | 8913 | 2026-10-09 03:00:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187488⭐ Python) | [reels/reel_8913_Significant-Gravitas-AutoGPT](reels/reel_8913_Significant-Gravitas-AutoGPT) |
+| 8914 | 2026-10-09 10:31:51 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (486874⭐ Python) | [reels/reel_8914_public-apis-public-apis](reels/reel_8914_public-apis-public-apis) |
