@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8914 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 486k | 2026-10-09 |
+| #8915 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 552k | 2026-10-09 |
 ---
 
 ## 🎭 Selection Process
@@ -9002,3 +9002,4 @@ If you need permission, you're thinking too much.
 | 8912 | 2026-10-08 23:15:31 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (154051⭐ Python) | [reels/reel_8912_open-webui-open-webui](reels/reel_8912_open-webui-open-webui) |
 | 8913 | 2026-10-09 03:00:46 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187488⭐ Python) | [reels/reel_8913_Significant-Gravitas-AutoGPT](reels/reel_8913_Significant-Gravitas-AutoGPT) |
 | 8914 | 2026-10-09 10:31:51 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (486874⭐ Python) | [reels/reel_8914_public-apis-public-apis](reels/reel_8914_public-apis-public-apis) |
+| 8915 | 2026-10-09 17:10:56 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (552168⭐ Markdown) | [reels/reel_8915_codecrafters-io-build-your-own-x](reels/reel_8915_codecrafters-io-build-your-own-x) |
