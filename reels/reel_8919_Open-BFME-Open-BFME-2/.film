@@ -1,0 +1,24 @@
+{
+  "reel_number": 8919,
+  "recorded": "2026-10-10 13:56:49 UTC",
+  "repository": {
+    "full_name": "Open-BFME/Open-BFME-2",
+    "url": "https://github.com/Open-BFME/Open-BFME-2",
+    "clone_url": "https://github.com/Open-BFME/Open-BFME-2.git",
+    "stars": 55,
+    "language": "C++",
+    "size_kb": 507372
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 495,
+    "duration_seconds": 8.486693
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 55 stars."
+  }
+}
