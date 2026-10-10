@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8920 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-10-10 |
+| #8921 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 325k | 2026-10-10 |
 ---
 
 ## 🎭 Selection Process
@@ -9008,3 +9008,4 @@ If you need permission, you're thinking too much.
 | 8918 | 2026-10-10 07:30:11 | [matrixarkai/TemporalStore](https://github.com/matrixarkai/TemporalStore) | ✅ full (215⭐ Rust) | [reels/reel_8918_matrixarkai-TemporalStore](reels/reel_8918_matrixarkai-TemporalStore) |
 | 8919 | 2026-10-10 13:56:49 | [Open-BFME/Open-BFME-2](https://github.com/Open-BFME/Open-BFME-2) | ✅ shallow (55⭐ C++) | [reels/reel_8919_Open-BFME-Open-BFME-2](reels/reel_8919_Open-BFME-Open-BFME-2) |
 | 8920 | 2026-10-10 18:15:43 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187514⭐ Python) | [reels/reel_8920_Significant-Gravitas-AutoGPT](reels/reel_8920_Significant-Gravitas-AutoGPT) |
+| 8921 | 2026-10-10 21:54:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (325290⭐ None) | [reels/reel_8921_awesome-selfhosted-awesome-selfhosted](reels/reel_8921_awesome-selfhosted-awesome-selfhosted) |
