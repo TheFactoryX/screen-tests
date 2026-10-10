@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8916 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 324k | 2026-10-09 |
+| #8917 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 150k | 2026-10-10 |
 ---
 
 ## 🎭 Selection Process
@@ -9004,3 +9004,4 @@ If you need permission, you're thinking too much.
 | 8914 | 2026-10-09 10:31:51 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (486874⭐ Python) | [reels/reel_8914_public-apis-public-apis](reels/reel_8914_public-apis-public-apis) |
 | 8915 | 2026-10-09 17:10:56 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (552168⭐ Markdown) | [reels/reel_8915_codecrafters-io-build-your-own-x](reels/reel_8915_codecrafters-io-build-your-own-x) |
 | 8916 | 2026-10-09 21:40:42 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (324966⭐ None) | [reels/reel_8916_awesome-selfhosted-awesome-selfhosted](reels/reel_8916_awesome-selfhosted-awesome-selfhosted) |
+| 8917 | 2026-10-10 01:16:08 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (150108⭐ Rust) | [reels/reel_8917_clash-verge-rev-clash-verge-rev](reels/reel_8917_clash-verge-rev-clash-verge-rev) |
