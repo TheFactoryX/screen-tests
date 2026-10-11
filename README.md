@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8923 | [Takaovi/BatchStealer](https://github.com/Takaovi/BatchStealer) | Batchfile · ⭐ 39 | 2026-10-11 |
+| #8924 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 487k | 2026-10-11 |
 ---
 
 ## 🎭 Selection Process
@@ -9011,3 +9011,4 @@ If you need permission, you're thinking too much.
 | 8921 | 2026-10-10 21:54:48 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (325290⭐ None) | [reels/reel_8921_awesome-selfhosted-awesome-selfhosted](reels/reel_8921_awesome-selfhosted-awesome-selfhosted) |
 | 8922 | 2026-10-11 00:39:58 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (136800⭐ Python) | [reels/reel_8922_Comfy-Org-ComfyUI](reels/reel_8922_Comfy-Org-ComfyUI) |
 | 8923 | 2026-10-11 06:27:36 | [Takaovi/BatchStealer](https://github.com/Takaovi/BatchStealer) | ✅ full (39⭐ Batchfile) | [reels/reel_8923_Takaovi-BatchStealer](reels/reel_8923_Takaovi-BatchStealer) |
+| 8924 | 2026-10-11 13:19:12 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (487432⭐ Python) | [reels/reel_8924_public-apis-public-apis](reels/reel_8924_public-apis-public-apis) |
