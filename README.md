@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8924 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 487k | 2026-10-11 |
+| #8925 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook · ⭐ 53k | 2026-10-11 |
 ---
 
 ## 🎭 Selection Process
@@ -9012,3 +9012,4 @@ If you need permission, you're thinking too much.
 | 8922 | 2026-10-11 00:39:58 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (136800⭐ Python) | [reels/reel_8922_Comfy-Org-ComfyUI](reels/reel_8922_Comfy-Org-ComfyUI) |
 | 8923 | 2026-10-11 06:27:36 | [Takaovi/BatchStealer](https://github.com/Takaovi/BatchStealer) | ✅ full (39⭐ Batchfile) | [reels/reel_8923_Takaovi-BatchStealer](reels/reel_8923_Takaovi-BatchStealer) |
 | 8924 | 2026-10-11 13:19:12 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (487432⭐ Python) | [reels/reel_8924_public-apis-public-apis](reels/reel_8924_public-apis-public-apis) |
+| 8925 | 2026-10-11 18:17:33 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | ✅ shallow (53349⭐ Jupyter Notebook) | [reels/reel_8925_anthropics-claude-cookbooks](reels/reel_8925_anthropics-claude-cookbooks) |
