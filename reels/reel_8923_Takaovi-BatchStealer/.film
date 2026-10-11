@@ -1,0 +1,24 @@
+{
+  "reel_number": 8923,
+  "recorded": "2026-10-11 06:27:36 UTC",
+  "repository": {
+    "full_name": "Takaovi/BatchStealer",
+    "url": "https://github.com/Takaovi/BatchStealer",
+    "clone_url": "https://github.com/Takaovi/BatchStealer.git",
+    "stars": 39,
+    "language": "Batchfile",
+    "size_kb": 200
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.361337
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Batchfile",
+    "director_note": "A Batchfile repository. 39 stars."
+  }
+}
