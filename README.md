@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8928 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 137k | 2026-10-12 |
+| #8929 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 219k | 2026-10-12 |
 ---
 
 ## 🎭 Selection Process
@@ -9016,3 +9016,4 @@ If you need permission, you're thinking too much.
 | 8926 | 2026-10-11 22:15:43 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (277171⭐ JavaScript) | [reels/reel_8926_affaan-m-ECC](reels/reel_8926_affaan-m-ECC) |
 | 8927 | 2026-10-12 01:32:00 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (117662⭐ Python) | [reels/reel_8927_browser-use-browser-use](reels/reel_8927_browser-use-browser-use) |
 | 8928 | 2026-10-12 07:58:58 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (137024⭐ Python) | [reels/reel_8928_Comfy-Org-ComfyUI](reels/reel_8928_Comfy-Org-ComfyUI) |
+| 8929 | 2026-10-12 17:42:55 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (219175⭐ None) | [reels/reel_8929_multica-ai-andrej-karpathy-skills](reels/reel_8929_multica-ai-andrej-karpathy-skills) |
