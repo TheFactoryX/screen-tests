@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8927 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python · ⭐ 117k | 2026-10-12 |
+| #8928 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 137k | 2026-10-12 |
 ---
 
 ## 🎭 Selection Process
@@ -9015,3 +9015,4 @@ If you need permission, you're thinking too much.
 | 8925 | 2026-10-11 18:17:33 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | ✅ shallow (53349⭐ Jupyter Notebook) | [reels/reel_8925_anthropics-claude-cookbooks](reels/reel_8925_anthropics-claude-cookbooks) |
 | 8926 | 2026-10-11 22:15:43 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (277171⭐ JavaScript) | [reels/reel_8926_affaan-m-ECC](reels/reel_8926_affaan-m-ECC) |
 | 8927 | 2026-10-12 01:32:00 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (117662⭐ Python) | [reels/reel_8927_browser-use-browser-use](reels/reel_8927_browser-use-browser-use) |
+| 8928 | 2026-10-12 07:58:58 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (137024⭐ Python) | [reels/reel_8928_Comfy-Org-ComfyUI](reels/reel_8928_Comfy-Org-ComfyUI) |
