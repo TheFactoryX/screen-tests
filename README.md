@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8929 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 219k | 2026-10-12 |
+| #8930 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 119k | 2026-10-12 |
 ---
 
 ## 🎭 Selection Process
@@ -9017,3 +9017,4 @@ If you need permission, you're thinking too much.
 | 8927 | 2026-10-12 01:32:00 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (117662⭐ Python) | [reels/reel_8927_browser-use-browser-use](reels/reel_8927_browser-use-browser-use) |
 | 8928 | 2026-10-12 07:58:58 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ full (137024⭐ Python) | [reels/reel_8928_Comfy-Org-ComfyUI](reels/reel_8928_Comfy-Org-ComfyUI) |
 | 8929 | 2026-10-12 17:42:55 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (219175⭐ None) | [reels/reel_8929_multica-ai-andrej-karpathy-skills](reels/reel_8929_multica-ai-andrej-karpathy-skills) |
+| 8930 | 2026-10-12 23:46:18 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (119760⭐ Rust) | [reels/reel_8930_rust-lang-rust](reels/reel_8930_rust-lang-rust) |
