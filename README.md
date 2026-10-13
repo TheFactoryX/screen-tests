@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8933 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 147k | 2026-10-13 |
+| #8934 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 197k | 2026-10-13 |
 ---
 
 ## 🎭 Selection Process
@@ -9021,3 +9021,4 @@ If you need permission, you're thinking too much.
 | 8931 | 2026-10-13 05:29:29 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (197258⭐ Python) | [reels/reel_8931_yt-dlp-yt-dlp](reels/reel_8931_yt-dlp-yt-dlp) |
 | 8932 | 2026-10-13 12:54:07 | [lonewolf0622/HelixSR](https://github.com/lonewolf0622/HelixSR) | ✅ full (482⭐ None) | [reels/reel_8932_lonewolf0622-HelixSR](reels/reel_8932_lonewolf0622-HelixSR) |
 | 8933 | 2026-10-13 19:44:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (147777⭐ Python) | [reels/reel_8933_langchain-ai-langchain](reels/reel_8933_langchain-ai-langchain) |
+| 8934 | 2026-10-13 23:26:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (197472⭐ Python) | [reels/reel_8934_yt-dlp-yt-dlp](reels/reel_8934_yt-dlp-yt-dlp) |
