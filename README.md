@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8935 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-10-14 |
+| #8936 | [flamehaven01/AI-SLOP-Detector](https://github.com/flamehaven01/AI-SLOP-Detector) | Python · ⭐ 101 | 2026-10-14 |
 ---
 
 ## 🎭 Selection Process
@@ -9023,3 +9023,4 @@ If you need permission, you're thinking too much.
 | 8933 | 2026-10-13 19:44:06 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (147777⭐ Python) | [reels/reel_8933_langchain-ai-langchain](reels/reel_8933_langchain-ai-langchain) |
 | 8934 | 2026-10-13 23:26:33 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (197472⭐ Python) | [reels/reel_8934_yt-dlp-yt-dlp](reels/reel_8934_yt-dlp-yt-dlp) |
 | 8935 | 2026-10-14 02:03:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187562⭐ Python) | [reels/reel_8935_Significant-Gravitas-AutoGPT](reels/reel_8935_Significant-Gravitas-AutoGPT) |
+| 8936 | 2026-10-14 07:37:11 | [flamehaven01/AI-SLOP-Detector](https://github.com/flamehaven01/AI-SLOP-Detector) | ✅ full (101⭐ Python) | [reels/reel_8936_flamehaven01-AI-SLOP-Detector](reels/reel_8936_flamehaven01-AI-SLOP-Detector) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 8936,
+  "recorded": "2026-10-14 07:37:11 UTC",
+  "repository": {
+    "full_name": "flamehaven01/AI-SLOP-Detector",
+    "url": "https://github.com/flamehaven01/AI-SLOP-Detector",
+    "clone_url": "https://github.com/flamehaven01/AI-SLOP-Detector.git",
+    "stars": 101,
+    "language": "Python",
+    "size_kb": 12386
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 12,
+    "duration_seconds": 1.878256
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 101 stars."
+  }
+}
