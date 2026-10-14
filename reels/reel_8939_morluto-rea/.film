@@ -1,0 +1,24 @@
+{
+  "reel_number": 8939,
+  "recorded": "2026-10-14 21:33:13 UTC",
+  "repository": {
+    "full_name": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "clone_url": "https://github.com/morluto/rea.git",
+    "stars": 239112,
+    "language": "TypeScript",
+    "size_kb": 72147
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 70,
+    "duration_seconds": 5.582789
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 239112 stars."
+  }
+}
