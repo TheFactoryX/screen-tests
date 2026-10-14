@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8937 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 249k | 2026-10-14 |
+| #8938 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 279k | 2026-10-14 |
 ---
 
 ## 🎭 Selection Process
@@ -9025,3 +9025,4 @@ If you need permission, you're thinking too much.
 | 8935 | 2026-10-14 02:03:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187562⭐ Python) | [reels/reel_8935_Significant-Gravitas-AutoGPT](reels/reel_8935_Significant-Gravitas-AutoGPT) |
 | 8936 | 2026-10-14 07:37:11 | [flamehaven01/AI-SLOP-Detector](https://github.com/flamehaven01/AI-SLOP-Detector) | ✅ full (101⭐ Python) | [reels/reel_8936_flamehaven01-AI-SLOP-Detector](reels/reel_8936_flamehaven01-AI-SLOP-Detector) |
 | 8937 | 2026-10-14 13:05:00 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (249467⭐ TypeScript) | [reels/reel_8937_deepseek-ai-deepseek-harness](reels/reel_8937_deepseek-ai-deepseek-harness) |
+| 8938 | 2026-10-14 18:00:15 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (279200⭐ JavaScript) | [reels/reel_8938_affaan-m-ECC](reels/reel_8938_affaan-m-ECC) |
