@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8939 | [morluto/rea](https://github.com/morluto/rea) | TypeScript · ⭐ 239k | 2026-10-14 |
+| #8940 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 249k | 2026-10-15 |
 ---
 
 ## 🎭 Selection Process
@@ -9027,3 +9027,4 @@ If you need permission, you're thinking too much.
 | 8937 | 2026-10-14 13:05:00 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (249467⭐ TypeScript) | [reels/reel_8937_deepseek-ai-deepseek-harness](reels/reel_8937_deepseek-ai-deepseek-harness) |
 | 8938 | 2026-10-14 18:00:15 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (279200⭐ JavaScript) | [reels/reel_8938_affaan-m-ECC](reels/reel_8938_affaan-m-ECC) |
 | 8939 | 2026-10-14 21:33:13 | [morluto/rea](https://github.com/morluto/rea) | ✅ full (239112⭐ TypeScript) | [reels/reel_8939_morluto-rea](reels/reel_8939_morluto-rea) |
+| 8940 | 2026-10-15 00:06:37 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (249669⭐ TypeScript) | [reels/reel_8940_deepseek-ai-deepseek-harness](reels/reel_8940_deepseek-ai-deepseek-harness) |
