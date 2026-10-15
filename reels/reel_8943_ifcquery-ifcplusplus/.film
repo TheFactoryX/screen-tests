@@ -1,0 +1,24 @@
+{
+  "reel_number": 8943,
+  "recorded": "2026-10-15 14:17:39 UTC",
+  "repository": {
+    "full_name": "ifcquery/ifcplusplus",
+    "url": "https://github.com/ifcquery/ifcplusplus",
+    "clone_url": "https://github.com/ifcquery/ifcplusplus.git",
+    "stars": 661,
+    "language": "C++",
+    "size_kb": 42635
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 41,
+    "duration_seconds": 3.335795
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 661 stars."
+  }
+}
