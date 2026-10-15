@@ -1,0 +1,24 @@
+{
+  "reel_number": 8944,
+  "recorded": "2026-10-15 18:29:08 UTC",
+  "repository": {
+    "full_name": "forensicswiki/wiki",
+    "url": "https://github.com/forensicswiki/wiki",
+    "clone_url": "https://github.com/forensicswiki/wiki.git",
+    "stars": 344,
+    "language": null,
+    "size_kb": 87615
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 85,
+    "duration_seconds": 2.845585
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 344 stars."
+  }
+}
