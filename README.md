@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8940 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 249k | 2026-10-15 |
+| #8941 | [elixir-tempo/tempo](https://github.com/elixir-tempo/tempo) | Elixir · ⭐ 212 | 2026-10-15 |
 ---
 
 ## 🎭 Selection Process
@@ -9028,3 +9028,4 @@ If you need permission, you're thinking too much.
 | 8938 | 2026-10-14 18:00:15 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (279200⭐ JavaScript) | [reels/reel_8938_affaan-m-ECC](reels/reel_8938_affaan-m-ECC) |
 | 8939 | 2026-10-14 21:33:13 | [morluto/rea](https://github.com/morluto/rea) | ✅ full (239112⭐ TypeScript) | [reels/reel_8939_morluto-rea](reels/reel_8939_morluto-rea) |
 | 8940 | 2026-10-15 00:06:37 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (249669⭐ TypeScript) | [reels/reel_8940_deepseek-ai-deepseek-harness](reels/reel_8940_deepseek-ai-deepseek-harness) |
+| 8941 | 2026-10-15 04:37:00 | [elixir-tempo/tempo](https://github.com/elixir-tempo/tempo) | ✅ full (212⭐ Elixir) | [reels/reel_8941_elixir-tempo-tempo](reels/reel_8941_elixir-tempo-tempo) |
