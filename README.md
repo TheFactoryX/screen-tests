@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8944 | [forensicswiki/wiki](https://github.com/forensicswiki/wiki) | None · ⭐ 344 | 2026-10-15 |
+| #8945 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 137k | 2026-10-15 |
 ---
 
 ## 🎭 Selection Process
@@ -9032,3 +9032,4 @@ If you need permission, you're thinking too much.
 | 8942 | 2026-10-15 09:26:12 | [neovim/tree-sitter-vimdoc](https://github.com/neovim/tree-sitter-vimdoc) | ✅ full (155⭐ JavaScript) | [reels/reel_8942_neovim-tree-sitter-vimdoc](reels/reel_8942_neovim-tree-sitter-vimdoc) |
 | 8943 | 2026-10-15 14:17:39 | [ifcquery/ifcplusplus](https://github.com/ifcquery/ifcplusplus) | ✅ full (661⭐ C++) | [reels/reel_8943_ifcquery-ifcplusplus](reels/reel_8943_ifcquery-ifcplusplus) |
 | 8944 | 2026-10-15 18:29:08 | [forensicswiki/wiki](https://github.com/forensicswiki/wiki) | ✅ full (344⭐ None) | [reels/reel_8944_forensicswiki-wiki](reels/reel_8944_forensicswiki-wiki) |
+| 8945 | 2026-10-15 21:40:26 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ shallow (137702⭐ Python) | [reels/reel_8945_Comfy-Org-ComfyUI](reels/reel_8945_Comfy-Org-ComfyUI) |
