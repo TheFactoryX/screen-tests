@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8941 | [elixir-tempo/tempo](https://github.com/elixir-tempo/tempo) | Elixir · ⭐ 212 | 2026-10-15 |
+| #8942 | [neovim/tree-sitter-vimdoc](https://github.com/neovim/tree-sitter-vimdoc) | JavaScript · ⭐ 155 | 2026-10-15 |
 ---
 
 ## 🎭 Selection Process
@@ -9029,3 +9029,4 @@ If you need permission, you're thinking too much.
 | 8939 | 2026-10-14 21:33:13 | [morluto/rea](https://github.com/morluto/rea) | ✅ full (239112⭐ TypeScript) | [reels/reel_8939_morluto-rea](reels/reel_8939_morluto-rea) |
 | 8940 | 2026-10-15 00:06:37 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (249669⭐ TypeScript) | [reels/reel_8940_deepseek-ai-deepseek-harness](reels/reel_8940_deepseek-ai-deepseek-harness) |
 | 8941 | 2026-10-15 04:37:00 | [elixir-tempo/tempo](https://github.com/elixir-tempo/tempo) | ✅ full (212⭐ Elixir) | [reels/reel_8941_elixir-tempo-tempo](reels/reel_8941_elixir-tempo-tempo) |
+| 8942 | 2026-10-15 09:26:12 | [neovim/tree-sitter-vimdoc](https://github.com/neovim/tree-sitter-vimdoc) | ✅ full (155⭐ JavaScript) | [reels/reel_8942_neovim-tree-sitter-vimdoc](reels/reel_8942_neovim-tree-sitter-vimdoc) |

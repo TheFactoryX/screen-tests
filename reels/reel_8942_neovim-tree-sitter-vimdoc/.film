@@ -1,0 +1,24 @@
+{
+  "reel_number": 8942,
+  "recorded": "2026-10-15 09:26:12 UTC",
+  "repository": {
+    "full_name": "neovim/tree-sitter-vimdoc",
+    "url": "https://github.com/neovim/tree-sitter-vimdoc",
+    "clone_url": "https://github.com/neovim/tree-sitter-vimdoc.git",
+    "stars": 155,
+    "language": "JavaScript",
+    "size_kb": 887
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.464961
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 155 stars."
+  }
+}
