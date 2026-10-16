@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8948 | [ikucukkaya/notch-games](https://github.com/ikucukkaya/notch-games) | Swift · ⭐ 15 | 2026-10-16 |
+| #8949 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 137k | 2026-10-16 |
 ---
 
 ## 🎭 Selection Process
@@ -9036,3 +9036,4 @@ If you need permission, you're thinking too much.
 | 8946 | 2026-10-15 23:52:18 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (155823⭐ Python) | [reels/reel_8946_open-webui-open-webui](reels/reel_8946_open-webui-open-webui) |
 | 8947 | 2026-10-16 03:08:25 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (151675⭐ Rust) | [reels/reel_8947_clash-verge-rev-clash-verge-rev](reels/reel_8947_clash-verge-rev-clash-verge-rev) |
 | 8948 | 2026-10-16 08:09:01 | [ikucukkaya/notch-games](https://github.com/ikucukkaya/notch-games) | ✅ full (15⭐ Swift) | [reels/reel_8948_ikucukkaya-notch-games](reels/reel_8948_ikucukkaya-notch-games) |
+| 8949 | 2026-10-16 13:14:35 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ shallow (137845⭐ Python) | [reels/reel_8949_Comfy-Org-ComfyUI](reels/reel_8949_Comfy-Org-ComfyUI) |
