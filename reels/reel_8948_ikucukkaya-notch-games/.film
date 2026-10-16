@@ -1,0 +1,24 @@
+{
+  "reel_number": 8948,
+  "recorded": "2026-10-16 08:09:01 UTC",
+  "repository": {
+    "full_name": "ikucukkaya/notch-games",
+    "url": "https://github.com/ikucukkaya/notch-games",
+    "clone_url": "https://github.com/ikucukkaya/notch-games.git",
+    "stars": 15,
+    "language": "Swift",
+    "size_kb": 762
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.242118
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 15 stars."
+  }
+}
