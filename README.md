@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8959 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 155k | 2026-10-17 |
+| #8960 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 155k | 2026-10-17 |
 ---
 
 ## 🎭 Selection Process
@@ -9047,3 +9047,4 @@ If you need permission, you're thinking too much.
 | 8957 | 2026-10-17 16:27:06 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (251957⭐ TypeScript) | [reels/reel_8957_deepseek-ai-deepseek-harness](reels/reel_8957_deepseek-ai-deepseek-harness) |
 | 8958 | 2026-10-17 18:42:59 | [mike-petrov-lab95g2/Resonance-A-Plague-Tale-Legacy-Trainer](https://github.com/mike-petrov-lab95g2/Resonance-A-Plague-Tale-Legacy-Trainer) | ✅ full (27⭐ Rust) | [reels/reel_8958_mike-petrov-lab95g2-Resonance-A-Plague-Tale-Legacy-Trainer](reels/reel_8958_mike-petrov-lab95g2-Resonance-A-Plague-Tale-Legacy-Trainer) |
 | 8959 | 2026-10-17 20:59:57 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155779⭐ Python) | [reels/reel_8959_langflow-ai-langflow](reels/reel_8959_langflow-ai-langflow) |
+| 8960 | 2026-10-17 23:00:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155779⭐ Python) | [reels/reel_8960_langflow-ai-langflow](reels/reel_8960_langflow-ai-langflow) |
