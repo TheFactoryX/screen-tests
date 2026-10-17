@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8952 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-10-16 |
+| #8953 | [codersauce/red](https://github.com/codersauce/red) | Rust · ⭐ 233 | 2026-10-17 |
 ---
 
 ## 🎭 Selection Process
@@ -9040,3 +9040,4 @@ If you need permission, you're thinking too much.
 | 8950 | 2026-10-16 17:28:42 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (251080⭐ TypeScript) | [reels/reel_8950_deepseek-ai-deepseek-harness](reels/reel_8950_deepseek-ai-deepseek-harness) |
 | 8951 | 2026-10-16 20:01:18 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (151868⭐ Rust) | [reels/reel_8951_clash-verge-rev-clash-verge-rev](reels/reel_8951_clash-verge-rev-clash-verge-rev) |
 | 8952 | 2026-10-16 22:50:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187614⭐ Python) | [reels/reel_8952_Significant-Gravitas-AutoGPT](reels/reel_8952_Significant-Gravitas-AutoGPT) |
+| 8953 | 2026-10-17 01:02:42 | [codersauce/red](https://github.com/codersauce/red) | ✅ full (233⭐ Rust) | [reels/reel_8953_codersauce-red](reels/reel_8953_codersauce-red) |

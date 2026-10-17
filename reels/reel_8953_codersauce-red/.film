@@ -1,0 +1,24 @@
+{
+  "reel_number": 8953,
+  "recorded": "2026-10-17 01:02:42 UTC",
+  "repository": {
+    "full_name": "codersauce/red",
+    "url": "https://github.com/codersauce/red",
+    "clone_url": "https://github.com/codersauce/red.git",
+    "stars": 233,
+    "language": "Rust",
+    "size_kb": 26118
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 25,
+    "duration_seconds": 3.459656
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 233 stars."
+  }
+}
