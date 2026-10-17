@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8956 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 489k | 2026-10-17 |
+| #8957 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 251k | 2026-10-17 |
 ---
 
 ## 🎭 Selection Process
@@ -9044,3 +9044,4 @@ If you need permission, you're thinking too much.
 | 8954 | 2026-10-17 05:35:24 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (286951⭐ Python) | [reels/reel_8954_practical-tutorials-project-based-learning](reels/reel_8954_practical-tutorials-project-based-learning) |
 | 8955 | 2026-10-17 09:40:51 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (286979⭐ Python) | [reels/reel_8955_practical-tutorials-project-based-learning](reels/reel_8955_practical-tutorials-project-based-learning) |
 | 8956 | 2026-10-17 13:13:07 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (489636⭐ Python) | [reels/reel_8956_public-apis-public-apis](reels/reel_8956_public-apis-public-apis) |
+| 8957 | 2026-10-17 16:27:06 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (251957⭐ TypeScript) | [reels/reel_8957_deepseek-ai-deepseek-harness](reels/reel_8957_deepseek-ai-deepseek-harness) |
