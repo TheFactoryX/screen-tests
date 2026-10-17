@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8953 | [codersauce/red](https://github.com/codersauce/red) | Rust · ⭐ 233 | 2026-10-17 |
+| #8954 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 286k | 2026-10-17 |
 ---
 
 ## 🎭 Selection Process
@@ -9041,3 +9041,4 @@ If you need permission, you're thinking too much.
 | 8951 | 2026-10-16 20:01:18 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (151868⭐ Rust) | [reels/reel_8951_clash-verge-rev-clash-verge-rev](reels/reel_8951_clash-verge-rev-clash-verge-rev) |
 | 8952 | 2026-10-16 22:50:37 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187614⭐ Python) | [reels/reel_8952_Significant-Gravitas-AutoGPT](reels/reel_8952_Significant-Gravitas-AutoGPT) |
 | 8953 | 2026-10-17 01:02:42 | [codersauce/red](https://github.com/codersauce/red) | ✅ full (233⭐ Rust) | [reels/reel_8953_codersauce-red](reels/reel_8953_codersauce-red) |
+| 8954 | 2026-10-17 05:35:24 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (286951⭐ Python) | [reels/reel_8954_practical-tutorials-project-based-learning](reels/reel_8954_practical-tutorials-project-based-learning) |
