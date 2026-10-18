@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8965 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 131k | 2026-10-18 |
+| #8966 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 327k | 2026-10-18 |
 ---
 
 ## 🎭 Selection Process
@@ -9053,3 +9053,4 @@ If you need permission, you're thinking too much.
 | 8963 | 2026-10-18 10:23:26 | [divyanshu-rawat/Javascript-Concepts](https://github.com/divyanshu-rawat/Javascript-Concepts) | ✅ full (26⭐ JavaScript) | [reels/reel_8963_divyanshu-rawat-Javascript-Concepts](reels/reel_8963_divyanshu-rawat-Javascript-Concepts) |
 | 8964 | 2026-10-18 14:05:28 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (489950⭐ Python) | [reels/reel_8964_public-apis-public-apis](reels/reel_8964_public-apis-public-apis) |
 | 8965 | 2026-10-18 17:22:17 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (131604⭐ C++) | [reels/reel_8965_ggml-org-llama.cpp](reels/reel_8965_ggml-org-llama.cpp) |
+| 8966 | 2026-10-18 19:31:44 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (327978⭐ None) | [reels/reel_8966_awesome-selfhosted-awesome-selfhosted](reels/reel_8966_awesome-selfhosted-awesome-selfhosted) |
