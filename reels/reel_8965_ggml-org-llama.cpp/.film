@@ -1,0 +1,24 @@
+{
+  "reel_number": 8965,
+  "recorded": "2026-10-18 17:22:17 UTC",
+  "repository": {
+    "full_name": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "clone_url": "https://github.com/ggml-org/llama.cpp.git",
+    "stars": 131604,
+    "language": "C++",
+    "size_kb": 459643
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "shallow",
+    "size_mb": 448,
+    "duration_seconds": 1.868586
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 131604 stars."
+  }
+}
