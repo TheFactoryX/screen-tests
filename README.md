@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8962 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 489k | 2026-10-18 |
+| #8963 | [divyanshu-rawat/Javascript-Concepts](https://github.com/divyanshu-rawat/Javascript-Concepts) | JavaScript · ⭐ 26 | 2026-10-18 |
 ---
 
 ## 🎭 Selection Process
@@ -9050,3 +9050,4 @@ If you need permission, you're thinking too much.
 | 8960 | 2026-10-17 23:00:13 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155779⭐ Python) | [reels/reel_8960_langflow-ai-langflow](reels/reel_8960_langflow-ai-langflow) |
 | 8961 | 2026-10-18 01:01:07 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (489792⭐ Python) | [reels/reel_8961_public-apis-public-apis](reels/reel_8961_public-apis-public-apis) |
 | 8962 | 2026-10-18 05:52:45 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (489833⭐ Python) | [reels/reel_8962_public-apis-public-apis](reels/reel_8962_public-apis-public-apis) |
+| 8963 | 2026-10-18 10:23:26 | [divyanshu-rawat/Javascript-Concepts](https://github.com/divyanshu-rawat/Javascript-Concepts) | ✅ full (26⭐ JavaScript) | [reels/reel_8963_divyanshu-rawat-Javascript-Concepts](reels/reel_8963_divyanshu-rawat-Javascript-Concepts) |
