@@ -1,0 +1,24 @@
+{
+  "reel_number": 8972,
+  "recorded": "2026-10-19 21:11:35 UTC",
+  "repository": {
+    "full_name": "calimero-project/calimero-core",
+    "url": "https://github.com/calimero-project/calimero-core",
+    "clone_url": "https://github.com/calimero-project/calimero-core.git",
+    "stars": 163,
+    "language": "Java",
+    "size_kb": 8840
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 8,
+    "duration_seconds": 1.296917
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 163 stars."
+  }
+}
