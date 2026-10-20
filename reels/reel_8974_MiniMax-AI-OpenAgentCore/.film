@@ -1,0 +1,24 @@
+{
+  "reel_number": 8974,
+  "recorded": "2026-10-20 05:06:00 UTC",
+  "repository": {
+    "full_name": "MiniMax-AI/OpenAgentCore",
+    "url": "https://github.com/MiniMax-AI/OpenAgentCore",
+    "clone_url": "https://github.com/MiniMax-AI/OpenAgentCore.git",
+    "stars": 238,
+    "language": "Go",
+    "size_kb": 35806
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 34,
+    "duration_seconds": 5.371839
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 238 stars."
+  }
+}
