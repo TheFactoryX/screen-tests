@@ -1,0 +1,24 @@
+{
+  "reel_number": 8975,
+  "recorded": "2026-10-20 10:03:30 UTC",
+  "repository": {
+    "full_name": "Graphify-Labs/graphify",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "clone_url": "https://github.com/Graphify-Labs/graphify.git",
+    "stars": 129447,
+    "language": "Python",
+    "size_kb": 31482
+  },
+  "capture": {
+    "strategy": "classic",
+    "method": "full",
+    "size_mb": 30,
+    "duration_seconds": 3.194079
+  },
+  "review": {
+    "category": "classic",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 129447 stars."
+  }
+}
