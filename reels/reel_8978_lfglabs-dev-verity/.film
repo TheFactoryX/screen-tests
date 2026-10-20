@@ -1,0 +1,24 @@
+{
+  "reel_number": 8978,
+  "recorded": "2026-10-20 22:29:45 UTC",
+  "repository": {
+    "full_name": "lfglabs-dev/verity",
+    "url": "https://github.com/lfglabs-dev/verity",
+    "clone_url": "https://github.com/lfglabs-dev/verity.git",
+    "stars": 148,
+    "language": "Lean",
+    "size_kb": 41266
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 40,
+    "duration_seconds": 4.617372
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Lean",
+    "director_note": "A Lean repository. 148 stars."
+  }
+}
