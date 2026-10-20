@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8975 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python · ⭐ 129k | 2026-10-20 |
+| #8976 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 287k | 2026-10-20 |
 ---
 
 ## 🎭 Selection Process
@@ -9063,3 +9063,4 @@ If you need permission, you're thinking too much.
 | 8973 | 2026-10-20 00:20:35 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155849⭐ Python) | [reels/reel_8973_langflow-ai-langflow](reels/reel_8973_langflow-ai-langflow) |
 | 8974 | 2026-10-20 05:06:00 | [MiniMax-AI/OpenAgentCore](https://github.com/MiniMax-AI/OpenAgentCore) | ✅ full (238⭐ Go) | [reels/reel_8974_MiniMax-AI-OpenAgentCore](reels/reel_8974_MiniMax-AI-OpenAgentCore) |
 | 8975 | 2026-10-20 10:03:30 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (129447⭐ Python) | [reels/reel_8975_Graphify-Labs-graphify](reels/reel_8975_Graphify-Labs-graphify) |
+| 8976 | 2026-10-20 15:04:28 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (287377⭐ Python) | [reels/reel_8976_practical-tutorials-project-based-learning](reels/reel_8976_practical-tutorials-project-based-learning) |
