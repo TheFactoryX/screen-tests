@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8981 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 328k | 2026-10-21 |
+| #8982 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python · ⭐ 141k | 2026-10-21 |
 ---
 
 ## 🎭 Selection Process
@@ -9069,3 +9069,4 @@ If you need permission, you're thinking too much.
 | 8979 | 2026-10-21 00:49:26 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (130242⭐ Python) | [reels/reel_8979_Graphify-Labs-graphify](reels/reel_8979_Graphify-Labs-graphify) |
 | 8980 | 2026-10-21 05:42:44 | [longbridge/nsh](https://github.com/longbridge/nsh) | ✅ full (482⭐ Rust) | [reels/reel_8980_longbridge-nsh](reels/reel_8980_longbridge-nsh) |
 | 8981 | 2026-10-21 10:36:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (328847⭐ None) | [reels/reel_8981_awesome-selfhosted-awesome-selfhosted](reels/reel_8981_awesome-selfhosted-awesome-selfhosted) |
+| 8982 | 2026-10-21 15:37:08 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ shallow (141296⭐ Python) | [reels/reel_8982_Comfy-Org-ComfyUI](reels/reel_8982_Comfy-Org-ComfyUI) |
