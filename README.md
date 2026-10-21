@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8980 | [longbridge/nsh](https://github.com/longbridge/nsh) | Rust · ⭐ 482 | 2026-10-21 |
+| #8981 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 328k | 2026-10-21 |
 ---
 
 ## 🎭 Selection Process
@@ -9068,3 +9068,4 @@ If you need permission, you're thinking too much.
 | 8978 | 2026-10-20 22:29:45 | [lfglabs-dev/verity](https://github.com/lfglabs-dev/verity) | ✅ full (148⭐ Lean) | [reels/reel_8978_lfglabs-dev-verity](reels/reel_8978_lfglabs-dev-verity) |
 | 8979 | 2026-10-21 00:49:26 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (130242⭐ Python) | [reels/reel_8979_Graphify-Labs-graphify](reels/reel_8979_Graphify-Labs-graphify) |
 | 8980 | 2026-10-21 05:42:44 | [longbridge/nsh](https://github.com/longbridge/nsh) | ✅ full (482⭐ Rust) | [reels/reel_8980_longbridge-nsh](reels/reel_8980_longbridge-nsh) |
+| 8981 | 2026-10-21 10:36:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (328847⭐ None) | [reels/reel_8981_awesome-selfhosted-awesome-selfhosted](reels/reel_8981_awesome-selfhosted-awesome-selfhosted) |
