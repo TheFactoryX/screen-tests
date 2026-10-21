@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8983 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 155k | 2026-10-21 |
+| #8984 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python · ⭐ 118k | 2026-10-21 |
 ---
 
 ## 🎭 Selection Process
@@ -9071,3 +9071,4 @@ If you need permission, you're thinking too much.
 | 8981 | 2026-10-21 10:36:29 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (328847⭐ None) | [reels/reel_8981_awesome-selfhosted-awesome-selfhosted](reels/reel_8981_awesome-selfhosted-awesome-selfhosted) |
 | 8982 | 2026-10-21 15:37:08 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ shallow (141296⭐ Python) | [reels/reel_8982_Comfy-Org-ComfyUI](reels/reel_8982_Comfy-Org-ComfyUI) |
 | 8983 | 2026-10-21 19:37:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155891⭐ Python) | [reels/reel_8983_langflow-ai-langflow](reels/reel_8983_langflow-ai-langflow) |
+| 8984 | 2026-10-21 22:45:26 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (118775⭐ Python) | [reels/reel_8984_browser-use-browser-use](reels/reel_8984_browser-use-browser-use) |
