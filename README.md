@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8988 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 286k | 2026-10-22 |
+| #8989 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 142k | 2026-10-22 |
 ---
 
 ## 🎭 Selection Process
@@ -9076,3 +9076,4 @@ If you need permission, you're thinking too much.
 | 8986 | 2026-10-22 06:07:15 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (287550⭐ Python) | [reels/reel_8986_practical-tutorials-project-based-learning](reels/reel_8986_practical-tutorials-project-based-learning) |
 | 8987 | 2026-10-22 11:50:33 | [hackthackathon/hackathon-template-github](https://github.com/hackthackathon/hackathon-template-github) | ✅ full (13⭐ Python) | [reels/reel_8987_hackthackathon-hackathon-template-github](reels/reel_8987_hackthackathon-hackathon-template-github) |
 | 8988 | 2026-10-22 16:37:51 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (286253⭐ JavaScript) | [reels/reel_8988_affaan-m-ECC](reels/reel_8988_affaan-m-ECC) |
+| 8989 | 2026-10-22 20:17:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (142020⭐ TypeScript) | [reels/reel_8989_iptv-org-iptv](reels/reel_8989_iptv-org-iptv) |
