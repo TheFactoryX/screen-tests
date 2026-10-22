@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8985 | [vikashjeyaraman/opencouncil-contract-inspector](https://github.com/vikashjeyaraman/opencouncil-contract-inspector) | HTML · ⭐ 123 | 2026-10-22 |
+| #8986 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 287k | 2026-10-22 |
 ---
 
 ## 🎭 Selection Process
@@ -9073,3 +9073,4 @@ If you need permission, you're thinking too much.
 | 8983 | 2026-10-21 19:37:47 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (155891⭐ Python) | [reels/reel_8983_langflow-ai-langflow](reels/reel_8983_langflow-ai-langflow) |
 | 8984 | 2026-10-21 22:45:26 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (118775⭐ Python) | [reels/reel_8984_browser-use-browser-use](reels/reel_8984_browser-use-browser-use) |
 | 8985 | 2026-10-22 01:12:10 | [vikashjeyaraman/opencouncil-contract-inspector](https://github.com/vikashjeyaraman/opencouncil-contract-inspector) | ✅ full (123⭐ HTML) | [reels/reel_8985_vikashjeyaraman-opencouncil-contract-inspector](reels/reel_8985_vikashjeyaraman-opencouncil-contract-inspector) |
+| 8986 | 2026-10-22 06:07:15 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (287550⭐ Python) | [reels/reel_8986_practical-tutorials-project-based-learning](reels/reel_8986_practical-tutorials-project-based-learning) |
