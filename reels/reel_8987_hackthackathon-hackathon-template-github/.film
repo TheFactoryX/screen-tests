@@ -1,0 +1,24 @@
+{
+  "reel_number": 8987,
+  "recorded": "2026-10-22 11:50:33 UTC",
+  "repository": {
+    "full_name": "hackthackathon/hackathon-template-github",
+    "url": "https://github.com/hackthackathon/hackathon-template-github",
+    "clone_url": "https://github.com/hackthackathon/hackathon-template-github.git",
+    "stars": 13,
+    "language": "Python",
+    "size_kb": 5001
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 4,
+    "duration_seconds": 0.684482
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 13 stars."
+  }
+}
