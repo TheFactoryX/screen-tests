@@ -1,0 +1,24 @@
+{
+  "reel_number": 8985,
+  "recorded": "2026-10-22 01:12:10 UTC",
+  "repository": {
+    "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector",
+    "clone_url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector.git",
+    "stars": 123,
+    "language": "HTML",
+    "size_kb": 1768
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.531371
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 123 stars."
+  }
+}
