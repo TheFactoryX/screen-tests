@@ -1,0 +1,24 @@
+{
+  "reel_number": 8995,
+  "recorded": "2026-10-23 20:33:58 UTC",
+  "repository": {
+    "full_name": "ShadowOne333/MaternalBound-Redux",
+    "url": "https://github.com/ShadowOne333/MaternalBound-Redux",
+    "clone_url": "https://github.com/ShadowOne333/MaternalBound-Redux.git",
+    "stars": 147,
+    "language": "Assembly",
+    "size_kb": 71355
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 69,
+    "duration_seconds": 3.207458
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Assembly",
+    "director_note": "A Assembly repository. 147 stars."
+  }
+}

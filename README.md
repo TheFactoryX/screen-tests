@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8994 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-10-23 |
+| #8995 | [ShadowOne333/MaternalBound-Redux](https://github.com/ShadowOne333/MaternalBound-Redux) | Assembly · ⭐ 147 | 2026-10-23 |
 ---
 
 ## 🎭 Selection Process
@@ -9082,3 +9082,4 @@ If you need permission, you're thinking too much.
 | 8992 | 2026-10-23 06:56:52 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (258572⭐ TypeScript) | [reels/reel_8992_deepseek-ai-deepseek-harness](reels/reel_8992_deepseek-ai-deepseek-harness) |
 | 8993 | 2026-10-23 12:27:49 | [joryirving/home-ops](https://github.com/joryirving/home-ops) | ✅ full (228⭐ YAML) | [reels/reel_8993_joryirving-home-ops](reels/reel_8993_joryirving-home-ops) |
 | 8994 | 2026-10-23 17:21:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187717⭐ Python) | [reels/reel_8994_Significant-Gravitas-AutoGPT](reels/reel_8994_Significant-Gravitas-AutoGPT) |
+| 8995 | 2026-10-23 20:33:58 | [ShadowOne333/MaternalBound-Redux](https://github.com/ShadowOne333/MaternalBound-Redux) | ✅ full (147⭐ Assembly) | [reels/reel_8995_ShadowOne333-MaternalBound-Redux](reels/reel_8995_ShadowOne333-MaternalBound-Redux) |
