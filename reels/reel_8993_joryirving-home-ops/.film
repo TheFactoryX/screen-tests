@@ -1,0 +1,24 @@
+{
+  "reel_number": 8993,
+  "recorded": "2026-10-23 12:27:49 UTC",
+  "repository": {
+    "full_name": "joryirving/home-ops",
+    "url": "https://github.com/joryirving/home-ops",
+    "clone_url": "https://github.com/joryirving/home-ops.git",
+    "stars": 228,
+    "language": "YAML",
+    "size_kb": 78183
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 76,
+    "duration_seconds": 3.293118
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "YAML",
+    "director_note": "A YAML repository. 228 stars."
+  }
+}

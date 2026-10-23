@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8992 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 258k | 2026-10-23 |
+| #8993 | [joryirving/home-ops](https://github.com/joryirving/home-ops) | YAML · ⭐ 228 | 2026-10-23 |
 ---
 
 ## 🎭 Selection Process
@@ -9080,3 +9080,4 @@ If you need permission, you're thinking too much.
 | 8990 | 2026-10-22 23:29:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (123360⭐ None) | [reels/reel_8990_Hack-with-Github-Awesome-Hacking](reels/reel_8990_Hack-with-Github-Awesome-Hacking) |
 | 8991 | 2026-10-23 01:49:53 | [googleapis/google-api-java-client-services](https://github.com/googleapis/google-api-java-client-services) | ✅ shallow (727⭐ Java) | [reels/reel_8991_googleapis-google-api-java-client-services](reels/reel_8991_googleapis-google-api-java-client-services) |
 | 8992 | 2026-10-23 06:56:52 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (258572⭐ TypeScript) | [reels/reel_8992_deepseek-ai-deepseek-harness](reels/reel_8992_deepseek-ai-deepseek-harness) |
+| 8993 | 2026-10-23 12:27:49 | [joryirving/home-ops](https://github.com/joryirving/home-ops) | ✅ full (228⭐ YAML) | [reels/reel_8993_joryirving-home-ops](reels/reel_8993_joryirving-home-ops) |
