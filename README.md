@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8990 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 123k | 2026-10-22 |
+| #8991 | [googleapis/google-api-java-client-services](https://github.com/googleapis/google-api-java-client-services) | Java · ⭐ 727 | 2026-10-23 |
 ---
 
 ## 🎭 Selection Process
@@ -9078,3 +9078,4 @@ If you need permission, you're thinking too much.
 | 8988 | 2026-10-22 16:37:51 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (286253⭐ JavaScript) | [reels/reel_8988_affaan-m-ECC](reels/reel_8988_affaan-m-ECC) |
 | 8989 | 2026-10-22 20:17:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (142020⭐ TypeScript) | [reels/reel_8989_iptv-org-iptv](reels/reel_8989_iptv-org-iptv) |
 | 8990 | 2026-10-22 23:29:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (123360⭐ None) | [reels/reel_8990_Hack-with-Github-Awesome-Hacking](reels/reel_8990_Hack-with-Github-Awesome-Hacking) |
+| 8991 | 2026-10-23 01:49:53 | [googleapis/google-api-java-client-services](https://github.com/googleapis/google-api-java-client-services) | ✅ shallow (727⭐ Java) | [reels/reel_8991_googleapis-google-api-java-client-services](reels/reel_8991_googleapis-google-api-java-client-services) |

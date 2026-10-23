@@ -1,0 +1,24 @@
+{
+  "reel_number": 8991,
+  "recorded": "2026-10-23 01:49:53 UTC",
+  "repository": {
+    "full_name": "googleapis/google-api-java-client-services",
+    "url": "https://github.com/googleapis/google-api-java-client-services",
+    "clone_url": "https://github.com/googleapis/google-api-java-client-services.git",
+    "stars": 727,
+    "language": "Java",
+    "size_kb": 391853
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 382,
+    "duration_seconds": 35.611474
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Java",
+    "director_note": "A Java repository. 727 stars."
+  }
+}
