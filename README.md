@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8991 | [googleapis/google-api-java-client-services](https://github.com/googleapis/google-api-java-client-services) | Java · ⭐ 727 | 2026-10-23 |
+| #8992 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 258k | 2026-10-23 |
 ---
 
 ## 🎭 Selection Process
@@ -9079,3 +9079,4 @@ If you need permission, you're thinking too much.
 | 8989 | 2026-10-22 20:17:56 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (142020⭐ TypeScript) | [reels/reel_8989_iptv-org-iptv](reels/reel_8989_iptv-org-iptv) |
 | 8990 | 2026-10-22 23:29:34 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (123360⭐ None) | [reels/reel_8990_Hack-with-Github-Awesome-Hacking](reels/reel_8990_Hack-with-Github-Awesome-Hacking) |
 | 8991 | 2026-10-23 01:49:53 | [googleapis/google-api-java-client-services](https://github.com/googleapis/google-api-java-client-services) | ✅ shallow (727⭐ Java) | [reels/reel_8991_googleapis-google-api-java-client-services](reels/reel_8991_googleapis-google-api-java-client-services) |
+| 8992 | 2026-10-23 06:56:52 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (258572⭐ TypeScript) | [reels/reel_8992_deepseek-ai-deepseek-harness](reels/reel_8992_deepseek-ai-deepseek-harness) |
