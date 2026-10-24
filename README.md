@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9000 | [puentesarrin/wtforms-tornado](https://github.com/puentesarrin/wtforms-tornado) | Python · ⭐ 71 | 2026-10-24 |
+| #9001 | [fallow-rs/fallow-skills](https://github.com/fallow-rs/fallow-skills) | JavaScript · ⭐ 134 | 2026-10-24 |
 ---
 
 ## 🎭 Selection Process
@@ -9088,3 +9088,4 @@ If you need permission, you're thinking too much.
 | 8998 | 2026-10-24 07:09:05 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (201148⭐ Python) | [reels/reel_8998_yt-dlp-yt-dlp](reels/reel_8998_yt-dlp-yt-dlp) |
 | 8999 | 2026-10-24 11:59:34 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ shallow (510⭐ None) | [reels/reel_8999_zloi-user-hideip.me](reels/reel_8999_zloi-user-hideip.me) |
 | 9000 | 2026-10-24 15:48:21 | [puentesarrin/wtforms-tornado](https://github.com/puentesarrin/wtforms-tornado) | ✅ full (71⭐ Python) | [reels/reel_9000_puentesarrin-wtforms-tornado](reels/reel_9000_puentesarrin-wtforms-tornado) |
+| 9001 | 2026-10-24 18:34:42 | [fallow-rs/fallow-skills](https://github.com/fallow-rs/fallow-skills) | ✅ full (134⭐ JavaScript) | [reels/reel_9001_fallow-rs-fallow-skills](reels/reel_9001_fallow-rs-fallow-skills) |
