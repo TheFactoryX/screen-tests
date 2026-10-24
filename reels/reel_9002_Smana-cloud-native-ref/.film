@@ -1,0 +1,24 @@
+{
+  "reel_number": 9002,
+  "recorded": "2026-10-24 21:11:52 UTC",
+  "repository": {
+    "full_name": "Smana/cloud-native-ref",
+    "url": "https://github.com/Smana/cloud-native-ref",
+    "clone_url": "https://github.com/Smana/cloud-native-ref.git",
+    "stars": 104,
+    "language": "Shell",
+    "size_kb": 63908
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 62,
+    "duration_seconds": 1.635084
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Shell",
+    "director_note": "A Shell repository. 104 stars."
+  }
+}
