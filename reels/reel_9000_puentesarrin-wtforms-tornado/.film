@@ -1,0 +1,24 @@
+{
+  "reel_number": 9000,
+  "recorded": "2026-10-24 15:48:21 UTC",
+  "repository": {
+    "full_name": "puentesarrin/wtforms-tornado",
+    "url": "https://github.com/puentesarrin/wtforms-tornado",
+    "clone_url": "https://github.com/puentesarrin/wtforms-tornado.git",
+    "stars": 71,
+    "language": "Python",
+    "size_kb": 44
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.174957
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 71 stars."
+  }
+}
