@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #8996 | [imartincei/CalcpadCE](https://github.com/imartincei/CalcpadCE) | C# · ⭐ 111 | 2026-10-23 |
+| #8997 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 491k | 2026-10-24 |
 ---
 
 ## 🎭 Selection Process
@@ -9084,3 +9084,4 @@ If you need permission, you're thinking too much.
 | 8994 | 2026-10-23 17:21:50 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187717⭐ Python) | [reels/reel_8994_Significant-Gravitas-AutoGPT](reels/reel_8994_Significant-Gravitas-AutoGPT) |
 | 8995 | 2026-10-23 20:33:58 | [ShadowOne333/MaternalBound-Redux](https://github.com/ShadowOne333/MaternalBound-Redux) | ✅ full (147⭐ Assembly) | [reels/reel_8995_ShadowOne333-MaternalBound-Redux](reels/reel_8995_ShadowOne333-MaternalBound-Redux) |
 | 8996 | 2026-10-23 23:30:51 | [imartincei/CalcpadCE](https://github.com/imartincei/CalcpadCE) | ✅ readme_only (111⭐ C#) | [reels/reel_8996_imartincei-CalcpadCE](reels/reel_8996_imartincei-CalcpadCE) |
+| 8997 | 2026-10-24 01:59:12 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (491690⭐ Python) | [reels/reel_8997_public-apis-public-apis](reels/reel_8997_public-apis-public-apis) |
