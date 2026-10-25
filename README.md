@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9003 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript · ⭐ 126k | 2026-10-24 |
+| #9004 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 156k | 2026-10-25 |
 ---
 
 ## 🎭 Selection Process
@@ -9091,3 +9091,4 @@ If you need permission, you're thinking too much.
 | 9001 | 2026-10-24 18:34:42 | [fallow-rs/fallow-skills](https://github.com/fallow-rs/fallow-skills) | ✅ full (134⭐ JavaScript) | [reels/reel_9001_fallow-rs-fallow-skills](reels/reel_9001_fallow-rs-fallow-skills) |
 | 9002 | 2026-10-24 21:11:52 | [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) | ✅ full (104⭐ Shell) | [reels/reel_9002_Smana-cloud-native-ref](reels/reel_9002_Smana-cloud-native-ref) |
 | 9003 | 2026-10-24 23:16:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (126444⭐ TypeScript) | [reels/reel_9003_shadcn-ui-ui](reels/reel_9003_shadcn-ui-ui) |
+| 9004 | 2026-10-25 01:24:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (156658⭐ Python) | [reels/reel_9004_open-webui-open-webui](reels/reel_9004_open-webui-open-webui) |
