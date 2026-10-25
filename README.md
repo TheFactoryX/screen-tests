@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9008 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 330k | 2026-10-25 |
+| #9009 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-10-25 |
 ---
 
 ## 🎭 Selection Process
@@ -9096,3 +9096,4 @@ If you need permission, you're thinking too much.
 | 9006 | 2026-10-25 12:00:00 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (119088⭐ Python) | [reels/reel_9006_browser-use-browser-use](reels/reel_9006_browser-use-browser-use) |
 | 9007 | 2026-10-25 15:59:40 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (261241⭐ TypeScript) | [reels/reel_9007_deepseek-ai-deepseek-harness](reels/reel_9007_deepseek-ai-deepseek-harness) |
 | 9008 | 2026-10-25 18:53:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (330340⭐ None) | [reels/reel_9008_awesome-selfhosted-awesome-selfhosted](reels/reel_9008_awesome-selfhosted-awesome-selfhosted) |
+| 9009 | 2026-10-25 21:25:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187749⭐ Python) | [reels/reel_9009_Significant-Gravitas-AutoGPT](reels/reel_9009_Significant-Gravitas-AutoGPT) |
