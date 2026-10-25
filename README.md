@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9006 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python · ⭐ 119k | 2026-10-25 |
+| #9007 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 261k | 2026-10-25 |
 ---
 
 ## 🎭 Selection Process
@@ -9094,3 +9094,4 @@ If you need permission, you're thinking too much.
 | 9004 | 2026-10-25 01:24:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (156658⭐ Python) | [reels/reel_9004_open-webui-open-webui](reels/reel_9004_open-webui-open-webui) |
 | 9005 | 2026-10-25 06:31:33 | [Sekai-World/sekai-viewer](https://github.com/Sekai-World/sekai-viewer) | ✅ full (533⭐ TypeScript) | [reels/reel_9005_Sekai-World-sekai-viewer](reels/reel_9005_Sekai-World-sekai-viewer) |
 | 9006 | 2026-10-25 12:00:00 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | ✅ full (119088⭐ Python) | [reels/reel_9006_browser-use-browser-use](reels/reel_9006_browser-use-browser-use) |
+| 9007 | 2026-10-25 15:59:40 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (261241⭐ TypeScript) | [reels/reel_9007_deepseek-ai-deepseek-harness](reels/reel_9007_deepseek-ai-deepseek-harness) |
