@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9009 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-10-25 |
+| #9010 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 202k | 2026-10-25 |
 ---
 
 ## 🎭 Selection Process
@@ -9097,3 +9097,4 @@ If you need permission, you're thinking too much.
 | 9007 | 2026-10-25 15:59:40 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (261241⭐ TypeScript) | [reels/reel_9007_deepseek-ai-deepseek-harness](reels/reel_9007_deepseek-ai-deepseek-harness) |
 | 9008 | 2026-10-25 18:53:03 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (330340⭐ None) | [reels/reel_9008_awesome-selfhosted-awesome-selfhosted](reels/reel_9008_awesome-selfhosted-awesome-selfhosted) |
 | 9009 | 2026-10-25 21:25:12 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187749⭐ Python) | [reels/reel_9009_Significant-Gravitas-AutoGPT](reels/reel_9009_Significant-Gravitas-AutoGPT) |
+| 9010 | 2026-10-25 23:26:13 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (202056⭐ Python) | [reels/reel_9010_yt-dlp-yt-dlp](reels/reel_9010_yt-dlp-yt-dlp) |
