@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9004 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 156k | 2026-10-25 |
+| #9005 | [Sekai-World/sekai-viewer](https://github.com/Sekai-World/sekai-viewer) | TypeScript · ⭐ 533 | 2026-10-25 |
 ---
 
 ## 🎭 Selection Process
@@ -9092,3 +9092,4 @@ If you need permission, you're thinking too much.
 | 9002 | 2026-10-24 21:11:52 | [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) | ✅ full (104⭐ Shell) | [reels/reel_9002_Smana-cloud-native-ref](reels/reel_9002_Smana-cloud-native-ref) |
 | 9003 | 2026-10-24 23:16:13 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | ✅ full (126444⭐ TypeScript) | [reels/reel_9003_shadcn-ui-ui](reels/reel_9003_shadcn-ui-ui) |
 | 9004 | 2026-10-25 01:24:13 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ shallow (156658⭐ Python) | [reels/reel_9004_open-webui-open-webui](reels/reel_9004_open-webui-open-webui) |
+| 9005 | 2026-10-25 06:31:33 | [Sekai-World/sekai-viewer](https://github.com/Sekai-World/sekai-viewer) | ✅ full (533⭐ TypeScript) | [reels/reel_9005_Sekai-World-sekai-viewer](reels/reel_9005_Sekai-World-sekai-viewer) |

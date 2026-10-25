@@ -1,0 +1,24 @@
+{
+  "reel_number": 9005,
+  "recorded": "2026-10-25 06:31:33 UTC",
+  "repository": {
+    "full_name": "Sekai-World/sekai-viewer",
+    "url": "https://github.com/Sekai-World/sekai-viewer",
+    "clone_url": "https://github.com/Sekai-World/sekai-viewer.git",
+    "stars": 533,
+    "language": "TypeScript",
+    "size_kb": 34852
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 34,
+    "duration_seconds": 1.790368
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 533 stars."
+  }
+}
