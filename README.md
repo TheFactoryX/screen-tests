@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9013 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 120k | 2026-10-26 |
+| #9014 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 154k | 2026-10-26 |
 ---
 
 ## 🎭 Selection Process
@@ -9101,3 +9101,4 @@ If you need permission, you're thinking too much.
 | 9011 | 2026-10-26 01:29:00 | [marcrleonard/LineDream](https://github.com/marcrleonard/LineDream) | ✅ full (19⭐ Python) | [reels/reel_9011_marcrleonard-LineDream](reels/reel_9011_marcrleonard-LineDream) |
 | 9012 | 2026-10-26 06:51:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (156770⭐ Python) | [reels/reel_9012_open-webui-open-webui](reels/reel_9012_open-webui-open-webui) |
 | 9013 | 2026-10-26 13:52:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (120830⭐ Rust) | [reels/reel_9013_rust-lang-rust](reels/reel_9013_rust-lang-rust) |
+| 9014 | 2026-10-26 19:43:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (154080⭐ Rust) | [reels/reel_9014_clash-verge-rev-clash-verge-rev](reels/reel_9014_clash-verge-rev-clash-verge-rev) |
