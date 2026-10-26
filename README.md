@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9012 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python · ⭐ 156k | 2026-10-26 |
+| #9013 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 120k | 2026-10-26 |
 ---
 
 ## 🎭 Selection Process
@@ -9100,3 +9100,4 @@ If you need permission, you're thinking too much.
 | 9010 | 2026-10-25 23:26:13 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (202056⭐ Python) | [reels/reel_9010_yt-dlp-yt-dlp](reels/reel_9010_yt-dlp-yt-dlp) |
 | 9011 | 2026-10-26 01:29:00 | [marcrleonard/LineDream](https://github.com/marcrleonard/LineDream) | ✅ full (19⭐ Python) | [reels/reel_9011_marcrleonard-LineDream](reels/reel_9011_marcrleonard-LineDream) |
 | 9012 | 2026-10-26 06:51:10 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (156770⭐ Python) | [reels/reel_9012_open-webui-open-webui](reels/reel_9012_open-webui-open-webui) |
+| 9013 | 2026-10-26 13:52:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (120830⭐ Rust) | [reels/reel_9013_rust-lang-rust](reels/reel_9013_rust-lang-rust) |
