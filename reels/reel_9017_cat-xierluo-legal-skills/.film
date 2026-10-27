@@ -1,0 +1,24 @@
+{
+  "reel_number": 9017,
+  "recorded": "2026-10-27 08:11:25 UTC",
+  "repository": {
+    "full_name": "cat-xierluo/legal-skills",
+    "url": "https://github.com/cat-xierluo/legal-skills",
+    "clone_url": "https://github.com/cat-xierluo/legal-skills.git",
+    "stars": 759,
+    "language": "Python",
+    "size_kb": 65066
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 63,
+    "duration_seconds": 1.919458
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 759 stars."
+  }
+}
