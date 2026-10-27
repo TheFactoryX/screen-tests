@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9019 | [kayranfatih/awesome-iot-and-hardware-security](https://github.com/kayranfatih/awesome-iot-and-hardware-security) | None · ⭐ 69 | 2026-10-27 |
+| #9020 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 290k | 2026-10-27 |
 ---
 
 ## 🎭 Selection Process
@@ -9107,3 +9107,4 @@ If you need permission, you're thinking too much.
 | 9017 | 2026-10-27 08:11:25 | [cat-xierluo/legal-skills](https://github.com/cat-xierluo/legal-skills) | ✅ full (759⭐ Python) | [reels/reel_9017_cat-xierluo-legal-skills](reels/reel_9017_cat-xierluo-legal-skills) |
 | 9018 | 2026-10-27 14:31:34 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (225251⭐ None) | [reels/reel_9018_multica-ai-andrej-karpathy-skills](reels/reel_9018_multica-ai-andrej-karpathy-skills) |
 | 9019 | 2026-10-27 19:38:54 | [kayranfatih/awesome-iot-and-hardware-security](https://github.com/kayranfatih/awesome-iot-and-hardware-security) | ✅ full (69⭐ None) | [reels/reel_9019_kayranfatih-awesome-iot-and-hardware-security](reels/reel_9019_kayranfatih-awesome-iot-and-hardware-security) |
+| 9020 | 2026-10-27 23:13:07 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (290843⭐ JavaScript) | [reels/reel_9020_affaan-m-ECC](reels/reel_9020_affaan-m-ECC) |
