@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9015 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 288k | 2026-10-26 |
+| #9016 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 154k | 2026-10-27 |
 ---
 
 ## 🎭 Selection Process
@@ -9103,3 +9103,4 @@ If you need permission, you're thinking too much.
 | 9013 | 2026-10-26 13:52:22 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (120830⭐ Rust) | [reels/reel_9013_rust-lang-rust](reels/reel_9013_rust-lang-rust) |
 | 9014 | 2026-10-26 19:43:51 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (154080⭐ Rust) | [reels/reel_9014_clash-verge-rev-clash-verge-rev](reels/reel_9014_clash-verge-rev-clash-verge-rev) |
 | 9015 | 2026-10-26 23:22:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (288106⭐ Python) | [reels/reel_9015_practical-tutorials-project-based-learning](reels/reel_9015_practical-tutorials-project-based-learning) |
+| 9016 | 2026-10-27 02:16:53 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (154112⭐ Rust) | [reels/reel_9016_clash-verge-rev-clash-verge-rev](reels/reel_9016_clash-verge-rev-clash-verge-rev) |
