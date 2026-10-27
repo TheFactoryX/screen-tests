@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9017 | [cat-xierluo/legal-skills](https://github.com/cat-xierluo/legal-skills) | Python · ⭐ 759 | 2026-10-27 |
+| #9018 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | None · ⭐ 225k | 2026-10-27 |
 ---
 
 ## 🎭 Selection Process
@@ -9105,3 +9105,4 @@ If you need permission, you're thinking too much.
 | 9015 | 2026-10-26 23:22:43 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (288106⭐ Python) | [reels/reel_9015_practical-tutorials-project-based-learning](reels/reel_9015_practical-tutorials-project-based-learning) |
 | 9016 | 2026-10-27 02:16:53 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (154112⭐ Rust) | [reels/reel_9016_clash-verge-rev-clash-verge-rev](reels/reel_9016_clash-verge-rev-clash-verge-rev) |
 | 9017 | 2026-10-27 08:11:25 | [cat-xierluo/legal-skills](https://github.com/cat-xierluo/legal-skills) | ✅ full (759⭐ Python) | [reels/reel_9017_cat-xierluo-legal-skills](reels/reel_9017_cat-xierluo-legal-skills) |
+| 9018 | 2026-10-27 14:31:34 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (225251⭐ None) | [reels/reel_9018_multica-ai-andrej-karpathy-skills](reels/reel_9018_multica-ai-andrej-karpathy-skills) |
