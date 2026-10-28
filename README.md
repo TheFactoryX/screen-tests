@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9023 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust · ⭐ 120k | 2026-10-28 |
+| #9024 | [diogoseca/bjjgraph](https://github.com/diogoseca/bjjgraph) | JavaScript · ⭐ 34 | 2026-10-28 |
 ---
 
 ## 🎭 Selection Process
@@ -9111,3 +9111,4 @@ If you need permission, you're thinking too much.
 | 9021 | 2026-10-28 02:18:29 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (142560⭐ TypeScript) | [reels/reel_9021_iptv-org-iptv](reels/reel_9021_iptv-org-iptv) |
 | 9022 | 2026-10-28 08:50:37 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (288260⭐ Python) | [reels/reel_9022_practical-tutorials-project-based-learning](reels/reel_9022_practical-tutorials-project-based-learning) |
 | 9023 | 2026-10-28 15:43:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (120882⭐ Rust) | [reels/reel_9023_rust-lang-rust](reels/reel_9023_rust-lang-rust) |
+| 9024 | 2026-10-28 20:34:54 | [diogoseca/bjjgraph](https://github.com/diogoseca/bjjgraph) | ✅ shallow (34⭐ JavaScript) | [reels/reel_9024_diogoseca-bjjgraph](reels/reel_9024_diogoseca-bjjgraph) |
