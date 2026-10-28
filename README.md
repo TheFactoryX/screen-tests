@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9020 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 290k | 2026-10-27 |
+| #9021 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 142k | 2026-10-28 |
 ---
 
 ## 🎭 Selection Process
@@ -9108,3 +9108,4 @@ If you need permission, you're thinking too much.
 | 9018 | 2026-10-27 14:31:34 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (225251⭐ None) | [reels/reel_9018_multica-ai-andrej-karpathy-skills](reels/reel_9018_multica-ai-andrej-karpathy-skills) |
 | 9019 | 2026-10-27 19:38:54 | [kayranfatih/awesome-iot-and-hardware-security](https://github.com/kayranfatih/awesome-iot-and-hardware-security) | ✅ full (69⭐ None) | [reels/reel_9019_kayranfatih-awesome-iot-and-hardware-security](reels/reel_9019_kayranfatih-awesome-iot-and-hardware-security) |
 | 9020 | 2026-10-27 23:13:07 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (290843⭐ JavaScript) | [reels/reel_9020_affaan-m-ECC](reels/reel_9020_affaan-m-ECC) |
+| 9021 | 2026-10-28 02:18:29 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (142560⭐ TypeScript) | [reels/reel_9021_iptv-org-iptv](reels/reel_9021_iptv-org-iptv) |
