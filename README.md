@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9025 | [uvcat7/ArrowVortex](https://github.com/uvcat7/ArrowVortex) | C++ · ⭐ 195 | 2026-10-29 |
+| #9026 | [marianfoo/sap-ai-mcp-servers](https://github.com/marianfoo/sap-ai-mcp-servers) | JavaScript · ⭐ 551 | 2026-10-29 |
 ---
 
 ## 🎭 Selection Process
@@ -9113,3 +9113,4 @@ If you need permission, you're thinking too much.
 | 9023 | 2026-10-28 15:43:06 | [rust-lang/rust](https://github.com/rust-lang/rust) | ✅ readme_only (120882⭐ Rust) | [reels/reel_9023_rust-lang-rust](reels/reel_9023_rust-lang-rust) |
 | 9024 | 2026-10-28 20:34:54 | [diogoseca/bjjgraph](https://github.com/diogoseca/bjjgraph) | ✅ shallow (34⭐ JavaScript) | [reels/reel_9024_diogoseca-bjjgraph](reels/reel_9024_diogoseca-bjjgraph) |
 | 9025 | 2026-10-29 00:25:26 | [uvcat7/ArrowVortex](https://github.com/uvcat7/ArrowVortex) | ✅ full (195⭐ C++) | [reels/reel_9025_uvcat7-ArrowVortex](reels/reel_9025_uvcat7-ArrowVortex) |
+| 9026 | 2026-10-29 06:12:00 | [marianfoo/sap-ai-mcp-servers](https://github.com/marianfoo/sap-ai-mcp-servers) | ✅ full (551⭐ JavaScript) | [reels/reel_9026_marianfoo-sap-ai-mcp-servers](reels/reel_9026_marianfoo-sap-ai-mcp-servers) |
