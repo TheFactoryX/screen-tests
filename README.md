@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9028 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 292k | 2026-10-29 |
+| #9029 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 156k | 2026-10-29 |
 ---
 
 ## 🎭 Selection Process
@@ -9116,3 +9116,4 @@ If you need permission, you're thinking too much.
 | 9026 | 2026-10-29 06:12:00 | [marianfoo/sap-ai-mcp-servers](https://github.com/marianfoo/sap-ai-mcp-servers) | ✅ full (551⭐ JavaScript) | [reels/reel_9026_marianfoo-sap-ai-mcp-servers](reels/reel_9026_marianfoo-sap-ai-mcp-servers) |
 | 9027 | 2026-10-29 13:03:10 | [pytoyoda/ha_toyota](https://github.com/pytoyoda/ha_toyota) | ✅ full (172⭐ Python) | [reels/reel_9027_pytoyoda-ha_toyota](reels/reel_9027_pytoyoda-ha_toyota) |
 | 9028 | 2026-10-29 18:57:12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (292533⭐ JavaScript) | [reels/reel_9028_affaan-m-ECC](reels/reel_9028_affaan-m-ECC) |
+| 9029 | 2026-10-29 23:07:30 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (156144⭐ Python) | [reels/reel_9029_langflow-ai-langflow](reels/reel_9029_langflow-ai-langflow) |
