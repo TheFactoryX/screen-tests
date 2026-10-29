@@ -1,0 +1,24 @@
+{
+  "reel_number": 9025,
+  "recorded": "2026-10-29 00:25:26 UTC",
+  "repository": {
+    "full_name": "uvcat7/ArrowVortex",
+    "url": "https://github.com/uvcat7/ArrowVortex",
+    "clone_url": "https://github.com/uvcat7/ArrowVortex.git",
+    "stars": 195,
+    "language": "C++",
+    "size_kb": 27815
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 1.196143
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C++",
+    "director_note": "A C++ repository. 195 stars."
+  }
+}
