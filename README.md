@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9027 | [pytoyoda/ha_toyota](https://github.com/pytoyoda/ha_toyota) | Python · ⭐ 172 | 2026-10-29 |
+| #9028 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 292k | 2026-10-29 |
 ---
 
 ## 🎭 Selection Process
@@ -9115,3 +9115,4 @@ If you need permission, you're thinking too much.
 | 9025 | 2026-10-29 00:25:26 | [uvcat7/ArrowVortex](https://github.com/uvcat7/ArrowVortex) | ✅ full (195⭐ C++) | [reels/reel_9025_uvcat7-ArrowVortex](reels/reel_9025_uvcat7-ArrowVortex) |
 | 9026 | 2026-10-29 06:12:00 | [marianfoo/sap-ai-mcp-servers](https://github.com/marianfoo/sap-ai-mcp-servers) | ✅ full (551⭐ JavaScript) | [reels/reel_9026_marianfoo-sap-ai-mcp-servers](reels/reel_9026_marianfoo-sap-ai-mcp-servers) |
 | 9027 | 2026-10-29 13:03:10 | [pytoyoda/ha_toyota](https://github.com/pytoyoda/ha_toyota) | ✅ full (172⭐ Python) | [reels/reel_9027_pytoyoda-ha_toyota](reels/reel_9027_pytoyoda-ha_toyota) |
+| 9028 | 2026-10-29 18:57:12 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (292533⭐ JavaScript) | [reels/reel_9028_affaan-m-ECC](reels/reel_9028_affaan-m-ECC) |
