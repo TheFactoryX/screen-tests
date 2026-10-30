@@ -1,0 +1,24 @@
+{
+  "reel_number": 9033,
+  "recorded": "2026-10-30 20:23:06 UTC",
+  "repository": {
+    "full_name": "changkun/occamy",
+    "url": "https://github.com/changkun/occamy",
+    "clone_url": "https://github.com/changkun/occamy.git",
+    "stars": 320,
+    "language": "Go",
+    "size_kb": 13415
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 13,
+    "duration_seconds": 0.862407
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Go",
+    "director_note": "A Go repository. 320 stars."
+  }
+}
