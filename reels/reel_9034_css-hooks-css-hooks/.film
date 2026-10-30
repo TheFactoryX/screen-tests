@@ -1,0 +1,24 @@
+{
+  "reel_number": 9034,
+  "recorded": "2026-10-30 23:56:34 UTC",
+  "repository": {
+    "full_name": "css-hooks/css-hooks",
+    "url": "https://github.com/css-hooks/css-hooks",
+    "clone_url": "https://github.com/css-hooks/css-hooks.git",
+    "stars": 608,
+    "language": "TypeScript",
+    "size_kb": 3959
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 3,
+    "duration_seconds": 0.763654
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 608 stars."
+  }
+}
