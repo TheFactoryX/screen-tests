@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9038 | [w13630039663-bit/venera-miuix](https://github.com/w13630039663-bit/venera-miuix) | Kotlin · ⭐ 108 | 2026-10-31 |
+| #9039 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 294k | 2026-10-31 |
 ---
 
 ## 🎭 Selection Process
@@ -9126,3 +9126,4 @@ If you need permission, you're thinking too much.
 | 9036 | 2026-10-31 10:36:42 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (141434⭐ Python) | [reels/reel_9036_ytdl-org-youtube-dl](reels/reel_9036_ytdl-org-youtube-dl) |
 | 9037 | 2026-10-31 15:52:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (493733⭐ Python) | [reels/reel_9037_public-apis-public-apis](reels/reel_9037_public-apis-public-apis) |
 | 9038 | 2026-10-31 19:42:48 | [w13630039663-bit/venera-miuix](https://github.com/w13630039663-bit/venera-miuix) | ✅ full (108⭐ Kotlin) | [reels/reel_9038_w13630039663-bit-venera-miuix](reels/reel_9038_w13630039663-bit-venera-miuix) |
+| 9039 | 2026-10-31 22:50:48 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (294023⭐ JavaScript) | [reels/reel_9039_affaan-m-ECC](reels/reel_9039_affaan-m-ECC) |
