@@ -1,0 +1,24 @@
+{
+  "reel_number": 9038,
+  "recorded": "2026-10-31 19:42:48 UTC",
+  "repository": {
+    "full_name": "w13630039663-bit/venera-miuix",
+    "url": "https://github.com/w13630039663-bit/venera-miuix",
+    "clone_url": "https://github.com/w13630039663-bit/venera-miuix.git",
+    "stars": 108,
+    "language": "Kotlin",
+    "size_kb": 68652
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 67,
+    "duration_seconds": 1.870863
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Kotlin",
+    "director_note": "A Kotlin repository. 108 stars."
+  }
+}
