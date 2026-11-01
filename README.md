@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9039 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 294k | 2026-10-31 |
+| #9040 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 557k | 2026-11-01 |
 ---
 
 ## 🎭 Selection Process
@@ -9127,3 +9127,4 @@ If you need permission, you're thinking too much.
 | 9037 | 2026-10-31 15:52:38 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (493733⭐ Python) | [reels/reel_9037_public-apis-public-apis](reels/reel_9037_public-apis-public-apis) |
 | 9038 | 2026-10-31 19:42:48 | [w13630039663-bit/venera-miuix](https://github.com/w13630039663-bit/venera-miuix) | ✅ full (108⭐ Kotlin) | [reels/reel_9038_w13630039663-bit-venera-miuix](reels/reel_9038_w13630039663-bit-venera-miuix) |
 | 9039 | 2026-10-31 22:50:48 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (294023⭐ JavaScript) | [reels/reel_9039_affaan-m-ECC](reels/reel_9039_affaan-m-ECC) |
+| 9040 | 2026-11-01 01:50:09 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (557910⭐ Markdown) | [reels/reel_9040_codecrafters-io-build-your-own-x](reels/reel_9040_codecrafters-io-build-your-own-x) |
