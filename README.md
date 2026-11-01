@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9043 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 142k | 2026-11-01 |
+| #9044 | [bal-spec/sillytavern-character-memory](https://github.com/bal-spec/sillytavern-character-memory) | JavaScript · ⭐ 78 | 2026-11-01 |
 ---
 
 ## 🎭 Selection Process
@@ -9131,3 +9131,4 @@ If you need permission, you're thinking too much.
 | 9041 | 2026-11-01 08:41:23 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (204322⭐ Python) | [reels/reel_9041_yt-dlp-yt-dlp](reels/reel_9041_yt-dlp-yt-dlp) |
 | 9042 | 2026-11-01 15:28:13 | [dadwritestech/LlamaForge](https://github.com/dadwritestech/LlamaForge) | ✅ full (119⭐ Python) | [reels/reel_9042_dadwritestech-LlamaForge](reels/reel_9042_dadwritestech-LlamaForge) |
 | 9043 | 2026-11-01 19:51:49 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (142992⭐ TypeScript) | [reels/reel_9043_iptv-org-iptv](reels/reel_9043_iptv-org-iptv) |
+| 9044 | 2026-11-01 23:21:43 | [bal-spec/sillytavern-character-memory](https://github.com/bal-spec/sillytavern-character-memory) | ✅ full (78⭐ JavaScript) | [reels/reel_9044_bal-spec-sillytavern-character-memory](reels/reel_9044_bal-spec-sillytavern-character-memory) |
