@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9046 | [timgerstel/suspicious_IPs](https://github.com/timgerstel/suspicious_IPs) | HTML · ⭐ 18 | 2026-11-02 |
+| #9047 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 124k | 2026-11-02 |
 ---
 
 ## 🎭 Selection Process
@@ -9134,3 +9134,4 @@ If you need permission, you're thinking too much.
 | 9044 | 2026-11-01 23:21:43 | [bal-spec/sillytavern-character-memory](https://github.com/bal-spec/sillytavern-character-memory) | ✅ full (78⭐ JavaScript) | [reels/reel_9044_bal-spec-sillytavern-character-memory](reels/reel_9044_bal-spec-sillytavern-character-memory) |
 | 9045 | 2026-11-02 02:40:09 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (157490⭐ Python) | [reels/reel_9045_open-webui-open-webui](reels/reel_9045_open-webui-open-webui) |
 | 9046 | 2026-11-02 09:58:27 | [timgerstel/suspicious_IPs](https://github.com/timgerstel/suspicious_IPs) | ✅ shallow (18⭐ HTML) | [reels/reel_9046_timgerstel-suspicious_IPs](reels/reel_9046_timgerstel-suspicious_IPs) |
+| 9047 | 2026-11-02 20:05:53 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (124416⭐ None) | [reels/reel_9047_Hack-with-Github-Awesome-Hacking](reels/reel_9047_Hack-with-Github-Awesome-Hacking) |
