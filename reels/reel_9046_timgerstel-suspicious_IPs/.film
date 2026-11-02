@@ -1,0 +1,24 @@
+{
+  "reel_number": 9046,
+  "recorded": "2026-11-02 09:58:27 UTC",
+  "repository": {
+    "full_name": "timgerstel/suspicious_IPs",
+    "url": "https://github.com/timgerstel/suspicious_IPs",
+    "clone_url": "https://github.com/timgerstel/suspicious_IPs.git",
+    "stars": 18,
+    "language": "HTML",
+    "size_kb": 317184
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "shallow",
+    "size_mb": 309,
+    "duration_seconds": 0.492955
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "HTML",
+    "director_note": "A HTML repository. 18 stars."
+  }
+}
