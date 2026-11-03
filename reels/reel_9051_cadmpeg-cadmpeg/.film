@@ -1,0 +1,24 @@
+{
+  "reel_number": 9051,
+  "recorded": "2026-11-03 22:30:41 UTC",
+  "repository": {
+    "full_name": "cadmpeg/cadmpeg",
+    "url": "https://github.com/cadmpeg/cadmpeg",
+    "clone_url": "https://github.com/cadmpeg/cadmpeg.git",
+    "stars": 271,
+    "language": "Rust",
+    "size_kb": 188128
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 183,
+    "duration_seconds": 7.93829
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 271 stars."
+  }
+}

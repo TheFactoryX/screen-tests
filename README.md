@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9050 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 157k | 2026-11-03 |
+| #9051 | [cadmpeg/cadmpeg](https://github.com/cadmpeg/cadmpeg) | Rust · ⭐ 271 | 2026-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -9138,3 +9138,4 @@ If you need permission, you're thinking too much.
 | 9048 | 2026-11-03 02:17:10 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (269727⭐ TypeScript) | [reels/reel_9048_deepseek-ai-deepseek-harness](reels/reel_9048_deepseek-ai-deepseek-harness) |
 | 9049 | 2026-11-03 09:50:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (333263⭐ None) | [reels/reel_9049_awesome-selfhosted-awesome-selfhosted](reels/reel_9049_awesome-selfhosted-awesome-selfhosted) |
 | 9050 | 2026-11-03 17:31:35 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (157658⭐ Svelte) | [reels/reel_9050_open-webui-open-webui](reels/reel_9050_open-webui-open-webui) |
+| 9051 | 2026-11-03 22:30:41 | [cadmpeg/cadmpeg](https://github.com/cadmpeg/cadmpeg) | ✅ shallow (271⭐ Rust) | [reels/reel_9051_cadmpeg-cadmpeg](reels/reel_9051_cadmpeg-cadmpeg) |
