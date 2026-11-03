@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9049 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 333k | 2026-11-03 |
+| #9050 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 157k | 2026-11-03 |
 ---
 
 ## 🎭 Selection Process
@@ -9137,3 +9137,4 @@ If you need permission, you're thinking too much.
 | 9047 | 2026-11-02 20:05:53 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (124416⭐ None) | [reels/reel_9047_Hack-with-Github-Awesome-Hacking](reels/reel_9047_Hack-with-Github-Awesome-Hacking) |
 | 9048 | 2026-11-03 02:17:10 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (269727⭐ TypeScript) | [reels/reel_9048_deepseek-ai-deepseek-harness](reels/reel_9048_deepseek-ai-deepseek-harness) |
 | 9049 | 2026-11-03 09:50:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (333263⭐ None) | [reels/reel_9049_awesome-selfhosted-awesome-selfhosted](reels/reel_9049_awesome-selfhosted-awesome-selfhosted) |
+| 9050 | 2026-11-03 17:31:35 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (157658⭐ Svelte) | [reels/reel_9050_open-webui-open-webui](reels/reel_9050_open-webui-open-webui) |
