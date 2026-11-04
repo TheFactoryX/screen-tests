@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9051 | [cadmpeg/cadmpeg](https://github.com/cadmpeg/cadmpeg) | Rust · ⭐ 271 | 2026-11-03 |
+| #9052 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 271k | 2026-11-04 |
 ---
 
 ## 🎭 Selection Process
@@ -9139,3 +9139,4 @@ If you need permission, you're thinking too much.
 | 9049 | 2026-11-03 09:50:18 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (333263⭐ None) | [reels/reel_9049_awesome-selfhosted-awesome-selfhosted](reels/reel_9049_awesome-selfhosted-awesome-selfhosted) |
 | 9050 | 2026-11-03 17:31:35 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (157658⭐ Svelte) | [reels/reel_9050_open-webui-open-webui](reels/reel_9050_open-webui-open-webui) |
 | 9051 | 2026-11-03 22:30:41 | [cadmpeg/cadmpeg](https://github.com/cadmpeg/cadmpeg) | ✅ shallow (271⭐ Rust) | [reels/reel_9051_cadmpeg-cadmpeg](reels/reel_9051_cadmpeg-cadmpeg) |
+| 9052 | 2026-11-04 02:42:24 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (271250⭐ TypeScript) | [reels/reel_9052_deepseek-ai-deepseek-harness](reels/reel_9052_deepseek-ai-deepseek-harness) |
