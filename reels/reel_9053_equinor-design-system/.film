@@ -1,0 +1,24 @@
+{
+  "reel_number": 9053,
+  "recorded": "2026-11-04 09:53:06 UTC",
+  "repository": {
+    "full_name": "equinor/design-system",
+    "url": "https://github.com/equinor/design-system",
+    "clone_url": "https://github.com/equinor/design-system.git",
+    "stars": 155,
+    "language": "TypeScript",
+    "size_kb": 87412
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 85,
+    "duration_seconds": 3.596554
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 155 stars."
+  }
+}
