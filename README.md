@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9056 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | Tcl · ⭐ 757 | 2026-11-05 |
+| #9057 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | Python · ⭐ 141k | 2026-11-05 |
 ---
 
 ## 🎭 Selection Process
@@ -9144,3 +9144,4 @@ If you need permission, you're thinking too much.
 | 9054 | 2026-11-04 17:44:12 | [happyfrog2026/a7m4-color-research](https://github.com/happyfrog2026/a7m4-color-research) | ✅ full (19⭐ Python) | [reels/reel_9054_happyfrog2026-a7m4-color-research](reels/reel_9054_happyfrog2026-a7m4-color-research) |
 | 9055 | 2026-11-04 22:54:22 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (297212⭐ JavaScript) | [reels/reel_9055_affaan-m-ECC](reels/reel_9055_affaan-m-ECC) |
 | 9056 | 2026-11-05 03:09:07 | [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) | ✅ shallow (757⭐ Tcl) | [reels/reel_9056_rust-lang-crates.io-index](reels/reel_9056_rust-lang-crates.io-index) |
+| 9057 | 2026-11-05 10:54:03 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | ✅ full (141460⭐ Python) | [reels/reel_9057_ytdl-org-youtube-dl](reels/reel_9057_ytdl-org-youtube-dl) |
