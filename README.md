@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9064 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-11-07 |
+| #9065 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 156k | 2026-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -9152,3 +9152,4 @@ If you need permission, you're thinking too much.
 | 9062 | 2026-11-06 19:51:38 | [pallets-eco/flask-wtf](https://github.com/pallets-eco/flask-wtf) | ✅ full (1510⭐ Python) | [reels/reel_9062_pallets-eco-flask-wtf](reels/reel_9062_pallets-eco-flask-wtf) |
 | 9063 | 2026-11-06 23:56:42 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (124822⭐ None) | [reels/reel_9063_Hack-with-Github-Awesome-Hacking](reels/reel_9063_Hack-with-Github-Awesome-Hacking) |
 | 9064 | 2026-11-07 05:04:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187932⭐ Python) | [reels/reel_9064_Significant-Gravitas-AutoGPT](reels/reel_9064_Significant-Gravitas-AutoGPT) |
+| 9065 | 2026-11-07 11:43:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (156401⭐ Python) | [reels/reel_9065_langflow-ai-langflow](reels/reel_9065_langflow-ai-langflow) |
