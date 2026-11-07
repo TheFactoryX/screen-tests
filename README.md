@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9066 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 205k | 2026-11-07 |
+| #9067 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 158k | 2026-11-07 |
 ---
 
 ## 🎭 Selection Process
@@ -9154,3 +9154,4 @@ If you need permission, you're thinking too much.
 | 9064 | 2026-11-07 05:04:54 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187932⭐ Python) | [reels/reel_9064_Significant-Gravitas-AutoGPT](reels/reel_9064_Significant-Gravitas-AutoGPT) |
 | 9065 | 2026-11-07 11:43:12 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (156401⭐ Python) | [reels/reel_9065_langflow-ai-langflow](reels/reel_9065_langflow-ai-langflow) |
 | 9066 | 2026-11-07 16:59:45 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (205960⭐ Python) | [reels/reel_9066_yt-dlp-yt-dlp](reels/reel_9066_yt-dlp-yt-dlp) |
+| 9067 | 2026-11-07 20:46:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (158026⭐ Svelte) | [reels/reel_9067_open-webui-open-webui](reels/reel_9067_open-webui-open-webui) |
