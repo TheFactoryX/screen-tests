@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9068 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 158k | 2026-11-08 |
+| #9069 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python · ⭐ 144k | 2026-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -9156,3 +9156,4 @@ If you need permission, you're thinking too much.
 | 9066 | 2026-11-07 16:59:45 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (205960⭐ Python) | [reels/reel_9066_yt-dlp-yt-dlp](reels/reel_9066_yt-dlp-yt-dlp) |
 | 9067 | 2026-11-07 20:46:41 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (158026⭐ Svelte) | [reels/reel_9067_open-webui-open-webui](reels/reel_9067_open-webui-open-webui) |
 | 9068 | 2026-11-08 00:10:24 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (158036⭐ Svelte) | [reels/reel_9068_open-webui-open-webui](reels/reel_9068_open-webui-open-webui) |
+| 9069 | 2026-11-08 05:59:05 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (144091⭐ Python) | [reels/reel_9069_Graphify-Labs-graphify](reels/reel_9069_Graphify-Labs-graphify) |
