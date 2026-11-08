@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9070 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 206k | 2026-11-08 |
+| #9071 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 335k | 2026-11-08 |
 ---
 
 ## 🎭 Selection Process
@@ -9158,3 +9158,4 @@ If you need permission, you're thinking too much.
 | 9068 | 2026-11-08 00:10:24 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (158036⭐ Svelte) | [reels/reel_9068_open-webui-open-webui](reels/reel_9068_open-webui-open-webui) |
 | 9069 | 2026-11-08 05:59:05 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (144091⭐ Python) | [reels/reel_9069_Graphify-Labs-graphify](reels/reel_9069_Graphify-Labs-graphify) |
 | 9070 | 2026-11-08 13:11:29 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (206122⭐ Python) | [reels/reel_9070_yt-dlp-yt-dlp](reels/reel_9070_yt-dlp-yt-dlp) |
+| 9071 | 2026-11-08 18:21:00 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (335088⭐ None) | [reels/reel_9071_awesome-selfhosted-awesome-selfhosted](reels/reel_9071_awesome-selfhosted-awesome-selfhosted) |
