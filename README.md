@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9073 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python · ⭐ 144k | 2026-11-09 |
+| #9074 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python · ⭐ 156k | 2026-11-09 |
 ---
 
 ## 🎭 Selection Process
@@ -9161,3 +9161,4 @@ If you need permission, you're thinking too much.
 | 9071 | 2026-11-08 18:21:00 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (335088⭐ None) | [reels/reel_9071_awesome-selfhosted-awesome-selfhosted](reels/reel_9071_awesome-selfhosted-awesome-selfhosted) |
 | 9072 | 2026-11-08 22:19:28 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187951⭐ Python) | [reels/reel_9072_Significant-Gravitas-AutoGPT](reels/reel_9072_Significant-Gravitas-AutoGPT) |
 | 9073 | 2026-11-09 01:49:13 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | ✅ full (144527⭐ Python) | [reels/reel_9073_Graphify-Labs-graphify](reels/reel_9073_Graphify-Labs-graphify) |
+| 9074 | 2026-11-09 09:05:08 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (156459⭐ Python) | [reels/reel_9074_langflow-ai-langflow](reels/reel_9074_langflow-ai-langflow) |
