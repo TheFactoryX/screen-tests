@@ -1,0 +1,24 @@
+{
+  "reel_number": 9078,
+  "recorded": "2026-11-10 18:04:42 UTC",
+  "repository": {
+    "full_name": "nikkiluzader/mapng",
+    "url": "https://github.com/nikkiluzader/mapng",
+    "clone_url": "https://github.com/nikkiluzader/mapng.git",
+    "stars": 104,
+    "language": "JavaScript",
+    "size_kb": 475125
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 463,
+    "duration_seconds": 3.378803
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "JavaScript",
+    "director_note": "A JavaScript repository. 104 stars."
+  }
+}

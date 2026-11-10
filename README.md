@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9077 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 158k | 2026-11-10 |
+| #9078 | [nikkiluzader/mapng](https://github.com/nikkiluzader/mapng) | JavaScript · ⭐ 104 | 2026-11-10 |
 ---
 
 ## 🎭 Selection Process
@@ -9165,3 +9165,4 @@ If you need permission, you're thinking too much.
 | 9075 | 2026-11-09 19:47:47 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (206464⭐ Python) | [reels/reel_9075_yt-dlp-yt-dlp](reels/reel_9075_yt-dlp-yt-dlp) |
 | 9076 | 2026-11-10 02:31:38 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (133858⭐ C++) | [reels/reel_9076_ggml-org-llama.cpp](reels/reel_9076_ggml-org-llama.cpp) |
 | 9077 | 2026-11-10 10:26:16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (158281⭐ Svelte) | [reels/reel_9077_open-webui-open-webui](reels/reel_9077_open-webui-open-webui) |
+| 9078 | 2026-11-10 18:04:42 | [nikkiluzader/mapng](https://github.com/nikkiluzader/mapng) | ✅ shallow (104⭐ JavaScript) | [reels/reel_9078_nikkiluzader-mapng](reels/reel_9078_nikkiluzader-mapng) |
