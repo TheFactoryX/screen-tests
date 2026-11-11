@@ -1,0 +1,24 @@
+{
+  "reel_number": 9080,
+  "recorded": "2026-11-11 02:54:19 UTC",
+  "repository": {
+    "full_name": "Tiaoge-tou/GameCase",
+    "url": "https://github.com/Tiaoge-tou/GameCase",
+    "clone_url": "https://github.com/Tiaoge-tou/GameCase.git",
+    "stars": 115,
+    "language": "Swift",
+    "size_kb": 35035
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 34,
+    "duration_seconds": 0.984527
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 115 stars."
+  }
+}
