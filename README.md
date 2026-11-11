@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9080 | [Tiaoge-tou/GameCase](https://github.com/Tiaoge-tou/GameCase) | Swift · ⭐ 115 | 2026-11-11 |
+| #9081 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 134k | 2026-11-11 |
 ---
 
 ## 🎭 Selection Process
@@ -9168,3 +9168,4 @@ If you need permission, you're thinking too much.
 | 9078 | 2026-11-10 18:04:42 | [nikkiluzader/mapng](https://github.com/nikkiluzader/mapng) | ✅ shallow (104⭐ JavaScript) | [reels/reel_9078_nikkiluzader-mapng](reels/reel_9078_nikkiluzader-mapng) |
 | 9079 | 2026-11-10 23:18:45 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (149327⭐ Python) | [reels/reel_9079_langchain-ai-langchain](reels/reel_9079_langchain-ai-langchain) |
 | 9080 | 2026-11-11 02:54:19 | [Tiaoge-tou/GameCase](https://github.com/Tiaoge-tou/GameCase) | ✅ full (115⭐ Swift) | [reels/reel_9080_Tiaoge-tou-GameCase](reels/reel_9080_Tiaoge-tou-GameCase) |
+| 9081 | 2026-11-11 10:19:25 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (134051⭐ C++) | [reels/reel_9081_ggml-org-llama.cpp](reels/reel_9081_ggml-org-llama.cpp) |
