@@ -1,0 +1,24 @@
+{
+  "reel_number": 9082,
+  "recorded": "2026-11-11 17:58:40 UTC",
+  "repository": {
+    "full_name": "jmrplens/phonometry",
+    "url": "https://github.com/jmrplens/phonometry",
+    "clone_url": "https://github.com/jmrplens/phonometry.git",
+    "stars": 132,
+    "language": "Python",
+    "size_kb": 361190
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "shallow",
+    "size_mb": 352,
+    "duration_seconds": 17.486384
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 132 stars."
+  }
+}
