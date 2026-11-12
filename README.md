@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9085 | [iJetLi/dsh-providers-hub](https://github.com/iJetLi/dsh-providers-hub) | TypeScript · ⭐ 133 | 2026-11-12 |
+| #9086 | [ad-repo/nullplayer](https://github.com/ad-repo/nullplayer) | Swift · ⭐ 183 | 2026-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -9173,3 +9173,4 @@ If you need permission, you're thinking too much.
 | 9083 | 2026-11-12 00:23:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187999⭐ Python) | [reels/reel_9083_Significant-Gravitas-AutoGPT](reels/reel_9083_Significant-Gravitas-AutoGPT) |
 | 9084 | 2026-11-12 07:30:33 | [ai-gateways/awesome-ai-gateways](https://github.com/ai-gateways/awesome-ai-gateways) | ✅ full (44⭐ None) | [reels/reel_9084_ai-gateways-awesome-ai-gateways](reels/reel_9084_ai-gateways-awesome-ai-gateways) |
 | 9085 | 2026-11-12 16:16:01 | [iJetLi/dsh-providers-hub](https://github.com/iJetLi/dsh-providers-hub) | ✅ full (133⭐ TypeScript) | [reels/reel_9085_iJetLi-dsh-providers-hub](reels/reel_9085_iJetLi-dsh-providers-hub) |
+| 9086 | 2026-11-12 22:22:22 | [ad-repo/nullplayer](https://github.com/ad-repo/nullplayer) | ✅ full (183⭐ Swift) | [reels/reel_9086_ad-repo-nullplayer](reels/reel_9086_ad-repo-nullplayer) |

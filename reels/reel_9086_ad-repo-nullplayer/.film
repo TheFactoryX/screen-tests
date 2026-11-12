@@ -1,0 +1,24 @@
+{
+  "reel_number": 9086,
+  "recorded": "2026-11-12 22:22:22 UTC",
+  "repository": {
+    "full_name": "ad-repo/nullplayer",
+    "url": "https://github.com/ad-repo/nullplayer",
+    "clone_url": "https://github.com/ad-repo/nullplayer.git",
+    "stars": 183,
+    "language": "Swift",
+    "size_kb": 83621
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 81,
+    "duration_seconds": 7.714181
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Swift",
+    "director_note": "A Swift repository. 183 stars."
+  }
+}
