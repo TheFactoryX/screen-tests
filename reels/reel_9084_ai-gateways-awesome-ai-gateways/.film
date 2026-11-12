@@ -1,0 +1,24 @@
+{
+  "reel_number": 9084,
+  "recorded": "2026-11-12 07:30:33 UTC",
+  "repository": {
+    "full_name": "ai-gateways/awesome-ai-gateways",
+    "url": "https://github.com/ai-gateways/awesome-ai-gateways",
+    "clone_url": "https://github.com/ai-gateways/awesome-ai-gateways.git",
+    "stars": 44,
+    "language": null,
+    "size_kb": 67
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.318923
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 44 stars."
+  }
+}

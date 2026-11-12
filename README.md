@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9083 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 187k | 2026-11-12 |
+| #9084 | [ai-gateways/awesome-ai-gateways](https://github.com/ai-gateways/awesome-ai-gateways) | None · ⭐ 44 | 2026-11-12 |
 ---
 
 ## 🎭 Selection Process
@@ -9171,3 +9171,4 @@ If you need permission, you're thinking too much.
 | 9081 | 2026-11-11 10:19:25 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ shallow (134051⭐ C++) | [reels/reel_9081_ggml-org-llama.cpp](reels/reel_9081_ggml-org-llama.cpp) |
 | 9082 | 2026-11-11 17:58:40 | [jmrplens/phonometry](https://github.com/jmrplens/phonometry) | ✅ shallow (132⭐ Python) | [reels/reel_9082_jmrplens-phonometry](reels/reel_9082_jmrplens-phonometry) |
 | 9083 | 2026-11-12 00:23:52 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (187999⭐ Python) | [reels/reel_9083_Significant-Gravitas-AutoGPT](reels/reel_9083_Significant-Gravitas-AutoGPT) |
+| 9084 | 2026-11-12 07:30:33 | [ai-gateways/awesome-ai-gateways](https://github.com/ai-gateways/awesome-ai-gateways) | ✅ full (44⭐ None) | [reels/reel_9084_ai-gateways-awesome-ai-gateways](reels/reel_9084_ai-gateways-awesome-ai-gateways) |
