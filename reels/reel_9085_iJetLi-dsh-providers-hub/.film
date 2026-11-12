@@ -1,0 +1,24 @@
+{
+  "reel_number": 9085,
+  "recorded": "2026-11-12 16:16:01 UTC",
+  "repository": {
+    "full_name": "iJetLi/dsh-providers-hub",
+    "url": "https://github.com/iJetLi/dsh-providers-hub",
+    "clone_url": "https://github.com/iJetLi/dsh-providers-hub.git",
+    "stars": 133,
+    "language": "TypeScript",
+    "size_kb": 19165
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 18,
+    "duration_seconds": 2.515616
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "TypeScript",
+    "director_note": "A TypeScript repository. 133 stars."
+  }
+}
