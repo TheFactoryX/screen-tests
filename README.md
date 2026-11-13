@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9087 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 143k | 2026-11-13 |
+| #9088 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 188k | 2026-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -9175,3 +9175,4 @@ If you need permission, you're thinking too much.
 | 9085 | 2026-11-12 16:16:01 | [iJetLi/dsh-providers-hub](https://github.com/iJetLi/dsh-providers-hub) | ✅ full (133⭐ TypeScript) | [reels/reel_9085_iJetLi-dsh-providers-hub](reels/reel_9085_iJetLi-dsh-providers-hub) |
 | 9086 | 2026-11-12 22:22:22 | [ad-repo/nullplayer](https://github.com/ad-repo/nullplayer) | ✅ full (183⭐ Swift) | [reels/reel_9086_ad-repo-nullplayer](reels/reel_9086_ad-repo-nullplayer) |
 | 9087 | 2026-11-13 02:46:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (143885⭐ TypeScript) | [reels/reel_9087_iptv-org-iptv](reels/reel_9087_iptv-org-iptv) |
+| 9088 | 2026-11-13 10:30:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188007⭐ Python) | [reels/reel_9088_Significant-Gravitas-AutoGPT](reels/reel_9088_Significant-Gravitas-AutoGPT) |
