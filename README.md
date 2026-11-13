@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9088 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 188k | 2026-11-13 |
+| #9089 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 280k | 2026-11-13 |
 ---
 
 ## 🎭 Selection Process
@@ -9176,3 +9176,4 @@ If you need permission, you're thinking too much.
 | 9086 | 2026-11-12 22:22:22 | [ad-repo/nullplayer](https://github.com/ad-repo/nullplayer) | ✅ full (183⭐ Swift) | [reels/reel_9086_ad-repo-nullplayer](reels/reel_9086_ad-repo-nullplayer) |
 | 9087 | 2026-11-13 02:46:22 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (143885⭐ TypeScript) | [reels/reel_9087_iptv-org-iptv](reels/reel_9087_iptv-org-iptv) |
 | 9088 | 2026-11-13 10:30:31 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188007⭐ Python) | [reels/reel_9088_Significant-Gravitas-AutoGPT](reels/reel_9088_Significant-Gravitas-AutoGPT) |
+| 9089 | 2026-11-13 18:03:17 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (280405⭐ TypeScript) | [reels/reel_9089_deepseek-ai-deepseek-harness](reels/reel_9089_deepseek-ai-deepseek-harness) |
