@@ -1,0 +1,24 @@
+{
+  "reel_number": 9093,
+  "recorded": "2026-11-14 16:51:31 UTC",
+  "repository": {
+    "full_name": "AgriciDaniel/banana-claude",
+    "url": "https://github.com/AgriciDaniel/banana-claude",
+    "clone_url": "https://github.com/AgriciDaniel/banana-claude.git",
+    "stars": 1220,
+    "language": "Python",
+    "size_kb": 27735
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 27,
+    "duration_seconds": 0.988535
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 1220 stars."
+  }
+}
