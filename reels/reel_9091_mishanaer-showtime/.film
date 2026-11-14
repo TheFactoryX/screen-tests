@@ -1,0 +1,24 @@
+{
+  "reel_number": 9091,
+  "recorded": "2026-11-14 03:33:16 UTC",
+  "repository": {
+    "full_name": "mishanaer/showtime",
+    "url": "https://github.com/mishanaer/showtime",
+    "clone_url": "https://github.com/mishanaer/showtime.git",
+    "stars": 50,
+    "language": "Python",
+    "size_kb": 35687
+  },
+  "capture": {
+    "strategy": "experimental",
+    "method": "full",
+    "size_mb": 34,
+    "duration_seconds": 1.161582
+  },
+  "review": {
+    "category": "experimental",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 50 stars."
+  }
+}
