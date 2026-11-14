@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9093 | [AgriciDaniel/banana-claude](https://github.com/AgriciDaniel/banana-claude) | Python · ⭐ 1k | 2026-11-14 |
+| #9094 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python · ⭐ 122k | 2026-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -9181,3 +9181,4 @@ If you need permission, you're thinking too much.
 | 9091 | 2026-11-14 03:33:16 | [mishanaer/showtime](https://github.com/mishanaer/showtime) | ✅ full (50⭐ Python) | [reels/reel_9091_mishanaer-showtime](reels/reel_9091_mishanaer-showtime) |
 | 9092 | 2026-11-14 10:56:23 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (498889⭐ Python) | [reels/reel_9092_public-apis-public-apis](reels/reel_9092_public-apis-public-apis) |
 | 9093 | 2026-11-14 16:51:31 | [AgriciDaniel/banana-claude](https://github.com/AgriciDaniel/banana-claude) | ✅ full (1220⭐ Python) | [reels/reel_9093_AgriciDaniel-banana-claude](reels/reel_9093_AgriciDaniel-banana-claude) |
+| 9094 | 2026-11-14 21:05:05 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ✅ full (122579⭐ Python) | [reels/reel_9094_TauricResearch-TradingAgents](reels/reel_9094_TauricResearch-TradingAgents) |
