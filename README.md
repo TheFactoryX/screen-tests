@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9091 | [mishanaer/showtime](https://github.com/mishanaer/showtime) | Python · ⭐ 50 | 2026-11-14 |
+| #9092 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 498k | 2026-11-14 |
 ---
 
 ## 🎭 Selection Process
@@ -9179,3 +9179,4 @@ If you need permission, you're thinking too much.
 | 9089 | 2026-11-13 18:03:17 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (280405⭐ TypeScript) | [reels/reel_9089_deepseek-ai-deepseek-harness](reels/reel_9089_deepseek-ai-deepseek-harness) |
 | 9090 | 2026-11-13 23:31:11 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (158583⭐ Svelte) | [reels/reel_9090_open-webui-open-webui](reels/reel_9090_open-webui-open-webui) |
 | 9091 | 2026-11-14 03:33:16 | [mishanaer/showtime](https://github.com/mishanaer/showtime) | ✅ full (50⭐ Python) | [reels/reel_9091_mishanaer-showtime](reels/reel_9091_mishanaer-showtime) |
+| 9092 | 2026-11-14 10:56:23 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (498889⭐ Python) | [reels/reel_9092_public-apis-public-apis](reels/reel_9092_public-apis-public-apis) |
