@@ -1,0 +1,24 @@
+{
+  "reel_number": 9095,
+  "recorded": "2026-11-15 01:00:53 UTC",
+  "repository": {
+    "full_name": "clash-verge-rev/clash-verge-rev",
+    "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "clone_url": "https://github.com/clash-verge-rev/clash-verge-rev.git",
+    "stars": 158439,
+    "language": "Rust",
+    "size_kb": 89752
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "full",
+    "size_mb": 87,
+    "duration_seconds": 2.977713
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 158439 stars."
+  }
+}
