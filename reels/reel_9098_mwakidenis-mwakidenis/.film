@@ -1,0 +1,24 @@
+{
+  "reel_number": 9098,
+  "recorded": "2026-11-15 20:28:16 UTC",
+  "repository": {
+    "full_name": "mwakidenis/mwakidenis",
+    "url": "https://github.com/mwakidenis/mwakidenis",
+    "clone_url": "https://github.com/mwakidenis/mwakidenis.git",
+    "stars": 191,
+    "language": "CSS",
+    "size_kb": 33069
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 32,
+    "duration_seconds": 13.585289
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "CSS",
+    "director_note": "A CSS repository. 191 stars."
+  }
+}

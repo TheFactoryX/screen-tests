@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9097 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 188k | 2026-11-15 |
+| #9098 | [mwakidenis/mwakidenis](https://github.com/mwakidenis/mwakidenis) | CSS · ⭐ 191 | 2026-11-15 |
 ---
 
 ## 🎭 Selection Process
@@ -9185,3 +9185,4 @@ If you need permission, you're thinking too much.
 | 9095 | 2026-11-15 01:00:53 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (158439⭐ Rust) | [reels/reel_9095_clash-verge-rev-clash-verge-rev](reels/reel_9095_clash-verge-rev-clash-verge-rev) |
 | 9096 | 2026-11-15 07:50:32 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ shallow (146897⭐ Python) | [reels/reel_9096_Comfy-Org-ComfyUI](reels/reel_9096_Comfy-Org-ComfyUI) |
 | 9097 | 2026-11-15 15:19:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188037⭐ Python) | [reels/reel_9097_Significant-Gravitas-AutoGPT](reels/reel_9097_Significant-Gravitas-AutoGPT) |
+| 9098 | 2026-11-15 20:28:16 | [mwakidenis/mwakidenis](https://github.com/mwakidenis/mwakidenis) | ✅ full (191⭐ CSS) | [reels/reel_9098_mwakidenis-mwakidenis](reels/reel_9098_mwakidenis-mwakidenis) |
