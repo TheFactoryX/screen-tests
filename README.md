@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9098 | [mwakidenis/mwakidenis](https://github.com/mwakidenis/mwakidenis) | CSS · ⭐ 191 | 2026-11-15 |
+| #9099 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 337k | 2026-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -9186,3 +9186,4 @@ If you need permission, you're thinking too much.
 | 9096 | 2026-11-15 07:50:32 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | ✅ shallow (146897⭐ Python) | [reels/reel_9096_Comfy-Org-ComfyUI](reels/reel_9096_Comfy-Org-ComfyUI) |
 | 9097 | 2026-11-15 15:19:55 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188037⭐ Python) | [reels/reel_9097_Significant-Gravitas-AutoGPT](reels/reel_9097_Significant-Gravitas-AutoGPT) |
 | 9098 | 2026-11-15 20:28:16 | [mwakidenis/mwakidenis](https://github.com/mwakidenis/mwakidenis) | ✅ full (191⭐ CSS) | [reels/reel_9098_mwakidenis-mwakidenis](reels/reel_9098_mwakidenis-mwakidenis) |
+| 9099 | 2026-11-16 00:13:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (337424⭐ None) | [reels/reel_9099_awesome-selfhosted-awesome-selfhosted](reels/reel_9099_awesome-selfhosted-awesome-selfhosted) |
