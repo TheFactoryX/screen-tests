@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9100 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust · ⭐ 158k | 2026-11-16 |
+| #9101 | [adbar/courlan](https://github.com/adbar/courlan) | Python · ⭐ 180 | 2026-11-16 |
 ---
 
 ## 🎭 Selection Process
@@ -9188,3 +9188,4 @@ If you need permission, you're thinking too much.
 | 9098 | 2026-11-15 20:28:16 | [mwakidenis/mwakidenis](https://github.com/mwakidenis/mwakidenis) | ✅ full (191⭐ CSS) | [reels/reel_9098_mwakidenis-mwakidenis](reels/reel_9098_mwakidenis-mwakidenis) |
 | 9099 | 2026-11-16 00:13:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (337424⭐ None) | [reels/reel_9099_awesome-selfhosted-awesome-selfhosted](reels/reel_9099_awesome-selfhosted-awesome-selfhosted) |
 | 9100 | 2026-11-16 06:36:25 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (158639⭐ Rust) | [reels/reel_9100_clash-verge-rev-clash-verge-rev](reels/reel_9100_clash-verge-rev-clash-verge-rev) |
+| 9101 | 2026-11-16 16:25:52 | [adbar/courlan](https://github.com/adbar/courlan) | ✅ full (180⭐ Python) | [reels/reel_9101_adbar-courlan](reels/reel_9101_adbar-courlan) |

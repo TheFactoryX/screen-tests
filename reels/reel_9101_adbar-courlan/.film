@@ -1,0 +1,24 @@
+{
+  "reel_number": 9101,
+  "recorded": "2026-11-16 16:25:52 UTC",
+  "repository": {
+    "full_name": "adbar/courlan",
+    "url": "https://github.com/adbar/courlan",
+    "clone_url": "https://github.com/adbar/courlan.git",
+    "stars": 180,
+    "language": "Python",
+    "size_kb": 785
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.417693
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Python",
+    "director_note": "A Python repository. 180 stars."
+  }
+}
