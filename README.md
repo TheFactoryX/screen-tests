@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9102 | [MiSTer-devel/Distribution_MiSTer](https://github.com/MiSTer-devel/Distribution_MiSTer) | Shell · ⭐ 151 | 2026-11-17 |
+| #9103 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 144k | 2026-11-17 |
 ---
 
 ## 🎭 Selection Process
@@ -9190,3 +9190,4 @@ If you need permission, you're thinking too much.
 | 9100 | 2026-11-16 06:36:25 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ✅ full (158639⭐ Rust) | [reels/reel_9100_clash-verge-rev-clash-verge-rev](reels/reel_9100_clash-verge-rev-clash-verge-rev) |
 | 9101 | 2026-11-16 16:25:52 | [adbar/courlan](https://github.com/adbar/courlan) | ✅ full (180⭐ Python) | [reels/reel_9101_adbar-courlan](reels/reel_9101_adbar-courlan) |
 | 9102 | 2026-11-17 00:22:01 | [MiSTer-devel/Distribution_MiSTer](https://github.com/MiSTer-devel/Distribution_MiSTer) | ✅ readme_only (151⭐ Shell) | [reels/reel_9102_MiSTer-devel-Distribution_MiSTer](reels/reel_9102_MiSTer-devel-Distribution_MiSTer) |
+| 9103 | 2026-11-17 08:16:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (144202⭐ TypeScript) | [reels/reel_9103_iptv-org-iptv](reels/reel_9103_iptv-org-iptv) |
