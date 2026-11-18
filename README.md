@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9106 | [fedimint/fedimint](https://github.com/fedimint/fedimint) | Rust · ⭐ 709 | 2026-11-18 |
+| #9107 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 188k | 2026-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -9194,3 +9194,4 @@ If you need permission, you're thinking too much.
 | 9104 | 2026-11-17 17:44:57 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ readme_only (514⭐ None) | [reels/reel_9104_zloi-user-hideip.me](reels/reel_9104_zloi-user-hideip.me) |
 | 9105 | 2026-11-17 23:59:03 | [brutus/wtforms-html5](https://github.com/brutus/wtforms-html5) | ✅ full (25⭐ Python) | [reels/reel_9105_brutus-wtforms-html5](reels/reel_9105_brutus-wtforms-html5) |
 | 9106 | 2026-11-18 07:04:51 | [fedimint/fedimint](https://github.com/fedimint/fedimint) | ✅ readme_only (709⭐ Rust) | [reels/reel_9106_fedimint-fedimint](reels/reel_9106_fedimint-fedimint) |
+| 9107 | 2026-11-18 16:26:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188084⭐ Python) | [reels/reel_9107_Significant-Gravitas-AutoGPT](reels/reel_9107_Significant-Gravitas-AutoGPT) |
