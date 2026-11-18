@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9105 | [brutus/wtforms-html5](https://github.com/brutus/wtforms-html5) | Python · ⭐ 25 | 2026-11-17 |
+| #9106 | [fedimint/fedimint](https://github.com/fedimint/fedimint) | Rust · ⭐ 709 | 2026-11-18 |
 ---
 
 ## 🎭 Selection Process
@@ -9193,3 +9193,4 @@ If you need permission, you're thinking too much.
 | 9103 | 2026-11-17 08:16:13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (144202⭐ TypeScript) | [reels/reel_9103_iptv-org-iptv](reels/reel_9103_iptv-org-iptv) |
 | 9104 | 2026-11-17 17:44:57 | [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) | ✅ readme_only (514⭐ None) | [reels/reel_9104_zloi-user-hideip.me](reels/reel_9104_zloi-user-hideip.me) |
 | 9105 | 2026-11-17 23:59:03 | [brutus/wtforms-html5](https://github.com/brutus/wtforms-html5) | ✅ full (25⭐ Python) | [reels/reel_9105_brutus-wtforms-html5](reels/reel_9105_brutus-wtforms-html5) |
+| 9106 | 2026-11-18 07:04:51 | [fedimint/fedimint](https://github.com/fedimint/fedimint) | ✅ readme_only (709⭐ Rust) | [reels/reel_9106_fedimint-fedimint](reels/reel_9106_fedimint-fedimint) |

@@ -1,0 +1,24 @@
+{
+  "reel_number": 9106,
+  "recorded": "2026-11-18 07:04:51 UTC",
+  "repository": {
+    "full_name": "fedimint/fedimint",
+    "url": "https://github.com/fedimint/fedimint",
+    "clone_url": "https://github.com/fedimint/fedimint.git",
+    "stars": 709,
+    "language": "Rust",
+    "size_kb": 1761138
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "readme_only",
+    "size_mb": 1719,
+    "duration_seconds": 0.000124
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 709 stars."
+  }
+}
