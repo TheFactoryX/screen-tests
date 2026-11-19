@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9110 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript · ⭐ 284k | 2026-11-19 |
+| #9111 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown · ⭐ 563k | 2026-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -9198,3 +9198,4 @@ If you need permission, you're thinking too much.
 | 9108 | 2026-11-18 23:00:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188092⭐ Python) | [reels/reel_9108_Significant-Gravitas-AutoGPT](reels/reel_9108_Significant-Gravitas-AutoGPT) |
 | 9109 | 2026-11-19 04:03:33 | [ITprogamatikDedSec/ai--manus](https://github.com/ITprogamatikDedSec/ai--manus) | ✅ full (202⭐ None) | [reels/reel_9109_ITprogamatikDedSec-ai--manus](reels/reel_9109_ITprogamatikDedSec-ai--manus) |
 | 9110 | 2026-11-19 13:03:12 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ✅ shallow (284033⭐ TypeScript) | [reels/reel_9110_deepseek-ai-deepseek-harness](reels/reel_9110_deepseek-ai-deepseek-harness) |
+| 9111 | 2026-11-19 21:31:15 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (563940⭐ Markdown) | [reels/reel_9111_codecrafters-io-build-your-own-x](reels/reel_9111_codecrafters-io-build-your-own-x) |
