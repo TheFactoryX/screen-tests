@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9108 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 188k | 2026-11-18 |
+| #9109 | [ITprogamatikDedSec/ai--manus](https://github.com/ITprogamatikDedSec/ai--manus) | None · ⭐ 202 | 2026-11-19 |
 ---
 
 ## 🎭 Selection Process
@@ -9196,3 +9196,4 @@ If you need permission, you're thinking too much.
 | 9106 | 2026-11-18 07:04:51 | [fedimint/fedimint](https://github.com/fedimint/fedimint) | ✅ readme_only (709⭐ Rust) | [reels/reel_9106_fedimint-fedimint](reels/reel_9106_fedimint-fedimint) |
 | 9107 | 2026-11-18 16:26:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188084⭐ Python) | [reels/reel_9107_Significant-Gravitas-AutoGPT](reels/reel_9107_Significant-Gravitas-AutoGPT) |
 | 9108 | 2026-11-18 23:00:17 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188092⭐ Python) | [reels/reel_9108_Significant-Gravitas-AutoGPT](reels/reel_9108_Significant-Gravitas-AutoGPT) |
+| 9109 | 2026-11-19 04:03:33 | [ITprogamatikDedSec/ai--manus](https://github.com/ITprogamatikDedSec/ai--manus) | ✅ full (202⭐ None) | [reels/reel_9109_ITprogamatikDedSec-ai--manus](reels/reel_9109_ITprogamatikDedSec-ai--manus) |

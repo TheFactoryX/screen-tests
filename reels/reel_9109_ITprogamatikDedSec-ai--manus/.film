@@ -1,0 +1,24 @@
+{
+  "reel_number": 9109,
+  "recorded": "2026-11-19 04:03:33 UTC",
+  "repository": {
+    "full_name": "ITprogamatikDedSec/ai--manus",
+    "url": "https://github.com/ITprogamatikDedSec/ai--manus",
+    "clone_url": "https://github.com/ITprogamatikDedSec/ai--manus.git",
+    "stars": 202,
+    "language": null,
+    "size_kb": 674
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 0,
+    "duration_seconds": 0.160557
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": null,
+    "director_note": "A None repository. 202 stars."
+  }
+}
