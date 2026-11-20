@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9113 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 338k | 2026-11-20 |
+| #9114 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 144k | 2026-11-20 |
 ---
 
 ## 🎭 Selection Process
@@ -9201,3 +9201,4 @@ If you need permission, you're thinking too much.
 | 9111 | 2026-11-19 21:31:15 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ✅ full (563940⭐ Markdown) | [reels/reel_9111_codecrafters-io-build-your-own-x](reels/reel_9111_codecrafters-io-build-your-own-x) |
 | 9112 | 2026-11-20 02:36:33 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (149932⭐ Python) | [reels/reel_9112_langchain-ai-langchain](reels/reel_9112_langchain-ai-langchain) |
 | 9113 | 2026-11-20 10:30:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (338786⭐ None) | [reels/reel_9113_awesome-selfhosted-awesome-selfhosted](reels/reel_9113_awesome-selfhosted-awesome-selfhosted) |
+| 9114 | 2026-11-20 18:50:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (144382⭐ TypeScript) | [reels/reel_9114_iptv-org-iptv](reels/reel_9114_iptv-org-iptv) |
