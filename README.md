@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9116 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 159k | 2026-11-21 |
+| #9117 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 211k | 2026-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -9204,3 +9204,4 @@ If you need permission, you're thinking too much.
 | 9114 | 2026-11-20 18:50:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (144382⭐ TypeScript) | [reels/reel_9114_iptv-org-iptv](reels/reel_9114_iptv-org-iptv) |
 | 9115 | 2026-11-21 00:36:11 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (290105⭐ Python) | [reels/reel_9115_practical-tutorials-project-based-learning](reels/reel_9115_practical-tutorials-project-based-learning) |
 | 9116 | 2026-11-21 07:42:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (159188⭐ Svelte) | [reels/reel_9116_open-webui-open-webui](reels/reel_9116_open-webui-open-webui) |
+| 9117 | 2026-11-21 15:37:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (211600⭐ TypeScript) | [reels/reel_9117_n8n-io-n8n](reels/reel_9117_n8n-io-n8n) |
