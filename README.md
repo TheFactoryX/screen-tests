@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9117 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript · ⭐ 211k | 2026-11-21 |
+| #9118 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 188k | 2026-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -9205,3 +9205,4 @@ If you need permission, you're thinking too much.
 | 9115 | 2026-11-21 00:36:11 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (290105⭐ Python) | [reels/reel_9115_practical-tutorials-project-based-learning](reels/reel_9115_practical-tutorials-project-based-learning) |
 | 9116 | 2026-11-21 07:42:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (159188⭐ Svelte) | [reels/reel_9116_open-webui-open-webui](reels/reel_9116_open-webui-open-webui) |
 | 9117 | 2026-11-21 15:37:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (211600⭐ TypeScript) | [reels/reel_9117_n8n-io-n8n](reels/reel_9117_n8n-io-n8n) |
+| 9118 | 2026-11-21 21:10:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188126⭐ Python) | [reels/reel_9118_Significant-Gravitas-AutoGPT](reels/reel_9118_Significant-Gravitas-AutoGPT) |
