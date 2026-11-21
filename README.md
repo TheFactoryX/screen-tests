@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9115 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python · ⭐ 290k | 2026-11-21 |
+| #9116 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Svelte · ⭐ 159k | 2026-11-21 |
 ---
 
 ## 🎭 Selection Process
@@ -9203,3 +9203,4 @@ If you need permission, you're thinking too much.
 | 9113 | 2026-11-20 10:30:35 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (338786⭐ None) | [reels/reel_9113_awesome-selfhosted-awesome-selfhosted](reels/reel_9113_awesome-selfhosted-awesome-selfhosted) |
 | 9114 | 2026-11-20 18:50:17 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (144382⭐ TypeScript) | [reels/reel_9114_iptv-org-iptv](reels/reel_9114_iptv-org-iptv) |
 | 9115 | 2026-11-21 00:36:11 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ✅ full (290105⭐ Python) | [reels/reel_9115_practical-tutorials-project-based-learning](reels/reel_9115_practical-tutorials-project-based-learning) |
+| 9116 | 2026-11-21 07:42:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (159188⭐ Svelte) | [reels/reel_9116_open-webui-open-webui](reels/reel_9116_open-webui-open-webui) |

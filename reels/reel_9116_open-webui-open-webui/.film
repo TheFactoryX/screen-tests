@@ -1,0 +1,24 @@
+{
+  "reel_number": 9116,
+  "recorded": "2026-11-21 07:42:30 UTC",
+  "repository": {
+    "full_name": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "clone_url": "https://github.com/open-webui/open-webui.git",
+    "stars": 159188,
+    "language": "Svelte",
+    "size_kb": 596518
+  },
+  "capture": {
+    "strategy": "trending",
+    "method": "readme_only",
+    "size_mb": 582,
+    "duration_seconds": 0.000146
+  },
+  "review": {
+    "category": "trending",
+    "runtime": "Captured at a moment in time",
+    "genre": "Svelte",
+    "director_note": "A Svelte repository. 159188 stars."
+  }
+}
