@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9118 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python · ⭐ 188k | 2026-11-21 |
+| #9119 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 308k | 2026-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -9206,3 +9206,4 @@ If you need permission, you're thinking too much.
 | 9116 | 2026-11-21 07:42:30 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ✅ readme_only (159188⭐ Svelte) | [reels/reel_9116_open-webui-open-webui](reels/reel_9116_open-webui-open-webui) |
 | 9117 | 2026-11-21 15:37:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (211600⭐ TypeScript) | [reels/reel_9117_n8n-io-n8n](reels/reel_9117_n8n-io-n8n) |
 | 9118 | 2026-11-21 21:10:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188126⭐ Python) | [reels/reel_9118_Significant-Gravitas-AutoGPT](reels/reel_9118_Significant-Gravitas-AutoGPT) |
+| 9119 | 2026-11-22 01:17:05 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (308386⭐ JavaScript) | [reels/reel_9119_affaan-m-ECC](reels/reel_9119_affaan-m-ECC) |
