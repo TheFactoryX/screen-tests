@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9119 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 308k | 2026-11-22 |
+| #9120 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | None · ⭐ 339k | 2026-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -9207,3 +9207,4 @@ If you need permission, you're thinking too much.
 | 9117 | 2026-11-21 15:37:57 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | ✅ readme_only (211600⭐ TypeScript) | [reels/reel_9117_n8n-io-n8n](reels/reel_9117_n8n-io-n8n) |
 | 9118 | 2026-11-21 21:10:21 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ✅ readme_only (188126⭐ Python) | [reels/reel_9118_Significant-Gravitas-AutoGPT](reels/reel_9118_Significant-Gravitas-AutoGPT) |
 | 9119 | 2026-11-22 01:17:05 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (308386⭐ JavaScript) | [reels/reel_9119_affaan-m-ECC](reels/reel_9119_affaan-m-ECC) |
+| 9120 | 2026-11-22 08:29:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (339353⭐ None) | [reels/reel_9120_awesome-selfhosted-awesome-selfhosted](reels/reel_9120_awesome-selfhosted-awesome-selfhosted) |
