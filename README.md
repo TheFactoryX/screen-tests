@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9121 | [0xRadikal/Free-Telegram-Proxy](https://github.com/0xRadikal/Free-Telegram-Proxy) | Python · ⭐ 267 | 2026-11-22 |
+| #9122 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 500k | 2026-11-22 |
 ---
 
 ## 🎭 Selection Process
@@ -9209,3 +9209,4 @@ If you need permission, you're thinking too much.
 | 9119 | 2026-11-22 01:17:05 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (308386⭐ JavaScript) | [reels/reel_9119_affaan-m-ECC](reels/reel_9119_affaan-m-ECC) |
 | 9120 | 2026-11-22 08:29:28 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ✅ full (339353⭐ None) | [reels/reel_9120_awesome-selfhosted-awesome-selfhosted](reels/reel_9120_awesome-selfhosted-awesome-selfhosted) |
 | 9121 | 2026-11-22 16:34:18 | [0xRadikal/Free-Telegram-Proxy](https://github.com/0xRadikal/Free-Telegram-Proxy) | ✅ full (267⭐ Python) | [reels/reel_9121_0xRadikal-Free-Telegram-Proxy](reels/reel_9121_0xRadikal-Free-Telegram-Proxy) |
+| 9122 | 2026-11-22 22:02:47 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (500842⭐ Python) | [reels/reel_9122_public-apis-public-apis](reels/reel_9122_public-apis-public-apis) |
