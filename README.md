@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9125 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript · ⭐ 309k | 2026-11-23 |
+| #9126 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript · ⭐ 144k | 2026-11-24 |
 ---
 
 ## 🎭 Selection Process
@@ -9213,3 +9213,4 @@ If you need permission, you're thinking too much.
 | 9123 | 2026-11-23 02:43:57 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ✅ readme_only (156855⭐ Python) | [reels/reel_9123_langflow-ai-langflow](reels/reel_9123_langflow-ai-langflow) |
 | 9124 | 2026-11-23 11:18:32 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (309251⭐ JavaScript) | [reels/reel_9124_affaan-m-ECC](reels/reel_9124_affaan-m-ECC) |
 | 9125 | 2026-11-23 22:48:38 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (309544⭐ JavaScript) | [reels/reel_9125_affaan-m-ECC](reels/reel_9125_affaan-m-ECC) |
+| 9126 | 2026-11-24 06:43:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (144609⭐ TypeScript) | [reels/reel_9126_iptv-org-iptv](reels/reel_9126_iptv-org-iptv) |
