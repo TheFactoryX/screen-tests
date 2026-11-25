@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9127 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Python · ⭐ 149k | 2026-11-24 |
+| #9128 | [rocky-data/rocky](https://github.com/rocky-data/rocky) | Rust · ⭐ 313 | 2026-11-25 |
 ---
 
 ## 🎭 Selection Process
@@ -9215,3 +9215,4 @@ If you need permission, you're thinking too much.
 | 9125 | 2026-11-23 22:48:38 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ full (309544⭐ JavaScript) | [reels/reel_9125_affaan-m-ECC](reels/reel_9125_affaan-m-ECC) |
 | 9126 | 2026-11-24 06:43:57 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | ✅ readme_only (144609⭐ TypeScript) | [reels/reel_9126_iptv-org-iptv](reels/reel_9126_iptv-org-iptv) |
 | 9127 | 2026-11-24 18:21:43 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (149942⭐ Python) | [reels/reel_9127_langchain-ai-langchain](reels/reel_9127_langchain-ai-langchain) |
+| 9128 | 2026-11-25 02:42:35 | [rocky-data/rocky](https://github.com/rocky-data/rocky) | ✅ full (313⭐ Rust) | [reels/reel_9128_rocky-data-rocky](reels/reel_9128_rocky-data-rocky) |

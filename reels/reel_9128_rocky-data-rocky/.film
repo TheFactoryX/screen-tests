@@ -1,0 +1,24 @@
+{
+  "reel_number": 9128,
+  "recorded": "2026-11-25 02:42:35 UTC",
+  "repository": {
+    "full_name": "rocky-data/rocky",
+    "url": "https://github.com/rocky-data/rocky",
+    "clone_url": "https://github.com/rocky-data/rocky.git",
+    "stars": 313,
+    "language": "Rust",
+    "size_kb": 86661
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 84,
+    "duration_seconds": 10.110923
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "Rust",
+    "director_note": "A Rust repository. 313 stars."
+  }
+}
