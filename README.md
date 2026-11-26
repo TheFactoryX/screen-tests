@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9130 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python · ⭐ 501k | 2026-11-25 |
+| #9131 | [canaria3406/canaria-nakiri](https://github.com/canaria3406/canaria-nakiri) | CSS · ⭐ 11 | 2026-11-26 |
 ---
 
 ## 🎭 Selection Process
@@ -9218,3 +9218,4 @@ If you need permission, you're thinking too much.
 | 9128 | 2026-11-25 02:42:35 | [rocky-data/rocky](https://github.com/rocky-data/rocky) | ✅ full (313⭐ Rust) | [reels/reel_9128_rocky-data-rocky](reels/reel_9128_rocky-data-rocky) |
 | 9129 | 2026-11-25 11:44:56 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ✅ readme_only (149975⭐ Python) | [reels/reel_9129_langchain-ai-langchain](reels/reel_9129_langchain-ai-langchain) |
 | 9130 | 2026-11-25 20:40:53 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | ✅ full (501415⭐ Python) | [reels/reel_9130_public-apis-public-apis](reels/reel_9130_public-apis-public-apis) |
+| 9131 | 2026-11-26 03:08:04 | [canaria3406/canaria-nakiri](https://github.com/canaria3406/canaria-nakiri) | ✅ full (11⭐ CSS) | [reels/reel_9131_canaria3406-canaria-nakiri](reels/reel_9131_canaria3406-canaria-nakiri) |
