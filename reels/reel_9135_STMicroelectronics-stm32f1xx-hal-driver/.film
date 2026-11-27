@@ -1,0 +1,24 @@
+{
+  "reel_number": 9135,
+  "recorded": "2026-11-27 13:32:06 UTC",
+  "repository": {
+    "full_name": "STMicroelectronics/stm32f1xx-hal-driver",
+    "url": "https://github.com/STMicroelectronics/stm32f1xx-hal-driver",
+    "clone_url": "https://github.com/STMicroelectronics/stm32f1xx-hal-driver.git",
+    "stars": 130,
+    "language": "C",
+    "size_kb": 1796
+  },
+  "capture": {
+    "strategy": "indie",
+    "method": "full",
+    "size_mb": 1,
+    "duration_seconds": 0.604442
+  },
+  "review": {
+    "category": "indie",
+    "runtime": "Captured at a moment in time",
+    "genre": "C",
+    "director_note": "A C repository. 130 stars."
+  }
+}
