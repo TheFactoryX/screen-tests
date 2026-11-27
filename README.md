@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9133 | [openooxml/betteroffice](https://github.com/openooxml/betteroffice) | Rust · ⭐ 375 | 2026-11-26 |
+| #9134 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | None · ⭐ 126k | 2026-11-27 |
 ---
 
 ## 🎭 Selection Process
@@ -9221,3 +9221,4 @@ If you need permission, you're thinking too much.
 | 9131 | 2026-11-26 03:08:04 | [canaria3406/canaria-nakiri](https://github.com/canaria3406/canaria-nakiri) | ✅ full (11⭐ CSS) | [reels/reel_9131_canaria3406-canaria-nakiri](reels/reel_9131_canaria3406-canaria-nakiri) |
 | 9132 | 2026-11-26 12:30:20 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ full (235841⭐ None) | [reels/reel_9132_multica-ai-andrej-karpathy-skills](reels/reel_9132_multica-ai-andrej-karpathy-skills) |
 | 9133 | 2026-11-26 21:56:02 | [openooxml/betteroffice](https://github.com/openooxml/betteroffice) | ✅ shallow (375⭐ Rust) | [reels/reel_9133_openooxml-betteroffice](reels/reel_9133_openooxml-betteroffice) |
+| 9134 | 2026-11-27 03:56:32 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (126684⭐ None) | [reels/reel_9134_Hack-with-Github-Awesome-Hacking](reels/reel_9134_Hack-with-Github-Awesome-Hacking) |
