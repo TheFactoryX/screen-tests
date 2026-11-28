@@ -25,7 +25,7 @@ Camera #0 never stops. Every 15 minutes. New film. New reel.
 
 | Reel | Subject | Genre | Recorded |
 |------|---------|-------|----------|
-| #9136 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ · ⭐ 136k | 2026-11-27 |
+| #9137 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python · ⭐ 211k | 2026-11-28 |
 ---
 
 ## 🎭 Selection Process
@@ -9224,3 +9224,4 @@ If you need permission, you're thinking too much.
 | 9134 | 2026-11-27 03:56:32 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | ✅ full (126684⭐ None) | [reels/reel_9134_Hack-with-Github-Awesome-Hacking](reels/reel_9134_Hack-with-Github-Awesome-Hacking) |
 | 9135 | 2026-11-27 13:32:06 | [STMicroelectronics/stm32f1xx-hal-driver](https://github.com/STMicroelectronics/stm32f1xx-hal-driver) | ✅ full (130⭐ C) | [reels/reel_9135_STMicroelectronics-stm32f1xx-hal-driver](reels/reel_9135_STMicroelectronics-stm32f1xx-hal-driver) |
 | 9136 | 2026-11-27 22:20:02 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | ✅ readme_only (136506⭐ C++) | [reels/reel_9136_ggml-org-llama.cpp](reels/reel_9136_ggml-org-llama.cpp) |
+| 9137 | 2026-11-28 04:04:36 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | ✅ full (211230⭐ Python) | [reels/reel_9137_yt-dlp-yt-dlp](reels/reel_9137_yt-dlp-yt-dlp) |
